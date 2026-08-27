@@ -11,10 +11,31 @@
 const { execFileSync } = require('child_process');
 
 const ENABLED = process.env.GIT_PERSIST === 'true';
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_REPO = process.env.GITHUB_REPO || 'Dev3mmm/trend-monitor';
 
 function git(args) {
   return execFileSync('git', args, { cwd: __dirname, stdio: ['ignore', 'pipe', 'pipe'] }).toString();
 }
+
+// Render's runtime container doesn't inherit git push credentials from the build step, so
+// the remote needs a token embedded in its URL. Configures the local git identity too
+// (required for commit to work at all) - done once at module load.
+function setup() {
+  if (!ENABLED) return;
+  try {
+    git(['config', 'user.email', 'dashboard@trend-monitor.local']);
+    git(['config', 'user.name', 'Trend Monitor Dashboard']);
+    if (GITHUB_TOKEN) {
+      git(['remote', 'set-url', 'origin', `https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git`]);
+    } else {
+      console.error('GIT_PERSIST is enabled but GITHUB_TOKEN is not set - git push will fail.');
+    }
+  } catch (e) {
+    console.error('git_sync setup failed:', e.message);
+  }
+}
+setup();
 
 function pull() {
   if (!ENABLED) return;
