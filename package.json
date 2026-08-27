@@ -6,7 +6,8 @@
   "type": "commonjs",
   "scripts": {
     "login": "node x_login.js",
-    "start": "node trend_monitor.js"
+    "start": "node trend_monitor.js",
+    "dashboard": "node dashboard_server.js"
   },
   "dependencies": {
     "playwright": "^1.48.0"
