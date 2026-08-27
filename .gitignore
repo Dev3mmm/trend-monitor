@@ -1,0 +1,27 @@
+# Secrets - never commit
+config.local.json
+x_state.json
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# One-off build intermediates for the protocol source list (protocol_sources.json is the
+# real output that matters and stays tracked - these were scratch steps to build it)
+mc_p1.json
+mc_p2.json
+listed_coin_ids_binance.json
+listed_coin_ids_retry.json
+protocol_candidates.json
+protocol_homepages.json
+protocol_blog_sources.json
+
+# Scratch/report files
+doom_scroll_report_*.txt
+seed_run2.*
+
+# State files that are safe to lose/regenerate, not meaningful history
+doom_scroll_state.json
+trend_monitor_state.json

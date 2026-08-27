@@ -1,0 +1,31 @@
+{
+  "_comment": "v2 (2026-08-21): this is now the QUERY-BACKSTOP lane only (see sources.json), demoted from primary discovery after testing proved exact-phrase search misses most real headlines' actual wording. Search phrases chosen for EVENT TRIGGERS, not hype words - things people post the moment something happens, before the KOLs/aggregators repost it. Run against X search with f=live (newest first). Edit freely; the poller re-reads this file every cycle.",
+  "queries": [
+    "mainnet is live",
+    "just went live on mainnet",
+    "TGE announced",
+    "token generation event",
+    "whitelist mint live",
+    "audit passed crypto",
+    "governance proposal passed",
+    "just got listed",
+    "listing announcement crypto",
+    "delisting notice crypto",
+    "strategic investment crypto raised",
+    "seed round crypto raised $",
+    "grant awarded crypto protocol",
+    "exploit detected crypto",
+    "funds drained crypto",
+    "wallet drained crypto",
+    "vesting unlock today",
+    "token unlock today",
+    "partnership announcement crypto -giveaway",
+    "integrates with crypto protocol",
+    "quietly shipped crypto",
+    "nobody is talking about this crypto",
+    "before this pumps crypto",
+    "insider info crypto -scam",
+    "confirmed hack crypto",
+    "breaking crypto protocol"
+  ]
+}

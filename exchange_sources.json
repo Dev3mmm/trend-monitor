@@ -1,0 +1,14 @@
+{
+  "_comment": "Top-exchange official blog RSS sources for the dashboard's Exchanges tab. Each URL is individually verified working before being added. Most major CEXs (Binance, KuCoin, OKX, Bybit) run custom React/Next.js sites with no discoverable RSS feed - only Kraken (WordPress-based) confirmed working so far. Keep searching and add real ones as found, don't guess URL patterns blind.",
+  "sources": [
+    { "name": "Kraken Blog", "type": "exchange", "country": "global", "url": "https://blog.kraken.com/feed" }
+  ],
+  "_notYetConfirmed": [
+    "Binance - Newsroom/blog is a JS app, no RSS found. Binance Academy has a feed (api.binance.vision/api/feed) but that's educational content, not official announcements/predictions - lower priority.",
+    "KuCoin - blog.kucoin.com and the announcement/feed pages are JS apps, no RSS found",
+    "OKX - learn/blog section is a JS app, no RSS found",
+    "Bybit - press room is a JS app, no RSS found",
+    "Coinbase - blog RSS bot-blocked (403)",
+    "Bitget - mentioned as RSS-supporting in a support article, direct feed URL not yet confirmed"
+  ]
+}

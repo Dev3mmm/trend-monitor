@@ -1,0 +1,75 @@
+{
+  "_comment": "Source lanes for trend_monitor v2, built from the 2026-08-21 manual doom-scroll test (see project_trend_monitor.md). Each lane contributes a few candidates rather than expecting one source to carry everything - a single feed/account was proven to run out of new material within ~20-25 items in one sitting. maxAgeMinutes is checked against the ORIGIN report time (oldest <time> found in the post, not the post's own timestamp - a fresh quote-tweet on stale news should not pass).",
+  "lanes": [
+    {
+      "type": "profile",
+      "laneName": "wire",
+      "handle": "WatcherGuru",
+      "maxAgeMinutes": 90,
+      "limit": 8,
+      "_why": "Posts 'JUST IN' items roughly hourly, both good and bad news - highest volume/speed lane, tight freshness window since it posts so often"
+    },
+    {
+      "type": "profile",
+      "laneName": "wire",
+      "handle": "BSCNews",
+      "maxAgeMinutes": 90,
+      "limit": 8,
+      "_why": "Frequent short-form crypto news, mix of protocol records/onchain stats and market moves - caught Aptos record and Cardano onchain surge in testing"
+    },
+    {
+      "type": "profile",
+      "laneName": "wire",
+      "handle": "WuBlockchain",
+      "maxAgeMinutes": 90,
+      "limit": 8,
+      "_why": "Caught the freshest genuine story in testing (BounceBit L1 shutdown, 2h old) - strong on exploit/protocol-decision news specifically"
+    },
+    {
+      "type": "profile",
+      "laneName": "analyst",
+      "handle": "Rarma_",
+      "maxAgeMinutes": 240,
+      "limit": 6,
+      "_why": "Independent on-chain analyst - produced the single best catch in testing (MANTRA Chain exploit, real forensic tracing, not a repost). Looser window since analysts post less often than wire accounts"
+    },
+    {
+      "type": "profile",
+      "laneName": "analyst",
+      "handle": "PhyrexNi",
+      "maxAgeMinutes": 240,
+      "limit": 6,
+      "_why": "Independent researcher - caught the USD1 stablecoin centralization-risk story via own technical analysis, not a wire repost"
+    },
+    {
+      "type": "profile",
+      "laneName": "analyst",
+      "handle": "zachxbt",
+      "maxAgeMinutes": 240,
+      "limit": 6,
+      "_why": "Well-known independent on-chain investigator, not yet tested live this round but same profile as Rarma_/PhyrexNi - added on pattern, verify on first real run"
+    },
+    {
+      "type": "profile",
+      "laneName": "alert",
+      "handle": "CertiKAlert",
+      "maxAgeMinutes": 240,
+      "limit": 4,
+      "_why": "Specialized exploit/hack alert bot - confirmed hack-only/one-sided in testing (2026-08-21: 'if u follow certik u will find only hack news not goof'), deliberately kept SMALL relative to the wire/analyst lanes so the queue doesn't skew negative"
+    },
+    {
+      "type": "profile",
+      "laneName": "alert",
+      "handle": "PeckShieldAlert",
+      "maxAgeMinutes": 240,
+      "limit": 4,
+      "_why": "Second hack/exploit alert bot for coverage redundancy - same one-sided caveat as CertiKAlert applies, kept small"
+    },
+    {
+      "type": "query",
+      "laneName": "query-backstop",
+      "maxAgeMinutes": 60,
+      "_why": "The original v1 approach (exact-phrase X search). Demoted to a backstop that only runs every Nth sweep (see QUERY_LANE_EVERY_N_SWEEPS in trend_monitor.js) - proven in testing that exact phrases miss most real headlines' actual wording. Only useful for the rare case a project's own account breaks news before any wire/analyst account has reposted it. Reads its phrase list from queries.json."
+    }
+  ]
+}

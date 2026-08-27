@@ -1,0 +1,161 @@
+{
+  "_comment": "Top-market-cap protocol blog RSS sources for the dashboard's Protocols tab. Built 2026-08-26: top 400 coins by market cap, filtered to those confirmed listed on Binance or Kraken (246 candidates - Coinbase/OKX/Bybit/KuCoin data never came through despite retries), then auto-discovered via common feed URL patterns against each project's homepage (234 checked, 23 real feeds found - most modern protocol sites have no RSS, same low-hit-rate pattern as centralized exchanges). Add more via the same pattern (protocol_candidates.json -> fetch_homepages.js -> discover_protocol_blogs.js) rather than guessing.",
+  "sources": [
+    {
+      "name": "Ethereum",
+      "type": "protocol",
+      "url": "https://blog.ethereum.org/feed.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Cardano Forum",
+      "type": "protocol",
+      "url": "https://forum.cardano.org/latest.rss",
+      "kind": "forum"
+    },
+    {
+      "name": "BNB Chain Forum",
+      "type": "protocol",
+      "url": "https://forum.bnbchain.org/latest.rss",
+      "kind": "forum"
+    },
+    {
+      "name": "Solana",
+      "type": "protocol",
+      "url": "https://solana.com/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Zcash",
+      "type": "protocol",
+      "url": "https://z.cash/feed",
+      "kind": "blog"
+    },
+    {
+      "name": "Monero",
+      "type": "protocol",
+      "url": "https://www.getmonero.org/feed.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Stellar",
+      "type": "protocol",
+      "url": "https://www.stellar.org/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Ethereum Classic",
+      "type": "protocol",
+      "url": "http://ethereumclassic.org/feed",
+      "kind": "blog"
+    },
+    {
+      "name": "NEXO",
+      "type": "protocol",
+      "url": "https://nexo.com/blog/feed",
+      "kind": "blog"
+    },
+    {
+      "name": "Algorand",
+      "type": "protocol",
+      "url": "https://algorand.foundation/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Ether.fi",
+      "type": "protocol",
+      "url": "https://www.ether.fi/blog/feed.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Stacks",
+      "type": "protocol",
+      "url": "http://stacks.co/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Artificial Superintelligence Alliance",
+      "type": "protocol",
+      "url": "https://www.superintelligence.io/blog/feed",
+      "kind": "blog"
+    },
+    {
+      "name": "JasmyCoin",
+      "type": "protocol",
+      "url": "https://www.jasmy.co.jp/feed",
+      "kind": "blog"
+    },
+    {
+      "name": "Ethereum Name Service",
+      "type": "protocol",
+      "url": "https://ens.domains/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Canton",
+      "type": "protocol",
+      "url": "https://www.canton.network/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Filecoin",
+      "type": "protocol",
+      "url": "https://filecoin.io/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "USAT",
+      "type": "protocol",
+      "url": "https://usat.io/feed",
+      "kind": "blog"
+    },
+    {
+      "name": "Chiliz",
+      "type": "protocol",
+      "url": "https://www.chiliz.com/feed",
+      "kind": "blog"
+    },
+    {
+      "name": "Kamino",
+      "type": "protocol",
+      "url": "https://kamino.com/blog/feed.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Chutes",
+      "type": "protocol",
+      "url": "https://chutes.ai/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Banana For Scale",
+      "type": "protocol",
+      "url": "https://bananabsc.com/feed",
+      "kind": "blog"
+    },
+    {
+      "name": "RE",
+      "type": "protocol",
+      "url": "https://re.xyz/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "AIOZ Network",
+      "type": "protocol",
+      "url": "https://aioz.network/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Data Network",
+      "type": "protocol",
+      "url": "https://datafdn.org/blog/rss.xml",
+      "kind": "blog"
+    },
+    {
+      "name": "Velvet",
+      "type": "protocol",
+      "url": "https://www.velvet.capital/blog/feed",
+      "kind": "blog"
+    }
+  ]
+}

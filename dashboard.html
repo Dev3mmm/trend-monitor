@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Trend Monitor Dashboard</title>
+<style>
+  :root {
+    --bg: #0f1117; --panel: #171a23; --border: #2a2e3a; --text: #e6e8ee; --muted: #8b8fa3;
+    --caught: #34d399; --rejected: #f87171; --stale: #fbbf24; --accent: #60a5fa;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: -apple-system, Segoe UI, Roboto, sans-serif; }
+  header { padding: 16px 24px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
+  header h1 { font-size: 18px; margin: 0; }
+  #status { font-size: 12px; color: var(--muted); }
+  nav.top { display: flex; gap: 4px; padding: 0 24px; border-bottom: 1px solid var(--border); }
+  nav.top button { background: none; border: none; color: var(--muted); padding: 12px 16px; font-size: 14px; cursor: pointer; border-bottom: 2px solid transparent; }
+  nav.top button.active { color: var(--text); border-bottom-color: var(--accent); }
+  main { padding: 20px 24px; max-width: 1100px; margin: 0 auto; }
+  .tab { display: none; }
+  .tab.active { display: block; }
+  .subtabs { display: flex; gap: 8px; margin-bottom: 14px; }
+  .subtabs button { background: var(--panel); border: 1px solid var(--border); color: var(--muted); padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 12px; }
+  .subtabs button.active { color: var(--text); border-color: var(--accent); }
+  .summary { display: flex; gap: 12px; margin-bottom: 16px; flex-wrap: wrap; }
+  .stat { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 10px 16px; }
+  .stat .n { font-size: 20px; font-weight: 600; }
+  .stat .l { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px; margin-bottom: 8px; }
+  .card .row1 { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; margin-bottom: 4px; }
+  .card .author { font-weight: 600; }
+  .card .age { color: var(--muted); font-size: 12px; white-space: nowrap; }
+  .card .reason { font-size: 12px; margin-bottom: 6px; color: #c8cbd8; }
+  .card .text { font-size: 13px; color: #c8cbd8; white-space: pre-wrap; }
+  .card a.link { color: var(--accent); font-size: 12px; text-decoration: none; }
+  .badge { font-size: 10px; padding: 2px 7px; border-radius: 10px; font-weight: 600; text-transform: uppercase; }
+  .badge.caught, .badge.newsworthy { background: rgba(52,211,153,.15); color: var(--caught); }
+  .badge.rejected { background: rgba(248,113,113,.15); color: var(--rejected); }
+  .badge.stale_newsworthy { background: rgba(251,191,36,.15); color: var(--stale); }
+  .card-actions { display: flex; gap: 8px; margin-top: 10px; align-items: center; flex-wrap: wrap; }
+  .card-actions button, .card-actions select { background: var(--bg); border: 1px solid var(--border); color: var(--text); padding: 5px 10px; border-radius: 6px; cursor: pointer; font-size: 12px; }
+  .card-actions button.primary { border-color: var(--accent); color: var(--accent); }
+  .card-actions button.danger { border-color: var(--rejected); color: var(--rejected); }
+  .yt-thumb { width: 60px; height: 45px; border-radius: 4px; object-fit: cover; float: left; margin-right: 10px; }
+  .addbox { display: flex; gap: 8px; margin-bottom: 16px; }
+  .addbox input { flex: 1; background: var(--panel); border: 1px solid var(--border); color: var(--text); padding: 8px 10px; border-radius: 6px; }
+  .addbox button { background: var(--accent); border: none; color: #0f1117; font-weight: 600; padding: 8px 14px; border-radius: 6px; cursor: pointer; }
+  .empty { color: var(--muted); font-size: 13px; padding: 20px; text-align: center; }
+  .hack-amount { color: var(--rejected); font-weight: 600; }
+  .pagination { display: flex; gap: 8px; align-items: center; justify-content: center; margin: 16px 0; }
+  .pagination button { background: var(--panel); border: 1px solid var(--border); color: var(--text); padding: 6px 12px; border-radius: 6px; cursor: pointer; }
+  .pagination button:disabled { opacity: .4; cursor: default; }
+  .pagination span { color: var(--muted); font-size: 12px; }
+  .channels-toggle { background: none; border: none; color: var(--accent); font-size: 12px; cursor: pointer; margin-bottom: 12px; text-decoration: underline; }
+  .home-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+  .home-card { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; cursor: pointer; transition: border-color .15s; }
+  .home-card:hover { border-color: var(--accent); }
+  .home-card .home-card-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 10px; }
+  .home-card .home-card-title { font-weight: 600; font-size: 15px; }
+  .home-card .home-card-count { font-size: 22px; font-weight: 700; color: var(--accent); }
+  .home-card .home-item { font-size: 12px; padding: 5px 0; border-top: 1px solid var(--border); color: #c8cbd8; }
+  .home-card .home-item:first-of-type { border-top: none; }
+  .home-card .home-item a { color: inherit; text-decoration: none; }
+  .home-card .home-item a:hover { color: var(--accent); }
+  .home-card .home-item .home-item-source { color: var(--muted); }
+  .home-pipeline-select, .home-pipeline-btn { font-size: 11px; margin-left: 6px; background: var(--bg); border: 1px solid var(--border); color: var(--text); border-radius: 4px; padding: 2px 5px; cursor: pointer; }
+  .home-pipeline-btn { border-color: var(--accent); color: var(--accent); }
+  .home-pipeline-btn:disabled { opacity: .5; cursor: default; }
+  .channel-row { display: flex; justify-content: space-between; align-items: center; background: var(--panel); border: 1px solid var(--border); border-radius: 6px; padding: 8px 12px; margin-bottom: 6px; font-size: 13px; }
+  .channel-row button { background: none; border: 1px solid var(--rejected); color: var(--rejected); padding: 4px 10px; border-radius: 6px; cursor: pointer; font-size: 11px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Trend Monitor Dashboard</h1>
+  <div id="status">loading...</div>
+</header>
+<nav class="top">
+  <button class="tab-btn active" data-tab="home">Home</button>
+  <button class="tab-btn" data-tab="x">X Activity</button>
+  <button class="tab-btn" data-tab="youtube">YouTube</button>
+  <button class="tab-btn" data-tab="institutional">Institutional</button>
+  <button class="tab-btn" data-tab="exchanges">Exchanges</button>
+  <button class="tab-btn" data-tab="protocols">Protocols</button>
+  <button class="tab-btn" data-tab="hacks">Hacks (DeFiLlama)</button>
+</nav>
+<main>
+
+  <section id="tab-home" class="tab active">
+    <div id="home-grid"></div>
+  </section>
+
+  <section id="tab-x" class="tab">
+    <div class="summary" id="x-summary"></div>
+    <div class="subtabs" id="x-subtabs">
+      <button data-subtab="fresh" class="active">Fresh</button>
+      <button data-subtab="rejected">Rejected</button>
+      <button data-subtab="newsworthy">Newsworthy</button>
+      <button data-subtab="dismissed">Dismissed</button>
+    </div>
+    <div id="x-list"></div>
+    <div class="pagination" id="x-pagination"></div>
+  </section>
+
+  <section id="tab-youtube" class="tab">
+    <div class="addbox">
+      <input id="yt-add-input" placeholder="Add a channel (name or handle)...">
+      <button id="yt-add-btn">Add</button>
+    </div>
+    <div id="yt-add-status"></div>
+    <button class="channels-toggle" id="yt-channels-toggle">Manage tracked channels</button>
+    <div id="yt-channels-list" style="display:none; margin-bottom:16px;"></div>
+    <div class="subtabs" id="yt-subtabs">
+      <button data-subtab="fresh" class="active">Fresh</button>
+      <button data-subtab="newsworthy">Newsworthy</button>
+      <button data-subtab="dismissed">Dismissed</button>
+    </div>
+    <div id="yt-list"></div>
+    <div class="pagination" id="yt-pagination"></div>
+  </section>
+
+  <section id="tab-institutional" class="tab">
+    <div class="subtabs" id="inst-subtabs">
+      <button data-subtab="fresh" class="active">Fresh</button>
+      <button data-subtab="rejected">Filtered out (not crypto)</button>
+      <button data-subtab="newsworthy">Newsworthy</button>
+      <button data-subtab="dismissed">Dismissed</button>
+    </div>
+    <div id="inst-list"></div>
+    <div class="pagination" id="inst-pagination"></div>
+  </section>
+
+  <section id="tab-exchanges" class="tab">
+    <div class="subtabs" id="exch-subtabs">
+      <button data-subtab="fresh" class="active">Fresh</button>
+      <button data-subtab="newsworthy">Newsworthy</button>
+      <button data-subtab="dismissed">Dismissed</button>
+    </div>
+    <div id="exch-list"></div>
+    <div class="pagination" id="exch-pagination"></div>
+  </section>
+
+  <section id="tab-protocols" class="tab">
+    <div class="subtabs" id="proto-subtabs">
+      <button data-subtab="fresh" class="active">Fresh</button>
+      <button data-subtab="newsworthy">Newsworthy</button>
+      <button data-subtab="dismissed">Dismissed</button>
+    </div>
+    <div class="subtabs" id="proto-kind-filter">
+      <button data-kind="" class="active">All</button>
+      <button data-kind="blog">Blogs only</button>
+      <button data-kind="forum">Forums only</button>
+    </div>
+    <div id="proto-list"></div>
+    <div class="pagination" id="proto-pagination"></div>
+  </section>
+
+  <section id="tab-hacks" class="tab">
+    <div id="hacks-list"></div>
+  </section>
+
+</main>
+
+<script>
+const REFRESH_MS = 15000;
+let xSubtab = 'fresh', xPage = 1;
+let ytSubtab = 'fresh', ytPage = 1;
+let instSubtab = 'fresh', instPage = 1;
+let exchSubtab = 'fresh', exchPage = 1;
+let protoSubtab = 'fresh', protoPage = 1, protoKind = '';
+let pipelines = [];
+
+function switchTab(tabName) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  const btn = document.querySelector(`.tab-btn[data-tab="${tabName}"]`);
+  if (btn) btn.classList.add('active');
+  const section = document.getElementById('tab-' + tabName);
+  if (section) section.classList.add('active');
+}
+
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+});
+
+document.querySelectorAll('#x-subtabs button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#x-subtabs button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    xSubtab = btn.dataset.subtab; xPage = 1;
+    loadX();
+  });
+});
+document.querySelectorAll('#yt-subtabs button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#yt-subtabs button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    ytSubtab = btn.dataset.subtab; ytPage = 1;
+    loadYoutube();
+  });
+});
+document.querySelectorAll('#inst-subtabs button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#inst-subtabs button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    instSubtab = btn.dataset.subtab; instPage = 1;
+    loadInstitutional();
+  });
+});
+document.querySelectorAll('#exch-subtabs button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#exch-subtabs button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    exchSubtab = btn.dataset.subtab; exchPage = 1;
+    loadExchanges();
+  });
+});
+document.querySelectorAll('#proto-subtabs button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#proto-subtabs button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    protoSubtab = btn.dataset.subtab; protoPage = 1;
+    loadProtocols();
+  });
+});
+document.querySelectorAll('#proto-kind-filter button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#proto-kind-filter button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    protoKind = btn.dataset.kind; protoPage = 1;
+    loadProtocols();
+  });
+});
+
+function timeAgo(iso) {
+  if (!iso) return '';
+  const diffMin = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+  if (diffMin < 1) return 'just now';
+  if (diffMin < 60) return diffMin + 'm ago';
+  const h = Math.floor(diffMin / 60);
+  if (h < 24) return h + 'h ago';
+  return Math.floor(h / 24) + 'd ago';
+}
+
+function esc(s) {
+  return (s || '').replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+}
+
+function pipelineOptions() {
+  return pipelines.map(p => `<option value="${p.id}">${esc(p.name)}</option>`).join('');
+}
+
+function renderPagination(el, data, onPage) {
+  if (data.totalPages <= 1) { el.innerHTML = ''; return; }
+  el.innerHTML = `
+    <button ${data.page <= 1 ? 'disabled' : ''} data-dir="-1">&larr; Prev</button>
+    <span>Page ${data.page} of ${data.totalPages} (${data.total} total)</span>
+    <button ${data.page >= data.totalPages ? 'disabled' : ''} data-dir="1">Next &rarr;</button>
+  `;
+  el.querySelectorAll('button').forEach(b => b.addEventListener('click', () => onPage(parseInt(b.dataset.dir, 10))));
+}
+
+// Home overview: a live digest across every lane - count of fresh items + a handful of
+// recent titles, each linking straight to its source URL; clicking the card itself jumps
+// to that tab. Landing page on load (per Martin's request), not forced back to on every
+// auto-refresh - just where the dashboard opens by default.
+const HOME_SOURCES = [
+  { tab: 'x', label: 'X Activity', endpoint: '/api/x?tab=fresh&pageSize=50' },
+  { tab: 'youtube', label: 'YouTube', endpoint: '/api/youtube?tab=fresh&pageSize=50' },
+  { tab: 'institutional', label: 'Institutional', endpoint: '/api/institutional?tab=fresh&pageSize=50' },
+  { tab: 'exchanges', label: 'Exchanges', endpoint: '/api/exchanges?tab=fresh&pageSize=50' },
+  { tab: 'protocols', label: 'Protocols', endpoint: '/api/protocols?tab=fresh&pageSize=50' },
+];
+const HOME_MAX_AGE_MINUTES = 60; // Home is "what's new in the last hour", not just "top 5 recent"
+
+function homeItemAgeMs(i) {
+  const ts = i.originTimestamp || i.publishedAt || i.ts;
+  return ts ? Date.now() - new Date(ts).getTime() : Infinity;
+}
+
+async function loadHome() {
+  const grid = document.getElementById('home-grid');
+  const [sourceResults, hacks] = await Promise.all([
+    Promise.all(HOME_SOURCES.map((s) => fetch(s.endpoint).then((r) => r.json()).catch(() => ({ total: 0, items: [] })))),
+    fetch('/api/hacks').then((r) => r.json()).catch(() => []),
+  ]);
+
+  const cards = HOME_SOURCES.map((s, idx) => {
+    const allItems = sourceResults[idx].items || [];
+    const recentItems = allItems.filter((i) => homeItemAgeMs(i) <= HOME_MAX_AGE_MINUTES * 60000);
+    const itemsHtml = recentItems.slice(0, 8).map((i) => {
+      // X activity items use author+text, not source+title like every other lane (source
+      // is literally the hardcoded lane id 'x' there, not a display name) - normalize here.
+      const label = i.author || i.source || i.channel || '';
+      const titleText = i.title || i.text || '';
+      return `
+      <div class="home-item" data-id="${i.id}" data-lane="${s.tab}">
+        <span class="home-item-source">${esc(label)}</span> —
+        <a href="${i.url}" target="_blank" title="${esc(titleText)}">${esc(titleText.slice(0, 70))}${titleText.length > 70 ? '…' : ''}</a>
+        <select class="home-pipeline-select" onclick="event.stopPropagation()">${pipelineOptions()}</select>
+        <button class="home-pipeline-btn" data-action="send-pipeline">Add to pipeline</button>
+      </div>
+    `;
+    }).join('') || '<div class="home-item">Nothing fresh right now.</div>';
+    return `
+      <div class="home-card" data-tab="${s.tab}">
+        <div class="home-card-head">
+          <span class="home-card-title">${esc(s.label)}</span>
+          <span class="home-card-count">${recentItems.length}</span>
+        </div>
+        ${itemsHtml}
+      </div>
+    `;
+  });
+
+  const hackItems = Array.isArray(hacks) ? hacks.slice(0, 5) : [];
+  const hackItemsHtml = hackItems.map((h) => `
+    <div class="home-item">
+      <span class="home-item-source">${esc((h.chain||[])[0]||'')}</span> — ${esc(h.name)}
+    </div>
+  `).join('') || '<div class="home-item">No recent hacks.</div>';
+  cards.push(`
+    <div class="home-card" data-tab="hacks">
+      <div class="home-card-head">
+        <span class="home-card-title">Hacks (DeFiLlama)</span>
+        <span class="home-card-count">${hackItems.length}</span>
+      </div>
+      ${hackItemsHtml}
+    </div>
+  `);
+
+  grid.innerHTML = cards.join('');
+  grid.querySelectorAll('.home-card').forEach((card) => {
+    card.addEventListener('click', (e) => {
+      // Let item links, the pipeline dropdown, and its send button do their own thing
+      // rather than also switching tabs when clicked.
+      if (['A', 'SELECT', 'BUTTON', 'OPTION'].includes(e.target.tagName)) return;
+      switchTab(card.dataset.tab);
+    });
+  });
+  grid.querySelectorAll('[data-action="send-pipeline"]').forEach((btn) => {
+    btn.addEventListener('click', async (e) => {
+      e.stopPropagation();
+      const itemEl = btn.closest('.home-item');
+      const id = itemEl.dataset.id;
+      const lane = itemEl.dataset.lane;
+      const pipeline = itemEl.querySelector('.home-pipeline-select').value;
+      const res = await fetch(`/api/${lane}/${encodeURIComponent(id)}/send-to-pipeline`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ pipeline }),
+      });
+      const data = await res.json();
+      btn.textContent = res.ok ? `Sent to ${data.pipeline}` : `Error: ${data.error}`;
+      btn.disabled = true;
+    });
+  });
+}
+
+async function loadX() {
+  const data = await fetch(`/api/x?tab=${xSubtab}&page=${xPage}&pageSize=20`).then(r => r.json());
+  renderXSummary();
+  const list = document.getElementById('x-list');
+  if (!data.items.length) { list.innerHTML = '<div class="empty">Nothing here.</div>'; document.getElementById('x-pagination').innerHTML = ''; return; }
+  list.innerHTML = data.items.map(i => `
+    <div class="card" data-id="${i.id}">
+      <div class="row1">
+        <span><span class="badge ${i.status}">${i.status.replace('_',' ')}</span> <span class="author">${esc(i.author)}</span></span>
+        <span class="age">${i.ageMin}m old &middot; seen ${timeAgo(i.ts)}</span>
+      </div>
+      ${i.reason ? `<div class="reason">${esc(i.reason)}</div>` : ''}
+      <div class="text">${esc(i.text)}</div>
+      ${i.url ? `<a class="link" href="${i.url}" target="_blank">${i.url}</a>` : ''}
+      <div class="card-actions">
+        ${xSubtab !== 'newsworthy' ? `<button class="primary" data-action="promote">Mark Newsworthy</button>` : ''}
+        ${xSubtab !== 'dismissed' ? `<button class="danger" data-action="dismiss">Dismiss</button>` : ''}
+        ${xSubtab === 'newsworthy' ? `<select data-role="pipeline">${pipelineOptions()}</select><button data-action="send">Send to pipeline</button>` : ''}
+      </div>
+    </div>
+  `).join('');
+  wireCardActions(list, 'x');
+  renderPagination(document.getElementById('x-pagination'), data, (dir) => { xPage += dir; loadX(); });
+}
+
+function renderXSummary() {
+  fetch('/api/x?tab=fresh&pageSize=1').then(r => r.json()).then(fresh => {
+    fetch('/api/x?tab=rejected&pageSize=1').then(r => r.json()).then(rej => {
+      fetch('/api/x?tab=newsworthy&pageSize=1').then(r => r.json()).then(nw => {
+        document.getElementById('x-summary').innerHTML = `
+          <div class="stat"><div class="n">${fresh.total}</div><div class="l">Fresh (unreviewed)</div></div>
+          <div class="stat"><div class="n" style="color:var(--rejected)">${rej.total}</div><div class="l">Rejected</div></div>
+          <div class="stat"><div class="n" style="color:var(--caught)">${nw.total}</div><div class="l">Newsworthy</div></div>
+        `;
+      });
+    });
+  });
+}
+
+async function loadYoutube() {
+  const data = await fetch(`/api/youtube?tab=${ytSubtab}&page=${ytPage}&pageSize=20`).then(r => r.json());
+  const list = document.getElementById('yt-list');
+  if (!data.items.length) { list.innerHTML = '<div class="empty">Nothing here.</div>'; document.getElementById('yt-pagination').innerHTML = ''; return; }
+  list.innerHTML = data.items.map(v => `
+    <div class="card" data-id="${v.id}">
+      ${v.thumbnail ? `<img class="yt-thumb" src="${v.thumbnail}">` : ''}
+      <div class="row1"><span class="author">${esc(v.channel)}</span><span class="age">${timeAgo(v.publishedAt)}</span></div>
+      <div class="text">${esc(v.title)}</div>
+      <a class="link" href="${v.url}" target="_blank">${v.url}</a>
+      <div style="clear:both"></div>
+      <div class="card-actions">
+        ${ytSubtab !== 'newsworthy' ? `<button class="primary" data-action="promote">Mark Newsworthy</button>` : ''}
+        ${ytSubtab !== 'dismissed' ? `<button class="danger" data-action="dismiss">Dismiss</button>` : ''}
+        ${ytSubtab === 'newsworthy' ? `<select data-role="pipeline">${pipelineOptions()}</select><button data-action="send">Send to pipeline</button>` : ''}
+      </div>
+    </div>
+  `).join('');
+  wireCardActions(list, 'youtube');
+  renderPagination(document.getElementById('yt-pagination'), data, (dir) => { ytPage += dir; loadYoutube(); });
+}
+
+async function loadInstitutional() {
+  const data = await fetch(`/api/institutional?tab=${instSubtab}&page=${instPage}&pageSize=20`).then(r => r.json());
+  const list = document.getElementById('inst-list');
+  if (!data.items.length) { list.innerHTML = '<div class="empty">Nothing here.</div>'; document.getElementById('inst-pagination').innerHTML = ''; return; }
+  list.innerHTML = data.items.map(i => `
+    <div class="card" data-id="${i.id}">
+      <div class="row1">
+        <span><span class="badge caught">${esc(i.sourceType)}</span> <span class="author">${esc(i.source)}</span></span>
+        <span class="age">${timeAgo(i.publishedAt)}</span>
+      </div>
+      <div class="text"><strong>${esc(i.title)}</strong></div>
+      <div class="text">${esc(i.description)}</div>
+      <a class="link" href="${i.url}" target="_blank">${i.url}</a>
+      <div class="card-actions">
+        ${instSubtab !== 'newsworthy' ? `<button class="primary" data-action="promote">Mark Newsworthy</button>` : ''}
+        ${instSubtab !== 'dismissed' ? `<button class="danger" data-action="dismiss">Dismiss</button>` : ''}
+        ${instSubtab === 'newsworthy' ? `<select data-role="pipeline">${pipelineOptions()}</select><button data-action="send">Send to pipeline</button>` : ''}
+      </div>
+    </div>
+  `).join('');
+  wireCardActions(list, 'institutional');
+  renderPagination(document.getElementById('inst-pagination'), data, (dir) => { instPage += dir; loadInstitutional(); });
+}
+
+async function loadExchanges() {
+  const data = await fetch(`/api/exchanges?tab=${exchSubtab}&page=${exchPage}&pageSize=20`).then(r => r.json());
+  const list = document.getElementById('exch-list');
+  if (!data.items.length) { list.innerHTML = '<div class="empty">Nothing here.</div>'; document.getElementById('exch-pagination').innerHTML = ''; return; }
+  list.innerHTML = data.items.map(i => `
+    <div class="card" data-id="${i.id}">
+      <div class="row1">
+        <span><span class="badge caught">${esc(i.sourceType)}</span> <span class="author">${esc(i.source)}</span></span>
+        <span class="age">${timeAgo(i.publishedAt)}</span>
+      </div>
+      <div class="text"><strong>${esc(i.title)}</strong></div>
+      <div class="text">${esc(i.description)}</div>
+      <a class="link" href="${i.url}" target="_blank">${i.url}</a>
+      <div class="card-actions">
+        ${exchSubtab !== 'newsworthy' ? `<button class="primary" data-action="promote">Mark Newsworthy</button>` : ''}
+        ${exchSubtab !== 'dismissed' ? `<button class="danger" data-action="dismiss">Dismiss</button>` : ''}
+        ${exchSubtab === 'newsworthy' ? `<select data-role="pipeline">${pipelineOptions()}</select><button data-action="send">Send to pipeline</button>` : ''}
+      </div>
+    </div>
+  `).join('');
+  wireCardActions(list, 'exchanges');
+  renderPagination(document.getElementById('exch-pagination'), data, (dir) => { exchPage += dir; loadExchanges(); });
+}
+
+async function loadProtocols() {
+  const data = await fetch(`/api/protocols?tab=${protoSubtab}&page=${protoPage}&pageSize=20${protoKind ? `&kind=${protoKind}` : ''}`).then(r => r.json());
+  const list = document.getElementById('proto-list');
+  if (!data.items.length) { list.innerHTML = '<div class="empty">Nothing here.</div>'; document.getElementById('proto-pagination').innerHTML = ''; return; }
+  list.innerHTML = data.items.map(i => `
+    <div class="card" data-id="${i.id}">
+      <div class="row1">
+        <span><span class="badge caught">${esc(i.sourceKind || i.sourceType)}</span> <span class="author">${esc(i.source)}</span>${i.translated ? ' <span class="badge stale_newsworthy">translated</span>' : ''}</span>
+        <span class="age">${timeAgo(i.publishedAt)}</span>
+      </div>
+      <div class="text"><strong>${esc(i.title)}</strong></div>
+      <div class="text">${esc(i.description)}</div>
+      <a class="link" href="${i.url}" target="_blank">${i.url}</a>
+      <div class="card-actions">
+        ${protoSubtab !== 'newsworthy' ? `<button class="primary" data-action="promote">Mark Newsworthy</button>` : ''}
+        ${protoSubtab !== 'dismissed' ? `<button class="danger" data-action="dismiss">Dismiss</button>` : ''}
+        ${protoSubtab === 'newsworthy' ? `<select data-role="pipeline">${pipelineOptions()}</select><button data-action="send">Send to pipeline</button>` : ''}
+      </div>
+    </div>
+  `).join('');
+  wireCardActions(list, 'protocols');
+  renderPagination(document.getElementById('proto-pagination'), data, (dir) => { protoPage += dir; loadProtocols(); });
+}
+
+function wireCardActions(listEl, source) {
+  listEl.querySelectorAll('.card').forEach(card => {
+    const id = card.dataset.id;
+    card.querySelectorAll('button').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const action = btn.dataset.action;
+        if (action === 'promote') {
+          await fetch(`/api/${source}/${encodeURIComponent(id)}/status`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify({ userStatus: 'newsworthy' }) });
+        } else if (action === 'dismiss') {
+          await fetch(`/api/${source}/${encodeURIComponent(id)}/status`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify({ userStatus: 'dismissed' }) });
+        } else if (action === 'send') {
+          const pipeline = card.querySelector('[data-role="pipeline"]').value;
+          const res = await fetch(`/api/${source}/${encodeURIComponent(id)}/send-to-pipeline`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify({ pipeline }) });
+          const data = await res.json();
+          if (res.ok) btn.textContent = 'Sent to ' + data.pipeline;
+          return;
+        }
+        source === 'x' ? loadX() : loadYoutube();
+      });
+    });
+  });
+}
+
+async function loadChannels() {
+  const channels = await fetch('/api/youtube/channels').then(r => r.json());
+  const el = document.getElementById('yt-channels-list');
+  el.innerHTML = channels.map(c => `
+    <div class="channel-row">
+      <span>${esc(c.name)}</span>
+      <button data-cid="${c.channelId}">Remove</button>
+    </div>
+  `).join('') || '<div class="empty">No channels tracked.</div>';
+  el.querySelectorAll('button').forEach(b => b.addEventListener('click', async () => {
+    await fetch(`/api/youtube/channels/${encodeURIComponent(b.dataset.cid)}`, { method: 'DELETE' });
+    loadChannels();
+  }));
+}
+document.getElementById('yt-channels-toggle').addEventListener('click', () => {
+  const el = document.getElementById('yt-channels-list');
+  el.style.display = el.style.display === 'none' ? 'block' : 'none';
+  if (el.style.display === 'block') loadChannels();
+});
+
+function renderHacks(items) {
+  const list = document.getElementById('hacks-list');
+  if (!items.length) { list.innerHTML = '<div class="empty">No hacks loaded.</div>'; return; }
+  list.innerHTML = items.map(h => `
+    <div class="card">
+      <div class="row1">
+        <span class="author">${esc(h.name)}</span>
+        <span class="age">${new Date(h.dateIso).toLocaleDateString()}</span>
+      </div>
+      <div class="reason">${esc(h.technique || '')} ${h.classification ? '&middot; ' + esc(h.classification) : ''} ${h.targetType ? '&middot; ' + esc(h.targetType) : ''}</div>
+      <div class="text">Chain: ${esc((h.chain||[]).join(', '))} ${h.amount ? `&middot; <span class="hack-amount">$${Number(h.amount).toLocaleString()}</span>` : ''}</div>
+    </div>
+  `).join('');
+}
+
+async function refresh() {
+  try {
+    if (!pipelines.length) pipelines = await fetch('/api/pipelines').then(r => r.json());
+    await loadHome();
+    await loadX();
+    await loadYoutube();
+    await loadInstitutional();
+    await loadExchanges();
+    await loadProtocols();
+    const hacks = await fetch('/api/hacks').then(r => r.json());
+    renderHacks(Array.isArray(hacks) ? hacks : []);
+    document.getElementById('status').textContent = 'updated ' + new Date().toLocaleTimeString();
+  } catch (e) {
+    document.getElementById('status').textContent = 'error: ' + e.message;
+  }
+}
+
+document.getElementById('yt-add-btn').addEventListener('click', async () => {
+  const input = document.getElementById('yt-add-input');
+  const q = input.value.trim();
+  if (!q) return;
+  const statusEl = document.getElementById('yt-add-status');
+  statusEl.textContent = 'Adding...';
+  try {
+    const res = await fetch('/api/youtube/add', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ query: q }) });
+    const data = await res.json();
+    if (res.ok) {
+      statusEl.textContent = data.alreadyTracked ? `Already tracking: ${data.name}` : `Added: ${data.name} (${data.subscribers || '?'} subs)`;
+      input.value = '';
+      refresh();
+    } else {
+      statusEl.textContent = 'Error: ' + data.error;
+    }
+  } catch (e) {
+    statusEl.textContent = 'Error: ' + e.message;
+  }
+});
+
+refresh();
+setInterval(refresh, REFRESH_MS);
+</script>
+</body>
+</html>

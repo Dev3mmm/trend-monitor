@@ -1,0 +1,24 @@
+{
+  "_comment": "Regulatory RSS sources for the dashboard's Institutional (regulators) tab. Each URL is individually verified working (real RSS content fetched, not just a 200 status) before being added here. Add more only after verifying content, not just a guessed URL pattern.",
+  "sources": [
+    { "name": "SEC (US)", "type": "regulator", "country": "US", "url": "https://www.sec.gov/news/pressreleases.rss" },
+    { "name": "CFTC (US)", "type": "regulator", "country": "US", "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml" },
+    { "name": "Federal Reserve (US)", "type": "regulator", "country": "US", "url": "https://www.federalreserve.gov/feeds/press_all.xml" },
+    { "name": "FCA (UK)", "type": "regulator", "country": "UK", "url": "https://www.fca.org.uk/news/rss.xml" },
+    { "name": "SEC Nigeria", "type": "regulator", "country": "Nigeria", "url": "https://sec.gov.ng/feeds/news.rss" },
+    { "name": "SEC Nigeria FinTech", "type": "regulator", "country": "Nigeria", "url": "https://sec.gov.ng/feeds/fintech-news.rss" },
+    { "name": "SFC Hong Kong", "type": "regulator", "country": "Hong Kong", "url": "https://www.sfc.hk/en/RSS-Feeds/Press-releases" },
+    { "name": "SEBI (India)", "type": "regulator", "country": "India", "url": "https://www.sebi.gov.in/sebirss.xml" },
+    { "name": "BaFin (Germany)", "type": "regulator", "country": "Germany", "url": "https://www.bafin.de/EN/service/rss/_function/rssnewsfeed.xml?nn=161510" },
+    { "name": "FINMA (Switzerland)", "type": "regulator", "country": "Switzerland", "url": "https://www.finma.ch/en/rss/news/" },
+    { "name": "OSC (Canada)", "type": "regulator", "country": "Canada", "url": "https://feeds.feedburner.com/rss_osc_headlines_en" }
+  ],
+  "_notYetConfirmed": [
+    "US Treasury - no working RSS path found",
+    "Singapore MAS - RSS endpoint returned a maintenance page",
+    "Japan FSA - has an RSS subscription page (fsa.go.jp/en/haishin/) but no direct feed URL confirmed yet",
+    "UAE VARA - has a news page (vara.ae/en/news) but no RSS confirmed yet",
+    "Australia ASIC, France AMF, Brazil CVM - guessed direct URLs failed, real ones not yet located",
+    "EU ESMA, South Korea FSC, Kenya CMA, South Africa FSCA, Tanzania CMSA, Rwanda CMA - guessed URLs failed, none confirmed. Kenya CMA specifically only has a press-release webpage, no RSS found."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "trend_monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pre-trend crypto news catcher v2: multi-lane profile reads (wire/analyst/alert accounts) + query-search backstop + local AI triage + Telegram approve-to-pipeline",
+  "type": "commonjs",
+  "scripts": {
+    "login": "node x_login.js",
+    "start": "node trend_monitor.js"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_comment": "Pipelines the dashboard can send a Newsworthy item to. queueFile is a JSON file with shape {pending:[...]} that the target pipeline's own launcher/prompt is expected to check. Add more pipelines here as they're built - the dashboard reads this list to populate the 'send to pipeline' dropdown.",
+  "pipelines": [
+    {
+      "id": "cryptonewslive",
+      "name": "CryptoNewsLive",
+      "queueFile": "C:\\Users\\Martin\\Documents\\trend_pending_queue.json",
+      "status": "consumed automatically by the daily CryptoNewsLive pipeline launcher, same queue trend_monitor.js/doom_scroll_agent.js already write to"
+    },
+    {
+      "id": "times_of_crypto_era",
+      "name": "Times of Crypto Era",
+      "queueFile": "C:\\Users\\Martin\\Documents\\times_of_crypto_era_pending_queue.json",
+      "status": "queue file only - no automated writer pipeline exists yet for this site (it's a Payload CMS, content is added manually/via the Chainwire RSS importer today). Items sent here wait until that pipeline is built."
+    }
+  ]
+}

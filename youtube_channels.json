@@ -1,0 +1,50 @@
+{
+  "_comment": "Channels tracked by the dashboard's YouTube tab. Each entry needs channelId + uploadsPlaylistId (uploads playlist = channelId with UC->UU prefix swap, verified via YouTube Data API channels.list, not guessed). Add more via the dashboard's 'Add channel' box, or by hand here.",
+  "channels": [
+    {
+      "name": "MMCrypto",
+      "channelId": "UCBkGMys0mYl3Myxh3CTsASA",
+      "uploadsPlaylistId": "UUBkGMys0mYl3Myxh3CTsASA"
+    },
+    {
+      "name": "Conor Kenny",
+      "channelId": "UCJQY1CkwtFNfJfIzROc8KiA",
+      "uploadsPlaylistId": "UUJQY1CkwtFNfJfIzROc8KiA"
+    },
+    {
+      "name": "Davinci Jeremie",
+      "channelId": "UCP0g6ygQkYjmog801YnNqtQ",
+      "uploadsPlaylistId": "UUP0g6ygQkYjmog801YnNqtQ"
+    },
+    {
+      "name": "Charles Hoskinson",
+      "channelId": "UCiJiqEvUZxT6isIaXK7RXTg",
+      "uploadsPlaylistId": "UUiJiqEvUZxT6isIaXK7RXTg"
+    },
+    {
+      "name": "Coin Bureau",
+      "channelId": "UCqK_GSMbpiV8spgD3ZGloSw",
+      "uploadsPlaylistId": "UUqK_GSMbpiV8spgD3ZGloSw"
+    },
+    {
+      "name": "Altcoin Daily",
+      "channelId": "UCbLhGKVY-bJPcawebgtNfbw",
+      "uploadsPlaylistId": "UUbLhGKVY-bJPcawebgtNfbw"
+    },
+    {
+      "name": "Bankless",
+      "channelId": "UCAl9Ld79qaZxp9JzEOwd3aA",
+      "uploadsPlaylistId": "UUAl9Ld79qaZxp9JzEOwd3aA"
+    },
+    {
+      "name": "Tyler Hill Crypto",
+      "channelId": "UCVEWFrDlFd3qFXCEz8-98Vw",
+      "uploadsPlaylistId": "UUVEWFrDlFd3qFXCEz8-98Vw"
+    }
+  ],
+  "_pendingConfirmation": [
+    {
+      "note": "\"Tyler\" was requested but ambiguous - several different crypto YouTubers go by Tyler (Tyler Hill Crypto, Tyler Trades, Tyler Durden, TJR) and none was clearly THE one meant. Add the correct one via the dashboard's Add Channel box."
+    }
+  ]
+}
