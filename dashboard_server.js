@@ -14,6 +14,14 @@ const fs = require('fs');
 const path = require('path');
 const youtubeMonitor = require('./youtube_monitor');
 const { createRssMonitor } = require('./rss_monitor');
+const gitSync = require('./git_sync');
+
+// GitHub Actions (.github/workflows/sweep.yml) now does the actual scraping (needs
+// Chromium + Ollama, neither available on a lightweight host like Render's free tier) and
+// commits results to this repo every 15 min. This server's own local-refresh calls below
+// are for running on Martin's own PC only - disabled by setting ENABLE_LOCAL_SCRAPING=false
+// on a hosted deployment, which instead just periodically `git pull`s what the Action wrote.
+const LOCAL_SCRAPING_ENABLED = process.env.ENABLE_LOCAL_SCRAPING !== 'false';
 
 const regulatorMonitor = createRssMonitor({
   sourcesFile: path.join(__dirname, 'regulator_sources.json'),
@@ -34,7 +42,7 @@ const protocolMonitor = createRssMonitor({
   // same reasoning already applied to skip the filter on the Exchanges tab.
 });
 
-const PORT = 4173;
+const PORT = process.env.PORT || 4173;
 const DASHBOARD_LOG_FILE = path.join(__dirname, 'dashboard_activity_log.json');
 const PIPELINES_FILE = path.join(__dirname, 'pipelines.json');
 const YOUTUBE_REFRESH_MS = 5 * 60 * 1000;
@@ -64,10 +72,21 @@ function sendToPipeline(pipelineId, item) {
   const pipelines = loadPipelines();
   const pipeline = pipelines.find((p) => p.id === pipelineId);
   if (!pipeline) throw new Error(`Unknown pipeline: ${pipelineId}`);
-  const queue = readJsonSafe(pipeline.queueFile, { pending: [] });
+
+  // pipelines.json's queueFile is an absolute path on Martin's own PC (e.g.
+  // C:\Users\Martin\Documents\trend_pending_queue.json), which won't exist when this
+  // server runs on a host like Render. Fall back to a repo-relative outbox file that
+  // gets git-committed instead - a local sync step (sync_pipeline_outbox.js) then merges
+  // it into the real local queue file on Martin's PC. Detected by checking whether the
+  // queueFile's parent directory actually exists here.
+  const targetFile = fs.existsSync(path.dirname(pipeline.queueFile))
+    ? pipeline.queueFile
+    : path.join(__dirname, `pipeline_outbox_${pipeline.id}.json`);
+
+  const queue = readJsonSafe(targetFile, { pending: [] });
   if (!Array.isArray(queue.pending)) queue.pending = [];
   queue.pending.push({ ...item, sentToPipelineAt: new Date().toISOString(), sentFrom: item.source || 'dashboard' });
-  fs.writeFileSync(pipeline.queueFile, JSON.stringify(queue, null, 2));
+  fs.writeFileSync(targetFile, JSON.stringify(queue, null, 2));
   return pipeline;
 }
 
@@ -161,6 +180,7 @@ const server = http.createServer(async (req, res) => {
       if (!item) { sendJson(res, 404, { error: 'not found' }); return; }
       item.userStatus = userStatus;
       saveXItems(items);
+      gitSync.commitAndPush(`X item ${id} -> ${userStatus}`);
       sendJson(res, 200, item);
       return;
     }
@@ -174,6 +194,7 @@ const server = http.createServer(async (req, res) => {
       if (!item) { sendJson(res, 404, { error: 'not found' }); return; }
       try {
         const p = sendToPipeline(pipeline, item);
+        gitSync.commitAndPush(`X item ${id} sent to pipeline ${pipeline}`);
         sendJson(res, 200, { sent: true, pipeline: p.name });
       } catch (e) {
         sendJson(res, 400, { error: e.message });
@@ -198,6 +219,7 @@ const server = http.createServer(async (req, res) => {
       const { userStatus } = JSON.parse(body);
       try {
         const item = youtubeMonitor.setVideoUserStatus(id, userStatus);
+        gitSync.commitAndPush(`YouTube item ${id} -> ${userStatus}`);
         sendJson(res, 200, item);
       } catch (e) {
         sendJson(res, 404, { error: e.message });
@@ -214,6 +236,7 @@ const server = http.createServer(async (req, res) => {
       if (!item) { sendJson(res, 404, { error: 'not found' }); return; }
       try {
         const p = sendToPipeline(pipeline, item);
+        gitSync.commitAndPush(`YouTube item ${id} sent to pipeline ${pipeline}`);
         sendJson(res, 200, { sent: true, pipeline: p.name });
       } catch (e) {
         sendJson(res, 400, { error: e.message });
@@ -242,6 +265,7 @@ const server = http.createServer(async (req, res) => {
       try {
         const result = await youtubeMonitor.resolveAndAddChannel(query.trim());
         if (!result.alreadyTracked) youtubeMonitor.refreshAll().catch(() => {});
+        gitSync.commitAndPush(`Added YouTube channel: ${result.name}`);
         sendJson(res, 200, result);
       } catch (e) {
         sendJson(res, 500, { error: e.message });
@@ -253,6 +277,7 @@ const server = http.createServer(async (req, res) => {
       const channelId = decodeURIComponent(url.pathname.split('/')[4]);
       try {
         const remaining = youtubeMonitor.deleteChannel(channelId);
+        gitSync.commitAndPush(`Removed YouTube channel ${channelId}`);
         sendJson(res, 200, { deleted: true, remaining });
       } catch (e) {
         sendJson(res, 404, { error: e.message });
@@ -292,7 +317,9 @@ const server = http.createServer(async (req, res) => {
         const body = await readBody(req);
         const { userStatus } = JSON.parse(body);
         try {
-          sendJson(res, 200, monitor.setUserStatus(id, userStatus));
+          const item = monitor.setUserStatus(id, userStatus);
+          gitSync.commitAndPush(`${prefix} item ${id} -> ${userStatus}`);
+          sendJson(res, 200, item);
         } catch (e) {
           sendJson(res, 404, { error: e.message });
         }
@@ -307,6 +334,7 @@ const server = http.createServer(async (req, res) => {
         if (!item) { sendJson(res, 404, { error: 'not found' }); return; }
         try {
           const p = sendToPipeline(pipeline, item);
+          gitSync.commitAndPush(`${prefix} item ${id} sent to pipeline ${pipeline}`);
           sendJson(res, 200, { sent: true, pipeline: p.name });
         } catch (e) {
           sendJson(res, 400, { error: e.message });
@@ -348,30 +376,40 @@ server.listen(PORT, () => {
   console.log(`Dashboard running at http://localhost:${PORT}`);
 });
 
-youtubeMonitor.refreshAll().then((r) => console.log('Initial YouTube refresh:', r)).catch((e) => console.error('YouTube refresh failed:', e.message));
-setInterval(() => {
-  youtubeMonitor.refreshAll().then((r) => {
-    if (r.added > 0) console.log(`YouTube refresh: +${r.added} new video(s)`);
-  }).catch((e) => console.error('YouTube refresh failed:', e.message));
-}, YOUTUBE_REFRESH_MS);
+if (LOCAL_SCRAPING_ENABLED) {
+  youtubeMonitor.refreshAll().then((r) => console.log('Initial YouTube refresh:', r)).catch((e) => console.error('YouTube refresh failed:', e.message));
+  setInterval(() => {
+    youtubeMonitor.refreshAll().then((r) => {
+      if (r.added > 0) console.log(`YouTube refresh: +${r.added} new video(s)`);
+    }).catch((e) => console.error('YouTube refresh failed:', e.message));
+  }, YOUTUBE_REFRESH_MS);
 
-regulatorMonitor.refreshAll().then((r) => console.log('Initial regulator refresh:', r)).catch((e) => console.error('Regulator refresh failed:', e.message));
-setInterval(() => {
-  regulatorMonitor.refreshAll().then((r) => {
-    if (r.added > 0) console.log(`Regulator refresh: +${r.added} new item(s)`);
-  }).catch((e) => console.error('Regulator refresh failed:', e.message));
-}, RSS_REFRESH_MS);
+  regulatorMonitor.refreshAll().then((r) => console.log('Initial regulator refresh:', r)).catch((e) => console.error('Regulator refresh failed:', e.message));
+  setInterval(() => {
+    regulatorMonitor.refreshAll().then((r) => {
+      if (r.added > 0) console.log(`Regulator refresh: +${r.added} new item(s)`);
+    }).catch((e) => console.error('Regulator refresh failed:', e.message));
+  }, RSS_REFRESH_MS);
 
-exchangeMonitor.refreshAll().then((r) => console.log('Initial exchange refresh:', r)).catch((e) => console.error('Exchange refresh failed:', e.message));
-setInterval(() => {
-  exchangeMonitor.refreshAll().then((r) => {
-    if (r.added > 0) console.log(`Exchange refresh: +${r.added} new item(s)`);
-  }).catch((e) => console.error('Exchange refresh failed:', e.message));
-}, RSS_REFRESH_MS);
+  exchangeMonitor.refreshAll().then((r) => console.log('Initial exchange refresh:', r)).catch((e) => console.error('Exchange refresh failed:', e.message));
+  setInterval(() => {
+    exchangeMonitor.refreshAll().then((r) => {
+      if (r.added > 0) console.log(`Exchange refresh: +${r.added} new item(s)`);
+    }).catch((e) => console.error('Exchange refresh failed:', e.message));
+  }, RSS_REFRESH_MS);
 
-protocolMonitor.refreshAll().then((r) => console.log('Initial protocol refresh:', r)).catch((e) => console.error('Protocol refresh failed:', e.message));
-setInterval(() => {
-  protocolMonitor.refreshAll().then((r) => {
-    if (r.added > 0) console.log(`Protocol refresh: +${r.added} new item(s)`);
-  }).catch((e) => console.error('Protocol refresh failed:', e.message));
-}, RSS_REFRESH_MS);
+  protocolMonitor.refreshAll().then((r) => console.log('Initial protocol refresh:', r)).catch((e) => console.error('Protocol refresh failed:', e.message));
+  setInterval(() => {
+    protocolMonitor.refreshAll().then((r) => {
+      if (r.added > 0) console.log(`Protocol refresh: +${r.added} new item(s)`);
+    }).catch((e) => console.error('Protocol refresh failed:', e.message));
+  }, RSS_REFRESH_MS);
+} else {
+  console.log('Local scraping disabled (ENABLE_LOCAL_SCRAPING=false) - relying on GitHub Actions + git pull for fresh data.');
+}
+
+if (gitSync.ENABLED) {
+  const GIT_PULL_MS = 3 * 60 * 1000; // pick up the Action's 15-min-cadence commits promptly
+  gitSync.pull();
+  setInterval(() => gitSync.pull(), GIT_PULL_MS);
+}
