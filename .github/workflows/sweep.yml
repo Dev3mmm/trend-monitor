@@ -1,0 +1,69 @@
+name: Trend Monitor Sweep
+
+# Runs the X doom-scroll agent (headed Chromium via a virtual display, since headless was
+# proven to get bot-walled by X - see project memory) plus the RSS lanes, then commits
+# whatever changed back to the repo. The repo itself is the free persistent "database" -
+# no external storage needed, and it survives fine across ephemeral runners since every
+# run starts by checking out the latest committed state.
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium + OS deps
+        run: npx playwright install --with-deps chromium
+
+      - name: Install Xvfb (virtual display for headed Chromium)
+        run: sudo apt-get update && sudo apt-get install -y xvfb
+
+      - name: Install and start Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve &
+          for i in $(seq 1 30); do curl -sf http://localhost:11434 >/dev/null && break; sleep 1; done
+          ollama pull qwen2.5:3b
+
+      - name: Restore secrets to disk
+        run: |
+          echo "${{ secrets.X_STATE_JSON_B64 }}" | base64 -d > x_state.json
+          echo "${{ secrets.CONFIG_LOCAL_JSON_B64 }}" | base64 -d > config.local.json
+
+      - name: Run doom-scroll sweep (X)
+        run: xvfb-run -a node doom_scroll_agent.js 10
+        continue-on-error: true # one lane failing (e.g. X account issue) shouldn't block the RSS lanes below
+
+      - name: Refresh YouTube
+        run: node youtube_monitor.js
+        continue-on-error: true
+
+      - name: Refresh regulator / exchange / protocol RSS lanes
+        run: node refresh_all_rss.js
+        continue-on-error: true
+
+      - name: Remove secrets before commit
+        run: rm -f x_state.json config.local.json
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dashboard_activity_log.json youtube_latest_log.json regulator_latest_log.json exchange_latest_log.json protocol_latest_log.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Automated sweep $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
