@@ -19,18 +19,26 @@ function git(args) {
 }
 
 // Render's runtime container doesn't inherit git push credentials from the build step, so
-// the remote needs a token embedded in its URL. Configures the local git identity too
-// (required for commit to work at all) - done once at module load.
+// the remote needs a token embedded in its URL. Also: Render checks out a detached HEAD
+// (confirmed live - "You are not currently on a branch") and its clone has NO "origin"
+// remote configured at all (confirmed live - "fatal: No configured push destination"), so
+// this has to create both from scratch rather than assume a normal `git clone` state.
 function setup() {
   if (!ENABLED) return;
   try {
     git(['config', 'user.email', 'dashboard@trend-monitor.local']);
     git(['config', 'user.name', 'Trend Monitor Dashboard']);
-    if (GITHUB_TOKEN) {
-      git(['remote', 'set-url', 'origin', `https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git`]);
-    } else {
+    if (!GITHUB_TOKEN) {
       console.error('GIT_PERSIST is enabled but GITHUB_TOKEN is not set - git push will fail.');
+      return;
     }
+    const remoteUrl = `https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git`;
+    try {
+      git(['remote', 'set-url', 'origin', remoteUrl]);
+    } catch {
+      git(['remote', 'add', 'origin', remoteUrl]); // no "origin" remote exists yet on this checkout
+    }
+    git(['checkout', '-B', 'main']); // detached HEAD -> a real local branch, so commits have somewhere to live
   } catch (e) {
     console.error('git_sync setup failed:', e.message);
   }
@@ -40,7 +48,7 @@ setup();
 function pull() {
   if (!ENABLED) return;
   try {
-    git(['pull', '--rebase', '--autostash']);
+    git(['pull', 'origin', 'main', '--rebase', '--autostash']);
   } catch (e) {
     console.error('git pull failed:', e.message);
   }
@@ -57,7 +65,7 @@ function commitAndPush(message) {
     } catch {
       return; // nothing to commit - not an error
     }
-    git(['push']);
+    git(['push', 'origin', 'main']);
   } catch (e) {
     console.error('git commitAndPush failed:', e.message);
   }
