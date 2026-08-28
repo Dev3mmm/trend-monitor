@@ -7,7 +7,9 @@ name: Trend Monitor Sweep
 # run starts by checking out the latest committed state.
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # Offset from :00/:30 (top-of-half-hour) since GitHub's scheduler queues those minutes
+    # heaviest and is more likely to delay/drop runs that land exactly on them.
+    - cron: '7,37 * * * *'
   workflow_dispatch: {}
 
 permissions:
