@@ -7,10 +7,20 @@ name: Trend Monitor Sweep
 # run starts by checking out the latest committed state.
 on:
   schedule:
-    # Offset from :00/:30 (top-of-half-hour) since GitHub's scheduler queues those minutes
-    # heaviest and is more likely to delay/drop runs that land exactly on them.
-    - cron: '7,37 * * * *'
+    # */5 is GitHub's minimum supported cron interval - shorter isn't honored anyway.
+    - cron: '*/5 * * * *'
   workflow_dispatch: {}
+
+# Runs are 5min apart but each run used to take ~11min (mostly a fresh 2GB Ollama model
+# pull + Chromium install every time) - without this, overlapping runs would log into the
+# same X account from two Chromium sessions at once (risks a flag) and race on git push.
+# Caching below cuts run time a lot, but 5min is tight enough that this queue will often
+# have a run or two waiting - that's fine, they just run back-to-back once caches are warm;
+# cancel-in-progress stays false because dropping a half-finished scrape/commit is worse
+# than a short queue delay.
+concurrency:
+  group: sweep
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -25,15 +35,28 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
 
       - name: Install Playwright Chromium + OS deps
         run: npx playwright install --with-deps chromium
 
       - name: Install Xvfb (virtual display for headed Chromium)
         run: sudo apt-get update && sudo apt-get install -y xvfb
+
+      - name: Cache Ollama models
+        uses: actions/cache@v4
+        with:
+          path: ~/.ollama/models
+          key: ollama-qwen2.5-3b
 
       - name: Install and start Ollama
         run: |
