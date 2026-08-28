@@ -7,17 +7,15 @@ name: Trend Monitor Sweep
 # run starts by checking out the latest committed state.
 on:
   schedule:
-    # */5 is GitHub's minimum supported cron interval - shorter isn't honored anyway.
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch: {}
 
-# Runs are 5min apart but each run used to take ~11min (mostly a fresh 2GB Ollama model
-# pull + Chromium install every time) - without this, overlapping runs would log into the
-# same X account from two Chromium sessions at once (risks a flag) and race on git push.
-# Caching below cuts run time a lot, but 5min is tight enough that this queue will often
-# have a run or two waiting - that's fine, they just run back-to-back once caches are warm;
+# Runs are 10min apart. Without this, if a run overran 10min the next scheduled tick would
+# start in parallel - two Chromium sessions logging into the same X account at once (risks
+# a flag) and a git push race. With this, a run that's still going when the next tick fires
+# just waits/queues until the current one finishes, then starts - never in parallel.
 # cancel-in-progress stays false because dropping a half-finished scrape/commit is worse
-# than a short queue delay.
+# than a short wait.
 concurrency:
   group: sweep
   cancel-in-progress: false
