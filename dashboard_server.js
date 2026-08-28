@@ -141,11 +141,18 @@ function paginate(items, url, ageFn) {
   };
 }
 
+// Older items logged before originTimestamp existed only have a static ageMin snapshot
+// captured once at scrape time - using it directly would make those items sort as
+// permanently "fresh" forever (frozen age), burying real new catches under them. Falling
+// back to elapsed time since ts (catch/log time, always present) instead keeps age growing
+// naturally so newest-first sorting actually reflects the current moment.
 function xAge(item) {
-  return item.originTimestamp ? Date.now() - new Date(item.originTimestamp).getTime() : (item.ageMin || 0) * 60000;
+  if (item.originTimestamp) return Date.now() - new Date(item.originTimestamp).getTime();
+  return Date.now() - new Date(item.ts).getTime();
 }
 function ytAge(item) {
-  return item.publishedAt ? Date.now() - new Date(item.publishedAt).getTime() : Date.now();
+  if (item.publishedAt) return Date.now() - new Date(item.publishedAt).getTime();
+  return item.ts ? Date.now() - new Date(item.ts).getTime() : Date.now();
 }
 
 const server = http.createServer(async (req, res) => {

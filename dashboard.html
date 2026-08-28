@@ -364,7 +364,7 @@ async function loadX() {
     <div class="card" data-id="${i.id}">
       <div class="row1">
         <span><span class="badge ${i.status}">${i.status.replace('_',' ')}</span> <span class="author">${esc(i.author)}</span></span>
-        <span class="age">${i.ageMin}m old &middot; seen ${timeAgo(i.ts)}</span>
+        <span class="age">${timeAgo(i.originTimestamp || i.ts)} old &middot; seen ${timeAgo(i.ts)}</span>
       </div>
       ${i.reason ? `<div class="reason">${esc(i.reason)}</div>` : ''}
       <div class="text">${esc(i.text)}</div>
