@@ -88,5 +88,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add dashboard_activity_log.json youtube_latest_log.json regulator_latest_log.json exchange_latest_log.json protocol_latest_log.json 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "Automated sweep $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Automated sweep $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # Render's dashboard also pushes to this repo, so the remote can move forward while
+          # this run was scraping - retry with a rebase pull instead of failing and losing
+          # this cycle's data outright (that's what happened before this was added).
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rejected, pulling and retrying ($i/5)..."
+            git pull origin main --rebase --autostash
+            sleep 2
+          done
+          echo "::error::git push failed after 5 retries"
+          exit 1
