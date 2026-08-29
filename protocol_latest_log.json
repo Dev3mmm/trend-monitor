@@ -694,5 +694,19 @@
     "fetchedAt": "2026-08-29T13:35:39.376Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-599ca5d3cc633f85",
+    "title": "Import a 21-word Yoroi paper wallet in 2026",
+    "url": "https://forum.cardano.org/t/import-a-21-word-yoroi-paper-wallet-in-2026/156527",
+    "description": "Hi, I have a Yoroi paper wallet secured with a 21-word recovery phrase. I’m trying to move the funds to a regular wallet so I can send them to an exchange, but I’m stuck. Current Yoroi versions no longer have the “Transfer from paper wallet” / “Legacy Yoroi paper wallet” option that used to exist for this format. Yoroi has since become SecondFi, which was hacked in June 2026 and has now been perma",
+    "publishedAt": "2026-08-29T22:26:36.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-08-29T22:29:42.069Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
