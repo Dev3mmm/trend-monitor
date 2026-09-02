@@ -1114,5 +1114,19 @@
     "fetchedAt": "2026-09-02T14:35:22.652Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-674ca920bc1cf55e",
+    "title": "MiMo-7B-Base: A Foundation Model for Math & Code Reasoning",
+    "url": "https://aioz.network/blog/mimo-7b-base-a-foundation-model-for-math-code-reasoning",
+    "description": "TL;DR MiMo-7B-Base is a 7B-class decoder-only language model pretrained from scratch for mathematical and code reasoning. It combines a 32,768-token context window, 36 transformer layers, Grouped-Query Attention, RoPE, SwiGLU, and Multi-Token Prediction. Trained on approximately 25 trillion tokens through a three-stage data-mixture strategy, it provides a compact base for supervised fine-tuning, r",
+    "publishedAt": "2026-09-02T15:13:38.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-02T15:29:57.269Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
