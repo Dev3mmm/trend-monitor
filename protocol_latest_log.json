@@ -1200,5 +1200,21 @@
     "fetchedAt": "2026-09-03T06:17:03.127Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-de2d825752b6f05c",
+    "title": "[Block Chain Security] Closer Connections Lead to Blurred Responsibility",
+    "url": "https://forum.cardano.org/t/topic/156611",
+    "description": "[Special Feature 2/3] Closer Connections Lead to Blurred Responsibility | Block Chain Security — Not Just a Cardano Problem On Part 1, we posed the question of \"Did we protect the mainnets but overlook the borders\" with a case of the Wanchain bridge, which connects Cardano and BNB chain, which led to a security breach. In Part 2, we broaden our perspective to include the entire industry, examining security issues at different points: hardware wallets, exchanges, and interchain protocols. We show that incidents occurring in different places are actually rooted in the same structural cause. The concept that \"separating private keys from the internet through hardware is safe\" is a foundational premise for hardware wallets. However, this foundation was shaken starting from July 30, 2026, when a security breach occurred in Bitcoin hardware wallets.",
+    "publishedAt": "2026-09-03T06:31:18.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": true,
+    "originalTitle": "[블록체인 보안] 사각지대, 연결이 늘수록 책임은 흐려진다",
+    "originalDescription": "[특별기획 2/3] 연결이 늘수록 책임은 흐려진다 | 블록체인 보안 — Not Just a Cardano Problem 2026년 9월 3일 Ilhun 지난 1부에서는 카르다노와 BNB체인을 잇는 Wanchain 브릿지 사고를 통해 \"메인넷은 지켰지만 경계 지점은 어떤가\"라는 질문을 던졌습니다. 2부에서는 시야를 업계 전체로 넓힙니다. 하드웨어 지갑, 거래소, 인터체인 프로토콜 — 서로 다른 세 곳에서 벌어진 사고가 사실은 같은 구조적 원인을 공유하고 있다는 걸 보여드리려 합니다. 손끝에서 무너진 신뢰 — 콜드카드 사태와 감사받지 않은 공급망 \"프라이빗 키를 인터넷에서 물리적으로 분리하면 안전하다\"는 것은 하드웨어 지갑의 기본 전제입니다. 2026년 7월 30일부터 이 전제가 흔들렸습니다. 비트코인 하드웨어",
+    "fetchedAt": "2026-09-03T06:36:48.338Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
