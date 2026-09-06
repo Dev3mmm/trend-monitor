@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1788563004602-vi6btp",
-    "source": "x",
-    "ts": "2026-09-04T23:03:24.602Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 529,
-    "originTimestamp": "2026-09-04T14:14:01.000Z",
-    "reason": "Noise: generic tweet without real content.",
-    "text": "Grok \n@Bot\n available for iPad",
-    "url": "https://x.com/elonmusk/status/2096001766324064371"
-  },
-  {
-    "id": "x-1788563007884-rkjwq9",
-    "source": "x",
-    "ts": "2026-09-04T23:03:27.884Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CORE IS BACK 🔶",
-    "ageMin": 1950,
-    "originTimestamp": "2026-09-03T14:32:46.000Z",
-    "reason": "Insufficient information or context for verification.",
-    "text": "DONE #Core",
-    "url": "https://x.com/AZIMGamingNs1/status/2095584535346110702"
-  },
-  {
-    "id": "x-1788563015611-p3f1m5",
-    "source": "x",
-    "ts": "2026-09-04T23:03:35.611Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Herboria",
-    "ageMin": 145,
-    "originTimestamp": "2026-09-04T20:38:12.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "The face is talking; I’m just listening. 😂📸",
-    "url": "https://x.com/Herboria1/status/2095974735750283659"
-  },
-  {
     "id": "x-1788563034123-qliue7",
     "source": "x",
     "ts": "2026-09-04T23:03:54.123Z",
@@ -6519,5 +6480,44 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "Strive’s OG mission was restoring shareholder primacy & meritocracy across corporate America by crushing the fiduciary breaches happening via proxy advisors & large asset managers.\n\nJob’s not done but great to see these fiduciary breaches get punished.\n\nGreat work \n@SECPaulSAtkins",
     "url": "https://x.com/ColeMacro/status/2096286451336138964"
+  },
+  {
+    "id": "x-1788654252086-znoxfi",
+    "source": "x",
+    "ts": "2026-09-06T00:24:12.087Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Bitcoin.com News",
+    "ageMin": 309,
+    "originTimestamp": "2026-09-05T19:15:00.000Z",
+    "reason": "$ZEC price has shattered the $900 level, a significant move within its recent range.",
+    "text": "NEW: 📈  \n$ZEC\n has shattered the $900 level this week, as the privacy narrative gains more steam.\n\n\"The hard money thesis and growing awareness around digital privacy are helping to drive new price discovery,\" says Grayscale. 🛡️",
+    "url": "https://x.com/BitcoinNews/status/2096316182244835414"
+  },
+  {
+    "id": "x-1788654260965-wxsa4l",
+    "source": "x",
+    "ts": "2026-09-06T00:24:20.965Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Dan Hillery",
+    "ageMin": 884,
+    "originTimestamp": "2026-09-05T09:40:08.000Z",
+    "reason": "Vague opinion with no factual claim or basis given.",
+    "text": "I generally agree with this framing.\n\nI have run a lot of simulations and the optimal move is to lever at the power law floor then never sell.",
+    "url": "https://x.com/hillery_dan/status/2096278813353115865"
+  },
+  {
+    "id": "x-1788654268827-uma0z2",
+    "source": "x",
+    "ts": "2026-09-06T00:24:28.828Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Chef Goose",
+    "ageMin": 1561,
+    "originTimestamp": "2026-09-04T22:23:43.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "to all the people DMing me about the quest's difficulty:\n\nthat's the point.\n\nyou gotta be lucky to succeed.\n\nThe actual game won't have 1% success rates on quests, but this one is a special one we made to distribute some free mints.\n\nstop asking me to increase your odds.",
+    "url": "https://x.com/chefgoose/status/2096248382478065827"
   }
 ]
