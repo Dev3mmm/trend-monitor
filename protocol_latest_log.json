@@ -1,37 +1,5 @@
 [
   {
-    "id": "proto-dc030728f2b27f23",
-    "title": "SecondFi最新进展",
-    "url": "https://forum.cardano.org/t/secondfi/156500",
-    "description": "August Update: In the ongoing investigation and repair, SecondFi's official has revealed several critical updates: Two groups of malicious actors are operating simultaneously. The investigation found that the attacks are not coming from the same organization, but from two independent groups of hackers. The main attacker employs a highly complex and well-funded method, and is currently highly suspected to be the notorious Lazarus Group from North Korea. Simultaneously, another group of independent hackers is launching attacks on different affected wallets. These two groups are even seen competing for stolen funds on the blockchain. Complete Product Shutdown: Given the severe destruction of trust in this security incident, SecondFi's team made a difficult decision to shut down SecondFi and the Yoroi wallet. This name, which accompanied the early days of the Cardano ecosystem, will officially exit history. Safe Wallet Transfer Tool Launched: On August 13, a wallet transfer tool, independently audited by independent security company Bitdefender, has been officially launched. The tool can automatically assist affected users in safely transferring the remaining ADA, native tokens, and NFTs to the users' wallets.",
-    "publishedAt": "2026-08-28T01:58:42.000Z",
-    "source": "Cardano Forum",
-    "sourceType": "protocol",
-    "sourceKind": "forum",
-    "translated": true,
-    "originalTitle": "SecondFi最新进展",
-    "originalDescription": "8月最新进展 ： 在持续调查与修复中，SecondFi官方陆续披露了几个极其关键的更新： 两股攻击势力同时作恶 ：调查发现，链上的攻击并非出自同一组织，而是两拨互不隶属的独立攻击者。主要攻击者手法极其复杂且资金充裕，目前已被高度怀疑是臭名昭著的朝鲜黑客组织 Lazarus Group。而在同一时间段，还有第二拨独立的黑客在对不同的受影响钱包发起攻击，双方在链上甚至出现了争夺盗转资金的态势。 彻底关停产品 ：鉴于此次安全事件对信任基础的破坏极其严重，SecondFi团队做出了一个艰难的决定：全面关停SecondFi和Yoroi钱包。这个陪伴了Cardano生态早期岁月的名字，将正式退出历史舞台。 安全迁移工具正式上线 ：8月13日，由独立安全公司Bitdefender完成独立审计的钱包迁移工具已正式上线。该工具能够自动化地协助受影响用户，将剩余的ADA、原生代币及NFT安全地一键转移至用户自",
-    "fetchedAt": "2026-08-28T05:58:04.719Z",
-    "userStatus": null,
-    "relevanceRejected": false
-  },
-  {
-    "id": "proto-75f082ae73cf3322",
-    "title": "SecondFi Asset Migration Operation Guide",
-    "url": "https://forum.cardano.org/t/secondfi/156501",
-    "description": "Summary of SecondFi Event in 2026 June: Attackers exploited a vulnerability in the SecondFi (formerly Yoroi) wallet to steal approximately 16.1 million ADA from 374 wallets. To protect users, EMURGO had already preemptively moved the funds in wallets at risk (approximately 129 million ADA) to safe places. Most wallets are currently safe. The official team has now launched the asset safety migration function. The SecondFi team will also provide asset recovery tools to return the funds to their owners, whether stolen or protected by EMURGO. Absolutely Do Not Do (Fraud Warning): Do not delete your SecondFi app and mnemonic (recovery phrase), keep it as is. Anyone asking for a \"private key\" or \"mnemonic\" is a骗子! Do not input your mnemonic in private messages, comments, or any website. Asset Migration Operation Guide Step 1: Confirm if you are affected If you have never used SecondFi or Yoroi, or have only used it through hardware wallets (Ledger/Trezor).",
-    "publishedAt": "2026-08-28T02:04:43.000Z",
-    "source": "Cardano Forum",
-    "sourceType": "protocol",
-    "sourceKind": "forum",
-    "translated": true,
-    "originalTitle": "SecondFi资产迁移操作指南",
-    "originalDescription": "SecondFi事件摘要 2026年6月，攻击者利用 SecondFi（原Yoroi）钱包的漏洞，从 374 个钱包中盗取了约 1610 万个 ADA。为了保护用户，EMURGO 已经抢先将面临相同风险的钱包中的资金（共计约 1.29 亿 ADA）转移到了安全的地方，绝大多数钱包目前是安全的。 目前，官方已上线资产安全迁移功能。对于被盗的资金以及被官方保护性转移的资金，SecondFi团队将推出资产恢复工具，原路返还给所有者。 绝对不要做的事情（防骗警告） 不要删除 你的 SecondFi 应用和助记词（恢复短语），请保留原样。 任何索要“私钥”或“助记词”的人都是骗子！ 无论是在私信、评论区还是任何网站，绝对不要输入你的助记词。 资产迁移操作指南 步骤一：确认你是否受到影响 如果你完全没有使用过 SecondFi 或 Yoroi，或者 只通过硬件钱包（Ledger/Trezor）连接使用",
-    "fetchedAt": "2026-08-28T05:57:40.169Z",
-    "userStatus": null,
-    "relevanceRejected": false
-  },
-  {
     "id": "proto-a5918350f5778502",
     "title": "Recap Cardano Indonesian Townhall 2026 - #7",
     "url": "https://forum.cardano.org/t/recap-cardano-indonesian-townhall-2026-7/156503",
