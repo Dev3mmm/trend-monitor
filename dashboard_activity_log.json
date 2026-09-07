@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1788695002106-p8bqsp",
-    "source": "x",
-    "ts": "2026-09-06T11:43:22.106Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Decrypt",
-    "ageMin": 1183,
-    "originTimestamp": "2026-09-05T16:00:01.000Z",
-    "reason": "Unusual fast token issuance event",
-    "text": "A new token ran from zero to 150M token in under 5 hours!",
-    "url": "https://x.com/DecryptMedia/status/2096267112733901252"
-  },
-  {
-    "id": "x-1788695023412-ubb2xm",
-    "source": "x",
-    "ts": "2026-09-06T11:43:43.412Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 1039,
-    "originTimestamp": "2026-09-05T18:24:39.000Z",
-    "reason": "No notable move or news value in a generic usage limits tweet.",
-    "text": "Grok \n@Bot\n usage limits reset",
-    "url": "https://x.com/elonmusk/status/2096332306847875580"
-  },
-  {
-    "id": "x-1788695030915-9rn0db",
-    "source": "x",
-    "ts": "2026-09-06T11:43:50.915Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 104,
-    "originTimestamp": "2026-09-06T10:00:00.000Z",
-    "reason": "Tether CEO's statement about holding US Treasuries is a notable regulatory and financial move.",
-    "text": "Tether CEO: Tether Is Set to Become a Top 5 Buyer of US Treasuries\n\nIn an August 30, 2026 video interview with The Wolf Of All Streets, Tether CEO Paolo Ardoino \n@paoloardoino\n  said Tether is already the 16th or 17th largest holder of US Treasuries and will structurally keep",
-    "url": "https://x.com/WuBlockchain/status/2096538902345441779"
-  },
-  {
-    "id": "x-1788695040303-aftqg0",
-    "source": "x",
-    "ts": "2026-09-06T11:44:00.303Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 1659,
-    "originTimestamp": "2026-09-05T08:05:17.000Z",
-    "reason": "No notable price movement or event described.",
-    "text": "Bye-bye, ₿ears.",
-    "url": "https://x.com/saylor/status/2096147642774437985"
-  },
-  {
     "id": "x-1788695070154-bgmkkw",
     "source": "x",
     "ts": "2026-09-06T11:44:30.154Z",
@@ -6526,5 +6473,57 @@
     "reason": "No notable move or concrete news.",
     "text": "Holy shit\n\nAltcoins\n\n🟣",
     "url": "https://x.com/AssetsNorris/status/2096749457240916024"
+  },
+  {
+    "id": "x-1788781467163-6pc3bc",
+    "source": "x",
+    "ts": "2026-09-07T11:44:27.163Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Akshay",
+    "ageMin": 384,
+    "originTimestamp": "2026-09-07T05:19:39.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨 \n$SEI\n IS TARGETING ONE OF CRYPTO’S BIGGEST BOTTLENECKS! ⚡\n\nSEI is positioning itself around high-speed trading infrastructure, designed for applications that need fast execution and low latency.\n\nWith traders watching higher-beta altcoins again, \n$SEI\n’s performance could become",
+    "url": "https://x.com/iiam_Akshay/status/2096830734812283094"
+  },
+  {
+    "id": "x-1788781470040-mp2fz4",
+    "source": "x",
+    "ts": "2026-09-07T11:44:30.041Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "XRPEEZIE",
+    "ageMin": 961,
+    "originTimestamp": "2026-09-06T19:43:29.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Be honest,\n\nDoes \n$ZBCN\n even touch $0.04 this year?👀\n\n#zbcn #zebec #crypto",
+    "url": "https://x.com/XRPEEZIE/status/2096685738423099763"
+  },
+  {
+    "id": "x-1788781482172-664bb7",
+    "source": "x",
+    "ts": "2026-09-07T11:44:42.172Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "unusual_whales",
+    "ageMin": 934,
+    "originTimestamp": "2026-09-06T20:11:00.000Z",
+    "reason": "Vague statement with no specific information or move.",
+    "text": "There is a lot of moves in crypto right now.\n\nMany huge gains.\n\nBut what are people doing in options and crypto related companies.\n\nLet's take a deep dive.",
+    "url": "https://x.com/unusual_whales/status/2096692663005159724"
+  },
+  {
+    "id": "x-1788781485820-sq64bp",
+    "source": "x",
+    "ts": "2026-09-07T11:44:45.820Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Aster 🥷",
+    "ageMin": 420,
+    "originTimestamp": "2026-09-07T04:44:47.000Z",
+    "reason": "New perp listing with leverage increases risks in the token.",
+    "text": "New perp listing: \n$BREW\n (0xfa6D9B504848606Eb9aeC04CCc161D169B3f2159) with up to 3x leverage.",
+    "url": "https://x.com/Aster_DEX/status/2096821963310481828"
   }
 ]
