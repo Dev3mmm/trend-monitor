@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1788788764072-456d3w",
-    "source": "x",
-    "ts": "2026-09-07T13:46:04.072Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Carl Moon 🌙",
-    "ageMin": 256,
-    "originTimestamp": "2026-09-07T09:29:32.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "$ETH\n is going sideways again.\n\nMaybe a dump to trap shorts and then a pump to $3K.",
-    "url": "https://x.com/carlmoon/status/2096893621006147721"
-  },
-  {
-    "id": "x-1788788768535-1x6h6i",
-    "source": "x",
-    "ts": "2026-09-07T13:46:08.535Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Gordon 🐂",
-    "ageMin": 159,
-    "originTimestamp": "2026-09-07T11:07:21.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Bitcoin's weekly Supertrend is now green.\n\nLast time this happened, BTC pumped 6x.\n\nJust saying...",
-    "url": "https://x.com/GordonGekko/status/2096918237816500699"
-  },
-  {
-    "id": "x-1788789229891-cbp9kp",
-    "source": "x",
-    "ts": "2026-09-07T13:53:49.891Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Fetch.ai",
-    "ageMin": 42,
-    "originTimestamp": "2026-09-07T13:11:06.000Z",
-    "reason": "New use of a token/stablecoin",
-    "text": "Want to combine uAgents + \n@solana\n  transactions? Build this 3-Agent flow.\n\nPlayerAgent\n\n→ Loads its Solana wallet\n→ Sends an `escrowRequest`\n→ Transfers SOL to escrow\n\nChallengerAgent\n\n→ Does the same from a second wallet\n\nEscrowAgent\n\n→ Receives both requests\n→ Pulls live",
-    "url": "https://x.com/Fetch_ai/status/2096949381953933694"
-  },
-  {
     "id": "x-1788789235041-3ar5f1",
     "source": "x",
     "ts": "2026-09-07T13:53:55.041Z",
@@ -6523,5 +6483,44 @@
     "reason": "No notable move or concrete, specific information.",
     "text": "5150 seek and you shall find.\n\nRecomputed from one Solana Mobile Seed Vault signature. Nothing to back up.\n\ndid:key:z6MknoUN3oj3mQMvBAZ6kB9nDZi9s1nwt1ifVLY7KHMxvjoW\n\n\nhttps://\ntechnocore.chat/kv/did-5a/a669\n98ca9314e6\n…\n\nFLOP Passport for Seeker by \n@AlexKosa1\n\n#FLOP #SolanaMobile #Seeker",
     "url": "https://x.com/virtuesoldiers/status/2097103321458774164"
+  },
+  {
+    "id": "x-1788851685118-t0br2p",
+    "source": "x",
+    "ts": "2026-09-08T07:14:45.118Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Watcher.Guru",
+    "ageMin": 171,
+    "originTimestamp": "2026-09-08T04:22:52.000Z",
+    "reason": "Crypto news outlet would cover significant geopolitical developments affecting crypto markets.",
+    "text": "JUST IN: 🇨🇦🇺🇸 Canada's retaliatory tariffs against select US imports officially in effect.",
+    "url": "https://x.com/WatcherGuru/status/2097178833480769623"
+  },
+  {
+    "id": "x-1788851690804-nxdtwu",
+    "source": "x",
+    "ts": "2026-09-08T07:14:50.804Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "𝐃𝐁𝐢𝐠 𝐚𝐝𝐞𝐱 crypto_hub🔸𓃵",
+    "ageMin": 227,
+    "originTimestamp": "2026-09-08T03:27:40.000Z",
+    "reason": "No notable move detected; price is within its recent range.",
+    "text": "🔥 \n$CORE\n IS WAKING UP! 🔥\nCORE/USDT sitting around $0.0213, with buyers stepping back in after that sharp move. The chart is showing some serious volatility—and that’s exactly where things can get interesting. 📈👀\nWe’ve already seen CORE trade above",
+    "url": "https://x.com/dbigadex/status/2097164944135319564"
+  },
+  {
+    "id": "x-1788851706403-uhtqv2",
+    "source": "x",
+    "ts": "2026-09-08T07:15:06.403Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Ash Crypto",
+    "ageMin": 1371,
+    "originTimestamp": "2026-09-07T08:24:13.000Z",
+    "reason": "Notable regulatory move supporting crypto businesses in Ghana.",
+    "text": "BREAKING: 🇬🇭 The Bank of Ghana will soon roll out guidelines to support crypto businesses.  \n\nCrypto adoption is growing worldwide.",
+    "url": "https://x.com/AshCrypto/status/2096877186292850781"
   }
 ]
