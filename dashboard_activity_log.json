@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1788827133075-182zb2",
-    "source": "x",
-    "ts": "2026-09-08T00:25:33.075Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "BSCN",
-    "ageMin": 156,
-    "originTimestamp": "2026-09-07T21:49:15.000Z",
-    "reason": "Notable institutional use case with oracle updates affecting protocol profits.",
-    "text": "Chainlink auctions the right to liquidate loans that a price update just broke\n\nWhen an oracle update lands onchain, bots race to liquidate the loans it pushed underwater, and the protocol loses that profit entirely. The industry calls it Oracle Extractable Value.\n\nSmart Value",
-    "url": "https://x.com/BSCNews/status/2097079777530126770"
-  },
-  {
-    "id": "x-1788827135817-y66p22",
-    "source": "x",
-    "ts": "2026-09-08T00:25:35.817Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 706,
-    "originTimestamp": "2026-09-07T12:38:45.000Z",
-    "reason": "Noise: generic statement without any specific factual claim.",
-    "text": "🤔",
-    "url": "https://x.com/elonmusk/status/2097078858826580400"
-  },
-  {
-    "id": "x-1788827139087-ok1qwl",
-    "source": "x",
-    "ts": "2026-09-08T00:25:39.087Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Decrypt",
-    "ageMin": 868,
-    "originTimestamp": "2026-09-07T09:57:00.000Z",
-    "reason": "Notable exploit involving cryptocurrency withdrawal.",
-    "text": "'Purported White Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
-    "url": "https://x.com/DecryptMedia/status/2096900535349592347"
-  },
-  {
-    "id": "x-1788827141991-nxnopa",
-    "source": "x",
-    "ts": "2026-09-08T00:25:41.991Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 742,
-    "originTimestamp": "2026-09-07T12:03:12.000Z",
-    "reason": "Noise: generic hype without factual claim.",
-    "text": "Labor Day but the labor is posting tweets.",
-    "url": "https://x.com/coinbase/status/2096932293952553346"
-  },
-  {
     "id": "x-1788827146236-qxzrm2",
     "source": "x",
     "ts": "2026-09-08T00:25:46.236Z",
@@ -6517,5 +6465,57 @@
     "reason": "Generic promotional tweet without specific action or event.",
     "text": "The safest way to protect all your crypto assets.\n\nLimited edition \n@StellarOrg\n x \n@Zebec_HQ\n wallets \n\nGet yours before it’s too late \n\n\nhttps://\nstellar.tangem.com",
     "url": "https://x.com/yabxcryptomoney/status/2097353909639483879"
+  },
+  {
+    "id": "x-1788916468855-d21sr0",
+    "source": "x",
+    "ts": "2026-09-09T01:14:28.855Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "YabXCryptoMoney",
+    "ageMin": 566,
+    "originTimestamp": "2026-09-08T15:47:39.000Z",
+    "reason": "Generic promotional tweet with no factual claim or notable move.",
+    "text": "The safest way to protect all your crypto assets.\n\nLimited edition \n@StellarOrg\n x \n@Zebec_HQ\n wallets \n\nGet yours before it’s too late \n\n\nhttps://\nstellar.tangem.com",
+    "url": "https://x.com/yabxcryptomoney/status/2097353909639483879"
+  },
+  {
+    "id": "x-1788916476451-u8y0zl",
+    "source": "x",
+    "ts": "2026-09-09T01:14:36.451Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Clock Swap 🔸🔶",
+    "ageMin": 999,
+    "originTimestamp": "2026-09-08T08:35:16.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "$CORE\n may be nearing the end of its accumulation, but the actual escape still needs confirmation 💯🤝\n\n#JustUseCore",
+    "url": "https://x.com/Clockswap/status/2097287008414527951"
+  },
+  {
+    "id": "x-1788916485568-6m681g",
+    "source": "x",
+    "ts": "2026-09-09T01:14:45.568Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coredao_NG🔶🇳🇬",
+    "ageMin": 415,
+    "originTimestamp": "2026-09-08T18:20:08.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "I know millions have lost faith in #$CORE, but rest assured, a lot of positive changes are coming the Next coming months",
+    "url": "https://x.com/COREDAO_NIGERIA/status/2097389540600148372"
+  },
+  {
+    "id": "x-1788916491154-mrp8f4",
+    "source": "x",
+    "ts": "2026-09-09T01:14:51.154Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Zebec Bull 🏴‍☠️🐂",
+    "ageMin": 734,
+    "originTimestamp": "2026-09-08T13:00:47.000Z",
+    "reason": "Stablecoin adoption and innovation in cross-border payments.",
+    "text": "👀 \n@MoneyGram\n just posted they’re going to \n@solana\n Breakpoint.\nAnthony Soohoo is talking stablecoins + instant settlement for cross-border payments.\nThis is not random.\n\n@Zebec_HQ\n is already the payroll layer sitting on those rails.\n✅ Selected as Stellar’s global stablecoin",
+    "url": "https://x.com/ZbcnOg/status/2097378396473102433"
   }
 ]
