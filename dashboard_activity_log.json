@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1788855882989-ysp8b3",
-    "source": "x",
-    "ts": "2026-09-08T08:24:42.989Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "THΞGABO🍌",
-    "ageMin": 190,
-    "originTimestamp": "2026-09-08T05:15:00.000Z",
-    "reason": "No notable move or newsworthy event described.",
-    "text": "Gm & Happy Taco Tuesday 😎🌮",
-    "url": "https://x.com/thegaboeth/status/2097191953142354112"
-  },
-  {
     "id": "x-1788855887950-sg2gb5",
     "source": "x",
     "ts": "2026-09-08T08:24:47.950Z",
@@ -6517,5 +6504,18 @@
     "reason": "Price is far outside the recent trading range for both BTC and ETH",
     "text": "$79,000 BITCOIN! \n\n$2,500 ETHEREUM!",
     "url": "https://x.com/cryptorover/status/2097547082500304990"
+  },
+  {
+    "id": "x-1788938741603-v34rs8",
+    "source": "x",
+    "ts": "2026-09-09T07:25:41.603Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Bitcoin Archive",
+    "ageMin": 515,
+    "originTimestamp": "2026-09-08T22:50:19.000Z",
+    "reason": "No notable move, price is well within its recent range.",
+    "text": "Satoshi's 1.08M Bitcoin remains safe from quantum attacks.\n\n• Rewards are split across individual keys. \n\n• Cracking 1 address hourly takes 2.5 years. \n\nIgnore the quantum panic narrative!",
+    "url": "https://x.com/BitcoinArchive/status/2097457532704850251"
   }
 ]
