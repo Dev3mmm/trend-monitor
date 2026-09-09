@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1788822360357-0fxz2k",
-    "source": "x",
-    "ts": "2026-09-07T23:06:00.357Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "David'the'Gamer",
-    "ageMin": 619,
-    "originTimestamp": "2026-09-07T12:46:28.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "I just downloaded fomo app\n\nwish me luck🫠",
-    "url": "https://x.com/ojigombadavid/status/2096943182953001216"
-  },
-  {
-    "id": "x-1788822363943-5ookbt",
-    "source": "x",
-    "ts": "2026-09-07T23:06:03.943Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "America",
-    "ageMin": 1378,
-    "originTimestamp": "2026-09-07T00:08:23.000Z",
-    "reason": "No crypto-related content.",
-    "text": "Common sense is now considered “Far Right”",
-    "url": "https://x.com/america/status/2096950823443980490"
-  },
-  {
-    "id": "x-1788822369954-91npwp",
-    "source": "x",
-    "ts": "2026-09-07T23:06:09.954Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Unipcs (aka 'Bonk Guy') 🎒",
-    "ageMin": 848,
-    "originTimestamp": "2026-09-07T08:58:20.000Z",
-    "reason": "Generic, vague opinion with no factual claim.",
-    "text": "i'm down $3.6 MILLION on fomo in the last 24 hours\n\nthat's more than the current PNL of the top 2 traders on fomo in the last 24 hours COMBINED\n\ni'm sharing this to give people a balanced view\n\nit's not always up\n\nthis kind of volatility is what you need to stomach for the glory",
-    "url": "https://x.com/theunipcs/status/2096885768014733719"
-  },
-  {
-    "id": "x-1788822849316-2l3dfj",
-    "source": "x",
-    "ts": "2026-09-07T23:14:09.316Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Brandon Davenport",
-    "ageMin": 480,
-    "originTimestamp": "2026-09-07T15:13:45.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "i think that this recent decision by Hedera GC is different from all the others…\n\nfrom r/hedera",
-    "url": "https://x.com/itsbrandond/status/2096980247128289722"
-  },
-  {
     "id": "x-1788822853194-anq2kk",
     "source": "x",
     "ts": "2026-09-07T23:14:13.194Z",
@@ -6518,5 +6466,57 @@
     "reason": "No notable move or specific actionable information provided.",
     "text": "MVRV Is Approaching a Regime Test — Not a Bull Signal Yet\n\n“✅ Bull case: reclaim and hold the 365DMA.\n🚨 Risk: rejection keeps MVRV in a repair regime.\n❌ Invalidation: a renewed move toward zero would argue the reset is still incomplete.” – By \n@MorenoDV_",
     "url": "https://x.com/cryptoquant_com/status/2097333348909674867"
+  },
+  {
+    "id": "x-1788912203063-y1wm28",
+    "source": "x",
+    "ts": "2026-09-09T00:03:23.063Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Build on Stellar",
+    "ageMin": 482,
+    "originTimestamp": "2026-09-08T16:01:13.000Z",
+    "reason": "New use of a token/stablecoin (RWAs) on Stellar network.",
+    "text": "Stellar carries $4B+ in tokenized RWAs.\n\nThose markets don't trade around the clock, but the infrastructure they sit on does.\n\nWith Pyth Pro and 24/7 Indices, collateral, risk, and vault accounting keep updating even with the market closed.\n\nNow live on Stellar ⤵️",
+    "url": "https://x.com/BuildOnStellar/status/2097357269164085459"
+  },
+  {
+    "id": "x-1788912211095-axxicr",
+    "source": "x",
+    "ts": "2026-09-09T00:03:31.095Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Bitcoin Magazine",
+    "ageMin": 233,
+    "originTimestamp": "2026-09-08T20:10:56.000Z",
+    "reason": "Specific, verifiable crypto transaction involving institutional participation.",
+    "text": "JUST IN: 🇫🇷 French company Capital B announces a purchase of 376 BTC for €25.3 million! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2097417423192531224"
+  },
+  {
+    "id": "x-1788912220759-8ycqrk",
+    "source": "x",
+    "ts": "2026-09-09T00:03:40.759Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Courtyard",
+    "ageMin": 250,
+    "originTimestamp": "2026-09-08T19:53:21.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Gear 5 Luffy + the crew on one card is wild 🔥\n\n$69 One Piece pack. PSA 10s only. Live now.",
+    "url": "https://x.com/Courtyard_io/status/2097412996561854494"
+  },
+  {
+    "id": "x-1788912229178-pmxdtl",
+    "source": "x",
+    "ts": "2026-09-09T00:03:49.178Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "DeepSafe",
+    "ageMin": 724,
+    "originTimestamp": "2026-09-08T12:00:04.000Z",
+    "reason": "EXACT REPLY MODIFIED AS PER GUIDELINES",
+    "text": "On September 5, Core DAO published its post-mortem on the reward-accounting exploit that ran from August 28 to 31. Roughly 255M CORE of rewards were issued ahead of schedule.\n\nThe cap held. In Core's words, the exploit \"did not create any CORE beyond the protocol's limits; the",
+    "url": "https://x.com/DeepSafe_AI/status/2097293891980660998"
   }
 ]
