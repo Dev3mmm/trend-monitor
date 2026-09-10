@@ -1520,6 +1520,20 @@
     "relevanceRejected": false
   },
   {
+    "id": "proto-0588c66ade39b3f4",
+    "title": "CIP-108 Amendment: Adding Project Manager / Responsible Party Fields",
+    "url": "https://forum.cardano.org/t/cip-108-amendment-adding-project-manager-responsible-party-fields/156714",
+    "description": "Hi Cardano Community, I would like to propose a practical enhancement to the CIP-108 (Governance Actions Metadata) specification. The Problem Generally speaking, the “Author/Submitter” (the entity that technically files a request) and the “Project Manager/Executor” (the party responsible for the actual execution) are inherently distinct roles. Treating them as the same creates a significant gap in",
+    "publishedAt": "2026-09-10T01:13:16.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-09-10T01:16:09.137Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
     "id": "proto-c14bc01adaf0d4e8",
     "title": "The Genesis Bond Is Live: Institutions Begin Bitcoin Staking on Stacks",
     "url": "https://www.stacks.co/blog/the-genesis-bond-is-live-institutions-begin-bitcoin-staking-on-stacks",
