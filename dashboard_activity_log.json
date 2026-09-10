@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1788982465620-aaenz4",
-    "source": "x",
-    "ts": "2026-09-09T19:34:25.620Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Zebec Bull ",
-    "ageMin": 168,
-    "originTimestamp": "2026-09-09T16:46:33.000Z",
-    "reason": "Notional stablecoin use case for workers and cash-in capabilities.",
-    "text": " This is the kind of news that actually matters.\nZebec just teamed up with MoneyGram so companies can pay workers in stablecoins… and those workers can walk into a MoneyGram and get cash in their local currency.\nNot “someday.”\nNot “if you have a bank and a crypto exchange.”",
-    "url": "https://x.com/ZbcnOg/status/2097740013521993993"
-  },
-  {
-    "id": "x-1788982492553-f5520h",
-    "source": "x",
-    "ts": "2026-09-09T19:34:52.553Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 94,
-    "originTimestamp": "2026-09-09T18:00:57.000Z",
-    "reason": "Memes and internet culture observations are not news.",
-    "text": "Gutless Gibney’s fatal flaw of fabricating a false film",
-    "url": "https://x.com/elonmusk/status/2097747100473970711"
-  },
-  {
-    "id": "x-1788982498171-fb3fcd",
-    "source": "x",
-    "ts": "2026-09-09T19:34:58.171Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phillip",
-    "ageMin": 194,
-    "originTimestamp": "2026-09-09T16:21:07.000Z",
-    "reason": "No notable move in token or financial action.",
-    "text": "I watched an AI CEO run my company last week\n\nit shipped the product, wrote the ads, sent the emails, took the payments, and picked what to build next\n\nrun rate grew 27% from $47k → $60k\n\nad impressions surpassed 3M & 62k emails sent",
-    "url": "https://x.com/phillip_xyz/status/2097721977922322672"
-  },
-  {
-    "id": "x-1788982559919-wkjasp",
-    "source": "x",
-    "ts": "2026-09-09T19:35:59.919Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "BSCN",
-    "ageMin": 353,
-    "originTimestamp": "2026-09-09T13:43:16.000Z",
-    "reason": "U.S. Bank's use of a stablecoin for cross-border payments is notable regulatory and industry move.",
-    "text": "U.S. Bank taps Stellar for Cross-border payment using native stablecoin \n\nU.S. Bank just completed its first live cross-border payment utilizing its proprietary $USBDC stablecoin issued on the \n@StellarOrg\n network.\n\nThe transaction demonstrates a shift toward internal bank-issued",
-    "url": "https://x.com/BSCNews/status/2097682253396475947"
-  },
-  {
     "id": "x-1788983109883-uhze3o",
     "source": "x",
     "ts": "2026-09-09T19:45:09.883Z",
@@ -6522,5 +6470,58 @@
     "reason": "No notable move or specific event described.",
     "text": "The battle for CLARITY just jumped from Congress to national television. ",
     "url": "https://x.com/TheCryptoSquire/status/2097830158606700787"
+  },
+  {
+    "id": "x-1789052302004-f34rkb",
+    "source": "x",
+    "ts": "2026-09-10T14:58:22.004Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "The Block",
+    "ageMin": 28,
+    "originTimestamp": "2026-09-10T14:30:09.000Z",
+    "reason": "Specific, verifiable institutional adoption event.",
+    "text": "MoneyGram launches first stablecoin-backed Visa card in Colombia",
+    "url": "https://x.com/TheBlockCo/status/2098056438346105207"
+  },
+  {
+    "id": "x-1789052305881-lwuxwk",
+    "source": "x",
+    "ts": "2026-09-10T14:58:25.881Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Minister ",
+    "ageMin": 53,
+    "originTimestamp": "2026-09-10T14:04:39.000Z",
+    "reason": "No notable move in price or specific event.",
+    "text": "Me selling my memecoin knowing i won’t be part of the community anymore:",
+    "url": "https://x.com/Ministerr/status/2098050021061230682"
+  },
+  {
+    "id": "x-1789052314347-h6lyg9",
+    "source": "x",
+    "ts": "2026-09-10T14:58:34.347Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Crypto Rover",
+    "ageMin": 140,
+    "originTimestamp": "2026-09-10T12:38:24.000Z",
+    "reason": "No concrete price or event mentioned, just a speculative headline.",
+    "text": "CRYPTO MARKET CRASH! \n\nBitcoin drops below $78,000.\n\nEthereum drops below $2,500.\n\nThis is happening because PPI data just came in higher than expected.",
+    "url": "https://x.com/cryptorover/status/2098028317223891120"
+  },
+  {
+    "id": "x-1789052323808-sz80bh",
+    "source": "x",
+    "ts": "2026-09-10T14:58:43.809Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Benjamin Cowen",
+    "ageMin": 67,
+    "originTimestamp": "2026-09-10T13:51:55.000Z",
+    "reason": "No notable move or newsworthy information provided.",
+    "text": "Usually Bitcoin drops at least 10-15% after golden crosses (2019/2023).\n\nThere have been times when it dropped more (2014, 2015, 2020)",
+    "url": "https://x.com/benjamincowen/status/2098046814532636944"
   }
 ]
