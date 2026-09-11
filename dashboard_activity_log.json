@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789037692758-rilku3",
-    "source": "x",
-    "ts": "2026-09-10T10:54:52.758Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Charlie Marsh",
-    "ageMin": 1215,
-    "originTimestamp": "2026-09-09T14:39:32.000Z",
-    "reason": "No notable move in token/coin price or use.",
-    "text": "In preview, uv now uses a fully content-addressed cache.\n\nEvery file, across all packages, is de-duplicated with hardlinks to save disk space.\n\nWe also compute a platform-independent dirhash with BLAKE-3 to deduplicate the packages themselves.",
-    "url": "https://x.com/charliermarsh/status/2097696410783080559"
-  },
-  {
-    "id": "x-1789037708236-ar2e9d",
-    "source": "x",
-    "ts": "2026-09-10T10:55:08.236Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Crypto.com",
-    "ageMin": 475,
-    "originTimestamp": "2026-09-10T03:00:05.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "The future of finance, right in your pocket.",
-    "url": "https://x.com/cryptocom/status/2097882777911759241"
-  },
-  {
-    "id": "x-1789037711616-rcws0l",
-    "source": "x",
-    "ts": "2026-09-10T10:55:11.616Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Kalshi Finance",
-    "ageMin": 670,
-    "originTimestamp": "2026-09-09T23:45:00.000Z",
-    "reason": "No notable move or specific actionable information provided.",
-    "text": "JUST IN: Goldman Sachs says the bull market will \"resume\"",
-    "url": "https://x.com/Kalshi_Finance/status/2097833681750745119"
-  },
-  {
-    "id": "x-1789037715141-ob68w4",
-    "source": "x",
-    "ts": "2026-09-10T10:55:15.141Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coredao_NG",
-    "ageMin": 2349,
-    "originTimestamp": "2026-09-08T19:46:17.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "I'm just. A normal boy,no talent no looks \nNothing special in me\nThat's why I'm BUYING MORE \n$CORE",
-    "url": "https://x.com/COREDAO_NIGERIA/status/2097411219510395302"
-  },
-  {
     "id": "x-1789037728459-cvaiaj",
     "source": "x",
     "ts": "2026-09-10T10:55:28.459Z",
@@ -6525,5 +6473,57 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "In defense of VCs:\n- Companies are staying private longer.\n- Companies are staying private with valuations going past $1T.\n- VC funds are super-sizing by the month and get paid handsome fees on deployment velocity. \n- So no other way really for large funds to deploy capital if",
     "url": "https://x.com/bznotes/status/2097887177665593741"
+  },
+  {
+    "id": "x-1789100616057-nifplc",
+    "source": "x",
+    "ts": "2026-09-11T04:23:36.058Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Watcher.Guru",
+    "ageMin": 503,
+    "originTimestamp": "2026-09-10T20:00:07.000Z",
+    "reason": "Specific and notable legal development involving a high-profile figure in crypto.",
+    "text": "JUST IN:  Sam Bankman-Fried asks Supreme Court to overturn his fraud conviction.",
+    "url": "https://x.com/WatcherGuru/status/2098139478170673525"
+  },
+  {
+    "id": "x-1789100619176-ori677",
+    "source": "x",
+    "ts": "2026-09-11T04:23:39.176Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Prashant",
+    "ageMin": 284,
+    "originTimestamp": "2026-09-10T23:38:48.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Three crazy months of \n@ycombinator\n S26  ended with a nice note for me! Met \n@daltonc\n in person. Been a huge fan of the show for many years. Made my day",
+    "url": "https://x.com/prashant8124/status/2098194509163364628"
+  },
+  {
+    "id": "x-1789100651218-82iafi",
+    "source": "x",
+    "ts": "2026-09-11T04:24:11.218Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Zebec Bull ",
+    "ageMin": 564,
+    "originTimestamp": "2026-09-10T18:59:37.000Z",
+    "reason": "Not enough context provided to judge, more details are needed to verify the significance of the announcement.",
+    "text": " THIS IS MASSIVE FOR \n$ZBCN\n \n\n@circle\n just announced USDC + EURC are coming to Nu Global — 140M+ customers, multi-currency accounts, fast money movement across 35+ countries.\nThis isn’t random. It’s the exact rails Zebec has been building on for years.\nHere’s the direct",
+    "url": "https://x.com/ZbcnOg/status/2098169616350826659"
+  },
+  {
+    "id": "x-1789100659539-p6xj8q",
+    "source": "x",
+    "ts": "2026-09-11T04:24:19.539Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Criskross ",
+    "ageMin": 599,
+    "originTimestamp": "2026-09-10T18:25:17.000Z",
+    "reason": "Notable new features and integrations for the Orbit Plus token.",
+    "text": "Next week — Velo debit card launches.\nOrbit Plus stops being “wallet + off-ramp” and becomes something you can tap.\n What they already mapped:\n• Velo-branded card on Zebec (Silver / Carbon stack)\n• USDT & USDC on BNB, ETH, Tron\n• USD / EUR / GBP balances\n• Apple Pay + Google",
+    "url": "https://x.com/CristianIonita6/status/2098115610680959037"
   }
 ]
