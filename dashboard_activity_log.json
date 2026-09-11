@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789099670067-5vao87",
-    "source": "x",
-    "ts": "2026-09-11T04:07:50.067Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Matt Schlicht",
-    "ageMin": 1516,
-    "originTimestamp": "2026-09-10T02:51:30.000Z",
-    "reason": "Noise: Generic announcement without a specific claim.",
-    "text": "RESET!",
-    "url": "https://x.com/MattPRD/status/2097888032104079856"
-  },
-  {
-    "id": "x-1789099673551-sc5lep",
-    "source": "x",
-    "ts": "2026-09-11T04:07:53.551Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bilal Zuberi // Red Glass Ventures",
-    "ageMin": 1576,
-    "originTimestamp": "2026-09-10T01:51:33.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "In defense of VCs:\n- Companies are staying private longer.\n- Companies are staying private with valuations going past $1T.\n- VC funds are super-sizing by the month and get paid handsome fees on deployment velocity. \n- So no other way really for large funds to deploy capital if",
-    "url": "https://x.com/bznotes/status/2097887177665593741"
-  },
-  {
-    "id": "x-1789100616057-nifplc",
-    "source": "x",
-    "ts": "2026-09-11T04:23:36.058Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Watcher.Guru",
-    "ageMin": 503,
-    "originTimestamp": "2026-09-10T20:00:07.000Z",
-    "reason": "Specific and notable legal development involving a high-profile figure in crypto.",
-    "text": "JUST IN:  Sam Bankman-Fried asks Supreme Court to overturn his fraud conviction.",
-    "url": "https://x.com/WatcherGuru/status/2098139478170673525"
-  },
-  {
-    "id": "x-1789100619176-ori677",
-    "source": "x",
-    "ts": "2026-09-11T04:23:39.176Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Prashant",
-    "ageMin": 284,
-    "originTimestamp": "2026-09-10T23:38:48.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Three crazy months of \n@ycombinator\n S26  ended with a nice note for me! Met \n@daltonc\n in person. Been a huge fan of the show for many years. Made my day",
-    "url": "https://x.com/prashant8124/status/2098194509163364628"
-  },
-  {
     "id": "x-1789100651218-82iafi",
     "source": "x",
     "ts": "2026-09-11T04:24:11.218Z",
@@ -6522,5 +6470,58 @@
     "reason": "No notable move or specific event described.",
     "text": "Don't overthink it \n@notthreadguy",
     "url": "https://x.com/bonercoinlong/status/2098481857012900205"
+  },
+  {
+    "id": "x-1789163157808-l0p1mo",
+    "source": "x",
+    "ts": "2026-09-11T21:45:57.808Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin.com News",
+    "ageMin": 24,
+    "originTimestamp": "2026-09-11T21:21:55.000Z",
+    "reason": "ETH price surges above a notable threshold.",
+    "text": "ETH Price Surges Past $2,600 as CPI Data Triggers Squeeze",
+    "url": "https://x.com/BitcoinNews/status/2098522451172847918"
+  },
+  {
+    "id": "x-1789163161306-wwwiky",
+    "source": "x",
+    "ts": "2026-09-11T21:46:01.306Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "boner",
+    "ageMin": 573,
+    "originTimestamp": "2026-09-11T12:12:15.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Don't overthink it \n@notthreadguy",
+    "url": "https://x.com/bonercoinlong/status/2098481857012900205"
+  },
+  {
+    "id": "x-1789163175066-f3w23n",
+    "source": "x",
+    "ts": "2026-09-11T21:46:15.066Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Altcoin Daily",
+    "ageMin": 167,
+    "originTimestamp": "2026-09-11T18:58:52.000Z",
+    "reason": "No short-range price movement, price is well within the recent range.",
+    "text": " BIG NEWS:  Canada just approved banks to launch crypto deposit products in 2026.\n\nBitcoin is moving deeper into the traditional banking system.",
+    "url": "https://x.com/AltcoinDaily/status/2098486452523004173"
+  },
+  {
+    "id": "x-1789163179716-ceridn",
+    "source": "x",
+    "ts": "2026-09-11T21:46:19.716Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "OpenPay",
+    "ageMin": 797,
+    "originTimestamp": "2026-09-11T08:29:09.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": " Local Business. Simple Payments.\n\nOpenPay makes everyday shopping easier with simple digital payments at local businesses. Scan, pay, and keep your day moving while supporting the stores in your community.\n\nEvery payment connects people and local businesses. Powered by Pi",
+    "url": "https://x.com/OpenPayTeam/status/2098327978841420027"
   }
 ]
