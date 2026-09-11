@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789076643970-q48nav",
-    "source": "x",
-    "ts": "2026-09-10T21:44:03.970Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Bitcoin Magazine",
-    "ageMin": 267,
-    "originTimestamp": "2026-09-10T17:16:33.000Z",
-    "reason": "New use of Bitcoin by a public company for treasury.",
-    "text": "NEW:  Hong Kong Public company Boyaa Interactive buys 115 Bitcoin for its treasury \n\nThis brings their total to 4,316 BTC worth $332.7 million ",
-    "url": "https://x.com/BitcoinMagazine/status/2098098314138849480"
-  },
-  {
-    "id": "x-1789076686026-qj4d8h",
-    "source": "x",
-    "ts": "2026-09-10T21:44:46.026Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "MSB Intel",
-    "ageMin": 389,
-    "originTimestamp": "2026-09-10T15:16:09.000Z",
-    "reason": "New stablecoin-backed payment method from a major financial institution.",
-    "text": "BREAKING: MoneyGram debuts a stablecoin-backed Visa card on Stellar, starting in Colombia.",
-    "url": "https://x.com/MSBIntel/status/2098068014164070598"
-  },
-  {
-    "id": "x-1789076700826-7pbegg",
-    "source": "x",
-    "ts": "2026-09-10T21:45:00.826Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Hedera for Developers",
-    "ageMin": 395,
-    "originTimestamp": "2026-09-10T15:09:34.000Z",
-    "reason": "Notable new dApp creation tool for Hedera network.",
-    "text": "One command gets you a Hedera dApp running on testnet.\n\nnpm create scaffold-hbar@latest\n\nPick the blank template: Next.js, wallet connection for MetaMask and Hedera native wallets, Hardhat or Foundry, and one example contract wired end to end. Delete it and build your own.",
-    "url": "https://x.com/hedera_devs/status/2098066357741035846"
-  },
-  {
-    "id": "x-1789077315168-ekl4zo",
-    "source": "x",
-    "ts": "2026-09-10T21:55:15.168Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Aditya",
-    "ageMin": 33,
-    "originTimestamp": "2026-09-10T21:21:50.000Z",
-    "reason": "No notable crypto-related content or move mentioned.",
-    "text": "Cursor /goal mode has a very hard time actually continuing and finishing the goal. It constantly stops early and I have to tell it to continue to keep going. Am I the only one or does anyone else have this problem? cc: \n@poteto",
-    "url": "https://x.com/adityavg13/status/2098160040570245485"
-  },
-  {
     "id": "x-1789077318407-x7ajzz",
     "source": "x",
     "ts": "2026-09-10T21:55:18.407Z",
@@ -6514,5 +6462,59 @@
     "reason": "Notable account growth for a stablecoin mainnet.",
     "text": "$HBAR\n adoption is exploding \n\nHedera mainnet has now crossed 10 million accounts, up from just 5,000 testers in 2019.\n\nThat’s one hell of a growth curve ",
     "url": "https://x.com/jesseperalta/status/2098412490430562398"
+  },
+  {
+    "id": "x-1789143823384-fh1div",
+    "source": "x",
+    "ts": "2026-09-11T16:23:43.384Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "The Zcash ETF ",
+    "ageMin": 113,
+    "originTimestamp": "2026-09-11T14:30:09.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "They're writing about Zcash on \n@Forbes\n now.\n\n\n@Grayscale\n made an appearance: “Digital asset manager Grayscale, a subsidiary of Digital Currency Group, launched a spot Zcash exchange-traded product (ETP), ZCSH, on NYSE Arca, providing investors with exposure to the price of Zcash",
+    "url": "https://x.com/ZcashETF/status/2098418824634851801"
+  },
+  {
+    "id": "x-1789143832269-7k3tcg",
+    "source": "x",
+    "ts": "2026-09-11T16:23:52.269Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Zebec Network",
+    "ageMin": 16,
+    "originTimestamp": "2026-09-11T16:07:58.000Z",
+    "reason": "New use of stablecoin in payroll operations by businesses.",
+    "text": "Payroll is just the starting point.\n\nFrom stablecoin payroll to treasury, yield and corporate spending, businesses are beginning to move more of their financial operations onchain, with Zebec providing one infrastructure layer across multiple financial workflows.",
+    "url": "https://x.com/Zebec_HQ/status/2098443443420667964"
+  },
+  {
+    "id": "x-1789143835404-swi25u",
+    "source": "x",
+    "ts": "2026-09-11T16:23:55.404Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Jesse Peralta",
+    "ageMin": 139,
+    "originTimestamp": "2026-09-11T14:04:58.000Z",
+    "reason": "Notable adoption growth and account count growth",
+    "text": "$HBAR\n adoption is exploding \n\nHedera mainnet has now crossed 10 million accounts, up from just 5,000 testers in 2019.\n\nThat’s one hell of a growth curve ",
+    "url": "https://x.com/jesseperalta/status/2098412490430562398"
+  },
+  {
+    "id": "x-1789143843070-qoqifx",
+    "source": "x",
+    "ts": "2026-09-11T16:24:03.070Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cosmos Hub ",
+    "ageMin": 1214,
+    "originTimestamp": "2026-09-10T20:10:25.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "This week on the Hub:\n- Noble USDC migration to Injective USDC begins Friday\n- Cosmos Partner Network launched with 17 partners\n- Paxos brokerage integration proposal is live on the forum\n- The ICF announced its refreshed council\n- Tokenomics Phase 2 almost done\n\nForum Recap:",
+    "url": "https://x.com/cosmoshub/status/2098142067767619592"
   }
 ]
