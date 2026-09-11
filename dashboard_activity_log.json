@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789071250150-urcrpz",
-    "source": "x",
-    "ts": "2026-09-10T20:14:10.150Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michelangelo.zec ⓩ",
-    "ageMin": 702,
-    "originTimestamp": "2026-09-10T08:32:22.000Z",
-    "reason": "No notable on-chain data point or significant move mentioned.",
-    "text": "Why I'm bullish on \n$ZEC\n\n\nIT'S THE UX, NOT THE HYPE:\n\nEveryone talks about privacy coins in theory. Zcash is proving it in practice. Shielded transactions just hit an all-time high over half of all ZEC transfers now use shielded addresses. That's not speculators parking coins on",
-    "url": "https://x.com/BTCTurtle/status/2097966398785864049"
-  },
-  {
-    "id": "x-1789071261653-jkxx4q",
-    "source": "x",
-    "ts": "2026-09-10T20:14:21.653Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Alex Cinovoj",
-    "ageMin": 102,
-    "originTimestamp": "2026-09-10T18:32:17.000Z",
-    "reason": "No notable move in price or event described.",
-    "text": "A worktree needs a named owner.\n\nCreation, mutation, merge, and cleanup should belong to one run identity. Filesystem isolation prevents direct collisions, but an abandoned worktree becomes shared state for whoever discovers it next. Ownership is what makes isolation operational.",
-    "url": "https://x.com/AlexCinovoj/status/2098117371953139785"
-  },
-  {
-    "id": "x-1789071264819-cxm53c",
-    "source": "x",
-    "ts": "2026-09-10T20:14:24.819Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "HbarCapital",
-    "ageMin": 437,
-    "originTimestamp": "2026-09-10T12:57:00.000Z",
-    "reason": "Generic hype with no real content.",
-    "text": "$hbar\n is king",
-    "url": "https://x.com/_Hbarbarian_/status/2098088104401719593"
-  },
-  {
-    "id": "x-1789071827973-14692w",
-    "source": "x",
-    "ts": "2026-09-10T20:23:47.973Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "BSCN",
-    "ageMin": 286,
-    "originTimestamp": "2026-09-10T15:36:43.000Z",
-    "reason": "Notable institution entry into stablecoin payments space.",
-    "text": "MoneyGram stablecoin-backed Visa card is now live, powered by Stellar\n\n\n@MoneyGram\n officially debuts its stablecoin-powered Visa card, enabling 60 million active customers to spend digital dollar balances directly at over 175 million merchant locations. \n\nBuilt on the \n@StellarOrg",
-    "url": "https://x.com/BSCNews/status/2098073191360946423"
-  },
-  {
     "id": "x-1789071833471-o25mhr",
     "source": "x",
     "ts": "2026-09-10T20:23:53.471Z",
@@ -6509,5 +6457,58 @@
     "reason": "Tweet lacks any concrete information or action.",
     "text": "‘Face ripper’",
     "url": "https://x.com/fundstrat/status/2098411157220733243"
+  },
+  {
+    "id": "x-1789139043340-nu980w",
+    "source": "x",
+    "ts": "2026-09-11T15:04:03.340Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Thomas (Tom) Lee (not drummer) FundstratDirect.com",
+    "ageMin": 64,
+    "originTimestamp": "2026-09-11T13:59:41.000Z",
+    "reason": "Noise: Generic hype with no real content.",
+    "text": "‘Face ripper’",
+    "url": "https://x.com/fundstrat/status/2098411157220733243"
+  },
+  {
+    "id": "x-1789139053180-o2tjvx",
+    "source": "x",
+    "ts": "2026-09-11T15:04:13.180Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "ApeChartz",
+    "ageMin": 1518,
+    "originTimestamp": "2026-09-10T13:45:46.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "$ETH\n\n\nBack at current range lows\n\nSideways PA + consolidation similar to previous time will lead to scalp longs back up \n\nFlat right now but will update with any new trades",
+    "url": "https://x.com/ApeChartz/status/2098045267748483326"
+  },
+  {
+    "id": "x-1789139061911-m8wvh6",
+    "source": "x",
+    "ts": "2026-09-11T15:04:21.911Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Pump.fun",
+    "ageMin": 2549,
+    "originTimestamp": "2026-09-09T20:35:26.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Introducing Custom Pairs\n\nLaunch Pumpfun tokens paired with tokenized stocks, majors & more on Solana.\n\nLaunch with more variety, deeper liquidity & lower fees than anywhere else.",
+    "url": "https://x.com/Pumpfun/status/2097785975434846285"
+  },
+  {
+    "id": "x-1789139070306-9wrxlg",
+    "source": "x",
+    "ts": "2026-09-11T15:04:30.306Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Archive",
+    "ageMin": 70,
+    "originTimestamp": "2026-09-11T13:54:19.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "BITCOIN PRICE JUMPS 2,000 IN 3H \n\n$90M SHORT POSITIONS LIQUIDATED",
+    "url": "https://x.com/BitcoinArchive/status/2098409808869097769"
   }
 ]
