@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1789140447477-cc3frj",
-    "source": "x",
-    "ts": "2026-09-11T15:27:27.477Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 84,
-    "originTimestamp": "2026-09-11T14:02:56.000Z",
-    "reason": "Bitcoin price well outside recent trading range with significant price swing.",
-    "text": "ALERT: Bitcoin just PUMPED past $79,000, with nearly 4% price swing in the two hours after the CPI release.",
-    "url": "https://x.com/coinbureau/status/2098411977777549405"
-  },
-  {
-    "id": "x-1789140471779-bfvhcm",
-    "source": "x",
-    "ts": "2026-09-11T15:27:51.779Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Robinhood",
-    "ageMin": 95,
-    "originTimestamp": "2026-09-11T13:53:08.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "adding to my positions > adding to cart",
-    "url": "https://x.com/RobinhoodApp/status/2098409510838608263"
-  },
-  {
-    "id": "x-1789140475977-uoc0w2",
-    "source": "x",
-    "ts": "2026-09-11T15:27:55.977Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Crypto Rover",
-    "ageMin": 105,
-    "originTimestamp": "2026-09-11T13:42:58.000Z",
-    "reason": "No notable move or specific event is clearly stated.",
-    "text": "$800 billion added to US stocks at the open as despite rate hike odds jumping to 91% after the CPI data.",
-    "url": "https://x.com/cryptorover/status/2098406951457902595"
-  },
-  {
     "id": "x-1789140484625-gpxt3m",
     "source": "x",
     "ts": "2026-09-11T15:28:04.625Z",
@@ -6518,5 +6478,44 @@
     "reason": "No new, notable information or specific event mentioned.",
     "text": "Don't read too deeply into this US numerology fake-out.\n\nSimply put: people got overly excited leverage-longing ETH, forced a breakout, then slowly unwound when there was no follow-through. BTC is a bit different, just a Friday short squeeze.\n\nMore chop until FOMC next week.",
     "url": "https://x.com/SalsaTekila/status/2098594922194759717"
+  },
+  {
+    "id": "x-1789198510795-sduo2d",
+    "source": "x",
+    "ts": "2026-09-12T07:35:10.795Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "The Wolf Of All Streets",
+    "ageMin": 903,
+    "originTimestamp": "2026-09-11T16:31:14.000Z",
+    "reason": "No notable move in ETH, price is within its recent range.",
+    "text": "You had the opportunity to buy \n$STRC\n at $74 with an effective yield of nearly 20% and a guaranteed dividend of 12% based on $100 price. \n\nBut instead you were 100% sure that Bitcoin was going to $45,000, \n$STRC\n was going to 0 and Strategy would be forced to sell $10B in \n$BTC\n.",
+    "url": "https://x.com/scottmelker/status/2098449296299278628"
+  },
+  {
+    "id": "x-1789198519055-wc1522",
+    "source": "x",
+    "ts": "2026-09-12T07:35:19.055Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Gary Cardone",
+    "ageMin": 529,
+    "originTimestamp": "2026-09-11T22:46:05.000Z",
+    "reason": "No notable financial event or news.",
+    "text": "Remember when people said STRC was stupid?\n\nI received   $875k of income over 12 months, with exceptional tax treatment by parking funds into #strc while btc lost 102k.  \n\nHorrible trade, just awful",
+    "url": "https://x.com/GaryCardone/status/2098543632361902395"
+  },
+  {
+    "id": "x-1789198525489-m1ag7d",
+    "source": "x",
+    "ts": "2026-09-12T07:35:25.489Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "The ₿itcoin Therapist",
+    "ageMin": 505,
+    "originTimestamp": "2026-09-11T23:10:14.000Z",
+    "reason": "Prediction/price call with no basis given",
+    "text": "According to power law Bitcoin currently has a -16% downside risk and a +715% upside potential. \n\nIt’s actually insane to not buy here.",
+    "url": "https://x.com/TheBTCTherapist/status/2098549710550151638"
   }
 ]
