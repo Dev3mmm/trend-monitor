@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1789131848255-fzrsna",
-    "source": "x",
-    "ts": "2026-09-11T13:04:08.255Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Decrypt",
-    "ageMin": 1195,
-    "originTimestamp": "2026-09-10T17:09:15.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
-    "url": "https://x.com/DecryptMedia/status/2098096475792171457"
-  },
-  {
-    "id": "x-1789131880915-ufxmpx",
-    "source": "x",
-    "ts": "2026-09-11T13:04:40.915Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 423,
-    "originTimestamp": "2026-09-11T06:01:46.000Z",
-    "reason": "No notable crypto-related news or move described.",
-    "text": "drop the weirdest CT term you’ve learned lately ",
-    "url": "https://x.com/binance/status/2098290885523890655"
-  },
-  {
-    "id": "x-1789131886221-72oo83",
-    "source": "x",
-    "ts": "2026-09-11T13:04:46.221Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Crypto Norway",
-    "ageMin": 3076,
-    "originTimestamp": "2026-09-09T09:48:13.000Z",
-    "reason": "The incident involved a custom mechanism, not compromising main protocols.",
-    "text": "Another security incident in the Cosmos ecosystem in a short period of time.\n\nTo be clear: Cosmos Hub and \n$ATOM\n were not compromised.\n\nThe bug was in Nomic’s custom forwarding mechanism. Fake nBTC vouchers then reached Osmosis through IBC.\n\nIBC itself was not compromised.\n\nStill,",
-    "url": "https://x.com/stetun3/status/2098123981647736833"
-  },
-  {
     "id": "x-1789131896224-3d5st8",
     "source": "x",
     "ts": "2026-09-11T13:04:56.224Z",
@@ -6523,5 +6484,44 @@
     "reason": "Vague opinion with no factual claim",
     "text": "Dont let them shake you out.\n\nThe next 8 weeks will be epik\n\nPrepare yourself \n\n",
     "url": "https://x.com/CryptoWizardd/status/2098504752229482853"
+  },
+  {
+    "id": "x-1789184105490-tbwo7x",
+    "source": "x",
+    "ts": "2026-09-12T03:35:05.490Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Alexandr Wang",
+    "ageMin": 120,
+    "originTimestamp": "2026-09-12T01:34:50.000Z",
+    "reason": "No real content or specific event mentioned.",
+    "text": "use muse to manage your social media!",
+    "url": "https://x.com/alexandr_wang/status/2098597766788513949"
+  },
+  {
+    "id": "x-1789184113619-0q6cxf",
+    "source": "x",
+    "ts": "2026-09-12T03:35:13.619Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Crypto Bitlord",
+    "ageMin": 778,
+    "originTimestamp": "2026-09-11T14:37:08.000Z",
+    "reason": "No notable move; price is far outside the recent range.",
+    "text": "I guess $150k \n$BTC\n by Christmas is back on ",
+    "url": "https://x.com/crypto_bitlord7/status/2098420585420263782"
+  },
+  {
+    "id": "x-1789184133956-xk7ufq",
+    "source": "x",
+    "ts": "2026-09-12T03:35:33.956Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Shreyas Doshi",
+    "ageMin": 385,
+    "originTimestamp": "2026-09-11T21:10:46.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "This is an important point in product too. Product teams are using AI to get to higher volumes of answers and prototypes but many of them are also bypassing the thought process (the path), atrophying essential product skills, inviting their own obsolescence.",
+    "url": "https://x.com/shreyas/status/2098601630610677953"
   }
 ]
