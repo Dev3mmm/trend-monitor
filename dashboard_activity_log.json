@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789169721141-azsdc2",
-    "source": "x",
-    "ts": "2026-09-11T23:35:21.141Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "blanc",
-    "ageMin": 905,
-    "originTimestamp": "2026-09-11T08:29:49.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "just downloaded the fomo app to give it a try and im pretty surprised to see some of u folks throwing 6 fig into under 10m shitcoins like are u guys mentally ok???",
-    "url": "https://x.com/blancxbt/status/2098328145229123850"
-  },
-  {
-    "id": "x-1789169724491-q2xrip",
-    "source": "x",
-    "ts": "2026-09-11T23:35:24.491Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Arynne Wexler",
-    "ageMin": 1338,
-    "originTimestamp": "2026-09-11T01:16:53.000Z",
-    "reason": "Noise: generic, unverifiable opinion.",
-    "text": "Fuck off, you absolute piece of shit.",
-    "url": "https://x.com/ArynneWexler/status/2098407699578753307"
-  },
-  {
-    "id": "x-1789170217075-vp2l29",
-    "source": "x",
-    "ts": "2026-09-11T23:43:37.075Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Georgios Konstantopoulos",
-    "ageMin": 25,
-    "originTimestamp": "2026-09-11T23:17:59.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "crypto and ai are converging on the insight that TEEs/confidential compute is endgame technology bc of verifiability and programmable privacy\n\nexcited to see where this lands (and maybe read my post from 2024 on the 5 levels of secure hardware below)",
-    "url": "https://x.com/gakonst/status/2098551657839677929"
-  },
-  {
-    "id": "x-1789170223418-rb24kd",
-    "source": "x",
-    "ts": "2026-09-11T23:43:43.418Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Thor Torrens",
-    "ageMin": 387,
-    "originTimestamp": "2026-09-11T17:16:52.000Z",
-    "reason": "Memes and philosophical statements without concrete news.",
-    "text": "Assumptions are dangerous. \n\nMoney is war.\n\nPrivate unstoppable money at planetary scale does not get a peacetime budget.",
-    "url": "https://x.com/ThorTorrens/status/2098464393780494432"
-  },
-  {
     "id": "x-1789170226699-l5bafv",
     "source": "x",
     "ts": "2026-09-11T23:43:46.699Z",
@@ -6506,5 +6454,57 @@
     "reason": "Generic advice with no factual claim",
     "text": "\"As soon as you get some fiat, you wanna get rid of it. Instead of buying some stuff, buy some Bitcoin and store it. Don't look at it.\"\n\n-- Ricardo Salinas, 3.7 Billion Net Worth",
     "url": "https://x.com/dotkrueger/status/2098631516901486603"
+  },
+  {
+    "id": "x-1789235062702-kw98o7",
+    "source": "x",
+    "ts": "2026-09-12T17:44:22.702Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Commentary Senator Lummis RV",
+    "ageMin": 386,
+    "originTimestamp": "2026-09-12T11:18:05.000Z",
+    "reason": "Notable regulatory push from banks towards crypto legislation.",
+    "text": "  BREAKING:  SOME BANKS ARE OFFICIALLY URGING THE SENATE TO PASS THE CLARITY ACT.\n\nBANKS WANT CRYPTO!",
+    "url": "https://x.com/SenLummisRV/status/2098732877936566613"
+  },
+  {
+    "id": "x-1789235110165-bs9vkv",
+    "source": "x",
+    "ts": "2026-09-12T17:45:10.165Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "The Bitcoin Historian",
+    "ageMin": 817,
+    "originTimestamp": "2026-09-12T04:08:00.000Z",
+    "reason": "Vague and promotional statement without factual data.",
+    "text": " EL SALVADOR IS NOW THE 1ST COUNTRY IN THE WORLD WHERE KIDS AS YOUNG AS 7 LEARN #BITCOIN IN SCHOOL\n\nTHE FIRST BTC GENERATION\n\nTHE FUTURE IS BRIGHT ",
+    "url": "https://x.com/pete_rizzo_/status/2098624643385213353"
+  },
+  {
+    "id": "x-1789235120625-hxfusv",
+    "source": "x",
+    "ts": "2026-09-12T17:45:20.625Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Max Crypto",
+    "ageMin": 138,
+    "originTimestamp": "2026-09-12T15:27:44.000Z",
+    "reason": "No concrete evidence or specific information provided.",
+    "text": "Whales are closing their \n$BTC\n shorts.\n\nWhat do they know?",
+    "url": "https://x.com/MaxCrypto/status/2098795706568069572"
+  },
+  {
+    "id": "x-1789235125054-blqjxh",
+    "source": "x",
+    "ts": "2026-09-12T17:45:25.054Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Dev",
+    "ageMin": 1034,
+    "originTimestamp": "2026-09-12T00:31:37.000Z",
+    "reason": "Notable advancement in zkSNARKs technology",
+    "text": "This is awesome! Fixes the problem persistent to most SNARKs - we are massively overpaying for ZK.\n\nIn context, we can confidently use 13 elements where we previously paid 2048",
+    "url": "https://x.com/zkDragon/status/2098712293068419500"
   }
 ]
