@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1789262090924-2exjgc",
-    "source": "x",
-    "ts": "2026-09-13T01:14:50.924Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "unusual_whales",
-    "ageMin": 173,
-    "originTimestamp": "2026-09-12T22:22:02.000Z",
-    "reason": "Sam Altman's statement about OpenAI not going public this year is noteworthy but not necessarily breaking news.",
-    "text": "BREAKING: Sam Altman says OpenAI won’t go public this year",
-    "url": "https://x.com/unusual_whales/status/2098899969080234164"
-  },
-  {
-    "id": "x-1789262094766-k2g30n",
-    "source": "x",
-    "ts": "2026-09-13T01:14:54.766Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "unusual_whales",
-    "ageMin": 1697,
-    "originTimestamp": "2026-09-11T20:58:00.000Z",
-    "reason": "No notable move, price is well inside the recent trading range.",
-    "text": "BREAKING: Yemeni militants used Anthropic AI to try to build ballistic missiles, per FT",
-    "url": "https://x.com/unusual_whales/status/2098516430375489656"
-  },
-  {
-    "id": "x-1789262098048-f5fguz",
-    "source": "x",
-    "ts": "2026-09-13T01:14:58.048Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "tradfi news",
-    "ageMin": 522,
-    "originTimestamp": "2026-09-12T16:33:13.000Z",
-    "reason": "No relevant crypto content mentioned.",
-    "text": "*ALTMAN: OPENAI WILL COMMIT TO INDEPENDENT EVALUATORS",
-    "url": "https://x.com/tradfi/status/2098812186365980673"
-  },
-  {
     "id": "x-1789262102505-28qa6s",
     "source": "x",
     "ts": "2026-09-13T01:15:02.505Z",
@@ -6509,5 +6470,44 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "8B people. But only 21M #Bitcoin.\n\nBitcoin is the first and only asset whose supply is guaranteed and unchangeable by demand.",
     "url": "https://x.com/Davincij15/status/2099181368437825703"
+  },
+  {
+    "id": "x-1789329853550-dy4zef",
+    "source": "x",
+    "ts": "2026-09-13T20:04:13.550Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "zerohedge",
+    "ageMin": 1039,
+    "originTimestamp": "2026-09-13T02:45:06.000Z",
+    "reason": "The tweet is unrelated to cryptocurrencies and blockchain technology.",
+    "text": "Florida's Attorney General Sues Netflix For Allegedly Harvesting, Selling Children's Data",
+    "url": "https://x.com/zerohedge/status/2098966171554914709"
+  },
+  {
+    "id": "x-1789329856934-sm20n1",
+    "source": "x",
+    "ts": "2026-09-13T20:04:16.934Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Tanjira PR",
+    "ageMin": 1272,
+    "originTimestamp": "2026-09-12T22:52:03.000Z",
+    "reason": "Notable move on airdrop information for a mainnet network.",
+    "text": "We just updated the airdrop page to show vesting schedule per address and whats available to transfer on the \n@_gnoland\n mainnet. Give it a spin",
+    "url": "https://x.com/TanjiraPr/status/2098907520089673903"
+  },
+  {
+    "id": "x-1789329871448-qr4s2j",
+    "source": "x",
+    "ts": "2026-09-13T20:04:31.448Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Jamie Gourlay",
+    "ageMin": 2044,
+    "originTimestamp": "2026-09-12T10:00:09.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "If you’re looking for a list of excellent artists, owned (pretty much) exclusively by collectors, look no further:\n\n\nhttps://\nverse.works/artie-galerie\n\n\n@artiegalerie",
+    "url": "https://x.com/jamiegourlay/status/2098713264792170992"
   }
 ]
