@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1789256117736-5eol2i",
-    "source": "x",
-    "ts": "2026-09-12T23:35:17.736Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Bitcoin Archive",
-    "ageMin": 745,
-    "originTimestamp": "2026-09-12T11:09:47.000Z",
-    "reason": "BTC price movement is within its recent range, no significant breakout.",
-    "text": "JUST IN: Bitcoin ETFs sold $463M this week.\n\nBTC fell a modest 3%.",
-    "url": "https://x.com/BitcoinArchive/status/2098730789957480931"
-  },
-  {
-    "id": "x-1789256626784-m0eidu",
-    "source": "x",
-    "ts": "2026-09-12T23:43:46.784Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Sajid abu Sajid",
-    "ageMin": 798,
-    "originTimestamp": "2026-09-12T10:25:00.000Z",
-    "reason": "Memes and political commentary are not newsworthy.",
-    "text": "Bag Utat as we stand with our Yemeni brothers for taking over the City of Mocha, Who says No?",
-    "url": "https://x.com/AlhajiKe/status/2098719521351594318"
-  },
-  {
     "id": "x-1789257277665-vjyzzu",
     "source": "x",
     "ts": "2026-09-12T23:54:37.665Z",
@@ -6509,5 +6483,31 @@
     "reason": "No concrete or specific claim is made.",
     "text": "The Chinese are going to start the bull run on Sui.",
     "url": "https://x.com/lakshay/status/2099011876231483434"
+  },
+  {
+    "id": "x-1789322081968-dycvnd",
+    "source": "x",
+    "ts": "2026-09-13T17:54:41.968Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Max Crypto",
+    "ageMin": 410,
+    "originTimestamp": "2026-09-13T11:04:09.000Z",
+    "reason": "Exploit alert, high risk of significant price movement.",
+    "text": "CRAZY GAMBLE:\n\nA whale has opened a $85,100,000 \n$ETH\n long position.\n\nIf ETH just drops $50, he will get WIPED OUT.",
+    "url": "https://x.com/MaxCrypto/status/2099091761150951815"
+  },
+  {
+    "id": "x-1789322091692-7rkea2",
+    "source": "x",
+    "ts": "2026-09-13T17:54:51.692Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Freddy",
+    "ageMin": 729,
+    "originTimestamp": "2026-09-13T05:45:53.000Z",
+    "reason": "No notable crypto-related event or move mentioned.",
+    "text": "It’s past midnight here in Iowa and one of the players is showing us around the facilities. He could be out celebrating the big win, but instead he took the time to do this for some German tourists. Really appreciate it",
+    "url": "https://x.com/FreddyLA7/status/2099011667287769096"
   }
 ]
