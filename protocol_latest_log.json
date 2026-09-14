@@ -1250,5 +1250,19 @@
     "fetchedAt": "2026-09-14T10:24:47.960Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-e77bc953139297b0",
+    "title": "Ouroboros Peras weekly update : 11 September 2026",
+    "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-11-september-2026/156783",
+    "description": "Ouroboros Peras weekly update - 11 September 2026 Integration workstream Upstreaming of Peras code continued this week. Peras PRs 61–66 were merged, containing the bulk of the integration workstream: changes to the extended ledger state and HardFork combinator plumbing. Peras 67: Add new Peras methods to ChainDB was undrafted, and Peras 68: Rewire DijkstraEra to use Peras V1 types was opened. Pera",
+    "publishedAt": "2026-09-14T10:34:21.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-09-14T10:34:34.672Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
