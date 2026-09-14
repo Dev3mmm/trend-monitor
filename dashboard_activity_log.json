@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1789298628187-1wfsxl",
-    "source": "x",
-    "ts": "2026-09-13T11:23:48.187Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Erik Voorhees",
-    "ageMin": 601,
-    "originTimestamp": "2026-09-13T01:22:42.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "You can believe in superintelligence \n\nBut you cannot believe in governing superintelligence",
-    "url": "https://x.com/ErikVoorhees/status/2098945431707230607"
-  },
-  {
     "id": "x-1789298635481-9ubn99",
     "source": "x",
     "ts": "2026-09-13T11:23:55.481Z",
@@ -6517,5 +6504,18 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Sui Basecamp is 3 weeks away. Feels way too far. \n@Mysten_Labs\n should work on a time machine so we can skip to the future",
     "url": "https://x.com/Chrisrevault/status/2099490473324728472"
+  },
+  {
+    "id": "x-1789399441363-3bsgjf",
+    "source": "x",
+    "ts": "2026-09-14T15:24:01.363Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Avalanche",
+    "ageMin": 255,
+    "originTimestamp": "2026-09-14T11:08:17.000Z",
+    "reason": "Notable institutional adoption and use case for a blockchain infrastructure.",
+    "text": "BREAKING: The UAE is using Avalanche to power its national digital identity infrastructure, serving 12M+ people\n\nUAE PASS is the country’s national digital identification system- it gives citizens, residents, and visitors a secure way to verify their identity, sign documents and",
+    "url": "https://x.com/avax/status/2099455189837025417"
   }
 ]
