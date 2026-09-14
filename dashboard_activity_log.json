@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1789310108029-uu9abc",
-    "source": "x",
-    "ts": "2026-09-13T14:35:08.029Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Aerodrome",
-    "ageMin": 1253,
-    "originTimestamp": "2026-09-12T17:41:44.000Z",
-    "reason": "New use of a token for tokenized stocks.",
-    "text": "Aerodrome  Tokenized stocks",
-    "url": "https://x.com/aeroxyz/status/2099137839380213835"
-  },
-  {
-    "id": "x-1789310126619-gaks39",
-    "source": "x",
-    "ts": "2026-09-13T14:35:26.619Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "The Bitcoin Conference",
-    "ageMin": 95,
-    "originTimestamp": "2026-09-13T13:00:34.000Z",
-    "reason": "No concrete price or movement is mentioned.",
-    "text": "#Bitcoin is 1% of global money ",
-    "url": "https://x.com/TheBitcoinConf/status/2099121056854282705"
-  },
-  {
-    "id": "x-1789310664288-0pd3rt",
-    "source": "x",
-    "ts": "2026-09-13T14:44:24.288Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Stoic.sui ",
-    "ageMin": 2511,
-    "originTimestamp": "2026-09-11T20:52:37.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "First it was \n$SUI\n after suitember, then the old meme szn w BLUB etc, then $BLUE, $SEND etc, then \n$DEEP\n, then \n$WAL\n while \n$PLAY\n hasn't happened. If you put even a penny into anything on Sui without seeing material changes and results you hate money and want to be rinsed AGAIN.",
-    "url": "https://x.com/Stoicsui/status/2099005144306520098"
-  },
-  {
     "id": "x-1789310688698-1kgxgf",
     "source": "x",
     "ts": "2026-09-13T14:44:48.698Z",
@@ -6521,5 +6482,45 @@
     "reason": "No factual claim or verifiable event.",
     "text": "BREAKING: Elon Musk welcomes the Secretary of War, Pete Hegseth to SpaceX in Texas.",
     "url": "https://x.com/Alexs_jame/status/2099515082862477642"
+  },
+  {
+    "id": "x-1789424668696-62m09h",
+    "source": "x",
+    "ts": "2026-09-14T22:24:28.696Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Watcher.Guru",
+    "ageMin": 118,
+    "originTimestamp": "2026-09-14T20:25:47.000Z",
+    "reason": "No notable move; price is well within recent range.",
+    "text": "JUST IN: $100,000,000 worth of shorts liquidated from the crypto market in the past 30 minutes.",
+    "url": "https://x.com/WatcherGuru/status/2099595487544304007"
+  },
+  {
+    "id": "x-1789424676709-wz34dk",
+    "source": "x",
+    "ts": "2026-09-14T22:24:36.709Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Bitcoin Magazine",
+    "ageMin": 243,
+    "originTimestamp": "2026-09-14T18:21:17.000Z",
+    "reason": "Specific institutional move related to Bitcoin.",
+    "text": "JUST IN:  The Strategic Bitcoin Reserve is scheduled for consideration by the House Financial Services Committee this Wednesday.",
+    "url": "https://x.com/BitcoinMagazine/status/2099564155850125820"
+  },
+  {
+    "id": "x-1789424680472-sg76lw",
+    "source": "x",
+    "ts": "2026-09-14T22:24:40.472Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Sui Intern",
+    "ageMin": 90,
+    "originTimestamp": "2026-09-14T20:54:56.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Just one tweet from adeniyi and activities in the trenches are steaming up \n\nWe are just getting started",
+    "url": "https://x.com/suintern_/status/2099602822085869993"
   }
 ]
