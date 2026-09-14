@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1789299214041-bqmfma",
-    "source": "x",
-    "ts": "2026-09-13T11:33:34.041Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Cointelegraph",
-    "ageMin": 363,
-    "originTimestamp": "2026-09-13T05:30:20.000Z",
-    "reason": "Concrete statement of a top-performing quarter for ETH.",
-    "text": " MARKET: This is now ETH's second best Q3 ever.",
-    "url": "https://x.com/Cointelegraph/status/2099007754459308165"
-  },
-  {
     "id": "x-1789299222914-qf9d6r",
     "source": "x",
     "ts": "2026-09-13T11:33:42.914Z",
@@ -6517,5 +6504,18 @@
     "reason": "No notable move or specific event described.",
     "text": "AI data centers resulting in lower electricity prices for consumers",
     "url": "https://x.com/elonmusk/status/2099503167079674202"
+  },
+  {
+    "id": "x-1789401322346-t8ph0x",
+    "source": "x",
+    "ts": "2026-09-14T15:55:22.346Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Brian Armstrong",
+    "ageMin": 64,
+    "originTimestamp": "2026-09-14T14:50:31.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "We’ve set the standard with Coinbase Tokenized Stocks.\n\nNo synthetics or debt instruments, real fully-backed securities, redeemable for the underlying shares, with dividends integrated, and voting rights coming soon.\n\nThat means access for global investors and institutions to the",
+    "url": "https://x.com/brian_armstrong/status/2099511113947681070"
   }
 ]
