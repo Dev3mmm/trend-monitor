@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1789312436085-oxd2tf",
-    "source": "x",
-    "ts": "2026-09-13T15:13:56.085Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "smolting (@wassie)",
-    "ageMin": 143,
-    "originTimestamp": "2026-09-13T12:50:38.000Z",
-    "reason": "Noise: generic statement without actionable information",
-    "text": "wat do u see",
-    "url": "https://x.com/inversebrah/status/2099118558836056136"
-  },
-  {
-    "id": "x-1789312446034-6hh7xn",
-    "source": "x",
-    "ts": "2026-09-13T15:14:06.034Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Vesu",
-    "ageMin": 118,
-    "originTimestamp": "2026-09-13T13:16:31.000Z",
-    "reason": "Asset recovery update with specific percentage recovery.",
-    "text": "Recovery update - 4 September oracle incident\n\nAsset recovery is complete. The Vesu Security Council, together with the Starknet Security Council, pool curators and partners, were able to recover 95% of the assets lost in the incident - 93% measured at prices on the morning of 4",
-    "url": "https://x.com/vesuxyz/status/2099125070304076013"
-  },
-  {
     "id": "x-1789312450646-rgot14",
     "source": "x",
     "ts": "2026-09-13T15:14:10.646Z",
@@ -6521,5 +6494,31 @@
     "reason": "No notable move, price is well within the recent range.",
     "text": "BREAKING: The 10-year Treasury yield has hit 5% earlier, its highest level since October 2023",
     "url": "https://x.com/unusual_whales/status/2099530361948541082"
+  },
+  {
+    "id": "x-1789429549631-v08aon",
+    "source": "x",
+    "ts": "2026-09-14T23:45:49.631Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "MineBench - efficient computing power",
+    "ageMin": 1753,
+    "originTimestamp": "2026-09-13T18:32:29.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "MineBench Community Space\n\n14.09.2026 15:00 UTC\n\nWe’ll talk about what we’re building, what’s next, and answer your questions live.\n\nJoin the conversation and bring your questions.",
+    "url": "https://x.com/MineBenchdapp/status/2099204587471159506"
+  },
+  {
+    "id": "x-1789429557790-draqhm",
+    "source": "x",
+    "ts": "2026-09-14T23:45:57.790Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 650,
+    "originTimestamp": "2026-09-14T12:56:12.000Z",
+    "reason": "Noise: Generic statement without factual claim.",
+    "text": "True",
+    "url": "https://x.com/elonmusk/status/2099505692805582871"
   }
 ]
