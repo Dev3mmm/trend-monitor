@@ -1280,5 +1280,19 @@
     "fetchedAt": "2026-09-15T14:05:12.173Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-ba2eddf9880a9e05",
+    "title": "Qwen3-0.6B: A Compact Model with Hybrid Reasoning Modes",
+    "url": "https://aioz.network/blog/qwen3-0-6b-a-compact-model-with-hybrid-reasoning-modes",
+    "description": "TL;DR Qwen3-0.6B is a 0.6B-parameter causal language model built for conversational AI, instruction following, reasoning, agent workflows, and multilingual applications. It supports 119 languages, a 32,768-token context window, and seamless switching between thinking and non-thinking modes. Its compact architecture makes it a practical fit for multilingual assistants, math and coding tasks, extern",
+    "publishedAt": "2026-09-15T14:37:50.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-15T14:46:09.389Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
