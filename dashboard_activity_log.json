@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1789435435438-uwhihg",
-    "source": "x",
-    "ts": "2026-09-15T01:23:55.438Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "ALIMI ",
-    "ageMin": 996,
-    "originTimestamp": "2026-09-14T08:48:02.000Z",
-    "reason": "Tweet is unrelated to crypto or financial matters.",
-    "text": "I didn't sleep well today and my face isn't looking well.\nSeems I need to sleep more",
-    "url": "https://x.com/thegoatedalimi1/status/2099419892143288517"
-  },
-  {
-    "id": "x-1789435438466-7di7qa",
-    "source": "x",
-    "ts": "2026-09-15T01:23:58.466Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Ted",
-    "ageMin": 464,
-    "originTimestamp": "2026-09-14T17:39:22.000Z",
-    "reason": "No notable move or concrete price information provided.",
-    "text": "Bitcoin is strong.",
-    "url": "https://x.com/TedPillows/status/2099553607141957742"
-  },
-  {
-    "id": "x-1789435445934-8jacwc",
-    "source": "x",
-    "ts": "2026-09-15T01:24:05.934Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "CoinMarketCap",
-    "ageMin": 392,
-    "originTimestamp": "2026-09-14T18:52:11.000Z",
-    "reason": "Noteworthy regulatory move affecting securities regulation.",
-    "text": "LATEST:  A bipartisan coalition of 18 attorneys general has urged Congress to reject the CLARITY Act, warning it could let the SEC override state securities registration rules.",
-    "url": "https://x.com/CoinMarketCap/status/2099571933125747045"
-  },
-  {
     "id": "x-1789436778337-vujnu9",
     "source": "x",
     "ts": "2026-09-15T01:46:18.337Z",
@@ -6519,5 +6480,44 @@
     "reason": "Notable regulatory failure impacting crypto space.",
     "text": "BREAKING: The CLARITY Act fails to advance in the Senate, falling short of the 60 votes needed to move forward.",
     "url": "https://x.com/CoinDesk/status/2099932043945680992"
+  },
+  {
+    "id": "x-1789511607871-5rgn6t",
+    "source": "x",
+    "ts": "2026-09-15T22:33:27.871Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Jean-Luc",
+    "ageMin": 261,
+    "originTimestamp": "2026-09-15T18:11:37.000Z",
+    "reason": "New stablecoin launch with dynamic fees mechanism disclosed",
+    "text": "1/ \n@aeroxyz\n  launches on \n@arc\n on Sept 16 with three FX stablecoin pools: EURC/USDC, USDC/MXNB and GBPA/USDC.\n\nAll three run dynamic fees from the first block. Here's how the fee works, why it beats a static fee for traders and LPs, and how we calibrated it",
+    "url": "https://x.com/JeanLuc_VM/status/2099924113397563890"
+  },
+  {
+    "id": "x-1789511639267-l1ywev",
+    "source": "x",
+    "ts": "2026-09-15T22:33:59.267Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Tom Howard",
+    "ageMin": 362,
+    "originTimestamp": "2026-09-15T16:32:17.000Z",
+    "reason": "Shielded ZEC adoption to Ledger, a notable institutional partnership.",
+    "text": "Shielded ZEC is coming to \n@Ledger\n!",
+    "url": "https://x.com/_TomHoward/status/2099902258909704242"
+  },
+  {
+    "id": "x-1789511642655-3a6myf",
+    "source": "x",
+    "ts": "2026-09-15T22:34:02.655Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "big z",
+    "ageMin": 135,
+    "originTimestamp": "2026-09-15T20:19:06.000Z",
+    "reason": "Generic, vague opinion with no factual claim.",
+    "text": "A lot of you are brain dead.\n\nI'm allowed to like Zcash and still criticize certain aspects.\n\nI'm not a blind-bullpoaster.\n\nI'm here to give my thoughts on a coin I like and suggest improvements.\n\nDogmatic support only leads to the Bitcoiner sinkhole.",
+    "url": "https://x.com/zectrillionaire/status/2099956195427782760"
   }
 ]
