@@ -1294,5 +1294,19 @@
     "fetchedAt": "2026-09-15T14:46:09.389Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-6909323b87de3dbd",
+    "title": "What you can build with x402",
+    "url": "https://algorand.co/blog/what-you-can-build-with-x402",
+    "description": "You already know how x402 works . A client asks for a resource, the server responds with a 402 Payment Required and a price, the client pays, retries the request, and gets the result.",
+    "publishedAt": "2026-09-15T16:55:36.000Z",
+    "source": "Algorand",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-15T17:05:37.395Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
