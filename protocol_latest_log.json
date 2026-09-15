@@ -1308,5 +1308,19 @@
     "fetchedAt": "2026-09-15T17:05:37.395Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-5aa1e83a4342487f",
+    "title": "I let Hermes write its own Chutes config",
+    "url": "https://chutes.ai/news/open-agent-open-weights-open-enclave",
+    "description": "One prompt was enough for Hermes to draft its Chutes config. Here is the prompt, the config it wrote, and what the setup and attestation checks actually returned.",
+    "publishedAt": "2026-09-15T17:43:22.000Z",
+    "source": "Chutes",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-15T17:45:13.545Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
