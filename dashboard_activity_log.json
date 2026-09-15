@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1789435041063-5qncmo",
-    "source": "x",
-    "ts": "2026-09-15T01:17:21.063Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Agent Chud",
-    "ageMin": 202,
-    "originTimestamp": "2026-09-14T21:55:10.000Z",
-    "reason": "Noise: generic statement without content.",
-    "text": "Hello cousins",
-    "url": "https://x.com/AgentChud/status/2099617981810487710"
-  },
-  {
-    "id": "x-1789435051109-b1foib",
-    "source": "x",
-    "ts": "2026-09-15T01:17:31.109Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "StarkWare ",
-    "ageMin": 9447,
-    "originTimestamp": "2026-09-08T11:50:01.000Z",
-    "reason": "New quantum computing threat to cryptocurrency security",
-    "text": "1/ A newly published estimate suggests that secp256k1, the curve behind Bitcoin and Ethereum keys, could be broken using a machine with about 20,000 physical qubits.\n\nThe outcome: 26 days to break the curve securing most blockchains today ",
-    "url": "https://x.com/StarkWareLtd/status/2099563656266826047"
-  },
-  {
-    "id": "x-1789435053757-rlk3gi",
-    "source": "x",
-    "ts": "2026-09-15T01:17:33.757Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "threadguy",
-    "ageMin": 552,
-    "originTimestamp": "2026-09-14T16:05:16.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "it’s the first time since 2021 longing bitcoin has less risk and uncertainty than longing ai",
-    "url": "https://x.com/notthreadguy/status/2099529925820661846"
-  },
-  {
     "id": "x-1789435423584-lbu0ze",
     "source": "x",
     "ts": "2026-09-15T01:23:43.584Z",
@@ -6519,5 +6480,44 @@
     "reason": "No notable move or specific event described.",
     "text": "Good morning to all my friends",
     "url": "https://x.com/avitalime/status/2099713110856634794"
+  },
+  {
+    "id": "x-1789510524440-ey19li",
+    "source": "x",
+    "ts": "2026-09-15T22:15:24.440Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Coinvo",
+    "ageMin": 404,
+    "originTimestamp": "2026-09-15T15:31:21.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": " Scott Bessent says the decline in the USD's share of global reserves is mainly caused by China and Russia",
+    "url": "https://x.com/Coinvo/status/2099883778101457194"
+  },
+  {
+    "id": "x-1789510526536-y5hzff",
+    "source": "x",
+    "ts": "2026-09-15T22:15:26.536Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Tobias Reisner",
+    "ageMin": 1628,
+    "originTimestamp": "2026-09-14T19:06:36.000Z",
+    "reason": "No notable move or concrete information provided.",
+    "text": "Higherliquid.",
+    "url": "https://x.com/reisnertobias/status/2099577672644882855"
+  },
+  {
+    "id": "x-1789510528694-vg3any",
+    "source": "x",
+    "ts": "2026-09-15T22:15:28.694Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "MOTION",
+    "ageMin": 586,
+    "originTimestamp": "2026-09-15T12:29:05.000Z",
+    "reason": "Noise: generic hype without real content.",
+    "text": "more. motion.",
+    "url": "https://x.com/motionismxyz/status/2099894243288400349"
   }
 ]
