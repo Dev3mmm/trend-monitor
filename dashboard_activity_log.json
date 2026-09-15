@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1789435423584-lbu0ze",
-    "source": "x",
-    "ts": "2026-09-15T01:23:43.584Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "StarkWare ",
-    "ageMin": 9453,
-    "originTimestamp": "2026-09-08T11:50:01.000Z",
-    "reason": "Potential cryptographic vulnerability in secp256k1 used by Bitcoin and Ethereum",
-    "text": "1/ A newly published estimate suggests that secp256k1, the curve behind Bitcoin and Ethereum keys, could be broken using a machine with about 20,000 physical qubits.\n\nThe outcome: 26 days to break the curve securing most blockchains today ",
-    "url": "https://x.com/StarkWareLtd/status/2099563656266826047"
-  },
-  {
     "id": "x-1789435435438-uwhihg",
     "source": "x",
     "ts": "2026-09-15T01:23:55.438Z",
@@ -6519,5 +6506,18 @@
     "reason": "Noise: generic hype without real content.",
     "text": "more. motion.",
     "url": "https://x.com/motionismxyz/status/2099894243288400349"
+  },
+  {
+    "id": "x-1789511059249-eyiwz3",
+    "source": "x",
+    "ts": "2026-09-15T22:24:19.249Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "CoinDesk",
+    "ageMin": 221,
+    "originTimestamp": "2026-09-15T18:43:08.000Z",
+    "reason": "Notable regulatory failure impacting crypto space.",
+    "text": "BREAKING: The CLARITY Act fails to advance in the Senate, falling short of the 60 votes needed to move forward.",
+    "url": "https://x.com/CoinDesk/status/2099932043945680992"
   }
 ]
