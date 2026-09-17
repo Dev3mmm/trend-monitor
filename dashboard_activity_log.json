@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789547679466-7864tm",
-    "source": "x",
-    "ts": "2026-09-16T08:34:39.466Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Aleo",
-    "ageMin": 2052,
-    "originTimestamp": "2026-09-14T22:22:38.000Z",
-    "reason": "Crypto event announcement with hands-on experience.",
-    "text": "Aleo is coming to Tokyo \n\nJoin us for an evening on privacy-preserving crypto:\n\n Hear the latest ecosystem updates\n Get hands-on with private stablecoins\n Make your first private transaction onchain\n\n Tokyo, Japan\n Friday, September 18\n\nRSVP \n\nhttps://\nluma.com/onc0fap6",
-    "url": "https://x.com/AleoHQ/status/2099624894803960127"
-  },
-  {
-    "id": "x-1789548226314-o7cnm3",
-    "source": "x",
-    "ts": "2026-09-16T08:43:46.314Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "X Finance Bull",
-    "ageMin": 582,
-    "originTimestamp": "2026-09-15T23:01:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Your biggest bag always moves right after you stop checking it.",
-    "url": "https://x.com/Xfinancebull/status/2099996936149348670"
-  },
-  {
-    "id": "x-1789548239876-zgp18v",
-    "source": "x",
-    "ts": "2026-09-16T08:43:59.876Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Candon",
-    "ageMin": 7378,
-    "originTimestamp": "2026-09-11T05:45:36.000Z",
-    "reason": "No notable move or specific crypto-related event.",
-    "text": "30+ versions to get a game from “stuck inside a pillar” to a playable combat system is actually a good test of AI.\n\nUsing WorkBuddy + Nex-N2.5 Pro, this creator went from learning AI two days ago to building a game people are already playing.\n\n𝗧𝗵𝗲 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗶𝗻𝗴",
-    "url": "https://x.com/chandonlot/status/2099804398138327472"
-  },
-  {
-    "id": "x-1789548802889-ruoyzj",
-    "source": "x",
-    "ts": "2026-09-16T08:53:22.889Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Miso",
-    "ageMin": 529,
-    "originTimestamp": "2026-09-16T00:03:27.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "Music has enough middlemen.\n\nNot anymore.\n\nIntroducing Miso.",
-    "url": "https://x.com/_misofm/status/2100012652743307712"
-  },
-  {
     "id": "x-1789548812784-kfv0af",
     "source": "x",
     "ts": "2026-09-16T08:53:32.784Z",
@@ -6534,5 +6482,60 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "INTEL: S&P Global agreed to acquire OpenZeppelin, the smart contract security firm whose open-source libraries have supported more than $37T in onchain transfers",
     "url": "https://x.com/solidintel_x/status/2100557834387591423"
+  },
+  {
+    "id": "x-1789656470491-8rxrlq",
+    "source": "x",
+    "ts": "2026-09-17T14:47:50.491Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CoinDesk",
+    "ageMin": 93,
+    "originTimestamp": "2026-09-17T13:14:33.000Z",
+    "reason": "Notable SEC regulatory move affecting blockchain securities.",
+    "text": "BREAKING: The SEC grants a five-year \"Innovation Exemption\" for tokenized securities venues, allowing blockchain platforms to list and trade real tokenized stocks with full shareholder rights.",
+    "url": "https://x.com/CoinDesk/status/2100574127853543826"
+  },
+  {
+    "id": "x-1789656478830-fcjbev",
+    "source": "x",
+    "ts": "2026-09-17T14:47:58.830Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Robinhood",
+    "ageMin": 95,
+    "originTimestamp": "2026-09-17T13:12:49.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Robinhood supports the \n@SECGov\n innovation exemption. \n\nAmericans deserve access to crypto technology and all of the financial innovations it makes possible, including instant settlement, 24/7 trading, and fractionalization by default.",
+    "url": "https://x.com/RobinhoodApp/status/2100573693445316627"
+  },
+  {
+    "id": "x-1789656482829-bk54we",
+    "source": "x",
+    "ts": "2026-09-17T14:48:02.829Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Sunrise",
+    "ageMin": 47,
+    "originTimestamp": "2026-09-17T14:01:08.000Z",
+    "reason": "New exchange listing on Solana for INJ",
+    "text": "$INJ\n is now listed on \n@Solana\n via Sunrise.",
+    "url": "https://x.com/sunrise/status/2100585850837066237"
+  },
+  {
+    "id": "x-1789656493503-8po92r",
+    "source": "x",
+    "ts": "2026-09-17T14:48:13.503Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "CoinDesk",
+    "ageMin": 137,
+    "originTimestamp": "2026-09-17T12:31:07.000Z",
+    "reason": "Notable acquisition affecting smart contract security and large stablecoins.",
+    "text": "LATEST: \n@SPGlobal\n acquires \n@OpenZeppelin\n, the smart contract security firm whose code underpins $37T in transferred value, including the majority of the world's largest stablecoins and tokenized funds.",
+    "url": "https://x.com/CoinDesk/status/2100563199141597522"
   }
 ]
