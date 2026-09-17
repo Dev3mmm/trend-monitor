@@ -1366,5 +1366,19 @@
     "fetchedAt": "2026-09-17T15:35:24.711Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-b40ee37ca781f420",
+    "title": "Cardano-node now speaks UTxO RPC: typed, streaming chain data straight from the node",
+    "url": "https://forum.cardano.org/t/cardano-node-now-speaks-utxo-rpc-typed-streaming-chain-data-straight-from-the-node/156854",
+    "description": "cardano-node can now serve typed, streaming chain data over gRPC, from the node process itself, with nothing else to deploy. The interface is called cardano-rpc and it has been growing inside the node since version 10.7.0. It is now ready to build against, so here is what it does and how to try it in a few minutes. What it is cardano-rpc is a gRPC server compiled into the node itself. It implement",
+    "publishedAt": "2026-09-17T16:22:09.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-09-17T16:25:37.126Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
