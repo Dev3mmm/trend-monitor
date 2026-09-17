@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789578232927-bnvto8",
-    "source": "x",
-    "ts": "2026-09-16T17:03:52.927Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Bitcoin Archive",
-    "ageMin": 272,
-    "originTimestamp": "2026-09-16T12:31:30.000Z",
-    "reason": "Specific, verifiable institutional adoption event.",
-    "text": "JUST IN: Deutsche Bank to launch Bitcoin & crypto custody for institutional clients later this year",
-    "url": "https://x.com/BitcoinArchive/status/2100200906474086781"
-  },
-  {
-    "id": "x-1789578241798-ys3og2",
-    "source": "x",
-    "ts": "2026-09-16T17:04:01.798Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Pi Update",
-    "ageMin": 304,
-    "originTimestamp": "2026-09-16T11:59:58.000Z",
-    "reason": "Notable protocol upgrade for a major DeFi token.",
-    "text": "UPDATE: \n$Pi\n Network has initiated its Protocol V27 upgrade, starting with Testnet 2 before a planned Mainnet rollout by the end of the week.\n\n- Upgrades Pi Node Docker to V27.1.0\n- Strengthens network infrastructure\n- Prepares for future developments, including Pi DEX",
-    "url": "https://x.com/CoreNews_2/status/2100192968682475794"
-  },
-  {
-    "id": "x-1789578825444-uw9hmx",
-    "source": "x",
-    "ts": "2026-09-16T17:13:45.444Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Tobias Reisner",
-    "ageMin": 368,
-    "originTimestamp": "2026-09-16T11:05:14.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Hyperliquid USA  incoming",
-    "url": "https://x.com/reisnertobias/status/2100203721292493217"
-  },
-  {
-    "id": "x-1789578841498-g3qo16",
-    "source": "x",
-    "ts": "2026-09-16T17:14:01.498Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Dr. Nicolas Kokkalis",
-    "ageMin": 701,
-    "originTimestamp": "2026-09-16T05:32:47.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "𝘚𝘵𝘢𝘺 𝘍𝘰𝘤𝘶𝘴𝘦𝘥",
-    "url": "https://x.com/drnicolas_/status/2100095532119032119"
-  },
-  {
     "id": "x-1789578846781-5wxvxy",
     "source": "x",
     "ts": "2026-09-16T17:14:06.781Z",
@@ -6542,5 +6490,57 @@
     "reason": "Generic financial advice without factual claim or specific event.",
     "text": "JUST IN: Legendary American financial advisor Ric Edelman compares buying Bitcoin today to buying Amazon in 1999:\n\n\"Back in 1999 people were arguing over whether to invest in Amazon. Nobody has that argument. Everybody owns it, and Bitcoin will have the same trajectory in the",
     "url": "https://x.com/BitcoinMagazine/status/2100599753343975432"
+  },
+  {
+    "id": "x-1789682753992-u44qrm",
+    "source": "x",
+    "ts": "2026-09-17T22:05:53.992Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 429,
+    "originTimestamp": "2026-09-17T14:56:23.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "JUST IN: Legendary American financial advisor Ric Edelman compares buying Bitcoin today to buying Amazon in 1999:\n\n\"Back in 1999 people were arguing over whether to invest in Amazon. Nobody has that argument. Everybody owns it, and Bitcoin will have the same trajectory in the",
+    "url": "https://x.com/BitcoinMagazine/status/2100599753343975432"
+  },
+  {
+    "id": "x-1789682772065-qv3s6q",
+    "source": "x",
+    "ts": "2026-09-17T22:06:12.065Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Kalshi Crypto",
+    "ageMin": 543,
+    "originTimestamp": "2026-09-17T13:03:28.000Z",
+    "reason": "SEC approval for tokenized stocks trading on-chain is notable regulatory news.",
+    "text": "JUST IN: SEC approves limited trading of tokenized stocks onchain",
+    "url": "https://x.com/Kalshi_Crypto/status/2100571339035726024"
+  },
+  {
+    "id": "x-1789682773720-8tb7qk",
+    "source": "x",
+    "ts": "2026-09-17T22:06:13.720Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Byzantine General",
+    "ageMin": 389,
+    "originTimestamp": "2026-09-17T15:36:44.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Another one lol.\n\nWe never needed Clarity.",
+    "url": "https://x.com/ByzGeneral/status/2100619161101619665"
+  },
+  {
+    "id": "x-1789682780185-uakqan",
+    "source": "x",
+    "ts": "2026-09-17T22:06:20.185Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Matt Hougan",
+    "ageMin": 195,
+    "originTimestamp": "2026-09-17T18:51:35.000Z",
+    "reason": "No notable move or concrete event described.",
+    "text": "Tokenization is a mega trend.  Just today, the SEC created a pathway for tokenized stocks to trade in the US, S&P acquired \n@OpenZeppelin\n, and DeFi assets are ripping.  If you had doubts before, today should put them to rest.  The world is moving onchain.\n\nThe thing about",
+    "url": "https://x.com/Matt_Hougan/status/2100658943676789165"
   }
 ]
