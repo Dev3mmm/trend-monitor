@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1789514063881-jrj2w4",
-    "source": "x",
-    "ts": "2026-09-15T23:14:23.881Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 510,
-    "originTimestamp": "2026-09-15T14:44:12.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Live demo of building a company with \n@Grok\n \n@Bot\n!",
-    "url": "https://x.com/elonmusk/status/2099875660290228642"
-  },
-  {
-    "id": "x-1789514612807-2cqcu9",
-    "source": "x",
-    "ts": "2026-09-15T23:23:32.807Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "TylerD ",
-    "ageMin": 411,
-    "originTimestamp": "2026-09-15T16:32:17.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Wow shielded ZEC support on Ledger\n\nThe bag stays on",
-    "url": "https://x.com/Tyler_Did_It/status/2099966969650794776"
-  },
-  {
-    "id": "x-1789514625383-xspmtk",
-    "source": "x",
-    "ts": "2026-09-15T23:23:45.383Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "big z",
-    "ageMin": 185,
-    "originTimestamp": "2026-09-15T20:19:06.000Z",
-    "reason": "No notable move or breaking news, the tweet is a personal opinion.",
-    "text": "A lot of you are brain dead.\n\nI'm allowed to like Zcash and still criticize certain aspects.\n\nI'm not a blind-bullpoaster.\n\nI'm here to give my thoughts on a coin I like and suggest improvements.\n\nDogmatic support only leads to the Bitcoiner sinkhole.",
-    "url": "https://x.com/zectrillionaire/status/2099956195427782760"
-  },
-  {
-    "id": "x-1789515208900-tctcyi",
-    "source": "x",
-    "ts": "2026-09-15T23:33:28.900Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 20,
-    "originTimestamp": "2026-09-15T23:12:37.000Z",
-    "reason": "Notable regulatory move involving crypto trading.",
-    "text": "Two Robinhood Engineers Charged With Trading on Confidential Crypto Listing Information\n\nThe U.S. Attorney’s Office for the Southern District of New York charged Robinhood engineers Hefu Chai and Huaisong Xiang with commodities fraud and wire fraud for allegedly using",
-    "url": "https://x.com/WuBlockchain/status/2099999861110399000"
-  },
-  {
     "id": "x-1789515855096-9zzs1y",
     "source": "x",
     "ts": "2026-09-15T23:44:15.096Z",
@@ -6528,5 +6475,58 @@
     "reason": "Noise: Generic political opinion without factual claim.",
     "text": "The sitting ‘Republican’ Senator of Texas, who lost by 27+ points in his primary, is now telling people to vote Democrat.\n\nSpineless.\n\nYour own voters rejected you.\n\nNow you’re endorsing the party whose beliefs are antithetical to what Texans stand for.\n\nPure betrayal.\n\nThis is",
     "url": "https://x.com/bennyjohnson/status/2100383885452267601"
+  },
+  {
+    "id": "x-1789623250511-nhxhn1",
+    "source": "x",
+    "ts": "2026-09-17T05:34:10.511Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Walrus",
+    "ageMin": 505,
+    "originTimestamp": "2026-09-16T21:08:18.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "Cloud storage locks agent memory in proprietary silos. If access drops, your agent's state vanishes.\n\n\n@StatescuRazvan\n built Kraterion to fix this: a drop-in S3 API using Walrus, Sui, and Seal threshold encryption for true data ownership.\n\nRead how he built it:",
+    "url": "https://x.com/WalrusProtocol/status/2100348025470320870"
+  },
+  {
+    "id": "x-1789623280042-m68a94",
+    "source": "x",
+    "ts": "2026-09-17T05:34:40.042Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Aptos",
+    "ageMin": 95,
+    "originTimestamp": "2026-09-17T04:00:01.000Z",
+    "reason": "On-chain data point with significant implications for the future of decentralized applications.",
+    "text": "Agents are starting to act on our behalf. Each action raises the same question: what did it do, and why?\n\nThat takes a record no one can rewrite after the fact. Permanent, global, and cheap enough to write to constantly. On Aptos, it is.\n\n\n@AptosLabs\n' \n@AveryChing\n with \n@devntellxyz",
+    "url": "https://x.com/Aptos/status/2100434573402464638"
+  },
+  {
+    "id": "x-1789623285037-h9lku8",
+    "source": "x",
+    "ts": "2026-09-17T05:34:45.037Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Ai for Americans",
+    "ageMin": 752,
+    "originTimestamp": "2026-09-16T17:03:00.000Z",
+    "reason": "No notable move in crypto price or significant development related to AI.",
+    "text": " BREAKING: Microsoft AI Chief Challenges Anthropic’s Approach to AI Consciousness\n\nMustafa Suleyman says Anthropic’s focus on AI consciousness and welfare could make advanced systems harder to shut down, calling for such speculation to be removed from AI training.",
+    "url": "https://x.com/AiForAmericans/status/2100269230524661944"
+  },
+  {
+    "id": "x-1789623296270-oz9ymd",
+    "source": "x",
+    "ts": "2026-09-17T05:34:56.270Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "alexi",
+    "ageMin": 693,
+    "originTimestamp": "2026-09-16T18:02:09.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "The Sydney Sweeney effect on \n@novig\n is actually pretty crazy.\n\nSince the campaign dropped, I’ve been seeing Novig mentioned way more alongside Kalshi and Polymarket, and now they’ve crossed $1B+ in prediction-market volume roughly five weeks after launch.\n\nWhat makes it more",
+    "url": "https://x.com/aleximarkett/status/2100284118479380881"
   }
 ]
