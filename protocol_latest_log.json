@@ -1,19 +1,5 @@
 [
   {
-    "id": "proto-abc91d1edfe1788c",
-    "title": "Ministral-3 3B-Base 2512: A Multimodal Base Model for Edge Deployment",
-    "url": "https://aioz.network/blog/ministral-3-3b-base-2512-a-multimodal-base-model-for-edge-deployment",
-    "description": "TL;DR Ministral-3 3B-Base 2512 is the smallest model in the Ministral 3 family, combining a 3.4B language model with a 0.4B frozen vision encoder for local multimodal workloads. It supports a 256K context window, multilingual and visual inputs, and local deployment in 16GB of RAM with BF16 or less than 8GB when quantized. As a pretrained base checkpoint, it is built for custom fine-tuning and spec",
-    "publishedAt": "2026-09-08T14:43:59.000Z",
-    "source": "AIOZ Network",
-    "sourceType": "protocol",
-    "sourceKind": "blog",
-    "translated": false,
-    "fetchedAt": "2026-09-08T14:46:43.565Z",
-    "userStatus": null,
-    "relevanceRejected": false
-  },
-  {
     "id": "proto-4d7309d98d61d305",
     "title": "Join Us: EF Protocol Reddit AMA - September 16th, 2026",
     "url": "https://blog.ethereum.org/en/2026/09/09/reddit-ama",
@@ -1254,6 +1240,20 @@
     "originalTitle": "[RealFi 제1기 알파 앰배서더] 카르다노 기반 실물금융 RealFi 테스트넷 오픈 및 한국어 완벽 가이드 (Lace 연동 & 5,000P 챌린지)",
     "originalDescription": "안녕하세요, 카르다노 포럼 커뮤니티 여러분! JOY, JOY2, HOPE, HOPE2 스테이크 풀을 운영하고 있는 카르다노 사랑방의 Paul Ko입니다. 지난 SPO 액셀러레이터 활동에 이어, 이번에 카르다노 사랑방이 글로벌 RealFi(리얼파이) 공식 팀으로부터 '제1기 알파 앰배서더(Alpha Ambassador Cohort)'로 공식 선정 되어 커뮤니티 여러분께 기쁜 소식과 함께 테스트넷 온보딩 가이드를 공유해 드립니다. RealFi(리얼파이) 프로젝트 개요 RealFi는 카르다노의 eUTxO 아키텍처와 탈중앙성을 기반으로, 현실 세계의 실물 금융(RWA)과 유동성을 연결하는 핵심 프로젝트입니다. 현재 메인넷 런칭을 앞두고 진성 온체인 트랜잭션과 안정성을 검증하기 위한 글로벌 테스트넷을 오픈했습니다. ",
     "fetchedAt": "2026-09-18T14:25:41.553Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-df46f4ed04ed9a54",
+    "title": "🍿 The First Bitcoin Yield Is Trickling In",
+    "url": "https://www.stacks.co/blog/the-first-bitcoin-yield-is-trickling-in",
+    "description": "The Genesis Bond is producing its first BTC rewards, Stack Sats puts 3 BTC on the table, and capital is already at work across Stacks DeFi.",
+    "publishedAt": "2026-09-18T14:35:23.000Z",
+    "source": "Stacks",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-18T14:48:33.876Z",
     "userStatus": null,
     "relevanceRejected": false
   }
