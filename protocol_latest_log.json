@@ -1256,5 +1256,19 @@
     "fetchedAt": "2026-09-18T14:48:33.876Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-4e019bbf79efc0ca",
+    "title": "SciTLDR: A Dataset for Scientific Extreme Summarization",
+    "url": "https://aioz.network/blog/scitldr-a-dataset-for-scientific-extreme-summarization",
+    "description": "TL;DR SciTLDR is a scientific summarization dataset with approximately 3,200 papers and 5,400 concise summaries written by original authors and professional annotators. Available in three JSON-lines variants with train, development, and test splits, it supports extractive and abstractive summarization, sentence selection, few-shot and zero-shot learning, and transfer learning. What SciTLDR Is SciT",
+    "publishedAt": "2026-09-18T15:28:33.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-18T15:51:03.180Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
