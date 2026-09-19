@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1789749847125-3jdqkb",
-    "source": "x",
-    "ts": "2026-09-18T16:44:07.125Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "luka",
-    "ageMin": 296,
-    "originTimestamp": "2026-09-18T11:48:05.000Z",
-    "reason": "Generic meme without context or price/real-world impact.",
-    "text": "I  Dogecoin",
-    "url": "https://x.com/LukaDoge/status/2100914756542513448"
-  },
-  {
-    "id": "x-1789749856107-u6skkh",
-    "source": "x",
-    "ts": "2026-09-18T16:44:16.107Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "sunday peter π",
-    "ageMin": 383,
-    "originTimestamp": "2026-09-18T10:20:44.000Z",
-    "reason": "New regulatory move opening the door for tokenized securities on-chain trading.",
-    "text": "*English translation of this*\n JUST IN: THE SEC IS OPENING THE DOOR FOR TOKENIZED U.S. STOCKS TO TRADE ON-CHAIN. \n\nThe SEC has introduced a temporary, conditional Innovation Exemption allowing certain tokenized securities to trade through approved on-chain venues, including",
-    "url": "https://x.com/sundaypeter8110/status/2100892773146570970"
-  },
-  {
-    "id": "x-1789749864672-j3dh0h",
-    "source": "x",
-    "ts": "2026-09-18T16:44:24.672Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Solid Intel ",
-    "ageMin": 1504,
-    "originTimestamp": "2026-09-17T15:40:13.000Z",
-    "reason": "Regulator allows developers to build crypto derivatives software without registering, potentially increasing developer activity.",
-    "text": "INTEL: CFTC allows developers to build passive crypto derivatives software and self-custodial trading interfaces without registering as brokers\n\nThe exemption applies when developers do not control funds, direct orders or provide trading recommendations",
-    "url": "https://x.com/solidintel_x/status/2100610786901037363"
-  },
-  {
     "id": "x-1789749869784-avkqk8",
     "source": "x",
     "ts": "2026-09-18T16:44:29.784Z",
@@ -6512,5 +6473,44 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "Are you bullish?",
     "url": "https://x.com/TedPillows/status/2101287598442344529"
+  },
+  {
+    "id": "x-1789845313927-h4g1ag",
+    "source": "x",
+    "ts": "2026-09-19T19:15:13.927Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Cointelegraph",
+    "ageMin": 194,
+    "originTimestamp": "2026-09-19T16:00:25.000Z",
+    "reason": "Tether making a significant amount of USDT on a lower-known crypto asset.",
+    "text": " HUGE: Tether minted $500M worth of USDT on SOL in less than one hour.",
+    "url": "https://x.com/Cointelegraph/status/2101340643649794358"
+  },
+  {
+    "id": "x-1789845322494-1lgg7w",
+    "source": "x",
+    "ts": "2026-09-19T19:15:22.494Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bull Theory",
+    "ageMin": 358,
+    "originTimestamp": "2026-09-19T13:16:52.000Z",
+    "reason": "Generic hype with no factual claim.",
+    "text": "Warren Buffett's net worth has exploded by over 850,000x since 1958.\n\nAnd he still lives in the same house he bought that same year for just $31,500.",
+    "url": "https://x.com/BullTheoryio/status/2101299484693311683"
+  },
+  {
+    "id": "x-1789845336855-r8s79k",
+    "source": "x",
+    "ts": "2026-09-19T19:15:36.855Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "CoinMarketCap",
+    "ageMin": 710,
+    "originTimestamp": "2026-09-19T07:25:10.000Z",
+    "reason": "Notable burn of Polygon Foundation tokens by a major stakeholder.",
+    "text": "LATEST:  Polygon Foundation CEO Sandeep Nailwal says 100M POL is set to be permanently burned once a permissionless burn contract clears mainnet after Security Council sign-off.",
+    "url": "https://x.com/CoinMarketCap/status/2101210980365615408"
   }
 ]
