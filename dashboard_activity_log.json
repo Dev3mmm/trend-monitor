@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1789706675506-kro51o",
-    "source": "x",
-    "ts": "2026-09-18T04:44:35.506Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Strategy",
-    "ageMin": 494,
-    "originTimestamp": "2026-09-17T20:31:02.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Liquid. \n$MSTR",
-    "url": "https://x.com/Strategy/status/2100683973257036224"
-  },
-  {
-    "id": "x-1789706680264-njg6r0",
-    "source": "x",
-    "ts": "2026-09-18T04:44:40.264Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "NEAR Protocol",
-    "ageMin": 2895,
-    "originTimestamp": "2026-09-16T04:29:46.000Z",
-    "reason": "No notable move, describes a wallet feature.",
-    "text": "near.​com puts 30+ chains and 180+ assets behind one account and one passkey. \n\nChain Signatures trigger the native transaction on the receiving chain, so there is no bridge in the path slowing you down. \n\nTry it yourself at \nhttps://\nnear.com",
-    "url": "https://x.com/NEARProtocol/status/2100311286701588906"
-  },
-  {
-    "id": "x-1789707254643-c66zu8",
-    "source": "x",
-    "ts": "2026-09-18T04:54:14.644Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Ash Crypto",
-    "ageMin": 112,
-    "originTimestamp": "2026-09-18T03:01:36.000Z",
-    "reason": "No relevant crypto news.",
-    "text": "BREAKING\n\n BOJ HIKE RATES BY 25BPS TO 1.25%\n\nHIGHEST LEVEL SINCE 1995.",
-    "url": "https://x.com/AshCrypto/status/2100782260928585943"
-  },
-  {
     "id": "x-1789707265904-78sig6",
     "source": "x",
     "ts": "2026-09-18T04:54:25.904Z",
@@ -6521,5 +6481,44 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "Elon’s next \n$DOGE\n post will be perfectly timed",
     "url": "https://x.com/TeslaModelDoge/status/2101092724258885876"
+  },
+  {
+    "id": "x-1789779905926-rxhcgj",
+    "source": "x",
+    "ts": "2026-09-19T01:05:05.927Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "DCG",
+    "ageMin": 2218,
+    "originTimestamp": "2026-09-17T12:06:36.000Z",
+    "reason": "Regulatory move and institutional partnership.",
+    "text": "Huge congratulations to \n@demibrener\n and the \n@OpenZeppelin\n team on their agreement to be acquired by \n@SPGlobal\n.\n\nDCG invested in 2015 with a belief that onchain security would become essential as financial markets moved onchain. Today, OpenZeppelin helps secure the infrastructure",
+    "url": "https://x.com/DCGco/status/2100622998734508310"
+  },
+  {
+    "id": "x-1789779927658-ew2fxy",
+    "source": "x",
+    "ts": "2026-09-19T01:05:27.658Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Shib Spain",
+    "ageMin": 405,
+    "originTimestamp": "2026-09-18T18:20:30.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "BIGGEST BULL RUN EVER IS COMING \n\nALT SZN INCOMING ",
+    "url": "https://x.com/ShibSpain/status/2101013510176022907"
+  },
+  {
+    "id": "x-1789779930858-29ueex",
+    "source": "x",
+    "ts": "2026-09-19T01:05:30.858Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "NEAR Protocol",
+    "ageMin": 11319,
+    "originTimestamp": "2026-09-11T04:26:21.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "be part of \n$NEAR\n.",
+    "url": "https://x.com/NEARProtocol/status/2101083850394816981"
   }
 ]
