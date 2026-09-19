@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1789728260191-7plti8",
-    "source": "x",
-    "ts": "2026-09-18T10:44:20.191Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Whale Insider",
-    "ageMin": 878,
-    "originTimestamp": "2026-09-17T20:05:15.000Z",
-    "reason": "Specific adoption by a major financial institution.",
-    "text": "NEW: Ripple now supports AI agents' online services payments with \n$XRP\n and \n$RLUSD\n using a payments standard co-created by Stripe and Tempo.",
-    "url": "https://x.com/WhaleInsider/status/2100677482420523187"
-  },
-  {
-    "id": "x-1789728268505-0ef7s0",
-    "source": "x",
-    "ts": "2026-09-18T10:44:28.505Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Uniswap",
-    "ageMin": 489,
-    "originTimestamp": "2026-09-18T02:35:27.000Z",
-    "reason": "Notable institutional liquidity event with substantial volume.",
-    "text": "80% of all Robinhood Stock Token volume is traded on Uniswap \n\nThat translates to $10B (and counting)",
-    "url": "https://x.com/Uniswap/status/2100775679235166479"
-  },
-  {
-    "id": "x-1789728273310-fjwuzo",
-    "source": "x",
-    "ts": "2026-09-18T10:44:33.310Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Watcher.Guru",
-    "ageMin": 61,
-    "originTimestamp": "2026-09-18T09:43:32.000Z",
-    "reason": "Bitcoin reclaims a significant price milestone within its recent range, indicating a potential trend continuation rather than a breakout.",
-    "text": "JUST IN: Bitcoin reclaims $78,000",
-    "url": "https://x.com/WatcherGuru/status/2100883410805747721"
-  },
-  {
     "id": "x-1789728283415-mdzwp2",
     "source": "x",
     "ts": "2026-09-18T10:44:43.415Z",
@@ -6517,5 +6477,44 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Due to whales buying \n$DOGE\n \n\nI have lost my status of being a top 100 Dogecoin holder\n\nI have not sold anything\n\nPeople simply bought more than I have\n\nI'll have to work my way back up to the top 100",
     "url": "https://x.com/YazanXBT/status/2101212357661786173"
+  },
+  {
+    "id": "x-1789820705766-cvafvh",
+    "source": "x",
+    "ts": "2026-09-19T12:25:05.766Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "ItsFrank",
+    "ageMin": 226,
+    "originTimestamp": "2026-09-19T08:38:42.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "What makes \n$SUI\n different from most blockchains?\n\nIt starts with the architecture.\n\nSui uses an object-centric model and the Move programming language, designed to process many transactions in parallel instead of treating everything like one long queue.\n\n Parallel",
+    "url": "https://x.com/FrankLambeek/status/2101229484749750306"
+  },
+  {
+    "id": "x-1789820712516-3kbuci",
+    "source": "x",
+    "ts": "2026-09-19T12:25:12.516Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Tesla Model Doge",
+    "ageMin": 84,
+    "originTimestamp": "2026-09-19T11:01:06.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "You can literally buy Sir Doge merch with \n$DOGE",
+    "url": "https://x.com/TeslaModelDoge/status/2101265320597950890"
+  },
+  {
+    "id": "x-1789820723714-bxmxxo",
+    "source": "x",
+    "ts": "2026-09-19T12:25:23.714Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CoinMarketCap",
+    "ageMin": 145,
+    "originTimestamp": "2026-09-19T10:00:05.000Z",
+    "reason": "Generic meme without factual claim.",
+    "text": "☻/ \n/▌ Raise your hand if crypto is home.\n / \\",
+    "url": "https://x.com/CoinMarketCap/status/2101249963590062296"
   }
 ]
