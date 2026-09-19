@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1789723457694-r8p8hn",
-    "source": "x",
-    "ts": "2026-09-18T09:24:17.694Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Solana",
-    "ageMin": 672,
-    "originTimestamp": "2026-09-17T22:11:31.000Z",
-    "reason": "Generic sentiment without specific action or price.",
-    "text": "I like solana",
-    "url": "https://x.com/solana/status/2100815801184117077"
-  },
-  {
-    "id": "x-1789723460934-8tndav",
-    "source": "x",
-    "ts": "2026-09-18T09:24:20.934Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "ASTER Daily",
-    "ageMin": 3330,
-    "originTimestamp": "2026-09-16T01:54:02.000Z",
-    "reason": "Generic statement without context or price.",
-    "text": "$Aster coded",
-    "url": "https://x.com/_AsterDaily/status/2100578536910475376"
-  },
-  {
-    "id": "x-1789723505386-wsv53z",
-    "source": "x",
-    "ts": "2026-09-18T09:25:05.387Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Hunter ",
-    "ageMin": 1249,
-    "originTimestamp": "2026-09-17T12:36:16.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Happy 1 Year Anniversary to \n@Aster_DEX\n \n\nOne year of building, growing, and making moves and we’re only getting started.\n\nHere’s to everything $ASTER has accomplished and everything still to come.",
-    "url": "https://x.com/Blockhunta/status/2100564491930833135"
-  },
-  {
     "id": "x-1789723509187-fbgud4",
     "source": "x",
     "ts": "2026-09-18T09:25:09.187Z",
@@ -6519,5 +6480,44 @@
     "reason": "Noteworthy liquidity event and potential price impact from short liquidation.",
     "text": "Garrett Jin (\n@GarrettBullish\n), the largest \n$ZEC\n short, is now sitting on a $33.66M unrealized loss!\n\nLiquidation price: $4,792.01\n\nBut his 1,333 \n$BTC\n ($108.57M) long is now up $4.5M.\n\n\nhttps://\nhypurrscan.io/address/0x92ea\n19ECeB7a8dE0f50978A1583A5D8b018050e9#perps\n…",
     "url": "https://x.com/lookonchain/status/2101146737905991689"
+  },
+  {
+    "id": "x-1789812819794-9t08g5",
+    "source": "x",
+    "ts": "2026-09-19T10:13:39.794Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Ash Crypto",
+    "ageMin": 209,
+    "originTimestamp": "2026-09-19T06:44:23.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "$ETH\n just closed above $2,600 on daily for the first time in the last 8 months.\n\nThis is giga bullish for Altcoins.",
+    "url": "https://x.com/AshCrypto/status/2101200716526227873"
+  },
+  {
+    "id": "x-1789812843435-cbtk4m",
+    "source": "x",
+    "ts": "2026-09-19T10:14:03.435Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Arc",
+    "ageMin": 734,
+    "originTimestamp": "2026-09-18T22:00:01.000Z",
+    "reason": "New use of a stablecoin (cirBTC) for cross-chain trading.",
+    "text": "Want cirBTC on Arc?\n\nHead to Arc Portal. Two ways to get it:\n→ Swap on Arc: trade USDC or other supported assets for cirBTC\n→ Bridge from Ethereum: move cirBTC from Ethereum to Arc\n\nHolding supported wrapped BTC assets on Ethereum?\n\nSwap into cirBTC on Ethereum, then bridge",
+    "url": "https://x.com/arc/status/2101068753798611147"
+  },
+  {
+    "id": "x-1789812854567-vqyj0k",
+    "source": "x",
+    "ts": "2026-09-19T10:14:14.567Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Ash Crypto",
+    "ageMin": 893,
+    "originTimestamp": "2026-09-18T19:21:09.000Z",
+    "reason": "No specific, verifiable claim about a concrete event or price change.",
+    "text": "$220 Billion added to the crypto market since the Clarity act failed to pass the senate.\n\nRESPECT THE PUMP !",
+    "url": "https://x.com/AshCrypto/status/2101028772472295845"
   }
 ]
