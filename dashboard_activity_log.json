@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789762035656-8ivhdq",
-    "source": "x",
-    "ts": "2026-09-18T20:07:15.656Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Bitcoin Magazine",
-    "ageMin": 177,
-    "originTimestamp": "2026-09-18T17:10:40.000Z",
-    "reason": "Notable opinion from a high-profile figure on institutional Bitcoin holdings.",
-    "text": "JUST IN: Billionaire Tim Draper says huge companies like Apple and Facebook not holding Bitcoin on their balance sheet “is irresponsible.”",
-    "url": "https://x.com/BitcoinMagazine/status/2100995934523904143"
-  },
-  {
-    "id": "x-1789762052210-ztk3qb",
-    "source": "x",
-    "ts": "2026-09-18T20:07:32.210Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "$SHIB Bezos $SHIB $AMC $BKKT ToTheMoon INVESTOR ",
-    "ageMin": 1669,
-    "originTimestamp": "2026-09-17T16:18:33.000Z",
-    "reason": "Generic hype with no real content",
-    "text": "$SHIB\n WILL PUMP WHEN YOU LEAST EXPECT IT\n\nI’M READY \n11:11 \nAMEN ",
-    "url": "https://x.com/BezosCrypto/status/2100620433095868672"
-  },
-  {
-    "id": "x-1789762054124-2t1jt2",
-    "source": "x",
-    "ts": "2026-09-18T20:07:34.125Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 114,
-    "originTimestamp": "2026-09-18T18:13:08.000Z",
-    "reason": "Generic, vague opinion with no factual claim.",
-    "text": "JUST IN: Miller Value Partners Chairman Bill Miller IV says \"I've never been more bullish in my life\" on Bitcoin   ",
-    "url": "https://x.com/BitcoinMagazine/status/2101011656532771282"
-  },
-  {
-    "id": "x-1789762058653-2tgnmk",
-    "source": "x",
-    "ts": "2026-09-18T20:07:38.653Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Robinhood",
-    "ageMin": 147,
-    "originTimestamp": "2026-09-18T17:40:40.000Z",
-    "reason": "Generic promotion with no real content or notable event.",
-    "text": "Curiosity has its rewards.\n\nTake a few minutes to learn about \n@USDai_Official\n (CHIP) in the app and earn $3 in CHIP.\n\nRewards while supplies last. Not available in NY state. Other terms apply.",
-    "url": "https://x.com/RobinhoodApp/status/2101003487295270994"
-  },
-  {
     "id": "x-1789762418725-69r944",
     "source": "x",
     "ts": "2026-09-18T20:13:38.725Z",
@@ -6512,5 +6460,58 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Most predictions I see are still way too conservative.\n\nHere's mine",
     "url": "https://x.com/thorstenball/status/2101305394190557466"
+  },
+  {
+    "id": "x-1789862870763-ca6ecz",
+    "source": "x",
+    "ts": "2026-09-20T00:07:50.763Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "DEGEN NEWS",
+    "ageMin": 42,
+    "originTimestamp": "2026-09-19T23:25:47.000Z",
+    "reason": "New TVL milestone for NEAR Protocol",
+    "text": "NEW: \n@NEARProtocol\n INTENTS TVL HITS $169M\n\nSOURCE: \nhttps://\ndefillama.com/protocol/near-\nintents?fees=false\n…",
+    "url": "https://x.com/DegenerateNews/status/2101452726768910548"
+  },
+  {
+    "id": "x-1789862880292-6s2jmi",
+    "source": "x",
+    "ts": "2026-09-20T00:08:00.292Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "kache",
+    "ageMin": 1416,
+    "originTimestamp": "2026-09-19T00:31:37.000Z",
+    "reason": "No notable crypto-related event or data point.",
+    "text": "Im in signal group chats with some anthropic employees, the level of derrangment they report from some of their counterparts is genuinely concerning. Like religious fervor, resentment, anxiety. Big warning signs imo",
+    "url": "https://x.com/yacineMTB/status/2101277001218732281"
+  },
+  {
+    "id": "x-1789862883873-mwulzb",
+    "source": "x",
+    "ts": "2026-09-20T00:08:03.873Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Kalshi",
+    "ageMin": 579,
+    "originTimestamp": "2026-09-19T14:29:10.000Z",
+    "reason": "No notable crypto news related to the tweet content.",
+    "text": "JUST IN: France says 11% of gas stations are now out of diesel",
+    "url": "https://x.com/Kalshi/status/2101317681748099118"
+  },
+  {
+    "id": "x-1789862901886-fcgvs6",
+    "source": "x",
+    "ts": "2026-09-20T00:08:21.886Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Argus on Arc",
+    "ageMin": 375,
+    "originTimestamp": "2026-09-19T17:53:00.000Z",
+    "reason": "Notable institution partnership with safe cross-chain bridging capability.",
+    "text": "Bridge your \n$USDC\n safely to \n@arc\n and explore Argus.\nPowered by \n@circle\n CCTP.\n\nNo pesky volatile gas tokens needed.\n\nhttps://\nargus.world/bridge",
+    "url": "https://x.com/Arguspad/status/2101368976387506474"
   }
 ]
