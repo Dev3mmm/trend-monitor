@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1789862870763-ca6ecz",
-    "source": "x",
-    "ts": "2026-09-20T00:07:50.763Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "DEGEN NEWS",
-    "ageMin": 42,
-    "originTimestamp": "2026-09-19T23:25:47.000Z",
-    "reason": "New TVL milestone for NEAR Protocol",
-    "text": "NEW: \n@NEARProtocol\n INTENTS TVL HITS $169M\n\nSOURCE: \nhttps://\ndefillama.com/protocol/near-\nintents?fees=false\n…",
-    "url": "https://x.com/DegenerateNews/status/2101452726768910548"
-  },
-  {
-    "id": "x-1789862880292-6s2jmi",
-    "source": "x",
-    "ts": "2026-09-20T00:08:00.292Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "kache",
-    "ageMin": 1416,
-    "originTimestamp": "2026-09-19T00:31:37.000Z",
-    "reason": "No notable crypto-related event or data point.",
-    "text": "Im in signal group chats with some anthropic employees, the level of derrangment they report from some of their counterparts is genuinely concerning. Like religious fervor, resentment, anxiety. Big warning signs imo",
-    "url": "https://x.com/yacineMTB/status/2101277001218732281"
-  },
-  {
-    "id": "x-1789862883873-mwulzb",
-    "source": "x",
-    "ts": "2026-09-20T00:08:03.873Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Kalshi",
-    "ageMin": 579,
-    "originTimestamp": "2026-09-19T14:29:10.000Z",
-    "reason": "No notable crypto news related to the tweet content.",
-    "text": "JUST IN: France says 11% of gas stations are now out of diesel",
-    "url": "https://x.com/Kalshi/status/2101317681748099118"
-  },
-  {
-    "id": "x-1789862901886-fcgvs6",
-    "source": "x",
-    "ts": "2026-09-20T00:08:21.886Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Argus on Arc",
-    "ageMin": 375,
-    "originTimestamp": "2026-09-19T17:53:00.000Z",
-    "reason": "Notable institution partnership with safe cross-chain bridging capability.",
-    "text": "Bridge your \n$USDC\n safely to \n@arc\n and explore Argus.\nPowered by \n@circle\n CCTP.\n\nNo pesky volatile gas tokens needed.\n\nhttps://\nargus.world/bridge",
-    "url": "https://x.com/Arguspad/status/2101368976387506474"
-  },
-  {
     "id": "x-1789863293966-3jujci",
     "source": "x",
     "ts": "2026-09-20T00:14:53.966Z",
@@ -6515,5 +6462,57 @@
     "reason": "No notable use of a token/stablecoin mentioned.",
     "text": "Market snapshot: Five days after launch, fewer than 9 altcoins on Arc have a market cap over $1M.",
     "url": "https://x.com/GeckoTerminal/status/2101752413946626376"
+  },
+  {
+    "id": "x-1789946056003-a4cml1",
+    "source": "x",
+    "ts": "2026-09-20T23:14:16.003Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 496,
+    "originTimestamp": "2026-09-20T14:58:00.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Time flies when you’re on Binance.",
+    "url": "https://x.com/binance/status/2101687324836786343"
+  },
+  {
+    "id": "x-1789946062679-sqotlj",
+    "source": "x",
+    "ts": "2026-09-20T23:14:22.679Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Ansem ",
+    "ageMin": 369,
+    "originTimestamp": "2026-09-20T17:05:43.000Z",
+    "reason": "No real content, vague statement.",
+    "text": "super cycle",
+    "url": "https://x.com/blknoiz06/status/2101787610632872385"
+  },
+  {
+    "id": "x-1789946071370-f7tsmu",
+    "source": "x",
+    "ts": "2026-09-20T23:14:31.370Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase Predict",
+    "ageMin": 638,
+    "originTimestamp": "2026-09-20T12:36:23.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "NEW IN: ETH now has a 30% chance of trading above $3,500 this year.",
+    "url": "https://x.com/CoinbasePredict/status/2101651685621813677"
+  },
+  {
+    "id": "x-1789946074688-2jjnr7",
+    "source": "x",
+    "ts": "2026-09-20T23:14:34.688Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Rollins",
+    "ageMin": 546,
+    "originTimestamp": "2026-09-20T14:07:58.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "AI agents are becoming more capable but giving them unrestricted access to API keys, wallets and financial systems creates a new security problem.\n\nThat’s where Latch comes in.\n\nLatch acts as a programmable authorization layer between AI agents and the resources they use.",
+    "url": "https://x.com/RollinsR79/status/2101674734908023223"
   }
 ]
