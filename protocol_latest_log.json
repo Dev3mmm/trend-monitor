@@ -820,5 +820,19 @@
     "fetchedAt": "2026-09-21T12:15:52.497Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-3839a60a9c5aa788",
+    "title": "Qwen2.5-72B-Instruct: An Instruction-Tuned Model for Complex Text Workflows",
+    "url": "https://aioz.network/blog/qwen2-5-72b-instruct-an-instruction-tuned-model-for-complex-text-workflows",
+    "description": "TL;DR Qwen2.5-72B-Instruct is the 72B instruction-tuned model in the Qwen2.5 family, built for demanding language tasks such as coding, mathematics, multilingual dialogue, and structured output. It has 72.7 billion parameters and 80 layers, with a default context of 32,768 tokens that can be extended to 131,072 tokens with YaRN. What the Model Is Qwen2.5-72B-Instruct, now available on AIOZ AI, is ",
+    "publishedAt": "2026-09-21T15:19:18.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-21T15:36:19.324Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
