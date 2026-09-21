@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1789916021777-sd5owu",
-    "source": "x",
-    "ts": "2026-09-20T14:53:41.777Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Waleed Ahmed",
-    "ageMin": 388,
-    "originTimestamp": "2026-09-20T08:25:13.000Z",
-    "reason": "Prediction/price call with no basis given",
-    "text": "$AVAX\n\n\nNice move from AVAX.\n\nIf the monthly starts accelerating from here and gets acceptance back above this range, I see $22 and $65 as the next most probable targets.\n\nThe higher-timeframe structure is what matters now.",
-    "url": "https://x.com/Waleedahmed234/status/2101588476458119368"
-  },
-  {
-    "id": "x-1789916039804-ofe4pl",
-    "source": "x",
-    "ts": "2026-09-20T14:53:59.804Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Panchu",
-    "ageMin": 3459,
-    "originTimestamp": "2026-09-18T05:15:25.000Z",
-    "reason": "No notable move or event described.",
-    "text": "Thanks \n@BitgetWallet",
-    "url": "https://x.com/Panchu2605/status/2101654239139246524"
-  },
-  {
-    "id": "x-1789916043904-icylfz",
-    "source": "x",
-    "ts": "2026-09-20T14:54:03.904Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 504,
-    "originTimestamp": "2026-09-20T06:30:08.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": " JUST IN: Strategy’s \n$MSTR\n was the Nasdaq-100’s top performer over the past month, surging 48%.",
-    "url": "https://x.com/Cointelegraph/status/2101559514663178667"
-  },
-  {
-    "id": "x-1789916657287-usa2ms",
-    "source": "x",
-    "ts": "2026-09-20T15:04:17.287Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Panchu",
-    "ageMin": 3468,
-    "originTimestamp": "2026-09-18T05:15:25.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "Thanks \n@BitgetWallet",
-    "url": "https://x.com/Panchu2605/status/2101654239139246524"
-  },
-  {
     "id": "x-1789916661569-6g01q8",
     "source": "x",
     "ts": "2026-09-20T15:04:21.569Z",
@@ -6533,5 +6481,58 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "2026 bears: “Saylor is about to get liquidated”\n\nSaylor: sitting on $7.35 BILLION in unrealized profits",
     "url": "https://x.com/QuintenFrancois/status/2101961806876909695"
+  },
+  {
+    "id": "x-1789995228077-sdk1st",
+    "source": "x",
+    "ts": "2026-09-21T12:53:48.077Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 51,
+    "originTimestamp": "2026-09-21T12:02:35.000Z",
+    "reason": "Crypto hedge fund acquires and repurchases Bitcoin and Strategy.",
+    "text": "Strategy has acquired 950 \n$BTC\n and repurchased $174M of \n$STRC\n. As of 9/20/26, we hold 846,000 BTC and $6.09B of USD Assets. \n$MSTR",
+    "url": "https://x.com/saylor/status/2102005566973301018"
+  },
+  {
+    "id": "x-1789995234493-zs3g5o",
+    "source": "x",
+    "ts": "2026-09-21T12:53:54.493Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Crypto Rover",
+    "ageMin": 227,
+    "originTimestamp": "2026-09-21T09:07:00.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Binance is buying.\nCoinbase is buying.\nBitstamp is buying.\nBybit is buying.\n\nEveryone is buying Bitcoin, and you're bearish.\n\nThis won't end well.",
+    "url": "https://x.com/cryptorover/status/2101961380114890845"
+  },
+  {
+    "id": "x-1789995239273-qytbby",
+    "source": "x",
+    "ts": "2026-09-21T12:53:59.273Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "NEAR Protocol",
+    "ageMin": 54,
+    "originTimestamp": "2026-09-21T12:00:01.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "333,333 NEAR has been distributed.\n\nIf you qualified for NEAR@3.33, your rewards are now in your \nhttps://\nnear.com account.\n\nWhat should the next milestones be?",
+    "url": "https://x.com/NEARProtocol/status/2102004920996041200"
+  },
+  {
+    "id": "x-1789995252710-fu4o59",
+    "source": "x",
+    "ts": "2026-09-21T12:54:12.710Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Bull Theory",
+    "ageMin": 263,
+    "originTimestamp": "2026-09-21T08:31:23.000Z",
+    "reason": "Price breaks out of recent range with significant historical context.",
+    "text": "BREAKING: Bitcoin reclaims $82,000 and Ethereum surges above $2,700.\n\nBoth BTC and ETH have hit their highest levels in almost 8 months.\n\n$800 BILLION has been added to the crypto market since the June lows.",
+    "url": "https://x.com/BullTheoryio/status/2101952416371581032"
   }
 ]
