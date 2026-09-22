@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1789994100349-u47zdl",
-    "source": "x",
-    "ts": "2026-09-21T12:35:00.349Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "CoinDesk",
-    "ageMin": 126,
-    "originTimestamp": "2026-09-21T10:29:24.000Z",
-    "reason": "Specific companies hiring for blockchain-related roles.",
-    "text": "NEW: \n@Apple\n and \n@Google\n are hiring for stablecoin and blockchain-related roles, with Apple seeking stablecoin expertise for Apple Pay and Google hiring for Web3 in Hong Kong.",
-    "url": "https://x.com/CoinDesk/status/2101982118016356809"
-  },
-  {
-    "id": "x-1789994102064-hcddst",
-    "source": "x",
-    "ts": "2026-09-21T12:35:02.064Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Jonny",
-    "ageMin": 86,
-    "originTimestamp": "2026-09-21T11:08:37.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Day 6 of \n@Arc\n mainnet",
-    "url": "https://x.com/jonny_cruz3/status/2101991988488773793"
-  },
-  {
     "id": "x-1789994104062-fz29yi",
     "source": "x",
     "ts": "2026-09-21T12:35:04.062Z",
@@ -6532,5 +6506,32 @@
     "reason": "Generic vague opinion with no factual claim.",
     "text": "What if we do that thing we did a couple Fridays ago where everything except \n$ZEC\n pumped and then at night we giga speedran a pump in the evening?",
     "url": "https://x.com/zectrillionaire/status/2102148192364318941"
+  },
+  {
+    "id": "x-1790067514705-3c6ixf",
+    "source": "x",
+    "ts": "2026-09-22T08:58:34.705Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Sui Community",
+    "ageMin": 1638,
+    "originTimestamp": "2026-09-21T05:40:00.000Z",
+    "reason": "Notable on-chain data point with specific trading volume figure.",
+    "text": "BREAKING \n\nThe \n$SUI\n network has surpassed 2.1 billion in trading volume over the past 24 hours. Marking a strong comeback! ",
+    "url": "https://x.com/Community_Sui/status/2102269159342309774"
+  },
+  {
+    "id": "x-1790067521699-ei3ts0",
+    "source": "x",
+    "ts": "2026-09-22T08:58:41.699Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Crypto Rover",
+    "ageMin": 100,
+    "originTimestamp": "2026-09-22T07:19:00.000Z",
+    "reason": "Concrete price movement well outside recent range suggests a significant event.",
+    "text": "Bitcoin Coinbase premium just flipped GREEN!",
+    "url": "https://x.com/cryptorover/status/2102296588760563935"
   }
 ]
