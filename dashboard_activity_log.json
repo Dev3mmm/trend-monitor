@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1790016291513-l0z605",
-    "source": "x",
-    "ts": "2026-09-21T18:44:51.513Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Kalshi Crypto",
-    "ageMin": 146,
-    "originTimestamp": "2026-09-21T16:18:26.000Z",
-    "reason": "Prediction with no basis given",
-    "text": "BREAKING: 40% chance Bitcoin hits $100,000 this year",
-    "url": "https://x.com/Kalshi_Crypto/status/2102069954015035872"
-  },
-  {
-    "id": "x-1790016295329-0lsyub",
-    "source": "x",
-    "ts": "2026-09-21T18:44:55.329Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 81,
-    "originTimestamp": "2026-09-21T17:23:30.000Z",
-    "reason": "Prediction without basis or historical data.",
-    "text": "JUST IN: There's now a 78% chance Bitcoin will be above $87,500 this month, according to Polymarket⁠.com ",
-    "url": "https://x.com/BitcoinMagazine/status/2102086328225571095"
-  },
-  {
-    "id": "x-1790016811176-dpsr3z",
-    "source": "x",
-    "ts": "2026-09-21T18:53:31.176Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Blockworks",
-    "ageMin": 164,
-    "originTimestamp": "2026-09-21T16:09:13.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "So you know how we say Blockworks Data Everywhere right\n\nWell we decided that wasn't good enough and we needed to level that up even further.\n\nSo on Thursday you'll see that now, we truly do mean it. \nNotifs on.",
-    "url": "https://x.com/Blockworks/status/2102067636368797789"
-  },
-  {
     "id": "x-1790016814511-ki1lde",
     "source": "x",
     "ts": "2026-09-21T18:53:34.511Z",
@@ -6547,5 +6508,46 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Ripple \n$XRP\n Adds New $138B Partner…",
     "url": "https://x.com/AbsGEC/status/2102363116055240914"
+  },
+  {
+    "id": "x-1790093661061-ghgs6h",
+    "source": "x",
+    "ts": "2026-09-22T16:14:21.062Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Zcash Open Development Lab",
+    "ageMin": 95,
+    "originTimestamp": "2026-09-22T14:38:30.000Z",
+    "reason": "On-chain data point with a significant historical context.",
+    "text": "Shielded Zcash activity just hit a four-year high.\n\n62,379 transactions were sent last week, the highest weekly total since 2022.",
+    "url": "https://x.com/zodl_co/status/2102407195011043434"
+  },
+  {
+    "id": "x-1790093668329-8nmta2",
+    "source": "x",
+    "ts": "2026-09-22T16:14:28.329Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Afro",
+    "ageMin": 1440,
+    "originTimestamp": "2026-09-21T16:13:57.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "It all started with a sketch",
+    "url": "https://x.com/afro_v1/status/2102367188019450207"
+  },
+  {
+    "id": "x-1790093679740-gx4490",
+    "source": "x",
+    "ts": "2026-09-22T16:14:39.740Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Ted",
+    "ageMin": 87,
+    "originTimestamp": "2026-09-22T14:47:54.000Z",
+    "reason": "Sui breaking out of a downtrend with protocol-level gasless transfers and confidential transfers.",
+    "text": "$SUI\n is starting to look interesting again.\n\nGasless stablecoin transfers now work at the protocol level, and confidential transfers are coming this month, keeping amounts private while settlement stays verifiable.\n\nAt the same time, SUI has broken out of a 9-month downtrend.",
+    "url": "https://x.com/TedPillows/status/2102409559176339735"
   }
 ]
