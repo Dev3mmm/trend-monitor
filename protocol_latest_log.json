@@ -1,19 +1,5 @@
 [
   {
-    "id": "proto-6c1482e4822283ee",
-    "title": "Real-Time Prices for Stellar’s $4B Tokenized Assets Economy",
-    "url": "https://stellar.org/blog/developers/real-time-prices-for-stellars-4b-tokenized-assets-economy",
-    "description": "Pyth Pro is live on Stellar mainnet. How the pull oracle works, how to verify the deployment yourself without spending a stroop, and how to choose an oracle.",
-    "publishedAt": "2026-09-12T11:37:56.000Z",
-    "source": "Stellar",
-    "sourceType": "protocol",
-    "sourceKind": "blog",
-    "translated": false,
-    "fetchedAt": "2026-09-14T13:13:33.238Z",
-    "userStatus": null,
-    "relevanceRejected": false
-  },
-  {
     "id": "proto-98b0555c7a32c989",
     "title": "Cardano Weekly Opportunities #3 | September 12, 2026",
     "url": "https://forum.cardano.org/t/cardano-weekly-opportunities-3-september-12-2026/156759",
@@ -846,6 +832,20 @@
     "sourceKind": "forum",
     "translated": false,
     "fetchedAt": "2026-09-22T10:25:24.888Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-d0eed8ff053921ec",
+    "title": "Don’t Let Your ADA Sleep: Understanding Cardano Governance & DRep Delegation",
+    "url": "https://forum.cardano.org/t/don-t-let-your-ada-sleep-understanding-cardano-governance-drep-delegation/156935",
+    "description": "In the previous article, Don’t Let Your ADA Sleep: A Practical Guide to Cardano Staking , we explored how ADA holders can participate in Cardano’s Proof of Stake system by delegating their stake to a stake pool. But staking is only one way your ADA can participate in the network. Cardano’s on chain governance gives ADA holders a role in deciding how the network evolves. Governance actions can conc",
+    "publishedAt": "2026-09-22T11:40:03.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-09-22T11:45:11.207Z",
     "userStatus": null,
     "relevanceRejected": false
   }
