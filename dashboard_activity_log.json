@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1790020998806-ohcu79",
-    "source": "x",
-    "ts": "2026-09-21T20:03:18.806Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Arc",
-    "ageMin": 63,
-    "originTimestamp": "2026-09-21T19:00:01.000Z",
-    "reason": "Notable new use of a stablecoin-native borrowing feature.",
-    "text": "Digital Asset-Backed Borrowing is live on Arc.\n\nEligible Circle Mint LLC customers can now deposit BTC, mint cirBTC, and borrow USDC through supported third-party lending markets on Arc.\n\nDeposit BTC. Mint cirBTC. Borrow USDC.\n\nArc brings cirBTC and USDC into stablecoin-native",
-    "url": "https://x.com/arc/status/2102110618933485863"
-  },
-  {
-    "id": "x-1790021019112-yfvr1h",
-    "source": "x",
-    "ts": "2026-09-21T20:03:39.112Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Ted",
-    "ageMin": 281,
-    "originTimestamp": "2026-09-21T15:22:08.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Looks like crypto is back in the spotlight.\n\nFeels good",
-    "url": "https://x.com/TedPillows/status/2102055785702297731"
-  },
-  {
-    "id": "x-1790021023849-b8eh64",
-    "source": "x",
-    "ts": "2026-09-21T20:03:43.849Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Arik Galansky",
-    "ageMin": 84,
-    "originTimestamp": "2026-09-21T18:39:37.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Decentralizion is one of those things that once they are introduced, you have to reinvent everything. \n\nPrivacy is the same.\n\nOur obsession at \n@zama\n is adding privacy and working 10x harder to make it as simple as possible for everyone else.",
-    "url": "https://x.com/arik_g/status/2102105483553153338"
-  },
-  {
-    "id": "x-1790021031406-aalc0d",
-    "source": "x",
-    "ts": "2026-09-21T20:03:51.406Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Mina ",
-    "ageMin": 4324,
-    "originTimestamp": "2026-09-18T20:00:01.000Z",
-    "reason": "NYSE's use of Avalanche for sub-second settlement is notable institutional action.",
-    "text": "$40 Trillion in US stocks and ETFs coming onchain!  \n\nThe NYSE leveraging Avalanche for sub-second settlement, fractional shares, and stablecoin funding. ",
-    "url": "https://x.com/MinaAvaxfan/status/2102034461932019778"
-  },
-  {
     "id": "x-1790021035107-bj0cau",
     "source": "x",
     "ts": "2026-09-21T20:03:55.107Z",
@@ -6552,5 +6499,58 @@
     "reason": "Vague opinion with no factual claim",
     "text": "“Crypto is a scam.”\n\nWrong. Working a 9-5 for 60 years and retiring when you’re too old to enjoy it is the scam. \n\nCrypto is our only way out.",
     "url": "https://x.com/barkmeta/status/2102396243842421233"
+  },
+  {
+    "id": "x-1790097328157-jcfn46",
+    "source": "x",
+    "ts": "2026-09-22T17:15:28.157Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CoinMarketCap",
+    "ageMin": 82,
+    "originTimestamp": "2026-09-22T15:53:15.000Z",
+    "reason": "New use of a token/stablecoin with potential rewards机制。",
+    "text": "LATEST:  World Liberty Financial proposed rewarding WLFI holders who lock tokens for 180 days and keep voting, funded by platform fees and ecosystem reserves.",
+    "url": "https://x.com/CoinMarketCap/status/2102426005444972547"
+  },
+  {
+    "id": "x-1790097331405-5azsvg",
+    "source": "x",
+    "ts": "2026-09-22T17:15:31.405Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Crypto.com",
+    "ageMin": 172,
+    "originTimestamp": "2026-09-22T14:23:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Onchain is the new online.",
+    "url": "https://x.com/cryptocom/status/2102403291946885309"
+  },
+  {
+    "id": "x-1790097340653-554a8b",
+    "source": "x",
+    "ts": "2026-09-22T17:15:40.653Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Archive",
+    "ageMin": 189,
+    "originTimestamp": "2026-09-22T14:06:13.000Z",
+    "reason": "No notable move in the price or market position.",
+    "text": "JUST IN: Michael Saylor's Strategy jumps 38 positions to become the 418th largest tradable asset.\n\nSurpassed Standard Chartered and Macquarie!\n\n\n$MSTR",
+    "url": "https://x.com/BitcoinArchive/status/2102399070161805575"
+  },
+  {
+    "id": "x-1790097347328-bdrgbu",
+    "source": "x",
+    "ts": "2026-09-22T17:15:47.328Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Cosmos Hub ",
+    "ageMin": 488,
+    "originTimestamp": "2026-09-22T09:07:31.000Z",
+    "reason": "Exploit affecting governance tokens.",
+    "text": "The Cosmos Hub validators have temporarily halted the network to mitigate ATOM losses from a governance exploit on \n@neutron_org\n. The Hub itself is not affected.\n\nThe community is identifying and isolating wallets with impacted funds and will decide what to do with them before",
+    "url": "https://x.com/cosmoshub/status/2102360020910272852"
   }
 ]
