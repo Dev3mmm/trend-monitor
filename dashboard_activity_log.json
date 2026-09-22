@@ -1,46 +1,5 @@
 [
   {
-    "id": "x-1789986387301-tq4ojz",
-    "source": "x",
-    "ts": "2026-09-21T10:26:27.301Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Rand",
-    "ageMin": 44,
-    "originTimestamp": "2026-09-21T09:42:18.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "The bull market hasn’t even started yet",
-    "url": "https://x.com/randhindi/status/2101970263608852589"
-  },
-  {
-    "id": "x-1789986391568-39kj2i",
-    "source": "x",
-    "ts": "2026-09-21T10:26:31.568Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 47,
-    "originTimestamp": "2026-09-21T09:39:29.000Z",
-    "reason": "Concrete price milestone far outside recent range.",
-    "text": "BREAKING: $85,152 Bitcoin! ",
-    "url": "https://x.com/BitcoinMagazine/status/2101969554133991433"
-  },
-  {
-    "id": "x-1789986397919-xryv98",
-    "source": "x",
-    "ts": "2026-09-21T10:26:37.919Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Crypto Rover",
-    "ageMin": 108,
-    "originTimestamp": "2026-09-21T08:38:37.000Z",
-    "reason": "Price outside the recent 30-day range of $75,384-$84,516",
-    "text": "BREAKING: BITCOIN HITS $83,000.",
-    "url": "https://x.com/cryptorover/status/2101954238285054239"
-  },
-  {
     "id": "x-1789986406089-5d5ijn",
     "source": "x",
     "ts": "2026-09-21T10:26:46.089Z",
@@ -6543,5 +6502,44 @@
     "reason": "Vague opinion without factual claim or basis",
     "text": "The Sheep entered widely\n\nWe need a strong flush \n\nThe market is not forgiving\n\nI’m shorting , send it down.",
     "url": "https://x.com/DrProfitCrypto/status/2102201549632229611"
+  },
+  {
+    "id": "x-1790051036621-yd6630",
+    "source": "x",
+    "ts": "2026-09-22T04:23:56.621Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Justin Wu",
+    "ageMin": 2170,
+    "originTimestamp": "2026-09-20T16:13:09.000Z",
+    "reason": "No notable move or specific event is indicated.",
+    "text": "Peak crypto vibes\n\nWhat kind of chart was this?",
+    "url": "https://x.com/hackapreneur/status/2101706236467331441"
+  },
+  {
+    "id": "x-1790051043932-3rlqbj",
+    "source": "x",
+    "ts": "2026-09-22T04:24:03.932Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Avalanche Foundation ",
+    "ageMin": 888,
+    "originTimestamp": "2026-09-21T13:35:48.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Six years ago today, Avalanche mainnet went live.\n\nWhat started as a faster, more scalable approach to blockchain consensus has grown into the infrastructure that institutions, governments, and many businesses are building on.\n\nNone of this happens without the validators,",
+    "url": "https://x.com/AvalancheFDN/status/2102029027225616644"
+  },
+  {
+    "id": "x-1790051047213-kg65hb",
+    "source": "x",
+    "ts": "2026-09-22T04:24:07.213Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Jack Mallers",
+    "ageMin": 755,
+    "originTimestamp": "2026-09-21T15:48:45.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Bitcoin always crashes loudly and recovers quietly.\n\nZoom out and watch for lost levels slowly reclaimed through terrible sentiment. We don't need clarity bills or rate cuts. Fiat is broken. The long-term trend is in tact.\n\nIf you're not paying attention, you should be.",
+    "url": "https://x.com/jackmallers/status/2102062486262264193"
   }
 ]
