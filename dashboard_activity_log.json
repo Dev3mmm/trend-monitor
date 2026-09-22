@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1789990519622-1qlau4",
-    "source": "x",
-    "ts": "2026-09-21T11:35:19.622Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Davinci Jeremie",
-    "ageMin": 214,
-    "originTimestamp": "2026-09-21T08:01:21.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Every Bitcoin block is a public receipt no central bank gets to edit.",
-    "url": "https://x.com/Davincij15/status/2101944859674419568"
-  },
-  {
     "id": "x-1789990523919-uowwpc",
     "source": "x",
     "ts": "2026-09-21T11:35:23.919Z",
@@ -6536,5 +6523,18 @@
     "reason": "Noise: Generic hype without real content.",
     "text": "something’s brewing ",
     "url": "https://x.com/RobinHubHB/status/2102231416612487195"
+  },
+  {
+    "id": "x-1790057482266-szl0z3",
+    "source": "x",
+    "ts": "2026-09-22T06:11:22.266Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Bart Smith",
+    "ageMin": 4244,
+    "originTimestamp": "2026-09-19T07:26:46.000Z",
+    "reason": "Notable institutional endorsement for Avalanche by NYSE.",
+    "text": ".\n@NYSE\n's announcement is a clear signal: Avalanche is positioned to be one of the L1 winners of institutional adoption.\n\nWhen an institution of this size and standing treats \n@avax\n as a leading blockchain for core market infrastructure, other serious financial players are likely",
+    "url": "https://x.com/gbartsmith/status/2102130594956120467"
   }
 ]
