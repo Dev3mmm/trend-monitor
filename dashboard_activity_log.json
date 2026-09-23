@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1790109888754-2l9pem",
-    "source": "x",
-    "ts": "2026-09-22T20:44:48.754Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Archive",
-    "ageMin": 433,
-    "originTimestamp": "2026-09-22T13:31:57.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "We're still ~560 days away from the Bitcoin halving.\n\nBTC is going way higher.\n\nAct accordingly!",
-    "url": "https://x.com/BitcoinArchive/status/2102390445137670274"
-  },
-  {
-    "id": "x-1790109919032-x54spy",
-    "source": "x",
-    "ts": "2026-09-22T20:45:19.032Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Whale Satoshi",
-    "ageMin": 714,
-    "originTimestamp": "2026-09-22T08:50:53.000Z",
-    "reason": "Generic hype with no factual claim.",
-    "text": "#Altcoins are about to pump so hard NOW\n\nALTSEASON IS 2026 CONFIRMED ",
-    "url": "https://x.com/WhaleSatoshi/status/2102319711812026661"
-  },
-  {
-    "id": "x-1790109920719-tk9w8c",
-    "source": "x",
-    "ts": "2026-09-22T20:45:20.719Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Mahesh Kumar Budigi",
-    "ageMin": 263,
-    "originTimestamp": "2026-09-22T16:21:56.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Congratulations v27 upgraded in Mainet ",
-    "url": "https://x.com/Maheshbudigi26/status/2102433225474007115"
-  },
-  {
-    "id": "x-1790110518982-cmszmv",
-    "source": "x",
-    "ts": "2026-09-22T20:55:18.982Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "MS✞︎",
-    "ageMin": 250,
-    "originTimestamp": "2026-09-22T16:44:23.000Z",
-    "reason": "Noise: generic greeting without any substantive content.",
-    "text": "My mom says HI  ",
-    "url": "https://x.com/iam_ms2dwrld/status/2102438873699938599"
-  },
-  {
     "id": "x-1790110528339-jvfw76",
     "source": "x",
     "ts": "2026-09-22T20:55:28.339Z",
@@ -6524,5 +6472,59 @@
     "reason": "No factual claim or specific event mentioned.",
     "text": "PRE RICH ERA IS ALMOST OVER BOYZ !!",
     "url": "https://x.com/AshCrypto/status/2102432348373684387"
+  },
+  {
+    "id": "x-1790188387696-42jtek",
+    "source": "x",
+    "ts": "2026-09-23T18:33:07.696Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 32,
+    "originTimestamp": "2026-09-23T18:01:03.000Z",
+    "reason": "Notable community-controlled burn of tokens.",
+    "text": " UPDATE: Polygon puts the burn button in the community’s hands for burning 100M \n$POL\n, roughly 1% of supply.",
+    "url": "https://x.com/Cointelegraph/status/2102820553258119200"
+  },
+  {
+    "id": "x-1790188395983-7x0kne",
+    "source": "x",
+    "ts": "2026-09-23T18:33:15.983Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cypherpunk",
+    "ageMin": 40,
+    "originTimestamp": "2026-09-23T17:52:59.000Z",
+    "reason": "Notable institutional support for a privacy-focused cryptocurrency.",
+    "text": "BREAKING: shielded Zcash is now supported in \n@Ledger\n Wallet.",
+    "url": "https://x.com/cypherpunk/status/2102818524184121728"
+  },
+  {
+    "id": "x-1790188400403-zzfits",
+    "source": "x",
+    "ts": "2026-09-23T18:33:20.403Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "Stellar",
+    "ageMin": 189,
+    "originTimestamp": "2026-09-23T15:23:53.000Z",
+    "reason": "Specific institutional partnership with potential for on-chain integration.",
+    "text": "Dependability is necessary for institutions moving onchain. \n\nDependability is baked into the Stellar network. \n\n\n@DenelleDixon\n on the integration with \n@BVNKFinance\n.",
+    "url": "https://x.com/StellarOrg/status/2102781003680870548"
+  },
+  {
+    "id": "x-1790188443901-uacgc8",
+    "source": "x",
+    "ts": "2026-09-23T18:34:03.901Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Crypto Rover",
+    "ageMin": 71,
+    "originTimestamp": "2026-09-23T17:23:00.000Z",
+    "reason": "Generic hype without factual claim or price milestone.",
+    "text": "Once Bitcoin clears the Yearly Open...\n\n$100,000 IS NEXT!",
+    "url": "https://x.com/cryptorover/status/2102810978450653653"
   }
 ]
