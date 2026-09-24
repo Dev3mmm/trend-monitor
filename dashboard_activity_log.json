@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1790147144408-jrh6yb",
-    "source": "x",
-    "ts": "2026-09-23T07:05:44.408Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Andy",
-    "ageMin": 2031,
-    "originTimestamp": "2026-09-21T21:14:43.000Z",
-    "reason": "No notable move in ZEC price.",
-    "text": "I swore I told him to DCA in...maybe that was just his first order though \n\n\n$ZEC",
-    "url": "https://x.com/andyyy/status/2102545910106366182"
-  },
-  {
-    "id": "x-1790147207025-mq5pwv",
-    "source": "x",
-    "ts": "2026-09-23T07:06:47.025Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "deepcandles ",
-    "ageMin": 2165,
-    "originTimestamp": "2026-09-21T19:01:29.000Z",
-    "reason": "No notable move or specific action described.",
-    "text": "CONFIRMED: Tachyon is coming.",
-    "url": "https://x.com/deepcandles/status/2102268149370671408"
-  },
-  {
-    "id": "x-1790147222143-x66njv",
-    "source": "x",
-    "ts": "2026-09-23T07:07:02.143Z",
-    "userStatus": null,
-    "status": "stale_newsworthy",
-    "author": "Thor Torrens",
-    "ageMin": 445,
-    "originTimestamp": "2026-09-22T23:41:48.000Z",
-    "reason": "Price movement not within recent range suggests potential news.",
-    "text": "Why is \n$ZEC\n up today?",
-    "url": "https://x.com/ThorTorrens/status/2102543919775105256"
-  },
-  {
     "id": "x-1790147224476-p50pb2",
     "source": "x",
     "ts": "2026-09-23T07:07:04.476Z",
@@ -6530,5 +6491,44 @@
     "reason": "Notable institutional volume increase",
     "text": " JUST IN: \n@NEARProtocol\n surpasses $3.06B in 24h trading volume\n\n\n$NEAR",
     "url": "https://x.com/criptoovar/status/2102870019335999495"
+  },
+  {
+    "id": "x-1790229183373-bae8eh",
+    "source": "x",
+    "ts": "2026-09-24T05:53:03.373Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "RWA Foundation",
+    "ageMin": 1209,
+    "originTimestamp": "2026-09-23T09:43:40.000Z",
+    "reason": "On-chain data point with specific tokenized stock market cap growth numbers.",
+    "text": ".\n@BNBChain\n leads tokenized stock market cap growth by chain over the past 90 days, adding $569.2M - with \n@Avax\n (+$334.5M) and \n@Solana\n (+$236.2M) also making the top 3. \n\nData via: \n@tokenterminal\n.",
+    "url": "https://x.com/RWAFoundation_/status/2102695385898582272"
+  },
+  {
+    "id": "x-1790229201398-p4qqls",
+    "source": "x",
+    "ts": "2026-09-24T05:53:21.398Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "K A L E O",
+    "ageMin": 170,
+    "originTimestamp": "2026-09-24T03:03:48.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "We're about to send so hard.",
+    "url": "https://x.com/CryptoKaleo/status/2102957144425505035"
+  },
+  {
+    "id": "x-1790229204349-09buqw",
+    "source": "x",
+    "ts": "2026-09-24T05:53:24.349Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Rand Group",
+    "ageMin": 9793,
+    "originTimestamp": "2026-09-17T10:40:00.000Z",
+    "reason": "No notable move within the recent price range.",
+    "text": "$NEAR\n +72% already and looking extremely strong ",
+    "url": "https://x.com/randgroup/status/2102716161049665894"
   }
 ]
