@@ -131,7 +131,7 @@ function postToSquare(text, images) {
     const item = state.queue.shift();
     const handle = (item.url.match(/x\.com\/([^/]+)\/status/) || [])[1] || 'source';
     let text;
-    try { text = `${await paraphrase(item.text)}\n\nSource: @${handle} ${item.url}`; }
+    try { text = `${await paraphrase(item.text)}\n\nSource: @${handle}`; }
     catch (e) {
       state.posted.push({ text: item.text, at: now, status: 'skipped', reason: e.message });
       log(`skipped @${handle}: ${e.message}`);
