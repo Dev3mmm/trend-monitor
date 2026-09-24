@@ -1046,5 +1046,19 @@
     "fetchedAt": "2026-09-24T17:56:32.975Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-dc8c7bc673557637",
+    "title": "Practical Confidential Stablecoins: An Issuer-Controlled Architecture",
+    "url": "https://stellar.org/blog/developers/practical-confidential-stablecoins-an-issuer-controlled-architecture",
+    "description": "How OpenZeppelin's confidential token for Stellar hides balances and amounts while preserving the account controls and scoped audit visibility issuers need.",
+    "publishedAt": "2026-09-22T16:00:13.000Z",
+    "source": "Stellar",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-24T18:26:21.877Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
