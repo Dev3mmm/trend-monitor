@@ -244,7 +244,10 @@ async function scrapeVisibleArticles(page) {
       const times = Array.from(a.querySelectorAll('time'))
         .map((t) => t.getAttribute('datetime'))
         .filter(Boolean);
+      const images = Array.from(new Set(Array.from(a.querySelectorAll('img[src*="pbs.twimg.com/media"]'))
+        .map((i) => i.getAttribute('src').replace(/name=\w+/, 'name=large'))));
       return {
+        images,
         text: textEl ? textEl.innerText : '',
         href: linkEl ? linkEl.getAttribute('href') : '',
         author: userEl ? userEl.innerText.split('\n')[0] : 'unknown',
@@ -335,7 +338,7 @@ async function processArticle(t, state, report) {
   );
   log(`CAUGHT #${candidateId} from ${t.author} (origin age ~${t.originAgeMinutes}m): ${reason}`);
   report.caught.push({ author: t.author, ageMin: t.originAgeMinutes, reason, text: t.text, url: t.url });
-  appendDashboardLog({ status: 'caught', candidateId, author: t.author, ageMin: t.originAgeMinutes, originTimestamp: t.originTimestamp, reason, text: t.text, url: t.url });
+  appendDashboardLog({ status: 'caught', candidateId, author: t.author, ageMin: t.originAgeMinutes, originTimestamp: t.originTimestamp, reason, text: t.text, url: t.url, images: t.images || [] });
   return candidate;
 }
 
