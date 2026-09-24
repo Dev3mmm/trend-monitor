@@ -70,12 +70,22 @@ async function isDuplicate(text, others) {
   return false;
 }
 
+// X's innerText puts each @mention / $cashtag / #tag on its own line; glue them back into the sentence.
+function tidy(t) {
+  return t
+    .replace(/[ \t]*\n[ \t]*(?=[@$#]\w)/g, ' ')
+    .replace(/([@$#]\w+)[ \t]*\n[ \t]*(?=\S)/g, '$1 ')
+    .replace(/[ \t]{2,}/g, ' ')
+    .trim();
+}
+
 async function paraphrase(text) {
+  text = tidy(text);
   let out = await ollama(`Rewrite this crypto news tweet as a short news post of 2 to 3 sentences in your own words, for a news feed.
 Rules: keep every name, number, amount and date exactly as given; add no facts that are not in the tweet; neutral news tone; no emojis, no hashtags, no em dashes, no calls to buy or sell; do not mention the tweet or the account; output only the rewritten text.
 
 Tweet: """${text}"""`);
-  out = out.replace(/^["'\s]+|["'\s]+$/g, '').replace(/[—–]/g, '-');
+  out = out.replace(/\s*\n\s*/g, ' ').replace(/^["'\s]+|["'\s]+$/g, '').replace(/[—–]/g, '-');
   const src = new Set((text.match(/\d[\d,.]*/g) || []).map((n) => n.replace(/[,.]$/, '')));
   const bad = (out.match(/\d[\d,.]*/g) || []).map((n) => n.replace(/[,.]$/, '')).filter((n) => !src.has(n));
   if (bad.length) throw new Error(`paraphrase added numbers not in source: ${bad.join(', ')}`);
