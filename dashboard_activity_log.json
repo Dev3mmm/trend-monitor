@@ -18278,5 +18278,61 @@
     "images": [
       "https://pbs.twimg.com/media/HTEzrAbXMAAj-Ri.jpg"
     ]
+  },
+  {
+    "id": "x-1790358459096-fnuor7",
+    "source": "x",
+    "ts": "2026-09-25T17:47:39.096Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Web3 Abbas",
+    "ageMin": 231,
+    "originTimestamp": "2026-09-25T13:56:05.000Z",
+    "reason": "No notable move in price, price is within its recent range.",
+    "text": "Web3 education should not stop with students and developers. The financial sector is already deeply connected to the evolution of digital technology, which makes it important for banking professionals and financial institutions to understand the ideas emerging around blockchain,",
+    "url": "https://x.com/web3_Abhas/status/2103483682652664209"
+  },
+  {
+    "id": "x-1790358466154-lh8y5s",
+    "source": "x",
+    "ts": "2026-09-25T17:47:46.154Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Zcash Names",
+    "ageMin": 50,
+    "originTimestamp": "2026-09-25T16:57:18.000Z",
+    "reason": "Notable on-chain naming system security update for Zcash",
+    "text": "1/ Zcash Names are onchain but wallets still had to trust our resolver.\n\nWhen a wallet looks up a name, our resolver tells it which Zcash address to use.\n\nIf that resolver is wrong, compromised, or lies, the wallet needs a way to catch it.\n\nThree months ago, we found a way. \n\nAnd",
+    "url": "https://x.com/ZcashNames/status/2103529286804390374",
+    "images": [
+      "https://pbs.twimg.com/media/HTEsUvEbgAAyp7b?format=jpg&name=large"
+    ]
+  },
+  {
+    "id": "x-1790358491735-26l5gu",
+    "source": "x",
+    "ts": "2026-09-25T17:48:11.735Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Ash Crypto",
+    "ageMin": 92,
+    "originTimestamp": "2026-09-25T16:16:30.000Z",
+    "reason": "No concrete or specific event described.",
+    "text": "$450 Billion added to the US stock market in 30 minutes after reports of US-Iran talks entering a technical stage.",
+    "url": "https://x.com/AshCrypto/status/2103519021681213742"
+  },
+  {
+    "id": "x-1790358500649-6wi693",
+    "source": "x",
+    "ts": "2026-09-25T17:48:20.649Z",
+    "userStatus": null,
+    "status": "stale_newsworthy",
+    "author": "BSCN",
+    "ageMin": 784,
+    "originTimestamp": "2026-09-25T04:44:44.000Z",
+    "reason": "Estimated increase in Satoshi Nakamoto's Bitcoin holdings",
+    "text": "Bitcoin Rally Adds Billions to Satoshi's Stash\n\nSatoshi Nakamoto's estimated Bitcoin holdings gained about $10 billion over the last 10 days as \n$BTC\n recently climbed toward $87,000.\n\nThe Bitcoin creator is estimated to hold roughly 1.1 million BTC, now valued near $95",
+    "url": "https://x.com/BSCNews/status/2103344931733737925"
   }
 ]
