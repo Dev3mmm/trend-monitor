@@ -75,14 +75,7 @@
     "x-1790342091505-ehfxhd",
     "x-1790343445886-kqnra1"
   ],
-  "queue": [
-    {
-      "text": "JUST IN: Strategy has proposed paying dividends every calendar day across all four of its US listed preferred securities.\n\nDividends on \n$STRF\n, \n$STRC\n, \n$STRK\n, and \n$STRD\n would accrue 365 days a year, including weekends and holidays, paid on the next business day. \n\nThe change",
-      "url": "https://x.com/beincrypto/status/2103461237111881840",
-      "images": [],
-      "enqueuedAt": 1790342151410
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "JUST IN: Ondo and BlackRock partner for tokenized \"intelligent portfolios\"",
@@ -161,7 +154,13 @@
       "at": 1790342151410,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/370487143693884?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: Strategy has proposed paying dividends every calendar day across all four of its US listed preferred securities.\n\nDividends on \n$STRF\n, \n$STRC\n, \n$STRK\n, and \n$STRD\n would accrue 365 days a year, including weekends and holidays, paid on the next business day. \n\nThe change",
+      "at": 1790344148889,
+      "status": "failed",
+      "error": "Publishing text post...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
     }
   ],
-  "lastPostAt": 1790342151410
+  "lastPostAt": 1790344148889
 }
