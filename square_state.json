@@ -83,17 +83,10 @@
     "x-1790351733274-gzb75i",
     "x-1790352881545-4kzwe8",
     "x-1790353535544-mmgobc",
-    "x-1790354331532-u0vo98"
+    "x-1790354331532-u0vo98",
+    "x-1790355944743-6yuup0"
   ],
   "queue": [
-    {
-      "text": "INTEL: Bitget CEO Gracy Chen says $387.5 million was transferred to attacker wallets in the Sept. 24 hack, up from the initial $351.6 million estimate\n\nWithdrawals are being prepared to resume, with a full plan due Sept. 26 at 04:00 UTC",
-      "url": "https://x.com/solidintel_x/status/2103488618639814931",
-      "images": [
-        "https://pbs.twimg.com/media/HTEXfiiXoAAJPfq?format=png&name=large"
-      ],
-      "enqueuedAt": 1790351763319
-    },
     {
       "text": "UPDATE:  Bitget CEO Gracy Chen says the exchange has brought in Mandiant and SlowMist to investigate its ~$351.6M hack, with withdrawals still suspended.",
       "url": "https://x.com/CoinMarketCap/status/2103497816505037254",
@@ -116,6 +109,14 @@
         "https://pbs.twimg.com/media/HTEu3vQW8AEP9mY?format=jpg&name=large"
       ],
       "enqueuedAt": 1790354371770
+    },
+    {
+      "text": "NEAR/USDC is now on the strict list on \n@HyperliquidX\n Spot.",
+      "url": "https://x.com/NEARProtocol/status/2103512543616790922",
+      "images": [
+        "https://pbs.twimg.com/media/HTEtfiEaEAAvRkL?format=jpg&name=large"
+      ],
+      "enqueuedAt": 1790355974088
     }
   ],
   "posted": [
@@ -202,7 +203,13 @@
       "at": 1790355406774,
       "status": "skipped",
       "reason": "paraphrase added numbers not in source: 20,000"
+    },
+    {
+      "text": "INTEL: Bitget CEO Gracy Chen says $387.5 million was transferred to attacker wallets in the Sept. 24 hack, up from the initial $351.6 million estimate\n\nWithdrawals are being prepared to resume, with a full plan due Sept. 26 at 04:00 UTC",
+      "at": 1790355974088,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/370543766856462?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1790353642712
+  "lastPostAt": 1790355974088
 }
