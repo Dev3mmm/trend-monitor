@@ -87,7 +87,8 @@
     "x-1790355944743-6yuup0",
     "x-1790356519938-eske95",
     "x-1790357154569-q7ztgo",
-    "x-1790357677277-xzp7gh"
+    "x-1790357677277-xzp7gh",
+    "x-1790358466154-lh8y5s"
   ],
   "queue": [
     {
@@ -119,6 +120,14 @@
         "https://pbs.twimg.com/media/HTEzrAbXMAAj-Ri.jpg"
       ],
       "enqueuedAt": 1790356528301
+    },
+    {
+      "text": "1/ Zcash Names are onchain but wallets still had to trust our resolver.\n\nWhen a wallet looks up a name, our resolver tells it which Zcash address to use.\n\nIf that resolver is wrong, compromised, or lies, the wallet needs a way to catch it.\n\nThree months ago, we found a way. \n\nAnd",
+      "url": "https://x.com/ZcashNames/status/2103529286804390374",
+      "images": [
+        "https://pbs.twimg.com/media/HTEsUvEbgAAyp7b?format=jpg&name=large"
+      ],
+      "enqueuedAt": 1790358522078
     }
   ],
   "posted": [
