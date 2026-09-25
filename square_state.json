@@ -67,14 +67,7 @@
     "x-1790292848447-q5d64j",
     "x-1790295938529-qsh3hm"
   ],
-  "queue": [
-    {
-      "text": "JUST IN: Bitget crypto exchange reportedly hacked with over $170,000,000 stolen.",
-      "url": "https://x.com/WatcherGuru/status/2103231497683763662",
-      "images": [],
-      "enqueuedAt": 1790289893469
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "See you in Singapore.\n\nOKX Now goes live on 6 October. Join us for a look at what we've been building for the New Money Era and hear directly from the people making it happen.\n\nThis is OKX Now. More details soon.",
@@ -153,6 +146,12 @@
       "at": 1790294758316,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/370293042706472?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: Bitget crypto exchange reportedly hacked with over $170,000,000 stolen.",
+      "at": 1790296754108,
+      "status": "skipped",
+      "reason": "paraphrase added numbers not in source: 170"
     }
   ],
   "lastPostAt": 1790294758316
