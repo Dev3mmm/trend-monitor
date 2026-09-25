@@ -79,15 +79,10 @@
     "x-1790348501834-2m9se9",
     "x-1790349301459-mcrm98",
     "x-1790349329356-gumr1o",
-    "x-1790351151474-uzkbcy"
+    "x-1790351151474-uzkbcy",
+    "x-1790351733274-gzb75i"
   ],
   "queue": [
-    {
-      "text": "JUST IN: Coinbase CEO Brian Armstrong says crypto and stablecoins will become the go-to payment method for AI agents.",
-      "url": "https://x.com/WatcherGuru/status/2103484972288094421",
-      "images": [],
-      "enqueuedAt": 1790349344125
-    },
     {
       "text": "BREAKING:  New U.S. House bill proposes Small Business Administration crypto guidance.\n\n• Teaches merchants crypto payment integration.\n\n• Covers tax rules, security, and lower fees.",
       "url": "https://x.com/BitcoinArchive/status/2103476790253785572",
@@ -104,15 +99,17 @@
         "https://pbs.twimg.com/media/HTEnTblaAAAk5DC?format=jpg&name=large"
       ],
       "enqueuedAt": 1790351186189
+    },
+    {
+      "text": "INTEL: Bitget CEO Gracy Chen says $387.5 million was transferred to attacker wallets in the Sept. 24 hack, up from the initial $351.6 million estimate\n\nWithdrawals are being prepared to resume, with a full plan due Sept. 26 at 04:00 UTC",
+      "url": "https://x.com/solidintel_x/status/2103488618639814931",
+      "images": [
+        "https://pbs.twimg.com/media/HTEXfiiXoAAJPfq?format=png&name=large"
+      ],
+      "enqueuedAt": 1790351763319
     }
   ],
   "posted": [
-    {
-      "text": "JUST IN: BlackRock partners with \n$ONDO\n to launch tokenized investment portfolios.",
-      "at": 1790265267802,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/370172239663226?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "JUST IN: Tether CEO Paolo Ardoino says \n$USDT\n on Bitcoin is coming.",
       "at": 1790267171425,
@@ -184,7 +181,13 @@
       "at": 1790349889418,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/370518824484665?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: Coinbase CEO Brian Armstrong says crypto and stablecoins will become the go-to payment method for AI agents.",
+      "at": 1790351763319,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/370526494253612?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1790349889418
+  "lastPostAt": 1790351763319
 }
