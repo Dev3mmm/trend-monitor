@@ -108,15 +108,6 @@
   ],
   "queue": [
     {
-      "text": "LATEST:  Brazil's central bank now requires VASPs to report self-custody wallet transfers of $10,000 or more starting Oct. 1, 2026, aiming to boost AML oversight.",
-      "url": "https://x.com/CoinMarketCap/status/2103609786897932670",
-      "images": [
-        "https://pbs.twimg.com/media/HTGF6u0WUAAHepx?format=jpg&name=large",
-        "https://pbs.twimg.com/media/HTGF78rXMAAqbQ5?format=jpg&name=large"
-      ],
-      "enqueuedAt": 1790381748554
-    },
-    {
       "text": "Following the successful completion of the Protocol 27 upgrade on Pi Mainnet, Pi Testnet has upgraded to Protocol 28.\n\nProtocol 28 improves how the network handles delays in transaction data and enables developers to upgrade groups of smart contracts at once and change stored",
       "url": "https://x.com/PiCoreTeam/status/2103626844209647881",
       "images": [
@@ -215,7 +206,13 @@
       "at": 1790385299669,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/370663880952032?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "LATEST:  Brazil's central bank now requires VASPs to report self-custody wallet transfers of $10,000 or more starting Oct. 1, 2026, aiming to boost AML oversight.",
+      "at": 1790387125730,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/370671365162012?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1790385299669
+  "lastPostAt": 1790387125730
 }
