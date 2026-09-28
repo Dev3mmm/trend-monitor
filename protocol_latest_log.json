@@ -1272,5 +1272,19 @@
     "fetchedAt": "2026-09-28T15:59:03.107Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-f9491b3e63e4342e",
+    "title": "InsectSAM: Insect Segmentation for Biodiversity Monitoring",
+    "url": "https://aioz.network/blog/insectsam-insect-segmentation-for-biodiversity-monitoring",
+    "description": "TL;DR InsectSAM is a fine-tuned version of Meta AI’s Segment Anything model, optimized for insect segmentation and monitoring. Combined with GroundingDINO for open-set object detection, it supports zero-shot insect detection and precise mask generation in complex backgrounds. The model accepts an image and an optional bounding-box confidence threshold, then returns an annotated .png image with seg",
+    "publishedAt": "2026-09-28T17:19:32.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-28T18:30:22.699Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
