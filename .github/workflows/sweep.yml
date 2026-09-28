@@ -26,7 +26,12 @@ permissions:
 jobs:
   sweep:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    # Was 12 - too tight: setup (Playwright/Xvfb/Ollama install+pull) alone can take several
+    # minutes, then 10 doom-scroll cycles with randomized pauses up to 70s each can run long.
+    # Several real runs were hitting this timeout and getting cancelled mid-job, which loses
+    # everything uncommitted for that run (commit step is at the very end) - including the
+    # debug screenshots added to diagnose the home-lane bug below.
+    timeout-minutes: 18
     steps:
       - uses: actions/checkout@v4
 
