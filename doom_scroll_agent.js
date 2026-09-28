@@ -238,26 +238,32 @@ function extractTweetId(href) {
 async function scrapeVisibleArticles(page) {
   const raw = await page.$$eval('article', (articles) =>
     articles.map((a) => {
+      // Home timeline sometimes wraps the real tweet <article> one level deeper (quote-tweet
+      // embeds, "show this thread" cells) - fall back to a[role="link"] href off the whole
+      // article, not just a[href*="/status/"], since a promoted/interstitial card can lack the
+      // latter but still be a real dated tweet.
       const textEl = a.querySelector('[data-testid="tweetText"]');
-      const linkEl = a.querySelector('a[href*="/status/"]');
+      const linkEl = a.querySelector('a[href*="/status/"]') || a.querySelector('time')?.closest('a');
       const userEl = a.querySelector('[data-testid="User-Name"]');
       const times = Array.from(a.querySelectorAll('time'))
         .map((t) => t.getAttribute('datetime'))
         .filter(Boolean);
-      const images = Array.from(new Set(Array.from(a.querySelectorAll('img[src*="pbs.twimg.com/media"]'))
-        .map((i) => i.getAttribute('src').replace(/name=\w+/, 'name=large'))));
       return {
-        images,
         text: textEl ? textEl.innerText : '',
         href: linkEl ? linkEl.getAttribute('href') : '',
         author: userEl ? userEl.innerText.split('\n')[0] : 'unknown',
         times,
+        hasArticleTag: true,
       };
     })
   );
   const now = Date.now();
-  return raw
-    .filter((t) => t.text && t.href && t.times.length)
+  const withText = raw.filter((t) => t.text);
+  const withHref = withText.filter((t) => t.href);
+  const withTime = withHref.filter((t) => t.times.length);
+  log(`scrape: ${raw.length} <article> found, ${withText.length} had text, ${withHref.length} had a status link, ${withTime.length} had a <time>`);
+
+  return withTime
     .map((t) => {
       const id = extractTweetId(t.href);
       const timestamps = t.times.map((iso) => new Date(iso).getTime()).filter((n) => !Number.isNaN(n));
@@ -338,7 +344,7 @@ async function processArticle(t, state, report) {
   );
   log(`CAUGHT #${candidateId} from ${t.author} (origin age ~${t.originAgeMinutes}m): ${reason}`);
   report.caught.push({ author: t.author, ageMin: t.originAgeMinutes, reason, text: t.text, url: t.url });
-  appendDashboardLog({ status: 'caught', candidateId, author: t.author, ageMin: t.originAgeMinutes, originTimestamp: t.originTimestamp, reason, text: t.text, url: t.url, images: t.images || [] });
+  appendDashboardLog({ status: 'caught', candidateId, author: t.author, ageMin: t.originAgeMinutes, originTimestamp: t.originTimestamp, reason, text: t.text, url: t.url });
   return candidate;
 }
 
@@ -388,6 +394,14 @@ async function runSession(cycles) {
         await page.waitForSelector('article', { timeout: 10000 });
       } catch {
         log('WARN: no articles loaded on this page, continuing anyway');
+      }
+      // Debug snapshot of whichever lane just loaded, overwritten each time - lets us see what's
+      // actually rendering (login wall, onboarding nag, real timeline) without a live session.
+      try {
+        const debugName = target.includes('/home') ? 'doom_scroll_debug_home.png' : 'doom_scroll_debug_explore.png';
+        await page.screenshot({ path: path.join(__dirname, debugName) });
+      } catch (e) {
+        log(`WARN: debug screenshot failed: ${e.message}`);
       }
     }
 
