@@ -116,14 +116,19 @@ jobs:
           # A text rebase of these big JSON arrays conflicts, so on rejection merge by item id instead
           # (merge_data.js: remote wins per id, this run's new items are appended), then re-commit on top.
           FILES="dashboard_activity_log.json youtube_latest_log.json regulator_latest_log.json exchange_latest_log.json protocol_latest_log.json"
+          PNGS="doom_scroll_debug_home.png doom_scroll_debug_explore.png"
           for i in 1 2 3 4 5; do
             git push && exit 0
             echo "push rejected, merging by id and retrying ($i/5)..."
+            # git reset --hard below discards these too (they don't merge-by-id like the JSON
+            # lanes) - stash a copy first so this run's own screenshots survive the retry.
+            mkdir -p "$RUNNER_TEMP/pngs" && cp $PNGS "$RUNNER_TEMP/pngs/" 2>/dev/null || true
             git fetch -q origin main
             node merge_data.js "$RUNNER_TEMP/merged"
             git reset -q --hard origin/main
             cp "$RUNNER_TEMP"/merged/*.json .
-            git add $FILES 2>/dev/null || true
+            cp "$RUNNER_TEMP"/pngs/*.png . 2>/dev/null || true
+            git add $FILES $PNGS 2>/dev/null || true
             git diff --cached --quiet && exit 0
             git commit -q -m "Automated sweep $(date -u +%Y-%m-%dT%H:%M:%SZ) (merged)"
             sleep 2
