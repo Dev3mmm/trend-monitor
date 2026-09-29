@@ -29,6 +29,8 @@ const DASHBOARD_LOG_MAX = 500; // rolling cap so the file doesn't grow unbounded
 
 const OLLAMA_URL = 'http://localhost:11434/api/generate';
 const OLLAMA_MODEL = 'qwen2.5:3b';
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
+const GROQ_MODEL = 'llama-3.1-8b-instant'; // free tier: 14,400 req/day, no card - see project memory
 const MAX_ORIGIN_AGE_MINUTES = 120; // freshness bar from project memory: minutes-to-~2h, not "10h old dressed as a 5-min wrapper"
 
 // Human-like pacing. Most pauses are a quick skim; occasionally a longer "actually
@@ -208,6 +210,34 @@ Tweet: """${tweetText}"""
 
 Reply with EXACTLY one line in this format, nothing else:
 VERDICT: YES|NO | REASON: <one short sentence>`;
+
+  // Groq backend: used only when GROQ_API_KEY is set (the Render trigger service sets this -
+  // its container has 512MB total RAM, and qwen2.5:3b's weights alone are ~1.9GB, so local
+  // Ollama physically cannot fit there - confirmed live 2026-09-29, container hung/OOM'd with
+  // zero error output). GitHub Actions (7GB RAM) and the local PC (way more) keep using local
+  // Ollama unchanged below - this is purely a Render-only substitution, same prompt/parsing.
+  if (GROQ_API_KEY) {
+    try {
+      const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${GROQ_API_KEY}` },
+        body: JSON.stringify({
+          model: GROQ_MODEL,
+          messages: [{ role: 'user', content: prompt }],
+          temperature: 0,
+        }),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      const out = (data.choices?.[0]?.message?.content || '').trim();
+      const isYes = /VERDICT:\s*YES/i.test(out);
+      const reasonMatch = out.match(/REASON:\s*(.+)/i);
+      return { newsworthy: isYes, reason: reasonMatch ? reasonMatch[1].trim() : out.slice(0, 140) };
+    } catch (e) {
+      log(`WARN: Groq scoring failed (${e.message}). Skipping this tweet rather than guessing.`);
+      return { newsworthy: false, reason: 'groq unavailable' };
+    }
+  }
 
   try {
     const res = await fetch(OLLAMA_URL, {

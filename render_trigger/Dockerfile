@@ -2,22 +2,14 @@ FROM node:20-bookworm
 
 # Xvfb for headed Chrome (X bot-detects real headless mode - see project_trend_monitor memory).
 # git for cloning the code+data repo at container boot.
-RUN apt-get update && apt-get install -y xvfb git curl ca-certificates zstd && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y xvfb git ca-certificates && rm -rf /var/lib/apt/lists/*
 
-# Ollama, baked into the image with the model already pulled - Render's free tier disk is
-# ephemeral across restarts, so pulling the ~2GB model at every cold boot would make wake-ups
-# painfully slow. Doing it at build time means it's part of the image layer, not the runtime
-# container's writable layer, so it survives sleep/wake cycles for free.
-RUN curl -fsSL https://ollama.com/install.sh | sh
-# Redirect serve's output away from the RUN step's own stdout/stderr and explicitly kill it
-# after the pull - an unredirected background process keeps Docker's build log pipe open
-# forever even after the shell command list itself has finished, hanging the build (confirmed
-# live 2026-09-29: build froze right after "pull ... success" with 0 further output for 20+ min).
-RUN ollama serve > /tmp/ollama-build.log 2>&1 & \
-    SERVE_PID=$! && \
-    sleep 5 && \
-    ollama pull qwen2.5:3b && \
-    kill $SERVE_PID
+# No local Ollama here on purpose (removed 2026-09-29): this container's free-tier RAM limit
+# is 512MB total, and qwen2.5:3b's weights alone are ~1.9GB - physically cannot fit, confirmed
+# live (container hung/OOM'd with zero error output once Chrome tried to launch alongside it).
+# Scoring on Render uses the Groq API instead (see GROQ_API_KEY in doom_scroll_agent.js) - free,
+# no card, and needs no local memory. GitHub Actions/local PC keep using real Ollama unchanged,
+# they have the RAM for it.
 
 WORKDIR /app
 
