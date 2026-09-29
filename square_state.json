@@ -135,9 +135,17 @@
     "x-1790465053836-x25oc3",
     "x-1790468806869-0ussea",
     "x-1790491924637-juc2tk",
-    "x-1790550693161-looqag"
+    "x-1790550693161-looqag",
+    "x-1790690092849-qee39f"
   ],
   "queue": [],
-  "posted": [],
+  "posted": [
+    {
+      "text": "BREAKING: Sui has processed more than 4.9 billion transactions.",
+      "at": 1790690129123,
+      "status": "skipped",
+      "reason": "paraphrase length 48 out of range"
+    }
+  ],
   "lastPostAt": 1790550721198
 }
