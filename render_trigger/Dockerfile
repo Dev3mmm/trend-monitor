@@ -9,7 +9,15 @@ RUN apt-get update && apt-get install -y xvfb git curl ca-certificates zstd && r
 # painfully slow. Doing it at build time means it's part of the image layer, not the runtime
 # container's writable layer, so it survives sleep/wake cycles for free.
 RUN curl -fsSL https://ollama.com/install.sh | sh
-RUN (ollama serve &) && sleep 5 && ollama pull qwen2.5:3b
+# Redirect serve's output away from the RUN step's own stdout/stderr and explicitly kill it
+# after the pull - an unredirected background process keeps Docker's build log pipe open
+# forever even after the shell command list itself has finished, hanging the build (confirmed
+# live 2026-09-29: build froze right after "pull ... success" with 0 further output for 20+ min).
+RUN ollama serve > /tmp/ollama-build.log 2>&1 & \
+    SERVE_PID=$! && \
+    sleep 5 && \
+    ollama pull qwen2.5:3b && \
+    kill $SERVE_PID
 
 WORKDIR /app
 
