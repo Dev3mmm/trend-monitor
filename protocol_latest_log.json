@@ -1286,5 +1286,19 @@
     "fetchedAt": "2026-09-28T18:30:22.699Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-2e0a6eddd663049c",
+    "title": "Soroban Rust SDK v28",
+    "url": "https://stellar.org/blog/developers/soroban-rust-sdk-v28",
+    "description": "What contract developers need to know about Soroban Rust SDK v28: spec shaking v2, migration-friendly contract data, sparse events, executable references, and native contract uploads in tests.",
+    "publishedAt": "2026-09-28T16:20:46.000Z",
+    "source": "Stellar",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-09-29T01:18:54.274Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
