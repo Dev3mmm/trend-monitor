@@ -371,7 +371,10 @@ async function runSession(cycles) {
   const browser = await chromium.launch({
     headless: false, // headless never got past X's bot wall in prior testing - must run headed
     channel: 'chrome',
-    args: ['--disable-blink-features=AutomationControlled'],
+    // Off-screen, not headless - X bot-detects headless (see project memory), but there's no
+    // reason the window needs to be visible on the user's actual desktop for a local scheduled
+    // run to work. Parked at a huge negative coordinate so it never steals focus or shows up.
+    args: ['--disable-blink-features=AutomationControlled', '--window-position=-32000,-32000'],
   });
   const context = await browser.newContext({ storageState: X_STATE_FILE });
   await context.addInitScript(() => {
