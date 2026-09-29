@@ -2,7 +2,7 @@ FROM node:20-bookworm
 
 # Xvfb for headed Chrome (X bot-detects real headless mode - see project_trend_monitor memory).
 # git for cloning the code+data repo at container boot.
-RUN apt-get update && apt-get install -y xvfb git curl ca-certificates && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y xvfb git curl ca-certificates zstd && rm -rf /var/lib/apt/lists/*
 
 # Ollama, baked into the image with the model already pulled - Render's free tier disk is
 # ephemeral across restarts, so pulling the ~2GB model at every cold boot would make wake-ups
