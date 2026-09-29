@@ -25,7 +25,11 @@ WORKDIR /app
 # doom_scroll_agent.js, fetched fresh from the repo at boot) and nothing else.
 COPY package.json ./
 RUN npm install
-RUN npx playwright install --with-deps chromium
+# doom_scroll_agent.js launches with channel: 'chrome' (real Google Chrome, not Playwright's
+# bundled Chromium) - same requirement as everywhere else in this project. Installing plain
+# "chromium" here isn't enough; confirmed live 2026-09-29: "Chromium distribution 'chrome' is
+# not found at /opt/google/chrome/chrome".
+RUN npx playwright install --with-deps chrome
 
 COPY server.js entrypoint.sh ./
 RUN chmod +x entrypoint.sh
