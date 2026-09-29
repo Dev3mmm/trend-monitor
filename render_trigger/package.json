@@ -1,0 +1,10 @@
+{
+  "name": "trend_monitor_render_trigger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lightweight Render web service that wakes on an external ping, runs the X doom-scroll home lane from a non-GitHub-Actions IP, and pushes results back to the repo.",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
