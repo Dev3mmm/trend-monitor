@@ -25,3 +25,6 @@ seed_run2.*
 # State files that are safe to lose/regenerate, not meaningful history
 doom_scroll_state.json
 trend_monitor_state.json
+
+# Cloudflare Worker deps - reinstalled via npm, not tracked
+cloudflare-worker/node_modules/

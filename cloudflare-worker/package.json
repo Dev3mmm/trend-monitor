@@ -1,0 +1,14 @@
+{
+  "name": "trend-monitor-dashboard-worker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Worker replacement for ../dashboard_server.js - same routes/JSON shapes, GitHub API persistence instead of local fs + git.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.134.0"
+  }
+}

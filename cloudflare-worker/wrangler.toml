@@ -1,0 +1,18 @@
+name = "trend-monitor-dashboard"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+
+# Static dashboard UI (copy of ../dashboard.html) - served directly for "/" without
+# invoking the Worker script, see README.md for how this is kept in sync.
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+# Non-secret config. GITHUB_REPO defaults to Dev3mmm/trend-monitor if you don't override
+# it here. GITHUB_BRANCH defaults to "main" inside src/github.js if omitted entirely.
+[vars]
+GITHUB_REPO = "Dev3mmm/trend-monitor"
+GITHUB_BRANCH = "main"
+
+# Secrets (GITHUB_TOKEN, and YOUTUBE_API_KEY if you want "Add channel" to work from the
+# Worker) are NOT set here - see README.md, they're set via `wrangler secret put`.
