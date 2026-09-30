@@ -404,12 +404,28 @@ async function runSession(cycles) {
     // Off-screen, not headless - X bot-detects headless (see project memory), but there's no
     // reason the window needs to be visible on the user's actual desktop for a local scheduled
     // run to work. Parked at a huge negative coordinate so it never steals focus or shows up.
-    args: ['--disable-blink-features=AutomationControlled', '--window-position=-32000,-32000'],
+    args: [
+      '--disable-blink-features=AutomationControlled',
+      '--window-position=-32000,-32000',
+      // Render free tier is 512MB total: Chrome on x.com/home OOM-restarted the container
+      // (confirmed 2026-09-30). Low-memory flags only when running there (GROQ_API_KEY set).
+      ...(GROQ_API_KEY
+        ? ['--disable-dev-shm-usage', '--disable-gpu', '--disable-extensions', '--renderer-process-limit=1',
+           '--no-zygote', '--disable-background-networking', '--js-flags=--max-old-space-size=160']
+        : []),
+    ],
   });
   const context = await browser.newContext({ storageState: X_STATE_FILE });
   await context.addInitScript(() => {
     Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
   });
+  if (GROQ_API_KEY) {
+    // Text is all we scrape - skip images/video/fonts to keep memory under Render's 512MB cap.
+    await context.route('**/*', (route) => {
+      const t = route.request().resourceType();
+      return ['image', 'media', 'font'].includes(t) ? route.abort() : route.continue();
+    });
+  }
   const page = await context.newPage();
   const state = loadState();
 
