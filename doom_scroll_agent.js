@@ -423,6 +423,20 @@ async function runSession(cycles) {
       log(`Cycle ${i + 1}/${cycles}: navigating to ${target}`);
       await page.goto(target, { waitUntil: 'domcontentloaded', timeout: 30000 });
       await sleep(randomBetween(PAUSE_READ_MS));
+      // Home defaults to the algorithmic "For You" tab, which serves mostly 10-20h old tweets
+      // (confirmed 2026-09-30: nearly every item was 800-1200m old vs the 120m gate). The
+      // "Following" tab is strictly chronological, so fresh tweets from followed accounts surface.
+      if (target.includes('/home')) {
+        try {
+          const tab = page.getByRole('tab', { name: 'Following', exact: true });
+          await tab.waitFor({ timeout: 10000 });
+          await tab.click();
+          await sleep(3000);
+          log('Switched home to Following (chronological) tab');
+        } catch (e) {
+          log(`WARN: could not switch to Following tab, staying on For You: ${e.message.split('\n')[0]}`);
+        }
+      }
       try {
         await page.waitForSelector('article', { timeout: 10000 });
       } catch {
