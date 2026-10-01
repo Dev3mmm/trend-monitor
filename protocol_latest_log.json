@@ -1874,5 +1874,47 @@
     "fetchedAt": "2026-10-01T15:51:05.279Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-0bf54d8ac78e3e48",
+    "title": "Introducing zkAPI: private usage credits for any API",
+    "url": "https://blog.ethereum.org/en/2026/10/01/introducing-zkapi",
+    "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge proofs instead of an identity. The provider sees the requests, and the payment layer sees the spend. Neither learns the link between them. The...",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "source": "Ethereum",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-01T20:40:11.100Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-fbfe224850f24a48",
+    "title": "AIOZ Network Report: September 2026",
+    "url": "https://aioz.network/blog/aioz-network-report-september-2026",
+    "description": "September expanded the AIOZ Network ecosystem across both DePIN-powered storage and AI, with new AIOZ Storage capabilities for AI-native workflows alongside continued growth in AIOZ AI models, datasets, and challenges. From vector-based retrieval and persistent agent memory to new models, datasets, and challenges, this report highlights the key updates from September. AIOZ Storage Updates Vector D",
+    "publishedAt": "2026-10-01T19:08:33.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-01T20:40:24.371Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-1666e20ee1cc972d",
+    "title": "Vote Coin Protocol — open paper-ballot audit design anchored on Cardano (review welcome)",
+    "url": "https://forum.cardano.org/t/vote-coin-protocol-open-paper-ballot-audit-design-anchored-on-cardano-review-welcome/157133",
+    "description": "I’ve published an open-access design for a paper-ballot voting system that uses Cardano as a public audit layer. The paper ballot remains the ballot of record. Each polling facility batches salted SHA-256 ballot fingerprints into a Merkle root and anchors it on-chain, and a per-voter native token with a burn-only validator proves each voting right was used at most once. No votes, names or personal",
+    "publishedAt": "2026-10-01T19:13:39.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-10-01T20:40:12.576Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
