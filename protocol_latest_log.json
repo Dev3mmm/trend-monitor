@@ -1760,5 +1760,35 @@
     "fetchedAt": "2026-09-30T23:11:47.237Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-c582177bc2583e2d",
+    "title": "AIOZ Storage Agent Memory: Record and Recall Context by Meaning",
+    "url": "https://aioz.network/blog/aioz-storage-agent-memory-record-and-recall-context-by-meaning",
+    "description": "AIOZ Storage Agent Memory is now LIVE. Create a memory bucket and give agents a way to retain and retrieve relevant context across sessions and tasks. Record: stores a statement verbatim and completes the write synchronously. Recall: retrieves relevant memories by semantic meaning and returns a similarity score with each result. Persistent Memory for Agent Workflows Agent workflows need useful con",
+    "publishedAt": "2026-09-30T14:07:03.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-01T08:54:19.654Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-6584f9c3a2322055",
+    "title": "Cardano k-value adjustment proposal behind the decentralized debate",
+    "url": "https://forum.cardano.org/t/cardano-k/157117",
+    "description": "Recently, a highly symbolic on-chain debate has begun within the Cardano ecosystem. A proposal vote to increase the parameter stakePoolTargetNum (i.e., k-value) from 500 to 1000 has been officially launched. This adjustment directly impacts the core economic model that sustains the distribution of staked stakes across the entire network. What does this proposal mean for a layperson and holder without technical background? In the Cardano Ouroboros proof-of-stake algorithm, k-value represents the system's 'ideal number of stake pools' it aims for. In Cardano's system, which distributes a relatively fixed total staking reward pool at each epoch, the protocol seeks to prevent the concentration of computational resources and stakes.",
+    "publishedAt": "2026-10-01T03:37:12.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": true,
+    "originalTitle": "Cardano k값 조정 제안 이면의 탈중앙화 논쟁",
+    "originalDescription": "최근 Cardano 생태계에서는 매우 상징적인 온체인 공방이 시작되었습니다. 핵심 프로토콜 매개변수인 stakePoolTargetNum(즉, k값)을 500에서 1000으로 상향할 것인가를 묻는 정보 제안 투표가 공식 개시된 것입니다. 이 조정은 네트워크 전체의 스테이킹 지분 분배를 지탱하는 핵심 경제 모델을 직접적으로 건드립니다. 기술적 배경이 없는 일반 관찰자와 보유자들에게 이 제안은 과연 무엇을 의미할까요? k값과 포화도 메커니즘의 기본 원리 Cardano의 Ouroboros 지분증명 알고리즘에서 k는 시스템이 지향하는 '이상적인 스테이크 풀의 수’를 나타냅니다. Cardano 시스템이 매 에포크마다 지급하는 스테이킹 총보상 풀은 비교적 고정되어 있지만, 프로토콜은 연산 자원과 지분의 무한 집중을 막기",
+    "fetchedAt": "2026-10-01T08:54:09.237Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
