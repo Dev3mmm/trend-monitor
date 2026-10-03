@@ -412,7 +412,9 @@ async function runSession(cycles) {
       for (let page = 0; page < 1; page++) {
         const tweets = await fetchHomeLatest({ count: 40 });
         log(`X API: ${tweets.length} tweets from Following timeline (${tweets.filter((t) => t.originAgeMinutes <= MAX_ORIGIN_AGE_MINUTES).length} within ${MAX_ORIGIN_AGE_MINUTES}m)`);
-        for (const t of tweets) {
+        // Only fresh tweets get the slow CPU LLM pass: stale ones are never queued, and judging
+        // all ~90 per call took ~7 min of runner time vs seconds for the ~6 fresh ones.
+        for (const t of tweets.filter((x) => x.originAgeMinutes <= MAX_ORIGIN_AGE_MINUTES)) {
           evaluated++;
           if (await processArticle(t, state, report)) caught++;
         }
