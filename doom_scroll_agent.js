@@ -398,6 +398,34 @@ async function runSession(cycles) {
   }
 
   log(`Doom-scroll session starting: ${cycles} cycles, freshness gate ${MAX_ORIGIN_AGE_MINUTES}min.`);
+
+  // Preferred path (added 2026-10-03): read the chronological Following timeline over plain HTTP
+  // with the saved login cookies - no browser, so it fits Render's 512MB free tier and avoids
+  // the x.com/home page wall that blocks datacenter browsers. Falls back to the browser below.
+  if (!process.env.X_FORCE_BROWSER && fs.existsSync(path.join(__dirname, 'x_api_template.json'))) {
+    try {
+      const { fetchHomeLatest } = require('./x_api_timeline');
+      const state = loadState();
+      const report = { caught: [], rejected: [], staleButNewsworthy: [] };
+      let caught = 0;
+      let evaluated = 0;
+      for (let page = 0; page < 1; page++) {
+        const tweets = await fetchHomeLatest({ count: 40 });
+        log(`X API: ${tweets.length} tweets from Following timeline (${tweets.filter((t) => t.originAgeMinutes <= MAX_ORIGIN_AGE_MINUTES).length} within ${MAX_ORIGIN_AGE_MINUTES}m)`);
+        for (const t of tweets) {
+          evaluated++;
+          if (await processArticle(t, state, report)) caught++;
+        }
+      }
+      log(`Session done (API mode): ${evaluated} tweets evaluated, ${caught} caught.`);
+      console.log(`
+=== SESSION SUMMARY: ${caught} candidate(s) caught, queued to trend_pending_queue.json ===`);
+      writeReportFile(report);
+      return;
+    } catch (e) {
+      log(`WARN: X API mode failed (${e.message}) - falling back to browser scroll`);
+    }
+  }
   const browser = await chromium.launch({
     headless: false, // headless never got past X's bot wall in prior testing - must run headed
     channel: 'chrome',
