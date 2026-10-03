@@ -75,6 +75,8 @@ jobs:
 
       - name: Run doom-scroll sweep (X)
         run: xvfb-run -a node doom_scroll_agent.js 10
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         continue-on-error: true # one lane failing (e.g. X account issue) shouldn't block the RSS lanes below
 
       - name: Binance Square lane (dedupe, pace, paraphrase, Telegram, post)

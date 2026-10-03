@@ -151,6 +151,43 @@ async function sendTelegram(text) {
   }
 }
 
+// --- X API health: alert once when the plain-HTTP lane breaks, once when it recovers -----------
+// State lives in x_api_health.json, written through the GitHub Contents API (only on a status
+// flip, so no push races with the sweep's own data commits) and read from the public raw URL.
+const HEALTH_REPO = process.env.GITHUB_REPOSITORY || 'Dev3mmm/trend-monitor';
+async function readApiHealth() {
+  try {
+    const r = await fetch(`https://raw.githubusercontent.com/${HEALTH_REPO}/main/x_api_health.json?${Date.now()}`);
+    return r.ok ? await r.json() : { failing: false };
+  } catch { return { failing: false }; }
+}
+async function writeApiHealth(obj) {
+  const token = process.env.GITHUB_TOKEN;
+  if (!token) return;
+  const url = `https://api.github.com/repos/${HEALTH_REPO}/contents/x_api_health.json`;
+  const h = { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' };
+  let sha;
+  try { const cur = await fetch(url, { headers: h }); if (cur.ok) sha = (await cur.json()).sha; } catch {}
+  await fetch(url, { method: 'PUT', headers: h, body: JSON.stringify({ message: 'X API health: ' + (obj.failing ? 'failing' : 'ok'), content: Buffer.from(JSON.stringify(obj, null, 1)).toString('base64'), sha }) }).catch(() => {});
+}
+async function reportApiHealth(ok, errMsg) {
+  const prev = await readApiHealth();
+  if (ok && prev.failing) {
+    await writeApiHealth({ failing: false, since: new Date().toISOString() });
+    await sendTelegram('Trend Monitor: X doom-scroll API lane is working again.');
+  } else if (!ok && !prev.failing) {
+    const m = String(errMsg);
+    let fix = 'Check the latest sweep log on GitHub Actions.';
+    if (/HTTP (400|404)/.test(m)) fix = 'X rotated its API id. On your PC double-click refresh_x_api.cmd in Documents\trend_monitor (about 1 minute).';
+    else if (/HTTP (401|403)|auth_token|re-login/.test(m)) fix = 'The X scraper session expired. On your PC double-click refresh_x_login.cmd in Documents\trend_monitor and sign in.';
+    else if (/HTTP 429/.test(m)) fix = 'X is rate-limiting the lane; it usually clears on its own within an hour.';
+    await writeApiHealth({ failing: true, since: new Date().toISOString(), error: m.slice(0, 200) });
+    await sendTelegram(`Trend Monitor: X doom-scroll API lane FAILED and fell back to the weak browser mode.
+${fix}
+(${m.slice(0, 120)})`);
+  }
+}
+
 // Live price context so the model can judge significance against REAL recent price
 // action (e.g. "$81k" is a big deal after 3 weeks stuck at $62-65k) instead of only
 // what the tweet's own wording happens to state. Refreshed periodically, not per-tweet.
@@ -411,6 +448,7 @@ async function runSession(cycles) {
       let evaluated = 0;
       for (let page = 0; page < 1; page++) {
         const tweets = await fetchHomeLatest({ count: 40 });
+        await reportApiHealth(true);
         log(`X API: ${tweets.length} tweets from Following timeline (${tweets.filter((t) => t.originAgeMinutes <= MAX_ORIGIN_AGE_MINUTES).length} within ${MAX_ORIGIN_AGE_MINUTES}m)`);
         // Only fresh tweets get the slow CPU LLM pass: stale ones are never queued, and judging
         // all ~90 per call took ~7 min of runner time vs seconds for the ~6 fresh ones.
@@ -426,6 +464,7 @@ async function runSession(cycles) {
       return;
     } catch (e) {
       log(`WARN: X API mode failed (${e.message}) - falling back to browser scroll`);
+      await reportApiHealth(false, e.message);
     }
   }
   const browser = await chromium.launch({
