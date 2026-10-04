@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791061964567-3e9xo0",
-    "source": "x",
-    "ts": "2026-10-03T21:12:44.567Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 101,
-    "originTimestamp": "2026-10-03T19:30:42.000Z",
-    "reason": "No concrete information or action is provided.",
-    "text": "⚡ QUESTION: Should the government regulate crypto?",
-    "url": "https://x.com/Cointelegraph/status/2106466995159855285"
-  },
-  {
-    "id": "x-1791061969681-d6yamr",
-    "source": "x",
-    "ts": "2026-10-03T21:12:49.681Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 102,
-    "originTimestamp": "2026-10-03T19:30:00.000Z",
-    "reason": "Notable institutional trading volume milestone.",
-    "text": "PancakeSwap Infinity hits $150B in trading volume.\n\n@PancakeSwap's upgraded DEX platform, PancakeSwap Infinity, has now overseen more than $150B worth of user trading volume.\n\nThe milestone is especially impressive given Infinity launched in April of last year and that the last",
-    "url": "https://x.com/BSCNews/status/2106466819032711432"
-  },
-  {
     "id": "x-1791062553824-2b2rer",
     "source": "x",
     "ts": "2026-10-03T21:22:33.824Z",
@@ -6739,5 +6712,33 @@
     "reason": "No notable move or specific event is described.",
     "text": "Grok 4.7 is #1 on the AA Cyber Index",
     "url": "https://x.com/elonmusk/status/2106787000682426513"
+  },
+  {
+    "id": "x-1791133943567-g59m39",
+    "source": "x",
+    "ts": "2026-10-04T17:12:23.567Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-04T17:04:00.000Z",
+    "reason": "New use of a stablecoin (SOL) in a complex financial product.",
+    "text": "The RWA ecosystem on @injective is BOOMING.\n\nHere's now tokenised stocks and commodities on $INJ actually work... ⬇️",
+    "url": "https://x.com/BSCNews/status/2106792463612727773"
+  },
+  {
+    "id": "x-1791133947484-npfj4e",
+    "source": "x",
+    "ts": "2026-10-04T17:12:27.484Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-04T17:02:27.000Z",
+    "reason": "Notable appointment involving regulatory authority and blockchain technology.",
+    "text": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+    "url": "https://x.com/DecryptMedia/status/2106792073173127264"
   }
 ]
