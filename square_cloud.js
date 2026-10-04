@@ -16,7 +16,7 @@ const SKILL_DIR = path.join(__dirname, 'square-post');
 const TMP_DIR = path.join(__dirname, 'square_tmp');
 
 const MIN_GAP_MS = 25 * 60 * 1000;
-const MAX_POSTS_PER_DAY = 12;
+const MAX_POSTS_PER_DAY = 30; // was 12: hit by 05:47 UTC, queue then expired unposted (Square allows 100/day)
 const MAX_ITEM_AGE_MS = 3 * 60 * 60 * 1000;
 const DEDUPE_WINDOW_MS = 24 * 60 * 60 * 1000;
 const OLLAMA_URL = 'http://localhost:11434/api/generate';

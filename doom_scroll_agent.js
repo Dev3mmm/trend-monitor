@@ -100,14 +100,31 @@ function appendDashboardLog(entry) {
 function sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
 function randomBetween([min, max]) { return min + Math.random() * (max - min); }
 
+// doom_scroll_state.json is gitignored, so on GitHub Actions every run starts with an empty
+// seen-list and re-caught (and re-Telegrammed / re-logged) every tweet still inside the 120-min
+// freshness gate - one tweet was caught 13x. The committed dashboard log survives between runs,
+// so seed the seen-list from the tweet ids in its urls.
+function seedSeenFromDashboardLog(state) {
+  try {
+    const items = JSON.parse(fs.readFileSync(DASHBOARD_LOG_FILE, 'utf8'));
+    const seen = new Set(state.seenTweetIds);
+    for (const it of items) {
+      const m = it && it.source === 'x' && typeof it.url === 'string' && it.url.match(/\/status\/(\d+)/);
+      if (m) seen.add(m[1]);
+    }
+    state.seenTweetIds = Array.from(seen);
+  } catch { /* no log yet */ }
+  return state;
+}
+
 function loadState() {
-  if (!fs.existsSync(STATE_FILE)) return { seenTweetIds: [] };
+  if (!fs.existsSync(STATE_FILE)) return seedSeenFromDashboardLog({ seenTweetIds: [] });
   try {
     const s = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
     if (!s.seenTweetIds) s.seenTweetIds = [];
-    return s;
+    return seedSeenFromDashboardLog(s);
   } catch {
-    return { seenTweetIds: [] };
+    return seedSeenFromDashboardLog({ seenTweetIds: [] });
   }
 }
 function saveState(state) {
