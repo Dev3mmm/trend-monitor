@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791063165044-789ouj",
-    "source": "x",
-    "ts": "2026-10-03T21:32:45.044Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 62,
-    "originTimestamp": "2026-10-03T20:30:46.000Z",
-    "reason": "Notable increase in ETH unstaking rewards.",
-    "text": "📊 MARKET: $ETH waiting to unstake jumped 392% since the beginning of October.",
-    "url": "https://x.com/Cointelegraph/status/2106482110340997144"
-  },
-  {
-    "id": "x-1791063167056-ib38ej",
-    "source": "x",
-    "ts": "2026-10-03T21:32:47.056Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 92,
-    "originTimestamp": "2026-10-03T20:00:00.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇷🇺🇺🇸JUST IN: Putin has reportedly pitched Trump's team a deal for $20 BILLION in Lukoil assets during Ukraine peace talks.\n\nPutin raised the sale of Russian oil giant Lukoil's global assets with Trump's envoys at the Kremlin in September, per the NYT.\n\nThe leading bidding group",
-    "url": "https://x.com/coinbureau/status/2106474367257657657"
-  },
-  {
     "id": "x-1791063169575-9077a4",
     "source": "x",
     "ts": "2026-10-03T21:32:49.575Z",
@@ -6739,5 +6712,32 @@
     "reason": "Concrete price milestone outside recent range.",
     "text": "JUST IN: $86,000 Bitcoin 🚀",
     "url": "https://x.com/BitcoinMagazine/status/2106856091149574370"
+  },
+  {
+    "id": "x-1791149549087-pazw2w",
+    "source": "x",
+    "ts": "2026-10-04T21:32:29.087Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-04T21:30:54.000Z",
+    "reason": "Notable on-chain data point with significant dollar amount.",
+    "text": "⚡ FLOW: BASE has seen $4.7B in Net Inflows since January 1st.",
+    "url": "https://x.com/Cointelegraph/status/2106859630097776805"
+  },
+  {
+    "id": "x-1791149553654-4si1h7",
+    "source": "x",
+    "ts": "2026-10-04T21:32:33.654Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-04T21:25:50.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Bitcoin can serve very different investors. $BTC offers direct ownership, $MSTR amplified exposure, and $STRC income with less 30-day price volatility than every Mag 7 stock. Digital Capital is the foundation for Digital Equity and Digital Credit.",
+    "url": "https://x.com/saylor/status/2106858356656779529"
   }
 ]
