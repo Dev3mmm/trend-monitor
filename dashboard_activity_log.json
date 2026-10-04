@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791058927634-h3pyia",
-    "source": "x",
-    "ts": "2026-10-03T20:22:07.634Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 45,
-    "originTimestamp": "2026-10-03T19:36:42.000Z",
-    "reason": "New use of a token/stablecoin with a unique feature",
-    "text": "SBRC-20 is introducing a shielded token standard for Bitcoin, combining BRC-20-style inscriptions with private balances, amounts and recipients through a zero-knowledge proof system.",
-    "url": "https://x.com/BSCNews/status/2106468505683931379"
-  },
-  {
-    "id": "x-1791058929555-bxwpr6",
-    "source": "x",
-    "ts": "2026-10-03T20:22:09.555Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 51,
-    "originTimestamp": "2026-10-03T19:30:42.000Z",
-    "reason": "The tweet invites a discussion that could lead to regulatory moves.",
-    "text": "⚡ QUESTION: Should the government regulate crypto?",
-    "url": "https://x.com/Cointelegraph/status/2106466995159855285"
-  },
-  {
-    "id": "x-1791058932350-xihvq0",
-    "source": "x",
-    "ts": "2026-10-03T20:22:12.350Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 52,
-    "originTimestamp": "2026-10-03T19:30:00.000Z",
-    "reason": "The tweet is a notable move by a significant platform reaching a substantial trading volume milestone.",
-    "text": "PancakeSwap Infinity hits $150B in trading volume.\n\n@PancakeSwap's upgraded DEX platform, PancakeSwap Infinity, has now overseen more than $150B worth of user trading volume.\n\nThe milestone is especially impressive given Infinity launched in April of last year and that the last",
-    "url": "https://x.com/BSCNews/status/2106466819032711432"
-  },
-  {
     "id": "x-1791058934833-p9ufyc",
     "source": "x",
     "ts": "2026-10-03T20:22:14.833Z",
@@ -6752,5 +6710,46 @@
     "reason": "Potential for significant market disruption if Ethereum were turned off.",
     "text": "🔥 INSIGHT: What happens if you switch Ethereum off tomorrow?\n\nSitting down with @itsciaranlyons, Real Vision co-founder @RaoulGMI said you'd wipe out about 75% of stablecoins and DeFi, most of the RWA market, the digital art market and every layer 2 in a single day.\n\nHe puts the",
     "url": "https://x.com/Cointelegraph/status/2106678891305632111"
+  },
+  {
+    "id": "x-1791108129721-6znssr",
+    "source": "x",
+    "ts": "2026-10-04T10:02:09.721Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-04T10:00:02.000Z",
+    "reason": "No notable crypto-specific news or movement.",
+    "text": "The whole world is DROWNING in debt.\n\nGlobal debt has officially hit a record $365.5 TRILLION, jumping by $10 TRILLION in just the first 6 months of 2026.\n\nAnd just 10 governments owe almost $97 TRILLION between them:\n\n🇺🇸 US: $40.7T, national debt officially topped $40T for the",
+    "url": "https://x.com/coinbureau/status/2106685768169369702"
+  },
+  {
+    "id": "x-1791108135307-61oshg",
+    "source": "x",
+    "ts": "2026-10-04T10:02:15.307Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CertiK Alert",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-04T09:59:00.000Z",
+    "reason": "Exploit or suspicious activity detected on the Ethereum network.",
+    "text": "#CertiKInsight 🚨\n\nWe have seen suspicious fund movement on Base.\n\nA newly deployed proxy was used to borrow ~1,783 aBaswstETH from vault \n,\nlater redeemed via Aave for ~1,783 wstETH (~$6M) now at\n\n\nStay Vigilant!",
+    "url": "https://x.com/CertiKAlert/status/2106685511754735682"
+  },
+  {
+    "id": "x-1791108139830-sd6t9k",
+    "source": "x",
+    "ts": "2026-10-04T10:02:19.830Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "PeckShieldAlert",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-04T09:56:15.000Z",
+    "reason": "Exploit involving stolen funds detected on the Ethereum network.",
+    "text": "#PeckShieldAlert It appears that 0x0B5126...B034 has drained 1,783 $wstETH (~$6M) on #Base.",
+    "url": "https://x.com/PeckShieldAlert/status/2106684818654482531"
   }
 ]
