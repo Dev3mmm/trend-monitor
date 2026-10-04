@@ -1,46 +1,5 @@
 [
   {
-    "id": "x-1791060767761-5kelar",
-    "source": "x",
-    "ts": "2026-10-03T20:52:47.761Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 76,
-    "originTimestamp": "2026-10-03T19:36:42.000Z",
-    "reason": "New use of a token/stablecoin",
-    "text": "SBRC-20 is introducing a shielded token standard for Bitcoin, combining BRC-20-style inscriptions with private balances, amounts and recipients through a zero-knowledge proof system.",
-    "url": "https://x.com/BSCNews/status/2106468505683931379"
-  },
-  {
-    "id": "x-1791060770262-v4p5p3",
-    "source": "x",
-    "ts": "2026-10-03T20:52:50.262Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 82,
-    "originTimestamp": "2026-10-03T19:30:42.000Z",
-    "reason": "No factual claim or move is made.",
-    "text": "⚡ QUESTION: Should the government regulate crypto?",
-    "url": "https://x.com/Cointelegraph/status/2106466995159855285"
-  },
-  {
-    "id": "x-1791060774181-mi8dt7",
-    "source": "x",
-    "ts": "2026-10-03T20:52:54.181Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 82,
-    "originTimestamp": "2026-10-03T19:30:00.000Z",
-    "reason": "Notable trading volume milestone for a new DEX platform.",
-    "text": "PancakeSwap Infinity hits $150B in trading volume.\n\n@PancakeSwap's upgraded DEX platform, PancakeSwap Infinity, has now overseen more than $150B worth of user trading volume.\n\nThe milestone is especially impressive given Infinity launched in April of last year and that the last",
-    "url": "https://x.com/BSCNews/status/2106466819032711432"
-  },
-  {
     "id": "x-1791060777376-97pyj7",
     "source": "x",
     "ts": "2026-10-03T20:52:57.376Z",
@@ -6745,5 +6704,45 @@
     "reason": "Notable regulatory move by a central bank in a major economy.",
     "text": "🇷🇺⚡ NEW: Russia's Finance Ministry just paid some of its own staff in digital rubles, a month after the CBDC's nationwide rollout kicked off.",
     "url": "https://x.com/Cointelegraph/status/2106756124087116066"
+  },
+  {
+    "id": "x-1791125544611-m5iktd",
+    "source": "x",
+    "ts": "2026-10-04T14:52:24.611Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-04T14:48:00.000Z",
+    "reason": "Significant increase in TVL and market cap for PLUME token.",
+    "text": "Plume Vaults are exploding.\n\nThe TVL of @plumenetwork's Vaults is up +65% in the last month, reaching a total of nearly $233M at time of writing.\n\nThe $PLUME token itself has a market cap of only $120M, meaning it is one of few L1 blockchains to have a TVL that is significantly",
+    "url": "https://x.com/BSCNews/status/2106758239341748415"
+  },
+  {
+    "id": "x-1791125547428-875xxc",
+    "source": "x",
+    "ts": "2026-10-04T14:52:27.428Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 116,
+    "originTimestamp": "2026-10-04T12:56:13.000Z",
+    "reason": "No notable move or specific information provided.",
+    "text": "Always has been",
+    "url": "https://x.com/elonmusk/status/2106758102674534734"
+  },
+  {
+    "id": "x-1791125551327-lxw0g7",
+    "source": "x",
+    "ts": "2026-10-04T14:52:31.327Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 38,
+    "originTimestamp": "2026-10-04T14:14:03.000Z",
+    "reason": "Noise: generic hype without factual claim.",
+    "text": "\"Just because Ken Paxton made some bad personal decisions doesn't mean I have to put my face in a wood chipper and vote for people who have gone plumb crazy!\" -- @ScottJenningsKY",
+    "url": "https://x.com/elonmusk/status/2106757672209170437"
   }
 ]
