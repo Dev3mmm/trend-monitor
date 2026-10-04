@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791061947123-p0d2o7",
-    "source": "x",
-    "ts": "2026-10-03T21:12:27.123Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 36,
-    "originTimestamp": "2026-10-03T20:36:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Founder profile: @SergeyNazarov \n\nMeet the living genius behind the biggest infrastructure platform in all of crypto, @Chainlink $LINK ⬇️",
-    "url": "https://x.com/BSCNews/status/2106483426958118952"
-  },
-  {
-    "id": "x-1791061951248-k9k3pb",
-    "source": "x",
-    "ts": "2026-10-03T21:12:31.248Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 41,
-    "originTimestamp": "2026-10-03T20:30:46.000Z",
-    "reason": "ETH unstaking rewards surged dramatically.",
-    "text": "📊 MARKET: $ETH waiting to unstake jumped 392% since the beginning of October.",
-    "url": "https://x.com/Cointelegraph/status/2106482110340997144"
-  },
-  {
     "id": "x-1791061957345-2djivl",
     "source": "x",
     "ts": "2026-10-03T21:12:37.345Z",
@@ -6741,5 +6714,32 @@
     "reason": "Notable regulatory move involving crypto and traditional banking systems",
     "text": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
     "url": "https://x.com/DecryptMedia/status/2106777126208692249"
+  },
+  {
+    "id": "x-1791130935248-628fq0",
+    "source": "x",
+    "ts": "2026-10-04T16:22:15.249Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-04T16:19:27.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Don’t sleep on Bitcoin.",
+    "url": "https://x.com/saylor/status/2106781251856154836"
+  },
+  {
+    "id": "x-1791130940632-hroxai",
+    "source": "x",
+    "ts": "2026-10-04T16:22:20.632Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-04T16:15:00.000Z",
+    "reason": "Notable court action involving crypto and high-profile political figure.",
+    "text": "🇵🇭HUGE: A Philippine court has frozen 25 crypto wallets and 86 bank accounts linked to a \"prominent lawmaker\" in a flood-control plunder probe.\n\nInvestigators say the money was moved in layers through companies, bank accounts and a crypto platform.\n\nThe freeze covers 116 assets",
+    "url": "https://x.com/coinbureau/status/2106780132169982016"
   }
 ]
