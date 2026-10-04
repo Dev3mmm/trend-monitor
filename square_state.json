@@ -644,15 +644,12 @@
     "x-1791079936046-s3sw26",
     "x-1791079939596-nymeza",
     "x-1791080535851-afu3mt",
-    "x-1791080539576-9c5d4b"
+    "x-1791080539576-9c5d4b",
+    "x-1791081147757-37e3yc",
+    "x-1791081151251-0ap485",
+    "x-1791081154065-izuwbw"
   ],
   "queue": [
-    {
-      "text": "Arbitrum still the #1 most-developed blockchain.\n\n@Arbitrum's development statistics for the past month make nearly every other chain seem abandoned.\n\nAccording to @chainspect_app data, $ARB has seen 14,032 developer commits in the last month.\n\nFor context, @Ethereum and @Cardano",
-      "url": "https://x.com/BSCNews/status/2106535772279255166",
-      "images": [],
-      "enqueuedAt": 1791072375384
-    },
     {
       "text": "The last bitcoin is expected to be mined around 2140.\n\nAfter that, miners won't earn new BTC, only transaction fees.\n\nHere's how Bitcoin was designed for that transition 👇",
       "url": "https://x.com/binance/status/2106535019690787201",
@@ -792,6 +789,12 @@
       "at": 1791079363067,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/373506821741121?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "Arbitrum still the #1 most-developed blockchain.\n\n@Arbitrum's development statistics for the past month make nearly every other chain seem abandoned.\n\nAccording to @chainspect_app data, $ARB has seen 14,032 developer commits in the last month.\n\nFor context, @Ethereum and @Cardano",
+      "at": 1791081157547,
+      "status": "skipped",
+      "reason": "paraphrase added numbers not in source: 1,409, 1,164"
     }
   ],
   "lastPostAt": 1791079363067
