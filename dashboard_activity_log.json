@@ -1,19 +1,5 @@
 [
   {
-    "id": "x-1791062581699-y5g3ju",
-    "source": "x",
-    "ts": "2026-10-03T21:23:01.699Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 105,
-    "originTimestamp": "2026-10-03T19:36:42.000Z",
-    "reason": "New token standard introduction for Bitcoin",
-    "text": "SBRC-20 is introducing a shielded token standard for Bitcoin, combining BRC-20-style inscriptions with private balances, amounts and recipients through a zero-knowledge proof system.",
-    "url": "https://x.com/BSCNews/status/2106468505683931379"
-  },
-  {
     "id": "x-1791062584792-y19qw7",
     "source": "x",
     "ts": "2026-10-03T21:23:04.792Z",
@@ -6740,5 +6726,18 @@
     "reason": "New private token with unique features on Bitcoin L1",
     "text": "SBRC-20 {S}: BRC-20, but shielded.\n\nPrivate token transfers, natively on Bitcoin L1, verified by zk proofs.\n\nThe $SHLD airdrop is open: 5% of supply, and every applicant gets it.\n\nApply now at  ⏳",
     "url": "https://x.com/BSCNews/status/2106816347808424297"
+  },
+  {
+    "id": "x-1791141745338-ub29g1",
+    "source": "x",
+    "ts": "2026-10-04T19:22:25.338Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 34,
+    "originTimestamp": "2026-10-04T18:48:17.000Z",
+    "reason": "Noise: vague opinion with no factual claim.",
+    "text": "Again, Elon was already thinking seriously about Super Intelligence more than a decade before today’s SI boom\n\nNick Bostrom’s 2014 book “Superintelligence” specifically thanks Elon Musk in its acknowledgments for extensive discussions that helped clarify Bostrom’s thinking\n\nIn",
+    "url": "https://x.com/elonmusk/status/2106826794183925830"
   }
 ]
