@@ -1,19 +1,5 @@
 [
   {
-    "id": "x-1791064858917-s4upwz",
-    "source": "x",
-    "ts": "2026-10-03T22:00:58.917Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 30,
-    "originTimestamp": "2026-10-03T21:30:43.000Z",
-    "reason": "On-chain data point with specific transaction numbers.",
-    "text": "⚡ BIG: Solana just posted a record 8.92B successful non-vote transactions in Q3.",
-    "url": "https://x.com/Cointelegraph/status/2106497198754001301"
-  },
-  {
     "id": "x-1791064861929-trlq45",
     "source": "x",
     "ts": "2026-10-03T22:01:01.930Z",
@@ -6741,5 +6727,18 @@
     "reason": "Price is well outside the recent trading range for BinanceCoin.",
     "text": "🔥 NOW: binancecoin:native  just broke past $809.",
     "url": "https://x.com/Cointelegraph/status/2106932310918738215"
+  },
+  {
+    "id": "x-1791167529242-ize3rd",
+    "source": "x",
+    "ts": "2026-10-05T02:32:09.242Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T02:30:56.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🚨 NOW: Former Anthropic researcher Jacob Coxon will testify at a New York City Council AI hearing today, per Bloomberg. \n\nHe quit last month, accusing Anthropic and OpenAI of gambling with people's lives.",
+    "url": "https://x.com/Cointelegraph/status/2106935138961551783"
   }
 ]
