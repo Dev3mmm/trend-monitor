@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791067936421-akbyg6",
-    "source": "x",
-    "ts": "2026-10-03T22:52:16.421Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 112,
-    "originTimestamp": "2026-10-03T20:59:50.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "@SawyerMerritt We are being extremely careful with autonomous safety, just as we are with making Teslas the safest cars in the world for human driving",
-    "url": "https://x.com/elonmusk/status/2106489444802982297"
-  },
-  {
-    "id": "x-1791068549910-mzn3dw",
-    "source": "x",
-    "ts": "2026-10-03T23:02:29.910Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-03T23:00:36.000Z",
-    "reason": "New use of a token with potential financial implications",
-    "text": "Digital Credit built on Bitcoin opens a new chapter in the history of finance. $STRC",
-    "url": "https://x.com/saylor/status/2106519818388095074"
-  },
-  {
     "id": "x-1791068555144-zt0tqd",
     "source": "x",
     "ts": "2026-10-03T23:02:35.144Z",
@@ -6747,5 +6720,33 @@
     "reason": "No notable move or specific event described.",
     "text": "Vitalik Puts AI Privacy to The Test\n\nEthereum co-founder Vitalik Buterin (@VitalikButerin) says he tested AI recommendations using personal health and travel data.\n\nA local model handled queries before sending limited requests to remote frontier models.\n\nThe setup used zkAPI to",
     "url": "https://x.com/BSCNews/status/2107034056013795791"
+  },
+  {
+    "id": "x-1791192734993-vykhs7",
+    "source": "x",
+    "ts": "2026-10-05T09:32:14.993Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T09:30:56.000Z",
+    "reason": "Binance smart chain is currently experiencing a surge in transaction fees, a notable move in the crypto ecosystem.",
+    "text": "🔥 BULLISH: Japan’s Remixpoint adds 7.45 $BTC, bringing total holdings to 1,508.72 $BTC.",
+    "url": "https://x.com/Cointelegraph/status/2107040835225137483"
+  },
+  {
+    "id": "x-1791192740118-gk4rkr",
+    "source": "x",
+    "ts": "2026-10-05T09:32:20.118Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-05T09:27:07.000Z",
+    "reason": "Notable institutional move with actual financial impact.",
+    "text": "Hyperliquid Turns USDC Reserve Yield Into HYPE Buyback Firepower\n\nHyperliquid (@HyperliquidX) has received its first $14.58 million USDC payment under the platform’s AQAv2 reserve yield framework.\n\nThe payment gives Hyperliquid another funding source for hyperliquid:native",
+    "url": "https://x.com/BSCNews/status/2107039874151018963"
   }
 ]
