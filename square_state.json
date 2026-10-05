@@ -821,12 +821,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 NEW: Bitcoin's biggest cluster of short liquidations sits near $90K, meaning a move to that level could force leveraged shorts to close, per @glassnode.",
-      "url": "https://x.com/Cointelegraph/status/2106988031055946230",
-      "images": [],
-      "enqueuedAt": 1791180164675
-    },
-    {
       "text": "🇺🇸 ETF FLOWS: BTC, SOL and XRP spot ETFs saw net inflows last week, while ETH spot ETFs saw net outflows.\n\nBTC: $241.09M\nETH: - $138.02M\nSOL: $2.43M\nXRP: $4.74M",
       "url": "https://x.com/Cointelegraph/status/2106995533529104717",
       "images": [],
@@ -1091,6 +1085,12 @@
       "at": 1791188525934,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/373953890780407?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NEW: Bitcoin's biggest cluster of short liquidations sits near $90K, meaning a move to that level could force leveraged shorts to close, per @glassnode.",
+      "at": 1791190301942,
+      "status": "skipped",
+      "reason": "paraphrase added numbers not in source: 90,000"
     }
   ],
   "lastPostAt": 1791188525934
