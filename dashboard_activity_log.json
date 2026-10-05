@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791063876197-ocn4mn",
-    "source": "x",
-    "ts": "2026-10-03T21:44:36.197Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 44,
-    "originTimestamp": "2026-10-03T20:59:50.000Z",
-    "reason": "No notable move in ETH price within the recent range.",
-    "text": "@SawyerMerritt We are being extremely careful with autonomous safety, just as we are with making Teslas the safest cars in the world for human driving",
-    "url": "https://x.com/elonmusk/status/2106489444802982297"
-  },
-  {
     "id": "x-1791063880916-fsvhi2",
     "source": "x",
     "ts": "2026-10-03T21:44:40.916Z",
@@ -6738,5 +6725,19 @@
     "reason": "No notable move in cryptocurrency prices or adoption.",
     "text": "BREAKING: United Airlines just announced that 880+ aircraft will have @Starlink by the end of 2026, with its entire fleet expected to be connected by end of 2027.\n\nStarlink has connected 14.2 million devices on 464,000+ flights and is active on over 560 United aircraft today.",
     "url": "https://x.com/elonmusk/status/2106907525136466346"
+  },
+  {
+    "id": "x-1791162545387-lkmpk5",
+    "source": "x",
+    "ts": "2026-10-05T01:09:05.387Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-05T01:00:55.000Z",
+    "reason": "Notable regulatory move affecting digital asset lending.",
+    "text": "🚨 NEW: S&amp;P Global Ratings rolls out a Vault Risk Assessment framework to evaluate the risks of onchain digital asset lending vaults, which now hold $10B in deposits.",
+    "url": "https://x.com/Cointelegraph/status/2106912484258988123"
   }
 ]
