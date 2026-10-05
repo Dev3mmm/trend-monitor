@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791086023710-tlse3v",
-    "source": "x",
-    "ts": "2026-10-04T03:53:43.710Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-04T03:32:48.000Z",
-    "reason": "SCAM involving real money is noteworthy",
-    "text": "🚨JUST IN: A 60-year-old Hong Kong woman LOST about 2.7 MILLION in a crypto investment SCAM after meeting someone online who claimed to be an investment expert.\n\nShe was directed to a fake crypto investment platform and transferred funds multiple times between April 14 and",
-    "url": "https://x.com/coinbureau/status/2106588320931389589"
-  },
-  {
-    "id": "x-1791086027249-ne28g5",
-    "source": "x",
-    "ts": "2026-10-04T03:53:47.249Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 53,
-    "originTimestamp": "2026-10-04T03:00:32.000Z",
-    "reason": "Noise: generic hype without real content.",
-    "text": "acting like this isn’t my full-time job",
-    "url": "https://x.com/binance/status/2106580199890424275"
-  },
-  {
     "id": "x-1791086031597-w5dlon",
     "source": "x",
     "ts": "2026-10-04T03:53:51.597Z",
@@ -7259,5 +7232,44 @@
     "reason": "No notable crypto-related news.",
     "text": "🇺🇸 ALERT: Mortgage rates hit 7.61%, their highest level since November 2023.",
     "url": "https://x.com/Cointelegraph/status/2107232079473733886"
+  },
+  {
+    "id": "x-1791239066762-bffl9e",
+    "source": "x",
+    "ts": "2026-10-05T22:24:26.762Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 17,
+    "originTimestamp": "2026-10-05T22:06:51.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Our Q3 digital asset gain would rank #7 among the latest quarterly operating income of S&amp;P 500 companies. $BTC",
+    "url": "https://x.com/saylor/status/2107234526682382797",
+    "images": [
+      "https://pbs.twimg.com/media/HT5jeQyWgAEStIX.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791239072974-tag8vy",
+    "source": "x",
+    "ts": "2026-10-05T22:24:32.974Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-05T22:14:00.000Z",
+    "reason": "XRP Ledger's stablecoin supply is outpacing other major chains.",
+    "text": "XRP Ledger about to flip AVAX for stablecoin supply...?\n\nStablecoin supply on @Ripple's $XRP Ledger is up +10.7% over the past seven days per DefiLlama data, outpacing all major chains aside from @Tempo and @Arc. \n\nXRPL is now just $50M in stablecoins away from overtaking @Avax",
+    "url": "https://x.com/BSCNews/status/2107232865398247689",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107035254787588096/vid/avc1/1312x720/JUfRDLvpVYTacibe.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107035254787588096/img/dn0Lfl3cWJPgP7Th.jpg"
+    }
   }
 ]
