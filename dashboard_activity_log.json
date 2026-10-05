@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791066740873-2zr29r",
-    "source": "x",
-    "ts": "2026-10-03T22:32:20.873Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 61,
-    "originTimestamp": "2026-10-03T21:30:43.000Z",
-    "reason": "Notable transaction volume for Solana token.",
-    "text": "⚡ BIG: Solana just posted a record 8.92B successful non-vote transactions in Q3.",
-    "url": "https://x.com/Cointelegraph/status/2106497198754001301"
-  },
-  {
-    "id": "x-1791066743064-uin339",
-    "source": "x",
-    "ts": "2026-10-03T22:32:23.064Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 88,
-    "originTimestamp": "2026-10-03T21:04:21.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "touch grass ↻ watch charts ↻",
-    "url": "https://x.com/binance/status/2106490564455612866"
-  },
-  {
     "id": "x-1791066745983-upldp1",
     "source": "x",
     "ts": "2026-10-03T22:32:25.983Z",
@@ -6745,5 +6718,32 @@
     "reason": "No notable move or newsworthy event described.",
     "text": "Ethereum Outpaced Bitcoin, But its Liquidity Took a Hit\n\nEther gained 70% in the third quarter, beating Bitcoin’s 42% rise, according to CoinGecko.\n\nYet ethereum:native’s median daily market depth fell sharply compared with the same period last year. Ether held only 35% to 45% of",
     "url": "https://x.com/BSCNews/status/2106994693934653466"
+  },
+  {
+    "id": "x-1791183173722-7znbx0",
+    "source": "x",
+    "ts": "2026-10-05T06:52:53.722Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-05T06:47:04.000Z",
+    "reason": "Stellar's DeFi total value locked reaches a new all-time high.",
+    "text": "Stellar’s DeFi TVL Hits a New Record \n\nStellar’s DeFi total value locked has reached a new all-time high of nearly $272 million.\n\nThe network now has roughly $934.5 million in stablecoin market capitalization.\n\nStellar also hosts about $2.82 billion in active real-world assets",
+    "url": "https://x.com/BSCNews/status/2106999597273108815"
+  },
+  {
+    "id": "x-1791183179162-j2jm98",
+    "source": "x",
+    "ts": "2026-10-05T06:52:59.162Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-05T06:47:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🚨Ethereum CRUSHED Bitcoin in Q3, but its order books got THINNER.\n\nETH surged roughly 70% in the quarter, versus Bitcoin's 42%.\n\nMeanwhile, its order book depth near market price fell to just 35% to 45% of Bitcoin's, down from at least 60% a year earlier, per CoinGecko.\n\nThinner",
+    "url": "https://x.com/coinbureau/status/2106999578058703132"
   }
 ]
