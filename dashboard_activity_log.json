@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1791072739866-lnbc3z",
-    "source": "x",
-    "ts": "2026-10-04T00:12:19.866Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-04T00:01:00.000Z",
-    "reason": "No notable move or significant news.",
-    "text": "The last bitcoin is expected to be mined around 2140.\n\nAfter that, miners won't earn new BTC, only transaction fees.\n\nHere's how Bitcoin was designed for that transition 👇",
-    "url": "https://x.com/binance/status/2106535019690787201"
-  },
-  {
-    "id": "x-1791072743008-mdhu7h",
-    "source": "x",
-    "ts": "2026-10-04T00:12:23.008Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-04T00:00:01.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "SEC Commissioner Hester Peirce: Financial Privacy Should Be the Default\n\nOutgoing U.S. SEC Commissioner Hester Peirce @HesterPeirce  said in a September 27 interview with  @scottmelker   that people's right to protect their financial privacy should be respected. She noted that",
-    "url": "https://x.com/WuBlockchain/status/2106534769546727887"
-  },
-  {
-    "id": "x-1791072745420-2lbf7x",
-    "source": "x",
-    "ts": "2026-10-04T00:12:25.420Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 41,
-    "originTimestamp": "2026-10-03T23:30:55.000Z",
-    "reason": "No notable crypto-related event or data point mentioned.",
-    "text": "🚨 JUST IN: The OpenAI employee who led safety reports for its major launches just quit, saying the company's \"culture is broken.\"",
-    "url": "https://x.com/Cointelegraph/status/2106527447655084170"
-  },
-  {
-    "id": "x-1791072748615-4l7cti",
-    "source": "x",
-    "ts": "2026-10-04T00:12:28.615Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Michael Saylor",
-    "ageMin": 71,
-    "originTimestamp": "2026-10-03T23:00:36.000Z",
-    "reason": "New use of a token/stablecoin on a major cryptocurrency",
-    "text": "Digital Credit built on Bitcoin opens a new chapter in the history of finance. $STRC",
-    "url": "https://x.com/saylor/status/2106519818388095074"
-  },
-  {
     "id": "x-1791072751951-qsaf1e",
     "source": "x",
     "ts": "2026-10-04T00:12:31.951Z",
@@ -6883,5 +6830,76 @@
     "url": "https://x.com/DecryptMedia/status/2107091688040620093",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791207226036-g5ru4x",
+    "source": "x",
+    "ts": "2026-10-05T13:33:46.036Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T13:32:07.000Z",
+    "reason": "Notable institutional crypto purchase and re-purchase action.",
+    "text": "🔥BULLISH: Metaplanet bought back 11,000 BTC worth roughly $870 MILLION by the end of September.\n\nAfter selling 10,000 BTC during the quarter, the company returned with a larger buy, adding 1,000 BTC net worth roughly $79 MILLION.\n\n“We held that cash, then bought back more",
+    "url": "https://x.com/coinbureau/status/2107101529518055693",
+    "images": [
+      "https://pbs.twimg.com/media/HT3tj0zbsAA-ZPE.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791207232133-1xj9kk",
+    "source": "x",
+    "ts": "2026-10-05T13:33:52.133Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-05T13:31:29.000Z",
+    "reason": "Notable increase in TVL within a short period.",
+    "text": "Hedera's Network Activity is ripping hard!\n\nThe @Hedera blockchain has continued to gain traction in recent weeks. \n\nThe chain has already recorded a nearly 5% increase in TVL in the past 24 hours. However, this is not the most notable update. \n\nAccording to DefiLlama data,",
+    "url": "https://x.com/BSCNews/status/2107101372625637503",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107101241109057536/vid/avc1/1316x720/uSXf-JxsssiWJu6Y.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107101241109057536/img/SGKS99PjYbj9dLeO.jpg"
+    }
+  },
+  {
+    "id": "x-1791207237523-uburiy",
+    "source": "x",
+    "ts": "2026-10-05T13:33:57.523Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-05T13:31:01.000Z",
+    "reason": "Significant new position size for BTC, particularly the mention of closing Q3 with a large digital asset gain.",
+    "text": "🔥 UPDATE: Strategy adds 334 $BTC, now holds 848,000 $BTC and closes Q3 with a $21B digital asset gain.",
+    "url": "https://x.com/Cointelegraph/status/2107101254430110006",
+    "images": [
+      "https://pbs.twimg.com/media/HT3tZbnXwAAdAFT.jpg",
+      "https://pbs.twimg.com/media/HT3ta-7XUAE_w_s.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791207241295-eqn7eb",
+    "source": "x",
+    "ts": "2026-10-05T13:34:01.295Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-05T13:29:56.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "LIVE: BTC Macro, MSTR Outlook, Ex-Fed Insider on Bitcoin | BMTV Oct. 05, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2107100980844392844"
   }
 ]
