@@ -1,46 +1,5 @@
 [
   {
-    "id": "x-1791067396999-cqzekj",
-    "source": "x",
-    "ts": "2026-10-03T22:43:16.999Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 56,
-    "originTimestamp": "2026-10-03T21:47:00.000Z",
-    "reason": "Excessive hype, no factual claim.",
-    "text": "Aster has now made nearly HALF A BILLION DOLLARS in fees.\n\nAccording to DefiLlama data, the @Aster_DEX perps platform has now generated approximately $479M in protocol fees since launching around one year ago.\n\nAster is now the industry's undisputed #2 perps DEX after",
-    "url": "https://x.com/BSCNews/status/2106501294844166320"
-  },
-  {
-    "id": "x-1791067401000-1d5pd9",
-    "source": "x",
-    "ts": "2026-10-03T22:43:21.000Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 72,
-    "originTimestamp": "2026-10-03T21:30:43.000Z",
-    "reason": "Significant on-chain transaction volume for Solana",
-    "text": "⚡ BIG: Solana just posted a record 8.92B successful non-vote transactions in Q3.",
-    "url": "https://x.com/Cointelegraph/status/2106497198754001301"
-  },
-  {
-    "id": "x-1791067404400-e8azw6",
-    "source": "x",
-    "ts": "2026-10-03T22:43:24.400Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 98,
-    "originTimestamp": "2026-10-03T21:04:21.000Z",
-    "reason": "No notable price movement or action described.",
-    "text": "touch grass ↻ watch charts ↻",
-    "url": "https://x.com/binance/status/2106490564455612866"
-  },
-  {
     "id": "x-1791067408072-wwgc1x",
     "source": "x",
     "ts": "2026-10-03T22:43:28.072Z",
@@ -6747,5 +6706,46 @@
     "reason": "No notable move in the given price range.",
     "text": "Zcash Puts Faster Blocks And New Fee Rules to the Test\n\nZcash (@zcash) has activated NU7 on testnet, putting its next major protocol upgrade through live testing.\n\nThe upgrade aims to cut target block spacing from 75 seconds to 25 seconds. It also disables version 4 transactions",
     "url": "https://x.com/BSCNews/status/2107014308433666068"
+  },
+  {
+    "id": "x-1791187949615-muo54z",
+    "source": "x",
+    "ts": "2026-10-05T08:12:29.615Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-05T08:06:34.000Z",
+    "reason": "No notable move or concrete news.",
+    "text": "🔥 FUN FACT: CZ says his garage has just three cars, with no sports cars: “Not into fast driving. Stay SAFU!”",
+    "url": "https://x.com/Cointelegraph/status/2107019603834544546"
+  },
+  {
+    "id": "x-1791187956888-tk4ely",
+    "source": "x",
+    "ts": "2026-10-05T08:12:36.888Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-05T08:05:35.000Z",
+    "reason": "Shiba Inu gains access to Solana's DeFi markets through a token migration.",
+    "text": "Shiba Inu Landed On Solana\n\nShiba Inu’s ethereum:0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce canonical Ethereum token is now accessible across Solana (@solana) through Sunrise (@sunrise).\n\nThe integration gives SHIB direct access to Solana’s DeFi markets. \n\nSHIB remains an ERC-20",
+    "url": "https://x.com/BSCNews/status/2107019357134225781"
+  },
+  {
+    "id": "x-1791187962993-244ozc",
+    "source": "x",
+    "ts": "2026-10-05T08:12:42.993Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-05T08:03:46.000Z",
+    "reason": "USDC reserves funding HYPE buybacks is a notable institutional move.",
+    "text": "USDC Reserves Start Funding HYPE Buybacks as Hyperliquid Receives First $14.58M Payment  \n\nHyperliquid received its first $14.58 million USDC payment under the AQAv2 framework, adding a funding source for HYPE buybacks beyond trading fees. Under the mechanism, roughly 90% of",
+    "url": "https://x.com/WuBlockchain/status/2107018897652318434"
   }
 ]
