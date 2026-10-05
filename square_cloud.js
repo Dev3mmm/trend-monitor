@@ -131,6 +131,8 @@ ${r.stderr || ''}`;
   let queued = 0, dups = 0;
   for (const it of activity.filter((a) => a.status === 'caught' && !seen.has(a.id))) {
     seen.add(it.id);
+    // BSCNews posts are mostly branded videos/GIFs: keep them off Square, favour other sources
+    if (/^(BSCNews)$/i.test((it.url.match(/x\.com\/([^/]+)\/status/) || [])[1] || '')) continue;
     const origin = new Date(it.originTimestamp || it.ts).getTime();
     if (now - origin > MAX_ITEM_AGE_MS) continue;
     if (await isDuplicate(it.text, [...state.queue, ...state.posted])) { dups++; continue; }
