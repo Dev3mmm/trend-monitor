@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791065058346-hunpen",
-    "source": "x",
-    "ts": "2026-10-03T22:04:18.346Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 60,
-    "originTimestamp": "2026-10-03T21:04:21.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "touch grass ↻ watch charts ↻",
-    "url": "https://x.com/binance/status/2106490564455612866"
-  },
-  {
-    "id": "x-1791065060818-ssmul4",
-    "source": "x",
-    "ts": "2026-10-03T22:04:20.818Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 64,
-    "originTimestamp": "2026-10-03T20:59:50.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "@SawyerMerritt We are being extremely careful with autonomous safety, just as we are with making Teslas the safest cars in the world for human driving",
-    "url": "https://x.com/elonmusk/status/2106489444802982297"
-  },
-  {
     "id": "x-1791065063879-58f6c7",
     "source": "x",
     "ts": "2026-10-03T22:04:23.879Z",
@@ -6743,5 +6717,33 @@
     "reason": "Notable regulatory change for Binance users.",
     "text": "Binance Introduces New Brazil Crypto Disclosures\n\nBrazilian users will face new disclosure requirements when sending crypto across international borders through Binance.\n\nStarting Nov. 1, users must identify both the transaction purpose and the receiving counterparty.\n\nBinance",
     "url": "https://x.com/BSCNews/status/2106953995050942603"
+  },
+  {
+    "id": "x-1791173520069-uxdahh",
+    "source": "x",
+    "ts": "2026-10-05T04:12:00.069Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-05T04:08:17.000Z",
+    "reason": "Notable institutional lobbying in crypto policy.",
+    "text": "Zcash Gets a New Voice in Washington\n\nZcash-focused advocacy group PGPZ has registered to lobby US policymakers on digital asset legislation.\n\nThe group lists the Digital Asset Market Clarity Act among its lobbying priorities. It will also focus on two digital asset tax proposals",
+    "url": "https://x.com/BSCNews/status/2106959637878903223"
+  },
+  {
+    "id": "x-1791173525843-2kb29h",
+    "source": "x",
+    "ts": "2026-10-05T04:12:05.843Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-05T04:02:00.000Z",
+    "reason": "Newsworthy announcement from a major financial institution in the crypto space.",
+    "text": "🚨JUST IN: S&amp;P Global has offically launched AAA-style risk scores for DeFi, as crypto lending vaults hit $10 BILLION.\n\nS&amp;P Global Ratings' new \"Vault Risk Assessment\" will grade on-chain lending vaults, with \"AAA(v)\" as its lowest-risk score.\n\nDeposits in these vaults have",
+    "url": "https://x.com/coinbureau/status/2106958054852034842"
   }
 ]
