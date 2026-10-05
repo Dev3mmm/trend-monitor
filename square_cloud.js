@@ -103,7 +103,14 @@ async function download(url, name) {
   return f;
 }
 
-function postToSquare(text, images) {
+function postToSquare(text, images, video) {
+  if (video) {
+    const r = spawnSync(process.execPath, [path.join('scripts', 'post-video.mjs'), '--video', video.file, '--duration', String(video.duration), '--text', text], { cwd: SKILL_DIR, env: { ...process.env, BINANCE_SQUARE_OPENAPI_KEY: KEY }, encoding: 'utf8', timeout: 300000 });
+    const out = `${r.stdout || ''}
+${r.stderr || ''}`;
+    if (r.status === 0) return { ok: true, id: (out.match(/ID:\s*(\S+)/) || [])[1], link: (out.match(/Link:\s*(\S+)/) || [])[1] };
+    log(`video post failed, falling back to image/text: ${out.trim().slice(-200).replace(KEY, '***')}`);
+  }
   const script = images.length ? 'post-image.mjs' : 'post-text.mjs';
   const args = [path.join('scripts', script), '--text', text];
   if (images.length) args.push('--images', images.slice(0, 4).join(','));
@@ -127,7 +134,7 @@ function postToSquare(text, images) {
     const origin = new Date(it.originTimestamp || it.ts).getTime();
     if (now - origin > MAX_ITEM_AGE_MS) continue;
     if (await isDuplicate(it.text, [...state.queue, ...state.posted])) { dups++; continue; }
-    state.queue.push({ text: it.text, url: it.url, images: (it.images || []).slice(0, 4), enqueuedAt: now });
+    state.queue.push({ text: it.text, url: it.url, images: (it.images || []).slice(0, 4), video: it.video || null, enqueuedAt: now });
     queued++;
   }
   state.seen = Array.from(seen).slice(-2000);
@@ -150,11 +157,21 @@ function postToSquare(text, images) {
     const imgs = [];
     for (const [i, u] of (item.images || []).entries()) { try { imgs.push(await download(u, `sq_${now}_${i}`)); } catch { /* post without it */ } }
 
+    let vid = null;
+    if (item.video?.url) {
+      try {
+        const vr = await fetch(item.video.url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+        const buf = Buffer.from(await vr.arrayBuffer());
+        if (vr.ok && buf.length < 45 * 1024 * 1024) { fs.mkdirSync(TMP_DIR, { recursive: true }); const f = path.join(TMP_DIR, `sq_${now}.mp4`); fs.writeFileSync(f, buf); vid = { file: f, duration: item.video.duration }; }
+      } catch { /* fall back to thumbnail */ }
+      if (!vid && item.video.thumb && !imgs.length) { try { imgs.push(await download(item.video.thumb, `sq_${now}_t`)); } catch { /* text only */ } }
+    }
+
     if (DRY || !KEY) {
       await telegram(`SQUARE PREVIEW (not posted: ${DRY ? 'dry run' : 'no key'}; ${imgs.length} img)\n\n${text}`);
       state.posted.push({ text: item.text, at: now, status: 'dryrun' });
     } else {
-      const r = postToSquare(text, imgs);
+      const r = postToSquare(text, imgs, vid);
       state.lastPostAt = now;
       state.posted.push({ text: item.text, at: now, status: r.ok ? 'posted' : 'failed', link: r.link, error: r.ok ? undefined : r.error });
       await telegram(r.ok ? `POSTED to Binance Square (${imgs.length} img)\n${r.link || r.id || ''}\n\n${text}` : `SQUARE POST FAILED: ${r.error}\n\n${text}`);

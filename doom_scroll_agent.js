@@ -428,7 +428,7 @@ async function processArticle(t, state, report) {
   );
   log(`CAUGHT #${candidateId} from ${t.author} (origin age ~${t.originAgeMinutes}m): ${reason}`);
   report.caught.push({ author: t.author, ageMin: t.originAgeMinutes, reason, text: t.text, url: t.url });
-  appendDashboardLog({ status: 'caught', candidateId, author: t.author, ageMin: t.originAgeMinutes, originTimestamp: t.originTimestamp, reason, text: t.text, url: t.url });
+  appendDashboardLog({ status: 'caught', candidateId, author: t.author, ageMin: t.originAgeMinutes, originTimestamp: t.originTimestamp, reason, text: t.text, url: t.url, images: t.images || [], video: t.video || null });
   return candidate;
 }
 

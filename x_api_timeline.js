@@ -59,7 +59,19 @@ async function fetchHomeLatest(opts = {}) {
     const rtl = rt?.tweet?.legacy || rt?.legacy;
     const fullText = (rtl ? rtl.full_text : legacy.full_text) || '';
     const origin = originTime(legacy, tw);
+    const mediaList = (rtl?.extended_entities?.media || legacy.extended_entities?.media || []);
+    const images = mediaList.filter((m) => m.type === 'photo').map((m) => m.media_url_https).filter(Boolean).slice(0, 4);
+    let video = null;
+    const vm = mediaList.find((m) => m.type === 'video' || m.type === 'animated_gif');
+    if (vm) {
+      const mp4 = (vm.video_info?.variants || []).filter((v) => v.content_type === 'video/mp4').sort((a, b) => (b.bitrate || 0) - (a.bitrate || 0));
+      // best quality that stays small enough for Square; GIFs are a single mp4 with no bitrate
+      const pick = mp4.find((v) => (v.bitrate || 0) <= 2200000) || mp4[mp4.length - 1];
+      if (pick) video = { url: pick.url, duration: Math.max(1, Math.round((vm.video_info?.duration_millis || 3000) / 1000)), gif: vm.type === 'animated_gif', thumb: vm.media_url_https };
+    }
     out.push({
+      images,
+      video,
       id: legacy.id_str || tw.rest_id,
       text: fullText.replace(/https:\/\/t\.co\/\w+/g, '').trim(),
       author: name,
