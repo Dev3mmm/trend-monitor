@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791063884879-enwvt2",
-    "source": "x",
-    "ts": "2026-10-03T21:44:44.879Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 68,
-    "originTimestamp": "2026-10-03T20:36:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Founder profile: @SergeyNazarov \n\nMeet the living genius behind the biggest infrastructure platform in all of crypto, @Chainlink $LINK ⬇️",
-    "url": "https://x.com/BSCNews/status/2106483426958118952"
-  },
-  {
     "id": "x-1791063889271-nemr1q",
     "source": "x",
     "ts": "2026-10-03T21:44:49.271Z",
@@ -6740,5 +6727,19 @@
     "reason": "Single day of activity for a launched ETF is notable.",
     "text": "Spot TRX ETF sees just one day of activity since September 10 launch.\n\nSince launching in early September, Canary's spot @trondao ETF in the US has seen just a single day of activity, clocking +$491K in net inflows on September 15.\n\nSince then, it has recorded $0 of",
     "url": "https://x.com/BSCNews/status/2106916027602788449"
+  },
+  {
+    "id": "x-1791163925352-ykpczh",
+    "source": "x",
+    "ts": "2026-10-05T01:32:05.352Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T01:30:53.000Z",
+    "reason": "Specific on-chain upgrade activation on testnet.",
+    "text": "🔥 UPDATE: Zcash activates its NU7 network upgrade on testnet at block height 4,465,026.",
+    "url": "https://x.com/Cointelegraph/status/2106920027890884662"
   }
 ]
