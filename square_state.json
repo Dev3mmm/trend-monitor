@@ -787,15 +787,10 @@
     "x-1791142340308-2h5r61",
     "x-1791148960391-agj6gg",
     "x-1791149549087-pazw2w",
-    "x-1791154918457-5ircng"
+    "x-1791154918457-5ircng",
+    "x-1791158499291-ki0p3z"
   ],
   "queue": [
-    {
-      "text": "JUST IN: $86,000 Bitcoin 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2106856091149574370",
-      "images": [],
-      "enqueuedAt": 1791148960445
-    },
     {
       "text": "⚡ FLOW: BASE has seen $4.7B in Net Inflows since January 1st.",
       "url": "https://x.com/Cointelegraph/status/2106859630097776805",
@@ -807,6 +802,12 @@
       "url": "https://x.com/BSCNews/status/2106880795331739765",
       "images": [],
       "enqueuedAt": 1791154918516
+    },
+    {
+      "text": "SEC Commissioner Hester Peirce: Strict Regulation Ended Up Favoring \"Useless\" Meme Coins\n\nOutgoing U.S. SEC Commissioner Hester Peirce  @HesterPeirce  said in a September 27 interview with @scottmelker  that people's right to protect their financial privacy should be respected.",
+      "url": "https://x.com/WuBlockchain/status/2106897159220326496",
+      "images": [],
+      "enqueuedAt": 1791158499333
     }
   ],
   "posted": [
@@ -995,6 +996,12 @@
       "at": 1791135710976,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/373737563162808?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: $86,000 Bitcoin 🚀",
+      "at": 1791158499333,
+      "status": "skipped",
+      "reason": "paraphrase length 45 out of range"
     }
   ],
   "lastPostAt": 1791135710976
