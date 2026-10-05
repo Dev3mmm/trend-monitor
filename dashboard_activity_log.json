@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791078718566-dlq4ob",
-    "source": "x",
-    "ts": "2026-10-04T01:51:58.566Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-04T01:30:54.000Z",
-    "reason": "Notable reaction from a high-profile figure in the crypto space about market conditions.",
-    "text": "🔥 JUST IN: ARK's Cathie Wood fires back at Bill Ackman's inflation warning, saying the 10-year Treasury yield is sitting right at its historical median while AI inference costs are collapsing 99.99% a year.",
-    "url": "https://x.com/Cointelegraph/status/2106557642072101046"
-  },
-  {
-    "id": "x-1791078720864-uo9aph",
-    "source": "x",
-    "ts": "2026-10-04T01:52:00.864Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 37,
-    "originTimestamp": "2026-10-04T01:15:00.000Z",
-    "reason": "Notable institutional move impacting bond markets.",
-    "text": "🚨LATEST: Sumitomo Mitsui DS reportedly EXITED its entire position in French government bonds, rotating into German Bunds and short-term Japanese debt.\n\nThis wasn’t a trim. It was a full exit.\n\nFrance’s 10-year spread over Germany has reportedly surged past 140 basis points,",
-    "url": "https://x.com/coinbureau/status/2106553639703834952"
-  },
-  {
     "id": "x-1791078723157-om8mux",
     "source": "x",
     "ts": "2026-10-04T01:52:03.157Z",
@@ -7152,5 +7124,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107120644143890432/img/jUJf1v9eVbO7GMom.jpg"
     }
+  },
+  {
+    "id": "x-1791225962038-ovf4rl",
+    "source": "x",
+    "ts": "2026-10-05T18:46:02.038Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-05T18:40:53.000Z",
+    "reason": "Chainlink's alignment with regulatory push highlights the crypto industry's growing relevance to traditional financial institutions.",
+    "text": "🚨 JUST IN: Chainlink welcomes the CFTC’s push for clear crypto market rules, including its consideration of oracles and proof of reserve.",
+    "url": "https://x.com/Cointelegraph/status/2107179232661053568",
+    "images": [
+      "https://pbs.twimg.com/media/HT40V24XYAAYt8g.jpg",
+      "https://pbs.twimg.com/media/HT40WDEWYAAZpGa.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791225966338-i4x4mk",
+    "source": "x",
+    "ts": "2026-10-05T18:46:06.338Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-05T18:40:48.000Z",
+    "reason": "No notable move in ETH within its recent range.",
+    "text": "It is your duty to be rational, and truthful.\n\nLies are for boys, and women.\n\nThey lie all the time, to avoid being accountable.\n\nTruth, no matter how painful, should be told.",
+    "url": "https://x.com/amerix/status/2107179214856200214"
   }
 ]
