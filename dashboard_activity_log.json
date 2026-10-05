@@ -1,46 +1,5 @@
 [
   {
-    "id": "x-1791068562797-r8vvid",
-    "source": "x",
-    "ts": "2026-10-03T23:02:42.797Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 31,
-    "originTimestamp": "2026-10-03T22:30:43.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🇺🇸 BLOOMBERG: Treasury Secretary Scott Bessent just brushed off AI bubble fears and 10-year yields hitting their highest since 2002.\n\nHe says that the rise was in line with global trends. \n\nWhere do we go from here?",
-    "url": "https://x.com/Cointelegraph/status/2106512299255091514"
-  },
-  {
-    "id": "x-1791068568442-3u5xgc",
-    "source": "x",
-    "ts": "2026-10-03T23:02:48.442Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 75,
-    "originTimestamp": "2026-10-03T21:47:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Aster has now made nearly HALF A BILLION DOLLARS in fees.\n\nAccording to DefiLlama data, the @Aster_DEX perps platform has now generated approximately $479M in protocol fees since launching around one year ago.\n\nAster is now the industry's undisputed #2 perps DEX after",
-    "url": "https://x.com/BSCNews/status/2106501294844166320"
-  },
-  {
-    "id": "x-1791068572307-n1ejnp",
-    "source": "x",
-    "ts": "2026-10-03T23:02:52.307Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Cointelegraph",
-    "ageMin": 91,
-    "originTimestamp": "2026-10-03T21:30:43.000Z",
-    "reason": "On-chain data point exceeding a significant threshold.",
-    "text": "⚡ BIG: Solana just posted a record 8.92B successful non-vote transactions in Q3.",
-    "url": "https://x.com/Cointelegraph/status/2106497198754001301"
-  },
-  {
     "id": "x-1791068575529-cyov5j",
     "source": "x",
     "ts": "2026-10-03T23:02:55.529Z",
@@ -6748,5 +6707,55 @@
     "reason": "Potential ETF launch for INJ could signal institutional interest.",
     "text": "Injective ETFs Could Arrive Before 2027\n\nInjective (@injective) CEO Eric Chen (@ericinjective) expects U.S. ETFs tied to INJ to launch sooner than 2027.\n\nTwo applications are already progressing, including the 21Shares Injective ETF and Canary Staked INJ ETF.\n\nBoth issuers",
     "url": "https://x.com/BSCNews/status/2107044445967524298"
+  },
+  {
+    "id": "x-1791194530793-kwtd8q",
+    "source": "x",
+    "ts": "2026-10-05T10:02:10.793Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T10:01:09.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🚨 UPDATE: Nvidia’s $20B Groq deal faces a shareholder lawsuit alleging the transaction unfairly favored executives, per FT.",
+    "url": "https://x.com/Cointelegraph/status/2107048440077205728",
+    "images": [
+      "https://pbs.twimg.com/media/HT29YguW4AEg8aP.png",
+      "https://pbs.twimg.com/media/HT29Y3IWIAE0TBX.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791194534855-cieqqb",
+    "source": "x",
+    "ts": "2026-10-05T10:02:14.855Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-05T09:59:41.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Weekly Market Watch 🗓️\n\n• FOMC Minutes \n• U.S. ISM Services PMI\n• Michigan Consumer Sentiment\n\nMarkets move 24/7.\n\n👉",
+    "url": "https://x.com/binance/status/2107048068067856819"
+  },
+  {
+    "id": "x-1791194539953-c7f9u8",
+    "source": "x",
+    "ts": "2026-10-05T10:02:19.953Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-05T09:56:06.000Z",
+    "reason": "Notable institutional investment in crypto bonds.",
+    "text": "Plume Launches Tokenized Bond Vault Backed by Fidelity Total Bond ETF  \n\nPlume has launched nBND, a tokenized vault backed primarily by Fidelity Total Bond ETF (FBND). The product is designed to give on-chain allocators exposure to a broader fixed-income portfolio beyond",
+    "url": "https://x.com/WuBlockchain/status/2107047168876191833",
+    "images": [
+      "https://pbs.twimg.com/media/HT28N32awAAf4pv.jpg"
+    ],
+    "video": null
   }
 ]
