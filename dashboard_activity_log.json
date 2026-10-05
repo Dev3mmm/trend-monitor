@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791068575529-cyov5j",
-    "source": "x",
-    "ts": "2026-10-03T23:02:55.529Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 118,
-    "originTimestamp": "2026-10-03T21:04:21.000Z",
-    "reason": "No notable move or newsworthy event mentioned.",
-    "text": "touch grass ↻ watch charts ↻",
-    "url": "https://x.com/binance/status/2106490564455612866"
-  },
-  {
     "id": "x-1791069152126-t96l6s",
     "source": "x",
     "ts": "2026-10-03T23:12:32.126Z",
@@ -6757,5 +6744,26 @@
       "https://pbs.twimg.com/media/HT28N32awAAf4pv.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791195158484-ghl739",
+    "source": "x",
+    "ts": "2026-10-05T10:12:38.484Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-05T10:02:47.000Z",
+    "reason": "Noteworthy SEC approval for a Bitcoin futures-based ETF.",
+    "text": "Bitcoin Got a New 3x ETF\n\nThe SEC has approved Cboe BZX’s listing of a 3x Bitcoin futures product sponsored by Volatility Shares.\n\nThe fund targets three times the daily performance of its bitcoin futures benchmark. \n\nA 1% bitcoin futures gain could produce a targeted 3% gain",
+    "url": "https://x.com/BSCNews/status/2107048850649497989",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107045763532636160/vid/avc1/1280x720/vXzWVHJKtdmWSY1G.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107045763532636160/img/6QT056RPLjtwgCyY.jpg"
+    }
   }
 ]
