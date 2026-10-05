@@ -1,19 +1,5 @@
 [
   {
-    "id": "x-1791063889271-nemr1q",
-    "source": "x",
-    "ts": "2026-10-03T21:44:49.271Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 73,
-    "originTimestamp": "2026-10-03T20:30:46.000Z",
-    "reason": "Notable ETH price movement since the beginning of October.",
-    "text": "📊 MARKET: $ETH waiting to unstake jumped 392% since the beginning of October.",
-    "url": "https://x.com/Cointelegraph/status/2106482110340997144"
-  },
-  {
     "id": "x-1791063894428-27l4hh",
     "source": "x",
     "ts": "2026-10-03T21:44:54.428Z",
@@ -6741,5 +6727,19 @@
     "reason": "Specific on-chain upgrade activation on testnet.",
     "text": "🔥 UPDATE: Zcash activates its NU7 network upgrade on testnet at block height 4,465,026.",
     "url": "https://x.com/Cointelegraph/status/2106920027890884662"
+  },
+  {
+    "id": "x-1791164524506-dhrjui",
+    "source": "x",
+    "ts": "2026-10-05T01:42:04.506Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-05T01:35:08.000Z",
+    "reason": "Notifiable regulatory change affecting cross-border crypto transfers.",
+    "text": "Binance to Block Brazil Cross-Border Crypto Transfers From Nov. 1 Without Purpose and Counterparty Details\n\nBinance will require Brazilian users to disclose the purpose and counterparty of cross-border crypto transfers from Nov. 1, CryptoSlate reported. Withdrawals cannot be",
+    "url": "https://x.com/WuBlockchain/status/2106921093533663615"
   }
 ]
