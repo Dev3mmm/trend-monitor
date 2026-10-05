@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791086564190-yvjv9g",
-    "source": "x",
-    "ts": "2026-10-04T04:02:44.190Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 27,
-    "originTimestamp": "2026-10-04T03:35:00.000Z",
-    "reason": "Notable new use of a token/stablecoin by Sui Network.",
-    "text": "Sui Network flexes zero fee stablecoin transfers.\n\nAccording to @EmanAbio, @SuiNetwork remains the only major L1 blockchain offering zero-gas stablecoin transfers to end users.\n\nThe Sui Network account itself backed this up, reminding that it costs $0 to move 1,000,000 of its own",
-    "url": "https://x.com/BSCNews/status/2106588872226349428"
-  },
-  {
-    "id": "x-1791086567677-vau5l2",
-    "source": "x",
-    "ts": "2026-10-04T04:02:47.677Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 30,
-    "originTimestamp": "2026-10-04T03:32:48.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🚨JUST IN: A 60-year-old Hong Kong woman LOST about 2.7 MILLION in a crypto investment SCAM after meeting someone online who claimed to be an investment expert.\n\nShe was directed to a fake crypto investment platform and transferred funds multiple times between April 14 and",
-    "url": "https://x.com/coinbureau/status/2106588320931389589"
-  },
-  {
     "id": "x-1791086569959-orms8q",
     "source": "x",
     "ts": "2026-10-04T04:02:49.959Z",
@@ -7279,5 +7251,45 @@
     "reason": "No notable crypto-specific news.",
     "text": "🚨BREAKING: The Nasdaq 100 is now up more than 150% since Michael Burry warned investors to sell in January 2023.\n\nIt closed at a historic high of 31,076 today, its second record close in a row.",
     "url": "https://x.com/coinbureau/status/2107235744150598063"
+  },
+  {
+    "id": "x-1791240727500-pmmai5",
+    "source": "x",
+    "ts": "2026-10-05T22:52:07.500Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T22:50:41.000Z",
+    "reason": "Specific institutional activity related to a crypto product.",
+    "text": "⚡️ JUST IN: Grayscale files an 8-K with the SEC for a Hyperliquid staking ETF.",
+    "url": "https://x.com/Cointelegraph/status/2107242097677922766",
+    "images": [
+      "https://pbs.twimg.com/media/HT5thBbXAAAg1GY.jpg",
+      "https://pbs.twimg.com/media/HT5thSXXkAAi_By.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791240732739-kob45q",
+    "source": "x",
+    "ts": "2026-10-05T22:52:12.739Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-05T22:47:00.000Z",
+    "reason": "New use of a token/collectibles platform generating significant revenue.",
+    "text": "Collectibles trading on Solana is exploding.\n\nTokenised collectibles platform @Collector_Crypt generated a staggering $4.5M in revenue in the past week - More than major platforms like @worldlibertyfi and @Paxos.\n\nThe platform allows users to easily buy and sell RWA tokensied",
+    "url": "https://x.com/BSCNews/status/2107241170220818751",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107035377726902272/vid/avc1/1312x720/XIgHjCL5GGM1spEL.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107035377726902272/img/ZpQVo4lquU8hljuM.jpg"
+    }
   }
 ]
