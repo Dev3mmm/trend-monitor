@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791073347959-6q811i",
-    "source": "x",
-    "ts": "2026-10-04T00:22:27.959Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Michael Saylor",
-    "ageMin": 81,
-    "originTimestamp": "2026-10-03T23:00:36.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Digital Credit built on Bitcoin opens a new chapter in the history of finance. $STRC",
-    "url": "https://x.com/saylor/status/2106519818388095074"
-  },
-  {
-    "id": "x-1791073351257-ufxxx7",
-    "source": "x",
-    "ts": "2026-10-04T00:22:31.257Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 87,
-    "originTimestamp": "2026-10-03T22:55:00.000Z",
-    "reason": "Notable DeFi milestone and institutional recognition.",
-    "text": "DeFi on Canton Network is growing...\n\nThe @CantonNetwork-based trading platform that is @Cantex_io has announced reaching the $300M volume milestone. \n\nLaunched only this year, the platform reiterated its goal to become \"the premier AMM venue\" on Canton.",
-    "url": "https://x.com/BSCNews/status/2106518407416098839"
-  },
-  {
     "id": "x-1791073354818-h4vjte",
     "source": "x",
     "ts": "2026-10-04T00:22:34.818Z",
@@ -6932,5 +6904,39 @@
       "https://pbs.twimg.com/media/HT3vq5IakAA4KeB.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791208943447-sic87f",
+    "source": "x",
+    "ts": "2026-10-05T14:02:23.447Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-05T14:00:15.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "4-Year Cycle Bottom, Pump Flips Hype,  Poly Token + Navigating the Trenches",
+    "url": "https://x.com/DecryptMedia/status/2107108609117310976"
+  },
+  {
+    "id": "x-1791208949272-17my8v",
+    "source": "x",
+    "ts": "2026-10-05T14:02:29.272Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-05T13:54:00.000Z",
+    "reason": "Integration with Ondo Finance adds liquidity and composability for institutional debt pools.",
+    "text": "Ondo Finance Facilitates Saturn’s Major Upgrade\n\nSaturn (@saturn_credit), a decentralized private credit protocol, upgrades to sUSDat V2 by integrating with @Ondo Finance, adding 24/7 liquidity, real-time pricing, and composability for institutional debt pools.\n\nWith the STRCon",
+    "url": "https://x.com/BSCNews/status/2107107036328841596",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107103641429532672/vid/avc1/1316x720/NayWk67fGb_Famcw.mp4?tag=29",
+      "duration": 30,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107103641429532672/img/6PHG82FJvNUdZ3su.jpg"
+    }
   }
 ]
