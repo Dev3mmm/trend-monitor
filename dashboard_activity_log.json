@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1791070353492-3lwjmp",
-    "source": "x",
-    "ts": "2026-10-03T23:32:33.492Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 37,
-    "originTimestamp": "2026-10-03T22:55:00.000Z",
-    "reason": "DeFi platform reaches significant volume milestone.",
-    "text": "DeFi on Canton Network is growing...\n\nThe @CantonNetwork-based trading platform that is @Cantex_io has announced reaching the $300M volume milestone. \n\nLaunched only this year, the platform reiterated its goal to become \"the premier AMM venue\" on Canton.",
-    "url": "https://x.com/BSCNews/status/2106518407416098839"
-  },
-  {
-    "id": "x-1791070357996-rejzg6",
-    "source": "x",
-    "ts": "2026-10-03T23:32:37.996Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 61,
-    "originTimestamp": "2026-10-03T22:30:43.000Z",
-    "reason": "No notable crypto news or event mentioned.",
-    "text": "🇺🇸 BLOOMBERG: Treasury Secretary Scott Bessent just brushed off AI bubble fears and 10-year yields hitting their highest since 2002.\n\nHe says that the rise was in line with global trends. \n\nWhere do we go from here?",
-    "url": "https://x.com/Cointelegraph/status/2106512299255091514"
-  },
-  {
-    "id": "x-1791070363722-nbz5ps",
-    "source": "x",
-    "ts": "2026-10-03T23:32:43.722Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 105,
-    "originTimestamp": "2026-10-03T21:47:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Aster has now made nearly HALF A BILLION DOLLARS in fees.\n\nAccording to DefiLlama data, the @Aster_DEX perps platform has now generated approximately $479M in protocol fees since launching around one year ago.\n\nAster is now the industry's undisputed #2 perps DEX after",
-    "url": "https://x.com/BSCNews/status/2106501294844166320"
-  },
-  {
-    "id": "x-1791070917580-nrai6l",
-    "source": "x",
-    "ts": "2026-10-03T23:41:57.580Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-03T23:30:55.000Z",
-    "reason": "Noise: vague opinion with no factual claim.",
-    "text": "🚨 JUST IN: The OpenAI employee who led safety reports for its major launches just quit, saying the company's \"culture is broken.\"",
-    "url": "https://x.com/Cointelegraph/status/2106527447655084170"
-  },
-  {
     "id": "x-1791070919889-yse9rv",
     "source": "x",
     "ts": "2026-10-03T23:41:59.889Z",
@@ -6795,5 +6741,76 @@
     "reason": "No notable move or specific event is described.",
     "text": "With this, Bitcoin's next halving event should take place around April 16, 2028.\n\nA halving reduces the Bitcoin rewards miners receive for processing transactions and creating a block.\n\nA halving takes place about once every four years (or every 210,000 blocks).\n\nIt helps slow",
     "url": "https://x.com/BSCNews/status/2107067287609967065"
+  },
+  {
+    "id": "x-1791199999433-k73j02",
+    "source": "x",
+    "ts": "2026-10-05T11:33:19.433Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-05T11:30:58.000Z",
+    "reason": "Notable institutional adoption with Bloomberg Terminal adding real-time tracking for a complex crypto derivative.",
+    "text": "🔥 BIG: Bloomberg Terminal adds real-time tracking for Hyperliquid perp quotes across multiple asset classes.",
+    "url": "https://x.com/Cointelegraph/status/2107071041944076392",
+    "images": [
+      "https://pbs.twimg.com/media/HT3R7l8X0AAe8eR.png",
+      "https://pbs.twimg.com/media/HT3R8LvXUAA99Dg.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791200003771-p99kbj",
+    "source": "x",
+    "ts": "2026-10-05T11:33:23.771Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 100,
+    "originTimestamp": "2026-10-05T09:52:51.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "I have two important updates to share with you today as we continue to build Metaplanet into a global financial platform rooted in Bitcoin.\n\nFrom the beginning, our strategy was never simply to accumulate Bitcoin. Our objective has been to build the leading Bitcoin financial",
+    "url": "https://x.com/saylor/status/2107070224109318498"
+  },
+  {
+    "id": "x-1791200009024-bb8srk",
+    "source": "x",
+    "ts": "2026-10-05T11:33:29.024Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-05T11:27:00.000Z",
+    "reason": "Specific institutional adoption of Bitcoin by a major corporation.",
+    "text": "JUST IN: 🇯🇵 Japan's Metaplanet announces a net increase of 1,000 Bitcoin worth $86 million in Q3 🚀\n\nThey just became the 2nd-largest corporate BTC holder on Earth 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2107070045054533692",
+    "images": [
+      "https://pbs.twimg.com/media/HT3QtryWoAAPdhr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791200016438-7doc44",
+    "source": "x",
+    "ts": "2026-10-05T11:33:36.438Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-05T11:24:39.000Z",
+    "reason": "$ADA has surged 11% in the past 24 hours, which is a notable move given its recent trading range.",
+    "text": "Cardano is the top gainer in Crypto's top 100 list\n\n@Cardano's $ADA token is trending today. \n\nAccording to CoinGecko, the asset is the top gainer among crypto's top 100 by market cap. \n\n$ADA has surged 11% in the past 24 hours, ahead of other top assets, with @Ethen's $ENA,",
+    "url": "https://x.com/BSCNews/status/2107069451040407648",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107068722452070400/vid/avc1/1316x720/Ji2HH9j1M7ZNeLxt.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107068722452070400/img/2BOIoOnQEDBBpheQ.jpg"
+    }
   }
 ]
