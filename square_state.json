@@ -831,21 +831,12 @@
     "x-1791197544799-zrm9yh",
     "x-1791198114341-sn98he",
     "x-1791198116435-7zazb0",
-    "x-1791199338845-vxijq2"
+    "x-1791199338845-vxijq2",
+    "x-1791199999433-k73j02",
+    "x-1791200009024-bb8srk",
+    "x-1791200016438-7doc44"
   ],
   "queue": [
-    {
-      "text": "🇸🇬 UPDATE: Payward partners with Singapore Gulf Bank to enable 24/7 institutional settlement across Asia and the Gulf.",
-      "url": "https://x.com/Cointelegraph/status/2107025732132036807",
-      "images": [],
-      "enqueuedAt": 1791189129424
-    },
-    {
-      "text": "🔥 UPDATE: Adam Back says Bitcoin’s 200-week moving average has crossed $66K.",
-      "url": "https://x.com/Cointelegraph/status/2107033322782101506",
-      "images": [],
-      "enqueuedAt": 1791190959521
-    },
     {
       "text": "🔥 BULLISH: Japan’s Remixpoint adds 7.45 $BTC, bringing total holdings to 1,508.72 $BTC.",
       "url": "https://x.com/Cointelegraph/status/2107040835225137483",
@@ -919,6 +910,25 @@
       "images": [],
       "video": null,
       "enqueuedAt": 1791199348029
+    },
+    {
+      "text": "🔥 BIG: Bloomberg Terminal adds real-time tracking for Hyperliquid perp quotes across multiple asset classes.",
+      "url": "https://x.com/Cointelegraph/status/2107071041944076392",
+      "images": [
+        "https://pbs.twimg.com/media/HT3R7l8X0AAe8eR.png",
+        "https://pbs.twimg.com/media/HT3R8LvXUAA99Dg.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1791200016498
+    },
+    {
+      "text": "JUST IN: 🇯🇵 Japan's Metaplanet announces a net increase of 1,000 Bitcoin worth $86 million in Q3 🚀\n\nThey just became the 2nd-largest corporate BTC holder on Earth 👏",
+      "url": "https://x.com/BitcoinMagazine/status/2107070045054533692",
+      "images": [
+        "https://pbs.twimg.com/media/HT3QtryWoAAPdhr.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791200016498
     }
   ],
   "posted": [
@@ -1149,6 +1159,12 @@
       "at": 1791198119437,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/373993177188930?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 UPDATE: Adam Back says Bitcoin’s 200-week moving average has crossed $66K.",
+      "at": 1791200016498,
+      "status": "skipped",
+      "reason": "paraphrase added numbers not in source: 66,000"
     }
   ],
   "lastPostAt": 1791198119437
