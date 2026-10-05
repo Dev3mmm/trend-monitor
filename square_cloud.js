@@ -140,7 +140,7 @@ ${r.stderr || ''}`;
     queued++;
   }
   state.seen = Array.from(seen).slice(-2000);
-  state.queue = state.queue.filter((q) => now - q.enqueuedAt < MAX_ITEM_AGE_MS);
+  state.queue = state.queue.filter((q) => now - q.enqueuedAt < MAX_ITEM_AGE_MS && !/x\.com\/BSCNews\//i.test(q.url)); // also purge BSCNews items queued before the exclusion
   log(`new queued: ${queued}, duplicates dropped: ${dups}, waiting in queue: ${state.queue.length}`);
 
   // 2. post at most one item this run, respecting the gap and daily cap
