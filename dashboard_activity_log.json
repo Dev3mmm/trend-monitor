@@ -1,19 +1,5 @@
 [
   {
-    "id": "x-1791073960605-fy66bk",
-    "source": "x",
-    "ts": "2026-10-04T00:32:40.605Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Binance",
-    "ageMin": 31,
-    "originTimestamp": "2026-10-04T00:01:00.000Z",
-    "reason": "No notable move; price is within its recent range.",
-    "text": "The last bitcoin is expected to be mined around 2140.\n\nAfter that, miners won't earn new BTC, only transaction fees.\n\nHere's how Bitcoin was designed for that transition 👇",
-    "url": "https://x.com/binance/status/2106535019690787201"
-  },
-  {
     "id": "x-1791073965235-7sw1y2",
     "source": "x",
     "ts": "2026-10-04T00:32:45.235Z",
@@ -6945,6 +6931,27 @@
       "duration": 31,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107113920078954496/img/satgl-mWwSPWTeCs.jpg"
+    }
+  },
+  {
+    "id": "x-1791211315021-wwcnei",
+    "source": "x",
+    "ts": "2026-10-05T14:41:55.021Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-05T14:39:19.000Z",
+    "reason": "Notable institution adoption with institutional payment and cross-border remittance use cases.",
+    "text": "Kraken &amp; Bullish Add Sui Dollar to their ecosystem\n\nThe @Krakenfx and @Bullish exchanges now provide @SuiNetwork's USD-denominated stablecoin, Sui Dollar ($USDsui). \n\nThis stablecoin is built specifically for institutional payment and cross-border remittance use cases on Sui",
+    "url": "https://x.com/BSCNews/status/2107118441362575427",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107117834333487104/vid/avc1/1316x720/n5ZBMgLZmxdVWFAJ.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107117834333487104/img/DrJdRivMBNF4RaJF.jpg"
     }
   }
 ]
