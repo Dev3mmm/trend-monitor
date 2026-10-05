@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791073339324-r91ut0",
-    "source": "x",
-    "ts": "2026-10-04T00:22:19.324Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-04T00:01:00.000Z",
-    "reason": "No newsworthy information, just speculation about the end of Bitcoin mining.",
-    "text": "The last bitcoin is expected to be mined around 2140.\n\nAfter that, miners won't earn new BTC, only transaction fees.\n\nHere's how Bitcoin was designed for that transition 👇",
-    "url": "https://x.com/binance/status/2106535019690787201"
-  },
-  {
-    "id": "x-1791073342586-z32qgw",
-    "source": "x",
-    "ts": "2026-10-04T00:22:22.586Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 22,
-    "originTimestamp": "2026-10-04T00:00:01.000Z",
-    "reason": "No notable move or specific event related to financial privacy.",
-    "text": "SEC Commissioner Hester Peirce: Financial Privacy Should Be the Default\n\nOutgoing U.S. SEC Commissioner Hester Peirce @HesterPeirce  said in a September 27 interview with  @scottmelker   that people's right to protect their financial privacy should be respected. She noted that",
-    "url": "https://x.com/WuBlockchain/status/2106534769546727887"
-  },
-  {
-    "id": "x-1791073344762-7l8ymj",
-    "source": "x",
-    "ts": "2026-10-04T00:22:24.762Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 51,
-    "originTimestamp": "2026-10-03T23:30:55.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🚨 JUST IN: The OpenAI employee who led safety reports for its major launches just quit, saying the company's \"culture is broken.\"",
-    "url": "https://x.com/Cointelegraph/status/2106527447655084170"
-  },
-  {
     "id": "x-1791073347959-6q811i",
     "source": "x",
     "ts": "2026-10-04T00:22:27.959Z",
@@ -6918,5 +6879,58 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "LIVE: BTC Macro, MSTR Outlook, Ex-Fed Insider on Bitcoin | BMTV Oct. 05, 2026",
     "url": "https://x.com/BitcoinMagazine/status/2107100980844392844"
+  },
+  {
+    "id": "x-1791208351574-pz2tnq",
+    "source": "x",
+    "ts": "2026-10-05T13:52:31.574Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T13:50:36.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "ICYMI: Binance Intelligence Product Launch Livestream is now available to watch anytime.",
+    "url": "https://x.com/binance/status/2107106183131926666"
+  },
+  {
+    "id": "x-1791208356338-7uhiwm",
+    "source": "x",
+    "ts": "2026-10-05T13:52:36.338Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-05T13:44:49.000Z",
+    "reason": "Regulatory change impacting cryptocurrency enforcement",
+    "text": "The U.S. Treasury may have just ended the crypto controversy...  \n\nThe U.S. Department of the Treasury and FinCEN have officially withdrawn two administrative proposals that were fiercely criticized as attempts to impose intrusive surveillance requirements on self-custody crypto",
+    "url": "https://x.com/BSCNews/status/2107104726172958993",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107104024830877696/vid/avc1/1316x720/mPQ6mqB1u4MPSZQa.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107104024830877696/img/ej1chXC6SYaGJ0BZ.jpg"
+    }
+  },
+  {
+    "id": "x-1791208361532-qbsq9i",
+    "source": "x",
+    "ts": "2026-10-05T13:52:41.532Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-05T13:43:06.000Z",
+    "reason": "Notable regulatory action impacting cryptocurrency industry.",
+    "text": "🚨BREAKING: The U.S. Treasury and FinCEN WITHDRAW two major crypto proposals targeting self-custody and mixers.\n\n• “Unhosted Wallet” KYC rule\n• CVC mixing surveillance rule\n\nIf implemented, the rules could have significantly expanded reporting, record-keeping and transaction",
+    "url": "https://x.com/coinbureau/status/2107104295598633083",
+    "images": [
+      "https://pbs.twimg.com/media/HT3voU1bAAA8B5r.png",
+      "https://pbs.twimg.com/media/HT3vq5IakAA4KeB.png"
+    ],
+    "video": null
   }
 ]
