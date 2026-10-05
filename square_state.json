@@ -817,15 +817,10 @@
     "x-1791185556888-8o1384",
     "x-1791187956888-tk4ely",
     "x-1791187962993-244ozc",
-    "x-1791189125263-3qho13"
+    "x-1791189125263-3qho13",
+    "x-1791190955071-ypa8b0"
   ],
   "queue": [
-    {
-      "text": "🇺🇸 ETF FLOWS: BTC, SOL and XRP spot ETFs saw net inflows last week, while ETH spot ETFs saw net outflows.\n\nBTC: $241.09M\nETH: - $138.02M\nSOL: $2.43M\nXRP: $4.74M",
-      "url": "https://x.com/Cointelegraph/status/2106995533529104717",
-      "images": [],
-      "enqueuedAt": 1791181938442
-    },
     {
       "text": "Stellar’s DeFi TVL Hits a New Record \n\nStellar’s DeFi total value locked has reached a new all-time high of nearly $272 million.\n\nThe network now has roughly $934.5 million in stablecoin market capitalization.\n\nStellar also hosts about $2.82 billion in active real-world assets",
       "url": "https://x.com/BSCNews/status/2106999597273108815",
@@ -861,15 +856,15 @@
       "url": "https://x.com/Cointelegraph/status/2107025732132036807",
       "images": [],
       "enqueuedAt": 1791189129424
+    },
+    {
+      "text": "🔥 UPDATE: Adam Back says Bitcoin’s 200-week moving average has crossed $66K.",
+      "url": "https://x.com/Cointelegraph/status/2107033322782101506",
+      "images": [],
+      "enqueuedAt": 1791190959521
     }
   ],
   "posted": [
-    {
-      "text": "🇺🇸 UPDATE: Another rates hike this month is unlikely according to the CME Group as they set a 77.9% chance that rates remain unchanged.",
-      "at": 1791104532680,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/373609839180877?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "Arbitrum shattered revenue records in September.\n\nThe @arbitrum network saw a staggering $5M+ worth of chain revenue in September - the best month it has seen in history.\n\nThis equates to a 500% MoM increase, $ARB also having processed some 1.5B in additional transactions in 2026",
       "at": 1791106326002,
@@ -1091,7 +1086,13 @@
       "at": 1791190301942,
       "status": "skipped",
       "reason": "paraphrase added numbers not in source: 90,000"
+    },
+    {
+      "text": "🇺🇸 ETF FLOWS: BTC, SOL and XRP spot ETFs saw net inflows last week, while ETH spot ETFs saw net outflows.\n\nBTC: $241.09M\nETH: - $138.02M\nSOL: $2.43M\nXRP: $4.74M",
+      "at": 1791190959521,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/373963875082102?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791188525934
+  "lastPostAt": 1791190959521
 }
