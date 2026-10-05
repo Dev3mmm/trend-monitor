@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791071504462-ayhow4",
-    "source": "x",
-    "ts": "2026-10-03T23:51:44.462Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-03T23:30:55.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "🚨 JUST IN: The OpenAI employee who led safety reports for its major launches just quit, saying the company's \"culture is broken.\"",
-    "url": "https://x.com/Cointelegraph/status/2106527447655084170"
-  },
-  {
-    "id": "x-1791071508749-36rxpy",
-    "source": "x",
-    "ts": "2026-10-03T23:51:48.749Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 51,
-    "originTimestamp": "2026-10-03T23:00:36.000Z",
-    "reason": "New use of a token/stablecoin on a major cryptocurrency",
-    "text": "Digital Credit built on Bitcoin opens a new chapter in the history of finance. $STRC",
-    "url": "https://x.com/saylor/status/2106519818388095074"
-  },
-  {
     "id": "x-1791071513920-hr9a90",
     "source": "x",
     "ts": "2026-10-03T23:51:53.920Z",
@@ -6811,5 +6784,34 @@
     "reason": "Memes and jokes are not considered news.",
     "text": "It is always the FAT man in the supermarket queue with a large bottle of soda in his shopping basket and an envelope of omeprazole in his pocket.\n\nUNFAT.",
     "url": "https://x.com/amerix/status/2107071729352749362"
+  },
+  {
+    "id": "x-1791201737974-6syo0b",
+    "source": "x",
+    "ts": "2026-10-05T12:02:17.974Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T12:01:19.000Z",
+    "reason": "No notable move in crypto prices or adoption.",
+    "text": "🇸🇦 UPDATE: Aramco CEO Amin Nasser says global oil inventories are nearing “stress levels” and could take two years to replenish.",
+    "url": "https://x.com/Cointelegraph/status/2107078681092870531"
+  },
+  {
+    "id": "x-1791201740284-hpvfmm",
+    "source": "x",
+    "ts": "2026-10-05T12:02:20.284Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T12:01:06.000Z",
+    "reason": "USDC giveaway is a notable promotional move by Binance.",
+    "text": "Binance Intelligence: Product Launch Event | 5,000 USDC Giveaway",
+    "url": "https://x.com/binance/status/2107078626701369519",
+    "images": [],
+    "video": null
   }
 ]
