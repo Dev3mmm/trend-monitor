@@ -799,12 +799,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 NEW: S&amp;P Global Ratings rolls out a Vault Risk Assessment framework to evaluate the risks of onchain digital asset lending vaults, which now hold $10B in deposits.",
-      "url": "https://x.com/Cointelegraph/status/2106912484258988123",
-      "images": [],
-      "enqueuedAt": 1791162545449
-    },
-    {
       "text": "Spot TRX ETF sees just one day of activity since September 10 launch.\n\nSince launching in early September, Canary's spot @trondao ETF in the US has seen just a single day of activity, clocking +$491K in net inflows on September 15.\n\nSince then, it has recorded $0 of",
       "url": "https://x.com/BSCNews/status/2106916027602788449",
       "images": [],
@@ -830,12 +824,6 @@
     }
   ],
   "posted": [
-    {
-      "text": "Arbitrum still the #1 most-developed blockchain.\n\n@Arbitrum's development statistics for the past month make nearly every other chain seem abandoned.\n\nAccording to @chainspect_app data, $ARB has seen 14,032 developer commits in the last month.\n\nFor context, @Ethereum and @Cardano",
-      "at": 1791081157547,
-      "status": "skipped",
-      "reason": "paraphrase added numbers not in source: 1,409, 1,164"
-    },
     {
       "text": "The last bitcoin is expected to be mined around 2140.\n\nAfter that, miners won't earn new BTC, only transaction fees.\n\nHere's how Bitcoin was designed for that transition 👇",
       "at": 1791081846431,
@@ -1021,7 +1009,13 @@
       "at": 1791166308750,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/373862877441058?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NEW: S&amp;P Global Ratings rolls out a Vault Risk Assessment framework to evaluate the risks of onchain digital asset lending vaults, which now hold $10B in deposits.",
+      "at": 1791168109577,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/373870262483034?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791166308750
+  "lastPostAt": 1791168109577
 }
