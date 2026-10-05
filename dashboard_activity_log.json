@@ -1,19 +1,5 @@
 [
   {
-    "id": "x-1791063868977-o5yhfn",
-    "source": "x",
-    "ts": "2026-10-03T21:44:28.977Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-03T21:30:43.000Z",
-    "reason": "Significant on-chain data point with a notable transaction volume.",
-    "text": "⚡ BIG: Solana just posted a record 8.92B successful non-vote transactions in Q3.",
-    "url": "https://x.com/Cointelegraph/status/2106497198754001301"
-  },
-  {
     "id": "x-1791063872124-2k99ab",
     "source": "x",
     "ts": "2026-10-03T21:44:32.124Z",
@@ -6738,5 +6724,19 @@
     "reason": "Notable increase in Hedera stablecoin market cap far from major blockchains.",
     "text": "Hedera's stablecoin supply rips +71%.\n\n@Hedera's native stablecoin market cap has exploded in the past week, reaching a total of around $48M.\n\nThough it is still only the 39th largest chain by such metric, it is not far away from flipping well-known L1 blockchains like @Algorand,",
     "url": "https://x.com/BSCNews/status/2106898160136397041"
+  },
+  {
+    "id": "x-1791160352425-mbzego",
+    "source": "x",
+    "ts": "2026-10-05T00:32:32.425Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-05T00:30:59.000Z",
+    "reason": "Specific institutional move with regulatory impact.",
+    "text": "🇺🇸 JUST IN: Zcash-focused policy group Pretty Good Policy for Zcash has registered its first lobbyist, executive director Divij Pandya, per Punchbowl.",
+    "url": "https://x.com/Cointelegraph/status/2106904950097727965"
   }
 ]
