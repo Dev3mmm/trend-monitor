@@ -2186,5 +2186,47 @@
     "fetchedAt": "2026-10-05T15:32:37.791Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-1a90254a1fb3e3d4",
+    "title": "How native transaction assertions could enforce a transaction's final outcome",
+    "url": "https://blog.ethereum.org/en/2026/10/05/transaction-assertions",
+    "description": "The Ethereum Foundation's Trillion Dollar Security initiative has identified blind signing and transaction uncertainty as a user experience risk, and is exploring native transaction assertions as a next step to enforce a transaction’s final outcome, alongside Clear Signing. This post covers why a valid signature doesn't always guarantee the...",
+    "publishedAt": "2026-10-05T00:00:00.000Z",
+    "source": "Ethereum",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-05T15:42:10.385Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-25a6a1ed4b2d0b3c",
+    "title": "# 🇫🇷 Cardano Hebdo #002 — L’essentiel de l’écosystème | 5 octobre 2026",
+    "url": "https://forum.cardano.org/t/cardano-hebdo-002-l-essentiel-de-l-ecosysteme-5-octobre-2026/157208",
+    "description": "Cardano Hebdo #002 — L’essentiel de l’écosystème | 5 octobre 2026 Bonjour chère communauté Cardano Une nouvelle semaine, de nouvelles avancées dans l’écosystème. Pour ce deuxième numéro de Cardano Hebdo , j’ai retenu quelques actualités techniques, de gouvernance, d’adoption et aussi des opportunités à suivre. Voici l’essentiel 1. Cardano se prépare à Dijkstra Les préparatifs autour de Dijkstra co",
+    "publishedAt": "2026-10-05T15:35:11.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-10-05T15:42:12.257Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-12048f1f40cee0c0",
+    "title": "Why is ADA still weak despite the growing tokenization and CBDC narrative?",
+    "url": "https://forum.cardano.org/t/why-is-ada-still-weak-despite-the-growing-tokenization-and-cbdc-narrative/157210",
+    "description": "Why is ADA price so weak despite tokenization and CBDCs being major narratives for the next few years? Has Cardano missed out on partnerships in these areas? 1 post - 1 participant Read full topic",
+    "publishedAt": "2026-10-05T15:39:15.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-10-05T15:42:12.257Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
