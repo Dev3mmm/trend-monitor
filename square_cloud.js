@@ -80,14 +80,16 @@ function tidy(t) {
 }
 
 async function paraphrase(text) {
-  text = tidy(text);
+  text = tidy(text).replace(/\$([A-Za-z]{2,10})/g, '$1'); // $BTC is a coin, never a dollar price
   let out = await ollama(`Rewrite this crypto news tweet as a short news post of 2 to 3 sentences in your own words, for a news feed.
-Rules: keep every name, number, amount and date exactly as given; add no facts that are not in the tweet; neutral news tone; no emojis, no hashtags, no em dashes, no calls to buy or sell; do not mention the tweet or the account; output only the rewritten text.
+Rules: keep every name, number, amount and date exactly as given; amounts of a coin (e.g. 1,508 BTC) are quantities of that coin, never dollar prices, so never add USD, dollars, 'per' or any price; add no facts that are not in the tweet; neutral news tone; no emojis, no hashtags, no em dashes, no calls to buy or sell; do not mention the tweet or the account; output only the rewritten text.
 
 Tweet: """${text}"""`);
   out = out.replace(/\s*\n\s*/g, ' ').replace(/^["'\s]+|["'\s]+$/g, '').replace(/[—–]/g, '-');
   const src = new Set((text.match(/\d[\d,.]*/g) || []).map((n) => n.replace(/[,.]$/, '')));
   const bad = (out.match(/\d[\d,.]*/g) || []).map((n) => n.replace(/[,.]$/, '')).filter((n) => !src.has(n));
+  const money = (out.match(/(USD|dollars?|per [A-Z]{2,5})/gi) || []).filter((m) => !new RegExp(m, 'i').test(text));
+  if (money.length) throw new Error(`paraphrase added currency wording: ${money.join(', ')}`);
   if (bad.length) throw new Error(`paraphrase added numbers not in source: ${bad.join(', ')}`);
   if (out.length < 60 || out.length > 700) throw new Error(`paraphrase length ${out.length} out of range`);
   return out;
