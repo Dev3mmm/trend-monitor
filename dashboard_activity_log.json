@@ -1,19 +1,5 @@
 [
   {
-    "id": "x-1791072156752-now9zu",
-    "source": "x",
-    "ts": "2026-10-04T00:02:36.752Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Michael Saylor",
-    "ageMin": 61,
-    "originTimestamp": "2026-10-03T23:00:36.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Digital Credit built on Bitcoin opens a new chapter in the history of finance. $STRC",
-    "url": "https://x.com/saylor/status/2106519818388095074"
-  },
-  {
     "id": "x-1791072161861-nwnz68",
     "source": "x",
     "ts": "2026-10-04T00:02:41.861Z",
@@ -6837,5 +6823,26 @@
     "url": "https://x.com/BSCNews/status/2107079136699433138",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791202930220-dc0kfz",
+    "source": "x",
+    "ts": "2026-10-05T12:22:10.220Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-05T12:12:12.000Z",
+    "reason": "New Zcash support launch on THORChain is noteworthy.",
+    "text": "THORChain's Zcash support is just getting started...\n\nJust days ago, on October 2, the official $ZEC pool on @THORChain went live, with every THORChain node now watching the @Zcash blockchain directly.\n\nAccording to official communications, the $ZEC pool is in soft-launch phase,",
+    "url": "https://x.com/BSCNews/status/2107081417737863452",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107081255057588224/vid/avc1/1312x720/J_JicSKYAzrzIu1x.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107081255057588224/img/f6ggsWvH86gzxFw-.jpg"
+    }
   }
 ]
