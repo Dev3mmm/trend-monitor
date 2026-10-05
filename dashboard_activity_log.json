@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791072348533-6ci3oz",
-    "source": "x",
-    "ts": "2026-10-04T00:05:48.533Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-04T00:04:00.000Z",
-    "reason": "Arbitrum's development statistics highlight its strong development compared to other chains.",
-    "text": "Arbitrum still the #1 most-developed blockchain.\n\n@Arbitrum's development statistics for the past month make nearly every other chain seem abandoned.\n\nAccording to @chainspect_app data, $ARB has seen 14,032 developer commits in the last month.\n\nFor context, @Ethereum and @Cardano",
-    "url": "https://x.com/BSCNews/status/2106535772279255166"
-  },
-  {
-    "id": "x-1791072352922-r9qtel",
-    "source": "x",
-    "ts": "2026-10-04T00:05:52.922Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-04T00:01:00.000Z",
-    "reason": "No notable move in Bitcoin's price or specific event mentioned.",
-    "text": "The last bitcoin is expected to be mined around 2140.\n\nAfter that, miners won't earn new BTC, only transaction fees.\n\nHere's how Bitcoin was designed for that transition 👇",
-    "url": "https://x.com/binance/status/2106535019690787201"
-  },
-  {
     "id": "x-1791072357911-i1zhl5",
     "source": "x",
     "ts": "2026-10-04T00:05:57.911Z",
@@ -6845,5 +6818,47 @@
     "url": "https://x.com/coinbureau/status/2107085973335195991",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791204141800-kh5cf4",
+    "source": "x",
+    "ts": "2026-10-05T12:42:21.800Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-05T12:35:59.000Z",
+    "reason": "No notable news as the price is not specified.",
+    "text": "Internet Computer Monthly Onchain Revenue Hits Record Milestone\n\nInternet Computer (@dfinity) set a new performance benchmark after monthly onchain revenue exceeded $360,000 on October 4, 2026.\n\nLive data shows a consistent 1.10% daily increase, driven by growing use of “cycles”",
+    "url": "https://x.com/BSCNews/status/2107087405782044784",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107087229571010560/vid/avc1/1316x720/HDJCroFG66MCJujz.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107087229571010560/img/8-Ep1csrGCTallvF.jpg"
+    }
+  },
+  {
+    "id": "x-1791204145544-2861ul",
+    "source": "x",
+    "ts": "2026-10-05T12:42:25.544Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-05T12:33:47.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "⚠️ When crypto looks too good to be true... It often is.\n\nYield is one of the smartest ways to earn passive income in crypto, but not all yield pools are built equal - Some carry serious risk.\n\nThat's why @ElanInsights built its 'Risk Analyzer' tool.\n\nSign up now:",
+    "url": "https://x.com/BSCNews/status/2107086848514289972",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107086694239371264/vid/avc1/1312x720/RVfGlNnKK9UL3lsd.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107086694239371264/img/_J9SoHfBGXXfzBMj.jpg"
+    }
   }
 ]
