@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791094341313-mtcd0p",
-    "source": "x",
-    "ts": "2026-10-04T06:12:21.313Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-04T05:56:00.000Z",
-    "reason": "No notable move, no specific price mentioned or provided.",
-    "text": "It's not a coincidence that @Ethena's $USDe is bigger than every single stablecoin outside of @Tether and @Circle.\n\nHere's what's made it so successful... ⬇️",
-    "url": "https://x.com/BSCNews/status/2106624356461756676"
-  },
-  {
-    "id": "x-1791094345546-wkrah3",
-    "source": "x",
-    "ts": "2026-10-04T06:12:25.546Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 41,
-    "originTimestamp": "2026-10-04T05:30:56.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🔥 HUGE: If you'd bought Bitcoin instead of the new iPhone every year since 2016, your $7,590 would be worth about $137K today.",
-    "url": "https://x.com/Cointelegraph/status/2106618046919954627"
-  },
-  {
     "id": "x-1791094350344-jkndd7",
     "source": "x",
     "ts": "2026-10-04T06:12:30.344Z",
@@ -7521,5 +7495,39 @@
       "https://pbs.twimg.com/media/HT8RaXYaoAAkzpY.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791284578473-4uvk1c",
+    "source": "x",
+    "ts": "2026-10-06T11:02:58.473Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-06T11:00:58.000Z",
+    "reason": "No notable move in BTC/ETH prices or significant institutional events.",
+    "text": "🔥 INTERESTING: Satoshi controls 1.096M $BTC worth $92B, while Binance holds the largest individual $BTC wallet with nearly 250K $BTC, per Arkham.",
+    "url": "https://x.com/Cointelegraph/status/2107425879202594897"
+  },
+  {
+    "id": "x-1791284583412-rp189q",
+    "source": "x",
+    "ts": "2026-10-06T11:03:03.412Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-06T10:59:46.000Z",
+    "reason": "Notable institutional use of blockchain for private market finance.",
+    "text": "Ondo Finance is Bringing Private Companies Onchain\n\n@Ondo Finance announces Ondo Private Markets, bringing an institutional structure for tokenized exposure to the private tech economy.\n\nThe platform will introduce its first secondary trading for tokenized notes backed by a",
+    "url": "https://x.com/BSCNews/status/2107425579137929609",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107425497466482688/vid/avc1/1316x720/N_1Wh0TjyKhu0J6L.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107425497466482688/img/N3HtA0Gt0y9z8uR8.jpg"
+    }
   }
 ]
