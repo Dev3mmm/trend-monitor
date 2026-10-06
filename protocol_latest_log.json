@@ -2300,5 +2300,19 @@
     "fetchedAt": "2026-10-06T09:22:15.403Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-ae564e6b7f0396cb",
+    "title": "Developers Office Hours #82: Meet Blaster (09 October)",
+    "url": "https://forum.cardano.org/t/developers-office-hours-82-meet-blaster-09-october/157219",
+    "description": "Can You Prove Your Smart Contract Is Correct? Meet Blaster - a tool for automated formal verification of Cardano smart contracts. Join Romain Soulat and Jean-Frédéric Etienne from IOG to see how Blaster can automatically prove that a contract meets its specification - or produce a concrete counterexample when it doesn’t. We’ll explore: • Lean 4 & automated proofs • UPLC, CEK & ledger formalization",
+    "publishedAt": "2026-10-06T11:32:33.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-10-06T11:32:36.596Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
