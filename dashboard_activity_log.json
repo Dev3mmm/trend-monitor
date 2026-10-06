@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791091930173-ze4wq2",
-    "source": "x",
-    "ts": "2026-10-04T05:32:10.173Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-04T05:30:56.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🔥 HUGE: If you'd bought Bitcoin instead of the new iPhone every year since 2016, your $7,590 would be worth about $137K today.",
-    "url": "https://x.com/Cointelegraph/status/2106618046919954627"
-  },
-  {
-    "id": "x-1791091935211-blvnfi",
-    "source": "x",
-    "ts": "2026-10-04T05:32:15.211Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-04T05:30:00.000Z",
-    "reason": "Generic, non-actionable opinion with no factual claim.",
-    "text": "🔥BOLD: Robert Kiyosaki says he only wants to hold money governments CANNOT PRINT.\n\nThe “Rich Dad Poor Dad” author compared owning BITCOIN, GOLD and SILVER to buying insurance against economic trouble.\n\nHe also said he owns an oil well that generates income, adding to a portfolio",
-    "url": "https://x.com/coinbureau/status/2106617812471218346"
-  },
-  {
     "id": "x-1791091940826-p98i2s",
     "source": "x",
     "ts": "2026-10-04T05:32:20.826Z",
@@ -7429,6 +7403,45 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107361430341353472/img/XphL7GdpEJmjwqJQ.jpg"
+    }
+  },
+  {
+    "id": "x-1791271934522-jyfx8l",
+    "source": "x",
+    "ts": "2026-10-06T07:32:14.522Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T07:30:42.000Z",
+    "reason": "New on-chain trading of pre-IPO AI company for non-US investors",
+    "text": "🔥 NEW: Ondo is letting non-US investors trade a pre-IPO AI company onchain 24/7, starting this week.",
+    "url": "https://x.com/Cointelegraph/status/2107372965566333323",
+    "images": [
+      "https://pbs.twimg.com/media/HT7kis7WgAAiWOJ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791271940121-lf2yqi",
+    "source": "x",
+    "ts": "2026-10-06T07:32:20.121Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-06T07:25:24.000Z",
+    "reason": "New privacy feature for transactions could enhance user security.",
+    "text": "Aptos Takes Aim at MEV With New Encrypted Mempool Plan\n\nAptos (@Aptos) has opened an onchain governance vote for its Encrypted Mempool proposal, AIP-144.\n\nIf approved, users could hide transaction details until blocks are finalized.\n\nValidators would order transactions without",
+    "url": "https://x.com/BSCNews/status/2107371631190667607",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107370547286069248/vid/avc1/1280x720/EkSmQV01lY-KmDQr.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107370547286069248/img/k1Ho1fqJxN4SEyR9.jpg"
     }
   }
 ]
