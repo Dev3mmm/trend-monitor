@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791087166226-12yi67",
-    "source": "x",
-    "ts": "2026-10-04T04:12:46.226Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 39,
-    "originTimestamp": "2026-10-04T03:32:48.000Z",
-    "reason": "Crypto scam involving elderly victim",
-    "text": "🚨JUST IN: A 60-year-old Hong Kong woman LOST about 2.7 MILLION in a crypto investment SCAM after meeting someone online who claimed to be an investment expert.\n\nShe was directed to a fake crypto investment platform and transferred funds multiple times between April 14 and",
-    "url": "https://x.com/coinbureau/status/2106588320931389589"
-  },
-  {
-    "id": "x-1791087169375-hh6fa1",
-    "source": "x",
-    "ts": "2026-10-04T04:12:49.375Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 72,
-    "originTimestamp": "2026-10-04T03:00:32.000Z",
-    "reason": "No notable move or newsworthy event described.",
-    "text": "acting like this isn’t my full-time job",
-    "url": "https://x.com/binance/status/2106580199890424275"
-  },
-  {
-    "id": "x-1791087172821-oi3k5m",
-    "source": "x",
-    "ts": "2026-10-04T04:12:52.821Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 101,
-    "originTimestamp": "2026-10-04T02:30:55.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "⚡ QUESTION: If you got $5000 from Trump, what would you do with it?",
-    "url": "https://x.com/Cointelegraph/status/2106572744313708880"
-  },
-  {
     "id": "x-1791087178535-04tdlr",
     "source": "x",
     "ts": "2026-10-04T04:12:58.535Z",
@@ -7296,5 +7256,57 @@
     "reason": "No notable move in ETH price within the recent range.",
     "text": "Binance Intelligence is here, bringing institutional-grade AI to every trader.\n\nFrom Agent OS for developers, to Binance AI for everyday users, to AI Pro for automated workflows, we’re building a smarter way to navigate finance.\n\nRead the full recap 👇",
     "url": "https://x.com/binance/status/2107251790882238737"
+  },
+  {
+    "id": "x-1791245112302-nwjbd8",
+    "source": "x",
+    "ts": "2026-10-06T00:05:12.302Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-06T00:00:01.000Z",
+    "reason": "Notable sanctions announcement without prior warning.",
+    "text": "🇺🇸🇮🇷BREAKING: US Treasury formally warns banks worldwide of sanctions WITHOUT WARNING over Iran.\n\nForeign banks still dealing with sanctioned Iranian banks \"could be targeted at any time without advance notification,\" Treasury said, per Reuters.\n\nThat's a sharp shift from August,",
+    "url": "https://x.com/coinbureau/status/2107259546293203186",
+    "images": [
+      "https://pbs.twimg.com/media/HT56DyKbwAAShN2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791245116923-mgec3g",
+    "source": "x",
+    "ts": "2026-10-06T00:05:16.923Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-06T00:00:00.000Z",
+    "reason": "No notable crypto-related content or move.",
+    "text": "CZ: Growing Up Poor Was One of My Sources of Motivation  \n\nOn September 25, 2026, Binance founder CZ @cz_binance said in an interview with When Shift Happens @KevinWSHPod that he did not experience any significant trauma during his childhood, but his family was financially",
+    "url": "https://x.com/WuBlockchain/status/2107259541716955585"
+  },
+  {
+    "id": "x-1791245122211-d1ya0x",
+    "source": "x",
+    "ts": "2026-10-06T00:05:22.211Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-05T23:53:00.000Z",
+    "reason": "Not newsworthy, lacks concrete details or impact.",
+    "text": "Plume adds Fidelity-backed vault to its RWA suite.\n\nThe tokenisation-focused @plumenetwork has just unveiled it brand-new RWA vault nBND.\n\nThe vault is fully-backed Fidelity Total Bond ETF (FBND) which is actively managed and mostly invests in emerging market debt.\n\nA new",
+    "url": "https://x.com/BSCNews/status/2107257779484246484",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107035653384835072/vid/avc1/1312x720/e84DXiU46ofPc7VE.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107035653384835072/img/RBZaxCWB8wej8U4t.jpg"
+    }
   }
 ]
