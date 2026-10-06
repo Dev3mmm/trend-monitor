@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791092595232-4wud2j",
-    "source": "x",
-    "ts": "2026-10-04T05:43:15.232Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-04T05:30:56.000Z",
-    "reason": "No notable move; price is well within the recent range.",
-    "text": "🔥 HUGE: If you'd bought Bitcoin instead of the new iPhone every year since 2016, your $7,590 would be worth about $137K today.",
-    "url": "https://x.com/Cointelegraph/status/2106618046919954627"
-  },
-  {
-    "id": "x-1791092599866-eagc2r",
-    "source": "x",
-    "ts": "2026-10-04T05:43:19.866Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-04T05:30:00.000Z",
-    "reason": "Generic opinion with no factual claim or verifiable information.",
-    "text": "🔥BOLD: Robert Kiyosaki says he only wants to hold money governments CANNOT PRINT.\n\nThe “Rich Dad Poor Dad” author compared owning BITCOIN, GOLD and SILVER to buying insurance against economic trouble.\n\nHe also said he owns an oil well that generates income, adding to a portfolio",
-    "url": "https://x.com/coinbureau/status/2106617812471218346"
-  },
-  {
     "id": "x-1791092605347-uw1qfn",
     "source": "x",
     "ts": "2026-10-04T05:43:25.347Z",
@@ -7451,5 +7425,39 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Zooko Wilcox (@zooko) helped create Zcash (@zcash) and spent years shaping its privacy technology.\n\nFrom post-quantum cryptography and AI-driven security to Crosslink, his work now focuses on keeping Zcash private and secure.\n\nHere’s the full story 👇",
     "url": "https://x.com/BSCNews/status/2107386963267666227"
+  },
+  {
+    "id": "x-1791276726441-il831l",
+    "source": "x",
+    "ts": "2026-10-06T08:52:06.441Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-06T08:49:50.000Z",
+    "reason": "On-chain data point of significant token burn event.",
+    "text": "Aster Turns Platform Fees Into Another Big Burn\n\nAster has burned another 3.1 million aster-2:native, adding to more than 207 million tokens burned overall.\n\nThe latest burn matched tokens bought using 99% of platform fees for stakers.\n\nThe buyback covered activity from September",
+    "url": "https://x.com/BSCNews/status/2107392878037303559",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107373446409961472/vid/avc1/1280x720/EmDatorzTkYj3auT.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107373446409961472/img/W3YdZmaKxAtoOlUr.jpg"
+    }
+  },
+  {
+    "id": "x-1791276730271-cen1gg",
+    "source": "x",
+    "ts": "2026-10-06T08:52:10.271Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-06T08:48:25.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "JUST IN: Saudi Aramco, the world’s largest oil producer, cut oil prices for Asia to the lowest level in 6 years.\n\nArab Light crude for November was cut by $3/barrel, putting it at a $5 bellow the regional benchmark.\n\nThis shocked traders, who had expected Saudi Arabia to raise",
+    "url": "https://x.com/coinbureau/status/2107392521537986645"
   }
 ]
