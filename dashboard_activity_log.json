@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791125551327-lxw0g7",
-    "source": "x",
-    "ts": "2026-10-04T14:52:31.327Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 38,
-    "originTimestamp": "2026-10-04T14:14:03.000Z",
-    "reason": "Noise: generic hype without factual claim.",
-    "text": "\"Just because Ken Paxton made some bad personal decisions doesn't mean I have to put my face in a wood chipper and vote for people who have gone plumb crazy!\" -- @ScottJenningsKY",
-    "url": "https://x.com/elonmusk/status/2106757672209170437"
-  },
-  {
-    "id": "x-1791126727895-ekm23y",
-    "source": "x",
-    "ts": "2026-10-04T15:12:07.895Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 91,
-    "originTimestamp": "2026-10-04T13:40:34.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Thomas, a longtime Porsche enthusiast, never imagined—“not in a million years,” as he puts it—that he would go from being a Tesla critic to a passionate Model Y owner. Today, he owns three Teslas, completely transforming the lineup in his garage.\n\nThere’s a good reason Model Y",
-    "url": "https://x.com/elonmusk/status/2106762590382948631"
-  },
-  {
     "id": "x-1791126733121-bvikbc",
     "source": "x",
     "ts": "2026-10-04T15:12:13.121Z",
@@ -7827,6 +7801,46 @@
     "url": "https://x.com/BitcoinMagazine/status/2107557965976756447",
     "images": [
       "https://pbs.twimg.com/media/HT-MzG8W8AAFR_P.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791316945547-djpnqk",
+    "source": "x",
+    "ts": "2026-10-06T20:02:25.547Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 63,
+    "originTimestamp": "2026-10-06T18:58:43.000Z",
+    "reason": "Housing prices repricing due to digital assets.",
+    "text": "Digital Real Estate Author Leon Wankum: \n\n\"Buying a home 10 years ago with Bitcoin would have cost you a few hundred or maybe a few thousand Bitcoin. Today, that would cost you a few Bitcoin, and that will go down to a fraction of a Bitcoin.\"\n\n\"Housing is being repriced already.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2107561851638661339",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107545999048650752/vid/avc1/1180x658/JdHht7sDCaDI3Hdr.mp4?tag=29",
+      "duration": 297,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107545999048650752/img/xsa01CckajIzCr-U.jpg"
+    }
+  },
+  {
+    "id": "x-1791316949918-l6iajt",
+    "source": "x",
+    "ts": "2026-10-06T20:02:29.918Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T20:01:04.000Z",
+    "reason": "Specific timing and unusual alerting putting markets on high alert.",
+    "text": "🚨BREAKING: A reported FOMC announcement is scheduled for 9:05 PM ET tonight.\n\nThe unusually late timing is putting markets on alert, but no emergency action has been confirmed.\n\nAll eyes on the Fed tonight. Volatility ahead.",
+    "url": "https://x.com/coinbureau/status/2107561800191611283",
+    "images": [
+      "https://pbs.twimg.com/media/HT-QMPVbwAA7yTD.png",
+      "https://pbs.twimg.com/media/HT-QObybUAA_1ex.jpg"
     ],
     "video": null
   }
