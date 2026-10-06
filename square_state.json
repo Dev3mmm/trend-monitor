@@ -931,16 +931,10 @@
     "x-1791240732739-kob45q",
     "x-1791242612429-df0o0v",
     "x-1791245112302-nwjbd8",
-    "x-1791245122211-d1ya0x"
+    "x-1791245122211-d1ya0x",
+    "x-1791245617616-yqykkd"
   ],
   "queue": [
-    {
-      "text": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
-      "url": "https://x.com/DecryptMedia/status/2107211033907458380",
-      "images": [],
-      "video": null,
-      "enqueuedAt": 1791235074859
-    },
     {
       "text": "Today was a big day across financial markets, here are the 8 stories you need to know ↓\n\n1. Tom Lee's 'BitMine' buys 15,112 $ETH worth $41 million.\n\n2. Michael Saylor's 'Strategy' buys 334.3 Bitcoin worth $28 million.\n\n3. The CFTC says it's creating new rules to protect crypto",
       "url": "https://x.com/coinbase/status/2107201715808195029",
@@ -1030,15 +1024,18 @@
       ],
       "video": null,
       "enqueuedAt": 1791245122266
+    },
+    {
+      "text": "📊 MARKET: Solana has had the highest Quarterly DEX Volume for the past 8 quarters.",
+      "url": "https://x.com/Cointelegraph/status/2107260717850103956",
+      "images": [
+        "https://pbs.twimg.com/media/HT5-dGxWIAA8BUz.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791245617679
     }
   ],
   "posted": [
-    {
-      "text": "⚡ FLOW: BASE has seen $4.7B in Net Inflows since January 1st.",
-      "at": 1791159122613,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/373833443955768?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "Blackrock has bought $1.6 BILLION worth of Bitcoin this month.\n\nIn the past month, @Blackrock has accumulated a net total of some $1.57B worth of $BTC, according to data from @Arkham. \n\nOn Friday alone, it bought nearly $200M worth of $BTC, likely related to ETF flows.",
       "at": 1791161091190,
@@ -1242,7 +1239,13 @@
       "at": 1791245122266,
       "status": "skipped",
       "reason": "paraphrase added numbers not in source: 500,000"
+    },
+    {
+      "text": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
+      "at": 1791245617679,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/374187753878952?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791213848223
+  "lastPostAt": 1791245617679
 }
