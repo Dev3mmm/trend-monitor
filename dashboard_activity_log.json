@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791087751404-9snobw",
-    "source": "x",
-    "ts": "2026-10-04T04:22:31.404Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 49,
-    "originTimestamp": "2026-10-04T03:32:48.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🚨JUST IN: A 60-year-old Hong Kong woman LOST about 2.7 MILLION in a crypto investment SCAM after meeting someone online who claimed to be an investment expert.\n\nShe was directed to a fake crypto investment platform and transferred funds multiple times between April 14 and",
-    "url": "https://x.com/coinbureau/status/2106588320931389589"
-  },
-  {
-    "id": "x-1791087753662-e596s9",
-    "source": "x",
-    "ts": "2026-10-04T04:22:33.662Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 81,
-    "originTimestamp": "2026-10-04T03:00:32.000Z",
-    "reason": "No notable move or event described.",
-    "text": "acting like this isn’t my full-time job",
-    "url": "https://x.com/binance/status/2106580199890424275"
-  },
-  {
     "id": "x-1791087756152-m880uv",
     "source": "x",
     "ts": "2026-10-04T04:22:36.152Z",
@@ -7313,5 +7286,44 @@
     "reason": "No notable crypto-related event or movement mentioned.",
     "text": "In 1985, the late Steve Jobs predicted AI chatbots.\n\nHe hoped a computer could one day capture a great thinker's \"underlying worldview,\" so students could ask questions \"and get an answer.\"\n\nToday, more than 1 billion people use AI chatbots every week.",
     "url": "https://x.com/coinbureau/status/2107270865578602568"
+  },
+  {
+    "id": "x-1791248596513-b1ick0",
+    "source": "x",
+    "ts": "2026-10-06T01:03:16.513Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-06T01:00:00.000Z",
+    "reason": "Crypto prediction with historical precedent, but lacks new, concrete information.",
+    "text": "🚨UNBELIEVABLE: The 4chan prophecy that nailed Bitcoin's TOP now points to the BOTTOM.\n\nIn December 2023, an anonymous 4chan user predicted Bitcoin would peak on October 6, 2025, and it did at just over $126,000.\n\nHis pattern counted 1,064 days from bottom to top, then 364 days",
+    "url": "https://x.com/coinbureau/status/2107274643539210677",
+    "images": [
+      "https://pbs.twimg.com/media/HT6JffPa0AAmfYG.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791248601756-hyawna",
+    "source": "x",
+    "ts": "2026-10-06T01:03:21.756Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-06T00:59:00.000Z",
+    "reason": "Specific staking announcement for a crypto token.",
+    "text": "Edel Finance staking coming this week...\n\n@edeldotfinance has promised that staking for its $EDEL token will go live this week, giving holders the chance to earn passive $CC based yield.\n\nStaking $EDEL will also give users lower trading fees and staking rewards will be driven by",
+    "url": "https://x.com/BSCNews/status/2107274388798333132",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107035936848592896/vid/avc1/1312x720/-pbX14i0pFRtfVw6.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107035936848592896/img/itSlWa3FLHTsFOF-.jpg"
+    }
   }
 ]
