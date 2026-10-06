@@ -1,19 +1,5 @@
 [
   {
-    "id": "x-1791119560271-omde0q",
-    "source": "x",
-    "ts": "2026-10-04T13:12:40.271Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-04T13:02:25.000Z",
-    "reason": "Notable exploit involving user funds and a time-sensitive ultimatum.",
-    "text": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-    "url": "https://x.com/DecryptMedia/status/2106731668593582531"
-  },
-  {
     "id": "x-1791120748324-to29q2",
     "source": "x",
     "ts": "2026-10-04T13:32:28.324Z",
@@ -7804,5 +7790,23 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "🇮🇷 BIG: Iran steps up attacks on tankers in the Strait of Hormuz, threatening crude oil exports as nearly 20 commercial ships face attacks.",
     "url": "https://x.com/Cointelegraph/status/2107546100286505093"
+  },
+  {
+    "id": "x-1791314011480-6cd3nt",
+    "source": "x",
+    "ts": "2026-10-06T19:13:31.480Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-06T19:10:41.000Z",
+    "reason": "New feature release with potential scalability implications for Starknet.",
+    "text": "🔥 NEW: StarkWare rolls out Starknet v0.14.4 on Mainnet, enabling single proven transactions of up to 1.1B L2 gas once activated.",
+    "url": "https://x.com/Cointelegraph/status/2107549119560511663",
+    "images": [
+      "https://pbs.twimg.com/media/HT-EwUwX0AADEBM.jpg"
+    ],
+    "video": null
   }
 ]
