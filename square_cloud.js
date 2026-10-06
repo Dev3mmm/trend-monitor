@@ -95,6 +95,40 @@ Tweet: """${text}"""`);
   return out;
 }
 
+// Coin and topic tags appended to every post: "Solana" in the tweet -> #Solana $SOL, same for BTC/ETH/XRP etc.
+const COINS = [
+  ['Bitcoin', 'BTC', /\bbitcoin\b|\bbtc\b|\bsatoshi\b/i], ['Ethereum', 'ETH', /\bether(eum)?\b|\beth\b/i],
+  ['Solana', 'SOL', /\bsolana\b|\bsol\b/i], ['XRP', 'XRP', /\bxrp\b|\bripple\b/i],
+  ['BNB', 'BNB', /\bbnb\b|\bbinance coin\b/i], ['Dogecoin', 'DOGE', /\bdoge(coin)?\b/i],
+  ['Cardano', 'ADA', /\bcardano\b|\bada\b/i], ['Chainlink', 'LINK', /\bchainlink\b/i],
+  ['Avalanche', 'AVAX', /\bavalanche\b|\bavax\b/i], ['Sui', 'SUI', /\bsui\b/i],
+  ['Tron', 'TRX', /\btron\b|\btrx\b/i], ['Litecoin', 'LTC', /\blitecoin\b/i],
+  ['Hyperliquid', 'HYPE', /\bhyperliquid\b/i], ['Polkadot', 'DOT', /\bpolkadot\b/i],
+  ['Toncoin', 'TON', /\btoncoin\b/i], ['Shiba', 'SHIB', /\bshib(a inu)?\b/i], ['Pepe', 'PEPE', /\bpepe\b/i],
+  ['Zcash', 'ZEC', /\bzcash\b|\bzec\b/i], ['Aave', 'AAVE', /\baave\b/i], ['Uniswap', 'UNI', /\buniswap\b/i],
+];
+const TOPICS = [
+  ['ClarityAct', /clarity act/i], ['GeniusAct', /genius act/i], ['CryptoMarketStructure', /market structure (bill|act)/i],
+  ['SEC', /\bsec\b|securities and exchange/i], ['CFTC', /\bcftc\b/i], ['ETF', /\betfs?\b/i],
+  ['Stablecoin', /\bstablecoins?\b|\busdt\b|\busdc\b/i], ['Fed', /\bfed\b|federal reserve|\bfomc\b/i],
+  ['Binance', /\bbinance\b/i], ['Coinbase', /\bcoinbase\b/i], ['Hack', /\bhack(ed|s)?\b|\bexploit(ed)?\b/i],
+];
+function hashtags(text) {
+  const out = [];
+  for (const [name, tick, re] of COINS) if (re.test(text) || new RegExp('\$' + tick + '\b', 'i').test(text)) out.push([`#${name}`, `$${tick}`]);
+  const coins = out.slice(0, 3).flat();
+  const topics = TOPICS.filter(([, re]) => re.test(text)).slice(0, 3).map(([n]) => `#${n}`);
+  const tags = [...coins, ...topics];
+  if (!coins.length) tags.unshift('#Crypto');
+  return tags.join(' ');
+}
+
+// Post the tweet as written: no rewrite, no source line, no links; only line-gluing and tags.
+function buildPost(raw) {
+  let t = tidy(raw).replace(/https?:\/\/\S+/g, '').replace(/pic\.twitter\.com\/\S+/g, '').replace(/[ \t]*\n{3,}/g, '\n\n').trim();
+  return `${t}\n\n${hashtags(t)}`;
+}
+
 async function download(url, name) {
   fs.mkdirSync(TMP_DIR, { recursive: true });
   const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
@@ -135,6 +169,7 @@ ${r.stderr || ''}`;
     seen.add(it.id);
     // BSCNews posts are mostly branded videos/GIFs: keep them off Square, favour other sources
     if (/^(BSCNews)$/i.test((it.url.match(/x\.com\/([^/]+)\/status/) || [])[1] || '')) continue;
+    if (!(it.images || []).length && !it.video) continue; // every Square post needs the tweet's image
     const origin = new Date(it.originTimestamp || it.ts).getTime();
     if (now - origin > MAX_ITEM_AGE_MS) continue;
     if (await isDuplicate(it.text, [...state.queue, ...state.posted])) { dups++; continue; }
@@ -152,12 +187,7 @@ ${r.stderr || ''}`;
     const item = state.queue.shift();
     const handle = (item.url.match(/x\.com\/([^/]+)\/status/) || [])[1] || 'source';
     let text;
-    try { text = `${await paraphrase(item.text)}\n\nSource: @${handle}`; }
-    catch (e) {
-      state.posted.push({ text: item.text, at: now, status: 'skipped', reason: e.message });
-      log(`skipped @${handle}: ${e.message}`);
-      saveAtomic(STATE_FILE, state); return;
-    }
+    text = buildPost(item.text);
     const imgs = [];
     for (const [i, u] of (item.images || []).entries()) { try { imgs.push(await download(u, `sq_${now}_${i}`)); } catch { /* post without it */ } }
 
@@ -169,6 +199,12 @@ ${r.stderr || ''}`;
         if (vr.ok && buf.length < 45 * 1024 * 1024) { fs.mkdirSync(TMP_DIR, { recursive: true }); const f = path.join(TMP_DIR, `sq_${now}.mp4`); fs.writeFileSync(f, buf); vid = { file: f, duration: item.video.duration }; }
       } catch { /* fall back to thumbnail */ }
       if (!vid && item.video.thumb && !imgs.length) { try { imgs.push(await download(item.video.thumb, `sq_${now}_t`)); } catch { /* text only */ } }
+    }
+
+    if (!imgs.length && !vid) {
+      state.posted.push({ text: item.text, at: now, status: 'skipped', reason: 'no image could be attached' });
+      log(`skipped @${handle}: no image`);
+      saveAtomic(STATE_FILE, state); return;
     }
 
     if (DRY || !KEY) {
