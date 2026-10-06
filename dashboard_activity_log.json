@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791089531491-wxyy24",
-    "source": "x",
-    "ts": "2026-10-04T04:52:11.491Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 76,
-    "originTimestamp": "2026-10-04T03:35:00.000Z",
-    "reason": "New use of a token/stablecoin (zero fee stablecoin transfers) by Sui Network.",
-    "text": "Sui Network flexes zero fee stablecoin transfers.\n\nAccording to @EmanAbio, @SuiNetwork remains the only major L1 blockchain offering zero-gas stablecoin transfers to end users.\n\nThe Sui Network account itself backed this up, reminding that it costs $0 to move 1,000,000 of its own",
-    "url": "https://x.com/BSCNews/status/2106588872226349428"
-  },
-  {
-    "id": "x-1791089536153-rmrbof",
-    "source": "x",
-    "ts": "2026-10-04T04:52:16.153Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Coin Bureau",
-    "ageMin": 79,
-    "originTimestamp": "2026-10-04T03:32:48.000Z",
-    "reason": "Crypto scam involving elderly victim.",
-    "text": "🚨JUST IN: A 60-year-old Hong Kong woman LOST about 2.7 MILLION in a crypto investment SCAM after meeting someone online who claimed to be an investment expert.\n\nShe was directed to a fake crypto investment platform and transferred funds multiple times between April 14 and",
-    "url": "https://x.com/coinbureau/status/2106588320931389589"
-  },
-  {
     "id": "x-1791089539173-lcsci4",
     "source": "x",
     "ts": "2026-10-04T04:52:19.173Z",
@@ -7372,6 +7344,45 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107322978979684352/img/ypmDmcajcD4gPCXS.jpg"
+    }
+  },
+  {
+    "id": "x-1791261174858-uxkari",
+    "source": "x",
+    "ts": "2026-10-06T04:32:54.858Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T04:31:40.000Z",
+    "reason": "Notable institutional move affecting blockchain infrastructure.",
+    "text": "🚨 BIG: Google Cloud is shutting down its Blockchain Node Engine and Blockchain RPC on December 15, 2026, and handing customers over to Quicknode.",
+    "url": "https://x.com/Cointelegraph/status/2107327909983666543",
+    "images": [
+      "https://pbs.twimg.com/media/HT67kMYXsAA71On.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791261180248-lpqr78",
+    "source": "x",
+    "ts": "2026-10-06T04:33:00.248Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-06T04:28:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Lazarus Linked to Massive Chinese Crypto Laundering Network\n\nBlockchain investigator ZachXBT says a Chinese crime network laundered more than $1 billion for North Korea’s Lazarus Group.\n\nHe said the network handled stolen crypto from multiple exploits and operated across China",
+    "url": "https://x.com/BSCNews/status/2107326985395744852",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107326297198481408/vid/avc1/1280x720/Sv6xJ3gF1nN5LwBZ.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107326297198481408/img/XqYjRLM1KrfYRKSX.jpg"
     }
   }
 ]
