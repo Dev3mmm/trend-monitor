@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791100964957-elriwm",
-    "source": "x",
-    "ts": "2026-10-04T08:02:44.957Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-04T07:51:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "The @Aptos blockchain is taking privacy seriously. Here's what you need to know about confidential APT. ⬇️",
-    "url": "https://x.com/BSCNews/status/2106653296333144289"
-  },
-  {
-    "id": "x-1791100970545-3q57jv",
-    "source": "x",
-    "ts": "2026-10-04T08:02:50.545Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 26,
-    "originTimestamp": "2026-10-04T07:36:20.000Z",
-    "reason": "Notable exploit involving a major tech company's official account.",
-    "text": "🚨WILD: Microsoft's official X account was HACKED to promote a Clippy meme coin.\n\nFor about 30 minutes, the account followed and reposted promoters of a Clippy-themed token, and changed its profile picture to Clippy.\n\nMicrosoft says it never authorized anyone to use Clippy to",
-    "url": "https://x.com/coinbureau/status/2106649608449642906"
-  },
-  {
     "id": "x-1791100974567-lwkr9j",
     "source": "x",
     "ts": "2026-10-04T08:02:54.567Z",
@@ -7678,5 +7651,39 @@
       "https://pbs.twimg.com/media/HT9NS_sWoAIbckS.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791300398330-ynnzus",
+    "source": "x",
+    "ts": "2026-10-06T15:26:38.330Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-06T15:18:02.000Z",
+    "reason": "New use of a token by a notable company",
+    "text": "DeLorean Motors now accepts Litecoin! \n\n@LTCFoundation is collaborating commercially with @Deloreanlabs to accept $LTC payments for new DeLorean Motor Company vehicles.\n\nThis partnership lets users pay for both reservations and purchases of DeLorean Motor Company’s electric cars",
+    "url": "https://x.com/BSCNews/status/2107490571447120321",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107490527494955008/vid/avc1/1316x720/fHsTUwUW_KdfS_8p.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107490527494955008/img/INvbGjTZxINl8sHq.jpg"
+    }
+  },
+  {
+    "id": "x-1791300402763-tw6bov",
+    "source": "x",
+    "ts": "2026-10-06T15:26:42.763Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-06T15:18:00.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "In the Bitcoin Standard Era, Digital Intelligence ($NVDA), Digital Equity ($MSTR), and Digital Capital ($BTC) have delivered 65%, 52%, and 38% annualized returns, outperforming the rest of the Magnificent Seven. The future is digital.",
+    "url": "https://x.com/saylor/status/2107490565948678279"
   }
 ]
