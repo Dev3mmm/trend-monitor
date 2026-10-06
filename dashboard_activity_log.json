@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791117193833-scmxj1",
-    "source": "x",
-    "ts": "2026-10-04T12:33:13.833Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 33,
-    "originTimestamp": "2026-10-04T12:00:25.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "Strive for Amplified Bitcoin.",
-    "url": "https://x.com/saylor/status/2106721977239282052"
-  },
-  {
-    "id": "x-1791117195329-cnittn",
-    "source": "x",
-    "ts": "2026-10-04T12:33:15.329Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-04T12:23:11.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "More orange than ever.",
-    "url": "https://x.com/saylor/status/2106721794761879957"
-  },
-  {
-    "id": "x-1791117717874-piak8u",
-    "source": "x",
-    "ts": "2026-10-04T12:41:57.874Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-04T12:37:49.000Z",
-    "reason": "No notable move, sentiment statement without factual claim.",
-    "text": "🔥 INSIGHT: Humans may not be the main players in markets by 2030.\n\nReal Vision co-founder @RaoulGMI told @itsciaranlyons that AI has already beaten humans on anything under a one to three month time horizon for a long time, thanks to high-frequency trading.\n\nLonger, more complex",
-    "url": "https://x.com/Cointelegraph/status/2106725478409142287"
-  },
-  {
     "id": "x-1791118318670-wu9j56",
     "source": "x",
     "ts": "2026-10-04T12:51:58.670Z",
@@ -7780,6 +7741,54 @@
     "reason": "No notable move in a token with a volatile recent history.",
     "text": "Can $WIF rise to former glory...?\n\n@dogwifcoin was once the single biggest name in the @Solana memecoin ecosystem. Still a giant, it now has a long way to go to reach former highs... Can it get there? ⬇️",
     "url": "https://x.com/BSCNews/status/2107540140013023459",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791312804866-mn5v7d",
+    "source": "x",
+    "ts": "2026-10-06T18:53:24.866Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-06T18:50:41.000Z",
+    "reason": "Conduit alleging Tether's unjustified freezing of funds",
+    "text": "🚨 JUST IN: Conduit sues Tether in New York, alleging it froze $2.76 million in USDT without justification and refused to release the funds.",
+    "url": "https://x.com/Cointelegraph/status/2107544087175770308",
+    "images": [
+      "https://pbs.twimg.com/media/HT-ALHGXUAAKAEx.jpg",
+      "https://pbs.twimg.com/media/HT-ALXdXEAASl8S.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791312808501-2e4bdl",
+    "source": "x",
+    "ts": "2026-10-06T18:53:28.501Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-06T18:45:07.000Z",
+    "reason": "Tweet appears to be in a language other than English.",
+    "text": "Niponge, au nisiponge?\n\n— Kuttuny.",
+    "url": "https://x.com/amerix/status/2107542686806819232"
+  },
+  {
+    "id": "x-1791312812719-u4v3gf",
+    "source": "x",
+    "ts": "2026-10-06T18:53:32.719Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-06T18:43:45.000Z",
+    "reason": "Notable institutional interest in Zcash ETFs.",
+    "text": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
+    "url": "https://x.com/DecryptMedia/status/2107542342047600891",
     "images": [],
     "video": null
   }
