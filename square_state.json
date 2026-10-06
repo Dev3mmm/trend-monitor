@@ -929,19 +929,11 @@
     "x-1791239649368-wl0ggb",
     "x-1791240727500-pmmai5",
     "x-1791240732739-kob45q",
-    "x-1791242612429-df0o0v"
+    "x-1791242612429-df0o0v",
+    "x-1791245112302-nwjbd8",
+    "x-1791245122211-d1ya0x"
   ],
   "queue": [
-    {
-      "text": "🔥 INSIGHT: VanEck's research presents a $500K case for Bitcoin based on the gap between Bitcoin's market cap and gold's.",
-      "url": "https://x.com/Cointelegraph/status/2107216984672702957",
-      "images": [
-        "https://pbs.twimg.com/media/HT5WrVeXAAAJCcX.jpg",
-        "https://pbs.twimg.com/media/HT5WriIWgAAXOnx.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1791235074859
-    },
     {
       "text": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
       "url": "https://x.com/DecryptMedia/status/2107211033907458380",
@@ -1029,15 +1021,18 @@
       ],
       "video": null,
       "enqueuedAt": 1791240732796
+    },
+    {
+      "text": "🇺🇸🇮🇷BREAKING: US Treasury formally warns banks worldwide of sanctions WITHOUT WARNING over Iran.\n\nForeign banks still dealing with sanctioned Iranian banks \"could be targeted at any time without advance notification,\" Treasury said, per Reuters.\n\nThat's a sharp shift from August,",
+      "url": "https://x.com/coinbureau/status/2107259546293203186",
+      "images": [
+        "https://pbs.twimg.com/media/HT56DyKbwAAShN2.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791245122266
     }
   ],
   "posted": [
-    {
-      "text": "JUST IN: $86,000 Bitcoin 🚀",
-      "at": 1791158499333,
-      "status": "skipped",
-      "reason": "paraphrase length 45 out of range"
-    },
     {
       "text": "⚡ FLOW: BASE has seen $4.7B in Net Inflows since January 1st.",
       "at": 1791159122613,
@@ -1241,6 +1236,12 @@
       "at": 1791213848223,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/374057601614696?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 INSIGHT: VanEck's research presents a $500K case for Bitcoin based on the gap between Bitcoin's market cap and gold's.",
+      "at": 1791245122266,
+      "status": "skipped",
+      "reason": "paraphrase added numbers not in source: 500,000"
     }
   ],
   "lastPostAt": 1791213848223
