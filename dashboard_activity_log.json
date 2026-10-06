@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791089539173-lcsci4",
-    "source": "x",
-    "ts": "2026-10-04T04:52:19.173Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-04T03:00:32.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "acting like this isn’t my full-time job",
-    "url": "https://x.com/binance/status/2106580199890424275"
-  },
-  {
     "id": "x-1791090129238-qexehx",
     "source": "x",
     "ts": "2026-10-04T05:02:09.238Z",
@@ -7383,6 +7370,27 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107326297198481408/img/XqYjRLM1KrfYRKSX.jpg"
+    }
+  },
+  {
+    "id": "x-1791262456110-vvnfbw",
+    "source": "x",
+    "ts": "2026-10-06T04:54:16.110Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-06T04:50:56.000Z",
+    "reason": "New institutional partnership with JP Morgan on Solana Foundation's tool",
+    "text": "Solana And JP Morgan Take Aim at Faster Institutional Settlement\n\nThe Solana (@solana) Foundation has launched an open source settlement tool designed for institutional financial markets.\n\nSolana DvP uses standardized APIs to let institutions exchange assets and payments",
+    "url": "https://x.com/BSCNews/status/2107332756716020221",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107332653896876032/vid/avc1/1280x720/DhxXNwNZXgls9MPp.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107332653896876032/img/IMUIQzY4_GQVlHOW.jpg"
     }
   }
 ]
