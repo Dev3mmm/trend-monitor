@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791142340308-2h5r61",
-    "source": "x",
-    "ts": "2026-10-04T19:32:20.308Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-04T19:26:00.000Z",
-    "reason": "Investors showing significant interest in Chainlink ETFs.",
-    "text": "Investors flocking to buy Chainlink exposure.\n\nSpot @Chainlink ETFs just saw their best week since August, soaking up +$8.3M in the past five trading days.\n\nImpressively, spot $LINK ETFs have seen just two single days of net outflows since launching last year, and only one week",
-    "url": "https://x.com/BSCNews/status/2106828198730211644"
-  },
-  {
-    "id": "x-1791142343316-80uq2n",
-    "source": "x",
-    "ts": "2026-10-04T19:32:23.316Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-04T19:17:17.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "June 2025:",
-    "url": "https://x.com/elonmusk/status/2106827518900625719"
-  },
-  {
-    "id": "x-1791142346071-zilebn",
-    "source": "x",
-    "ts": "2026-10-04T19:32:26.071Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 56,
-    "originTimestamp": "2026-10-04T18:36:00.000Z",
-    "reason": "Noise: generic statement without factual claim.",
-    "text": "True",
-    "url": "https://x.com/elonmusk/status/2106827340084887945"
-  },
-  {
     "id": "x-1791144737717-pelzr1",
     "source": "x",
     "ts": "2026-10-04T20:12:17.717Z",
@@ -7871,5 +7831,52 @@
     "reason": "No notable move in crypto related to the tweet's content.",
     "text": "🇮🇷 JUST IN: U.S. Treasury Secretary Scott Bessent says Iran has not loaded a single barrel of crude onto a vessel since August 25, questioning what its new oil minister is managing.",
     "url": "https://x.com/Cointelegraph/status/2107599461509718398"
+  },
+  {
+    "id": "x-1791327137303-7w3thn",
+    "source": "x",
+    "ts": "2026-10-06T22:52:17.303Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T22:50:40.000Z",
+    "reason": "No notable move in Cardano's ADA price or dominance.",
+    "text": "⚡️ UPDATE: Cardano whale transactions hit their highest level since June 4 as ADA’s social dominance reached a 2026 high, according to Santiment.",
+    "url": "https://x.com/Cointelegraph/status/2107604481076555963"
+  },
+  {
+    "id": "x-1791327140633-ywmoxk",
+    "source": "x",
+    "ts": "2026-10-06T22:52:20.633Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-06T22:47:15.000Z",
+    "reason": "Memes and advertising content.",
+    "text": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "url": "https://x.com/DecryptMedia/status/2107603621156188341"
+  },
+  {
+    "id": "x-1791327146944-4xns2h",
+    "source": "x",
+    "ts": "2026-10-06T22:52:26.944Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-06T22:46:00.000Z",
+    "reason": "The extremely low value of a long-standing ETP holding suggests a potential liquidity or valuation issue.",
+    "text": "The Pi Network ETP holds less than $16,000...\n\nNow more than a year old, Valour's European Pi Network ETP holds only $15,671 worth of $PI at time of writing. \n\nCertainly there are limiting factors on the product, such as its availability in Europe rather than the US or wider",
+    "url": "https://x.com/BSCNews/status/2107603306478469159",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107403668391673857/vid/avc1/1312x720/xZ_6kfWRkSq9ECoY.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107403668391673857/img/FQ5Ok8zugG3J0Anr.jpg"
+    }
   }
 ]
