@@ -1,46 +1,5 @@
 [
   {
-    "id": "x-1791124919201-gsjomc",
-    "source": "x",
-    "ts": "2026-10-04T14:41:59.201Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-04T14:39:36.000Z",
-    "reason": "Notable regulatory move by a central bank in a major economy.",
-    "text": "🇷🇺⚡ NEW: Russia's Finance Ministry just paid some of its own staff in digital rubles, a month after the CBDC's nationwide rollout kicked off.",
-    "url": "https://x.com/Cointelegraph/status/2106756124087116066"
-  },
-  {
-    "id": "x-1791125544611-m5iktd",
-    "source": "x",
-    "ts": "2026-10-04T14:52:24.611Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-04T14:48:00.000Z",
-    "reason": "Significant increase in TVL and market cap for PLUME token.",
-    "text": "Plume Vaults are exploding.\n\nThe TVL of @plumenetwork's Vaults is up +65% in the last month, reaching a total of nearly $233M at time of writing.\n\nThe $PLUME token itself has a market cap of only $120M, meaning it is one of few L1 blockchains to have a TVL that is significantly",
-    "url": "https://x.com/BSCNews/status/2106758239341748415"
-  },
-  {
-    "id": "x-1791125547428-875xxc",
-    "source": "x",
-    "ts": "2026-10-04T14:52:27.428Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 116,
-    "originTimestamp": "2026-10-04T12:56:13.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "Always has been",
-    "url": "https://x.com/elonmusk/status/2106758102674534734"
-  },
-  {
     "id": "x-1791125551327-lxw0g7",
     "source": "x",
     "ts": "2026-10-04T14:52:31.327Z",
@@ -7818,5 +7777,57 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107481718852620288/img/yK_GctiQxAqqJpRj.jpg"
     }
+  },
+  {
+    "id": "x-1791316343515-rp4hmv",
+    "source": "x",
+    "ts": "2026-10-06T19:52:23.515Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T19:50:41.000Z",
+    "reason": "Rising yields on US corporate bonds indicate rising borrowing costs.",
+    "text": "🚨 UPDATE: Yields on the weakest US corporate bonds have risen over 4 percentage points this year as widening credit spreads drive up borrowing costs.",
+    "url": "https://x.com/Cointelegraph/status/2107559185940353337",
+    "images": [
+      "https://pbs.twimg.com/media/HT-N6OrXoAA6T--.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791316347305-eas16b",
+    "source": "x",
+    "ts": "2026-10-06T19:52:27.305Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-06T19:47:15.000Z",
+    "reason": "Tether facing legal scrutiny over stablecoin issues",
+    "text": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+    "url": "https://x.com/DecryptMedia/status/2107558322064769192",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791316351875-guabsl",
+    "source": "x",
+    "ts": "2026-10-06T19:52:31.875Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-06T19:45:50.000Z",
+    "reason": "Specific institutional commentary on Bitcoin by a high-profile figure.",
+    "text": "JUST IN: Bitwise CIO Matt Hougan releases \"Bitcoin Is Right on Schedule\" in The Wall Street Journal. 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2107557965976756447",
+    "images": [
+      "https://pbs.twimg.com/media/HT-MzG8W8AAFR_P.jpg"
+    ],
+    "video": null
   }
 ]
