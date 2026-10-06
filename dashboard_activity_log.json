@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791090814482-irfpvc",
-    "source": "x",
-    "ts": "2026-10-04T05:13:34.482Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Coin Bureau",
-    "ageMin": 100,
-    "originTimestamp": "2026-10-04T03:32:48.000Z",
-    "reason": "Crypto scam involving elderly victim.",
-    "text": "🚨JUST IN: A 60-year-old Hong Kong woman LOST about 2.7 MILLION in a crypto investment SCAM after meeting someone online who claimed to be an investment expert.\n\nShe was directed to a fake crypto investment platform and transferred funds multiple times between April 14 and",
-    "url": "https://x.com/coinbureau/status/2106588320931389589"
-  },
-  {
-    "id": "x-1791091335157-xpi242",
-    "source": "x",
-    "ts": "2026-10-04T05:22:15.157Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 35,
-    "originTimestamp": "2026-10-04T04:47:00.000Z",
-    "reason": "Notable institutional adoption by major banks and asset managers.",
-    "text": "Chainlink is working in the big leagues now...\n\nAccording to @Chainlink founder @SergeyNazarov, major institutions are finding the new CCIP 2.0 very compelling indeed.\n\nNazarov says that the team is now working with \"top FMIs, the leading banks, top asset managers, top GSIs and",
-    "url": "https://x.com/BSCNews/status/2106606991246557664"
-  },
-  {
     "id": "x-1791091339572-1xgkxp",
     "source": "x",
     "ts": "2026-10-04T05:22:19.572Z",
@@ -7400,5 +7372,44 @@
     "reason": "No notable move for crypto, unrelated to specific crypto events or market conditions.",
     "text": "🇺🇸WATCH OUT: The US is about to sell $153 BILLION in debt today.\n\nThat includes $95B in 6-week bills and a key $58B 3-year note auction.\n\nStrong demand could help COOL yields and SUPPORT stocks and crypto.\n\nWeak demand could push yields HIGHER and pressure risk assets.",
     "url": "https://x.com/coinbureau/status/2107351208738598951"
+  },
+  {
+    "id": "x-1791268331018-xwwtic",
+    "source": "x",
+    "ts": "2026-10-06T06:32:11.018Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T06:30:42.000Z",
+    "reason": "Ethereum's Sepolia testnet is about to fork to Gloas with a significant gas limit.",
+    "text": "⚡🔥 TODAY: Ethereum's Sepolia testnet forks to Gloas at 13:53 UTC with a 200M gas limit.",
+    "url": "https://x.com/Cointelegraph/status/2107357866415837265",
+    "images": [
+      "https://pbs.twimg.com/media/HT7WzyFWoAApzwq.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791268335835-eccgk1",
+    "source": "x",
+    "ts": "2026-10-06T06:32:15.835Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-06T06:24:00.000Z",
+    "reason": "Noteworthy regulatory move supporting crypto clarity.",
+    "text": "Chainlink Welcomes CFTC Push to Bring More Clarity to Crypto\n\nChainlink (@chainlink) has backed the CFTC’s latest effort to develop a broader crypto market framework.\n\nThe commission published an advanced notice seeking public comments on crypto asset transactions. The proposal",
+    "url": "https://x.com/BSCNews/status/2107356177919074791",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107341636426780672/vid/avc1/1280x720/dBVyCh875NVVhWjT.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107341636426780672/img/Vx0w5DiYETsCCPh3.jpg"
+    }
   }
 ]
