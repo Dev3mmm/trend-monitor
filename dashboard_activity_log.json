@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791138712660-k9fv4c",
-    "source": "x",
-    "ts": "2026-10-04T18:31:52.660Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-04T18:31:07.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "🔥 INSIGHT: Buy the Nasdaq and Bitcoin, then stop overthinking it.\n\nThat's the simple allocation Real Vision co-founder @RaoulGMI pitched to @itsciaranlyons, with layer 1s swapped in if you want something racier.\n\nHe says most people overcomplicate it chasing the next coin to go",
-    "url": "https://x.com/Cointelegraph/status/2106814387033985330"
-  },
-  {
-    "id": "x-1791139367719-ijn0ks",
-    "source": "x",
-    "ts": "2026-10-04T18:42:47.719Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-04T18:38:54.000Z",
-    "reason": "New private token with unique features on Bitcoin L1",
-    "text": "SBRC-20 {S}: BRC-20, but shielded.\n\nPrivate token transfers, natively on Bitcoin L1, verified by zk proofs.\n\nThe $SHLD airdrop is open: 5% of supply, and every applicant gets it.\n\nApply now at  ⏳",
-    "url": "https://x.com/BSCNews/status/2106816347808424297"
-  },
-  {
     "id": "x-1791141745338-ub29g1",
     "source": "x",
     "ts": "2026-10-04T19:22:25.338Z",
@@ -7861,5 +7834,42 @@
     "reason": "No notable move, price is well within its recent range.",
     "text": "🚨 INSIGHT: Bitcoin gained 24.5%, 44.9% and 92.3% in the 12 months after the 2014, 2018 and 2022 U.S. midterms, according to a CryptoQuant analyst.",
     "url": "https://x.com/Cointelegraph/status/2107594416219115815"
+  },
+  {
+    "id": "x-1791325346942-aia5ql",
+    "source": "x",
+    "ts": "2026-10-06T22:22:26.942Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-06T22:17:15.000Z",
+    "reason": "Circle, a major crypto firm, is associating with a prominent figure, potentially influencing USDC usage and perception.",
+    "text": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+    "url": "https://x.com/DecryptMedia/status/2107596071383728620",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791325352359-49fpwl",
+    "source": "x",
+    "ts": "2026-10-06T22:22:32.359Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-06T22:13:00.000Z",
+    "reason": "ETF losses indicate potential end to Zcash hype.",
+    "text": "The Zcash ETF bleed continues...\n\nSpot @Zcash ETFs have lost nearly $59M in October already, now on a four-day streak of major net outflows.\n\nThe ETFs have not seen a single day of positive activity since September 22.\n\nIs the $ZEC hype over for good...?",
+    "url": "https://x.com/BSCNews/status/2107595001634881716",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107403491085783040/vid/avc1/1312x720/hEXT-U6c0pB_sLjD.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107403491085783040/img/sMfVbU8jPE7iPBU0.jpg"
+    }
   }
 ]
