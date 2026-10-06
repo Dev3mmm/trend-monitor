@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791091350050-gvyz4k",
-    "source": "x",
-    "ts": "2026-10-04T05:22:30.050Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 107,
-    "originTimestamp": "2026-10-04T03:35:00.000Z",
-    "reason": "Notable new use of a token for zero-fee stablecoin transfers.",
-    "text": "Sui Network flexes zero fee stablecoin transfers.\n\nAccording to @EmanAbio, @SuiNetwork remains the only major L1 blockchain offering zero-gas stablecoin transfers to end users.\n\nThe Sui Network account itself backed this up, reminding that it costs $0 to move 1,000,000 of its own",
-    "url": "https://x.com/BSCNews/status/2106588872226349428"
-  },
-  {
-    "id": "x-1791091354860-22ov0m",
-    "source": "x",
-    "ts": "2026-10-04T05:22:34.860Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Coin Bureau",
-    "ageMin": 109,
-    "originTimestamp": "2026-10-04T03:32:48.000Z",
-    "reason": "Crypto scam involving elderly investor.",
-    "text": "🚨JUST IN: A 60-year-old Hong Kong woman LOST about 2.7 MILLION in a crypto investment SCAM after meeting someone online who claimed to be an investment expert.\n\nShe was directed to a fake crypto investment platform and transferred funds multiple times between April 14 and",
-    "url": "https://x.com/coinbureau/status/2106588320931389589"
-  },
-  {
     "id": "x-1791091930173-ze4wq2",
     "source": "x",
     "ts": "2026-10-04T05:32:10.173Z",
@@ -7418,5 +7390,45 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Which infrastructure will win as global finance moves onchain?\n\nThe rails are being built, but what ultimately powers onchain finance is still taking shape. LONGITUDE Singapore brings the conversation to the stage.\n\n• @keoneHD, Co-Founder, @monad\n• @ismiMatthew, Co-Founder,",
     "url": "https://x.com/Cointelegraph/status/2107365475613077547"
+  },
+  {
+    "id": "x-1791270734746-1b2ikb",
+    "source": "x",
+    "ts": "2026-10-06T07:12:14.746Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-06T07:11:44.000Z",
+    "reason": "Notable L1-to-L2 cross-chain transaction executed on Ethereum mainnet.",
+    "text": "Ethereum Economic Zone: First Atomic L1-to-L2 Mainnet Transaction Executed\n\nEduardo Antuña, a core contributor to the Ethereum Economic Zone (EEZ), announced on social media that the first-ever atomic cross-chain L1-to-L2 transaction has been executed on the Ethereum mainnet.",
+    "url": "https://x.com/WuBlockchain/status/2107368193031585863",
+    "images": [
+      "https://pbs.twimg.com/media/HT7gHazaIAA26vf.jpg",
+      "https://pbs.twimg.com/media/HT7gK05bAAA2p9O.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791270738341-1z0mxf",
+    "source": "x",
+    "ts": "2026-10-06T07:12:18.341Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-06T07:04:14.000Z",
+    "reason": "XRP fees and blockchain performance metric debate.",
+    "text": "XRP Fee Debate Erupts as 100X Burn Boost is Floated\n\nRipple CTO emeritus David Schwartz (@JoelKatz) criticized fee revenue as a blockchain performance metric.\n\nThe debate began after an X user proposed raising XRPL fees to burn more ripple:native. A 10x or 100x increase was",
+    "url": "https://x.com/BSCNews/status/2107366303556354446",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107361430341353472/vid/avc1/1280x720/C0EZd5T6sOx8IMdx.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107361430341353472/img/XphL7GdpEJmjwqJQ.jpg"
+    }
   }
 ]
