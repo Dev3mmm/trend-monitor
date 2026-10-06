@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791099120685-dop6nk",
-    "source": "x",
-    "ts": "2026-10-04T07:32:00.685Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 54,
-    "originTimestamp": "2026-10-04T06:37:08.000Z",
-    "reason": "Possible regulatory impact on crypto markets.",
-    "text": "🇺🇸 UPDATE: Another rates hike this month is unlikely according to the CME Group as they set a 77.9% chance that rates remain unchanged.",
-    "url": "https://x.com/Cointelegraph/status/2106634710210281906"
-  },
-  {
-    "id": "x-1791099124765-wozr05",
-    "source": "x",
-    "ts": "2026-10-04T07:32:04.765Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 95,
-    "originTimestamp": "2026-10-04T05:56:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "It's not a coincidence that @Ethena's $USDe is bigger than every single stablecoin outside of @Tether and @Circle.\n\nHere's what's made it so successful... ⬇️",
-    "url": "https://x.com/BSCNews/status/2106624356461756676"
-  },
-  {
     "id": "x-1791099717639-mkweah",
     "source": "x",
     "ts": "2026-10-04T07:41:57.639Z",
@@ -7639,5 +7612,37 @@
     "reason": "Noise: Generic and vague tweet without concrete information.",
     "text": "Mwecheche.",
     "url": "https://x.com/amerix/status/2107473066989105251"
+  },
+  {
+    "id": "x-1791297137911-dsxmty",
+    "source": "x",
+    "ts": "2026-10-06T14:32:17.911Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T14:30:46.000Z",
+    "reason": "New stablecoin launch by EtherFi is noteworthy.",
+    "text": "🔥 UPDATE: EtherFi is launching its own stablecoin through Ethena Whitelabel, building on $300M+ in stablecoin deposits.",
+    "url": "https://x.com/Cointelegraph/status/2107478678976262254",
+    "images": [
+      "https://pbs.twimg.com/media/HT9ErglWAAARTiS.png",
+      "https://pbs.twimg.com/media/HT9Er-9XkAApytQ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791297140911-17ynj3",
+    "source": "x",
+    "ts": "2026-10-06T14:32:20.911Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-06T14:25:25.000Z",
+    "reason": "No notable crypto news or move mentioned.",
+    "text": "Digital Real Estate Author Leon Wankum on the monetary premium in real estate, the money parked there because fiat no longer stores value:\n\n\"Inflation has gone through the roof, and construction and maintenance costs have gone through the roof with it, and rents can't keep up.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2107477863675175215"
   }
 ]
