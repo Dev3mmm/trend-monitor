@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791092861408-6g8y18",
-    "source": "x",
-    "ts": "2026-10-04T05:47:41.408Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 92,
-    "originTimestamp": "2026-10-04T04:15:00.000Z",
-    "reason": "No notable crypto-related news or move mentioned.",
-    "text": "⚡️NEW: South Korea and Japan are racing to ROBOTIZE their shipyards as China dominates global shipbuilding, per FT.\n\nChinese yards secured 63% of global ship orders last year, while Seoul and Tokyo are battling labor shortages, ageing workforces and rising costs.\n\nAt HD Hyundai,",
-    "url": "https://x.com/coinbureau/status/2106598938300059823"
-  },
-  {
     "id": "x-1791093348124-1tchrb",
     "source": "x",
     "ts": "2026-10-04T05:55:48.124Z",
@@ -7479,5 +7466,26 @@
     "reason": "No notable move in ETH price, price is within its recent range.",
     "text": "Vitalik: AI Will Become the New UI\n\nOn October 6, 2026, Ethereum co-founder Vitalik Buterin @VitalikButerin said at OKX NOW @okx in Singapore that AI will become the new user interface in more and more scenarios. He shared how a local AI agent wrote a script to update his ENS",
     "url": "https://x.com/WuBlockchain/status/2107395445303788012"
+  },
+  {
+    "id": "x-1791278525642-wkqq3s",
+    "source": "x",
+    "ts": "2026-10-06T09:22:05.642Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T09:20:47.000Z",
+    "reason": "Ethereum achieves a significant on-chain innovation with atomic cross-chain execution.",
+    "text": "Ethereum Brings Atomic Cross Chain Execution to Mainnet\n\nEthereum has successfully executed its first atomic cross chain transaction from L1 to L2 on mainnet.\n\nThe milestone marks the first deployment of atomic synchronous composability on Ethereum.\n\nEthereum Economic Zone (EEZ)",
+    "url": "https://x.com/BSCNews/status/2107400669951078678",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107397875844210688/vid/avc1/1280x720/9Q09S572Tlxu4y8Q.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107397875844210688/img/3BbQYJ6k9HG_810T.jpg"
+    }
   }
 ]
