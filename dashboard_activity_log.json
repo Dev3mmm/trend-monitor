@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791098003378-rnscd8",
-    "source": "x",
-    "ts": "2026-10-04T07:13:23.378Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-04T07:05:00.000Z",
-    "reason": "Arbitrum network saw significant revenue and transaction increases.",
-    "text": "Arbitrum shattered revenue records in September.\n\nThe @arbitrum network saw a staggering $5M+ worth of chain revenue in September - the best month it has seen in history.\n\nThis equates to a 500% MoM increase, $ARB also having processed some 1.5B in additional transactions in 2026",
-    "url": "https://x.com/BSCNews/status/2106641720549187827"
-  },
-  {
-    "id": "x-1791098006301-lpuav0",
-    "source": "x",
-    "ts": "2026-10-04T07:13:26.301Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 36,
-    "originTimestamp": "2026-10-04T06:37:08.000Z",
-    "reason": "No notable move in interest rates, price is within recent range.",
-    "text": "🇺🇸 UPDATE: Another rates hike this month is unlikely according to the CME Group as they set a 77.9% chance that rates remain unchanged.",
-    "url": "https://x.com/Cointelegraph/status/2106634710210281906"
-  },
-  {
     "id": "x-1791098009293-7qb8wc",
     "source": "x",
     "ts": "2026-10-04T07:13:29.293Z",
@@ -7618,6 +7591,48 @@
       "duration": 31,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107456126828617728/img/4aFD1fg-5QoOFgis.jpg"
+    }
+  },
+  {
+    "id": "x-1791292974828-8smbwg",
+    "source": "x",
+    "ts": "2026-10-06T13:22:54.828Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-06T13:20:42.000Z",
+    "reason": "Paxos integrates Arbitrum into the GDN ecosystem, a notable use of a stablecoin.",
+    "text": "Paxos Launches Global Dollar USDG) on Arbitrum\n\n@Paxos officially launched the Global Dollar ($USDG) stablecoin on @Arbitrum One, integrating Arbitrum rollup technology into the GDN ecosystem. \n\nThe integration enables seamless linking of Arbitrum liquidity pools to key GDN",
+    "url": "https://x.com/BSCNews/status/2107461045891518502",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107460258406744064/vid/avc1/1316x720/_dJSP8bAJvXEu2sl.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107460258406744064/img/Xscny9hpTQpSjanN.jpg"
+    }
+  },
+  {
+    "id": "x-1791292978104-em9xvm",
+    "source": "x",
+    "ts": "2026-10-06T13:22:58.104Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-06T13:14:44.000Z",
+    "reason": "Notable institutional partnership and expansion into traditional markets.",
+    "text": "Ripple Prime is giving a macro asset manager access to Crypto and Traditional Markets!\n\n@Ripple has expanded its relationship with Brevan Howard, one of the world's leading alternative investment managers. \n\nRipple will become a multi-asset prime broker, clearing, and financier",
+    "url": "https://x.com/BSCNews/status/2107459545324798226",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107458583344427008/vid/avc1/1316x720/9wZV4zAGU-cb_vFk.mp4?tag=29",
+      "duration": 30,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107458583344427008/img/qXrJDnK2vb1rJJqZ.jpg"
     }
   }
 ]
