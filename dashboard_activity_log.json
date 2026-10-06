@@ -1,19 +1,5 @@
 [
   {
-    "id": "x-1791108135307-61oshg",
-    "source": "x",
-    "ts": "2026-10-04T10:02:15.307Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CertiK Alert",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-04T09:59:00.000Z",
-    "reason": "Exploit or suspicious activity detected on the Ethereum network.",
-    "text": "#CertiKInsight 🚨\n\nWe have seen suspicious fund movement on Base.\n\nA newly deployed proxy was used to borrow ~1,783 aBaswstETH from vault \n,\nlater redeemed via Aave for ~1,783 wstETH (~$6M) now at\n\n\nStay Vigilant!",
-    "url": "https://x.com/CertiKAlert/status/2106685511754735682"
-  },
-  {
     "id": "x-1791108139830-sd6t9k",
     "source": "x",
     "ts": "2026-10-04T10:02:19.830Z",
@@ -7732,5 +7718,26 @@
       "https://pbs.twimg.com/media/HT9pSydWIAArul2.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791307346313-a88798",
+    "source": "x",
+    "ts": "2026-10-06T17:22:26.313Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-06T17:15:00.000Z",
+    "reason": "NO (Price is within the recent ETH range)",
+    "text": "Zebec's payroll play on Stellar is growing...\n\nThere are now some 20 different companies leveraging @Zebec_HQ's blockchain payroll platform built on the @StellarOrg network.\n\nThe collaboration extends beyond the Web3 sector, however, with remittance giant @MoneyGram handling all",
+    "url": "https://x.com/BSCNews/status/2107520007273935323",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107481315159224320/vid/avc1/1312x720/KHu1syGtYQvIvowW.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107481315159224320/img/wqsEVO6cr5tVzIOH.jpg"
+    }
   }
 ]
