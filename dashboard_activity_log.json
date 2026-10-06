@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791108139830-sd6t9k",
-    "source": "x",
-    "ts": "2026-10-04T10:02:19.830Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "PeckShieldAlert",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-04T09:56:15.000Z",
-    "reason": "Exploit involving stolen funds detected on the Ethereum network.",
-    "text": "#PeckShieldAlert It appears that 0x0B5126...B034 has drained 1,783 $wstETH (~$6M) on #Base.",
-    "url": "https://x.com/PeckShieldAlert/status/2106684818654482531"
-  },
-  {
-    "id": "x-1791108788636-6mmxid",
-    "source": "x",
-    "ts": "2026-10-04T10:13:08.636Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-04T10:07:00.000Z",
-    "reason": "Notable price increase and significant rise in market capitalization for NIGHT token.",
-    "text": "Midnight's NIGHT token just doubled in price!\n\n@MidnightNtwrk is up more than any other major crypto asset over the past week, ripping +90% and nearly doubling in price.\n\nFor now, NIGHT, is only the 73rd largest crypto asset by market cap at just over $800M, but much more growth",
-    "url": "https://x.com/BSCNews/status/2106687521987948983"
-  },
-  {
     "id": "x-1791110511491-5e8ezu",
     "source": "x",
     "ts": "2026-10-04T10:41:51.491Z",
@@ -7739,5 +7711,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107481315159224320/img/wqsEVO6cr5tVzIOH.jpg"
     }
+  },
+  {
+    "id": "x-1791307947420-au5ryw",
+    "source": "x",
+    "ts": "2026-10-06T17:32:27.420Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T17:30:47.000Z",
+    "reason": "New significant scalability upgrade in the DeFi space.",
+    "text": "⚡️ NEW: Aptos introduces MonoMove, a new execution engine it says runs smart contracts up to 55x faster in its biggest scalability upgrade yet.",
+    "url": "https://x.com/Cointelegraph/status/2107523979900489855",
+    "images": [
+      "https://pbs.twimg.com/media/HT9t4iKXkAASY_-.png",
+      "https://pbs.twimg.com/media/HT9t44rWAAAkQU-.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791307951398-fnjque",
+    "source": "x",
+    "ts": "2026-10-06T17:32:31.398Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-06T17:24:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
+    "url": "https://x.com/DecryptMedia/status/2107522274823708766"
   }
 ]
