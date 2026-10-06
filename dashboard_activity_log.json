@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791099717639-mkweah",
-    "source": "x",
-    "ts": "2026-10-04T07:41:57.639Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-04T07:36:20.000Z",
-    "reason": "Notable and potentially damaging hack involving a major tech company's official account.",
-    "text": "🚨WILD: Microsoft's official X account was HACKED to promote a Clippy meme coin.\n\nFor about 30 minutes, the account followed and reposted promoters of a Clippy-themed token, and changed its profile picture to Clippy.\n\nMicrosoft says it never authorized anyone to use Clippy to",
-    "url": "https://x.com/coinbureau/status/2106649608449642906"
-  },
-  {
-    "id": "x-1791099719564-k61poc",
-    "source": "x",
-    "ts": "2026-10-04T07:41:59.564Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-04T07:32:42.000Z",
-    "reason": "Regulatory intervention on crypto assets by a court.",
-    "text": "🇵🇭 REGULATION: A Philippine court just froze 25 crypto wallets and 86 bank accounts tied to an unnamed lawmaker in a flood control plunder probe.",
-    "url": "https://x.com/Cointelegraph/status/2106648693667418361"
-  },
-  {
     "id": "x-1791099721900-at92np",
     "source": "x",
     "ts": "2026-10-04T07:42:01.900Z",
@@ -7644,5 +7616,37 @@
     "reason": "No notable crypto news or move mentioned.",
     "text": "Digital Real Estate Author Leon Wankum on the monetary premium in real estate, the money parked there because fiat no longer stores value:\n\n\"Inflation has gone through the roof, and construction and maintenance costs have gone through the roof with it, and rents can't keep up.\"",
     "url": "https://x.com/BitcoinMagazine/status/2107477863675175215"
+  },
+  {
+    "id": "x-1791297728814-wqrqkt",
+    "source": "x",
+    "ts": "2026-10-06T14:42:08.814Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-06T14:33:25.000Z",
+    "reason": "No notable move in ETH price provided.",
+    "text": "Tutorial on Digital Credit: $STRK (\"Strike\")",
+    "url": "https://x.com/saylor/status/2107481101015114214"
+  },
+  {
+    "id": "x-1791297734372-2swtk4",
+    "source": "x",
+    "ts": "2026-10-06T14:42:14.372Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T14:40:13.000Z",
+    "reason": "MonMove upgrade could significantly speed up smart contract execution.",
+    "text": "Aptos Labs Unveils MonoMove Upgrade With Up to 55x Faster Smart Contract Execution in Tests\n\nAptos Labs announced MonoMove, a proposed upgrade to the Aptos execution engine. In internal tests, some smart contract workloads ran up to 55x faster than on the current Move VM, while",
+    "url": "https://x.com/WuBlockchain/status/2107481055691436502",
+    "images": [
+      "https://pbs.twimg.com/media/HT9G11WaoAERG1Q.jpg",
+      "https://pbs.twimg.com/media/HT9G11gbAAAxxdK.png"
+    ],
+    "video": null
   }
 ]
