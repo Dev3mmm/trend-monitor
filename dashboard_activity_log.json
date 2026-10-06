@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791087756152-m880uv",
-    "source": "x",
-    "ts": "2026-10-04T04:22:36.152Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-04T02:30:55.000Z",
-    "reason": "Generic question with no factual claim.",
-    "text": "⚡ QUESTION: If you got $5000 from Trump, what would you do with it?",
-    "url": "https://x.com/Cointelegraph/status/2106572744313708880"
-  },
-  {
     "id": "x-1791087759752-lvgg4g",
     "source": "x",
     "ts": "2026-10-04T04:22:39.752Z",
@@ -7325,5 +7312,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107035936848592896/img/itSlWa3FLHTsFOF-.jpg"
     }
+  },
+  {
+    "id": "x-1791250312386-uvzhwa",
+    "source": "x",
+    "ts": "2026-10-06T01:31:52.386Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-06T01:30:41.000Z",
+    "reason": "No notable move; price is well within the recent trading range.",
+    "text": "⚡INTERESTING: Bitcoin saw it's ATH of $126,210 exactly 365 days ago on October 6th, 2025.",
+    "url": "https://x.com/Cointelegraph/status/2107282365420544282",
+    "images": [
+      "https://pbs.twimg.com/media/HT6SJJ6XIAAzR_W.jpg"
+    ],
+    "video": null
   }
 ]
