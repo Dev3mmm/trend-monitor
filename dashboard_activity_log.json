@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791118318670-wu9j56",
-    "source": "x",
-    "ts": "2026-10-04T12:51:58.670Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-04T12:45:45.000Z",
-    "reason": "No notable move or specific actionable information provided.",
-    "text": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀  \n\n\"More orange than ever.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2106727475388592407"
-  },
-  {
-    "id": "x-1791118320378-cc2xhh",
-    "source": "x",
-    "ts": "2026-10-04T12:52:00.378Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-04T12:43:52.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "🔥 SAYLOR: \"More orange than ever.\"\n\nDo you think they're adding $BTC again?",
-    "url": "https://x.com/Cointelegraph/status/2106726997950914775"
-  },
-  {
-    "id": "x-1791119555322-7wshjx",
-    "source": "x",
-    "ts": "2026-10-04T13:12:35.322Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-04T13:05:00.000Z",
-    "reason": "Notable move in AI terminology by a high-profile tech company.",
-    "text": "🚨BREAKING: Elon Musk to rename SpaceXAI, the company behind Grok, to SpaceXSI.\n\nMusk confirmed it on X, days after Trump's order OFFICIALLY renaming artificial intelligence to \"Super Intelligence\" across federal agencies.",
-    "url": "https://x.com/coinbureau/status/2106732317750493478"
-  },
-  {
     "id": "x-1791119560271-omde0q",
     "source": "x",
     "ts": "2026-10-04T13:12:40.271Z",
@@ -7791,5 +7751,58 @@
     "url": "https://x.com/DecryptMedia/status/2107542342047600891",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791313331541-15l47w",
+    "source": "x",
+    "ts": "2026-10-06T19:02:11.541Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-06T18:59:18.000Z",
+    "reason": "Notable legal action involving Tether's USDT issuance.",
+    "text": "⚡️JUST IN: Tether is being sued over a $2.76 MILLION USDT freeze.\n\nConduit says the funds, used like an operating bank account, have been LOCKED for over a year despite Brazilian authorities not ordering the freeze.\n\nIt wants the $2.76 MILLION back plus another $2.76 MILLION in",
+    "url": "https://x.com/coinbureau/status/2107546256751128753",
+    "images": [
+      "https://pbs.twimg.com/media/HT-BUcDaYAAgKKu.jpg",
+      "https://pbs.twimg.com/media/HT-Bg-abYAAM_Dt.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791313337744-g1wl4n",
+    "source": "x",
+    "ts": "2026-10-06T19:02:17.744Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-06T18:59:00.000Z",
+    "reason": "Significant increase in liquidity TVL for Raydium DEX.",
+    "text": "Raydium liquidity surges to $1.34 BILLION.\n\nLeading @Solana DEX @Raydium has seen its TVL explode by +20% over the last month, growing from around $800M in early August to $1.344B at time of writing.\n\nRaydium listed nearly 40 new assets in the past month, including several very",
+    "url": "https://x.com/BSCNews/status/2107546180045742574",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107481621662253056/vid/avc1/1312x720/EloKAwqvtbANK_vR.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107481621662253056/img/wZK1lWIYIpMyOAss.jpg"
+    }
+  },
+  {
+    "id": "x-1791313341793-xwvvwu",
+    "source": "x",
+    "ts": "2026-10-06T19:02:21.793Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-06T18:58:41.000Z",
+    "reason": "No notable crypto-related event or price movement mentioned.",
+    "text": "🇮🇷 BIG: Iran steps up attacks on tankers in the Strait of Hormuz, threatening crude oil exports as nearly 20 commercial ships face attacks.",
+    "url": "https://x.com/Cointelegraph/status/2107546100286505093"
   }
 ]
