@@ -1,46 +1,5 @@
 [
   {
-    "id": "x-1791099725808-nreet5",
-    "source": "x",
-    "ts": "2026-10-04T07:42:05.808Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 106,
-    "originTimestamp": "2026-10-04T05:56:00.000Z",
-    "reason": "No notable move in the given context.",
-    "text": "It's not a coincidence that @Ethena's $USDe is bigger than every single stablecoin outside of @Tether and @Circle.\n\nHere's what's made it so successful... ⬇️",
-    "url": "https://x.com/BSCNews/status/2106624356461756676"
-  },
-  {
-    "id": "x-1791100316382-yualmu",
-    "source": "x",
-    "ts": "2026-10-04T07:51:56.382Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-04T07:51:00.000Z",
-    "reason": "No notable move in APT token, price is not provided.",
-    "text": "The @Aptos blockchain is taking privacy seriously. Here's what you need to know about confidential APT. ⬇️",
-    "url": "https://x.com/BSCNews/status/2106653296333144289"
-  },
-  {
-    "id": "x-1791100318704-mjeo48",
-    "source": "x",
-    "ts": "2026-10-04T07:51:58.704Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-04T07:36:20.000Z",
-    "reason": "Exploit involving a high-profile company's account.",
-    "text": "🚨WILD: Microsoft's official X account was HACKED to promote a Clippy meme coin.\n\nFor about 30 minutes, the account followed and reposted promoters of a Clippy-themed token, and changed its profile picture to Clippy.\n\nMicrosoft says it never authorized anyone to use Clippy to",
-    "url": "https://x.com/coinbureau/status/2106649608449642906"
-  },
-  {
     "id": "x-1791100320533-8p2ipf",
     "source": "x",
     "ts": "2026-10-04T07:52:00.533Z",
@@ -7662,5 +7621,57 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107481421308682240/img/dDttcxZclgXeWZS1.jpg"
     }
+  },
+  {
+    "id": "x-1791299040164-qruhwj",
+    "source": "x",
+    "ts": "2026-10-06T15:04:00.164Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-06T14:59:50.000Z",
+    "reason": "Notable blockchain speed improvement and new execution engine announcement.",
+    "text": "Aptos just upgraded to 55X speed!\n\n@AptosLabs officially announces MonoMove, a completely re-architected execution engine providing up to 55x faster processing of smart contracts in institutional markets. \n\nTests of the new execution system used @Aptos mainnet transaction data",
+    "url": "https://x.com/BSCNews/status/2107485994010218660",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107485176896909314/vid/avc1/1316x720/pGa_7LhOV8H8HxWp.mp4?tag=29",
+      "duration": 30,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107485176896909314/img/rwJ3nvTu_QOtogPy.jpg"
+    }
+  },
+  {
+    "id": "x-1791299045999-mkhgrd",
+    "source": "x",
+    "ts": "2026-10-06T15:04:05.999Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 84,
+    "originTimestamp": "2026-10-06T13:39:07.000Z",
+    "reason": "New features and platform upgrades for the social trading app.",
+    "text": "JUST IN: @gomo_family has rolled out v2 with a fresh new look and an upgraded platform experience\n\nThe update adds Robinhood Chain to the trading terminal, introduces task rewards and comes as the solana:9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump social trading app passes",
+    "url": "https://x.com/BSCNews/status/2107485896853295309",
+    "images": [
+      "https://pbs.twimg.com/media/HT9LLxEWMAAe5pL.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791299050311-trjfv0",
+    "source": "x",
+    "ts": "2026-10-06T15:04:10.311Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-06T14:53:44.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "JUST IN: Digital Real Estate author Leon Wankum says saving in Bitcoin is a better inflation hedge than investing in real estate. \n\n\"There is no need to invest your money into real estate to save it from inflation. You can just save in Bitcoin.\" 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2107484458215518515"
   }
 ]
