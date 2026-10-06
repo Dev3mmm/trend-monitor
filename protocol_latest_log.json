@@ -2272,5 +2272,19 @@
     "fetchedAt": "2026-10-06T02:42:36.263Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-675358aa59264dc2",
+    "title": "Road Accident Risk Prediction Challenge: Predict Risk from Road Conditions",
+    "url": "https://aioz.network/blog/road-accident-risk-prediction-challenge-predict-risk-from-road-conditions",
+    "description": "TL;DR The Road Accident Risk Prediction Challenge on AIOZ AI is a practice-focused tabular regression task. Use structural, environmental, temporal, and historical traffic data to predict a continuous accident_risk score from 0 to 1 for each road segment. Practice preprocessing, feature engineering, gradient-boosted regression, cross-validation, and submission generation. The provided baseline han",
+    "publishedAt": "2026-10-06T07:26:45.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-06T07:42:46.186Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
