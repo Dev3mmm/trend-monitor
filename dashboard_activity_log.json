@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791207774969-8j9cee",
-    "source": "x",
-    "ts": "2026-10-05T13:42:54.969Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-05T13:29:56.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "LIVE: BTC Macro, MSTR Outlook, Ex-Fed Insider on Bitcoin | BMTV Oct. 05, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2107100980844392844"
-  },
-  {
-    "id": "x-1791208351574-pz2tnq",
-    "source": "x",
-    "ts": "2026-10-05T13:52:31.574Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T13:50:36.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "ICYMI: Binance Intelligence Product Launch Livestream is now available to watch anytime.",
-    "url": "https://x.com/binance/status/2107106183131926666"
-  },
-  {
     "id": "x-1791208356338-7uhiwm",
     "source": "x",
     "ts": "2026-10-05T13:52:36.338Z",
@@ -8130,5 +8104,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107782184220155905/img/hjMllOQYZh9-drMh.jpg"
     }
+  },
+  {
+    "id": "x-1791370339847-xkwnh7",
+    "source": "x",
+    "ts": "2026-10-07T10:52:19.847Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T10:50:30.000Z",
+    "reason": "Europol's warning highlights a significant security concern in the crypto space.",
+    "text": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
+    "url": "https://x.com/DecryptMedia/status/2107785632504234144",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791370342792-hg1rrc",
+    "source": "x",
+    "ts": "2026-10-07T10:52:22.792Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-07T10:45:40.000Z",
+    "reason": "No notable move in ETH price within the recent range.",
+    "text": "Aster (@Aster_DEX) vs. Hyperliquid (@HyperliquidX): Which perp DEX is winning?\n\nOur latest breakdown compares their liquidity, leverage, fees, privacy, tokenomics, and products 👇",
+    "url": "https://x.com/BSCNews/status/2107784418618482726"
   }
 ]
