@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791194534855-cieqqb",
-    "source": "x",
-    "ts": "2026-10-05T10:02:14.855Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-05T09:59:41.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Weekly Market Watch 🗓️\n\n• FOMC Minutes \n• U.S. ISM Services PMI\n• Michigan Consumer Sentiment\n\nMarkets move 24/7.\n\n👉",
-    "url": "https://x.com/binance/status/2107048068067856819"
-  },
-  {
     "id": "x-1791194539953-c7f9u8",
     "source": "x",
     "ts": "2026-10-05T10:02:19.953Z",
@@ -8119,5 +8106,26 @@
       "https://pbs.twimg.com/media/HUAdI4oa0AAaIAT.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791354737474-knsa2d",
+    "source": "x",
+    "ts": "2026-10-07T06:32:17.474Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-07T06:23:18.000Z",
+    "reason": "Upgrade raises Ethereum testnet gas limit to new high.",
+    "text": "Ethereum Could Soon Get Much More Powerful...\n\nEthereum’s Glamsterdam upgrade activated on Sepolia on Oct. 6 for a major public network test.\n\nThe upgrade raises the testnet gas limit to 200 million, above the previous 60 million level.\n\nDevelopers will monitor whether validators",
+    "url": "https://x.com/BSCNews/status/2107718391075426754",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107702956674154496/vid/avc1/1280x720/lLtr_bfkZe5FMN0f.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107702956674154496/img/LU0TksPJ4dCsDLry.jpg"
+    }
   }
 ]
