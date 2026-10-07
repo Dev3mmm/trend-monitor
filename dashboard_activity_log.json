@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791161091133-ne2bvz",
-    "source": "x",
-    "ts": "2026-10-05T00:44:51.133Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 30,
-    "originTimestamp": "2026-10-05T00:14:05.000Z",
-    "reason": "No notable move in cryptocurrency prices or adoption.",
-    "text": "BREAKING: United Airlines just announced that 880+ aircraft will have @Starlink by the end of 2026, with its entire fleet expected to be connected by end of 2027.\n\nStarlink has connected 14.2 million devices on 464,000+ flights and is active on over 560 United aircraft today.",
-    "url": "https://x.com/elonmusk/status/2106907525136466346"
-  },
-  {
-    "id": "x-1791162545387-lkmpk5",
-    "source": "x",
-    "ts": "2026-10-05T01:09:05.387Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-05T01:00:55.000Z",
-    "reason": "Notable regulatory move affecting digital asset lending.",
-    "text": "🚨 NEW: S&amp;P Global Ratings rolls out a Vault Risk Assessment framework to evaluate the risks of onchain digital asset lending vaults, which now hold $10B in deposits.",
-    "url": "https://x.com/Cointelegraph/status/2106912484258988123"
-  },
-  {
     "id": "x-1791163308258-mpzgb0",
     "source": "x",
     "ts": "2026-10-05T01:21:48.258Z",
@@ -7939,5 +7912,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107609353314557952/img/Jr71exkC8cx8Glpb.jpg"
     }
+  },
+  {
+    "id": "x-1791333174532-opse9w",
+    "source": "x",
+    "ts": "2026-10-07T00:32:54.532Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-07T00:30:43.000Z",
+    "reason": "Specific bank's adoption of major cryptocurrencies",
+    "text": "🇿🇦 JUST IN: FNB, one of South Africa's largest banks, now lets customers buy $BTC, $ETH, $XRP, $SOL and $USDT from as little as R10 through its share-trading platform, in partnership with VALR.",
+    "url": "https://x.com/Cointelegraph/status/2107629661333156006",
+    "images": [
+      "https://pbs.twimg.com/media/HT_OAL7XEAAzRqx.jpg",
+      "https://pbs.twimg.com/media/HT_OAdvXAAAEzQk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791333178042-m2ygot",
+    "source": "x",
+    "ts": "2026-10-07T00:32:58.042Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-07T00:25:00.000Z",
+    "reason": "No notable move in XDC Network address count within its recent range.",
+    "text": "XDC Network now has 2.35 million addresses.\n\nAccording to data from XDCScan, the @XDCNetwork is now close to the 2.35 million address milestone, the blockchain currently adding around 1,000 new addresses per day.\n\nThe network currently sees between 1-2 million unique transactions",
+    "url": "https://x.com/BSCNews/status/2107628220271284269"
   }
 ]
