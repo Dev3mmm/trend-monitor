@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791178307899-0rct3o",
-    "source": "x",
-    "ts": "2026-10-05T05:31:47.899Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T05:30:57.000Z",
-    "reason": "Notable figure from a major political figure calling for changes in a financial institution.",
-    "text": "🇺🇸 NEW: Trump's top economic adviser Kevin Hassett called on former Fed Chair Powell to leave the Fed board after an internal report flagged management failures in its headquarters renovation.",
-    "url": "https://x.com/Cointelegraph/status/2106980442280763729"
-  },
-  {
-    "id": "x-1791178310434-tuqkpa",
-    "source": "x",
-    "ts": "2026-10-05T05:31:50.434Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-05T05:26:00.000Z",
-    "reason": "Large unrealized gains from Bitcoin holdings in the SAFU fund.",
-    "text": "Binance’s SAFU Fund is Now Sitting on $280M in Paper Profits\n\nBinance’s SAFU insurance fund now holds more than $1.27 billion worth of Bitcoin.\n\nThe fund is sitting on roughly $270 million in unrealized gains from its bitcoin:native holdings. Binance converted about $1 billion in",
-    "url": "https://x.com/BSCNews/status/2106979193724571860"
-  },
-  {
     "id": "x-1791178311765-rvhy9d",
     "source": "x",
     "ts": "2026-10-05T05:31:51.765Z",
@@ -8011,5 +7983,39 @@
       "https://pbs.twimg.com/media/HT_3VD_bUAAkghT.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791344487193-1l5gdp",
+    "source": "x",
+    "ts": "2026-10-07T03:41:27.193Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T03:40:00.000Z",
+    "reason": "Coinbase's relaunch and integration with Deribit represent significant institutional adoption and expansion.",
+    "text": "Coinbase Brings Pro Back as Deribit Integration Goes Live\n\nCoinbase (@coinbase) says it will relaunch Coinbase Pro by the end of this year.\n\nThe exchange has completed its Deribit integration, creating Coinbase Global Exchange.\n\nEligible US institutions will soon access global",
+    "url": "https://x.com/BSCNews/status/2107677293850103892",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107672607600582656/vid/avc1/1280x720/wV8INNehUlHjPN04.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107672607600582656/img/3WZ_qFoN9AAY300B.jpg"
+    }
+  },
+  {
+    "id": "x-1791344489038-mwd3bh",
+    "source": "x",
+    "ts": "2026-10-07T03:41:29.038Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-07T03:31:53.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🇸🇬 TOKEN2049: Ethena founder @gdog97_  says yield isn't commoditized, because while anyone can access the same yield, users don't place the same trust in every operator's risk management.",
+    "url": "https://x.com/Cointelegraph/status/2107675252973342764"
   }
 ]
