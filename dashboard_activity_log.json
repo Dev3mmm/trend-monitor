@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791213838626-ogw1um",
-    "source": "x",
-    "ts": "2026-10-05T15:23:58.626Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-05T15:13:53.000Z",
-    "reason": "No notable move or specific event, price is within the recent range.",
-    "text": "Had you tracked our pre-built filter, \"Rising Stars\", you would have seen a 12% gain over $BTC so far this year.\n\nIncredible performance when you know where to look!\n\nBecome a subscriber to access our pre-built filters, risk analysis tools, and more!\n\n🔗",
-    "url": "https://x.com/BSCNews/status/2107127250751496381"
-  },
-  {
-    "id": "x-1791213844167-jw3g33",
-    "source": "x",
-    "ts": "2026-10-05T15:24:04.167Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-05T15:01:50.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Strategy added another 334 $BTC for about $28.7 million, so they're at 848,000 now, and buying around $85,839 a coin is kind of just steady accumulation.\n\nThat's today's BSCN Daily, along with Russia opening crypto exchange registers. Watch today's episode.",
-    "url": "https://x.com/BSCNews/status/2107127188038533557"
-  },
-  {
-    "id": "x-1791213848160-b5wicv",
-    "source": "x",
-    "ts": "2026-10-05T15:24:08.160Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 62,
-    "originTimestamp": "2026-10-05T14:21:38.000Z",
-    "reason": "Vague statement without specific factual claim.",
-    "text": "Coinbase's Ryan VanGrack: \"The question is not whether tokenization is going to transform our financial system. It's a question of where.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2107126617323557334"
-  },
-  {
     "id": "x-1791214341486-c8yau4",
     "source": "x",
     "ts": "2026-10-05T15:32:21.486Z",
@@ -8100,5 +8061,63 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107810868192829440/img/ZcA0GwFbVqJXA22V.jpg"
     }
+  },
+  {
+    "id": "x-1791378182796-etsob7",
+    "source": "x",
+    "ts": "2026-10-07T13:03:02.796Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-07T13:01:17.000Z",
+    "reason": "Europol's warning suggests significant regulatory or security implications.",
+    "text": "🇪🇺 ALERT: Europol warns quantum computing could expose crypto wallet private keys, urging a shift to quantum-resistant security.",
+    "url": "https://x.com/Cointelegraph/status/2107818548013723920",
+    "images": [
+      "https://pbs.twimg.com/media/HUB5zB3XEAA7nbk.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791378185229-u9jxrf",
+    "source": "x",
+    "ts": "2026-10-07T13:03:05.229Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-07T12:59:03.000Z",
+    "reason": "Unusual revenue gap compared to on-chain transactions.",
+    "text": "Polkadot's on-chain revenue doesn't tell its story\n\n@Polkadot shows an extraordinary gap between its secondary-market valuation and onchain monetization, with $23 in daily revenue from onchain transactions over the last 30 days.\n\n@chainspect_app data shows about 1,400",
+    "url": "https://x.com/BSCNews/status/2107817985243054312",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107817951487295488/vid/avc1/1316x720/HlAqid5gJWVNkOKq.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107817951487295488/img/cfrppN2VFkj4hkGK.jpg"
+    }
+  },
+  {
+    "id": "x-1791378188142-ka66jr",
+    "source": "x",
+    "ts": "2026-10-07T13:03:08.142Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-07T12:55:07.000Z",
+    "reason": "Tether's central bank agreement with Kazakhstan highlights regulatory and institutional interest in stablecoins.",
+    "text": "⚡️JUST IN: Tether has officially SIGNED an agreement with Kazakhstan’s central bank to explore a tenge-backed stablecoin.\n\nTether and the National Bank will study global stablecoin models, local use cases and the infrastructure needed for a potential pilot.\n\nThe agreement also",
+    "url": "https://x.com/coinbureau/status/2107816994271825966",
+    "images": [
+      "https://pbs.twimg.com/media/HUB3BjPacAIT8-z.jpg",
+      "https://pbs.twimg.com/media/HUB3hembQAAWeGv.png"
+    ],
+    "video": null
   }
 ]
