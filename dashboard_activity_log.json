@@ -1,61 +1,5 @@
 [
   {
-    "id": "x-1791212536930-2pb7t9",
-    "source": "x",
-    "ts": "2026-10-05T15:02:16.930Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-05T15:01:32.000Z",
-    "reason": "Strive's Bitcoin holdings have reached a significant amount outside its recent range.",
-    "text": "🔥 UPDATE: Strive adds 2,000 $BTC for $169M, bringing its Bitcoin treasury to 29,462 $BTC.",
-    "url": "https://x.com/Cointelegraph/status/2107124032529117401",
-    "images": [
-      "https://pbs.twimg.com/media/HT4CIdFWQAAuWFr.jpg",
-      "https://pbs.twimg.com/media/HT4CIzEXEAA0xWC.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791212542022-0gna9g",
-    "source": "x",
-    "ts": "2026-10-05T15:02:22.022Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T15:00:55.000Z",
-    "reason": "Bank explicitly mentions Bitcoin as important for customers.",
-    "text": "JUST IN: $400 million St. Cloud Credit Union says \"Bitcoin's really important to us, obviously that's one that we know is going to be here in the future.\" 👀\n\n\"You'll see your insured checking account, and then you'll see your Bitcoin vault sitting there next to it.\" 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2107123876501106690",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107120970255208448/vid/avc1/1280x720/f9CY73ddi6G4_3YT.mp4?tag=29",
-      "duration": 270,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107120970255208448/img/0vyeLI5nuKKygpkJ.jpg"
-    }
-  },
-  {
-    "id": "x-1791212545911-6x3yyh",
-    "source": "x",
-    "ts": "2026-10-05T15:02:25.911Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 71,
-    "originTimestamp": "2026-10-05T13:50:36.000Z",
-    "reason": "Binance introduces new AI-powered finance product for crypto.",
-    "text": "🔥TODAY: Binance just launched \"Binance Intelligence\", its new AI-powered finance product, making crypto easier to understand using AI.",
-    "url": "https://x.com/coinbureau/status/2107123651980279924",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791212551454-5zbf5k",
     "source": "x",
     "ts": "2026-10-05T15:02:31.454Z",
@@ -8114,5 +8058,47 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "🚨JUST IN: Since 1950, S&amp;P 500 all-time highs have been followed by average forward returns of +9.5% after 1yr, +30.2% after 3yrs, and +55.8% after 5yrs.",
     "url": "https://x.com/coinbureau/status/2107801864615911699"
+  },
+  {
+    "id": "x-1791375137978-9e43k7",
+    "source": "x",
+    "ts": "2026-10-07T12:12:17.978Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-07T12:06:43.000Z",
+    "reason": "Potential institutional interest from major exchanges.",
+    "text": "Will @Binance or @Coinbase ever list @CantonNetwork's $CC token?\n\nThe asset is now listed on nearly every major exchange, but the two most coveted platforms have eluded it...",
+    "url": "https://x.com/BSCNews/status/2107804812372844569",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791375142922-d5tgjw",
+    "source": "x",
+    "ts": "2026-10-07T12:12:22.922Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-07T12:02:38.000Z",
+    "reason": "No notable crypto-related news or on-chain data point present.",
+    "text": "Republicans Continue to Struggle Ahead of Midterms...\n\nAhead of the November 3 midterm elections in the United States, Republicans trail Democrats by 9.6 points in Nate Silver's forecast model.\n\nDemocrats are favored to win the Senate seat with a 74% chance and are heavily",
+    "url": "https://x.com/BSCNews/status/2107803786504720547"
+  },
+  {
+    "id": "x-1791375148261-f3br33",
+    "source": "x",
+    "ts": "2026-10-07T12:12:28.261Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-07T12:01:51.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "New bStock Listing.\n\nTrade: JPMB/USDT, LLYB/USDT, SECZB/USDT and USDEB/USDT\n\n24/7 access. 1:1 free and instant exchange for actual stocks on Binance.\n\nExchange the World, one market at a time.\n\nRead more 👉",
+    "url": "https://x.com/binance/status/2107803589926076811"
   }
 ]
