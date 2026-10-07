@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791082369835-4jizu7",
-    "source": "x",
-    "ts": "2026-10-04T02:52:49.835Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 97,
-    "originTimestamp": "2026-10-04T01:15:00.000Z",
-    "reason": "Notable financial move involving government bonds and central bank debt.",
-    "text": "🚨LATEST: Sumitomo Mitsui DS reportedly EXITED its entire position in French government bonds, rotating into German Bunds and short-term Japanese debt.\n\nThis wasn’t a trim. It was a full exit.\n\nFrance’s 10-year spread over Germany has reportedly surged past 140 basis points,",
-    "url": "https://x.com/coinbureau/status/2106553639703834952"
-  },
-  {
-    "id": "x-1791235631716-82s9hy",
-    "source": "x",
-    "ts": "2026-10-05T21:27:11.716Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-05T21:11:53.000Z",
-    "reason": "No notable move in ETH within its recent range.",
-    "text": "A fund’s assets can sit across exchanges, wallets and dozens of DeFi protocols. How do you turn all those positions into numbers investors can trust?\n\n@renesisfi reconciles them into one accounting ledger, bringing portfolio management, trade execution and investor reporting into",
-    "url": "https://x.com/Cointelegraph/status/2107220872490537312"
-  },
-  {
     "id": "x-1791235635762-88loh0",
     "source": "x",
     "ts": "2026-10-05T21:27:15.762Z",
@@ -8093,6 +8066,38 @@
     "ageMin": 2,
     "originTimestamp": "2026-10-07T19:20:41.000Z",
     "reason": "Newsworthy on-chain transaction data highlight Sui's scalability capabilities.",
+    "text": "⚡️ NEW: Sui’s offchain tunnels hit 40.6 million transactions per second in a live stress test simulating high-frequency AI agent activity.",
+    "url": "https://x.com/Cointelegraph/status/2107914024809648209",
+    "images": [
+      "https://pbs.twimg.com/media/HUDQoZTXUAA0SS7.jpg",
+      "https://pbs.twimg.com/media/HUDQolUXYAEos_1.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791401188193-s46mgb",
+    "source": "x",
+    "ts": "2026-10-07T19:26:28.193Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 77,
+    "originTimestamp": "2026-10-07T18:08:54.000Z",
+    "reason": "Vague industry analysis with no concrete factual claim.",
+    "text": "NVIDIA is ~80% of global AI data center chip revenue,\nMicron ~20% of DRAM,\nAlphabet ~50% of search advertising,\nMicrosoft ~50% of productivity software,\nApple ~50% of smartphones,\nAmazon ~30% of cloud infrastructure.\nStrategy owns ~4% of all Bitcoin ever.\nWe’re still early.",
+    "url": "https://x.com/saylor/status/2107914776294666244"
+  },
+  {
+    "id": "x-1791401192749-r9vm0o",
+    "source": "x",
+    "ts": "2026-10-07T19:26:32.749Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-07T19:20:41.000Z",
+    "reason": "Notable new use of a token with high transaction throughput.",
     "text": "⚡️ NEW: Sui’s offchain tunnels hit 40.6 million transactions per second in a live stress test simulating high-frequency AI agent activity.",
     "url": "https://x.com/Cointelegraph/status/2107914024809648209",
     "images": [
