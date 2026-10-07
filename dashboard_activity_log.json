@@ -1,46 +1,5 @@
 [
   {
-    "id": "x-1791181935006-rc2v9m",
-    "source": "x",
-    "ts": "2026-10-05T06:32:15.006Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T06:30:55.000Z",
-    "reason": "Net inflows for BTC and XRP spot ETFs, with SOL and ETH showing outflows.",
-    "text": "🇺🇸 ETF FLOWS: BTC, SOL and XRP spot ETFs saw net inflows last week, while ETH spot ETFs saw net outflows.\n\nBTC: $241.09M\nETH: - $138.02M\nSOL: $2.43M\nXRP: $4.74M",
-    "url": "https://x.com/Cointelegraph/status/2106995533529104717"
-  },
-  {
-    "id": "x-1791181938391-1zod8q",
-    "source": "x",
-    "ts": "2026-10-05T06:32:18.391Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-05T06:27:35.000Z",
-    "reason": "No notable move or newsworthy event described.",
-    "text": "Ethereum Outpaced Bitcoin, But its Liquidity Took a Hit\n\nEther gained 70% in the third quarter, beating Bitcoin’s 42% rise, according to CoinGecko.\n\nYet ethereum:native’s median daily market depth fell sharply compared with the same period last year. Ether held only 35% to 45% of",
-    "url": "https://x.com/BSCNews/status/2106994693934653466"
-  },
-  {
-    "id": "x-1791183173722-7znbx0",
-    "source": "x",
-    "ts": "2026-10-05T06:52:53.722Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-05T06:47:04.000Z",
-    "reason": "Stellar's DeFi total value locked reaches a new all-time high.",
-    "text": "Stellar’s DeFi TVL Hits a New Record \n\nStellar’s DeFi total value locked has reached a new all-time high of nearly $272 million.\n\nThe network now has roughly $934.5 million in stablecoin market capitalization.\n\nStellar also hosts about $2.82 billion in active real-world assets",
-    "url": "https://x.com/BSCNews/status/2106999597273108815"
-  },
-  {
     "id": "x-1791183179162-j2jm98",
     "source": "x",
     "ts": "2026-10-05T06:52:59.162Z",
@@ -8041,6 +8000,50 @@
     "url": "https://x.com/Cointelegraph/status/2107685400659800333",
     "images": [
       "https://pbs.twimg.com/media/HUAAsVTbIAAr3Cd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791347536384-r001rh",
+    "source": "x",
+    "ts": "2026-10-07T04:32:16.384Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-07T04:20:09.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "Grok Build just got one of its biggest updates yet.....a massive upgrade touching almost every part of the agent stack\n\nCompact mode gets a major upgrade, timestamps are now configurable, shell commands clearly show when they’re running or finished, tables can export directly as",
+    "url": "https://x.com/elonmusk/status/2107689502508781586"
+  },
+  {
+    "id": "x-1791347539980-yvebw0",
+    "source": "x",
+    "ts": "2026-10-07T04:32:19.980Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-07T04:26:34.000Z",
+    "reason": "No notable move or breaking news as the delay is administrative and not related to market performance.",
+    "text": "XRP Treasury Firm’s Nasdaq Debut Gets Pushed Back\n\nXRP treasury firm, Evernorth, has pushed back its planned public debut following an administrative delay.\n\nThe company now expects to complete its merger with Armada II on October 9. Its XRP-focused business is expected to begin",
+    "url": "https://x.com/BSCNews/status/2107689015235465256"
+  },
+  {
+    "id": "x-1791347543222-izefvv",
+    "source": "x",
+    "ts": "2026-10-07T04:32:23.222Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-07T04:24:52.000Z",
+    "reason": "Specific institutional statement on digital assets.",
+    "text": "🇸🇬 DAS: Fidelity's Cynthia Lo Bessette live at @blockworksDAS says financial institutions now need to be \"ambidextrous,\" running both traditional and digital asset infrastructure at scale.",
+    "url": "https://x.com/Cointelegraph/status/2107688586086895938",
+    "images": [
+      "https://pbs.twimg.com/media/HUADhASaQAAe1Hr.jpg"
     ],
     "video": null
   }
