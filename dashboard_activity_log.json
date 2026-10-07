@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791190959462-uf8pcb",
-    "source": "x",
-    "ts": "2026-10-05T09:02:39.462Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-05T08:54:17.000Z",
-    "reason": "No notable crypto-related news",
-    "text": "BREAKING: The euro continues to fall against the US dollar, hitting its weakest level in 17 months.\n\nEUR/USD trades near $1.116, down another ~0.8% today and roughly 4.5% since August.\n\nThe drop is being driven by French debt stress, wider French-German bond spreads, weak growth",
-    "url": "https://x.com/coinbureau/status/2107031611820949780"
-  },
-  {
-    "id": "x-1791191527305-bi3mo4",
-    "source": "x",
-    "ts": "2026-10-05T09:12:07.305Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-05T09:04:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Vitalik Puts AI Privacy to The Test\n\nEthereum co-founder Vitalik Buterin (@VitalikButerin) says he tested AI recommendations using personal health and travel data.\n\nA local model handled queries before sending limited requests to remote frontier models.\n\nThe setup used zkAPI to",
-    "url": "https://x.com/BSCNews/status/2107034056013795791"
-  },
-  {
     "id": "x-1791192734993-vykhs7",
     "source": "x",
     "ts": "2026-10-05T09:32:14.993Z",
@@ -8096,5 +8070,39 @@
     "reason": "The tweet is unrelated to crypto and lacks any specific content.",
     "text": "If Education is supposed to change lives, why do educated people throw litter out of their car windows for the less educated to pick and dispose?",
     "url": "https://x.com/amerix/status/2107705697118958038"
+  },
+  {
+    "id": "x-1791352342349-69bg1a",
+    "source": "x",
+    "ts": "2026-10-07T05:52:22.349Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-07T05:48:21.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "🇸🇬 TOKEN2049: Former New York governor Andrew Cuomo on the stalled CLARITY Act: \"When CLARITY fails, ambiguity prevails.\"",
+    "url": "https://x.com/Cointelegraph/status/2107709595938329005"
+  },
+  {
+    "id": "x-1791352348136-hyv9v1",
+    "source": "x",
+    "ts": "2026-10-07T05:52:28.136Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-07T05:45:40.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Cardano Founder Calls Out Gemini Over ADA Listing\n\nCardano (@Cardano) founder Charles Hoskinson (@IOHK_Charles) has renewed criticism of Gemini’s decision to exclude cardano:native.\n\nHe posted “List ADA” after Gemini co-founder Tyler Winklevoss shared an anniversary message.",
+    "url": "https://x.com/BSCNews/status/2107708918038405301",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107700505581666304/vid/avc1/1280x720/6_rv50J_WThcDNrP.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107700505581666304/img/XaKMbMm_HGy8iHWL.jpg"
+    }
   }
 ]
