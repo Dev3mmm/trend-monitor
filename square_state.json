@@ -1071,19 +1071,10 @@
     "x-1791340926268-pjjdr1",
     "x-1791342217736-03tj1s",
     "x-1791343333837-76tm72",
-    "x-1791343338775-61zpck"
+    "x-1791343338775-61zpck",
+    "x-1791343936719-yyfl5f"
   ],
   "queue": [
-    {
-      "text": "🇿🇦 JUST IN: FNB, one of South Africa's largest banks, now lets customers buy $BTC, $ETH, $XRP, $SOL and $USDT from as little as R10 through its share-trading platform, in partnership with VALR.",
-      "url": "https://x.com/Cointelegraph/status/2107629661333156006",
-      "images": [
-        "https://pbs.twimg.com/media/HT_OAL7XEAAzRqx.jpg",
-        "https://pbs.twimg.com/media/HT_OAdvXAAAEzQk.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1791333178104
-    },
     {
       "text": "🇺🇸 JUST IN: US government wallets just moved over $103M in crypto in nine hours, shipping 833 BTC and 40,285 BNB to unlabeled addresses, per Arkham.",
       "url": "https://x.com/Cointelegraph/status/2107644753386877044",
@@ -1164,6 +1155,15 @@
       ],
       "video": null,
       "enqueuedAt": 1791343338833
+    },
+    {
+      "text": "🇸🇬 TOKEN2049: Ethena founder Guy Young says yield isn't commoditized, because while anyone can access the same yield, users don't place the same trust in every operator's risk management.",
+      "url": "https://x.com/Cointelegraph/status/2107675101584073130",
+      "images": [
+        "https://pbs.twimg.com/media/HT_3VD_bUAAkghT.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791343936770
     }
   ],
   "posted": [
@@ -1346,7 +1346,13 @@
       "at": 1791342217794,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/374583390527847?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇿🇦 JUST IN: FNB, one of South Africa's largest banks, now lets customers buy $BTC, $ETH, $XRP, $SOL and $USDT from as little as R10 through its share-trading platform, in partnership with VALR.",
+      "at": 1791343936770,
+      "status": "failed",
+      "error": "f1a4fb69247c01d04a4be1a.jpg\nUploading: sq_1791343936770_1.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261007/319444d2426a4ee697f16868b86dfe9b.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
     }
   ],
-  "lastPostAt": 1791342217794
+  "lastPostAt": 1791343936770
 }
