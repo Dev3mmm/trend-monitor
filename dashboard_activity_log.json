@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791207759360-f740el",
-    "source": "x",
-    "ts": "2026-10-05T13:42:39.360Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-05T13:32:07.000Z",
-    "reason": "Notable institutionally-backed crypto project buying back BTC in bulk.",
-    "text": "🔥BULLISH: Metaplanet bought back 11,000 BTC worth roughly $870 MILLION by the end of September.\n\nAfter selling 10,000 BTC during the quarter, the company returned with a larger buy, adding 1,000 BTC net worth roughly $79 MILLION.\n\n“We held that cash, then bought back more",
-    "url": "https://x.com/coinbureau/status/2107101529518055693",
-    "images": [
-      "https://pbs.twimg.com/media/HT3tj0zbsAA-ZPE.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791207766645-xu1fe2",
-    "source": "x",
-    "ts": "2026-10-05T13:42:46.645Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-05T13:31:29.000Z",
-    "reason": "Hedera's TVL has increased by nearly 5% in the past 24 hours, which is a notable move in the DeFi space.",
-    "text": "Hedera's Network Activity is ripping hard!\n\nThe @Hedera blockchain has continued to gain traction in recent weeks. \n\nThe chain has already recorded a nearly 5% increase in TVL in the past 24 hours. However, this is not the most notable update. \n\nAccording to DefiLlama data,",
-    "url": "https://x.com/BSCNews/status/2107101372625637503",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107101241109057536/vid/avc1/1316x720/uSXf-JxsssiWJu6Y.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107101241109057536/img/SGKS99PjYbj9dLeO.jpg"
-    }
-  },
-  {
     "id": "x-1791207771171-l47ff8",
     "source": "x",
     "ts": "2026-10-05T13:42:51.171Z",
@@ -8128,5 +8089,44 @@
       "https://pbs.twimg.com/media/HUBUoydXgAATWdn.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791369094423-y063v9",
+    "source": "x",
+    "ts": "2026-10-07T10:31:34.423Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T10:30:46.000Z",
+    "reason": "A notable development in blockchain security tools.",
+    "text": "🇸🇬 SUI BASECAMP: Sui's @EmanAbio announces Sui Threat Intelligence, a new tool that detects vulnerabilities, alerts developers and helps contain threats.",
+    "url": "https://x.com/Cointelegraph/status/2107780667450822888",
+    "images": [
+      "https://pbs.twimg.com/media/HUBXVOfWQAAIb-m.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791369096871-h2ooex",
+    "source": "x",
+    "ts": "2026-10-07T10:31:36.871Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-07T10:26:10.000Z",
+    "reason": "First tokenized fund from BlackRock on a public blockchain.",
+    "text": "What is BlackRock's BUIDL??\n\nLaunched in March 2024, BUIDL is BlackRock’s first tokenized fund issued on a public blockchain.\n\nIt takes a traditional investment fund and represents its ownership through blockchain-based tokens.\n\n(1) What does BUIDL hold?\n\nThe fund invests in",
+    "url": "https://x.com/BSCNews/status/2107779508971704373",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107774569012748288/vid/avc1/1280x720/nMNKX8y5EU-zEPkp.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107774569012748288/img/EVUWlekcOyno2yjy.jpg"
+    }
   }
 ]
