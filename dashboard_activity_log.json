@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1791245122211-d1ya0x",
-    "source": "x",
-    "ts": "2026-10-06T00:05:22.211Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-05T23:53:00.000Z",
-    "reason": "Not newsworthy, lacks concrete details or impact.",
-    "text": "Plume adds Fidelity-backed vault to its RWA suite.\n\nThe tokenisation-focused @plumenetwork has just unveiled it brand-new RWA vault nBND.\n\nThe vault is fully-backed Fidelity Total Bond ETF (FBND) which is actively managed and mostly invests in emerging market debt.\n\nA new",
-    "url": "https://x.com/BSCNews/status/2107257779484246484",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107035653384835072/vid/avc1/1312x720/e84DXiU46ofPc7VE.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107035653384835072/img/RBZaxCWB8wej8U4t.jpg"
-    }
-  },
-  {
-    "id": "x-1791245617616-yqykkd",
-    "source": "x",
-    "ts": "2026-10-06T00:13:37.616Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-06T00:04:40.000Z",
-    "reason": "On-chain data point, verified quarterly volume leader.",
-    "text": "📊 MARKET: Solana has had the highest Quarterly DEX Volume for the past 8 quarters.",
-    "url": "https://x.com/Cointelegraph/status/2107260717850103956",
-    "images": [
-      "https://pbs.twimg.com/media/HT5-dGxWIAA8BUz.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791246767586-chc3se",
-    "source": "x",
-    "ts": "2026-10-06T00:32:47.586Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-06T00:31:58.000Z",
-    "reason": "Crypto PAC is backing candidates for a significant regulatory bill.",
-    "text": "🇺🇸 NEW: Crypto PAC Fairshake is dropping $1M each on six House incumbents, and every one of the 32 candidates it's backing voted for the CLARITY Act that's now stuck in the Senate.",
-    "url": "https://x.com/Cointelegraph/status/2107267584978452926",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791246769817-0ptism",
     "source": "x",
     "ts": "2026-10-06T00:32:49.817Z",
@@ -8104,5 +8049,58 @@
     "reason": "No notable move in ETH price.",
     "text": "JUST IN: Bloomberg analysts Eric Balchunas and James Seyffart are releasing a Bitcoin book called \"Both Sides of the Coin\" 👀\n\n\"We thought it was time for a fresh look at bitcoin/crypto post-ETF\" 🚀",
     "url": "https://x.com/BitcoinMagazine/status/2107933268012331171"
+  },
+  {
+    "id": "x-1791406335725-ris04c",
+    "source": "x",
+    "ts": "2026-10-07T20:52:15.725Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T20:50:41.000Z",
+    "reason": "CFTC to apply strict leverage controls to crypto markets.",
+    "text": "🇺🇸 JUST IN: Mike Selig says the CFTC will apply established derivatives margin models and controls to crypto, warning there will be “no race to the bottom on leverage.”",
+    "url": "https://x.com/Cointelegraph/status/2107936674604798162",
+    "images": [
+      "https://pbs.twimg.com/media/HUDlOuBWkAAJRyM.jpg",
+      "https://pbs.twimg.com/media/HUDlO_GWwAABwG2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791406340861-jy9545",
+    "source": "x",
+    "ts": "2026-10-07T20:52:20.861Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-07T20:48:00.000Z",
+    "reason": "Notable blockchain scalability record set",
+    "text": "Cardano just smashed its own TPS record.\n\nAccording to data from @chainspect_app, the @Cardano blockchain today hit some 329 transactions per second.\n\nThe figure well outpaces its own previous record for scalability - juts 304 TPS recorded in late 2024.\n\nIs this enough to get",
+    "url": "https://x.com/BSCNews/status/2107935998663426307",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107847224432488448/vid/avc1/1312x720/SHD5JQ0puUR8ZkwT.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107847224432488448/img/VKbXG5OAVxMn7g4i.jpg"
+    }
+  },
+  {
+    "id": "x-1791406344340-3s25cj",
+    "source": "x",
+    "ts": "2026-10-07T20:52:24.340Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-07T20:47:15.000Z",
+    "reason": "No notable move in Ethereum price provided.",
+    "text": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+    "url": "https://x.com/DecryptMedia/status/2107935809621856445"
   }
 ]
