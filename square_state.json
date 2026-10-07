@@ -1079,15 +1079,6 @@
   ],
   "queue": [
     {
-      "text": "🇺🇸 JUST IN: US government wallets just moved over $103M in crypto in nine hours, shipping 833 BTC and 40,285 BNB to unlabeled addresses, per Arkham.",
-      "url": "https://x.com/Cointelegraph/status/2107644753386877044",
-      "images": [
-        "https://pbs.twimg.com/media/HT_buvEWgAEvFdb.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1791336781551
-    },
-    {
       "text": "🚨BREAKING: Borrowing costs for America's riskiest companies hit 17%, the highest since COVID.\n\nThe US bond sell-off is now pushing up borrowing costs across corporate America, per FT.\n\nHere's what's happening:\n\nThe 10-year Treasury yield hit its highest since 2002 last week",
       "url": "https://x.com/coinbureau/status/2107649611364016472",
       "images": [
@@ -1367,7 +1358,13 @@
       "at": 1791343936770,
       "status": "failed",
       "error": "f1a4fb69247c01d04a4be1a.jpg\nUploading: sq_1791343936770_1.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261007/319444d2426a4ee697f16868b86dfe9b.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
+    },
+    {
+      "text": "🇺🇸 JUST IN: US government wallets just moved over $103M in crypto in nine hours, shipping 833 BTC and 40,285 BNB to unlabeled addresses, per Arkham.",
+      "at": 1791345745775,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/374597839600421?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791343936770
+  "lastPostAt": 1791345745775
 }
