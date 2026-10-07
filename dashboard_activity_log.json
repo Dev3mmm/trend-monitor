@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1791202329110-3b92um",
-    "source": "x",
-    "ts": "2026-10-05T12:12:09.110Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-05T12:07:04.000Z",
-    "reason": "Not a notable move for a notable price change.",
-    "text": "Strategy boosts Bitcoin Holdings from latest acquisition... \n\n@Strategy, led by Executive Chairman Michael Saylor (@saylor), has bought 334.3 $BTC worth about $29M in cash, adding another tranche to its programmable corporate treasury strategy. \n\nThe transaction was made at an",
-    "url": "https://x.com/BSCNews/status/2107080127100146175",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107079737201897472/vid/avc1/1316x720/S-HZnTsrtCDyC3bd.mp4?tag=29",
-      "duration": 35,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107079737201897472/img/SILbdffHzcBe-OQc.jpg"
-    }
-  },
-  {
-    "id": "x-1791202332834-t2hxbb",
-    "source": "x",
-    "ts": "2026-10-05T12:12:12.834Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-05T12:05:15.000Z",
-    "reason": "Notable internal BTC trading by a high-profile project.",
-    "text": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
-    "url": "https://x.com/DecryptMedia/status/2107079668599816585",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791202338145-0a6jur",
-    "source": "x",
-    "ts": "2026-10-05T12:12:18.145Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-05T12:04:39.000Z",
-    "reason": "Notable institutional investment in Bitcoin by multiple public companies.",
-    "text": "JUST IN: Public companies Strive, Metaplanet, and Strategy bought a combined 3,334 Bitcoin worth $286.9 million.\n\nStrive: 2,000 BTC\nMetaplanet: 1,000 BTC\nStrategy: 334 BTC",
-    "url": "https://x.com/BitcoinMagazine/status/2107079516611092913",
-    "images": [
-      "https://pbs.twimg.com/media/HT3ZhMjW4AAWDvB.jpg",
-      "https://pbs.twimg.com/media/HT3ZhM_X0AABaKh.jpg",
-      "https://pbs.twimg.com/media/HT3ZhM-XwAEe9Eg.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791202344111-gyym77",
     "source": "x",
     "ts": "2026-10-05T12:12:24.111Z",
@@ -8113,5 +8056,49 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107733491320532992/img/Et0Wn9fgE_AUwytR.jpg"
     }
+  },
+  {
+    "id": "x-1791361335160-rfz66b",
+    "source": "x",
+    "ts": "2026-10-07T08:22:15.160Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-07T08:15:46.000Z",
+    "reason": "Fed minutes provide insights into potential future interest rate hikes.",
+    "text": "🏛️LIVE: The Fed's FOMC minutes drop TODAY at 2PM ET.\n\nThis was Kevin Warsh’s first rate hike as Fed Chair in a unanimous 12-0 vote to raise rates to 3.75%-4.00%.\n\nWhat we already know:\n\n- dot plot shows one more hike in 2026\n- inflation is still running too hot at ~3.7%\n- Oct",
+    "url": "https://x.com/coinbureau/status/2107746694888935557",
+    "images": [
+      "https://pbs.twimg.com/media/HUA4YPtbwAEwgEN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791361339529-pt062r",
+    "source": "x",
+    "ts": "2026-10-07T08:22:19.529Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-07T08:15:42.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "🇸🇬 TOKEN2049: BingX’s Kevin Lee on altcoins: “Purely on price action, it’s really tough for altcoins to outperform Bitcoin.” New use cases could change that.",
+    "url": "https://x.com/Cointelegraph/status/2107746675359936772"
+  },
+  {
+    "id": "x-1791361345319-qawvai",
+    "source": "x",
+    "ts": "2026-10-07T08:22:25.319Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-07T08:14:28.000Z",
+    "reason": "Crypto tweet about Kenyan politics does not relate to crypto or blockchain technology.",
+    "text": "Factually, and constitutionally, Raila Odinga has never been an official leader of the opposition.\n\nHe has been the opposition leader in spirit, and not in letter.\n\nHere is why,\n\nIn 1992 - 1997, the opposition leader was Kenneth Matiba.\n\nIn 1997 - 2002, the opposition leader was",
+    "url": "https://x.com/amerix/status/2107746365887414607"
   }
 ]
