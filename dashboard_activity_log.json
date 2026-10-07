@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791180156052-m9myu6",
-    "source": "x",
-    "ts": "2026-10-05T06:02:36.052Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T06:01:30.000Z",
-    "reason": "Nothing substantive provided.",
-    "text": "Work-ish",
-    "url": "https://x.com/binance/status/2106988130649702584"
-  },
-  {
-    "id": "x-1791180160466-pfs02h",
-    "source": "x",
-    "ts": "2026-10-05T06:02:40.466Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T06:01:07.000Z",
-    "reason": "New liquidations near $90K could force leveraged shorts to close, per Glassnode.",
-    "text": "🚨 NEW: Bitcoin's biggest cluster of short liquidations sits near $90K, meaning a move to that level could force leveraged shorts to close, per @glassnode.",
-    "url": "https://x.com/Cointelegraph/status/2106988031055946230"
-  },
-  {
-    "id": "x-1791180164605-yvnrec",
-    "source": "x",
-    "ts": "2026-10-05T06:02:44.605Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T06:01:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨HUGE: Hyperliquid's perps are now live on the Bloomberg Terminal.\n\nThe Terminal now shows live data from Hyperliquid's 24/7 perps, including oil, gold, the S&amp;P 500 and chipmakers.\n\nIt comes after President Trump said the CFTC is working to bring Hyperliquid to the US.",
-    "url": "https://x.com/coinbureau/status/2106988002387849689"
-  },
-  {
     "id": "x-1791181935006-rc2v9m",
     "source": "x",
     "ts": "2026-10-05T06:32:15.006Z",
@@ -8034,5 +7994,54 @@
     "reason": "No notable crypto-related content.",
     "text": "🚨CONCERNING: Ex-Anthropic researcher warns AI's current path \"could end in HUMAN EXTINCTION.\"\n\nJacob Coxon told a NYC Council hearing it's \"more likely than not that humanity loses control to these AIs.\"\n\nHe said AI companies are being \"extremely reckless given the stakes.\"",
     "url": "https://x.com/coinbureau/status/2107683585268314288"
+  },
+  {
+    "id": "x-1791346919199-ex0fni",
+    "source": "x",
+    "ts": "2026-10-07T04:21:59.199Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-07T04:18:40.000Z",
+    "reason": "No notable move or specific information provided.",
+    "text": "🇸🇬 TOKEN2049: Maelstrom’s Arthur Hayes says, “Agents are going to power the next wave of human economy.”",
+    "url": "https://x.com/Cointelegraph/status/2107687024362729707"
+  },
+  {
+    "id": "x-1791346921755-f387ax",
+    "source": "x",
+    "ts": "2026-10-07T04:22:01.755Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-07T04:17:22.000Z",
+    "reason": "Notable institutional adoption with a major crypto player like BlackRock.",
+    "text": "🇸🇬 DAS: BlackRock's Nikhil Sharma says tokenized money market funds could move as collateral directly, with no redemption needed and no waiting days for cash.",
+    "url": "https://x.com/Cointelegraph/status/2107686697882579380",
+    "images": [
+      "https://pbs.twimg.com/media/HT_7Q_QbAAAULhc.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791346923735-w9kcgy",
+    "source": "x",
+    "ts": "2026-10-07T04:22:03.735Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-07T04:12:13.000Z",
+    "reason": "New collaboration between on-chain and traditional financial markets.",
+    "text": "🇸🇬 DAS: DigiFT CEO Henry Zhang says onchain and traditional capital markets are not really competing but complementary.\n\nThis is @blockworksDAS Alpha",
+    "url": "https://x.com/Cointelegraph/status/2107685400659800333",
+    "images": [
+      "https://pbs.twimg.com/media/HUAAsVTbIAAr3Cd.jpg"
+    ],
+    "video": null
   }
 ]
