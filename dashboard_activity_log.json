@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791207771171-l47ff8",
-    "source": "x",
-    "ts": "2026-10-05T13:42:51.171Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-05T13:31:01.000Z",
-    "reason": "Explicit mention of a significant BTC position increase.",
-    "text": "🔥 UPDATE: Strategy adds 334 $BTC, now holds 848,000 $BTC and closes Q3 with a $21B digital asset gain.",
-    "url": "https://x.com/Cointelegraph/status/2107101254430110006",
-    "images": [
-      "https://pbs.twimg.com/media/HT3tZbnXwAAdAFT.jpg",
-      "https://pbs.twimg.com/media/HT3ta-7XUAE_w_s.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791207774969-8j9cee",
     "source": "x",
     "ts": "2026-10-05T13:42:54.969Z",
@@ -8127,6 +8108,27 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107774569012748288/img/EVUWlekcOyno2yjy.jpg"
+    }
+  },
+  {
+    "id": "x-1791369734226-3txbn3",
+    "source": "x",
+    "ts": "2026-10-07T10:42:14.226Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-07T10:38:04.000Z",
+    "reason": "Notable increase in active validators for Algorand network.",
+    "text": "Algorand Expands Consensus Decentralization As Active Validators Hit Seven-Day High\n\n@Algorand increases decentralization of its consensus security layer as 1,562 active validator nodes recorded a new weekly high on October 6, 2026.\n\nNetwork telemetry verified through @Chainspect",
+    "url": "https://x.com/BSCNews/status/2107782503385768258",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107782184220155905/vid/avc1/1316x720/bX1BxWrWlBr6tKrL.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107782184220155905/img/hjMllOQYZh9-drMh.jpg"
     }
   }
 ]
