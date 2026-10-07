@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791204141800-kh5cf4",
-    "source": "x",
-    "ts": "2026-10-05T12:42:21.800Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-05T12:35:59.000Z",
-    "reason": "No notable news as the price is not specified.",
-    "text": "Internet Computer Monthly Onchain Revenue Hits Record Milestone\n\nInternet Computer (@dfinity) set a new performance benchmark after monthly onchain revenue exceeded $360,000 on October 4, 2026.\n\nLive data shows a consistent 1.10% daily increase, driven by growing use of “cycles”",
-    "url": "https://x.com/BSCNews/status/2107087405782044784",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107087229571010560/vid/avc1/1316x720/HDJCroFG66MCJujz.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107087229571010560/img/8-Ep1csrGCTallvF.jpg"
-    }
-  },
-  {
-    "id": "x-1791204145544-2861ul",
-    "source": "x",
-    "ts": "2026-10-05T12:42:25.544Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-05T12:33:47.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "⚠️ When crypto looks too good to be true... It often is.\n\nYield is one of the smartest ways to earn passive income in crypto, but not all yield pools are built equal - Some carry serious risk.\n\nThat's why @ElanInsights built its 'Risk Analyzer' tool.\n\nSign up now:",
-    "url": "https://x.com/BSCNews/status/2107086848514289972",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107086694239371264/vid/avc1/1312x720/RVfGlNnKK9UL3lsd.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107086694239371264/img/_J9SoHfBGXXfzBMj.jpg"
-    }
-  },
-  {
     "id": "x-1791204743447-r6m7km",
     "source": "x",
     "ts": "2026-10-05T12:52:23.447Z",
@@ -8108,5 +8066,39 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107747895835504641/img/vF-AnonZr1f7Bdb-.jpg"
     }
+  },
+  {
+    "id": "x-1791363829986-o2td66",
+    "source": "x",
+    "ts": "2026-10-07T09:03:49.987Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T09:02:15.000Z",
+    "reason": "Specific, verifiable institutional adoption event.",
+    "text": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
+    "url": "https://x.com/DecryptMedia/status/2107758390529175668",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791363834098-dvf1bm",
+    "source": "x",
+    "ts": "2026-10-07T09:03:54.098Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-07T09:00:58.000Z",
+    "reason": "Notable statement from a high-profile crypto figure regarding AI and payments.",
+    "text": "🇸🇬 DAS: Justin Sun sees agentic payments as key to aligning AI through incentives, but says adoption is limited today because “AI is not smart enough.”",
+    "url": "https://x.com/Cointelegraph/status/2107758069161574423",
+    "images": [
+      "https://pbs.twimg.com/media/HUBCypBXkAAdly2.jpg"
+    ],
+    "video": null
   }
 ]
