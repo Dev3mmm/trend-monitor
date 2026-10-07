@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791082354774-bbw4rd",
-    "source": "x",
-    "ts": "2026-10-04T02:52:34.774Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-04T01:00:53.000Z",
-    "reason": "Noise: Generic hype without real content.",
-    "text": "A public service announcement.",
-    "url": "https://x.com/elonmusk/status/2106575798576845260"
-  },
-  {
-    "id": "x-1791082357611-8vdta2",
-    "source": "x",
-    "ts": "2026-10-04T02:52:37.611Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-04T02:30:55.000Z",
-    "reason": "Generic question with no factual claim or specific event.",
-    "text": "⚡ QUESTION: If you got $5000 from Trump, what would you do with it?",
-    "url": "https://x.com/Cointelegraph/status/2106572744313708880"
-  },
-  {
-    "id": "x-1791082362343-rr3ejd",
-    "source": "x",
-    "ts": "2026-10-04T02:52:42.343Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 29,
-    "originTimestamp": "2026-10-04T02:23:00.000Z",
-    "reason": "Unbelievably high TVL and stablecoin supply for a short-lived project.",
-    "text": "Arc is on an insane run...\n\nOnly half a month after launch and @Circle and @jerallaire's @Arc network already boasts some incredible metrics.\n\nHere are the highlights:\n\n- $520M stablecoin supply.\n- $556M TVL.\n- $400M weekly DEX volume.\n\nArc is just getting started.",
-    "url": "https://x.com/BSCNews/status/2106570752497484205"
-  },
-  {
     "id": "x-1791082365852-vw0vio",
     "source": "x",
     "ts": "2026-10-04T02:52:45.852Z",
@@ -8093,5 +8053,47 @@
     "reason": "No notable crypto-related information provided.",
     "text": "⚡️ NEW: Anthropic introduces Claude Haiku 5.5, calling it its fastest and most capable small model, with average running costs around 75% lower than Haiku 4.5.",
     "url": "https://x.com/Cointelegraph/status/2107903954457592144"
+  },
+  {
+    "id": "x-1791400415419-5vllgd",
+    "source": "x",
+    "ts": "2026-10-07T19:13:35.419Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T19:11:45.000Z",
+    "reason": "Notable data breach involving personal information of church members.",
+    "text": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+    "url": "https://x.com/DecryptMedia/status/2107911776259948692",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791400419414-ynswys",
+    "source": "x",
+    "ts": "2026-10-07T19:13:39.414Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-07T19:08:39.000Z",
+    "reason": "No notable crypto-related announcement.",
+    "text": "🇺🇸 LATEST: President Trump will unveil over $1 billion in industry commitments to the Genesis Mission at Thursday’s White House AI science summit, alongside more than $100 million in federal investments.",
+    "url": "https://x.com/Cointelegraph/status/2107910996698304675"
+  },
+  {
+    "id": "x-1791400423989-z4coda",
+    "source": "x",
+    "ts": "2026-10-07T19:13:43.989Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-07T19:03:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Is $USD1 the next major stablecoin...?!\n\nCan @worldlibertyfi rise to compete with the likes of @Tether's $USDT and @Circle's $USDC? Read now ⬇️",
+    "url": "https://x.com/BSCNews/status/2107909574376202275"
   }
 ]
