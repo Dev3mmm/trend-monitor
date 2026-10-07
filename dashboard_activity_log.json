@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791207237523-uburiy",
-    "source": "x",
-    "ts": "2026-10-05T13:33:57.523Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-05T13:31:01.000Z",
-    "reason": "Significant new position size for BTC, particularly the mention of closing Q3 with a large digital asset gain.",
-    "text": "🔥 UPDATE: Strategy adds 334 $BTC, now holds 848,000 $BTC and closes Q3 with a $21B digital asset gain.",
-    "url": "https://x.com/Cointelegraph/status/2107101254430110006",
-    "images": [
-      "https://pbs.twimg.com/media/HT3tZbnXwAAdAFT.jpg",
-      "https://pbs.twimg.com/media/HT3ta-7XUAE_w_s.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791207241295-eqn7eb",
-    "source": "x",
-    "ts": "2026-10-05T13:34:01.295Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-05T13:29:56.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "LIVE: BTC Macro, MSTR Outlook, Ex-Fed Insider on Bitcoin | BMTV Oct. 05, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2107100980844392844"
-  },
-  {
     "id": "x-1791207759360-f740el",
     "source": "x",
     "ts": "2026-10-05T13:42:39.360Z",
@@ -8120,5 +8088,45 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107750802383355904/img/D0aHOK8yVMppTJGv.jpg"
     }
+  },
+  {
+    "id": "x-1791368523622-35zisa",
+    "source": "x",
+    "ts": "2026-10-07T10:22:03.622Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T10:20:57.000Z",
+    "reason": "Sui Network achieves record-breaking transaction per second (TPS) of over 40 million in a live stress test.",
+    "text": "Sui Network Clocks Over 40 Million TPS in Live Singapore Basecamp Stress Test\n\nIn a record-breaking achievement on a public platform, @SuiNetwork settles 40,614,180 transactions per second on its mainnet through a live public stress test at Sui Basecamp Singapore. \n\nThe test,",
+    "url": "https://x.com/BSCNews/status/2107778199027359877",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107777796604911616/vid/avc1/1316x720/860IYUWouySF4hbT.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107777796604911616/img/tKNVcXt3scXoxmKO.jpg"
+    }
+  },
+  {
+    "id": "x-1791368527787-bhxj67",
+    "source": "x",
+    "ts": "2026-10-07T10:22:07.787Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-07T10:18:56.000Z",
+    "reason": "Sui token sets a new on-chain throughput record",
+    "text": "🔥 SUI BASECAMP: Sui smashes its 6 million TPS barrier to set a new onchain throughput record of over 40 million TPS.",
+    "url": "https://x.com/Cointelegraph/status/2107777688698061186",
+    "images": [
+      "https://pbs.twimg.com/media/HUBUoigWAAAwoLR.jpg",
+      "https://pbs.twimg.com/media/HUBUoydXgAATWdn.jpg"
+    ],
+    "video": null
   }
 ]
