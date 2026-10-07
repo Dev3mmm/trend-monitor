@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791200558752-acb90i",
-    "source": "x",
-    "ts": "2026-10-05T11:42:38.752Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-05T11:40:15.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Morning Minute: Uptober Off to a Green Start",
-    "url": "https://x.com/DecryptMedia/status/2107073377089262008"
-  },
-  {
-    "id": "x-1791200561827-rbxedx",
-    "source": "x",
-    "ts": "2026-10-05T11:42:41.827Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 93,
-    "originTimestamp": "2026-10-05T10:09:19.000Z",
-    "reason": "Generic meme with no factual claim.",
-    "text": "Let the ₿ros cook. 👨‍🍳",
-    "url": "https://x.com/saylor/status/2107072363615453605"
-  },
-  {
     "id": "x-1791200565625-hgkizq",
     "source": "x",
     "ts": "2026-10-05T11:42:45.625Z",
@@ -8100,5 +8074,39 @@
       "https://pbs.twimg.com/media/HUAsnc6boAAszYL.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791359580796-exayl4",
+    "source": "x",
+    "ts": "2026-10-07T07:53:00.796Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-07T07:50:40.000Z",
+    "reason": "No notable move or specific, verifiable event is described.",
+    "text": "🇸🇬 TOKEN2049: Cameron Winklevoss on monetary privacy: “Bitcoin is decentralized, public. Zcash is decentralized, private.”",
+    "url": "https://x.com/Cointelegraph/status/2107740377696362589"
+  },
+  {
+    "id": "x-1791359584365-zsvnpp",
+    "source": "x",
+    "ts": "2026-10-07T07:53:04.365Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-07T07:49:25.000Z",
+    "reason": "Noteworthy institutional investment in Bitcoin by Robinhood",
+    "text": "Robinhood is Putting Corporate Money Behind Bitcoin\n\nRobinhood has allocated $25 million of corporate funds toward Bitcoin as its crypto ambitions continue growing.\n\nCrypto chief Johann Kerbrat described the purchase as part of Robinhood’s commitment to the broader crypto",
+    "url": "https://x.com/BSCNews/status/2107740060800213100",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107737793279741953/vid/avc1/1280x720/ix3HfmW6HFOWD15r.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107737793279741953/img/Uok6gS-ZhYNgeE4H.jpg"
+    }
   }
 ]
