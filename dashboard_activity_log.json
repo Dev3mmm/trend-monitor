@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791235635762-88loh0",
-    "source": "x",
-    "ts": "2026-10-05T21:27:15.762Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-05T21:17:15.000Z",
-    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
-    "text": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-    "url": "https://x.com/DecryptMedia/status/2107218583642050813"
-  },
-  {
-    "id": "x-1791235639809-u2cq9v",
-    "source": "x",
-    "ts": "2026-10-05T21:27:19.809Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-05T21:15:10.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "NEW: Bitcoin is rising from it's Power Law support line, maintaining bullish momentum heading into Q4 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2107218061900271834"
-  },
-  {
-    "id": "x-1791235643885-z1w95z",
-    "source": "x",
-    "ts": "2026-10-05T21:27:23.885Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-05T21:10:54.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🔥 INSIGHT: VanEck's research presents a $500K case for Bitcoin based on the gap between Bitcoin's market cap and gold's.",
-    "url": "https://x.com/Cointelegraph/status/2107216984672702957"
-  },
-  {
     "id": "x-1791235649266-458usn",
     "source": "x",
     "ts": "2026-10-05T21:27:29.266Z",
@@ -8105,5 +8066,52 @@
       "https://pbs.twimg.com/media/HUDQolUXYAEos_1.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791401742047-ug7lxm",
+    "source": "x",
+    "ts": "2026-10-07T19:35:42.047Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-07T19:29:00.000Z",
+    "reason": "No notable news, the data is already public and not new.",
+    "text": "Stellar has more RWAs that Ripple and Solana!\n\nAccording to data from the @RWAFoundation_, @StellarOrg now hosts some $3.5 billion world of tokenised real-world assets.\n\nIt is beaten only by @Ethereum and @BNBChain.\n\nStellar's RWA ecosystem is now significantly larger than those",
+    "url": "https://x.com/BSCNews/status/2107916117398159485",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107847005091332096/vid/avc1/1312x720/HH8j2I50LMfJib2Q.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107847005091332096/img/Of7thHYtZhbWF_QU.jpg"
+    }
+  },
+  {
+    "id": "x-1791401744320-y4izd9",
+    "source": "x",
+    "ts": "2026-10-07T19:35:44.320Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-07T19:26:47.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "That is Amerix,",
+    "url": "https://x.com/amerix/status/2107915561170555117"
+  },
+  {
+    "id": "x-1791401747606-vkhc6o",
+    "source": "x",
+    "ts": "2026-10-07T19:35:47.606Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 86,
+    "originTimestamp": "2026-10-07T18:08:54.000Z",
+    "reason": "No notable move in cryptocurrency prices.",
+    "text": "NVIDIA is ~80% of global AI data center chip revenue,\nMicron ~20% of DRAM,\nAlphabet ~50% of search advertising,\nMicrosoft ~50% of productivity software,\nApple ~50% of smartphones,\nAmazon ~30% of cloud infrastructure.\nStrategy owns ~4% of all Bitcoin ever.\nWe’re still early.",
+    "url": "https://x.com/saylor/status/2107914776294666244"
   }
 ]
