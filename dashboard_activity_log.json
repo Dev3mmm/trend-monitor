@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791158495099-gr6tyd",
-    "source": "x",
-    "ts": "2026-10-05T00:01:35.099Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T00:00:47.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "🚨 JUST IN: OpenAI CEO Sam Altman says society should be willing to \"accept some bad things happening\" in exchange for AI's benefits, per Politico.",
-    "url": "https://x.com/Cointelegraph/status/2106897350820012102"
-  },
-  {
-    "id": "x-1791158496519-9lhca1",
-    "source": "x",
-    "ts": "2026-10-05T00:01:36.519Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T00:00:17.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "invite-only vibes",
-    "url": "https://x.com/binance/status/2106897225108296070"
-  },
-  {
     "id": "x-1791158499291-ki0p3z",
     "source": "x",
     "ts": "2026-10-05T00:01:39.291Z",
@@ -7906,5 +7880,45 @@
     "reason": "No notable move; price is within the recent range.",
     "text": "Michael Saylor: AI Outperforms What My Entire Team Could Do in a Month\n\nStrategy founder Michael Saylor @saylor said in an October 2 interview with the Bitcoin Policy Institute @bitcoinpolicy   that AI crossed a major inflection point earlier this year. He said that when using",
     "url": "https://x.com/WuBlockchain/status/2107621935672664106"
+  },
+  {
+    "id": "x-1791331949634-9ot8d7",
+    "source": "x",
+    "ts": "2026-10-07T00:12:29.634Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-07T00:09:46.000Z",
+    "reason": "The tweet discusses a regulatory ambiguity that could impact Hyperliquid.",
+    "text": "FT: Singapore Regulator Says Hyperliquid May Fall Outside Its Jurisdiction Despite Firm Being Based in Singapore  \n\nAccording to the FT, the Monetary Authority of Singapore (MAS) said it is not aware of Hyperliquid being regulated in any major jurisdiction and has previously",
+    "url": "https://x.com/WuBlockchain/status/2107624387436568928",
+    "images": [
+      "https://pbs.twimg.com/media/HT_I-6bbsAAneQT.jpg",
+      "https://pbs.twimg.com/media/HT_JAnIbkAAbxfZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791331953817-tjsrpm",
+    "source": "x",
+    "ts": "2026-10-07T00:12:33.817Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-07T00:02:44.000Z",
+    "reason": "Concrete, verifiable price milestone.",
+    "text": "ッ",
+    "url": "https://x.com/binance/status/2107622616198430777",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2107622602810216448/pu/vid/avc1/720x1286/UXeHZiae7tBJ5dHZ.mp4?tag=12",
+      "duration": 6,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2107622602810216448/pu/img/2jMcm1hwjD9cWJPJ.jpg"
+    }
   }
 ]
