@@ -1,38 +1,5 @@
 [
   {
-    "id": "x-1791193957128-sg2ag1",
-    "source": "x",
-    "ts": "2026-10-05T09:52:37.128Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-05T09:45:17.000Z",
-    "reason": "Potential ETF launch for INJ could signal institutional interest.",
-    "text": "Injective ETFs Could Arrive Before 2027\n\nInjective (@injective) CEO Eric Chen (@ericinjective) expects U.S. ETFs tied to INJ to launch sooner than 2027.\n\nTwo applications are already progressing, including the 21Shares Injective ETF and Canary Staked INJ ETF.\n\nBoth issuers",
-    "url": "https://x.com/BSCNews/status/2107044445967524298"
-  },
-  {
-    "id": "x-1791194530793-kwtd8q",
-    "source": "x",
-    "ts": "2026-10-05T10:02:10.793Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T10:01:09.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨 UPDATE: Nvidia’s $20B Groq deal faces a shareholder lawsuit alleging the transaction unfairly favored executives, per FT.",
-    "url": "https://x.com/Cointelegraph/status/2107048440077205728",
-    "images": [
-      "https://pbs.twimg.com/media/HT29YguW4AEg8aP.png",
-      "https://pbs.twimg.com/media/HT29Y3IWIAE0TBX.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791194534855-cieqqb",
     "source": "x",
     "ts": "2026-10-05T10:02:14.855Z",
@@ -8116,5 +8083,41 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107711809818124288/img/rGXcvHRHUkOtyP7c.jpg"
     }
+  },
+  {
+    "id": "x-1791354139984-q0xlqf",
+    "source": "x",
+    "ts": "2026-10-07T06:22:19.984Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T06:20:40.000Z",
+    "reason": "Notable regulatory move affecting leverage in US crypto exchanges.",
+    "text": "🇺🇸 REGULATION: CFTC Chairman Michael Selig says only federally regulated crypto exchanges will be able to offer leverage under the agency's proposed rules, and the 100x seen offshore \"will be no different\" from what the US has always banned.",
+    "url": "https://x.com/Cointelegraph/status/2107717726823137284",
+    "images": [
+      "https://pbs.twimg.com/media/HUAeGjgXcAAmbMR.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791354143547-dbpi8v",
+    "source": "x",
+    "ts": "2026-10-07T06:22:23.547Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-07T06:17:25.000Z",
+    "reason": "Notable development in DeFi options trading platform.",
+    "text": "🇸🇬 DAS: Hyperliquid founder @chameleon_jeff says at @blockworksDAS that options are the obvious next piece for the platform, so traders can hedge them against spot and perps on the same order books.",
+    "url": "https://x.com/Cointelegraph/status/2107716908518867272",
+    "images": [
+      "https://pbs.twimg.com/media/HUAdI4oa0AAaIAT.jpg"
+    ],
+    "video": null
   }
 ]
