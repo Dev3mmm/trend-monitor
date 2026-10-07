@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1791202930220-dc0kfz",
-    "source": "x",
-    "ts": "2026-10-05T12:22:10.220Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-05T12:12:12.000Z",
-    "reason": "New Zcash support launch on THORChain is noteworthy.",
-    "text": "THORChain's Zcash support is just getting started...\n\nJust days ago, on October 2, the official $ZEC pool on @THORChain went live, with every THORChain node now watching the @Zcash blockchain directly.\n\nAccording to official communications, the $ZEC pool is in soft-launch phase,",
-    "url": "https://x.com/BSCNews/status/2107081417737863452",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107081255057588224/vid/avc1/1312x720/J_JicSKYAzrzIu1x.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107081255057588224/img/f6ggsWvH86gzxFw-.jpg"
-    }
-  },
-  {
-    "id": "x-1791203499118-re4o9h",
-    "source": "x",
-    "ts": "2026-10-05T12:31:39.118Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-05T12:30:57.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 INSIGHT: Meme coins are losing ground to altcoins, with market cap share dropping to 3%, per CryptoQuant analyst Darkfost.",
-    "url": "https://x.com/Cointelegraph/status/2107086136233394397"
-  },
-  {
-    "id": "x-1791203501222-2c9gs4",
-    "source": "x",
-    "ts": "2026-10-05T12:31:41.222Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 30,
-    "originTimestamp": "2026-10-05T12:01:06.000Z",
-    "reason": "New AI-powered finance product in crypto space.",
-    "text": "🔥TODAY: Binance just launched \"Binance Intelligence\", its new AI-powered finance product, making crypto easier to understand using AI.",
-    "url": "https://x.com/coinbureau/status/2107085973335195991",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791204141800-kh5cf4",
     "source": "x",
     "ts": "2026-10-05T12:42:21.800Z",
@@ -8105,6 +8055,58 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107739932324429826/img/PUlGDuBY1Pwdj1YF.jpg"
+    }
+  },
+  {
+    "id": "x-1791363198400-1tsyzm",
+    "source": "x",
+    "ts": "2026-10-07T08:53:18.400Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T08:51:21.000Z",
+    "reason": "No notable move or specific event, price is within the recent range.",
+    "text": "What do new, returning, and active Futures users have in common?\n\nThis time, a rewards campaign.\n\nComplete eligible Futures tasks for a chance to win a share of 200 BNB.\n\nExplore →",
+    "url": "https://x.com/binance/status/2107755650361307310"
+  },
+  {
+    "id": "x-1791363202747-tvc360",
+    "source": "x",
+    "ts": "2026-10-07T08:53:22.747Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-07T08:50:41.000Z",
+    "reason": "Notable institution and AI intersection in crypto landscape.",
+    "text": "🇸🇬 DAS: Justin Sun says AI will be making onchain decisions and managing crypto wallets within five years.",
+    "url": "https://x.com/Cointelegraph/status/2107755480428798045",
+    "images": [
+      "https://pbs.twimg.com/media/HUBAb4TXIAAGbOT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791363207804-4cmkwg",
+    "source": "x",
+    "ts": "2026-10-07T08:53:27.804Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-07T08:48:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Monad is Bringing Private Transactions to its Public Network\n\nCategory Labs says Monad (@monad) Private Settlement will let businesses run confidential execution environments directly on Monad.\n\nEach private domain can control validators, access policies, supported assets, and",
+    "url": "https://x.com/BSCNews/status/2107754804613157051",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107747895835504641/vid/avc1/1280x720/PCgId1JJhwn6U7O2.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107747895835504641/img/vF-AnonZr1f7Bdb-.jpg"
     }
   }
 ]
