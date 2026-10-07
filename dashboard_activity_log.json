@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791186718783-d9j3kn",
-    "source": "x",
-    "ts": "2026-10-05T07:51:58.783Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-05T07:45:32.000Z",
-    "reason": "No notable move in the given price range.",
-    "text": "Zcash Puts Faster Blocks And New Fee Rules to the Test\n\nZcash (@zcash) has activated NU7 on testnet, putting its next major protocol upgrade through live testing.\n\nThe upgrade aims to cut target block spacing from 75 seconds to 25 seconds. It also disables version 4 transactions",
-    "url": "https://x.com/BSCNews/status/2107014308433666068"
-  },
-  {
-    "id": "x-1791187949615-muo54z",
-    "source": "x",
-    "ts": "2026-10-05T08:12:29.615Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-05T08:06:34.000Z",
-    "reason": "No notable move or concrete news.",
-    "text": "🔥 FUN FACT: CZ says his garage has just three cars, with no sports cars: “Not into fast driving. Stay SAFU!”",
-    "url": "https://x.com/Cointelegraph/status/2107019603834544546"
-  },
-  {
     "id": "x-1791187956888-tk4ely",
     "source": "x",
     "ts": "2026-10-05T08:12:36.888Z",
@@ -8070,5 +8044,39 @@
       "https://pbs.twimg.com/media/HUAN-CDaMAAL7bt.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791350547432-unhfhz",
+    "source": "x",
+    "ts": "2026-10-07T05:22:27.432Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-07T05:22:01.000Z",
+    "reason": "Significant change in the number of active validators impacting staked ETH.",
+    "text": "Ethereum Staking Surges While 112,000 Validators Disappear\n\nEthereum started 2026 with nearly 975,000 active validators, compared with roughly 863,000 now.\n\nDespite the decline, staked ethereum:native has increased from about 36.3 million to 43.7 million.\n\nMore than 7 million ETH",
+    "url": "https://x.com/BSCNews/status/2107702969076449694",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107699016851238913/vid/avc1/1280x720/aIDSgXqQtDFOSFX_.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107699016851238913/img/yMvMmsJtYvf5D5Kg.jpg"
+    }
+  },
+  {
+    "id": "x-1791350549032-j5tmtg",
+    "source": "x",
+    "ts": "2026-10-07T05:22:29.032Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-07T05:12:57.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "The engineering underneath Super Heavy is absolutely insane\n\nIt literally looks more like science fiction than rocket hardware",
+    "url": "https://x.com/elonmusk/status/2107701822379143323"
   }
 ]
