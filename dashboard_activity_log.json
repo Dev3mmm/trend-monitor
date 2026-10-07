@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791081837310-fx6otn",
-    "source": "x",
-    "ts": "2026-10-04T02:43:57.310Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 72,
-    "originTimestamp": "2026-10-04T01:30:54.000Z",
-    "reason": "Notable financial commentary from a prominent figure with potential market implications.",
-    "text": "🔥 JUST IN: ARK's Cathie Wood fires back at Bill Ackman's inflation warning, saying the 10-year Treasury yield is sitting right at its historical median while AI inference costs are collapsing 99.99% a year.",
-    "url": "https://x.com/Cointelegraph/status/2106557642072101046"
-  },
-  {
-    "id": "x-1791081842519-zix3nr",
-    "source": "x",
-    "ts": "2026-10-04T02:44:02.519Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 88,
-    "originTimestamp": "2026-10-04T01:15:00.000Z",
-    "reason": "Not directly related to crypto.",
-    "text": "🚨LATEST: Sumitomo Mitsui DS reportedly EXITED its entire position in French government bonds, rotating into German Bunds and short-term Japanese debt.\n\nThis wasn’t a trim. It was a full exit.\n\nFrance’s 10-year spread over Germany has reportedly surged past 140 basis points,",
-    "url": "https://x.com/coinbureau/status/2106553639703834952"
-  },
-  {
-    "id": "x-1791081846372-zisgxl",
-    "source": "x",
-    "ts": "2026-10-04T02:44:06.372Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 90,
-    "originTimestamp": "2026-10-04T01:13:00.000Z",
-    "reason": "New institutional partnership with potential ecosystem impact.",
-    "text": "It's official.\n\nThe growing @litecoin ecosystem is coming to @CantonNetwork. Here's what you need to know ⬇️",
-    "url": "https://x.com/BSCNews/status/2106553136315781212"
-  },
-  {
     "id": "x-1791082354774-bbw4rd",
     "source": "x",
     "ts": "2026-10-04T02:52:34.774Z",
@@ -8088,5 +8046,52 @@
     "reason": "No notable crypto-related content.",
     "text": "🇺🇸HUGE: Nearly 70 MILLION children now have “Trump Accounts” after automatic enrollment.\n\nTrump says eligible children could become “quite rich” by age 18 if all goes well.",
     "url": "https://x.com/coinbureau/status/2107890932209369274"
+  },
+  {
+    "id": "x-1791399211005-zh31cg",
+    "source": "x",
+    "ts": "2026-10-07T18:53:31.005Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T18:51:45.000Z",
+    "reason": "Generic hype with no factual claim.",
+    "text": "JUST IN: $13 trillion Charles Schwab says 64% of Millennials plan to buy Bitcoin &amp; crypto 👀\n\nBullish! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2107906745603620968"
+  },
+  {
+    "id": "x-1791399217046-z34m26",
+    "source": "x",
+    "ts": "2026-10-07T18:53:37.046Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-07T18:48:00.000Z",
+    "reason": "Notable institutional move and potential ETF launch for $SEI token.",
+    "text": "Spot $SEI ETF closer than you might think...\n\nWould-be @SeiNetwork ETF issuer, Canary, has just filed a new amendment to its S-1 application.\n\nThe filings name @BitGo as the ETF's custodian, and a whopping ~90% of its $SEI token holdings will be staked...",
+    "url": "https://x.com/BSCNews/status/2107905799184068658",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107846888049233920/vid/avc1/1312x720/6SLvUwEzOMFEYBn1.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107846888049233920/img/I7hHdDUn1xgX4oYK.jpg"
+    }
+  },
+  {
+    "id": "x-1791399221090-89d9pz",
+    "source": "x",
+    "ts": "2026-10-07T18:53:41.090Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-07T18:40:40.000Z",
+    "reason": "No notable crypto-related information provided.",
+    "text": "⚡️ NEW: Anthropic introduces Claude Haiku 5.5, calling it its fastest and most capable small model, with average running costs around 75% lower than Haiku 4.5.",
+    "url": "https://x.com/Cointelegraph/status/2107903954457592144"
   }
 ]
