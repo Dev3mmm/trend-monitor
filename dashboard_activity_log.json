@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791163308258-mpzgb0",
-    "source": "x",
-    "ts": "2026-10-05T01:21:48.258Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-05T01:15:00.000Z",
-    "reason": "Single day of activity for a launched ETF is notable.",
-    "text": "Spot TRX ETF sees just one day of activity since September 10 launch.\n\nSince launching in early September, Canary's spot @trondao ETF in the US has seen just a single day of activity, clocking +$491K in net inflows on September 15.\n\nSince then, it has recorded $0 of",
-    "url": "https://x.com/BSCNews/status/2106916027602788449"
-  },
-  {
-    "id": "x-1791163925352-ykpczh",
-    "source": "x",
-    "ts": "2026-10-05T01:32:05.352Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-05T01:30:53.000Z",
-    "reason": "Specific on-chain upgrade activation on testnet.",
-    "text": "🔥 UPDATE: Zcash activates its NU7 network upgrade on testnet at block height 4,465,026.",
-    "url": "https://x.com/Cointelegraph/status/2106920027890884662"
-  },
-  {
     "id": "x-1791164524506-dhrjui",
     "source": "x",
     "ts": "2026-10-05T01:42:04.506Z",
@@ -7944,5 +7916,42 @@
     "reason": "No notable move in XDC Network address count within its recent range.",
     "text": "XDC Network now has 2.35 million addresses.\n\nAccording to data from XDCScan, the @XDCNetwork is now close to the 2.35 million address milestone, the blockchain currently adding around 1,000 new addresses per day.\n\nThe network currently sees between 1-2 million unique transactions",
     "url": "https://x.com/BSCNews/status/2107628220271284269"
+  },
+  {
+    "id": "x-1791334946354-e91z0g",
+    "source": "x",
+    "ts": "2026-10-07T01:02:26.354Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T01:00:47.000Z",
+    "reason": "Notable institutional partnership and impact on token price.",
+    "text": "🇰🇷 JUST IN: Securitize partners with LG CNS to bring tokenized funds, stocks and stablecoins to South Korean financial institutions, sending SECZ shares up nearly 8%.",
+    "url": "https://x.com/Cointelegraph/status/2107637225198325946",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791334951630-nc4pa6",
+    "source": "x",
+    "ts": "2026-10-07T01:02:31.630Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-07T00:58:00.000Z",
+    "reason": "Significant increase in Stellar's stablecoin supply.",
+    "text": "Stellar's stablecoin economy has doubled in the past year.\n\nIn early October 2025, @StellarOrg's stablecoin supply stood at just $835M.\n\nToday, that figure is roughly $1.B, working to an increase of around 92%.\n\nData: @artemis",
+    "url": "https://x.com/BSCNews/status/2107636524909244614",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107404236350795776/vid/avc1/1312x720/CeJlFbsY71IAofhL.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107404236350795776/img/qaroFQFrZHf_WmPz.jpg"
+    }
   }
 ]
