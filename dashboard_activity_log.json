@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791204743447-r6m7km",
-    "source": "x",
-    "ts": "2026-10-05T12:52:23.447Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-05T12:51:41.000Z",
-    "reason": "The tweet is irrelevant to crypto and does not contain any specific crypto-related content.",
-    "text": "Posting your woman on social media is a stupid, low-IQ behaviour.",
-    "url": "https://x.com/amerix/status/2107091353788142023"
-  },
-  {
     "id": "x-1791204747971-s9phq8",
     "source": "x",
     "ts": "2026-10-05T12:52:27.971Z",
@@ -8100,5 +8087,26 @@
       "https://pbs.twimg.com/media/HUBCypBXkAAdly2.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791364939074-n2l0hb",
+    "source": "x",
+    "ts": "2026-10-07T09:22:19.074Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T09:20:58.000Z",
+    "reason": "Tom Lee's prediction of a \"hard cap\" for ETH purchases indicates a significant move in the token's price.",
+    "text": "🚨BREAKING: Tom Lee says BitMine will \"STOP\" buying ETH at 5% \"hard cap.\"\n\n\"We only need to get another 100,000 ETH to get to 5%,\" Lee said on stage at Token2049.\n\nLee called 5% BitMine’s “hard cap,” saying it optimizes shareholder value.",
+    "url": "https://x.com/coinbureau/status/2107763103756878003",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107762189654458369/vid/avc1/1280x720/VPNviu5yQMSCIiKq.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107762189654458369/img/Iqdfw-mvy-JXNL87.jpg"
+    }
   }
 ]
