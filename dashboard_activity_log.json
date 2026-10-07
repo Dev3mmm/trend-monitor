@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791178311765-rvhy9d",
-    "source": "x",
-    "ts": "2026-10-05T05:31:51.765Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 77,
-    "originTimestamp": "2026-10-05T04:15:00.000Z",
-    "reason": "Generic meme without real content.",
-    "text": "Watch This Stunning Tesla Awakening",
-    "url": "https://x.com/elonmusk/status/2106978849582137595"
-  },
-  {
-    "id": "x-1791178313072-5tqk84",
-    "source": "x",
-    "ts": "2026-10-05T05:31:53.072Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 43,
-    "originTimestamp": "2026-10-05T04:48:31.000Z",
-    "reason": "Noise: No real content.",
-    "text": "Grok",
-    "url": "https://x.com/elonmusk/status/2106978370999537965"
-  },
-  {
     "id": "x-1791178908626-70k78x",
     "source": "x",
     "ts": "2026-10-05T05:41:48.626Z",
@@ -8017,5 +7991,41 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "🇸🇬 TOKEN2049: Ethena founder @gdog97_  says yield isn't commoditized, because while anyone can access the same yield, users don't place the same trust in every operator's risk management.",
     "url": "https://x.com/Cointelegraph/status/2107675252973342764"
+  },
+  {
+    "id": "x-1791345138464-lko8en",
+    "source": "x",
+    "ts": "2026-10-07T03:52:18.464Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-07T03:48:44.000Z",
+    "reason": "Notable institutional adoption and potential impact on the tokenized finance landscape.",
+    "text": "🇸🇬 TOKEN2049: BlackRock's Nikhil Sharma says tokenized money market funds could move as collateral directly, with no redemption needed and no waiting days for cash.",
+    "url": "https://x.com/Cointelegraph/status/2107679494203187491",
+    "images": [
+      "https://pbs.twimg.com/media/HT_7Q_QbAAAULhc.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791345143253-dctkmu",
+    "source": "x",
+    "ts": "2026-10-07T03:52:23.253Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-07T03:41:59.000Z",
+    "reason": "New use of a token with potential financial implications for a broader audience.",
+    "text": "🇸🇬 TOKEN2049: Hyperliquid founder @chameleon_jeff says HIP-3 markets work because they let users do things they couldn't before, adding that finance \"should be accessible to everyone on the planet.\"",
+    "url": "https://x.com/Cointelegraph/status/2107677792112668880",
+    "images": [
+      "https://pbs.twimg.com/media/HT_5kpQbAAAAaW0.jpg"
+    ],
+    "video": null
   }
 ]
