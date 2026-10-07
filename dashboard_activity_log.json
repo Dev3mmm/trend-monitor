@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791200016438-7doc44",
-    "source": "x",
-    "ts": "2026-10-05T11:33:36.438Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-05T11:24:39.000Z",
-    "reason": "$ADA has surged 11% in the past 24 hours, which is a notable move given its recent trading range.",
-    "text": "Cardano is the top gainer in Crypto's top 100 list\n\n@Cardano's $ADA token is trending today. \n\nAccording to CoinGecko, the asset is the top gainer among crypto's top 100 by market cap. \n\n$ADA has surged 11% in the past 24 hours, ahead of other top assets, with @Ethen's $ENA,",
-    "url": "https://x.com/BSCNews/status/2107069451040407648",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107068722452070400/vid/avc1/1316x720/Ji2HH9j1M7ZNeLxt.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107068722452070400/img/2BOIoOnQEDBBpheQ.jpg"
-    }
-  },
-  {
-    "id": "x-1791200555591-abcoc0",
-    "source": "x",
-    "ts": "2026-10-05T11:42:35.591Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-05T11:41:38.000Z",
-    "reason": "New use of a token/stablecoin for financial inclusion.",
-    "text": "Can Stellar (@StellarOrg) really help people without bank accounts?\n\nStellar lets users receive, hold and send digital dollars with a smartphone, while MoneyGram provides cash access in supported markets.\n\nBut there are still major limits.\n\nFind out more👇",
-    "url": "https://x.com/BSCNews/status/2107073726990979574",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791200558752-acb90i",
     "source": "x",
     "ts": "2026-10-05T11:42:38.752Z",
@@ -8104,6 +8067,37 @@
     "url": "https://x.com/Cointelegraph/status/2107733459804492215",
     "images": [
       "https://pbs.twimg.com/media/HUAsRfJbkAAmPo_.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791358938054-athw6s",
+    "source": "x",
+    "ts": "2026-10-07T07:42:18.054Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-07T07:38:32.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🇸🇬 TOKEN2049: Gemini co-founder Tyler Winklevoss says, “Privacy is a human right.”",
+    "url": "https://x.com/Cointelegraph/status/2107737323391565941"
+  },
+  {
+    "id": "x-1791358943397-kjdewk",
+    "source": "x",
+    "ts": "2026-10-07T07:42:23.397Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-07T07:35:00.000Z",
+    "reason": "Notable quote from a high-profile financial figure on the rising demand for tokenization.",
+    "text": "🇸🇬 DAS: Morgan Stanley's Amy Oldenburg says demand for tokenization is coming from \"everywhere all at once,\" across the US, Europe and Asia.\n\nOnly at @blockworksDAS in Singapore.",
+    "url": "https://x.com/Cointelegraph/status/2107736433360294313",
+    "images": [
+      "https://pbs.twimg.com/media/HUAsnc6boAAszYL.jpg"
     ],
     "video": null
   }
