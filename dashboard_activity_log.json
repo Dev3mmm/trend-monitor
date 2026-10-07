@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791255116833-crjz29",
-    "source": "x",
-    "ts": "2026-10-06T02:51:56.833Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-06T02:46:10.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇯🇵JUST IN: Japan's 10-year bond coupon hits 3.1%, the highest in about 30 years.\n\nThat's the interest rate Japan will pay on its new 10-year government bonds.\n\nFive years ago, it was 0.1%.\n\nJapan is selling about ¥2.6 TRILLION of them today.",
-    "url": "https://x.com/coinbureau/status/2107301359808844107"
-  },
-  {
-    "id": "x-1791255729134-zzdc71",
-    "source": "x",
-    "ts": "2026-10-06T03:02:09.134Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-06T03:00:40.000Z",
-    "reason": "Regulatory change impacting crypto enforcement actions.",
-    "text": "🇺🇸 REGULATION: FinCEN just binned its proposed crypto mixer and unhosted wallet rules, saying the mixer crackdown could have chilled \"legitimate activity.\"",
-    "url": "https://x.com/Cointelegraph/status/2107305010044232148",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791255731388-msgrki",
     "source": "x",
     "ts": "2026-10-06T03:02:11.389Z",
@@ -8084,5 +8055,46 @@
       "https://pbs.twimg.com/media/HUDx8-YWwAEOc_1.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791411262202-mus47a",
+    "source": "x",
+    "ts": "2026-10-07T22:14:22.202Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-07T22:10:41.000Z",
+    "reason": "No notable crypto-related move or news in the tweet.",
+    "text": "🚨 LATEST: Oracle, Broadcom and SpaceX are seeking debt deals worth tens of billions of dollars each to fund AI chips, with Apollo, Blackstone and Goldman Sachs among lenders in talks.",
+    "url": "https://x.com/Cointelegraph/status/2107956809185026253",
+    "images": [
+      "https://pbs.twimg.com/media/HUD3ikZXgAAn3TI.jpg",
+      "https://pbs.twimg.com/media/HUD3iw_XgAElj5F.jpg",
+      "https://pbs.twimg.com/media/HUD3i8EXEAAQTdh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791411269072-qvafbu",
+    "source": "x",
+    "ts": "2026-10-07T22:14:29.072Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-07T22:08:00.000Z",
+    "reason": "Notable ETF inflows for XRP and HYPE, highlighting their performance.",
+    "text": "Ripple and Hyperliquid see investor interest while others struggle. \n\nThe only spot altcoin ETFs to see positive inflows this week are those of @Ripple $XRP and @HyperliquidX $HYPE. \n\nSpot $XRP ETFs are up +$3.14M on the week, while spot $HYPE ETFs are up +$277K.\n\nNot a good week",
+    "url": "https://x.com/BSCNews/status/2107956131284779046",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107757084603265024/vid/avc1/1312x720/2UO3ywkLKZrFklGo.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107757084603265024/img/LEV5dEmmyrJqrJEc.jpg"
+    }
   }
 ]
