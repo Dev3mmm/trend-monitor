@@ -1,33 +1,5 @@
 [
   {
-    "id": "x-1791184453990-ueenv0",
-    "source": "x",
-    "ts": "2026-10-05T07:14:13.990Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-05T07:06:48.000Z",
-    "reason": "New on-chain trading feature for XRP Ledger could revolutionize payments.",
-    "text": "XRP Ledger Could Bring All Or Nothing Trades Onchain\n\nThe XRPL Batch upgrade could activate Oct. 9 with enough validator support.\n\nThe feature allows multiple operations to execute as one conditional submission.\n\nThis means a buyer and seller could settle payment and asset",
-    "url": "https://x.com/BSCNews/status/2107004562716402161"
-  },
-  {
-    "id": "x-1791185556888-8o1384",
-    "source": "x",
-    "ts": "2026-10-05T07:32:36.888Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-05T07:30:00.000Z",
-    "reason": "Specific institutional event with a product launch.",
-    "text": "🇸🇬  The Future is NOW.\n\n@OKX's global product event, OKX Now, hits Singapore on 6 October. RSVP to see what they've been building for the future of finance.\n\nDetails here →",
-    "url": "https://x.com/Cointelegraph/status/2107010400961048800"
-  },
-  {
     "id": "x-1791185561427-h0ei21",
     "source": "x",
     "ts": "2026-10-05T07:32:41.427Z",
@@ -8059,5 +8031,39 @@
       "https://pbs.twimg.com/media/HUAJo0IXQAAte5e.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791349342579-5f2egz",
+    "source": "x",
+    "ts": "2026-10-07T05:02:22.580Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-07T05:00:37.000Z",
+    "reason": "Notable institutional adoption of a new crypto project by a major player like Robinhood.",
+    "text": "Robinhood Brings Monad to its Crypto Trading Platform\n\nRobinhood (@RobinhoodCrypto) has listed Monad (@monad) for spot trading through its Crypto app and Legend platform.\n\nThe MON/USD market gives retail traders direct access to the Ethereum compatible Layer 1.\n\nMonad is an",
+    "url": "https://x.com/BSCNews/status/2107697582680285543",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107694734143885312/vid/avc1/1280x720/iv57obxDQl7-hWTh.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107694734143885312/img/4p_HdsNf_lUJ2R3Q.jpg"
+    }
+  },
+  {
+    "id": "x-1791349345750-h5jtrj",
+    "source": "x",
+    "ts": "2026-10-07T05:02:25.750Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 66,
+    "originTimestamp": "2026-10-07T03:56:06.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Bro… after connecting all my Gmail accounts to Grok Bot, I don’t even need to open Gmail anymore. Today it cleaned up 2,000+ emails, and all I had to tell it was: “Mark these as read,” “Unsubscribe me from these mailing lists,” “Move these to trash,” or respond with whatever.",
+    "url": "https://x.com/elonmusk/status/2107696566870114470"
   }
 ]
