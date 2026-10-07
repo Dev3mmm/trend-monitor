@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791218026832-yhzwit",
-    "source": "x",
-    "ts": "2026-10-05T16:33:46.832Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-05T16:25:00.000Z",
-    "reason": "Significant volume increase for Polygon's stablecoin, indicating growing adoption.",
-    "text": "It's happening... Polygon is taking over the stablecoins sector.\n\nIn September, @0xPolygon generated a staggering $97.9B in total stablecoin volume, working out to a +14% increase from August.\n\nSome 69% of this volume was in @Circle's $USDC stablecoin, and Polygon's stablecoin",
-    "url": "https://x.com/BSCNews/status/2107145037020594667",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107097309875945472/vid/avc1/1312x720/FLqmcK3vH4zP-4J-.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107097309875945472/img/1vcWrmaj1bhxTnDf.jpg"
-    }
-  },
-  {
     "id": "x-1791218029149-n7bmmz",
     "source": "x",
     "ts": "2026-10-05T16:33:49.149Z",
@@ -8104,5 +8083,18 @@
       "https://pbs.twimg.com/media/HUCFtfIacAAJRDM.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791382365962-o1jvhp",
+    "source": "x",
+    "ts": "2026-10-07T14:12:45.962Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-07T14:08:40.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "Chainlink recorded 40 new integrations in September!\n\n@Chainlink just disclosed that it registered 40 new integrations across 24 enterprises, blockchain networks, and decentralized finance platforms in September 2026.\n\nThe monthly growth strategy brings together the world's",
+    "url": "https://x.com/BSCNews/status/2107835505622556676"
   }
 ]
