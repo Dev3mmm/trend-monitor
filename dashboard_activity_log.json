@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1791271940121-lf2yqi",
-    "source": "x",
-    "ts": "2026-10-06T07:32:20.121Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-06T07:25:24.000Z",
-    "reason": "New privacy feature for transactions could enhance user security.",
-    "text": "Aptos Takes Aim at MEV With New Encrypted Mempool Plan\n\nAptos (@Aptos) has opened an onchain governance vote for its Encrypted Mempool proposal, AIP-144.\n\nIf approved, users could hide transaction details until blocks are finalized.\n\nValidators would order transactions without",
-    "url": "https://x.com/BSCNews/status/2107371631190667607",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107370547286069248/vid/avc1/1280x720/EkSmQV01lY-KmDQr.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107370547286069248/img/k1Ho1fqJxN4SEyR9.jpg"
-    }
-  },
-  {
-    "id": "x-1791272531838-536euu",
-    "source": "x",
-    "ts": "2026-10-06T07:42:11.838Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T07:38:32.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "OKX Founder Star Xu: AI Powers 95% of Engineering PRs, Costs $10M a Month  \n\nAt the OKX NOW Global Product and Ecosystem Conference in Singapore on October 6, OKX founder and CEO Star Xu @star_okx  said AI has moved beyond experimentation to become core infrastructure at the",
-    "url": "https://x.com/WuBlockchain/status/2107374935643713837"
-  },
-  {
-    "id": "x-1791273729935-3v3vpi",
-    "source": "x",
-    "ts": "2026-10-06T08:02:09.935Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-06T08:00:59.000Z",
-    "reason": "Notable regulatory action by a crypto platform against a gambling ban.",
-    "text": "🇳🇱 LATEST: Polymarket is taking the Dutch gambling regulator to court over its ban in the Netherlands, arguing it sells derivatives and shouldn't be treated as a betting site.",
-    "url": "https://x.com/Cointelegraph/status/2107380586700542336",
-    "images": [
-      "https://pbs.twimg.com/media/HT7reQHXoAAvMN_.png",
-      "https://pbs.twimg.com/media/HT7rebzXAAAC8QO.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791274328524-w0pfao",
     "source": "x",
     "ts": "2026-10-06T08:12:08.524Z",
@@ -8058,6 +8005,58 @@
     "url": "https://x.com/Cointelegraph/status/2108016238102225057",
     "images": [
       "https://pbs.twimg.com/media/HUEtmKkWQAAq7fZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791426166808-0yvuzr",
+    "source": "x",
+    "ts": "2026-10-08T02:22:46.808Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-08T02:19:34.000Z",
+    "reason": "Notable unconventional use of a token for in-person proxy representation.",
+    "text": "🇸🇬 TOKEN2049: AI agents from Charles Hoskinson's Midnight City \"hired\" 20 humans to walk the TOKEN2049 floor as their proxies because the agents couldn't attend in person.",
+    "url": "https://x.com/Cointelegraph/status/2108019442575671726",
+    "images": [
+      "https://pbs.twimg.com/media/HUEwguaWYAAAvAC.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791426170687-3rf3s5",
+    "source": "x",
+    "ts": "2026-10-08T02:22:50.687Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coinbase 🛡️",
+    "ageMin": 110,
+    "originTimestamp": "2026-10-08T00:32:02.000Z",
+    "reason": "Notable institutional adoption with a large user base.",
+    "text": "82M+ US Galaxy users have access to Samsung Wallet.\n\nTheir stablecoin balances need a trusted custodian.\n\n@Samsung chose Coinbase Prime.",
+    "url": "https://x.com/coinbase/status/2108017972266618999",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791426175784-krd2jy",
+    "source": "x",
+    "ts": "2026-10-08T02:22:55.784Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-08T02:12:10.000Z",
+    "reason": "Specific statement from an influential figure (Binance CEO) on a significant trend in the crypto market.",
+    "text": "🇸🇬 TOKEN2049: Binance CEO Richard Teng says demand for tokenized stocks and private market products is huge, but bad information flow is still holding some private markets back.",
+    "url": "https://x.com/Cointelegraph/status/2108017577368649910",
+    "images": [
+      "https://pbs.twimg.com/media/HUEu0KQXcAAukAw.jpg"
     ],
     "video": null
   }
