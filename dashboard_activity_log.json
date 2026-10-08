@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791396870051-a943s1",
-    "source": "x",
-    "ts": "2026-10-07T18:14:30.051Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-07T18:04:08.000Z",
-    "reason": "Feds' support for rate hikes could impact crypto markets.",
-    "text": "🚨FED MINUTES: ALL 19 Fed officials BACKED a 25bp RATE HIKE in September.\n\nMost officials also said ANOTHER rate increase would likely be appropriate by YEAR-END.\n\nAlmost all saw inflation risks tilted to the upside, with some warning the AI investment boom could push demand",
-    "url": "https://x.com/coinbureau/status/2107894761025831031",
-    "images": [
-      "https://pbs.twimg.com/media/HUC-rZna4AASDsa.png",
-      "https://pbs.twimg.com/media/HUC-5wFbYAAhI8F.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791396873809-xc6ln6",
-    "source": "x",
-    "ts": "2026-10-07T18:14:33.809Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-07T18:03:02.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Whatever your finance mood is today, there’s a place for it on Binance. \nWhat’s your go-to Binance feature right now? 👀",
-    "url": "https://x.com/binance/status/2107894485782818905"
-  },
-  {
     "id": "x-1791396878010-6tkww0",
     "source": "x",
     "ts": "2026-10-07T18:14:38.010Z",
@@ -7840,5 +7808,39 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108125725987332096/img/1q_n77EZWd-IHAJD.jpg"
     }
+  },
+  {
+    "id": "x-1791500523675-41m4sk",
+    "source": "x",
+    "ts": "2026-10-08T23:02:03.675Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T23:01:00.000Z",
+    "reason": "Unique startup story lacking VC funding and unconventional allocation strategy.",
+    "text": "Kaspa's journey has been more than a little unique.\n\nNo VC funding, no crazy team allocations - Here's what you need to understand the $KAS story ⬇️",
+    "url": "https://x.com/BSCNews/status/2108331856919961665",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791500526046-rv9t9j",
+    "source": "x",
+    "ts": "2026-10-08T23:02:06.046Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T23:00:50.000Z",
+    "reason": "AI usage of a new token far outpacing human usage is notable and specific.",
+    "text": "🤖 LATEST: AI agent token usage on OpenRouter has surged 14-fold to 7.3 trillion, far outpacing human usage, an a16z chart shows.",
+    "url": "https://x.com/Cointelegraph/status/2108331816927048055",
+    "images": [
+      "https://pbs.twimg.com/media/HUJMnO7XYAAo1ic.jpg"
+    ],
+    "video": null
   }
 ]
