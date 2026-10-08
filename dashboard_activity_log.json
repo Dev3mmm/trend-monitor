@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791283350904-pf1ibc",
-    "source": "x",
-    "ts": "2026-10-06T10:42:30.904Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-06T10:38:15.000Z",
-    "reason": "Notable regulatory move involving a high-profile figure in the crypto space.",
-    "text": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-    "url": "https://x.com/DecryptMedia/status/2107420162274042104",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791283354528-0qr823",
-    "source": "x",
-    "ts": "2026-10-06T10:42:34.528Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-06T10:38:06.000Z",
-    "reason": "Internet Computer hit a new financial revenue milestone.",
-    "text": "Internet Computer just hit a new revenue milestone... \n\nInternet Computer (@dfinity) has reached a financial milestone, hitting a rolling seven-day on-chain revenue of $96,924 for the first time and surpassing $95,000.\n\nTelemetry shows an instant 2.45% increase in network",
-    "url": "https://x.com/BSCNews/status/2107420124743377304",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107419897126936576/vid/avc1/1316x720/hyBv62ZGvTFjHAgl.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107419897126936576/img/CEDdfMC6Or7mJbKt.jpg"
-    }
-  },
-  {
     "id": "x-1791283357988-smn80o",
     "source": "x",
     "ts": "2026-10-06T10:42:37.988Z",
@@ -8054,6 +8017,38 @@
     "text": "🇺🇸 JUST IN: Hunter Biden says his $LAPTOP memecoin was \"not a rug pull,\" just a way to troll Trump's coin, and claims two market makers pulled out 84 seconds after the peak.",
     "url": "https://x.com/Cointelegraph/status/2108045160277753979",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791433323764-zq082y",
+    "source": "x",
+    "ts": "2026-10-08T04:22:03.764Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 35,
+    "originTimestamp": "2026-10-08T03:46:59.000Z",
+    "reason": "No notable news related to crypto or blockchain technology.",
+    "text": "Holy shit we have meme search on X now!\n\nGrok @bot's new X scan feature is insanely good if you give it an image or a still from a video.\n\nIt can find the origin of a meme, most viral tweets, or even specific genres of post (e.g. \"AI-related tweets using this\").",
+    "url": "https://x.com/elonmusk/status/2108049200470532602"
+  },
+  {
+    "id": "x-1791433327555-snl5yf",
+    "source": "x",
+    "ts": "2026-10-08T04:22:07.555Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T04:15:00.000Z",
+    "reason": "IMF mandates El Salvador to halt Bitcoin purchases",
+    "text": "🇺🇳 NEW: IMF forces El Salvador to HALT its Bitcoin purchases.\n\nAfter approving a fresh $138M disbursement under its $1.4B program, the IMF granted El Salvador a waiver for breaching its Bitcoin accumulation limits set by the Fund.\n\nThe Fund is also demanding greater transparency",
+    "url": "https://x.com/coinbureau/status/2108048489636855851",
+    "images": [
+      "https://pbs.twimg.com/media/HUEUrTja8AAnctO.jpg",
+      "https://pbs.twimg.com/media/HUEUrTeaIAAHax_.jpg"
+    ],
     "video": null
   }
 ]
