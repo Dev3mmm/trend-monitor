@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791288725442-lid1uq",
-    "source": "x",
-    "ts": "2026-10-06T12:12:05.442Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-06T12:02:37.000Z",
-    "reason": "No notable move or event described.",
-    "text": "One day left. How far can you climb? \n\n#TradersLeagueS4 ends tomorrow.\n\nMake your final moves before time runs out 👇",
-    "url": "https://x.com/binance/status/2107441392519659911"
-  },
-  {
     "id": "x-1791289325470-c71nev",
     "source": "x",
     "ts": "2026-10-06T12:22:05.470Z",
@@ -8012,5 +7999,26 @@
     "reason": "No notable move or concrete price information provided.",
     "text": "Bounty of Beauty",
     "url": "https://x.com/elonmusk/status/2108060588748497083"
+  },
+  {
+    "id": "x-1791436937084-kdr6ny",
+    "source": "x",
+    "ts": "2026-10-08T05:22:17.084Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-08T05:12:42.000Z",
+    "reason": "Indicates a significant security risk for a substantial portion of Bitcoin wallets.",
+    "text": "Europol Flags 30% Of Bitcoin Supply as Quantum Vulnerable\n\nEuropol (@Europol) has indicated that quantum computing is more of a danger to crypto wallets than the blockchain itself.\n\nAn estimated 6-6.9 million bitcoin:native are in addresses with public keys exposed. This accounts",
+    "url": "https://x.com/BSCNews/status/2108063010858377222",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108060714745438208/vid/avc1/1280x720/CCPDxbTjJo2S8NrK.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108060714745438208/img/qypRRynm_x775_oy.jpg"
+    }
   }
 ]
