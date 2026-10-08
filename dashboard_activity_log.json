@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791355318653-xg9ucq",
-    "source": "x",
-    "ts": "2026-10-07T06:41:58.653Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 47,
-    "originTimestamp": "2026-10-07T05:54:26.000Z",
-    "reason": "Generic hype with no real content.",
-    "text": "Grok Bot is awesome",
-    "url": "https://x.com/elonmusk/status/2107722382211424679"
-  },
-  {
-    "id": "x-1791355971641-a74vji",
-    "source": "x",
-    "ts": "2026-10-07T06:52:51.641Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 44,
-    "originTimestamp": "2026-10-07T06:08:11.000Z",
-    "reason": "No notable crypto-related content or move.",
-    "text": "Great to be at India Mobile Congress today.\n\nThank you to the Government of India and @DoT_India for the opportunity to share @Starlink’s vision for India.\n\nStarlink can help reach the places where the last mile is still the hardest mile - working alongside India’s operators,",
-    "url": "https://x.com/elonmusk/status/2107724867705651557"
-  },
-  {
     "id": "x-1791355974568-c99nkt",
     "source": "x",
     "ts": "2026-10-07T06:52:54.568Z",
@@ -7985,5 +7959,39 @@
     "url": "https://x.com/Cointelegraph/status/2108209093760479691",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791472334969-mm3s4d",
+    "source": "x",
+    "ts": "2026-10-08T15:12:14.969Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T15:05:15.000Z",
+    "reason": "Memes and irrelevant to cryptocurrency news.",
+    "text": "DIABETES is BRUTAL.\n\nFix your diet.",
+    "url": "https://x.com/amerix/status/2108212129732129216"
+  },
+  {
+    "id": "x-1791472338637-an7u7n",
+    "source": "x",
+    "ts": "2026-10-08T15:12:18.637Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-08T15:04:10.000Z",
+    "reason": "Noteworthy institutional adoption with direct user integration.",
+    "text": "Aave Adds BNB Chain Stablecoin Support to Mobile App\n\n@Aave now lets users deposit $USDC and $USDT balances directly from @BNBCHAIN in its native consumer mobile app. \n\nThis implementation gives waitlisted users instant connectivity through native access codes and redirects",
+    "url": "https://x.com/BSCNews/status/2108211857353785585",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108211272240025600/vid/avc1/1316x720/oJ0zIQORgiMY1MYP.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108211272240025600/img/j47ljuyHkjtZPTf8.jpg"
+    }
   }
 ]
