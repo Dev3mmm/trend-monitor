@@ -1,35 +1,5 @@
 [
   {
-    "id": "x-1791302467570-rnr3wm",
-    "source": "x",
-    "ts": "2026-10-06T16:01:07.570Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 32,
-    "originTimestamp": "2026-10-06T15:28:05.000Z",
-    "reason": "Flash loan attacks involving billions highlight the risks in decentralized finance.",
-    "text": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
-    "url": "https://x.com/DecryptMedia/status/2107493100398510232",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791102149975-6ll5wq",
-    "source": "x",
-    "ts": "2026-10-04T08:22:29.975Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 49,
-    "originTimestamp": "2026-10-04T07:32:42.000Z",
-    "reason": "Notable regulatory action involving cryptocurrency in a political context.",
-    "text": "🇵🇭 REGULATION: A Philippine court just froze 25 crypto wallets and 86 bank accounts tied to an unnamed lawmaker in a flood control plunder probe.",
-    "url": "https://x.com/Cointelegraph/status/2106648693667418361"
-  },
-  {
     "id": "x-1791102155932-dgo1xl",
     "source": "x",
     "ts": "2026-10-04T08:22:35.933Z",
@@ -8033,5 +8003,45 @@
       "https://pbs.twimg.com/media/HUGRtx8bsAAlGpL.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791453727699-cj69cc",
+    "source": "x",
+    "ts": "2026-10-08T10:02:07.699Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T10:00:58.000Z",
+    "reason": "Notable institutional voice on the potential of tokenized assets.",
+    "text": "🇸🇬 TOKEN2049: BlackRock’s Nikhil Sharma says AI provides the context, while tokenized assets can become the execution layer for those decisions.",
+    "url": "https://x.com/Cointelegraph/status/2108135557444362503",
+    "images": [
+      "https://pbs.twimg.com/media/HUGaHQqWsAARmTd.png",
+      "https://pbs.twimg.com/media/HUGaHfyWEAAPM2t.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791453733031-l6oixj",
+    "source": "x",
+    "ts": "2026-10-08T10:02:13.031Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T09:55:31.000Z",
+    "reason": "Glamsterdam upgrade increases Ethereum's gas limit significantly.",
+    "text": "Ethereum’s Glamsterdam Test Hits a Massive Capacity Boost\n\nEthereum’s (@ethereum) ethereum:native Glamsterdam upgrade is now running on Sepolia with a processing limit near 200 million gas.\n\nThis is more than three times the previous limit of roughly 60 million. The higher budget",
+    "url": "https://x.com/BSCNews/status/2108134183004713105",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108133018254950400/vid/avc1/1280x720/Q6QDWU6iE3lDlLI1.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108133018254950400/img/FM69_FXpWVDakOoI.jpg"
+    }
   }
 ]
