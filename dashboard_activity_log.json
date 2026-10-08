@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791291138990-dqanbn",
-    "source": "x",
-    "ts": "2026-10-06T12:52:18.990Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T12:49:03.000Z",
-    "reason": "New stablecoin launch by a major decentralized finance protocol.",
-    "text": "Ethena is powering EtherFi's new stablecoin \n\nLiquid staking protocol &amp; decentralized neobank @ether_fi officially unveils its native dollar-pegged currency, ether(.)fi USD, using whitelabel infrastructure from synthetic dollar protocol @ethena_labs.\n\nIn this whitelabel",
-    "url": "https://x.com/BSCNews/status/2107453079700340822",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107452105887772672/vid/avc1/1316x720/wWtz4JViDFC2GO7-.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107452105887772672/img/s8Q_mJo-Zo3sXvrc.jpg"
-    }
-  },
-  {
-    "id": "x-1791291142446-dpxe0u",
-    "source": "x",
-    "ts": "2026-10-06T12:52:22.446Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T12:48:59.000Z",
-    "reason": "Noise: generic date without context or price/movement.",
-    "text": "13th March 2020",
-    "url": "https://x.com/amerix/status/2107453062113567100"
-  },
-  {
     "id": "x-1791291728942-bcoqaa",
     "source": "x",
     "ts": "2026-10-06T13:02:08.942Z",
@@ -8030,6 +7996,35 @@
       "https://pbs.twimg.com/media/HUEfzgZaUAADqME.jpg",
       "https://pbs.twimg.com/media/HUEf1kNaMAAD-5Y.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1791439343617-oi0gd7",
+    "source": "x",
+    "ts": "2026-10-08T06:02:23.617Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T06:00:42.000Z",
+    "reason": "No notable move or concrete information provided.",
+    "text": "basically my whole morning in one bowl",
+    "url": "https://x.com/binance/status/2108075091426738308"
+  },
+  {
+    "id": "x-1791439348181-3vo1qd",
+    "source": "x",
+    "ts": "2026-10-08T06:02:28.181Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T06:00:40.000Z",
+    "reason": "Vitalik Buterin's warning on cryptography intersects with current AI developments.",
+    "text": "⚡ BIG: Vitalik Buterin warns quantum-resistant lattice cryptography could \"take serious hits\" from AI math within two years.",
+    "url": "https://x.com/Cointelegraph/status/2108075081645662707",
+    "images": [],
     "video": null
   }
 ]
