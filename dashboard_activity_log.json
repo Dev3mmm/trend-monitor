@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1791300398330-ynnzus",
-    "source": "x",
-    "ts": "2026-10-06T15:26:38.330Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-06T15:18:02.000Z",
-    "reason": "New use of a token by a notable company",
-    "text": "DeLorean Motors now accepts Litecoin! \n\n@LTCFoundation is collaborating commercially with @Deloreanlabs to accept $LTC payments for new DeLorean Motor Company vehicles.\n\nThis partnership lets users pay for both reservations and purchases of DeLorean Motor Company’s electric cars",
-    "url": "https://x.com/BSCNews/status/2107490571447120321",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107490527494955008/vid/avc1/1316x720/fHsTUwUW_KdfS_8p.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107490527494955008/img/INvbGjTZxINl8sHq.jpg"
-    }
-  },
-  {
-    "id": "x-1791300402763-tw6bov",
-    "source": "x",
-    "ts": "2026-10-06T15:26:42.763Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-06T15:18:00.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "In the Bitcoin Standard Era, Digital Intelligence ($NVDA), Digital Equity ($MSTR), and Digital Capital ($BTC) have delivered 65%, 52%, and 38% annualized returns, outperforming the rest of the Magnificent Seven. The future is digital.",
-    "url": "https://x.com/saylor/status/2107490565948678279"
-  },
-  {
-    "id": "x-1791301917831-vf4i7h",
-    "source": "x",
-    "ts": "2026-10-06T15:51:57.831Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T15:48:40.000Z",
-    "reason": "Specific regulatory move involving a major exchange and a prominent crypto asset.",
-    "text": "Winklevoss Just Filed for a Zcash ETF to challenge Grayscale... \n\nWinklevoss Capital formally filed a registration statement with the U.S. Securities and Exchange Commission to list a ZCASH ETF on Nasdaq under the ticker symbol $WINK. \n\nThe registration statement notes that the",
-    "url": "https://x.com/BSCNews/status/2107498281802649627",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107497757187485697/vid/avc1/1316x720/eqa2lIMiUu4U8cnS.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107497757187485697/img/C6zKlpUWVmmzF1qM.jpg"
-    }
-  },
-  {
     "id": "x-1791301921461-zwx9fb",
     "source": "x",
     "ts": "2026-10-06T15:52:01.461Z",
@@ -8013,5 +7958,49 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108091503700832256/img/ft3Ue-a6b5LKApP-.jpg"
     }
+  },
+  {
+    "id": "x-1791450136996-e7g2rn",
+    "source": "x",
+    "ts": "2026-10-08T09:02:16.996Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T09:00:57.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "🇸🇬 TOKEN2049: Bitwise CEO Hunter Horsley on crypto vaults: “I think vaults are awesome, and it’s going to be transformative.”",
+    "url": "https://x.com/Cointelegraph/status/2108120451645923430"
+  },
+  {
+    "id": "x-1791450141837-echrqb",
+    "source": "x",
+    "ts": "2026-10-08T09:02:21.837Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T09:00:00.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Jeff Yan: If I Were Building a Product Today, I'd Look Into Options\n\nHyperliquid Labs co-founder Jeff Yan @chameleon_jeff   said at DAS Asia 2026 on October 7 that a year ago, he was still unsure whether options traders would eventually all prefer perpetuals, but he now believes",
+    "url": "https://x.com/WuBlockchain/status/2108120213250093161"
+  },
+  {
+    "id": "x-1791450147774-szdphz",
+    "source": "x",
+    "ts": "2026-10-08T09:02:27.774Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T08:55:00.000Z",
+    "reason": "Notable event involving major financial institutions and regulatory bodies in Singapore.",
+    "text": "🇸🇬 LONGITUDE: From billions to trillions onchain, tokenisation takes centre stage in Singapore.\n\n• Matthew Horne, @Fidelity Investments\n• Ka Yan Chan, @UBS \n• Chongwu Du, @Securitize \n• @syrupsid, @maplefinance \n\nModerated by Jihye Lee, WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2108118953797075133",
+    "images": [
+      "https://pbs.twimg.com/media/HUGK31bbsAIo3JY.jpg"
+    ],
+    "video": null
   }
 ]
