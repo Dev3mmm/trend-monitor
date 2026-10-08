@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1791301946232-zurdp2",
-    "source": "x",
-    "ts": "2026-10-06T15:52:26.232Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Decrypt",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-06T15:28:05.000Z",
-    "reason": "Flash loan attacks potentially revealing significant losses in the DeFi ecosystem.",
-    "text": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
-    "url": "https://x.com/DecryptMedia/status/2107493100398510232",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791302448347-h242kl",
     "source": "x",
     "ts": "2026-10-06T16:00:48.347Z",
@@ -8019,5 +8003,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108114316897763328/img/NBczU_jFHs6PHc0N.jpg"
     }
+  },
+  {
+    "id": "x-1791451942128-0ztt72",
+    "source": "x",
+    "ts": "2026-10-08T09:32:22.128Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T09:30:45.000Z",
+    "reason": "Exploit of a significant amount of funds detected on the blockchain.",
+    "text": "🚨 ALERT: CertiK flags a suspected 79Vault exploit moving $12.5M in BNB via a privileged function.",
+    "url": "https://x.com/Cointelegraph/status/2108127950700683477",
+    "images": [
+      "https://pbs.twimg.com/media/HUGTMXzXoAAoHT3.jpg"
+    ],
+    "video": null
   }
 ]
