@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791278525642-wkqq3s",
-    "source": "x",
-    "ts": "2026-10-06T09:22:05.642Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-06T09:20:47.000Z",
-    "reason": "Ethereum achieves a significant on-chain innovation with atomic cross-chain execution.",
-    "text": "Ethereum Brings Atomic Cross Chain Execution to Mainnet\n\nEthereum has successfully executed its first atomic cross chain transaction from L1 to L2 on mainnet.\n\nThe milestone marks the first deployment of atomic synchronous composability on Ethereum.\n\nEthereum Economic Zone (EEZ)",
-    "url": "https://x.com/BSCNews/status/2107400669951078678",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107397875844210688/vid/avc1/1280x720/9Q09S572Tlxu4y8Q.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107397875844210688/img/3BbQYJ6k9HG_810T.jpg"
-    }
-  },
-  {
-    "id": "x-1791279753345-7a159x",
-    "source": "x",
-    "ts": "2026-10-06T09:42:33.345Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-06T09:38:22.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Pudgy Penguins Enters The Mainstream Beverage Market\n\nPudgy Penguins (@pudgypenguins) has expanded beyond digital collectibles with a nationwide partnership across Kung Fu Tea locations.\n\nThe activation features two branded drinks, Pengu's Better Together Milk Tea and Polly's",
-    "url": "https://x.com/BSCNews/status/2107405094505599356"
-  },
-  {
     "id": "x-1791280977684-mit2vo",
     "source": "x",
     "ts": "2026-10-06T10:02:57.684Z",
@@ -8055,6 +8021,37 @@
     "images": [
       "https://pbs.twimg.com/media/HUE_RribsAANF6E.jpg",
       "https://pbs.twimg.com/media/HUE_VV8bgAARYUJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791431024460-xuy2j3",
+    "source": "x",
+    "ts": "2026-10-08T03:43:44.460Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T03:41:05.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Vitalik Warns Crypto Could Face an AI Security Test Within Two Years\n\nEthereum (@ethereum) ethereum:native co-founder Vitalik Buterin (@VitalikButerin) says AI could expose weaknesses in current cryptography within two years.\n\nHe feels that lattice-based systems require special",
+    "url": "https://x.com/BSCNews/status/2108039954257559921"
+  },
+  {
+    "id": "x-1791431029391-atndxs",
+    "source": "x",
+    "ts": "2026-10-08T03:43:49.391Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T03:37:22.000Z",
+    "reason": "Speculation presented as fact.",
+    "text": "To @CoinDesk's publisher and editorial leadership, \n\nWe are not for sale. Your article is based on false information and contains multiple factual errors. \n\nWe welcome scrutiny, but we will not stay silent when speculation is presented as fact.  If manufacturing controversy is",
+    "url": "https://x.com/Cointelegraph/status/2108039020198633477",
+    "images": [
+      "https://pbs.twimg.com/media/HUFCQohaQAAwXEW.jpg"
     ],
     "video": null
   }
