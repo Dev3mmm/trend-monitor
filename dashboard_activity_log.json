@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791383567824-01wter",
-    "source": "x",
-    "ts": "2026-10-07T14:32:47.824Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-07T14:30:09.000Z",
-    "reason": "Tokenization of real assets on a new blockchain network is notable regulatory and technological advancement.",
-    "text": "Stove Finance Tokenizes American and South Korean Stocks on Arbitrum via Uniswap\n\nStove Finance (@stoveprotocol), a real-asset infrastructure provider, has deployed tokenized U.S. and South Korean equities on the @Arbitrum blockchain network through the @Uniswap trading app.",
-    "url": "https://x.com/BSCNews/status/2107840910302101578",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107840838424236032/vid/avc1/1316x720/iINLg8MatU03bc-h.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107840838424236032/img/LaEpX0v59VKi31-M.jpg"
-    }
-  },
-  {
-    "id": "x-1791383571746-aak36r",
-    "source": "x",
-    "ts": "2026-10-07T14:32:51.746Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-07T14:30:01.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "At OKX Now we got a sneak peak at @OKX's vision for the next generation's financial future.\nTruly inspirational.",
-    "url": "https://x.com/Cointelegraph/status/2107840876206796893"
-  },
-  {
     "id": "x-1791384115753-3ck9ht",
     "source": "x",
     "ts": "2026-10-07T14:41:55.753Z",
@@ -7890,5 +7856,39 @@
       "https://pbs.twimg.com/media/HUIchWUWMAA8UD4.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791488528798-390ktm",
+    "source": "x",
+    "ts": "2026-10-08T19:42:08.799Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T19:40:41.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "⚡️ LONGITUDE: Tokenizing RWA doesn’t eliminate the need for traditional credit checks.\n\n“These are ultimately traditional credit instruments that need traditional underwriting,” @Bitwise’s Yannick Socolov (@Yannimoto) said, highlighting the challenge of combining credit and smart",
+    "url": "https://x.com/Cointelegraph/status/2108281447459025041"
+  },
+  {
+    "id": "x-1791488534519-gic6at",
+    "source": "x",
+    "ts": "2026-10-08T19:42:14.519Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T19:36:00.000Z",
+    "reason": "Staking imbalance is narrowing, potentially signaling a liquidity issue.",
+    "text": "This is not looking good...\n\nThe difference between @Ethereum staking entries and exits is getting smaller and smaller.\n\nRight now, 1,385,201 $ETH is waiting to be staked, while 815,341 $ETH is waiting to be unstaked.\n\nThe difference remains large for now, but has been collapsing",
+    "url": "https://x.com/BSCNews/status/2108280266913415651",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108191327242330113/vid/avc1/1312x720/mB6DSreIaANvKYl8.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108191327242330113/img/qHrm6vl-sUzeEH6z.jpg"
+    }
   }
 ]
