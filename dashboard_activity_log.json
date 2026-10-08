@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791396878010-6tkww0",
-    "source": "x",
-    "ts": "2026-10-07T18:14:38.010Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-07T18:01:00.000Z",
-    "reason": "Specific institutional commentary on market behavior.",
-    "text": "⚡️ LATEST: Bitwise says Bitcoin’s Q3 rally marked a “regime change,” breaking the pattern of rising prices coinciding with falling implied volatility.",
-    "url": "https://x.com/Cointelegraph/status/2107893973888995527",
-    "images": [
-      "https://pbs.twimg.com/media/HUC-ZL2WEAEjrj8.jpg",
-      "https://pbs.twimg.com/media/HUC-ZcYXIAA7jQ0.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791396882435-4e6q6f",
     "source": "x",
     "ts": "2026-10-07T18:14:42.435Z",
@@ -7842,5 +7823,26 @@
       "https://pbs.twimg.com/media/HUJMnO7XYAAo1ic.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791501738586-h68u4c",
+    "source": "x",
+    "ts": "2026-10-08T23:22:18.586Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T23:21:00.000Z",
+    "reason": "This tweet provides specific, verifiable financial data about a crypto ETF's performance.",
+    "text": "Zcash ETF has lost $67 MILLION this month...\n\nAfter one of the most impressive starts of any crypto ETFs in history, performance for @Grayscale's spot @Zcash ETF has turned ugly...\n\nThe product is currently down -$67.25M in net outflows for the month already, but still holds",
+    "url": "https://x.com/BSCNews/status/2108336890088772075",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108125853943037952/vid/avc1/1312x720/FwZMHKvl7542AKDD.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108125853943037952/img/HQEiA76stt35rdHt.jpg"
+    }
   }
 ]
