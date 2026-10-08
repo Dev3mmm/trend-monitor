@@ -1,65 +1,5 @@
 [
   {
-    "id": "x-1791301921461-zwx9fb",
-    "source": "x",
-    "ts": "2026-10-06T15:52:01.461Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-06T15:45:06.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Prediction markets weren't being held to \"real journalistic standards,\" argues @Pierreobv—so he brought media giants to @nextpredictio.",
-    "url": "https://x.com/DecryptMedia/status/2107497384179904992"
-  },
-  {
-    "id": "x-1791301924413-x00kij",
-    "source": "x",
-    "ts": "2026-10-06T15:52:04.413Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 32,
-    "originTimestamp": "2026-10-06T15:19:32.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Make no mistakes",
-    "url": "https://x.com/elonmusk/status/2107495983328464979"
-  },
-  {
-    "id": "x-1791301927708-13fm1z",
-    "source": "x",
-    "ts": "2026-10-06T15:52:07.708Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-06T15:39:06.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Track the change log of @Grok Bot &amp; Build",
-    "url": "https://x.com/elonmusk/status/2107495875576824197"
-  },
-  {
-    "id": "x-1791301933388-9thsue",
-    "source": "x",
-    "ts": "2026-10-06T15:52:13.388Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-06T15:38:44.000Z",
-    "reason": "New use of a token for direct real-world spending.",
-    "text": "Zebec Integrates TRON USDT For Direct Real-World Debit Card Spending\n\n@Zebec_HQ has now enabled @Trondao support on its Cards product, allowing card users to top up their spending balances using the $USDT token on the TRON blockchain.\n\nWith this integration, the world's",
-    "url": "https://x.com/BSCNews/status/2107495781791863148",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107495632709578753/vid/avc1/1316x720/06DJKFSRg1xCkpSy.mp4?tag=29",
-      "duration": 30,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107495632709578753/img/junAyWtTELhWQeC2.jpg"
-    }
-  },
-  {
     "id": "x-1791301938351-ym5uah",
     "source": "x",
     "ts": "2026-10-06T15:52:18.351Z",
@@ -8002,5 +7942,79 @@
       "https://pbs.twimg.com/media/HUGK31bbsAIo3JY.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791450725083-soash8",
+    "source": "x",
+    "ts": "2026-10-08T09:12:05.083Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T09:10:41.000Z",
+    "reason": "Notable institutional support for Sui with $500M committed as DeFi collateral.",
+    "text": "🇸🇬 SUI BASECAMP: Sui announces Hashi mainnet with $500M committed, enabling native $BTC to be used as DeFi collateral.",
+    "url": "https://x.com/Cointelegraph/status/2108122900410622452",
+    "images": [
+      "https://pbs.twimg.com/media/HUGOmkHXUAAxonI.jpg",
+      "https://pbs.twimg.com/media/HUGOmxNXAAA_vvB.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791450727102-46umo2",
+    "source": "x",
+    "ts": "2026-10-08T09:12:07.102Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-08T09:07:00.000Z",
+    "reason": "Specific institutional adoption with potential for widespread adoption.",
+    "text": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
+    "url": "https://x.com/DecryptMedia/status/2108121975126118605",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791450729514-f1yyrg",
+    "source": "x",
+    "ts": "2026-10-08T09:12:09.514Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T09:05:00.000Z",
+    "reason": "Price milestone and high-level crypto finance discussion on stage",
+    "text": "🇸🇬 LONGITUDE: Which infrastructure will power global finance onchain?\n\nOn stage:\n• @keoneHD, @monad\n• @ismiMatthew, @ethereuminsti\n• @sgoldfed, @Offchain  \n• @EliBenSasson, @StarkWareLtd \n\nModerated by @jessicasmw, @binance.",
+    "url": "https://x.com/Cointelegraph/status/2108121471033975234",
+    "images": [
+      "https://pbs.twimg.com/media/HUGMhONbUAAWbjB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791450731850-90maci",
+    "source": "x",
+    "ts": "2026-10-08T09:12:11.850Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-08T09:02:45.000Z",
+    "reason": "Centralized exchanges losing their role for certain activities.",
+    "text": "NEAR Founder Says Centralized Exchanges Are Losing Their Role\n\nNEAR (@NEARProtocol) co-founder Illia Polosukhin (@ilblackdragon) says users increasingly need centralized exchanges for fewer crypto activities.\n\nHe pointed to near(.)com, which combines trading, tokenized stocks,",
+    "url": "https://x.com/BSCNews/status/2108120905268559979",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108110644189024256/vid/avc1/1280x720/94lSBsizT65fVnrg.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108110644189024256/img/0xzw1UdqpUt_OQX7.jpg"
+    }
   }
 ]
