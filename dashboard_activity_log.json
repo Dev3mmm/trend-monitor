@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791359584365-zsvnpp",
-    "source": "x",
-    "ts": "2026-10-07T07:53:04.365Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-07T07:49:25.000Z",
-    "reason": "Noteworthy institutional investment in Bitcoin by Robinhood",
-    "text": "Robinhood is Putting Corporate Money Behind Bitcoin\n\nRobinhood has allocated $25 million of corporate funds toward Bitcoin as its crypto ambitions continue growing.\n\nCrypto chief Johann Kerbrat described the purchase as part of Robinhood’s commitment to the broader crypto",
-    "url": "https://x.com/BSCNews/status/2107740060800213100",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107737793279741953/vid/avc1/1280x720/ix3HfmW6HFOWD15r.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107737793279741953/img/Uok6gS-ZhYNgeE4H.jpg"
-    }
-  },
-  {
-    "id": "x-1791360147873-idpuro",
-    "source": "x",
-    "ts": "2026-10-07T08:02:27.873Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-07T08:00:58.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🇸🇬 TOKEN2049: Balaji Srinivasan says Bitcoin could become Western institutions’ reserve currency, while Zcash becomes the currency individuals use for financial privacy.",
-    "url": "https://x.com/Cointelegraph/status/2107742967393841252"
-  },
-  {
     "id": "x-1791360152377-d5d1zn",
     "source": "x",
     "ts": "2026-10-07T08:02:32.377Z",
@@ -7988,5 +7954,45 @@
     "reason": "Noise: generic placeholder phrase without substantive content.",
     "text": "2011",
     "url": "https://x.com/elonmusk/status/2108225227339550790"
+  },
+  {
+    "id": "x-1791476006250-n3agf3",
+    "source": "x",
+    "ts": "2026-10-08T16:13:26.250Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-08T16:04:39.000Z",
+    "reason": "Notable government action on BTC linked to a historical hack.",
+    "text": "🚨ALERT: U.S. government moves over $1 BILLION in Bitcoin linked to the Bitfinex hack.\n\nA government-linked wallet transferred 12,267 BTC on October 8, following roughly $670 MILLION in crypto movements over the previous 24 hours.\n\nSome assets were sent to Coinbase Prime, raising",
+    "url": "https://x.com/coinbureau/status/2108227078055403734",
+    "images": [
+      "https://pbs.twimg.com/media/HUHtLP3aoAAEgKb.png",
+      "https://pbs.twimg.com/media/HUHtPjwaoAAX7zM.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791476009262-pyfut3",
+    "source": "x",
+    "ts": "2026-10-08T16:13:29.262Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-08T16:03:50.000Z",
+    "reason": "Partnership with Binance community in Azerbaijan",
+    "text": "🇦🇿 Baku, thank you for the energy.\n\nWe took a deep dive into the fundamentals, had some great conversations, and were excited to welcome so many new faces from the Binance community.\n\nSee you again in November.",
+    "url": "https://x.com/binance/status/2108226872945369579",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2108226809787531265/pu/vid/avc1/1280x720/wDeAFARM7aBJ8C82.mp4?tag=12",
+      "duration": 60,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2108226809787531265/pu/img/Rn4TEWSENtMTljOs.jpg"
+    }
   }
 ]
