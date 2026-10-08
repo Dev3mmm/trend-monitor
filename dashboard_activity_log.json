@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791395049286-1qcnej",
-    "source": "x",
-    "ts": "2026-10-07T17:44:09.287Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-07T17:23:49.000Z",
-    "reason": "No notable crypto-related move or news.",
-    "text": "Starlink in India would enable high-speed, affordable Internet connectivity for those who can’t afford current prices or who don’t have a connection at all!",
-    "url": "https://x.com/elonmusk/status/2107887475251458094"
-  },
-  {
-    "id": "x-1791396861207-9flohp",
-    "source": "x",
-    "ts": "2026-10-07T18:14:21.207Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-07T18:11:00.000Z",
-    "reason": "Integration of Ripple Custody with Canton Coin suggests increased support and usage.",
-    "text": "Ripple x Canton Network \n\n@CantonNetwork has just announced that @Ripple's Custody platform has integrated its chain.\n\nThough the official post is non-descriptive, this presumably means that Ripple Custody now has full support for Canton Coin $CC, and potentially other",
-    "url": "https://x.com/BSCNews/status/2107896488173191648",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107846792347889664/vid/avc1/1312x720/g3LdcTLRl8SVKwMk.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107846792347889664/img/6oz14GLEKotlud4Q.jpg"
-    }
-  },
-  {
     "id": "x-1791396864427-5jmms7",
     "source": "x",
     "ts": "2026-10-07T18:14:24.427Z",
@@ -7835,5 +7801,36 @@
     "reason": "No notable crypto-related content.",
     "text": "Talked to someone recently who knows a lot about defense tech, and he made an interesting point: the test of most military hardware right now is whether the Ukrainians want it. They have a hot war going against a determined opponent, and they know what works.",
     "url": "https://x.com/elonmusk/status/2108323886865555666"
+  },
+  {
+    "id": "x-1791499334970-xyqnsi",
+    "source": "x",
+    "ts": "2026-10-08T22:42:14.971Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T22:40:44.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "⚡️ QUESTION: Will tokenized stocks become bigger than crypto ETFs?",
+    "url": "https://x.com/Cointelegraph/status/2108326756595671255"
+  },
+  {
+    "id": "x-1791499341134-10u9pe",
+    "source": "x",
+    "ts": "2026-10-08T22:42:21.134Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T22:35:00.000Z",
+    "reason": "Over $1 billion in crypto positions liquidated, with significant impact on ETH.",
+    "text": "🚨BREAKING: Over $1 BILLION in crypto positions liquidated in 24 hours, with ETH hit harder than Bitcoin.\n\nBets on higher prices made up $1.05 BILLION of the $1.19 BILLION total, per CoinGlass.\n\nETH liquidations reached $350 MILLION, more than Bitcoin's $304 MILLION.\n\nETH is down",
+    "url": "https://x.com/coinbureau/status/2108325313973559464",
+    "images": [
+      "https://pbs.twimg.com/media/HUI83osaUAAeLVI.jpg"
+    ],
+    "video": null
   }
 ]
