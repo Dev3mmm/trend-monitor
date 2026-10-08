@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791389512675-r2s3ti",
-    "source": "x",
-    "ts": "2026-10-07T16:11:52.675Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-07T16:07:00.000Z",
-    "reason": "New whitepaper release from Injective Protocol.",
-    "text": "What's in Injective's new Whitepaper?\n\n@Injective has just published a new whitepaper, the first complete rewrite since the original one written back in December 2018.\n\nThe original paper described an anti-front-running protocol for an exchange. \n\nIn the new one, Injective is",
-    "url": "https://x.com/BSCNews/status/2107865282941186547",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107862361969184768/vid/avc1/1280x720/2Tkpv5jFcCnxgy_W.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107862361969184768/img/jmFVoWbBVskk2vK3.jpg"
-    }
-  },
-  {
-    "id": "x-1791389517947-1y8h2p",
-    "source": "x",
-    "ts": "2026-10-07T16:11:57.947Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-07T15:50:53.000Z",
-    "reason": "Specific event involving Bitcoin Amsterdam, a notable conference.",
-    "text": "WE'RE HOSTING SOMETHING ₿IG 🔥\n\nWe’re putting Bitcoin Amsterdam speakers in one Space to talk capital, adoption, treasuries, markets + where this is all heading next.\n\nConsider it a preview of what’s coming to Amsterdam. 👀🇳🇱\n\nBE THERE 🫵",
-    "url": "https://x.com/BitcoinMagazine/status/2107864293442216156",
-    "images": [
-      "https://pbs.twimg.com/media/HUCc9yAXEAER8Vf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791390196395-01hhl3",
     "source": "x",
     "ts": "2026-10-07T16:23:16.395Z",
@@ -7837,5 +7798,37 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "SpaceX has released an update: Building the World's Most Advanced Mobile Network",
     "url": "https://x.com/elonmusk/status/2108299836126801979"
+  },
+  {
+    "id": "x-1791493958622-o0seg0",
+    "source": "x",
+    "ts": "2026-10-08T21:12:38.622Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T21:06:11.000Z",
+    "reason": "Specific institutional crypto activity with real financial value.",
+    "text": "JUST IN: $5.3 billion Cardone Capital bought 40 BTC, worth $3.2 million! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2108302965400297807",
+    "images": [
+      "https://pbs.twimg.com/media/HUIyXlmXsAA3O7z.jpg",
+      "https://pbs.twimg.com/media/HUIyX13WMAAGQan.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791493961901-0o0195",
+    "source": "x",
+    "ts": "2026-10-08T21:12:41.901Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T21:05:22.000Z",
+    "reason": "Generic statement with no factual claim or price.",
+    "text": "Built beyond the moment.",
+    "url": "https://x.com/binance/status/2108302757018898772"
   }
 ]
