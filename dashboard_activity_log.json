@@ -1,70 +1,5 @@
 [
   {
-    "id": "x-1791280981773-g3sgkd",
-    "source": "x",
-    "ts": "2026-10-06T10:03:01.773Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-06T09:58:03.000Z",
-    "reason": "No notable move in cryptocurrency prices or related news.",
-    "text": "🇺🇸HUGE: Trump officially signs an executive order removing the federal tax on red-dyed diesel, saving truckers over $100 per fill.",
-    "url": "https://x.com/coinbureau/status/2107410047651512338"
-  },
-  {
-    "id": "x-1791280984222-k0ub61",
-    "source": "x",
-    "ts": "2026-10-06T10:03:04.222Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-06T09:57:29.000Z",
-    "reason": "XRP leading South Korea's crypto market with increased XRPL activity.",
-    "text": "XRP Leads South Korea Trading as XRPL Activity Expands\n\nripple:native recently ranked first by trading volume on South Korea’s crypto market, per CoinMarketCap.\n\nThe local surge follows XRP Seoul 2026 and growing interest in XRPL infrastructure.\n\nKakao Bank is reportedly studying",
-    "url": "https://x.com/BSCNews/status/2107409904197865712",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107395126779858944/vid/avc1/1280x720/qZvgR7_GPUIe4MCI.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107395126779858944/img/QB0TWb5yUzS-VtDK.jpg"
-    }
-  },
-  {
-    "id": "x-1791282112813-cknobe",
-    "source": "x",
-    "ts": "2026-10-06T10:21:52.813Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-06T10:11:59.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Why Are Hedera’s Fees So Low And Predictable?\n\nUnlike many blockchains where transaction costs can rise sharply during periods of congestion, Hedera (@hedera) uses a fee structure designed around fixed network operations.\n\n(1) Fees are tied to the cost of network services.",
-    "url": "https://x.com/BSCNews/status/2107413553426964651"
-  },
-  {
-    "id": "x-1791282764428-f2k3if",
-    "source": "x",
-    "ts": "2026-10-06T10:32:44.428Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-06T10:30:44.000Z",
-    "reason": "Tokenized stocks reached a significant market cap.",
-    "text": "🔥 UPDATE: Tokenized stocks hit a new all-time high of $3.8B in market cap, led by SECZ at $302.6M, per Token Terminal.",
-    "url": "https://x.com/Cointelegraph/status/2107418272991773086",
-    "images": [
-      "https://pbs.twimg.com/media/HT8NvwvWkAAeqiA.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791283350904-pf1ibc",
     "source": "x",
     "ts": "2026-10-06T10:42:30.904Z",
@@ -8057,5 +7992,68 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107754706491895808/img/hsZ8KUMgp84tdd5Y.jpg"
     }
+  },
+  {
+    "id": "x-1791432732111-wjala1",
+    "source": "x",
+    "ts": "2026-10-08T04:12:12.111Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 62,
+    "originTimestamp": "2026-10-08T03:09:52.000Z",
+    "reason": "The tweet is in Chinese and appears to be about a personal health routine without any specific crypto-related content or move.",
+    "text": "每天一顿，晚饭。轻断食坚持7年了。\n\n今年体检各项指标都不错。",
+    "url": "https://x.com/PhyrexNi/status/2108046554569601299"
+  },
+  {
+    "id": "x-1791432736842-ab9be4",
+    "source": "x",
+    "ts": "2026-10-08T04:12:16.842Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 72,
+    "originTimestamp": "2026-10-08T02:59:39.000Z",
+    "reason": "Tweet appears to be in a language other than English and lacks a concrete crypto-related claim.",
+    "text": "我还是那句话，我只是想做“对”的事情，帮忙维权只要在我力所能及的情况下，我仍然会做下去，希望你们的事情能顺利解决。",
+    "url": "https://x.com/PhyrexNi/status/2108045360514187403"
+  },
+  {
+    "id": "x-1791432743853-oa7x9v",
+    "source": "x",
+    "ts": "2026-10-08T04:12:23.853Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-08T04:02:21.000Z",
+    "reason": "Samsung's partnership with Solana and Sui for USDC transfers is notable.",
+    "text": "Samsung to Bring USDC to 82M Galaxy Devices With Solana &amp; Sui\n\nSamsung Wallet will add USDC cross-border transfers for eligible US users in late October.\n\nThe feature will be supported by Solana (@solana) solana:So11111111111111111111111111111111111111112, Sui (@SuiNetwork)",
+    "url": "https://x.com/BSCNews/status/2108045308014002393",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108045232738824192/vid/avc1/1280x720/7vrEYHG5GJtZcE9Q.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108045232738824192/img/x7AbgqyYHkbezXWw.jpg"
+    }
+  },
+  {
+    "id": "x-1791432748489-avcf66",
+    "source": "x",
+    "ts": "2026-10-08T04:12:28.489Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-08T04:01:46.000Z",
+    "reason": "Notable institutional comment on a meme coin.",
+    "text": "🇺🇸 JUST IN: Hunter Biden says his $LAPTOP memecoin was \"not a rug pull,\" just a way to troll Trump's coin, and claims two market makers pulled out 84 seconds after the peak.",
+    "url": "https://x.com/Cointelegraph/status/2108045160277753979",
+    "images": [],
+    "video": null
   }
 ]
