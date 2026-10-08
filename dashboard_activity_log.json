@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1791304400200-rzddle",
-    "source": "x",
-    "ts": "2026-10-06T16:33:20.200Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "CryptoNewsLive",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T16:29:50.000Z",
-    "reason": "Significant on-chain liquidity event with price volatility.",
-    "text": "R price sat at $12.01 on Binance at 11:35 UTC today. One minute later it printed $15.05, and by 11:39 the high was $18.99. Upbit had posted a Numeraire listing notice at 11:36 UTC.",
-    "url": "https://x.com/CryptoNwsOrg/status/2107508642882933032",
-    "images": [
-      "https://pbs.twimg.com/media/HT9f7f8WAAANEB4.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791304405229-j61lah",
     "source": "x",
     "ts": "2026-10-06T16:33:25.229Z",
@@ -8084,5 +8066,18 @@
     "url": "https://x.com/DecryptMedia/status/2108147013720129667",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791457344934-o550e4",
+    "source": "x",
+    "ts": "2026-10-08T11:02:24.934Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-08T10:53:30.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "“Speaking at an industry conference in New Delhi on Wednesday, Lauren Dreyer, vice president of Starlink business operations, said the company has spent five years working with Indian regulators and had built its network specifically around the country’s security requirements,",
+    "url": "https://x.com/elonmusk/status/2108149902387589549"
   }
 ]
