@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1791291732747-65fzrv",
-    "source": "x",
-    "ts": "2026-10-06T13:02:12.747Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-06T12:54:15.000Z",
-    "reason": "Specific mention of major financial institutions backing cryptocurrency exchange.",
-    "text": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
-    "url": "https://x.com/DecryptMedia/status/2107454387463372981",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791291738367-4nk901",
-    "source": "x",
-    "ts": "2026-10-06T13:02:18.367Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-06T12:54:03.000Z",
-    "reason": "ZachXBT's investigation expenses highlight the severity of crypto exploits.",
-    "text": "JUST IN: ZachXBT asks for donations after spending $349.7K of his own money to investigate $1B+ crypto exploits.\n\nThe request came after he revealed the full story behind one of his riskiest investigations yet.\n\nHe says he used the money to pose as a laundering client inside a",
-    "url": "https://x.com/coinbureau/status/2107454337290997919",
-    "images": [
-      "https://pbs.twimg.com/media/HT8sA4DaQAAouWd.png",
-      "https://pbs.twimg.com/media/HT8sH4SbcAA3Smo.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791292397931-d4lnbs",
     "source": "x",
     "ts": "2026-10-06T13:13:17.931Z",
@@ -8020,5 +7985,42 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Ever wondered where Hedera (@hedera) and hedera-hashgraph:native actually got their names?\n\nHere’s how the names, hashgraph, tinybar, and Hedera’s latest developments all connect 👇",
     "url": "https://x.com/BSCNews/status/2108076399064125511"
+  },
+  {
+    "id": "x-1791441128858-ry09pl",
+    "source": "x",
+    "ts": "2026-10-08T06:32:08.858Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T06:30:40.000Z",
+    "reason": "Ripple's involvement in financing leveraged ETFs is significant institutional adoption.",
+    "text": "🔥 NEW: Ripple is becoming a player in financing leveraged ETFs.",
+    "url": "https://x.com/Cointelegraph/status/2108082634110681449",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791441132957-96fmu5",
+    "source": "x",
+    "ts": "2026-10-08T06:32:12.957Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T06:25:54.000Z",
+    "reason": "Ape And Pepe has pushed its market cap to $325 million, a notable increase.",
+    "text": "Polygon’s Ape And Pepe Rally Pushes Memecoin Toward $325M\n\nApe and Pepe (@apepeofficial) (ape-and-pepe:native) has jumped 21% over the past 24 hours, pushing its market cap to about $325 million.\n\nThe Polygon (@0xPolygon) ethereum:0x455e53cbb86018ac2b8092fdcd39d8444affc3f6 -based",
+    "url": "https://x.com/BSCNews/status/2108081431637295170",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108080152173506561/vid/avc1/1280x720/-eDR6cJRk0v0ZItn.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108080152173506561/img/HRJaH4y5ht7O6Unf.jpg"
+    }
   }
 ]
