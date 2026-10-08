@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791355974568-c99nkt",
-    "source": "x",
-    "ts": "2026-10-07T06:52:54.568Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 84,
-    "originTimestamp": "2026-10-07T05:28:25.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Finally.",
-    "url": "https://x.com/elonmusk/status/2107724743386501180"
-  },
-  {
-    "id": "x-1791355979304-4b4vke",
-    "source": "x",
-    "ts": "2026-10-07T06:52:59.304Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-07T06:46:50.000Z",
-    "reason": "No notable crypto-related move or event mentioned.",
-    "text": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome.",
-    "url": "https://x.com/elonmusk/status/2107724314451878104"
-  },
-  {
     "id": "x-1791355983227-i1gcvt",
     "source": "x",
     "ts": "2026-10-07T06:53:03.227Z",
@@ -7993,5 +7967,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108211272240025600/img/j47ljuyHkjtZPTf8.jpg"
     }
+  },
+  {
+    "id": "x-1791472957087-nqfkuv",
+    "source": "x",
+    "ts": "2026-10-08T15:22:37.087Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T15:20:43.000Z",
+    "reason": "No notable regulatory move or specific event related to crypto.",
+    "text": "Trump Administration Suspends Microsoft From Permanent Labor Certification Program\n\nThe Trump administration suspends @Microsoft from its permanent labor certification program to process green cards for foreign workers on H-1B visas. \n\nThe administration enforced this decision",
+    "url": "https://x.com/BSCNews/status/2108216023631483023"
+  },
+  {
+    "id": "x-1791472960320-bueriw",
+    "source": "x",
+    "ts": "2026-10-08T15:22:40.320Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-08T15:12:00.000Z",
+    "reason": "New institutional adoption on Solana with major tech companies involved.",
+    "text": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+    "url": "https://x.com/DecryptMedia/status/2108213831499469024",
+    "images": [],
+    "video": null
   }
 ]
