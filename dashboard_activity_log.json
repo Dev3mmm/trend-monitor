@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791395032279-oqj8co",
-    "source": "x",
-    "ts": "2026-10-07T17:43:52.279Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-07T17:42:48.000Z",
-    "reason": "No notable move in crypto indicated.",
-    "text": "🚨TODAY: President Trump announces automatic enrollment for eligible American children into new “Trump Accounts.”\n\n“If all goes well… they’ll end up being quite rich by the time they’re 18,” Trump said.",
-    "url": "https://x.com/coinbureau/status/2107889394489389555"
-  },
-  {
-    "id": "x-1791395036013-eo6qsf",
-    "source": "x",
-    "ts": "2026-10-07T17:43:56.013Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 19,
-    "originTimestamp": "2026-10-07T17:24:39.000Z",
-    "reason": "Generic product promotion, no crypto content.",
-    "text": "Order a Tesla online in under 5 minutes and find out why they have the highest brand loyalty in the world",
-    "url": "https://x.com/elonmusk/status/2107889372859388016"
-  },
-  {
-    "id": "x-1791395039886-ojvyvw",
-    "source": "x",
-    "ts": "2026-10-07T17:43:59.886Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-07T17:40:41.000Z",
-    "reason": "Prediction without supporting evidence or data.",
-    "text": "🚨 INSIGHT: Peter Schiff predicts mortgage rates will hit 9% next year, saying home prices would need to fall nearly 50% to keep monthly payments at previous levels.",
-    "url": "https://x.com/Cointelegraph/status/2107888861279866960"
-  },
-  {
     "id": "x-1791395045534-y1rjrz",
     "source": "x",
     "ts": "2026-10-07T17:44:05.534Z",
@@ -7835,5 +7796,52 @@
     "url": "https://x.com/Cointelegraph/status/2108319187386913145",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791498158322-ecyxar",
+    "source": "x",
+    "ts": "2026-10-08T22:22:38.322Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T22:20:40.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🇮🇷 JUST IN: US Treasury targets Iran’s oil shadow fleet as Scott Bessent warns sanctions evaders will face its full authority.",
+    "url": "https://x.com/Cointelegraph/status/2108321709287784484"
+  },
+  {
+    "id": "x-1791498160957-x2wwsr",
+    "source": "x",
+    "ts": "2026-10-08T22:22:40.957Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-08T22:18:35.000Z",
+    "reason": "Generic hype with no factual claim.",
+    "text": "Excited to announce that all super intelligence organizations have now jointly agreed to the ultimate in AI/SI safety:\n\nMoving all testing to Delta Airlines flights, where accessing the Internet is utterly impossible!",
+    "url": "https://x.com/elonmusk/status/2108321181602353333"
+  },
+  {
+    "id": "x-1791498165131-6k6nkd",
+    "source": "x",
+    "ts": "2026-10-08T22:22:45.131Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T22:15:00.000Z",
+    "reason": "Notable institutional investment in a long-time crypto asset on its anniversary.",
+    "text": "Investors pour $482k into LTC ETF on Litecoin's 15th anniversary.\n\nYesterday, October 7, which marked the 15th anniversary of @Litecoin's genesis block, Canary's spot LTC ETF saw a net inflow of +$482,000.\n\nThe ETF has woken up in recent weeks, after prolonged periods of",
+    "url": "https://x.com/BSCNews/status/2108320280515166439",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108125456981450753/vid/avc1/1312x720/KbItIerAZryJBcLg.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108125456981450753/img/jiIYwijWs41elK6s.jpg"
+    }
   }
 ]
