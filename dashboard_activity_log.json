@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1791313337744-g1wl4n",
-    "source": "x",
-    "ts": "2026-10-06T19:02:17.744Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T18:59:00.000Z",
-    "reason": "Significant increase in liquidity TVL for Raydium DEX.",
-    "text": "Raydium liquidity surges to $1.34 BILLION.\n\nLeading @Solana DEX @Raydium has seen its TVL explode by +20% over the last month, growing from around $800M in early August to $1.344B at time of writing.\n\nRaydium listed nearly 40 new assets in the past month, including several very",
-    "url": "https://x.com/BSCNews/status/2107546180045742574",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107481621662253056/vid/avc1/1312x720/EloKAwqvtbANK_vR.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107481621662253056/img/wZK1lWIYIpMyOAss.jpg"
-    }
-  },
-  {
-    "id": "x-1791313341793-xwvvwu",
-    "source": "x",
-    "ts": "2026-10-06T19:02:21.793Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T18:58:41.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "🇮🇷 BIG: Iran steps up attacks on tankers in the Strait of Hormuz, threatening crude oil exports as nearly 20 commercial ships face attacks.",
-    "url": "https://x.com/Cointelegraph/status/2107546100286505093"
-  },
-  {
-    "id": "x-1791314011480-6cd3nt",
-    "source": "x",
-    "ts": "2026-10-06T19:13:31.480Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-06T19:10:41.000Z",
-    "reason": "New feature release with potential scalability implications for Starknet.",
-    "text": "🔥 NEW: StarkWare rolls out Starknet v0.14.4 on Mainnet, enabling single proven transactions of up to 1.1B L2 gas once activated.",
-    "url": "https://x.com/Cointelegraph/status/2107549119560511663",
-    "images": [
-      "https://pbs.twimg.com/media/HT-EwUwX0AADEBM.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791314594787-4hwsrv",
     "source": "x",
     "ts": "2026-10-06T19:23:14.787Z",
@@ -8057,5 +8005,52 @@
     "reason": "No notable move, statement is vague without price or recent range reference.",
     "text": "Digital Credit is raising the bar for income investors. $STRC",
     "url": "https://x.com/saylor/status/2108171319842132396"
+  },
+  {
+    "id": "x-1791464010348-l0glsw",
+    "source": "x",
+    "ts": "2026-10-08T12:53:30.348Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 114,
+    "originTimestamp": "2026-10-08T10:59:17.000Z",
+    "reason": "The tweet is unrelated to cryptocurrencies or blockchain technology.",
+    "text": "🇮🇳  Starlink will help the least-served in India  🇮🇳",
+    "url": "https://x.com/elonmusk/status/2108177695271948445"
+  },
+  {
+    "id": "x-1791464015515-id5zo5",
+    "source": "x",
+    "ts": "2026-10-08T12:53:35.515Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-08T12:44:07.000Z",
+    "reason": "Notable institutional move with a new stablecoin release.",
+    "text": "Polkadot now has its own native stablecoin\n\n@Polkadot has deployed $dotUSD on mainnet. \n\nThe blockchain now has an immutable, decentralized stablecoin governed entirely through its on-chain OpenGov framework. \n\nThe release offers an alternative to the $250B corporate stablecoin",
+    "url": "https://x.com/BSCNews/status/2108176613435113935",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108176377966911488/vid/avc1/1316x720/nE40o2OqB6d_cBzp.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108176377966911488/img/9MVhx3v0_2-bVSKK.jpg"
+    }
+  },
+  {
+    "id": "x-1791464020558-x5dhzj",
+    "source": "x",
+    "ts": "2026-10-08T12:53:40.558Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-08T12:43:11.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "🚨JUST OUT: U.S. Initial Jobless Claims come in LOWER than expected.\n\nInitial Jobless Claims: 197,000 vs 200,000 exp. | prev. 199,000\n\nThe stronger labor market reinforces yesterday's FOMC minutes, which showed most Fed officials expected another rate hike by year-end.\n\nThe data",
+    "url": "https://x.com/coinbureau/status/2108176378583740738"
   }
 ]
