@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1791102759202-8utrkq",
-    "source": "x",
-    "ts": "2026-10-04T08:32:39.202Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 41,
-    "originTimestamp": "2026-10-04T07:51:00.000Z",
-    "reason": "Specific announcement about a new blockchain feature.",
-    "text": "The @Aptos blockchain is taking privacy seriously. Here's what you need to know about confidential APT. ⬇️",
-    "url": "https://x.com/BSCNews/status/2106653296333144289"
-  },
-  {
-    "id": "x-1791302649055-678iih",
-    "source": "x",
-    "ts": "2026-10-06T16:04:09.055Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T16:01:24.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Day 11 of 100 Days of AI 🤖\n\nCrypto research ≠ 14 browser tabs. \n\nReal talk: how many are open right now? 👀",
-    "url": "https://x.com/binance/status/2107501484443336726"
-  },
-  {
-    "id": "x-1791302651161-1jd7sm",
-    "source": "x",
-    "ts": "2026-10-06T16:04:11.161Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T16:00:57.000Z",
-    "reason": "No notable move or newsworthy regulatory proposal.",
-    "text": "🚨LATEST: The EU wants a 15-YEAR safeguard period for future members.\n\nEven after joining, new countries could LOSE EU funding or have their voting rights suspended if they seriously breach rule-of-law standards, EU values or obstruct the bloc’s decision-making.\n\nThe proposal is",
-    "url": "https://x.com/coinbureau/status/2107501374808395787"
-  },
-  {
-    "id": "x-1791303238589-owyas6",
-    "source": "x",
-    "ts": "2026-10-06T16:13:58.589Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-06T16:10:00.000Z",
-    "reason": "No notable move in ETH or any other token price.",
-    "text": "Midnight Network rips +62% as permissionless smart contracts go live.\n\n@MidnightNtwrk's NIGHT token is up more than +60% on the week at time of writing, outpacing all other significant crypto assets.\n\nThe exact reason behind the surge is not clear. However, it may be related to",
-    "url": "https://x.com/BSCNews/status/2107503649891201424"
-  },
-  {
     "id": "x-1791303791349-fsqm5g",
     "source": "x",
     "ts": "2026-10-06T16:23:11.349Z",
@@ -8050,5 +7997,80 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "What Could a Small Business Owner Build With Internet Computer's Caffeine?\n\nCaffeine allows users to develop applications and websites through interacting with the AI using natural language without having to develop the whole stack themselves.\n\nThis could be useful for a small",
     "url": "https://x.com/BSCNews/status/2108138458300768725"
+  },
+  {
+    "id": "x-1791455881308-ta8c53",
+    "source": "x",
+    "ts": "2026-10-08T10:38:01.308Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-08T10:34:01.000Z",
+    "reason": "Greece plans to reduce its crypto capital gains tax from 15% to 10%, indicating potential regulatory softening.",
+    "text": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
+    "url": "https://x.com/DecryptMedia/status/2108143872849158560",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791455883603-bqtr3q",
+    "source": "x",
+    "ts": "2026-10-08T10:38:03.603Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-08T10:33:41.000Z",
+    "reason": "Notable institutional backing and investment in a new blockchain technology.",
+    "text": "Sui's Hashi Mainnet is now backed by Anchorage Digital\n\nSui Network (@SuiNetwork) has finally revealed the phased release of Hashi, \n\nThe proprietary Bitcoin finance layer is set to launch within this month, backed by more than $500 million in investment, including Anchorage",
+    "url": "https://x.com/BSCNews/status/2108143789948703174",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108142982222229505/vid/avc1/1316x720/kQcg46SUt_pCc1UX.mp4?tag=29",
+      "duration": 30,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108142982222229505/img/TQVpr4_WuGwOuTAR.jpg"
+    }
+  },
+  {
+    "id": "x-1791455885445-wn5ln4",
+    "source": "x",
+    "ts": "2026-10-08T10:38:05.445Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-08T10:33:41.000Z",
+    "reason": "Specific institutional adoption event.",
+    "text": "JUST IN: 🇷🇺 Russia’s largest bank, Sberbank, is preparing to launch #Bitcoin &amp; crypto trading for over 100 million clients 👀\n\nAdoption! 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2108143788103217453",
+    "images": [
+      "https://pbs.twimg.com/media/HUGhmnvWIAASica.jpg",
+      "https://pbs.twimg.com/media/HUGhmnyW4AAjHjR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791455887332-wmgtf9",
+    "source": "x",
+    "ts": "2026-10-08T10:38:07.332Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T10:30:45.000Z",
+    "reason": "Notable institutional adoption by Morgan Stanley.",
+    "text": "🇸🇬 TOKEN2049: Morgan Stanley’s Amy Oldenburg says its crypto ETPs reached $1B within six months.",
+    "url": "https://x.com/Cointelegraph/status/2108143050681631062",
+    "images": [
+      "https://pbs.twimg.com/media/HUGg680XcAAHJh-.png",
+      "https://pbs.twimg.com/media/HUGg7g0XMAAvWB-.png"
+    ],
+    "video": null
   }
 ]
