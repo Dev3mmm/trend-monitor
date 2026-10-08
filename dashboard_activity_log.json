@@ -1,61 +1,5 @@
 [
   {
-    "id": "x-1791289934682-73zj6k",
-    "source": "x",
-    "ts": "2026-10-06T12:32:14.682Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T12:28:30.000Z",
-    "reason": "CFTC regulatory plan for crypto exchanges is notable news.",
-    "text": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
-    "url": "https://x.com/DecryptMedia/status/2107447907137782029",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791289938743-vlctcj",
-    "source": "x",
-    "ts": "2026-10-06T12:32:18.743Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-06T12:26:40.000Z",
-    "reason": "Notable institutional investment and partnership in cryptocurrency exchange.",
-    "text": "OKX Receives Strategic Funding from Standard Chartered, Ripple, and Circle\n\nGlobal cryptocurrency exchange @Okx receives a strategic investment at a $25B valuation from some of the largest banks and digital asset companies. \n\nIn this round, @Circle, @Ripple, quant hedge fund Qube",
-    "url": "https://x.com/BSCNews/status/2107447447593050245",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107447409345253377/vid/avc1/1316x720/qXEwOWHjqUwl8tk3.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107447409345253377/img/B-CmZD0SwsmheD-f.jpg"
-    }
-  },
-  {
-    "id": "x-1791290549034-0q8v0t",
-    "source": "x",
-    "ts": "2026-10-06T12:42:29.034Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-06T12:35:46.000Z",
-    "reason": "Specific regulatory move involving a bank charter for digital assets.",
-    "text": "🇺🇸 UPDATE: Rain files for a US national trust bank charter to offer digital asset custody, stablecoin reserve and issuance.",
-    "url": "https://x.com/Cointelegraph/status/2107449737544634673",
-    "images": [
-      "https://pbs.twimg.com/media/HT8qXJKXAAAzXP5.png",
-      "https://pbs.twimg.com/media/HT8qXVPWYAA-1yF.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791291138990-dqanbn",
     "source": "x",
     "ts": "2026-10-06T12:52:18.990Z",
@@ -8033,6 +7977,58 @@
     "images": [
       "https://pbs.twimg.com/media/HUFdZKJWQAAgGnK.jpg",
       "https://pbs.twimg.com/media/HUFdZYMW8AAWJts.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791438731995-qvu4pw",
+    "source": "x",
+    "ts": "2026-10-08T05:52:11.995Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-08T05:48:30.000Z",
+    "reason": "No notable move in Monero reported.",
+    "text": "Peter Brandt Favors Monero as XRP Faces Heavy Resistance\n\nVeteran trader Peter Brandt (@PeterLBrandt) has named Monero (@monero) his clear favorite among several altcoin charts he recently compared.\n\nHe sees monero:native as having little overhead supply, creating what he calls",
+    "url": "https://x.com/BSCNews/status/2108072019757801624"
+  },
+  {
+    "id": "x-1791438737255-7crgsg",
+    "source": "x",
+    "ts": "2026-10-08T05:52:17.255Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T05:45:41.000Z",
+    "reason": "Samsung's expansion into Solana and Sui token ecosystems represents a significant institutional adoption.",
+    "text": "🇺🇸 JUST IN: Samsung is bringing USDC on both Solana and Sui to 82 million US Galaxy devices, with the Solana rollout starting the last week of October.",
+    "url": "https://x.com/Cointelegraph/status/2108071312614723969",
+    "images": [
+      "https://pbs.twimg.com/media/HUFfrmoWkAEyLYo.jpg",
+      "https://pbs.twimg.com/media/HUFfry_W4AAywTu.jpg",
+      "https://pbs.twimg.com/media/HUFfr-JXkAAMBh2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791438742474-l8nc4o",
+    "source": "x",
+    "ts": "2026-10-08T05:52:22.474Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T05:45:00.000Z",
+    "reason": "Notable failure and shutdown of a blockchain project.",
+    "text": "🚨LATEST: Pudgy Penguins’ parent company shuts down its Abstract blockchain.\n\nAbstract, the Ethereum Layer-2 launched by Pudgy Penguins parent company Igloo Inc., will shut down on December 15 after struggling to scale beyond consumer crypto.\n\nThe team says limited DeFi activity,",
+    "url": "https://x.com/coinbureau/status/2108071138962403586",
+    "images": [
+      "https://pbs.twimg.com/media/HUEfzgZaUAADqME.jpg",
+      "https://pbs.twimg.com/media/HUEf1kNaMAAD-5Y.jpg"
     ],
     "video": null
   }
