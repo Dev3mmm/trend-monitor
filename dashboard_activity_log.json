@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1791310957608-0tzydc",
-    "source": "x",
-    "ts": "2026-10-06T18:22:37.608Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-06T18:21:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Injective is working hard to grow its memecoin ecosystem.\n\nJust days ago, two @injective token launchpads went live in the form of @runupdotfun and @sproutsomefun.\n\nToday, the official $INJ account announced that its new \"Trench Treasury\", and the Injective Foundation has",
-    "url": "https://x.com/BSCNews/status/2107536616868716731"
-  },
-  {
-    "id": "x-1791311590039-oa5j7k",
-    "source": "x",
-    "ts": "2026-10-06T18:33:10.039Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-06T18:30:49.000Z",
-    "reason": "Specific mention of a notable use case for a token on Solana.",
-    "text": "🔥 UPDATE: Backpack-issued tokenized stocks on Solana have surpassed 300,000 holders.",
-    "url": "https://x.com/Cointelegraph/status/2107539086957256886",
-    "images": [
-      "https://pbs.twimg.com/media/HT97ni8XoAA1SFx.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791312167557-npc4zk",
-    "source": "x",
-    "ts": "2026-10-06T18:42:47.557Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T18:39:41.000Z",
-    "reason": "No notable move in Bitcoin's price indicated.",
-    "text": "JUST IN: Bitcoin is currently in its most shallow cycle since the prior halving 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2107541319874752827"
-  },
-  {
     "id": "x-1791312173054-gbvmvj",
     "source": "x",
     "ts": "2026-10-06T18:42:53.054Z",
@@ -8067,5 +8023,52 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Join us for our Q3 2026 Earnings Call on Thursday, October 29 at 5 PM ET. The call will be livestreamed on Zoom, X, and YouTube. $MSTR $STRC",
     "url": "https://x.com/saylor/status/2108166289487434035"
+  },
+  {
+    "id": "x-1791462153646-sd4ls0",
+    "source": "x",
+    "ts": "2026-10-08T12:22:33.646Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T12:20:19.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: Bitcoin's Fear and Greed Index falls to 'Neutral' for the first time since August 👀\n\nHODL! ✊",
+    "url": "https://x.com/BitcoinMagazine/status/2108170625881965025"
+  },
+  {
+    "id": "x-1791462157122-f9u32o",
+    "source": "x",
+    "ts": "2026-10-08T12:22:37.122Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-08T12:17:02.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "AI Video Game Mod Mashups Are Taking Off—Here Are the Wackiest Examples",
+    "url": "https://x.com/DecryptMedia/status/2108169797829542223"
+  },
+  {
+    "id": "x-1791462163412-0vwwdk",
+    "source": "x",
+    "ts": "2026-10-08T12:22:43.412Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-08T12:15:30.000Z",
+    "reason": "ESMA calls for EU crypto firms to stop supporting stablecoins that violate MiCA.",
+    "text": "Tether's USDT could get Total ban in the EU\n\nThe European Securities and Markets Authority (ESMA) has ordered EU national regulators to urge all licensed digital asset companies to support MiCA-regulated assets. \n\nESMA calls for EU crypto firms to stop supporting stablecoins that",
+    "url": "https://x.com/BSCNews/status/2108169412578546025",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108168464640663552/vid/avc1/1316x720/HVRgE4dsT1cQnJK6.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108168464640663552/img/xAw9_iTckdzPm_t4.jpg"
+    }
   }
 ]
