@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1791303794502-u372p3",
-    "source": "x",
-    "ts": "2026-10-06T16:23:14.502Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 102,
-    "originTimestamp": "2026-10-06T14:41:08.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Thank you for your support! 🙏",
-    "url": "https://x.com/cz_binance/status/2107505313008308536"
-  },
-  {
-    "id": "x-1791304388589-ubz1hr",
-    "source": "x",
-    "ts": "2026-10-06T16:33:08.589Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CryptoNewsLive",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-06T16:31:57.000Z",
-    "reason": "Notable on-chain data point showing significant price movement.",
-    "text": "The $NMR price sat at $12.01 on Binance at 11:35 UTC today. One minute later it printed $15.05, and by 11:39 the high was $18.99. Upbit had posted a Numeraire listing notice at 11:36 UTC.",
-    "url": "https://x.com/CryptoNwsOrg/status/2107509174058053776",
-    "images": [
-      "https://pbs.twimg.com/media/HT9gaHvXsAAXgs-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791304394615-ebtmbv",
-    "source": "x",
-    "ts": "2026-10-06T16:33:14.615Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-06T16:30:00.000Z",
-    "reason": "No notable move; price is well within the recent range.",
-    "text": "🔥BULLISH: S&amp;P 500 hits a NEW ALL-TIME HIGH at 7,844.\n\nSPX is up 0.8% as Wall Street bets on a huge AI-driven Q3 earnings season.\n\nThe index is now worth a record $71.3 TRILLION, up 24% from its March 30 low, helping push the total US stock market above $82 TRILLION.\n\nThat’s",
-    "url": "https://x.com/coinbureau/status/2107508684863762461"
-  },
-  {
     "id": "x-1791304400200-rzddle",
     "source": "x",
     "ts": "2026-10-06T16:33:20.200Z",
@@ -8080,5 +8036,53 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108145359838953472/img/LU_xnIK_uMG0rODD.jpg"
     }
+  },
+  {
+    "id": "x-1791456751971-wz1sd5",
+    "source": "x",
+    "ts": "2026-10-08T10:52:31.971Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T10:50:41.000Z",
+    "reason": "Specific institution expanding crypto custody.",
+    "text": "🇸🇬 JUST IN: $74B Standard Chartered expands crypto custody to Singapore, targeting institutional clients.",
+    "url": "https://x.com/Cointelegraph/status/2108148068684058693",
+    "images": [
+      "https://pbs.twimg.com/media/HUGlfdnW8AAqiIc.jpg",
+      "https://pbs.twimg.com/media/HUGlfsKWkAAizFZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791456755685-v41o8o",
+    "source": "x",
+    "ts": "2026-10-08T10:52:35.685Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-08T10:48:34.000Z",
+    "reason": "No notable move in crypto prices mentioned.",
+    "text": "📈BREAKING: Brent oil prices have risen every hour for the last 16 hours, extending gains by 5% to above $105 a barrel.",
+    "url": "https://x.com/coinbureau/status/2108147533461803220"
+  },
+  {
+    "id": "x-1791456759702-n62j3k",
+    "source": "x",
+    "ts": "2026-10-08T10:52:39.702Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T10:46:30.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Former PlayStation Exec Slams Sony's Move to Kill Discs: 'What Are You Buying?'",
+    "url": "https://x.com/DecryptMedia/status/2108147013720129667",
+    "images": [],
+    "video": null
   }
 ]
