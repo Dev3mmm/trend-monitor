@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791367308620-kx6bko",
-    "source": "x",
-    "ts": "2026-10-07T10:01:48.620Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-07T10:01:12.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "what do people who don’t check charts first thing in the morning even look forward to?",
-    "url": "https://x.com/binance/status/2107773226805829698"
-  },
-  {
-    "id": "x-1791367311016-2ocx9e",
-    "source": "x",
-    "ts": "2026-10-07T10:01:51.016Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-07T10:00:02.000Z",
-    "reason": "Keynote sets new vision for cryptocurrency trading markets.",
-    "text": "Welcome to the always-on future.\n\n@OKX Founder &amp; CEO @star_okx opened OKX Now in Singapore with a keynote that set the bar for the whole day, a sweeping vision for markets that never pause and money that moves at internet speed.",
-    "url": "https://x.com/Cointelegraph/status/2107772932894437457",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107764347602903040/vid/avc1/720x720/Gm5IZYlMLCR9wW1j.mp4?tag=29",
-      "duration": 21,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107764347602903040/img/vyE7vwRiA-eubjMf.jpg"
-    }
-  },
-  {
     "id": "x-1791367313129-jn9pn9",
     "source": "x",
     "ts": "2026-10-07T10:01:53.129Z",
@@ -7940,5 +7906,39 @@
     "reason": "No notable crypto-related content or move mentioned.",
     "text": "Welcome home @NASA Crew-12",
     "url": "https://x.com/elonmusk/status/2108231759804416432"
+  },
+  {
+    "id": "x-1791477731523-u20upg",
+    "source": "x",
+    "ts": "2026-10-08T16:42:11.523Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T16:40:41.000Z",
+    "reason": "No notable crypto-related event or movement.",
+    "text": "🇮🇷 TODAY: President Trump says the US will not attack Iran before the November 3 midterm elections, while the blockade remains in force and talks continue.",
+    "url": "https://x.com/Cointelegraph/status/2108236148065595714"
+  },
+  {
+    "id": "x-1791477734406-gwgxwm",
+    "source": "x",
+    "ts": "2026-10-08T16:42:14.406Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-08T16:34:06.000Z",
+    "reason": "Question about altcoins outperforming Bitcoin, potentially new use cases.",
+    "text": "⚡️ QUESTION: What would it take for altcoins to outperform Bitcoin again?\n\n@BingXOfficial's @kevinlee_bingx tells Cointelegraph why price action alone may not be enough, and what new use cases could mean for the next altcoin cycle.",
+    "url": "https://x.com/Cointelegraph/status/2108234492284715442",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108196470579195904/vid/avc1/1280x720/IIF8a2o-sFQgXnP5.mp4?tag=14",
+      "duration": 78,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108196470579195904/img/nta4Bz-4undIAQgf.jpg"
+    }
   }
 ]
