@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791289334388-lfc417",
-    "source": "x",
-    "ts": "2026-10-06T12:22:14.388Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-06T12:13:00.000Z",
-    "reason": "Notable regulatory move affecting cryptocurrency trading.",
-    "text": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
-    "url": "https://x.com/DecryptMedia/status/2107444008477655191",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791289339284-7hy962",
-    "source": "x",
-    "ts": "2026-10-06T12:22:19.284Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-06T12:12:51.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Since Strategy adopted the Bitcoin Standard in 2020, Digital Equity ($MSTR) and Digital Capital ($BTC) have delivered 52% and 38% annualized returns, outperforming the stock, gold, real estate, and bond benchmarks shown. The future of capital is digital..",
-    "url": "https://x.com/saylor/status/2107443970607612398"
-  },
-  {
     "id": "x-1791289934682-73zj6k",
     "source": "x",
     "ts": "2026-10-06T12:32:14.682Z",
@@ -8027,5 +7998,42 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108065164331565056/img/BTfoOX7vWTFq7Jqj.jpg"
     }
+  },
+  {
+    "id": "x-1791438155571-qwhpd1",
+    "source": "x",
+    "ts": "2026-10-08T05:42:35.571Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-08T05:37:51.000Z",
+    "reason": "Notable statement from a controversial crypto figure about bank exit.",
+    "text": "🇸🇬 TOKEN2049: Justin Sun says banks will \"gradually exit\" the market because people born after 2000 won't \"waste their time on banks anymore.\"",
+    "url": "https://x.com/Cointelegraph/status/2108069342458036589",
+    "images": [
+      "https://pbs.twimg.com/media/HUFd4yuagAAiD-j.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791438160446-nlqhm4",
+    "source": "x",
+    "ts": "2026-10-08T05:42:40.446Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T05:35:41.000Z",
+    "reason": "Vitalik Buterin's comments on Ethereum security highlight a significant technical concern.",
+    "text": "🚨 JUST IN: Vitalik Buterin says multisig signers should ideally switch to a new key after every transaction as AI threatens ECDSA, but warns \"don't rush anything.\"",
+    "url": "https://x.com/Cointelegraph/status/2108068794266472881",
+    "images": [
+      "https://pbs.twimg.com/media/HUFdZKJWQAAgGnK.jpg",
+      "https://pbs.twimg.com/media/HUFdZYMW8AAWJts.jpg"
+    ],
+    "video": null
   }
 ]
