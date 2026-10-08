@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1791280980024-jgiztu",
-    "source": "x",
-    "ts": "2026-10-06T10:03:00.024Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-06T10:00:57.000Z",
-    "reason": "Notable increase in crypto spot volume.",
-    "text": "🔥 UPDATE: Crypto spot volume rose 20% in September to $973B, marking a second straight monthly increase, per CryptoRank.",
-    "url": "https://x.com/Cointelegraph/status/2107410776373776679",
-    "images": [
-      "https://pbs.twimg.com/media/HT8G7poXUAAtfK9.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791280981773-g3sgkd",
     "source": "x",
     "ts": "2026-10-06T10:03:01.773Z",
@@ -8054,5 +8036,26 @@
     "reason": "Noise: vague opinion with no factual claim.",
     "text": "其实我很简单，就是想要做“正确”的事情，维权不是去骂街，而是去解决问题，解决问题的第一步就是建立有效沟通，而不是先入为主的判断谁对谁错。\n\n我们不是双方的当事者，可能不清楚全貌，所以维权需要的是尽量公开能公开的信息，减少信息差导致的误会。\n\n最怕的不是有人给你解释，而是根本不搭理你。",
     "url": "https://x.com/PhyrexNi/status/2108041542304964810"
+  },
+  {
+    "id": "x-1791432127032-6dtz6x",
+    "source": "x",
+    "ts": "2026-10-08T04:02:07.032Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T04:00:00.000Z",
+    "reason": "AI hacking capabilities on Ethereum highlighted by Vitalik Buterin.",
+    "text": "Vitalik: AI Is Becoming Capable of Hacking All Kinds of Systems\n\nOn October 6, 2026, Ethereum co-founder Vitalik Buterin @VitalikButerin said at the OKX NOW @okx event in Singapore that AI is beginning to demonstrate powerful hacking capabilities, including escaping sandboxes,",
+    "url": "https://x.com/WuBlockchain/status/2108044714742063300",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2107754706491895808/vid/avc1/1278x720/SQWTJzEtI8NNmhP-.mp4?tag=29",
+      "duration": 90,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107754706491895808/img/hsZ8KUMgp84tdd5Y.jpg"
+    }
   }
 ]
