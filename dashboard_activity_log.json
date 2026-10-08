@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1791295955433-5p2vyw",
-    "source": "x",
-    "ts": "2026-10-06T14:12:35.433Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-06T14:11:11.000Z",
-    "reason": "Prediction/price call with no basis given",
-    "text": "JUST IN: River's Research Analyst says their model has Bitcoin priced between $250,000 and $840,000 over the next 3-5 years. 👀\n\n\"I think it's quite reasonable and conservative once you start looking at what we're saying.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2107473748332892495"
-  },
-  {
-    "id": "x-1791295958501-oejk7s",
-    "source": "x",
-    "ts": "2026-10-06T14:12:38.501Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-06T14:08:28.000Z",
-    "reason": "Noise: Generic and vague tweet without concrete information.",
-    "text": "Mwecheche.",
-    "url": "https://x.com/amerix/status/2107473066989105251"
-  },
-  {
-    "id": "x-1791297137911-dsxmty",
-    "source": "x",
-    "ts": "2026-10-06T14:32:17.911Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-06T14:30:46.000Z",
-    "reason": "New stablecoin launch by EtherFi is noteworthy.",
-    "text": "🔥 UPDATE: EtherFi is launching its own stablecoin through Ethena Whitelabel, building on $300M+ in stablecoin deposits.",
-    "url": "https://x.com/Cointelegraph/status/2107478678976262254",
-    "images": [
-      "https://pbs.twimg.com/media/HT9ErglWAAARTiS.png",
-      "https://pbs.twimg.com/media/HT9Er-9XkAApytQ.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791297140911-17ynj3",
-    "source": "x",
-    "ts": "2026-10-06T14:32:20.911Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-06T14:25:25.000Z",
-    "reason": "No notable crypto news or move mentioned.",
-    "text": "Digital Real Estate Author Leon Wankum on the monetary premium in real estate, the money parked there because fiat no longer stores value:\n\n\"Inflation has gone through the roof, and construction and maintenance costs have gone through the roof with it, and rents can't keep up.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2107477863675175215"
-  },
-  {
     "id": "x-1791297728814-wqrqkt",
     "source": "x",
     "ts": "2026-10-06T14:42:08.814Z",
@@ -8006,5 +7948,70 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108094663370616832/img/Hsxeacb9AF8ncLT3.jpg"
     }
+  },
+  {
+    "id": "x-1791446640202-xblbzf",
+    "source": "x",
+    "ts": "2026-10-08T08:04:00.202Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T08:02:02.000Z",
+    "reason": "Vague opinion without factual claim.",
+    "text": "September says it’s changed. Do we believe it?",
+    "url": "https://x.com/binance/status/2108105627176206457"
+  },
+  {
+    "id": "x-1791446643611-s1n2cr",
+    "source": "x",
+    "ts": "2026-10-08T08:04:03.611Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T08:01:02.000Z",
+    "reason": "Generic inquiry with no factual claim or notable event.",
+    "text": "⚡QUESTION: What is your worst loss?",
+    "url": "https://x.com/Cointelegraph/status/2108105375048143253"
+  },
+  {
+    "id": "x-1791446649555-zd3ow5",
+    "source": "x",
+    "ts": "2026-10-08T08:04:09.555Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-08T08:01:00.000Z",
+    "reason": "Notable speed boost for Dogecoin on a new blockchain.",
+    "text": "Dogecoin Got a 300X Speed Boost\n\nFintech firm, Metallicus, launched an alpha version of DogecoinVM on Metal Blockchain mainnet.\n\nAccording to the company, the processing speed of transactions can be up to 300 times faster than before.\n\nMarshall Hayner, CEO of Metallicus, referred",
+    "url": "https://x.com/BSCNews/status/2108105364952453325",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108100460070813696/vid/avc1/1280x720/u_nkEMUMFN2AqZI6.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108100460070813696/img/oQiz9MB-DqaY90WH.jpg"
+    }
+  },
+  {
+    "id": "x-1791446655000-dpfxr2",
+    "source": "x",
+    "ts": "2026-10-08T08:04:15.000Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T07:57:14.000Z",
+    "reason": "Notable warning from an Ethereum Foundation researcher about potential security risks.",
+    "text": "Ethereum Researcher Warns AI Could Break Crypto Wallet Security Before Quantum Computers Do\n\nEthereum Foundation researcher Justin Drake urged the crypto industry to prepare for \"bunker mode,\" warning that advances in AI and mathematics could potentially break ECDSA within months",
+    "url": "https://x.com/WuBlockchain/status/2108104415530156134",
+    "images": [
+      "https://pbs.twimg.com/media/HUF9x7obgAAa6kY.jpg"
+    ],
+    "video": null
   }
 ]
