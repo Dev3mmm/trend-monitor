@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791381754519-v826ny",
-    "source": "x",
-    "ts": "2026-10-07T14:02:34.519Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-07T14:01:47.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "you and bro on Binance, just emotionally attached to different charts.",
-    "url": "https://x.com/binance/status/2107833769931473371"
-  },
-  {
-    "id": "x-1791381758962-mjpn0l",
-    "source": "x",
-    "ts": "2026-10-07T14:02:38.962Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-07T14:01:38.000Z",
-    "reason": "Robinhood's Bitcoin balance sheet move is notable institutional activity.",
-    "text": "🔥 BULLISH: Robinhood adds $25M in Bitcoin to its balance sheet.",
-    "url": "https://x.com/Cointelegraph/status/2107833733407560134",
-    "images": [
-      "https://pbs.twimg.com/media/HUCHmPzWkAADaGK.jpg",
-      "https://pbs.twimg.com/media/HUCHmr0WMAEH61x.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791381762962-ruwepm",
     "source": "x",
     "ts": "2026-10-07T14:02:42.962Z",
@@ -7893,5 +7861,39 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Grok 4.7 ranks first in legal matters",
     "url": "https://x.com/elonmusk/status/2108269794268975387"
+  },
+  {
+    "id": "x-1791486821290-vjsjqk",
+    "source": "x",
+    "ts": "2026-10-08T19:13:41.290Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-08T19:10:00.000Z",
+    "reason": "The tweet is vague and promotional without providing specific news.",
+    "text": "🔥 NEW: Netflix released the first trailer for “The Altruists,” its series about the FTX scandal starring Julia Garner and Anthony Boyle, premiering November 19.",
+    "url": "https://x.com/Cointelegraph/status/2108273723685875805",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108168365252481024/vid/avc1/1280x720/WQYkaDXhLTnXKmW9.mp4?tag=29",
+      "duration": 123,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HUG4eCHa4AAqe4n.jpg"
+    }
+  },
+  {
+    "id": "x-1791486823728-wzal8g",
+    "source": "x",
+    "ts": "2026-10-08T19:13:43.728Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 100,
+    "originTimestamp": "2026-10-08T17:33:12.000Z",
+    "reason": "Ad推广信息，无实质性内容。",
+    "text": "Grok @Bot works well on your phone. Just download the app from Apple or Android.",
+    "url": "https://x.com/elonmusk/status/2108272088582676627"
   }
 ]
