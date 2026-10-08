@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791302452722-1isrre",
-    "source": "x",
-    "ts": "2026-10-06T16:00:52.722Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 41,
-    "originTimestamp": "2026-10-06T15:19:32.000Z",
-    "reason": "No concrete price or action mentioned.",
-    "text": "Make no mistakes",
-    "url": "https://x.com/elonmusk/status/2107495983328464979"
-  },
-  {
-    "id": "x-1791302455038-z1yo08",
-    "source": "x",
-    "ts": "2026-10-06T16:00:55.038Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-06T15:39:06.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Track the change log of @Grok Bot &amp; Build",
-    "url": "https://x.com/elonmusk/status/2107495875576824197"
-  },
-  {
     "id": "x-1791302458885-nu0yh0",
     "source": "x",
     "ts": "2026-10-06T16:00:58.885Z",
@@ -8029,5 +8003,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108128901767794688/img/Da5FE7Oi2_WYIg-I.jpg"
     }
+  },
+  {
+    "id": "x-1791453069657-ojxnoh",
+    "source": "x",
+    "ts": "2026-10-08T09:51:09.658Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-08T09:45:27.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "🇸🇬 LONGITUDE: Where is the smart money going? ETFs, onchain asset management and the next cycle take the spotlight.\n\n• @Duncanmoir, @21Shares\n• @Yannimoto, @BitwiseInvest\n• @evgeny_re7, @Re7Capital\n• @kain Warwick, @infinex &amp; @synthetix \n• Laurie Katz, @Grayscale\n\nWith Bibhu",
+    "url": "https://x.com/Cointelegraph/status/2108131651196969114"
+  },
+  {
+    "id": "x-1791453074810-kd3o6k",
+    "source": "x",
+    "ts": "2026-10-08T09:51:14.810Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-08T09:42:30.000Z",
+    "reason": "Political figure promotes cryptocurrency use for potential price manipulation.",
+    "text": "🚨BREAKING: UK Prime Minister Andy Burnham is facing backlash after promoting Google Maps fuel price checks as “help” for drivers.\n\nHis solution is a new feature showing live fuel prices to help motorists find cheaper petrol and diesel in the UK.\n\nBurnham said that he \"gets it\"",
+    "url": "https://x.com/coinbureau/status/2108130907957960793",
+    "images": [
+      "https://pbs.twimg.com/media/HUGObTWbMAAq_D2.jpg",
+      "https://pbs.twimg.com/media/HUGRtx8bsAAlGpL.jpg"
+    ],
+    "video": null
   }
 ]
