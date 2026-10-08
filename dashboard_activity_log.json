@@ -1,32 +1,5 @@
 [
   {
-    "id": "x-1791102155932-dgo1xl",
-    "source": "x",
-    "ts": "2026-10-04T08:22:35.933Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 77,
-    "originTimestamp": "2026-10-04T07:05:00.000Z",
-    "reason": "Notable revenue and transaction growth on the Arbitrum network.",
-    "text": "Arbitrum shattered revenue records in September.\n\nThe @arbitrum network saw a staggering $5M+ worth of chain revenue in September - the best month it has seen in history.\n\nThis equates to a 500% MoM increase, $ARB also having processed some 1.5B in additional transactions in 2026",
-    "url": "https://x.com/BSCNews/status/2106641720549187827"
-  },
-  {
-    "id": "x-1791102159984-syoro9",
-    "source": "x",
-    "ts": "2026-10-04T08:22:39.984Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 105,
-    "originTimestamp": "2026-10-04T06:37:08.000Z",
-    "reason": "No notable move in interest rates mentioned.",
-    "text": "🇺🇸 UPDATE: Another rates hike this month is unlikely according to the CME Group as they set a 77.9% chance that rates remain unchanged.",
-    "url": "https://x.com/Cointelegraph/status/2106634710210281906"
-  },
-  {
     "id": "x-1791102752906-9i2tz3",
     "source": "x",
     "ts": "2026-10-04T08:32:32.906Z",
@@ -8042,6 +8015,40 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108133018254950400/img/FM69_FXpWVDakOoI.jpg"
+    }
+  },
+  {
+    "id": "x-1791454333236-qxg0dl",
+    "source": "x",
+    "ts": "2026-10-08T10:12:13.236Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-08T10:08:42.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "flowers? no, candlesticks",
+    "url": "https://x.com/binance/status/2108137500891897868"
+  },
+  {
+    "id": "x-1791454338700-8kw02g",
+    "source": "x",
+    "ts": "2026-10-08T10:12:18.700Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-08T10:08:07.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "We might have just mastered yield farming on @StellarOrg...\n\nWe used @ElanInsights' Income Dashboard to break down the entire $XLM yield landscape. \n\nTry now:  \n\nSome lesser known protocols on Stellar are offering attractive returns.\n\n@GamiLabs' $USDC pool",
+    "url": "https://x.com/BSCNews/status/2108137354649104553",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108137158116528128/vid/avc1/1312x720/nZA6HIkY1pLnrK8K.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108137158116528128/img/3E8XhhnWS_3o1sJe.jpg"
     }
   }
 ]
