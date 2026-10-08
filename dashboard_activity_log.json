@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791302448347-h242kl",
-    "source": "x",
-    "ts": "2026-10-06T16:00:48.347Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-06T15:48:40.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Winklevoss Just Filed for a Zcash ETF to challenge Grayscale... \n\nWinklevoss Capital formally filed a registration statement with the U.S. Securities and Exchange Commission to list a ZCASH ETF on Nasdaq under the ticker symbol $WINK. \n\nThe registration statement notes that the",
-    "url": "https://x.com/BSCNews/status/2107498281802649627"
-  },
-  {
-    "id": "x-1791302450711-8vjd0n",
-    "source": "x",
-    "ts": "2026-10-06T16:00:50.711Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-06T15:45:06.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Prediction markets weren't being held to \"real journalistic standards,\" argues @Pierreobv—so he brought media giants to @nextpredictio.",
-    "url": "https://x.com/DecryptMedia/status/2107497384179904992"
-  },
-  {
     "id": "x-1791302452722-1isrre",
     "source": "x",
     "ts": "2026-10-06T16:00:52.722Z",
@@ -8021,5 +7995,39 @@
       "https://pbs.twimg.com/media/HUGTMXzXoAAoHT3.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791452562280-4omdsn",
+    "source": "x",
+    "ts": "2026-10-08T09:42:42.280Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T09:40:41.000Z",
+    "reason": "No notable move or specific information provided.",
+    "text": "🇸🇬 TOKEN2049: Fidelity’s Cynthia Lo Bessette says 24/7 prediction markets react to news overnight, helping traditional markets figure out fair prices when they reopen.",
+    "url": "https://x.com/Cointelegraph/status/2108130452179423260"
+  },
+  {
+    "id": "x-1791452565208-p88e06",
+    "source": "x",
+    "ts": "2026-10-08T09:42:45.208Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-08T09:38:09.000Z",
+    "reason": "Notable token distribution and value transfer on a new stablecoin.",
+    "text": "Hyperliquid Unlocks $330M HYPE in its Largest Distribution Yet\n\nHyperliquid (@HyperliquidX) Labs has unstaked 3.75 million hyperliquid:native tokens worth roughly $330 million.\n\nHalf of the allocation has already reached five OTC buyer wallets. Each wallet received 375,000 HYPE",
+    "url": "https://x.com/BSCNews/status/2108129814817448307",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108128901767794688/vid/avc1/1280x720/tJA0uGoR2TngLIf5.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108128901767794688/img/Da5FE7Oi2_WYIg-I.jpg"
+    }
   }
 ]
