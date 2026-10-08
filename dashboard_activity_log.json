@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1791380572279-4n56z8",
-    "source": "x",
-    "ts": "2026-10-07T13:42:52.279Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-07T13:38:57.000Z",
-    "reason": "No notable move or newsworthy event mentioned.",
-    "text": "Litecoin is 15 years old today\n\nCharlie Lee (@SatoshiLite) created the first genesis block of the @Litecoin blockchain on October 7, 2011. \n\nSince then, the network has evolved with several milestones and updates. With over $5 billion in market capitalization, the asset is now a",
-    "url": "https://x.com/BSCNews/status/2107828026465554682"
-  },
-  {
-    "id": "x-1791381185238-so29ej",
-    "source": "x",
-    "ts": "2026-10-07T13:53:05.238Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-07T13:49:35.000Z",
-    "reason": "Notable use of crypto for a real-world application in agriculture.",
-    "text": "Avalanche is connecting Millions of Farmers to Storage, markets, &amp; Credit\n\nIndia's agritech company Arya and fintech infrastructure firm Finternet are kickstarting the onboarding of over $2B in grain reserves onto the @Avax blockchain. \n\nThis development aims to link 12,000+",
-    "url": "https://x.com/BSCNews/status/2107830701101904380",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107830641492455424/vid/avc1/1316x720/fY4kylT2QvlKjCQr.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107830641492455424/img/Y9UgnlpR0AGLQVE-.jpg"
-    }
-  },
-  {
-    "id": "x-1791381190461-2assnl",
-    "source": "x",
-    "ts": "2026-10-07T13:53:10.462Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-07T13:46:20.000Z",
-    "reason": "IEA discussing massive oil reserve release.",
-    "text": "🚨HUGE: The IEA is discussing a proposed 100 MILLION barrel oil and diesel reserve release TODAY.\n\nAround 325 MILLION barrels have already been released under the IEA’s 400 MILLION barrel March deal.\n\n🇩🇪 Germany says its contribution would come from volumes already agreed in",
-    "url": "https://x.com/coinbureau/status/2107829885033144800",
-    "images": [
-      "https://pbs.twimg.com/media/HUCEBD8bsAACzwV.png",
-      "https://pbs.twimg.com/media/HUCEDXSbIAEjO4P.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791381754519-v826ny",
     "source": "x",
     "ts": "2026-10-07T14:02:34.519Z",
@@ -7894,5 +7841,57 @@
     "reason": "No notable crypto-related event or movement mentioned.",
     "text": "SpaceX went from 8 launches in 2016 to 170 in 2025.\n\nWhat critics called a “subsidy scam” and a “Musk vanity project” already out-launched every other country on Earth COMBINED. \n\nFalcon is still flying and Starship is just getting started, so by the end of the decade, the rest",
     "url": "https://x.com/elonmusk/status/2108267386105385465"
+  },
+  {
+    "id": "x-1791486150512-gkxjqu",
+    "source": "x",
+    "ts": "2026-10-08T19:02:30.512Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T19:01:00.000Z",
+    "reason": "Notable institutional integration with Binance exchange.",
+    "text": "DoubleZero adds support for Binance exchange.\n\nTrading infrastructure project @doublezero has announced full support for @Binance on its Edge platform.\n\nThe Edge platform gives traders a Wall Street-style speed advantage by transmitting low-latency, real-time market data over a",
+    "url": "https://x.com/BSCNews/status/2108271459239858682",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108191219163504640/vid/avc1/1312x720/Fus-HRyn97_UX6HL.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108191219163504640/img/o5Ff-uspy0-Ib5Ch.jpg"
+    }
+  },
+  {
+    "id": "x-1791486155626-51jqz9",
+    "source": "x",
+    "ts": "2026-10-08T19:02:35.626Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-08T19:00:56.000Z",
+    "reason": "Potential shift of institutional funds into crypto.",
+    "text": "🔥 LONGITUDE: Is smart money rotating from AI back into crypto?\n\n@Re7Capital founder Evgeny Gokhberg (@evgeny_re7) revealed that investors with large stakes in companies such as SpaceX are considering reallocating 10% of their holdings into crypto.",
+    "url": "https://x.com/Cointelegraph/status/2108271442496299254",
+    "images": [
+      "https://pbs.twimg.com/media/HUIVsxxXQAEubQZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791486158883-ul8ntr",
+    "source": "x",
+    "ts": "2026-10-08T19:02:38.883Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 28,
+    "originTimestamp": "2026-10-08T18:33:38.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Grok 4.7 ranks first in legal matters",
+    "url": "https://x.com/elonmusk/status/2108269794268975387"
   }
 ]
