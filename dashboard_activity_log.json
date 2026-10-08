@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791393222934-e0pfo0",
-    "source": "x",
-    "ts": "2026-10-07T17:13:42.934Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-07T16:58:15.000Z",
-    "reason": "US Government action with seized crypto represents a notable regulatory move.",
-    "text": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
-    "url": "https://x.com/DecryptMedia/status/2107878179830399304",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791393227288-kl7ei7",
-    "source": "x",
-    "ts": "2026-10-07T17:13:47.288Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 46,
-    "originTimestamp": "2026-10-07T16:27:12.000Z",
-    "reason": "No notable crypto-related event or news mentioned.",
-    "text": "And yet again.\nI ask my family:\nDid you see or hear about what is going on in the world?\n\nOne answer keeps coming:\nNO.\n\nIf you aren’t on X, i\nYou oblivious to what is going on in the world.",
-    "url": "https://x.com/elonmusk/status/2107876662138532294"
-  },
-  {
-    "id": "x-1791393232526-mmygic",
-    "source": "x",
-    "ts": "2026-10-07T17:13:52.526Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 26,
-    "originTimestamp": "2026-10-07T16:47:06.000Z",
-    "reason": "No notable move in stock market predictions without specific market data.",
-    "text": "🔥LATEST: Tom Lee says slowing earnings growth does NOT mean stocks have to fall.\n\n“I think there’s a mistake in belief that if the rate of growth slows, stocks deflate.”\n\n“If the S&amp;P can sustain 10% earnings growth forever, the market’s gonna go up 10% a year.”\n\nHis point is",
-    "url": "https://x.com/coinbureau/status/2107875376366252400"
-  },
-  {
     "id": "x-1791393740480-ll8g3d",
     "source": "x",
     "ts": "2026-10-07T17:22:20.480Z",
@@ -7831,5 +7789,52 @@
     "reason": "Meme without context or factual claim.",
     "text": "heard you have other apps...that's cute",
     "url": "https://x.com/elonmusk/status/2108313143533306024"
+  },
+  {
+    "id": "x-1791496644304-ai9zoa",
+    "source": "x",
+    "ts": "2026-10-08T21:57:24.304Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Elon Musk",
+    "ageMin": 89,
+    "originTimestamp": "2026-10-08T20:28:00.000Z",
+    "reason": "Regulatory change leading to unexpected price movement in crypto related to gig workers.",
+    "text": "Seattle city council wanted to help \"exploited\" gig workers.\n \nSo they forced delivery apps to pay drivers MORE.\n \n\"I wouldn’t assume that prices are going to go up,\" said one politician.\n \nBut prices DID go up.\n \n@judgeglock of @ManhattanInst explains how regulation backfired:",
+    "url": "https://x.com/elonmusk/status/2108315446948626662",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2069137985375703040/vid/avc1/1280x720/0OwDxF4v7JCltwTB.mp4?tag=28",
+      "duration": 287,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HLcr69BWUAAGqaG.jpg"
+    }
+  },
+  {
+    "id": "x-1791496648072-vk82ph",
+    "source": "x",
+    "ts": "2026-10-08T21:57:28.072Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T21:55:03.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "This will sound super crazy, but I see a path to SpaceX being worth orders of magnitude more than the current Earth economy",
+    "url": "https://x.com/elonmusk/status/2108315261044445330"
+  },
+  {
+    "id": "x-1791496652778-y5gae7",
+    "source": "x",
+    "ts": "2026-10-08T21:57:32.778Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T21:55:00.000Z",
+    "reason": "No notable crypto-related news or move is referenced.",
+    "text": "🇺🇸JUST IN: Today, Elon Musk, Jensen Huang, Sergey Brin and Lisa Su were officially awarded the National Medal of Science.  \n\nPresident Trump personally presented each of them with America's highest honor for scientific achievement.  \n\nSatya Nadella and Michael Dell received the",
+    "url": "https://x.com/coinbureau/status/2108315247388074324"
   }
 ]
