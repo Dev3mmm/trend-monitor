@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1791355983227-i1gcvt",
-    "source": "x",
-    "ts": "2026-10-07T06:53:03.227Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-07T06:44:25.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "🇸🇬 TOKEN2049: Eric Trump says \"the US dollar is a reserve currency of the world. Like or not, everybody wants it.\"\n\nThoughts?",
-    "url": "https://x.com/Cointelegraph/status/2107723706567155719"
-  },
-  {
-    "id": "x-1791355988743-m2l29o",
-    "source": "x",
-    "ts": "2026-10-07T06:53:08.743Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-07T06:42:21.000Z",
-    "reason": "New DeFi use case for XRP detected",
-    "text": "XRP Gets a New DeFi Insurance Use Case\n\nFirelight (@Firelightfi) has launched DeFi insurance coverage backed by 50.2 million staked ripple:native on Flare (@FlareNetworks).\n\nThe coverage targets risks including smart contract exploits and oracle failures.\n\nFirelight uses XRP",
-    "url": "https://x.com/BSCNews/status/2107723185605255371",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107692773809999872/vid/avc1/1280x720/GodC0qN_AejhT5kJ.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107692773809999872/img/L2PKqXTyzIZiUTs2.jpg"
-    }
-  },
-  {
-    "id": "x-1791356527645-h9ycfz",
-    "source": "x",
-    "ts": "2026-10-07T07:02:07.645Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-07T06:59:42.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Who actually uses Internet Computer (@dfinity)? \n\nWe look at the people and groups behind internet-computer:native activity and what the latest on-chain data says about its community👇",
-    "url": "https://x.com/BSCNews/status/2107727550642635158"
-  },
-  {
     "id": "x-1791356532142-01ccyi",
     "source": "x",
     "ts": "2026-10-07T07:02:12.142Z",
@@ -7996,5 +7949,49 @@
     "url": "https://x.com/DecryptMedia/status/2108213831499469024",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791473630458-iq1y4m",
+    "source": "x",
+    "ts": "2026-10-08T15:33:50.458Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T15:31:01.000Z",
+    "reason": "Prediction/price call with no basis given",
+    "text": "JUST IN: There's now a 59% chance Bitcoin will be above $90,000 this year, according to Polymarket⁠.com 👀\n\nHODL ✊",
+    "url": "https://x.com/BitcoinMagazine/status/2108218615321247906"
+  },
+  {
+    "id": "x-1791473635112-ojq96v",
+    "source": "x",
+    "ts": "2026-10-08T15:33:55.112Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-08T15:30:25.000Z",
+    "reason": "New use of stablecoins in tokenized stocks",
+    "text": "Four of CoinGecko’s top 10 tokenized stocks are based on $MSTR and $STRC. Digital Equity and Digital Credit are going global.",
+    "url": "https://x.com/saylor/status/2108218466406908057",
+    "images": [
+      "https://pbs.twimg.com/media/HUHlN4zWUAAnjUY.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791473640420-be0am7",
+    "source": "x",
+    "ts": "2026-10-08T15:34:00.420Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-08T15:28:40.000Z",
+    "reason": "No notable move, statement about potential challenges without specific action or price movement.",
+    "text": "⚡️ LONGITUDE: Bitcoin faces a serious challenge in preparing for quantum computing, according to @StarkWareLtd’s @EliBenSasson.\n\n“There’s no way to solve the problem on Bitcoin without a soft fork.”\n\nHe warned that the network’s resistance to change could delay critical security",
+    "url": "https://x.com/Cointelegraph/status/2108218026021540133"
   }
 ]
