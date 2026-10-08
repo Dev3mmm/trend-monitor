@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791274328524-w0pfao",
-    "source": "x",
-    "ts": "2026-10-06T08:12:08.524Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-06T08:03:54.000Z",
-    "reason": "No notable move or newsworthy event.",
-    "text": "Cardano Founder Warns Digital Euro Could Enable Spending Restrictions\n\nCardano founder Charles Hoskinson (@IOHK_Charles) has warned that a digital euro could enable transaction discrimination.\n\nSpeaking at a UN summit, he urged lawmakers to put spending protections directly into",
-    "url": "https://x.com/BSCNews/status/2107381320452120990"
-  },
-  {
     "id": "x-1791275545432-kkvvgu",
     "source": "x",
     "ts": "2026-10-06T08:32:25.432Z",
@@ -8057,6 +8044,24 @@
     "url": "https://x.com/Cointelegraph/status/2108017577368649910",
     "images": [
       "https://pbs.twimg.com/media/HUEu0KQXcAAukAw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791426764668-yvsudo",
+    "source": "x",
+    "ts": "2026-10-08T02:32:44.668Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-08T02:24:06.000Z",
+    "reason": "Charles Hoskinson's remarks on smart contracts and his new technology indicate a notable use of a token.",
+    "text": "🇸🇬 TOKEN2049: Charles Hoskinson says smart contracts are \"pretty dumb\" and pitches their successor, the \"Night Frame,\" which combines zero-knowledge proofs, MPC and trusted execution on Midnight.",
+    "url": "https://x.com/Cointelegraph/status/2108020583086936268",
+    "images": [
+      "https://pbs.twimg.com/media/HUExi4PakAAHXbT.jpg"
     ],
     "video": null
   }
