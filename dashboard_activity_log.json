@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791396864427-5jmms7",
-    "source": "x",
-    "ts": "2026-10-07T18:14:24.427Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-07T18:10:01.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Google Lets You Build a Video Game by Typing a Description",
-    "url": "https://x.com/DecryptMedia/status/2107896241401024588"
-  },
-  {
     "id": "x-1791396870051-a943s1",
     "source": "x",
     "ts": "2026-10-07T18:14:30.051Z",
@@ -7832,5 +7819,26 @@
       "https://pbs.twimg.com/media/HUI83osaUAAeLVI.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791499923785-a7h4jn",
+    "source": "x",
+    "ts": "2026-10-08T22:52:03.785Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-08T22:48:00.000Z",
+    "reason": "Significant year-over-year price decline and lack of recent updates.",
+    "text": "Telcoin's price has struggled this year...\n\nDespite a market cap of nearly $200M, @telcoin's $TEL token is down -12.6% on the week at time of writing, around 9am UTC.\n\nThe coin is down -56% on the year, with few updates in Q3 2026, following exciting banking news in the first",
+    "url": "https://x.com/BSCNews/status/2108328585270313339",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108125725987332096/vid/avc1/1312x720/ZiAjLSvIda8wGSgl.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108125725987332096/img/1q_n77EZWd-IHAJD.jpg"
+    }
   }
 ]
