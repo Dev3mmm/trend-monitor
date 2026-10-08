@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791395045534-y1rjrz",
-    "source": "x",
-    "ts": "2026-10-07T17:44:05.534Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-07T17:36:00.000Z",
-    "reason": "The tweet mentions a specific, verifiable transaction speed milestone.",
-    "text": "Sui Network might have just completed crypto...\n\nLive at Sui Basecamp, @SuiNetwork showcased a frankly outrageous 40,614,180 transactions per second, confirmed by security firm @CertiK.\n\nThe transactions revolved around AI agent activity.\n\nThough the milestone is inarguably",
-    "url": "https://x.com/BSCNews/status/2107887679992217605",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107846655546380288/vid/avc1/1312x720/9ocIx2ht0SfzgI6q.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107846655546380288/img/TLDCwR9lLFbEinrj.jpg"
-    }
-  },
-  {
     "id": "x-1791395049286-1qcnej",
     "source": "x",
     "ts": "2026-10-07T17:44:09.287Z",
@@ -7843,5 +7822,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108125456981450753/img/jiIYwijWs41elK6s.jpg"
     }
+  },
+  {
+    "id": "x-1791498728853-n7ocp9",
+    "source": "x",
+    "ts": "2026-10-08T22:32:08.853Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 39,
+    "originTimestamp": "2026-10-08T21:52:44.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "Talked to someone recently who knows a lot about defense tech, and he made an interesting point: the test of most military hardware right now is whether the Ukrainians want it. They have a hot war going against a determined opponent, and they know what works.",
+    "url": "https://x.com/elonmusk/status/2108323886865555666"
   }
 ]
