@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1791378804231-3jtn73",
-    "source": "x",
-    "ts": "2026-10-07T13:13:24.231Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 33,
-    "originTimestamp": "2026-10-07T12:40:28.000Z",
-    "reason": "ETF inclusion of a stablecoin for regulated access.",
-    "text": "Canary Capital's S-1 filing for a Staked SEI ETF will include spot @SeiNetwork's $SEI, with 90% staked. o\n\nIt has not yet received SEC approval. \n\nOnce approved, it will provide regulated access to SEI along with staking yield.",
-    "url": "https://x.com/BSCNews/status/2107821340291920308",
-    "images": [
-      "https://pbs.twimg.com/media/HUB7vNRWEAAwLMe.png",
-      "https://pbs.twimg.com/media/HUB7vvHXAAAN1xT.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791378954687-d7cpc6",
-    "source": "x",
-    "ts": "2026-10-07T13:15:54.687Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 35,
-    "originTimestamp": "2026-10-07T12:40:28.000Z",
-    "reason": "Notable ETF inclusion with staked SEI.",
-    "text": "Canary Capital's S-1 filing for a Staked SEI ETF will include spot @SeiNetwork's $SEI, with 90% staked. o\n\nIt has not yet received SEC approval. \n\nOnce approved, it will provide regulated access to SEI along with staking yield.",
-    "url": "https://x.com/BSCNews/status/2107821340291920308",
-    "images": [
-      "https://pbs.twimg.com/media/HUB7vNRWEAAwLMe.png",
-      "https://pbs.twimg.com/media/HUB7vvHXAAAN1xT.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791379487356-vy2cod",
-    "source": "x",
-    "ts": "2026-10-07T13:24:47.356Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 24,
-    "originTimestamp": "2026-10-07T13:00:45.000Z",
-    "reason": "No notable financial move or news is reported.",
-    "text": "Strive's asset management business surpassed $3B in AUM for the first time yesterday.\n\nThe publicly reported Bitcoin on Strive's balance sheet sits at $2.46B as of this morning.\n\n$3B^2 soon.",
-    "url": "https://x.com/saylor/status/2107824221678129611"
-  },
-  {
     "id": "x-1791379492480-2gbawl",
     "source": "x",
     "ts": "2026-10-07T13:24:52.480Z",
@@ -7889,5 +7838,57 @@
       "https://pbs.twimg.com/media/HUHDknFWkAAbk_K.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791484401339-86a1sg",
+    "source": "x",
+    "ts": "2026-10-08T18:33:21.339Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-08T18:30:44.000Z",
+    "reason": "Notable insight on Bitcoin rally driven by existing holders.",
+    "text": "🚨 INSIGHT: Glassnode says existing holders are driving Bitcoin’s rally as fresh inflows from ETFs, stablecoins and treasuries decline.",
+    "url": "https://x.com/Cointelegraph/status/2108263842597777536",
+    "images": [
+      "https://pbs.twimg.com/media/HUIOyacXkAAYA6x.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791484406761-p76p8g",
+    "source": "x",
+    "ts": "2026-10-08T18:33:26.761Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-08T18:27:00.000Z",
+    "reason": "xRP Ledger processing significant volume outside normal range",
+    "text": "XRP Ledger processes 8,000,000 x402 payments in one month.\n\nAccording to @t54ai co-founder and former @Ripple Product Lead @chandler_agi, the $XRP Ledger blockchain is becoming a dominant force when it comes to agentic payments.\n\nThe network has processed some 8 million",
+    "url": "https://x.com/BSCNews/status/2108262902385766677",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108191124821078016/vid/avc1/1312x720/5FwTA4mr9u4gHUKQ.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108191124821078016/img/nD-1X5Wi1YQYOW8C.jpg"
+    }
+  },
+  {
+    "id": "x-1791484410142-k9o5st",
+    "source": "x",
+    "ts": "2026-10-08T18:33:30.142Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 41,
+    "originTimestamp": "2026-10-08T17:51:43.000Z",
+    "reason": "No notable move in crypto related to the tweet.",
+    "text": "America will establish a permanent presence on the moon. 🚀🌕",
+    "url": "https://x.com/elonmusk/status/2108261942624477524"
   }
 ]
