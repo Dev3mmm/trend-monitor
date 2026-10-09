@@ -2640,5 +2640,19 @@
     "fetchedAt": "2026-10-09T13:22:25.555Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-392b4b4b73d34edd",
+    "title": "TextVQA: A Benchmark for Reasoning About Text in Images",
+    "url": "https://aioz.network/blog/textvqa-a-benchmark-for-reasoning-about-text-in-images",
+    "description": "TL;DR TextVQA is a visual question-answering benchmark built around text in real-world images. It contains 28,408 images and 45,336 question-image pairs from OpenImages. Training and validation questions include 10 human-annotated answers, while test answers are withheld. The benchmark evaluates how well models combine optical character recognition, visual context, language understanding, and ques",
+    "publishedAt": "2026-10-09T13:34:31.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-09T13:43:02.342Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]

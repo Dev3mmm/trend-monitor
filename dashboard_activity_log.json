@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791434541027-blww5d",
-    "source": "x",
-    "ts": "2026-10-08T04:42:21.027Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 27,
-    "originTimestamp": "2026-10-08T04:15:00.000Z",
-    "reason": "No notable move or specific action described.",
-    "text": "Interesting analysis",
-    "url": "https://x.com/elonmusk/status/2108054434936926210"
-  },
-  {
     "id": "x-1791435159497-jeur5v",
     "source": "x",
     "ts": "2026-10-08T04:52:39.497Z",
@@ -7988,5 +7975,26 @@
     "url": "https://x.com/DecryptMedia/status/2108548408839479421",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791553359139-42hys7",
+    "source": "x",
+    "ts": "2026-10-09T13:42:39.139Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-09T13:33:36.000Z",
+    "reason": "Notable institutional liquidity and growth validation for crypto platforms.",
+    "text": "Morpho is supercharging Coinbase and Robinhood growth\n\nCapital flow analytics from @MSBIntel confirms that @morpholabs has secured over $1B in institutional liquidity. \n\nAccording to the report, @Coinbase Lend and @RobinhoodApp Earn have each crossed $500M in exclusive vault",
+    "url": "https://x.com/BSCNews/status/2108551456961782201",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108550589504184320/vid/avc1/1316x720/aU1cMRC_MvC6EYlk.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108550589504184320/img/THHQs-PsZFVZ1Lbf.jpg"
+    }
   }
 ]
