@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791426170687-3rf3s5",
-    "source": "x",
-    "ts": "2026-10-08T02:22:50.687Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coinbase 🛡️",
-    "ageMin": 110,
-    "originTimestamp": "2026-10-08T00:32:02.000Z",
-    "reason": "Notable institutional adoption with a large user base.",
-    "text": "82M+ US Galaxy users have access to Samsung Wallet.\n\nTheir stablecoin balances need a trusted custodian.\n\n@Samsung chose Coinbase Prime.",
-    "url": "https://x.com/coinbase/status/2108017972266618999",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791426175784-krd2jy",
-    "source": "x",
-    "ts": "2026-10-08T02:22:55.784Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-08T02:12:10.000Z",
-    "reason": "Specific statement from an influential figure (Binance CEO) on a significant trend in the crypto market.",
-    "text": "🇸🇬 TOKEN2049: Binance CEO Richard Teng says demand for tokenized stocks and private market products is huge, but bad information flow is still holding some private markets back.",
-    "url": "https://x.com/Cointelegraph/status/2108017577368649910",
-    "images": [
-      "https://pbs.twimg.com/media/HUEu0KQXcAAukAw.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791426764668-yvsudo",
     "source": "x",
     "ts": "2026-10-08T02:32:44.668Z",
@@ -7955,5 +7921,40 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108521142306611200/img/vZMoPFJKCb6Ss38G.jpg"
     }
+  },
+  {
+    "id": "x-1791546797990-9svrv0",
+    "source": "x",
+    "ts": "2026-10-09T11:53:17.990Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-09T11:44:12.000Z",
+    "reason": "Notable regulatory action involving crypto assets.",
+    "text": "🇺🇸🇮🇷BREAKING: US to seize $1 BILLION in crypto assets as part of efforts to economically isolate Iran.",
+    "url": "https://x.com/coinbureau/status/2108523922727834044",
+    "images": [
+      "https://pbs.twimg.com/media/HUL7QoxawAEOKwZ.jpg",
+      "https://pbs.twimg.com/media/HUL7Ui9bAAASStm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791546802228-l7rcyf",
+    "source": "x",
+    "ts": "2026-10-09T11:53:22.228Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-09T11:42:30.000Z",
+    "reason": "Crypto majors have experienced notable declines in the \"Uptober Turns Sour\" tweet.",
+    "text": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
+    "url": "https://x.com/DecryptMedia/status/2108523494459703712",
+    "images": [],
+    "video": null
   }
 ]
