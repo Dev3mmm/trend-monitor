@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791456138047-rrs6os",
-    "source": "x",
-    "ts": "2026-10-08T10:42:18.047Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T10:40:33.000Z",
-    "reason": "Cardano's on-chain revenue reached a significant milestone.",
-    "text": "Cardano is capturing huge revenue... \n\n@Cardano has reached an important operational cash-flow milestone, with monthly on-chain revenue up 24.39% to $72,910.\n\nData from @Chainspect confirms the network has exceeded $70,000. \n\nThis indicates that fees are being captured through",
-    "url": "https://x.com/BSCNews/status/2108145516814979154",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108145359838953472/vid/avc1/1316x720/ysIa5YY8aptj3Oi0.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108145359838953472/img/LU_xnIK_uMG0rODD.jpg"
-    }
-  },
-  {
     "id": "x-1791456751971-wz1sd5",
     "source": "x",
     "ts": "2026-10-08T10:52:31.971Z",
@@ -7969,5 +7948,18 @@
       "https://pbs.twimg.com/media/HUNt3P5b0AAevsI.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791579115783-4f5zbb",
+    "source": "x",
+    "ts": "2026-10-09T20:51:55.783Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T20:50:45.000Z",
+    "reason": "No notable crypto-related move or institution involvement mentioned.",
+    "text": "🇷🇺 INSIGHT: Peter Schiff questions President Trump’s Russian diesel deal, saying it comes just three weeks after he signed a law targeting Russian oil and gas buyers with tariffs of up to 100%.",
+    "url": "https://x.com/Cointelegraph/status/2108661468363145616"
   }
 ]
