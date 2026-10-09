@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791404637345-fa3rrg",
-    "source": "x",
-    "ts": "2026-10-07T20:23:57.345Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-07T20:15:41.000Z",
-    "reason": "No direct relation to cryptocurrency or blockchain technology.",
-    "text": "🇺🇸 BIG: Trump plans to unveil a more than $1 billion AI science push at a White House summit.",
-    "url": "https://x.com/Cointelegraph/status/2107927867648520277"
-  },
-  {
-    "id": "x-1791404642005-w6kzca",
-    "source": "x",
-    "ts": "2026-10-07T20:24:02.005Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-07T20:06:35.000Z",
-    "reason": "No factual claim or news value in the tweet.",
-    "text": "Grok Bot is the most useful AI I've used. It takes on real work start to finish, picks the best model for each task, and gets smarter at helping the more you use it.\n\nIt's like getting a full team that never sleeps for the price of one app",
-    "url": "https://x.com/elonmusk/status/2107926260668354994"
-  },
-  {
     "id": "x-1791404647353-q5f9y1",
     "source": "x",
     "ts": "2026-10-07T20:24:07.353Z",
@@ -7872,5 +7846,44 @@
     "reason": "No notable move in ETH price.",
     "text": "Happy Independence Day, UGANDA.\n\nBannange,\n\nNja kujja mu Uganda, era njagala okuwasa omukyala Omuganda. \n\nMunkuumire omu.\n\nMwebale nnyo!\n\n🇺🇬",
     "url": "https://x.com/amerix/status/2108423506576687462"
+  },
+  {
+    "id": "x-1791523955267-y2cw4b",
+    "source": "x",
+    "ts": "2026-10-09T05:32:35.267Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T05:30:55.000Z",
+    "reason": "Regulator made a notable move with a tax proposal on stablecoins and crypto.",
+    "text": "🇫🇷 REGULATION: A French parliamentary committee approved a tax on stablecoin trades and an exit tax on crypto in the 2027 budget bill, though neither is law yet.",
+    "url": "https://x.com/Cointelegraph/status/2108429985450955051",
+    "images": [
+      "https://pbs.twimg.com/media/HUKl5eTXoAA0LZh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791523959038-ohzgj9",
+    "source": "x",
+    "ts": "2026-10-09T05:32:39.038Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-09T05:28:00.000Z",
+    "reason": "On-chain data point showing significant change in wallet thresholds.",
+    "text": "XRP’s Biggest Wallets Are Pulling Further Ahead\n\nThe ripple:native balance needed to enter the top 0.01% of wallets rose in October.\n\nThe threshold increased from about 3.65 million XRP to 3.83 million, according to @xrpscan.\n\nLower down the rankings, the top 10% threshold",
+    "url": "https://x.com/BSCNews/status/2108429248528851128",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108423874765619200/vid/avc1/1280x720/9JkKYecFRoRADG46.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108423874765619200/img/FOrNsi8WEMaHv4qk.jpg"
+    }
   }
 ]
