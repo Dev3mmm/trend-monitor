@@ -1424,18 +1424,11 @@
     "x-1791536543428-fe2nkt",
     "x-1791536548021-p71v1l",
     "x-1791537154959-847ufw",
-    "x-1791537157783-q34xcc"
+    "x-1791537157783-q34xcc",
+    "x-1791538361549-n8v2h8",
+    "x-1791538363930-7d8bh2"
   ],
   "queue": [
-    {
-      "text": "A, B, C",
-      "url": "https://x.com/binance/status/2108472207252881525",
-      "images": [
-        "https://pbs.twimg.com/media/HULMS6WW0AArCgh.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1791534142721
-    },
     {
       "text": "🔥 UPDATE: $STRK is up 47% after Starknet revealed plans to explore an L1 transition and become fully quantum-resistant.",
       "url": "https://x.com/Cointelegraph/status/2108474669196026148",
@@ -1485,6 +1478,16 @@
       ],
       "video": null,
       "enqueuedAt": 1791537157828
+    },
+    {
+      "text": "🚨 UPDATE: Adam Back says he told Ethereum to use UTXO before launch, warning its VM model would create race conditions.",
+      "url": "https://x.com/Cointelegraph/status/2108490349203124537",
+      "images": [
+        "https://pbs.twimg.com/media/HULcysOWkAAzNnG.png",
+        "https://pbs.twimg.com/media/HULczE7W4AA_JeU.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1791538363975
     }
   ],
   "posted": [
@@ -1667,7 +1670,13 @@
       "at": 1791536548081,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/375379364717073?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "A, B, C",
+      "at": 1791538363975,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/375386803877995?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791536548081
+  "lastPostAt": 1791538363975
 }
