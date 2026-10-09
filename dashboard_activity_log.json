@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791404427133-8jhok7",
-    "source": "x",
-    "ts": "2026-10-07T20:20:27.133Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-07T20:17:15.000Z",
-    "reason": "Notable regulatory critique from a high-ranking official.",
-    "text": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
-    "url": "https://x.com/DecryptMedia/status/2107928259715293193",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791404429036-3x5zth",
-    "source": "x",
-    "ts": "2026-10-07T20:20:29.036Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-07T20:15:41.000Z",
-    "reason": "No relation to cryptocurrencies or blockchain technology.",
-    "text": "🇺🇸 BIG: Trump plans to unveil a more than $1 billion AI science push at a White House summit.",
-    "url": "https://x.com/Cointelegraph/status/2107927867648520277"
-  },
-  {
-    "id": "x-1791404431230-t7uu3y",
-    "source": "x",
-    "ts": "2026-10-07T20:20:31.230Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-07T20:06:35.000Z",
-    "reason": "No factual claim or specific event is described.",
-    "text": "Grok Bot is the most useful AI I've used. It takes on real work start to finish, picks the best model for each task, and gets smarter at helping the more you use it.\n\nIt's like getting a full team that never sleeps for the price of one app",
-    "url": "https://x.com/elonmusk/status/2107926260668354994"
-  },
-  {
     "id": "x-1791404434052-hhs6pb",
     "source": "x",
     "ts": "2026-10-07T20:20:34.052Z",
@@ -7853,5 +7811,62 @@
     "reason": "Meme tweet unrelated to crypto or blockchain technology",
     "text": "Why was Stevo Simple Boy acting out an oafish, cognitively impaired skit imitating a monkey?\n\nI find it unusual and quite disturbing.",
     "url": "https://x.com/amerix/status/2108411711996710996"
+  },
+  {
+    "id": "x-1791520321275-0ayxii",
+    "source": "x",
+    "ts": "2026-10-09T04:32:01.275Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-09T04:28:12.000Z",
+    "reason": "No notable move, prices are within their recent ranges.",
+    "text": "🔥 TODAY: Meet the @CointelegraphAc portfolio projects taking the stage for our Demo Day Series at CONNECT Singapore.  \n\n@KenomicAI, @renesisfi and @hive3tech will showcase what they’re building.",
+    "url": "https://x.com/Cointelegraph/status/2108414199710011631",
+    "images": [
+      "https://pbs.twimg.com/media/HUKXf-6acAAie0P.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791520324081-4xc9ud",
+    "source": "x",
+    "ts": "2026-10-09T04:32:04.081Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-09T04:27:00.000Z",
+    "reason": "Binance is adjusting to upcoming regulatory changes in Brazil.",
+    "text": "Binance Overhauls Brazil Operations Ahead of Regulatory Deadline\n\nBinance (@binance) is set for drastic changes in Brazil after new Central Bank regulations come into effect.\n\nStarting from October 27, 22 coins such as ethereum:0x4c9edd5852cd905f086c759e8383e09bff1e68b3, $USTC,",
+    "url": "https://x.com/BSCNews/status/2108413897354944879",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108410547452747777/vid/avc1/1280x720/sOfYoUCQlI4dYEiD.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108410547452747777/img/XIShbPIv4Rk6A4V2.jpg"
+    }
+  },
+  {
+    "id": "x-1791520326627-qs7ycq",
+    "source": "x",
+    "ts": "2026-10-09T04:32:06.627Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Wu Blockchain",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-09T04:24:30.000Z",
+    "reason": "Significant exposure of Bitcoin addresses to quantum computing risks.",
+    "text": "Glassnode: Approximately 6.26 Million BTC Have Public Keys Exposed to Quantum Computing Risks\n\nGlassnode co-founder Rafael said that approximately 6.26 million BTC, or 31.2% of the total supply, are held in addresses with publicly exposed public keys, up from 24.8% in early 2021.",
+    "url": "https://x.com/WuBlockchain/status/2108413269769847264",
+    "images": [
+      "https://pbs.twimg.com/media/HUKWq7ibAAElBzM.jpg"
+    ],
+    "video": null
   }
 ]
