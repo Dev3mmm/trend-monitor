@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1791446640202-xblbzf",
-    "source": "x",
-    "ts": "2026-10-08T08:04:00.202Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T08:02:02.000Z",
-    "reason": "Vague opinion without factual claim.",
-    "text": "September says it’s changed. Do we believe it?",
-    "url": "https://x.com/binance/status/2108105627176206457"
-  },
-  {
-    "id": "x-1791446643611-s1n2cr",
-    "source": "x",
-    "ts": "2026-10-08T08:04:03.611Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T08:01:02.000Z",
-    "reason": "Generic inquiry with no factual claim or notable event.",
-    "text": "⚡QUESTION: What is your worst loss?",
-    "url": "https://x.com/Cointelegraph/status/2108105375048143253"
-  },
-  {
-    "id": "x-1791446649555-zd3ow5",
-    "source": "x",
-    "ts": "2026-10-08T08:04:09.555Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T08:01:00.000Z",
-    "reason": "Notable speed boost for Dogecoin on a new blockchain.",
-    "text": "Dogecoin Got a 300X Speed Boost\n\nFintech firm, Metallicus, launched an alpha version of DogecoinVM on Metal Blockchain mainnet.\n\nAccording to the company, the processing speed of transactions can be up to 300 times faster than before.\n\nMarshall Hayner, CEO of Metallicus, referred",
-    "url": "https://x.com/BSCNews/status/2108105364952453325",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108100460070813696/vid/avc1/1280x720/u_nkEMUMFN2AqZI6.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108100460070813696/img/oQiz9MB-DqaY90WH.jpg"
-    }
-  },
-  {
     "id": "x-1791446655000-dpfxr2",
     "source": "x",
     "ts": "2026-10-08T08:04:15.000Z",
@@ -8008,5 +7961,55 @@
     "reason": "No notable move or specific event is highlighted.",
     "text": "PENGU and UNI suffering more than most.\n\nVery few crypto tokens are having a good week, but @Uniswap and @pudgypenguins are faring worse than most.\n\n$UNI is down -19% on the week and more than -5% on the day.\n\nWhile $PENGU is down nearly -20% over the past seven days.\n\nThere's",
     "url": "https://x.com/BSCNews/status/2108593581447663764"
+  },
+  {
+    "id": "x-1791563545740-bf17co",
+    "source": "x",
+    "ts": "2026-10-09T16:32:25.740Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T16:30:56.000Z",
+    "reason": "Notable regulatory action involving sanctions evasion and Iranian network.",
+    "text": "🇮🇷 JUST IN: Binance reportedly processed nearly $850 million in transactions tied to an Iranian network allegedly used to evade U.S. sanctions and move IRGC-linked funds, a WSJ investigation found.",
+    "url": "https://x.com/Cointelegraph/status/2108596080648556940",
+    "images": [
+      "https://pbs.twimg.com/media/HUM88McWcAEI6eN.jpg",
+      "https://pbs.twimg.com/media/HUM88_xXYAA6jj9.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791563550647-nbkqn1",
+    "source": "x",
+    "ts": "2026-10-09T16:32:30.647Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 90,
+    "originTimestamp": "2026-10-09T15:01:56.000Z",
+    "reason": "The tweet is unrelated to cryptocurrencies and blockchain technology.",
+    "text": "BREAKING: SpaceX donated nearly $500,000 to Anderson-Shiro CISD in Texas for 3 new school buses with three-point seatbelts, cameras and radios.\n\nThe donation will help upgrade the district’s fleet and give students safer rides. ❤️",
+    "url": "https://x.com/elonmusk/status/2108595327091524090"
+  },
+  {
+    "id": "x-1791563556495-z7vcw7",
+    "source": "x",
+    "ts": "2026-10-09T16:32:36.495Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-09T16:27:24.000Z",
+    "reason": "Notifiable regulatory action involving Tether and THORChain.",
+    "text": "Tether Temporarily Freezes 1.45 Million USDT in THORChain Vaults on TRON, Reverses Blacklisting After Three Hours\n\nThe Defiant reported that Tether temporarily blacklisted four THORChain vault addresses on TRON, freezing approximately 1.45 million USDT and forcing THORChain to",
+    "url": "https://x.com/WuBlockchain/status/2108595194686033930",
+    "images": [
+      "https://pbs.twimg.com/media/HUM8JKKbYAAllW7.jpg"
+    ],
+    "video": null
   }
 ]
