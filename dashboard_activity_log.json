@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791456751971-wz1sd5",
-    "source": "x",
-    "ts": "2026-10-08T10:52:31.971Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T10:50:41.000Z",
-    "reason": "Specific institution expanding crypto custody.",
-    "text": "🇸🇬 JUST IN: $74B Standard Chartered expands crypto custody to Singapore, targeting institutional clients.",
-    "url": "https://x.com/Cointelegraph/status/2108148068684058693",
-    "images": [
-      "https://pbs.twimg.com/media/HUGlfdnW8AAqiIc.jpg",
-      "https://pbs.twimg.com/media/HUGlfsKWkAAizFZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791456755685-v41o8o",
-    "source": "x",
-    "ts": "2026-10-08T10:52:35.685Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T10:48:34.000Z",
-    "reason": "No notable move in crypto prices mentioned.",
-    "text": "📈BREAKING: Brent oil prices have risen every hour for the last 16 hours, extending gains by 5% to above $105 a barrel.",
-    "url": "https://x.com/coinbureau/status/2108147533461803220"
-  },
-  {
     "id": "x-1791456759702-n62j3k",
     "source": "x",
     "ts": "2026-10-08T10:52:39.702Z",
@@ -7961,5 +7929,47 @@
     "reason": "No notable crypto-related move or institution involvement mentioned.",
     "text": "🇷🇺 INSIGHT: Peter Schiff questions President Trump’s Russian diesel deal, saying it comes just three weeks after he signed a law targeting Russian oil and gas buyers with tariffs of up to 100%.",
     "url": "https://x.com/Cointelegraph/status/2108661468363145616"
+  },
+  {
+    "id": "x-1791579751545-exu3jy",
+    "source": "x",
+    "ts": "2026-10-09T21:02:31.545Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T21:01:00.000Z",
+    "reason": "The tweet mentions ETFs holding a significant portion of XRP, which is noteworthy.",
+    "text": "Spot $XRP ETFs mounted a recovery this week!\n\nDespite see inflows on only two days of the week so far, spot @Ripple ETFs are up +$11.31M for the period.\n\nThey now hold some 1.79% of $XRP's supply - nearly 1 in every 50 tokens...",
+    "url": "https://x.com/BSCNews/status/2108664045809340902",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108513574872039424/vid/avc1/1312x720/ceZXRtJnVnz1QE7J.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513574872039424/img/RfwtMkFMSs1GsO4K.jpg"
+    }
+  },
+  {
+    "id": "x-1791579757018-sqjy2f",
+    "source": "x",
+    "ts": "2026-10-09T21:02:37.018Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T21:00:23.000Z",
+    "reason": "Notable use of Bitcoin by a central bank for a major event.",
+    "text": "JUST IN: 🇲🇼 Human Rights Foundation's Global Bitcoin Lead says the Reserve Bank of Malawi is a partner for Africa's Bitcoin Conference this year. 👀\n\n\"We are organizing a policy roundtable for central bankers from at least 6 countries in Africa.\" 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2108663890951151671",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108660504839225345/vid/avc1/1280x720/jiYuBDqHwVSEwlWa.mp4?tag=29",
+      "duration": 187,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108660504839225345/img/ztUmMr_jtLOV22Ja.jpg"
+    }
   }
 ]
