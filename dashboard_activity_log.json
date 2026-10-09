@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1791453302125-jhspby",
-    "source": "x",
-    "ts": "2026-10-08T09:55:02.125Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T09:53:36.000Z",
-    "reason": "Exploit of a significant value occurred.",
-    "text": "#PeckShieldAlert @79thVault was exploited, with 10K $79AU drained and swapped for 16.249K $BNB (~$12.51M). The exploiter has since deposited 30 $BNB to #Kucoin.",
-    "url": "https://x.com/PeckShieldAlert/status/2108133701448327326",
-    "images": [
-      "https://pbs.twimg.com/media/HUGYYPxaMAAIeA3.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791453306236-zdqrlj",
     "source": "x",
     "ts": "2026-10-08T09:55:06.236Z",
@@ -7976,5 +7958,26 @@
       "https://pbs.twimg.com/media/HUNYZECW0AAJfsj.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791571327692-5iiyvb",
+    "source": "x",
+    "ts": "2026-10-09T18:42:07.692Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T18:40:00.000Z",
+    "reason": "Notable changes to tokenomics affecting supply and fees.",
+    "text": "Aptos is completely redesigning $APT tokenomics.\n\nAs reported by WuBlockchain, The @Aptos Foundation has revealed dramatic revisions to $APT's tokenomics.\n\nThese include...\n\n- Cutting staking rewards in half. \n- 10x increase in gas fees.\n- Cap $APT's supply at 2.1 billion tokens.",
+    "url": "https://x.com/BSCNews/status/2108628561804296557",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108513144591028224/vid/avc1/1312x720/J_a7EkSneJKwIrvs.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513144591028224/img/ha9EMtXDbtb6QjAm.jpg"
+    }
   }
 ]
