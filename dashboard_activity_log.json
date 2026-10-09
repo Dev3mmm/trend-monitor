@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791411766734-ro23i0",
-    "source": "x",
-    "ts": "2026-10-07T22:22:46.734Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-07T22:08:00.000Z",
-    "reason": "No notable move in token values, price movements are within the recent range.",
-    "text": "Ripple and Hyperliquid see investor interest while others struggle. \n\nThe only spot altcoin ETFs to see positive inflows this week are those of @Ripple $XRP and @HyperliquidX $HYPE. \n\nSpot $XRP ETFs are up +$3.14M on the week, while spot $HYPE ETFs are up +$277K.\n\nNot a good week",
-    "url": "https://x.com/BSCNews/status/2107956131284779046"
-  },
-  {
-    "id": "x-1791412312751-3bw53w",
-    "source": "x",
-    "ts": "2026-10-07T22:31:52.751Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-07T22:30:42.000Z",
-    "reason": "New tokenized equities available on Uniswap.",
-    "text": "⚡️ NEW: Stove Finance’s tokenized U.S. and South Korean equities are now available on Uniswap via UniswapX, with additional markets planned.",
-    "url": "https://x.com/Cointelegraph/status/2107961842857308529",
-    "images": [
-      "https://pbs.twimg.com/media/HUD8H6bXkAA0nVn.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791412935308-ggg81d",
     "source": "x",
     "ts": "2026-10-07T22:42:15.308Z",
@@ -7891,6 +7860,44 @@
     "url": "https://x.com/binance/status/2108472207252881525",
     "images": [
       "https://pbs.twimg.com/media/HULMS6WW0AArCgh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791534720227-buamdp",
+    "source": "x",
+    "ts": "2026-10-09T08:32:00.227Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-09T08:28:29.000Z",
+    "reason": "StarkNet's plans suggest significant potential for the STRK token.",
+    "text": "🔥 UPDATE: $STRK is up 47% after Starknet revealed plans to explore an L1 transition and become fully quantum-resistant.",
+    "url": "https://x.com/Cointelegraph/status/2108474669196026148",
+    "images": [
+      "https://pbs.twimg.com/media/HULOiIgWUAAMWUi.jpg",
+      "https://pbs.twimg.com/media/HULOiWtXAAAf7zy.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791534722616-khzydt",
+    "source": "x",
+    "ts": "2026-10-09T08:32:02.616Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-09T08:22:37.000Z",
+    "reason": "The tweet provides specific price movement and government action, meriting attention.",
+    "text": "⚠️PRICE ALERT: Bitcoin dropped -$6.3K during the same 3-day period that US government moved $2B+ in $BTC and $WBTC to Coinbase Prime.",
+    "url": "https://x.com/coinbureau/status/2108473191949885490",
+    "images": [
+      "https://pbs.twimg.com/media/HULNJGDbkAAU43X.jpg",
+      "https://pbs.twimg.com/media/HULNGBkaAAApaUy.png"
     ],
     "video": null
   }
