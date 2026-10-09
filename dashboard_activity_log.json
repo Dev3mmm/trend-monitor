@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791406340861-jy9545",
-    "source": "x",
-    "ts": "2026-10-07T20:52:20.861Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-07T20:48:00.000Z",
-    "reason": "Notable blockchain scalability record set",
-    "text": "Cardano just smashed its own TPS record.\n\nAccording to data from @chainspect_app, the @Cardano blockchain today hit some 329 transactions per second.\n\nThe figure well outpaces its own previous record for scalability - juts 304 TPS recorded in late 2024.\n\nIs this enough to get",
-    "url": "https://x.com/BSCNews/status/2107935998663426307",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107847224432488448/vid/avc1/1312x720/SHD5JQ0puUR8ZkwT.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107847224432488448/img/VKbXG5OAVxMn7g4i.jpg"
-    }
-  },
-  {
-    "id": "x-1791406344340-3s25cj",
-    "source": "x",
-    "ts": "2026-10-07T20:52:24.340Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-07T20:47:15.000Z",
-    "reason": "No notable move in Ethereum price provided.",
-    "text": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
-    "url": "https://x.com/DecryptMedia/status/2107935809621856445"
-  },
-  {
     "id": "x-1791406957402-qxu86q",
     "source": "x",
     "ts": "2026-10-07T21:02:37.402Z",
@@ -7891,5 +7857,39 @@
     "url": "https://x.com/Cointelegraph/status/2108441260377751869",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791527554091-3s4dqg",
+    "source": "x",
+    "ts": "2026-10-09T06:32:34.091Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T06:30:47.000Z",
+    "reason": "No notable move in silver price.",
+    "text": "🔥 BIG: Spot silver reclaimed $60 an ounce.",
+    "url": "https://x.com/Cointelegraph/status/2108445048903717357"
+  },
+  {
+    "id": "x-1791527560564-odybmy",
+    "source": "x",
+    "ts": "2026-10-09T06:32:40.564Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-09T06:28:25.000Z",
+    "reason": "Sui achieves a significant transaction per second (TPS) record with AI agents.",
+    "text": "Sui Posts a 40M TPS Record as AI Agents Take Center Stage\n\nSui’s (@SuiNetwork) sui:native offchain tunnels peaked at 40.6 million transactions per second during a live stress test.\n\nThis is up from roughly 6.1 million TPS in July.\n\nThe demonstration took place at Sui Basecamp in",
+    "url": "https://x.com/BSCNews/status/2108444453203763405",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108434555577503744/vid/avc1/1280x720/gMOYLZefDS2oXFEC.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108434555577503744/img/cCYMqaLvwA4dLqhF.jpg"
+    }
   }
 ]
