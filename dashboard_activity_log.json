@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791401192749-r9vm0o",
-    "source": "x",
-    "ts": "2026-10-07T19:26:32.749Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-07T19:20:41.000Z",
-    "reason": "Notable new use of a token with high transaction throughput.",
-    "text": "⚡️ NEW: Sui’s offchain tunnels hit 40.6 million transactions per second in a live stress test simulating high-frequency AI agent activity.",
-    "url": "https://x.com/Cointelegraph/status/2107914024809648209",
-    "images": [
-      "https://pbs.twimg.com/media/HUDQoZTXUAA0SS7.jpg",
-      "https://pbs.twimg.com/media/HUDQolUXYAEos_1.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791401742047-ug7lxm",
     "source": "x",
     "ts": "2026-10-07T19:35:42.047Z",
@@ -7867,5 +7848,18 @@
       "https://pbs.twimg.com/media/HUJ1y6fWsAA5ev8.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791513117899-o74trm",
+    "source": "x",
+    "ts": "2026-10-09T02:31:57.899Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T02:30:46.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "⚡ NEW: The IMF says more than half of tokenized stock trading happens when Wall Street is closed.",
+    "url": "https://x.com/Cointelegraph/status/2108384647654609091"
   }
 ]
