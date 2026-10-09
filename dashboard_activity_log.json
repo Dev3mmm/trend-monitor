@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791438160446-nlqhm4",
-    "source": "x",
-    "ts": "2026-10-08T05:42:40.446Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T05:35:41.000Z",
-    "reason": "Vitalik Buterin's comments on Ethereum security highlight a significant technical concern.",
-    "text": "🚨 JUST IN: Vitalik Buterin says multisig signers should ideally switch to a new key after every transaction as AI threatens ECDSA, but warns \"don't rush anything.\"",
-    "url": "https://x.com/Cointelegraph/status/2108068794266472881",
-    "images": [
-      "https://pbs.twimg.com/media/HUFdZKJWQAAgGnK.jpg",
-      "https://pbs.twimg.com/media/HUFdZYMW8AAWJts.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791438731995-qvu4pw",
     "source": "x",
     "ts": "2026-10-08T05:52:11.995Z",
@@ -8009,5 +7990,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108570334668431360/img/G3z4NVraEJ9TNIt5.jpg"
     }
+  },
+  {
+    "id": "x-1791558753489-1kg3vp",
+    "source": "x",
+    "ts": "2026-10-09T15:12:33.489Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-09T15:03:02.000Z",
+    "reason": "Prediction with no basis given",
+    "text": "JUST IN: €200 million Commodity Discovery Fund Founder says \"my target for Bitcoin before 2030, is still $1 million.\" 👀\n\n\"My old target was $100,000, but that was my prediction in 2021. Look at the supply of Bitcoin. It's getting so limited.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2108573962687193294"
   }
 ]
