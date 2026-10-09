@@ -1,25 +1,5 @@
 [
   {
-    "id": "x-1791458353060-lcgmdc",
-    "source": "x",
-    "ts": "2026-10-08T11:19:13.060Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T11:15:41.000Z",
-    "reason": "High interest rates impacting UK bond market yields.",
-    "text": "UK is in trouble.\n\nBorrowing costs are surging across the bond market:\n\n10Y GILT YIELD: 5.527%, highest since 2007\n\n20Y GILT YIELD: 6.00%, highest since 1998\n\n30Y GILT YIELD: 6.047%, highest since 1998",
-    "url": "https://x.com/coinbureau/status/2108154359540510994",
-    "images": [
-      "https://pbs.twimg.com/media/HUGpB6CbQAAbQQn.png",
-      "https://pbs.twimg.com/media/HUGqO7JbsAAEk7m.png",
-      "https://pbs.twimg.com/media/HUGqScDaAAAF72o.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791458355452-jotzzo",
     "source": "x",
     "ts": "2026-10-08T11:19:15.452Z",
@@ -7970,5 +7950,26 @@
       "https://pbs.twimg.com/media/HUOBleYWQAAe2NW.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791582124794-qhrdup",
+    "source": "x",
+    "ts": "2026-10-09T21:42:04.794Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-09T21:38:00.000Z",
+    "reason": "Notable institutional adoption of a new tokenized product.",
+    "text": "Ondo officially launches pre-IPO trading.\n\nTeased prior to the announcement, tokenisation leader @Ondo has debuted its Private Markets product.\n\n$ONDO's new feature allows users to enter, exit or adjust positions before a company's IPO actually takes place.\n\nThe new offering",
+    "url": "https://x.com/BSCNews/status/2108673357134848379",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108513737535631360/vid/avc1/1312x720/nIiuF45hfgeAwBKu.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513737535631360/img/XboG2IgJymY6VKl8.jpg"
+    }
   }
 ]
