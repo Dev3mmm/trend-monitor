@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791455883603-bqtr3q",
-    "source": "x",
-    "ts": "2026-10-08T10:38:03.603Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T10:33:41.000Z",
-    "reason": "Notable institutional backing and investment in a new blockchain technology.",
-    "text": "Sui's Hashi Mainnet is now backed by Anchorage Digital\n\nSui Network (@SuiNetwork) has finally revealed the phased release of Hashi, \n\nThe proprietary Bitcoin finance layer is set to launch within this month, backed by more than $500 million in investment, including Anchorage",
-    "url": "https://x.com/BSCNews/status/2108143789948703174",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108142982222229505/vid/avc1/1316x720/kQcg46SUt_pCc1UX.mp4?tag=29",
-      "duration": 30,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108142982222229505/img/TQVpr4_WuGwOuTAR.jpg"
-    }
-  },
-  {
-    "id": "x-1791455885445-wn5ln4",
-    "source": "x",
-    "ts": "2026-10-08T10:38:05.445Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T10:33:41.000Z",
-    "reason": "Specific institutional adoption event.",
-    "text": "JUST IN: 🇷🇺 Russia’s largest bank, Sberbank, is preparing to launch #Bitcoin &amp; crypto trading for over 100 million clients 👀\n\nAdoption! 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2108143788103217453",
-    "images": [
-      "https://pbs.twimg.com/media/HUGhmnvWIAASica.jpg",
-      "https://pbs.twimg.com/media/HUGhmnyW4AAjHjR.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791455887332-wmgtf9",
     "source": "x",
     "ts": "2026-10-08T10:38:07.332Z",
@@ -7976,5 +7936,39 @@
     "url": "https://x.com/Cointelegraph/status/2108649632154706247",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791577916220-x3q95a",
+    "source": "x",
+    "ts": "2026-10-09T20:31:56.220Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T20:30:47.000Z",
+    "reason": "No notable crypto-specific news.",
+    "text": "🚨 NEW: AI model costs have fallen as much in roughly three years as personal computer prices did in 15 years, Goldman Sachs data shows.",
+    "url": "https://x.com/Cointelegraph/status/2108656442408391140"
+  },
+  {
+    "id": "x-1791577918793-k50ja7",
+    "source": "x",
+    "ts": "2026-10-09T20:31:58.793Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-09T20:24:00.000Z",
+    "reason": "Unexpected price spike due to exchange listing announcement",
+    "text": "KAIA pumps on news of Upbit listing.\n\n@KaiaChain's KAIA token saw a sudden and unexpected spike of roughly +40-50% on October 9.\n\nThe surge was ostensibly the result of leading Korean exchange @Official_Upbit announcing listing support, with trading launched at 18:30pm KST.",
+    "url": "https://x.com/BSCNews/status/2108654734198395209",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108513431900827648/vid/avc1/1312x720/IaZDTj9m8duSxrcq.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513431900827648/img/a-21h4qXdOQPIb-4.jpg"
+    }
   }
 ]
