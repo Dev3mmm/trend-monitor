@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791407552004-ochttw",
-    "source": "x",
-    "ts": "2026-10-07T21:12:32.004Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 27,
-    "originTimestamp": "2026-10-07T20:44:49.000Z",
-    "reason": "No notable move or specific event is clearly stated or verified.",
-    "text": "Today was a big day across financial markets.\n\nHere are the 8 stories you need to know ↓\n\n1. CFTC Chair says the agency will deliver \"clear rules\" for crypto assets with or without legislation from Congress.\n\n2. China bought another 740,000 ounces of gold worth $3.1 billion in",
-    "url": "https://x.com/coinbase/status/2107940200693518720"
-  },
-  {
-    "id": "x-1791408153780-p2sh5z",
-    "source": "x",
-    "ts": "2026-10-07T21:22:33.780Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-07T21:17:15.000Z",
-    "reason": "Notable development in the intersection of AI and blockchain security.",
-    "text": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
-    "url": "https://x.com/DecryptMedia/status/2107943359801168199",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791408751922-oz3a1j",
     "source": "x",
     "ts": "2026-10-07T21:32:31.922Z",
@@ -7896,5 +7867,39 @@
       "https://pbs.twimg.com/media/HUK6hcyXsAABKjd.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791529932725-z9iws3",
+    "source": "x",
+    "ts": "2026-10-09T07:12:12.725Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-09T07:03:34.000Z",
+    "reason": "New institutional partnerships and integrations in the crypto ecosystem.",
+    "text": "Circle’s Arc Expands Into Payments And High Volume Onchain Trading\n\nCircle's (@circle) Arc (@arc) is growing its ecosystem through additional integrations for payments and trading.\n\nTransak (@Transak) is now live on Arc, letting users fund wallets with debit cards or Apple Pay",
+    "url": "https://x.com/BSCNews/status/2108453300722864532",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108453155440881664/vid/avc1/1280x720/el3GmmX2NNbsV-in.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108453155440881664/img/QmYuEzJdDbm-cBeH.jpg"
+    }
+  },
+  {
+    "id": "x-1791529936665-axx551",
+    "source": "x",
+    "ts": "2026-10-09T07:12:16.665Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 31,
+    "originTimestamp": "2026-10-09T06:41:14.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "1% bounce overnight",
+    "url": "https://x.com/coinbase/status/2108452760777842780"
   }
 ]
