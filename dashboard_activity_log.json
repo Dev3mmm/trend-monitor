@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1791450727102-46umo2",
-    "source": "x",
-    "ts": "2026-10-08T09:12:07.102Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-08T09:07:00.000Z",
-    "reason": "Specific institutional adoption with potential for widespread adoption.",
-    "text": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
-    "url": "https://x.com/DecryptMedia/status/2108121975126118605",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791450729514-f1yyrg",
-    "source": "x",
-    "ts": "2026-10-08T09:12:09.514Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T09:05:00.000Z",
-    "reason": "Price milestone and high-level crypto finance discussion on stage",
-    "text": "🇸🇬 LONGITUDE: Which infrastructure will power global finance onchain?\n\nOn stage:\n• @keoneHD, @monad\n• @ismiMatthew, @ethereuminsti\n• @sgoldfed, @Offchain  \n• @EliBenSasson, @StarkWareLtd \n\nModerated by @jessicasmw, @binance.",
-    "url": "https://x.com/Cointelegraph/status/2108121471033975234",
-    "images": [
-      "https://pbs.twimg.com/media/HUGMhONbUAAWbjB.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791450731850-90maci",
-    "source": "x",
-    "ts": "2026-10-08T09:12:11.850Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-08T09:02:45.000Z",
-    "reason": "Centralized exchanges losing their role for certain activities.",
-    "text": "NEAR Founder Says Centralized Exchanges Are Losing Their Role\n\nNEAR (@NEARProtocol) co-founder Illia Polosukhin (@ilblackdragon) says users increasingly need centralized exchanges for fewer crypto activities.\n\nHe pointed to near(.)com, which combines trading, tokenized stocks,",
-    "url": "https://x.com/BSCNews/status/2108120905268559979",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108110644189024256/vid/avc1/1280x720/94lSBsizT65fVnrg.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108110644189024256/img/0xzw1UdqpUt_OQX7.jpg"
-    }
-  },
-  {
     "id": "x-1791451444190-7aqklz",
     "source": "x",
     "ts": "2026-10-08T09:24:04.190Z",
@@ -7994,5 +7939,50 @@
     "reason": "Prediction/price call with no basis given",
     "text": "JUST IN: Fundstrat's Tom Lee says “The crypto bull market is underway and the cycle is likely to be the largest” 👀\n\n“Since 2012, there have been 9 crosses above the 200-day moving average. Eight of the nine were bull market flags.” 🚀",
     "url": "https://x.com/BitcoinMagazine/status/2108611756650057960"
+  },
+  {
+    "id": "x-1791568338770-gg7okw",
+    "source": "x",
+    "ts": "2026-10-09T17:52:18.770Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T17:50:48.000Z",
+    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
+    "text": "🇪🇺🇨🇳 LATEST: The EU and China agree to halve Chinese hybrid vehicle exports to the bloc, improve EU access to China’s market and ease licensing for Chinese rare earth exports.",
+    "url": "https://x.com/Cointelegraph/status/2108616179648549093"
+  },
+  {
+    "id": "x-1791568344678-yfhx8m",
+    "source": "x",
+    "ts": "2026-10-09T17:52:24.678Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-09T17:45:57.000Z",
+    "reason": "Tether emergency freeze and swift reversal highlight regulatory and technical risks in decentralized finance.",
+    "text": "🚨UPDATE: Tether temporarily FREEZES $1.45 MILLION in USDT across four THORChain vaults on TRON, forcing the protocol to suspend affected swaps, per The Defiant.\n\nTether reversed the blacklist after just THREE HOURS, restoring access to the funds and allowing services to resume.",
+    "url": "https://x.com/coinbureau/status/2108614958963704231",
+    "images": [
+      "https://pbs.twimg.com/media/HUNLe5FaIAAtWan.jpg",
+      "https://pbs.twimg.com/media/HUNMMhLagAA6PBF.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791568347584-z7oq3x",
+    "source": "x",
+    "ts": "2026-10-09T17:52:27.584Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 33,
+    "originTimestamp": "2026-10-09T17:19:11.000Z",
+    "reason": "Noise: Generic statement without factual claim.",
+    "text": "True",
+    "url": "https://x.com/elonmusk/status/2108614272112525781"
   }
 ]
