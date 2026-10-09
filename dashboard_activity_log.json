@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791431024460-xuy2j3",
-    "source": "x",
-    "ts": "2026-10-08T03:43:44.460Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T03:41:05.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Vitalik Warns Crypto Could Face an AI Security Test Within Two Years\n\nEthereum (@ethereum) ethereum:native co-founder Vitalik Buterin (@VitalikButerin) says AI could expose weaknesses in current cryptography within two years.\n\nHe feels that lattice-based systems require special",
-    "url": "https://x.com/BSCNews/status/2108039954257559921"
-  },
-  {
     "id": "x-1791431029391-atndxs",
     "source": "x",
     "ts": "2026-10-08T03:43:49.391Z",
@@ -7977,5 +7964,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108531953804713985/img/Whebe3em4c8sYTu7.jpg"
     }
+  },
+  {
+    "id": "x-1791549133169-4odcxp",
+    "source": "x",
+    "ts": "2026-10-09T12:32:13.169Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T12:30:51.000Z",
+    "reason": "Record high withdrawals and low reserves highlight potential liquidity issues.",
+    "text": "🚨 UPDATE: Binance $ETH reserves hit a six-month low as withdrawals reached a record high, per CryptoQuant.",
+    "url": "https://x.com/Cointelegraph/status/2108535661523304654",
+    "images": [
+      "https://pbs.twimg.com/media/HUMGAKmW0AE9oBc.jpg"
+    ],
+    "video": null
   }
 ]
