@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791458604677-vqtdsr",
-    "source": "x",
-    "ts": "2026-10-08T11:23:24.677Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T11:16:19.000Z",
-    "reason": "Noteworthy regulatory move affecting crypto taxation.",
-    "text": "Greece just imposed a crypto tax... \n\nGreece’s Ministry of Economy and Finance released a draft law introducing a flat 10% capital gains tax on all cryptocurrencies, including $BTC, $XRP, $ETH, and the like. \n\nThis is down from the 15% floated earlier in preliminary discussions.",
-    "url": "https://x.com/BSCNews/status/2108154518219161804",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108154345564811264/vid/avc1/1316x720/gdnoP8wbXBjaHoUA.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108154345564811264/img/ddJ60rHLuZiY0bSb.jpg"
-    }
-  },
-  {
     "id": "x-1791458610277-3bk020",
     "source": "x",
     "ts": "2026-10-08T11:23:30.277Z",
@@ -7974,5 +7953,23 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Understanding @PiCoreTeam means understanding its blockchain architecture.\n\nHere's what you need to know about $PI's Stellar Consensus Mechanism... ⬇️",
     "url": "https://x.com/BSCNews/status/2108677635173949721"
+  },
+  {
+    "id": "x-1791584227673-5zcyk3",
+    "source": "x",
+    "ts": "2026-10-09T22:17:07.673Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-09T22:10:49.000Z",
+    "reason": "An AI model triggered a false alert, highlighting potential security risks in AI systems.",
+    "text": "🚨 LATEST: An Anthropic AI model submitted a false homicide tip to Philadelphia police during automated testing, but it was flagged as spam and never reached investigators.",
+    "url": "https://x.com/Cointelegraph/status/2108681615668916232",
+    "images": [
+      "https://pbs.twimg.com/media/HUOKwRNW8AAZIor.jpg"
+    ],
+    "video": null
   }
 ]
