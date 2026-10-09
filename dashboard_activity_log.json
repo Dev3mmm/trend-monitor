@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791416579808-1229em",
-    "source": "x",
-    "ts": "2026-10-07T23:42:59.808Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-07T23:37:00.000Z",
-    "reason": "No notable move in altcoin ETFs, as they all saw no inflows.",
-    "text": "The altcoin hype is fading...\n\nIt's been a disappointing week for spot altcoin ETFs in the US, with products for all of the below assets seeing no inflows so far this week:\n\n@Zcash $ZEC [no inflows since Sep 22]\n@trondao $TRX [no inflows since Sep 15]\n@BNBChain $BNB \n@chainlink",
-    "url": "https://x.com/BSCNews/status/2107978528830484737",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107757450669465600/vid/avc1/1312x720/XfscFbq2UVbkUYsi.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107757450669465600/img/gmKHYZgzdykuf0pa.jpg"
-    }
-  },
-  {
-    "id": "x-1791416583090-1itam0",
-    "source": "x",
-    "ts": "2026-10-07T23:43:03.090Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-07T23:30:52.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Cool credit. Hot equity. $STRC $MSTR",
-    "url": "https://x.com/saylor/status/2107976985297494124"
-  },
-  {
     "id": "x-1791417748113-nm9xc2",
     "source": "x",
     "ts": "2026-10-08T00:02:28.114Z",
@@ -7917,6 +7883,46 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108470657709490176/img/ef6M-ZteY_NdxDgM.jpg"
+    }
+  },
+  {
+    "id": "x-1791538361549-n8v2h8",
+    "source": "x",
+    "ts": "2026-10-09T09:32:41.549Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T09:30:47.000Z",
+    "reason": "Potential technical vulnerability or governance issue in Ethereum's VM model.",
+    "text": "🚨 UPDATE: Adam Back says he told Ethereum to use UTXO before launch, warning its VM model would create race conditions.",
+    "url": "https://x.com/Cointelegraph/status/2108490349203124537",
+    "images": [
+      "https://pbs.twimg.com/media/HULcysOWkAAzNnG.png",
+      "https://pbs.twimg.com/media/HULczE7W4AA_JeU.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791538363930-7d8bh2",
+    "source": "x",
+    "ts": "2026-10-09T09:32:43.930Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-09T09:29:20.000Z",
+    "reason": "Pi Network explores stablecoins to expand utility in its ecosystem.",
+    "text": "Pi Network Explores Stablecoins to Expand Ecosystem Utility\n\nPi Network (@PiCoreTeam) pi-network:native says it is exploring stablecoins to support payments and other activities across its ecosystem.\n\nThe ecosystem would like to have stablecoin solutions work alongside the native",
+    "url": "https://x.com/BSCNews/status/2108489983611084867",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108485564932775937/vid/avc1/1280x720/ujtbJtAfScsLOADm.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108485564932775937/img/9KXkFnVey3AXW0XA.jpg"
     }
   }
 ]
