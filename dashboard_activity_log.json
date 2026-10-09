@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1791458355452-jotzzo",
-    "source": "x",
-    "ts": "2026-10-08T11:19:15.452Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-08T11:10:43.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "🔥 LATEST: BitGo CEO Mike Belshe rejects the idea AI will crack Bitcoin, but says wallets should prepare now. \n\n BitGo has added quantum exposure scores, one-click fixes and quantum-aware UTXO selection.",
-    "url": "https://x.com/Cointelegraph/status/2108153108429697373",
-    "images": [
-      "https://pbs.twimg.com/media/HUGqEwzXAAAJb2F.png",
-      "https://pbs.twimg.com/media/HUGqE9VXIAEgiPL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791458357693-7tejrr",
-    "source": "x",
-    "ts": "2026-10-08T11:19:17.693Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-08T11:06:23.000Z",
-    "reason": "No notable crypto-related event or move described.",
-    "text": "PIER versus PYRE\n\nFriends, these words are NOT homophones. They are pronounced differently.\n\nPIER has the diphthong /ia/, unlike PYRE that is pronounced with the triphthong /ia/.\n\nPIER as /paia/? ❎\nPIER as /pia/ ✅ (like PEER)\n\nPYRE as /paia/ ✅",
-    "url": "https://x.com/amerix/status/2108152154771099832"
-  },
-  {
-    "id": "x-1791458595093-w92nx6",
-    "source": "x",
-    "ts": "2026-10-08T11:23:15.093Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T11:20:42.000Z",
-    "reason": "Notable institutional adoption by Morgan Stanley",
-    "text": "🇸🇬 TOKEN2049: Morgan Stanley’s Amy Oldenburg says that its crypto ETPs reached $1B within six months.",
-    "url": "https://x.com/Cointelegraph/status/2108155622759833976",
-    "images": [
-      "https://pbs.twimg.com/media/HUGsXBXWoAAJQRj.png",
-      "https://pbs.twimg.com/media/HUGsXRhWQAAWuoN.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791458599480-jlvr0m",
     "source": "x",
     "ts": "2026-10-08T11:23:19.480Z",
@@ -7971,5 +7920,59 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513737535631360/img/XboG2IgJymY6VKl8.jpg"
     }
+  },
+  {
+    "id": "x-1791582861504-0ds1c1",
+    "source": "x",
+    "ts": "2026-10-09T21:54:21.504Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-09T21:48:07.000Z",
+    "reason": "Notable institutional adoption and liquidity in a major stablecoin protocol.",
+    "text": "Lending protocol @MorphoLabs ($MORPHO) has crossed $1 billion in institutional liquidity, with @coinbase Lend and @RobinhoodApp Earn each above $500 million in exclusive vault balances, per MSBIntel data.\n\nArc, the blockchain from $USDC issuer @circle, accounts for another $500",
+    "url": "https://x.com/BSCNews/status/2108676996297294226",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791582865605-fgno67",
+    "source": "x",
+    "ts": "2026-10-09T21:54:25.605Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-09T21:50:47.000Z",
+    "reason": "Notable government action on crypto sanctions.",
+    "text": "🇺🇸 JUST IN: Treasury Secretary Scott Bessent says the US will likely seize $1 billion in crypto linked to Iran this week as part of its sanctions crackdown.",
+    "url": "https://x.com/Cointelegraph/status/2108676576745226698",
+    "images": [
+      "https://pbs.twimg.com/media/HUOGKzKWwAEVs68.jpg",
+      "https://pbs.twimg.com/media/HUOGK-eW4AAJ5RL.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791582869738-9tcwch",
+    "source": "x",
+    "ts": "2026-10-09T21:54:29.738Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-09T21:43:48.000Z",
+    "reason": "El Salvador's Bitcoin purchase is significant institutional activity.",
+    "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻    \n\nThey now own 7800 BTC! 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2108674817188647142",
+    "images": [
+      "https://pbs.twimg.com/media/HUOETcVWIAAs4db.png",
+      "https://pbs.twimg.com/media/HUOEVoaW8AAa-D_.jpg"
+    ],
+    "video": null
   }
 ]
