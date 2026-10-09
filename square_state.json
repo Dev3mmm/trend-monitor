@@ -1450,19 +1450,10 @@
     "x-1791547932829-fa3jeh",
     "x-1791548532674-i35p73",
     "x-1791548536720-fpdbvx",
-    "x-1791548540637-bhmfjx"
+    "x-1791548540637-bhmfjx",
+    "x-1791549133169-4odcxp"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Adam Back says he told Ethereum to use UTXO before launch, warning its VM model would create race conditions.",
-      "url": "https://x.com/Cointelegraph/status/2108490349203124537",
-      "images": [
-        "https://pbs.twimg.com/media/HULcysOWkAAzNnG.png",
-        "https://pbs.twimg.com/media/HULczE7W4AA_JeU.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1791538363975
-    },
     {
       "text": "CoinShares: Bond Market May Matter More Than the Fed for Bitcoin as Fund Flows Cool\n\nCoinShares said on October 8 that digital asset fund inflows have slowed markedly this week after totaling about $11.1 billion since mid-July. Meanwhile, the 10-year U.S. Treasury yield has risen",
       "url": "https://x.com/WuBlockchain/status/2108492938158514306",
@@ -1568,15 +1559,18 @@
       ],
       "video": null,
       "enqueuedAt": 1791548540695
+    },
+    {
+      "text": "🚨 UPDATE: Binance $ETH reserves hit a six-month low as withdrawals reached a record high, per CryptoQuant.",
+      "url": "https://x.com/Cointelegraph/status/2108535661523304654",
+      "images": [
+        "https://pbs.twimg.com/media/HUMGAKmW0AE9oBc.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791549133219
     }
   ],
   "posted": [
-    {
-      "text": "🚨 ALERT: CertiK flags a suspected 79Vault exploit moving $12.5M in BNB via a privileged function.",
-      "at": 1791462163470,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/375074685904987?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨BREAKING: UK Prime Minister Andy Burnham is facing backlash after promoting Google Maps fuel price checks as “help” for drivers.\n\nHis solution is a new feature showing live fuel prices to help motorists find cheaper petrol and diesel in the UK.\n\nBurnham said that he \"gets it\"",
       "at": 1791464020632,
@@ -1756,7 +1750,13 @@
       "at": 1791547330520,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/375423551012940?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Adam Back says he told Ethereum to use UTXO before launch, warning its VM model would create race conditions.",
+      "at": 1791549133219,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/375430954373067?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791547330520
+  "lastPostAt": 1791549133219
 }
