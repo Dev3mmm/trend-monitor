@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791402781460-40pb5i",
-    "source": "x",
-    "ts": "2026-10-07T19:53:01.460Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 25,
-    "originTimestamp": "2026-10-07T19:26:47.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "That is Amerix,",
-    "url": "https://x.com/amerix/status/2107915561170555117"
-  },
-  {
     "id": "x-1791404424716-hb5h34",
     "source": "x",
     "ts": "2026-10-07T20:20:24.716Z",
@@ -7845,5 +7832,26 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🇸🇬 TODAY: CONNECT Singapore is here!\n\n$170,000 in prizes up for grabs at our pitch competition, powered by @FundersVC!\n\nMeet the judges:\n\n- Aleksandr Nechaev (@al_nechaev), Partner &amp; Head of DeFi&amp;DA, @FundersVC\n- Bobur Muvdinov (@bobur_muydinov ), Founder, @InspiraLabsHQ\n- Xin Yi",
     "url": "https://x.com/Cointelegraph/status/2108406516441403419"
+  },
+  {
+    "id": "x-1791519153565-opl0x2",
+    "source": "x",
+    "ts": "2026-10-09T04:12:33.565Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T04:11:19.000Z",
+    "reason": "Noteworthy tokenomics change with significant supply reduction.",
+    "text": "Aptos Targets Deflation With 210M APT Permanently Locked\n\nAptos (@Aptos) is proposing one of its biggest tokenomics changes yet, including a permanent lock of 210 million aptos:native.\n\nThis makes up almost 18% of the existing number of tokens.\n\nMeanwhile, staking rewards will be",
+    "url": "https://x.com/BSCNews/status/2108409951869972984",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108407178092830721/vid/avc1/1280x720/u06mtjp58sghK8Re.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108407178092830721/img/59QZqrxoyoZF_3Re.jpg"
+    }
   }
 ]
