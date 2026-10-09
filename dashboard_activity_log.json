@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1791439343617-oi0gd7",
-    "source": "x",
-    "ts": "2026-10-08T06:02:23.617Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T06:00:42.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "basically my whole morning in one bowl",
-    "url": "https://x.com/binance/status/2108075091426738308"
-  },
-  {
-    "id": "x-1791439348181-3vo1qd",
-    "source": "x",
-    "ts": "2026-10-08T06:02:28.181Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T06:00:40.000Z",
-    "reason": "Vitalik Buterin's warning on cryptography intersects with current AI developments.",
-    "text": "⚡ BIG: Vitalik Buterin warns quantum-resistant lattice cryptography could \"take serious hits\" from AI math within two years.",
-    "url": "https://x.com/Cointelegraph/status/2108075081645662707",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791440012832-r0br1n",
-    "source": "x",
-    "ts": "2026-10-08T06:13:32.832Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T06:05:54.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Ever wondered where Hedera (@hedera) and hedera-hashgraph:native actually got their names?\n\nHere’s how the names, hashgraph, tinybar, and Hedera’s latest developments all connect 👇",
-    "url": "https://x.com/BSCNews/status/2108076399064125511"
-  },
-  {
-    "id": "x-1791441128858-ry09pl",
-    "source": "x",
-    "ts": "2026-10-08T06:32:08.858Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T06:30:40.000Z",
-    "reason": "Ripple's involvement in financing leveraged ETFs is significant institutional adoption.",
-    "text": "🔥 NEW: Ripple is becoming a player in financing leveraged ETFs.",
-    "url": "https://x.com/Cointelegraph/status/2108082634110681449",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791441132957-96fmu5",
     "source": "x",
     "ts": "2026-10-08T06:32:12.957Z",
@@ -7994,6 +7936,80 @@
     "images": [
       "https://pbs.twimg.com/media/HUMsFx8bcAAEEbb.jpg",
       "https://pbs.twimg.com/media/HUMsGFZboAARHjF.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791559946497-m65jo7",
+    "source": "x",
+    "ts": "2026-10-09T15:32:26.497Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-09T15:31:45.000Z",
+    "reason": "Potential theft involving significant user funds in the crypto industry.",
+    "text": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+    "url": "https://x.com/DecryptMedia/status/2108581187409093014",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791559949033-jicqpr",
+    "source": "x",
+    "ts": "2026-10-09T15:32:29.033Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T15:30:49.000Z",
+    "reason": "StarkWare testing of quantum-safe Bitcoin locking on mainnet is notable for its technical advancement.",
+    "text": "🔥 UPDATE: StarkWare says it tested quantum-safe Bitcoin locking on mainnet without a soft fork, but it is not yet scalable.",
+    "url": "https://x.com/Cointelegraph/status/2108580952364450123",
+    "images": [
+      "https://pbs.twimg.com/media/HUMvMsQXIAAylCr.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791559951728-rw17zk",
+    "source": "x",
+    "ts": "2026-10-09T15:32:31.728Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T15:30:20.000Z",
+    "reason": "Algorand transaction activity exceeds recent high with significant average TPS.",
+    "text": "Algorand Activity is skyrocketing...\n\n@Algorand hit 619,004 transactions on October 8, resulting in an average TPS of 7.16 transactions per second.\n\n@Chainspect's tracking of network data shows the network hit its highest daily transaction count in the last seven days. \n\nActivity",
+    "url": "https://x.com/BSCNews/status/2108580830880694336",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108579212613283840/vid/avc1/1316x720/I5jhnRWgdslRGFU_.mp4?tag=29",
+      "duration": 30,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108579212613283840/img/CExzbEgVcktlc--q.jpg"
+    }
+  },
+  {
+    "id": "x-1791559954806-n9ui35",
+    "source": "x",
+    "ts": "2026-10-09T15:32:34.806Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T15:30:11.000Z",
+    "reason": "Regulator suggests potential seizure of crypto, implying significant funds could be at risk.",
+    "text": "🚨JUST IN: U.S. Treasury Secretary Scott Bessent says the Trump administration could SEIZE $1 BILLION in Iran-linked cryptocurrency THIS WEEK.\n\n“We're probably gonna seize a billion dollars of crypto this week. And, you know, we know where it is and we are isolating them.”\n\nThe",
+    "url": "https://x.com/coinbureau/status/2108580791987101937",
+    "images": [
+      "https://pbs.twimg.com/media/HUMtS1jaAAAJkBM.png",
+      "https://pbs.twimg.com/media/HUMu-yfawAA6lBl.png"
     ],
     "video": null
   }
