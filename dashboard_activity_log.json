@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791453727699-cj69cc",
-    "source": "x",
-    "ts": "2026-10-08T10:02:07.699Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T10:00:58.000Z",
-    "reason": "Notable institutional voice on the potential of tokenized assets.",
-    "text": "🇸🇬 TOKEN2049: BlackRock’s Nikhil Sharma says AI provides the context, while tokenized assets can become the execution layer for those decisions.",
-    "url": "https://x.com/Cointelegraph/status/2108135557444362503",
-    "images": [
-      "https://pbs.twimg.com/media/HUGaHQqWsAARmTd.png",
-      "https://pbs.twimg.com/media/HUGaHfyWEAAPM2t.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791453733031-l6oixj",
-    "source": "x",
-    "ts": "2026-10-08T10:02:13.031Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T09:55:31.000Z",
-    "reason": "Glamsterdam upgrade increases Ethereum's gas limit significantly.",
-    "text": "Ethereum’s Glamsterdam Test Hits a Massive Capacity Boost\n\nEthereum’s (@ethereum) ethereum:native Glamsterdam upgrade is now running on Sepolia with a processing limit near 200 million gas.\n\nThis is more than three times the previous limit of roughly 60 million. The higher budget",
-    "url": "https://x.com/BSCNews/status/2108134183004713105",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108133018254950400/vid/avc1/1280x720/Q6QDWU6iE3lDlLI1.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108133018254950400/img/FM69_FXpWVDakOoI.jpg"
-    }
-  },
-  {
     "id": "x-1791454333236-qxg0dl",
     "source": "x",
     "ts": "2026-10-08T10:12:13.236Z",
@@ -7976,5 +7936,39 @@
     "url": "https://x.com/DecryptMedia/status/2108630386267824192",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791573742414-s6p0km",
+    "source": "x",
+    "ts": "2026-10-09T19:22:22.414Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-09T19:15:00.000Z",
+    "reason": "Exploiting whale activity news could be significant if true, though more context is needed.",
+    "text": "Chainlink whale activity is EXPLODING.\n\nAccording to data from @SantimentData, @chainlink recorded its biggest day of whale transactions since November 2025.\n\nThe period saw 681 $LINK transactions worth more than $100,000.\n\nIs attention finally turning to the token behind",
+    "url": "https://x.com/BSCNews/status/2108637369826172995",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108513233451536385/vid/avc1/1312x720/-TGIIC_NvJGXUJcU.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513233451536385/img/NZXYKUIJXqU28T62.jpg"
+    }
+  },
+  {
+    "id": "x-1791573746406-5igqki",
+    "source": "x",
+    "ts": "2026-10-09T19:22:26.406Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-09T19:12:07.000Z",
+    "reason": "No notable move, price is well within its recent range.",
+    "text": "NEW: Bitcoin has made higher lows for 4 consecutive months, despite fluxuating macro conditions. \n\nBullish 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2108636643594994046"
   }
 ]
