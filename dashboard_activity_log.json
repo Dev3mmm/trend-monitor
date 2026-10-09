@@ -1,25 +1,5 @@
 [
   {
-    "id": "x-1791458610277-3bk020",
-    "source": "x",
-    "ts": "2026-10-08T11:23:30.277Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T11:15:41.000Z",
-    "reason": "High interest rates impacting UK financial markets.",
-    "text": "UK is in trouble.\n\nBorrowing costs are surging across the bond market:\n\n10Y GILT YIELD: 5.527%, highest since 2007\n\n20Y GILT YIELD: 6.00%, highest since 1998\n\n30Y GILT YIELD: 6.047%, highest since 1998",
-    "url": "https://x.com/coinbureau/status/2108154359540510994",
-    "images": [
-      "https://pbs.twimg.com/media/HUGpB6CbQAAbQQn.png",
-      "https://pbs.twimg.com/media/HUGqO7JbsAAEk7m.png",
-      "https://pbs.twimg.com/media/HUGqScDaAAAF72o.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791458614877-qtaz9q",
     "source": "x",
     "ts": "2026-10-08T11:23:34.877Z",
@@ -7971,5 +7951,26 @@
       "https://pbs.twimg.com/media/HUOKwRNW8AAZIor.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791584544829-mkkl5m",
+    "source": "x",
+    "ts": "2026-10-09T22:22:24.830Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-09T22:19:00.000Z",
+    "reason": "Grayscale's Zcash ETF shows severe market downturn with significant outflows.",
+    "text": "What on earth happened to $ZEC demand?!\n\n@Grayscale's spot @Zcash ETF has seen seven days of net outflows since it last saw any positive action.\n\nIn the last two weeks, the product has lost a total of more than -$124M.\n\nIt still holds 3.27% of $ZEC's supply though.",
+    "url": "https://x.com/BSCNews/status/2108683674853970156",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108513907203506177/vid/avc1/1312x720/88imryuAAMQmhlqO.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513907203506177/img/bz3FU7Na4o4MSPBC.jpg"
+    }
   }
 ]
