@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791415338755-z98dus",
-    "source": "x",
-    "ts": "2026-10-07T23:22:18.755Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-07T23:14:00.000Z",
-    "reason": "No notable move or newsworthy event is indicated.",
-    "text": "Cardano's only major memecoin is on a run.\n\n@Snek on @Cardano was up +52% on the month this morning, outpacing nearly every other major meme.\n\n$SENK was also up some +26% on the week, its market cap reaching roughly $65M on October 6.\n\nThe surge may raise questions around whether",
-    "url": "https://x.com/BSCNews/status/2107972740544135295"
-  },
-  {
-    "id": "x-1791416079710-fzjhne",
-    "source": "x",
-    "ts": "2026-10-07T23:34:39.710Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-07T23:30:52.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Cool credit. Hot equity. $STRC $MSTR",
-    "url": "https://x.com/saylor/status/2107976985297494124"
-  },
-  {
     "id": "x-1791416579808-1229em",
     "source": "x",
     "ts": "2026-10-07T23:42:59.808Z",
@@ -7904,5 +7878,45 @@
       "https://pbs.twimg.com/media/HULV_b9XEAEmciE.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791537154959-847ufw",
+    "source": "x",
+    "ts": "2026-10-09T09:12:34.959Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T09:10:44.000Z",
+    "reason": "Specific institutional adoption of BTC and ETH ETFs in Thailand's stock market.",
+    "text": "JUST IN: 🇹🇭Thailand’s $613B stock market is set to start trading $BTC and $ETH ETFs on Oct 16.",
+    "url": "https://x.com/coinbureau/status/2108485304135135384",
+    "images": [
+      "https://pbs.twimg.com/media/HULW7EDa8AAI9zm.jpg",
+      "https://pbs.twimg.com/media/HULX1shaMAAzKL4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791537157783-q34xcc",
+    "source": "x",
+    "ts": "2026-10-09T09:12:37.783Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-09T09:07:35.000Z",
+    "reason": "Whale activity level is a notable use of a token/stablecoin.",
+    "text": "Chainlink Whale Activity Hits Its Highest Level of 2026\n\nChainlink (@chainlink)  ethereum:0x514910771af9ca656af840dff83e8264ecf986ca recorded 681 transactions worth at least $100,000 in one day, Santiment reported on Oct. 8.\n\nThat marks its highest daily total since November 19,",
+    "url": "https://x.com/BSCNews/status/2108484509629071739",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108470657709490176/vid/avc1/1280x720/Tj4SDk8E8n9bqRRm.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108470657709490176/img/ef6M-ZteY_NdxDgM.jpg"
+    }
   }
 ]
