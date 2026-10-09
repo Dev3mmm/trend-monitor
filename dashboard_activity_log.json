@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791455887332-wmgtf9",
-    "source": "x",
-    "ts": "2026-10-08T10:38:07.332Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T10:30:45.000Z",
-    "reason": "Notable institutional adoption by Morgan Stanley.",
-    "text": "🇸🇬 TOKEN2049: Morgan Stanley’s Amy Oldenburg says its crypto ETPs reached $1B within six months.",
-    "url": "https://x.com/Cointelegraph/status/2108143050681631062",
-    "images": [
-      "https://pbs.twimg.com/media/HUGg680XcAAHJh-.png",
-      "https://pbs.twimg.com/media/HUGg7g0XMAAvWB-.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791456138047-rrs6os",
     "source": "x",
     "ts": "2026-10-08T10:42:18.047Z",
@@ -7970,5 +7951,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513431900827648/img/a-21h4qXdOQPIb-4.jpg"
     }
+  },
+  {
+    "id": "x-1791578548352-0noumy",
+    "source": "x",
+    "ts": "2026-10-09T20:42:28.352Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T20:40:00.000Z",
+    "reason": "The tweet provides historical context but no new, concrete price or event.",
+    "text": "🚨One year ago, crypto saw its BIGGEST liquidation ever, and Bitcoin is down 33% since.\n\nBitcoin traded above $122,000 before the crash and now sits around $82,000.\n\nIt never got back above $117,000 after the crash.\n\nThe final count topped $19 BILLION in liquidations in 24 hours.",
+    "url": "https://x.com/coinbureau/status/2108658760759615582",
+    "images": [
+      "https://pbs.twimg.com/media/HUNt3P5b0AAevsI.png"
+    ],
+    "video": null
   }
 ]
