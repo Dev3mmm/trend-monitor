@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791456759702-n62j3k",
-    "source": "x",
-    "ts": "2026-10-08T10:52:39.702Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T10:46:30.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Former PlayStation Exec Slams Sony's Move to Kill Discs: 'What Are You Buying?'",
-    "url": "https://x.com/DecryptMedia/status/2108147013720129667",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791457344934-o550e4",
-    "source": "x",
-    "ts": "2026-10-08T11:02:24.934Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-08T10:53:30.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "“Speaking at an industry conference in New Delhi on Wednesday, Lauren Dreyer, vice president of Starlink business operations, said the company has spent five years working with Indian regulators and had built its network specifically around the country’s security requirements,",
-    "url": "https://x.com/elonmusk/status/2108149902387589549"
-  },
-  {
     "id": "x-1791458347884-n5kteb",
     "source": "x",
     "ts": "2026-10-08T11:19:07.884Z",
@@ -7971,5 +7942,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108660504839225345/img/ztUmMr_jtLOV22Ja.jpg"
     }
+  },
+  {
+    "id": "x-1791580344812-8a5a41",
+    "source": "x",
+    "ts": "2026-10-09T21:12:24.812Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T21:10:44.000Z",
+    "reason": "SEC proposes amendments to cross-trading rule affecting crypto ETFs.",
+    "text": "🇺🇸 NEW: The SEC proposes amendments to the Investment Company Act’s cross-trading rule, which permits certain affiliate transactions.",
+    "url": "https://x.com/Cointelegraph/status/2108666498218598449",
+    "images": [
+      "https://pbs.twimg.com/media/HUN9APZWQAANjtw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791580349703-ybkbx0",
+    "source": "x",
+    "ts": "2026-10-09T21:12:29.703Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 76,
+    "originTimestamp": "2026-10-09T19:55:53.000Z",
+    "reason": "No notable crypto-related event or price movement.",
+    "text": "🇺🇸🇷🇺 BREAKING: The US has temporarily WAIVED sanctions on Russian diesel, including imports into America, until April 2027.\n\nThe Treasury's new license allows the sale, delivery and import of Russian-origin diesel through April 7, 2027.\n\nRussian diesel has been banned from the US",
+    "url": "https://x.com/coinbureau/status/2108664525490954711"
   }
 ]
