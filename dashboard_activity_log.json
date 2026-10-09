@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791433965303-jco2mg",
-    "source": "x",
-    "ts": "2026-10-08T04:32:45.303Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 72,
-    "originTimestamp": "2026-10-08T03:20:12.000Z",
-    "reason": "No factual claim or notable event.",
-    "text": "Two biggest life hacks today: \n1) FSD\n2) @bot",
-    "url": "https://x.com/elonmusk/status/2108050637766492433"
-  },
-  {
-    "id": "x-1791434537959-7vq7dk",
-    "source": "x",
-    "ts": "2026-10-08T04:42:17.959Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T04:36:24.000Z",
-    "reason": "No notable move or newsworthy event mentioned.",
-    "text": "Starlink’s affordable global internet could help millions by providing access to education and global markets\n\nReliable connectivity could make a huge difference in underserved communities around the world",
-    "url": "https://x.com/elonmusk/status/2108054653665517886"
-  },
-  {
-    "id": "x-1791434539588-7ufyux",
-    "source": "x",
-    "ts": "2026-10-08T04:42:19.588Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-08T04:30:34.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Yes",
-    "url": "https://x.com/elonmusk/status/2108054509234622525"
-  },
-  {
     "id": "x-1791434541027-blww5d",
     "source": "x",
     "ts": "2026-10-08T04:42:21.027Z",
@@ -7982,5 +7943,50 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Litecoin Appears to be under attack\n\n@Litecoin has just reported systematic moderation of posts on @Reddit’s flagship r/CryptoCurrency forum.\n\n\"There's a concerted effort on r/CryptoCurrency to ban anything positive about Litecoin. litecoin:native supporters simply posting",
     "url": "https://x.com/BSCNews/status/2108546633851883565"
+  },
+  {
+    "id": "x-1791552746130-89d169",
+    "source": "x",
+    "ts": "2026-10-09T13:32:26.130Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-09T13:31:43.000Z",
+    "reason": "Notable regulatory crackdown on crypto-related crimes.",
+    "text": "🇫🇷 HUGE: French authorities have recorded 90 crypto-related cases of kidnapping, extortion, threats and violent theft in just seven months.\n\nLeaked or stolen tax records that reveal the identities and holdings of crypto owners are believed to be behind the surge in \"$5 wrench",
+    "url": "https://x.com/Cointelegraph/status/2108550982741201252",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791552749990-2dpkuf",
+    "source": "x",
+    "ts": "2026-10-09T13:32:29.990Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T13:31:19.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "LIVE: Digital Credit, European Bond Meltdown, BTC On-Chain Data | BMTV Oct. 09, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2108550882078138655"
+  },
+  {
+    "id": "x-1791552754083-8z97bu",
+    "source": "x",
+    "ts": "2026-10-09T13:32:34.083Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-09T13:21:30.000Z",
+    "reason": "Indicates potential significant price movement or analyst commentary on Bitcoin.",
+    "text": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
+    "url": "https://x.com/DecryptMedia/status/2108548408839479421",
+    "images": [],
+    "video": null
   }
 ]
