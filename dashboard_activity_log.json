@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791404436609-0nba7y",
-    "source": "x",
-    "ts": "2026-10-07T20:20:36.609Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-07T20:07:00.000Z",
-    "reason": "On-chain data showing significant retail ecosystem growth for Avalanche.",
-    "text": "The Avalanche ecosystem is cooking...\n\nIt's widely know that @Avax' institutional play has exploded in 2026, but the same might be true for its retail ecosystem.\n\nAccording to data from @MSBIntel, $AVAX DEX volume has surged, seeing some $1.13B over the last week - the highest",
-    "url": "https://x.com/BSCNews/status/2107925680365137924",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107847133265018880/vid/avc1/1312x720/vZ1J65f9VshYkPNO.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107847133265018880/img/2rRzg__1ef7udLjA.jpg"
-    }
-  },
-  {
-    "id": "x-1791404438458-wuxrnb",
-    "source": "x",
-    "ts": "2026-10-07T20:20:38.458Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-07T20:04:59.000Z",
-    "reason": "No notable move, no newsworthy information provided.",
-    "text": "Bloomberg asked what's on Coinbase now. \n\nLiz Martin gave them the whole list. \n\n(Spoiler, it's everything.)",
-    "url": "https://x.com/coinbase/status/2107925173571620914"
-  },
-  {
     "id": "x-1791404440304-zlvodf",
     "source": "x",
     "ts": "2026-10-07T20:20:40.304Z",
@@ -7868,5 +7834,39 @@
       "https://pbs.twimg.com/media/HUKRkisbUAAQpQs.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791521570961-wea884",
+    "source": "x",
+    "ts": "2026-10-09T04:52:50.961Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T04:50:21.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 TODAY: Special guest TOFU (@togetherdotfun) brings social trading to the Cointelegraph Demo Day Series at CONNECT Singapore.    \n\nTOFU combines spot and perps trading, live token chat and gamified identities on one screen.",
+    "url": "https://x.com/Cointelegraph/status/2108419774166503585"
+  },
+  {
+    "id": "x-1791521573589-i7ngv3",
+    "source": "x",
+    "ts": "2026-10-09T04:52:53.589Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-09T04:48:34.000Z",
+    "reason": "Thai crypto ETF framework finalized, awaiting SEC approval.",
+    "text": "Thailand Clears The Way For Bitcoin And Ethereum ETFs\n\nThailand has finalized its crypto ETF framework, opening the door for domestic Bitcoin bitcoin:native and Ethereum ethereum:native funds.\n\nThe rules take effect October 16, but asset managers still need SEC approval before",
+    "url": "https://x.com/BSCNews/status/2108419324973338665",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108419202550046720/vid/avc1/1280x720/qwdpvtbzH90lBBiP.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108419202550046720/img/hH014NWNPG-mmQl6.jpg"
+    }
   }
 ]
