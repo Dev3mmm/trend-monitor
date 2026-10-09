@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791414159020-nahqoi",
-    "source": "x",
-    "ts": "2026-10-07T23:02:39.020Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-07T23:01:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Can Japan replace America as the crypto capital of the world?\n\nJapan has made leaps and strides when it comes to crypto adoption, arguably moving faster than any other country in the world.\n\nDon't get left behind ⬇️",
-    "url": "https://x.com/BSCNews/status/2107969469096354154"
-  },
-  {
-    "id": "x-1791414770025-e6vwy6",
-    "source": "x",
-    "ts": "2026-10-07T23:12:50.025Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-07T23:10:40.000Z",
-    "reason": "Grayscale's Zcash ETF shows significant inflow/outflow, affecting the market.",
-    "text": "⚡️ MARKET: Grayscale's Zcash ETF records an $8.5M daily outflow.",
-    "url": "https://x.com/Cointelegraph/status/2107971904694849802",
-    "images": [
-      "https://pbs.twimg.com/media/HUEFRcpXIAAyA3k.jpg",
-      "https://pbs.twimg.com/media/HUEFRo3XUAAf0D3.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791415338755-z98dus",
     "source": "x",
     "ts": "2026-10-07T23:22:18.755Z",
@@ -7901,5 +7869,40 @@
     "reason": "No notable crypto-related news, more of a physical attack unrelated to crypto.",
     "text": "Pattaya Crypto Robbery Raises Fresh Fears Over Physical Attacks\n\nThree gunmen are reported to have forcefully entered a luxurious house in Pattaya, Thailand, and held down a foreigner.\n\nIt is alleged that the criminals made him send cryptocurrency worth $820,000 before making off",
     "url": "https://x.com/BSCNews/status/2108479967931863087"
+  },
+  {
+    "id": "x-1791536543428-fe2nkt",
+    "source": "x",
+    "ts": "2026-10-09T09:02:23.428Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T09:01:19.000Z",
+    "reason": "Notable criminal action involving cryptocurrency theft",
+    "text": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+    "url": "https://x.com/DecryptMedia/status/2108482931249307717",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791536548021-p71v1l",
+    "source": "x",
+    "ts": "2026-10-09T09:02:28.021Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T09:01:03.000Z",
+    "reason": "Notable decision on cryptography by a prominent crypto figure.",
+    "text": "🚨 UPDATE: Charles Hoskinson rejects Vitalik Buterin’s case against lattice-based cryptography.\n\nArgues that decades of attacks are already priced into current parameters.",
+    "url": "https://x.com/Cointelegraph/status/2108482865650372945",
+    "images": [
+      "https://pbs.twimg.com/media/HULV_D5W8AAd7yH.png",
+      "https://pbs.twimg.com/media/HULV_b9XEAEmciE.png"
+    ],
+    "video": null
   }
 ]
