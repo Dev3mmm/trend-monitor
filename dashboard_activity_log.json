@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791438737255-7crgsg",
-    "source": "x",
-    "ts": "2026-10-08T05:52:17.255Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T05:45:41.000Z",
-    "reason": "Samsung's expansion into Solana and Sui token ecosystems represents a significant institutional adoption.",
-    "text": "🇺🇸 JUST IN: Samsung is bringing USDC on both Solana and Sui to 82 million US Galaxy devices, with the Solana rollout starting the last week of October.",
-    "url": "https://x.com/Cointelegraph/status/2108071312614723969",
-    "images": [
-      "https://pbs.twimg.com/media/HUFfrmoWkAEyLYo.jpg",
-      "https://pbs.twimg.com/media/HUFfry_W4AAywTu.jpg",
-      "https://pbs.twimg.com/media/HUFfr-JXkAAMBh2.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791438742474-l8nc4o",
-    "source": "x",
-    "ts": "2026-10-08T05:52:22.474Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T05:45:00.000Z",
-    "reason": "Notable failure and shutdown of a blockchain project.",
-    "text": "🚨LATEST: Pudgy Penguins’ parent company shuts down its Abstract blockchain.\n\nAbstract, the Ethereum Layer-2 launched by Pudgy Penguins parent company Igloo Inc., will shut down on December 15 after struggling to scale beyond consumer crypto.\n\nThe team says limited DeFi activity,",
-    "url": "https://x.com/coinbureau/status/2108071138962403586",
-    "images": [
-      "https://pbs.twimg.com/media/HUEfzgZaUAADqME.jpg",
-      "https://pbs.twimg.com/media/HUEf1kNaMAAD-5Y.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791439343617-oi0gd7",
     "source": "x",
     "ts": "2026-10-08T06:02:23.617Z",
@@ -8003,5 +7964,37 @@
     "reason": "Prediction with no basis given",
     "text": "JUST IN: €200 million Commodity Discovery Fund Founder says \"my target for Bitcoin before 2030, is still $1 million.\" 👀\n\n\"My old target was $100,000, but that was my prediction in 2021. Look at the supply of Bitcoin. It's getting so limited.\"",
     "url": "https://x.com/BitcoinMagazine/status/2108573962687193294"
+  },
+  {
+    "id": "x-1791559355363-k1bmy0",
+    "source": "x",
+    "ts": "2026-10-09T15:22:35.363Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 58,
+    "originTimestamp": "2026-10-09T14:23:54.000Z",
+    "reason": "Vague opinion with no factual claim or basis given.",
+    "text": "ARK Invest's Lorenzo Valente on his Bitcoin outlook:\n\n\"Regardless of the rates environment, regardless of liquidity and the macro outlook, I think Bitcoin is very well positioned.\"\n\n\"The outlook in the next year or two is extremely positive.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2108578129392640100"
+  },
+  {
+    "id": "x-1791559360991-6fgbqw",
+    "source": "x",
+    "ts": "2026-10-09T15:22:40.991Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-09T15:17:42.000Z",
+    "reason": "U.S. government action on Iran-linked cryptocurrency.",
+    "text": "Bessent Says U.S. May Seize About $1B in Iran-Linked Crypto This Week\n\nAccording to Newsmax, U.S. Treasury Secretary Scott Bessent said at the NPolicy Summit in Washington that the U.S. may seize about $1 billion in cryptocurrency linked to Iran this week, adding that authorities",
+    "url": "https://x.com/WuBlockchain/status/2108577654513479719",
+    "images": [
+      "https://pbs.twimg.com/media/HUMsFx8bcAAEEbb.jpg",
+      "https://pbs.twimg.com/media/HUMsGFZboAARHjF.jpg"
+    ],
+    "video": null
   }
 ]
