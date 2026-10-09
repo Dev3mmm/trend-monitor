@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791436323564-t3cfah",
-    "source": "x",
-    "ts": "2026-10-08T05:12:03.564Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-08T04:58:13.000Z",
-    "reason": "No notable move or concrete price information provided.",
-    "text": "Bounty of Beauty",
-    "url": "https://x.com/elonmusk/status/2108060588748497083"
-  },
-  {
-    "id": "x-1791436937084-kdr6ny",
-    "source": "x",
-    "ts": "2026-10-08T05:22:17.084Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-08T05:12:42.000Z",
-    "reason": "Indicates a significant security risk for a substantial portion of Bitcoin wallets.",
-    "text": "Europol Flags 30% Of Bitcoin Supply as Quantum Vulnerable\n\nEuropol (@Europol) has indicated that quantum computing is more of a danger to crypto wallets than the blockchain itself.\n\nAn estimated 6-6.9 million bitcoin:native are in addresses with public keys exposed. This accounts",
-    "url": "https://x.com/BSCNews/status/2108063010858377222",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108060714745438208/vid/avc1/1280x720/CCPDxbTjJo2S8NrK.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108060714745438208/img/qypRRynm_x775_oy.jpg"
-    }
-  },
-  {
     "id": "x-1791437547609-0pfj41",
     "source": "x",
     "ts": "2026-10-08T05:32:27.609Z",
@@ -8015,5 +7981,31 @@
       "https://pbs.twimg.com/media/HUMbX4MbAAA7Mn5.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791555735714-nan2n6",
+    "source": "x",
+    "ts": "2026-10-09T14:22:15.714Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 34,
+    "originTimestamp": "2026-10-09T13:47:43.000Z",
+    "reason": "No notable move in ETH price is within its recent range.",
+    "text": "Tutorial on Digital Credit: $STRD (\"Stride\")",
+    "url": "https://x.com/saylor/status/2108563271124926479"
+  },
+  {
+    "id": "x-1791555737612-svkw6w",
+    "source": "x",
+    "ts": "2026-10-09T14:22:17.612Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 20,
+    "originTimestamp": "2026-10-09T14:01:50.000Z",
+    "reason": "No notable move or news.",
+    "text": "One security tip.\n\nWhen you buy a hardware wallet (or download a new software wallet), leave it for a couple of weeks before moving any meaningful amount of funds to it. \n\nAnd follow the news in those weeks (and after), for hacks, etc. Hardware can be tempered with, software",
+    "url": "https://x.com/cz_binance/status/2108561409642574285"
   }
 ]
