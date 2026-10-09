@@ -1,78 +1,5 @@
 [
   {
-    "id": "x-1791451447445-17le2p",
-    "source": "x",
-    "ts": "2026-10-08T09:24:07.445Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T09:20:02.000Z",
-    "reason": "Possible quantum security threat to Ethereum.",
-    "text": "Crypto Could Face a Quantum Security Threat Sooner Than Expected\n\nEthereum (@ethereum) ethereum:native researcher Justin Drake (@drakefjustin) says crypto holders should prepare for a possible break of current public key cryptography.\n\nECDSA protects transaction approvals, but",
-    "url": "https://x.com/BSCNews/status/2108125256615690642",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108114316897763328/vid/avc1/1280x720/i5B22cJtBOBq2PFa.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108114316897763328/img/NBczU_jFHs6PHc0N.jpg"
-    }
-  },
-  {
-    "id": "x-1791451942128-0ztt72",
-    "source": "x",
-    "ts": "2026-10-08T09:32:22.128Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T09:30:45.000Z",
-    "reason": "Exploit of a significant amount of funds detected on the blockchain.",
-    "text": "🚨 ALERT: CertiK flags a suspected 79Vault exploit moving $12.5M in BNB via a privileged function.",
-    "url": "https://x.com/Cointelegraph/status/2108127950700683477",
-    "images": [
-      "https://pbs.twimg.com/media/HUGTMXzXoAAoHT3.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791452562280-4omdsn",
-    "source": "x",
-    "ts": "2026-10-08T09:42:42.280Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T09:40:41.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "🇸🇬 TOKEN2049: Fidelity’s Cynthia Lo Bessette says 24/7 prediction markets react to news overnight, helping traditional markets figure out fair prices when they reopen.",
-    "url": "https://x.com/Cointelegraph/status/2108130452179423260"
-  },
-  {
-    "id": "x-1791452565208-p88e06",
-    "source": "x",
-    "ts": "2026-10-08T09:42:45.208Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T09:38:09.000Z",
-    "reason": "Notable token distribution and value transfer on a new stablecoin.",
-    "text": "Hyperliquid Unlocks $330M HYPE in its Largest Distribution Yet\n\nHyperliquid (@HyperliquidX) Labs has unstaked 3.75 million hyperliquid:native tokens worth roughly $330 million.\n\nHalf of the allocation has already reached five OTC buyer wallets. Each wallet received 375,000 HYPE",
-    "url": "https://x.com/BSCNews/status/2108129814817448307",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108128901767794688/vid/avc1/1280x720/tJA0uGoR2TngLIf5.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108128901767794688/img/Da5FE7Oi2_WYIg-I.jpg"
-    }
-  },
-  {
     "id": "x-1791453069657-ojxnoh",
     "source": "x",
     "ts": "2026-10-08T09:51:09.658Z",
@@ -7984,5 +7911,65 @@
     "reason": "TWITTER TWEET NOT PROVIDED",
     "text": "🤔",
     "url": "https://x.com/binance/status/2108618756058427548"
+  },
+  {
+    "id": "x-1791569529660-ucukga",
+    "source": "x",
+    "ts": "2026-10-09T18:12:09.660Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T18:10:45.000Z",
+    "reason": "Ledger investigating suspected crypto thefts.",
+    "text": "🚨 LATEST: Ledger is investigating losses linked to reseller CryptoBilis, suspending its sales and urging recent buyers to avoid setup or consider moving funds to new wallets. \n\nResearchers estimate over $72 million to $86 million in suspected thefts, but the connection remains",
+    "url": "https://x.com/Cointelegraph/status/2108621200347771062",
+    "images": [
+      "https://pbs.twimg.com/media/HUNTzmWXAAAhy7x.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791569532585-ulk70s",
+    "source": "x",
+    "ts": "2026-10-09T18:12:12.585Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-09T18:09:41.000Z",
+    "reason": "Memes are not news.",
+    "text": "Listen,\n\nBeauty will fade.\n\nIt fades so fast.\n\nBeauty, romance, and love are biological tricks nature uses to harvest your seeds to ensure the continuity of the human species.\n\nThe biology of reproduction is a deceptive mechanism. Nature is selfish. It doesn't care about you; it",
+    "url": "https://x.com/amerix/status/2108620933002932459"
+  },
+  {
+    "id": "x-1791569535466-7el3bl",
+    "source": "x",
+    "ts": "2026-10-09T18:12:15.466Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-09T18:07:15.000Z",
+    "reason": "Notable regulatory move affecting crypto and prediction markets.",
+    "text": "Seeks Approval for US Prediction Markets and Crypto Derivatives",
+    "url": "https://x.com/DecryptMedia/status/2108620320848404880",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791569538749-aosqlh",
+    "source": "x",
+    "ts": "2026-10-09T18:12:18.749Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-09T18:04:00.000Z",
+    "reason": "No notable use of a token or regulatory move is presented.",
+    "text": "Five days of activity in seven months...\n\nSince launching in early March, the one spot @Polkadot ETF has seen only 5 total days of trading activity, the latest falling on September 10.\n\nThat said, all but one of these days has been positive, which is certainly impressive in some",
+    "url": "https://x.com/BSCNews/status/2108619502535508220"
   }
 ]
