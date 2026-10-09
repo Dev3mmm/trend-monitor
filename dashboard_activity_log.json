@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791437553974-959nou",
-    "source": "x",
-    "ts": "2026-10-08T05:32:33.974Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T05:27:31.000Z",
-    "reason": "15-year-old Bitcoin wallet suddenly active with significant value gain.",
-    "text": "Satoshi Era Bitcoin Wakes Up After 15 Years With 582,198% Gain\n\nA dormant Bitcoin wallet from 2011 has suddenly become active after more than 15 years\n\nGalaxy Research (@glxyresearch) reported that 28.46 bitcoin:native, now worth about $2.43 million, moved in block 970281.\n\nBack",
-    "url": "https://x.com/BSCNews/status/2108066739640782990",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108065164331565056/vid/avc1/1280x720/aRj1EFbpTR3zUQqb.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108065164331565056/img/BTfoOX7vWTFq7Jqj.jpg"
-    }
-  },
-  {
-    "id": "x-1791438155571-qwhpd1",
-    "source": "x",
-    "ts": "2026-10-08T05:42:35.571Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T05:37:51.000Z",
-    "reason": "Notable statement from a controversial crypto figure about bank exit.",
-    "text": "🇸🇬 TOKEN2049: Justin Sun says banks will \"gradually exit\" the market because people born after 2000 won't \"waste their time on banks anymore.\"",
-    "url": "https://x.com/Cointelegraph/status/2108069342458036589",
-    "images": [
-      "https://pbs.twimg.com/media/HUFd4yuagAAiD-j.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791438160446-nlqhm4",
     "source": "x",
     "ts": "2026-10-08T05:42:40.446Z",
@@ -8008,5 +7969,45 @@
       "https://pbs.twimg.com/media/HUMk22cXwAAiytg.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791558138301-q6mbu0",
+    "source": "x",
+    "ts": "2026-10-09T15:02:18.301Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-09T15:01:14.000Z",
+    "reason": "Specific institutional investment in AI cloud infrastructure.",
+    "text": "🇲🇾 LATEST: Bitdeer AI secures a 67MW Malaysia data center for NVIDIA GB300 systems, lifting  AI cloud pipeline above $10B.",
+    "url": "https://x.com/Cointelegraph/status/2108573506958979362",
+    "images": [
+      "https://pbs.twimg.com/media/HUMobSIWcAAZe5r.png",
+      "https://pbs.twimg.com/media/HUMobf1WkAEXVUs.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791558143082-ndyeb2",
+    "source": "x",
+    "ts": "2026-10-09T15:02:23.082Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-09T14:56:42.000Z",
+    "reason": "This tweet describes a significant new feature in the crypto space, integrating wallet functionality with lending markets.",
+    "text": "Aave Introduces MetaMask Agent Wallet Integration For On-Chain Credit Markets\n\n@Aave introduces a Model Context Protocol (MCP) server built to integrate directly with @MetaMask Agent Wallet, enabling automated lending pools to interact with autonomous AI agents.\n\nThis",
+    "url": "https://x.com/BSCNews/status/2108572369161740508",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108570334668431360/vid/avc1/1316x720/j6ZI_b9aD_bWetEx.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108570334668431360/img/G3z4NVraEJ9TNIt5.jpg"
+    }
   }
 ]
