@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791474168324-5hd8h8",
-    "source": "x",
-    "ts": "2026-10-08T15:42:48.324Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 57,
-    "originTimestamp": "2026-10-08T14:44:50.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Thank you, Rahul. \n\nThis is indeed troubling.",
-    "url": "https://x.com/elonmusk/status/2108221292788981881"
-  },
-  {
-    "id": "x-1791474172233-57p1t6",
-    "source": "x",
-    "ts": "2026-10-08T15:42:52.233Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-08T15:31:01.000Z",
-    "reason": "Prediction without evidence or data.",
-    "text": "JUST IN: There's now a 59% chance Bitcoin will be above $90,000 this year, according to Polymarket⁠.com 👀\n\nHODL ✊",
-    "url": "https://x.com/BitcoinMagazine/status/2108218615321247906"
-  },
-  {
     "id": "x-1791474176402-h8ynz2",
     "source": "x",
     "ts": "2026-10-08T15:42:56.402Z",
@@ -7929,5 +7903,39 @@
       "https://pbs.twimg.com/media/HUTLL-2XoAAViN3.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791668525083-49ma5p",
+    "source": "x",
+    "ts": "2026-10-10T21:42:05.083Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-10T21:40:00.000Z",
+    "reason": "No concrete or specific verified event or move.",
+    "text": "🚨SHOCKING: Hardware wallets have been hit by at least 10 incidents in 2026, and the two biggest drained an estimated $200 MILLION.\n\nHere's the recap:\n\n1. Coldcard (Jul): A 5-year-old bug made seed phrases guessable, letting attackers drain about $116 MILLION offline\n\n2.",
+    "url": "https://x.com/coinbureau/status/2109036248279187637"
+  },
+  {
+    "id": "x-1791668528902-zu0c8j",
+    "source": "x",
+    "ts": "2026-10-10T21:42:08.902Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-10T21:35:00.000Z",
+    "reason": "Significant token buyback program announced by a major protocol.",
+    "text": "PYTH token buybacks are about to go nuts.\n\n@PythNetwork has announced that, following a successful vote, 100% of PythDAO's earned funds are now used to buy back the PYTH token. \n\nThis works out to a 3x increase from the previous 30% allocated to buybacks.",
+    "url": "https://x.com/BSCNews/status/2109034990109356371",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108516836392194048/vid/avc1/1312x720/ISd8mcSUtBcOqDxl.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108516836392194048/img/WLST9dDoJiUbJn5Q.jpg"
+    }
   }
 ]
