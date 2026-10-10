@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791462727983-imq6qb",
-    "source": "x",
-    "ts": "2026-10-08T12:32:07.983Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T12:29:58.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "CT Trading Competition IRL | Coinbase Champions",
-    "url": "https://x.com/coinbase/status/2108173053847109965"
-  },
-  {
-    "id": "x-1791462732681-c4ed1i",
-    "source": "x",
-    "ts": "2026-10-08T12:32:12.681Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T12:27:57.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Chainlink has solved the Vault distribution problem\n\n@Chainlink has launched CCIP Vault Adapters that enable yield and asset vaults on a native chain to accept one-click deposits from investors on 80+ linked blockchains.\n\nUsing the Cross-Chain Interoperability Protocol (CCIP),",
-    "url": "https://x.com/BSCNews/status/2108172547053224157"
-  },
-  {
     "id": "x-1791462736381-fn2x7w",
     "source": "x",
     "ts": "2026-10-08T12:32:16.381Z",
@@ -7976,5 +7950,37 @@
     "reason": "No notable crypto-related content.",
     "text": "🇺🇸🇷🇺🇺🇦JUST IN: Trump THANKS Putin for the Russian diesel deal, then replies \"Okay.\" when told Zelensky called him WEAK.\n\nZelensky's criticism comes as the US temporarily waives sanctions on Russian diesel until April 2027.",
     "url": "https://x.com/coinbureau/status/2108731741577904140"
+  },
+  {
+    "id": "x-1791597693807-kx9ylz",
+    "source": "x",
+    "ts": "2026-10-10T02:01:33.807Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-10T02:00:47.000Z",
+    "reason": "Notable regulatory move affecting the crypto and gambling industries.",
+    "text": "🇺🇸 REGULATION: The CFTC wants sports, political, cultural and weather bets officially labeled swaps, putting prediction markets under its exclusive control while casino games get carved out.",
+    "url": "https://x.com/Cointelegraph/status/2108739490223190100",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791597698418-erbsvm",
+    "source": "x",
+    "ts": "2026-10-10T02:01:38.418Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 14,
+    "originTimestamp": "2026-10-10T01:47:00.000Z",
+    "reason": "Stellar highlighting its mission to provide financial services to the unbanked.",
+    "text": "@StellarOrg is one of very few blockchains fulfilling blockchain's real mission.\n\nHere's how Stellar is banking the unbanked... ⬇️",
+    "url": "https://x.com/BSCNews/status/2108736019818246336",
+    "images": [],
+    "video": null
   }
 ]
