@@ -2696,5 +2696,19 @@
     "fetchedAt": "2026-10-10T08:42:17.143Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-814544d77748f5de",
+    "title": "Introducing NewL1 MEV Solution - TEE Gateway",
+    "url": "https://forum.bnbchain.org/t/introducing-newl1-mev-solution-tee-gateway/5589",
+    "description": "NewL1 TEE Gateway: Trusted Ordering, SubBlock Streaming, and Low-Latency Block Production The TEE Gateway places encrypted transaction ingress, deterministic ordering, SubBlock generation, and final block packaging inside an attestable, VM-based trusted execution environment (TEE). Each validator selects a primary and a standby Gateway off-chain, both in the same region. The primary continuously s",
+    "publishedAt": "2026-10-10T10:03:21.000Z",
+    "source": "BNB Chain Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-10-10T10:12:30.865Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
