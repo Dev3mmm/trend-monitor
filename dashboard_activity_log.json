@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791472334969-mm3s4d",
-    "source": "x",
-    "ts": "2026-10-08T15:12:14.969Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T15:05:15.000Z",
-    "reason": "Memes and irrelevant to cryptocurrency news.",
-    "text": "DIABETES is BRUTAL.\n\nFix your diet.",
-    "url": "https://x.com/amerix/status/2108212129732129216"
-  },
-  {
-    "id": "x-1791472338637-an7u7n",
-    "source": "x",
-    "ts": "2026-10-08T15:12:18.637Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-08T15:04:10.000Z",
-    "reason": "Noteworthy institutional adoption with direct user integration.",
-    "text": "Aave Adds BNB Chain Stablecoin Support to Mobile App\n\n@Aave now lets users deposit $USDC and $USDT balances directly from @BNBCHAIN in its native consumer mobile app. \n\nThis implementation gives waitlisted users instant connectivity through native access codes and redirects",
-    "url": "https://x.com/BSCNews/status/2108211857353785585",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108211272240025600/vid/avc1/1316x720/oJ0zIQORgiMY1MYP.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108211272240025600/img/j47ljuyHkjtZPTf8.jpg"
-    }
-  },
-  {
     "id": "x-1791472957087-nqfkuv",
     "source": "x",
     "ts": "2026-10-08T15:22:37.087Z",
@@ -7926,6 +7892,40 @@
     "images": [
       "https://pbs.twimg.com/media/HUSXGXTaQAAbU5y.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1791664309776-40jh6w",
+    "source": "x",
+    "ts": "2026-10-10T20:31:49.776Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-10T20:30:50.000Z",
+    "reason": "Notable institutional action with a DeFi protocol shutting off new deposits and allowing users to withdraw their funds.",
+    "text": "🚨 JUST IN: Relay is retiring its Vaults, shutting off new deposits and giving users until Dec. 31 to pull funds through the withdrawal page.",
+    "url": "https://x.com/Cointelegraph/status/2109018841615421540",
+    "images": [
+      "https://pbs.twimg.com/media/HUS9dNlW0AAJ6o0.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791664311654-9cczp1",
+    "source": "x",
+    "ts": "2026-10-10T20:31:51.654Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-10T20:26:00.000Z",
+    "reason": "Specific crypto partnership announcement.",
+    "text": "@axisrobotics just announced a brand-new partnership with @lotuscars.\n\nWhy did @PiCoreTeam $PI Ventures choose to invest, enough though it's not a crypto platform? ⬇️",
+    "url": "https://x.com/BSCNews/status/2109017625392992722",
+    "images": [],
     "video": null
   }
 ]
