@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791466401535-aqks79",
-    "source": "x",
-    "ts": "2026-10-08T13:33:21.535Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 27,
-    "originTimestamp": "2026-10-08T13:05:51.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "First time on a @united transatlantic flight equipped with free @Starlink service. The experience is INCREDIBLE. Thank you @SpaceX @elonmusk.",
-    "url": "https://x.com/elonmusk/status/2108188722634100983"
-  },
-  {
     "id": "x-1791466405374-hf2rhb",
     "source": "x",
     "ts": "2026-10-08T13:33:25.374Z",
@@ -8018,5 +8005,26 @@
       "https://pbs.twimg.com/media/HUPqBZea8AAniWu.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791609725095-et1vel",
+    "source": "x",
+    "ts": "2026-10-10T05:22:05.095Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-10T05:18:00.000Z",
+    "reason": "Notable jump in network revenue for the Avalanche blockchain.",
+    "text": "Avalanche making six-figures a month...\n\nThe @Avax blockchain, according to data from @chainspect_app, saw roughly $415,000 in network revenue over the past month.\n\nThe figure sees a +4% increase month-on-month for the $AVAX L1, which has made serious progress on its",
+    "url": "https://x.com/BSCNews/status/2108789119857963220",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108514526773608448/vid/avc1/1312x720/nf-vo4Xzlb2FO2rp.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108514526773608448/img/M5r0OyXpupyrOr4S.jpg"
+    }
   }
 ]
