@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791350547432-unhfhz",
-    "source": "x",
-    "ts": "2026-10-07T05:22:27.432Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-07T05:22:01.000Z",
-    "reason": "Significant change in the number of active validators impacting staked ETH.",
-    "text": "Ethereum Staking Surges While 112,000 Validators Disappear\n\nEthereum started 2026 with nearly 975,000 active validators, compared with roughly 863,000 now.\n\nDespite the decline, staked ethereum:native has increased from about 36.3 million to 43.7 million.\n\nMore than 7 million ETH",
-    "url": "https://x.com/BSCNews/status/2107702969076449694",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2107699016851238913/vid/avc1/1280x720/aIDSgXqQtDFOSFX_.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107699016851238913/img/yMvMmsJtYvf5D5Kg.jpg"
-    }
-  },
-  {
     "id": "x-1791350549032-j5tmtg",
     "source": "x",
     "ts": "2026-10-07T05:22:29.032Z",
@@ -7936,5 +7915,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108516320115388416/img/JRPAvfXACrL6DKRh.jpg"
     }
+  },
+  {
+    "id": "x-1791657130200-c0i98f",
+    "source": "x",
+    "ts": "2026-10-10T18:32:10.200Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-10T18:30:52.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 LATEST: CryptoQuant analyst Darkfost says Bitcoin is stuck on the $80,500 line where the average investor breaks even, just like late 2025.",
+    "url": "https://x.com/Cointelegraph/status/2108988650704806218"
   }
 ]
