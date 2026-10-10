@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791474734912-96rcn9",
-    "source": "x",
-    "ts": "2026-10-08T15:52:14.912Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-08T15:36:55.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "Welcome home!",
-    "url": "https://x.com/elonmusk/status/2108223791138734327"
-  },
-  {
     "id": "x-1791474742333-8rn3r7",
     "source": "x",
     "ts": "2026-10-08T15:52:22.333Z",
@@ -7940,5 +7927,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108516945993633792/img/lfQiVYU1mtv53sE2.jpg"
     }
+  },
+  {
+    "id": "x-1791675136815-txljz5",
+    "source": "x",
+    "ts": "2026-10-10T23:32:16.815Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-10T23:30:49.000Z",
+    "reason": "Specific institutional information about crypto holdings.",
+    "text": "🇺🇸 UPDATE: The US Government's crypto holdings are now down $16B since its peak a year ago.",
+    "url": "https://x.com/Cointelegraph/status/2109064135711363426",
+    "images": [
+      "https://pbs.twimg.com/media/HUTmpxVWgAAQ-yn.jpg"
+    ],
+    "video": null
   }
 ]
