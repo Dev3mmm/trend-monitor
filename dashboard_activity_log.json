@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791465128640-vgjf4k",
-    "source": "x",
-    "ts": "2026-10-08T13:12:08.640Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T13:04:49.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Next up, @izebel_eth is here for his walkout.\n\nHe'll be focusing on trading HYPE.",
-    "url": "https://x.com/coinbase/status/2108181822509367324"
-  },
-  {
-    "id": "x-1791465747917-7r4tui",
-    "source": "x",
-    "ts": "2026-10-08T13:22:27.917Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 102,
-    "originTimestamp": "2026-10-08T11:40:23.000Z",
-    "reason": "No relevant crypto content or price movement mentioned.",
-    "text": "Western civilization is worth defending.",
-    "url": "https://x.com/elonmusk/status/2108185571071807718"
-  },
-  {
     "id": "x-1791465751983-sa9sxb",
     "source": "x",
     "ts": "2026-10-08T13:22:31.983Z",
@@ -8003,5 +7977,39 @@
     "reason": "No specific event or move mentioned.",
     "text": "Obviously",
     "url": "https://x.com/elonmusk/status/2108768021527613825"
+  },
+  {
+    "id": "x-1791605514413-m98pr5",
+    "source": "x",
+    "ts": "2026-10-10T04:11:54.413Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-10T04:07:00.000Z",
+    "reason": "Institutional support and strong price increase for QNT token.",
+    "text": "Another major exchange adds support for $QNT.\n\n@justinsuntron's @HTX_Global is the latest exchange to announce the listing of @quantnetwork's native token.\n\nThe asset is on fire since announcing a key institutional partnership with @TCHtweets, now up +250% on the month...",
+    "url": "https://x.com/BSCNews/status/2108771252089565472",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108514423602114560/vid/avc1/1312x720/1g-289WrL9CP7rDT.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108514423602114560/img/jZnhNHqv2HOE2gAS.jpg"
+    }
+  },
+  {
+    "id": "x-1791605519369-r49g4f",
+    "source": "x",
+    "ts": "2026-10-10T04:11:59.369Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-10T04:01:58.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Hyperliquid's Cumulative Protocol Revenue Exceeds $1.4 Billion, With Over $1.26 Billion Spent on Open-Market HYPE Buybacks\n\nAccording to an onchain perpetuals market research report by Castle Labs, Hyperliquid's cumulative protocol revenue has exceeded $1.4 billion, with more",
+    "url": "https://x.com/WuBlockchain/status/2108769985510126027"
   }
 ]
