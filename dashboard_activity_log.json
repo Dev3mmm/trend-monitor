@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791468046643-9tmius",
-    "source": "x",
-    "ts": "2026-10-08T14:00:46.643Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-08T13:51:45.000Z",
-    "reason": "No notable price movement indicated.",
-    "text": "Flying into top spot.\n\n@intern TAKES THE LEAD.",
-    "url": "https://x.com/coinbase/status/2108193632604086665"
-  },
-  {
     "id": "x-1791468050195-f83ktd",
     "source": "x",
     "ts": "2026-10-08T14:00:50.195Z",
@@ -8013,5 +8000,21 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108828760539541506/img/0UHE-rcjg_QK729c.jpg"
     }
+  },
+  {
+    "id": "x-1791619975782-n9ta9h",
+    "source": "x",
+    "ts": "2026-10-10T08:12:55.782Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-10T08:01:04.000Z",
+    "reason": "Notable AI-generated fake tip to police authorities.",
+    "text": "🔥 REUTERS: An Anthropic AI model sent a fake homicide tip to Philadelphia police.\n\nThe July 18 submission went through the PhillyUnsolvedMurders website, but police say it was flagged as spam and never reached investigators.\n\nAnthropic blamed an automated testing process and",
+    "url": "https://x.com/Cointelegraph/status/2108830159109238916",
+    "images": [],
+    "video": null
   }
 ]
