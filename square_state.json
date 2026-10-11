@@ -1586,9 +1586,24 @@
     "x-1791702143986-2h9tzy",
     "x-1791702722443-pgqgou",
     "x-1791703921719-y4iydq",
-    "x-1791711129192-sji0cm"
+    "x-1791711129192-sji0cm",
+    "x-1791714148698-oyayaa",
+    "x-1791714154158-hlo0vc"
   ],
-  "queue": [],
+  "queue": [
+    {
+      "text": "🔥JUST IN: Vitalik Buterin claims without AI, Ethereum's roadmap could have taken until 2040 or even 2050.\n\nThe Ethereum co-founder says they're \"getting massive speedups\" as AI does a lot of research and is \"starting to do a lot of coding.\"",
+      "url": "https://x.com/coinbureau/status/2109226250632143314",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2109217018406965248/vid/avc1/1280x720/igx21-en77JU3uOQ.mp4?tag=29",
+        "duration": 52,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109217018406965248/img/-08EUkoPNHRQ3k3d.jpg"
+      },
+      "enqueuedAt": 1791714154216
+    }
+  ],
   "posted": [
     {
       "text": "NEW: 🇧🇬 Bulgaria's First Investment Bank will offer Bitcoin and crypto assets to over 1 million clients 🚀",
@@ -1721,7 +1736,13 @@
       "at": 1791711133830,
       "status": "failed",
       "error": "ed to S3, polling status...\n  Processing... (1/10)\n  Processing... (2/10)\n  Processing... (3/10)\n  Processing... (4/10)\n  Processing... (5/10)\n  Processing... (6/10)\n  Processing... (7/10)\n  Processing... (8/10)\n  Processing... (9/10)\n  Processing... (10/10)\n\n\nFailed: Poll timed out after 10 retries"
+    },
+    {
+      "text": "Papertrade Faces Allegations of BBO Price Manipulation on HyperEVM  \n\nX user @Dr_bobo54 alleged that two wallets exploited Papertrade’s pricing mechanism by using roughly $20 million orders on Hyperliquid to move ETH quotes by 10–20 basis points while holding much larger long",
+      "at": 1791714154216,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/376106865737203?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791711133830
+  "lastPostAt": 1791714154216
 }
