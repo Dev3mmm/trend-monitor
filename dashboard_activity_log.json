@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791486821290-vjsjqk",
-    "source": "x",
-    "ts": "2026-10-08T19:13:41.290Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T19:10:00.000Z",
-    "reason": "The tweet is vague and promotional without providing specific news.",
-    "text": "🔥 NEW: Netflix released the first trailer for “The Altruists,” its series about the FTX scandal starring Julia Garner and Anthony Boyle, premiering November 19.",
-    "url": "https://x.com/Cointelegraph/status/2108273723685875805",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108168365252481024/vid/avc1/1280x720/WQYkaDXhLTnXKmW9.mp4?tag=29",
-      "duration": 123,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HUG4eCHa4AAqe4n.jpg"
-    }
-  },
-  {
     "id": "x-1791486823728-wzal8g",
     "source": "x",
     "ts": "2026-10-08T19:13:43.728Z",
@@ -7974,5 +7953,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201550623043584/img/lYipTAuiHxq7ndxF.jpg"
     }
+  },
+  {
+    "id": "x-1791740522328-z4bsop",
+    "source": "x",
+    "ts": "2026-10-11T17:42:02.328Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-11T17:37:15.000Z",
+    "reason": "Concrete, verifiable price milestone outside recent range.",
+    "text": "JUST IN: $84,110 Bitcoin 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2109337547000205535",
+    "images": [
+      "https://pbs.twimg.com/media/HUXfUffXcAAMSiR.jpg"
+    ],
+    "video": null
   }
 ]
