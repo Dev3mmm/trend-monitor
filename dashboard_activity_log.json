@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791486823728-wzal8g",
-    "source": "x",
-    "ts": "2026-10-08T19:13:43.728Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 100,
-    "originTimestamp": "2026-10-08T17:33:12.000Z",
-    "reason": "Ad推广信息，无实质性内容。",
-    "text": "Grok @Bot works well on your phone. Just download the app from Apple or Android.",
-    "url": "https://x.com/elonmusk/status/2108272088582676627"
-  },
-  {
     "id": "x-1791487339374-7tkz3y",
     "source": "x",
     "ts": "2026-10-08T19:22:19.374Z",
@@ -7969,6 +7956,24 @@
     "url": "https://x.com/BitcoinMagazine/status/2109337547000205535",
     "images": [
       "https://pbs.twimg.com/media/HUXfUffXcAAMSiR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791741110874-66ioo6",
+    "source": "x",
+    "ts": "2026-10-11T17:51:50.874Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-11T17:46:54.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨ALERT: Bitcoin just broke over $84,000.\n\nNearly $83 MILLION in SHORTS just got liquidated in the last 4 hours.",
+    "url": "https://x.com/coinbureau/status/2109339974332203328",
+    "images": [
+      "https://pbs.twimg.com/media/HUXhODMbIAExoqe.jpg"
     ],
     "video": null
   }
