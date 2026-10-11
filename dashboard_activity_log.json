@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791483749565-rj0eee",
-    "source": "x",
-    "ts": "2026-10-08T18:22:29.565Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T18:18:42.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "JUST IN: Bitcoin falls below $81,000 as Brent Crude Oil climbs to a monthly high of $105/barrel. 👀\n\nHODL! ✊",
-    "url": "https://x.com/BitcoinMagazine/status/2108260813031325984"
-  },
-  {
-    "id": "x-1791483753001-38u0wc",
-    "source": "x",
-    "ts": "2026-10-08T18:22:33.001Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-08T18:17:15.000Z",
-    "reason": "New use of a token/stablecoin in the DeFi space",
-    "text": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
-    "url": "https://x.com/DecryptMedia/status/2108260449238012216",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791483757530-jq5w4v",
     "source": "x",
     "ts": "2026-10-08T18:22:37.530Z",
@@ -7984,5 +7955,39 @@
       "https://pbs.twimg.com/media/HUW4w9fXcAEkb_s.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791731531946-z1c2xq",
+    "source": "x",
+    "ts": "2026-10-11T15:12:11.946Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-11T15:11:00.000Z",
+    "reason": "Notable change in emissions for Filecoin's native token.",
+    "text": "It's about to be a big week for Filecoin's filecoin:native ...\n\nOn October 15, the six-year vesting schedule for Protocol Labs and the @Filecoin Foundation will come to an end.\n\nThe termination will see annual filecoin:native emissions drop by a staggering ~75%.\n\nThis could be",
+    "url": "https://x.com/BSCNews/status/2109300741055856836",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109201387468795904/vid/avc1/1312x720/phlTOGMabWXhDT95.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201387468795904/img/z2pn1bZgLvH5712O.jpg"
+    }
+  },
+  {
+    "id": "x-1791731536412-om2gcc",
+    "source": "x",
+    "ts": "2026-10-11T15:12:16.412Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-11T15:10:00.000Z",
+    "reason": "No notable crypto-related news or move detected.",
+    "text": "🇺🇸 UPDATE: Treasury Secretary Bessent says the Russian diesel deal will go ahead, rejecting claims that Congress can block it.\n\n“We’re going to do it with all the legal authorities we have,” he says.\n\nBessent says that applies “whether it’s an old bill or the current Lindsey",
+    "url": "https://x.com/coinbureau/status/2109300489389240601"
   }
 ]
