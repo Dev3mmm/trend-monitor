@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1791476556408-5e1nmj",
-    "source": "x",
-    "ts": "2026-10-08T16:22:36.408Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T16:19:36.000Z",
-    "reason": "Notable government move involving stolen cryptocurrency.",
-    "text": "🚨ALERT: The U.S. government just MOVED over $1 BILLION in Bitcoin linked to the Bitfinex hack, per LookOnChain.\n\nA government-linked wallet transferred 12,267 BTC on October 8, following roughly $670 MILLION in crypto movements over the previous 24 hours.\n\nSome assets were sent",
-    "url": "https://x.com/coinbureau/status/2108230843332509729",
-    "images": [
-      "https://pbs.twimg.com/media/HUHws2obIAAdDwx.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791476560494-pg9y5p",
-    "source": "x",
-    "ts": "2026-10-08T16:22:40.494Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T16:18:40.000Z",
-    "reason": "Liquidation event with significant crypto market impact mentioned.",
-    "text": "🚨 ALERT: Bitcoin $BTC falls below $81,000.\n\n$488.9 million liquidated from the crypto market in the past hour.",
-    "url": "https://x.com/Cointelegraph/status/2108230607008395318",
-    "images": [
-      "https://pbs.twimg.com/media/HUHwkFFWMAEd8Ml.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791476564578-rkrqff",
     "source": "x",
     "ts": "2026-10-08T16:22:44.578Z",
@@ -7937,5 +7901,39 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "⚡ JUST IN: Elon Musk says he has \"no idea how to make microchips,\" but his companies will probably \"figure out how to make chips better than anyone.\"",
     "url": "https://x.com/Cointelegraph/status/2109109441610002671"
+  },
+  {
+    "id": "x-1791687721842-0y5p7w",
+    "source": "x",
+    "ts": "2026-10-11T03:02:01.842Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-11T03:00:51.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "One app to rule your finances.",
+    "url": "https://x.com/binance/status/2109116995819987302"
+  },
+  {
+    "id": "x-1791687724418-t9sva9",
+    "source": "x",
+    "ts": "2026-10-11T03:02:04.418Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-11T02:54:06.000Z",
+    "reason": "Notable perspective on tokenization's potential to disrupt banking industry.",
+    "text": "🔥LATEST: Tom Lee says tokenization could disrupt the ENTIRE banking industry.\n\nAsset managers are embracing tokenization to unlock NEW CAPITAL and launch financial products.\n\nBut the real disruption goes beyond assets.\n\n“You could almost tokenize everything that a bank does.”",
+    "url": "https://x.com/coinbureau/status/2109115297005228040",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109114129273556992/vid/avc1/1280x720/mlB0PdwGEWTCb5sf.mp4?tag=29",
+      "duration": 180,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109114129273556992/img/gzjVMbbxWzzMDrj1.jpg"
+    }
   }
 ]
