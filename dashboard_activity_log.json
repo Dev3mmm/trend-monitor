@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791476564578-rkrqff",
-    "source": "x",
-    "ts": "2026-10-08T16:22:44.578Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T16:16:01.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
-    "url": "https://x.com/DecryptMedia/status/2108229940961325536",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791476569170-68gbd1",
-    "source": "x",
-    "ts": "2026-10-08T16:22:49.170Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T16:16:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Ondo has promised a MASSIVE announcement today.\n\nBoth the @Ondo and @OndoPerps X accounts have teased a major announcement arriving today, October 8.\n\nGiven the cryptic wording of \"One market closer to everything onchain\" and \"Think in trillions\"...\n\n... we might presume that",
-    "url": "https://x.com/BSCNews/status/2108229935232082413"
-  },
-  {
     "id": "x-1791476573585-yp8y33",
     "source": "x",
     "ts": "2026-10-08T16:22:53.585Z",
@@ -7934,6 +7905,46 @@
       "duration": 180,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109114129273556992/img/gzjVMbbxWzzMDrj1.jpg"
+    }
+  },
+  {
+    "id": "x-1791689529239-hqoctt",
+    "source": "x",
+    "ts": "2026-10-11T03:32:09.239Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-11T03:30:52.000Z",
+    "reason": "Notable response from a high-ranking government official regarding a controversial political figure.",
+    "text": "🇺🇸 JUST IN: Treasury Secretary Scott Bessent fires back at Senator Elizabeth Warren, citing her \"complete paucity of knowledge about financial markets\" and offering to add \"Fixed Income for Dummies\" to her FX tutorial if she passes.",
+    "url": "https://x.com/Cointelegraph/status/2109124546053775826",
+    "images": [
+      "https://pbs.twimg.com/media/HUUdlv2XYAAKItn.jpg",
+      "https://pbs.twimg.com/media/HUUdmH8XYAAoAje.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791689534785-u73xgx",
+    "source": "x",
+    "ts": "2026-10-11T03:32:14.785Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-11T03:29:00.000Z",
+    "reason": "No actual details or timelines provided, mere announcement with no concrete action or move.",
+    "text": "America is about to start colonising the moon...\n\nA tweet from @realDonaldTrump's @WhiteHouse has promised that the United States will \"establish a permanent presence on the moon\".\n\nNo actual details or timelines were shared with the post.\n\nIf this happens, we dread to think the",
+    "url": "https://x.com/BSCNews/status/2109124076891734078",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108517389608308736/vid/avc1/1312x720/GyspNvp-08sLhoa7.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108517389608308736/img/qWj-3wxRaWr_YZxH.jpg"
     }
   }
 ]
