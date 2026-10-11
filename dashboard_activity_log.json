@@ -1,73 +1,5 @@
 [
   {
-    "id": "x-1791474748374-xknwup",
-    "source": "x",
-    "ts": "2026-10-08T15:52:28.374Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Michael Saylor",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-08T14:00:44.000Z",
-    "reason": "Notable yield comparison for a stablecoin suggesting potential price recovery.",
-    "text": "Stablecoin yields, side by side. 👀\n\n$apyUSD 30D APY: 13.67%\n\nExpect $STRC to close the gap to par?\nImplied yield with $apxUSD recovery: 14.37%\n\nCompare the numbers for yourself. 👑",
-    "url": "https://x.com/saylor/status/2108223357871403289",
-    "images": [
-      "https://pbs.twimg.com/media/HUHQ_hnaIAAu5m0.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791474753161-uu5bxz",
-    "source": "x",
-    "ts": "2026-10-08T15:52:33.161Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 118,
-    "originTimestamp": "2026-10-08T13:54:07.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Grok Bot team shipped in the last few days:\n\n• Proactive primary bot\n• X search and monitoring, no API key needed\n• Faster replies + speed improvements\n• Slide deck creation in the chat\n• Tag @bot on X with instructions for your Bot\n• Best model for each task",
-    "url": "https://x.com/elonmusk/status/2108221942658638265"
-  },
-  {
-    "id": "x-1791474758839-17h5sr",
-    "source": "x",
-    "ts": "2026-10-08T15:52:38.839Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-08T15:43:46.000Z",
-    "reason": "Notable institutional partnership with Robinhood for increased token liquidity.",
-    "text": "NEAR Intents adds support for Robinhood Chain \n\n@Near_intents adds support for @RobinhoodCrypto to its routing framework, integrating it through single-click swap APIs with native settlement.\n\nThis integration adds liquidity paths across 30+ sovereign chains and 180 tokens,",
-    "url": "https://x.com/BSCNews/status/2108221825004036333",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108221783258152960/vid/avc1/1316x720/kTjpaRV1xvqp_jPT.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108221783258152960/img/t8xyAmOcsCsJhbsC.jpg"
-    }
-  },
-  {
-    "id": "x-1791474762807-tkroej",
-    "source": "x",
-    "ts": "2026-10-08T15:52:42.807Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-08T15:43:30.000Z",
-    "reason": "New use of a token for information exchange on Solana.",
-    "text": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-    "url": "https://x.com/DecryptMedia/status/2108221756565491927",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791475369293-zmnnjr",
     "source": "x",
     "ts": "2026-10-08T16:02:49.293Z",
@@ -7945,5 +7877,71 @@
       "https://pbs.twimg.com/media/HUTmpxVWgAAQ-yn.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791676928987-l41a0f",
+    "source": "x",
+    "ts": "2026-10-11T00:02:08.987Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-11T00:00:52.000Z",
+    "reason": "No notable crypto-related news or move detected.",
+    "text": "Think twice before connecting to public WiFi \n\nFake networks and man-in-the-middle attacks can expose your data without you realizing it. \n\nAlways verify the network before connecting and avoid accessing sensitive accounts on public WiFi.",
+    "url": "https://x.com/binance/status/2109071698846765464"
+  },
+  {
+    "id": "x-1791676933878-37a916",
+    "source": "x",
+    "ts": "2026-10-11T00:02:13.878Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-11T00:00:03.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Star Xu: How Did USDe Leverage Loops Trigger the \"1010\" Crash?\n\nDescription: OKX founder and CEO Star Xu @star_okx questioned Binance's promotion of USDe as a stablecoin on the New Era Finance Podcast @new_era_finance. He argued that USDe, issued by Ethena, is effectively a",
+    "url": "https://x.com/WuBlockchain/status/2109071492185002156"
+  },
+  {
+    "id": "x-1791676939070-izq7mp",
+    "source": "x",
+    "ts": "2026-10-11T00:02:19.070Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-11T00:00:00.000Z",
+    "reason": "Multiple high-profile institutions investing in OKX",
+    "text": "🚨UPDATE: OKX secures NEW funding at a $25 BILLION valuation.\n\nCircle, Ripple, Standard Chartered's SC Ventures, and Qube Research &amp; Technologies joined the round, per Bloomberg.\n\nThe funding follows a roughly $200 MILLION investment from NYSE parent ICE in March at the same",
+    "url": "https://x.com/coinbureau/status/2109071480470618513",
+    "images": [
+      "https://pbs.twimg.com/media/HURQ6mdbkAAKB39.png",
+      "https://pbs.twimg.com/media/HURQ6mTbcAA-bli.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791676944167-lpwycu",
+    "source": "x",
+    "ts": "2026-10-11T00:02:24.167Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-10T23:55:00.000Z",
+    "reason": "Specific institutional move with potential impact on cryptocurrency infrastructure.",
+    "text": "Real USDC is now live on Sui Network.\n\n@Circle's CCTP V2 is now live on @SuiNetwork, meaning that the chain can now host the $USDC stablecoin natively.\n\nThe news is important because it entirely eliminates any reliance on wrapped tokens or bridges, which are famous for their",
+    "url": "https://x.com/BSCNews/status/2109070222296539510",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108517172037230592/vid/avc1/1312x720/g4PryhYr5kE8cx0j.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108517172037230592/img/cQl5uh8-S9rH98la.jpg"
+    }
   }
 ]
