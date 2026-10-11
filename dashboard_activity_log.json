@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791479560694-bs1z7e",
-    "source": "x",
-    "ts": "2026-10-08T17:12:40.694Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T17:11:18.000Z",
-    "reason": "Specific and notable changes to tokenomics and supply cap.",
-    "text": "Aptos Unveils Tokenomics Overhaul: 210M APT to Be Permanently Locked, Staking Rewards to Be Halved\n\nAptos Foundation unveiled plans to revise APT tokenomics, proposing to cut annual staking rewards from 5.19% to 2.6%, increase gas fees tenfold, and cap total supply at 2.1 billion",
-    "url": "https://x.com/WuBlockchain/status/2108243853476323462",
-    "images": [
-      "https://pbs.twimg.com/media/HUH8mnLaUAAltr4.jpg",
-      "https://pbs.twimg.com/media/HUH8m0vbYAAfHQE.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791479562911-rd5clt",
     "source": "x",
     "ts": "2026-10-08T17:12:42.911Z",
@@ -7975,5 +7956,26 @@
       "https://pbs.twimg.com/media/HUV9t_JWMAAz7co.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791715306281-6yfmsg",
+    "source": "x",
+    "ts": "2026-10-11T10:41:46.281Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-11T10:32:00.000Z",
+    "reason": "StarkNet's token shows a significant, outside-range price movement.",
+    "text": "StarkNet's $STRK token just doubled in price...\n\n@Starknet's native token is up +107% on the week, after the fledgling L2 teased plans to convert to its own L1 blockchain.\n\nGiven the response the announcement has had, we could see more @Ethereum L2s announces similar plans in the",
+    "url": "https://x.com/BSCNews/status/2109230528863858913",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109187504662319104/vid/avc1/1312x720/G41h_zjEPt2ES8nB.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109187504662319104/img/gRY1ACVyNMTSOuqS.jpg"
+    }
   }
 ]
