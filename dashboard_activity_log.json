@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791478401319-5d3xxg",
-    "source": "x",
-    "ts": "2026-10-08T16:53:21.319Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T16:45:37.000Z",
-    "reason": "Noteworthy institutional adoption of Bitcoin by large wealth managers.",
-    "text": "JUST IN: Twenty One Capital CEO talks Bitcoin adoption:\n\n\"We're starting to see large wealth managers, like Merrill, Bank of America, and Goldman actively going out and suggesting to their clients that they have a part of their portfolio in Bitcoin.\" 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2108237390787772421",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108214972660547584/vid/avc1/1180x658/ZDiJ7VmuR5BKo-e0.mp4?tag=29",
-      "duration": 192,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108214972660547584/img/JhyJavkQ4sSOuizD.jpg"
-    }
-  },
-  {
-    "id": "x-1791478405077-sreg77",
-    "source": "x",
-    "ts": "2026-10-08T16:53:25.077Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T16:45:30.000Z",
-    "reason": "US Government making notable use of seized cryptocurrency.",
-    "text": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-    "url": "https://x.com/DecryptMedia/status/2108237359145767236",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791478409815-atoqy3",
     "source": "x",
     "ts": "2026-10-08T16:53:29.815Z",
@@ -7963,5 +7926,36 @@
     "reason": "No notable crypto-related news in the tweet.",
     "text": "🇺🇸 HUGE: Elizabeth Warren slams Treasury’s “chaotic” bond buybacks, and Bessent offers her “Foreign Exchange for Dummies.”\n\nWarren says the buybacks are failing, noting yields rose on the first two buyback days.\n\nThe 10-year yield hit 5.34% on September 30, its highest since",
     "url": "https://x.com/coinbureau/status/2109201084531007991"
+  },
+  {
+    "id": "x-1791711129192-sji0cm",
+    "source": "x",
+    "ts": "2026-10-11T09:32:09.192Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-11T09:29:46.000Z",
+    "reason": "Exploit and security incident involving a popular hardware wallet.",
+    "text": "🚨 JUST IN: Hardware wallet maker COLDCARD says a phishing link was posted from its official X account, despite the account using offline 2FA with tightly restricted access since 2017.",
+    "url": "https://x.com/Cointelegraph/status/2109214870017118289",
+    "images": [
+      "https://pbs.twimg.com/media/HUVvvxQWUAAkNU9.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791711133768-xl4z11",
+    "source": "x",
+    "ts": "2026-10-11T09:32:13.768Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-11T09:22:00.000Z",
+    "reason": "No notable move or specific event is reported.",
+    "text": "These memecoins don't care that the markets are suffering.\n\nSeveral major memecoins have bucked the market trend this week, recording significant gains.\n\n(1) @Snek on @Cardano [+35%]\n(2) @OsakaProtocol $OSAK [+26.8%]\n(3) @mubarak_cto on @BNBChain [+12.7%]\n(4) @Shibtoken's BONE",
+    "url": "https://x.com/BSCNews/status/2109212912246227408"
   }
 ]
