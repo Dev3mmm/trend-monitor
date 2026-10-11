@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791478409815-atoqy3",
-    "source": "x",
-    "ts": "2026-10-08T16:53:29.815Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 63,
-    "originTimestamp": "2026-10-08T15:50:04.000Z",
-    "reason": "No notable move or specific action described.",
-    "text": "It has been fascinating to use Muse, Dot, and Grok Bot all alongside each other.\n\nMakes it very clear how far in the lead Grok Bot is right now. \n\nOne good example from this morning. All three are plugged into my work calendar.\n\nThis morning Grok Bot messaged me, it noticed I",
-    "url": "https://x.com/elonmusk/status/2108236660760809531"
-  },
-  {
-    "id": "x-1791479018977-i6q9e0",
-    "source": "x",
-    "ts": "2026-10-08T17:03:38.977Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T17:01:05.000Z",
-    "reason": "No notable move in the crypto market mentioned.",
-    "text": "🔥 JUST IN: Google Cloud unveils persistent Gemini agents that can run for days and get their own email, Calendar and Drive storage.",
-    "url": "https://x.com/Cointelegraph/status/2108241283978318010"
-  },
-  {
     "id": "x-1791479021893-nk2kn3",
     "source": "x",
     "ts": "2026-10-08T17:03:41.894Z",
@@ -7957,5 +7931,44 @@
     "reason": "No notable move or specific event is reported.",
     "text": "These memecoins don't care that the markets are suffering.\n\nSeveral major memecoins have bucked the market trend this week, recording significant gains.\n\n(1) @Snek on @Cardano [+35%]\n(2) @OsakaProtocol $OSAK [+26.8%]\n(3) @mubarak_cto on @BNBChain [+12.7%]\n(4) @Shibtoken's BONE",
     "url": "https://x.com/BSCNews/status/2109212912246227408"
+  },
+  {
+    "id": "x-1791714148698-oyayaa",
+    "source": "x",
+    "ts": "2026-10-11T10:22:28.698Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-11T10:16:41.000Z",
+    "reason": "Exploit involving a significant amount of ETH quotes manipulation on HyperEVM.",
+    "text": "Papertrade Faces Allegations of BBO Price Manipulation on HyperEVM  \n\nX user @Dr_bobo54 alleged that two wallets exploited Papertrade’s pricing mechanism by using roughly $20 million orders on Hyperliquid to move ETH quotes by 10–20 basis points while holding much larger long",
+    "url": "https://x.com/WuBlockchain/status/2109226673149542858",
+    "images": [
+      "https://pbs.twimg.com/media/HUV6c9FbwAAtEE0.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791714154158-hlo0vc",
+    "source": "x",
+    "ts": "2026-10-11T10:22:34.158Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-11T10:15:00.000Z",
+    "reason": "AI-assisted Ethereum roadmap suggests significant speedups and coding.",
+    "text": "🔥JUST IN: Vitalik Buterin claims without AI, Ethereum's roadmap could have taken until 2040 or even 2050.\n\nThe Ethereum co-founder says they're \"getting massive speedups\" as AI does a lot of research and is \"starting to do a lot of coding.\"",
+    "url": "https://x.com/coinbureau/status/2109226250632143314",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109217018406965248/vid/avc1/1280x720/igx21-en77JU3uOQ.mp4?tag=29",
+      "duration": 52,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109217018406965248/img/-08EUkoPNHRQ3k3d.jpg"
+    }
   }
 ]
