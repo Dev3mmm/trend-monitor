@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791479743410-2byyji",
-    "source": "x",
-    "ts": "2026-10-08T17:15:43.410Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T17:09:00.000Z",
-    "reason": "Not a concrete event, more of a speculative opinion piece.",
-    "text": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
-    "url": "https://x.com/DecryptMedia/status/2108243275458961823",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791480227050-obck8f",
-    "source": "x",
-    "ts": "2026-10-08T17:23:47.050Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T17:19:00.000Z",
-    "reason": "The tweet is promotional and lacks concrete details.",
-    "text": "Pi Network portco lands massive partnership.\n\n@axisrobotics, which was invested in by @PiCoreTeam's $PI Ventures, has just announced a commercial partnership with car manufacturer @lotuscars.\n\nThe robotics company will build a simulation environment which will then be applied",
-    "url": "https://x.com/BSCNews/status/2108245789625729060",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108190850362576896/vid/avc1/1312x720/nhZnp8FjSsmY6bt_.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108190850362576896/img/SW4jifR8qXtn2a5o.jpg"
-    }
-  },
-  {
     "id": "x-1791480230534-rq76w7",
     "source": "x",
     "ts": "2026-10-08T17:23:50.534Z",
@@ -7977,5 +7940,31 @@
     "reason": "No notable move or specific event is described.",
     "text": "let the agent cook 🤷‍♂️",
     "url": "https://x.com/binance/status/2109252797556257237"
+  },
+  {
+    "id": "x-1791720757388-c5yjxu",
+    "source": "x",
+    "ts": "2026-10-11T12:12:37.388Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-11T12:06:51.000Z",
+    "reason": "No notable move in crypto, just a personal anecdote.",
+    "text": "Elon Musk just used Grok Bot to shop for his kids\n\nHe asked it to research the most fun Lego Star Wars kits for young kids… and order them\n\n\"As easy as that\"\n\nNo need for searching through endless listings, no comparing reviews or checkout forms\n\nJust one message, and Grok Bot",
+    "url": "https://x.com/elonmusk/status/2109255680339394843"
+  },
+  {
+    "id": "x-1791720760824-0f0zr1",
+    "source": "x",
+    "ts": "2026-10-11T12:12:40.824Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-11T12:04:30.000Z",
+    "reason": "No notable move or specific event.",
+    "text": "There’s always room for more orange.",
+    "url": "https://x.com/saylor/status/2109253809176232059"
   }
 ]
