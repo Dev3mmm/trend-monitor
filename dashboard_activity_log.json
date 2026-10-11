@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1791479562911-rd5clt",
-    "source": "x",
-    "ts": "2026-10-08T17:12:42.911Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T17:09:00.000Z",
-    "reason": "No notable move in ETH price, price is within recent range.",
-    "text": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
-    "url": "https://x.com/DecryptMedia/status/2108243275458961823",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791479564661-vgr018",
     "source": "x",
     "ts": "2026-10-08T17:12:44.661Z",
@@ -7977,5 +7961,24 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109187504662319104/img/gRY1ACVyNMTSOuqS.jpg"
     }
+  },
+  {
+    "id": "x-1791716519795-ep0cjv",
+    "source": "x",
+    "ts": "2026-10-11T11:01:59.795Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-11T11:00:03.000Z",
+    "reason": "Exploit involving a popular cryptocurrency security tool.",
+    "text": "🚨JUST IN: COLDCARD says a phishing link was posted from its official X account despite offline 2FA with tightly restricted access since 2017.\n\nThe deleted post posed as an “URGENT COLDCARD SECURITY UPDATE” urging users with affected seeds to “begin a careful migration now.”",
+    "url": "https://x.com/coinbureau/status/2109237587445436599",
+    "images": [
+      "https://pbs.twimg.com/media/HUV3Jrna8AEH63w.png",
+      "https://pbs.twimg.com/media/HUV3JvWaoAAHcXC.jpg"
+    ],
+    "video": null
   }
 ]
