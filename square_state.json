@@ -1591,17 +1591,19 @@
     "x-1791714154158-hlo0vc",
     "x-1791714736178-nppku6",
     "x-1791715306281-6yfmsg",
-    "x-1791716519795-ep0cjv"
+    "x-1791716519795-ep0cjv",
+    "x-1791717715109-6jbh57"
   ],
   "queue": [
     {
-      "text": "🔥 BIG: Bitfinex's $ETH longs have hit their highest level in over 4 years.",
-      "url": "https://x.com/Cointelegraph/status/2109230240421564910",
+      "text": "Ledger Confirms Hardware Implant Attack, Says Its Systems Were Not Breached  \n\nLedger said an unauthorized hardware implant was found inside an affected device, confirming physical tampering. The company said there is no evidence its own infrastructure, systems or services were",
+      "url": "https://x.com/WuBlockchain/status/2109240878770626830",
       "images": [
-        "https://pbs.twimg.com/media/HUV9t_JWMAAz7co.jpg"
+        "https://pbs.twimg.com/media/HUWHSLvakAAm-BL.jpg",
+        "https://pbs.twimg.com/media/HUWHZcFbQAAg34y.png"
       ],
       "video": null,
-      "enqueuedAt": 1791714736234
+      "enqueuedAt": 1791717715153
     }
   ],
   "posted": [
@@ -1748,7 +1750,13 @@
       "at": 1791715890129,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/376114073259322?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 BIG: Bitfinex's $ETH longs have hit their highest level in over 4 years.",
+      "at": 1791717715153,
+      "status": "failed",
+      "error": "ed to S3, polling status...\n  Processing... (1/10)\n  Processing... (2/10)\n  Processing... (3/10)\n  Processing... (4/10)\n  Processing... (5/10)\n  Processing... (6/10)\n  Processing... (7/10)\n  Processing... (8/10)\n  Processing... (9/10)\n  Processing... (10/10)\n\n\nFailed: Poll timed out after 10 retries"
     }
   ],
-  "lastPostAt": 1791715890129
+  "lastPostAt": 1791717715153
 }
