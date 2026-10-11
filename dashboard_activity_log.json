@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791492187428-kqzue7",
-    "source": "x",
-    "ts": "2026-10-08T20:43:07.429Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 24,
-    "originTimestamp": "2026-10-08T20:19:10.000Z",
-    "reason": "No actionable information provided.",
-    "text": "Very big deal",
-    "url": "https://x.com/elonmusk/status/2108296638263652416"
-  },
-  {
     "id": "x-1791492192590-1ryvc6",
     "source": "x",
     "ts": "2026-10-08T20:43:12.590Z",
@@ -7967,6 +7954,22 @@
     "reason": "Significant increase in total value locked for XRP Vault.",
     "text": "Doppler Finance's XRP Vault has crossed 90 million $XRP in total value locked, worth more than $125 million.\n\nThe vault sits on the XRP Ledger, where XRP native yield products have grown rapidly.",
     "url": "https://x.com/BSCNews/status/2109391060367446198",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791754347601-b59fq9",
+    "source": "x",
+    "ts": "2026-10-11T21:32:27.601Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-11T21:30:47.000Z",
+    "reason": "IMF report on tokenized stock trading outside regular market hours.",
+    "text": "🔥 JUST IN: The IMF says more than half of tokenized stock trading happens outside regular US market hours, and 80% of trades are smaller than one share.",
+    "url": "https://x.com/Cointelegraph/status/2109396319307456593",
     "images": [],
     "video": null
   }
