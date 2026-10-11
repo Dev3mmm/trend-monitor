@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791488534519-gic6at",
-    "source": "x",
-    "ts": "2026-10-08T19:42:14.519Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T19:36:00.000Z",
-    "reason": "Staking imbalance is narrowing, potentially signaling a liquidity issue.",
-    "text": "This is not looking good...\n\nThe difference between @Ethereum staking entries and exits is getting smaller and smaller.\n\nRight now, 1,385,201 $ETH is waiting to be staked, while 815,341 $ETH is waiting to be unstaked.\n\nThe difference remains large for now, but has been collapsing",
-    "url": "https://x.com/BSCNews/status/2108280266913415651",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108191327242330113/vid/avc1/1312x720/mB6DSreIaANvKYl8.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108191327242330113/img/qHrm6vl-sUzeEH6z.jpg"
-    }
-  },
-  {
     "id": "x-1791489126011-ejdsp7",
     "source": "x",
     "ts": "2026-10-08T19:52:06.011Z",
@@ -7981,5 +7960,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201638564986880/img/kntvMqTv5KZTzs2P.jpg"
     }
+  },
+  {
+    "id": "x-1791745325585-lzlhk4",
+    "source": "x",
+    "ts": "2026-10-11T19:02:05.585Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 89,
+    "originTimestamp": "2026-10-11T17:32:17.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: 🎰\n\nStockSlot is bringing a new GambleFi experience to Robinhood Chain, combining weekly rewards for players and holders with robinhood:0x08a5d78a4bc7754e8aff87b4509e007baeb685f3 burn mechanics. 🔥\n\n👥 Refer more users to increase your share\n🏆 Wager more to climb the",
+    "url": "https://x.com/BSCNews/status/2109357653046505668"
   }
 ]
