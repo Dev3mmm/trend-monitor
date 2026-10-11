@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791492201102-pb3cuo",
-    "source": "x",
-    "ts": "2026-10-08T20:43:21.102Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-08T20:31:58.000Z",
-    "reason": "No notable crypto-specific event mentioned.",
-    "text": "This is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America",
-    "url": "https://x.com/elonmusk/status/2108296168094544099"
-  },
-  {
     "id": "x-1791492204556-gh6spd",
     "source": "x",
     "ts": "2026-10-08T20:43:24.556Z",
@@ -7974,5 +7961,21 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201891338944512/img/Rb6kU4NG0SevInXy.jpg"
     }
+  },
+  {
+    "id": "x-1791757947592-h1tbvn",
+    "source": "x",
+    "ts": "2026-10-11T22:32:27.592Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-11T22:30:46.000Z",
+    "reason": "Exploit of Ledger devices and Vault leads to significant loss in crypto.",
+    "text": "🔥 BIG: Hackers took $2.68B in crypto through September, and October has already added more than $98M, led by an estimated $86M+ drained from tampered Ledger devices and a $12.5M exploit of 79th Vault.",
+    "url": "https://x.com/Cointelegraph/status/2109411412455899154",
+    "images": [],
+    "video": null
   }
 ]
