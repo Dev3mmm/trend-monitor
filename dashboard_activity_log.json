@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791486158883-ul8ntr",
-    "source": "x",
-    "ts": "2026-10-08T19:02:38.883Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 28,
-    "originTimestamp": "2026-10-08T18:33:38.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Grok 4.7 ranks first in legal matters",
-    "url": "https://x.com/elonmusk/status/2108269794268975387"
-  },
-  {
     "id": "x-1791486821290-vjsjqk",
     "source": "x",
     "ts": "2026-10-08T19:13:41.290Z",
@@ -7966,5 +7953,26 @@
     "url": "https://x.com/DecryptMedia/status/2109331254764052742",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791739963999-5e5vrv",
+    "source": "x",
+    "ts": "2026-10-11T17:32:43.999Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-11T17:32:00.000Z",
+    "reason": "The tweet mentions a significant market cap growth and the potential for future market share increase.",
+    "text": "Is $AERO the next major blue chip crypto...?\n\n@aeroxyz's token is up some +74% over the past month at time of writing, pushing its market cap to $966M and inching closer to the $1B milestone.\n\nThe performance comes as...\n\n- Aero's founder promised to double its market share.\n-",
+    "url": "https://x.com/BSCNews/status/2109336224888729662",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109201550623043584/vid/avc1/1312x720/_K54DpVYWnXsQHD5.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201550623043584/img/lYipTAuiHxq7ndxF.jpg"
+    }
   }
 ]
