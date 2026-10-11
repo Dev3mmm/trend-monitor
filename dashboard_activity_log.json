@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791492204556-gh6spd",
-    "source": "x",
-    "ts": "2026-10-08T20:43:24.556Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-08T20:31:01.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Give Grok @Bot your toughest problems",
-    "url": "https://x.com/elonmusk/status/2108294950492553464"
-  },
-  {
-    "id": "x-1791492207988-dm1lub",
-    "source": "x",
-    "ts": "2026-10-08T20:43:27.988Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 67,
-    "originTimestamp": "2026-10-08T19:35:56.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Automatically used by Grok @Bot",
-    "url": "https://x.com/elonmusk/status/2108294618597216470"
-  },
-  {
     "id": "x-1791492820193-ltau2z",
     "source": "x",
     "ts": "2026-10-08T20:53:40.193Z",
@@ -7977,5 +7951,39 @@
     "url": "https://x.com/Cointelegraph/status/2109411412455899154",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791761567249-sxfaw7",
+    "source": "x",
+    "ts": "2026-10-11T23:32:47.249Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-11T23:30:47.000Z",
+    "reason": "No notable move, price is well within recent range.",
+    "text": "⚡ QUESTION: Is this Uptober or Downtober?",
+    "url": "https://x.com/Cointelegraph/status/2109426516207550915"
+  },
+  {
+    "id": "x-1791761573314-fqa0xn",
+    "source": "x",
+    "ts": "2026-10-11T23:32:53.314Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-11T23:23:00.000Z",
+    "reason": "Notable institutional action in the Solana DEX ecosystem.",
+    "text": "Raydium bought back $4M worth of $RAY in a month!\n\n@Raydium has executed $RAY token buybacks to the tune of some $4M in the past 30 days alone, following growing traction for the @Solana DEX.\n\nRaydium has seen growth across several key metrics, most notably TVL, in recent",
+    "url": "https://x.com/BSCNews/status/2109424557278830750",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109201990492291072/vid/avc1/1312x720/F5aESTfIwGlI3PKX.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201990492291072/img/3PazsYo432vtem-V.jpg"
+    }
   }
 ]
