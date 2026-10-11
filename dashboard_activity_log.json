@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791482556989-jtd4yx",
-    "source": "x",
-    "ts": "2026-10-08T18:02:36.989Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T17:55:41.000Z",
-    "reason": "Noise: generic hype without factual claim.",
-    "text": "BREAKING: President Trump on Elon Musk today:\n\n“First, we honor an industrial titan, a brilliant engineer, and one of the greatest technology founders to ever live. His name is Elon Musk. Quite honestly, there’s nobody like him.\n\nFew Americans in history have done more to advance",
-    "url": "https://x.com/elonmusk/status/2108256069109584074"
-  },
-  {
     "id": "x-1791482561819-sopuvl",
     "source": "x",
     "ts": "2026-10-08T18:02:41.819Z",
@@ -7957,5 +7944,26 @@
     "reason": "No notable move in ETH price.",
     "text": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
     "url": "https://x.com/DecryptMedia/status/2109268422810853413"
+  },
+  {
+    "id": "x-1791724932153-0rengw",
+    "source": "x",
+    "ts": "2026-10-11T13:22:12.153Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-11T13:15:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🚨JUST IN: Vitalik Buterin says the cryptography securing crypto may have hidden flaws humans \"haven't been smart enough\" to find.\n\n“But the bots can,” the Ethereum co-founder says.",
+    "url": "https://x.com/coinbureau/status/2109271549274411031",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109228015821701120/vid/avc1/1280x720/d5PERmGdf50QLYrk.mp4?tag=29",
+      "duration": 96,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109228015821701120/img/khoyY5nTDRerC_ex.jpg"
+    }
   }
 ]
