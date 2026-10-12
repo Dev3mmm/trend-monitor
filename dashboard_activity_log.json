@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791505366114-8f28yu",
-    "source": "x",
-    "ts": "2026-10-09T00:22:46.114Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T00:20:00.000Z",
-    "reason": "Trump's purchases of cryptocurrency-linked assets is noteworthy, but not directly related to crypto or stablecoins.",
-    "text": "🚨HUGE: Trump bought up to $25 MILLION of Meta and up to $5 MILLION of SpaceX's FIRST-EVER bonds.\n\nTrump's August disclosure shows both purchases among 517 trades, with Meta the biggest of the month.\n\nHis accounts bought the SpaceX bonds on August 18, two days before he signed a",
-    "url": "https://x.com/coinbureau/status/2108351737941876873",
-    "images": [
-      "https://pbs.twimg.com/media/HUJYjPEaQAAeJem.jpg",
-      "https://pbs.twimg.com/media/HUJYf-JbwAAjRCM.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791505370255-zzbhf1",
-    "source": "x",
-    "ts": "2026-10-09T00:22:50.255Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-09T00:06:36.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "One of my favorite and totally underrated @bot features is canvas.\n\nJust ask your Chief of Staff to present you an updates on the canvas, relax, and enjoy the results 😉",
-    "url": "https://x.com/elonmusk/status/2108351149103271986"
-  },
-  {
     "id": "x-1791505947575-qn25hd",
     "source": "x",
     "ts": "2026-10-09T00:32:27.575Z",
@@ -8033,5 +8001,45 @@
     "url": "https://x.com/Cointelegraph/status/2109547309042106848",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791790915124-gl0o7l",
+    "source": "x",
+    "ts": "2026-10-12T07:41:55.124Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-12T07:37:03.000Z",
+    "reason": "AI identified significant vulnerabilities in XRP and ZEC tokens.",
+    "text": "⚠️JUST IN: AI has now saved CRYPTO from more than $190 BILLION in potential exploits across $XRP and $ZEC.\n\n1. $94B XRP Ledger bug\n\nVeria AI helped find a decade-old flaw that could have minted 18.45 trillion XRP from nothing.\n\n2. $80B XRP Ledger Batch bug\n\nCantina AI’s Apex",
+    "url": "https://x.com/coinbureau/status/2109548889795875186",
+    "images": [
+      "https://pbs.twimg.com/media/HUafbW-boAAZB8s.jpg",
+      "https://pbs.twimg.com/media/HUafc89b0AAlazS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791790920249-5snqny",
+    "source": "x",
+    "ts": "2026-10-12T07:42:00.249Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-12T07:36:00.000Z",
+    "reason": "Binance co-founder questions Ledger wallet security reports.",
+    "text": "CZ Flags Shocking Claims in Ledger Wallet Exploit\n\nBinance (@binance) co-founder Changpeng Zhao (@cz_binance) has questioned reports surrounding Ledger (@Ledger) wallet drainings linked to devices sold through Southeast Asian reseller CryptoBilis.\n\nHe said hackers allegedly",
+    "url": "https://x.com/BSCNews/status/2109548624489185337",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109542044012367872/vid/avc1/1280x720/YOPSyI1nX0-pwBrb.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109542044012367872/img/TwtKukeq4Zdqn1n8.jpg"
+    }
   }
 ]
