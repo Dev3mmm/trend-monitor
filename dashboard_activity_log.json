@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1791562374476-552ci2",
-    "source": "x",
-    "ts": "2026-10-09T16:12:54.476Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T16:10:19.000Z",
-    "reason": "Prediction/price call with no basis given",
-    "text": "JUST IN: Ark Invest's Director of Research discusses their projection for Bitcoin's market cap to reach $16 trillion by 2030. 👀\n\n\"I think we are still very confident...its position as a store of value and permissioned money is cemented.\" 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2108590892445540590"
-  },
-  {
-    "id": "x-1791562378893-ail38b",
-    "source": "x",
-    "ts": "2026-10-09T16:12:58.893Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-09T16:09:30.000Z",
-    "reason": "Notable legal dispute involving cryptocurrency use and sales.",
-    "text": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-    "url": "https://x.com/DecryptMedia/status/2108590687260189078",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791562383049-xpw5he",
-    "source": "x",
-    "ts": "2026-10-09T16:13:03.049Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-09T16:08:15.000Z",
-    "reason": "New York AG's action against Celsius CEO for potential fraud",
-    "text": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
-    "url": "https://x.com/DecryptMedia/status/2108590373308096613",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791562387888-ber77c",
     "source": "x",
     "ts": "2026-10-09T16:13:07.888Z",
@@ -7978,5 +7933,47 @@
     "reason": "No notable move in cryptocurrency or relevant regulatory action mentioned.",
     "text": "🚨BIG MOVE: Kazakhstan plans to SELL gold, reducing its share of national reserves from 78% to 75% by year-end.\n\nThe shift comes as rising U.S. Treasury yields make dollar assets more attractive, per Bloomberg.",
     "url": "https://x.com/coinbureau/status/2109722121249370158"
+  },
+  {
+    "id": "x-1791833413344-r4v8v2",
+    "source": "x",
+    "ts": "2026-10-12T19:30:13.344Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T19:26:55.000Z",
+    "reason": "No concrete, specific price or move to verify.",
+    "text": "JUST IN: Bitcoin's weekly momentum has flipped positive on the MACD chart, after 44 consecutive negative weeks. 👀\n\nThis historically signals the start of a bull market. 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2109727532845076573"
+  },
+  {
+    "id": "x-1791833418484-ayf0y8",
+    "source": "x",
+    "ts": "2026-10-12T19:30:18.484Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T19:23:23.000Z",
+    "reason": "Stellar's network leading in tokenized real-world assets",
+    "text": "Quiet climb, big flip 📈 stellar:native’s network passed Solana and the XRP Ledger in tokenized real-world assets, led by big funds from Amundi, Ondo and Franklin Templeton. The full breakdown: ⬇️",
+    "url": "https://x.com/BSCNews/status/2109726643594072511",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791833422647-qu9l9c",
+    "source": "x",
+    "ts": "2026-10-12T19:30:22.647Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 14,
+    "originTimestamp": "2026-10-12T19:15:47.000Z",
+    "reason": "No notable move in ETH price within the 30-day range.",
+    "text": "🤖 JUST IN: Meta launches Muse Wonder and Muse Wonder Full, its most capable AI models yet, built for coding and personal and professional agent tasks.",
+    "url": "https://x.com/Cointelegraph/status/2109724732937359588"
   }
 ]
