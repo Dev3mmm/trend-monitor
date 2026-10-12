@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791567178622-ijg38i",
-    "source": "x",
-    "ts": "2026-10-09T17:32:58.622Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-09T17:25:18.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Grok Bot now has its own email.\n\nBot can use it to sign up for services, contact businesses for you, or schedule time with someone.",
-    "url": "https://x.com/elonmusk/status/2108610275041562862"
-  },
-  {
-    "id": "x-1791567799929-eyurpl",
-    "source": "x",
-    "ts": "2026-10-09T17:43:19.929Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-09T17:27:38.000Z",
-    "reason": "No notable crypto-related event or news described.",
-    "text": "Grok @Bot can now set up its own email",
-    "url": "https://x.com/elonmusk/status/2108612939842511217"
-  },
-  {
-    "id": "x-1791567804034-oyutam",
-    "source": "x",
-    "ts": "2026-10-09T17:43:24.034Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-09T17:37:45.000Z",
-    "reason": "Price rebound is significant as it indicates traders are still bearish.",
-    "text": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
-    "url": "https://x.com/DecryptMedia/status/2108612896250831211",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791567808756-9cbgix",
     "source": "x",
     "ts": "2026-10-09T17:43:28.756Z",
@@ -7960,5 +7918,50 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Jed McCaleb helped build Mt. Gox, Ripple, and Stellar, and he’s not done yet\n\nMt. Gox started out as a site for trading Magic: The Gathering cards. @JedMcCaleb bought the domain, turned it into a Bitcoin exchange, and sold it to Mark Karpelès in March 2011, three years before its",
     "url": "https://x.com/BSCNews/status/2109744624889913446"
+  },
+  {
+    "id": "x-1791838340708-dyc7g7",
+    "source": "x",
+    "ts": "2026-10-12T20:52:20.708Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T20:50:47.000Z",
+    "reason": "No notable financial or crypto-related event described.",
+    "text": "🇺🇸 INTERESTING: The U.S. dollar has lost 87% of its purchasing power since 1971, compared with 93% for the British pound and 66% for the Swiss franc, River’s chart shows.",
+    "url": "https://x.com/Cointelegraph/status/2109748639316815882"
+  },
+  {
+    "id": "x-1791838343169-wibnmx",
+    "source": "x",
+    "ts": "2026-10-12T20:52:23.169Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-12T20:47:15.000Z",
+    "reason": "No notable move in token price or significant event mentioned.",
+    "text": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+    "url": "https://x.com/DecryptMedia/status/2109747749109268572"
+  },
+  {
+    "id": "x-1791838346869-2i4yh2",
+    "source": "x",
+    "ts": "2026-10-12T20:52:26.869Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-12T20:45:00.000Z",
+    "reason": "Specific, verifiable institutional adoption event in the crypto market.",
+    "text": "🇷🇺 HUGE: Russia’s largest stock exchange plans to open Bitcoin trading to retail investors for the FIRST time.\n\nThe US-sanctioned Moscow Exchange is targeting December 1 to launch $BTC, $ETH and $USDT trading, after offering crypto futures only to qualified investors until now.",
+    "url": "https://x.com/coinbureau/status/2109747182798770236",
+    "images": [
+      "https://pbs.twimg.com/media/HUdOfsvaoAAUk1u.png",
+      "https://pbs.twimg.com/media/HUdOfsxa0AEmaV0.png"
+    ],
+    "video": null
   }
 ]
