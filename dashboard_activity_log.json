@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1791546797990-9svrv0",
-    "source": "x",
-    "ts": "2026-10-09T11:53:17.990Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-09T11:44:12.000Z",
-    "reason": "Notable regulatory action involving crypto assets.",
-    "text": "🇺🇸🇮🇷BREAKING: US to seize $1 BILLION in crypto assets as part of efforts to economically isolate Iran.",
-    "url": "https://x.com/coinbureau/status/2108523922727834044",
-    "images": [
-      "https://pbs.twimg.com/media/HUL7QoxawAEOKwZ.jpg",
-      "https://pbs.twimg.com/media/HUL7Ui9bAAASStm.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791546802228-l7rcyf",
-    "source": "x",
-    "ts": "2026-10-09T11:53:22.228Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-09T11:42:30.000Z",
-    "reason": "Crypto majors have experienced notable declines in the \"Uptober Turns Sour\" tweet.",
-    "text": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-    "url": "https://x.com/DecryptMedia/status/2108523494459703712",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791547307472-gwoccv",
-    "source": "x",
-    "ts": "2026-10-09T12:01:47.472Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-09T12:01:09.000Z",
-    "reason": "Kraken reported issue affecting margin data for users.",
-    "text": "🚨 UPDATE: Kraken is reportedly investigating an issue showing incorrect margin data for some app and web users.",
-    "url": "https://x.com/Cointelegraph/status/2108528187063853145",
-    "images": [
-      "https://pbs.twimg.com/media/HUL_MqYW8AABUHR.jpg",
-      "https://pbs.twimg.com/media/HUL_M9tW8AA5KRt.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791547314111-tu91n7",
     "source": "x",
     "ts": "2026-10-09T12:01:54.111Z",
@@ -8026,5 +7972,58 @@
       "https://pbs.twimg.com/media/HUcIiiRXcAA8oRl.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791819147019-zkq5gc",
+    "source": "x",
+    "ts": "2026-10-12T15:32:27.019Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T15:28:54.000Z",
+    "reason": "Concrete and specific financial event with clear implications.",
+    "text": "Today's top crypto stories 👇\n\n1. @Ledger confirms tampered devices as $93M is drained\n2. @saylor hints at another buy as @Strategy holds 848,000 $BTC\n3. Standard Chartered starts institutional custody for @Ripple's $RLUSD\n4. XRP Ledger skips validator vote to fix unlimited $XRP",
+    "url": "https://x.com/BSCNews/status/2109668257946824900",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109667506105327616/vid/avc1/1280x720/7XR5FPAXeV-lehOS.mp4?tag=29",
+      "duration": 321,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109667506105327616/img/Sc1hrS6Z74GEgvwS.jpg"
+    }
+  },
+  {
+    "id": "x-1791819152177-nntdy1",
+    "source": "x",
+    "ts": "2026-10-12T15:32:32.177Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T15:30:59.000Z",
+    "reason": "Stablecoin adoption and potential future integration into digital banking is notable.",
+    "text": "🇸🇬 CONNECT: Stablecoins could become an invisible part of digital banking within five to seven years.\n\n@FinHarbor CEO Ilya Podoynitsyn predicted that users will eventually make transfers without needing to understand the blockchain or payment rails underneath.",
+    "url": "https://x.com/Cointelegraph/status/2109668157514248571",
+    "images": [
+      "https://pbs.twimg.com/media/HUcL-NrXQAA9epc.jpg",
+      "https://pbs.twimg.com/media/HUcMARTWwAAAWvh.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791819156787-e72avh",
+    "source": "x",
+    "ts": "2026-10-12T15:32:36.787Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T15:30:00.000Z",
+    "reason": "No notable move or specific event, price is well within the recent range.",
+    "text": "JUST IN: World's RICHEST tech billionaires added a record $845B in 2026, while non-tech billionaires lost $62B per Bloomberg.",
+    "url": "https://x.com/coinbureau/status/2109667910763311523"
   }
 ]
