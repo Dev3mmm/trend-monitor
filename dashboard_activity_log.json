@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1791500526046-rv9t9j",
-    "source": "x",
-    "ts": "2026-10-08T23:02:06.046Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T23:00:50.000Z",
-    "reason": "AI usage of a new token far outpacing human usage is notable and specific.",
-    "text": "🤖 LATEST: AI agent token usage on OpenRouter has surged 14-fold to 7.3 trillion, far outpacing human usage, an a16z chart shows.",
-    "url": "https://x.com/Cointelegraph/status/2108331816927048055",
-    "images": [
-      "https://pbs.twimg.com/media/HUJMnO7XYAAo1ic.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791501738586-h68u4c",
     "source": "x",
     "ts": "2026-10-08T23:22:18.586Z",
@@ -8035,5 +8017,26 @@
       "https://pbs.twimg.com/media/HUaJkTqXwAER145.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791786117337-f4jbpj",
+    "source": "x",
+    "ts": "2026-10-12T06:21:57.337Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T06:15:47.000Z",
+    "reason": "Tampered hardware wallet attack confirmed by Ledger, affecting devices sold through a reseller.",
+    "text": "Ledger Confirms Tampered Hardware Wallet Attack\n\nLedger (@Ledger) says confirmed cases of its October 9 draining incident involve devices sold through Southeast Asian reseller CryptoBilis.\n\nThe company says its own systems and direct sales channels remain unaffected.\n\nLedger is",
+    "url": "https://x.com/BSCNews/status/2109528437136527516",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109510659688058880/vid/avc1/1280x720/pdfQ1PTdC7HWHyT5.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109510659688058880/img/3xAJDS0m_nbVDV6h.jpg"
+    }
   }
 ]
