@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791551003285-cxqgl7",
-    "source": "x",
-    "ts": "2026-10-09T13:03:23.285Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "CertiK Alert",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-09T12:54:43.000Z",
-    "reason": "Exploit of CertiK-inspected NEAR Omni Bridge resulting in BSC treasury payout.",
-    "text": "#CertiKInsight 🚨\n\nOn 30 Sept, HOT Omni Bridge on NEAR was exploited resulting in five observed BSC treasury payouts totaling $3.86M, which was later returned.\n\nRead our full analysis here👇\n\n\nCertiK Report Security Dashboard 👇",
-    "url": "https://x.com/CertiKAlert/status/2108541669989900294",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791551009544-5hdg9t",
-    "source": "x",
-    "ts": "2026-10-09T13:03:29.544Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-09T12:54:08.000Z",
-    "reason": "Circle launches a new version of its Cross-Chain Transfer Protocol on the Sui Network.",
-    "text": "Circle Launches CCTP V2 On Sui Network\n\n@Circle launches Cross-Chain Transfer Protocol (CCTP) V2 on @SuiNetwork, bringing native $USDC routing to the Move-native Layer-1 protocol.\n\nThe new version includes native burn and mint facilities, Inbound Fast Transfers, cross-chain",
-    "url": "https://x.com/BSCNews/status/2108541521754558791",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108541192216403968/vid/avc1/1316x720/uY4qBFeK-tmwFYJG.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108541192216403968/img/pTuoNEsVl8mmtb5o.jpg"
-    }
-  },
-  {
     "id": "x-1791551519653-m6uht1",
     "source": "x",
     "ts": "2026-10-09T13:11:59.653Z",
@@ -8000,5 +7963,31 @@
     "url": "https://x.com/DecryptMedia/status/2109683891166392352",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791823980648-y1cm1s",
+    "source": "x",
+    "ts": "2026-10-12T16:53:00.648Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-12T16:44:43.000Z",
+    "reason": "No notable crypto-related news or move mentioned.",
+    "text": "🚨MASSIVE: Global smartphone shipments plunge -20%, hitting their LOWEST third-quarter level in 14 YEARS as memory shortages squeeze manufacturers.\n\nPreliminary Counterpoint Research estimates put Q3 2026 shipments at their weakest level since 2012.\n\nThe AI infrastructure boom is",
+    "url": "https://x.com/coinbureau/status/2109686714973511924"
+  },
+  {
+    "id": "x-1791823982210-5gbeys",
+    "source": "x",
+    "ts": "2026-10-12T16:53:02.210Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-12T16:42:45.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+    "url": "https://x.com/DecryptMedia/status/2109686218648592699"
   }
 ]
