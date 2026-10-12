@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791497574308-epaser",
-    "source": "x",
-    "ts": "2026-10-08T22:12:54.308Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T22:10:39.000Z",
-    "reason": "Elon Musk's statement about SpaceX valuation is significant and could have substantial market impact.",
-    "text": "🔥 NOW: Elon Musk says he sees a path to SpaceX being worth “orders of magnitude more than the current Earth economy.”",
-    "url": "https://x.com/Cointelegraph/status/2108319187386913145",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791498158322-ecyxar",
-    "source": "x",
-    "ts": "2026-10-08T22:22:38.322Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T22:20:40.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "🇮🇷 JUST IN: US Treasury targets Iran’s oil shadow fleet as Scott Bessent warns sanctions evaders will face its full authority.",
-    "url": "https://x.com/Cointelegraph/status/2108321709287784484"
-  },
-  {
     "id": "x-1791498160957-x2wwsr",
     "source": "x",
     "ts": "2026-10-08T22:22:40.957Z",
@@ -8028,5 +7999,43 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109501545188634624/img/Hx16SEArIpjuMnOW.jpg"
     }
+  },
+  {
+    "id": "x-1791781342011-nmuwkp",
+    "source": "x",
+    "ts": "2026-10-12T05:02:22.011Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T05:00:53.000Z",
+    "reason": "New Solana ETF launch by Pando Finance on HKEX",
+    "text": "🇭🇰 NEW: Pando Finance’s Solana ETF is set to debut on HKEX on October 13, becoming Hong Kong’s second spot SOL ETF.",
+    "url": "https://x.com/Cointelegraph/status/2109509590966522320",
+    "images": [
+      "https://pbs.twimg.com/media/HUZ7yhwW0AAfq-f.png",
+      "https://pbs.twimg.com/media/HUZ7ywaXIAAxIsl.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791781347492-mjyipz",
+    "source": "x",
+    "ts": "2026-10-12T05:02:27.492Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T05:00:02.000Z",
+    "reason": "Coinbase CEO praises SEC for opening up private markets to more investors.",
+    "text": "🚨 HUGE: Coinbase CEO Brian Armstrong PRAISES the SEC’s push to open private markets to more Americans.\n\nArmstrong called the proposal a major step toward ending a system that excludes everyday investors from private equity, startups and early-stage deals based largely on wealth.",
+    "url": "https://x.com/coinbureau/status/2109509373768671314",
+    "images": [
+      "https://pbs.twimg.com/media/HUZJm7WasAA_uAj.jpg",
+      "https://pbs.twimg.com/media/HUZJm7WbEAAbDwz.jpg"
+    ],
+    "video": null
   }
 ]
