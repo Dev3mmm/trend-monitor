@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791541373337-0fkc0o",
-    "source": "x",
-    "ts": "2026-10-09T10:22:53.337Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-09T10:13:00.000Z",
-    "reason": "Regulatory crackdown on cryptocurrency dark market",
-    "text": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-    "url": "https://x.com/DecryptMedia/status/2108500972020400639",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791542605504-36g7ii",
-    "source": "x",
-    "ts": "2026-10-09T10:43:25.504Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T10:41:06.000Z",
-    "reason": "Notable regulatory and domain approval for a new cryptocurrency domain.",
-    "text": "Internet Computer Receives Initial Green Light From ICANN To Launch Sovereign ICP Domain\n\nInternet Computer (@dfinity) passes the initial review stage set by @ICANN for the .icp generic top-level domain (gTLD), moving the application toward inclusion on the 2026 global sunrise",
-    "url": "https://x.com/BSCNews/status/2108508043851784269",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108508008208621568/vid/avc1/1316x720/oZ2yT9rht6HKc1Y0.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108508008208621568/img/prB64Reb0tEKelSa.jpg"
-    }
-  },
-  {
     "id": "x-1791542610363-s7jpf1",
     "source": "x",
     "ts": "2026-10-09T10:43:30.363Z",
@@ -8029,6 +7992,45 @@
     "images": [
       "https://pbs.twimg.com/media/HUb-PRfXcAEXL8W.jpg",
       "https://pbs.twimg.com/media/HUb-QozX0AA-FqR.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791816746142-xkbaka",
+    "source": "x",
+    "ts": "2026-10-12T14:52:26.142Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T14:49:00.000Z",
+    "reason": "Notable move in a DeFi protocol's token volume.",
+    "text": "Aero is DOMINATING tokenised stock trading.\n\nShortly after its founder promised to double its market share, on October 10, @aeroxyz generated more tokenised stock trading volume than every other DEX on @Ethereum and its various L2 network combined...\n\nOn the day, $AERO accounted",
+    "url": "https://x.com/BSCNews/status/2109657592444465485",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109544269568462848/vid/avc1/1312x720/D-Mn2HuuO1EHJ4rJ.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109544269568462848/img/WpZIxcT13NgV8DOL.jpg"
+    }
+  },
+  {
+    "id": "x-1791816752123-3cd228",
+    "source": "x",
+    "ts": "2026-10-12T14:52:32.123Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-12T14:45:00.000Z",
+    "reason": "Notable announcement about Bybit expanding beyond crypto markets.",
+    "text": "🔥 INSIGHT: @Bybit_Official is expanding beyond the crypto exchange model.\n\nBybit CEO @benbybit takes the stage Oct. 13 at 7 AM UTC to reveal what’s next for the platform, including new launches, Bybit AI and its push beyond crypto-native markets.\n\nWatch live:",
+    "url": "https://x.com/Cointelegraph/status/2109656586398445884",
+    "images": [
+      "https://pbs.twimg.com/media/HUcAsWBaMAARfeg.jpg"
     ],
     "video": null
   }
