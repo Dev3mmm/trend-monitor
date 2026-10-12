@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791516159688-1h5gam",
-    "source": "x",
-    "ts": "2026-10-09T03:22:39.688Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 25,
-    "originTimestamp": "2026-10-09T02:57:31.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "We’re just going to have @Grok Bots manage Grokipedia",
-    "url": "https://x.com/elonmusk/status/2108396888160387541"
-  },
-  {
-    "id": "x-1791516732573-uyt6jw",
-    "source": "x",
-    "ts": "2026-10-09T03:32:12.573Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T03:30:44.000Z",
-    "reason": "Regulatory move affecting major cryptocurrencies in Thailand.",
-    "text": "🇹🇭 JUST IN: Thailand's SEC has finalized rules for Bitcoin and Ether ETFs on the Stock Exchange of Thailand, with trading allowed from October 16.",
-    "url": "https://x.com/Cointelegraph/status/2108399740492661072",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791517430522-pnyjx3",
-    "source": "x",
-    "ts": "2026-10-09T03:43:50.522Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-09T03:34:46.000Z",
-    "reason": "No notable crypto-related news in the tweet provided.",
-    "text": "🚨BREAKING: OpenAI says Iranian operatives used ChatGPT to plant 100+ articles criticizing the U.S. war against Iran.\n\nAccording to OpenAI, the operation involved seven fake journalists who helped place about 100 articles across about a dozen media outlets worldwide, including in",
-    "url": "https://x.com/coinbureau/status/2108400753794789811"
-  },
-  {
     "id": "x-1791517989532-91jgxn",
     "source": "x",
     "ts": "2026-10-09T03:53:09.532Z",
@@ -8049,5 +8007,58 @@
     "reason": "No concrete information provided.",
     "text": "BTS.",
     "url": "https://x.com/coinbase/status/2109583033385062493"
+  },
+  {
+    "id": "x-1791799342204-cwuc3r",
+    "source": "x",
+    "ts": "2026-10-12T10:02:22.204Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T10:01:10.000Z",
+    "reason": "StarkWare mentions new cryptographic tools in the fight against quantum threats.",
+    "text": "🔥 UPDATE: StarkWare says Europol cited account abstraction and ZK-STARKs as tools against quantum threats.",
+    "url": "https://x.com/Cointelegraph/status/2109585157439078719",
+    "images": [
+      "https://pbs.twimg.com/media/HUbAgn8XQAAHoji.png",
+      "https://pbs.twimg.com/media/HUbAg2NXkAEzMuA.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791799347532-8sdsx5",
+    "source": "x",
+    "ts": "2026-10-12T10:02:27.532Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T10:01:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "The $GRASS token is going turbo mode.\n\n@grass' token is up a staggering +140% over the past month, more than doubling in price.\n\nThe asset is up +13% in the past week alone, likely driven by last week's launch of the 'Grass Contents API' which \"turns any public URL into clean,",
+    "url": "https://x.com/BSCNews/status/2109585115269747188"
+  },
+  {
+    "id": "x-1791799354061-aan4ev",
+    "source": "x",
+    "ts": "2026-10-12T10:02:34.061Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-12T09:54:49.000Z",
+    "reason": "Ethereum memecoin surges sharply on positive news.",
+    "text": "New Ethereum Memecoin Soars 350% After Justin Drake Sounds Alarm\n\nEthereum (@ethereum) ethereum:native memecoin Bunker Mode (ethereum:0x41a4594575557efbf85cd950749bb0c1e99bcefd) has surged 350% in three days, reaching a reported $28 million market cap.\n\nThe price rally comes",
+    "url": "https://x.com/BSCNews/status/2109583560546161102",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109583408687149056/vid/avc1/1280x720/9K1nYCGlRfvYitzp.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109583408687149056/img/MKg6XgvNk2TM-s6q.jpg"
+    }
   }
 ]
