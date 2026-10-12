@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1791534137389-som43s",
-    "source": "x",
-    "ts": "2026-10-09T08:22:17.389Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-09T08:21:42.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "Trump Approval Falls To 30% Ahead Of Midterms\n\nUS President Donald Trump’s (@realDonaldTrump) approval rating has fallen to 30%, while 68% disapprove, according to Pew Research Center (@pewresearch).\n\nThe survey puts his approval at its lowest level of his second term.",
-    "url": "https://x.com/BSCNews/status/2108472961544138768"
-  },
-  {
-    "id": "x-1791534142661-u36rw0",
-    "source": "x",
-    "ts": "2026-10-09T08:22:22.661Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-09T08:18:42.000Z",
-    "reason": "Notable on-chain data point of high volume for a stablecoin.",
-    "text": "A, B, C",
-    "url": "https://x.com/binance/status/2108472207252881525",
-    "images": [
-      "https://pbs.twimg.com/media/HULMS6WW0AArCgh.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791534720227-buamdp",
-    "source": "x",
-    "ts": "2026-10-09T08:32:00.227Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-09T08:28:29.000Z",
-    "reason": "StarkNet's plans suggest significant potential for the STRK token.",
-    "text": "🔥 UPDATE: $STRK is up 47% after Starknet revealed plans to explore an L1 transition and become fully quantum-resistant.",
-    "url": "https://x.com/Cointelegraph/status/2108474669196026148",
-    "images": [
-      "https://pbs.twimg.com/media/HULOiIgWUAAMWUi.jpg",
-      "https://pbs.twimg.com/media/HULOiWtXAAAf7zy.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791534722616-khzydt",
     "source": "x",
     "ts": "2026-10-09T08:32:02.616Z",
@@ -8060,5 +8010,50 @@
       "https://pbs.twimg.com/media/HUbtEvjW8AAZzlC.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791811976167-ne4aso",
+    "source": "x",
+    "ts": "2026-10-12T13:32:56.167Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T13:30:55.000Z",
+    "reason": "Price and demand dynamics in tokenized assets are highlighted.",
+    "text": "🇸🇬 CONNECT: Is the tokenization boom getting ahead of investor demand?\n\n“Every asset issuer wants to do capital formation onchain,” @GSR_io's @ataaffe said, arguing that demand for tokenized private credit and other assets has yet to catch up with supply.",
+    "url": "https://x.com/Cointelegraph/status/2109637945137193304",
+    "images": [
+      "https://pbs.twimg.com/media/HUbwgbJXcAAwwbK.jpg",
+      "https://pbs.twimg.com/media/HUbwh4rXoAA1TLQ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791811979923-ex5dfx",
+    "source": "x",
+    "ts": "2026-10-12T13:32:59.923Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T13:30:08.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "LIVE: Sovereign BTC Adoption, Oil Market, Inflation Outlook | BMTV Oct. 12, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2109637744687558715"
+  },
+  {
+    "id": "x-1791811986116-wppn4h",
+    "source": "x",
+    "ts": "2026-10-12T13:33:06.116Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 34,
+    "originTimestamp": "2026-10-12T12:57:57.000Z",
+    "reason": "Noise: generic tweet without a specific claim or event.",
+    "text": "Watch BMTV LIVE from 9:30-11:30 AM ET\n\nThis weeks guests:\nTuesday 11:20 AM - @natbrunell (Natalie Brunell)\nWednesday 9:55 AM - @caprioleio (Charles Edwards)\nWednesday 11:00 AM - @EleanorTerrett (Eleanor Terrett)\nThursday 10:40 AM - @LarkDavis (Lark Davis)\nFriday 9:55 AM -",
+    "url": "https://x.com/BitcoinMagazine/status/2109637252632519150"
   }
 ]
