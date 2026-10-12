@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791577918793-k50ja7",
-    "source": "x",
-    "ts": "2026-10-09T20:31:58.793Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-09T20:24:00.000Z",
-    "reason": "Unexpected price spike due to exchange listing announcement",
-    "text": "KAIA pumps on news of Upbit listing.\n\n@KaiaChain's KAIA token saw a sudden and unexpected spike of roughly +40-50% on October 9.\n\nThe surge was ostensibly the result of leading Korean exchange @Official_Upbit announcing listing support, with trading launched at 18:30pm KST.",
-    "url": "https://x.com/BSCNews/status/2108654734198395209",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108513431900827648/vid/avc1/1312x720/IaZDTj9m8duSxrcq.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513431900827648/img/a-21h4qXdOQPIb-4.jpg"
-    }
-  },
-  {
-    "id": "x-1791578548352-0noumy",
-    "source": "x",
-    "ts": "2026-10-09T20:42:28.352Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T20:40:00.000Z",
-    "reason": "The tweet provides historical context but no new, concrete price or event.",
-    "text": "🚨One year ago, crypto saw its BIGGEST liquidation ever, and Bitcoin is down 33% since.\n\nBitcoin traded above $122,000 before the crash and now sits around $82,000.\n\nIt never got back above $117,000 after the crash.\n\nThe final count topped $19 BILLION in liquidations in 24 hours.",
-    "url": "https://x.com/coinbureau/status/2108658760759615582",
-    "images": [
-      "https://pbs.twimg.com/media/HUNt3P5b0AAevsI.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791579115783-4f5zbb",
     "source": "x",
     "ts": "2026-10-09T20:51:55.783Z",
@@ -7940,5 +7901,44 @@
     "reason": "Vague prediction with no basis given",
     "text": "🔥 BULLISH: Bitwise’s Matt Hougan says NEAR could rise roughly 40x by 2030 under the firm’s base case scenario.",
     "url": "https://x.com/Cointelegraph/status/2109783825232347223"
+  },
+  {
+    "id": "x-1791847314428-9ucitc",
+    "source": "x",
+    "ts": "2026-10-12T23:21:54.428Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T23:19:00.000Z",
+    "reason": "Plume taps new network for expanded tokenized financial products.",
+    "text": "Plume Taps Sora Ventures Network to Reach Five Asian Markets\n\nPlume (@plumenetwork) has signed a non-binding MOU with Nasdaq-listed AsiaStrategy to explore a joint venture for tokenized financial products.\n\nPlume would provide the tokenization infrastructure, while AsiaStrategy",
+    "url": "https://x.com/BSCNews/status/2109785938205491631",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109578088392671232/vid/avc1/1280x720/nkTTGxk8kYKhRdOW.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109578088392671232/img/0UdbS-pmDjFjEFPT.jpg"
+    }
+  },
+  {
+    "id": "x-1791847317011-jr2prr",
+    "source": "x",
+    "ts": "2026-10-12T23:21:57.011Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-12T23:18:09.000Z",
+    "reason": "The tweet provides specific, alarming information about a significant liquidation event.",
+    "text": "⚠️ALERT: Bitcoin falls below $82,000.\n\n$119 MILLION in crypto longs wiped out in the past hour.\n\nThe biggest single liquidation in the past 24 hours was a $9.65 MILLION $BTC long, per CoinGlass.",
+    "url": "https://x.com/coinbureau/status/2109785727185846356",
+    "images": [
+      "https://pbs.twimg.com/media/HUd1p5pakAAzRO-.png"
+    ],
+    "video": null
   }
 ]
