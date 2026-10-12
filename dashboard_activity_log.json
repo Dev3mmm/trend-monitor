@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1791563550647-nbkqn1",
-    "source": "x",
-    "ts": "2026-10-09T16:32:30.647Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 90,
-    "originTimestamp": "2026-10-09T15:01:56.000Z",
-    "reason": "The tweet is unrelated to cryptocurrencies and blockchain technology.",
-    "text": "BREAKING: SpaceX donated nearly $500,000 to Anderson-Shiro CISD in Texas for 3 new school buses with three-point seatbelts, cameras and radios.\n\nThe donation will help upgrade the district’s fleet and give students safer rides. ❤️",
-    "url": "https://x.com/elonmusk/status/2108595327091524090"
-  },
-  {
-    "id": "x-1791563556495-z7vcw7",
-    "source": "x",
-    "ts": "2026-10-09T16:32:36.495Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-09T16:27:24.000Z",
-    "reason": "Notifiable regulatory action involving Tether and THORChain.",
-    "text": "Tether Temporarily Freezes 1.45 Million USDT in THORChain Vaults on TRON, Reverses Blacklisting After Three Hours\n\nThe Defiant reported that Tether temporarily blacklisted four THORChain vault addresses on TRON, freezing approximately 1.45 million USDT and forcing THORChain to",
-    "url": "https://x.com/WuBlockchain/status/2108595194686033930",
-    "images": [
-      "https://pbs.twimg.com/media/HUM8JKKbYAAllW7.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791564131102-7wmve5",
-    "source": "x",
-    "ts": "2026-10-09T16:42:11.102Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-09T16:37:15.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-    "url": "https://x.com/DecryptMedia/status/2108597670931554684",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791564761935-dar2j6",
     "source": "x",
     "ts": "2026-10-09T16:52:41.935Z",
@@ -7977,5 +7930,55 @@
     "reason": "No concrete, specific data provided.",
     "text": "JUST IN: Bitcoin's weekly momentum has flipped positive on the MACD chart, after 44 consecutive negative weeks. 👀\n\nThis historically signals the start of a bull market. 🚀",
     "url": "https://x.com/BitcoinMagazine/status/2109727532845076573"
+  },
+  {
+    "id": "x-1791834434351-ukxbze",
+    "source": "x",
+    "ts": "2026-10-12T19:47:14.351Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T19:41:07.000Z",
+    "reason": "Notable warning about quantum computing risks to blockchain security.",
+    "text": "Quantum warnings keep piling up, and Algorand says it’s already prepared\n\nEU financial watchdogs warned last month that quantum computers could undermine the cryptography that secures blockchains, and a US government audit last week found federal agencies unprepared. @Algorand",
+    "url": "https://x.com/BSCNews/status/2109731107801325986",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109730905916878848/vid/avc1/1220x720/K-C3eUXnB_I6t82C.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109730905916878848/img/nCQ86hoCjDx6ahED.jpg"
+    }
+  },
+  {
+    "id": "x-1791834437676-kf1pwn",
+    "source": "x",
+    "ts": "2026-10-12T19:47:17.676Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 13,
+    "originTimestamp": "2026-10-12T19:33:29.000Z",
+    "reason": "Stellar's native asset network surpassing Solana and XRP",
+    "text": "Quiet climb, big flip 📈 stellar:native’s network passed Solana and the XRP Ledger in tokenized real-world assets, led by big funds from Amundi, Ondo and Franklin Templeton. The full breakdown: ⬇️",
+    "url": "https://x.com/BSCNews/status/2109729185098862839",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791834440525-1gq2bi",
+    "source": "x",
+    "ts": "2026-10-12T19:47:20.525Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 16,
+    "originTimestamp": "2026-10-12T19:30:54.000Z",
+    "reason": "No notable move in the tweet provided.",
+    "text": "🇸🇬 CONNECT: Crypto investors need to distinguish between equity ownership, token rights and access to company revenue.\n\n@Second_Lane co-founder @nabais_andre stressed that these rights can differ significantly, particularly when evaluating a project's treasury and potential",
+    "url": "https://x.com/Cointelegraph/status/2109728537473077542"
   }
 ]
