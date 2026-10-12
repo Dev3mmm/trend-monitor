@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1791567808756-9cbgix",
-    "source": "x",
-    "ts": "2026-10-09T17:43:28.756Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-09T17:33:13.000Z",
-    "reason": "Prediction/price call with no basis given",
-    "text": "JUST IN: Fundstrat's Tom Lee says “The crypto bull market is underway and the cycle is likely to be the largest” 👀\n\n“Since 2012, there have been 9 crosses above the 200-day moving average. Eight of the nine were bull market flags.” 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2108611756650057960"
-  },
-  {
-    "id": "x-1791568338770-gg7okw",
-    "source": "x",
-    "ts": "2026-10-09T17:52:18.770Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T17:50:48.000Z",
-    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
-    "text": "🇪🇺🇨🇳 LATEST: The EU and China agree to halve Chinese hybrid vehicle exports to the bloc, improve EU access to China’s market and ease licensing for Chinese rare earth exports.",
-    "url": "https://x.com/Cointelegraph/status/2108616179648549093"
-  },
-  {
-    "id": "x-1791568344678-yfhx8m",
-    "source": "x",
-    "ts": "2026-10-09T17:52:24.678Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-09T17:45:57.000Z",
-    "reason": "Tether emergency freeze and swift reversal highlight regulatory and technical risks in decentralized finance.",
-    "text": "🚨UPDATE: Tether temporarily FREEZES $1.45 MILLION in USDT across four THORChain vaults on TRON, forcing the protocol to suspend affected swaps, per The Defiant.\n\nTether reversed the blacklist after just THREE HOURS, restoring access to the funds and allowing services to resume.",
-    "url": "https://x.com/coinbureau/status/2108614958963704231",
-    "images": [
-      "https://pbs.twimg.com/media/HUNLe5FaIAAtWan.jpg",
-      "https://pbs.twimg.com/media/HUNMMhLagAA6PBF.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791568347584-z7oq3x",
-    "source": "x",
-    "ts": "2026-10-09T17:52:27.584Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 33,
-    "originTimestamp": "2026-10-09T17:19:11.000Z",
-    "reason": "Noise: Generic statement without factual claim.",
-    "text": "True",
-    "url": "https://x.com/elonmusk/status/2108614272112525781"
-  },
-  {
     "id": "x-1791568940764-ugvmx5",
     "source": "x",
     "ts": "2026-10-09T18:02:20.764Z",
@@ -7963,5 +7905,68 @@
       "https://pbs.twimg.com/media/HUdOfsxa0AEmaV0.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791840145303-f71sqm",
+    "source": "x",
+    "ts": "2026-10-12T21:22:25.303Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-12T21:17:15.000Z",
+    "reason": "Reasonably significant institutional adoption of a stablecoin.",
+    "text": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+    "url": "https://x.com/DecryptMedia/status/2109755298697158774",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791840149223-7oidys",
+    "source": "x",
+    "ts": "2026-10-12T21:22:29.223Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-12T21:10:47.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "⚡️ INSIGHT: Anthropic researchers warn small AI models may be months away from self-replicating across smart devices, after a 9B model set up inference on eight of nine hardware types tested.",
+    "url": "https://x.com/Cointelegraph/status/2109753672922001481"
+  },
+  {
+    "id": "x-1791840153581-o7v17u",
+    "source": "x",
+    "ts": "2026-10-12T21:22:33.581Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 18,
+    "originTimestamp": "2026-10-12T21:04:08.000Z",
+    "reason": "No notable move, price is well inside its recent range.",
+    "text": "NEW: Bitcoin funding rates are negative for the first time in 3 months, which historically leads to positive price action. \n\nBullish! 🐂",
+    "url": "https://x.com/BitcoinMagazine/status/2109751997268176955"
+  },
+  {
+    "id": "x-1791840159538-ergxus",
+    "source": "x",
+    "ts": "2026-10-12T21:22:39.538Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 21,
+    "originTimestamp": "2026-10-12T21:00:59.000Z",
+    "reason": "Specific and verifiable numbers about Stock Tokens and DEX volume.",
+    "text": "Robinhood Chain’s first 100 days, by the numbers\n\nRobinhood Chain passed its 100-day mark last week, and @RobinhoodCrypto says more than 190 Stock Tokens are now live, held by over 200,000 people in 120-plus countries. Those tokens have done over $15B in DEX volume.\n\nThe chain",
+    "url": "https://x.com/BSCNews/status/2109751205983293598",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109749922027196416/vid/avc1/1220x720/gwz9nSPAjGd2DM1b.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109749922027196416/img/Wt3FF92DnpVEyvxz.jpg"
+    }
   }
 ]
