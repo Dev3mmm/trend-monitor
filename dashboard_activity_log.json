@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791496312144-96j7tv",
-    "source": "x",
-    "ts": "2026-10-08T21:51:52.144Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 60,
-    "originTimestamp": "2026-10-08T20:51:27.000Z",
-    "reason": "Meme without context or factual claim.",
-    "text": "heard you have other apps...that's cute",
-    "url": "https://x.com/elonmusk/status/2108313143533306024"
-  },
-  {
-    "id": "x-1791496644304-ai9zoa",
-    "source": "x",
-    "ts": "2026-10-08T21:57:24.304Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Elon Musk",
-    "ageMin": 89,
-    "originTimestamp": "2026-10-08T20:28:00.000Z",
-    "reason": "Regulatory change leading to unexpected price movement in crypto related to gig workers.",
-    "text": "Seattle city council wanted to help \"exploited\" gig workers.\n \nSo they forced delivery apps to pay drivers MORE.\n \n\"I wouldn’t assume that prices are going to go up,\" said one politician.\n \nBut prices DID go up.\n \n@judgeglock of @ManhattanInst explains how regulation backfired:",
-    "url": "https://x.com/elonmusk/status/2108315446948626662",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2069137985375703040/vid/avc1/1280x720/0OwDxF4v7JCltwTB.mp4?tag=28",
-      "duration": 287,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HLcr69BWUAAGqaG.jpg"
-    }
-  },
-  {
     "id": "x-1791496648072-vk82ph",
     "source": "x",
     "ts": "2026-10-08T21:57:28.072Z",
@@ -8019,6 +7985,46 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109494867441455104/img/lfYEVky-iz2YP12g.jpg"
+    }
+  },
+  {
+    "id": "x-1791779543853-m9938a",
+    "source": "x",
+    "ts": "2026-10-12T04:32:23.853Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T04:30:50.000Z",
+    "reason": "Notable institutional investment and control over FTX's assets.",
+    "text": "🔥 BIG: SWI Group raises €800M to invest in data centers serving AI companies after taking control of FTX’s Genesis Digital Assets.",
+    "url": "https://x.com/Cointelegraph/status/2109502028200169913",
+    "images": [
+      "https://pbs.twimg.com/media/HUZ06DeWMAAQWkh.png",
+      "https://pbs.twimg.com/media/HUZ06gLXUAARIzv.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791779549415-nfgazr",
+    "source": "x",
+    "ts": "2026-10-12T04:32:29.415Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-12T04:23:40.000Z",
+    "reason": "Criticism of Ethereum's design and potential security concerns are noteworthy.",
+    "text": "Adam Back Praises Satoshi as Ethereum Faces Fresh Design Criticism\n\nBlockstream CEO, Adam Back (@adam3us) criticized Ethereum’s (@ethereum) ethereum:native early design choices amid fresh warnings about AI and cryptography.\n\nEthereum researcher Justin Drake (@drakefjustin) said",
+    "url": "https://x.com/BSCNews/status/2109500223420813517",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109498401146683392/vid/avc1/1280x720/1ir0bEJmWsGzxLE2.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109498401146683392/img/4NKKilzttIOWH_gu.jpg"
     }
   }
 ]
