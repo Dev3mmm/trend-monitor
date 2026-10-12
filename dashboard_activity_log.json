@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791493346939-gwluzr",
-    "source": "x",
-    "ts": "2026-10-08T21:02:26.939Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-08T20:50:16.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": "Probably nothing.",
-    "url": "https://x.com/saylor/status/2108300606985077203"
-  },
-  {
     "id": "x-1791493351314-yybrqi",
     "source": "x",
     "ts": "2026-10-08T21:02:31.314Z",
@@ -8009,6 +7996,25 @@
     "url": "https://x.com/WuBlockchain/status/2109448859458158667",
     "images": [
       "https://pbs.twimg.com/media/HUZEi5zaoAAqjJf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791768787066-rf4g30",
+    "source": "x",
+    "ts": "2026-10-12T01:33:07.066Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T01:30:49.000Z",
+    "reason": "Notable institutional deal involving AI and cryptocurrency technologies.",
+    "text": "🚨 NEW: Amazon is in talks to acquire AI startup Decart, whose software helps developers move between different AI chips, in a deal that could reach around $7 billion, per WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2109456724738384175",
+    "images": [
+      "https://pbs.twimg.com/media/HUZLtUsXwAACHL4.jpg",
+      "https://pbs.twimg.com/media/HUZLtj3W8AAR3Wm.png"
     ],
     "video": null
   }
