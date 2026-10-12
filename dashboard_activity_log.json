@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791541368895-0v42z0",
-    "source": "x",
-    "ts": "2026-10-09T10:22:48.895Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-09T10:14:08.000Z",
-    "reason": "No notable move, no specific event or news event.",
-    "text": "Why Are There Two Terra Chains and Two Tokens, LUNC and LUNA?\n\nIt all goes back to Terra’s (@terra_money) collapse in May 2022, when its algorithmic stablecoin TerraUSD ($UST) lost its dollar peg.\n\nThe collapse triggered a death spiral. As UST struggled to recover, the protocol",
-    "url": "https://x.com/BSCNews/status/2108501256612503562"
-  },
-  {
     "id": "x-1791541373337-0fkc0o",
     "source": "x",
     "ts": "2026-10-09T10:22:53.337Z",
@@ -8025,5 +8012,24 @@
     "reason": "No notable move or specific news event.",
     "text": "🇸🇬 CONNECT: Does every crypto project really need a token?\n\n@etherealvc's Min Teo criticized projects for “trying to manufacture utility in a network,” warning that unnecessary token mechanics can add friction instead of improving the product.",
     "url": "https://x.com/Cointelegraph/status/2109649246265753952"
+  },
+  {
+    "id": "x-1791815544608-12anez",
+    "source": "x",
+    "ts": "2026-10-12T14:32:24.608Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T14:30:55.000Z",
+    "reason": "Stablecoin adoption and its limitations discussed",
+    "text": "🇸🇬 CONNECT: Having stablecoins in a wallet doesn't mean they're useful for everyday payments.\n\n“We've solved money? Like, no,” @ether_fi CEO @MikeSilagadze said, pointing to the missing infrastructure for salaries, bills and local currency payments.",
+    "url": "https://x.com/Cointelegraph/status/2109653043813786070",
+    "images": [
+      "https://pbs.twimg.com/media/HUb-PRfXcAEXL8W.jpg",
+      "https://pbs.twimg.com/media/HUb-QozX0AA-FqR.png"
+    ],
+    "video": null
   }
 ]
