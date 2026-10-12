@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791543164678-s93nkw",
-    "source": "x",
-    "ts": "2026-10-09T10:52:44.678Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-09T10:45:46.000Z",
-    "reason": "Notable development in the privacy and security of blockchain technology.",
-    "text": "🔥 UPDATE: NEAR co-founder Illia Polosukhin says NEAR accounts can become quantum-resistant with a key update, with no asset migration needed.",
-    "url": "https://x.com/Cointelegraph/status/2108509216939950528",
-    "images": [
-      "https://pbs.twimg.com/media/HULt9DgXoAAHpvW.png",
-      "https://pbs.twimg.com/media/HULt9S5WgAAlqhf.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791543761312-1tkk7e",
-    "source": "x",
-    "ts": "2026-10-09T11:02:41.312Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T10:59:40.000Z",
-    "reason": "Polygon surpasses 8 billion lifetime transactions.",
-    "text": "Polygon Exceeds 8.2 Billion Lifetime Transactions....\n\nPolygon (@0xPolygon) has officially exceeded 8,200,006,683 lifetime transactions, keeping it among the leading-volume networks in the EVM universe. \n\n@Chainspect data shows sustained transaction throughput driven by",
-    "url": "https://x.com/BSCNews/status/2108512718378484120",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108512509032296449/vid/avc1/1316x720/RlynrQV4MRO78UOU.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108512509032296449/img/GRYn2HNXnWSYEz3b.jpg"
-    }
-  },
-  {
     "id": "x-1791545563378-yixutk",
     "source": "x",
     "ts": "2026-10-09T11:32:43.378Z",
@@ -8030,5 +7990,37 @@
     "reason": "Generic hype with no real content.",
     "text": "Listen to Elon!",
     "url": "https://x.com/elonmusk/status/2109659735527952538"
+  },
+  {
+    "id": "x-1791817922204-xpzrmc",
+    "source": "x",
+    "ts": "2026-10-12T15:12:02.204Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-12T15:07:09.000Z",
+    "reason": "South Korea's first bitcoin-backed won loans signify significant institutional adoption in the region.",
+    "text": "JUST IN: 🇰🇷 South Korea's Jeonbuk Bank will offer the first ever bitcoin-backed won loans for clients  🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2109662163170124208",
+    "images": [
+      "https://pbs.twimg.com/media/HUcGDUrWEAA0jcS.jpg",
+      "https://pbs.twimg.com/media/HUcGDl0XIAAfLoh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791817925311-6fofwj",
+    "source": "x",
+    "ts": "2026-10-12T15:12:05.311Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-12T15:01:26.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": "🇸🇬 CONNECT: Why should sending digital dollars require holding another cryptocurrency?\n\n@USDDecentralize's @yvchiax argued that requiring separate gas tokens creates unnecessary friction, calling for stablecoin transfers that work without users worrying about network fees.",
+    "url": "https://x.com/Cointelegraph/status/2109660724213555428"
   }
 ]
