@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791541358140-4ntvv0",
-    "source": "x",
-    "ts": "2026-10-09T10:22:38.140Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-09T10:15:45.000Z",
-    "reason": "Notable financial move with specific data provided.",
-    "text": "🚨 ALERT: Crypto ETF net outflows reached $311.9M yesterday, per CoinGlass data.",
-    "url": "https://x.com/Cointelegraph/status/2108501666177704186",
-    "images": [
-      "https://pbs.twimg.com/media/HULnFx1XYAAsNGR.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791541363750-bbu8ml",
-    "source": "x",
-    "ts": "2026-10-09T10:22:43.750Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-09T10:14:46.000Z",
-    "reason": "Noteworthy institutional move in the crypto-ETF space.",
-    "text": "HUGE: Ripple to compete with banking giants in Wall Street's $256 BILLION leveraged ETF market.\n\nIts Hidden Road deal turned Ripple into a PRIME BROKER, letting it finance trades for institutions.\n\nNow rebranded as Ripple Prime, it helps ETF firms borrow stock and index exposure",
-    "url": "https://x.com/coinbureau/status/2108501414800753118",
-    "images": [
-      "https://pbs.twimg.com/media/HULk1M1aQAEIrXs.jpg",
-      "https://pbs.twimg.com/media/HULk0KwbAAAkB8W.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791541368895-0v42z0",
     "source": "x",
     "ts": "2026-10-09T10:22:48.895Z",
@@ -8028,5 +7991,39 @@
     "reason": "No notable move or specific event described.",
     "text": "Next stop: #BinanceCampus Asia. \n\nStay tuned.",
     "url": "https://x.com/binance/status/2109646441106776398"
+  },
+  {
+    "id": "x-1791814939463-6sp43p",
+    "source": "x",
+    "ts": "2026-10-12T14:22:19.463Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T14:19:00.000Z",
+    "reason": "Record-breaking transaction volume increase reported",
+    "text": "NEAR Intents see record-breaking month.\n\nIn November 2025, @NEARProtocol's @near_intents processed an all-time high swap volume of $3.66B...\n\n... a record which was shattered in September 2026 with a total of some $4.8B.\n\nThis also works out to a staggering +73% increase from",
+    "url": "https://x.com/BSCNews/status/2109650042747559988",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109544167810428928/vid/avc1/1312x720/XGAV94LUDGBwTnSs.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109544167810428928/img/p8CPq4o1nTxnbyD1.jpg"
+    }
+  },
+  {
+    "id": "x-1791814943843-tnkhmv",
+    "source": "x",
+    "ts": "2026-10-12T14:22:23.843Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T14:15:50.000Z",
+    "reason": "No notable move or specific news event.",
+    "text": "🇸🇬 CONNECT: Does every crypto project really need a token?\n\n@etherealvc's Min Teo criticized projects for “trying to manufacture utility in a network,” warning that unnecessary token mechanics can add friction instead of improving the product.",
+    "url": "https://x.com/Cointelegraph/status/2109649246265753952"
   }
 ]
