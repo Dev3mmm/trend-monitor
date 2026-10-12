@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791529932725-z9iws3",
-    "source": "x",
-    "ts": "2026-10-09T07:12:12.725Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-09T07:03:34.000Z",
-    "reason": "New institutional partnerships and integrations in the crypto ecosystem.",
-    "text": "Circle’s Arc Expands Into Payments And High Volume Onchain Trading\n\nCircle's (@circle) Arc (@arc) is growing its ecosystem through additional integrations for payments and trading.\n\nTransak (@Transak) is now live on Arc, letting users fund wallets with debit cards or Apple Pay",
-    "url": "https://x.com/BSCNews/status/2108453300722864532",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108453155440881664/vid/avc1/1280x720/el3GmmX2NNbsV-in.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108453155440881664/img/QmYuEzJdDbm-cBeH.jpg"
-    }
-  },
-  {
-    "id": "x-1791529936665-axx551",
-    "source": "x",
-    "ts": "2026-10-09T07:12:16.665Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 31,
-    "originTimestamp": "2026-10-09T06:41:14.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "1% bounce overnight",
-    "url": "https://x.com/coinbase/status/2108452760777842780"
-  },
-  {
     "id": "x-1791530610647-059nz9",
     "source": "x",
     "ts": "2026-10-09T07:23:30.647Z",
@@ -8037,5 +8003,45 @@
     "reason": "Noise: meme without crypto content",
     "text": "12th October 1989\n\n12th October 2026\n\n37 years of everlasting memory.\n\nFranco Luambo Luanzo Makiadi, Le Grand Maître.",
     "url": "https://x.com/amerix/status/2109618929958043725"
+  },
+  {
+    "id": "x-1791808358315-mh40u4",
+    "source": "x",
+    "ts": "2026-10-12T12:32:38.315Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T12:30:55.000Z",
+    "reason": "Crypto tycoon Justin Sun's on-chain wealth is noteworthy but not breaking news.",
+    "text": "🔥 INTERESTING:  Justin Sun holds $2.25B onchain across 10 networks, ranking second only to Satoshi Nakamoto, says Arkham.",
+    "url": "https://x.com/Cointelegraph/status/2109622844497813651",
+    "images": [
+      "https://pbs.twimg.com/media/HUbixlVXQAAQg2c.jpg",
+      "https://pbs.twimg.com/media/HUbiys7XIAA78LV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791808364203-nkmc2s",
+    "source": "x",
+    "ts": "2026-10-12T12:32:44.203Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-12T12:23:00.000Z",
+    "reason": "Nasdaq listing for a stablecoin is notable institutional adoption.",
+    "text": "473,000,000 $XRP hits the Nasdaq today.\n\nEvernorth, a treasury company for @Ripple's native token, is going live for trading today on Nasdaq under the ticker $XRPN. \n\nThe firm, which has raised over a billion dollars, holds nearly half a billion $XRP tokens...\n\nBullish much?",
+    "url": "https://x.com/BSCNews/status/2109620850194559354",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109543802973163520/vid/avc1/1312x720/pcAFFzer6dyB5Kj0.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109543802973163520/img/magubTCmNjlt1jPo.jpg"
+    }
   }
 ]
