@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791499923785-a7h4jn",
-    "source": "x",
-    "ts": "2026-10-08T22:52:03.785Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T22:48:00.000Z",
-    "reason": "Significant year-over-year price decline and lack of recent updates.",
-    "text": "Telcoin's price has struggled this year...\n\nDespite a market cap of nearly $200M, @telcoin's $TEL token is down -12.6% on the week at time of writing, around 9am UTC.\n\nThe coin is down -56% on the year, with few updates in Q3 2026, following exciting banking news in the first",
-    "url": "https://x.com/BSCNews/status/2108328585270313339",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108125725987332096/vid/avc1/1312x720/ZiAjLSvIda8wGSgl.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108125725987332096/img/1q_n77EZWd-IHAJD.jpg"
-    }
-  },
-  {
-    "id": "x-1791500523675-41m4sk",
-    "source": "x",
-    "ts": "2026-10-08T23:02:03.675Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T23:01:00.000Z",
-    "reason": "Unique startup story lacking VC funding and unconventional allocation strategy.",
-    "text": "Kaspa's journey has been more than a little unique.\n\nNo VC funding, no crazy team allocations - Here's what you need to understand the $KAS story ⬇️",
-    "url": "https://x.com/BSCNews/status/2108331856919961665",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791500526046-rv9t9j",
     "source": "x",
     "ts": "2026-10-08T23:02:06.046Z",
@@ -8040,5 +8003,37 @@
     "reason": "Noise: Generic statement without content.",
     "text": "Wow",
     "url": "https://x.com/elonmusk/status/2109519998691553639"
+  },
+  {
+    "id": "x-1791784920258-80n3p8",
+    "source": "x",
+    "ts": "2026-10-12T06:02:00.258Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-12T06:01:10.000Z",
+    "reason": "Noise: generic tweet without content.",
+    "text": "❖︎ ☕",
+    "url": "https://x.com/binance/status/2109524758416990434"
+  },
+  {
+    "id": "x-1791784925281-p3r8tj",
+    "source": "x",
+    "ts": "2026-10-12T06:02:05.281Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-12T06:01:04.000Z",
+    "reason": "Notable regulatory and institutional move in the crypto space.",
+    "text": "🇦🇪 JUST IN: 3iQ’s UAE arm secures in-principle approval for a Category 4 license from Abu Dhabi’s financial regulator, expanding its push into major digital asset hubs.",
+    "url": "https://x.com/Cointelegraph/status/2109524735679758756",
+    "images": [
+      "https://pbs.twimg.com/media/HUaJkHkXUAAJTQW.png",
+      "https://pbs.twimg.com/media/HUaJkTqXwAER145.jpg"
+    ],
+    "video": null
   }
 ]
