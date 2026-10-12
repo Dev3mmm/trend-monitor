@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1791554567538-hh9cin",
-    "source": "x",
-    "ts": "2026-10-09T14:02:47.538Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-09T13:56:11.000Z",
-    "reason": "Ledger initiates investigation and suspends sales after claims of customer funds being drained.",
-    "text": "Ledger Responds to Wallet Drain on Bitcoin, Ethereum, and TRON \n\n@Ledger says it is investigating claims that customers in Southeast Asia had funds drained through device purchases from reseller CryptoBillis. \n\nLedger has suspended all sales and deliveries from this reseller as a",
-    "url": "https://x.com/BSCNews/status/2108557139635577308",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108556844343906304/vid/avc1/1316x720/17Mzatbg-OYuFOzp.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108556844343906304/img/zUrg54IRKUQnrIgU.jpg"
-    }
-  },
-  {
-    "id": "x-1791555151579-a2o916",
-    "source": "x",
-    "ts": "2026-10-09T14:12:31.579Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T14:10:37.000Z",
-    "reason": "Notifiable security incident involving user funds loss.",
-    "text": "BREAKING: Ledger reports loss of funds from users in South East Asia who purchased products from the reseller \"CryptoBillis\". \n\nThe situation is ongoing and users are urged to review Ledger's official updates.",
-    "url": "https://x.com/BitcoinMagazine/status/2108560772003463384",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108559719619047424/vid/avc1/1280x720/3d_P79YLIiiS3-35.mp4?tag=29",
-      "duration": 131,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HUMco7KXsAAbkK_.jpg"
-    }
-  },
-  {
-    "id": "x-1791555157014-a7a3nz",
-    "source": "x",
-    "ts": "2026-10-09T14:12:37.014Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-09T14:09:00.000Z",
-    "reason": "New regulatory regime for crypto exchanges to prevent future failures.",
-    "text": "CFTC does NOT want a repeat of another FTX Saga\n\n@CFTC officials are moving to implement a broad regulatory regime for crypto asset spot exchanges. \n\nThis would require institutions to use segregated accounts and surveillance systems to prevent a repeat of the FTX bankruptcy.",
-    "url": "https://x.com/BSCNews/status/2108560362933014797",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108557753941712896/vid/avc1/1316x720/80VsBSMpauIGIvp5.mp4?tag=29",
-      "duration": 30,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108557753941712896/img/Y76skf9mABzaShk7.jpg"
-    }
-  },
-  {
     "id": "x-1791555160411-rbqdpl",
     "source": "x",
     "ts": "2026-10-09T14:12:40.411Z",
@@ -7987,5 +7924,58 @@
     "url": "https://x.com/BSCNews/status/2109698816953770478",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791827602809-6jf7gr",
+    "source": "x",
+    "ts": "2026-10-12T17:53:22.809Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T17:50:49.000Z",
+    "reason": "Specific regulatory move involving a central bank and cryptocurrency exchange",
+    "text": "🇷🇺 NEW: Russia’s central bank has added Sberbank to its register of organizations authorized to exchange cryptocurrencies.",
+    "url": "https://x.com/Cointelegraph/status/2109703348613963967",
+    "images": [
+      "https://pbs.twimg.com/media/HUcsAk1WkAAwMwo.png",
+      "https://pbs.twimg.com/media/HUcsA0pWkAADocm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791827608383-sq4wix",
+    "source": "x",
+    "ts": "2026-10-12T17:53:28.383Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T17:50:21.000Z",
+    "reason": "Notable regulatory change in mining rewards for a cryptocurrency.",
+    "text": "Kaspa cuts its mining reward every month instead of every four years\n\nBitcoin halves its mining reward about every four years, in one sudden step. $KAS takes a smoother path, trimming its reward by about 5.6% each month.\n\nTwelve of those small cuts add up to one full halving a",
+    "url": "https://x.com/BSCNews/status/2109703233283186996",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109702498516717568/vid/avc1/1220x720/jnXobA0U-8UuR9v7.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109702498516717568/img/-6JkaeSCttSbXSLP.jpg"
+    }
+  },
+  {
+    "id": "x-1791827613586-20pi2b",
+    "source": "x",
+    "ts": "2026-10-12T17:53:33.586Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-12T17:45:00.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "🚨BREAKING: Microsoft unveils Maia 300, its third-gen AI chip, in a landmark move reshaping the company’s long-standing dependence on Nvidia.\n\nProduction deployments begin in 2027, with Microsoft planning to scale its Maia infrastructure to MULTI-GIGAWATT capacity.\n\nThe chip is",
+    "url": "https://x.com/coinbureau/status/2109701884483183045"
   }
 ]
