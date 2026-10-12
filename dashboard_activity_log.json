@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791579115783-4f5zbb",
-    "source": "x",
-    "ts": "2026-10-09T20:51:55.783Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T20:50:45.000Z",
-    "reason": "No notable crypto-related move or institution involvement mentioned.",
-    "text": "🇷🇺 INSIGHT: Peter Schiff questions President Trump’s Russian diesel deal, saying it comes just three weeks after he signed a law targeting Russian oil and gas buyers with tariffs of up to 100%.",
-    "url": "https://x.com/Cointelegraph/status/2108661468363145616"
-  },
-  {
-    "id": "x-1791579751545-exu3jy",
-    "source": "x",
-    "ts": "2026-10-09T21:02:31.545Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T21:01:00.000Z",
-    "reason": "The tweet mentions ETFs holding a significant portion of XRP, which is noteworthy.",
-    "text": "Spot $XRP ETFs mounted a recovery this week!\n\nDespite see inflows on only two days of the week so far, spot @Ripple ETFs are up +$11.31M for the period.\n\nThey now hold some 1.79% of $XRP's supply - nearly 1 in every 50 tokens...",
-    "url": "https://x.com/BSCNews/status/2108664045809340902",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108513574872039424/vid/avc1/1312x720/ceZXRtJnVnz1QE7J.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108513574872039424/img/RfwtMkFMSs1GsO4K.jpg"
-    }
-  },
-  {
     "id": "x-1791579757018-sqjy2f",
     "source": "x",
     "ts": "2026-10-09T21:02:37.018Z",
@@ -7938,6 +7904,38 @@
     "url": "https://x.com/coinbureau/status/2109785727185846356",
     "images": [
       "https://pbs.twimg.com/media/HUd1p5pakAAzRO-.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791847962554-dz6h87",
+    "source": "x",
+    "ts": "2026-10-12T23:32:42.554Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T23:30:39.000Z",
+    "reason": "No notable crypto-related event or specific crypto price movement mentioned.",
+    "text": "🇺🇸 LATEST: Elon Musk donated more than $276 million to Republican groups since July, becoming the biggest known donor of the 2026 midterm elections.",
+    "url": "https://x.com/Cointelegraph/status/2109788869285539872"
+  },
+  {
+    "id": "x-1791847967085-a0vm8z",
+    "source": "x",
+    "ts": "2026-10-12T23:32:47.085Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T23:26:31.000Z",
+    "reason": "Significant liquidation event in crypto markets.",
+    "text": "🚨 JUST IN: Over $123M liquidated in the past hour, with $119.78M in longs wiped out, as bitcoin:native fell below $82,000.",
+    "url": "https://x.com/Cointelegraph/status/2109787829941473764",
+    "images": [
+      "https://pbs.twimg.com/media/HUd40pKbYAAXxYv.jpg",
+      "https://pbs.twimg.com/media/HUd42FIaIAEiHQR.jpg"
     ],
     "video": null
   }
