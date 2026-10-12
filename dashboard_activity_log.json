@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1791568940764-ugvmx5",
-    "source": "x",
-    "ts": "2026-10-09T18:02:20.764Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T18:01:02.000Z",
-    "reason": "TWITTER TWEET NOT PROVIDED",
-    "text": "🤔",
-    "url": "https://x.com/binance/status/2108618756058427548"
-  },
-  {
-    "id": "x-1791569529660-ucukga",
-    "source": "x",
-    "ts": "2026-10-09T18:12:09.660Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T18:10:45.000Z",
-    "reason": "Ledger investigating suspected crypto thefts.",
-    "text": "🚨 LATEST: Ledger is investigating losses linked to reseller CryptoBilis, suspending its sales and urging recent buyers to avoid setup or consider moving funds to new wallets. \n\nResearchers estimate over $72 million to $86 million in suspected thefts, but the connection remains",
-    "url": "https://x.com/Cointelegraph/status/2108621200347771062",
-    "images": [
-      "https://pbs.twimg.com/media/HUNTzmWXAAAhy7x.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791569532585-ulk70s",
-    "source": "x",
-    "ts": "2026-10-09T18:12:12.585Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T18:09:41.000Z",
-    "reason": "Memes are not news.",
-    "text": "Listen,\n\nBeauty will fade.\n\nIt fades so fast.\n\nBeauty, romance, and love are biological tricks nature uses to harvest your seeds to ensure the continuity of the human species.\n\nThe biology of reproduction is a deceptive mechanism. Nature is selfish. It doesn't care about you; it",
-    "url": "https://x.com/amerix/status/2108620933002932459"
-  },
-  {
     "id": "x-1791569535466-7el3bl",
     "source": "x",
     "ts": "2026-10-09T18:12:15.466Z",
@@ -7968,5 +7924,55 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109749922027196416/img/Wt3FF92DnpVEyvxz.jpg"
     }
+  },
+  {
+    "id": "x-1791841471987-nobo2d",
+    "source": "x",
+    "ts": "2026-10-12T21:44:31.987Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-12T21:35:02.000Z",
+    "reason": "Notable change in governance structure for crypto projects.",
+    "text": "Algorand lets the people who produce blocks decide which builders get grants\n\nCrypto grants are usually handed out by a foundation. @Algorand's xGov program lets the people who keep the network running vote on them instead, with funds paid onchain to open-source builders.\n\nVoting",
+    "url": "https://x.com/BSCNews/status/2109759773608431889",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109758373499453441/vid/avc1/1220x720/LKgGX6vKApk5w9GE.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109758373499453441/img/BKnhPAKXGfTC6hjO.jpg"
+    }
+  },
+  {
+    "id": "x-1791841474944-mj4wgs",
+    "source": "x",
+    "ts": "2026-10-12T21:44:34.944Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 13,
+    "originTimestamp": "2026-10-12T21:30:47.000Z",
+    "reason": "Notable institutional support for crypto during elections",
+    "text": "🇺🇸 UPDATE: Fairshake-affiliated crypto PACs reported $2.7 million in ad and direct mail spending to support pro-crypto House candidates ahead of the U.S. midterm elections.",
+    "url": "https://x.com/Cointelegraph/status/2109758706145448071",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791841478241-46es2r",
+    "source": "x",
+    "ts": "2026-10-12T21:44:38.241Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 14,
+    "originTimestamp": "2026-10-12T21:30:00.000Z",
+    "reason": "No notable crypto-related event or movement.",
+    "text": "🇺🇸JUST IN: The US dollar has hit its HIGHEST level in 18 months.\n\nThe dollar index rose to 102.58, its strongest level since April 2025.\n\nIt’s up 3.5% in the past month alone.\n\nA stronger dollar makes imports cheaper for Americans, but raises costs for countries and companies",
+    "url": "https://x.com/coinbureau/status/2109758509000618095"
   }
 ]
