@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791555160411-rbqdpl",
-    "source": "x",
-    "ts": "2026-10-09T14:12:40.411Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-09T14:07:24.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Just imagine +300M people in one place 💛",
-    "url": "https://x.com/binance/status/2108559960900616326"
-  },
-  {
-    "id": "x-1791555166025-xamjcf",
-    "source": "x",
-    "ts": "2026-10-09T14:12:46.025Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 82,
-    "originTimestamp": "2026-10-09T12:50:05.000Z",
-    "reason": "Potential security breach involving Ledger devices and user funds.",
-    "text": "⚡️UPDATE: Ledger is investigating reports of STOLEN FUNDS from users in Southeast Asia who purchased devices from reseller CryptoBilis.\n\nLedger has ordered the reseller to PAUSE all sales and shipments pending investigation.\n\nCustomers who purchased devices in the last 90 days",
-    "url": "https://x.com/coinbureau/status/2108559190868578809",
-    "images": [
-      "https://pbs.twimg.com/media/HUMbX4MbAAA7Mn5.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791555735714-nan2n6",
     "source": "x",
     "ts": "2026-10-09T14:22:15.714Z",
@@ -7977,5 +7946,45 @@
     "reason": "No notable move, price is well within the recent range.",
     "text": "🚨BREAKING: Microsoft unveils Maia 300, its third-gen AI chip, in a landmark move reshaping the company’s long-standing dependence on Nvidia.\n\nProduction deployments begin in 2027, with Microsoft planning to scale its Maia infrastructure to MULTI-GIGAWATT capacity.\n\nThe chip is",
     "url": "https://x.com/coinbureau/status/2109701884483183045"
+  },
+  {
+    "id": "x-1791828190712-q2fr46",
+    "source": "x",
+    "ts": "2026-10-12T18:03:10.712Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T18:01:11.000Z",
+    "reason": "New regulatory approach to crypto projects indicated.",
+    "text": "🇸🇬 CONNECT: Crypto's quick-flip era may be coming to an end.\n\n@NomadCapital_io's @pg_gpt said founders now need two-to-five-year business plans, rather than launching projects to make money and exit during a bull cycle.",
+    "url": "https://x.com/Cointelegraph/status/2109705956665839908",
+    "images": [
+      "https://pbs.twimg.com/media/HUcuX3NWwAAktVT.jpg",
+      "https://pbs.twimg.com/media/HUcuYmKXYAA3M0S.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791828195620-mp7h25",
+    "source": "x",
+    "ts": "2026-10-12T18:03:15.620Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T18:00:15.000Z",
+    "reason": "Specific event of introducing new Bitcoin price prediction markets.",
+    "text": "JUST IN: Polymarket introduces expanded Bitcoin price prediction markets, including hourly and daily moves, long-term price targets, and BTC price highs and lows. 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2109705721868873990",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109660304195956736/vid/avc1/720x720/B4GDhBJU4rEZE5DB.mp4?tag=29",
+      "duration": 26,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109660304195956736/img/ScEHjXZ1g7nUWDiY.jpg"
+    }
   }
 ]
