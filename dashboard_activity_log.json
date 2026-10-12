@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791559355363-k1bmy0",
-    "source": "x",
-    "ts": "2026-10-09T15:22:35.363Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 58,
-    "originTimestamp": "2026-10-09T14:23:54.000Z",
-    "reason": "Vague opinion with no factual claim or basis given.",
-    "text": "ARK Invest's Lorenzo Valente on his Bitcoin outlook:\n\n\"Regardless of the rates environment, regardless of liquidity and the macro outlook, I think Bitcoin is very well positioned.\"\n\n\"The outlook in the next year or two is extremely positive.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2108578129392640100"
-  },
-  {
-    "id": "x-1791559360991-6fgbqw",
-    "source": "x",
-    "ts": "2026-10-09T15:22:40.991Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-09T15:17:42.000Z",
-    "reason": "U.S. government action on Iran-linked cryptocurrency.",
-    "text": "Bessent Says U.S. May Seize About $1B in Iran-Linked Crypto This Week\n\nAccording to Newsmax, U.S. Treasury Secretary Scott Bessent said at the NPolicy Summit in Washington that the U.S. may seize about $1 billion in cryptocurrency linked to Iran this week, adding that authorities",
-    "url": "https://x.com/WuBlockchain/status/2108577654513479719",
-    "images": [
-      "https://pbs.twimg.com/media/HUMsFx8bcAAEEbb.jpg",
-      "https://pbs.twimg.com/media/HUMsGFZboAARHjF.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791559946497-m65jo7",
     "source": "x",
     "ts": "2026-10-09T15:32:26.497Z",
@@ -7988,5 +7956,44 @@
       "https://pbs.twimg.com/media/HUc08GKXUAAO3CW.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791830530427-maxti4",
+    "source": "x",
+    "ts": "2026-10-12T18:42:10.427Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 116,
+    "originTimestamp": "2026-10-12T16:45:56.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Thank you @baogerbao 🧡\n\nLast Friday on behalf of @binance, I accepted the Community Chest's Tai Po Fire Relief Outstanding Contribution Award — recognizing the HK$10M donated for rescue and community recovery in 2025.\n\nThat donation was made before I joined Binance. The credit",
+    "url": "https://x.com/cz_binance/status/2109714747591671851",
+    "images": [
+      "https://pbs.twimg.com/media/HUccgcCawAQ-8vA.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791830536140-xudmre",
+    "source": "x",
+    "ts": "2026-10-12T18:42:16.140Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-12T18:32:57.000Z",
+    "reason": "New use of a token/stablecoin with AI for smart contract risk mitigation.",
+    "text": "Floki’s sister project TokenFi wants AI to catch contract bugs before launch\n\nTokenFi, the sister project of @FLOKI, is spotlighting its Shield tool, which uses AI to scan smart contract code and flag risks in minutes. It covers Solidity and Rust contracts on EVM chains and",
+    "url": "https://x.com/BSCNews/status/2109713954238816555",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109713743978364929/vid/avc1/1220x720/s0yDDdYAxP60JOcR.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109713743978364929/img/ZrTYAEJ2bhCdQiYv.jpg"
+    }
   }
 ]
