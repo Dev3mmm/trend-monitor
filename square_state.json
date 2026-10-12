@@ -1654,18 +1654,10 @@
     "x-1791794583783-l0gits",
     "x-1791794586092-jp9a5v",
     "x-1791795829493-y7wfdp",
-    "x-1791795832660-89526s"
+    "x-1791795832660-89526s",
+    "x-1791797534529-giiek1"
   ],
   "queue": [
-    {
-      "text": "What’s on the menu for USDC? 👀\n\nUp to 5% APR with Flexible Products.\n\nFor VIPs: an exclusive 5.5% APR with the 200,000 USDC tier.\n\nExplore now →",
-      "url": "https://x.com/binance/status/2109563126115164370",
-      "images": [
-        "https://pbs.twimg.com/media/HUasXSAaIAA-kRS.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1791794586139
-    },
     {
       "text": "🚨 UPDATE: OKX’s Star Xu criticizes CZ’s framing of Binance’s $800M post-crash compensation, saying the Oct. 10 collapse caused tens of billions in losses across crypto.",
       "url": "https://x.com/Cointelegraph/status/2109570032011297252",
@@ -1675,15 +1667,19 @@
       ],
       "video": null,
       "enqueuedAt": 1791795837686
+    },
+    {
+      "text": "🚨 UPDATE: ZachXBT criticizes $250K reward for reporting a critical XRP bug, warning low payouts discourage whitehat disclosure.",
+      "url": "https://x.com/Cointelegraph/status/2109577531795919072",
+      "images": [
+        "https://pbs.twimg.com/media/HUa5lA3XsAAGfGz.png",
+        "https://pbs.twimg.com/media/HUa5lYSW8AA2cQ4.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1791797534590
     }
   ],
   "posted": [
-    {
-      "text": "🚨 JUST IN: Hardware wallet maker COLDCARD says a phishing link was posted from its official X account, despite the account using offline 2FA with tightly restricted access since 2017.",
-      "at": 1791711133830,
-      "status": "failed",
-      "error": "ed to S3, polling status...\n  Processing... (1/10)\n  Processing... (2/10)\n  Processing... (3/10)\n  Processing... (4/10)\n  Processing... (5/10)\n  Processing... (6/10)\n  Processing... (7/10)\n  Processing... (8/10)\n  Processing... (9/10)\n  Processing... (10/10)\n\n\nFailed: Poll timed out after 10 retries"
-    },
     {
       "text": "Papertrade Faces Allegations of BBO Price Manipulation on HyperEVM  \n\nX user @Dr_bobo54 alleged that two wallets exploited Papertrade’s pricing mechanism by using roughly $20 million orders on Hyperliquid to move ETH quotes by 10–20 basis points while holding much larger long",
       "at": 1791714154216,
@@ -1863,7 +1859,13 @@
       "at": 1791795837686,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/376441451146932?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "What’s on the menu for USDC? 👀\n\nUp to 5% APR with Flexible Products.\n\nFor VIPs: an exclusive 5.5% APR with the 200,000 USDC tier.\n\nExplore now →",
+      "at": 1791797534590,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/376448370002472?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791795837686
+  "lastPostAt": 1791797534590
 }
