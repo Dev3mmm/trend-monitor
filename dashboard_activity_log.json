@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791492820193-ltau2z",
-    "source": "x",
-    "ts": "2026-10-08T20:53:40.193Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-08T20:41:40.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Why SpaceX acquiring 800 MHz spectrum is a BIG deal for Starlink Mobile\n\nLower frequencies travel farther and penetrate walls and buildings much better than higher frequencies\n\nThat means stronger indoor coverage, which is a huge part of building a reliable nationwide mobile",
-    "url": "https://x.com/elonmusk/status/2108299593515467159"
-  },
-  {
-    "id": "x-1791492825199-baxg14",
-    "source": "x",
-    "ts": "2026-10-08T20:53:45.199Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 19,
-    "originTimestamp": "2026-10-08T20:34:16.000Z",
-    "reason": "No notable move; price is within its recent range.",
-    "text": "SpaceX just officially announced two massive milestones for Starlink Mobile\n\nStarlink is on its way to becoming a major mobile carrier in the US\n\nSpaceX is acquiring nationwide 800 MHz spectrum\n\nSpaceX agreed to acquire a nationwide low-band spectrum license portfolio of up to 14",
-    "url": "https://x.com/elonmusk/status/2108299408588849248"
-  },
-  {
     "id": "x-1791492830591-5nnoo4",
     "source": "x",
     "ts": "2026-10-08T20:53:50.591Z",
@@ -7985,5 +7959,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201990492291072/img/3PazsYo432vtem-V.jpg"
     }
+  },
+  {
+    "id": "x-1791763328664-slqm1h",
+    "source": "x",
+    "ts": "2026-10-12T00:02:08.664Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T00:00:49.000Z",
+    "reason": "Specific information about supply and the impact of a bug fix in XRP Ledger.",
+    "text": "🚨 NEW: XRP Ledger Foundation says no new XRP was created by the recently patched ledger bug, with supply still capped at 100 billion and fixed in version 3.4.1.",
+    "url": "https://x.com/Cointelegraph/status/2109434074838290496",
+    "images": [
+      "https://pbs.twimg.com/media/HUY3G8MXgAEuedi.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791763331510-8mxsmy",
+    "source": "x",
+    "ts": "2026-10-12T00:02:11.510Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T00:00:22.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Mining difficulty, explained.\n\nIn PoW blockchains, difficulty determines how much computing power is needed to mine a block. \n\nIt adjusts based on network activity and miner competition.",
+    "url": "https://x.com/binance/status/2109433959889117349"
   }
 ]
