@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1791536543428-fe2nkt",
-    "source": "x",
-    "ts": "2026-10-09T09:02:23.428Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T09:01:19.000Z",
-    "reason": "Notable criminal action involving cryptocurrency theft",
-    "text": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-    "url": "https://x.com/DecryptMedia/status/2108482931249307717",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791536548021-p71v1l",
-    "source": "x",
-    "ts": "2026-10-09T09:02:28.021Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T09:01:03.000Z",
-    "reason": "Notable decision on cryptography by a prominent crypto figure.",
-    "text": "🚨 UPDATE: Charles Hoskinson rejects Vitalik Buterin’s case against lattice-based cryptography.\n\nArgues that decades of attacks are already priced into current parameters.",
-    "url": "https://x.com/Cointelegraph/status/2108482865650372945",
-    "images": [
-      "https://pbs.twimg.com/media/HULV_D5W8AAd7yH.png",
-      "https://pbs.twimg.com/media/HULV_b9XEAEmciE.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791537154959-847ufw",
-    "source": "x",
-    "ts": "2026-10-09T09:12:34.959Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T09:10:44.000Z",
-    "reason": "Specific institutional adoption of BTC and ETH ETFs in Thailand's stock market.",
-    "text": "JUST IN: 🇹🇭Thailand’s $613B stock market is set to start trading $BTC and $ETH ETFs on Oct 16.",
-    "url": "https://x.com/coinbureau/status/2108485304135135384",
-    "images": [
-      "https://pbs.twimg.com/media/HULW7EDa8AAI9zm.jpg",
-      "https://pbs.twimg.com/media/HULX1shaMAAzKL4.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791537157783-q34xcc",
     "source": "x",
     "ts": "2026-10-09T09:12:37.783Z",
@@ -8058,6 +8004,59 @@
     "text": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
     "url": "https://x.com/DecryptMedia/status/2109638907247611963",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791813122186-jwvxhq",
+    "source": "x",
+    "ts": "2026-10-12T13:52:02.186Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T13:50:14.000Z",
+    "reason": "No notable move or newsworthy action described.",
+    "text": "🔥BIG: Goldman Sachs turns BULLISH on stocks for the rest of 2026, upgrading U.S. and Asian equities from 'neutral' to 'overweight,' with expectations of stronger market performance.\n\nGoldman expects Q3 earnings to BEAT forecasts, but warns that rising bond yields and energy",
+    "url": "https://x.com/coinbureau/status/2109642803840217420"
+  },
+  {
+    "id": "x-1791813128959-vsalne",
+    "source": "x",
+    "ts": "2026-10-12T13:52:08.959Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T13:50:00.000Z",
+    "reason": "Gold becomes the third most popular asset on a perps DEX with over $6.7 billion in trading volume.",
+    "text": "Gold x $ASTER x $WLFI \n\nGold on @Aster_DEX, settled in @worldlibertyfi's $USD1, is now the third most popular asset on the industry-leading perps DEX.\n\nAccording to @MSBIntel, the contract has traded roughly $6.7 BILLION in the past month alone...\n\n... and is now only behind $BTC",
+    "url": "https://x.com/BSCNews/status/2109642744729923954",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109544086659072000/vid/avc1/1312x720/mVWT_AnTXMZITMRc.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109544086659072000/img/KRUeDLHvhrc3S42F.jpg"
+    }
+  },
+  {
+    "id": "x-1791813133880-61aih5",
+    "source": "x",
+    "ts": "2026-10-12T13:52:13.880Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T13:45:49.000Z",
+    "reason": "Notable application of AI in crypto market liquidity improvement.",
+    "text": "🇸🇬 CONNECT: Could AI solve crypto's liquidity fragmentation problem?\n\n@DWFLabs' @Lingersj sees AI-powered market makers connecting fragmented trading venues by monitoring more markets than human traders can.\n\nShe believes AI could help improve liquidity across the industry.",
+    "url": "https://x.com/Cointelegraph/status/2109641692764656065",
+    "images": [
+      "https://pbs.twimg.com/media/HUbz7reWkAA0Owf.jpg",
+      "https://pbs.twimg.com/media/HUbz8GyW4AAbnTu.png"
+    ],
     "video": null
   }
 ]
