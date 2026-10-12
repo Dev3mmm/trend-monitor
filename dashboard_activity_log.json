@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1791492830591-5nnoo4",
-    "source": "x",
-    "ts": "2026-10-08T20:53:50.591Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T20:50:00.000Z",
-    "reason": "No notable financial figure provided or verified.",
-    "text": "Tether has made $20 BILLION from its $USDT stablecoin.\n\nThe stablecoin behemoth that is @Tether has generated $19.93B in lifetime revenue from yield on assets backing its $184B $USDT stablecoin.\n\nBy comparison, @Circle has made only $7.57B from $USDC, which is still seriously",
-    "url": "https://x.com/BSCNews/status/2108298889510199704"
-  },
-  {
-    "id": "x-1791492833601-ff2u6w",
-    "source": "x",
-    "ts": "2026-10-08T20:53:53.601Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-08T20:41:52.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Seems notable.",
-    "url": "https://x.com/coinbase/status/2108297814371623168"
-  },
-  {
-    "id": "x-1791492839225-48p42n",
-    "source": "x",
-    "ts": "2026-10-08T20:53:59.225Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-08T20:42:55.000Z",
-    "reason": "Elon Musk's company acquiring spectrum for potential major telecom operation.",
-    "text": "🇺🇸 JUST IN: Elon Musk's SpaceX is buying nationwide spectrum to make Starlink a major telecom operator in the US.\n\nSpaceX has agreed to acquire a nationwide low band spectrum license portfolio, per Reuters.\n\nCarrier stocks dropped after hours:\n\n- AT&amp;T: down 3.6%\n\n- Verizon: down",
-    "url": "https://x.com/coinbureau/status/2108297106381521234",
-    "images": [
-      "https://pbs.twimg.com/media/HUIsCTbasAAf3lK.png",
-      "https://pbs.twimg.com/media/HUIsOvubcAAnxEb.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791493336688-xrb9po",
-    "source": "x",
-    "ts": "2026-10-08T21:02:16.688Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-08T21:00:44.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "🔥 NEW: Anthropic launched Claude Dashboards and Motion in beta, letting users build live dashboards and animated explainers, while Docs, Slides and Design are now available on all plans.",
-    "url": "https://x.com/Cointelegraph/status/2108301593858687322"
-  },
-  {
     "id": "x-1791493340680-44pbsm",
     "source": "x",
     "ts": "2026-10-08T21:02:20.680Z",
@@ -7990,5 +7932,79 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Mining difficulty, explained.\n\nIn PoW blockchains, difficulty determines how much computing power is needed to mine a block. \n\nIt adjusts based on network activity and miner competition.",
     "url": "https://x.com/binance/status/2109433959889117349"
+  },
+  {
+    "id": "x-1791765144415-z1gx27",
+    "source": "x",
+    "ts": "2026-10-12T00:32:24.415Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T00:31:00.000Z",
+    "reason": "Notable regulatory move and financial impact on Ethereum ETFs.",
+    "text": "Spot $ETH ETFs lost more than HALF A BILLION.\n\nAcross the last week, the suite of spot @Ethereum ETFs saw net outflows of -$542M.\n\nThis is the worst week the products have seen since January, when they lost -$611M in just five trading days.\n\nIs ETH season over? Did it ever even",
+    "url": "https://x.com/BSCNews/status/2109441669825462691",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109202091835035648/vid/avc1/1312x720/pYJsaA3l3X8PXykp.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109202091835035648/img/KYpJXEWLN4ExA5u6.jpg"
+    }
+  },
+  {
+    "id": "x-1791765149196-7chh0d",
+    "source": "x",
+    "ts": "2026-10-12T00:32:29.196Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T00:30:50.000Z",
+    "reason": "Coinbase CEO confirms significant advancement in crypto security model.",
+    "text": "🚨 LATEST: Coinbase CEO Brian Armstrong says the exchange fine-tuned the open-weight Qwen3.5-9B model on internal data, beating frontier models at fraud prevention for a fraction of the cost.",
+    "url": "https://x.com/Cointelegraph/status/2109441627123065307",
+    "images": [
+      "https://pbs.twimg.com/media/HUY9-UxXAAAMdAR.png",
+      "https://pbs.twimg.com/media/HUY9-uPWwAA_Ahb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791765155509-etqpii",
+    "source": "x",
+    "ts": "2026-10-12T00:32:35.509Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 101,
+    "originTimestamp": "2026-10-11T22:51:00.000Z",
+    "reason": "No notable move or specific, verifiable information provided.",
+    "text": "Binance is the only exchange with an S rating on DeFiLlama’s REAL Ranking, scoring 86/100.\n\nThe ranking is based on four key factors:\n• Reserves (30%) — 93/100\n• Execution Quality (30%) — 56/100\n• Trading Activity (20%) — 99/100\n• Liquidity (20%) — 100/100\n\nI don’t think",
+    "url": "https://x.com/cz_binance/status/2109439626800751019"
+  },
+  {
+    "id": "x-1791765160898-suew6w",
+    "source": "x",
+    "ts": "2026-10-12T00:32:40.898Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 39,
+    "originTimestamp": "2026-10-11T23:53:04.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "This may be the first publicly reported case of a Ledger Stax being tampered with in a similar way, also purchased from an official Ledger-authorized reseller in Malaysia.\n\nThe detailed on-chain tracing is complete, and the video explaining the case is being edited.\n\nIt’s",
+    "url": "https://x.com/cz_binance/status/2109439531594522763",
+    "images": [
+      "https://pbs.twimg.com/media/HUYz85zbUAAeNpI.jpg",
+      "https://pbs.twimg.com/media/HUYz_hnbwAAFYzA.png",
+      "https://pbs.twimg.com/media/HUY0EnEaYAA1HDe.jpg",
+      "https://pbs.twimg.com/media/HUY06A6bQAAyc5E.jpg"
+    ],
+    "video": null
   }
 ]
