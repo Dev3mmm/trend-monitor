@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1791496648072-vk82ph",
-    "source": "x",
-    "ts": "2026-10-08T21:57:28.072Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T21:55:03.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "This will sound super crazy, but I see a path to SpaceX being worth orders of magnitude more than the current Earth economy",
-    "url": "https://x.com/elonmusk/status/2108315261044445330"
-  },
-  {
-    "id": "x-1791496652778-y5gae7",
-    "source": "x",
-    "ts": "2026-10-08T21:57:32.778Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-08T21:55:00.000Z",
-    "reason": "No notable crypto-related news or move is referenced.",
-    "text": "🇺🇸JUST IN: Today, Elon Musk, Jensen Huang, Sergey Brin and Lisa Su were officially awarded the National Medal of Science.  \n\nPresident Trump personally presented each of them with America's highest honor for scientific achievement.  \n\nSatya Nadella and Michael Dell received the",
-    "url": "https://x.com/coinbureau/status/2108315247388074324"
-  },
-  {
-    "id": "x-1791496938770-itufex",
-    "source": "x",
-    "ts": "2026-10-08T22:02:18.770Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-08T21:58:41.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 LATEST: SpaceX announces plans to make Starlink Mobile a major US carrier, combining satellite and terrestrial networks to deliver nationwide mobile coverage, pending FCC approval of its spectrum deal.",
-    "url": "https://x.com/Cointelegraph/status/2108316174677164282",
-    "images": [
-      "https://pbs.twimg.com/media/HUI-YlyXUAAPR5f.jpg",
-      "https://pbs.twimg.com/media/HUI-YxfWoAAOKID.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791497574308-epaser",
     "source": "x",
     "ts": "2026-10-08T22:12:54.308Z",
@@ -8025,6 +7980,53 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109498401146683392/img/4NKKilzttIOWH_gu.jpg"
+    }
+  },
+  {
+    "id": "x-1791780725048-ir76pm",
+    "source": "x",
+    "ts": "2026-10-12T04:52:05.048Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 67,
+    "originTimestamp": "2026-10-12T03:44:53.000Z",
+    "reason": "Noise: Generic tweet without content.",
+    "text": "Try Grok @Bot",
+    "url": "https://x.com/elonmusk/status/2109507243007979558"
+  },
+  {
+    "id": "x-1791780729789-tb1ft6",
+    "source": "x",
+    "ts": "2026-10-12T04:52:09.789Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 46,
+    "originTimestamp": "2026-10-12T04:05:23.000Z",
+    "reason": "No notable crypto-related event or news.",
+    "text": "Starlink is a life-saving technology.\n\nA huge tree crushed a family’s car in the French Alps. A passerby says there was no mobile signal, so he used his @Starlink Mini, mounted on his car, to call emergency services and share GPS coordinates.\n\nRescuers arrived about 20 minutes",
+    "url": "https://x.com/elonmusk/status/2109505761210425522"
+  },
+  {
+    "id": "x-1791780735255-m7bvrd",
+    "source": "x",
+    "ts": "2026-10-12T04:52:15.255Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-12T04:42:00.000Z",
+    "reason": "No notable move, price is well within recent range.",
+    "text": "Strategy’s Next Bitcoin Buy May be Closer Than Expected\n\nStrategy (@Strategy) chair Michael Saylor (@saylor) teased a possible Bitcoin purchase with a post on X.\n\n“There’s always room for more orange,” he wrote.\n\nStrategy bought 334 bitcoin:native for $28.7 million between Sept.",
+    "url": "https://x.com/BSCNews/status/2109504835905335428",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109501545188634624/vid/avc1/1280x720/k4yhKw0ayYe8miYU.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109501545188634624/img/Hx16SEArIpjuMnOW.jpg"
     }
   }
 ]
