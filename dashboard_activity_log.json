@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791548540637-bhmfjx",
-    "source": "x",
-    "ts": "2026-10-09T12:22:20.637Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-09T12:17:41.000Z",
-    "reason": "Hedera blockchain set a new transaction record.",
-    "text": "Hedera just hit a new transaction record!\n\n@Hedera recorded 807,383 transactions on the blockchain network on October 8, bringing its real-time transaction speed to an average of 9.35 transactions per second (TPS).\n\nOnchain data shows this print recorded the highest transaction",
-    "url": "https://x.com/BSCNews/status/2108532350573261292",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108531953804713985/vid/avc1/1316x720/zSBevtE5m5RD-QZm.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108531953804713985/img/Whebe3em4c8sYTu7.jpg"
-    }
-  },
-  {
-    "id": "x-1791549133169-4odcxp",
-    "source": "x",
-    "ts": "2026-10-09T12:32:13.169Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T12:30:51.000Z",
-    "reason": "Record high withdrawals and low reserves highlight potential liquidity issues.",
-    "text": "🚨 UPDATE: Binance $ETH reserves hit a six-month low as withdrawals reached a record high, per CryptoQuant.",
-    "url": "https://x.com/Cointelegraph/status/2108535661523304654",
-    "images": [
-      "https://pbs.twimg.com/media/HUMGAKmW0AE9oBc.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791550341668-lfhbjp",
     "source": "x",
     "ts": "2026-10-09T12:52:21.668Z",
@@ -8006,5 +7967,45 @@
     "reason": "Noise: meme coin shill without context or price.",
     "text": "(ෆ˙ᵕ˙ෆ)",
     "url": "https://x.com/binance/status/2109676200482275373"
+  },
+  {
+    "id": "x-1791822129576-ovj1ni",
+    "source": "x",
+    "ts": "2026-10-12T16:22:09.576Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T16:15:51.000Z",
+    "reason": "New use of a token/stablecoin by Monad for institutional demand.",
+    "text": "🇸🇬 CONNECT: Monad is bringing confidentiality and compliance features to its blockchain.\n\nCo-founder @0x_eunice highlighted @monad's recently announced private settlement initiative, designed to address institutional demand for privacy while maintaining onchain composability.",
+    "url": "https://x.com/Cointelegraph/status/2109679451877372222",
+    "images": [
+      "https://pbs.twimg.com/media/HUcWRZHW0AAEdVb.jpg",
+      "https://pbs.twimg.com/media/HUcWR-SXIAATu_n.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791822134856-g1p94k",
+    "source": "x",
+    "ts": "2026-10-12T16:22:14.856Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-12T16:13:38.000Z",
+    "reason": "New front-running mitigation feature introduced by Aptos mainnet",
+    "text": "Aptos users can now hide their trades from front-running bots\n\n@Aptos switched on Encrypted Mempool on mainnet today, letting users opt in to keep transaction details hidden until the block is final. That lowers the risk of MEV bots spotting an order and trading ahead of it.\n\nThe",
+    "url": "https://x.com/BSCNews/status/2109678891426037767",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109677988673404928/vid/avc1/1220x720/w46w-xPuJXZbUpRa.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109677988673404928/img/-uwinl7hYtVxBrp4.jpg"
+    }
   }
 ]
