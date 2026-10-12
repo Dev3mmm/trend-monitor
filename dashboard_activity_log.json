@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791495760820-vvn8hv",
-    "source": "x",
-    "ts": "2026-10-08T21:42:40.820Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-08T21:33:00.000Z",
-    "reason": "No notable move in a token supply; price outside recent range not provided.",
-    "text": "$578 MILLION in less than a month.\n\n@Arc's stablecoin supply is up +24% on the week, reaching a total of nearly $578M at time of writing.\n\nThe $ETH L2 launched less than a month ago and is already the 18th largest chain by stablecoin market cap, bigger now than the likes of",
-    "url": "https://x.com/BSCNews/status/2108309711154037167"
-  },
-  {
-    "id": "x-1791496308352-1m32p2",
-    "source": "x",
-    "ts": "2026-10-08T21:51:48.352Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 91,
-    "originTimestamp": "2026-10-08T20:20:16.000Z",
-    "reason": "No notable move or specific event.",
-    "text": "Congratulations to our CEO @JensenHuang on receiving the National Medal of Science for advancing GPU computing to power scientific breakthroughs.\n\nAnd to fellow honorees Elon Musk, Lisa Su, Michael Dell, Satya Nadella, and Sergey Brin.",
-    "url": "https://x.com/elonmusk/status/2108313682799182252"
-  },
-  {
     "id": "x-1791496310607-6oo2u7",
     "source": "x",
     "ts": "2026-10-08T21:51:50.607Z",
@@ -8015,5 +7989,31 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109489449528889345/img/vSoFCw4LgoKfR3p6.jpg"
     }
+  },
+  {
+    "id": "x-1791777719953-nnhlbo",
+    "source": "x",
+    "ts": "2026-10-12T04:01:59.953Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T04:00:55.000Z",
+    "reason": "No notable crypto-related event or use of crypto mentioned.",
+    "text": "🚨 LATEST: Gold ticks up to around $4,207 an ounce as traders weigh Trump’s claimed Russia-Ukraine “energy ceasefire” against rising Middle East tensions, Bloomberg reports.",
+    "url": "https://x.com/Cointelegraph/status/2109494496639545366"
+  },
+  {
+    "id": "x-1791777722008-lhtel8",
+    "source": "x",
+    "ts": "2026-10-12T04:02:02.008Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T04:00:01.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Star Xu: Hyperliquid's Matching Engine Is More Market Maker Friendly  \n\nOKX founder Star Xu @star_okx said on the New Era Finance Podcast @new_era_finance that Hyperliquid differs fundamentally from centralized order book exchanges in its technical design. While centralized",
+    "url": "https://x.com/WuBlockchain/status/2109494270704955696"
   }
 ]
