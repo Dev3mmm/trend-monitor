@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791498160957-x2wwsr",
-    "source": "x",
-    "ts": "2026-10-08T22:22:40.957Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-08T22:18:35.000Z",
-    "reason": "Generic hype with no factual claim.",
-    "text": "Excited to announce that all super intelligence organizations have now jointly agreed to the ultimate in AI/SI safety:\n\nMoving all testing to Delta Airlines flights, where accessing the Internet is utterly impossible!",
-    "url": "https://x.com/elonmusk/status/2108321181602353333"
-  },
-  {
-    "id": "x-1791498165131-6k6nkd",
-    "source": "x",
-    "ts": "2026-10-08T22:22:45.131Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-08T22:15:00.000Z",
-    "reason": "Notable institutional investment in a long-time crypto asset on its anniversary.",
-    "text": "Investors pour $482k into LTC ETF on Litecoin's 15th anniversary.\n\nYesterday, October 7, which marked the 15th anniversary of @Litecoin's genesis block, Canary's spot LTC ETF saw a net inflow of +$482,000.\n\nThe ETF has woken up in recent weeks, after prolonged periods of",
-    "url": "https://x.com/BSCNews/status/2108320280515166439",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108125456981450753/vid/avc1/1312x720/KbItIerAZryJBcLg.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108125456981450753/img/jiIYwijWs41elK6s.jpg"
-    }
-  },
-  {
     "id": "x-1791498728853-n7ocp9",
     "source": "x",
     "ts": "2026-10-08T22:32:08.853Z",
@@ -8037,5 +8003,39 @@
       "https://pbs.twimg.com/media/HUZJm7WbEAAbDwz.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791782605434-bh778g",
+    "source": "x",
+    "ts": "2026-10-12T05:23:25.434Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T05:16:26.000Z",
+    "reason": "No notable crypto-related news or move.",
+    "text": "BREAKING: President Emmerson Mnangagwa donated @Starlink kits to 10 schools in Bulilima, Zimbabwe. 🇿🇼\n\nThe nationwide Presidential Internet Scheme includes an initial 8,000-kit handover for schools. Starlink is helping rural students access a world of knowledge &amp; opportunities.",
+    "url": "https://x.com/elonmusk/status/2109514619463024703"
+  },
+  {
+    "id": "x-1791782610723-g1jkmy",
+    "source": "x",
+    "ts": "2026-10-12T05:23:30.723Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T05:20:00.000Z",
+    "reason": "Notable announcement about quantum cryptography technology deployment on TRON network.",
+    "text": "Justin Sun Says TRON is Preparing For Quantum Threats\n\nTRON (@trondao) tron:native has deployed its post-quantum cryptography technology to testnet, according to founder Justin Sun (@justinsuntron).\n\nSun says the network is monitoring advances in quantum computing and AI. He",
+    "url": "https://x.com/BSCNews/status/2109514398880379297",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109507101412450304/vid/avc1/1280x720/ZV3oWBT05YHAyLy1.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109507101412450304/img/q4xyCpBJIQJtWr3k.jpg"
+    }
   }
 ]
