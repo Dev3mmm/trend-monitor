@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791505958888-s2adco",
-    "source": "x",
-    "ts": "2026-10-09T00:32:38.888Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-09T00:27:00.000Z",
-    "reason": "On-chain data point with significant TVL increase.",
-    "text": "LayerZero TVL surges +$4 billion in a single day.\n\nBetween October 2 and October 3, the TVL of @LayerZero_Core exploded from just $7.85B to $11.71B.\n\nThis works out to an overnight increase of roughly $3.9B or an increase of +49%.\n\nThe exact reason behind the surge is not",
-    "url": "https://x.com/BSCNews/status/2108353499415425408",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108126089318948865/vid/avc1/1312x720/Lyyvu8KVEbjphWNm.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108126089318948865/img/9ypRFEcDhnwvNVSq.jpg"
-    }
-  },
-  {
     "id": "x-1791506563924-47kcbv",
     "source": "x",
     "ts": "2026-10-09T00:42:43.924Z",
@@ -8044,5 +8023,18 @@
     "url": "https://x.com/zachxbt/status/2109551017952215329",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791792144870-oimagp",
+    "source": "x",
+    "ts": "2026-10-12T08:02:24.870Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T08:01:13.000Z",
+    "reason": "No notable economic events or crypto-specific news mentioned.",
+    "text": "⚡️ Key Economic Events This Week:\n\nTuesday - OPEC Monthly Report, September Existing Home Sales data\n\nWednesday - September CPI Inflation data\n\nThursday - September PPI Inflation data, Fed Chair Warsh speaks\n\nQ3 2026 earnings season also kicks off this week.\n\nWill this week’s",
+    "url": "https://x.com/Cointelegraph/status/2109554972656341045"
   }
 ]
