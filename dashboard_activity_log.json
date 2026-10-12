@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1791547932829-fa3jeh",
-    "source": "x",
-    "ts": "2026-10-09T12:12:12.829Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-09T12:05:15.000Z",
-    "reason": "Notable regulatory move affecting crypto companies in Russia.",
-    "text": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
-    "url": "https://x.com/DecryptMedia/status/2108529220141924627",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791547935066-8icixu",
-    "source": "x",
-    "ts": "2026-10-09T12:12:15.066Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-09T12:02:21.000Z",
-    "reason": "Vague statement without specific price or action.",
-    "text": "All signs point to Bitcoin.",
-    "url": "https://x.com/saylor/status/2108528489917776267"
-  },
-  {
-    "id": "x-1791548532674-i35p73",
-    "source": "x",
-    "ts": "2026-10-09T12:22:12.674Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T12:21:14.000Z",
-    "reason": "Thailand finalizing Bitcoin ETF rules for Stock Exchange of Thailand next week.",
-    "text": "JUST IN: 🇹🇭 Thailand finalizes rules allowing Bitcoin ETFs to list on the Stock Exchange of Thailand, effective next week 👀\n\nAsia is getting prepared 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2108533245243470058",
-    "images": [
-      "https://pbs.twimg.com/media/HUMBihtWsAACUwV.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791548536720-fpdbvx",
     "source": "x",
     "ts": "2026-10-09T12:22:16.720Z",
@@ -8012,5 +7965,52 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109544509348495360/img/MSZYWKuepoFyb1_S.jpg"
     }
+  },
+  {
+    "id": "x-1791820990340-tmyxr7",
+    "source": "x",
+    "ts": "2026-10-12T16:03:10.340Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T16:01:52.000Z",
+    "reason": "Significant on-chain change affecting transaction speed and network efficiency.",
+    "text": "🔥 NEW: Solana halves its target slot time to 200ms, with five target slots per second.",
+    "url": "https://x.com/Cointelegraph/status/2109675930696172011",
+    "images": [
+      "https://pbs.twimg.com/media/HUcTE29W0AAc4q9.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791820994770-xheorz",
+    "source": "x",
+    "ts": "2026-10-12T16:03:14.770Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-12T15:57:45.000Z",
+    "reason": "No notable news, as it's an old bug report.",
+    "text": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+    "url": "https://x.com/DecryptMedia/status/2109674893763604756",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791820999560-d4pt25",
+    "source": "x",
+    "ts": "2026-10-12T16:03:19.560Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 21,
+    "originTimestamp": "2026-10-12T15:41:32.000Z",
+    "reason": "No concrete news or move, just vague speculation.",
+    "text": "Brace yourselves. Over the next few weeks you are going to see a wave of hatred against Elon Musk unlike anything before.\n\nA four-hour hit-piece documentary rolling out nationwide. Midterms three weeks away. Every outlet, every NGO, every “expert” panel suddenly singing from the",
+    "url": "https://x.com/elonmusk/status/2109674099882553443"
   }
 ]
