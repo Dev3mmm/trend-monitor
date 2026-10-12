@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791493354689-cav7px",
-    "source": "x",
-    "ts": "2026-10-08T21:02:34.689Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-08T20:51:18.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "SpaceX has released an update: Building the World's Most Advanced Mobile Network",
-    "url": "https://x.com/elonmusk/status/2108299836126801979"
-  },
-  {
-    "id": "x-1791493958622-o0seg0",
-    "source": "x",
-    "ts": "2026-10-08T21:12:38.622Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-08T21:06:11.000Z",
-    "reason": "Specific institutional crypto activity with real financial value.",
-    "text": "JUST IN: $5.3 billion Cardone Capital bought 40 BTC, worth $3.2 million! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2108302965400297807",
-    "images": [
-      "https://pbs.twimg.com/media/HUIyXlmXsAA3O7z.jpg",
-      "https://pbs.twimg.com/media/HUIyX13WMAAGQan.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791493961901-0o0195",
     "source": "x",
     "ts": "2026-10-08T21:12:41.901Z",
@@ -8020,5 +7988,31 @@
     "url": "https://x.com/BSCNews/status/2109459788853846216",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791770522986-9k9vn7",
+    "source": "x",
+    "ts": "2026-10-12T02:02:02.986Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-12T02:00:52.000Z",
+    "reason": "Generic hype without factual claim",
+    "text": "🚨 TODAY: Bill Gates calls for AI safeguards like those for planes, cars, and medicines, warning the world isn’t doing enough to prevent misuse.",
+    "url": "https://x.com/Cointelegraph/status/2109464285810250217"
+  },
+  {
+    "id": "x-1791770527520-j08jyn",
+    "source": "x",
+    "ts": "2026-10-12T02:02:07.520Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 63,
+    "originTimestamp": "2026-10-12T00:58:19.000Z",
+    "reason": "No concrete crypto-related news or price movement mentioned.",
+    "text": "🚨 Elon Musk agrees with \"some of the things Anthropic has said\" and warns against \"torturing superintelligence\" after reading Grok's internal reasoning traces during reinforcement learning\n\n“It feels like a person under extreme pressure with a gun to their head”\n\n⁠His warning",
+    "url": "https://x.com/elonmusk/status/2109462199332966697"
   }
 ]
