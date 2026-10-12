@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791561125837-ci0z6g",
-    "source": "x",
-    "ts": "2026-10-09T15:52:05.837Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-09T15:50:44.000Z",
-    "reason": "Generic, vague prediction with no basis given.",
-    "text": "🚨 NEW: Arthur Hayes says the market must climb a “wall of worry” at the start of a mega bull run, pointing to AI encryption fears in 2026.",
-    "url": "https://x.com/Cointelegraph/status/2108585966281650389"
-  },
-  {
-    "id": "x-1791561131203-c69nju",
-    "source": "x",
-    "ts": "2026-10-09T15:52:11.204Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-09T15:46:00.000Z",
-    "reason": "Cardano has reached a significant milestone in transaction volume.",
-    "text": "Cardano Breaks Through 125 Million Total Transactions \n\n@Cardano officially breaks the 125M cumulative transactions milestone on its mainnet, with nearly 1M transactions registered in the current epoch alone.\n\nNetwork statistics confirm steady activity on Cardano's eUTXO model,",
-    "url": "https://x.com/BSCNews/status/2108584773627056303",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108581671633104896/vid/avc1/1316x720/nrtRxKiFhFkmEiD3.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108581671633104896/img/EM7QO2HmyUyeyICj.jpg"
-    }
-  },
-  {
     "id": "x-1791561790957-j6qkoy",
     "source": "x",
     "ts": "2026-10-09T16:03:10.957Z",
@@ -7986,5 +7952,34 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "BNB Chain leads every chain on token Holders with 375.8M,  about 39.5M ahead of Ethereum.\n\n@BNBCHAIN  @cz_binance  👏",
     "url": "https://x.com/cz_binance/status/2109719486882525528"
+  },
+  {
+    "id": "x-1791832343193-xnwixj",
+    "source": "x",
+    "ts": "2026-10-12T19:12:23.193Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T19:08:45.000Z",
+    "reason": "DeFi development firm purchasing SOL suggests increased institutional interest.",
+    "text": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+    "url": "https://x.com/DecryptMedia/status/2109722960508404171",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791832345045-vsm17o",
+    "source": "x",
+    "ts": "2026-10-12T19:12:25.045Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-12T19:05:25.000Z",
+    "reason": "No notable crypto-related move or use mentioned.",
+    "text": "🚨BIG MOVE: Kazakhstan plans to SELL gold, reducing its share of national reserves from 78% to 75% by year-end.\n\nThe shift comes as rising U.S. Treasury yields make dollar assets more attractive, per Bloomberg.",
+    "url": "https://x.com/coinbureau/status/2109722121249370158"
   }
 ]
