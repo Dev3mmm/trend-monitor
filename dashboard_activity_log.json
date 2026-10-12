@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791567174586-to5a2m",
-    "source": "x",
-    "ts": "2026-10-09T17:32:54.586Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T17:30:58.000Z",
-    "reason": "Exploit involving cryptocurrency custody and loss.",
-    "text": "🚨 ALERT: A Bitcoin holder reportedly lost all 80 $BTC bought for $5.2 million after transferring them to a Ledger wallet purchased from reseller CryptoBillis, Lookonchain reports.",
-    "url": "https://x.com/Cointelegraph/status/2108611188258943272",
-    "images": [
-      "https://pbs.twimg.com/media/HUNKrIFXUAA-OFK.jpg",
-      "https://pbs.twimg.com/media/HUNKr86WkAAHWTm.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791567176870-d0uh8q",
     "source": "x",
     "ts": "2026-10-09T17:32:56.870Z",
@@ -7974,5 +7955,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109736086196912128/img/ewNUpifQighkh_JQ.jpg"
     }
+  },
+  {
+    "id": "x-1791837216710-8dlry7",
+    "source": "x",
+    "ts": "2026-10-12T20:33:36.710Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-12T20:30:51.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🚨 NEW: JD Vance accused Microsoft of replacing 6,000 laid-off Americans with foreign hires, while data shows two-thirds of its H-1B approvals went to existing employees.",
+    "url": "https://x.com/Cointelegraph/status/2109743624392986654"
   }
 ]
