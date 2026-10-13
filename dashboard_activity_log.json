@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791743535581-d1xn4k",
-    "source": "x",
-    "ts": "2026-10-11T18:32:15.581Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-11T18:20:59.000Z",
-    "reason": "Noise: generic political opinion without factual claim.",
-    "text": "If this was not true, Talarico's campaign would immediately authorize the release of the records to clear him. The dispute would be over.\n\nThat they don't do this means that Talarico has a record at Lindler.\n\nTalarico is done. He is not fit for the Senate.",
-    "url": "https://x.com/elonmusk/status/2109349636452606168"
-  },
-  {
-    "id": "x-1791744726273-lr23py",
-    "source": "x",
-    "ts": "2026-10-11T18:52:06.273Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-11T18:43:00.000Z",
-    "reason": "New use of a token/stablecoin with significant integration benefits for users.",
-    "text": "Sui's Slush Wallet just made life easier for its users.\n\nThrough a new integration with @HallidayHQ, @SlushWallet now lets users port tokens from over 25 other chains, and even fund their wallet with traditional payment methods. \n\nSlush is the dedicated @SuiNetwork wallet from",
-    "url": "https://x.com/BSCNews/status/2109354092707409954",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109201638564986880/vid/avc1/1312x720/_GQOy7lcfcXcVVjP.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201638564986880/img/kntvMqTv5KZTzs2P.jpg"
-    }
-  },
-  {
     "id": "x-1791745325585-lzlhk4",
     "source": "x",
     "ts": "2026-10-11T19:02:05.585Z",
@@ -8061,5 +8027,44 @@
     "reason": "No notable move, tweet about a camera roll is vague and lacks specific content.",
     "text": "POV: You found our #BinanceCampus Asia Day 1 camera roll.",
     "url": "https://x.com/binance/status/2110113600194965616"
+  },
+  {
+    "id": "x-1791926028204-kx7k8g",
+    "source": "x",
+    "ts": "2026-10-13T21:13:48.204Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-13T21:11:00.000Z",
+    "reason": "Specific institutional move in tokenized securities.",
+    "text": "Korea’s tokenized securities plans make room for Avalanche\n\nThe Korea Securities Depository, which keeps official ownership records for Korean stocks and bonds, is building a token platform to connect with @avax, Hyperledger Besu, and Hyperledger Fabric. A KSD official said that",
+    "url": "https://x.com/BSCNews/status/2110116113778651455",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110096593017790464/vid/avc1/1220x720/_BgMo6cCxgbUZ_i2.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110096593017790464/img/rGrkZ0ZxbWCaksF9.jpg"
+    }
+  },
+  {
+    "id": "x-1791926031862-g7c1y1",
+    "source": "x",
+    "ts": "2026-10-13T21:13:51.862Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-13T21:10:35.000Z",
+    "reason": "Crypto-related event involving a major technology company.",
+    "text": "🚨 NEW: OpenAI says an employee was arrested and fired after planting a hidden recording device in its office, with no signs of data theft.",
+    "url": "https://x.com/Cointelegraph/status/2110116008224584052",
+    "images": [
+      "https://pbs.twimg.com/media/HUijU6kWQAEwMJh.jpg"
+    ],
+    "video": null
   }
 ]
