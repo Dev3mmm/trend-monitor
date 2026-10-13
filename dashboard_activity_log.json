@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791646354998-fb2y2v",
-    "source": "x",
-    "ts": "2026-10-10T15:32:34.998Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-10T15:31:19.000Z",
-    "reason": "Notable statement about Tron's cryptographic advancements.",
-    "text": "⚡ JUST IN: Justin Sun says Tron's post-quantum cryptography is now live on testnet and ready to hit mainnet \"at any time.\"",
-    "url": "https://x.com/Cointelegraph/status/2108943466659004479",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791646359985-lh0wro",
-    "source": "x",
-    "ts": "2026-10-10T15:32:39.985Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-10T15:30:27.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Men,\n\nYour friends say a man who does not drink alcohol is boring. They order you a beer.\n\nAs a peace-loving man you\n\nA) Apologise for being boring\n\nB) Pay for their next round so they forgive you\n\nC) Hold the bottle in photos so you look normal.\n\n#MasculinitySaturday",
-    "url": "https://x.com/amerix/status/2108943247519121608"
-  },
-  {
     "id": "x-1791646930116-zrbzks",
     "source": "x",
     "ts": "2026-10-10T15:42:10.116Z",
@@ -8038,5 +8009,39 @@
       "https://pbs.twimg.com/media/HUgrJxTaoAAz2H1.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791895342375-tmpnzp",
+    "source": "x",
+    "ts": "2026-10-13T12:42:22.375Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-13T12:35:53.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Nice job @chasepalmieri and @CJ_Bitcoin. A thoughtful discussion on $BTC, $MSTR, and $STRC past, present, and future.",
+    "url": "https://x.com/saylor/status/2109987403335139380"
+  },
+  {
+    "id": "x-1791895347879-pbnz3d",
+    "source": "x",
+    "ts": "2026-10-13T12:42:27.879Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-13T12:35:38.000Z",
+    "reason": "New institutional use case for a stablecoin ecosystem.",
+    "text": "Celo just launched its own agentic services marketplace!\n\nLeading L2 @Celo has just now revealed the usebuy[.]ai marketplace, which allows AI agents to effectively 'shop for themselves' when it comes to 700+ tools spanning compute, data, APIs, and more.\n\nThe product is launched",
+    "url": "https://x.com/BSCNews/status/2109986418663547279",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109986384593170433/vid/avc1/1312x720/tBcibtUWRVAl0ofU.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109986384593170433/img/UKjha0CAhpTp8rv8.jpg"
+    }
   }
 ]
