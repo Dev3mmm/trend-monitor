@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791718947316-0xxhv0",
-    "source": "x",
-    "ts": "2026-10-11T11:42:27.316Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T11:41:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "What actually is @openmind_agi...?\n\nThe first investment by @PiCoreTeam's $PI Ventures, OpenMind is more than a little different from most of the projects you see on Crypto Twitter ⬇️",
-    "url": "https://x.com/BSCNews/status/2109247892766757107"
-  },
-  {
-    "id": "x-1791719532045-awhulq",
-    "source": "x",
-    "ts": "2026-10-11T11:52:12.045Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-11T11:45:00.000Z",
-    "reason": "No notable crypto-related news in the provided tweet.",
-    "text": "🚨HUGE: Supertanker rates from the Middle East to Asia have hit an ALL-TIME HIGH as ships race to the region.\n\nRates on the Persian Gulf to East Asia route reached nearly $1.4 MILLION per day, per Bloomberg.\n\nThat’s a surge of almost 540% since before the war, compared with about",
-    "url": "https://x.com/coinbureau/status/2109248899856978430"
-  },
-  {
     "id": "x-1791720204842-2j33uf",
     "source": "x",
     "ts": "2026-10-11T12:03:24.843Z",
@@ -8046,6 +8020,35 @@
     "images": [
       "https://pbs.twimg.com/media/HUh4v6Wa4AA_gqL.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1791915736136-wor1b1",
+    "source": "x",
+    "ts": "2026-10-13T18:22:16.136Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T18:20:37.000Z",
+    "reason": "No notable crypto-specific news.",
+    "text": "🚨 ALERT: Elon Musk’s net worth dropped below $1 trillion on Tuesday morning after a decline of more than 3% in SpaceX shares wiped $26.3 billion from his fortune.",
+    "url": "https://x.com/Cointelegraph/status/2110073234473263465"
+  },
+  {
+    "id": "x-1791915739660-wx303f",
+    "source": "x",
+    "ts": "2026-10-13T18:22:19.660Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-13T18:16:30.000Z",
+    "reason": "Notable institutional Bitcoin purchase by Strive.",
+    "text": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+    "url": "https://x.com/DecryptMedia/status/2110072199428161559",
+    "images": [],
     "video": null
   }
 ]
