@@ -1752,18 +1752,10 @@
     "x-1791847317011-jr2prr",
     "x-1791847967085-a0vm8z",
     "x-1791849116501-s9zkri",
-    "x-1791850924518-l2m22j"
+    "x-1791850924518-l2m22j",
+    "x-1791851527427-vgewpd"
   ],
   "queue": [
-    {
-      "text": "⚠️ALERT: Bitcoin falls below $82,000.\n\n$119 MILLION in crypto longs wiped out in the past hour.\n\nThe biggest single liquidation in the past 24 hours was a $9.65 MILLION $BTC long, per CoinGlass.",
-      "url": "https://x.com/coinbureau/status/2109785727185846356",
-      "images": [
-        "https://pbs.twimg.com/media/HUd1p5pakAAzRO-.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1791847317056
-    },
     {
       "text": "🚨JUST IN: 117,947 crypto traders liquidated in 24 hours as Bitcoin dips below $82,000.\n\nOver $487 MILLION in positions were wiped out, and 83% of it hit traders betting on prices going UP.\n\n$204 MILLION of that came in the last 4 hours alone, per CoinGlass.",
       "url": "https://x.com/coinbureau/status/2109801608368566355",
@@ -1772,6 +1764,15 @@
       ],
       "video": null,
       "enqueuedAt": 1791850926569
+    },
+    {
+      "text": "🚨 NOW: NFT marketplace Blur will shut down its frontend on November 12, though the protocol will keep running on-chain and Blend will stop matching new loans the same day.",
+      "url": "https://x.com/Cointelegraph/status/2109803959619567970",
+      "images": [
+        "https://pbs.twimg.com/media/HUeHhMxXMAEfY6X.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791851532574
     }
   ],
   "posted": [
@@ -1954,7 +1955,13 @@
       "at": 1791849741721,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/376662206347519?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "⚠️ALERT: Bitcoin falls below $82,000.\n\n$119 MILLION in crypto longs wiped out in the past hour.\n\nThe biggest single liquidation in the past 24 hours was a $9.65 MILLION $BTC long, per CoinGlass.",
+      "at": 1791851532574,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/376669564066011?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791849741721
+  "lastPostAt": 1791851532574
 }
