@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1791675296578-un27f4",
-    "source": "x",
-    "ts": "2026-10-10T23:34:56.578Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-10T23:30:49.000Z",
-    "reason": "Notable institutional crypto move by the US Government.",
-    "text": "🇺🇸 UPDATE: The US Government's crypto holdings are now down $16B since its peak a year ago.",
-    "url": "https://x.com/Cointelegraph/status/2109064135711363426",
-    "images": [
-      "https://pbs.twimg.com/media/HUTmpxVWgAAQ-yn.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791676928987-l41a0f",
-    "source": "x",
-    "ts": "2026-10-11T00:02:08.987Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T00:00:52.000Z",
-    "reason": "No notable crypto-related news or move detected.",
-    "text": "Think twice before connecting to public WiFi \n\nFake networks and man-in-the-middle attacks can expose your data without you realizing it. \n\nAlways verify the network before connecting and avoid accessing sensitive accounts on public WiFi.",
-    "url": "https://x.com/binance/status/2109071698846765464"
-  },
-  {
-    "id": "x-1791676933878-37a916",
-    "source": "x",
-    "ts": "2026-10-11T00:02:13.878Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T00:00:03.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Star Xu: How Did USDe Leverage Loops Trigger the \"1010\" Crash?\n\nDescription: OKX founder and CEO Star Xu @star_okx questioned Binance's promotion of USDe as a stablecoin on the New Era Finance Podcast @new_era_finance. He argued that USDe, issued by Ethena, is effectively a",
-    "url": "https://x.com/WuBlockchain/status/2109071492185002156"
-  },
-  {
     "id": "x-1791676939070-izq7mp",
     "source": "x",
     "ts": "2026-10-11T00:02:19.070Z",
@@ -8052,5 +8008,57 @@
     "reason": "No notable crypto-related news.",
     "text": "🔥BOLD: Billionaire investor Paul Tudor Jones says 2027 could be “really, really challenging” for the U.S. stock market.\n\nHe warns that U.S. equities face their WEAKEST net flow outlook since 2009, as buybacks and M&amp;A struggle to offset IPOs, secondary offerings and share",
     "url": "https://x.com/coinbureau/status/2110032161902596325"
+  },
+  {
+    "id": "x-1791672756993-5wfjza",
+    "source": "x",
+    "ts": "2026-10-10T22:52:36.993Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-10T22:47:00.000Z",
+    "reason": "SHIBMEME is close to reaching a significant milestone in holders, indicating potential hype or media interest.",
+    "text": "Only 2,000 holders to go...\n\nAccording to @etherscan, @Shibtoken's $SHIB memecoin currently boasts some 1,698,001 holder addresses, meaning it is now less than 2,000 away from reaching the fabled 1.7M holder milestone.\n\nIn reality, now that $SHIB is live on other chains (like",
+    "url": "https://x.com/BSCNews/status/2109053109301289092",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2108516945993633792/vid/avc1/1312x720/WTka7AWyio5KlfUQ.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108516945993633792/img/lfQiVYU1mtv53sE2.jpg"
+    }
+  },
+  {
+    "id": "x-1791675136815-txljz5",
+    "source": "x",
+    "ts": "2026-10-10T23:32:16.815Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-10T23:30:49.000Z",
+    "reason": "Specific institutional information about crypto holdings.",
+    "text": "🇺🇸 UPDATE: The US Government's crypto holdings are now down $16B since its peak a year ago.",
+    "url": "https://x.com/Cointelegraph/status/2109064135711363426",
+    "images": [
+      "https://pbs.twimg.com/media/HUTmpxVWgAAQ-yn.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791906884997-x67qka",
+    "source": "x",
+    "ts": "2026-10-13T15:54:44.997Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-13T15:50:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Why does @LayerZero_Core need its own L1 blockchain...?\n\nBSCN's research team takes a closer look behind $ZRO's decision to build the 'Zero' blockchain network ⬇️",
+    "url": "https://x.com/BSCNews/status/2110035331823133008"
   }
 ]
