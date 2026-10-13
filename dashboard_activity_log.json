@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1791755581765-2p9tud",
-    "source": "x",
-    "ts": "2026-10-11T21:53:01.765Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-11T21:50:00.000Z",
-    "reason": "No notable move; price is within the recent range.",
-    "text": "🔥BULLISH: Bitcoin's bear market COULD already be OVER, per this Glassnode chart.\n\nBTC's MVRV momentum has turned POSITIVE, flashing the same recovery signal seen in 2019 and 2023.\n\nThe MVRV ratio now stands at 1.54, above its annual average of 1.44, suggesting bullish momentum",
-    "url": "https://x.com/coinbureau/status/2109401152638816749"
-  },
-  {
-    "id": "x-1791756773496-m1vqb9",
-    "source": "x",
-    "ts": "2026-10-11T22:12:53.496Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-11T22:12:00.000Z",
-    "reason": "Notable fee generation milestone for a stablecoin token.",
-    "text": "Ethena hits $1,000,000,000 worth of fees.\n\nAccording to DefiLlama data, @Ethena, the issuer of the $USDe stablecoin, has generated a staggering $1.061B worth of fees in its life.\n\nThe milestone is double impressive given that Ethena's fee generation only goes back to late 2023 -",
-    "url": "https://x.com/BSCNews/status/2109406689204072580",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109201891338944512/vid/avc1/1312x720/e3pFIhl_9_DAlzhE.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201891338944512/img/Rb6kU4NG0SevInXy.jpg"
-    }
-  },
-  {
-    "id": "x-1791757947592-h1tbvn",
-    "source": "x",
-    "ts": "2026-10-11T22:32:27.592Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T22:30:46.000Z",
-    "reason": "Exploit of Ledger devices and Vault leads to significant loss in crypto.",
-    "text": "🔥 BIG: Hackers took $2.68B in crypto through September, and October has already added more than $98M, led by an estimated $86M+ drained from tampered Ledger devices and a $12.5M exploit of 79th Vault.",
-    "url": "https://x.com/Cointelegraph/status/2109411412455899154",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791761567249-sxfaw7",
     "source": "x",
     "ts": "2026-10-11T23:32:47.249Z",
@@ -8069,5 +8019,58 @@
     "url": "https://x.com/BSCNews/status/2110126683248328883",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791930183689-nx75v1",
+    "source": "x",
+    "ts": "2026-10-13T22:23:03.689Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-13T22:20:36.000Z",
+    "reason": "BlackRock's view on stocks and Treasurys is a notable institutional move.",
+    "text": "🚨 LATEST: BlackRock downgraded its view on U.S. stocks to neutral while turning more positive on short-term Treasurys as higher yields improve their appeal.",
+    "url": "https://x.com/Cointelegraph/status/2110133628462153982",
+    "images": [
+      "https://pbs.twimg.com/media/HUizWVnXkAAYoVO.jpg",
+      "https://pbs.twimg.com/media/HUizWioWwAAT8Ak.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791930187253-q3qam4",
+    "source": "x",
+    "ts": "2026-10-13T22:23:07.253Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-13T22:16:00.000Z",
+    "reason": "Notable regulatory move with ETF losses.",
+    "text": "Spot Dogecoin ETFs just lost -$399,000.\n\nThe suite of @Dogecoin spot ETFs clocked a net outflow of nearly $400,000 on Monday October 12.\n\nThe ETFs hold only 0.11% of $DOGE's supply and have not seen a single day of net inflows this month so far.",
+    "url": "https://x.com/BSCNews/status/2110132471576883374",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109945895944962048/vid/avc1/1312x720/ug5W_TsEmHvE3Oci.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109945895944962048/img/OTkNCnIPWaUiSjIW.jpg"
+    }
+  },
+  {
+    "id": "x-1791930190913-vmw4qp",
+    "source": "x",
+    "ts": "2026-10-13T22:23:10.913Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 97,
+    "originTimestamp": "2026-10-13T20:45:26.000Z",
+    "reason": "No notable move in the token's price or use case is specified.",
+    "text": "Strive is offering $SATS through an IPO available to select investors.\n- 15% fixed-rate perpetual preferred stock\n- Cumulative dividends paid every business day\n- Junior to SATA\n\nINVESTOR PRESENTATION TIMESTAMPS\n00:00 - Introducing SATS\n01:46 - Executive Summary\n18:50 - SATS",
+    "url": "https://x.com/saylor/status/2110132125135417508"
   }
 ]
