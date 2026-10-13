@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791590728002-hi7hwh",
-    "source": "x",
-    "ts": "2026-10-10T00:05:28.003Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-10T00:00:01.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "What powers smart contracts behind the scenes? \n\nVirtual machines execute blockchain code and bring apps to life. \n\nLearn how they work 👇",
-    "url": "https://x.com/binance/status/2108709096606113971"
-  },
-  {
     "id": "x-1791591162590-zlve9o",
     "source": "x",
     "ts": "2026-10-10T00:12:42.591Z",
@@ -7907,5 +7894,26 @@
     "reason": "No notable crypto-related information provided.",
     "text": "Deployment of 27 @Starlink satellites confirmed",
     "url": "https://x.com/elonmusk/status/2109824758888165605"
+  },
+  {
+    "id": "x-1791857546669-ig52xz",
+    "source": "x",
+    "ts": "2026-10-13T02:12:26.669Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-13T02:10:00.000Z",
+    "reason": "Noteworthy development on cross-chain security.",
+    "text": "LayerZero Adds a New Security Check Before Cross Chain Transfers\n\nLayerZero (@LayerZero_Core) and Blockaid (@blockaid_) have launched Bridge Sentinel, a new Decentralized Verifier Network (DVN).\n\nThe system screens cross-chain messages against Blockaid’s real-time threat",
+    "url": "https://x.com/BSCNews/status/2109828971760341222",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109578836362813440/vid/avc1/1280x720/OcqZDotTiQc9oxhM.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109578836362813440/img/XR7F0QMpji1cqIQy.jpg"
+    }
   }
 ]
