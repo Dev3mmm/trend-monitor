@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791666776273-2bki8j",
-    "source": "x",
-    "ts": "2026-10-10T21:12:56.273Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-10T21:03:59.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "manifesting ᵍ vibes",
-    "url": "https://x.com/binance/status/2109027184358895920"
-  },
-  {
-    "id": "x-1791667930673-v8z26w",
-    "source": "x",
-    "ts": "2026-10-10T21:32:10.673Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-10T21:30:49.000Z",
-    "reason": "New stablecoin holder record on Solana",
-    "text": "📊 MARKET: Stablecoin holders on Solana has surpassed 14M.",
-    "url": "https://x.com/Cointelegraph/status/2109033937263644864",
-    "images": [
-      "https://pbs.twimg.com/media/HUTLL-2XoAAViN3.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791668525083-49ma5p",
     "source": "x",
     "ts": "2026-10-10T21:42:05.083Z",
@@ -8059,5 +8028,47 @@
     "reason": "No notable crypto-related news.",
     "text": "UK Crypto Trader Reports Terrifying Knifepoint Robbery Inside His Home\n\nA UK-based crypto trader who goes by realist on X (@rrealist) says intruders tied him up at knifepoint and stole roughly $800,000, on Oct. 13.\n\nHe also reported losing a Rolex and his phone during the alleged",
     "url": "https://x.com/BSCNews/status/2110027278654529650"
+  },
+  {
+    "id": "x-1791905626436-ly29i2",
+    "source": "x",
+    "ts": "2026-10-13T15:33:46.436Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-13T15:33:06.000Z",
+    "reason": "Ecosystem expansion and interest in Binance Chain products.",
+    "text": "🔥 LATEST: @BNBCHAIN’s ecosystem continues to attract builders looking to launch full-stack on-chain products, with growing interest in interactive trading and RWA adoption.\n\n“Everything you need to build a really good product is here,” attendees said, pointing to the scale and",
+    "url": "https://x.com/Cointelegraph/status/2110031078580707458",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110002095839744000/vid/avc1/1280x720/8Q1PFBVOsKS0MmFP.mp4?tag=29",
+      "duration": 69,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110002095839744000/img/7x0n4Po3CIROpYy9.jpg"
+    }
+  },
+  {
+    "id": "x-1791905628033-qtdt4o",
+    "source": "x",
+    "ts": "2026-10-13T15:33:48.033Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-13T15:30:00.000Z",
+    "reason": "Ecosystem expansion and interest in on-chain products is noteworthy.",
+    "text": "🔥 LATEST: @BNBCHAIN’s ecosystem continues to attract builders looking to launch full-stack on-chain products, with growing interest in interactive trading and RWA adoption.\n\n“Everything you need to build a really good product is here,” attendees said, pointing to the scale and",
+    "url": "https://x.com/Cointelegraph/status/2110030299639710017",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110002095839744000/vid/avc1/1280x720/8Q1PFBVOsKS0MmFP.mp4?tag=29",
+      "duration": 69,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110002095839744000/img/7x0n4Po3CIROpYy9.jpg"
+    }
   }
 ]
