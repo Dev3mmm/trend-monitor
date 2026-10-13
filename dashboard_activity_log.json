@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1791584227673-5zcyk3",
-    "source": "x",
-    "ts": "2026-10-09T22:17:07.673Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-09T22:10:49.000Z",
-    "reason": "An AI model triggered a false alert, highlighting potential security risks in AI systems.",
-    "text": "🚨 LATEST: An Anthropic AI model submitted a false homicide tip to Philadelphia police during automated testing, but it was flagged as spam and never reached investigators.",
-    "url": "https://x.com/Cointelegraph/status/2108681615668916232",
-    "images": [
-      "https://pbs.twimg.com/media/HUOKwRNW8AAZIor.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791584544829-mkkl5m",
     "source": "x",
     "ts": "2026-10-09T22:22:24.830Z",
@@ -7923,5 +7905,24 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109578513464406016/img/22aXr2qL03_8sjME.jpg"
     }
+  },
+  {
+    "id": "x-1791853317033-5w9jg1",
+    "source": "x",
+    "ts": "2026-10-13T01:01:57.033Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T01:00:41.000Z",
+    "reason": "Standard Chartered's new institutional custody for Ripple's stablecoin is a notable move.",
+    "text": "🔥 TODAY: Standard Chartered now offers institutional custody for Ripple’s RLUSD stablecoin on the XRP Ledger and is working with Ripple and LMAX Group to make it usable as trading collateral.",
+    "url": "https://x.com/Cointelegraph/status/2109811527708545126",
+    "images": [
+      "https://pbs.twimg.com/media/HUeOZUNWcAI_Eia.jpg",
+      "https://pbs.twimg.com/media/HUeOZtpXIAA_Mdp.png"
+    ],
+    "video": null
   }
 ]
