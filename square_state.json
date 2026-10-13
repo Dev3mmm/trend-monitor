@@ -1813,21 +1813,12 @@
     "x-1791894164396-xaog57",
     "x-1791894763999-q2ez00",
     "x-1791895347879-pbnz3d",
-    "x-1791895946175-v4vzys"
+    "x-1791895946175-v4vzys",
+    "x-1791896539062-9y4utm",
+    "x-1791896542774-f990ac",
+    "x-1791896545800-uzdtdp"
   ],
   "queue": [
-    {
-      "text": "Stratos (stratos-1), a Cosmos EVM chain, was exploited and its validators halted the chain. Here is what happened and where the funds went, read directly from the chain.\n\nThe chain is frozen at block 16,008,475, last block 05:21 UTC.\n\nThe bug is a custom EVM precompile at",
-      "url": "https://x.com/Rarma_/status/2109959222716985466",
-      "images": [
-        "https://pbs.twimg.com/media/HUgUtqTacAIPAGM.jpg",
-        "https://pbs.twimg.com/media/HUgUtqSbIAAs7rV.jpg",
-        "https://pbs.twimg.com/media/HUgUtqNbgAAERsl.jpg",
-        "https://pbs.twimg.com/media/HUgUtqTacAAZByN.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1791888777041
-    },
     {
       "text": "🔥 INSIGHT: Bitcoin supply on exchanges continues to shrink, per CryptoQuant.\n\nRising demand amid low exchange supply could support a longer-term upward trend.",
       "url": "https://x.com/Cointelegraph/status/2109962588960285174",
@@ -1885,6 +1876,36 @@
       ],
       "video": null,
       "enqueuedAt": 1791894764057
+    },
+    {
+      "text": "🔥 NEW: Trezor rejects calls to capitalize on Ledger’s security incident, saying “we are on the same side” and user security comes first.",
+      "url": "https://x.com/Cointelegraph/status/2109992880404058300",
+      "images": [
+        "https://pbs.twimg.com/media/HUgzVqhWYAAH5aD.png",
+        "https://pbs.twimg.com/media/HUgzV5yX0AA5Zb4.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1791896545884
+    },
+    {
+      "text": "🚨MAJOR: S&amp;P Dow Jones Indices, Kaiko and Derivnex complete the FIRST OTC swap on the Canton Network, executed between DRW and Marex.\n\nThe trade uses a tokenized iBoxx bond index, marking a major step toward bringing institutional derivatives on-chain.\n\nCanton's $CC surged over",
+      "url": "https://x.com/coinbureau/status/2109992348684099799",
+      "images": [
+        "https://pbs.twimg.com/media/HUgytrqboAAgq6f.png",
+        "https://pbs.twimg.com/media/HUgyvcRaEAAtghB.jpg",
+        "https://pbs.twimg.com/media/HUgyxK2aoAEHwzj.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791896545884
+    },
+    {
+      "text": "JUST IN: Bitcoin wallets with a non-zero balance recently hit a new all-time high above 60 million 🚀\n\n~3 million new wallets have been added since the bear market began 👀\n\nAdoption isn't slowing down! 👏",
+      "url": "https://x.com/BitcoinMagazine/status/2109977242554270184",
+      "images": [
+        "https://pbs.twimg.com/media/HUgkiVSXsAAZZFd.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791896545884
     }
   ],
   "posted": [
@@ -2085,7 +2106,13 @@
       "at": 1791894764057,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/376846663383521?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "Stratos (stratos-1), a Cosmos EVM chain, was exploited and its validators halted the chain. Here is what happened and where the funds went, read directly from the chain.\n\nThe chain is frozen at block 16,008,475, last block 05:21 UTC.\n\nThe bug is a custom EVM precompile at",
+      "at": 1791896545884,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/376853985691111?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791894764057
+  "lastPostAt": 1791896545884
 }
