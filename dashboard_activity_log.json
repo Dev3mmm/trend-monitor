@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791642725357-ytx7q4",
-    "source": "x",
-    "ts": "2026-10-10T14:32:05.357Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-10T14:30:19.000Z",
-    "reason": "Noise: Generic hype with no real content.",
-    "text": "Men,\n\nYou promised your son you would attend his school sports day. \n\nYour friends invite you to watch football the same afternoon.\n\nAs a busy, modern father you\n\nA) Send him a voice note\n\nB) Promise to come next year\n\nC) Buy him a toy to cover for it.\n\n#MasculinitySaturday",
-    "url": "https://x.com/amerix/status/2108928115690889650"
-  },
-  {
-    "id": "x-1791642727024-wyrexn",
-    "source": "x",
-    "ts": "2026-10-10T14:32:07.024Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 63,
-    "originTimestamp": "2026-10-10T13:28:44.000Z",
-    "reason": "Generic hype with no factual claim.",
-    "text": "It’s feeling really magical inside of Shopify right now. It’s clearly the greatest time in the history of tech industry right now. I hope it feels similar everywhere else.",
-    "url": "https://x.com/elonmusk/status/2108927258929017073"
-  },
-  {
-    "id": "x-1791642729206-yzi4fi",
-    "source": "x",
-    "ts": "2026-10-10T14:32:09.206Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 44,
-    "originTimestamp": "2026-10-10T13:48:05.000Z",
-    "reason": "Musk's personal opinion and anecdote does not constitute news.",
-    "text": "Elon Musk was asked why he built SpaceX and Tesla\n\nHis answer reveals the deeper purpose behind everything he built:\n\n“SpaceX and Tesla are fundamentally intended to improve the probability that the future is good”\n\nTesla → “accelerating sustainable energy”\n\nSpaceX → “making",
-    "url": "https://x.com/elonmusk/status/2108926323473490359"
-  },
-  {
     "id": "x-1791643330459-wt5ma6",
     "source": "x",
     "ts": "2026-10-10T14:42:10.459Z",
@@ -8017,6 +7978,56 @@
     "text": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
     "url": "https://x.com/DecryptMedia/status/2109976066131407213",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791893532816-iq9sl8",
+    "source": "x",
+    "ts": "2026-10-13T12:12:12.816Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T12:02:22.000Z",
+    "reason": "Acquisition and warrant exercise details.",
+    "text": "Last week, Strive acquired 3,311 $BTC, increasing total holdings to ₿32,773.\n\n- $208M in warrants exercised; ~15.3M remain, expiring today at 5pm ET.\n- SATA’s $100 minimum issuance price is now a binding restriction in governing docs, formalizing the protection.\n\n$SATA $ASST",
+    "url": "https://x.com/saylor/status/2109978982703661073",
+    "images": [
+      "https://pbs.twimg.com/media/HUgk6iKaMAAWRl3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791893537346-kyzls1",
+    "source": "x",
+    "ts": "2026-10-13T12:12:17.346Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-13T12:03:27.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "You don’t need more information. You need more relevant information.\n\nMeet Binance AI, bringing market news, personalized insights, and portfolio analysis into one experience, built around you.\n\nSee how it works. \n\n👉",
+    "url": "https://x.com/binance/status/2109978319068233856"
+  },
+  {
+    "id": "x-1791893541819-m07130",
+    "source": "x",
+    "ts": "2026-10-13T12:12:21.819Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T12:02:34.000Z",
+    "reason": "Fed official warns about inflation from crypto AI boom.",
+    "text": "🇺🇸 JUST IN: Fed’s Goolsbee warns the AI boom is fueling inflation beyond data centers, per Semafor.",
+    "url": "https://x.com/Cointelegraph/status/2109978097973899347",
+    "images": [
+      "https://pbs.twimg.com/media/HUgl5MWXQAABAuI.png",
+      "https://pbs.twimg.com/media/HUgl5b-W8AAkUlM.png"
+    ],
     "video": null
   }
 ]
