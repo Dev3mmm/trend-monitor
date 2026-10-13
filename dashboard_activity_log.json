@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791646934333-73ng9d",
-    "source": "x",
-    "ts": "2026-10-10T15:42:14.333Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-10T15:38:00.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "🚨SHOCKING: Top NYU mathematician says OpenAI's 722 AI-written papers \"destroyed the careers\" of young mathematicians overnight.\n\n\"We've had whole research programs wiped out on Tuesday by their dump.\"",
-    "url": "https://x.com/coinbureau/status/2108945148176413076"
-  },
-  {
-    "id": "x-1791646937474-dbqsrr",
-    "source": "x",
-    "ts": "2026-10-10T15:42:17.474Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 58,
-    "originTimestamp": "2026-10-10T14:43:10.000Z",
-    "reason": "No notable move or specific action is described.",
-    "text": "Interesting piece from CEO of Microsoft",
-    "url": "https://x.com/elonmusk/status/2108944224032825761"
-  },
-  {
-    "id": "x-1791647526929-m3o1jh",
-    "source": "x",
-    "ts": "2026-10-10T15:52:06.929Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-10T15:51:00.000Z",
-    "reason": "Litecoin partnership with CantonNetwork",
-    "text": "The crypto OG that is @litecoin is coming to @CantonNetwork. Here's what you need to know to be ready ⬇️",
-    "url": "https://x.com/BSCNews/status/2108948419892957476",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791648138775-yzcbow",
     "source": "x",
     "ts": "2026-10-10T16:02:18.775Z",
@@ -8051,5 +8009,62 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109944891358777344/img/O5v0ncMoxg-wEyzE.jpg"
     }
+  },
+  {
+    "id": "x-1791896539062-9y4utm",
+    "source": "x",
+    "ts": "2026-10-13T13:02:19.062Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T13:01:19.000Z",
+    "reason": "Notable institutional reaction to a security incident in the crypto ecosystem.",
+    "text": "🔥 NEW: Trezor rejects calls to capitalize on Ledger’s security incident, saying “we are on the same side” and user security comes first.",
+    "url": "https://x.com/Cointelegraph/status/2109992880404058300",
+    "images": [
+      "https://pbs.twimg.com/media/HUgzVqhWYAAH5aD.png",
+      "https://pbs.twimg.com/media/HUgzV5yX0AA5Zb4.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791896542774-f990ac",
+    "source": "x",
+    "ts": "2026-10-13T13:02:22.774Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-13T12:59:12.000Z",
+    "reason": "Not enough context provided to verify the significance of the trade.",
+    "text": "🚨MAJOR: S&amp;P Dow Jones Indices, Kaiko and Derivnex complete the FIRST OTC swap on the Canton Network, executed between DRW and Marex.\n\nThe trade uses a tokenized iBoxx bond index, marking a major step toward bringing institutional derivatives on-chain.\n\nCanton's $CC surged over",
+    "url": "https://x.com/coinbureau/status/2109992348684099799",
+    "images": [
+      "https://pbs.twimg.com/media/HUgytrqboAAgq6f.png",
+      "https://pbs.twimg.com/media/HUgyvcRaEAAtghB.jpg",
+      "https://pbs.twimg.com/media/HUgyxK2aoAEHwzj.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791896545800-uzdtdp",
+    "source": "x",
+    "ts": "2026-10-13T13:02:25.800Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 63,
+    "originTimestamp": "2026-10-13T11:59:10.000Z",
+    "reason": "Adoption milestone with specific wallet numbers.",
+    "text": "JUST IN: Bitcoin wallets with a non-zero balance recently hit a new all-time high above 60 million 🚀\n\n~3 million new wallets have been added since the bear market began 👀\n\nAdoption isn't slowing down! 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2109977242554270184",
+    "images": [
+      "https://pbs.twimg.com/media/HUgkiVSXsAAZZFd.jpg"
+    ],
+    "video": null
   }
 ]
