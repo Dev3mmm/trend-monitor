@@ -2938,5 +2938,19 @@
     "fetchedAt": "2026-10-13T08:52:53.549Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-7bf5fda7f3ed9f2b",
+    "title": "Developers Office Hours #83: Inside Nexus: The API Powering GeroWallet (16 October)",
+    "url": "https://forum.cardano.org/t/developers-office-hours-83-inside-nexus-the-api-powering-gerowallet-16-october/157349",
+    "description": "Inside Nexus: The API Powering GeroWallet What does it take to run a wallet-grade Cardano data stack in production? Join Adam Cazes, Co-Founder & CEO of A.D. Labs, for a behind-the-scenes look at Nexus - the multi-chain data and transaction API behind @gerowallet . In this session, Adam will walk us through: What a wallet needs from its data API Yaci Store 3.0 in production: failover, SQL & upstre",
+    "publishedAt": "2026-10-13T10:35:01.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-10-13T10:43:52.251Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
