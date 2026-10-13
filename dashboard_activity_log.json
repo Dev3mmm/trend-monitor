@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791594133915-p628x7",
-    "source": "x",
-    "ts": "2026-10-10T01:02:13.915Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 120,
-    "originTimestamp": "2026-10-09T23:01:27.000Z",
-    "reason": "No factual claim or move is specified.",
-    "text": "Super Intelligent Beauty",
-    "url": "https://x.com/elonmusk/status/2108723938578530493"
-  },
-  {
     "id": "x-1791595957394-7finw3",
     "source": "x",
     "ts": "2026-10-10T01:32:37.394Z",
@@ -7921,5 +7908,26 @@
     "reason": "No notable crypto-related event or movement mentioned.",
     "text": "🇺🇸BOLD: President Trump claims America will enter an “economic depression” if Democrats win, while guaranteeing $5,000 checks to every citizen if Republicans prevail.\n\n\"If the Democrats win, you will end up in a 1929-style economic depression. We will have a disaster on our",
     "url": "https://x.com/coinbureau/status/2109848004337582449"
+  },
+  {
+    "id": "x-1791862894872-pqnp09",
+    "source": "x",
+    "ts": "2026-10-13T03:41:34.872Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-13T03:41:06.000Z",
+    "reason": "Specific purchase and holding of Bitcoin by a high-profile figure.",
+    "text": "Strategy's Latest Bitcoin Buy is Smaller Than Expected\n\nMichael Saylor's (@saylor) Strategy (@Strategy) now holds 848,250 bitcoin:native after buying another 250 Bitcoin for $21.5 million last week.\n\nThe latest purchase reflects slower accumulation, with just 7,218 BTC added",
+    "url": "https://x.com/BSCNews/status/2109851896949186975",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109851824970932224/vid/avc1/1280x720/PO_FYYGmRHlvNaPB.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109851824970932224/img/dGmhGo8C7j28WYGN.jpg"
+    }
   }
 ]
