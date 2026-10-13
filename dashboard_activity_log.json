@@ -1,70 +1,5 @@
 [
   {
-    "id": "x-1791761567249-sxfaw7",
-    "source": "x",
-    "ts": "2026-10-11T23:32:47.249Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T23:30:47.000Z",
-    "reason": "No notable move, price is well within recent range.",
-    "text": "⚡ QUESTION: Is this Uptober or Downtober?",
-    "url": "https://x.com/Cointelegraph/status/2109426516207550915"
-  },
-  {
-    "id": "x-1791761573314-fqa0xn",
-    "source": "x",
-    "ts": "2026-10-11T23:32:53.314Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-11T23:23:00.000Z",
-    "reason": "Notable institutional action in the Solana DEX ecosystem.",
-    "text": "Raydium bought back $4M worth of $RAY in a month!\n\n@Raydium has executed $RAY token buybacks to the tune of some $4M in the past 30 days alone, following growing traction for the @Solana DEX.\n\nRaydium has seen growth across several key metrics, most notably TVL, in recent",
-    "url": "https://x.com/BSCNews/status/2109424557278830750",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109201990492291072/vid/avc1/1312x720/F5aESTfIwGlI3PKX.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201990492291072/img/3PazsYo432vtem-V.jpg"
-    }
-  },
-  {
-    "id": "x-1791763328664-slqm1h",
-    "source": "x",
-    "ts": "2026-10-12T00:02:08.664Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T00:00:49.000Z",
-    "reason": "Specific information about supply and the impact of a bug fix in XRP Ledger.",
-    "text": "🚨 NEW: XRP Ledger Foundation says no new XRP was created by the recently patched ledger bug, with supply still capped at 100 billion and fixed in version 3.4.1.",
-    "url": "https://x.com/Cointelegraph/status/2109434074838290496",
-    "images": [
-      "https://pbs.twimg.com/media/HUY3G8MXgAEuedi.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791763331510-8mxsmy",
-    "source": "x",
-    "ts": "2026-10-12T00:02:11.510Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T00:00:22.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Mining difficulty, explained.\n\nIn PoW blockchains, difficulty determines how much computing power is needed to mine a block. \n\nIt adjusts based on network activity and miner competition.",
-    "url": "https://x.com/binance/status/2109433959889117349"
-  },
-  {
     "id": "x-1791765144415-z1gx27",
     "source": "x",
     "ts": "2026-10-12T00:32:24.415Z",
@@ -8072,5 +8007,63 @@
     "reason": "No notable move in the token's price or use case is specified.",
     "text": "Strive is offering $SATS through an IPO available to select investors.\n- 15% fixed-rate perpetual preferred stock\n- Cumulative dividends paid every business day\n- Junior to SATA\n\nINVESTOR PRESENTATION TIMESTAMPS\n00:00 - Introducing SATS\n01:46 - Executive Summary\n18:50 - SATS",
     "url": "https://x.com/saylor/status/2110132125135417508"
+  },
+  {
+    "id": "x-1791931330407-e28ogv",
+    "source": "x",
+    "ts": "2026-10-13T22:42:10.407Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T22:40:21.000Z",
+    "reason": "Ledger initiates sales suspension amid investigation into tampered devices.",
+    "text": "🚨 UPDATE: Ledger asks resellers and distributors in six Southeast Asian countries and Hong Kong to suspend device sales and remove products from shelves amid an ongoing investigation into tampered devices.",
+    "url": "https://x.com/Cointelegraph/status/2110138602604703993",
+    "images": [
+      "https://pbs.twimg.com/media/HUi334pXAAA1ufu.jpg",
+      "https://pbs.twimg.com/media/HUi34EqXwAAUINV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791931335872-dcfjjs",
+    "source": "x",
+    "ts": "2026-10-13T22:42:15.872Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 86,
+    "originTimestamp": "2026-10-13T21:16:09.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "The more I use Grok @bot, the more I see what it can do and it really is endless. I know this costs money but you really all should be trying it out. Those that say they don't have a use case for it don't understand it's potential or how to use it properly. Or am I wrong?",
+    "url": "https://x.com/elonmusk/status/2110137566871900530"
+  },
+  {
+    "id": "x-1791931340139-92td7p",
+    "source": "x",
+    "ts": "2026-10-13T22:42:20.139Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 49,
+    "originTimestamp": "2026-10-13T21:52:48.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "@RealNickMugalli Micron has been reasonable regarding future memory prices, while others have been extortionate, which is something today’s customers won’t forget …\n\nMicron is making is the smart move for long-term customer loyalty.",
+    "url": "https://x.com/elonmusk/status/2110137506004099521"
+  },
+  {
+    "id": "x-1791931345803-wn2z1l",
+    "source": "x",
+    "ts": "2026-10-13T22:42:25.803Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-13T22:32:00.000Z",
+    "reason": "No notable move in crypto market mentioned.",
+    "text": "🇺🇸 JUST IN: US diesel prices are up 72% from a year ago, now 25 cents from the all-time record.  \n\nThe national average is now $6.28 a gallon, up from $3.65 a year ago, per AAA.  \n\nSeptember's record was $6.53 a gallon.  \n\nDiesel futures jumped 4.5% on Tuesday to a three-week",
+    "url": "https://x.com/coinbureau/status/2110136498423259360"
   }
 ]
