@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1791636117135-ahnybc",
-    "source": "x",
-    "ts": "2026-10-10T12:41:57.135Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-10T12:37:59.000Z",
-    "reason": "Notable bank offering crypto to millions of clients",
-    "text": "NEW: 🇧🇬 Bulgaria's First Investment Bank will offer Bitcoin and crypto assets to over 1 million clients 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2108899848166797761",
-    "images": [
-      "https://pbs.twimg.com/media/HURRFFAXMAABEbW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791636121215-wf79q9",
-    "source": "x",
-    "ts": "2026-10-10T12:42:01.215Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-10T12:32:51.000Z",
-    "reason": "Notable regulatory move impacting blockchain and crypto economy.",
-    "text": "🇨🇳 BIG: China's Communist Party and State Council just ordered a national blockchain network to be built as part of a new top-level blueprint for the country's economy.",
-    "url": "https://x.com/Cointelegraph/status/2108898555628838938",
-    "images": [
-      "https://pbs.twimg.com/media/HURQD1_WAAESAVu.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791637390974-zpqp0l",
     "source": "x",
     "ts": "2026-10-10T13:03:10.974Z",
@@ -7998,5 +7962,47 @@
     "reason": "No notable crypto-related content.",
     "text": "Watch Falcon 9 launch Dragon to the @Space_Station",
     "url": "https://x.com/elonmusk/status/2109953737569505669"
+  },
+  {
+    "id": "x-1791888771306-ipp5qb",
+    "source": "x",
+    "ts": "2026-10-13T10:52:51.306Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-13T10:50:00.000Z",
+    "reason": "Notable price increase for a native token without clear announcement.",
+    "text": "Celestia's celestia:native token is making a comeback!\n\n@celestia's native asset is up more than any crypto aside from @Starknet $STRK over the past week, surging some +34.4% at time of writing.\n\nThe exact reason is not clear, the project's X account having made no announcements",
+    "url": "https://x.com/BSCNews/status/2109959834011644078",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109900452183609344/vid/avc1/1312x720/zJKCIRrrEehAD-Jn.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109900452183609344/img/cBGQ1CPvPh8U_lQF.jpg"
+    }
+  },
+  {
+    "id": "x-1791888776984-txnuwk",
+    "source": "x",
+    "ts": "2026-10-13T10:52:56.984Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Rarma",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-13T10:47:34.000Z",
+    "reason": "Ethereum exploit affecting a custom EVM precompile.",
+    "text": "Stratos (stratos-1), a Cosmos EVM chain, was exploited and its validators halted the chain. Here is what happened and where the funds went, read directly from the chain.\n\nThe chain is frozen at block 16,008,475, last block 05:21 UTC.\n\nThe bug is a custom EVM precompile at",
+    "url": "https://x.com/Rarma_/status/2109959222716985466",
+    "images": [
+      "https://pbs.twimg.com/media/HUgUtqTacAIPAGM.jpg",
+      "https://pbs.twimg.com/media/HUgUtqSbIAAs7rV.jpg",
+      "https://pbs.twimg.com/media/HUgUtqNbgAAERsl.jpg",
+      "https://pbs.twimg.com/media/HUgUtqTacAAZByN.jpg"
+    ],
+    "video": null
   }
 ]
