@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791666768749-6ltsxc",
-    "source": "x",
-    "ts": "2026-10-10T21:12:48.749Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-10T21:08:28.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "@PEoperator @bot Grok will find another way to buy stuff. I just ordered LEGO and Grok bought it from the LEGO website.",
-    "url": "https://x.com/elonmusk/status/2109028389852188810"
-  },
-  {
-    "id": "x-1791666772728-cn9xaq",
-    "source": "x",
-    "ts": "2026-10-10T21:12:52.728Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-10T21:04:52.000Z",
-    "reason": "No notable move in price.",
-    "text": "To buy stuff, you can just take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it",
-    "url": "https://x.com/elonmusk/status/2109027407185277123"
-  },
-  {
     "id": "x-1791666776273-2bki8j",
     "source": "x",
     "ts": "2026-10-10T21:12:56.273Z",
@@ -8056,5 +8030,34 @@
     "reason": "Noise: Generic tweet without concrete information.",
     "text": "₿🔸",
     "url": "https://x.com/binance/status/2110024866015391978"
+  },
+  {
+    "id": "x-1791905030560-fs2equ",
+    "source": "x",
+    "ts": "2026-10-13T15:23:50.560Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-13T15:18:16.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 BIG: S&amp;P Global has released an analytical approach for Vault Risk Assessments (VRAs).  \n\nVRA measures a vault's lending, protocol &amp; blockchain risk, and the curator's ability and willingness to manage them.  \n\nRead more:",
+    "url": "https://x.com/Cointelegraph/status/2110027345536913522",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791905035443-5nw92p",
+    "source": "x",
+    "ts": "2026-10-13T15:23:55.443Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-13T15:18:00.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "UK Crypto Trader Reports Terrifying Knifepoint Robbery Inside His Home\n\nA UK-based crypto trader who goes by realist on X (@rrealist) says intruders tied him up at knifepoint and stole roughly $800,000, on Oct. 13.\n\nHe also reported losing a Rolex and his phone during the alleged",
+    "url": "https://x.com/BSCNews/status/2110027278654529650"
   }
 ]
