@@ -1796,19 +1796,11 @@
     "x-1791887605044-y37wnw",
     "x-1791887609268-f7nadh",
     "x-1791888771306-ipp5qb",
-    "x-1791888776984-txnuwk"
+    "x-1791888776984-txnuwk",
+    "x-1791889325159-pn3zlx",
+    "x-1791889328794-48bidu"
   ],
   "queue": [
-    {
-      "text": "🇬🇧 JUST IN: Bank of England’s Sarah Breeden sees no rush for a digital pound, citing stablecoins and tokenized deposits as alternatives, per Bloomberg.",
-      "url": "https://x.com/Cointelegraph/status/2109940708568092905",
-      "images": [
-        "https://pbs.twimg.com/media/HUgD44sWYAEu6zc.png",
-        "https://pbs.twimg.com/media/HUgD5IlWMAAoLEq.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1791884567848
-    },
     {
       "text": "Is the Stratos exploit the same bug that drained KiiChain, MANTRA and TAC earlier this year?\n\nSame family. Different root cause. The distinction matters, so here it is.\n\nAll of these are Cosmos EVM \"precompile boundary\" bugs — the layer that lets EVM contracts call into Cosmos",
       "url": "https://x.com/Rarma_/status/2109947617799229867",
@@ -1852,6 +1844,15 @@
       ],
       "video": null,
       "enqueuedAt": 1791888777041
+    },
+    {
+      "text": "🔥 INSIGHT: Bitcoin supply on exchanges continues to shrink, per CryptoQuant.\n\nRising demand amid low exchange supply could support a longer-term upward trend.",
+      "url": "https://x.com/Cointelegraph/status/2109962588960285174",
+      "images": [
+        "https://pbs.twimg.com/media/HUgXyqGWEAEjwlh.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791889328857
     }
   ],
   "posted": [
@@ -2052,7 +2053,13 @@
       "at": 1791887616896,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/376817359365324?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇬🇧 JUST IN: Bank of England’s Sarah Breeden sees no rush for a digital pound, citing stablecoins and tokenized deposits as alternatives, per Bloomberg.",
+      "at": 1791889328857,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/376824375550123?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791887616896
+  "lastPostAt": 1791889328857
 }
