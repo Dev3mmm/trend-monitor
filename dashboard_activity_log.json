@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1791711129192-sji0cm",
-    "source": "x",
-    "ts": "2026-10-11T09:32:09.192Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T09:29:46.000Z",
-    "reason": "Exploit and security incident involving a popular hardware wallet.",
-    "text": "🚨 JUST IN: Hardware wallet maker COLDCARD says a phishing link was posted from its official X account, despite the account using offline 2FA with tightly restricted access since 2017.",
-    "url": "https://x.com/Cointelegraph/status/2109214870017118289",
-    "images": [
-      "https://pbs.twimg.com/media/HUVvvxQWUAAkNU9.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791711133768-xl4z11",
-    "source": "x",
-    "ts": "2026-10-11T09:32:13.768Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-11T09:22:00.000Z",
-    "reason": "No notable move or specific event is reported.",
-    "text": "These memecoins don't care that the markets are suffering.\n\nSeveral major memecoins have bucked the market trend this week, recording significant gains.\n\n(1) @Snek on @Cardano [+35%]\n(2) @OsakaProtocol $OSAK [+26.8%]\n(3) @mubarak_cto on @BNBChain [+12.7%]\n(4) @Shibtoken's BONE",
-    "url": "https://x.com/BSCNews/status/2109212912246227408"
-  },
-  {
-    "id": "x-1791714148698-oyayaa",
-    "source": "x",
-    "ts": "2026-10-11T10:22:28.698Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-11T10:16:41.000Z",
-    "reason": "Exploit involving a significant amount of ETH quotes manipulation on HyperEVM.",
-    "text": "Papertrade Faces Allegations of BBO Price Manipulation on HyperEVM  \n\nX user @Dr_bobo54 alleged that two wallets exploited Papertrade’s pricing mechanism by using roughly $20 million orders on Hyperliquid to move ETH quotes by 10–20 basis points while holding much larger long",
-    "url": "https://x.com/WuBlockchain/status/2109226673149542858",
-    "images": [
-      "https://pbs.twimg.com/media/HUV6c9FbwAAtEE0.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791714154158-hlo0vc",
     "source": "x",
     "ts": "2026-10-11T10:22:34.158Z",
@@ -8059,5 +8010,60 @@
       "https://pbs.twimg.com/media/HUhv1LmW8AA8N-D.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791913951522-ovpir6",
+    "source": "x",
+    "ts": "2026-10-13T17:52:31.522Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-13T17:45:31.000Z",
+    "reason": "Notable financial institution event and collaboration in the crypto space.",
+    "text": "What does the next chapter of global finance look like?\n\nWe brought the people building it together at LONGITUDE: Singapore. 🇸🇬\n\nFrom stablecoins and 24/7 payment rails to tokenization, institutional-grade crypto markets, ETFs, onchain asset management and blockchain",
+    "url": "https://x.com/Cointelegraph/status/2110064402456260943",
+    "images": [
+      "https://pbs.twimg.com/media/HUhzssCa0AAbRNi.jpg",
+      "https://pbs.twimg.com/media/HUhzsq2aEAARWsx.jpg",
+      "https://pbs.twimg.com/media/HUhzswQacAAf7o6.jpg",
+      "https://pbs.twimg.com/media/HUhzstpagAAYEwb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791913957375-x69z7x",
+    "source": "x",
+    "ts": "2026-10-13T17:52:37.375Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-13T17:45:00.000Z",
+    "reason": "No notable move, price is not significant outside the recent trading range.",
+    "text": "🚨 HUGE: Google launches Gemini 4 Argon worldwide, claiming the top spot on the Vals Index with introductory prices 80% below GPT-6 Astra and Claude Fable 5.1.\n\nGoogle says Argon scored 68.90% on the benchmark covering finance, coding, legal and tax work, ahead of Claude Opus 5.5",
+    "url": "https://x.com/coinbureau/status/2110064273053426166"
+  },
+  {
+    "id": "x-1791913963424-74zrjc",
+    "source": "x",
+    "ts": "2026-10-13T17:52:43.424Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-13T17:42:16.000Z",
+    "reason": "New use of a token for reinsurance yield in Solana DeFi.",
+    "text": "A reinsurance yield token is on its way to Monad\n\n@onrefinance built ONyc to pay yield from reinsurance, which is insurance for insurance companies, earned from premiums rather than token rewards. More than $245M of it already sits in Solana DeFi.\n\nUntil now it lived only on",
+    "url": "https://x.com/BSCNews/status/2110063585816695208",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110062662944006144/vid/avc1/1220x720/UBSMT37WXmOEeZJd.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110062662944006144/img/MjoQu2eEuu20KVJX.jpg"
+    }
   }
 ]
