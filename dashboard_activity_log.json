@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791735131239-9eopx3",
-    "source": "x",
-    "ts": "2026-10-11T16:12:11.239Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T16:10:14.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "🔥NEW MOVE: NVIDIA is reportedly in talks to ACQUIRE or deepen its investment in Reflection AI, a U.S. startup valued at $25 BILLION, per FT.\n\nFounded by former Google DeepMind researchers who worked on Gemini, Reflection AI develops open-weight AI models designed to compete with",
-    "url": "https://x.com/coinbureau/status/2109315649982148919"
-  },
-  {
-    "id": "x-1791735133752-mebu45",
-    "source": "x",
-    "ts": "2026-10-11T16:12:13.752Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-11T16:03:48.000Z",
-    "reason": "ETFs tracking Bitcoin, Ethereum, and Solana all saw losses in October.",
-    "text": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-    "url": "https://x.com/DecryptMedia/status/2109314031299289337",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791735734822-lv8jsi",
     "source": "x",
     "ts": "2026-10-11T16:22:14.822Z",
@@ -8047,5 +8018,39 @@
     "reason": "No notable move in ETH price within the recent range.",
     "text": "🚨 INSIGHT: Michael Dell says AI models need “safeguards and controls,” with government having a role to play in addressing the technology’s risks.",
     "url": "https://x.com/Cointelegraph/status/2110098435734901205"
+  },
+  {
+    "id": "x-1791922407743-3t0m2m",
+    "source": "x",
+    "ts": "2026-10-13T20:13:27.743Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 19,
+    "originTimestamp": "2026-10-13T19:54:27.000Z",
+    "reason": "Generic marketing content without a specific, verifiable claim.",
+    "text": "🟠💊NEW!! 🟠💊\n\nI am launching a free online course based on The Bitcoin Standard starting today on my podcast and Youtube channel!\n\nWatch the first lecture now and be sure to subscribe to get all the lectures over the coming weeks!",
+    "url": "https://x.com/saylor/status/2110101359840145494"
+  },
+  {
+    "id": "x-1791922413031-qkrtkg",
+    "source": "x",
+    "ts": "2026-10-13T20:13:33.031Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 81,
+    "originTimestamp": "2026-10-13T18:52:06.000Z",
+    "reason": "Notable institutional discussion involving Saylor and potential impact on Bitcoin investment strategy.",
+    "text": "🚨 Michael Saylor CLASHES with CNBC hosts over Bitcoin vs AI!\n\nDoes the AI boom make the case for investing in Bitcoin even STRONGER?\n\nSaylor says YES and explains the connection most investors are missing:",
+    "url": "https://x.com/saylor/status/2110100376460648957",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110080508260712448/vid/avc1/1280x720/A84TyeMwuP8d7Xow.mp4?tag=29",
+      "duration": 135,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110080508260712448/img/iOnAT636tztoZgll.jpg"
+    }
   }
 ]
