@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1791615725033-17i20y",
-    "source": "x",
-    "ts": "2026-10-10T07:02:05.033Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-10T07:01:02.000Z",
-    "reason": "Significant liquidation event impacting Bitcoin prices.",
-    "text": "🚨 REKT: Over $2.4B in crypto positions were liquidated this week, with longs eating $1.97B of the pain as Bitcoin slid from $85.7K to $82.5K.",
-    "url": "https://x.com/Cointelegraph/status/2108815051029193017",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791615727091-25fip1",
     "source": "x",
     "ts": "2026-10-10T07:02:07.091Z",
@@ -7930,5 +7914,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109885359110987776/img/yx-3bN-8ZHJrUJnE.jpg"
     }
+  },
+  {
+    "id": "x-1791876120964-bpkutp",
+    "source": "x",
+    "ts": "2026-10-13T07:22:00.964Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-13T07:19:21.000Z",
+    "reason": "No notable move or concrete, specific information.",
+    "text": "TRON’s (@trondao) stablecoin supply climbed 5.5% to $93.88 billion in Q3 2026, while monthly active addresses rose 9.8% to 18 million.\n\nHere's the full Q3 breakdown👇",
+    "url": "https://x.com/BSCNews/status/2109906823927255355"
   }
 ]
