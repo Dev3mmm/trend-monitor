@@ -1,65 +1,5 @@
 [
   {
-    "id": "x-1791691323118-6b5rny",
-    "source": "x",
-    "ts": "2026-10-11T04:02:03.118Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T04:00:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Michael Saylor :AI will amplify the scarcity of premium assets\n\nIn a September 28, 2026 Binance @binance interview, Strategy Executive Chairman Michael Saylor @saylor described two inflation rates: CPI at only about 3% as machines make things cheaper, and the cost of capital —",
-    "url": "https://x.com/WuBlockchain/status/2109131879995855228"
-  },
-  {
-    "id": "x-1791691923330-9wstod",
-    "source": "x",
-    "ts": "2026-10-11T04:12:03.330Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 83,
-    "originTimestamp": "2026-10-11T02:48:22.000Z",
-    "reason": "Generic tweet with no factual claim or move.",
-    "text": "Try Grok @Bot",
-    "url": "https://x.com/elonmusk/status/2109132465784930785"
-  },
-  {
-    "id": "x-1791693203998-cauw7e",
-    "source": "x",
-    "ts": "2026-10-11T04:33:23.998Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T04:30:51.000Z",
-    "reason": "No notable move in price or significant event.",
-    "text": "🚨 JUST IN: Microsoft CEO Satya Nadella says advanced AI needs an \"emergency brake\" that lets humans pause or shut a model down mid-task.\n\nDo you agree?",
-    "url": "https://x.com/Cointelegraph/status/2109139643799126504"
-  },
-  {
-    "id": "x-1791693731458-wa1f76",
-    "source": "x",
-    "ts": "2026-10-11T04:42:11.458Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T04:40:00.000Z",
-    "reason": "Notable increase in Hedera DEX volume.",
-    "text": "Hedera DEX volume grows +151%.\n\nAccording to @MSBIntel, DEX volumes on the @Hedera blockchain have surged by +151% in the 30-day period leading up to October 9.\n\nThis surge in activity pushes its monthly DEX volume to some $110M - a metric that has not been reflected in demand",
-    "url": "https://x.com/BSCNews/status/2109141944592932908",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108521680121270272/vid/avc1/1312x720/qALFcwu6vtG4fjcF.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108521680121270272/img/DouY-YrFQA0oEkMz.jpg"
-    }
-  },
-  {
     "id": "x-1791695515094-63hugv",
     "source": "x",
     "ts": "2026-10-11T05:11:55.094Z",
@@ -8041,5 +7981,70 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Many have tried, many have failed.",
     "url": "https://x.com/coinbase/status/2110045342255505427"
+  },
+  {
+    "id": "x-1791910452013-3op77v",
+    "source": "x",
+    "ts": "2026-10-13T16:54:12.013Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-13T16:47:30.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+    "url": "https://x.com/DecryptMedia/status/2110049802125779177"
+  },
+  {
+    "id": "x-1791910456465-gefqrj",
+    "source": "x",
+    "ts": "2026-10-13T16:54:16.465Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T16:44:50.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "🎥 LATEST: @Bitbase_Ex Chief Business Officer Nicholas Lo (@nic_web3) says liquidity, execution and user protection remain traders’ core priorities.\n\n“For traders, the core needs are extremely basic: liquidity, execution, and in case of emergency, is the exchange able to protect",
+    "url": "https://x.com/Cointelegraph/status/2110049131758592224"
+  },
+  {
+    "id": "x-1791910461736-jugaww",
+    "source": "x",
+    "ts": "2026-10-13T16:54:21.736Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T16:44:45.000Z",
+    "reason": "Coinbase highlights Bitcoin's potential as a trusted currency in a post-quantum world.",
+    "text": "JUST IN: Coinbase releases a blog article focused on Bitcoin's post-quantum readiness 👀\n\n\"Coinbase believes that Bitcoin will continue to be the most trusted crypto-currency in a post-quantum world\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110049108887007501",
+    "images": [
+      "https://pbs.twimg.com/media/HUhmex_WIAA6NIe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791910466724-hutp53",
+    "source": "x",
+    "ts": "2026-10-13T16:54:26.724Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-13T16:43:03.000Z",
+    "reason": "Specific institutional event with community token distribution.",
+    "text": "The last Aptos team and investor tokens are out\n\n@Aptos closed out the unlock schedule for its core contributors and investors on Monday, four years after its mainnet launch. The two groups held about 325M $APT, roughly a third of the 1B starting supply.\n\nCommunity and foundation",
+    "url": "https://x.com/BSCNews/status/2110048683332939996",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110047096661282816/vid/avc1/1220x720/_BonrohAfXRYAIRC.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110047096661282816/img/V9u_Q9yczdvfy5VP.jpg"
+    }
   }
 ]
