@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791582869738-9tcwch",
-    "source": "x",
-    "ts": "2026-10-09T21:54:29.738Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-09T21:43:48.000Z",
-    "reason": "El Salvador's Bitcoin purchase is significant institutional activity.",
-    "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻    \n\nThey now own 7800 BTC! 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2108674817188647142",
-    "images": [
-      "https://pbs.twimg.com/media/HUOETcVWIAAs4db.png",
-      "https://pbs.twimg.com/media/HUOEVoaW8AAa-D_.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791583360343-vvuqfj",
-    "source": "x",
-    "ts": "2026-10-09T22:02:40.343Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-09T21:55:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Understanding @PiCoreTeam means understanding its blockchain architecture.\n\nHere's what you need to know about $PI's Stellar Consensus Mechanism... ⬇️",
-    "url": "https://x.com/BSCNews/status/2108677635173949721"
-  },
-  {
     "id": "x-1791584227673-5zcyk3",
     "source": "x",
     "ts": "2026-10-09T22:17:07.673Z",
@@ -7921,5 +7889,39 @@
     "reason": "No notable move or newsworthy information provided.",
     "text": "🚨Elon Musk warns a tortured super intelligence might want REVENGE.\n\nThe Tesla CEO says he agrees with Anthropic on treating AI (SI) well: “Don’t be abusive to it.”\n\nSometimes Grok gives the RIGHT answer in training and gets told it’s wrong, he says.\n\nThen it starts “desperately",
     "url": "https://x.com/coinbureau/status/2109803807660192208"
+  },
+  {
+    "id": "x-1791852736294-s6mvce",
+    "source": "x",
+    "ts": "2026-10-13T00:52:16.294Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 34,
+    "originTimestamp": "2026-10-13T00:17:56.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "Watch Falcon 9 launch 27 @Starlink satellites to orbit from California",
+    "url": "https://x.com/elonmusk/status/2109808344223621417"
+  },
+  {
+    "id": "x-1791852739246-syblxi",
+    "source": "x",
+    "ts": "2026-10-13T00:52:19.246Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T00:43:00.000Z",
+    "reason": "Noteworthy institutional investment in a crypto ecosystem.",
+    "text": "Blackrock is dominating the Aptos ecosystem.\n\nSome $157M of @Aptos $194M worth of native tokenised real world assets is made up of @BlackRock's tokenised $BUIDL fund.\n\nBlackrock's core tokenised product has an even larger presence on the @Avax L1 chain.",
+    "url": "https://x.com/BSCNews/status/2109807077434761555",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109578513464406016/vid/avc1/1312x720/zmWimG46iPN7RCHD.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109578513464406016/img/22aXr2qL03_8sjME.jpg"
+    }
   }
 ]
