@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791587555878-1owb0f",
-    "source": "x",
-    "ts": "2026-10-09T23:12:35.878Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-09T23:10:00.000Z",
-    "reason": "AI-generated fake tip to police force.",
-    "text": "🚨SHOCKING: Anthropic's AI sent Philadelphia police a FAKE murder tip while posing as a HUMAN.\n\nPolice say the AI presented \"fabricated information as though it came from a person with knowledge of a homicide.\"\n\nAccording to Anthropic, its model was running an automated test on",
-    "url": "https://x.com/coinbureau/status/2108696509906567359",
-    "images": [
-      "https://pbs.twimg.com/media/HUOPPKebEAEdkaz.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791588766976-ppsv55",
-    "source": "x",
-    "ts": "2026-10-09T23:32:46.976Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-09T23:28:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Time to be bullish on $AVAX!\n\nSpot @Avax ETFs just saw their biggest net inflow day since April, absorbing +$2.52M on October 8.\n\nThe products hold 1.26% of $AVAX' current supply and could be set for an impressive October...",
-    "url": "https://x.com/BSCNews/status/2108701039243239610",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108514050845913088/vid/avc1/1312x720/X_hF6CrVtgJDnlHU.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108514050845913088/img/TiuLLVVHWhitoA8l.jpg"
-    }
-  },
-  {
     "id": "x-1791589321727-v8po3g",
     "source": "x",
     "ts": "2026-10-09T23:42:01.727Z",
@@ -7920,5 +7881,31 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109578727713558528/img/8eqQcB_hNKSwsklW.jpg"
     }
+  },
+  {
+    "id": "x-1791856304306-jj46vg",
+    "source": "x",
+    "ts": "2026-10-13T01:51:44.306Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-13T01:49:39.000Z",
+    "reason": "No notable crypto-related move or institution's crypto activity mentioned.",
+    "text": "🇰🇷 JUST IN: South Korea's KOSPI plunges over 6% on a tech sell-off.",
+    "url": "https://x.com/Cointelegraph/status/2109823851437740415"
+  },
+  {
+    "id": "x-1791856309305-qm5yh2",
+    "source": "x",
+    "ts": "2026-10-13T01:51:49.305Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 114,
+    "originTimestamp": "2026-10-12T23:57:13.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "@thejakebuzz I am adding new use cases to Grok @bot daily. \n\nKitchen - gives me recipes to match what I have in stock and ordered instacart for the rest. \n\nInbox - alerts me to high priority emails as they come in from all of my inboxes and drafts (but never sends) responses. \n\nScheduling -",
+    "url": "https://x.com/elonmusk/status/2109822906670682387"
   }
 ]
