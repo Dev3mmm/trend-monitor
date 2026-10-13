@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791732780252-c3r0p5",
-    "source": "x",
-    "ts": "2026-10-11T15:33:00.252Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T15:31:05.000Z",
-    "reason": "BitMine is a significant player nearing 5% of Ethereum's supply.",
-    "text": "🔥 BIG: BitMine is roughly 200,000 ETH away from owning 5% of Ethereum's entire supply, now sitting on 5.85M ETH worth $14.27B.",
-    "url": "https://x.com/Cointelegraph/status/2109305798044123236",
-    "images": [
-      "https://pbs.twimg.com/media/HUXCccjXQAAwqKb.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791733955090-qk89dl",
-    "source": "x",
-    "ts": "2026-10-11T15:52:35.090Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 38,
-    "originTimestamp": "2026-10-11T15:14:25.000Z",
-    "reason": "No notable moves or significant events are described.",
-    "text": "Today's top crypto stories 👇\n\n1. Starknet's $STRK doubles, up 107% in a week, as it weighs a quantum-safe Layer 1\n2. @Uniswap crosses $6.07B in cumulative fees, with $147M in the past 30 days $UNI\n3. $SKY falls 20.3%, $VVV 19.6% and $UNI 16.7% as $BTC closes at $82,123\n4.",
-    "url": "https://x.com/BSCNews/status/2109308991537037575"
-  },
-  {
     "id": "x-1791734524547-g4j27s",
     "source": "x",
     "ts": "2026-10-11T16:02:04.547Z",
@@ -8050,5 +8019,39 @@
     "url": "https://x.com/DecryptMedia/status/2110093086994932038",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791921118168-1mlslr",
+    "source": "x",
+    "ts": "2026-10-13T19:51:58.168Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-13T19:45:00.000Z",
+    "reason": "Notable institutional adoption with a new wallet integration.",
+    "text": "Zebec is bringing an institutional wallet into its payroll tools\n\n@Zebec_HQ is adding the enterprise version of @C8Wallet, built by @cantor8, to its products. It lets institutions manage several assets and move funds while keeping control of their keys.\n\nPaired with Zebec’s",
+    "url": "https://x.com/BSCNews/status/2110094471069397062",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110082778805018624/vid/avc1/1220x720/HmiseBQJAX718jwb.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110082778805018624/img/ljRw_1Rv20JQzJqm.jpg"
+    }
+  },
+  {
+    "id": "x-1791921120292-cxh8tg",
+    "source": "x",
+    "ts": "2026-10-13T19:52:00.292Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T19:42:52.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨JUST IN: Michael Saylor says \"Bitcoin is at the beginning of a bull market.\"\n\nSaylor says BTC has rebounded from below its 200-week moving average and is now trading at a 25% premium.",
+    "url": "https://x.com/coinbureau/status/2110093934190104688"
   }
 ]
