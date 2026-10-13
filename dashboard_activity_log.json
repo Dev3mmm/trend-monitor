@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791702143986-2h9tzy",
-    "source": "x",
-    "ts": "2026-10-11T07:02:23.986Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-11T06:59:00.000Z",
-    "reason": "Uniswap has generated a significant amount in protocol fees.",
-    "text": "Uniswap crosses $6 billion in total fees.\n\nDriven by a recent surge, @Uniswap has now generated a whopping $6.07 BILLION in cumulative protocol fees.\n\n$UNI has generated nearly $147 million in the past 30-days alone.\n\nIt pays to be popular...",
-    "url": "https://x.com/BSCNews/status/2109176925084123155",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108521372997533696/vid/avc1/1312x720/-oY89I7TM3T5KhXK.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108521372997533696/img/M3mmFd4j9kbCzTFT.jpg"
-    }
-  },
-  {
     "id": "x-1791702722443-pgqgou",
     "source": "x",
     "ts": "2026-10-11T07:12:02.443Z",
@@ -8067,6 +8046,22 @@
       "https://pbs.twimg.com/media/HUhslLfbEAAurXs.jpg",
       "https://pbs.twimg.com/media/HUhsl62aUAATOr3.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1791912810649-fxjiq8",
+    "source": "x",
+    "ts": "2026-10-13T17:33:30.649Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-13T17:26:54.000Z",
+    "reason": "Notable use of a token with significant trading volume.",
+    "text": "September was the biggest month yet for @near_intents, with about $4.8B in swaps, up 73% from August and well past the old $3.66B record ⬇️",
+    "url": "https://x.com/BSCNews/status/2110059716864880838",
+    "images": [],
     "video": null
   }
 ]
