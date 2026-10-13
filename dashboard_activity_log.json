@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791724932153-0rengw",
-    "source": "x",
-    "ts": "2026-10-11T13:22:12.153Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-11T13:15:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "🚨JUST IN: Vitalik Buterin says the cryptography securing crypto may have hidden flaws humans \"haven't been smart enough\" to find.\n\n“But the bots can,” the Ethereum co-founder says.",
-    "url": "https://x.com/coinbureau/status/2109271549274411031",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109228015821701120/vid/avc1/1280x720/d5PERmGdf50QLYrk.mp4?tag=29",
-      "duration": 96,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109228015821701120/img/khoyY5nTDRerC_ex.jpg"
-    }
-  },
-  {
-    "id": "x-1791725536035-fso70k",
-    "source": "x",
-    "ts": "2026-10-11T13:32:16.035Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T13:29:47.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "🔥 INTERESTING: Strives CEO says,  \"Think ₿igger.\"\n\nIs he pulling a page out of Saylor's play book?",
-    "url": "https://x.com/Cointelegraph/status/2109275268384768455"
-  },
-  {
     "id": "x-1791725539701-yyxpts",
     "source": "x",
     "ts": "2026-10-11T13:32:19.701Z",
@@ -8074,5 +8040,39 @@
       "https://pbs.twimg.com/media/HUiAbCrX0AAAmsm.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791918738470-qstgxt",
+    "source": "x",
+    "ts": "2026-10-13T19:12:18.470Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-13T19:09:00.000Z",
+    "reason": "Notable institutional adoption of tokenized government debt.",
+    "text": "Ondo now holds the top spot in tokenized Treasuries\n\n@Ondo manages about $3B in tokenized US Treasuries, government debt issued as tokens, more than any other platform listed on rwa.​xyz. Its $USDY token holds $2.33B of that, edging past BlackRock’s $BUIDL at $2.2B.\n\nOndo grew",
+    "url": "https://x.com/BSCNews/status/2110085411506651249",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110073173983039488/vid/avc1/1220x720/vEeFYA2V2H85i6ZX.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110073173983039488/img/XKH2vkVTSI_g2rhL.jpg"
+    }
+  },
+  {
+    "id": "x-1791918742614-14afyh",
+    "source": "x",
+    "ts": "2026-10-13T19:12:22.614Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-13T19:00:47.000Z",
+    "reason": "Vague opinion with no factual claim or basis given.",
+    "text": "\"AI is going to demonetize a lot of equities based on labor and talent. Capital investors are going to look for things that the robots can’t make more of.\" bitcoin:native",
+    "url": "https://x.com/saylor/status/2110083856850415855"
   }
 ]
