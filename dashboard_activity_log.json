@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1791769928842-75rxd6",
-    "source": "x",
-    "ts": "2026-10-12T01:52:08.842Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-12T01:43:00.000Z",
-    "reason": "Specific announcement about Stellar's quantum resistance plans.",
-    "text": "Is Stellar ahead of quantum technology...?\n\nHere's everything we know about @StellarOrg's plans for quantum resistance and security ⬇️",
-    "url": "https://x.com/BSCNews/status/2109459788853846216",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791770522986-9k9vn7",
     "source": "x",
     "ts": "2026-10-12T02:02:02.986Z",
@@ -8060,5 +8044,26 @@
       "https://pbs.twimg.com/media/HUjFnGMWYAE9s7u.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791935527102-v9qwmz",
+    "source": "x",
+    "ts": "2026-10-13T23:52:07.102Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-13T23:48:00.000Z",
+    "reason": "New use of a token/stablecoin on ADA.",
+    "text": "Cardano launches new company and tokenises it on $ADA.\n\nOn October 8, The @Cardano_CF announced the launch of Veridian - its digital identity focused spin-out company.\n\nWhat's more, The Foundation has actually tokenised shares in the company on @Cardano $ADA under CIP-0113 - the",
+    "url": "https://x.com/BSCNews/status/2110155624151474594",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109946286560481280/vid/avc1/1312x720/069waP2YNNUOWlxr.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109946286560481280/img/JtudgejysW2-8qdw.jpg"
+    }
   }
 ]
