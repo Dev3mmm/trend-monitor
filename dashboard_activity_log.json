@@ -1,76 +1,5 @@
 [
   {
-    "id": "x-1791725539701-yyxpts",
-    "source": "x",
-    "ts": "2026-10-11T13:32:19.701Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-11T13:27:16.000Z",
-    "reason": "No notable move in stock prices is mentioned.",
-    "text": "过去近四年，标普500上涨约117%，Bitcoin上涨约331%，英伟达市值从2,860亿美元增加到约5.8万亿美元。",
-    "url": "https://x.com/PhyrexNi/status/2109274635275833647"
-  },
-  {
-    "id": "x-1791725544870-0kj5q0",
-    "source": "x",
-    "ts": "2026-10-11T13:32:24.871Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-11T13:26:25.000Z",
-    "reason": "The tweet is vague and lacks concrete information, so it doesn't qualify as news.",
-    "text": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀  \n\n\"There's always room for more orange.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2109274424696283349",
-    "images": [
-      "https://pbs.twimg.com/media/HUWl6SaWoAEQqq_.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791727317800-jwksqt",
-    "source": "x",
-    "ts": "2026-10-11T14:01:57.800Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T14:01:00.000Z",
-    "reason": "XRP Vault holds a significant amount of XRP worth over $125 million.",
-    "text": "Doppler’s XRP Vault just hit 90 MILLION XRP.\n\n@doppler_fi's dedicated Vault for @Ripple's token now holds some 90,000,000 $XRP. \n\nAt time of writing, 90 million $XRP is worth over $125 million.",
-    "url": "https://x.com/BSCNews/status/2109283125415067835",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109201297127657472/vid/avc1/1312x720/ZEmGA7jkhHfp4sdi.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109201297127657472/img/MVVn5cu0j4hz7mvi.jpg"
-    }
-  },
-  {
-    "id": "x-1791727320591-0m7im0",
-    "source": "x",
-    "ts": "2026-10-11T14:02:00.591Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T14:00:02.000Z",
-    "reason": "The IMF highlights significant off-hours trading in tokenized stocks, potentially impacting market stability.",
-    "text": "🚨HUGE: The IMF says more than HALF of tokenized stock trading happens outside US market hours.\n\nThe IMF’s latest Global Financial Stability Report studied the five most liquid tokenized US equities, including Tesla, Nvidia and Google.\n\nAbout 80% of trades were for less than one",
-    "url": "https://x.com/coinbureau/status/2109282882548117841",
-    "images": [
-      "https://pbs.twimg.com/media/HUWseaBawAAD0R9.png",
-      "https://pbs.twimg.com/media/HUWseVLbwAE8JPH.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791729169390-udti7i",
     "source": "x",
     "ts": "2026-10-11T14:32:49.391Z",
@@ -8074,5 +8003,65 @@
     "reason": "Vague opinion with no factual claim or basis given.",
     "text": "\"AI is going to demonetize a lot of equities based on labor and talent. Capital investors are going to look for things that the robots can’t make more of.\" bitcoin:native",
     "url": "https://x.com/saylor/status/2110083856850415855"
+  },
+  {
+    "id": "x-1791919330574-oj5usp",
+    "source": "x",
+    "ts": "2026-10-13T19:22:10.574Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T19:20:35.000Z",
+    "reason": "Concrete price analysis with actionable information for investors.",
+    "text": "🚨 INSIGHT: Glassnode data shows Bitcoin approaching the $87,800 break-even level for buyers who purchased 6–12 months ago, while selling activity among holders who bought 1–2 years ago has increased.",
+    "url": "https://x.com/Cointelegraph/status/2110088328766697592",
+    "images": [
+      "https://pbs.twimg.com/media/HUiKJsIWQAATXhi.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791919334868-90isio",
+    "source": "x",
+    "ts": "2026-10-13T19:22:14.868Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-13T19:18:23.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: Michael Saylor talks Bitcoin on Bloomberg 👀\n\n\"Bitcoin is just raw financial energy.\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110087772044185686"
+  },
+  {
+    "id": "x-1791919339396-ks0saw",
+    "source": "x",
+    "ts": "2026-10-13T19:22:19.396Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T19:13:13.000Z",
+    "reason": "No notable move in price or significant event described.",
+    "text": "Today Metaplanet announced that it will issue ¥52bn of zero-coupon Euro-yen convertible bonds due 2031, together with a concurrent share repurchase.\n\nThese initiatives are interconnected. The issuance funds the repurchase of our shares at a discount to net asset value, reduces",
+    "url": "https://x.com/saylor/status/2110087550731686116"
+  },
+  {
+    "id": "x-1791919344116-sue29o",
+    "source": "x",
+    "ts": "2026-10-13T19:22:24.116Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 39,
+    "originTimestamp": "2026-10-13T18:42:15.000Z",
+    "reason": "Notable milestone in transaction volume for a new blockchain token.",
+    "text": "Layer 1 network @SuiNetwork has passed 5 billion total transactions, with the count at 5.02 billion for the $SUI chain.",
+    "url": "https://x.com/BSCNews/status/2110086410112000321",
+    "images": [],
+    "video": null
   }
 ]
