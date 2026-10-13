@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791735734822-lv8jsi",
-    "source": "x",
-    "ts": "2026-10-11T16:22:14.822Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-11T16:20:00.000Z",
-    "reason": "No notable move in ETH price within the recent range.",
-    "text": "The most important part of the @XDCNetwork ecosystem.\n\nWe explain exactly what a Masternode Validator actually is, and why they matter for the $XDC ecosystem ⬇️",
-    "url": "https://x.com/BSCNews/status/2109318105453486143"
-  },
-  {
-    "id": "x-1791735738236-h49uwk",
-    "source": "x",
-    "ts": "2026-10-11T16:22:18.236Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 102,
-    "originTimestamp": "2026-10-11T14:40:05.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Wanna sandbox me? Delta's the perfect box\n\nAirplane Mode",
-    "url": "https://x.com/elonmusk/status/2109317009301234135"
-  },
-  {
-    "id": "x-1791736942067-yt2lt3",
-    "source": "x",
-    "ts": "2026-10-11T16:42:22.067Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-11T16:36:39.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🔥🇺🇸 LATEST: Trump opened the US to Russian diesel for the first time since 2022 and blamed Ukraine's drones for record prices, but the first 300,000-ton shipment covers about half a day of US demand.",
-    "url": "https://x.com/Cointelegraph/status/2109322296766689704"
-  },
-  {
     "id": "x-1791736946764-ex73dj",
     "source": "x",
     "ts": "2026-10-11T16:42:26.764Z",
@@ -8051,6 +8012,62 @@
       "duration": 135,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110080508260712448/img/iOnAT636tztoZgll.jpg"
+    }
+  },
+  {
+    "id": "x-1791922954913-e49y1e",
+    "source": "x",
+    "ts": "2026-10-13T20:22:34.913Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T20:20:36.000Z",
+    "reason": "SEC filing for Dogecoin ETF is a notable regulatory move.",
+    "text": "🇺🇸 NEW: The SEC files Form 25 for the Bitwise Dogecoin ETF under DOGE.",
+    "url": "https://x.com/Cointelegraph/status/2110103431880782089",
+    "images": [
+      "https://pbs.twimg.com/media/HUiX4kyXYAAK17Z.jpg",
+      "https://pbs.twimg.com/media/HUiX41fXMAAHeiO.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791922958508-ho2e4u",
+    "source": "x",
+    "ts": "2026-10-13T20:22:38.508Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-13T20:17:15.000Z",
+    "reason": "Specific institutional action with significant potential impact on the cryptocurrency ecosystem.",
+    "text": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+    "url": "https://x.com/DecryptMedia/status/2110102587328401506",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791922964569-cenvya",
+    "source": "x",
+    "ts": "2026-10-13T20:22:44.569Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-13T20:14:00.000Z",
+    "reason": "Notable milestone in decentralized trading on a layer-2 network.",
+    "text": "Robinhood Chain hits a $100B trading milestone\n\n@RobinhoodCrypto has now seen $100B in total trading on decentralized exchanges across Robinhood Chain, its layer-2 network. About $37.6B of that came in the past 30 days, per DeFiLlama data.\n\n@Uniswap carries most of the flow, with",
+    "url": "https://x.com/BSCNews/status/2110101769271361732",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110090091557240832/vid/avc1/1220x720/NxBrom0B-eDtjAir.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110090091557240832/img/U-V4JGEC_VtxS_tr.jpg"
     }
   }
 ]
