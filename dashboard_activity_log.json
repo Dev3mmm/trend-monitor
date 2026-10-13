@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1791752544982-imuvxn",
-    "source": "x",
-    "ts": "2026-10-11T21:02:24.982Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T21:00:30.000Z",
-    "reason": "No substantive news or move is suggested.",
-    "text": "if you not on binance rn, what you doing",
-    "url": "https://x.com/binance/status/2109388697963475391"
-  },
-  {
-    "id": "x-1791753131257-8p3v0k",
-    "source": "x",
-    "ts": "2026-10-11T21:12:11.257Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-11T20:56:53.000Z",
-    "reason": "Significant increase in total value locked for XRP Vault.",
-    "text": "Doppler Finance's XRP Vault has crossed 90 million $XRP in total value locked, worth more than $125 million.\n\nThe vault sits on the XRP Ledger, where XRP native yield products have grown rapidly.",
-    "url": "https://x.com/BSCNews/status/2109391060367446198",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791754347601-b59fq9",
-    "source": "x",
-    "ts": "2026-10-11T21:32:27.601Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T21:30:47.000Z",
-    "reason": "IMF report on tokenized stock trading outside regular market hours.",
-    "text": "🔥 JUST IN: The IMF says more than half of tokenized stock trading happens outside regular US market hours, and 80% of trades are smaller than one share.",
-    "url": "https://x.com/Cointelegraph/status/2109396319307456593",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791755581765-2p9tud",
     "source": "x",
     "ts": "2026-10-11T21:53:01.765Z",
@@ -8068,6 +8023,51 @@
       "https://pbs.twimg.com/media/HUiqCH7aQAA7eqW.png",
       "https://pbs.twimg.com/media/HUiqCH6aEAAtrAU.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1791928936622-5mskp7",
+    "source": "x",
+    "ts": "2026-10-13T22:02:16.622Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T22:00:35.000Z",
+    "reason": "Highlights significant change in tokenized stock trading patterns.",
+    "text": "🇺🇸 UPDATE: Most tokenized stock trading on BNB Chain, Solana and Base now happens outside regular US market hours, highlighting demand for 24/7 onchain equity trading.",
+    "url": "https://x.com/Cointelegraph/status/2110128592877130012",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791928938822-cy9cql",
+    "source": "x",
+    "ts": "2026-10-13T22:02:18.822Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T21:52:33.000Z",
+    "reason": "No actionable information or data provided.",
+    "text": "Starship 40’s return to base",
+    "url": "https://x.com/elonmusk/status/2110127406258286757"
+  },
+  {
+    "id": "x-1791928942239-cjami8",
+    "source": "x",
+    "ts": "2026-10-13T22:02:22.239Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-13T21:53:00.000Z",
+    "reason": "Notable institutional move and token migration.",
+    "text": "Story Protocol, now DATA Network, is leaving its own chain behind. Its tokens will move to @SuiNetwork one-to-one, backed by a $30M investment from the Sui Foundation. Read more: ⬇️",
+    "url": "https://x.com/BSCNews/status/2110126683248328883",
+    "images": [],
     "video": null
   }
 ]
