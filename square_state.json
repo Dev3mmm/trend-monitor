@@ -1788,19 +1788,11 @@
     "x-1791882752995-9qir81",
     "x-1791883338233-2b65ca",
     "x-1791884563017-l84wia",
-    "x-1791884567792-6t1a5p"
+    "x-1791884567792-6t1a5p",
+    "x-1791885728708-jbqx7o",
+    "x-1791885731151-jarpmz"
   ],
   "queue": [
-    {
-      "text": "K33: U.S. Government's 17,733 BTC Transfers Likely Custody-Related, Not Sales\n\nK33 Research reported that U.S. government-linked wallets transferred approximately 17,733 BTC to Coinbase Prime in early October, including 12,267 BTC tied to the Bitfinex hack. Labeled government",
-      "url": "https://x.com/WuBlockchain/status/2109933273480867877",
-      "images": [
-        "https://pbs.twimg.com/media/HUf9HANa0AA5IHq.jpg",
-        "https://pbs.twimg.com/media/HUf9HJMakAATZj7.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1791882753052
-    },
     {
       "text": "#PeckShieldAlert 19M $THEO were minted on #Base, and the hacker has swapped them for 700.8 $ETH (~$1.76M) and bridged the ETH to #Ethereum. $THEO has dropped -92% in 24h",
       "url": "https://x.com/PeckShieldAlert/status/2109933198096711890",
@@ -1820,6 +1812,28 @@
       ],
       "video": null,
       "enqueuedAt": 1791884567848
+    },
+    {
+      "text": "Is the Stratos exploit the same bug that drained KiiChain, MANTRA and TAC earlier this year?\n\nSame family. Different root cause. The distinction matters, so here it is.\n\nAll of these are Cosmos EVM \"precompile boundary\" bugs — the layer that lets EVM contracts call into Cosmos",
+      "url": "https://x.com/Rarma_/status/2109947617799229867",
+      "images": [
+        "https://pbs.twimg.com/media/HUgKFCLaMAEI8XO.jpg",
+        "https://pbs.twimg.com/media/HUgKFCIbwAAhVIt.jpg",
+        "https://pbs.twimg.com/media/HUgKFCWbwAAuKZY.jpg",
+        "https://pbs.twimg.com/media/HUgKFCcaQAAwoTP.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791885731198
+    },
+    {
+      "text": "🇯🇵 NEW: Metaplanet to issue $329M in zero-interest convertible bonds due 2031 to repay Bitcoin-backed loans and fund share buybacks.",
+      "url": "https://x.com/Cointelegraph/status/2109947499695702068",
+      "images": [
+        "https://pbs.twimg.com/media/HUgKEM1W8AMiSo-.png",
+        "https://pbs.twimg.com/media/HUgKEbAXoAAYgTL.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1791885731198
     }
   ],
   "posted": [
@@ -2020,7 +2034,13 @@
       "at": 1791883904166,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/376802156710910?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "K33: U.S. Government's 17,733 BTC Transfers Likely Custody-Related, Not Sales\n\nK33 Research reported that U.S. government-linked wallets transferred approximately 17,733 BTC to Coinbase Prime in early October, including 12,267 BTC tied to the Bitfinex hack. Labeled government",
+      "at": 1791885731198,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/376809643477424?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791883904166
+  "lastPostAt": 1791885731198
 }
