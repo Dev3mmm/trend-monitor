@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791591162590-zlve9o",
-    "source": "x",
-    "ts": "2026-10-10T00:12:42.591Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-10T00:05:37.000Z",
-    "reason": "No notable move or action described.",
-    "text": "⚡QUESTION: Are you ok?",
-    "url": "https://x.com/Cointelegraph/status/2108710505141428586"
-  },
-  {
     "id": "x-1791592899704-lmkyr0",
     "source": "x",
     "ts": "2026-10-10T00:41:39.704Z",
@@ -7915,5 +7902,25 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109578836362813440/img/XR7F0QMpji1cqIQy.jpg"
     }
+  },
+  {
+    "id": "x-1791858738848-9m8f6u",
+    "source": "x",
+    "ts": "2026-10-13T02:32:18.848Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T02:30:39.000Z",
+    "reason": "Regulator action against crypto exchanges in South Korea",
+    "text": "🇰🇷 LATEST: South Korea’s financial watchdog has blocked local access to 27 unregistered crypto exchange websites, including KuCoin, MEXC, and Phemex.",
+    "url": "https://x.com/Cointelegraph/status/2109834168414638308",
+    "images": [
+      "https://pbs.twimg.com/media/HUei-6mWIAE5S0H.jpg",
+      "https://pbs.twimg.com/media/HUei_ZRWUAAaVrW.jpg",
+      "https://pbs.twimg.com/media/HUei_r1XcAAO0dZ.png"
+    ],
+    "video": null
   }
 ]
