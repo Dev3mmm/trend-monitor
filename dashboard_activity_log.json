@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791714154158-hlo0vc",
-    "source": "x",
-    "ts": "2026-10-11T10:22:34.158Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-11T10:15:00.000Z",
-    "reason": "AI-assisted Ethereum roadmap suggests significant speedups and coding.",
-    "text": "🔥JUST IN: Vitalik Buterin claims without AI, Ethereum's roadmap could have taken until 2040 or even 2050.\n\nThe Ethereum co-founder says they're \"getting massive speedups\" as AI does a lot of research and is \"starting to do a lot of coding.\"",
-    "url": "https://x.com/coinbureau/status/2109226250632143314",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109217018406965248/vid/avc1/1280x720/igx21-en77JU3uOQ.mp4?tag=29",
-      "duration": 52,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109217018406965248/img/-08EUkoPNHRQ3k3d.jpg"
-    }
-  },
-  {
-    "id": "x-1791714736178-nppku6",
-    "source": "x",
-    "ts": "2026-10-11T10:32:16.178Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T10:30:51.000Z",
-    "reason": "Specific institutional move with significant market impact.",
-    "text": "🔥 BIG: Bitfinex's $ETH longs have hit their highest level in over 4 years.",
-    "url": "https://x.com/Cointelegraph/status/2109230240421564910",
-    "images": [
-      "https://pbs.twimg.com/media/HUV9t_JWMAAz7co.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791715306281-6yfmsg",
     "source": "x",
     "ts": "2026-10-11T10:41:46.281Z",
@@ -8065,5 +8026,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110062662944006144/img/MjoQu2eEuu20KVJX.jpg"
     }
+  },
+  {
+    "id": "x-1791914613083-x8pf6v",
+    "source": "x",
+    "ts": "2026-10-13T18:03:33.083Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-13T18:00:48.000Z",
+    "reason": "Notable service shutdown by a major crypto exchange",
+    "text": "🚨 UPDATE: Binance will shut down Binance Pool and related services, including Pool Savings, Cloud Mining and Transaction Accelerator, on November 10.",
+    "url": "https://x.com/Cointelegraph/status/2110068249710723115",
+    "images": [
+      "https://pbs.twimg.com/media/HUh348ZWYAAtXZB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791914617826-5h6zrw",
+    "source": "x",
+    "ts": "2026-10-13T18:03:37.826Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-13T18:00:02.000Z",
+    "reason": "No notable crypto-related news or move identified.",
+    "text": "🚨HUGE: CFTC staff were reportedly ordered to RETRACT a referral investigating suspicious BILLION-DOLLAR trades placed just 15 MINUTES before Trump's Iran policy reversal, per Bloomberg.\n\nOn March 23, traders bet on falling oil prices and rising U.S. stocks shortly before Trump",
+    "url": "https://x.com/coinbureau/status/2110068055447425531"
   }
 ]
