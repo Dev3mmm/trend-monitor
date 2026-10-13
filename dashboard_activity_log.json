@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791689529239-hqoctt",
-    "source": "x",
-    "ts": "2026-10-11T03:32:09.239Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-11T03:30:52.000Z",
-    "reason": "Notable response from a high-ranking government official regarding a controversial political figure.",
-    "text": "🇺🇸 JUST IN: Treasury Secretary Scott Bessent fires back at Senator Elizabeth Warren, citing her \"complete paucity of knowledge about financial markets\" and offering to add \"Fixed Income for Dummies\" to her FX tutorial if she passes.",
-    "url": "https://x.com/Cointelegraph/status/2109124546053775826",
-    "images": [
-      "https://pbs.twimg.com/media/HUUdlv2XYAAKItn.jpg",
-      "https://pbs.twimg.com/media/HUUdmH8XYAAoAje.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791689534785-u73xgx",
-    "source": "x",
-    "ts": "2026-10-11T03:32:14.785Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-11T03:29:00.000Z",
-    "reason": "No actual details or timelines provided, mere announcement with no concrete action or move.",
-    "text": "America is about to start colonising the moon...\n\nA tweet from @realDonaldTrump's @WhiteHouse has promised that the United States will \"establish a permanent presence on the moon\".\n\nNo actual details or timelines were shared with the post.\n\nIf this happens, we dread to think the",
-    "url": "https://x.com/BSCNews/status/2109124076891734078",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2108517389608308736/vid/avc1/1312x720/GyspNvp-08sLhoa7.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108517389608308736/img/qWj-3wxRaWr_YZxH.jpg"
-    }
-  },
-  {
     "id": "x-1791691323118-6b5rny",
     "source": "x",
     "ts": "2026-10-11T04:02:03.118Z",
@@ -8055,5 +8015,31 @@
       "https://pbs.twimg.com/media/HUhfSMXaQAAo3FR.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791909152863-r2ujl3",
+    "source": "x",
+    "ts": "2026-10-13T16:32:32.863Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-13T16:30:39.000Z",
+    "reason": "No notable move, price is far outside its recent range but the news is generic hype without factual claim.",
+    "text": "🔥 JUST IN: Apple hits a new all-time high of $345.45, pushing its market cap to nearly $4.98 trillion.",
+    "url": "https://x.com/Cointelegraph/status/2110045562099655007"
+  },
+  {
+    "id": "x-1791909155999-c7dluu",
+    "source": "x",
+    "ts": "2026-10-13T16:32:35.999Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-13T16:29:46.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Many have tried, many have failed.",
+    "url": "https://x.com/coinbase/status/2110045342255505427"
   }
 ]
