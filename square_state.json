@@ -1799,21 +1799,10 @@
     "x-1791888776984-txnuwk",
     "x-1791889325159-pn3zlx",
     "x-1791889328794-48bidu",
-    "x-1791890549811-02m57h"
+    "x-1791890549811-02m57h",
+    "x-1791891111384-nx74rf"
   ],
   "queue": [
-    {
-      "text": "Is the Stratos exploit the same bug that drained KiiChain, MANTRA and TAC earlier this year?\n\nSame family. Different root cause. The distinction matters, so here it is.\n\nAll of these are Cosmos EVM \"precompile boundary\" bugs — the layer that lets EVM contracts call into Cosmos",
-      "url": "https://x.com/Rarma_/status/2109947617799229867",
-      "images": [
-        "https://pbs.twimg.com/media/HUgKFCLaMAEI8XO.jpg",
-        "https://pbs.twimg.com/media/HUgKFCIbwAAhVIt.jpg",
-        "https://pbs.twimg.com/media/HUgKFCWbwAAuKZY.jpg",
-        "https://pbs.twimg.com/media/HUgKFCcaQAAwoTP.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1791885731198
-    },
     {
       "text": "🇯🇵 NEW: Metaplanet to issue $329M in zero-interest convertible bonds due 2031 to repay Bitcoin-backed loans and fund share buybacks.",
       "url": "https://x.com/Cointelegraph/status/2109947499695702068",
@@ -1854,6 +1843,16 @@
       ],
       "video": null,
       "enqueuedAt": 1791889328857
+    },
+    {
+      "text": "🚨 INSIGHT: AMC CEO Adam Aron presses Robinhood on whether its offshore stock tokens follow SEC principles.",
+      "url": "https://x.com/Cointelegraph/status/2109970069367259506",
+      "images": [
+        "https://pbs.twimg.com/media/HUgelwfXUAAHerm.png",
+        "https://pbs.twimg.com/media/HUgemHyXsAAGiYN.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1791891111445
     }
   ],
   "posted": [
@@ -2054,7 +2053,13 @@
       "at": 1791889328857,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/376824375550123?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "Is the Stratos exploit the same bug that drained KiiChain, MANTRA and TAC earlier this year?\n\nSame family. Different root cause. The distinction matters, so here it is.\n\nAll of these are Cosmos EVM \"precompile boundary\" bugs — the layer that lets EVM contracts call into Cosmos",
+      "at": 1791891111445,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/376831715899171?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791889328857
+  "lastPostAt": 1791891111445
 }
