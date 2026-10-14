@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1791843742323-tbgt5s",
-    "source": "x",
-    "ts": "2026-10-12T22:22:22.323Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 101,
-    "originTimestamp": "2026-10-12T20:40:29.000Z",
-    "reason": "No notable move or specific event is clearly stated.",
-    "text": "Financial markets were busy today.\n\nHere are the 8 stories you need to know ↓\n\n• BitMine buys 12,532 ETH worth $31 million.\n\n• Michael Saylor's 'Strategy' buys 250 Bitcoin worth $21 million.\n\n• Tom Lee predicts ETH will surpass $5,000 by the end of this year.\n\n• Microsoft",
-    "url": "https://x.com/coinbase/status/2109771065392013542"
-  },
-  {
-    "id": "x-1791843747688-1te56i",
-    "source": "x",
-    "ts": "2026-10-12T22:22:27.688Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-12T22:15:18.000Z",
-    "reason": "Crypto platform shutdown with significant impact on protocol and token.",
-    "text": "Blur to Shut Down Frontend and Stop Matching New Blend Loans on November 12; BLUR Plunges Over 16%\n\nNFT marketplace Blur announced it will shut down its frontend on November 12, 2026, while its onchain marketplace protocol will remain operational and BLUR will continue to control",
-    "url": "https://x.com/WuBlockchain/status/2109769908661960785",
-    "images": [
-      "https://pbs.twimg.com/media/HUdoinvb0AE4u5Y.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791844334512-mlhyrs",
-    "source": "x",
-    "ts": "2026-10-12T22:32:14.512Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T22:30:38.000Z",
-    "reason": "No notable move, price is well within recent range.",
-    "text": "🔥 UPDATE: $CAP led weekly network growth among crypto projects with market caps above $100 million, rising 800%, followed by $GRASS at 699% and $STRK at 469%, Santiment data shows.",
-    "url": "https://x.com/Cointelegraph/status/2109773765634560104"
-  },
-  {
     "id": "x-1791844924516-6xozcu",
     "source": "x",
     "ts": "2026-10-12T22:42:04.516Z",
@@ -8049,5 +8005,50 @@
     "reason": "No notable move, tweet is generic and promotional.",
     "text": "October is Cybersecurity Awareness Month.\n\nOpen Security in the Coinbase app and take the checkup.",
     "url": "https://x.com/coinbase/status/2110431991900311726"
+  },
+  {
+    "id": "x-1792002139337-pb5691",
+    "source": "x",
+    "ts": "2026-10-14T18:22:19.337Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T18:20:56.000Z",
+    "reason": "XDC now available on Robinhood Crypto for U.S. customers, offering on-chain trade documents and faster settlement.",
+    "text": "⚡️ LATEST: @XDCNetwork’s native token, XDC, is now available to eligible U.S. customers on Robinhood Crypto.\n\n​The Layer-1 network moves trade documents and payments onchain, offering ISO 20022 compatibility and faster settlement times to help address the $2.5 trillion global",
+    "url": "https://x.com/Cointelegraph/status/2110435703284715699",
+    "images": [
+      "https://pbs.twimg.com/media/HUnGDGbWkAADfA0.jpg",
+      "https://pbs.twimg.com/media/HUnGEwMXcAAMabd.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792002143954-xlkgg3",
+    "source": "x",
+    "ts": "2026-10-14T18:22:23.954Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-14T18:18:00.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Internet Computer apps get random numbers from the network, not an oracle\n\nGames and lotteries need numbers nobody can guess. Many apps buy them from oracles, and @chainlink's VRF is a popular choice.\n\nOn Internet Computer (@dfinity), the chain handles it in-house. Each subnet",
+    "url": "https://x.com/BSCNews/status/2110434964768776335"
+  },
+  {
+    "id": "x-1792002149013-sl7z5r",
+    "source": "x",
+    "ts": "2026-10-14T18:22:29.013Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-14T18:15:00.000Z",
+    "reason": "No concrete, specific financial commitments tied to cryptocurrency projects.",
+    "text": "🇺🇸 HUGE: Trump announces up to $134.4 BILLION in investments and long-term gas purchase commitments tied to Alaska LNG.\n\nSouth Korea will invest $50 BILLION in the project, while Taiwan has committed another $4.4 BILLION in investment and up to $80 BILLION in LNG purchases over",
+    "url": "https://x.com/coinbureau/status/2110434210234126491"
   }
 ]
