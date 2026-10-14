@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791812560741-umezth",
-    "source": "x",
-    "ts": "2026-10-12T13:42:40.741Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 19,
-    "originTimestamp": "2026-10-12T13:23:29.000Z",
-    "reason": "New use of a token with significant DeFi impact",
-    "text": "$STRCx is now the largest tokenized equity in DeFi, representing @Strategy’s STRC preferred stock.\n\nTokenized by xStocks, it is already powering yield rate markets across Ethereum and Solana through @Pendle_fi and @ExponentFinance.",
-    "url": "https://x.com/saylor/status/2109639697186328872",
-    "images": [
-      "https://pbs.twimg.com/media/HUbulhIbQAAfOBW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791812564422-ggnkfn",
-    "source": "x",
-    "ts": "2026-10-12T13:42:44.422Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-12T13:35:00.000Z",
-    "reason": "AI political advertising spending reaches $80 million ahead of US midterm elections.",
-    "text": "AI Political Ads Top $80M Ahead of US Midterms\n\nAI generated political advertising is gaining ground ahead of the November 3 US midterm elections.\n\nAccording to The Wesleyan Media Project, campaigns and those supporting them have spent over $80 million on 164 AI advertisements.",
-    "url": "https://x.com/BSCNews/status/2109638970258977249",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109590145603407872/vid/avc1/1280x720/NmulnXRFwJ79rsIW.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109590145603407872/img/VypV-znYujOMqIAn.jpg"
-    }
-  },
-  {
     "id": "x-1791812567924-rhrknm",
     "source": "x",
     "ts": "2026-10-12T13:42:47.924Z",
@@ -8025,5 +7986,44 @@
       "https://pbs.twimg.com/media/HUlqy8-W0AA3pS9.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791979366217-0bed4q",
+    "source": "x",
+    "ts": "2026-10-14T12:02:46.218Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T12:00:47.000Z",
+    "reason": "On-chain data indicating potential reactivation of dormant Bitcoin addresses",
+    "text": "🔥 INSIGHT: Bitcoin dormant for at least a year has seen increased movement since late September, per CryptoQuant.",
+    "url": "https://x.com/Cointelegraph/status/2110340036151353767",
+    "images": [
+      "https://pbs.twimg.com/media/HUlvE1GWMAArQ2r.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791979371769-l06v8b",
+    "source": "x",
+    "ts": "2026-10-14T12:02:51.769Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T12:00:00.000Z",
+    "reason": "BNBCHAIN ecosystem attracting builders for on-chain products.",
+    "text": "🔥 LATEST: @BNBCHAIN’s ecosystem continues to attract builders looking to launch full-stack on-chain products, with growing interest in interactive trading and RWA adoption.\n\n“Everything you need to build a really good product is here,” attendees said, pointing to the scale and",
+    "url": "https://x.com/Cointelegraph/status/2110339839027470431",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110041689842700288/vid/avc1/1280x720/8toOf4niXo6sQde-.mp4?tag=29",
+      "duration": 69,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110041689842700288/img/iJ658HLSQGeVbayV.jpg"
+    }
   }
 ]
