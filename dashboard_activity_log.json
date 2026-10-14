@@ -1,77 +1,5 @@
 [
   {
-    "id": "x-1791822129576-ovj1ni",
-    "source": "x",
-    "ts": "2026-10-12T16:22:09.576Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-12T16:15:51.000Z",
-    "reason": "New use of a token/stablecoin by Monad for institutional demand.",
-    "text": "🇸🇬 CONNECT: Monad is bringing confidentiality and compliance features to its blockchain.\n\nCo-founder @0x_eunice highlighted @monad's recently announced private settlement initiative, designed to address institutional demand for privacy while maintaining onchain composability.",
-    "url": "https://x.com/Cointelegraph/status/2109679451877372222",
-    "images": [
-      "https://pbs.twimg.com/media/HUcWRZHW0AAEdVb.jpg",
-      "https://pbs.twimg.com/media/HUcWR-SXIAATu_n.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791822134856-g1p94k",
-    "source": "x",
-    "ts": "2026-10-12T16:22:14.856Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-12T16:13:38.000Z",
-    "reason": "New front-running mitigation feature introduced by Aptos mainnet",
-    "text": "Aptos users can now hide their trades from front-running bots\n\n@Aptos switched on Encrypted Mempool on mainnet today, letting users opt in to keep transaction details hidden until the block is final. That lowers the risk of MEV bots spotting an order and trading ahead of it.\n\nThe",
-    "url": "https://x.com/BSCNews/status/2109678891426037767",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109677988673404928/vid/avc1/1220x720/w46w-xPuJXZbUpRa.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109677988673404928/img/-uwinl7hYtVxBrp4.jpg"
-    }
-  },
-  {
-    "id": "x-1791822751118-vt3948",
-    "source": "x",
-    "ts": "2026-10-12T16:32:31.118Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T16:31:15.000Z",
-    "reason": "Highlighting a significant issue in crypto market liquidity.",
-    "text": "🇸🇬 CONNECT: Crypto's fragmented liquidity isn't just an execution problem.\n\n“It's actually very hard to figure out how much liquidity truly exists onchain,” @doublezero co-founder @Austin_Federa said, highlighting gaps in market data and cross-venue trading infrastructure.",
-    "url": "https://x.com/Cointelegraph/status/2109683325107356107",
-    "images": [
-      "https://pbs.twimg.com/media/HUcZyLcWQAA81ml.jpg",
-      "https://pbs.twimg.com/media/HUcZzUzXgAE0T2T.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791822754290-powhli",
-    "source": "x",
-    "ts": "2026-10-12T16:32:34.290Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 115,
-    "originTimestamp": "2026-10-12T14:36:58.000Z",
-    "reason": "No notable move in the price or significant event.",
-    "text": "Your safety has always been priority 1 at Tesla and SpaceX",
-    "url": "https://x.com/elonmusk/status/2109681296616374289"
-  },
-  {
     "id": "x-1791822758162-gdglgh",
     "source": "x",
     "ts": "2026-10-12T16:32:38.162Z",
@@ -8011,5 +7939,60 @@
     "reason": "No notable move or specific event described.",
     "text": "Your next move might need a passport.",
     "url": "https://x.com/binance/status/2110370043108212749"
+  },
+  {
+    "id": "x-1791987131194-4roctz",
+    "source": "x",
+    "ts": "2026-10-14T14:12:11.194Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-14T14:07:34.000Z",
+    "reason": "No concrete, specific event to verify.",
+    "text": "🚨BREAKING: HEX and PulseChain founder Richard Heart has reportedly been ARRESTED in Istanbul, Turkey, with an Interpol Red Notice.\n\nThe, intelligence agency MİT and police detained Heart and his wife during a dawn raid in Beşiktaş, per Turkish media.\n\nIhlas News Agency (IHA)",
+    "url": "https://x.com/coinbureau/status/2110371942473851144"
+  },
+  {
+    "id": "x-1791987133794-lz1pic",
+    "source": "x",
+    "ts": "2026-10-14T14:12:13.794Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-14T14:04:30.000Z",
+    "reason": "Potential regulatory or legal news affecting a key figure in the crypto space.",
+    "text": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
+    "url": "https://x.com/DecryptMedia/status/2110371171073994778",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791987135932-47rukr",
+    "source": "x",
+    "ts": "2026-10-14T14:12:15.932Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 42,
+    "originTimestamp": "2026-10-14T13:29:32.000Z",
+    "reason": "No notable crypto-related news or move mentioned.",
+    "text": "Most people think Grok Bot is just a chat window.\n\nIt's not. Each bot has its own computer, with its own browser, email inbox and desktop. When I ask it to do something, it goes off and does it.\n\nI made a video explaining how it actually works 👇",
+    "url": "https://x.com/elonmusk/status/2110370768697901279"
+  },
+  {
+    "id": "x-1791987137591-3oq6xl",
+    "source": "x",
+    "ts": "2026-10-14T14:12:17.591Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-14T14:02:22.000Z",
+    "reason": "No notable crypto-specific information provided.",
+    "text": "Hot CPI Spooks Majors, Vivek Outbuys Saylor and Papertrade Debut",
+    "url": "https://x.com/DecryptMedia/status/2110370635675570598"
   }
 ]
