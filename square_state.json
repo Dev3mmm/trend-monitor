@@ -1939,27 +1939,11 @@
     "x-1791972814806-5bm2px",
     "x-1791973950822-edv4f0",
     "x-1791976404937-oao4sv",
-    "x-1791977007460-61wqbi"
+    "x-1791977007460-61wqbi",
+    "x-1791977538237-xp1eyi"
   ],
-  "queue": [
-    {
-      "text": "🚨BREAKING: Bank of America $BAC falls -4.3% premarket after Q3 26 earnings show both EPS and revenue MISSED.\n\nThis comes as the bank faces a $1.2B regulatory charge over money laundering and illicit finance.",
-      "url": "https://x.com/coinbureau/status/2110325385552695646",
-      "images": [
-        "https://pbs.twimg.com/media/HUlfHBPaUAAU2-s.jpg",
-        "https://pbs.twimg.com/media/HUlf4fQbgAA4NTg.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1791976404999
-    }
-  ],
+  "queue": [],
   "posted": [
-    {
-      "text": "Is the Stratos exploit the same bug that drained KiiChain, MANTRA and TAC earlier this year?\n\nSame family. Different root cause. The distinction matters, so here it is.\n\nAll of these are Cosmos EVM \"precompile boundary\" bugs — the layer that lets EVM contracts call into Cosmos",
-      "at": 1791891111445,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/376831715899171?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🇯🇵 NEW: Metaplanet to issue $329M in zero-interest convertible bonds due 2031 to repay Bitcoin-backed loans and fund share buybacks.",
       "at": 1791892959182,
@@ -2133,7 +2117,13 @@
       "at": 1791975757987,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/377178387235387?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨BREAKING: Bank of America $BAC falls -4.3% premarket after Q3 26 earnings show both EPS and revenue MISSED.\n\nThis comes as the bank faces a $1.2B regulatory charge over money laundering and illicit finance.",
+      "at": 1791977538300,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/377185678681624?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791975757987
+  "lastPostAt": 1791977538300
 }
