@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1791825719162-xie57l",
-    "source": "x",
-    "ts": "2026-10-12T17:21:59.163Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 102,
-    "originTimestamp": "2026-10-12T15:39:34.000Z",
-    "reason": "No notable move or concrete news.",
-    "text": "HRF's Anna Chekhovich on what Bitcoin changes for activists:\n\n\"Before they were justs supposed to shut down their movement, if it was labeled a foreign agent or a terrorist movement because they couldn't accept donations anymore or they couldn't move funds.\"\n\n\"Now they just feel",
-    "url": "https://x.com/BitcoinMagazine/status/2109692421583819055"
-  },
-  {
-    "id": "x-1791826347025-r03giq",
-    "source": "x",
-    "ts": "2026-10-12T17:32:27.025Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T17:30:56.000Z",
-    "reason": "Notable disagreement between Ethereum and Starknet leaders.",
-    "text": "⚡️ LATEST: Eli Ben-Sasson pushes back on Ethereum labeling Starknet’s design choices “misalignment,” saying a potential move to L1 is a new discussion.",
-    "url": "https://x.com/Cointelegraph/status/2109698347392958520",
-    "images": [
-      "https://pbs.twimg.com/media/HUcncrNWQAE886o.jpg",
-      "https://pbs.twimg.com/media/HUcndfvW0AAPwNe.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791826926624-rgcmdt",
-    "source": "x",
-    "ts": "2026-10-12T17:42:06.624Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-12T17:32:48.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Blockstream CEO @adam3us says Satoshi understood distributed systems better than the people who built Ethereum, and he gives $BTC’s UTXO model the credit 👀\n\nMeanwhile, @drakefjustin is warning that, in a worst-case scenario, AI could put wallets at risk within months. Read more:",
-    "url": "https://x.com/BSCNews/status/2109698816953770478",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791827602809-6jf7gr",
     "source": "x",
     "ts": "2026-10-12T17:53:22.809Z",
@@ -8008,5 +7960,65 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110385760440401920/img/JV2VjDNwQiBQ0IVl.jpg"
     }
+  },
+  {
+    "id": "x-1791991444708-8dp9qf",
+    "source": "x",
+    "ts": "2026-10-14T15:24:04.708Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-14T15:19:00.000Z",
+    "reason": "On-chain data showing significant growth in transaction throughput for Internet Computer.",
+    "text": "Internet Computer is gaining on Solana... \n\nOver the past week, @dfinity has averaged some 1,816 transactions per second, per @chainspect_app data.\n\n@Solana still leads with 1,896 tx/s, however, $SOL's figure has fallen nearly -1% in the period...\n\n... while $ICP's throughput has",
+    "url": "https://x.com/BSCNews/status/2110389917927014407",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110265734676811776/vid/avc1/1312x720/NylPoGuEoi8s0-su.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110265734676811776/img/VY6t7DD_he9dDwuC.jpg"
+    }
+  },
+  {
+    "id": "x-1791991450125-q7eq13",
+    "source": "x",
+    "ts": "2026-10-14T15:24:10.125Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-14T15:18:31.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 LATEST: @BNBCHAIN's ecosystem continues to attract builders looking to launch full-stack on-chain products, with growing interest in interactive trading and RWA adoption.    \n\n“Everything you need to build a really good product is here,” attendees said, pointing to the scale",
+    "url": "https://x.com/Cointelegraph/status/2110389795524317509",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110389640939106304/vid/avc1/1280x720/0O3XoRYdtm8iw51J.mp4?tag=29",
+      "duration": 69,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110389640939106304/img/n9QJQg2DiKQRzE1m.jpg"
+    }
+  },
+  {
+    "id": "x-1791991455761-0za8hc",
+    "source": "x",
+    "ts": "2026-10-14T15:24:15.761Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-14T15:14:28.000Z",
+    "reason": "New token with potential utility for everyday use in crypto-to-fiat transactions.",
+    "text": "👀 @flipwifflip is looking to simplify the way users move between crypto and fiat. 🌍\n\nThe platform supports crypto-to-fiat and fiat-to-crypto transactions, with plans to expand into more countries.\n\n$FLIP aims to make digital assets more accessible for everyday use. 🔄",
+    "url": "https://x.com/BSCNews/status/2110388779194204191",
+    "images": [
+      "https://pbs.twimg.com/media/HUmbYfZWEAACjFj.jpg"
+    ],
+    "video": null
   }
 ]
