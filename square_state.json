@@ -1910,18 +1910,11 @@
     "x-1791947541990-kdt2dg",
     "x-1791950665620-r5y2y8",
     "x-1791950474943-t2qv0j",
-    "x-1791951712406-dldc2g"
+    "x-1791951712406-dldc2g",
+    "x-1791952355974-maeh7p",
+    "x-1791952361367-m5rzg4"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Solana’s Alpenglow upgrade will go live on mainnet-beta on Oct. 21, cutting finality from seconds to around 150 milliseconds.",
-      "url": "https://x.com/Cointelegraph/status/2110188941890490764",
-      "images": [
-        "https://pbs.twimg.com/media/HUjlqF3WAAAtL5x.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1791943324097
-    },
     {
       "text": "⚡️ LATEST: Mark Zuckerberg says Meta committed to spending up to $200 billion on AI infrastructure without knowing whether its AI products would succeed.",
       "url": "https://x.com/Cointelegraph/status/2110196500496109780",
@@ -1951,15 +1944,29 @@
       ],
       "video": null,
       "enqueuedAt": 1791950670767
+    },
+    {
+      "text": "🔥 LATEST: GameStop $GME CEO Ryan Cohen has bought another $22.8 million worth of shares, lifting his stake in the company to 9.1%.",
+      "url": "https://x.com/Cointelegraph/status/2110226708481679365",
+      "images": [
+        "https://pbs.twimg.com/media/HUkH_4yWIAAtc-8.jpg",
+        "https://pbs.twimg.com/media/HUkIAdfWQAAqJWZ.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791952361429
+    },
+    {
+      "text": "🚨HUGE: Ripple partners with Stripe-owned Privy to bring embedded wallets and AI agent payments to the XRP Ledger.\n\nThe integration will let developers build XRP, RLUSD and other digital-asset payments directly into their products, without requiring users to manage their own",
+      "url": "https://x.com/coinbureau/status/2110226594262340052",
+      "images": [
+        "https://pbs.twimg.com/media/HUkAi7ZbAAAhE2a.png",
+        "https://pbs.twimg.com/media/HUkAj0saUAAguz-.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1791952361429
     }
   ],
   "posted": [
-    {
-      "text": "🔥 UPDATE: Starknet’s top 10 wallets now hold 7.09B STRK, their largest combined stash since April, even as retail interest fades after the token’s 330% rally, per Santiment.",
-      "at": 1791865950606,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/376728617331800?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🇯🇵 BREAKING: Japan’s PPI comes in at 6.8%, well BELOW expectations of 7.6%.\n\nThe downside surprise is welcomed as producer prices rose less than expected, potentially easing pressure on business costs and future consumer prices.\n\nHowever, 6.8% still signals substantial inflation.",
       "at": 1791867835738,
@@ -2133,7 +2140,13 @@
       "at": 1791950670767,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/377075631155010?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Solana’s Alpenglow upgrade will go live on mainnet-beta on Oct. 21, cutting finality from seconds to around 150 milliseconds.",
+      "at": 1791952361429,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/377082535491250?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791950670767
+  "lastPostAt": 1791952361429
 }
