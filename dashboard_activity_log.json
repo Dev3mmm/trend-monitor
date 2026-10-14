@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791790920249-5snqny",
-    "source": "x",
-    "ts": "2026-10-12T07:42:00.249Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-12T07:36:00.000Z",
-    "reason": "Binance co-founder questions Ledger wallet security reports.",
-    "text": "CZ Flags Shocking Claims in Ledger Wallet Exploit\n\nBinance (@binance) co-founder Changpeng Zhao (@cz_binance) has questioned reports surrounding Ledger (@Ledger) wallet drainings linked to devices sold through Southeast Asian reseller CryptoBilis.\n\nHe said hackers allegedly",
-    "url": "https://x.com/BSCNews/status/2109548624489185337",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109542044012367872/vid/avc1/1280x720/YOPSyI1nX0-pwBrb.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109542044012367872/img/TwtKukeq4Zdqn1n8.jpg"
-    }
-  },
-  {
-    "id": "x-1791791552672-c2sgju",
-    "source": "x",
-    "ts": "2026-10-12T07:52:32.672Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-12T07:46:20.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Looks rare.",
-    "url": "https://x.com/coinbase/status/2109551225306067141"
-  },
-  {
     "id": "x-1791791558363-rf0s1j",
     "source": "x",
     "ts": "2026-10-12T07:52:38.363Z",
@@ -8082,5 +8048,39 @@
     "reason": "No notable crypto-related news or move mentioned.",
     "text": "🇺🇸 NEW: Anthropic has asked the full DC appeals court to rehear its challenge to the Trump administration’s designation of the company as a national security supply-chain risk, per Bloomberg.",
     "url": "https://x.com/Cointelegraph/status/2110241806642258107"
+  },
+  {
+    "id": "x-1791956569049-s4ty3b",
+    "source": "x",
+    "ts": "2026-10-14T05:42:49.049Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 79,
+    "originTimestamp": "2026-10-14T04:23:29.000Z",
+    "reason": "No factual claim or notable move.",
+    "text": "Make music videos easily with Grok @Bot",
+    "url": "https://x.com/elonmusk/status/2110244638900773147"
+  },
+  {
+    "id": "x-1791956572956-cpfzzv",
+    "source": "x",
+    "ts": "2026-10-14T05:42:52.956Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-14T05:34:00.000Z",
+    "reason": "Notable partnership in the institutional crypto space.",
+    "text": "Ripple Custody Heads Toward South Korea's Institutional Market\n\nRipple (@Ripple) and South Korean Securities Giant, Meritz Securities, will explore custody and tokenization services for South Korea's capital markets.\n\nThe partnership will begin within Meritz's existing business",
+    "url": "https://x.com/BSCNews/status/2110242697944740022",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110230817557630976/vid/avc1/1280x720/hSPo4uzSW5SrWZy9.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110230817557630976/img/DFi3aaxRteZsfpXd.jpg"
+    }
   }
 ]
