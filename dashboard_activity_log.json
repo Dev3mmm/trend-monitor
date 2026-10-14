@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791802950797-7w6v7b",
-    "source": "x",
-    "ts": "2026-10-12T11:02:30.797Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-12T10:59:03.000Z",
-    "reason": "No notable crypto-related content or move.",
-    "text": "Look at the man who is an ALCOHOLIC,\n\nLook at his belly.\n\nLook at his liver.\n\nLook at his financial decisions.\n\nLook at his marriage.\n\nLook at his children.\n\nThat is your future if you do not stop.\n\nALCOHOL IS BAD.",
-    "url": "https://x.com/amerix/status/2109599725641154829"
-  },
-  {
     "id": "x-1791802955413-bg7blk",
     "source": "x",
     "ts": "2026-10-12T11:02:35.413Z",
@@ -8047,5 +8034,26 @@
     "url": "https://x.com/Cointelegraph/status/2110294629375447050",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791969164606-r0hlhr",
+    "source": "x",
+    "ts": "2026-10-14T09:12:44.606Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-14T09:02:00.000Z",
+    "reason": "Notable on-chain data point and institutional use case.",
+    "text": "Sei Completes Biggest Migration Since 2024\n\nSei (@SeiNetwork) Labs says its EVM store has migrated to FlatKV, marking its biggest migration since SeiDB launched in 2024.\n\nThe process moved 712 million EVM keys at roughly 2,150 per second.\n\nFinal checks found zero mismatches",
+    "url": "https://x.com/BSCNews/status/2110295043227722160",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110284493940760576/vid/avc1/1280x720/BIfipZ56WUvdleXo.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110284493940760576/img/apVNANYOXMMkxpJB.jpg"
+    }
   }
 ]
