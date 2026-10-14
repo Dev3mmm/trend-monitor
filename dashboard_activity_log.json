@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791867151737-gcm5un",
-    "source": "x",
-    "ts": "2026-10-13T04:52:31.737Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 66,
-    "originTimestamp": "2026-10-13T03:46:21.000Z",
-    "reason": "Noise: Generic hype without factual claim.",
-    "text": "Grok @Bot memory transfer",
-    "url": "https://x.com/elonmusk/status/2109867516646637579"
-  },
-  {
-    "id": "x-1791867828751-em3dvk",
-    "source": "x",
-    "ts": "2026-10-13T05:03:48.751Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-13T05:03:15.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "Be hard on yourself.\n\nBe rebellious.\n\nDo not accept what the masses have normalised.\n\nMediocrity, feelings, incompetence, dishonesty, victimhood, lies and shortcuts are not your standard.\n\nCHANGE or PERISH.",
-    "url": "https://x.com/amerix/status/2109872571671871806"
-  },
-  {
     "id": "x-1791867832784-89fug8",
     "source": "x",
     "ts": "2026-10-13T05:03:52.784Z",
@@ -8099,5 +8073,40 @@
     "reason": "No notable move or specific event is described.",
     "text": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
     "url": "https://x.com/DecryptMedia/status/2110487624259367356"
+  },
+  {
+    "id": "x-1792015307035-sbqgmh",
+    "source": "x",
+    "ts": "2026-10-14T22:01:47.035Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T22:00:29.000Z",
+    "reason": "Moody's highlights potential hidden credit stress in US private debt.",
+    "text": "🚨 JUST IN: Moody’s says US private debt borrowers are using delayed interest payments and maturity extensions to avoid default, potentially masking the true level of credit stress.",
+    "url": "https://x.com/Cointelegraph/status/2110490955979616334",
+    "images": [
+      "https://pbs.twimg.com/media/HUn4VabWUAAvVRk.png",
+      "https://pbs.twimg.com/media/HUn4VqYWwAEy6OI.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792015311584-ciczhm",
+    "source": "x",
+    "ts": "2026-10-14T22:01:51.584Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-14T21:54:00.000Z",
+    "reason": "Specific new use of a token by a major financial institution.",
+    "text": "Insurance for insurance companies, turned into a yield token. Here’s how @onrefinance’s ONyc is set to reach @monad through @plumenetwork ⬇️",
+    "url": "https://x.com/BSCNews/status/2110489322801578489",
+    "images": [],
+    "video": null
   }
 ]
