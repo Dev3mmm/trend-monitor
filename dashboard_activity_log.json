@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1791864129680-31l14w",
-    "source": "x",
-    "ts": "2026-10-13T04:02:09.680Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T04:00:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Vitalik Buterin: Public-Key Cryptography May Still Need One or Two More Rounds of Parameter Upgrades\n\nEthereum co-founder Vitalik Buterin @VitalikButerin   said in an October 9 interview with Balaji Srinivasan @balajis at the Network State Conference 2026 that he believes",
-    "url": "https://x.com/WuBlockchain/status/2109856656230416793"
-  },
-  {
-    "id": "x-1791864734096-dd9mle",
-    "source": "x",
-    "ts": "2026-10-13T04:12:14.096Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T04:10:00.000Z",
-    "reason": "Noteworthy regulatory action targeting unregistered crypto exchanges.",
-    "text": "South Korea Targets 27 Crypto Exchanges in Website Blockade\n\nSouth Korea has ordered access restrictions on 27 unregistered overseas crypto platforms, including KuCoin, MEXC and BingX.\n\nThe restriction expands the coverage of the measures taken from mobile apps to web portals,",
-    "url": "https://x.com/BSCNews/status/2109859170795032776",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109855460073598976/vid/avc1/1280x720/7VZABWTBqUGTqmiW.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109855460073598976/img/E270_kcZnqV5BYcg.jpg"
-    }
-  },
-  {
-    "id": "x-1791865339695-w8goih",
-    "source": "x",
-    "ts": "2026-10-13T04:22:19.695Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-13T02:31:16.000Z",
-    "reason": "No relevant crypto content or price movement mentioned.",
-    "text": "Falcon 9 launches 27 @Starlink satellites from California",
-    "url": "https://x.com/elonmusk/status/2109860741121503681"
-  },
-  {
     "id": "x-1791865343980-uep3xl",
     "source": "x",
     "ts": "2026-10-13T04:22:23.980Z",
@@ -8082,5 +8035,60 @@
     "reason": "Noise: generic hype without real content.",
     "text": "walking whom ?",
     "url": "https://x.com/binance/status/2110475746590220515"
+  },
+  {
+    "id": "x-1792012374916-ystllu",
+    "source": "x",
+    "ts": "2026-10-14T21:12:54.916Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T21:11:00.000Z",
+    "reason": "Notable institutional integration of a stablecoin.",
+    "text": "DriveWealth is bringing Ripple’s stablecoin and payment rails into its brokerage platform\n\n@DriveWealth, the brokerage engine behind investing apps for more than 100 partners, is integrating $RLUSD settlement on the XRP Ledger from @Ripple. It starts in Europe, with the US",
+    "url": "https://x.com/BSCNews/status/2110478501593952263",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110459840434733056/vid/avc1/1220x720/1d1ZuDHVJBh6NVAk.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110459840434733056/img/UX1iCQAu5Zctnmsj.jpg"
+    }
+  },
+  {
+    "id": "x-1792012380084-cg0nk5",
+    "source": "x",
+    "ts": "2026-10-14T21:13:00.084Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 16,
+    "originTimestamp": "2026-10-14T20:56:49.000Z",
+    "reason": "Co-innovation in blockchain finality mechanisms by notable projects.",
+    "text": "DAGKnight would let $KAS confirm blocks based on measured network delay instead of a fixed assumption, aiming for sub-second finality.\n\nCo-designed by @hashdag, it has no activation date yet. Toccata smart contracts went live on @kaspaunchained in June.",
+    "url": "https://x.com/BSCNews/status/2110478136160690186",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792012385085-sw4mgn",
+    "source": "x",
+    "ts": "2026-10-14T21:13:05.085Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-14T21:02:34.000Z",
+    "reason": "Fidelity Digital Assets indicating positive momentum signal for Bitcoin.",
+    "text": "NEW: Fidelity Digital Assets says Bitcoin's momentum signal has turned positive. 👀\n\n\"The momentum signal has turned positive, with trend and volatility now aligned behind recent price strength. Historically, that combination has been associated with more sustained advances.\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110476379091357964",
+    "images": [
+      "https://pbs.twimg.com/media/HUnqVZVXcAAv7t9.jpg"
+    ],
+    "video": null
   }
 ]
