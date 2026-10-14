@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791788609604-pu6fo5",
-    "source": "x",
-    "ts": "2026-10-12T07:03:29.604Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-12T07:01:05.000Z",
-    "reason": "Record-breaking tokenized stock market cap is significant and specific.",
-    "text": "🔥 BIG: Tokenized stock market cap hits a record $3.9B, with BNB Chain, Ethereum, and Solana holding about 70% of the market, per Token Terminal.",
-    "url": "https://x.com/Cointelegraph/status/2109539840307888350",
-    "images": [
-      "https://pbs.twimg.com/media/HUaXTfYXcAA_eN_.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791789273073-h65wm3",
-    "source": "x",
-    "ts": "2026-10-12T07:14:33.073Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-12T07:09:29.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "Thinking of trading on Aster (@Aster_DEX) DEX? There are a few things to know first.\n\nFind out here 👇",
-    "url": "https://x.com/BSCNews/status/2109541953914413097"
-  },
-  {
     "id": "x-1791789730857-9ahzzg",
     "source": "x",
     "ts": "2026-10-12T07:22:10.857Z",
@@ -8073,5 +8042,43 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110217412746637312/img/bR0xxs1MVTVujo4p.jpg"
     }
+  },
+  {
+    "id": "x-1791952355974-maeh7p",
+    "source": "x",
+    "ts": "2026-10-14T04:32:35.974Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T04:30:28.000Z",
+    "reason": "No notable move for GameStop given its recent price range.",
+    "text": "🔥 LATEST: GameStop $GME CEO Ryan Cohen has bought another $22.8 million worth of shares, lifting his stake in the company to 9.1%.",
+    "url": "https://x.com/Cointelegraph/status/2110226708481679365",
+    "images": [
+      "https://pbs.twimg.com/media/HUkH_4yWIAAtc-8.jpg",
+      "https://pbs.twimg.com/media/HUkIAdfWQAAqJWZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791952361367-m5rzg4",
+    "source": "x",
+    "ts": "2026-10-14T04:32:41.367Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T04:30:00.000Z",
+    "reason": "Notable partnership integrating XRP with a leading payments platform.",
+    "text": "🚨HUGE: Ripple partners with Stripe-owned Privy to bring embedded wallets and AI agent payments to the XRP Ledger.\n\nThe integration will let developers build XRP, RLUSD and other digital-asset payments directly into their products, without requiring users to manage their own",
+    "url": "https://x.com/coinbureau/status/2110226594262340052",
+    "images": [
+      "https://pbs.twimg.com/media/HUkAi7ZbAAAhE2a.png",
+      "https://pbs.twimg.com/media/HUkAj0saUAAguz-.png"
+    ],
+    "video": null
   }
 ]
