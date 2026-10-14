@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791820994770-xheorz",
-    "source": "x",
-    "ts": "2026-10-12T16:03:14.770Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-12T15:57:45.000Z",
-    "reason": "No notable news, as it's an old bug report.",
-    "text": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-    "url": "https://x.com/DecryptMedia/status/2109674893763604756",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791820999560-d4pt25",
-    "source": "x",
-    "ts": "2026-10-12T16:03:19.560Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-12T15:41:32.000Z",
-    "reason": "No concrete news or move, just vague speculation.",
-    "text": "Brace yourselves. Over the next few weeks you are going to see a wave of hatred against Elon Musk unlike anything before.\n\nA four-hour hit-piece documentary rolling out nationwide. Midterms three weeks away. Every outlet, every NGO, every “expert” panel suddenly singing from the",
-    "url": "https://x.com/elonmusk/status/2109674099882553443"
-  },
-  {
-    "id": "x-1791821498293-ww91qf",
-    "source": "x",
-    "ts": "2026-10-12T16:11:38.293Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-12T16:02:56.000Z",
-    "reason": "Noise: meme coin shill without context or price.",
-    "text": "(ෆ˙ᵕ˙ෆ)",
-    "url": "https://x.com/binance/status/2109676200482275373"
-  },
-  {
     "id": "x-1791822129576-ovj1ni",
     "source": "x",
     "ts": "2026-10-12T16:22:09.576Z",
@@ -8003,5 +7961,55 @@
     "reason": "No notable move, mentions a launchpad without specifying a significant price or event.",
     "text": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
     "url": "https://x.com/DecryptMedia/status/2110365493055852948"
+  },
+  {
+    "id": "x-1791986535294-yuhmby",
+    "source": "x",
+    "ts": "2026-10-14T14:02:15.294Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-14T14:01:19.000Z",
+    "reason": "Bitcoin holdings increase and potential IPO announcement",
+    "text": "JUST IN: Strive proposes SATS IPO at 15% dividend as they buy 2,822 BTC for their Bitcoin treasury. 👀\n\nThey now hold 35,595 BTC! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110370370343628881",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110370070576713728/vid/avc1/1280x720/U8ETsyHcZlI2FsKV.mp4?tag=29",
+      "duration": 24,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110370070576713728/img/AbZ4G0Q_jPmZTSeY.jpg"
+    }
+  },
+  {
+    "id": "x-1791986540856-05ujub",
+    "source": "x",
+    "ts": "2026-10-14T14:02:20.856Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T14:00:22.000Z",
+    "reason": "Discussion of security risks in hardware wallets could be noteworthy for users and experts.",
+    "text": "🚨 INSIGHT: Can crypto users trust the supply chain behind hardware wallets?\n\n@coindanslecoin spoke with security experts, including hardware wallet specialist @joegrand, about tampering risks following the Ledger incident.",
+    "url": "https://x.com/Cointelegraph/status/2110370129422733609",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791986544174-7jbb51",
+    "source": "x",
+    "ts": "2026-10-14T14:02:24.174Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T14:00:01.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Your next move might need a passport.",
+    "url": "https://x.com/binance/status/2110370043108212749"
   }
 ]
