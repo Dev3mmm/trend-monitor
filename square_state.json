@@ -1952,18 +1952,11 @@
     "x-1791981767582-u1x57m",
     "x-1791982323389-3jnkw8",
     "x-1791982330832-iwhwwg",
-    "x-1791982334965-h1f6s3"
+    "x-1791982334965-h1f6s3",
+    "x-1791983001805-jf4hec",
+    "x-1791983004589-ph8pnf"
   ],
   "queue": [
-    {
-      "text": "Through Tuesday, Strive acquired an additional 2,822 BTC for $235M, increasing holdings to ₿35,595.\n\n- 13.7M of 15.3M remaining warrants exercised, worth $369M in gross proceeds\n- 94% of traditional warrants exercised in aggregate\n- Amplification ratio: 47%\n\n$ASST $SATA $SATS",
-      "url": "https://x.com/saylor/status/2110341432779116618",
-      "images": [
-        "https://pbs.twimg.com/media/HUlu6d0aIAAN-6X.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1791979986271
-    },
     {
       "text": "🚨JUST OUT: U.S. CPI comes in HOTTER than expected, with both headline and core inflation beating forecasts.\n\nHeadline CPI YoY: 3.7% vs. 3.6% expected and 3.4% prior\n\nCore CPI YoY: 2.6% vs. 2.5% expected and 2.4% prior\n\nBoth headline and core inflation accelerated from last",
       "url": "https://x.com/coinbureau/status/2110347708536074491",
@@ -1981,15 +1974,19 @@
       ],
       "video": null,
       "enqueuedAt": 1791981767644
+    },
+    {
+      "text": "🔥 NEW: Strive acquired another 2,822 $BTC for $235M, lifting its holdings to 35,595 $BTC.",
+      "url": "https://x.com/Cointelegraph/status/2110355244785836237",
+      "images": [
+        "https://pbs.twimg.com/media/HUl857wWEAEsmnm.jpg",
+        "https://pbs.twimg.com/media/HUl86QYXYAAtKKn.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791983004639
     }
   ],
   "posted": [
-    {
-      "text": "Stratos (stratos-1), a Cosmos EVM chain, was exploited and its validators halted the chain. Here is what happened and where the funds went, read directly from the chain.\n\nThe chain is frozen at block 16,008,475, last block 05:21 UTC.\n\nThe bug is a custom EVM precompile at",
-      "at": 1791896545884,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/376853985691111?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🔥 INSIGHT: Bitcoin supply on exchanges continues to shrink, per CryptoQuant.\n\nRising demand amid low exchange supply could support a longer-term upward trend.",
       "at": 1791898374110,
@@ -2163,7 +2160,13 @@
       "at": 1791981143781,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/377200436322555?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "Through Tuesday, Strive acquired an additional 2,822 BTC for $235M, increasing holdings to ₿35,595.\n\n- 13.7M of 15.3M remaining warrants exercised, worth $369M in gross proceeds\n- 94% of traditional warrants exercised in aggregate\n- Amplification ratio: 47%\n\n$ASST $SATA $SATS",
+      "at": 1791983004639,
+      "status": "failed",
+      "error": "Uploading: sq_1791983004639_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261014/6c8b30f5166a48c89cee202951167a26.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
     }
   ],
-  "lastPostAt": 1791981143781
+  "lastPostAt": 1791983004639
 }
