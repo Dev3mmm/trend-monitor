@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791816752123-3cd228",
-    "source": "x",
-    "ts": "2026-10-12T14:52:32.123Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-12T14:45:00.000Z",
-    "reason": "Notable announcement about Bybit expanding beyond crypto markets.",
-    "text": "🔥 INSIGHT: @Bybit_Official is expanding beyond the crypto exchange model.\n\nBybit CEO @benbybit takes the stage Oct. 13 at 7 AM UTC to reveal what’s next for the platform, including new launches, Bybit AI and its push beyond crypto-native markets.\n\nWatch live:",
-    "url": "https://x.com/Cointelegraph/status/2109656586398445884",
-    "images": [
-      "https://pbs.twimg.com/media/HUcAsWBaMAARfeg.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791817318349-0bf0ei",
-    "source": "x",
-    "ts": "2026-10-12T15:01:58.349Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 117,
-    "originTimestamp": "2026-10-12T13:04:34.000Z",
-    "reason": "Generic hype with no real content.",
-    "text": "Listen to Elon!",
-    "url": "https://x.com/elonmusk/status/2109659735527952538"
-  },
-  {
     "id": "x-1791817922204-xpzrmc",
     "source": "x",
     "ts": "2026-10-12T15:12:02.204Z",
@@ -8016,5 +7985,45 @@
       "https://pbs.twimg.com/media/HUl3gJnbwAA0sf7.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791983001805-jf4hec",
+    "source": "x",
+    "ts": "2026-10-14T13:03:21.805Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T13:01:13.000Z",
+    "reason": "Strive's BTC holdings increased significantly with a large acquisition.",
+    "text": "🔥 NEW: Strive acquired another 2,822 $BTC for $235M, lifting its holdings to 35,595 $BTC.",
+    "url": "https://x.com/Cointelegraph/status/2110355244785836237",
+    "images": [
+      "https://pbs.twimg.com/media/HUl857wWEAEsmnm.jpg",
+      "https://pbs.twimg.com/media/HUl86QYXYAAtKKn.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791983004589-ph8pnf",
+    "source": "x",
+    "ts": "2026-10-14T13:03:24.589Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-14T12:52:00.000Z",
+    "reason": "XRP DeFi integration with Spectra highlights a new use case for the token.",
+    "text": "XRP DeFi Takes a Step Forward As Flare's stXRP Rate Goes Live\n\nFlare's (@FlareNetworks) $stXRP now has a live rate on Spectra (@spectra_finance), where users can trade yield exposure or provide liquidity.\n\nPreviously, pricing relied on Firelight (@Firelightfi) points",
+    "url": "https://x.com/BSCNews/status/2110352924362912128",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110264997284642816/vid/avc1/1280x720/vIMoY5aj-gk9eNdx.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110264997284642816/img/GS37aSoKscgJesXW.jpg"
+    }
   }
 ]
