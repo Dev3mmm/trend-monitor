@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1791807139982-mj56lo",
-    "source": "x",
-    "ts": "2026-10-12T12:12:19.982Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-12T12:01:50.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "The market has a lot to say.\nMost of it is just noise.\n\nBinance AI helps you focus on what matters, from stocks to crypto, prices to trending topics, and what top traders are watching.\n\nBuilt around you. Available 24/7.\n\n👉",
-    "url": "https://x.com/binance/status/2109615524296495407"
-  },
-  {
-    "id": "x-1791807145039-kp18g5",
-    "source": "x",
-    "ts": "2026-10-12T12:12:25.039Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-12T12:00:01.000Z",
-    "reason": "No notable move in the crypto market is suggested.",
-    "text": "🔥 INSIGHT: Most of SpaceX's value was built before it ever went public, and crypto's top private companies could be on the same path.\n\nDr. Najam Kidwai of @C1_Fund says that investors who judge firms like Ripple, Kraken and Polymarket by the price of Bitcoin are missing what",
-    "url": "https://x.com/Cointelegraph/status/2109615069336150058"
-  },
-  {
-    "id": "x-1791807148835-ojf71n",
-    "source": "x",
-    "ts": "2026-10-12T12:12:28.835Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-12T11:59:37.000Z",
-    "reason": "Strategy showing significant BTC holdings increase.",
-    "text": "🔥 JUST IN: Strategy added 250 $BTC last week, bringing its holdings to 848,250 $BTC.",
-    "url": "https://x.com/Cointelegraph/status/2109614967628423307",
-    "images": [
-      "https://pbs.twimg.com/media/HUbboBCXkAAiTaq.jpg",
-      "https://pbs.twimg.com/media/HUbboYeXsAAJWic.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791807153259-kxg7ve",
     "source": "x",
     "ts": "2026-10-12T12:12:33.259Z",
@@ -8055,5 +8010,56 @@
     "url": "https://x.com/DecryptMedia/status/2110308636106891312",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1791972811037-g7v141",
+    "source": "x",
+    "ts": "2026-10-14T10:13:31.037Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-14T10:04:30.000Z",
+    "reason": "Notable institutional move with potential impact on banking and crypto integration.",
+    "text": "🇱🇹 NEW: Kraken parent Payward is buying Lithuania’s Saldo Bank to expand into lending and card services, FT reports.",
+    "url": "https://x.com/Cointelegraph/status/2110310773436157993",
+    "images": [
+      "https://pbs.twimg.com/media/HUlUdkVXgAAk70B.png",
+      "https://pbs.twimg.com/media/HUlUdwBWwAEnBAs.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791972814806-5bm2px",
+    "source": "x",
+    "ts": "2026-10-14T10:13:34.806Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-14T10:03:12.000Z",
+    "reason": "Specific institutional merger and regulatory impact.",
+    "text": "JUST IN: Kraken's owner is buying EU-regulated Saldo Bank, becoming the first crypto firm to acquire a European bank, per FT.",
+    "url": "https://x.com/coinbureau/status/2110310445303353691",
+    "images": [
+      "https://pbs.twimg.com/media/HUlQbfJbcAAMeeo.png",
+      "https://pbs.twimg.com/media/HUlT-y0akAAb31Q.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791972819546-upfuka",
+    "source": "x",
+    "ts": "2026-10-14T10:13:39.546Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-14T10:02:00.000Z",
+    "reason": "No notable move in the token standard proposal review.",
+    "text": "Kaspa Token Standard KCC-20 Enters Final Review\n\nKaspa’s (@kaspaunchained) $KAS KCC-20 token standard has entered its final review stage before potential finalization.\n\nThe proposal establishes standards for fungible tokens concerning their ownership, balance and transaction",
+    "url": "https://x.com/BSCNews/status/2110310142642131030"
   }
 ]
