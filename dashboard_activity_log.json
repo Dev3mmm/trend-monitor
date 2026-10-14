@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791866517490-2xsk4j",
-    "source": "x",
-    "ts": "2026-10-13T04:41:57.490Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 88,
-    "originTimestamp": "2026-10-13T03:13:22.000Z",
-    "reason": "Noise: Generic statement without context or claim.",
-    "text": "Of course",
-    "url": "https://x.com/elonmusk/status/2109867020091072915"
-  },
-  {
     "id": "x-1791866522119-dsel4w",
     "source": "x",
     "ts": "2026-10-13T04:42:02.119Z",
@@ -8091,5 +8078,24 @@
     "reason": "No notable crypto-related content.",
     "text": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
     "url": "https://x.com/DecryptMedia/status/2110480074684207155"
+  },
+  {
+    "id": "x-1792013551552-vw6hek",
+    "source": "x",
+    "ts": "2026-10-14T21:32:31.552Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-14T21:27:00.000Z",
+    "reason": "US Treasury potentially massive debt sale and repurchase.",
+    "text": "🇺🇸BREAKING: The US Treasury could buy back over $24 BILLION of its own debt in October alone.\n\nUp to $6 BILLION of that comes on Thursday, targeting 10 to 20 year bonds.\n\nAt least $4.75 BILLION more is scheduled before the month ends, including 20 to 30 year bonds on October 27.",
+    "url": "https://x.com/coinbureau/status/2110482528088011023",
+    "images": [
+      "https://pbs.twimg.com/media/HUnmyEpacAA6Hzu.png",
+      "https://pbs.twimg.com/media/HUnmyILbMAAfx75.jpg"
+    ],
+    "video": null
   }
 ]
