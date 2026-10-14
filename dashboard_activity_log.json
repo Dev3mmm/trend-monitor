@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1791838346869-2i4yh2",
-    "source": "x",
-    "ts": "2026-10-12T20:52:26.869Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-12T20:45:00.000Z",
-    "reason": "Specific, verifiable institutional adoption event in the crypto market.",
-    "text": "🇷🇺 HUGE: Russia’s largest stock exchange plans to open Bitcoin trading to retail investors for the FIRST time.\n\nThe US-sanctioned Moscow Exchange is targeting December 1 to launch $BTC, $ETH and $USDT trading, after offering crypto futures only to qualified investors until now.",
-    "url": "https://x.com/coinbureau/status/2109747182798770236",
-    "images": [
-      "https://pbs.twimg.com/media/HUdOfsvaoAAUk1u.png",
-      "https://pbs.twimg.com/media/HUdOfsxa0AEmaV0.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791840145303-f71sqm",
-    "source": "x",
-    "ts": "2026-10-12T21:22:25.303Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-12T21:17:15.000Z",
-    "reason": "Reasonably significant institutional adoption of a stablecoin.",
-    "text": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-    "url": "https://x.com/DecryptMedia/status/2109755298697158774",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791840149223-7oidys",
-    "source": "x",
-    "ts": "2026-10-12T21:22:29.223Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-12T21:10:47.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "⚡️ INSIGHT: Anthropic researchers warn small AI models may be months away from self-replicating across smart devices, after a 9B model set up inference on eight of nine hardware types tested.",
-    "url": "https://x.com/Cointelegraph/status/2109753672922001481"
-  },
-  {
     "id": "x-1791840153581-o7v17u",
     "source": "x",
     "ts": "2026-10-12T21:22:33.581Z",
@@ -8038,5 +7990,60 @@
     "reason": "No notable move in ETH price.",
     "text": "⚡️ INTERESTING: OpenAI's UK subsidiary reported £32m in pre tax profit for 2025. \n\nAverage staff cost at £2.35 million per employee.",
     "url": "https://x.com/Cointelegraph/status/2110417946753294466"
+  },
+  {
+    "id": "x-1791998675592-paer48",
+    "source": "x",
+    "ts": "2026-10-14T17:24:35.592Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-14T17:20:00.000Z",
+    "reason": "Specific, verifiable institutional adoption and new functionality in the Stellar network.",
+    "text": "Chainlink price data goes live on Stellar, opening the door to lending and perps\n\n@chainlink has switched on its Data Feeds and Data Streams on @StellarOrg, giving builders the market data needed for lending, perps, and stablecoins.\n\nStellar has made a capital commitment through",
+    "url": "https://x.com/BSCNews/status/2110420368846377221",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110416097853751296/vid/avc1/1220x720/h02XgxRhGD4y16mS.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110416097853751296/img/8BRgDfxXFpfAqagR.jpg"
+    }
+  },
+  {
+    "id": "x-1791998681916-3is7uo",
+    "source": "x",
+    "ts": "2026-10-14T17:24:41.916Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-14T17:18:22.000Z",
+    "reason": "No notable move in the crypto markets, the tweet is about a non-crypto related stock.",
+    "text": "🚨BREAKING: CoreWeave shares PLUNGE -16% as bond yields approach 15%, intensifying fears over the debt-fueled AI buildout.\n\nIts bonds due in 2031 and 2032 now yield nearly 14.9% and 14.8%, respectively, as investors demand greater compensation for lending risk.\n\nWith hyperscalers",
+    "url": "https://x.com/coinbureau/status/2110419957431538086"
+  },
+  {
+    "id": "x-1791998687301-p484ju",
+    "source": "x",
+    "ts": "2026-10-14T17:24:47.301Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-14T17:15:57.000Z",
+    "reason": "Notable event involving traditional finance and digital assets.",
+    "text": "LONGITUDE: Singapore brought together leaders from traditional finance and digital assets for insightful discussions and industry connections. 🇸🇬\n\nA look back at the conversations and people who made it happen.\n\n• Geoff Kendrick, @StanChart\n• Nischint Sanghavi, @Visa\n• Matthew",
+    "url": "https://x.com/Cointelegraph/status/2110419351572766940",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110417565122203648/vid/avc1/1280x720/NETxZCiv6o9ah6F6.mp4?tag=29",
+      "duration": 91,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110417565122203648/img/-CkWsC-ucHMhcgjQ.jpg"
+    }
   }
 ]
