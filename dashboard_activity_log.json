@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791810720146-wp9vcz",
-    "source": "x",
-    "ts": "2026-10-12T13:12:00.146Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-12T13:08:05.000Z",
-    "reason": "Specific institutional launch of a stablecoin on a ledger.",
-    "text": "JUST IN: $1T Standard Chartered officially launches custody services for Ripple’s $2.44B $RLUSD stablecoin on the $XRP Ledger.",
-    "url": "https://x.com/coinbureau/status/2109632198802645400",
-    "images": [
-      "https://pbs.twimg.com/media/HUbrIXeasAA6g8r.png",
-      "https://pbs.twimg.com/media/HUbrRTcbYAAu0qd.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791811396357-bp6gle",
     "source": "x",
     "ts": "2026-10-12T13:23:16.358Z",
@@ -8027,5 +8008,26 @@
       "https://pbs.twimg.com/media/HUlf4fQbgAA4NTg.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791977007460-61wqbi",
+    "source": "x",
+    "ts": "2026-10-14T11:23:27.460Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-14T11:17:00.000Z",
+    "reason": "ETF showing strong inflows and gains in just a month.",
+    "text": "Bitwise's $NEAR token ETF is stealing the show.\n\n@Bitwise's @NEARProtocol spot ETF has seen net inflows every single day minus one, since launching in late September.\n\nThe ETFs are up nearly $30M in the month of October already, and now hold more than 1 in every 100 $NEAR tokens.",
+    "url": "https://x.com/BSCNews/status/2110329016678797495",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110264729180446720/vid/avc1/1312x720/FQdIf7-desu_DIti.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110264729180446720/img/tsXWXQm4sUjQg4t1.jpg"
+    }
   }
 ]
