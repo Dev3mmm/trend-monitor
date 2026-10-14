@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1791805949574-b4rztd",
-    "source": "x",
-    "ts": "2026-10-12T11:52:29.574Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-12T11:43:27.000Z",
-    "reason": "Notable move involving a major bank in the crypto space.",
-    "text": "JUST IN:🇰🇷 $17.5B Jeonbuk Bank launches South Korea’s first traditional bank Bitcoin-backed loans, allowing businesses to borrow cash against $BTC.",
-    "url": "https://x.com/coinbureau/status/2109610896922480653",
-    "images": [
-      "https://pbs.twimg.com/media/HUbXmO4bYAAAUIl.jpg",
-      "https://pbs.twimg.com/media/HUbXnM-bAAAnlyS.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791805953659-k3ttp0",
-    "source": "x",
-    "ts": "2026-10-12T11:52:33.659Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-12T11:43:00.000Z",
-    "reason": "Bitcoin price nears $83K in anticipation of US inflation data",
-    "text": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
-    "url": "https://x.com/DecryptMedia/status/2109610785261396060",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791807129570-7xmznz",
     "source": "x",
     "ts": "2026-10-12T12:12:09.570Z",
@@ -8055,5 +8020,45 @@
       "https://pbs.twimg.com/media/HUlM8xRaIAAqeOR.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791971528305-8gid08",
+    "source": "x",
+    "ts": "2026-10-14T09:52:08.305Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-14T09:45:28.000Z",
+    "reason": "Notable tax proposal from a major regulator.",
+    "text": "🚨BREAKING: France is considering a 31.4% tax on crypto-to-stablecoin conversions starting 2027.",
+    "url": "https://x.com/coinbureau/status/2110305984153526656",
+    "images": [
+      "https://pbs.twimg.com/media/HUlOgGpaYAA2eLK.png",
+      "https://pbs.twimg.com/media/HUlOjVTaYAA3euf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791971534865-z5nx4v",
+    "source": "x",
+    "ts": "2026-10-14T09:52:14.865Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-14T09:41:27.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Arbitrum Adds New USDG Liquidity On Uniswap\n\nArbitrum (@arbitrum) ethereum:0xb50721bcf8d664c30412cfbc6cf7a15145234ad1 has added another trading venue for USDG, with a new USDG/USDC pool now live on Uniswap.\n\nThe pool uses Uniswap’s (@Uniswap)",
+    "url": "https://x.com/BSCNews/status/2110304973343047815",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110301420947951616/vid/avc1/1280x720/4GxreYfOk8rg28fe.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110301420947951616/img/f_N6s65MejVFg_G7.jpg"
+    }
   }
 ]
