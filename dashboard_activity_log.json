@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791780725048-ir76pm",
-    "source": "x",
-    "ts": "2026-10-12T04:52:05.048Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 67,
-    "originTimestamp": "2026-10-12T03:44:53.000Z",
-    "reason": "Noise: Generic tweet without content.",
-    "text": "Try Grok @Bot",
-    "url": "https://x.com/elonmusk/status/2109507243007979558"
-  },
-  {
-    "id": "x-1791780729789-tb1ft6",
-    "source": "x",
-    "ts": "2026-10-12T04:52:09.789Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 46,
-    "originTimestamp": "2026-10-12T04:05:23.000Z",
-    "reason": "No notable crypto-related event or news.",
-    "text": "Starlink is a life-saving technology.\n\nA huge tree crushed a family’s car in the French Alps. A passerby says there was no mobile signal, so he used his @Starlink Mini, mounted on his car, to call emergency services and share GPS coordinates.\n\nRescuers arrived about 20 minutes",
-    "url": "https://x.com/elonmusk/status/2109505761210425522"
-  },
-  {
     "id": "x-1791780735255-m7bvrd",
     "source": "x",
     "ts": "2026-10-12T04:52:15.255Z",
@@ -8087,5 +8061,37 @@
       "https://pbs.twimg.com/media/HUjlqF3WAAAtL5x.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791945136684-1lfeq1",
+    "source": "x",
+    "ts": "2026-10-14T02:32:16.684Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T02:30:25.000Z",
+    "reason": "Zuckerberg's statement could influence AI investment in crypto and decentralized technologies.",
+    "text": "⚡️ LATEST: Mark Zuckerberg says Meta committed to spending up to $200 billion on AI infrastructure without knowing whether its AI products would succeed.",
+    "url": "https://x.com/Cointelegraph/status/2110196500496109780",
+    "images": [
+      "https://pbs.twimg.com/media/HUjshwLXQAAea8V.jpg",
+      "https://pbs.twimg.com/media/HUjsiGLXwAEonQs.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791945139793-stxi7g",
+    "source": "x",
+    "ts": "2026-10-14T02:32:19.793Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 42,
+    "originTimestamp": "2026-10-14T01:49:59.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "16 quotes by Michael @Saylor from today",
+    "url": "https://x.com/saylor/status/2110195162068419035"
   }
 ]
