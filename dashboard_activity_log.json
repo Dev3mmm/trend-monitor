@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791782610723-g1jkmy",
-    "source": "x",
-    "ts": "2026-10-12T05:23:30.723Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-12T05:20:00.000Z",
-    "reason": "Notable announcement about quantum cryptography technology deployment on TRON network.",
-    "text": "Justin Sun Says TRON is Preparing For Quantum Threats\n\nTRON (@trondao) tron:native has deployed its post-quantum cryptography technology to testnet, according to founder Justin Sun (@justinsuntron).\n\nSun says the network is monitoring advances in quantum computing and AI. He",
-    "url": "https://x.com/BSCNews/status/2109514398880379297",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109507101412450304/vid/avc1/1280x720/ZV3oWBT05YHAyLy1.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109507101412450304/img/q4xyCpBJIQJtWr3k.jpg"
-    }
-  },
-  {
-    "id": "x-1791783108689-nhq50w",
-    "source": "x",
-    "ts": "2026-10-12T05:31:48.689Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T05:30:49.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 UPDATE: Lighter burns 2,452,017 LIT, matching the total tokens repurchased through its programmatic buyback by the end of Q3 2026.",
-    "url": "https://x.com/Cointelegraph/status/2109517123236049304"
-  },
-  {
     "id": "x-1791784331206-2v3sio",
     "source": "x",
     "ts": "2026-10-12T05:52:11.206Z",
@@ -8091,5 +8057,31 @@
     "reason": "No notable crypto-related content or use.",
     "text": "🇨🇳 BIG: China’s trade surplus hit $938 billion in the first nine months of the year, on track to beat last year’s record as September exports jumped 36%.",
     "url": "https://x.com/Cointelegraph/status/2110211434177081421"
+  },
+  {
+    "id": "x-1791949906412-r8abb4",
+    "source": "x",
+    "ts": "2026-10-14T03:51:46.412Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-14T03:47:06.000Z",
+    "reason": "No notable crypto-related content or event mentioned.",
+    "text": "🇺🇸 LATEST: President Trump says the U.S. has “had it” with Iran, and intends to deliver the nation a heavy blow.\n\n“They say, ‘Sir, you’re the hottest country anywhere in the world.’\"\n\n\"Oh, wait until you see what we do to Iran.\"\n\n\"We’re going to do a number. They’re just",
+    "url": "https://x.com/coinbureau/status/2110215796345704465"
+  },
+  {
+    "id": "x-1791949908547-pnexvk",
+    "source": "x",
+    "ts": "2026-10-14T03:51:48.547Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-14T03:42:14.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Coinbase Warns Bitcoin Must Prepare For Quantum Threats\n\nCoinbase (@coinbase) has outlined priorities for Bitcoin’s bitcoin:native post-quantum migration, warning that preparations could take years.\n\nThe exchange wants flexible designs that can adapt as quantum-resistant",
+    "url": "https://x.com/BSCNews/status/2110214573664207232"
   }
 ]
