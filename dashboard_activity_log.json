@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791784331206-2v3sio",
-    "source": "x",
-    "ts": "2026-10-12T05:52:11.206Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-12T05:49:29.000Z",
-    "reason": "Notable institution moving ETH to Kraken, with a specific amount mentioned.",
-    "text": "Are Ethereum-Linked Wallets Preparing For a Big Sell Off?\n\nTwo wallets historically linked to the Ethereum (@ethereum) Foundation reportedly sent 4,393 ethereum:native, worth around $11.13 million, to Kraken.\n\nThe wallets have a long history of ETH transfers to Kraken, with",
-    "url": "https://x.com/BSCNews/status/2109521819594293462",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109521760991490048/vid/avc1/1280x720/c2efl3TtCrkDMrWc.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109521760991490048/img/mquahuP8_ynuhtpc.jpg"
-    }
-  },
-  {
-    "id": "x-1791784333572-76kn0s",
-    "source": "x",
-    "ts": "2026-10-12T05:52:13.572Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-12T05:42:15.000Z",
-    "reason": "Noise: Generic statement without content.",
-    "text": "Wow",
-    "url": "https://x.com/elonmusk/status/2109519998691553639"
-  },
-  {
     "id": "x-1791784920258-80n3p8",
     "source": "x",
     "ts": "2026-10-12T06:02:00.258Z",
@@ -8083,5 +8049,37 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Coinbase Warns Bitcoin Must Prepare For Quantum Threats\n\nCoinbase (@coinbase) has outlined priorities for Bitcoin’s bitcoin:native post-quantum migration, warning that preparations could take years.\n\nThe exchange wants flexible designs that can adapt as quantum-resistant",
     "url": "https://x.com/BSCNews/status/2110214573664207232"
+  },
+  {
+    "id": "x-1791950474943-t2qv0j",
+    "source": "x",
+    "ts": "2026-10-14T04:01:14.943Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-14T04:00:28.000Z",
+    "reason": "It mentions a significant future regulatory and technical development in cryptocurrency security.",
+    "text": "🚨 NEW: Coinbase says the network should start preparing for quantum computers now through a staged, multi-year migration to quantum-resistant signatures. \n\nIt also wants the upgrade to stay safe for everyday wallets, while leaving the question of lost and Satoshi-era coins for a",
+    "url": "https://x.com/Cointelegraph/status/2110219161146147298",
+    "images": [
+      "https://pbs.twimg.com/media/HUkBImBWsAA33W7.jpg",
+      "https://pbs.twimg.com/media/HUkBJD0WsAASXg8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791950478512-05h9va",
+    "source": "x",
+    "ts": "2026-10-14T04:01:18.512Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T04:00:01.000Z",
+    "reason": "No notable move in the price or significant event is described.",
+    "text": "Tom Lee: BitMine Completes the Largest Share Buyback in Crypto Industry History\n\nOn October 7, 2026, BitMine Chairman Tom Lee @fundstrat stated that the company repurchased a total of 21 million shares worth $350 million between July 14 and August 17. He described it as the",
+    "url": "https://x.com/WuBlockchain/status/2110219049087185054"
   }
 ]
