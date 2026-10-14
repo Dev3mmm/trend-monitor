@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791840153581-o7v17u",
-    "source": "x",
-    "ts": "2026-10-12T21:22:33.581Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-12T21:04:08.000Z",
-    "reason": "No notable move, price is well inside its recent range.",
-    "text": "NEW: Bitcoin funding rates are negative for the first time in 3 months, which historically leads to positive price action. \n\nBullish! 🐂",
-    "url": "https://x.com/BitcoinMagazine/status/2109751997268176955"
-  },
-  {
-    "id": "x-1791840159538-ergxus",
-    "source": "x",
-    "ts": "2026-10-12T21:22:39.538Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-12T21:00:59.000Z",
-    "reason": "Specific and verifiable numbers about Stock Tokens and DEX volume.",
-    "text": "Robinhood Chain’s first 100 days, by the numbers\n\nRobinhood Chain passed its 100-day mark last week, and @RobinhoodCrypto says more than 190 Stock Tokens are now live, held by over 200,000 people in 120-plus countries. Those tokens have done over $15B in DEX volume.\n\nThe chain",
-    "url": "https://x.com/BSCNews/status/2109751205983293598",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109749922027196416/vid/avc1/1220x720/gwz9nSPAjGd2DM1b.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109749922027196416/img/Wt3FF92DnpVEyvxz.jpg"
-    }
-  },
-  {
     "id": "x-1791841471987-nobo2d",
     "source": "x",
     "ts": "2026-10-12T21:44:31.987Z",
@@ -8045,5 +8011,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110417565122203648/img/-CkWsC-ucHMhcgjQ.jpg"
     }
+  },
+  {
+    "id": "x-1791999186132-f5hh6l",
+    "source": "x",
+    "ts": "2026-10-14T17:33:06.132Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T17:31:18.000Z",
+    "reason": "Specific institutional activity with U.S. spot Bitcoin ETFs showing significant inflows.",
+    "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs saw $175.7 million in inflows yesterday 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110423215495340390",
+    "images": [
+      "https://pbs.twimg.com/media/HUm6usAXIAAXP0o.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791999190419-qet3ul",
+    "source": "x",
+    "ts": "2026-10-14T17:33:10.419Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-14T17:25:22.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": "🇺🇸 JUST IN: U.S. inflation reached 3.7% in September as Cleveland Fed President Beth Hammack warned consumers increasingly see high inflation as a “fact of life.”",
+    "url": "https://x.com/Cointelegraph/status/2110421718934098184"
   }
 ]
