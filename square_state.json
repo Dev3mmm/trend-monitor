@@ -1903,19 +1903,10 @@
     "x-1791940964627-3zz7ce",
     "x-1791941545547-vhk6za",
     "x-1791943320313-m206bu",
-    "x-1791943324034-btzgrf"
+    "x-1791943324034-btzgrf",
+    "x-1791945136684-1lfeq1"
   ],
   "queue": [
-    {
-      "text": "🚨 JUST IN: OpenAI is in early talks to acquire security firm Trail of Bits as it moves to build out its cybersecurity business, per The Information.",
-      "url": "https://x.com/Cointelegraph/status/2110158753634934940",
-      "images": [
-        "https://pbs.twimg.com/media/HUjKMw8XUAEnWLJ.jpg",
-        "https://pbs.twimg.com/media/HUjKM_4WAAEWYeQ.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1791936162585
-    },
     {
       "text": "🔥 LATEST: Interactive Brokers has launched crypto staking for eligible clients, starting with Ethereum, letting users earn rewards through its platform via zerohash.",
       "url": "https://x.com/Cointelegraph/status/2110166296386060331",
@@ -1963,15 +1954,19 @@
       ],
       "video": null,
       "enqueuedAt": 1791943324097
+    },
+    {
+      "text": "⚡️ LATEST: Mark Zuckerberg says Meta committed to spending up to $200 billion on AI infrastructure without knowing whether its AI products would succeed.",
+      "url": "https://x.com/Cointelegraph/status/2110196500496109780",
+      "images": [
+        "https://pbs.twimg.com/media/HUjshwLXQAAea8V.jpg",
+        "https://pbs.twimg.com/media/HUjsiGLXwAEonQs.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1791945139851
     }
   ],
   "posted": [
-    {
-      "text": "⚡️ NEW: Elon Musk’s SpaceXSI has merged Grok, Cursor, and X Premium into a single “X Subscription” with five tiers ranging from free to $200 a month.",
-      "at": 1791858738900,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/376699060197938?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🇰🇷 LATEST: South Korea’s financial watchdog has blocked local access to 27 unregistered crypto exchange websites, including KuCoin, MEXC, and Phemex.",
       "at": 1791860540838,
@@ -2145,7 +2140,13 @@
       "at": 1791943324097,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/377045536339660?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 JUST IN: OpenAI is in early talks to acquire security firm Trail of Bits as it moves to build out its cybersecurity business, per The Information.",
+      "at": 1791945139851,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/377052977751903?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1791943324097
+  "lastPostAt": 1791945139851
 }
