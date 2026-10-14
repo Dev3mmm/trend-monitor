@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791800816075-ysymm5",
-    "source": "x",
-    "ts": "2026-10-12T10:26:56.075Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-12T10:14:00.000Z",
-    "reason": "Regulator action on high-profile cryptocurrency-linked individual.",
-    "text": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-    "url": "https://x.com/DecryptMedia/status/2109588388357509503",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791801124950-ta1t7u",
-    "source": "x",
-    "ts": "2026-10-12T10:32:04.950Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T10:30:50.000Z",
-    "reason": "Update on Bitcoin miner fee revenue and struggles with electricity costs",
-    "text": "🚨 UPDATE: Bitcoin miner fee revenue remains below 1%, with older machines still struggling at current electricity costs, per CryptoQuant.",
-    "url": "https://x.com/Cointelegraph/status/2109592625757986850",
-    "images": [
-      "https://pbs.twimg.com/media/HUbHTz9WIAAmYql.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791801129595-lkrn4t",
     "source": "x",
     "ts": "2026-10-12T10:32:09.595Z",
@@ -8045,6 +8011,46 @@
     "text": "🇺🇸 LATEST: New York Fed President John Williams sees AI supply squeeze lasting beyond 2 years.",
     "url": "https://x.com/Cointelegraph/status/2110280837258236385",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791966752577-o7etid",
+    "source": "x",
+    "ts": "2026-10-14T08:32:32.577Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T08:31:38.000Z",
+    "reason": "Binance's decision to delist specific projects could impact their usage and value.",
+    "text": "Binance to Delist QuickSwap and Epic Chain\n\nBinance (@binance) will delist QuickSwap (QUICK) and Epic Chain (EPIC) on October 28 at 03:00 UTC.\n\nThe exchange will cancel all outstanding spot orders when trading ends.\n\nQuickSwap is one of Polygon's (@0xPolygon) earliest",
+    "url": "https://x.com/BSCNews/status/2110287399771406622",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110287348374405120/vid/avc1/1280x720/mEKEb84fj9La5FlT.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110287348374405120/img/ZL0dVJDJIxSr1gL6.jpg"
+    }
+  },
+  {
+    "id": "x-1791966755420-8p5ikt",
+    "source": "x",
+    "ts": "2026-10-14T08:32:35.420Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T08:30:25.000Z",
+    "reason": "Specific, verifiable institutional adoption event.",
+    "text": "🇦🇪 JUST IN: Standard Chartered launches Bitcoin and Ether trading through existing bank accounts for eligible professional investors in the UAE.",
+    "url": "https://x.com/Cointelegraph/status/2110287095562448954",
+    "images": [
+      "https://pbs.twimg.com/media/HUk-6zTWEAABVkb.png",
+      "https://pbs.twimg.com/media/HUk-7RZXYAAXnCJ.png"
+    ],
     "video": null
   }
 ]
