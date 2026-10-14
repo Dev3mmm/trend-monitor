@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791849120086-54le6j",
-    "source": "x",
-    "ts": "2026-10-12T23:52:00.086Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 43,
-    "originTimestamp": "2026-10-12T23:08:39.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "We've unified plans across Grok, Cursor, and X Premium.\n\nIntroducing The X Subscription.",
-    "url": "https://x.com/elonmusk/status/2109792967288652287"
-  },
-  {
-    "id": "x-1791849738037-9s0k18",
-    "source": "x",
-    "ts": "2026-10-13T00:02:18.037Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T00:00:44.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "First arrivals. First hellos. And we’re just getting started. \n\nWelcome to #BinanceCampus Asia.",
-    "url": "https://x.com/binance/status/2109796443447771408"
-  },
-  {
-    "id": "x-1791849741655-60juxl",
-    "source": "x",
-    "ts": "2026-10-13T00:02:21.655Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T00:00:01.000Z",
-    "reason": "No concrete market information provided.",
-    "text": "🇺🇸 TRUMP: “Prices are coming down and as soon as the war ends, which will be very soon with Iran, the oil will drop like a rock.”",
-    "url": "https://x.com/Cointelegraph/status/2109796262992064589"
-  },
-  {
     "id": "x-1791850924518-l2m22j",
     "source": "x",
     "ts": "2026-10-13T00:22:04.518Z",
@@ -8070,6 +8031,64 @@
     "images": [
       "https://pbs.twimg.com/media/HUnJRp1XAAAUCjk.jpg",
       "https://pbs.twimg.com/media/HUnJR9eXIAASEH2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791847967085-a0vm8z",
+    "source": "x",
+    "ts": "2026-10-12T23:32:47.085Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-12T23:26:31.000Z",
+    "reason": "Significant liquidation event in crypto markets.",
+    "text": "🚨 JUST IN: Over $123M liquidated in the past hour, with $119.78M in longs wiped out, as bitcoin:native fell below $82,000.",
+    "url": "https://x.com/Cointelegraph/status/2109787829941473764",
+    "images": [
+      "https://pbs.twimg.com/media/HUd40pKbYAAXxYv.jpg",
+      "https://pbs.twimg.com/media/HUd42FIaIAEiHQR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791849116501-s9zkri",
+    "source": "x",
+    "ts": "2026-10-12T23:51:56.501Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-12T23:48:00.000Z",
+    "reason": "Noteworthy launch of a new token on Solana blockchain.",
+    "text": "The $ASTER token is officially live on Solana.\n\nThrough @sunrise's cross-chain tech, @Aster_DEX's $1.9B token is now live on the @Solana blockchain.\n\nIt is now only a matter of time before popular $SOL based DEXs like @Raydium offer trading on the asset. \n\nSunrise has given",
+    "url": "https://x.com/BSCNews/status/2109793236252549257",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109578250867400704/vid/avc1/1312x720/OeFFI6Nrpzve1Xnr.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109578250867400704/img/QK7S8BelIA-s1Zuz.jpg"
+    }
+  },
+  {
+    "id": "x-1792004697918-r37nsw",
+    "source": "x",
+    "ts": "2026-10-14T19:04:57.918Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-14T19:00:36.000Z",
+    "reason": "Notable disruption of a crypto investment scam",
+    "text": "🇷🇺 NEW: Brooklyn prosecutors and the FBI disrupted 112 servers and 241 domains tied to a crypto investment scam estimated to have stolen tens of millions of dollars from Russian-speaking victims.",
+    "url": "https://x.com/Cointelegraph/status/2110445688156807554",
+    "images": [
+      "https://pbs.twimg.com/media/HUnPKm3XYAABXpV.jpg"
     ],
     "video": null
   }
