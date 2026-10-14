@@ -1,43 +1,5 @@
 [
   {
-    "id": "x-1791869520168-vh02t9",
-    "source": "x",
-    "ts": "2026-10-13T05:32:00.168Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T05:30:45.000Z",
-    "reason": "UK ruling could affect cryptocurrency law and enforcement.",
-    "text": "🇬🇧 JUST IN: The UK is more likely to keep a £3.8B haul of 61,000 seized bitcoin after a London High Court ruled that Chinese fraud victims can’t use English law to claim it, per FT.",
-    "url": "https://x.com/Cointelegraph/status/2109879493355549093",
-    "images": [
-      "https://pbs.twimg.com/media/HUfMMNJW8AA4upr.png",
-      "https://pbs.twimg.com/media/HUfMN3cXUAAq1Q-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791869525841-t9l5xe",
-    "source": "x",
-    "ts": "2026-10-13T05:32:05.841Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-13T05:28:12.000Z",
-    "reason": "Blur's announcement of shutdown and ETH loans recall is noteworthy.",
-    "text": "🚨BREAKING: Blur, once Ethereum’s largest NFT marketplace, dumps more than -30% after announcing the shut down of its frontend on November 12.\n\nMore than 1,000 ETH in loans have also been recalled as Blend, Blur’s NFT lending protocol, prepares to stop matching new loans on the",
-    "url": "https://x.com/coinbureau/status/2109878850465501486",
-    "images": [
-      "https://pbs.twimg.com/media/HUfKh-7bcAAKL71.png",
-      "https://pbs.twimg.com/media/HUfK7nSbsAAVObx.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791869531335-xa1fsb",
     "source": "x",
     "ts": "2026-10-13T05:32:11.335Z",
@@ -8117,5 +8079,45 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🚨 NOW: The IMF expects global GDP to grow 3.4% in 2027, boosted by AI investment, though it warns economic resilience is under strain, per Bloomberg.",
     "url": "https://x.com/Cointelegraph/status/2109871931805651023"
+  },
+  {
+    "id": "x-1792016540730-x1oecd",
+    "source": "x",
+    "ts": "2026-10-14T22:22:20.730Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T22:20:22.000Z",
+    "reason": "SEC approval for binary options on public company data.",
+    "text": "🚨 JUST IN: The SEC has approved Cboe to launch exchange-listed binary options tied to key performance indicators reported by public companies.",
+    "url": "https://x.com/Cointelegraph/status/2110495958639186205",
+    "images": [
+      "https://pbs.twimg.com/media/HUn84vbXkAEjEDm.png",
+      "https://pbs.twimg.com/media/HUn847NXMAAjfQ1.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792016547023-h8hsfv",
+    "source": "x",
+    "ts": "2026-10-14T22:22:27.023Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-14T22:17:00.000Z",
+    "reason": "Stablecoin losses reported for both Aptos and XRP Ledger chains.",
+    "text": "Aptos and XRP Ledger just lost millions in stablecoins...\n\nAccording to data from DefiLlama, @Aptos' stablecoin supply has tumbled -13.5% over the past week at time of writing.\n\nWhile @Ripple's $XRP Ledger has seen its stablecoin economy shrink -15.9% in the period.\n\nBoth chains,",
+    "url": "https://x.com/BSCNews/status/2110495111075291458",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110276453489143808/vid/avc1/1312x720/E4yWiW2ShDuch5rv.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110276453489143808/img/SiJn3ASRZNHpFNKd.jpg"
+    }
   }
 ]
