@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791779543853-m9938a",
-    "source": "x",
-    "ts": "2026-10-12T04:32:23.853Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T04:30:50.000Z",
-    "reason": "Notable institutional investment and control over FTX's assets.",
-    "text": "🔥 BIG: SWI Group raises €800M to invest in data centers serving AI companies after taking control of FTX’s Genesis Digital Assets.",
-    "url": "https://x.com/Cointelegraph/status/2109502028200169913",
-    "images": [
-      "https://pbs.twimg.com/media/HUZ06DeWMAAQWkh.png",
-      "https://pbs.twimg.com/media/HUZ06gLXUAARIzv.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791779549415-nfgazr",
-    "source": "x",
-    "ts": "2026-10-12T04:32:29.415Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-12T04:23:40.000Z",
-    "reason": "Criticism of Ethereum's design and potential security concerns are noteworthy.",
-    "text": "Adam Back Praises Satoshi as Ethereum Faces Fresh Design Criticism\n\nBlockstream CEO, Adam Back (@adam3us) criticized Ethereum’s (@ethereum) ethereum:native early design choices amid fresh warnings about AI and cryptography.\n\nEthereum researcher Justin Drake (@drakefjustin) said",
-    "url": "https://x.com/BSCNews/status/2109500223420813517",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109498401146683392/vid/avc1/1280x720/1ir0bEJmWsGzxLE2.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109498401146683392/img/4NKKilzttIOWH_gu.jpg"
-    }
-  },
-  {
     "id": "x-1791780725048-ir76pm",
     "source": "x",
     "ts": "2026-10-12T04:52:05.048Z",
@@ -8093,5 +8053,39 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109947251950829568/img/ZGFT_Ptow8SGnjpj.jpg"
     }
+  },
+  {
+    "id": "x-1791943320313-m206bu",
+    "source": "x",
+    "ts": "2026-10-14T02:02:00.313Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T02:01:00.000Z",
+    "reason": "Noteworthy partnership between crypto and traditional finance.",
+    "text": "Sei Network forms a bridge between crypto and TradFi.\n\n@SeiNetwork, with its scalable blockchain rails, is helping to bring Wall Street to blockchain. Here's how ⬇️",
+    "url": "https://x.com/BSCNews/status/2110189094647239041",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791943324034-btzgrf",
+    "source": "x",
+    "ts": "2026-10-14T02:02:04.035Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T02:00:23.000Z",
+    "reason": "Specific on-chain upgrade news",
+    "text": "🚨 UPDATE: Solana’s Alpenglow upgrade will go live on mainnet-beta on Oct. 21, cutting finality from seconds to around 150 milliseconds.",
+    "url": "https://x.com/Cointelegraph/status/2110188941890490764",
+    "images": [
+      "https://pbs.twimg.com/media/HUjlqF3WAAAtL5x.jpg"
+    ],
+    "video": null
   }
 ]
