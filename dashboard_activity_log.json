@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791837216710-8dlry7",
-    "source": "x",
-    "ts": "2026-10-12T20:33:36.710Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-12T20:30:51.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🚨 NEW: JD Vance accused Microsoft of replacing 6,000 laid-off Americans with foreign hires, while data shows two-thirds of its H-1B approvals went to existing employees.",
-    "url": "https://x.com/Cointelegraph/status/2109743624392986654"
-  },
-  {
-    "id": "x-1791837754057-8yje0f",
-    "source": "x",
-    "ts": "2026-10-12T20:42:34.058Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-12T20:34:50.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Jed McCaleb helped build Mt. Gox, Ripple, and Stellar, and he’s not done yet\n\nMt. Gox started out as a site for trading Magic: The Gathering cards. @JedMcCaleb bought the domain, turned it into a Bitcoin exchange, and sold it to Mark Karpelès in March 2011, three years before its",
-    "url": "https://x.com/BSCNews/status/2109744624889913446"
-  },
-  {
     "id": "x-1791838340708-dyc7g7",
     "source": "x",
     "ts": "2026-10-12T20:52:20.708Z",
@@ -8022,5 +7996,44 @@
     "reason": "No notable crypto-related content.",
     "text": "🚨 JUST IN: President Trump announced a $50 billion South Korean investment in Alaska LNG, alongside a $70–80 billion LNG purchase commitment and $4.4 billion equity investment from Taiwan.",
     "url": "https://x.com/Cointelegraph/status/2110409129453932697"
+  },
+  {
+    "id": "x-1791996792976-y90t34",
+    "source": "x",
+    "ts": "2026-10-14T16:53:12.976Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T16:50:21.000Z",
+    "reason": "Coinbase takes action against scam networks",
+    "text": "🚨 LATEST: Brian Armstrong says Coinbase joined companies and law enforcement at London Joint Disruption Week to share real-time intelligence and take action against scam networks operating in West Africa.",
+    "url": "https://x.com/Cointelegraph/status/2110412907229904993",
+    "images": [
+      "https://pbs.twimg.com/media/HUmxWsOWUAAGqoX.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791996798539-ao95ae",
+    "source": "x",
+    "ts": "2026-10-14T16:53:18.539Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-14T16:49:54.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Wallet or brokerage? Injective breaks down the coming INJ ETF...\n\n@injective has published a guide comparing $INJ with INJC, the staked INJ ETF Canary Capital (@CanaryFunds) says is coming soon. Holding the token means you have your own keys, votes, and staking.\n\nINJC shares will",
+    "url": "https://x.com/BSCNews/status/2110412794478965046",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110412074195079168/vid/avc1/1220x720/iQDFcNOhSOlNjx6X.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110412074195079168/img/_kNBOwx_CsoJYtJF.jpg"
+    }
   }
 ]
