@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791777722008-lhtel8",
-    "source": "x",
-    "ts": "2026-10-12T04:02:02.008Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-12T04:00:01.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Star Xu: Hyperliquid's Matching Engine Is More Market Maker Friendly  \n\nOKX founder Star Xu @star_okx said on the New Era Finance Podcast @new_era_finance that Hyperliquid differs fundamentally from centralized order book exchanges in its technical design. While centralized",
-    "url": "https://x.com/WuBlockchain/status/2109494270704955696"
-  },
-  {
-    "id": "x-1791778324149-ngqz6e",
-    "source": "x",
-    "ts": "2026-10-12T04:12:04.149Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-12T04:02:33.000Z",
-    "reason": "Noteworthy institutional investment in a decentralized network.",
-    "text": "Sui Foundation Pledges $30M to AI Data Network\n\nSui (@SuiNetwork) Foundation is investing $30 million in DATA Network (@datafdn) as the protocol migrates to Sui.\n\nThis deal will turn Sui into the biggest institutional holder of the network.\n\nDATA’s independent chain will be",
-    "url": "https://x.com/BSCNews/status/2109494909950738883",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109494867441455104/vid/avc1/1280x720/zi_o0SvL2JLBuyeH.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109494867441455104/img/lfYEVky-iz2YP12g.jpg"
-    }
-  },
-  {
     "id": "x-1791779543853-m9938a",
     "source": "x",
     "ts": "2026-10-12T04:32:23.853Z",
@@ -8093,5 +8059,39 @@
       "https://pbs.twimg.com/media/HUjcniTbQAAyTY2.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1791941540584-m8ydww",
+    "source": "x",
+    "ts": "2026-10-14T01:32:20.584Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T01:30:24.000Z",
+    "reason": "Generic opinion without factual claim or new information.",
+    "text": "⚡️ BRIAN ARMSTRONG: “Every business needs a stablecoin strategy. The ones that move first will win customers.”",
+    "url": "https://x.com/Cointelegraph/status/2110181396706656348"
+  },
+  {
+    "id": "x-1791941545547-vhk6za",
+    "source": "x",
+    "ts": "2026-10-14T01:32:25.547Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T01:30:00.000Z",
+    "reason": "Moscow Exchange targeting a crypto trading debut in December.",
+    "text": "Russia's Biggest Exchange Prepares For a Crypto Trading Debut\n\nMoscow Exchange is targeting December for its cryptocurrency trading service.\n\nAccording to the senior manager, Boris Blokhin, the testing process is already underway among professionals on the market.\n\nNo additional",
+    "url": "https://x.com/BSCNews/status/2110181293174440328",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109947251950829568/vid/avc1/1280x720/jVaJpJyIdiIgWE5F.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109947251950829568/img/ZGFT_Ptow8SGnjpj.jpg"
+    }
   }
 ]
