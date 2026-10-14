@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791845536642-eg0fbh",
-    "source": "x",
-    "ts": "2026-10-12T22:52:16.642Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-12T22:45:00.000Z",
-    "reason": "No notable move in cryptocurrency prices or events related to the provided gas price data.",
-    "text": "🇺🇸 Americans paid $4.33 a gallon for gas in September, the most EXPENSIVE September on record.\n\nThat's 50 cents above the previous September record of $3.83, set in 2023, per AAA.\n\nEconomists expect gas to push Wednesday's CPI to about 3.7%, a four-month high.\n\nCore inflation is",
-    "url": "https://x.com/coinbureau/status/2109777381674422556"
-  },
-  {
-    "id": "x-1791846178254-oi6tc9",
-    "source": "x",
-    "ts": "2026-10-12T23:02:58.254Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-12T22:57:38.000Z",
-    "reason": "No notable move in crypto or related news.",
-    "text": "🚨JUST IN: Elon Musk’s SpaceX merges X Premium, Grok and Cursor into ONE subscription.\n\nThe new “X Subscription” puts X, Grok, Grok Bot and AI coding app Cursor under a single plan, live worldwide.\n\nPlans range from $8 to $200 a month.",
-    "url": "https://x.com/coinbureau/status/2109780562072477857"
-  },
-  {
     "id": "x-1791846783533-njffhl",
     "source": "x",
     "ts": "2026-10-12T23:13:03.533Z",
@@ -8050,5 +8024,36 @@
     "reason": "No notable move or specific event is mentioned.",
     "text": "Coinbase for Agents is now live on Composio.\n\n@Composio connects your AI agents to more than 1,500 apps.\n\nBuild multi-app workflows to trade crypto, stocks and derivatives.",
     "url": "https://x.com/coinbase/status/2110436537141789089"
+  },
+  {
+    "id": "x-1792003337365-k7g5oq",
+    "source": "x",
+    "ts": "2026-10-14T18:42:17.365Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T18:40:21.000Z",
+    "reason": "Notable change in Fed rate hike odds from 66% to 35%",
+    "text": "🚨 UPDATE: Polymarket traders put the odds of a 25-basis-point Fed rate hike on October 28 at 35%, versus 66% for no change.",
+    "url": "https://x.com/Cointelegraph/status/2110440591444078718",
+    "images": [
+      "https://pbs.twimg.com/media/HUnKiGGWgAAT8Rl.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792003339524-vj8se2",
+    "source": "x",
+    "ts": "2026-10-14T18:42:19.524Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 97,
+    "originTimestamp": "2026-10-14T17:04:57.000Z",
+    "reason": "Noise: generic tweet without content.",
+    "text": "Try Grok Voice",
+    "url": "https://x.com/elonmusk/status/2110438877274259488"
   }
 ]
