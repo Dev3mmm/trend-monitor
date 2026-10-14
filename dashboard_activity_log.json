@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1791830536140-xudmre",
-    "source": "x",
-    "ts": "2026-10-12T18:42:16.140Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-12T18:32:57.000Z",
-    "reason": "New use of a token/stablecoin with AI for smart contract risk mitigation.",
-    "text": "Floki’s sister project TokenFi wants AI to catch contract bugs before launch\n\nTokenFi, the sister project of @FLOKI, is spotlighting its Shield tool, which uses AI to scan smart contract code and flag risks in minutes. It covers Solidity and Rust contracts on EVM chains and",
-    "url": "https://x.com/BSCNews/status/2109713954238816555",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109713743978364929/vid/avc1/1220x720/s0yDDdYAxP60JOcR.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109713743978364929/img/ZrTYAEJ2bhCdQiYv.jpg"
-    }
-  },
-  {
-    "id": "x-1791831122446-2w5vfh",
-    "source": "x",
-    "ts": "2026-10-12T18:52:02.446Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-12T18:50:48.000Z",
-    "reason": "No notable move or specific, verifiable information provided.",
-    "text": "🇸🇬 CONNECT: In early-stage crypto investing, the team may matter more than the product.\n\n@FundersVC's @al_nechaev said products and markets can change rapidly, making founders' expertise and ability to execute central to investment decisions.",
-    "url": "https://x.com/Cointelegraph/status/2109718444622913548"
-  },
-  {
-    "id": "x-1791831711093-139xp1",
-    "source": "x",
-    "ts": "2026-10-12T19:01:51.093Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-12T19:01:07.000Z",
-    "reason": "Specific institutional interest in private crypto investments.",
-    "text": "🇸🇬 CONNECT: Family offices are showing interest in private crypto investments, but token launches aren't necessarily what they're looking for.\n\n@OneAsset_io CEO @The_SoniaShaw said traditional investors are more familiar with equity investments and want projects to demonstrate",
-    "url": "https://x.com/Cointelegraph/status/2109721040217620589",
-    "images": [
-      "https://pbs.twimg.com/media/HUc8GPqXwAEUyX2.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791831715784-9ofkwc",
     "source": "x",
     "ts": "2026-10-12T19:01:55.784Z",
@@ -7990,5 +7938,49 @@
     "reason": "Noise: Generic hype with no real content.",
     "text": "🎯",
     "url": "https://x.com/elonmusk/status/2110397029650477363"
+  },
+  {
+    "id": "x-1791993816367-7cjtbb",
+    "source": "x",
+    "ts": "2026-10-14T16:03:36.367Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 107,
+    "originTimestamp": "2026-10-14T14:16:15.000Z",
+    "reason": "No notable move in the tweet provided.",
+    "text": "SpaceX uses ARGON ION PROPULSION to move Starlink satellites through space \n\nAnd the engineering is pretty wild\n\nStarlink satellites use argon Hall-effect thrusters  electric engines that ionize argon gas and accelerate the charged particles at extremely high speed\n\nThey allow",
+    "url": "https://x.com/elonmusk/status/2110400614526325021"
+  },
+  {
+    "id": "x-1791993821515-e31dl6",
+    "source": "x",
+    "ts": "2026-10-14T16:03:41.515Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-14T16:00:02.000Z",
+    "reason": "Price milestone of 400 BNB for a significant Binance Spot Trading Tournament.",
+    "text": "400 BNB. One tournament. Your move. ♟️\n\nBinance Spot Trading Tournament Season 5 is officially live \n\nAct now →",
+    "url": "https://x.com/binance/status/2110400243372290113",
+    "images": [
+      "https://pbs.twimg.com/media/HUluOBIa8AATEli.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791993826659-63gypb",
+    "source": "x",
+    "ts": "2026-10-14T16:03:46.659Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-14T16:00:01.000Z",
+    "reason": "Noise: generic hype without factual claim.",
+    "text": "🚨WILD: Opus 5.5 vs Gemini 4 Argon on the same prompt and task to build a cinematic 3D animation explaining how a Tesla-style electric motor works.  \n\nGemini Argon crushes the detailing as well as gets the job done for less than 1/4th the price of Claude opus. \n\nHas Google",
+    "url": "https://x.com/coinbureau/status/2110400242180858314"
   }
 ]
