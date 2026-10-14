@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791869531335-xa1fsb",
-    "source": "x",
-    "ts": "2026-10-13T05:32:11.335Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-13T05:27:25.000Z",
-    "reason": "New security feature launched to protect traders from frontrunning attacks.",
-    "text": "Aptos Takes Aim at Frontrunning With Encrypted Transactions\n\nAptos (@Aptos) aptos:native has launched Encrypted Mempool on mainnet to help protect traders from frontrunning and sandwich attacks.\n\nEncrypted Mempool is an optional service that will hide transaction data until the",
-    "url": "https://x.com/BSCNews/status/2109878652498502043",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109866535099752448/vid/avc1/1280x720/9hiW-sEnsmXedxG5.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109866535099752448/img/st4YHKgN7YYPFijx.jpg"
-    }
-  },
-  {
     "id": "x-1791871334619-y0yno4",
     "source": "x",
     "ts": "2026-10-13T06:02:14.619Z",
@@ -8119,5 +8098,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110276453489143808/img/SiJn3ASRZNHpFNKd.jpg"
     }
+  },
+  {
+    "id": "x-1792017126709-9zrxgm",
+    "source": "x",
+    "ts": "2026-10-14T22:32:06.709Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-14T22:28:42.000Z",
+    "reason": "No notable financial or crypto related news provided, just a profit announcement.",
+    "text": "🚨JUST IN: Anthropic hits $16.8 BILLION in Q3 revenue and reports a PROFIT ahead of its IPO.\n\nQuarterly revenue rose almost 50% from $11.5 BILLION in Q2, and more than tripled from $4.73 BILLION in Q1.\n\nThe Claude maker says it was profitable on an adjusted basis and cash flow",
+    "url": "https://x.com/coinbureau/status/2110498056307421506"
   }
 ]
