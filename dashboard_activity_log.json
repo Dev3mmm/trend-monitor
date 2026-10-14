@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791874951593-35rpv5",
-    "source": "x",
-    "ts": "2026-10-13T07:02:31.593Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T07:00:57.000Z",
-    "reason": "ETF outflows indicate a negative sentiment towards Bitcoin, Ethereum, and Solana.",
-    "text": "🇺🇸 ETF FLOWS: BTC, ETH and SOL spot ETFs saw net outflows on Oct. 12.\n\nBTC: - $65.4M\nETH: - $85.4M\nSOL: - $699.83K",
-    "url": "https://x.com/Cointelegraph/status/2109902194447106340",
-    "images": [
-      "https://pbs.twimg.com/media/HUfg3G_X0AAm9LB.jpg",
-      "https://pbs.twimg.com/media/HUfg3SlXQAAufSC.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791874953155-qq75xi",
-    "source": "x",
-    "ts": "2026-10-13T07:02:33.155Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-13T06:58:05.000Z",
-    "reason": "No notable move or specific event is indicated.",
-    "text": "🔴 LIVE: Keynote with @benbybit returns as @Bybit explores the next chapter of finance and “The New Financial Platform.”",
-    "url": "https://x.com/Cointelegraph/status/2109901473056489788"
-  },
-  {
     "id": "x-1791874954577-3zbk1c",
     "source": "x",
     "ts": "2026-10-13T07:02:34.577Z",
@@ -8112,5 +8080,37 @@
       "https://pbs.twimg.com/media/HUoCNHNbIAABjIl.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792020741191-q8u007",
+    "source": "x",
+    "ts": "2026-10-14T23:32:21.191Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T23:31:10.000Z",
+    "reason": "White House Crypto Council member's departure.",
+    "text": "🇺🇸 LATEST: Patrick Witt’s detail to the White House Crypto Council has expired, ending his tenure as executive director, per Eleanor Terrett.",
+    "url": "https://x.com/Cointelegraph/status/2110513777099596088",
+    "images": [
+      "https://pbs.twimg.com/media/HUoNF1WW8AAjgs6.jpg",
+      "https://pbs.twimg.com/media/HUoNGAdWUAA5TSn.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792020744271-ifcr3k",
+    "source": "x",
+    "ts": "2026-10-14T23:32:24.271Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 32,
+    "originTimestamp": "2026-10-14T23:00:00.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Grok @Bot can detect scam emails",
+    "url": "https://x.com/elonmusk/status/2110512477582795125"
   }
 ]
