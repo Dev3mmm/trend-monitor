@@ -3094,5 +3094,19 @@
     "fetchedAt": "2026-10-14T11:42:50.607Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-b6e4d180ba47e33a",
+    "title": "Speech Emotion Recognition with Wav2Vec2",
+    "url": "https://aioz.network/blog/speech-emotion-recognition-with-wav2vec2",
+    "description": "TL;DR Speech Emotion Recognition with Wav2Vec2 is a fine-tuned Wav2Vec2 Large XLSR-53 model that classifies speech into seven emotions: Angry, Disgust, Fearful, Happy, Neutral, Sad, and Surprised. It was trained for 25 epochs on approximately 4,900 balanced samples from RAVDESS, SAVEE, TESS, and URDU, with reported results of 91.68% accuracy and a 91.66% F1 score. What the Model Is Wav2Vec2, now l",
+    "publishedAt": "2026-10-14T13:17:24.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-14T13:22:45.109Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
