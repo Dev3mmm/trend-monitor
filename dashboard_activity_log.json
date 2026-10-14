@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791825717209-ii16qk",
-    "source": "x",
-    "ts": "2026-10-12T17:21:57.209Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 80,
-    "originTimestamp": "2026-10-12T16:02:02.000Z",
-    "reason": "Noise: generic meme without content.",
-    "text": "😂",
-    "url": "https://x.com/elonmusk/status/2109692430178255016"
-  },
-  {
     "id": "x-1791825719162-xie57l",
     "source": "x",
     "ts": "2026-10-12T17:21:59.163Z",
@@ -8000,5 +7987,26 @@
     "reason": "Vague opinion without factual claim",
     "text": "🔥 BULLISH: ARK Invest CEO Cathie Wood says “the turn is in here for Bitcoin.\"",
     "url": "https://x.com/Cointelegraph/status/2110385402087436640"
+  },
+  {
+    "id": "x-1791990775164-i1lii1",
+    "source": "x",
+    "ts": "2026-10-14T15:12:55.164Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-14T15:09:05.000Z",
+    "reason": "Specific financial statement from a large institution.",
+    "text": "JUST IN: $50 billion AUM Wellington-Altus says Bitcoin is entering a \"generational super cycle\". 👀\n\n\"I can't believe there are still people whipping this thing around between $83,000 and $86,000...Where does this go? God only knows but it's due north.\" 💥",
+    "url": "https://x.com/BitcoinMagazine/status/2110387423666409640",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110385760440401920/vid/avc1/1280x720/q7-TutC_UoCgXJfs.mp4?tag=29",
+      "duration": 296,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110385760440401920/img/JV2VjDNwQiBQ0IVl.jpg"
+    }
   }
 ]
