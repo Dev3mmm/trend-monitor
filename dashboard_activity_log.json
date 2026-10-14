@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1791856962984-d9i9xo",
-    "source": "x",
-    "ts": "2026-10-13T02:02:42.984Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-13T01:59:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Is @PiCoreTeam still bullish on gaming...?\n\n$PI Ventures' investment into @PlayCiDi was announced nearly a whole year ago. Here's what drove that long-term decision ⬇️",
-    "url": "https://x.com/BSCNews/status/2109826203230040146"
-  },
-  {
-    "id": "x-1791856965771-shqesa",
-    "source": "x",
-    "ts": "2026-10-13T02:02:45.771Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 32,
-    "originTimestamp": "2026-10-13T01:30:29.000Z",
-    "reason": "No notable crypto-related information provided.",
-    "text": "Deployment of 27 @Starlink satellites confirmed",
-    "url": "https://x.com/elonmusk/status/2109824758888165605"
-  },
-  {
-    "id": "x-1791857546669-ig52xz",
-    "source": "x",
-    "ts": "2026-10-13T02:12:26.669Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T02:10:00.000Z",
-    "reason": "Noteworthy development on cross-chain security.",
-    "text": "LayerZero Adds a New Security Check Before Cross Chain Transfers\n\nLayerZero (@LayerZero_Core) and Blockaid (@blockaid_) have launched Bridge Sentinel, a new Decentralized Verifier Network (DVN).\n\nThe system screens cross-chain messages against Blockaid’s real-time threat",
-    "url": "https://x.com/BSCNews/status/2109828971760341222",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109578836362813440/vid/avc1/1280x720/OcqZDotTiQc9oxhM.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109578836362813440/img/XR7F0QMpji1cqIQy.jpg"
-    }
-  },
-  {
     "id": "x-1791858738848-9m8f6u",
     "source": "x",
     "ts": "2026-10-13T02:32:18.848Z",
@@ -8092,5 +8045,55 @@
     "reason": "No notable move in ETH price, price is within the recent range.",
     "text": "Tutorial on Digital Credit: $STRF (\"Strife\")",
     "url": "https://x.com/saylor/status/2110461551325122959"
+  },
+  {
+    "id": "x-1792009339419-lrqmlu",
+    "source": "x",
+    "ts": "2026-10-14T20:22:19.419Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T20:20:22.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 BULLISH: Standard Chartered now expects the stablecoin market to reach $2 trillion by 2030 as transaction activity keeps growing despite slower supply growth.",
+    "url": "https://x.com/Cointelegraph/status/2110465760875233451"
+  },
+  {
+    "id": "x-1792009343233-ivmlv5",
+    "source": "x",
+    "ts": "2026-10-14T20:22:23.233Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-14T20:17:15.000Z",
+    "reason": "AI adoption in crypto payments indicated",
+    "text": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+    "url": "https://x.com/DecryptMedia/status/2110464975214944610",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792009349295-0vd42e",
+    "source": "x",
+    "ts": "2026-10-14T20:22:29.295Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-14T20:14:00.000Z",
+    "reason": "Aster is announcing a significant buyback of its own token.",
+    "text": "Aster opens another round of token buybacks on Thursday\n\n@Aster_DEX will use the last ~1.4M USDT in its strategic buyback reserve to buy $ASTER over 14 days, about 100,000 USDT a day, starting Thursday, October 15.\n\nThat comes on top of its regular buybacks, funded by 99% of",
+    "url": "https://x.com/BSCNews/status/2110464156927164803",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110447429744992257/vid/avc1/1220x720/hruDnfMiliz-aFed.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110447429744992257/img/or9P_LZpVfV1MUhm.jpg"
+    }
   }
 ]
