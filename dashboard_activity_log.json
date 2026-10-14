@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791813776556-upfl2p",
-    "source": "x",
-    "ts": "2026-10-12T14:02:56.556Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-12T13:57:51.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "$HOODOG is holding around the $100K market cap range, sitting roughly 4x below its ATH.\n\nThe team has already burned 5% of the token supply, while a 1% airdrop for holders is also planned 👀\n\nWith the community continuing to support the project and the team putting more tokens in",
-    "url": "https://x.com/BSCNews/status/2109644720032846187"
-  },
-  {
-    "id": "x-1791813781180-srw2ei",
-    "source": "x",
-    "ts": "2026-10-12T14:03:01.180Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-12T13:53:30.000Z",
-    "reason": "Specific institutional adoption of Bitcoin by a major stock exchange.",
-    "text": "JUST IN: 🇷🇺 Russia's Moscow Stock Exchange will allow its 40.1 million clients to invest in Bitcoin and crypto assets 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2109643624912986371",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109642282349547520/vid/avc1/1280x720/7Li7fkt0kYwqYyKZ.mp4?tag=29",
-      "duration": 17,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HUb1yIhW0AAvUlj.jpg"
-    }
-  },
-  {
     "id": "x-1791813785626-7vwc0o",
     "source": "x",
     "ts": "2026-10-12T14:03:05.626Z",
@@ -8015,5 +7981,36 @@
     "reason": "No notable move indicated, price within recent range.",
     "text": "Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town",
     "url": "https://x.com/DecryptMedia/status/2110343046600528371"
+  },
+  {
+    "id": "x-1791981139947-vurz7f",
+    "source": "x",
+    "ts": "2026-10-14T12:32:19.947Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T12:31:16.000Z",
+    "reason": "Crypto markets often react to economic data releases, including inflation reports.",
+    "text": "🚨JUST OUT: U.S. CPI comes in HOTTER than expected, with both headline and core inflation beating forecasts.\n\nHeadline CPI YoY: 3.7% vs. 3.6% expected and 3.4% prior\n\nCore CPI YoY: 2.6% vs. 2.5% expected and 2.4% prior\n\nBoth headline and core inflation accelerated from last",
+    "url": "https://x.com/coinbureau/status/2110347708536074491",
+    "images": [
+      "https://pbs.twimg.com/media/HUlzl9OaAAAZCB4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1791981143718-st8dez",
+    "source": "x",
+    "ts": "2026-10-14T12:32:23.718Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-14T12:23:29.000Z",
+    "reason": "No factual claim or specific event mentioned.",
+    "text": "JUST IN: 🇺🇸US stocks lost over $97 BILLION yesterday, with financials alone wiping out $40B after bank earnings report.",
+    "url": "https://x.com/coinbureau/status/2110345747803828613"
   }
 ]
