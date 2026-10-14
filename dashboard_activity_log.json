@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791772366409-dxiu1j",
-    "source": "x",
-    "ts": "2026-10-12T02:32:46.409Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Rarma",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-12T02:29:44.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": ".@Tesla on your  site, you need small borders on the text boxes, they're invisible until you randomly click into them",
-    "url": "https://x.com/Rarma_/status/2109471552303698132"
-  },
-  {
-    "id": "x-1791772922555-xst2j9",
-    "source": "x",
-    "ts": "2026-10-12T02:42:02.555Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-12T02:32:29.000Z",
-    "reason": "New use of a token/stablecoin for AI data rights management.",
-    "text": "🔥 JUST IN: DATA Network and its Trace registry are moving onto Sui, with Walrus as the default storage layer, giving AI labs one place to source rights-cleared training data.",
-    "url": "https://x.com/Cointelegraph/status/2109472245030789188",
-    "images": [
-      "https://pbs.twimg.com/media/HUZZvU9aEAAwwNb.png",
-      "https://pbs.twimg.com/media/HUZZvVCbgAAYV7d.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791774130448-xrp0p6",
     "source": "x",
     "ts": "2026-10-12T03:02:10.448Z",
@@ -8076,6 +8044,43 @@
       "https://pbs.twimg.com/media/HUjKMw8XUAEnWLJ.jpg",
       "https://pbs.twimg.com/media/HUjKM_4WAAEWYeQ.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1791937351226-27cr30",
+    "source": "x",
+    "ts": "2026-10-14T00:22:31.226Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-14T00:18:00.000Z",
+    "reason": "MoonPay expands wallet funding options with Arc.",
+    "text": "Arc Brings MoonPay to 30M Plus Users\n\nMoonPay (@moonpay) is now live on Arc (@arc), giving users another way to fund wallets with ethereum:0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.\n\nThe service supports cards, Apple Pay (@applepay), Google Pay (@GooglePay), bank transfers, and",
+    "url": "https://x.com/BSCNews/status/2110163173789532546",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2109947327687614464/vid/avc1/1280x720/pLss2depkIym11dx.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109947327687614464/img/TReSi4QGrYbmUIBl.jpg"
+    }
+  },
+  {
+    "id": "x-1791937353117-c2gbs4",
+    "source": "x",
+    "ts": "2026-10-14T00:22:33.117Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-14T00:15:20.000Z",
+    "reason": "Ledger investigating tampered hardware wallets in multiple regions",
+    "text": "🚨 NOW: Ledger has asked resellers in Hong Kong and six Southeast Asian countries to pull its hardware wallets from shelves while it investigates reports of tampered devices.",
+    "url": "https://x.com/Cointelegraph/status/2110162502889709955",
+    "images": [],
     "video": null
   }
 ]
