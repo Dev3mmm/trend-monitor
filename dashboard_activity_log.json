@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791873131740-nxkxaq",
-    "source": "x",
-    "ts": "2026-10-13T06:32:11.740Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T06:30:38.000Z",
-    "reason": "Specific and verifiable shutdown of mining services by a major player.",
-    "text": "🚨 UPDATE: Binance will shut down its mining pool and related services, including Cloud Mining and Pool Savings, on November 10.",
-    "url": "https://x.com/Cointelegraph/status/2109894561757614549",
-    "images": [
-      "https://pbs.twimg.com/media/HUfZ67qXsAAPku-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791873138363-ee6t7z",
-    "source": "x",
-    "ts": "2026-10-13T06:32:18.363Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-13T06:24:00.000Z",
-    "reason": "Uniswap burn event hitting rock bottom indicates significant liquidity concerns.",
-    "text": "Uniswap Burns on Robinhood Chain Hit Rock Bottom\n\nDaily ethereum:0x1f9840a85d5af5bf1d1762f925bdaddc4201f984 burns for Uniswap (@Uniswap) on various blockchains are now around 12,000 to 14,000 tokens, according to Defioasis.\n\nRobinhood (@RobinhoodCrypto) Chain sees only around",
-    "url": "https://x.com/BSCNews/status/2109892892940763413",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109869635583791104/vid/avc1/1280x720/Yv3hqSb6EP6FL1o5.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109869635583791104/img/sACwi5IryFfFpMNc.jpg"
-    }
-  },
-  {
     "id": "x-1791874951593-35rpv5",
     "source": "x",
     "ts": "2026-10-13T07:02:31.593Z",
@@ -8111,5 +8072,45 @@
     "reason": "The tweet is about a lawsuit and not related to crypto markets.",
     "text": "🇺🇸 ALERT: Eight U.S. states have sued OpenAI, alleging ChatGPT is unsafe for children and that the company misled parents about its protections.",
     "url": "https://x.com/Cointelegraph/status/2110506232796557324"
+  },
+  {
+    "id": "x-1792020155736-0f9g03",
+    "source": "x",
+    "ts": "2026-10-14T23:22:35.736Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-14T23:22:00.000Z",
+    "reason": "Notable institution integration event in the DeFi space",
+    "text": "Zebec Network is taking Canton seriously...\n\nYesterday saw @Zebec_HQ integrate leading @CantonNetwork self-custody wallet @C8Wallet by @Cantor8 into its official product suite.\n\nThe integration is expected to provide smoother onboarding onto Canton for institutions and companies",
+    "url": "https://x.com/BSCNews/status/2110511468835897423",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110276789482237952/vid/avc1/1312x720/IpMA-Z21rGwkVkPZ.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110276789482237952/img/3-Qi73_6n4py6nfg.jpg"
+    }
+  },
+  {
+    "id": "x-1792020159343-lo8tay",
+    "source": "x",
+    "ts": "2026-10-14T23:22:39.343Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-14T23:13:00.000Z",
+    "reason": "SEC approves prediction markets tied to multiple high-profile companies.",
+    "text": "🇺🇸 HUGE: The SEC officially approves prediction market style options tied to Coinbase, Nvidia, Tesla and 20 other companies' results.\n\nTraders will be able to bet on whether company metrics like Coinbase's trading volume and MARA's Bitcoin production land above or below set",
+    "url": "https://x.com/coinbureau/status/2110509204012482949",
+    "images": [
+      "https://pbs.twimg.com/media/HUoCNG_akAAeQEK.jpg",
+      "https://pbs.twimg.com/media/HUoCNHNbIAABjIl.png"
+    ],
+    "video": null
   }
 ]
