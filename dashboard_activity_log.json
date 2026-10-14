@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791856304306-jj46vg",
-    "source": "x",
-    "ts": "2026-10-13T01:51:44.306Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T01:49:39.000Z",
-    "reason": "No notable crypto-related move or institution's crypto activity mentioned.",
-    "text": "🇰🇷 JUST IN: South Korea's KOSPI plunges over 6% on a tech sell-off.",
-    "url": "https://x.com/Cointelegraph/status/2109823851437740415"
-  },
-  {
-    "id": "x-1791856309305-qm5yh2",
-    "source": "x",
-    "ts": "2026-10-13T01:51:49.305Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 114,
-    "originTimestamp": "2026-10-12T23:57:13.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "@thejakebuzz I am adding new use cases to Grok @bot daily. \n\nKitchen - gives me recipes to match what I have in stock and ordered instacart for the rest. \n\nInbox - alerts me to high priority emails as they come in from all of my inboxes and drafts (but never sends) responses. \n\nScheduling -",
-    "url": "https://x.com/elonmusk/status/2109822906670682387"
-  },
-  {
     "id": "x-1791856959431-mnzq3h",
     "source": "x",
     "ts": "2026-10-13T02:02:39.431Z",
@@ -8087,5 +8061,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110443142700818432/img/JTxyB8mMMlzA_g4i.jpg"
     }
+  },
+  {
+    "id": "x-1792008143669-roywgj",
+    "source": "x",
+    "ts": "2026-10-14T20:02:23.669Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T20:00:30.000Z",
+    "reason": "No notable move, no specific price or event mentioned.",
+    "text": "Digital Credit, powered by Bitcoin. Our most senior preferred stock, $STRF (“Strife”), explained in three minutes.",
+    "url": "https://x.com/saylor/status/2110460760531021924"
+  },
+  {
+    "id": "x-1792008148431-14pfrn",
+    "source": "x",
+    "ts": "2026-10-14T20:02:28.431Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T20:00:29.000Z",
+    "reason": "Specific statement from a notable figure in the crypto space regarding security measures.",
+    "text": "🚨 INSIGHT: CZ says all hardware wallets should have see-through cases in the future to help users spot signs of tampering.",
+    "url": "https://x.com/Cointelegraph/status/2110460758307885408",
+    "images": [
+      "https://pbs.twimg.com/media/HUnc38VWAAAPeoi.jpg"
+    ],
+    "video": null
   }
 ]
