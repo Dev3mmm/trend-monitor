@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791792725570-clxl28",
-    "source": "x",
-    "ts": "2026-10-12T08:12:05.570Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-12T08:09:03.000Z",
-    "reason": "Noise: generic opinion without factual claim.",
-    "text": "A or B?\n\nA: Keep a woman who disrespects you because you fear starting over.\n\nB: Walk away. Stay alone. Rebuild your standards.\n\nReply with A or B.\n\nDo not write essays.",
-    "url": "https://x.com/amerix/status/2109556941437513980"
-  },
-  {
-    "id": "x-1791792728837-oa9f9h",
-    "source": "x",
-    "ts": "2026-10-12T08:12:08.837Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-12T08:04:00.000Z",
-    "reason": "New ETF launch for Solana by Pando Finance in Hong Kong",
-    "text": "Hong Kong to Add Another Solana ETF\n\nPando Finance is set to launch its spot Solana (@solana) solana:So11111111111111111111111111111111111111112 ETF on the Hong Kong Stock Exchange on October 13.\n\nThe fund is physically backed and passively managed. It will trade in Hong Kong",
-    "url": "https://x.com/BSCNews/status/2109555671083716677",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109546722263465984/vid/avc1/1280x720/NY0CRzO2RaTqPcry.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109546722263465984/img/jR61FLaQa0z6kPv7.jpg"
-    }
-  },
-  {
     "id": "x-1791793941817-azv5m0",
     "source": "x",
     "ts": "2026-10-12T08:32:21.817Z",
@@ -8079,5 +8045,34 @@
     "reason": "No notable move or specific event described.",
     "text": "I made a Grok Bot that can use Suno, Midjourney, and Opus to make music videos\n\n\"Claudia\" (the Grok Bot) made this teaser autonomously with @imagine",
     "url": "https://x.com/elonmusk/status/2110245096054747626"
+  },
+  {
+    "id": "x-1791957768982-ngu6fc",
+    "source": "x",
+    "ts": "2026-10-14T06:02:48.982Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-14T06:01:54.000Z",
+    "reason": "\"Without using AI, drop a sentence that could come from both a crypto trader and your ex.\"",
+    "text": "Without using AI \ndrop a sentence that could come from both a crypto trader and your ex.",
+    "url": "https://x.com/binance/status/2110249719578476601",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1791957771812-ar3s22",
+    "source": "x",
+    "ts": "2026-10-14T06:02:51.812Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-14T06:00:39.000Z",
+    "reason": "No notable crypto-related event or use mentioned.",
+    "text": "🇮🇷🇺🇸 NOW: Iran is shifting tactics to step up attacks on ships in the Strait of Hormuz in a bid to keep oil prices high ahead of the US midterm elections, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2110249404246434031"
   }
 ]
