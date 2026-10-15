@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791949906412-r8abb4",
-    "source": "x",
-    "ts": "2026-10-14T03:51:46.412Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-14T03:47:06.000Z",
-    "reason": "No notable crypto-related content or event mentioned.",
-    "text": "🇺🇸 LATEST: President Trump says the U.S. has “had it” with Iran, and intends to deliver the nation a heavy blow.\n\n“They say, ‘Sir, you’re the hottest country anywhere in the world.’\"\n\n\"Oh, wait until you see what we do to Iran.\"\n\n\"We’re going to do a number. They’re just",
-    "url": "https://x.com/coinbureau/status/2110215796345704465"
-  },
-  {
-    "id": "x-1791949908547-pnexvk",
-    "source": "x",
-    "ts": "2026-10-14T03:51:48.547Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-14T03:42:14.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Coinbase Warns Bitcoin Must Prepare For Quantum Threats\n\nCoinbase (@coinbase) has outlined priorities for Bitcoin’s bitcoin:native post-quantum migration, warning that preparations could take years.\n\nThe exchange wants flexible designs that can adapt as quantum-resistant",
-    "url": "https://x.com/BSCNews/status/2110214573664207232"
-  },
-  {
     "id": "x-1791950474943-t2qv0j",
     "source": "x",
     "ts": "2026-10-14T04:01:14.943Z",
@@ -8021,5 +7995,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110794617373208576/img/6FFjLx3n83e4r3GZ.jpg"
     }
+  },
+  {
+    "id": "x-1792092751449-bhroll",
+    "source": "x",
+    "ts": "2026-10-15T19:32:31.450Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T19:31:00.000Z",
+    "reason": "New regulatory standard for tokens on KAS network.",
+    "text": "Tokens on $KAS are getting a shared rulebook. Kaspa’s KCC-20 standard has entered last call, the final review before it can be locked in ⬇️",
+    "url": "https://x.com/BSCNews/status/2110815723710755201",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792092756538-7kfmcz",
+    "source": "x",
+    "ts": "2026-10-15T19:32:36.538Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-15T19:30:21.000Z",
+    "reason": "Notable insider information about a stablecoin deal and political influence.",
+    "text": "🚨 LATEST: Former Trump crypto adviser Bo Hines reportedly kept a one-third stake in Nxum, which received $6.3 million in a Tether deal while he pushed lawmakers to pass the GENIUS stablecoin bill.",
+    "url": "https://x.com/Cointelegraph/status/2110815562175488313",
+    "images": [],
+    "video": null
   }
 ]
