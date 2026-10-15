@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1791891111384-nx74rf",
-    "source": "x",
-    "ts": "2026-10-13T11:31:51.384Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T11:30:40.000Z",
-    "reason": "Potential SEC compliance issues raised by a high-profile CEO.",
-    "text": "🚨 INSIGHT: AMC CEO Adam Aron presses Robinhood on whether its offshore stock tokens follow SEC principles.",
-    "url": "https://x.com/Cointelegraph/status/2109970069367259506",
-    "images": [
-      "https://pbs.twimg.com/media/HUgelwfXUAAHerm.png",
-      "https://pbs.twimg.com/media/HUgemHyXsAAGiYN.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791892352949-ix2wqv",
-    "source": "x",
-    "ts": "2026-10-13T11:52:32.949Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T11:51:11.000Z",
-    "reason": "New AI-powered cryptocurrency launch with detailed public documentation and tests.",
-    "text": "@memetoro_mt is developing an AI-powered Memecoin launchpad on BNB Chain, with its code publicly available ahead of launch.\n\nWhat’s public so far:\n▪️ 1,573+ lines of Solidity for fair-launch escrow contracts\n▪️ Public launch manifests outlining funding rules\n▪️ Escrow tests",
-    "url": "https://x.com/BSCNews/status/2109975233423700453",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109975181649117186/vid/avc1/1278x702/g2rNDMIh_ZJer7Lg.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109975181649117186/img/hHxLz4hPfFoX0nIZ.jpg"
-    }
-  },
-  {
     "id": "x-1791892357860-5lcnxi",
     "source": "x",
     "ts": "2026-10-13T11:52:37.860Z",
@@ -8068,5 +8028,45 @@
     "reason": "No notable move in the tweet.",
     "text": "Elon Musk says Starship’s fuel is mostly oxygen and easy to make on Mars, so a propellant depot there turns it into a generalized transport to anywhere in the solar system\n\n“Yes, and actually it’s mostly going to be an oxygen plant, but it’s because it’s 78% oxygen, 22% fuel. But",
     "url": "https://x.com/elonmusk/status/2110598609427415223"
+  },
+  {
+    "id": "x-1792041752415-fv9dn8",
+    "source": "x",
+    "ts": "2026-10-15T05:22:32.415Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-15T05:20:00.000Z",
+    "reason": "Notable regulatory and financial misconduct involving a major cryptocurrency company.",
+    "text": "🇺🇸 EXPOSÉ: Tether paid MILLIONS to a company Bo Hines co-owned while he led the White House Crypto Council, then hired him as its U.S. chief after he left, WSJ reports.\n\nNxum has reportedly earned $6.3 MILLION from Tether's arrangement, with payments beginning while Hines worked",
+    "url": "https://x.com/coinbureau/status/2110601562632397088",
+    "images": [
+      "https://pbs.twimg.com/media/HUpOa4XbEAA9zrj.jpg",
+      "https://pbs.twimg.com/media/HUpOa4dbUAAk8-6.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792041757971-2t3djk",
+    "source": "x",
+    "ts": "2026-10-15T05:22:37.971Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T05:18:33.000Z",
+    "reason": "Sei Network's native token is now available on Public, expanding investor access.",
+    "text": "Sei Network Reaches Millions of Investors Through Public\n\nSei Network's (@SeiNetwork) sei-network:native token is now available to trade on Public.\n\nThe platform gives millions of investors access to SEI alongside stocks, ETFs, and options.\n\nMeanwhile, Sei is also preparing to",
+    "url": "https://x.com/BSCNews/status/2110601200576123008",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110601099589844992/vid/avc1/1280x720/uxHiPXNLdpkg3G4g.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110601099589844992/img/_RdL_9tGMBLLbG9d.jpg"
+    }
   }
 ]
