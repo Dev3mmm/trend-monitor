@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791927138412-3pxxgg",
-    "source": "x",
-    "ts": "2026-10-13T21:32:18.412Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-13T21:22:08.000Z",
-    "reason": "No concrete price movement or specific action, just a prediction.",
-    "text": "🔥 BULLISH: Michael Saylor says Strategy expects to keep increasing its Bitcoin holdings over time despite selling some BTC earlier this year.\n\nHe added that Bitcoin is back in a bull market and should move above $100,000 again.",
-    "url": "https://x.com/Cointelegraph/status/2110118918102843418"
-  },
-  {
-    "id": "x-1791927788346-g7xvm9",
-    "source": "x",
-    "ts": "2026-10-13T21:43:08.346Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T21:40:36.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "🇺🇸 JUST IN: Bloomberg’s Eric Balchunas says Bitcoin could benefit if governments tax unrealized stock gains or keep printing money.",
-    "url": "https://x.com/Cointelegraph/status/2110123563369767323"
-  },
-  {
     "id": "x-1791927792436-n071cm",
     "source": "x",
     "ts": "2026-10-13T21:43:12.436Z",
@@ -8026,6 +8000,43 @@
     "text": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
     "url": "https://x.com/DecryptMedia/status/2110770270424216064",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792082614194-d0cs6b",
+    "source": "x",
+    "ts": "2026-10-15T16:43:34.194Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-15T16:38:59.000Z",
+    "reason": "Notable regulatory ban on crypto transactions.",
+    "text": "🚨BREAKING: Russia reportedly plans to BAN retail crypto transfers to self-custody wallets and direct P2P trading from July 1, 2027, the Moscow Times reports.\n\nCrypto trading would require licensed intermediaries, with unqualified investors CAPPED at $3,690 in annual purchases",
+    "url": "https://x.com/coinbureau/status/2110772437021523969",
+    "images": [
+      "https://pbs.twimg.com/media/HUr32gQa0AM5D8w.png",
+      "https://pbs.twimg.com/media/HUr346gbgAAHQSm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792082619939-lskl8q",
+    "source": "x",
+    "ts": "2026-10-15T16:43:39.939Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-15T16:36:59.000Z",
+    "reason": "Notable venture capital funding for Binance US to expand its US operations.",
+    "text": "Binance US Seeks Up to $100M at $1B Valuation to Expand US Business, Considers Tapping Binance Global Liquidity\n\nBloomberg reported that Binance US is seeking to raise up to $100 million in a private funding round at a target valuation of approximately $1 billion to expand its US",
+    "url": "https://x.com/WuBlockchain/status/2110771933105275235",
+    "images": [
+      "https://pbs.twimg.com/media/HUr34VWaoAEEJRJ.jpg"
+    ],
     "video": null
   }
 ]
