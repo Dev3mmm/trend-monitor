@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791888776984-txnuwk",
-    "source": "x",
-    "ts": "2026-10-13T10:52:56.984Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Rarma",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-13T10:47:34.000Z",
-    "reason": "Ethereum exploit affecting a custom EVM precompile.",
-    "text": "Stratos (stratos-1), a Cosmos EVM chain, was exploited and its validators halted the chain. Here is what happened and where the funds went, read directly from the chain.\n\nThe chain is frozen at block 16,008,475, last block 05:21 UTC.\n\nThe bug is a custom EVM precompile at",
-    "url": "https://x.com/Rarma_/status/2109959222716985466",
-    "images": [
-      "https://pbs.twimg.com/media/HUgUtqTacAIPAGM.jpg",
-      "https://pbs.twimg.com/media/HUgUtqSbIAAs7rV.jpg",
-      "https://pbs.twimg.com/media/HUgUtqNbgAAERsl.jpg",
-      "https://pbs.twimg.com/media/HUgUtqTacAAZByN.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791889325159-pn3zlx",
     "source": "x",
     "ts": "2026-10-13T11:02:05.159Z",
@@ -8070,5 +8049,24 @@
     "reason": "No notable move or specific event described.",
     "text": "Solana Foundation Showcases Shanghai Office and Skyline Ads\n\nSolana Foundation Chief Strategy Officer Rachel Conlan shared images of a new Shanghai office and Solana advertisements across the city's skyline. Conlan joined the foundation in September after serving as Binance's",
     "url": "https://x.com/WuBlockchain/status/2110584791930122555"
+  },
+  {
+    "id": "x-1792038768628-fmdcgy",
+    "source": "x",
+    "ts": "2026-10-15T04:32:48.628Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-15T04:30:25.000Z",
+    "reason": "Vitalik Buterin's comment on zkEVMs security and speed highlights a key strategic shift in the Ethereum ecosystem.",
+    "text": "⚡️ TODAY: Vitalik Buterin says the top priority for zkEVMs should now be security, arguing the race for speed has been won after ZKsync’s Airbender milestone.",
+    "url": "https://x.com/Cointelegraph/status/2110589084401869030",
+    "images": [
+      "https://pbs.twimg.com/media/HUpRlPgXsAAD7tR.png",
+      "https://pbs.twimg.com/media/HUpRljUW4AAxzL3.jpg"
+    ],
+    "video": null
   }
 ]
