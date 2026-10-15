@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1791960722146-5lj4vz",
-    "source": "x",
-    "ts": "2026-10-14T06:52:02.146Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-14T06:47:19.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨JUST IN: South Korea’s KOSPI closes RED, falling for a 6th straight trading session.\n\nThe index closed at 6,008, down another -0.44%, after yesterday’s brutal -5.46% crash.\n\nSince Oct. 2, KOSPI is now down ~14.2%, wiping out an estimated $640B+ in market value.",
-    "url": "https://x.com/coinbureau/status/2110261149069443428"
-  },
-  {
-    "id": "x-1791961346863-s4gr3n",
-    "source": "x",
-    "ts": "2026-10-14T07:02:26.863Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T07:00:45.000Z",
-    "reason": "BTC and ETH ETF inflows are significant institutional activity.",
-    "text": "🇺🇸 ETF FLOWS: BTC and ETH spot ETFs saw net inflows on Oct. 13, while SOL spot ETFs saw net outflows.\n\nBTC: $175.62M\nETH: $24.84M\nSOL: - $1.04M",
-    "url": "https://x.com/Cointelegraph/status/2110264528868884713",
-    "images": [
-      "https://pbs.twimg.com/media/HUkqZurXQAAYZG5.jpg",
-      "https://pbs.twimg.com/media/HUkqZ8GWsAAHk4N.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791961349921-jae689",
-    "source": "x",
-    "ts": "2026-10-14T07:02:29.921Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T07:00:01.000Z",
-    "reason": "Tweet is vague and lacks specific factual information.",
-    "text": "🎥WATCH: Jensen Huang says NVIDIA is dependent on AI and can't design a chip without it\n\n“We can’t design a chip anymore without AI.”\n\n“At night, our AIs are exploring design spaces vast and wide that we would never do ourselves.”\n\n“Our chips are so much better because of AI. We",
-    "url": "https://x.com/coinbureau/status/2110264346727108958"
-  },
-  {
-    "id": "x-1791961936495-a4asqk",
-    "source": "x",
-    "ts": "2026-10-14T07:12:16.495Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-14T07:06:15.000Z",
-    "reason": "No notable move or concrete event described.",
-    "text": "InterLink Treasury Set For New ITL And ITLG Addition\n\nAn unnamed company is preparing to add $ITL and $ITLG to its digital asset treasury, according to InterLink (@inter_link).\n\nThe company’s identity has not been disclosed.\n\nInterLink describes the planned addition as another",
-    "url": "https://x.com/BSCNews/status/2110265916005204386"
-  },
-  {
     "id": "x-1791962528815-1uhnu3",
     "source": "x",
     "ts": "2026-10-14T07:22:08.815Z",
@@ -8020,5 +7962,65 @@
     "reason": "No notable move or specific action related to MSCI's decision on Bitcoin is mentioned.",
     "text": "MSCI Adopts New Index Exclusion Rules; Strategy and Metaplanet Face Potential Removal\n\nMSCI has adopted new rules to exclude non-operating companies from its Global Investable Market Indexes. In an earlier simulation based on May 2026 data, MSCI identified Bitcoin treasury",
     "url": "https://x.com/WuBlockchain/status/2110848350828589411"
+  },
+  {
+    "id": "x-1792101210508-3rr7sm",
+    "source": "x",
+    "ts": "2026-10-15T21:53:30.508Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T21:50:21.000Z",
+    "reason": "SEC approval for crypto ETF could signal broader institutional interest.",
+    "text": "🇺🇸 JUST IN: The SEC files an FWP for the T. Rowe Price Active Crypto ETF.",
+    "url": "https://x.com/Cointelegraph/status/2110850793469333704",
+    "images": [
+      "https://pbs.twimg.com/media/HUs_nBWXUAAvW8t.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792101214127-6e5eus",
+    "source": "x",
+    "ts": "2026-10-15T21:53:34.127Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T21:49:44.000Z",
+    "reason": "No notable move in crypto, the tweet is a financial commentary rather than a concrete, specific event.",
+    "text": "🚨Jamie Dimon warns AI agents that make payments for you may not act in your interest.\n\nThe JPMorgan CEO says letting AI agents make payments means handing them your bank code, putting them inside your bank.",
+    "url": "https://x.com/coinbureau/status/2110850637202391042"
+  },
+  {
+    "id": "x-1792101217509-82xr2z",
+    "source": "x",
+    "ts": "2026-10-15T21:53:37.509Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-15T21:47:15.000Z",
+    "reason": "Reason not provided in example tweet, need specific market or event details.",
+    "text": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+    "url": "https://x.com/DecryptMedia/status/2110850012380799161",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792101220801-k4im62",
+    "source": "x",
+    "ts": "2026-10-15T21:53:40.801Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-15T21:45:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "ChatGPT can now work with your Internet Computer apps\n\nAn Internet Computer plugin from @dfinity is now live in ChatGPT’s plugin directory. It lets @ChatGPT read data from participating ICP apps and make non-financial changes across several apps in a single chat.\n\nUsers sign in",
+    "url": "https://x.com/BSCNews/status/2110849445965574386"
   }
 ]
