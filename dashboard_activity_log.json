@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1791876727972-8vbl9n",
-    "source": "x",
-    "ts": "2026-10-13T07:32:07.972Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-13T07:24:52.000Z",
-    "reason": "New use case for ETH with tokenized equities backed by real shares.",
-    "text": "🔥 JUST IN: Bybit will launch mStocks next month, offering 24/7 access to tokenized equities backed 1:1 by real shares.\n\nDeveloped with Mantle, mStocks will support use as trading collateral, DEX trading and DeFi.",
-    "url": "https://x.com/Cointelegraph/status/2109908210773803288",
-    "images": [
-      "https://pbs.twimg.com/media/HUfmUz9bYAAdXLx.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791877328338-xtvffu",
-    "source": "x",
-    "ts": "2026-10-13T07:42:08.338Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T07:40:46.000Z",
-    "reason": "Significant potential user losses and risk mitigation reported by a major crypto exchange.",
-    "text": "🚨 JUST IN: Bybit reports preventing $700M in potential user losses and blocking 30,000 risky withdrawals.",
-    "url": "https://x.com/Cointelegraph/status/2109912212630364664",
-    "images": [
-      "https://pbs.twimg.com/media/HUfp8_KWIAEjDHY.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791877330168-4x9s5o",
     "source": "x",
     "ts": "2026-10-13T07:42:10.168Z",
@@ -8112,5 +8076,31 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110276892800466945/img/sU2mkA9G4hr282tE.jpg"
     }
+  },
+  {
+    "id": "x-1792023139744-1quhwi",
+    "source": "x",
+    "ts": "2026-10-15T00:12:19.744Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-15T00:04:58.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "🔥 TODAY: Bitwise CIO Matt Hougan says that whether the economy faces rate hikes, inflation, recession or an AI boom, nearly every macro scenario ends with Bitcoin higher.\n\n “All roads still lead to Bitcoin.”",
+    "url": "https://x.com/Cointelegraph/status/2110522282367996169"
+  },
+  {
+    "id": "x-1792023143441-5dinw0",
+    "source": "x",
+    "ts": "2026-10-15T00:12:23.441Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 110,
+    "originTimestamp": "2026-10-14T22:21:28.000Z",
+    "reason": "Generic hype with no real content.",
+    "text": "Grok @bot now supports plus aliases! Send and receive email using dedicated aliases, or set up routines that only trigger for mail to a specific alias!",
+    "url": "https://x.com/elonmusk/status/2110521557886148903"
   }
 ]
