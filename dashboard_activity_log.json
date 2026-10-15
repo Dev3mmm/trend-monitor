@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791897737150-j78yp8",
-    "source": "x",
-    "ts": "2026-10-13T13:22:17.150Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-13T13:14:00.000Z",
-    "reason": "Notable crypto platform shutdowns and deprecation, potentially impacting ecosystem liquidity.",
-    "text": "Blur follows Blast in closing up shop.\n\n@blur_io has announced it will deprecate its frontend on November 12, just days after @blast (by the same founder!) announced shutdown plans.\n\nThe Blur marketplace, for now, will remain operational from a backend perspective.",
-    "url": "https://x.com/BSCNews/status/2109996072802423210",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109945017515003904/vid/avc1/1312x720/eC4tvP0v19UM7BSh.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109945017515003904/img/0u-_Gz-cH3xmjvzn.jpg"
-    }
-  },
-  {
     "id": "x-1791898367823-15uywi",
     "source": "x",
     "ts": "2026-10-13T13:32:47.823Z",
@@ -8032,5 +8011,26 @@
       "https://pbs.twimg.com/media/HUpzeZjbYAAwXTx.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792048938069-5n2uub",
+    "source": "x",
+    "ts": "2026-10-15T07:22:18.069Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-15T07:13:00.000Z",
+    "reason": "Canton Network surpassing $155 million in fees",
+    "text": "Canton Leads All Chains In Q3 Fees\n\nCanton Network (@CantonNetwork) canton-network:native recorded the highest fees among chains in CertiK's (@CertiK) Q3 2026 comparison, surpassing $155 million.\n\nIts daily median fee figure stood at $1.71 million, pointing to a strong baseline",
+    "url": "https://x.com/BSCNews/status/2110630000164823317",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110621817149030400/vid/avc1/1280x720/e8mylOe5v1bOfraR.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110621817149030400/img/Xx-zBLKBuYWT78P6.jpg"
+    }
   }
 ]
