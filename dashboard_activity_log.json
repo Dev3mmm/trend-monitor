@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791950665620-r5y2y8",
-    "source": "x",
-    "ts": "2026-10-14T04:04:25.620Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T04:00:28.000Z",
-    "reason": "Coinbase suggests preparing for quantum-resistant signatures in a staged, multi-year process.",
-    "text": "🚨 NEW: Coinbase says the network should start preparing for quantum computers now through a staged, multi-year migration to quantum-resistant signatures. \n\nIt also wants the upgrade to stay safe for everyday wallets, while leaving the question of lost and Satoshi-era coins for a",
-    "url": "https://x.com/Cointelegraph/status/2110219161146147298",
-    "images": [
-      "https://pbs.twimg.com/media/HUkBImBWsAA33W7.jpg",
-      "https://pbs.twimg.com/media/HUkBJD0WsAASXg8.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791950670691-n4gcc7",
-    "source": "x",
-    "ts": "2026-10-14T04:04:30.691Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-14T04:00:01.000Z",
-    "reason": "No notable move or specific event verified.",
-    "text": "Tom Lee: BitMine Completes the Largest Share Buyback in Crypto Industry History\n\nOn October 7, 2026, BitMine Chairman Tom Lee @fundstrat stated that the company repurchased a total of 21 million shares worth $350 million between July 14 and August 17. He described it as the",
-    "url": "https://x.com/WuBlockchain/status/2110219049087185054"
-  },
-  {
     "id": "x-1791951712406-dldc2g",
     "source": "x",
     "ts": "2026-10-14T04:21:52.406Z",
@@ -8040,5 +8008,44 @@
       "https://pbs.twimg.com/media/HUso80BWQAACirw.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792095736357-xxd0ld",
+    "source": "x",
+    "ts": "2026-10-15T20:22:16.357Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-15T20:21:33.000Z",
+    "reason": "Notable institutional investment in Bitcoin by a public company.",
+    "text": "NEW: 🇸🇬 Singapore public company BitFuFu disclosed adding 15 Bitcoin, raising their total holdings to 1,388 BTC worth $114.2 million 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110828447866192379",
+    "images": [
+      "https://pbs.twimg.com/media/HUsrSPWWUAAFAn6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792095738823-vtbc6q",
+    "source": "x",
+    "ts": "2026-10-15T20:22:18.823Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-15T20:12:00.000Z",
+    "reason": "New private payment stream functionality introduced on Aleo chain.",
+    "text": "Zebec takes stablecoin pay streams private on Aleo\n\n@Zebec_HQ now runs payment streams on Aleo (@AleoHQ), where wallet addresses and amounts can stay hidden instead of sitting in public view like on most chains.\n\nStreams run in USDCx, backed by Circle’s USDC, and USAD from Paxos",
+    "url": "https://x.com/BSCNews/status/2110826041568559392",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110810406402830336/vid/avc1/1220x720/Y2D5-C-ECLXkvaLS.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110810406402830336/img/pQOg8R4F5QRSONZJ.jpg"
+    }
   }
 ]
