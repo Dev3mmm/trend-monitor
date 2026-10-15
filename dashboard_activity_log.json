@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791950474943-t2qv0j",
-    "source": "x",
-    "ts": "2026-10-14T04:01:14.943Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-14T04:00:28.000Z",
-    "reason": "It mentions a significant future regulatory and technical development in cryptocurrency security.",
-    "text": "🚨 NEW: Coinbase says the network should start preparing for quantum computers now through a staged, multi-year migration to quantum-resistant signatures. \n\nIt also wants the upgrade to stay safe for everyday wallets, while leaving the question of lost and Satoshi-era coins for a",
-    "url": "https://x.com/Cointelegraph/status/2110219161146147298",
-    "images": [
-      "https://pbs.twimg.com/media/HUkBImBWsAA33W7.jpg",
-      "https://pbs.twimg.com/media/HUkBJD0WsAASXg8.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791950478512-05h9va",
-    "source": "x",
-    "ts": "2026-10-14T04:01:18.512Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T04:00:01.000Z",
-    "reason": "No notable move in the price or significant event is described.",
-    "text": "Tom Lee: BitMine Completes the Largest Share Buyback in Crypto Industry History\n\nOn October 7, 2026, BitMine Chairman Tom Lee @fundstrat stated that the company repurchased a total of 21 million shares worth $350 million between July 14 and August 17. He described it as the",
-    "url": "https://x.com/WuBlockchain/status/2110219049087185054"
-  },
-  {
     "id": "x-1791950655390-h0nobv",
     "source": "x",
     "ts": "2026-10-14T04:04:15.390Z",
@@ -8027,5 +7995,45 @@
     "url": "https://x.com/Cointelegraph/status/2110815562175488313",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792094012063-kio6kn",
+    "source": "x",
+    "ts": "2026-10-15T19:53:32.063Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T19:50:23.000Z",
+    "reason": "Morgan Stanley's insight suggests a significant future market potential.",
+    "text": "🔥 INSIGHT: Morgan Stanley says quantum computing could eventually become a $100 billion market.",
+    "url": "https://x.com/Cointelegraph/status/2110820601023672602",
+    "images": [
+      "https://pbs.twimg.com/media/HUskJMQWMAABmvx.jpg",
+      "https://pbs.twimg.com/media/HUskJlfWMAEa-yW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792094015549-hb5lfd",
+    "source": "x",
+    "ts": "2026-10-15T19:53:35.549Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-15T19:43:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Solana’s Helius CEO joins the council that runs NEAR Foundation\n\nHelius CEO @mert has joined the NEAR Foundation Council, which oversees the foundation’s biggest decisions. He stays on at @Helius, which builds Solana infrastructure used by Phantom, Jupiter, and Coinbase.\n\nAs an",
+    "url": "https://x.com/BSCNews/status/2110818743550898186",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110802883130060800/vid/avc1/1220x720/WP6CpLShvBSHCZ9i.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110802883130060800/img/r1GcLsSomKm_6xV0.jpg"
+    }
   }
 ]
