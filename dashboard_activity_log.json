@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791900738885-qcv2yz",
-    "source": "x",
-    "ts": "2026-10-13T14:12:18.885Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T14:10:00.000Z",
-    "reason": "Memes are not news.",
-    "text": "I will always be vindicated.\n\nTime.",
-    "url": "https://x.com/amerix/status/2110010168326906002"
-  },
-  {
-    "id": "x-1791900740773-pflewy",
-    "source": "x",
-    "ts": "2026-10-13T14:12:20.773Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-13T14:09:27.000Z",
-    "reason": "No notable crypto-related content or move mentioned.",
-    "text": "你愿意给你的儿子或者女儿看 X 嘛？\n\n如果你不愿意，就少发一些低级趣味的内容。\n\n希望有一天你能给下一代展示你在 X 上每天的内容而不用觉得羞愧。",
-    "url": "https://x.com/PhyrexNi/status/2110010029046927863"
-  },
-  {
     "id": "x-1791900742619-eueg89",
     "source": "x",
     "ts": "2026-10-13T14:12:22.619Z",
@@ -8038,5 +8012,37 @@
     "reason": "Generic query with no specific claim or actionable information.",
     "text": "Who will be Trump’s next crypto adviser?",
     "url": "https://x.com/Cointelegraph/status/2110659073418924348"
+  },
+  {
+    "id": "x-1792056160739-i6epr4",
+    "source": "x",
+    "ts": "2026-10-15T09:22:40.739Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-15T09:15:45.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "Sydney Sweeney Holding XRP? Charles Hoskinson Has a Theory\n\nRipple (@Ripple) CTO Emeritus David Schwartz (@JoelKatz) recently shared a selfie beside the actress Sydney Sweeney's (@sydney_sweeney) Novig billboard in Times Square. \n\nCardano (@Cardano) $ADA founder Charles Hoskinson",
+    "url": "https://x.com/BSCNews/status/2110660893289721928"
+  },
+  {
+    "id": "x-1792056165006-00hlb6",
+    "source": "x",
+    "ts": "2026-10-15T09:22:45.007Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-15T09:14:10.000Z",
+    "reason": "Notable regulatory move affecting crypto exchanges.",
+    "text": "BREAKING: 🇦🇺 Australia considers banning crypto exchanges from trading against their own users starting April 2027.",
+    "url": "https://x.com/coinbureau/status/2110660493639815303",
+    "images": [
+      "https://pbs.twimg.com/media/HUqRT39bQAApi0k.jpg",
+      "https://pbs.twimg.com/media/HUqSeLkbEAAsadb.jpg"
+    ],
+    "video": null
   }
 ]
