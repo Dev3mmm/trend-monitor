@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1791958338932-mbe86s",
-    "source": "x",
-    "ts": "2026-10-14T06:12:18.932Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-14T06:05:41.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Dust delayed is not dust denied.",
-    "url": "https://x.com/amerix/status/2110250674235605138"
-  },
-  {
-    "id": "x-1791958342475-kpu7y9",
-    "source": "x",
-    "ts": "2026-10-14T06:12:22.475Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-14T06:03:09.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Binance will Delist EPIC, QUICK on 2026-10-28\n\n👉",
-    "url": "https://x.com/binance/status/2110250033874690086"
-  },
-  {
-    "id": "x-1791958952438-p0ra1x",
-    "source": "x",
-    "ts": "2026-10-14T06:22:32.438Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T06:19:06.000Z",
-    "reason": "No notable move or concrete, specific news.",
-    "text": "🚨BREAKING: Apple now trades 11× sales, the highest valuation level in company history while hitting a $5 TRILLION market cap.\n\n$AAPL joins Nvidia as one of the world’s two most valuable companiess, trading 3× its long-term average, despite earnings growing at just 8.5% annually",
-    "url": "https://x.com/coinbureau/status/2110254050239496447"
-  },
-  {
     "id": "x-1791959538982-s3m37o",
     "source": "x",
     "ts": "2026-10-14T06:32:18.982Z",
@@ -8028,5 +7989,50 @@
       "https://pbs.twimg.com/media/HUs7DOMXIAAFVVv.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792100495789-p2qug6",
+    "source": "x",
+    "ts": "2026-10-15T21:41:35.789Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-15T21:40:39.000Z",
+    "reason": "MSCI exclusion of Bitcoin from its indexes could affect its popularity and adoption.",
+    "text": "MSCI Adopts New Index Exclusion Rules; Strategy and Metaplanet Face Potential Removal\n\nMSCI has adopted new rules to exclude non-operating companies from its Global Investable Market Indexes. In an earlier simulation based on May 2026 data, MSCI identified Bitcoin treasury",
+    "url": "https://x.com/WuBlockchain/status/2110848350828589411",
+    "images": [
+      "https://pbs.twimg.com/media/HUs9YDjakAAl3rs.jpg",
+      "https://pbs.twimg.com/media/HUs9YDmaIAEVrp_.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792100500297-om7khf",
+    "source": "x",
+    "ts": "2026-10-15T21:41:40.297Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-15T21:30:30.000Z",
+    "reason": "No specific price or notable move is mentioned.",
+    "text": "JUST IN: Market Analyst Lark Davis says Bitcoin's record ETF flows and institutional interest creates \"a new long term floor\" 👀\n\n\"This exact thing has happened before with the Gold ETF in 2004...Bitcoin is going through a similar phase right now...\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110845797894152280"
+  },
+  {
+    "id": "x-1792100504265-skt205",
+    "source": "x",
+    "ts": "2026-10-15T21:41:44.265Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-15T21:30:26.000Z",
+    "reason": "No notable move, price is well within its recent range.",
+    "text": "🚨 INSIGHT: Peter Schiff warns mortgage lenders face roughly $2 trillion in paper losses, potentially rising to $3 trillion if mortgage rates reach 8.5%.",
+    "url": "https://x.com/Cointelegraph/status/2110845780122611894"
   }
 ]
