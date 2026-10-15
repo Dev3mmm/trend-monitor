@@ -3234,5 +3234,19 @@
     "fetchedAt": "2026-10-15T04:23:06.737Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-ae7c1ed2518b7c42",
+    "title": "Geo-Aware Leader Schedule",
+    "url": "https://solana.com/news/geo-aware-leader-schedule",
+    "description": "This study evaluates SIMD-0675, a geo-aware leader schedule for Solana. It reorders the stake-weighted random schedule so that consecutive leaders are geographically close, which cuts handoff latency. No validator’s number of leader windows changes. Two parameters are tuned: STAKE_FLOOR (σ), the stake fraction that sets each location’s compatibility radius, and RUN_LENGTH (γ), the size of the cont",
+    "publishedAt": "2026-10-14T15:05:00.000Z",
+    "source": "Solana",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-15T06:22:56.782Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
