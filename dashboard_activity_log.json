@@ -1,66 +1,5 @@
 [
   {
-    "id": "x-1791884563017-l84wia",
-    "source": "x",
-    "ts": "2026-10-13T09:42:43.017Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-13T09:38:27.000Z",
-    "reason": "An unexpected large-scale transfer from a dormant Bitcoin wallet.",
-    "text": "Another Bitcoin Whale Moves Hundreds of Millions\n\nA dormant Bitcoin wallet transferred 4,582 bitcoin:native worth $377.6 million after more than six years of inactivity.\n\nLookonchain cited Arkham data for the transaction on Monday.\n\nThe wallet received the Bitcoin in March 2020,",
-    "url": "https://x.com/BSCNews/status/2109941829567430975",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109941746981609472/vid/avc1/1280x720/FuTSAQufsWzE2fCL.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109941746981609472/img/7eXWyAYs_ASdGEkt.jpg"
-    }
-  },
-  {
-    "id": "x-1791884567792-6t1a5p",
-    "source": "x",
-    "ts": "2026-10-13T09:42:47.792Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-13T09:34:00.000Z",
-    "reason": "Notable regulatory stance from a central bank regarding cryptocurrencies.",
-    "text": "🇬🇧 JUST IN: Bank of England’s Sarah Breeden sees no rush for a digital pound, citing stablecoins and tokenized deposits as alternatives, per Bloomberg.",
-    "url": "https://x.com/Cointelegraph/status/2109940708568092905",
-    "images": [
-      "https://pbs.twimg.com/media/HUgD44sWYAEu6zc.png",
-      "https://pbs.twimg.com/media/HUgD5IlWMAAoLEq.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791885728708-jbqx7o",
-    "source": "x",
-    "ts": "2026-10-13T10:02:08.708Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Rarma",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-13T10:01:27.000Z",
-    "reason": "Exploit details provide new insights into related security vulnerabilities.",
-    "text": "Is the Stratos exploit the same bug that drained KiiChain, MANTRA and TAC earlier this year?\n\nSame family. Different root cause. The distinction matters, so here it is.\n\nAll of these are Cosmos EVM \"precompile boundary\" bugs — the layer that lets EVM contracts call into Cosmos",
-    "url": "https://x.com/Rarma_/status/2109947617799229867",
-    "images": [
-      "https://pbs.twimg.com/media/HUgKFCLaMAEI8XO.jpg",
-      "https://pbs.twimg.com/media/HUgKFCIbwAAhVIt.jpg",
-      "https://pbs.twimg.com/media/HUgKFCWbwAAuKZY.jpg",
-      "https://pbs.twimg.com/media/HUgKFCcaQAAwoTP.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791885731151-jarpmz",
     "source": "x",
     "ts": "2026-10-13T10:02:11.151Z",
@@ -8087,5 +8026,50 @@
       "https://pbs.twimg.com/media/HUo6zClasAAAwR9.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792033416767-y7aswh",
+    "source": "x",
+    "ts": "2026-10-15T03:03:36.767Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T03:00:25.000Z",
+    "reason": "VanEck's withdrawal of a proposed ETF could impact investor sentiment and regulatory scrutiny.",
+    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 VanEck has filed to withdraw its Lido Staked Ethereum ETF registration with the SEC, saying it no longer plans to move forward with the fund.\n\n🔹 Polygon has closed its Coinme acquisition, turning its Open Money",
+    "url": "https://x.com/Cointelegraph/status/2110566434866593867",
+    "images": [
+      "https://pbs.twimg.com/media/HUo8-g5XIAAEts_.jpg",
+      "https://pbs.twimg.com/media/HUo8-9PW4AAIDV6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792033422607-r3hpqm",
+    "source": "x",
+    "ts": "2026-10-15T03:03:42.607Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T03:00:04.000Z",
+    "reason": "No notable move in U Flexible Products APR, price is within its recent range.",
+    "text": "The sequel nobody expected 🍿\n\nU Flexible Products Bonus APR is back @UTechStables:\n• Regular: 5% Bonus APR (8K U tier)\n• VIP 1-3: 5% Bonus APR (300K U tier)\n• VIP 4-9: 6% Bonus APR (500K U tier)\n\n👉",
+    "url": "https://x.com/binance/status/2110566347528671301"
+  },
+  {
+    "id": "x-1792033426356-21i9am",
+    "source": "x",
+    "ts": "2026-10-15T03:03:46.356Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 66,
+    "originTimestamp": "2026-10-15T01:57:00.000Z",
+    "reason": "Vague prediction with no factual claim",
+    "text": "China will be making a LOT of RAM in 2028",
+    "url": "https://x.com/elonmusk/status/2110566143983223006"
   }
 ]
