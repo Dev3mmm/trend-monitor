@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791913366774-688ke3",
-    "source": "x",
-    "ts": "2026-10-13T17:42:46.774Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 27,
-    "originTimestamp": "2026-10-13T17:15:22.000Z",
-    "reason": "Price appreciation without context is speculative and not a breaking news event.",
-    "text": "$STRC closed at $88.86 when I tweeted this. It has since appreciated 12.4% in 2.5 months. Our corporate objective remains unchanged. Our focus is par: $100.",
-    "url": "https://x.com/saylor/status/2110062272035094603",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791913370787-rl1y2m",
-    "source": "x",
-    "ts": "2026-10-13T17:42:50.787Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-13T17:36:28.000Z",
-    "reason": "Specific, verifiable research proposal on a significant blockchain technology advancement.",
-    "text": "BREAKING: Researchers at Imperial College London propose framework for post-quantum private transfers on Bitcoin without a need for a soft fork 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2110062127633297582",
-    "images": [
-      "https://pbs.twimg.com/media/HUhv1LmW8AA8N-D.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791913951522-ovpir6",
     "source": "x",
     "ts": "2026-10-13T17:52:31.522Z",
@@ -8029,5 +7995,37 @@
     "url": "https://x.com/DecryptMedia/status/2110713235561177256",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792069341734-n4x6zr",
+    "source": "x",
+    "ts": "2026-10-15T13:02:21.734Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T13:01:06.000Z",
+    "reason": "Specific, verifiable partnership involving major financial institutions.",
+    "text": "🔥 LATEST: Mastercard and BVNK launch Global Money Platform, combining fiat and stablecoin accounts, cards and payouts.",
+    "url": "https://x.com/Cointelegraph/status/2110717604016873487",
+    "images": [
+      "https://pbs.twimg.com/media/HUrGeGFWkAAzyvT.jpg",
+      "https://pbs.twimg.com/media/HUrGeTbWgAA6pOT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792069344971-x5mbqx",
+    "source": "x",
+    "ts": "2026-10-15T13:02:24.971Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 98,
+    "originTimestamp": "2026-10-15T11:24:00.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Maybe we should start a competitor to Amazon 🤔",
+    "url": "https://x.com/elonmusk/status/2110715556328579219"
   }
 ]
