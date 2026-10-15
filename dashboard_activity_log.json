@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791915139380-jexaki",
-    "source": "x",
-    "ts": "2026-10-13T18:12:19.380Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T18:10:11.000Z",
-    "reason": "New institutional wallet access to XRP Ledger through Stripe.",
-    "text": "Stripe-owned Privy is bringing its wallets to the XRP Ledger\n\n@privy_io teamed up with @Ripple so apps can give users XRPL wallets that hold and send $XRP, $RLUSD, and other assets. Users stay in full control and can take their wallet with them to other apps.\n\nPrivy also targets",
-    "url": "https://x.com/BSCNews/status/2110070612857430516",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110069530802221056/vid/avc1/1220x720/IehZcPsKoQd56gG7.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110069530802221056/img/aGaaRS5vpheVxBHA.jpg"
-    }
-  },
-  {
-    "id": "x-1791915141773-tjx7b8",
-    "source": "x",
-    "ts": "2026-10-13T18:12:21.773Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-13T18:04:57.000Z",
-    "reason": "No notable move or news.",
-    "text": "Sometimes people who endlessly provoke you deserve a punch in the face.\n\nUnless you prove to them that you are dangerous, they won't stop stepping on you.",
-    "url": "https://x.com/amerix/status/2110069295317160340"
-  },
-  {
     "id": "x-1791915144343-501svp",
     "source": "x",
     "ts": "2026-10-13T18:12:24.343Z",
@@ -8025,5 +7991,36 @@
       "https://pbs.twimg.com/media/HUrJGPBbEAAvGok.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792071193164-tfpww2",
+    "source": "x",
+    "ts": "2026-10-15T13:33:13.164Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-15T13:30:24.000Z",
+    "reason": "Notable exploit involving cryptocurrency hardware wallets.",
+    "text": "🚨 UPDATE: Ledger says criminals implanted seed-stealing hardware into genuine devices before reselling them.",
+    "url": "https://x.com/Cointelegraph/status/2110724975208419504",
+    "images": [
+      "https://pbs.twimg.com/media/HUrNLR5WAAAJjBw.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792071197759-e8qure",
+    "source": "x",
+    "ts": "2026-10-15T13:33:17.760Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-15T13:26:09.000Z",
+    "reason": "Quote is a poem and not a factual claim.",
+    "text": "A man needs resources to become a member of his own family. His own family. The one he built from scratch. \n\nOtherwise, without resources, he becomes a pariah, a vagabond, homeless, and a stranger in the eyes of his own family.",
+    "url": "https://x.com/amerix/status/2110723905837003239"
   }
 ]
