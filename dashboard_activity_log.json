@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791877330168-4x9s5o",
-    "source": "x",
-    "ts": "2026-10-13T07:42:10.168Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T07:39:33.000Z",
-    "reason": "Bitcoin reclaims significant price after a bounce",
-    "text": "JUST IN: Bitcoin reclaims $84K after its sharp bounce from $81K, wiping out over $69M in shorts.",
-    "url": "https://x.com/coinbureau/status/2109911906165109037",
-    "images": [
-      "https://pbs.twimg.com/media/HUfpp3RaQAAy7tQ.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791877939397-95pii7",
-    "source": "x",
-    "ts": "2026-10-13T07:52:19.397Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-13T07:44:41.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Bybit Users Can Now Buy Nvidia and Tesla\n\nBybit (@Bybit_Official) is bringing more than 1,000 US-listed stocks and ETFs into its platform.\n\nThe expanded stock service includes major names such as Nvidia, Tesla, Apple, and Micron.\n\nEligible customers will have access to both",
-    "url": "https://x.com/BSCNews/status/2109913198774366674"
-  },
-  {
     "id": "x-1791878461287-7ltspu",
     "source": "x",
     "ts": "2026-10-13T08:01:01.287Z",
@@ -8102,5 +8071,37 @@
     "reason": "Generic hype with no real content.",
     "text": "Grok @bot now supports plus aliases! Send and receive email using dedicated aliases, or set up routines that only trigger for mail to a specific alias!",
     "url": "https://x.com/elonmusk/status/2110521557886148903"
+  },
+  {
+    "id": "x-1792024320937-40sdca",
+    "source": "x",
+    "ts": "2026-10-15T00:32:00.937Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T00:30:25.000Z",
+    "reason": "Notable acquisition with regulatory and user integration implications.",
+    "text": "🔥 BIG: Polygon has closed its Coinme acquisition, turning its Open Money Stack into a US-regulated payments platform, with Tazapay, Mesh, Toku and Kira among its first users.",
+    "url": "https://x.com/Cointelegraph/status/2110528685971288296",
+    "images": [
+      "https://pbs.twimg.com/media/HUoapNcWMAAPvMZ.jpg",
+      "https://pbs.twimg.com/media/HUoapvlW0AA_wLn.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792024325666-l8hut7",
+    "source": "x",
+    "ts": "2026-10-15T00:32:05.666Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-15T00:27:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Internet Computer outpaces all networks by transaction count.\n\n@dfinity's Internet Computer has now processed a frankly insane 306 BILLION transactions as of the latest data.\n\nAs far as we know, there is no blockchain that comes even close to this figure, with even hyper-scalable",
+    "url": "https://x.com/BSCNews/status/2110527826730324041"
   }
 ]
