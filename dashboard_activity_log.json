@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791878647073-ohryvq",
-    "source": "x",
-    "ts": "2026-10-13T08:04:07.073Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-13T08:01:00.000Z",
-    "reason": "Potential crypto market fallout from South Korea's stock market sell-off.",
-    "text": "🚨 NEW: Tom Lee says South Korea’s stock market sell-off is likely spilling into crypto, citing margin liquidations and Koreans’ large crypto holdings, calling it short-term pain.",
-    "url": "https://x.com/Cointelegraph/status/2109917304913834464",
-    "images": [
-      "https://pbs.twimg.com/media/HUfumlRW0AA3Ryf.jpg",
-      "https://pbs.twimg.com/media/HUfum1EXoAAio0T.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791878652029-k1z3m5",
-    "source": "x",
-    "ts": "2026-10-13T08:04:12.029Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-13T07:56:06.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "112% annual yield in the Monad ecosystem...?!\n\n@ElanInsights' Income Dashboard is all you need to find hot passive income opportunities on any chain.\n\nTry now:  \n\nWe applied it to the @monad $MON L1 and found that...\n\n@Uniswap v3 is offering a frankly",
-    "url": "https://x.com/BSCNews/status/2109916069666115902"
-  },
-  {
     "id": "x-1791618733905-csxlqt",
     "source": "x",
     "ts": "2026-10-10T07:52:13.905Z",
@@ -8103,5 +8071,39 @@
     "reason": "No notable crypto-related content or data point presented.",
     "text": "🤖WILD: China is now testing humanoid TRAFFIC ROBOTS at busy intersections in the pouring rain.\n\nThis video shows DEEP Robotics' DR02 directing cars and spotting helmetless e-bike riders in Hangzhou.",
     "url": "https://x.com/coinbureau/status/2110530091574841385"
+  },
+  {
+    "id": "x-1792026117021-qfgfyk",
+    "source": "x",
+    "ts": "2026-10-15T01:01:57.022Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T01:00:27.000Z",
+    "reason": "No notable financial or crypto news event.",
+    "text": "🚨 JUST IN: Anthropic reportedly told investors its Q3 revenue climbed 50% to $16.8B and that it turned a profit ahead of its expected November IPO, per FT.",
+    "url": "https://x.com/Cointelegraph/status/2110536246313234575"
+  },
+  {
+    "id": "x-1792026119884-11o8mu",
+    "source": "x",
+    "ts": "2026-10-15T01:01:59.884Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T00:59:00.000Z",
+    "reason": "No notable news, the volume is within the recent range.",
+    "text": "Ondo Perps hits $16.3 BILLION in just four months.\n\nLaunched in early June, @Ondo's @OndoPerps platform has already processed some $16.3 billion worth of perps trading volume.\n\nIts single busiest day fell on July 29, when the platform processed some $333M in perps volume.\n\nOndo",
+    "url": "https://x.com/BSCNews/status/2110535879647547725",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110277118416334849/vid/avc1/1312x720/kd_nPbXdKQFRXYFe.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110277118416334849/img/9O0LpyEAvspXHvVj.jpg"
+    }
   }
 ]
