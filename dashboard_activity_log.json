@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791925416708-ssqp9i",
-    "source": "x",
-    "ts": "2026-10-13T21:03:36.708Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T21:01:00.000Z",
-    "reason": "No notable move, tweet about a camera roll is vague and lacks specific content.",
-    "text": "POV: You found our #BinanceCampus Asia Day 1 camera roll.",
-    "url": "https://x.com/binance/status/2110113600194965616"
-  },
-  {
-    "id": "x-1791926028204-kx7k8g",
-    "source": "x",
-    "ts": "2026-10-13T21:13:48.204Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T21:11:00.000Z",
-    "reason": "Specific institutional move in tokenized securities.",
-    "text": "Korea’s tokenized securities plans make room for Avalanche\n\nThe Korea Securities Depository, which keeps official ownership records for Korean stocks and bonds, is building a token platform to connect with @avax, Hyperledger Besu, and Hyperledger Fabric. A KSD official said that",
-    "url": "https://x.com/BSCNews/status/2110116113778651455",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110096593017790464/vid/avc1/1220x720/_BgMo6cCxgbUZ_i2.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110096593017790464/img/rGrkZ0ZxbWCaksF9.jpg"
-    }
-  },
-  {
     "id": "x-1791926031862-g7c1y1",
     "source": "x",
     "ts": "2026-10-13T21:13:51.862Z",
@@ -8019,6 +7985,46 @@
     "images": [
       "https://pbs.twimg.com/media/HUrx0hfXgAAnqcY.jpg",
       "https://pbs.twimg.com/media/HUrx0teWIAA4qkK.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792081337531-hr5by4",
+    "source": "x",
+    "ts": "2026-10-15T16:22:17.531Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T16:21:01.000Z",
+    "reason": "Notable institutional partnership with identity verification.",
+    "text": "Who’s behind that AI agent? XDC Network now has an answer\n\n@XDCNetwork picked Concordium as the exclusive identity check for its agent payments marketplace. It dropped the XDC AI name on Wednesday and now runs as @XDC_SI. Owners have to pass a passport and live face check. Their",
+    "url": "https://x.com/BSCNews/status/2110767915284734090",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110767024754302977/vid/avc1/1220x720/x1G7MyZPmpyKTUMu.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110767024754302977/img/TDinliwAXO2RH77G.jpg"
+    }
+  },
+  {
+    "id": "x-1792081343019-5cipuq",
+    "source": "x",
+    "ts": "2026-10-15T16:22:23.019Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-15T16:15:00.000Z",
+    "reason": "Notable move involving a major investor against U.S. tech stocks and into Chinese assets.",
+    "text": "🚨HUGE: Michael “Big Short” Burry is betting AGAINST U.S. tech stocks and buying into China.\n\nThe famous investor is shorting the Nasdaq while calling Hong Kong “very undervalued” on his Substack.\n\nBurry added to BYD, the Chinese electric-vehicle maker,\nwhile he continues",
+    "url": "https://x.com/coinbureau/status/2110766398742151232",
+    "images": [
+      "https://pbs.twimg.com/media/HUqzjIabcAAkK-p.png",
+      "https://pbs.twimg.com/media/HUqzpAGbYAEh03Z.png"
     ],
     "video": null
   }
