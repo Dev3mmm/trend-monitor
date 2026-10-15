@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791887605044-y37wnw",
-    "source": "x",
-    "ts": "2026-10-13T10:33:25.044Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T10:30:46.000Z",
-    "reason": "Specific tournament with real-world prize and event timeline.",
-    "text": "🏆 GMGN Global Championship starts Oct 16\n\n📈 10 days of live on-chain trading\n📍 Top 6 go to the Grand Final in London during Solana Breakpoint\n🏎️ Champion wins a custom Aston Martin\n🆓 Free entry\n\n👉",
-    "url": "https://x.com/BSCNews/status/2109954996426953147",
-    "images": [
-      "https://pbs.twimg.com/media/HUgQ4sEXcAAKZwZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791887609268-f7nadh",
-    "source": "x",
-    "ts": "2026-10-13T10:33:29.268Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T10:30:35.000Z",
-    "reason": "Notable action by a major retailer affecting cryptocurrency security tools.",
-    "text": "🚨 JUST IN: MediaMarktSaturn removes all Ledger products from stores and online platforms amid reports of tampered hardware wallets.",
-    "url": "https://x.com/Cointelegraph/status/2109954948658073695",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791887613929-57fpbr",
     "source": "x",
     "ts": "2026-10-13T10:33:33.929Z",
@@ -8078,5 +8044,31 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110577412081942528/img/z9hObI0laApdlyvD.jpg"
     }
+  },
+  {
+    "id": "x-1792036932048-fyvrx6",
+    "source": "x",
+    "ts": "2026-10-15T04:02:12.048Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T04:00:28.000Z",
+    "reason": "Generic hype with no factual claim.",
+    "text": "⚡️ ELON MUSK: “Unless there is a major world war, SpaceX probably gets to &gt;$100T in &lt;10 years.”",
+    "url": "https://x.com/Cointelegraph/status/2110581547791270267"
+  },
+  {
+    "id": "x-1792036937362-12mfe8",
+    "source": "x",
+    "ts": "2026-10-15T04:02:17.362Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-15T04:00:01.000Z",
+    "reason": "No notable move, tweet is vague and lacks specific information.",
+    "text": "Arthur Hayes: Focusing on Established DeFi with Cash Flows in the Next Cycle\n\nOn October 13, 2026, Maelstrom co-founder Arthur Hayes @CryptoHayes said in an interview with The Rollup @therollupco that market confidence should be grounded in cash flows. He favors projects with",
+    "url": "https://x.com/WuBlockchain/status/2110581434964750805"
   }
 ]
