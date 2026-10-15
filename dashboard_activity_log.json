@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1791928306851-bgwewa",
-    "source": "x",
-    "ts": "2026-10-13T21:51:46.851Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-13T21:47:00.000Z",
-    "reason": "Notable institutional use of tokenized assets in a major financial transaction.",
-    "text": "🇺🇸 JUST IN: Citadel Securities and $62.6T BNY officially complete a tokenized US Treasury repo.\n\nCitadel used the tokenized note as collateral overnight, with BNY providing cash in return.\n\nBNY says it's the first use of tokenized assets on a major triparty repo platform.\n\nThe",
-    "url": "https://x.com/coinbureau/status/2110125173525430368",
-    "images": [
-      "https://pbs.twimg.com/media/HUiqCH7aQAA7eqW.png",
-      "https://pbs.twimg.com/media/HUiqCH6aEAAtrAU.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791928936622-5mskp7",
-    "source": "x",
-    "ts": "2026-10-13T22:02:16.622Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T22:00:35.000Z",
-    "reason": "Highlights significant change in tokenized stock trading patterns.",
-    "text": "🇺🇸 UPDATE: Most tokenized stock trading on BNB Chain, Solana and Base now happens outside regular US market hours, highlighting demand for 24/7 onchain equity trading.",
-    "url": "https://x.com/Cointelegraph/status/2110128592877130012",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791928938822-cy9cql",
-    "source": "x",
-    "ts": "2026-10-13T22:02:18.822Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-13T21:52:33.000Z",
-    "reason": "No actionable information or data provided.",
-    "text": "Starship 40’s return to base",
-    "url": "https://x.com/elonmusk/status/2110127406258286757"
-  },
-  {
     "id": "x-1791928942239-cjami8",
     "source": "x",
     "ts": "2026-10-13T22:02:22.239Z",
@@ -8064,5 +8016,57 @@
       "https://pbs.twimg.com/media/HUrQDuKa0AAB1FD.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792084362431-dnvr8k",
+    "source": "x",
+    "ts": "2026-10-15T17:12:42.431Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-15T17:10:22.000Z",
+    "reason": "Notable regulatory move affecting cryptocurrency taxation.",
+    "text": "🇦🇺 JUST IN: Australia has introduced draft legislation to adopt the OECD’s crypto tax reporting framework, enabling countries to exchange crypto transaction information.",
+    "url": "https://x.com/Cointelegraph/status/2110780333985607966",
+    "images": [
+      "https://pbs.twimg.com/media/HUr_hokWgAAZNLB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792084366447-glp5uw",
+    "source": "x",
+    "ts": "2026-10-15T17:12:46.447Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-15T17:07:28.000Z",
+    "reason": "Noise",
+    "text": "If you visit some places like the Rift Valley, Western Kenya, and Mount Kenya,\n\nthe biggest threat to people's survival in those places, especially in the Mount Kenya region, is ALCOHOL.\n\nALCOHOLISM.\n\nThis deserves immediate attention and undivided effort.\n\nFamilies are thinning",
+    "url": "https://x.com/amerix/status/2110779605367796162"
+  },
+  {
+    "id": "x-1792084371442-rn39pu",
+    "source": "x",
+    "ts": "2026-10-15T17:12:51.442Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-15T17:03:24.000Z",
+    "reason": "Price move far outside recent Bitcoin price range suggests a significant breakout.",
+    "text": "JUST IN: $5.1 billion AUM Fundstrat Capital's Head of Digital Strategy says \"$95,000—$100,000 is in the picture for Bitcoin before year end\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110778579596587400",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110777332675805184/vid/avc1/1280x720/CmeXWh-9s84-gyEk.mp4?tag=29",
+      "duration": 39,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HUr-ZgqWAAEjGq0.jpg"
+    }
   }
 ]
