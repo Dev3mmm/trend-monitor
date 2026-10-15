@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1791923553719-9ltp0b",
-    "source": "x",
-    "ts": "2026-10-13T20:32:33.719Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-13T20:26:11.000Z",
-    "reason": "No notable move in Bitcoin's price or significant event mentioned.",
-    "text": "JUST IN: Bitcoin journalist Natalie Brunell calls Bitcoin “the greatest equalizer” 👀\n\n\"I really believe in the future of Bitcoin as this equalizer in an egalitarian system that allows us to work hard, have our work be rewarded, have value be recognized\"",
-    "url": "https://x.com/BitcoinMagazine/status/2110104837346226511"
-  },
-  {
-    "id": "x-1791923558513-my5hfn",
-    "source": "x",
-    "ts": "2026-10-13T20:32:38.513Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-13T20:22:04.000Z",
-    "reason": "Bank regulatory penalty for money laundering",
-    "text": "🇺🇸 BREAKING: Bank of America has been fined $1.2 BILLION by the US government.\n\nThe bank failed to flag over $5 BILLION in suspicious transactions, the Treasury says.\n\nThe missed transactions were linked to suspected Chinese money laundering networks and illicit finance around",
-    "url": "https://x.com/coinbureau/status/2110103800925327448",
-    "images": [
-      "https://pbs.twimg.com/media/HUiYN6UbYAArttw.png",
-      "https://pbs.twimg.com/media/HUiYN6WbEAAcRcx.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791924680540-lasj90",
-    "source": "x",
-    "ts": "2026-10-13T20:51:20.540Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-13T20:50:36.000Z",
-    "reason": "JPMorgan's action highlights potential risks in AI integration within financial services.",
-    "text": "🚨 UPDATE: JPMorgan blocks outside AI agents from accessing customer accounts, citing risks to clients and the bank.",
-    "url": "https://x.com/Cointelegraph/status/2110110980357189745",
-    "images": [
-      "https://pbs.twimg.com/media/HUiewAuWQAEbH7u.jpg",
-      "https://pbs.twimg.com/media/HUiewMrWAAAcnmS.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791924685143-mi76re",
     "source": "x",
     "ts": "2026-10-13T20:51:25.143Z",
@@ -8022,5 +7971,47 @@
       "https://pbs.twimg.com/media/HUrq57gWEAA8tDR.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792079540950-ukaxc3",
+    "source": "x",
+    "ts": "2026-10-15T15:52:20.950Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-15T15:50:21.000Z",
+    "reason": "No notable move, price is well inside the recent trading range.",
+    "text": "🚨 LATEST: Machi Big Brother has been fully liquidated, leaving him with $21.8K after turning $56K into $12.25M through trading over the past four months.",
+    "url": "https://x.com/Cointelegraph/status/2110760195739553904"
+  },
+  {
+    "id": "x-1792079543460-ez0mpm",
+    "source": "x",
+    "ts": "2026-10-15T15:52:23.460Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-15T15:46:00.000Z",
+    "reason": "Pi Network exploring stablecoin implementation on the $PI Network.",
+    "text": "Is Pi Network going all-in on the stablecoin craze...?\n\n@PiCoreTeam has admitted it is openly exploring stablecoin implementation on the $PI Network. Here's what we know ⬇️",
+    "url": "https://x.com/BSCNews/status/2110759100950683893",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792079545412-xg2tic",
+    "source": "x",
+    "ts": "2026-10-15T15:52:25.412Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-15T15:45:54.000Z",
+    "reason": "No notable move or newsworthy event mentioned.",
+    "text": "🎥 INSIGHT: From tokenized real estate to AI-driven investing, where is onchain finance heading?\n\n@OneAsset_io founder and CEO Sonia Shaw (@The_SoniaShaw) joins Cointelegraph at CONNECT Singapore to share her vision.",
+    "url": "https://x.com/Cointelegraph/status/2110759075080221052"
   }
 ]
