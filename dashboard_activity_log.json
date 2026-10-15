@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791925412787-dtkckk",
-    "source": "x",
-    "ts": "2026-10-13T21:03:32.787Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-13T20:59:48.000Z",
-    "reason": "No notable move or specific event is clearly stated.",
-    "text": "The top 6 crypto and tech headlines from today.\n\n1. The S&amp;P executes its first ever \"onchain derivatives swap\".\n\n2. Michael Saylor says Bitcoin is at the \"beginning of a bull market.\"\n\n3. Nvidia CEO says Europe needs to get in the AI race as Nvidia plans another $2B in European",
-    "url": "https://x.com/coinbase/status/2110113672219726249"
-  },
-  {
     "id": "x-1791925416708-ssqp9i",
     "source": "x",
     "ts": "2026-10-13T21:03:36.708Z",
@@ -8015,5 +8002,24 @@
     "reason": "Incomprehensible text, not related to crypto or markets.",
     "text": "Alikuwa ametuliza poli,\n\nBado anaponga.",
     "url": "https://x.com/amerix/status/2110761965601554883"
+  },
+  {
+    "id": "x-1792080723599-y8y640",
+    "source": "x",
+    "ts": "2026-10-15T16:12:03.599Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T16:10:30.000Z",
+    "reason": "Notable partnership between Ripple and a bank to integrate stablecoin into core banking platform.",
+    "text": "🚨 NEW: Ripple is partnering with Cross River Bank to integrate RLUSD on the XRP Ledger into its core banking platform, enabling 24/7 settlement within payment networks.",
+    "url": "https://x.com/Cointelegraph/status/2110765266300797352",
+    "images": [
+      "https://pbs.twimg.com/media/HUrx0hfXgAAnqcY.jpg",
+      "https://pbs.twimg.com/media/HUrx0teWIAA4qkK.jpg"
+    ],
+    "video": null
   }
 ]
