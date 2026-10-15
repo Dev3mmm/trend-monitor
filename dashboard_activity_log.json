@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791967375978-frr3kv",
-    "source": "x",
-    "ts": "2026-10-14T08:42:55.978Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T08:41:46.000Z",
-    "reason": "No notable crypto-specific news related to oil markets.",
-    "text": "JUST IN: The IEA says shortage in global diesel to continue until next year.\n\nWhy?\n\n- DEMAND DOWN 2.6M BPD as war disruption and soaring prices force buyers to cut back\n\n- SUPPLY DOWN 5.8M BPD because oil flows are being hit even harder\n\n- SUPPLY 1.73M BPD BELOW DEMAND means the",
-    "url": "https://x.com/coinbureau/status/2110289951367799176"
-  },
-  {
     "id": "x-1791967379166-cgyjp1",
     "source": "x",
     "ts": "2026-10-14T08:42:59.166Z",
@@ -8036,5 +8023,26 @@
     "reason": "No notable move in ETH price, price is within its recent range.",
     "text": "🔥 BIG: Google says it has cracked one of quantum computing’s toughest bottlenecks, using “magic state cultivation” on its Willow chip to cut errors by roughly 40x.",
     "url": "https://x.com/Cointelegraph/status/2110875945737367744"
+  },
+  {
+    "id": "x-1792108350529-qemmpo",
+    "source": "x",
+    "ts": "2026-10-15T23:52:30.529Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T23:51:00.000Z",
+    "reason": "Notable institutional testing of proposed native lending features on the XRP Ledger.",
+    "text": "XRP Ledger Lending Heads To Hackathon Testing\n\nXRPL Commons (@xrpl_commons) says hackathon teams will test proposed native lending features using XLS-65 and XLS-66.\n\nThe amendments would introduce pooled asset vaults and fixed term loans on @Ripple's $XRP Ledger.\n\nBoth proposals",
+    "url": "https://x.com/BSCNews/status/2110881154727579718",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110708793596145664/vid/avc1/1280x720/KBLvyvRRQIpOLkbT.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110708793596145664/img/CMjI5dDYV9B-Gtl2.jpg"
+    }
   }
 ]
