@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1791933743890-z0vxtq",
-    "source": "x",
-    "ts": "2026-10-13T23:22:23.890Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-13T23:17:00.000Z",
-    "reason": "Prediction without supporting data or historical basis.",
-    "text": "🔥BULLISH: Michael Saylor predicts Bitcoin will move back above $100,000.\n\nThe Strategy founder forecasts Bitcoin growing “20 to 30% a year” long term.\n\nHe says the bottom was “slightly below 60,000” and Bitcoin will “march forward from here.”",
-    "url": "https://x.com/coinbureau/status/2110147822519566510"
-  },
-  {
-    "id": "x-1791934917102-49xrwp",
-    "source": "x",
-    "ts": "2026-10-13T23:41:57.102Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T23:40:22.000Z",
-    "reason": "Notable institutional adoption in the crypto space with a major bank using tokenized collateral.",
-    "text": "🇺🇸 NEW: BNY completes a first-of-its-kind transaction with Citadel Securities on a major triparty repo platform, using a tokenized two-year US Treasury note as collateral.",
-    "url": "https://x.com/Cointelegraph/status/2110153703722254817",
-    "images": [
-      "https://pbs.twimg.com/media/HUjFm6DXEAAdYSy.jpg",
-      "https://pbs.twimg.com/media/HUjFnGMWYAE9s7u.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791935527102-v9qwmz",
-    "source": "x",
-    "ts": "2026-10-13T23:52:07.102Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-13T23:48:00.000Z",
-    "reason": "New use of a token/stablecoin on ADA.",
-    "text": "Cardano launches new company and tokenises it on $ADA.\n\nOn October 8, The @Cardano_CF announced the launch of Veridian - its digital identity focused spin-out company.\n\nWhat's more, The Foundation has actually tokenised shares in the company on @Cardano $ADA under CIP-0113 - the",
-    "url": "https://x.com/BSCNews/status/2110155624151474594",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109946286560481280/vid/avc1/1312x720/069waP2YNNUOWlxr.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109946286560481280/img/JtudgejysW2-8qdw.jpg"
-    }
-  },
-  {
     "id": "x-1791936154523-er8vdz",
     "source": "x",
     "ts": "2026-10-14T00:02:34.523Z",
@@ -8055,6 +8002,51 @@
     "images": [
       "https://pbs.twimg.com/media/HUsBE63bQAAb6j4.jpg",
       "https://pbs.twimg.com/media/HUsBE4UbkAAduFR.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792087423286-pwwml2",
+    "source": "x",
+    "ts": "2026-10-15T18:03:43.286Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T18:00:05.000Z",
+    "reason": "No notable move, tweet is ambiguous and could be a typo.",
+    "text": "not old, just market-made.. how old are you btw?",
+    "url": "https://x.com/binance/status/2110792846026363344"
+  },
+  {
+    "id": "x-1792087428262-x9ucku",
+    "source": "x",
+    "ts": "2026-10-15T18:03:48.262Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T18:00:01.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Vitalik Buterin: A Sign of Ethereum's Maturity Is That It Can Keep Moving Forward Without My Involvement\n\nEthereum co-founder Vitalik Buterin @VitalikButerin  said in an October 9 interview with Balaji Srinivasan  @balajis at the Network State Conference 2026 that constantly",
+    "url": "https://x.com/WuBlockchain/status/2110792827068125475"
+  },
+  {
+    "id": "x-1792087433390-2nmyg8",
+    "source": "x",
+    "ts": "2026-10-15T18:03:53.390Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-15T17:55:06.000Z",
+    "reason": "The purchase of BTC is significant but not breaking news as it doesn't affect overall market trends.",
+    "text": "JUST IN: $5.3 billion Cardone Capital bought 60 BTC, worth $4.8 million! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2110791590012678637",
+    "images": [
+      "https://pbs.twimg.com/media/HUsJw7iXAAAKzJY.jpg",
+      "https://pbs.twimg.com/media/HUsJw7nXAAAJJRI.jpg"
     ],
     "video": null
   }
