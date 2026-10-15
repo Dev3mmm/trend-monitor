@@ -18,7 +18,7 @@ const TMP_DIR = path.join(__dirname, 'square_tmp');
 const MIN_GAP_MS = 25 * 60 * 1000;
 const MAX_POSTS_PER_DAY = 30; // was 12: hit by 05:47 UTC, queue then expired unposted (Square allows 100/day)
 const MAX_ITEM_AGE_MS = 3 * 60 * 60 * 1000;
-const DEDUPE_WINDOW_MS = 24 * 60 * 60 * 1000;
+const DEDUPE_WINDOW_MS = 48 * 60 * 60 * 1000;
 const OLLAMA_URL = 'http://localhost:11434/api/generate';
 const OLLAMA_MODEL = 'qwen2.5:3b';
 const STOP = new Set('the a an and or of to in on for with at by from as is are was were be been this that it its has have had will just now new says said after over into about than more amid their his her they you your our not but'.split(' '));
@@ -54,17 +54,39 @@ const words = (t) => new Set(t.toLowerCase().replace(/https?:\/\/\S+/g, ' ').rep
 const jaccard = (a, b) => { let i = 0; for (const w of a) if (b.has(w)) i++; return i / (a.size + b.size - i || 1); };
 const anchors = (t) => new Set((t.match(/\$[A-Za-z]{2,10}\b|\d[\d,.]*[kmbKMB%]?/g) || []).map((s) => s.toLowerCase()));
 
-async function isDuplicate(text, others) {
-  const w = words(text), an = anchors(text);
+// Content-word stems (crude plural/verb trim) so "approved"/"approves"/"approval" and "options"/"option" match.
+const GENERIC = new Set('crypto bitcoin btc eth ethereum price market markets news breaking alert update latest huge big today million billion trillion would could according report reports reported announced announces announce launch launches over past hour day week year users trading traders spot token tokens coin coins first biggest largest'.split(' '));
+const stem = (w) => w.replace(/(ing|ed|es|s|al|ion)$/, '').slice(0, 7);
+const keyStems = (t) => new Set([...words(t)].filter((w) => !GENERIC.has(w) && w.length > 3).map(stem));
+const imgKey = (u) => String(u || '').split('?')[0].split('/').pop();
+
+async function llmSame(a, b) {
+  const out = await ollama(`Two crypto/finance news posts. Do they report the SAME news event or announcement (same entity and same development), even if worded differently, with different details, or from different angles? Updates of one event count as SAME.
+
+A: """${a.slice(0, 450)}"""
+
+B: """${b.slice(0, 450)}"""
+
+Reply with exactly one word: SAME or DIFFERENT.`);
+  return /^SAME/i.test(out);
+}
+
+// Strict on purpose: a missed duplicate is worse than a dropped borderline item.
+// 1) identical image => same story; 2) heavy lexical overlap => same; 3) any meaningful overlap => ask the LLM,
+// and if the LLM is down, FAIL CLOSED (treat as duplicate) when overlap is strong.
+async function isDuplicate(text, others, images = []) {
+  const w = words(text), an = anchors(text), ks = keyStems(text);
+  const myImgs = new Set((images || []).map(imgKey).filter(Boolean));
   for (const o of others) {
-    const j = jaccard(w, words(o.text));
+    if (myImgs.size && (o.images || []).some((u) => myImgs.has(imgKey(u)))) return true;
+    const ow = words(o.text);
+    const j = jaccard(w, ow);
     let shared = 0; const oan = anchors(o.text); for (const x of an) if (oan.has(x)) shared++;
-    if (j >= 0.5 || (shared >= 2 && j >= 0.3)) return true;
-    if (j >= 0.22 || shared >= 1) {
-      try {
-        const out = await ollama(`Do these two crypto news tweets report the SAME underlying event (same project/entity and same development), even if worded differently?\n\nA: """${text.slice(0, 400)}"""\n\nB: """${o.text.slice(0, 400)}"""\n\nReply with exactly one word: SAME or DIFFERENT.`);
-        if (/^SAME/i.test(out)) return true;
-      } catch { /* model down: treat as different */ }
+    const oks = keyStems(o.text); let sk = 0; for (const x of ks) if (oks.has(x)) sk++;
+    if (j >= 0.4 || (shared >= 2 && j >= 0.25) || (sk >= 3 && (j >= 0.15 || (sk >= 4 && j >= 0.06)))) return true;
+    if (j >= 0.12 || shared >= 1 || sk >= 2) {
+      try { if (await llmSame(text, o.text)) return true; }
+      catch { if (sk >= 3 || j >= 0.25) return true; /* model down: fail closed on strong overlap */ }
     }
   }
   return false;
@@ -172,7 +194,7 @@ ${r.stderr || ''}`;
     if (!(it.images || []).length && !it.video) continue; // every Square post needs the tweet's image
     const origin = new Date(it.originTimestamp || it.ts).getTime();
     if (now - origin > MAX_ITEM_AGE_MS) continue;
-    if (await isDuplicate(it.text, [...state.queue, ...state.posted])) { dups++; continue; }
+    if (await isDuplicate(it.text, [...state.queue, ...state.posted], it.images)) { dups++; continue; }
     state.queue.push({ text: it.text, url: it.url, images: (it.images || []).slice(0, 4), video: it.video || null, enqueuedAt: now });
     queued++;
   }
@@ -209,11 +231,11 @@ ${r.stderr || ''}`;
 
     if (DRY || !KEY) {
       await telegram(`SQUARE PREVIEW (not posted: ${DRY ? 'dry run' : 'no key'}; ${imgs.length} img)\n\n${text}`);
-      state.posted.push({ text: item.text, at: now, status: 'dryrun' });
+      state.posted.push({ text: item.text, final: text, images: item.images, at: now, status: 'dryrun' });
     } else {
       const r = postToSquare(text, imgs, vid);
       state.lastPostAt = now;
-      state.posted.push({ text: item.text, at: now, status: r.ok ? 'posted' : 'failed', link: r.link, error: r.ok ? undefined : r.error });
+      state.posted.push({ text: item.text, final: text, images: item.images, at: now, status: r.ok ? 'posted' : 'failed', link: r.link, error: r.ok ? undefined : r.error });
       await telegram(r.ok ? `POSTED to Binance Square (${imgs.length} img)\n${r.link || r.id || ''}\n\n${text}` : `SQUARE POST FAILED: ${r.error}\n\n${text}`);
       log(r.ok ? `posted @${handle}` : `FAILED @${handle}: ${r.error}`);
     }
