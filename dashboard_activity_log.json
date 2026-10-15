@@ -1,61 +1,5 @@
 [
   {
-    "id": "x-1791922954913-e49y1e",
-    "source": "x",
-    "ts": "2026-10-13T20:22:34.913Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T20:20:36.000Z",
-    "reason": "SEC filing for Dogecoin ETF is a notable regulatory move.",
-    "text": "🇺🇸 NEW: The SEC files Form 25 for the Bitwise Dogecoin ETF under DOGE.",
-    "url": "https://x.com/Cointelegraph/status/2110103431880782089",
-    "images": [
-      "https://pbs.twimg.com/media/HUiX4kyXYAAK17Z.jpg",
-      "https://pbs.twimg.com/media/HUiX41fXMAAHeiO.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791922958508-ho2e4u",
-    "source": "x",
-    "ts": "2026-10-13T20:22:38.508Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-13T20:17:15.000Z",
-    "reason": "Specific institutional action with significant potential impact on the cryptocurrency ecosystem.",
-    "text": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
-    "url": "https://x.com/DecryptMedia/status/2110102587328401506",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791922964569-cenvya",
-    "source": "x",
-    "ts": "2026-10-13T20:22:44.569Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-13T20:14:00.000Z",
-    "reason": "Notable milestone in decentralized trading on a layer-2 network.",
-    "text": "Robinhood Chain hits a $100B trading milestone\n\n@RobinhoodCrypto has now seen $100B in total trading on decentralized exchanges across Robinhood Chain, its layer-2 network. About $37.6B of that came in the past 30 days, per DeFiLlama data.\n\n@Uniswap carries most of the flow, with",
-    "url": "https://x.com/BSCNews/status/2110101769271361732",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110090091557240832/vid/avc1/1220x720/NxBrom0B-eDtjAir.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110090091557240832/img/U-V4JGEC_VtxS_tr.jpg"
-    }
-  },
-  {
     "id": "x-1791923549027-yvs942",
     "source": "x",
     "ts": "2026-10-13T20:32:29.027Z",
@@ -8036,5 +7980,47 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110752468569120769/img/Qyk6U45iF9M9ZqOA.jpg"
     }
+  },
+  {
+    "id": "x-1792078370366-58n7fr",
+    "source": "x",
+    "ts": "2026-10-15T15:32:50.366Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-15T15:30:27.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 BULLISH: ARK Invest says the US spot Bitcoin ETF holders returned to profit in September as $BTC gained about 43% in Q3.",
+    "url": "https://x.com/Cointelegraph/status/2110755189598691477"
+  },
+  {
+    "id": "x-1792078374005-sc2xqn",
+    "source": "x",
+    "ts": "2026-10-15T15:32:54.005Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-15T15:26:23.000Z",
+    "reason": "Regulatory seizure of cryptocurrencies linked to a money launderer.",
+    "text": "A court in Tianjin has accepted a bid to confiscate about $5 billion in $BTC, along with $XRP and $DOGE, linked to convicted money launderer Qian Zhimin.",
+    "url": "https://x.com/BSCNews/status/2110754629340516457",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792078377451-lpbi63",
+    "source": "x",
+    "ts": "2026-10-15T15:32:57.451Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 27,
+    "originTimestamp": "2026-10-15T15:05:51.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Fedi CEO Obi Nwosu says to assume you will get hacked in the new AI age:\n\n\"AI drives down the cost to exploit. It makes it basically free.\"\n\nThe solution? Coinbase-grade multisig and timelocks, now:\n\n\"Simple enough for any individual, any community or any family to run and have",
+    "url": "https://x.com/BitcoinMagazine/status/2110753940010652033"
   }
 ]
