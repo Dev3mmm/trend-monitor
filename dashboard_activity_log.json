@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1791892959126-2oaeno",
-    "source": "x",
-    "ts": "2026-10-13T12:02:39.126Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-13T11:54:30.000Z",
-    "reason": "Notable theft affecting cryptocurrency security.",
-    "text": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-    "url": "https://x.com/DecryptMedia/status/2109976066131407213",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791893532816-iq9sl8",
-    "source": "x",
-    "ts": "2026-10-13T12:12:12.816Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-13T12:02:22.000Z",
-    "reason": "Acquisition and warrant exercise details.",
-    "text": "Last week, Strive acquired 3,311 $BTC, increasing total holdings to ₿32,773.\n\n- $208M in warrants exercised; ~15.3M remain, expiring today at 5pm ET.\n- SATA’s $100 minimum issuance price is now a binding restriction in governing docs, formalizing the protection.\n\n$SATA $ASST",
-    "url": "https://x.com/saylor/status/2109978982703661073",
-    "images": [
-      "https://pbs.twimg.com/media/HUgk6iKaMAAWRl3.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791893537346-kyzls1",
-    "source": "x",
-    "ts": "2026-10-13T12:12:17.346Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-13T12:03:27.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "You don’t need more information. You need more relevant information.\n\nMeet Binance AI, bringing market news, personalized insights, and portfolio analysis into one experience, built around you.\n\nSee how it works. \n\n👉",
-    "url": "https://x.com/binance/status/2109978319068233856"
-  },
-  {
     "id": "x-1791893541819-m07130",
     "source": "x",
     "ts": "2026-10-13T12:12:21.819Z",
@@ -8062,6 +8015,53 @@
     "ageMin": 53,
     "originTimestamp": "2026-10-15T04:50:20.000Z",
     "reason": "No notable move in ETH price within its recent range.",
+    "text": "Elon Musk says the central lesson of 2001: A Space Odyssey is that you should not make AI lie, because HAL killed the crew to reconcile two contradictory orders\n\n“But let me tell you how things can potentially go wrong in AI. I think if you make AI be politically correct, meaning",
+    "url": "https://x.com/elonmusk/status/2110605081947103262"
+  },
+  {
+    "id": "x-1792043543098-i88j44",
+    "source": "x",
+    "ts": "2026-10-15T05:52:23.098Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-15T05:48:16.000Z",
+    "reason": "China targets major cryptocurrencies in fraud case.",
+    "text": "China Targets Bitcoin, XRP And DOGE in Massive Fraud Case\n\nA Chinese court has accepted an application to confiscate crypto assets linked to convicted money launderer Qian Zhimin.\n\nThe holdings include 61,896 bitcoin:native, valued at around $5 billion. Millions of dollars in",
+    "url": "https://x.com/BSCNews/status/2110608679183736884",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110608381954400256/vid/avc1/1280x720/N4Ax0gH5XFEEb94R.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110608381954400256/img/WVdymWv_95ZMHLHW.jpg"
+    }
+  },
+  {
+    "id": "x-1792043546795-i55myi",
+    "source": "x",
+    "ts": "2026-10-15T05:52:26.795Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 24,
+    "originTimestamp": "2026-10-15T05:28:18.000Z",
+    "reason": "No notable move in ETH price is mentioned.",
+    "text": "Literally just sold the first product (took LESS than 6 minutes after posting the video btw).\n\nGrok bot rocks!",
+    "url": "https://x.com/elonmusk/status/2110605255968989506"
+  },
+  {
+    "id": "x-1792043551642-g0evnc",
+    "source": "x",
+    "ts": "2026-10-15T05:52:31.642Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 62,
+    "originTimestamp": "2026-10-15T04:50:20.000Z",
+    "reason": "Elon Musk's comments do not provide concrete or specific information.",
     "text": "Elon Musk says the central lesson of 2001: A Space Odyssey is that you should not make AI lie, because HAL killed the crew to reconcile two contradictory orders\n\n“But let me tell you how things can potentially go wrong in AI. I think if you make AI be politically correct, meaning",
     "url": "https://x.com/elonmusk/status/2110605081947103262"
   }
