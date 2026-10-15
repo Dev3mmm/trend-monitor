@@ -1,64 +1,5 @@
 [
   {
-    "id": "x-1791951712406-dldc2g",
-    "source": "x",
-    "ts": "2026-10-14T04:21:52.406Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-14T04:13:40.000Z",
-    "reason": "Notable institutional adoption of a major index through a stablecoin network.",
-    "text": "Canton Hosts First Tokenized Index Derivatives Trade\n\nDRW and Marex have completed a blockchain based swap referencing a tokenized S&amp;P index on Canton Network (@CantonNetwork) canton-network:native.\n\nThe index is S&amp;P’s iBoxx USD Liquid Investment Grade Index.\n\nKaiko tokenized the",
-    "url": "https://x.com/BSCNews/status/2110222480711487559",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110217412746637312/vid/avc1/1280x720/i6lVWoqWk7d4EL7a.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110217412746637312/img/bR0xxs1MVTVujo4p.jpg"
-    }
-  },
-  {
-    "id": "x-1791952355974-maeh7p",
-    "source": "x",
-    "ts": "2026-10-14T04:32:35.974Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T04:30:28.000Z",
-    "reason": "No notable move for GameStop given its recent price range.",
-    "text": "🔥 LATEST: GameStop $GME CEO Ryan Cohen has bought another $22.8 million worth of shares, lifting his stake in the company to 9.1%.",
-    "url": "https://x.com/Cointelegraph/status/2110226708481679365",
-    "images": [
-      "https://pbs.twimg.com/media/HUkH_4yWIAAtc-8.jpg",
-      "https://pbs.twimg.com/media/HUkIAdfWQAAqJWZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791952361367-m5rzg4",
-    "source": "x",
-    "ts": "2026-10-14T04:32:41.367Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T04:30:00.000Z",
-    "reason": "Notable partnership integrating XRP with a leading payments platform.",
-    "text": "🚨HUGE: Ripple partners with Stripe-owned Privy to bring embedded wallets and AI agent payments to the XRP Ledger.\n\nThe integration will let developers build XRP, RLUSD and other digital-asset payments directly into their products, without requiring users to manage their own",
-    "url": "https://x.com/coinbureau/status/2110226594262340052",
-    "images": [
-      "https://pbs.twimg.com/media/HUkAi7ZbAAAhE2a.png",
-      "https://pbs.twimg.com/media/HUkAj0saUAAguz-.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791952926877-ea5qv6",
     "source": "x",
     "ts": "2026-10-14T04:42:06.877Z",
@@ -8047,5 +7988,52 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110810406402830336/img/pQOg8R4F5QRSONZJ.jpg"
     }
+  },
+  {
+    "id": "x-1792096406351-dfcz1j",
+    "source": "x",
+    "ts": "2026-10-15T20:33:26.351Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-15T20:25:57.000Z",
+    "reason": "No notable crypto-related event or movement.",
+    "text": "Dance movements are among the most challenging exercises for generative AI.\n\nGrok @imagine seems to handle them very well! I love the elegance and the lighting of this scene.",
+    "url": "https://x.com/elonmusk/status/2110831234599321620"
+  },
+  {
+    "id": "x-1792096409217-gawz1l",
+    "source": "x",
+    "ts": "2026-10-15T20:33:29.217Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T20:32:15.000Z",
+    "reason": "Notable regulatory action impacting cryptocurrency markets.",
+    "text": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+    "url": "https://x.com/DecryptMedia/status/2110831138038014446",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792096412003-nmxx5e",
+    "source": "x",
+    "ts": "2026-10-15T20:33:32.003Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-15T20:30:24.000Z",
+    "reason": "Notable theft involving cryptocurrency",
+    "text": "🚨 JUST IN: A task scam operator lost more than 60 $BTC worth about $4.8 million in the Ledger theft after thieves drained three addresses holding the scam’s proceeds.",
+    "url": "https://x.com/Cointelegraph/status/2110830672482881730",
+    "images": [
+      "https://pbs.twimg.com/media/HUstTgWXEAAiUgC.jpg"
+    ],
+    "video": null
   }
 ]
