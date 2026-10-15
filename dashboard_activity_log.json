@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791947541990-kdt2dg",
-    "source": "x",
-    "ts": "2026-10-14T03:12:21.990Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T03:10:59.000Z",
-    "reason": "Notable legal ruling affecting crypto seizures.",
-    "text": "🚨HUGE: The UK inches closer to a £3.8 BILLION Bitcoin haul seized from a Chinese fraudster.\n\nLondon’s High Court ruled that Chinese law, rather than English law, must govern thousands of victims’ claims to the 61,000 BTC seized from convicted fraudster Zhimin Qian.\n\nThe ruling",
-    "url": "https://x.com/coinbureau/status/2110206706211057906",
-    "images": [
-      "https://pbs.twimg.com/media/HUj1xPobwAAbv1-.png",
-      "https://pbs.twimg.com/media/HUj1ykHa8AAvFZk.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791948720264-fzgysl",
-    "source": "x",
-    "ts": "2026-10-14T03:32:00.264Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T03:29:46.000Z",
-    "reason": "No notable crypto-related content or use.",
-    "text": "🇨🇳 BIG: China’s trade surplus hit $938 billion in the first nine months of the year, on track to beat last year’s record as September exports jumped 36%.",
-    "url": "https://x.com/Cointelegraph/status/2110211434177081421"
-  },
-  {
     "id": "x-1791949906412-r8abb4",
     "source": "x",
     "ts": "2026-10-14T03:51:46.412Z",
@@ -8019,5 +7987,39 @@
     "reason": "No notable move, price is well within the recent range.",
     "text": "JUST IN: There's now a 60% chance Bitcoin will be above $90,000 this year, according to Polymarket⁠.com 🚀",
     "url": "https://x.com/BitcoinMagazine/status/2110809900716814687"
+  },
+  {
+    "id": "x-1792092113511-lhabrb",
+    "source": "x",
+    "ts": "2026-10-15T19:21:53.511Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-15T19:17:15.000Z",
+    "reason": "No notable move or specific event is clearly stated.",
+    "text": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+    "url": "https://x.com/DecryptMedia/status/2110812263292502408"
+  },
+  {
+    "id": "x-1792092116218-cyt8hp",
+    "source": "x",
+    "ts": "2026-10-15T19:21:56.218Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-15T19:14:00.000Z",
+    "reason": "Bank's integration with stablecoin for core banking system payments.",
+    "text": "RLUSD lands inside Cross River Bank’s core system\n\n@crossriverbank is adding RLUSD, @Ripple's stablecoin, to its core banking platform, with payments running on the XRP Ledger. Fintechs that use the bank can move between dollars and RLUSD and settle around the clock through one",
+    "url": "https://x.com/BSCNews/status/2110811445420310659",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110794617373208576/vid/avc1/1220x720/TVULKG6VNZLTxsDU.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110794617373208576/img/6FFjLx3n83e4r3GZ.jpg"
+    }
   }
 ]
