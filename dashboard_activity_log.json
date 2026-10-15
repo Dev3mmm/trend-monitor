@@ -1,65 +1,5 @@
 [
   {
-    "id": "x-1791915144343-501svp",
-    "source": "x",
-    "ts": "2026-10-13T18:12:24.343Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-13T18:04:43.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "people with (       ) are elite btw",
-    "url": "https://x.com/binance/status/2110069233535090762"
-  },
-  {
-    "id": "x-1791915148649-e3a4f9",
-    "source": "x",
-    "ts": "2026-10-13T18:12:28.649Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-13T18:04:35.000Z",
-    "reason": "Alpenglow upgrade targets significant speed improvements in the Solana blockchain.",
-    "text": "Solana’s Alpenglow Upgrade Scheduled for October 21, Targets Finality Cut from 12.8 Seconds to 150ms\n\nSolana core developer Anza announced that the Alpenglow consensus upgrade is scheduled to go live on Solana mainnet-beta on October 21 at approximately 14:50 UTC. The upgrade",
-    "url": "https://x.com/WuBlockchain/status/2110069200610042338",
-    "images": [
-      "https://pbs.twimg.com/media/HUh4v6Wa4AA_gqL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791915736136-wor1b1",
-    "source": "x",
-    "ts": "2026-10-13T18:22:16.136Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T18:20:37.000Z",
-    "reason": "No notable crypto-specific news.",
-    "text": "🚨 ALERT: Elon Musk’s net worth dropped below $1 trillion on Tuesday morning after a decline of more than 3% in SpaceX shares wiped $26.3 billion from his fortune.",
-    "url": "https://x.com/Cointelegraph/status/2110073234473263465"
-  },
-  {
-    "id": "x-1791915739660-wx303f",
-    "source": "x",
-    "ts": "2026-10-13T18:22:19.660Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-13T18:16:30.000Z",
-    "reason": "Notable institutional Bitcoin purchase by Strive.",
-    "text": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-    "url": "https://x.com/DecryptMedia/status/2110072199428161559",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791917010588-1f3syw",
     "source": "x",
     "ts": "2026-10-13T18:43:30.588Z",
@@ -8022,5 +7962,57 @@
     "reason": "Quote is a poem and not a factual claim.",
     "text": "A man needs resources to become a member of his own family. His own family. The one he built from scratch. \n\nOtherwise, without resources, he becomes a pariah, a vagabond, homeless, and a stranger in the eyes of his own family.",
     "url": "https://x.com/amerix/status/2110723905837003239"
+  },
+  {
+    "id": "x-1792071753987-8kz6gj",
+    "source": "x",
+    "ts": "2026-10-15T13:42:33.988Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 20,
+    "originTimestamp": "2026-10-15T13:22:26.000Z",
+    "reason": "Noise: vague opinion without factual claim.",
+    "text": "格局可以啊，确实今天 @StandX_Official 宣布了结束，我还在群里聊，说创业太艰难了，而且 StandX 本身如果要硬发币的话还是可以发的，反而选择了果断离场，而不是一门心思想着交卷，在这个浮躁的行业中已经是不错了。\n\n没想到 @NeoSoulAI 还愿意给 StandX",
+    "url": "https://x.com/PhyrexNi/status/2110727200790265937"
+  },
+  {
+    "id": "x-1792071755880-gkp02u",
+    "source": "x",
+    "ts": "2026-10-15T13:42:35.880Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-15T13:33:33.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Bitcoin at a Crossroads: Hot CPI, Oil Surge &amp; October Rate Hike? | NFA Live:",
+    "url": "https://x.com/coinbureau/status/2110725769836273767"
+  },
+  {
+    "id": "x-1792071757620-htq1o1",
+    "source": "x",
+    "ts": "2026-10-15T13:42:37.620Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-15T13:33:30.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Ledger Announces Atom Touchscreen Android Device",
+    "url": "https://x.com/DecryptMedia/status/2110725755659297138"
+  },
+  {
+    "id": "x-1792071759401-2k8vgi",
+    "source": "x",
+    "ts": "2026-10-15T13:42:39.401Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-15T13:33:26.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "LIVE: Bitcoin Institutional Adoption &amp; Q4 Market Outlook | BMTV Oct. 15, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2110725741709336875"
   }
 ]
