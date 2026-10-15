@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791889325159-pn3zlx",
-    "source": "x",
-    "ts": "2026-10-13T11:02:05.159Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T11:00:57.000Z",
-    "reason": "On-chain data point about Bitcoin supply reduction.",
-    "text": "🔥 INSIGHT: Bitcoin supply on exchanges continues to shrink, per CryptoQuant.\n\nRising demand amid low exchange supply could support a longer-term upward trend.",
-    "url": "https://x.com/Cointelegraph/status/2109962588960285174",
-    "images": [
-      "https://pbs.twimg.com/media/HUgXyqGWEAEjwlh.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791889328794-48bidu",
-    "source": "x",
-    "ts": "2026-10-13T11:02:08.795Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-13T10:52:45.000Z",
-    "reason": "UK regulatory action related to cryptocurrency custody.",
-    "text": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-    "url": "https://x.com/DecryptMedia/status/2109960525744332981",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791890542971-38g0vu",
     "source": "x",
     "ts": "2026-10-13T11:22:22.971Z",
@@ -8068,5 +8034,39 @@
       "https://pbs.twimg.com/media/HUpRljUW4AAxzL3.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792039442404-jm9q3q",
+    "source": "x",
+    "ts": "2026-10-15T04:44:02.404Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-15T04:42:39.000Z",
+    "reason": "White House crypto adviser departure highlights potential policy changes.",
+    "text": "White House Loses Key Crypto Adviser as CLARITY Act Stalls\n\nPatrick Witt (@patrickjwitt) has left his role as the White House’s top crypto adviser.\n\nA White House official told The Block that his temporary assignment had expired.\n\nWitt helped lead efforts to advance the CLARITY",
+    "url": "https://x.com/BSCNews/status/2110592162509545593",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110585747229356032/vid/avc1/1280x720/7Jp-Gqq2WD-DYwC6.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110585747229356032/img/Fvs7uccNUX0IjOxH.jpg"
+    }
+  },
+  {
+    "id": "x-1792039444457-3dfhhh",
+    "source": "x",
+    "ts": "2026-10-15T04:44:04.457Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 118,
+    "originTimestamp": "2026-10-15T02:45:22.000Z",
+    "reason": "No notable crypto-related move or event.",
+    "text": "My primary Grok Bot searched for dentists near me for my son, found one that accepts our insurance, and made the appointment on its own from its web browser for the first time. I got the confirmation email and text. Done.\n\nI really don’t like calling dentists to check insurance",
+    "url": "https://x.com/elonmusk/status/2110590776816316616"
   }
 ]
