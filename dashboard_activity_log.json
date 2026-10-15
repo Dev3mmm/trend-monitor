@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791936157288-tk5k2f",
-    "source": "x",
-    "ts": "2026-10-14T00:02:37.288Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T00:01:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "How is @StellarOrg helping to 'bank the unbanked'?\n\nWe look closely at stellar:native's unique narrative, and whether it really is making the world a better place... ⬇️",
-    "url": "https://x.com/BSCNews/status/2110158895729475907"
-  },
-  {
-    "id": "x-1791936159572-ym00z3",
-    "source": "x",
-    "ts": "2026-10-14T00:02:39.572Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T00:00:58.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": "chartgonomic setup (dinner postponed)",
-    "url": "https://x.com/binance/status/2110158886346846483"
-  },
-  {
     "id": "x-1791936162537-a3dffi",
     "source": "x",
     "ts": "2026-10-14T00:02:42.537Z",
@@ -8043,5 +8017,42 @@
     "reason": "No factual claim or verifiable event.",
     "text": "🚨 ALERT: Stock markets face a growing risk of an AI-driven crunch, per the Financial Times.",
     "url": "https://x.com/Cointelegraph/status/2110795424827142161"
+  },
+  {
+    "id": "x-1792088559680-wunxvj",
+    "source": "x",
+    "ts": "2026-10-15T18:22:39.680Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-15T18:17:15.000Z",
+    "reason": "Larry Fink's warning about AI data center impacts could have significant financial implications.",
+    "text": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+    "url": "https://x.com/DecryptMedia/status/2110797163840094235",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792088564974-quyaro",
+    "source": "x",
+    "ts": "2026-10-15T18:22:44.974Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-15T18:16:00.000Z",
+    "reason": "Specific institutional collaboration with stablecoins and traditional money.",
+    "text": "Mastercard puts stablecoins and regular money in one account\n\n@Mastercard and @BVNKFinance launched the Global Money Platform, letting banks, fintechs and businesses offer accounts that hold regular currencies and stablecoins side by side. It’s their first big joint product since",
+    "url": "https://x.com/BSCNews/status/2110796849263038802",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110784258222460928/vid/avc1/1220x720/DjbQZU4Gagx-3ZME.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110784258222460928/img/JpWTe0zMNzrxFXoC.jpg"
+    }
   }
 ]
