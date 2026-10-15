@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1791917010588-1f3syw",
-    "source": "x",
-    "ts": "2026-10-13T18:43:30.588Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T18:41:49.000Z",
-    "reason": "No notable move in the price or event described.",
-    "text": "What does the next chapter of global finance look like? \n\nWe brought the people building it together at LONGITUDE: Singapore. 🇸🇬  \n\nFrom stablecoins and 24/7 payment rails to tokenization, institutional crypto markets, ETFs, and onchain asset management, this edition examined the",
-    "url": "https://x.com/Cointelegraph/status/2110078573260517463"
-  },
-  {
-    "id": "x-1791917015392-j7e9jc",
-    "source": "x",
-    "ts": "2026-10-13T18:43:35.392Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T18:40:35.000Z",
-    "reason": "Notable development in decentralized finance (DeFi) with confidential links to users' wallets.",
-    "text": "⚡️ NEW: Starknet introduces Shadow Accounts for public DeFi with confidential links to users’ main wallets, with the first integration launching tomorrow.",
-    "url": "https://x.com/Cointelegraph/status/2110078262013518209",
-    "images": [
-      "https://pbs.twimg.com/media/HUiA_u-WoAADuYj.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791917020351-za4oh8",
-    "source": "x",
-    "ts": "2026-10-13T18:43:40.351Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-13T18:40:33.000Z",
-    "reason": "Noise: generic complaint without crypto or token-specific details.",
-    "text": "3 years ago, PayPal locked my account with USD 600. They claimed I was engaged in fraud, yet this is money paid by my clients through my website.\n\nI stopped using it. Deleted it.\n\nThey are now \"RESTRICTING ACCESS\" again, to close it.\n\nNeocolonial tax collectors.",
-    "url": "https://x.com/amerix/status/2110078253906170216"
-  },
-  {
     "id": "x-1791917026540-plye02",
     "source": "x",
     "ts": "2026-10-13T18:43:46.540Z",
@@ -8014,5 +7970,58 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "LIVE: Bitcoin Institutional Adoption &amp; Q4 Market Outlook | BMTV Oct. 15, 2026",
     "url": "https://x.com/BitcoinMagazine/status/2110725741709336875"
+  },
+  {
+    "id": "x-1792072338583-itkvzp",
+    "source": "x",
+    "ts": "2026-10-15T13:52:18.583Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-15T13:45:35.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🚨MARKET OPEN: U.S. stocks shed $360 BILLION in market value as producer inflation surges to 6.3%, its highest level in nearly FOUR YEARS.\n\nThe Nasdaq drops 1.3% and S&amp;P 500 falls 0.5%, with AI and semiconductor stocks leading the SELLOFF.\n\nHotter-than-expected inflation raises",
+    "url": "https://x.com/coinbureau/status/2110728797196804264"
+  },
+  {
+    "id": "x-1792072344362-7hmqgq",
+    "source": "x",
+    "ts": "2026-10-15T13:52:24.362Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-15T13:45:00.000Z",
+    "reason": "Specific, verifiable institutional adoption event.",
+    "text": "🚨MAJOR: Mastercard is bringing STABLECOINS to its global payments network reaching over 17 BILLION endpoints WORLDWIDE.\n\nThe payments giant launches Global Money Platform with BVNK, connecting fiat and stablecoins through a single API for real-time conversions, payments and",
+    "url": "https://x.com/coinbureau/status/2110728650471457073",
+    "images": [
+      "https://pbs.twimg.com/media/HUrI0p4bQAAiH0O.jpg",
+      "https://pbs.twimg.com/media/HUrI0ogaYAETfJf.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792072350914-fe1d0x",
+    "source": "x",
+    "ts": "2026-10-15T13:52:30.914Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-15T13:44:00.000Z",
+    "reason": "Notable proposal to reduce transaction costs and improve gas fees on Injective.",
+    "text": "Injective Proposal Targets Predictable Gas Fees\n\nInjective (@injective) says its latest governance proposal could make transaction costs more predictable and reduce latency.\n\nIIP-709 allows for fixed gas fees for core exchange messages on mainnet.\n\nThe function has been available",
+    "url": "https://x.com/BSCNews/status/2110728398461141174",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110636470859972608/vid/avc1/1280x720/SRQASngA71XRPZNp.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110636470859972608/img/7K4GgGz3zV7NMvtH.jpg"
+    }
   }
 ]
