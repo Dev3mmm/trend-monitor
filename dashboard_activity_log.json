@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791919339396-ks0saw",
-    "source": "x",
-    "ts": "2026-10-13T19:22:19.396Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-13T19:13:13.000Z",
-    "reason": "No notable move in price or significant event described.",
-    "text": "Today Metaplanet announced that it will issue ¥52bn of zero-coupon Euro-yen convertible bonds due 2031, together with a concurrent share repurchase.\n\nThese initiatives are interconnected. The issuance funds the repurchase of our shares at a discount to net asset value, reduces",
-    "url": "https://x.com/saylor/status/2110087550731686116"
-  },
-  {
-    "id": "x-1791919344116-sue29o",
-    "source": "x",
-    "ts": "2026-10-13T19:22:24.116Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 39,
-    "originTimestamp": "2026-10-13T18:42:15.000Z",
-    "reason": "Notable milestone in transaction volume for a new blockchain token.",
-    "text": "Layer 1 network @SuiNetwork has passed 5 billion total transactions, with the count at 5.02 billion for the $SUI chain.",
-    "url": "https://x.com/BSCNews/status/2110086410112000321",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791919931237-vouaqn",
     "source": "x",
     "ts": "2026-10-13T19:32:11.237Z",
@@ -8012,6 +7983,45 @@
     "text": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
     "url": "https://x.com/DecryptMedia/status/2110739597290266867",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792075947806-yeji9z",
+    "source": "x",
+    "ts": "2026-10-15T14:52:27.806Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-15T14:43:00.000Z",
+    "reason": "Significant increase in token supply with notable growth rate.",
+    "text": "Ondo's $USDY keeps growing and growing.\n\n@Ondo's own treasury token, $USDY, has just hit an all-time high supply of $2.35B per data from CMC.\n\nOn February 24, USDY's supply stood at just $705M, meaning it has grown by some +233% in the space of less than 8 months.",
+    "url": "https://x.com/BSCNews/status/2110743246422905176",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110636658693406720/vid/avc1/1312x720/IoavPYVivZKto-jk.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110636658693406720/img/hc7UlchnfFDJmfUn.jpg"
+    }
+  },
+  {
+    "id": "x-1792075953586-9l1btu",
+    "source": "x",
+    "ts": "2026-10-15T14:52:33.586Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-15T14:42:49.000Z",
+    "reason": "New presale announcement for a decentralized freelancing platform token.",
+    "text": "JUST IN: @JoobEscrow has opened its $JOOB presale on BNB Chain.\n\nThe project aims to offer an alternative to traditional freelance marketplaces, with 0% fees for clients and 2–10% fees for providers.\n\nKey details:\n• Fixed 1B token supply\n• Team tokens locked until January 2028",
+    "url": "https://x.com/BSCNews/status/2110743201745092911",
+    "images": [
+      "https://pbs.twimg.com/media/HUrdtG0W0AAG_8I.jpg"
+    ],
     "video": null
   }
 ]
