@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791910452013-3op77v",
-    "source": "x",
-    "ts": "2026-10-13T16:54:12.013Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-13T16:47:30.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
-    "url": "https://x.com/DecryptMedia/status/2110049802125779177"
-  },
-  {
     "id": "x-1791910456465-gefqrj",
     "source": "x",
     "ts": "2026-10-13T16:54:16.465Z",
@@ -8038,5 +8025,26 @@
     "url": "https://x.com/DecryptMedia/status/2110704364650217627",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792066924610-b1dqyy",
+    "source": "x",
+    "ts": "2026-10-15T12:22:04.610Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-15T12:18:00.000Z",
+    "reason": "Notable blockchain adoption by a major regulatory body.",
+    "text": "Avalanche Enters Dubai’s Legal System\n\nDubai’s DIFC Courts are using Avalanche (@avax) avalanche-2:native to make court orders and hearing records verifiable worldwide within seconds.\n\nThe system records cryptographic proofs onchain, while documents and confidential case details",
+    "url": "https://x.com/BSCNews/status/2110706755877625986",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110636089769627648/vid/avc1/1280x720/ob1KjVPdz_XN-Ksx.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110636089769627648/img/L8fxh_KMgLqy2Weo.jpg"
+    }
   }
 ]
