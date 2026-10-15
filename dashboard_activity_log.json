@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791882742327-mms5cf",
-    "source": "x",
-    "ts": "2026-10-13T09:12:22.327Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-13T09:10:40.000Z",
-    "reason": "Security breach involving hardware wallets.",
-    "text": "Ledger Uncovers Hidden Spy Implants in Hardware Wallets\n\nLedger (@Ledger) says modified wallets sold by reseller CryptoBilis secretly captured users’ recovery phrases.\n\nThe malware decoded the 24-word phrase shown at the time of setting up the device and sent it over LTE through",
-    "url": "https://x.com/BSCNews/status/2109934838237266143",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109934388654039040/vid/avc1/1280x720/mFpJ0nFTKuZt_f-u.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109934388654039040/img/lbzlLJHZ4PNIhyg0.jpg"
-    }
-  },
-  {
     "id": "x-1791882747738-oevxnm",
     "source": "x",
     "ts": "2026-10-13T09:12:27.738Z",
@@ -8097,5 +8076,26 @@
     "reason": "Noise: Generic news about geopolitical speculation without concrete evidence.",
     "text": "🇺🇸🇺🇦 ESCALATING: Ukraine suspects Trump is behind Elon Musk’s Starlink cutting off its war drones mid-flight above 160 kph.\n\nUkrainian officials believe the limits were imposed to pressure Kyiv into accepting Trump’s demand not to strike Russian oil refineries.\n\nSome drones",
     "url": "https://x.com/coinbureau/status/2110550727533920677"
+  },
+  {
+    "id": "x-1792030356708-wew005",
+    "source": "x",
+    "ts": "2026-10-15T02:12:36.708Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-15T02:05:00.000Z",
+    "reason": "New privacy features for the native token, potentially significant for user privacy and security.",
+    "text": "Aptos Adds Three Layers Of Onchain Privacy\n\nAptos (@Aptos) aptos:native now has three opt-in privacy features live on mainnet, each covering a different part of onchain activity.\n\nKeyless Accounts allows users to generate wallets while remaining anonymous because there is no",
+    "url": "https://x.com/BSCNews/status/2110552489351119090",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110276566777204736/vid/avc1/1280x720/H29H_34iBgqrg0Dx.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110276566777204736/img/5jhWOyteL8ubSvWq.jpg"
+    }
   }
 ]
