@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791675136815-txljz5",
-    "source": "x",
-    "ts": "2026-10-10T23:32:16.815Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-10T23:30:49.000Z",
-    "reason": "Specific institutional information about crypto holdings.",
-    "text": "🇺🇸 UPDATE: The US Government's crypto holdings are now down $16B since its peak a year ago.",
-    "url": "https://x.com/Cointelegraph/status/2109064135711363426",
-    "images": [
-      "https://pbs.twimg.com/media/HUTmpxVWgAAQ-yn.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791906884997-x67qka",
-    "source": "x",
-    "ts": "2026-10-13T15:54:44.997Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-13T15:50:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Why does @LayerZero_Core need its own L1 blockchain...?\n\nBSCN's research team takes a closer look behind $ZRO's decision to build the 'Zero' blockchain network ⬇️",
-    "url": "https://x.com/BSCNews/status/2110035331823133008"
-  },
-  {
     "id": "x-1791907297946-leaf80",
     "source": "x",
     "ts": "2026-10-13T16:01:37.946Z",
@@ -8040,5 +8009,44 @@
     "reason": "No notable move in ETH price.",
     "text": "JUST IN: Apple's $AAPL AI, Apple Intelligence, is now approved ​for use in China, says Tim Cook.",
     "url": "https://x.com/coinbureau/status/2110687962732368150"
+  },
+  {
+    "id": "x-1792063328782-vl63qe",
+    "source": "x",
+    "ts": "2026-10-15T11:22:08.782Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-15T11:17:00.000Z",
+    "reason": "Osmosis plans to end the deflationary nature of its native token.",
+    "text": "Osmosis plans to end all $OSMO token inflation!\n\n@osmosis DEX, built within the @cosmos ecosystem, has launched a proposal to end the daily inflation on its native token.\n\nIf approved, it would effectively turn the token deflationary, with approximately 2% of supply currently",
+    "url": "https://x.com/BSCNews/status/2110691404678611418",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110635887801294848/vid/avc1/1312x720/iFvEi_jxsSVqhnn1.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110635887801294848/img/KzURIiFkZBvTXD_f.jpg"
+    }
+  },
+  {
+    "id": "x-1792063332884-k4flcw",
+    "source": "x",
+    "ts": "2026-10-15T11:22:12.884Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-15T11:16:30.000Z",
+    "reason": "Notable institutional investment in Bitcoin.",
+    "text": "JUST IN: 🇬🇧 Publicly traded The Smarter Web Company bought 83 #Bitcoin for £5.2 million for its treasury.\n\nNow holding 2,830 BTC!",
+    "url": "https://x.com/BitcoinMagazine/status/2110691280284176525",
+    "images": [
+      "https://pbs.twimg.com/media/HUquiGaXYAAxpnX.jpg"
+    ],
+    "video": null
   }
 ]
