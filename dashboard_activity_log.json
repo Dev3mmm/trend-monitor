@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1791945136684-1lfeq1",
-    "source": "x",
-    "ts": "2026-10-14T02:32:16.684Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T02:30:25.000Z",
-    "reason": "Zuckerberg's statement could influence AI investment in crypto and decentralized technologies.",
-    "text": "⚡️ LATEST: Mark Zuckerberg says Meta committed to spending up to $200 billion on AI infrastructure without knowing whether its AI products would succeed.",
-    "url": "https://x.com/Cointelegraph/status/2110196500496109780",
-    "images": [
-      "https://pbs.twimg.com/media/HUjshwLXQAAea8V.jpg",
-      "https://pbs.twimg.com/media/HUjsiGLXwAEonQs.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791945139793-stxi7g",
     "source": "x",
     "ts": "2026-10-14T02:32:19.793Z",
@@ -8029,5 +8010,26 @@
       "https://pbs.twimg.com/media/HUsWaWyW8AEarcJ.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792091062936-l5adyc",
+    "source": "x",
+    "ts": "2026-10-15T19:04:22.936Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-15T18:59:22.000Z",
+    "reason": "New use of a token (Internet Computer) for smart contracts with a unique feature.",
+    "text": "Internet Computer smart contracts can set their own alarm clock\n\nOn most blockchains, a smart contract sits idle until an outside transaction wakes it up. Projects often pay outside bots, known as keepers, to send that nudge on time.\n\nOn the Internet Computer from @dfinity, the",
+    "url": "https://x.com/BSCNews/status/2110807764960268785",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110807650619338752/vid/avc1/1220x720/HO4O9MFei1u0b747.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110807650619338752/img/yF0F5QPQEJG9Nb6E.jpg"
+    }
   }
 ]
