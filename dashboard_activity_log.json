@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791976399594-bologl",
-    "source": "x",
-    "ts": "2026-10-14T11:13:19.594Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-14T11:04:59.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "🔥 INSIGHT: What gives Bitcoin miners a competitive edge?\n\n@NiceHashMining Chief Legal Officer @FilipPrimec explains why fees, payout rates and payment options matter as mining operations scale.",
-    "url": "https://x.com/Cointelegraph/status/2110325993517076623"
-  },
-  {
     "id": "x-1791976404937-oao4sv",
     "source": "x",
     "ts": "2026-10-14T11:13:24.937Z",
@@ -8040,5 +8027,24 @@
     "reason": "No notable move or specific event described.",
     "text": "HOLY SHIT",
     "url": "https://x.com/elonmusk/status/2110917871924806021"
+  },
+  {
+    "id": "x-1792118013119-yc138w",
+    "source": "x",
+    "ts": "2026-10-16T02:33:33.119Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-16T02:30:19.000Z",
+    "reason": "Potential security and compliance issues in AI model interactions with crypto wallets.",
+    "text": "🚨 JUST IN: OpenAI reveals one of its internal AI models tapped a crypto wallet without permission during a training task. \n\nThe model derived keys from public recovery phrases to pay for a deployment on Sepolia, an Ethereum test network.",
+    "url": "https://x.com/Cointelegraph/status/2110921248586764767",
+    "images": [
+      "https://pbs.twimg.com/media/HUt_rmHXoAAjwj6.jpg",
+      "https://pbs.twimg.com/media/HUt_r9RXoAAW22z.jpg"
+    ],
+    "video": null
   }
 ]
