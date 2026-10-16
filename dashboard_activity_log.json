@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791987135932-47rukr",
-    "source": "x",
-    "ts": "2026-10-14T14:12:15.932Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 42,
-    "originTimestamp": "2026-10-14T13:29:32.000Z",
-    "reason": "No notable crypto-related news or move mentioned.",
-    "text": "Most people think Grok Bot is just a chat window.\n\nIt's not. Each bot has its own computer, with its own browser, email inbox and desktop. When I ask it to do something, it goes off and does it.\n\nI made a video explaining how it actually works 👇",
-    "url": "https://x.com/elonmusk/status/2110370768697901279"
-  },
-  {
-    "id": "x-1791987137591-3oq6xl",
-    "source": "x",
-    "ts": "2026-10-14T14:12:17.591Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-14T14:02:22.000Z",
-    "reason": "No notable crypto-specific information provided.",
-    "text": "Hot CPI Spooks Majors, Vivek Outbuys Saylor and Papertrade Debut",
-    "url": "https://x.com/DecryptMedia/status/2110370635675570598"
-  },
-  {
     "id": "x-1791987840588-0mcx5g",
     "source": "x",
     "ts": "2026-10-14T14:24:00.588Z",
@@ -8003,5 +7977,34 @@
     "url": "https://x.com/BSCNews/status/2110986680048230810",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792134151309-zf12ul",
+    "source": "x",
+    "ts": "2026-10-16T07:02:31.309Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T07:00:16.000Z",
+    "reason": "The tweet includes multiple notable regulatory and security-related developments.",
+    "text": "🚨 LATEST: A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges. \n\nAll the week's crypto news in Asia Express:",
+    "url": "https://x.com/Cointelegraph/status/2110989182508183916",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792134154907-3ce61a",
+    "source": "x",
+    "ts": "2026-10-16T07:02:34.907Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 53,
+    "originTimestamp": "2026-10-16T06:08:45.000Z",
+    "reason": "Noise: Generic hype without factual claim.",
+    "text": "Holy smokes",
+    "url": "https://x.com/elonmusk/status/2110988635264950570"
   }
 ]
