@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1791995780785-jcz0qm",
-    "source": "x",
-    "ts": "2026-10-14T16:36:20.786Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T16:35:20.000Z",
-    "reason": "No notable crypto related event or price movement mentioned.",
-    "text": "🚨 JUST IN: President Trump announced a $50 billion South Korean investment in Alaska LNG, alongside a $70–80 billion LNG purchase commitment and $4.4 billion equity investment from Taiwan.",
-    "url": "https://x.com/Cointelegraph/status/2110409129453932697"
-  },
-  {
-    "id": "x-1791995784641-nm6ypz",
-    "source": "x",
-    "ts": "2026-10-14T16:36:24.641Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-14T16:30:22.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Could certain altcoins outperform Bitcoin?\n\n@animocabrands Chairman @ysiu believes a major shift could be underway in the crypto market.\n\nWatch his explanation from 00:15 in our latest Cointelegraph interview.\n\n#YatSiu #Altcoins #Bitcoin #Crypto",
-    "url": "https://x.com/Cointelegraph/status/2110407878762774685",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791995787758-q2g1vc",
-    "source": "x",
-    "ts": "2026-10-14T16:36:27.758Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 51,
-    "originTimestamp": "2026-10-14T15:45:03.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "OranjeBTC CEO Gui Gomes on how Bitcoin-backed credit is spreading from the U.S. to Brazil:\n\n\"Bitcoin is likely the best collateral one could ask for\"\n\n\"The more penetrated Bitcoin becomes, the stronger it gets\"\n\n\"We all want to see Bitcoin fulfilling its mission of becoming the",
-    "url": "https://x.com/BitcoinMagazine/status/2110407730687291849"
-  },
-  {
     "id": "x-1791995790797-3egbzz",
     "source": "x",
     "ts": "2026-10-14T16:36:30.797Z",
@@ -8041,5 +7999,58 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "JUST IN: 🇮🇩Indonesia’s stock market wiped out $60,000,000,000 today, its worst day in 28 years.\n\nThe Jakarta Composite closed down 11.57% at 5,185, a level not seen in almost 26 years.\n\nThe last bigger daily drop came during the 1998 Asian financial crisis, when a collapsing",
     "url": "https://x.com/coinbureau/status/2111061228433134056"
+  },
+  {
+    "id": "x-1792152206439-5w85g8",
+    "source": "x",
+    "ts": "2026-10-16T12:03:26.439Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T12:02:04.000Z",
+    "reason": "No notable move indicated, price is within recent range.",
+    "text": "Addressing the bear case.",
+    "url": "https://x.com/saylor/status/2111065132877189537"
+  },
+  {
+    "id": "x-1792152209298-b6lzlz",
+    "source": "x",
+    "ts": "2026-10-16T12:03:29.298Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T12:00:45.000Z",
+    "reason": "Specific institutional development in crypto custody.",
+    "text": "🔥 UPDATE: Deutsche Bank plans to launch $BTC and $ETH custody within weeks, with an Asia expansion targeted for 2027, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2111064802734878973",
+    "images": [
+      "https://pbs.twimg.com/media/HUwCPuJWYAE7r4W.jpg",
+      "https://pbs.twimg.com/media/HUwCP-gXwAAlXQo.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792152213019-lpmu4t",
+    "source": "x",
+    "ts": "2026-10-16T12:03:33.019Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-16T11:53:00.000Z",
+    "reason": "New DeFi use case with staking rewards and launchpool incentives.",
+    "text": "Ondo's Gate Debut Brings Staking Rewards And Launchpool Incentives\n\nOndo (@Ondo) $ONDO Intelligent Portfolios have arrived on Gate, giving users access to curated portfolios through single onchain tokens.\n\nSupported portfolios qualify for Soft Staking with an estimated 8% APR and",
+    "url": "https://x.com/BSCNews/status/2111062852043948143",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111024811266670594/vid/avc1/1280x720/_KV8qTtMlSJua_Sq.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111024811266670594/img/JnsYoYhdFPzYSDo4.jpg"
+    }
   }
 ]
