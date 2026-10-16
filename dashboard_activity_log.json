@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792027953409-s7hu52",
-    "source": "x",
-    "ts": "2026-10-15T01:32:33.409Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 57,
-    "originTimestamp": "2026-10-15T00:34:41.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Yes",
-    "url": "https://x.com/elonmusk/status/2110543220996260142"
-  },
-  {
     "id": "x-1792027956082-i0347j",
     "source": "x",
     "ts": "2026-10-15T01:32:36.082Z",
@@ -7966,5 +7953,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111172868700532736/img/LUygcmEwkuQVN-6V.jpg"
     }
+  },
+  {
+    "id": "x-1792181546423-t00xzx",
+    "source": "x",
+    "ts": "2026-10-16T20:12:26.423Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T20:10:16.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🤖 NEW: Claude solved the decades-old mystery of NIST elliptic curve seeds in under 30 minutes, tracing them to timestamps.",
+    "url": "https://x.com/Cointelegraph/status/2111187993226575903"
   }
 ]
