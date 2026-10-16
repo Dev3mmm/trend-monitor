@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792035160781-k7j18f",
-    "source": "x",
-    "ts": "2026-10-15T03:32:40.781Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T03:30:25.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🚨 INTERESTING: The OpenAI employee arrested for allegedly planting a hidden recording device in the company’s San Francisco office reportedly had a one-way ticket to Saudi Arabia booked for Oct. 12.",
-    "url": "https://x.com/Cointelegraph/status/2110573986983624716"
-  },
-  {
-    "id": "x-1792035164149-3vjp10",
-    "source": "x",
-    "ts": "2026-10-15T03:32:44.149Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 117,
-    "originTimestamp": "2026-10-15T01:35:12.000Z",
-    "reason": "No notable crypto-related news or price movement mentioned.",
-    "text": "Elon Musk’s original Tesla Roadster, casually cruising through space.",
-    "url": "https://x.com/elonmusk/status/2110572244665872671"
-  },
-  {
     "id": "x-1792035737917-14mjth",
     "source": "x",
     "ts": "2026-10-15T03:42:17.917Z",
@@ -7965,6 +7939,40 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111204752084152320/img/6r2OyD-dRGzcFgfa.jpg"
+    }
+  },
+  {
+    "id": "x-1792188202232-6xihvr",
+    "source": "x",
+    "ts": "2026-10-16T22:03:22.232Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-16T21:55:40.000Z",
+    "reason": "Noise: No content or action described.",
+    "text": "@jgebbia",
+    "url": "https://x.com/elonmusk/status/2111214603665637693"
+  },
+  {
+    "id": "x-1792188207996-hylm9h",
+    "source": "x",
+    "ts": "2026-10-16T22:03:27.996Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-16T21:56:00.000Z",
+    "reason": "Saylor's statement about MSCI's impact on crypto values.",
+    "text": "🔥Days before MSCI moved to drop Strategy, Michael Saylor said the decision was “not that important to us.”\n\nSpeaking to Bloomberg on Tuesday, Saylor said MSCI controls “a fairly de minimis amount of capital.”\n\nHe accused MSCI of “imposing prejudicial values on digital assets”",
+    "url": "https://x.com/coinbureau/status/2111214602008539276",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111208932643577856/vid/avc1/1280x720/E-iGi2tUcCTok0YH.mp4?tag=29",
+      "duration": 67,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111208932643577856/img/8I51eOAbrij5vywx.jpg"
     }
   }
 ]
