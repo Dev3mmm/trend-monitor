@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791834434351-ukxbze",
-    "source": "x",
-    "ts": "2026-10-12T19:47:14.351Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-12T19:41:07.000Z",
-    "reason": "Notable warning about quantum computing risks to blockchain security.",
-    "text": "Quantum warnings keep piling up, and Algorand says it’s already prepared\n\nEU financial watchdogs warned last month that quantum computers could undermine the cryptography that secures blockchains, and a US government audit last week found federal agencies unprepared. @Algorand",
-    "url": "https://x.com/BSCNews/status/2109731107801325986",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2109730905916878848/vid/avc1/1220x720/K-C3eUXnB_I6t82C.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109730905916878848/img/nCQ86hoCjDx6ahED.jpg"
-    }
-  },
-  {
-    "id": "x-1791834437676-kf1pwn",
-    "source": "x",
-    "ts": "2026-10-12T19:47:17.676Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-12T19:33:29.000Z",
-    "reason": "Stellar's native asset network surpassing Solana and XRP",
-    "text": "Quiet climb, big flip 📈 stellar:native’s network passed Solana and the XRP Ledger in tokenized real-world assets, led by big funds from Amundi, Ondo and Franklin Templeton. The full breakdown: ⬇️",
-    "url": "https://x.com/BSCNews/status/2109729185098862839",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791834440525-1gq2bi",
     "source": "x",
     "ts": "2026-10-12T19:47:20.525Z",
@@ -8048,5 +8011,39 @@
       "https://pbs.twimg.com/media/HUwJSj6XcAAEqp5.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792155163993-4ia1mb",
+    "source": "x",
+    "ts": "2026-10-16T12:52:43.993Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T12:49:46.000Z",
+    "reason": "No notable crypto-related news in the tweet provided.",
+    "text": "🚨BIG MOVE: $AAPL shares JUMPED as much as 2% in premarket trading after reports that its first foldable iPhone, the iPhone Duo, SOLD OUT within minutes of pre-orders opening at 8 AM ET.\n\nShipping estimates for all configurations have already slipped from launch day to",
+    "url": "https://x.com/coinbureau/status/2111077139558940700"
+  },
+  {
+    "id": "x-1792155169905-fex5dt",
+    "source": "x",
+    "ts": "2026-10-16T12:52:49.905Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-16T12:47:32.000Z",
+    "reason": "Notable DeFi project introducing post-quantum privacy to smart contracts.",
+    "text": "JUST IN: @NeptunePrivacy is bringing post-quantum privacy to DeFi. 🔐\n\nThe project is building a chain for private smart contracts, with its public testnet now live.\n\nUsers can explore the ecosystem through:\n\n▪️ Chrome and web wallets\n▪️ Block and contract explorer\n▪️ NeptuneSwap",
+    "url": "https://x.com/BSCNews/status/2111076578423714112",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111076553215893504/vid/avc1/1280x720/v46hrpk7PNMUdBuu.mp4?tag=29",
+      "duration": 21,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111076553215893504/img/SYTWCpgtVJ_c9E8K.jpg"
+    }
   }
 ]
