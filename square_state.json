@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791023560680-8bg7ut",
     "x-1791023574348-vwv64l",
     "x-1791024268712-fccrj7",
     "x-1791024283348-w4dnjv",
@@ -1999,20 +1998,10 @@
     "x-1792120957925-jihfia",
     "x-1792121533670-a6a73z",
     "x-1792122127102-5j21at",
-    "x-1792122759592-rk6o4f"
+    "x-1792122759592-rk6o4f",
+    "x-1792123336806-dgknoi"
   ],
   "queue": [
-    {
-      "text": "🇹🇼 TODAY: Taiwan has cut off access to Coinbase and Kalshi over alleged election betting, just weeks ahead of local polls seen as a test for President Lai Ching-te’s government.",
-      "url": "https://x.com/Cointelegraph/status/2110906148589060482",
-      "images": [
-        "https://pbs.twimg.com/media/HUtx8jkWUAAeHUX.jpg",
-        "https://pbs.twimg.com/media/HUtx85WWsAE8jyT.jpg",
-        "https://pbs.twimg.com/media/HUtx9IPWoAAYM5d.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1792114346393
-    },
     {
       "text": "🚨 JUST IN: OpenAI reveals one of its internal AI models tapped a crypto wallet without permission during a training task. \n\nThe model derived keys from public recovery phrases to pay for a deployment on Sepolia, an Ethereum test network.",
       "url": "https://x.com/Cointelegraph/status/2110921248586764767",
@@ -2049,6 +2038,15 @@
       ],
       "video": null,
       "enqueuedAt": 1792121536968
+    },
+    {
+      "text": "🚨 LATEST: Neynar’s co-founder Rish announces that Balaji Srinivasan’s Network School is acquiring Farcaster, taking over the app, protocol repositories, and related products.",
+      "url": "https://x.com/Cointelegraph/status/2110943903071240331",
+      "images": [
+        "https://pbs.twimg.com/media/HUuUSeCXIAAlqtX.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1792123346713
     }
   ],
   "posted": [
@@ -2312,7 +2310,19 @@
       "at": 1792121536968,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/377775533568887?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇹🇼 TODAY: Taiwan has cut off access to Coinbase and Kalshi over alleged election betting, just weeks ahead of local polls seen as a test for President Lai Ching-te’s government.",
+      "final": "🇹🇼 TODAY: Taiwan has cut off access to Coinbase and Kalshi over alleged election betting, just weeks ahead of local polls seen as a test for President Lai Ching-te’s government.\n\n#Crypto #Coinbase",
+      "images": [
+        "https://pbs.twimg.com/media/HUtx8jkWUAAeHUX.jpg",
+        "https://pbs.twimg.com/media/HUtx85WWsAE8jyT.jpg",
+        "https://pbs.twimg.com/media/HUtx9IPWoAAYM5d.png"
+      ],
+      "at": 1792123346713,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/377782988345514?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1792121536968
+  "lastPostAt": 1792123346713
 }
