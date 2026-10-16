@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791023038367-i1kqsk",
     "x-1791023044542-o84q1c",
     "x-1791023551638-949bgj",
     "x-1791023560680-8bg7ut",
@@ -1999,18 +1998,10 @@
     "x-1792116801999-tmxw0b",
     "x-1792118013119-yc138w",
     "x-1792119160657-8ak4w9",
-    "x-1792120957925-jihfia"
+    "x-1792120957925-jihfia",
+    "x-1792121533670-a6a73z"
   ],
   "queue": [
-    {
-      "text": "#PeckShieldAlert The phisher who drained a Bofur Capital-related address of $2M in DAI has swapped the stolen funds for 825.5 $ETH.",
-      "url": "https://x.com/PeckShieldAlert/status/2110899366429102307",
-      "images": [
-        "https://pbs.twimg.com/media/HUtrtP4bUAAhuKI.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792113265167
-    },
     {
       "text": "🇹🇼 TODAY: Taiwan has cut off access to Coinbase and Kalshi over alleged election betting, just weeks ahead of local polls seen as a test for President Lai Ching-te’s government.",
       "url": "https://x.com/Cointelegraph/status/2110906148589060482",
@@ -2049,6 +2040,15 @@
       ],
       "video": null,
       "enqueuedAt": 1792120961858
+    },
+    {
+      "text": "🚨 NEW: Helius CEO Mert Mumtaz has been appointed to the NEAR Foundation Council, where he’ll help steer the foundation’s push to bring privacy to onchain markets.",
+      "url": "https://x.com/Cointelegraph/status/2110936344474120534",
+      "images": [
+        "https://pbs.twimg.com/media/HUuNaorWYAA5-Pj.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1792121536968
     }
   ],
   "posted": [
@@ -2302,7 +2302,17 @@
       "at": 1792119738878,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/377768179930002?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "#PeckShieldAlert The phisher who drained a Bofur Capital-related address of $2M in DAI has swapped the stolen funds for 825.5 $ETH.",
+      "final": "#PeckShieldAlert The phisher who drained a Bofur Capital-related address of $2M in DAI has swapped the stolen funds for 825.5 $ETH.\n\n#Ethereum $ETH",
+      "images": [
+        "https://pbs.twimg.com/media/HUtrtP4bUAAhuKI.jpg"
+      ],
+      "at": 1792121536968,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/377775533568887?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1792119738878
+  "lastPostAt": 1792121536968
 }
