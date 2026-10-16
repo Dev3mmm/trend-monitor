@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791971534865-z5nx4v",
-    "source": "x",
-    "ts": "2026-10-14T09:52:14.865Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-14T09:41:27.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Arbitrum Adds New USDG Liquidity On Uniswap\n\nArbitrum (@arbitrum) ethereum:0xb50721bcf8d664c30412cfbc6cf7a15145234ad1 has added another trading venue for USDG, with a new USDG/USDC pool now live on Uniswap.\n\nThe pool uses Uniswap’s (@Uniswap)",
-    "url": "https://x.com/BSCNews/status/2110304973343047815",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110301420947951616/vid/avc1/1280x720/4GxreYfOk8rg28fe.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110301420947951616/img/f_N6s65MejVFg_G7.jpg"
-    }
-  },
-  {
-    "id": "x-1791972151504-2lqoyo",
-    "source": "x",
-    "ts": "2026-10-14T10:02:31.504Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T10:00:02.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "POV: You open P2P for your usual trade… and find out it’s turning 7 with daily rewards.\n\nTrade daily. Earn daily. BTC up for grabs.\n\nMore info →",
-    "url": "https://x.com/binance/status/2110309649962426684"
-  },
-  {
     "id": "x-1791972156232-abo8ac",
     "source": "x",
     "ts": "2026-10-14T10:02:36.232Z",
@@ -8043,5 +8009,46 @@
       "https://pbs.twimg.com/media/HUtrtP4bUAAhuKI.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792114340582-p9hgxd",
+    "source": "x",
+    "ts": "2026-10-16T01:32:20.582Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T01:30:19.000Z",
+    "reason": "Notable regulatory move affecting a major crypto exchange in a politically sensitive region.",
+    "text": "🇹🇼 TODAY: Taiwan has cut off access to Coinbase and Kalshi over alleged election betting, just weeks ahead of local polls seen as a test for President Lai Ching-te’s government.",
+    "url": "https://x.com/Cointelegraph/status/2110906148589060482",
+    "images": [
+      "https://pbs.twimg.com/media/HUtx8jkWUAAeHUX.jpg",
+      "https://pbs.twimg.com/media/HUtx85WWsAE8jyT.jpg",
+      "https://pbs.twimg.com/media/HUtx9IPWoAAYM5d.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792114346330-vdp2c0",
+    "source": "x",
+    "ts": "2026-10-16T01:32:26.330Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-16T01:29:00.000Z",
+    "reason": "Uniswap protocol generating unusually high fees",
+    "text": "$126 MILLION in the last 30 days...\n\n@Uniswap adoption has been on a tear in 2026, the protocol having generated a staggering $125.8M in fees in the past month alone.\n\nEven more impressive, the $UNI platform has now generated cumulative fee total of more than $6B since launch.",
+    "url": "https://x.com/BSCNews/status/2110905817289375868",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110713799812517888/vid/avc1/1312x720/vTweihl5CBPfKU4D.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110713799812517888/img/i_Bmp3Vm6KRWGki3.jpg"
+    }
   }
 ]
