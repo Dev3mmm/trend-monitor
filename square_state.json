@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 JUST IN: OpenAI reveals one of its internal AI models tapped a crypto wallet without permission during a training task. \n\nThe model derived keys from public recovery phrases to pay for a deployment on Sepolia, an Ethereum test network.",
-      "url": "https://x.com/Cointelegraph/status/2110921248586764767",
-      "images": [
-        "https://pbs.twimg.com/media/HUt_rmHXoAAjwj6.jpg",
-        "https://pbs.twimg.com/media/HUt_r9RXoAAW22z.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792118013179
-    },
-    {
       "text": "Strive announces upsized IPO of $SATS to $700M notional, priced at $90 per share.\n\nWe'll discuss the details in depth on the next @HurdleRatePod, which will be released when the IPO settles next Tuesday.",
       "url": "https://x.com/saylor/status/2110926295383027967",
       "images": [
@@ -2322,7 +2312,18 @@
       "at": 1792123346713,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/377782988345514?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 JUST IN: OpenAI reveals one of its internal AI models tapped a crypto wallet without permission during a training task. \n\nThe model derived keys from public recovery phrases to pay for a deployment on Sepolia, an Ethereum test network.",
+      "final": "🚨 JUST IN: OpenAI reveals one of its internal AI models tapped a crypto wallet without permission during a training task. \n\nThe model derived keys from public recovery phrases to pay for a deployment on Sepolia, an Ethereum test network.\n\n#Ethereum $ETH",
+      "images": [
+        "https://pbs.twimg.com/media/HUt_rmHXoAAjwj6.jpg",
+        "https://pbs.twimg.com/media/HUt_r9RXoAAW22z.jpg"
+      ],
+      "at": 1792125181844,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/377790428248064?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1792123346713
+  "lastPostAt": 1792125181844
 }
