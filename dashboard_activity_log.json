@@ -1,43 +1,5 @@
 [
   {
-    "id": "x-1791970920327-l4pblf",
-    "source": "x",
-    "ts": "2026-10-14T09:42:00.327Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-14T09:34:49.000Z",
-    "reason": "OpenAI's potential acquisition of a cybersecurity firm with blockchain experience is notable.",
-    "text": "JUST IN: OpenAI in early talks to buy CRYPTO cybersecurity firm Trail of Bits, per The Information.\n\nTrail of Bits has worked on 475 blockchain reports and 59 crypto reports, including audits tied to XRP Ledger, Monero, Arbitrum and other crypto projects.\n\nThe deal would deepen",
-    "url": "https://x.com/coinbureau/status/2110303303909486963",
-    "images": [
-      "https://pbs.twimg.com/media/HUlM2u2aEAAj1Ja.png",
-      "https://pbs.twimg.com/media/HUlM8xRaIAAqeOR.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791971528305-8gid08",
-    "source": "x",
-    "ts": "2026-10-14T09:52:08.305Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-14T09:45:28.000Z",
-    "reason": "Notable tax proposal from a major regulator.",
-    "text": "🚨BREAKING: France is considering a 31.4% tax on crypto-to-stablecoin conversions starting 2027.",
-    "url": "https://x.com/coinbureau/status/2110305984153526656",
-    "images": [
-      "https://pbs.twimg.com/media/HUlOgGpaYAA2eLK.png",
-      "https://pbs.twimg.com/media/HUlOjVTaYAA3euf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791971534865-z5nx4v",
     "source": "x",
     "ts": "2026-10-14T09:52:14.865Z",
@@ -8050,5 +8012,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110713674100826112/img/0U1DWGtKl7IBRP7b.jpg"
     }
+  },
+  {
+    "id": "x-1792113141957-64jivu",
+    "source": "x",
+    "ts": "2026-10-16T01:12:21.957Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T01:06:17.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸🇮🇷 LATEST: President Trump says the “Mother of All Bombs,” which the US is reportedly considering for strikes on Iran, is NOT nuclear.\n\nTrump calls it “just an extremely large bomb,” adding “it’s like a tiny nuclear bomb… but it’s not nuclear.”\n\n“No, I wouldn’t use nuclear, we",
+    "url": "https://x.com/coinbureau/status/2110900100348407849"
+  },
+  {
+    "id": "x-1792113265106-893udv",
+    "source": "x",
+    "ts": "2026-10-16T01:14:25.106Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "PeckShieldAlert",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-16T01:03:22.000Z",
+    "reason": "Exploit involving stolen funds from a stablecoin to ETH.",
+    "text": "#PeckShieldAlert The phisher who drained a Bofur Capital-related address of $2M in DAI has swapped the stolen funds for 825.5 $ETH.",
+    "url": "https://x.com/PeckShieldAlert/status/2110899366429102307",
+    "images": [
+      "https://pbs.twimg.com/media/HUtrtP4bUAAhuKI.jpg"
+    ],
+    "video": null
   }
 ]
