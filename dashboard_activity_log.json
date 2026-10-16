@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791987844158-7wt1nu",
-    "source": "x",
-    "ts": "2026-10-14T14:24:04.158Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-14T14:19:12.000Z",
-    "reason": "No concrete or verifiable news, only a rumor with no reliable source.",
-    "text": "🚨BREAKING: HEX and PulseChain founder Richard Heart has reportedly been ARRESTED in Istanbul, Turkey, with an Interpol Red Notice.\n\nThe, intelligence agency MİT and police detained Heart and his wife during a dawn raid in Beşiktaş, per Turkish media.\n\nIhlas News Agency (IHA)",
-    "url": "https://x.com/coinbureau/status/2110374871826079799"
-  },
-  {
     "id": "x-1791987847448-gm3m49",
     "source": "x",
     "ts": "2026-10-14T14:24:07.448Z",
@@ -8014,5 +8001,25 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110993428125544448/img/llOglWUGcHOYWeSA.jpg"
     }
+  },
+  {
+    "id": "x-1792135939635-2jy3dc",
+    "source": "x",
+    "ts": "2026-10-16T07:32:19.635Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T07:30:20.000Z",
+    "reason": "BTC spot ETFs saw net inflows, indicating investor interest.",
+    "text": "🇺🇸 ETF FLOWS: BTC spot ETFs saw net inflows on Oct. 15, while ETH, SOL and XRP spot ETFs saw net outflows.\n\nBTC: $5.06M\nETH: -$60.22M\nSOL: -$9.82M\nXRP: -$104.51K",
+    "url": "https://x.com/Cointelegraph/status/2110996751997960381",
+    "images": [
+      "https://pbs.twimg.com/media/HUvEWjGWcAAyRYC.jpg",
+      "https://pbs.twimg.com/media/HUvEWxVXUAE4Txg.jpg",
+      "https://pbs.twimg.com/media/HUvEW9MXUAAFaB5.jpg"
+    ],
+    "video": null
   }
 ]
