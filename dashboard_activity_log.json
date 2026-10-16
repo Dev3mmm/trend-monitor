@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792029742467-fs1obk",
-    "source": "x",
-    "ts": "2026-10-15T02:02:22.467Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-15T01:58:00.000Z",
-    "reason": "Noise: Generic news about geopolitical speculation without concrete evidence.",
-    "text": "🇺🇸🇺🇦 ESCALATING: Ukraine suspects Trump is behind Elon Musk’s Starlink cutting off its war drones mid-flight above 160 kph.\n\nUkrainian officials believe the limits were imposed to pressure Kyiv into accepting Trump’s demand not to strike Russian oil refineries.\n\nSome drones",
-    "url": "https://x.com/coinbureau/status/2110550727533920677"
-  },
-  {
-    "id": "x-1792030356708-wew005",
-    "source": "x",
-    "ts": "2026-10-15T02:12:36.708Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-15T02:05:00.000Z",
-    "reason": "New privacy features for the native token, potentially significant for user privacy and security.",
-    "text": "Aptos Adds Three Layers Of Onchain Privacy\n\nAptos (@Aptos) aptos:native now has three opt-in privacy features live on mainnet, each covering a different part of onchain activity.\n\nKeyless Accounts allows users to generate wallets while remaining anonymous because there is no",
-    "url": "https://x.com/BSCNews/status/2110552489351119090",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110276566777204736/vid/avc1/1280x720/H29H_34iBgqrg0Dx.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110276566777204736/img/5jhWOyteL8ubSvWq.jpg"
-    }
-  },
-  {
     "id": "x-1792030968695-1t4dwk",
     "source": "x",
     "ts": "2026-10-15T02:22:48.695Z",
@@ -7960,5 +7926,36 @@
     "reason": "No notable crypto-related news detected.",
     "text": "🚨JUST IN: The Nasdaq 100 suffers its WORST week in a year, just 10 days after hitting a record high.\n\nThe tech-heavy index fell 2.5% on Friday and lost 5.5% this week.\n\nIt now sits nearly 7% below its October 6 peak, and another drop of just over 3% would put it in correction",
     "url": "https://x.com/coinbureau/status/2111192309496938564"
+  },
+  {
+    "id": "x-1792183918513-zoqu2t",
+    "source": "x",
+    "ts": "2026-10-16T20:51:58.513Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T20:50:16.000Z",
+    "reason": "Notable cost reduction for stablecoin transfers.",
+    "text": "⚡️ UPDATE: Stablecoin-funded remittances cost roughly 84% less than traditional transfers, with a median fee of $2 versus $12.72 for sending $200.",
+    "url": "https://x.com/Cointelegraph/status/2111198059715518606",
+    "images": [
+      "https://pbs.twimg.com/media/HUx7ck6WQAA609Q.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792183923047-pcltid",
+    "source": "x",
+    "ts": "2026-10-16T20:52:03.047Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T20:45:00.000Z",
+    "reason": "No notable move in Ethereum price or significant news content.",
+    "text": "LayerZero research tackles a big quantum problem for blockchains\n\nBlockchains verify thousands of validator signatures by bundling them into a single proof, but today’s method could be broken by future quantum computers. Quantum-safe signatures exist, but bundling them quickly",
+    "url": "https://x.com/BSCNews/status/2111196734697222220"
   }
 ]
