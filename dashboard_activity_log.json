@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791979982586-velvgy",
-    "source": "x",
-    "ts": "2026-10-14T12:13:02.586Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-14T12:05:28.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "New bStock Listing.\n\nTrade: BBB/USDT, MDBB/USDT, PENGB/USDT and UVXYB/USDT\n\n24/7 access. 1:1 free and instant exchange for actual stocks on Binance\n\nExchange the World, one market at a time.\n\nRead more 👉",
-    "url": "https://x.com/binance/status/2110341214268760553"
-  },
-  {
-    "id": "x-1791979986220-lcc8p7",
-    "source": "x",
-    "ts": "2026-10-14T12:13:06.220Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-14T12:04:49.000Z",
-    "reason": "Specific institutional adoption in the BNB ecosystem.",
-    "text": "🔥 LATEST: @BNBCHAIN's ecosystem continues to attract builders looking to launch full-stack on-chain products, with growing interest in interactive trading and RWA adoption.  \n\n“Everything you need to build a really good product is here,” attendees said, pointing to the scale and",
-    "url": "https://x.com/Cointelegraph/status/2110341049633866129",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110340900337639424/vid/avc1/1280x720/Qy_cwAS2wVwreKZo.mp4?tag=29",
-      "duration": 69,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110340900337639424/img/QNGzCzWXmG8Flhlc.jpg"
-    }
-  },
-  {
     "id": "x-1791980539333-0h7hvy",
     "source": "x",
     "ts": "2026-10-14T12:22:19.333Z",
@@ -8003,5 +7969,36 @@
     "reason": "No notable crypto-related event or move is described.",
     "text": "That demo involved a non trivial chance of embarrassing failure! 🫡\n\nI’m only going for the baseline model. At this point in my life, rocket bunny hops are out of my comfort zone.",
     "url": "https://x.com/elonmusk/status/2110931414212346190"
+  },
+  {
+    "id": "x-1792120957925-jihfia",
+    "source": "x",
+    "ts": "2026-10-16T03:22:37.925Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T03:20:44.000Z",
+    "reason": "Significant growth in Solana RWA market cap.",
+    "text": "Solana RWA Market Cap Grows From $700 Million to $4.3 Billion in One Year\n\nAccording to a Castle Labs report on the Solana ecosystem, on-chain RWA market capitalization on Solana grew from about $700 million to $4.3 billion over the past year. Over the same period, Ethereum RWA",
+    "url": "https://x.com/WuBlockchain/status/2110933936197316733",
+    "images": [
+      "https://pbs.twimg.com/media/HUuLOVLbUAA2hmb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792120961808-f8a3ly",
+    "source": "x",
+    "ts": "2026-10-16T03:22:41.808Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 98,
+    "originTimestamp": "2026-10-16T01:44:22.000Z",
+    "reason": "No notable crypto event mentioned.",
+    "text": "Ok that was beyond insane.  Beyond plaid.\n0-60 in 0.8 seconds (thanks to thrusters and suction for tire grip) and top speed of Mach 0.5  \nOh, and it can fly.",
+    "url": "https://x.com/elonmusk/status/2110932103424508344"
   }
 ]
