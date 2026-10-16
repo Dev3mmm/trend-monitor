@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1791990775164-i1lii1",
-    "source": "x",
-    "ts": "2026-10-14T15:12:55.164Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T15:09:05.000Z",
-    "reason": "Specific financial statement from a large institution.",
-    "text": "JUST IN: $50 billion AUM Wellington-Altus says Bitcoin is entering a \"generational super cycle\". 👀\n\n\"I can't believe there are still people whipping this thing around between $83,000 and $86,000...Where does this go? God only knows but it's due north.\" 💥",
-    "url": "https://x.com/BitcoinMagazine/status/2110387423666409640",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110385760440401920/vid/avc1/1280x720/q7-TutC_UoCgXJfs.mp4?tag=29",
-      "duration": 296,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110385760440401920/img/JV2VjDNwQiBQ0IVl.jpg"
-    }
-  },
-  {
     "id": "x-1791991444708-8dp9qf",
     "source": "x",
     "ts": "2026-10-14T15:24:04.708Z",
@@ -8045,5 +8024,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111014306867503104/img/1X1k3oJZ-ewkYGHH.jpg"
     }
+  },
+  {
+    "id": "x-1792140780206-so5yc7",
+    "source": "x",
+    "ts": "2026-10-16T08:53:00.206Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-16T08:45:15.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨 LATEST: Ledger’s answer to wallet tampering? \n\nAn $849 device that won’t ship until summer 2027, as it investigates compromised wallets sold in Asia.",
+    "url": "https://x.com/Cointelegraph/status/2111015603460850115"
   }
 ]
