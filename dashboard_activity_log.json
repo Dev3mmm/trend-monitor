@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1792027956082-i0347j",
-    "source": "x",
-    "ts": "2026-10-15T01:32:36.082Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-15T01:22:46.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "@farzyness @amazon Just ask Grok Bot to find the best deal on the Internet for what you want. Doesn’t need to come from Amazon. \n\nMy Bot bought LEGO directly from the LEGO website no problem.",
-    "url": "https://x.com/elonmusk/status/2110541887836754025"
-  },
-  {
-    "id": "x-1792028591098-qq15og",
-    "source": "x",
-    "ts": "2026-10-15T01:43:11.098Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-15T01:40:21.000Z",
-    "reason": "No notable crypto-related news or movement mentioned.",
-    "text": "🇰🇷 JUST IN: South Korea’s KOSPI plunges another 7% today.",
-    "url": "https://x.com/Cointelegraph/status/2110546288370405872"
-  },
-  {
-    "id": "x-1792029139034-gokjtx",
-    "source": "x",
-    "ts": "2026-10-15T01:52:19.034Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T01:49:41.000Z",
-    "reason": "Notable regulatory and institutional crypto move.",
-    "text": "BingX EU obtains Austria CASP license, to offer services across 29 EEA countries\n\nBingX EU (MEGE zweite GmbH) announced that it has obtained a Crypto-Asset Service Provider (CASP) license from Austria’s Financial Market Authority (FMA) under the Markets in Crypto-Assets",
-    "url": "https://x.com/WuBlockchain/status/2110548637583618457",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792029145417-i795n8",
     "source": "x",
     "ts": "2026-10-15T01:52:25.417Z",
@@ -7966,5 +7924,44 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🤖 NEW: Claude solved the decades-old mystery of NIST elliptic curve seeds in under 30 minutes, tracing them to timestamps.",
     "url": "https://x.com/Cointelegraph/status/2111187993226575903"
+  },
+  {
+    "id": "x-1792182132158-6yuzxr",
+    "source": "x",
+    "ts": "2026-10-16T20:22:12.158Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 38,
+    "originTimestamp": "2026-10-16T19:43:49.000Z",
+    "reason": "No notable move, correlation changes are vague.",
+    "text": "The top 20 AI &amp; chip stocks lost over $1T this week. \n\nIn the meantime $BTC has looked resilient.\n\nCorrelation between BTC and SMH went from +0.9 to -0.79. A rough stretch for BTC. \n\nThe correlation has now weakened to -0.23 and BTC is the one rising while the AI trade falls.",
+    "url": "https://x.com/BitcoinMagazine/status/2111190093616881744"
+  },
+  {
+    "id": "x-1792182134930-8db7cb",
+    "source": "x",
+    "ts": "2026-10-16T20:22:14.930Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-16T20:17:15.000Z",
+    "reason": "Generic hype with no real content.",
+    "text": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
+    "url": "https://x.com/DecryptMedia/status/2111189751248159197"
+  },
+  {
+    "id": "x-1792182138982-begh8y",
+    "source": "x",
+    "ts": "2026-10-16T20:22:18.982Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T20:16:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Hal Finney was the first person Satoshi ever sent Bitcoin to\n\nLong before Bitcoin, Hal Finney (@halfin) was a cypherpunk, one of the 1990s coders who built privacy tools. He was an early contributor to PGP, the encryption software, and in 2004 launched RPOW, his own digital cash",
+    "url": "https://x.com/BSCNews/status/2111189436373647782"
   }
 ]
