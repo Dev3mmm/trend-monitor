@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791984809050-sdouc9",
-    "source": "x",
-    "ts": "2026-10-14T13:33:29.050Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T13:32:11.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "LIVE: Iran Geopolitics, BTC On-Chain Data, Crypto Legislation Outlook | BMTV Oct. 14, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2110363038025216406"
-  },
-  {
     "id": "x-1791984814655-4fbbog",
     "source": "x",
     "ts": "2026-10-14T13:33:34.655Z",
@@ -7984,5 +7971,26 @@
       "https://pbs.twimg.com/media/HUuiBvyXcAANwQK.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792127537333-073tcv",
+    "source": "x",
+    "ts": "2026-10-16T05:12:17.333Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-16T05:05:11.000Z",
+    "reason": "Starknet holders considering becoming an independent Layer 1 to enhance security against quantum threats.",
+    "text": "Starknet Holders Back a Potential Quantum Safe Layer 1\n\nStarknet (@Starknet) $STRK holders are voting on whether the network should become an independent Layer 1 to strengthen its security against quantum threats.\n\nThe idea is that the network will gain more control over its",
+    "url": "https://x.com/BSCNews/status/2110960222567121214",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110950631225868288/vid/avc1/1280x720/AOKLaUWDGNkYV8TR.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110950631225868288/img/nhfDTYnLYWVY08Eh.jpg"
+    }
   }
 ]
