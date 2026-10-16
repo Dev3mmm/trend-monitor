@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791980547953-bsk2z8",
-    "source": "x",
-    "ts": "2026-10-14T12:22:27.953Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-14T12:12:45.000Z",
-    "reason": "No notable move indicated, price within recent range.",
-    "text": "Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town",
-    "url": "https://x.com/DecryptMedia/status/2110343046600528371"
-  },
-  {
     "id": "x-1791981139947-vurz7f",
     "source": "x",
     "ts": "2026-10-14T12:32:19.947Z",
@@ -8005,5 +7992,26 @@
     "reason": "Noise: generic hype with no real content.",
     "text": "One of my favorite shows as a kid!",
     "url": "https://x.com/elonmusk/status/2110934548049731681"
+  },
+  {
+    "id": "x-1792122127102-5j21at",
+    "source": "x",
+    "ts": "2026-10-16T03:42:07.103Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-16T03:39:03.000Z",
+    "reason": "Binance US targets significant valuation increase with fresh funding round.",
+    "text": "Binance US Targets $1B Valuation in New Funding Round\n\nBinance US (@BinanceUS) is reportedly seeking up to $100 million in fresh funding, according to Bloomberg.\n\nThe crypto exchange hopes to regain its market share after the 2023 settlement between Binance and US regulators.",
+    "url": "https://x.com/BSCNews/status/2110938545972244482",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110938423754416128/vid/avc1/1280x720/dOj4eRlt3K77aII_.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110938423754416128/img/I-mBuq4yXBV1knNd.jpg"
+    }
   }
 ]
