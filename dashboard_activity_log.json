@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792009945006-t9kwrt",
-    "source": "x",
-    "ts": "2026-10-14T20:32:25.006Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-14T20:25:21.000Z",
-    "reason": "US Treasury's debt buying plan could impact market sentiment and interest rates.",
-    "text": "🇺🇸 JUST IN: US Treasury plans to buy back up to $6 billion in longer-term debt tomorrow.",
-    "url": "https://x.com/Cointelegraph/status/2110467015152464154",
-    "images": [
-      "https://pbs.twimg.com/media/HUnikKMWYAAn1g4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792009947027-snd74e",
-    "source": "x",
-    "ts": "2026-10-14T20:32:27.027Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-14T20:08:55.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Wellington-Altus's James Thorne on the commodity supercycle he watched unfold two decades ago:\n\n\"Commodities didn't change. The market structure around it changed and we had a super cycle.\"\n\n\"I've seen this trade before. It's the same trade. We're early.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2110466584993222969"
-  },
-  {
     "id": "x-1792010532989-3chtrg",
     "source": "x",
     "ts": "2026-10-14T20:42:12.989Z",
@@ -8009,5 +7978,34 @@
     "reason": "No notable move or specific event is described.",
     "text": "Real.",
     "url": "https://x.com/coinbase/status/2111139986158633219"
+  },
+  {
+    "id": "x-1792170646218-ul08k9",
+    "source": "x",
+    "ts": "2026-10-16T17:10:46.218Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T17:08:17.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🔥 TODAY: Sam Altman praises Tesla’s new Roadster, saying it “looks quite amazing” and congratulating Elon Musk.",
+    "url": "https://x.com/Cointelegraph/status/2111142198485950867"
+  },
+  {
+    "id": "x-1792170652971-s5x7s0",
+    "source": "x",
+    "ts": "2026-10-16T17:10:52.971Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-16T17:01:58.000Z",
+    "reason": "Exploit and ownership of BTC held by BlackRock are noteworthy on-chain data points.",
+    "text": "Today on BSCN Daily:\n\n1. An @OpenAI model checked 362 wallets, then spent from one it didn't own\n2. @CelestiaOrg's $TIA jumps 32% in a week with no clear catalyst\n3. Who actually owns the $BTC held by @BlackRock's IBIT\n4. @brave's Leo now runs private AI chats on @NEARProtocol AI",
+    "url": "https://x.com/BSCNews/status/2111140818757308842",
+    "images": [],
+    "video": null
   }
 ]
