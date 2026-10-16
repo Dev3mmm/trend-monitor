@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792005117539-clvfnh",
-    "source": "x",
-    "ts": "2026-10-14T19:11:57.539Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-14T19:05:00.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🔥HOT TAKE: BlackRock CEO Larry Fink warns that stopping AI data center construction could trigger a U.S. RECESSION.\n\n\"We need to unlock private capital to grow the U.S. economy by 3%,\" Fink said.\n\nHe warns that rising U.S. debt and government borrowing are putting more pressure",
-    "url": "https://x.com/coinbureau/status/2110446792248860873"
-  },
-  {
-    "id": "x-1792005826539-ohtjsi",
-    "source": "x",
-    "ts": "2026-10-14T19:23:46.539Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T19:20:22.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "⚡️ INTERESTING: OpenAI's UK subsidiary reported £32M in pre-tax profit for 2025, up from £6.8M a year earlier, on revenue that nearly quadrupled to £293M.\n\nIt spent £258M on staff for just 110 employees, an average of £2.35M ($3.1M) per person, nearly two-thirds of it in stock.",
-    "url": "https://x.com/Cointelegraph/status/2110450660709699684"
-  },
-  {
     "id": "x-1792005830432-9qmvfm",
     "source": "x",
     "ts": "2026-10-14T19:23:50.432Z",
@@ -8021,5 +7995,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111025651591397376/img/HEozhi28IVZ0rlAb.jpg"
     }
+  },
+  {
+    "id": "x-1792165970978-zhc0xc",
+    "source": "x",
+    "ts": "2026-10-16T15:52:50.978Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T15:50:15.000Z",
+    "reason": "Potential security scandal with historical significance.",
+    "text": "🚨 LATEST: Former Mt. Gox CEO Mark Karpelès says Ledger received warnings about tampered hardware wallets as early as December 2025 and should have done more to alert customers before its latest security crisis.",
+    "url": "https://x.com/Cointelegraph/status/2111122559005544795",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792165973898-yu55xy",
+    "source": "x",
+    "ts": "2026-10-16T15:52:53.898Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-16T15:45:15.000Z",
+    "reason": "Notifiable legal/regulatory news involving cryptocurrency.",
+    "text": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+    "url": "https://x.com/DecryptMedia/status/2111121300102037572",
+    "images": [],
+    "video": null
   }
 ]
