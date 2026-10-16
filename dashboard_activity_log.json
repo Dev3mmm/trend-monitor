@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1791989957574-dn318g",
-    "source": "x",
-    "ts": "2026-10-14T14:59:17.574Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-14T14:53:02.000Z",
-    "reason": "Price outside recent range suggests potential significant news.",
-    "text": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
-    "url": "https://x.com/DecryptMedia/status/2110383382509015139",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791989962951-3k6q7p",
-    "source": "x",
-    "ts": "2026-10-14T14:59:22.951Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-14T14:53:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Arbitrum is winning the development game...\n\nIn the past 30 days, according to @chainspect_app data, @arbitrum has seen an impressive 18,033 developer commits.\n\nThis places it well ahead of every other chain in existence, including the likes of @Ethereum, @Cardano, @SuiNetwork",
-    "url": "https://x.com/BSCNews/status/2110383374934380721"
-  },
-  {
     "id": "x-1791990169456-loxxaw",
     "source": "x",
     "ts": "2026-10-14T15:02:49.456Z",
@@ -8040,5 +8011,31 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110967785325264896/img/HcgY0-LrI7Hvg5Vn.jpg"
     }
+  },
+  {
+    "id": "x-1792139589030-94sd5p",
+    "source": "x",
+    "ts": "2026-10-16T08:33:09.030Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T08:30:28.000Z",
+    "reason": "No notable move in ADA price or significant news.",
+    "text": "You can make passive income on Cardano!\n\nUsing @ElanInsights' Income Dashboard, we were able to identify the highest yield opportunities in the entire @Cardano ecosystem.\n\nAccess Now: \n\nBy far the winner when it comes to yield on $ADA was @MinswapDEX -",
+    "url": "https://x.com/BSCNews/status/2111011882530206128"
+  },
+  {
+    "id": "x-1792139593667-adnqrp",
+    "source": "x",
+    "ts": "2026-10-16T08:33:13.667Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-16T08:24:58.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": "🐱 $FATKAT is bringing a feline twist to BNB memecoins 👀\n\nCat food merch for holders is coming soon — because colder days mean hungry cats. 🍖\n\nFollow @fatkatbnb for the upcoming launch on BNB Chain. 🚀",
+    "url": "https://x.com/BSCNews/status/2111010499395461533"
   }
 ]
