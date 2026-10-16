@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791992041364-myzhaj",
-    "source": "x",
-    "ts": "2026-10-14T15:34:01.364Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-14T15:19:00.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "Internet Computer is gaining on Solana... \n\nOver the past week, @dfinity has averaged some 1,816 transactions per second, per @chainspect_app data.\n\n@Solana still leads with 1,896 tx/s, however, $SOL's figure has fallen nearly -1% in the period...\n\n... while $ICP's throughput has",
-    "url": "https://x.com/BSCNews/status/2110389917927014407"
-  },
-  {
-    "id": "x-1791992046758-awpkps",
-    "source": "x",
-    "ts": "2026-10-14T15:34:06.758Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 19,
-    "originTimestamp": "2026-10-14T15:14:28.000Z",
-    "reason": "New crypto-to-fiat platform plans to expand accessibility.",
-    "text": "👀 @flipwifflip is looking to simplify the way users move between crypto and fiat. 🌍\n\nThe platform supports crypto-to-fiat and fiat-to-crypto transactions, with plans to expand into more countries.\n\n$FLIP aims to make digital assets more accessible for everyday use. 🔄",
-    "url": "https://x.com/BSCNews/status/2110388779194204191",
-    "images": [
-      "https://pbs.twimg.com/media/HUmbYfZWEAACjFj.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791992628048-gqxaxz",
     "source": "x",
     "ts": "2026-10-14T15:43:48.048Z",
@@ -8027,5 +7996,39 @@
       "https://pbs.twimg.com/media/HUveN_WXgAAGg0O.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792143731671-n2p5gs",
+    "source": "x",
+    "ts": "2026-10-16T09:42:11.671Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-16T09:37:19.000Z",
+    "reason": "Price and market cap growth of ZCAT are notable over the short term.",
+    "text": "Anonymous Cat Rallies as Zcash Reward Model Gains Momentum Again\n\nAnonymous Cat $ZCAT is seeing renewed price momentum, up 26% in 24 hours and 30% over seven days. Its market cap has reached $57 million.\n\nUnlike many Solana (@solana) $SOL memecoins, ZCAT trades against $ZEC on",
+    "url": "https://x.com/BSCNews/status/2111028706785493258",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111028643581566976/vid/avc1/1280x720/T5H6e3NYhpUxzGVi.mp4?tag=29",
+      "duration": 16,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111028643581566976/img/3bvTSNN_R2AMNDrU.jpg"
+    }
+  },
+  {
+    "id": "x-1792143734638-d78c49",
+    "source": "x",
+    "ts": "2026-10-16T09:42:14.638Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-16T09:32:49.000Z",
+    "reason": "Noise: generic statement without content.",
+    "text": "Where your email finds me.",
+    "url": "https://x.com/coinbase/status/2111027576726757726"
   }
 ]
