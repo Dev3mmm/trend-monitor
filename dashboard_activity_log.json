@@ -1,70 +1,5 @@
 [
   {
-    "id": "x-1792007620780-qkkflj",
-    "source": "x",
-    "ts": "2026-10-14T19:53:40.780Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-14T19:45:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Quant’s bank network is built for tokenized deposits. Here’s how they differ from stablecoins\n\n@TCHtweets, which runs the US RTP and CHIPS payment systems, picked @quantnetwork to build its On-Chain Money network. It’s set to open to US banks in the first half of 2027.\n\nA",
-    "url": "https://x.com/BSCNews/status/2110456859073085817",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110443142700818432/vid/avc1/1220x720/U-T5xdwrJhtqf1Oi.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110443142700818432/img/JTxyB8mMMlzA_g4i.jpg"
-    }
-  },
-  {
-    "id": "x-1792008143669-roywgj",
-    "source": "x",
-    "ts": "2026-10-14T20:02:23.669Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T20:00:30.000Z",
-    "reason": "No notable move, no specific price or event mentioned.",
-    "text": "Digital Credit, powered by Bitcoin. Our most senior preferred stock, $STRF (“Strife”), explained in three minutes.",
-    "url": "https://x.com/saylor/status/2110460760531021924"
-  },
-  {
-    "id": "x-1792008148431-14pfrn",
-    "source": "x",
-    "ts": "2026-10-14T20:02:28.431Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T20:00:29.000Z",
-    "reason": "Specific statement from a notable figure in the crypto space regarding security measures.",
-    "text": "🚨 INSIGHT: CZ says all hardware wallets should have see-through cases in the future to help users spot signs of tampering.",
-    "url": "https://x.com/Cointelegraph/status/2110460758307885408",
-    "images": [
-      "https://pbs.twimg.com/media/HUnc38VWAAAPeoi.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792008734330-f9ml5m",
-    "source": "x",
-    "ts": "2026-10-14T20:12:14.330Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-14T19:48:42.000Z",
-    "reason": "No notable move in ETH price, price is within the recent range.",
-    "text": "Tutorial on Digital Credit: $STRF (\"Strife\")",
-    "url": "https://x.com/saylor/status/2110461551325122959"
-  },
-  {
     "id": "x-1792009339419-lrqmlu",
     "source": "x",
     "ts": "2026-10-14T20:22:19.419Z",
@@ -8009,6 +7944,67 @@
     "images": [
       "https://pbs.twimg.com/media/HUw98D3XIAAwueQ.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1792169034245-0nfhqf",
+    "source": "x",
+    "ts": "2026-10-16T16:43:54.245Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-16T16:43:16.000Z",
+    "reason": "Elon Musk's comments about ad standards for X do not constitute a notable crypto event.",
+    "text": "🚨 NEW: Elon Musk says X will enforce a “reasonable esthetic standard” for ads, barring advertisers whose promotions are ugly, shrill, strident or exaggerate product claims.",
+    "url": "https://x.com/Cointelegraph/status/2111135903087260050",
+    "images": [
+      "https://pbs.twimg.com/media/HUxC6ZnW4AA1cwk.jpg",
+      "https://pbs.twimg.com/media/HUxC6nRXcAAN7x2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792169037311-hagsa3",
+    "source": "x",
+    "ts": "2026-10-16T16:43:57.311Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 33,
+    "originTimestamp": "2026-10-16T16:10:17.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "My favorite Grok Bot use case so far:\n\nI wake up to hundreds of comments. I try to answer everyone, but some always slip through. Now Grok Bot sends me links to every comment I haven't answered, and I reply to each one myself. No automated replies, just no one left behind 💛",
+    "url": "https://x.com/elonmusk/status/2111135858216902816"
+  },
+  {
+    "id": "x-1792169040833-4k8q5g",
+    "source": "x",
+    "ts": "2026-10-16T16:44:00.833Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 55,
+    "originTimestamp": "2026-10-16T15:49:02.000Z",
+    "reason": "No notable move, partnership without specific details or value.",
+    "text": "It’s no secret that Grok @Bot is my favorite 24/7 AI agent right now.\n\nI’m partnering with @SpaceXSI to give out codes for one month FREE of the Super tier ($100) of their new X Subscription.\n\nIt combines X, Grok, Grok Bot, and Cursor into one subscription and is imo a no",
+    "url": "https://x.com/elonmusk/status/2111135460861038952"
+  },
+  {
+    "id": "x-1792169044173-7oqv7n",
+    "source": "x",
+    "ts": "2026-10-16T16:44:04.173Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T16:37:15.000Z",
+    "reason": "CFTC's stance could impact future regulatory actions in crypto markets.",
+    "text": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+    "url": "https://x.com/DecryptMedia/status/2111134385751671280",
+    "images": [],
     "video": null
   }
 ]
