@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1792012380084-cg0nk5",
-    "source": "x",
-    "ts": "2026-10-14T21:13:00.084Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-14T20:56:49.000Z",
-    "reason": "Co-innovation in blockchain finality mechanisms by notable projects.",
-    "text": "DAGKnight would let $KAS confirm blocks based on measured network delay instead of a fixed assumption, aiming for sub-second finality.\n\nCo-designed by @hashdag, it has no activation date yet. Toccata smart contracts went live on @kaspaunchained in June.",
-    "url": "https://x.com/BSCNews/status/2110478136160690186",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792012385085-sw4mgn",
-    "source": "x",
-    "ts": "2026-10-14T21:13:05.085Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-14T21:02:34.000Z",
-    "reason": "Fidelity Digital Assets indicating positive momentum signal for Bitcoin.",
-    "text": "NEW: Fidelity Digital Assets says Bitcoin's momentum signal has turned positive. 👀\n\n\"The momentum signal has turned positive, with trend and volatility now aligned behind recent price strength. Historically, that combination has been associated with more sustained advances.\" 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2110476379091357964",
-    "images": [
-      "https://pbs.twimg.com/media/HUnqVZVXcAAv7t9.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792012931432-a5y2aw",
-    "source": "x",
-    "ts": "2026-10-14T21:22:11.432Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T21:20:22.000Z",
-    "reason": "Bank of America hiring significant internal staff to address vulnerabilities",
-    "text": "🚨 LATEST: Bank of America hired 1,000 contractors to help 3,000 internal staff patch software vulnerabilities exposed by Anthropic’s Mythos.",
-    "url": "https://x.com/Cointelegraph/status/2110480858754716075",
-    "images": [
-      "https://pbs.twimg.com/media/HUnvJ0rXYAAIgJj.jpg",
-      "https://pbs.twimg.com/media/HUnvKAaXQAAuQLS.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792012934600-nj2odh",
     "source": "x",
     "ts": "2026-10-14T21:22:14.600Z",
@@ -8000,5 +7947,44 @@
       "https://pbs.twimg.com/media/HUxKP9qWQAA2lzb.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792171981175-arkuw7",
+    "source": "x",
+    "ts": "2026-10-16T17:33:01.175Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T17:31:29.000Z",
+    "reason": "No notable financial news related to crypto markets.",
+    "text": "🚨BREAKING: U.S. crude oil SURGES to $100 per barrel, its highest since September 17, while Brent climbs above $106 amid escalating Middle East tensions.\n\nIran intensifies attacks near the Strait of Hormuz as Ukraine vows to continue striking Russian refineries, fueling fears of",
+    "url": "https://x.com/coinbureau/status/2111148037016043681"
+  },
+  {
+    "id": "x-1792171983777-o0f6mt",
+    "source": "x",
+    "ts": "2026-10-16T17:33:03.777Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T17:30:46.000Z",
+    "reason": "Generic opinion without factual support or data.",
+    "text": "🇺🇸 INSIGHT: Peter Schiff predicts US inflation will exceed 7% in both 2027 and 2028, citing deficit spending and money printing.",
+    "url": "https://x.com/Cointelegraph/status/2111147853716349124"
+  },
+  {
+    "id": "x-1792171986035-4l7pgb",
+    "source": "x",
+    "ts": "2026-10-16T17:33:06.035Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 68,
+    "originTimestamp": "2026-10-16T16:24:26.000Z",
+    "reason": "No notable move in crypto prices or events.",
+    "text": "Please report ugly or misleading ads to 𝕏 @Ads",
+    "url": "https://x.com/elonmusk/status/2111146290730168744"
   }
 ]
