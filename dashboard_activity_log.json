@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1791988410271-i1qk5w",
-    "source": "x",
-    "ts": "2026-10-14T14:33:30.271Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T14:30:01.000Z",
-    "reason": "Bank failure impacting crypto markets with a significant financial institution.",
-    "text": "🚨HUGE: Bank of America $BAC shares CRASH 8.3% after missing Q3 profit estimates and booking a $1.2 BILLION regulatory charge tied to anti-money-laundering failures.\n\nBoFa reported: \n- Fixed-income trading revenue fell 17% \n- Total trading revenue declined 5% to $5.1 BILLION \n-",
-    "url": "https://x.com/coinbureau/status/2110377590523383952",
-    "images": [
-      "https://pbs.twimg.com/media/HUmOPrHbAAAt56O.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791988415618-7hxnxc",
     "source": "x",
     "ts": "2026-10-14T14:33:35.618Z",
@@ -8027,6 +8009,27 @@
       "duration": 132,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110372203086708736/img/z7zCqKTLi3_oCYzh.jpg"
+    }
+  },
+  {
+    "id": "x-1792137149373-3kjdnd",
+    "source": "x",
+    "ts": "2026-10-16T07:52:29.373Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-16T07:48:09.000Z",
+    "reason": "New use of a token for a privacy-enhanced AI assistant.",
+    "text": "NEAR AI Brings Hardware Verified Privacy to Brave Leo\n\nNEAR (@NEARProtocol) AI $NEAR Cloud now powers private inference for Brave's (@brave) Leo assistant.\n\nPrompts remain encrypted in the browser and are decrypted inside a hardware enclave.\n\nBrave's verifier checks the hardware",
+    "url": "https://x.com/BSCNews/status/2111001232856985970",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110998084050403328/vid/avc1/1280x720/lYYZs6qCm6pGVCfC.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110998084050403328/img/A0901I5tjWwvBoJX.jpg"
     }
   }
 ]
