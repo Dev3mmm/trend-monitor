@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791981139947-vurz7f",
-    "source": "x",
-    "ts": "2026-10-14T12:32:19.947Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T12:31:16.000Z",
-    "reason": "Crypto markets often react to economic data releases, including inflation reports.",
-    "text": "🚨JUST OUT: U.S. CPI comes in HOTTER than expected, with both headline and core inflation beating forecasts.\n\nHeadline CPI YoY: 3.7% vs. 3.6% expected and 3.4% prior\n\nCore CPI YoY: 2.6% vs. 2.5% expected and 2.4% prior\n\nBoth headline and core inflation accelerated from last",
-    "url": "https://x.com/coinbureau/status/2110347708536074491",
-    "images": [
-      "https://pbs.twimg.com/media/HUlzl9OaAAAZCB4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791981143718-st8dez",
-    "source": "x",
-    "ts": "2026-10-14T12:32:23.718Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-14T12:23:29.000Z",
-    "reason": "No factual claim or specific event mentioned.",
-    "text": "JUST IN: 🇺🇸US stocks lost over $97 BILLION yesterday, with financials alone wiping out $40B after bank earnings report.",
-    "url": "https://x.com/coinbureau/status/2110345747803828613"
-  },
-  {
     "id": "x-1791981759704-xjzuzr",
     "source": "x",
     "ts": "2026-10-14T12:42:39.704Z",
@@ -8013,5 +7982,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110938423754416128/img/I-mBuq4yXBV1knNd.jpg"
     }
+  },
+  {
+    "id": "x-1792122755239-xhw5xw",
+    "source": "x",
+    "ts": "2026-10-16T03:52:35.239Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-16T03:47:12.000Z",
+    "reason": "No notable crypto-related news or event mentioned.",
+    "text": "🇮🇩 BREAKING: Indonesian stocks PLUNGE over -10%, triggering a trading halt as MSCI threatens to remove the country from its main global indices.\n\nMSCI says Indonesia no longer merits emerging-market status and is consulting on a downgrade to STANDALONE status, citing persistent",
+    "url": "https://x.com/coinbureau/status/2110940597133750284"
+  },
+  {
+    "id": "x-1792122759592-rk6o4f",
+    "source": "x",
+    "ts": "2026-10-16T03:52:39.592Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-16T03:44:47.000Z",
+    "reason": "Notable bank adoption of stablecoins.",
+    "text": "Singapore Gulf Bank (SGB) announced that retail customers can use its mobile banking app to convert between U.S. dollars (USD) and USDT or USDC in both directions. Customers do not need to transfer funds to a crypto exchange and can hold USDT, USDC and other fiat currencies in",
+    "url": "https://x.com/WuBlockchain/status/2110939988808564898",
+    "images": [],
+    "video": null
   }
 ]
