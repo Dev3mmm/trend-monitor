@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1791983593645-qbjmeg",
-    "source": "x",
-    "ts": "2026-10-14T13:13:13.645Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-14T13:00:14.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Today is the last trading day to purchase $STRC and be entitled to the $0.50 dividend per share for the October 15 record date and October 31 payout date.",
-    "url": "https://x.com/saylor/status/2110356482642309470"
-  },
-  {
-    "id": "x-1791984132396-k1kxpt",
-    "source": "x",
-    "ts": "2026-10-14T13:22:12.396Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-14T13:17:00.000Z",
-    "reason": "Tokenized stock trading on BNB Chain and Solana has surged.",
-    "text": "BNB Chain And Solana See Tokenized Stock Trading Boom After Hours\n\nTokenized stock values have risen 15% over the past month to nearly $3.3 billion.\n\nMost tokenized stock trading on major blockchains happens outside the traditional US trading session.\n\nBNB Chain (@BNBCHAIN) $BNB",
-    "url": "https://x.com/BSCNews/status/2110359215919464495",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110265270895800320/vid/avc1/1280x720/Y53SULAeZKFpCN9p.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110265270895800320/img/VDrPg5nAVRr-dO44.jpg"
-    }
-  },
-  {
     "id": "x-1791984135036-23n4ls",
     "source": "x",
     "ts": "2026-10-14T13:22:15.036Z",
@@ -7984,5 +7950,45 @@
     "reason": "Noise: Generic statement without content.",
     "text": "bro",
     "url": "https://x.com/elonmusk/status/2110951176871227825"
+  },
+  {
+    "id": "x-1792125731908-lpl5bu",
+    "source": "x",
+    "ts": "2026-10-16T04:42:11.908Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-16T04:34:49.000Z",
+    "reason": "Event cancellation and cancellation reason unknown makes it noteworthy.",
+    "text": "Solana event in Shanghai abruptly cancelled on the morning of October 16\n\nThe \"Solana Accelerate China 2026\" event, hosted by the Solana Foundation in Shanghai on the morning of October 16, was abruptly cancelled; the reason remains unknown. Some registered attendees reported",
+    "url": "https://x.com/WuBlockchain/status/2110952580348047520",
+    "images": [
+      "https://pbs.twimg.com/media/HUucItdbcAA3Ynv.jpg",
+      "https://pbs.twimg.com/media/HUucLkEbkAAqBob.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792125734568-1e4hst",
+    "source": "x",
+    "ts": "2026-10-16T04:42:14.568Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-16T04:33:05.000Z",
+    "reason": "US becomes net importer of Bitcoin for first time since 2022",
+    "text": "US Becomes a Net Bitcoin Importer For First Time Since 2022\n\nThe US became a net importer of Bitcoin $BTC in 2026, according to Chainalysis.\n\nSince the introduction of spot Bitcoin ETFs in 2024, the US' share of total global Bitcoin transactions has grown every reporting period.",
+    "url": "https://x.com/BSCNews/status/2110952142735577176",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110945864227405824/vid/avc1/1280x720/EBrTehRshQe-Z6Jn.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110945864227405824/img/8a2OEDPtE_OCq71h.jpg"
+    }
   }
 ]
