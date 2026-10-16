@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791968551010-8vdi35",
-    "source": "x",
-    "ts": "2026-10-14T09:02:31.010Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T09:00:21.000Z",
-    "reason": "New York Fed President's statement on AI supply squeeze could impact crypto markets.",
-    "text": "🇺🇸 LATEST: New York Fed President John Williams sees AI supply squeeze lasting beyond 2 years.",
-    "url": "https://x.com/Cointelegraph/status/2110294629375447050",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791969164606-r0hlhr",
-    "source": "x",
-    "ts": "2026-10-14T09:12:44.606Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-14T09:02:00.000Z",
-    "reason": "Notable on-chain data point and institutional use case.",
-    "text": "Sei Completes Biggest Migration Since 2024\n\nSei (@SeiNetwork) Labs says its EVM store has migrated to FlatKV, marking its biggest migration since SeiDB launched in 2024.\n\nThe process moved 712 million EVM keys at roughly 2,150 per second.\n\nFinal checks found zero mismatches",
-    "url": "https://x.com/BSCNews/status/2110295043227722160",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110284493940760576/vid/avc1/1280x720/BIfipZ56WUvdleXo.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110284493940760576/img/apVNANYOXMMkxpJB.jpg"
-    }
-  },
-  {
     "id": "x-1791969750604-7f6hm0",
     "source": "x",
     "ts": "2026-10-14T09:22:30.604Z",
@@ -8052,5 +8015,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110708793596145664/img/CMjI5dDYV9B-Gtl2.jpg"
     }
+  },
+  {
+    "id": "x-1792109088960-4c0ekk",
+    "source": "x",
+    "ts": "2026-10-16T00:04:48.960Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-16T00:00:21.000Z",
+    "reason": "MSCI's approval could significantly impact Saylor's strategy if realized.",
+    "text": "🚨 JUST IN: MSCI approves new rules that could push Michael Saylor’s Strategy out of its global indexes, potentially forcing billions in stock sales.",
+    "url": "https://x.com/Cointelegraph/status/2110883509044715961",
+    "images": [
+      "https://pbs.twimg.com/media/HUtdXDwXIAEYbd8.jpg",
+      "https://pbs.twimg.com/media/HUtdXVFXIAAFA-F.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792109090666-y1phot",
+    "source": "x",
+    "ts": "2026-10-16T00:04:50.666Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-16T00:00:00.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "More ways to trade stock options.\n\nCovered Call and Cash-Secured Put strategies are now available on Binance.\n\nKnow more →",
+    "url": "https://x.com/binance/status/2110883420733894781"
   }
 ]
