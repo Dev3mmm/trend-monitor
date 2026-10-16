@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791987840588-0mcx5g",
-    "source": "x",
-    "ts": "2026-10-14T14:24:00.588Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T14:21:00.000Z",
-    "reason": "No notable move or specific factual claim.",
-    "text": "Pyth Network's revenue nearly DOUBLED in Q3 of this year.\n\nIn Q2 2026, @PythNetwork's ARR stood at just $6.18M.\n\nIn Q3, that figure rose to a full $11.49M, growing some +86% QoQ.\n\nThe growth is not new however, solana:HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3's ARR coming in",
-    "url": "https://x.com/BSCNews/status/2110375321841308068"
-  },
-  {
     "id": "x-1791987844158-7wt1nu",
     "source": "x",
     "ts": "2026-10-14T14:24:04.158Z",
@@ -8006,5 +7993,26 @@
     "reason": "Noise: Generic hype without factual claim.",
     "text": "Holy smokes",
     "url": "https://x.com/elonmusk/status/2110988635264950570"
+  },
+  {
+    "id": "x-1792135371827-x07tso",
+    "source": "x",
+    "ts": "2026-10-16T07:22:51.827Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-16T07:17:37.000Z",
+    "reason": "No notable news in the tweet provided.",
+    "text": "InterLink Teases BitFlip Jackpot After New Market Launch\n\nInterLink (@inter_link) has announced a new Market feature on BitFlip (@BitFlipITL), giving users more flexibility in managing their in-game positions.\n\nUsers can explore the new marketplace mechanics now.\n\nJackpot is",
+    "url": "https://x.com/BSCNews/status/2110993551559651717",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110993428125544448/vid/avc1/1280x720/8HCmYmRZaft3tDtH.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110993428125544448/img/llOglWUGcHOYWeSA.jpg"
+    }
   }
 ]
