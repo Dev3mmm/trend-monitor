@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1791988985989-qdi2ki",
-    "source": "x",
-    "ts": "2026-10-14T14:43:05.989Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-14T14:30:01.000Z",
-    "reason": "The tweet provides concrete, specific information about a significant event in the financial sector.",
-    "text": "🚨HUGE: Bank of America $BAC shares CRASH 8.3% after missing Q3 profit estimates and booking a $1.2 BILLION regulatory charge tied to anti-money-laundering failures.\n\nBoFa reported: \n- Fixed-income trading revenue fell 17% \n- Total trading revenue declined 5% to $5.1 BILLION \n-",
-    "url": "https://x.com/coinbureau/status/2110377590523383952",
-    "images": [
-      "https://pbs.twimg.com/media/HUmOPrHbAAAt56O.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791988989505-zw9byl",
-    "source": "x",
-    "ts": "2026-10-14T14:43:09.505Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 25,
-    "originTimestamp": "2026-10-14T14:17:57.000Z",
-    "reason": "Generic promotional tweet with no specific news or action.",
-    "text": "Our CEO @hugorenaudin_ is going live with @farokh x @Tyler_Did_It  discussing \"idea trading\", TOKEN2049, &amp; AI\n\n1. Tap in\n2. Download the Ulys app\n3. Use code FH25 and receive $25 USDC in your Ulys wallet after making your first trade.\n\nSign up: \n\nListen",
-    "url": "https://x.com/DecryptMedia/status/2110376077579190758"
-  },
-  {
     "id": "x-1791989957574-dn318g",
     "source": "x",
     "ts": "2026-10-14T14:59:17.574Z",
@@ -8031,5 +8000,45 @@
     "reason": "No factual claim or specific event mentioned.",
     "text": "so we got a flying car before Halloween",
     "url": "https://x.com/binance/status/2111005733018058876"
+  },
+  {
+    "id": "x-1792138926556-ohtxa7",
+    "source": "x",
+    "ts": "2026-10-16T08:22:06.557Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T08:15:07.000Z",
+    "reason": "Crypto market downturn affecting broader markets.",
+    "text": "Here's the END to South Korea's AI rally...\n\nOver $2.1T (₩2.8 quadrillion) has now been erased from KOSPI’s market value since its June peak.\n\nThe AI boom pushed the index to a record 9,385. It’s now nearly 40% below that peak.\n\nThis week alone, KOSPI plunged 14.46% to 5,668.05,",
+    "url": "https://x.com/coinbureau/status/2111008020415303996",
+    "images": [
+      "https://pbs.twimg.com/media/HUvJ7hdawAAnHAf.jpg",
+      "https://pbs.twimg.com/media/HUvJ-ybasAAxL9d.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792138931488-ydyllx",
+    "source": "x",
+    "ts": "2026-10-16T08:22:11.488Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-16T08:12:06.000Z",
+    "reason": "Security exploit involving wallet access",
+    "text": "OpenAI Agent Uses Someone Else’s Wallet After Running Out of Funds\n\nAn OpenAI (@OpenAI) research model ran out of test tokens, then found another way to pay its fees.\n\nThe model looked through 362 wallet addresses that were using recovery phrases available to the public and came",
+    "url": "https://x.com/BSCNews/status/2111007262974341155",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110967785325264896/vid/avc1/1280x720/vao_-a1ASTqEWK1K.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110967785325264896/img/HcgY0-LrI7Hvg5Vn.jpg"
+    }
   }
 ]
