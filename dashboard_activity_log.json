@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1792002139337-pb5691",
-    "source": "x",
-    "ts": "2026-10-14T18:22:19.337Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T18:20:56.000Z",
-    "reason": "XDC now available on Robinhood Crypto for U.S. customers, offering on-chain trade documents and faster settlement.",
-    "text": "⚡️ LATEST: @XDCNetwork’s native token, XDC, is now available to eligible U.S. customers on Robinhood Crypto.\n\n​The Layer-1 network moves trade documents and payments onchain, offering ISO 20022 compatibility and faster settlement times to help address the $2.5 trillion global",
-    "url": "https://x.com/Cointelegraph/status/2110435703284715699",
-    "images": [
-      "https://pbs.twimg.com/media/HUnGDGbWkAADfA0.jpg",
-      "https://pbs.twimg.com/media/HUnGEwMXcAAMabd.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792002143954-xlkgg3",
-    "source": "x",
-    "ts": "2026-10-14T18:22:23.954Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-14T18:18:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Internet Computer apps get random numbers from the network, not an oracle\n\nGames and lotteries need numbers nobody can guess. Many apps buy them from oracles, and @chainlink's VRF is a popular choice.\n\nOn Internet Computer (@dfinity), the chain handles it in-house. Each subnet",
-    "url": "https://x.com/BSCNews/status/2110434964768776335"
-  },
-  {
-    "id": "x-1792002149013-sl7z5r",
-    "source": "x",
-    "ts": "2026-10-14T18:22:29.013Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-14T18:15:00.000Z",
-    "reason": "No concrete, specific financial commitments tied to cryptocurrency projects.",
-    "text": "🇺🇸 HUGE: Trump announces up to $134.4 BILLION in investments and long-term gas purchase commitments tied to Alaska LNG.\n\nSouth Korea will invest $50 BILLION in the project, while Taiwan has committed another $4.4 BILLION in investment and up to $80 BILLION in LNG purchases over",
-    "url": "https://x.com/coinbureau/status/2110434210234126491"
-  },
-  {
     "id": "x-1792002743978-rjmgng",
     "source": "x",
     "ts": "2026-10-14T18:32:23.978Z",
@@ -8029,5 +7984,58 @@
     "reason": "No factual claim or notable event described.",
     "text": "Bitcoin learned to fly first btw.",
     "url": "https://x.com/coinbase/status/2111099908631495023"
+  },
+  {
+    "id": "x-1792161172648-qicnvu",
+    "source": "x",
+    "ts": "2026-10-16T14:32:52.648Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T14:31:16.000Z",
+    "reason": "Solana event cancellation due to exceeding attendance cap.",
+    "text": "🇨🇳 UPDATE: Solana postponed its Shanghai Accelerate event after registrations quadrupled and exceeded the attendance cap.",
+    "url": "https://x.com/Cointelegraph/status/2111102681620058421",
+    "images": [
+      "https://pbs.twimg.com/media/HUwksNyXcAA1Zrz.jpg",
+      "https://pbs.twimg.com/media/HUwksuTWgAAvhfu.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792161176420-m8kez0",
+    "source": "x",
+    "ts": "2026-10-16T14:32:56.420Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T14:31:00.000Z",
+    "reason": "Starknet proposal for becoming its own sovereign L1 chain sees overwhelming support.",
+    "text": "Starknet’s L1 proposal sees overwhelming support.\n\nYesterday, @Starkent $STRK opened a non-binding poll on whether it should pivot to becoming its own sovereign L1 chain.\n\nSo far, the support seems overwhelming.\n\nThough there are few comments on the poll itself, these comments",
+    "url": "https://x.com/BSCNews/status/2111102614364709232",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111025407143100416/vid/avc1/1312x720/BrcKlbFnrdmJoyzE.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111025407143100416/img/SM0SVd4EzsJoC7kB.jpg"
+    }
+  },
+  {
+    "id": "x-1792161180074-c6a6qo",
+    "source": "x",
+    "ts": "2026-10-16T14:33:00.075Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-16T14:30:01.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🚨ALERT: Nasdaq 100 Index DROPS over 1%, now DOWN 6% from its high just 10 days ago, as SEMICONDUCTOR and TECH stocks face heavy SELL OFF.\n\nYesterday, the Nasdaq 100, Semiconductor Index and S&amp;P 500 Software Index all fell at least 2%, only the second such day in 2026.\n\nThe",
+    "url": "https://x.com/coinbureau/status/2111102368519704673"
   }
 ]
