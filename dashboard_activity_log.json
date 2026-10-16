@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1791995790797-3egbzz",
-    "source": "x",
-    "ts": "2026-10-14T16:36:30.797Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 19,
-    "originTimestamp": "2026-10-14T16:16:45.000Z",
-    "reason": "Coinbase presses for immediate start of Bitcoin quantum migration.",
-    "text": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
-    "url": "https://x.com/DecryptMedia/status/2110404451282436437",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1791995794546-e6brba",
-    "source": "x",
-    "ts": "2026-10-14T16:36:34.546Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-14T16:15:13.000Z",
-    "reason": "Specific institutional and financial use case with significant value lock.",
-    "text": "Tokenized stocks are pushing Ondo past $4B...\n\n@Ondo crossed $4B in total value locked today, $1.3B of it in tokenized stocks and ETFs. It also tops the tokenized US Treasuries table at around $3B per rwa.​xyz, with over 1M cumulative holders across its products.\n\nThe milestone",
-    "url": "https://x.com/BSCNews/status/2110404066731770014",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110402758603866112/vid/avc1/1220x720/xZwtkLTAC3jIHgR3.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110402758603866112/img/itq4rmHsimYQvnFb.jpg"
-    }
-  },
-  {
     "id": "x-1791995797964-5ith39",
     "source": "x",
     "ts": "2026-10-14T16:36:37.964Z",
@@ -8052,5 +8015,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111024811266670594/img/JnsYoYhdFPzYSDo4.jpg"
     }
+  },
+  {
+    "id": "x-1792152748755-9gvt3i",
+    "source": "x",
+    "ts": "2026-10-16T12:12:28.755Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 18,
+    "originTimestamp": "2026-10-16T11:54:23.000Z",
+    "reason": "Specific token use case and institutional partnership.",
+    "text": "The NEAR AI Cloud from @NEARProtocol ($NEAR) now runs private inference for Brave's Leo assistant.\n\nPrompts are encrypted in the browser and decrypted only inside a hardware enclave.",
+    "url": "https://x.com/BSCNews/status/2111066905175851169",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792152753266-zyvdf7",
+    "source": "x",
+    "ts": "2026-10-16T12:12:33.266Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-16T12:03:21.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Strategy has conditionally declared daily dividends on $STRC for November 1–30, 2026, maintaining the 12.00% annual dividend rate. The declaration is subject to shareholder approval of the daily dividend amendment on October 28.",
+    "url": "https://x.com/saylor/status/2111065635904192788"
   }
 ]
