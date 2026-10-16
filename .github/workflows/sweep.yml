@@ -79,6 +79,13 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         continue-on-error: true # one lane failing (e.g. X account issue) shouldn't block the RSS lanes below
 
+      - name: Pull latest Square state from main (queued runs check out the SHA from when they were scheduled, so state is stale)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/${{ github.repository }}/contents/square_state.json --jq .content | base64 -d > /tmp/sq_latest.json && node -e "JSON.parse(require('fs').readFileSync('/tmp/sq_latest.json','utf8'))" && cp /tmp/sq_latest.json square_state.json
+        continue-on-error: true
+
       - name: Binance Square lane (dedupe, pace, paraphrase, Telegram, post)
         run: node square_cloud.js
         env:
