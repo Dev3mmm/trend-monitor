@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1792000407674-w8671q",
-    "source": "x",
-    "ts": "2026-10-14T17:53:27.674Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-14T17:45:00.000Z",
-    "reason": "Potential organizational changes in the crypto sector.",
-    "text": "🚨BREAKING: The White House Crypto Council could lose its LAST remaining staffer as questions mount over executive director Patrick Witt’s future, Eleanor Terrett reports.\n\nA source says Witt’s temporary assignment from the Defense Department has expired or is about to, with no",
-    "url": "https://x.com/coinbureau/status/2110426660247842850",
-    "images": [
-      "https://pbs.twimg.com/media/HUm7dSmbgAAd3VA.png",
-      "https://pbs.twimg.com/media/HUm7dS1asAAsbDO.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792000412494-kx2hb9",
-    "source": "x",
-    "ts": "2026-10-14T17:53:32.494Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 5,
-    "author": "BSCN",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-14T17:35:00.000Z",
-    "reason": "New use of XRP in AI agents wallets",
-    "text": "Apps won’t need to build their own XRP Ledger wallet much longer. Here’s what @privy_io and @Ripple are lining up, from $XRP and $RLUSD payments to wallets for AI agents ⬇️",
-    "url": "https://x.com/BSCNews/status/2110424143451578516",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792000934277-gnu55e",
-    "source": "x",
-    "ts": "2026-10-14T18:02:14.277Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-14T18:00:35.000Z",
-    "reason": "No notable move in crypto market mentioned.",
-    "text": "🚨 NEW: OpenAI’s head of computing capacity will leave next month after about a year at the company, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2110430584342212920"
-  },
-  {
     "id": "x-1792000937598-1p4lcv",
     "source": "x",
     "ts": "2026-10-14T18:02:17.598Z",
@@ -8025,5 +7977,57 @@
       "https://pbs.twimg.com/media/HUwY0A6aMAEuAOR.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792159354275-0i6589",
+    "source": "x",
+    "ts": "2026-10-16T14:02:34.275Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T14:00:59.000Z",
+    "reason": "Concrete price movement outside recent range indicates a potential trend change.",
+    "text": "🔥 UPDATE: Bitcoin rallied from $60K to $87K with barely any rise in funding rates, a bullish signal, says CoinGlass.",
+    "url": "https://x.com/Cointelegraph/status/2111095059474964507",
+    "images": [
+      "https://pbs.twimg.com/media/HUwdxKOXYAAQ5Ye.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792159356158-b0f39r",
+    "source": "x",
+    "ts": "2026-10-16T14:02:36.158Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T14:00:36.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": "Stock Options just got an upgrade. \n\nSell puts and calls. Explore covered calls and cash-secured puts.\n\nAll finance. On Binance.\n\nRead more 👉",
+    "url": "https://x.com/binance/status/2111094963756769509"
+  },
+  {
+    "id": "x-1792159358474-v9o9y1",
+    "source": "x",
+    "ts": "2026-10-16T14:02:38.474Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-16T13:59:00.000Z",
+    "reason": "Notable institutional launch with AI capabilities.",
+    "text": "Ankr just chose Monad to launch AI payments.\n\n@ankr has undergone a new first, launching x402 AI agent payments and choosing the @Monad L1 for its launch chain.\n\nAI agents can now autonomously access Ankr’s infrastructure tooling and pay for it themselves.\n\nThe $MON ecosystem has",
+    "url": "https://x.com/BSCNews/status/2111094561087103461",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111025291900383232/vid/avc1/1312x720/s4tUprgHOdLUn0mk.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111025291900383232/img/6-y9cc626ilacOPu.jpg"
+    }
   }
 ]
