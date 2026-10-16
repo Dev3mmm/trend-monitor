@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1792016547023-h8hsfv",
-    "source": "x",
-    "ts": "2026-10-14T22:22:27.023Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-14T22:17:00.000Z",
-    "reason": "Stablecoin losses reported for both Aptos and XRP Ledger chains.",
-    "text": "Aptos and XRP Ledger just lost millions in stablecoins...\n\nAccording to data from DefiLlama, @Aptos' stablecoin supply has tumbled -13.5% over the past week at time of writing.\n\nWhile @Ripple's $XRP Ledger has seen its stablecoin economy shrink -15.9% in the period.\n\nBoth chains,",
-    "url": "https://x.com/BSCNews/status/2110495111075291458",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110276453489143808/vid/avc1/1312x720/E4yWiW2ShDuch5rv.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110276453489143808/img/SiJn3ASRZNHpFNKd.jpg"
-    }
-  },
-  {
-    "id": "x-1792017126709-9zrxgm",
-    "source": "x",
-    "ts": "2026-10-14T22:32:06.709Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T22:28:42.000Z",
-    "reason": "No notable financial or crypto related news provided, just a profit announcement.",
-    "text": "🚨JUST IN: Anthropic hits $16.8 BILLION in Q3 revenue and reports a PROFIT ahead of its IPO.\n\nQuarterly revenue rose almost 50% from $11.5 BILLION in Q2, and more than tripled from $4.73 BILLION in Q1.\n\nThe Claude maker says it was profitable on an adjusted basis and cash flow",
-    "url": "https://x.com/coinbureau/status/2110498056307421506"
-  },
-  {
-    "id": "x-1792017747227-df635f",
-    "source": "x",
-    "ts": "2026-10-14T22:42:27.227Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T22:40:21.000Z",
-    "reason": "No notable move in crypto markets reported.",
-    "text": "🚨 BIG: The S&amp;P 500 posted its worst day since July 29, wiping out roughly $800 billion in market value as U.S. inflation moved higher again.",
-    "url": "https://x.com/Cointelegraph/status/2110500987274178975"
-  },
-  {
     "id": "x-1792018374884-kfd59n",
     "source": "x",
     "ts": "2026-10-14T22:52:54.884Z",
@@ -7982,5 +7935,44 @@
     "url": "https://x.com/DecryptMedia/status/2111159551927959779",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792175547804-8yiyl2",
+    "source": "x",
+    "ts": "2026-10-16T18:32:27.804Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T18:30:19.000Z",
+    "reason": "No factual claim or verifiable event.",
+    "text": "🇺🇸 TODAY: Trump says the US economy “has never been stronger.”",
+    "url": "https://x.com/Cointelegraph/status/2111162839545135443"
+  },
+  {
+    "id": "x-1792175553004-nmt1z2",
+    "source": "x",
+    "ts": "2026-10-16T18:32:33.004Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T18:26:06.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "@0x_kaize We are putting a lot of effort into a specialized Hagglebot for business use, as we think it could improve enterprise cost-efficiency by 5% or more. \n\nApplied to the global GDP, this could be up to $6 trillion/year in savings, delivering an immediate and measurable advantage to",
+    "url": "https://x.com/elonmusk/status/2111161815925203417"
+  },
+  {
+    "id": "x-1792175556219-mbe0cd",
+    "source": "x",
+    "ts": "2026-10-16T18:32:36.219Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 19,
+    "originTimestamp": "2026-10-16T18:13:05.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Everything is being tokenized, and you're bearish?",
+    "url": "https://x.com/coinbase/status/2111160908269465766"
   }
 ]
