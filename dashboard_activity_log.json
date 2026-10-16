@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1791986544174-7jbb51",
-    "source": "x",
-    "ts": "2026-10-14T14:02:24.174Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T14:00:01.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Your next move might need a passport.",
-    "url": "https://x.com/binance/status/2110370043108212749"
-  },
-  {
-    "id": "x-1791987131194-4roctz",
-    "source": "x",
-    "ts": "2026-10-14T14:12:11.194Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-14T14:07:34.000Z",
-    "reason": "No concrete, specific event to verify.",
-    "text": "🚨BREAKING: HEX and PulseChain founder Richard Heart has reportedly been ARRESTED in Istanbul, Turkey, with an Interpol Red Notice.\n\nThe, intelligence agency MİT and police detained Heart and his wife during a dawn raid in Beşiktaş, per Turkish media.\n\nIhlas News Agency (IHA)",
-    "url": "https://x.com/coinbureau/status/2110371942473851144"
-  },
-  {
     "id": "x-1791987133794-lz1pic",
     "source": "x",
     "ts": "2026-10-14T14:12:13.794Z",
@@ -7988,6 +7962,45 @@
     "images": [
       "https://pbs.twimg.com/media/HUuvBKfa0AAUUyo.jpg",
       "https://pbs.twimg.com/media/HUuvEm3agAA30H7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792132416261-tea4zd",
+    "source": "x",
+    "ts": "2026-10-16T06:33:36.261Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T06:31:29.000Z",
+    "reason": "Ledger wallet hack leads to loss of Bitcoin",
+    "text": "Ledger Hack Costs Alleged Crypto Scammer $4.8M\n\nAn alleged crypto scammer has reportedly lost $4.8 million in Bitcoin after his Ledger wallet (@Ledger) was compromised.\n\nThe victim reportedly lost around 60 bitcoin:native in the incident.\n\nThe breach is tied to a wider attack",
+    "url": "https://x.com/BSCNews/status/2110981941025788098",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2110960730409476096/vid/avc1/1280x720/CKa6slix4Y4-ex4B.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110960730409476096/img/6NBfNVMKeriG6VVh.jpg"
+    }
+  },
+  {
+    "id": "x-1792132420895-1suvpv",
+    "source": "x",
+    "ts": "2026-10-16T06:33:40.895Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-16T06:30:20.000Z",
+    "reason": "G7 leaders are taking cybersecurity seriously with simulated financial system responses.",
+    "text": "🚨 LATEST: G7 finance leaders agree to run tabletop exercises simulating AI-driven cyberattacks to test how well they can respond to growing threats to the financial system.",
+    "url": "https://x.com/Cointelegraph/status/2110981649882030422",
+    "images": [
+      "https://pbs.twimg.com/media/HUu2ngtWUAAFEyd.jpg"
     ],
     "video": null
   }
