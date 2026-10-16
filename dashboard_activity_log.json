@@ -1,74 +1,5 @@
 [
   {
-    "id": "x-1791999190419-qet3ul",
-    "source": "x",
-    "ts": "2026-10-14T17:33:10.419Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-14T17:25:22.000Z",
-    "reason": "No notable move in ETH price within its recent range.",
-    "text": "🇺🇸 JUST IN: U.S. inflation reached 3.7% in September as Cleveland Fed President Beth Hammack warned consumers increasingly see high inflation as a “fact of life.”",
-    "url": "https://x.com/Cointelegraph/status/2110421718934098184"
-  },
-  {
-    "id": "x-1791999863296-rfbbgd",
-    "source": "x",
-    "ts": "2026-10-14T17:44:23.296Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-14T17:35:00.000Z",
-    "reason": "Notable institutional partnership and potential utility updates for XRP and RLUSD.",
-    "text": "Apps won’t need to build their own XRP Ledger wallet much longer. Here’s what @privy_io and @Ripple are lining up, from $XRP and $RLUSD payments to wallets for AI agents ⬇️",
-    "url": "https://x.com/BSCNews/status/2110424143451578516",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792000394436-9pmx5r",
-    "source": "x",
-    "ts": "2026-10-14T17:53:14.436Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-14T17:49:00.000Z",
-    "reason": "Notable scalability milestone for Sui network.",
-    "text": "Sui tunnels top 40M transactions per second in a CertiK-checked test\n\n@SuiNetwork ran the test on mainnet at Sui Basecamp on October 7, peaking at 40.68M TPS and holding 40.33M over a full minute, per @CertiK.\n\nTunnels open and settle on Sui but run everything in between",
-    "url": "https://x.com/BSCNews/status/2110427666663031203",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110418295199322112/vid/avc1/1220x720/HjL_DN2dgxQwN4XN.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110418295199322112/img/UkqBK3MxO04jQLWd.jpg"
-    }
-  },
-  {
-    "id": "x-1792000399091-s0s6sf",
-    "source": "x",
-    "ts": "2026-10-14T17:53:19.091Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-14T17:47:22.000Z",
-    "reason": "Specific and noteworthy institutional activity with a significant token holdings announcement.",
-    "text": "🔥 LATEST: Bitwise’s NEAR ETF holds 15.7M $NEAR two weeks after inception.",
-    "url": "https://x.com/Cointelegraph/status/2110427256040358197",
-    "images": [
-      "https://pbs.twimg.com/media/HUm-ZsnXIAA2fP5.jpg",
-      "https://pbs.twimg.com/media/HUm-Z5bWEAAhj1N.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792000402833-u610qt",
     "source": "x",
     "ts": "2026-10-14T17:53:22.833Z",
@@ -8034,5 +7965,63 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111025168965369856/img/d4DLMrwh_sObTPw-.jpg"
     }
+  },
+  {
+    "id": "x-1792158164801-ywrr9r",
+    "source": "x",
+    "ts": "2026-10-16T13:42:44.801Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T13:36:40.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "LIVE: Bitcoin Macro Outlook, Treasury Companies, BTC Derivatives | BMTV Oct. 16, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2111088942804263054"
+  },
+  {
+    "id": "x-1792158168852-puvbea",
+    "source": "x",
+    "ts": "2026-10-16T13:42:48.852Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T13:36:31.000Z",
+    "reason": "No notable move; price is within recent range.",
+    "text": "Chris Wamalwa amejikaza sana.\n\nAtaweza?",
+    "url": "https://x.com/amerix/status/2111088902736154824"
+  },
+  {
+    "id": "x-1792158174479-om5jw4",
+    "source": "x",
+    "ts": "2026-10-16T13:42:54.479Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-16T13:34:12.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: @Crynuxio is building a decentralized network designed to connect AI developers with computing resources.\n\nbase:0x9557dd9e241bc9636732623b672b4090af519396 supports the ecosystem through compute payments, node staking, delegation and governance, giving the token multiple",
+    "url": "https://x.com/BSCNews/status/2111088319308140660"
+  },
+  {
+    "id": "x-1792158179393-ideuq5",
+    "source": "x",
+    "ts": "2026-10-16T13:42:59.393Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-16T13:32:08.000Z",
+    "reason": "Notable institution expanding crypto trading to millions of clients.",
+    "text": "🔥 JUST IN: $13.4T Charles Schwab now offers direct $BTC and $ETH trading across its  its 40.1M retail clients.",
+    "url": "https://x.com/Cointelegraph/status/2111087799407435883",
+    "images": [
+      "https://pbs.twimg.com/media/HUwXI1-XcAEZwZZ.jpg",
+      "https://pbs.twimg.com/media/HUwXKNhWwAAsarQ.png"
+    ],
+    "video": null
   }
 ]
