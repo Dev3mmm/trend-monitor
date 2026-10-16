@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1791995804204-j2t02d",
-    "source": "x",
-    "ts": "2026-10-14T16:36:44.204Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 33,
-    "originTimestamp": "2026-10-14T16:03:14.000Z",
-    "reason": "No notable crypto-related content in the tweet.",
-    "text": "When Starlink became a lifeline for a family fighting to save their dad. ❤️\n\nNigel Norwood suffered cardiac arrest while camping at a remote beach in Western Australia, about 100 kilometres from the nearest hospital.\n\nThere was no mobile signal. His wife, Lynne, spotted another",
-    "url": "https://x.com/elonmusk/status/2110402125809549472"
-  },
-  {
-    "id": "x-1791995807596-lzfl2j",
-    "source": "x",
-    "ts": "2026-10-14T16:36:47.596Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 6,
-    "author": "Cointelegraph",
-    "ageMin": 32,
-    "originTimestamp": "2026-10-14T16:04:22.000Z",
-    "reason": "Notable regulatory move affecting a major stablecoin.",
-    "text": "🇪🇺 NEW: The European Banking Authority has named Circle's USDC the EU's first significant stablecoin under MiCA, putting it under direct EBA oversight from November 12.",
-    "url": "https://x.com/Cointelegraph/status/2110401335715652095",
-    "images": [
-      "https://pbs.twimg.com/media/HUmm07hWIAE1SUS.jpg",
-      "https://pbs.twimg.com/media/HUmm1JEW0AAR3rR.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791833422647-qu9l9c",
     "source": "x",
     "ts": "2026-10-12T19:30:22.647Z",
@@ -8040,6 +8008,43 @@
     "images": [
       "https://pbs.twimg.com/media/HUwE0u-WIAA7zan.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1792153909551-ad4gsu",
+    "source": "x",
+    "ts": "2026-10-16T12:31:49.551Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-16T12:24:00.000Z",
+    "reason": "ETF losing capital, significant for spot $DOT ETF.",
+    "text": "Spot $DOT ETF sees second day of outflows ever.\n\n21Shares’ TDOT ETF lost -$134,000 in net outflows on October 15 - the second time it has lost capital on the daily.\n\nDespite seeing only two days of outflows, the ETF’s performance has been weak at best.\n\nSince launching in March,",
+    "url": "https://x.com/BSCNews/status/2111070653554074002",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111024907047882753/vid/avc1/1312x720/t3BfKJjPzov7pQWY.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111024907047882753/img/uCz3rkVePhE6vsHo.jpg"
+    }
+  },
+  {
+    "id": "x-1792153911603-falxvy",
+    "source": "x",
+    "ts": "2026-10-16T12:31:51.603Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-16T12:23:45.000Z",
+    "reason": "Potential security breach impacting a significant amount of Bitcoin.",
+    "text": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+    "url": "https://x.com/DecryptMedia/status/2111070590853398556",
+    "images": [],
     "video": null
   }
 ]
