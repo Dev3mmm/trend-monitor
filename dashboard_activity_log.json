@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1791981759704-xjzuzr",
-    "source": "x",
-    "ts": "2026-10-14T12:42:39.704Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-14T12:31:16.000Z",
-    "reason": "Concrete price movement following economic data.",
-    "text": "🚨ALERT: Bitcoin quickly PLUNGES below $83,000 following hotter-than-expected U.S. CPI data.\n\nThe immediate selloff comes as traders increase bets on THREE MORE Fed rate hikes by the end of 2027, putting renewed pressure on crypto markets.",
-    "url": "https://x.com/coinbureau/status/2110349629850317259",
-    "images": [
-      "https://pbs.twimg.com/media/HUl3gJnbwAA0sf7.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791981763066-jlxn8w",
-    "source": "x",
-    "ts": "2026-10-14T12:42:43.066Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-14T12:32:15.000Z",
-    "reason": "No concrete or specific news event identified.",
-    "text": "😂查美联储加息概率的 CME 页面被干断线了",
-    "url": "https://x.com/PhyrexNi/status/2110349491882823723"
-  },
-  {
-    "id": "x-1791981767582-u1x57m",
-    "source": "x",
-    "ts": "2026-10-14T12:42:47.582Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-14T12:32:24.000Z",
-    "reason": "US CPI release impacting inflation expectations in crypto markets.",
-    "text": "🇺🇸 JUST IN: US CPI rises 3.7% year over year, exceeding the 3.6% estimate.",
-    "url": "https://x.com/Cointelegraph/status/2110347992276582465",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1791982323389-3jnkw8",
     "source": "x",
     "ts": "2026-10-14T12:52:03.389Z",
@@ -8011,5 +7964,49 @@
     "url": "https://x.com/WuBlockchain/status/2110939988808564898",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792123336806-dgknoi",
+    "source": "x",
+    "ts": "2026-10-16T04:02:16.806Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T04:00:20.000Z",
+    "reason": "Acquiring significant blockchain protocol is noteworthy.",
+    "text": "🚨 LATEST: Neynar’s co-founder Rish announces that Balaji Srinivasan’s Network School is acquiring Farcaster, taking over the app, protocol repositories, and related products.",
+    "url": "https://x.com/Cointelegraph/status/2110943903071240331",
+    "images": [
+      "https://pbs.twimg.com/media/HUuUSeCXIAAlqtX.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792123341714-953vti",
+    "source": "x",
+    "ts": "2026-10-16T04:02:21.714Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T04:00:01.000Z",
+    "reason": "No notable move in price or event.",
+    "text": "Arthur Hayes: Trading Other Assets to Buy More Bitcoin\n\nOn October 13, 2026, Maelstrom co-founder Arthur Hayes @CryptoHayes said in an interview with The Rollup @therollupco that whether scarce assets like Bitcoin or on-chain businesses outperform depends on the entry price,",
+    "url": "https://x.com/WuBlockchain/status/2110943822192771341"
+  },
+  {
+    "id": "x-1792123346643-x99u2s",
+    "source": "x",
+    "ts": "2026-10-16T04:02:26.643Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 40,
+    "originTimestamp": "2026-10-16T03:21:18.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Here is the @Tesla Roadster’s battery and drive unit, which is one-third more powerful than the Model S Plaid’s, with half the mass.\n\nTesla: “The new high-voltage battery and drive unit technology used to drive Roadster enables our most powerful and compact rear-wheel drive unit",
+    "url": "https://x.com/elonmusk/status/2110941984881885262"
   }
 ]
