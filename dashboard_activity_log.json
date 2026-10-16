@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1791993194685-fhvhc9",
-    "source": "x",
-    "ts": "2026-10-14T15:53:14.685Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 84,
-    "originTimestamp": "2026-10-14T14:28:17.000Z",
-    "reason": "Noise: Generic hype with no real content.",
-    "text": "🎯",
-    "url": "https://x.com/elonmusk/status/2110397029650477363"
-  },
-  {
-    "id": "x-1791993816367-7cjtbb",
-    "source": "x",
-    "ts": "2026-10-14T16:03:36.367Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 107,
-    "originTimestamp": "2026-10-14T14:16:15.000Z",
-    "reason": "No notable move in the tweet provided.",
-    "text": "SpaceX uses ARGON ION PROPULSION to move Starlink satellites through space \n\nAnd the engineering is pretty wild\n\nStarlink satellites use argon Hall-effect thrusters  electric engines that ionize argon gas and accelerate the charged particles at extremely high speed\n\nThey allow",
-    "url": "https://x.com/elonmusk/status/2110400614526325021"
-  },
-  {
-    "id": "x-1791993821515-e31dl6",
-    "source": "x",
-    "ts": "2026-10-14T16:03:41.515Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T16:00:02.000Z",
-    "reason": "Price milestone of 400 BNB for a significant Binance Spot Trading Tournament.",
-    "text": "400 BNB. One tournament. Your move. ♟️\n\nBinance Spot Trading Tournament Season 5 is officially live \n\nAct now →",
-    "url": "https://x.com/binance/status/2110400243372290113",
-    "images": [
-      "https://pbs.twimg.com/media/HUluOBIa8AATEli.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791993826659-63gypb",
     "source": "x",
     "ts": "2026-10-14T16:03:46.659Z",
@@ -8032,5 +7988,66 @@
     "reason": "Tweet appears to be in a language other than English.",
     "text": "Eeh!\n\nHaitakuwa rahisi vile tulikuwa tunafikiria.\n\nBut, wacha tujaribu tu.",
     "url": "https://x.com/amerix/status/2111042642456846767"
+  },
+  {
+    "id": "x-1792147947976-daxgph",
+    "source": "x",
+    "ts": "2026-10-16T10:52:27.976Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-16T10:51:00.000Z",
+    "reason": "New use of a token by a notable mining pool for a stablecoin.",
+    "text": "F2 launches official Quantus Network mining pool.\n\nProof of work chain infrastructure platform, @f2pool, has launched its official mining pool for the @QuantusNetwork PoW L1.\n\nThe pool for the post-quantum L1 will allow users to mine its $QTC token.\n\nIt has already been a big",
+    "url": "https://x.com/BSCNews/status/2111047249304183062",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111024541388402689/vid/avc1/1312x720/p83mM7VdQXw-jC-F.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111024541388402689/img/CjUkIPvJU5taXA4z.jpg"
+    }
+  },
+  {
+    "id": "x-1792147954181-ajc2gt",
+    "source": "x",
+    "ts": "2026-10-16T10:52:34.181Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-16T10:48:22.000Z",
+    "reason": "Notable rate expectations pushed more hawkish by strong CPI data.",
+    "text": "CoinShares: Hot CPI Drives $434M Digital Asset Fund Outflows\n\nCoinShares said U.S. September CPI rose 3.7% year-on-year, above the 3.6% forecast, while retail sales increased 0.8% versus 0.3% expected. The stronger data pushed rate expectations more hawkish, with global digital",
+    "url": "https://x.com/WuBlockchain/status/2111046586294059015",
+    "images": [
+      "https://pbs.twimg.com/media/HUvxq26a0AA9cqJ.jpg",
+      "https://pbs.twimg.com/media/HUvxrIzbYAAeb-3.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792147959631-05a5xr",
+    "source": "x",
+    "ts": "2026-10-16T10:52:39.631Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-16T10:48:18.000Z",
+    "reason": "Information on institutional Bitcoin holdings shedding light on ownership structures.",
+    "text": "Who Actually Owns the Bitcoin Held by BlackRock?\n\nBlackRock’s iShares Bitcoin Trust ETF ($IBIT) holds Bitcoin for investors who want exposure to $BTC without managing private keys themselves.\n\nBut BlackRock is not the personal owner of all the Bitcoin in its fund.\n\nHere is how",
+    "url": "https://x.com/BSCNews/status/2111046572817732012",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111046342923706369/vid/avc1/1280x720/Rngy7p3EKlUaFCsd.mp4?tag=29",
+      "duration": 14,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111046342923706369/img/4g5v4u28vdAa8WQy.jpg"
+    }
   }
 ]
