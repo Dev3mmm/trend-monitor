@@ -3430,5 +3430,19 @@
     "fetchedAt": "2026-10-16T14:03:24.392Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-4d40c2d9002aacdb",
+    "title": "CodeComplex: Benchmarking Java Code Complexity",
+    "url": "https://aioz.network/blog/codecomplex-benchmarking-java-code-complexity",
+    "description": "TL;DR CodeComplex is a Java code-complexity dataset built from real CodeForces submissions. Its overview reports 4,200 expert-labeled solutions, while the contents section lists 4,517 Java source files. Each labeled solution is assigned to one of seven complexity categories through manual expert annotation and independent cross-verification. The dataset supports research on predicting algorithmic ",
+    "publishedAt": "2026-10-16T14:12:48.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-16T14:23:07.887Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
