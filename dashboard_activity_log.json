@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792041161115-7h1jf2",
-    "source": "x",
-    "ts": "2026-10-15T05:12:41.115Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-15T04:52:49.000Z",
-    "reason": "No notable move in the tweet.",
-    "text": "Elon Musk says Starship’s fuel is mostly oxygen and easy to make on Mars, so a propellant depot there turns it into a generalized transport to anywhere in the solar system\n\n“Yes, and actually it’s mostly going to be an oxygen plant, but it’s because it’s 78% oxygen, 22% fuel. But",
-    "url": "https://x.com/elonmusk/status/2110598609427415223"
-  },
-  {
-    "id": "x-1792041752415-fv9dn8",
-    "source": "x",
-    "ts": "2026-10-15T05:22:32.415Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T05:20:00.000Z",
-    "reason": "Notable regulatory and financial misconduct involving a major cryptocurrency company.",
-    "text": "🇺🇸 EXPOSÉ: Tether paid MILLIONS to a company Bo Hines co-owned while he led the White House Crypto Council, then hired him as its U.S. chief after he left, WSJ reports.\n\nNxum has reportedly earned $6.3 MILLION from Tether's arrangement, with payments beginning while Hines worked",
-    "url": "https://x.com/coinbureau/status/2110601562632397088",
-    "images": [
-      "https://pbs.twimg.com/media/HUpOa4XbEAA9zrj.jpg",
-      "https://pbs.twimg.com/media/HUpOa4dbUAAk8-6.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792041757971-2t3djk",
     "source": "x",
     "ts": "2026-10-15T05:22:37.971Z",
@@ -7955,5 +7923,37 @@
     "reason": "No notable move or specific event is described.",
     "text": "Bitwise now holds more than half a billion dollars in $XRP. \n\nSpot @Ripple ETFs have been on a run in 2026, but @Bitwise's offering sits at the very top of the list.\n\nBitwise's spot XRP ETF now has an AUM of $561M, outpacing every other issuer by more than $150M and accounting",
     "url": "https://x.com/BSCNews/status/2111234734751961096"
+  },
+  {
+    "id": "x-1792193530647-wt6h99",
+    "source": "x",
+    "ts": "2026-10-16T23:32:10.647Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 25,
+    "originTimestamp": "2026-10-16T23:06:58.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "This is what I do, but at 1.5X",
+    "url": "https://x.com/elonmusk/status/2111238267878449283"
+  },
+  {
+    "id": "x-1792193536169-o2za6l",
+    "source": "x",
+    "ts": "2026-10-16T23:32:16.169Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T23:30:00.000Z",
+    "reason": "Notable move in AI development related to Ethereum.",
+    "text": "🔥Ethereum co-founder Vitalik Buterin builds a “paranoid mode” for his AI agent using zkAPI, Tor and cover traffic.\n\nEach conversation gets its own Tor circuit, and requests are masked with random cover traffic.\n\nHis zkAPI tool ensures users don’t leak their identity through",
+    "url": "https://x.com/coinbureau/status/2111238259154293029",
+    "images": [
+      "https://pbs.twimg.com/media/HUyV63kbUAArYeH.png",
+      "https://pbs.twimg.com/media/HUyV63faEAEOpoJ.png"
+    ],
+    "video": null
   }
 ]
