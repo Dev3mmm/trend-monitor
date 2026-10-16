@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791022337648-mwc3m0",
     "x-1791022343578-kxyu0z",
     "x-1791023028623-sc05oh",
     "x-1791023038367-i1kqsk",
@@ -1999,28 +1998,10 @@
     "x-1792113265106-893udv",
     "x-1792114340582-p9hgxd",
     "x-1792114346330-vdp2c0",
-    "x-1792116801999-tmxw0b"
+    "x-1792116801999-tmxw0b",
+    "x-1792118013119-yc138w"
   ],
   "queue": [
-    {
-      "text": "🚨WILD: A crypto scammer gets robbed of over 60 BTC worth $4.8 MILLION in the Ledger wallet theft.\n\nOn September 22, the operator of a “task scam” moved the proceeds into three Ledger addresses.\n\nOn October 9, thieves emptied all three, each in a single transfer to the same",
-      "url": "https://x.com/coinbureau/status/2110874172570370475",
-      "images": [
-        "https://pbs.twimg.com/media/HUtU3mUa4AA8SBw.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792106628054
-    },
-    {
-      "text": "🇺🇸 LATEST: A federal judge has denied a joint push by Gemini and the CFTC to scrap the Biden-era $5 million penalty against the Winklevoss-led crypto exchange.",
-      "url": "https://x.com/Cointelegraph/status/2110891060570320917",
-      "images": [
-        "https://pbs.twimg.com/media/HUtkOW1WoAEA8sz.jpg",
-        "https://pbs.twimg.com/media/HUtkOrtXMAAdAIZ.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792110750059
-    },
     {
       "text": "🔥 NEW: Stripe and Plasma are teaming up to launch multi-currency stablecoin cards that let users spend balances across countries without costly conversions.",
       "url": "https://x.com/Cointelegraph/status/2110898610212687988",
@@ -2050,6 +2031,16 @@
       ],
       "video": null,
       "enqueuedAt": 1792114346393
+    },
+    {
+      "text": "🚨 JUST IN: OpenAI reveals one of its internal AI models tapped a crypto wallet without permission during a training task. \n\nThe model derived keys from public recovery phrases to pay for a deployment on Sepolia, an Ethereum test network.",
+      "url": "https://x.com/Cointelegraph/status/2110921248586764767",
+      "images": [
+        "https://pbs.twimg.com/media/HUt_rmHXoAAjwj6.jpg",
+        "https://pbs.twimg.com/media/HUt_r9RXoAAW22z.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1792118013179
     }
   ],
   "posted": [
@@ -2281,7 +2272,18 @@
       "at": 1792116160133,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/377753457130643?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇺🇸 LATEST: A federal judge has denied a joint push by Gemini and the CFTC to scrap the Biden-era $5 million penalty against the Winklevoss-led crypto exchange.",
+      "final": "🇺🇸 LATEST: A federal judge has denied a joint push by Gemini and the CFTC to scrap the Biden-era $5 million penalty against the Winklevoss-led crypto exchange.\n\n#Crypto #CFTC",
+      "images": [
+        "https://pbs.twimg.com/media/HUtkOW1WoAEA8sz.jpg",
+        "https://pbs.twimg.com/media/HUtkOrtXMAAdAIZ.jpg"
+      ],
+      "at": 1792118013179,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/377761083615803?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1792116160133
+  "lastPostAt": 1792118013179
 }
