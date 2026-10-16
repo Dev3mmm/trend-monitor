@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792030968695-1t4dwk",
-    "source": "x",
-    "ts": "2026-10-15T02:22:48.695Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 26,
-    "originTimestamp": "2026-10-15T01:56:11.000Z",
-    "reason": "No notable move in crypto related to the tweet.",
-    "text": "When @Starlink helped rescuers save nine fishermen from a flooding boat in Alaska.\n\nThe United States Coast Guard confirmed that all nine people aboard the Arctic Sea were rescued.\n\nTheir fishing boat had run aground near St. George Island in Alaska’s remote Bering Sea and was",
-    "url": "https://x.com/elonmusk/status/2110554365912334590"
-  },
-  {
     "id": "x-1792031538408-cuvchk",
     "source": "x",
     "ts": "2026-10-15T02:32:18.408Z",
@@ -7957,5 +7944,18 @@
     "reason": "No notable move in Ethereum price or significant news content.",
     "text": "LayerZero research tackles a big quantum problem for blockchains\n\nBlockchains verify thousands of validator signatures by bundling them into a single proof, but today’s method could be broken by future quantum computers. Quantum-safe signatures exist, but bundling them quickly",
     "url": "https://x.com/BSCNews/status/2111196734697222220"
+  },
+  {
+    "id": "x-1792185211783-90zwle",
+    "source": "x",
+    "ts": "2026-10-16T21:13:31.783Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T21:11:00.000Z",
+    "reason": "No notable crypto-related news or move.",
+    "text": "🚨JUST IN: Anthropic’s Claude solves the NSA’s 26 year cryptography mystery in under 30 minutes.\n\nClaude found the NSA’s “random” seeds for cryptography curves like P-256 were generated from simple 1997 and 1998 timestamps.\n\nNobody had explained them since NIST published the",
+    "url": "https://x.com/coinbureau/status/2111203277291635118"
   }
 ]
