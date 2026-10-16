@@ -1,67 +1,5 @@
 [
   {
-    "id": "x-1791834440525-1gq2bi",
-    "source": "x",
-    "ts": "2026-10-12T19:47:20.525Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-12T19:30:54.000Z",
-    "reason": "No notable move in the tweet provided.",
-    "text": "🇸🇬 CONNECT: Crypto investors need to distinguish between equity ownership, token rights and access to company revenue.\n\n@Second_Lane co-founder @nabais_andre stressed that these rights can differ significantly, particularly when evaluating a project's treasury and potential",
-    "url": "https://x.com/Cointelegraph/status/2109728537473077542"
-  },
-  {
-    "id": "x-1791996396953-9s9c7t",
-    "source": "x",
-    "ts": "2026-10-14T16:46:36.953Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T16:43:21.000Z",
-    "reason": "Notable institutional investment in semiconductor industry.",
-    "text": "🚨 NEW: President Trump announced a $21 billion Japanese-funded GlobalFoundries investment to build two semiconductor factories in Malta, New York, expected to create 27,000 construction and supply chain jobs and over 1,000 manufacturing jobs.",
-    "url": "https://x.com/Cointelegraph/status/2110411147127951436",
-    "images": [
-      "https://pbs.twimg.com/media/HUmvwPQXYAAusgU.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1791996401102-u00f9z",
-    "source": "x",
-    "ts": "2026-10-14T16:46:41.102Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-14T16:35:20.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🚨 JUST IN: President Trump announced a $50 billion South Korean investment in Alaska LNG, alongside a $70–80 billion LNG purchase commitment and $4.4 billion equity investment from Taiwan.",
-    "url": "https://x.com/Cointelegraph/status/2110409129453932697"
-  },
-  {
-    "id": "x-1791996792976-y90t34",
-    "source": "x",
-    "ts": "2026-10-14T16:53:12.976Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-14T16:50:21.000Z",
-    "reason": "Coinbase takes action against scam networks",
-    "text": "🚨 LATEST: Brian Armstrong says Coinbase joined companies and law enforcement at London Joint Disruption Week to share real-time intelligence and take action against scam networks operating in West Africa.",
-    "url": "https://x.com/Cointelegraph/status/2110412907229904993",
-    "images": [
-      "https://pbs.twimg.com/media/HUmxWsOWUAAGqoX.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1791996798539-ao95ae",
     "source": "x",
     "ts": "2026-10-14T16:53:18.539Z",
@@ -8044,6 +7982,71 @@
       "duration": 21,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111076553215893504/img/SYTWCpgtVJ_c9E8K.jpg"
+    }
+  },
+  {
+    "id": "x-1792155774441-foez2x",
+    "source": "x",
+    "ts": "2026-10-16T13:02:54.441Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T13:00:55.000Z",
+    "reason": "AI company Anthropic receives a significant credit rating update.",
+    "text": "🔥 UPDATE: Anthropic gets a BB+ credit rating as Wall Street reportedly lines up another $60B in AI chip financing, per Walter Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2111079944906318031",
+    "images": [
+      "https://pbs.twimg.com/media/HUwQBXHX0AE5H8g.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792155778267-9p9osp",
+    "source": "x",
+    "ts": "2026-10-16T13:02:58.267Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T13:00:23.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Bitcoin Rebound, Tesla Flying Cars Ignite Trenches &amp; Crypto AI Bull Case",
+    "url": "https://x.com/DecryptMedia/status/2111079809086534073"
+  },
+  {
+    "id": "x-1792155782222-l6w234",
+    "source": "x",
+    "ts": "2026-10-16T13:03:02.222Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 21,
+    "originTimestamp": "2026-10-16T12:41:04.000Z",
+    "reason": "Tweet is in Chinese and lacks concrete price information.",
+    "text": "新加坡很好买，下周就送到。价格好像也便宜点吧。",
+    "url": "https://x.com/PhyrexNi/status/2111079016744841282"
+  },
+  {
+    "id": "x-1792155788130-nh3dzm",
+    "source": "x",
+    "ts": "2026-10-16T13:03:08.130Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-16T12:55:00.000Z",
+    "reason": "New deflationary proposal for CAKE token incentivizing liquidity providers.",
+    "text": "Is $CAKE about to get even more deflationary?!\n\nUnder a new proposal called ‘The Flip’, @PancakeSwap would reinvent its token mechanisms.\n\nThe proposal would see liquidity providers on PancakeSwap v3 and Infinity take home some 88% of all swap fees.\n\nIt would also reduce $CAKE",
+    "url": "https://x.com/BSCNews/status/2111078454879989791",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111025021229379584/vid/avc1/1312x720/lhg2ON0gOE4W7OoK.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111025021229379584/img/L74Kc3ev8H3O0ih-.jpg"
     }
   }
 ]
