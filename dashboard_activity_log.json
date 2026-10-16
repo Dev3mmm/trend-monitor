@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792026119884-11o8mu",
-    "source": "x",
-    "ts": "2026-10-15T01:01:59.884Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-15T00:59:00.000Z",
-    "reason": "No notable news, the volume is within the recent range.",
-    "text": "Ondo Perps hits $16.3 BILLION in just four months.\n\nLaunched in early June, @Ondo's @OndoPerps platform has already processed some $16.3 billion worth of perps trading volume.\n\nIts single busiest day fell on July 29, when the platform processed some $333M in perps volume.\n\nOndo",
-    "url": "https://x.com/BSCNews/status/2110535879647547725",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110277118416334849/vid/avc1/1312x720/kd_nPbXdKQFRXYFe.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110277118416334849/img/9O0LpyEAvspXHvVj.jpg"
-    }
-  },
-  {
-    "id": "x-1792027302770-y2bz35",
-    "source": "x",
-    "ts": "2026-10-15T01:21:42.770Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-15T01:07:02.000Z",
-    "reason": "No notable move or specific event.",
-    "text": "@BenTodar @BNBCHAIN It's not a competition. Whoever helps to expand the industry benefits the entire industry. You don't have to do everything yourself. 😂",
-    "url": "https://x.com/cz_binance/status/2110539605866840246"
-  },
-  {
     "id": "x-1792027948928-5b34n5",
     "source": "x",
     "ts": "2026-10-15T01:32:28.928Z",
@@ -7966,5 +7932,39 @@
     "url": "https://x.com/DecryptMedia/status/2111179684352262529",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792180374309-r4ktq5",
+    "source": "x",
+    "ts": "2026-10-16T19:52:54.309Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T19:50:16.000Z",
+    "reason": "No concrete price or significant event mentioned.",
+    "text": "🚨 JUST IN: Jim Cramer says oil and a possible major hedge fund blowup are making this “one of the worst days of the year.”",
+    "url": "https://x.com/Cointelegraph/status/2111182959784984958"
+  },
+  {
+    "id": "x-1792180377059-2grm4g",
+    "source": "x",
+    "ts": "2026-10-16T19:52:57.059Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-16T19:47:00.000Z",
+    "reason": "Noteworthy institutional adoption of tokenization services.",
+    "text": "DTCC picks Canton for launch, Stellar and Arc for 2027\n\nDTCC (@The_DTCC) will launch its Tokenization Service this month on the @CantonNetwork and Besu, DTCC's private network. It starts with 25 stocks, ETFs, and US Treasuries, tokenized 1:1 with securities held at DTC and",
+    "url": "https://x.com/BSCNews/status/2111182138167153023",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111172868700532736/vid/avc1/1220x720/Dq6YlQ5kJI3ieS31.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111172868700532736/img/LUygcmEwkuQVN-6V.jpg"
+    }
   }
 ]
