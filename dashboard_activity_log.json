@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792033426356-21i9am",
-    "source": "x",
-    "ts": "2026-10-15T03:03:46.356Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 66,
-    "originTimestamp": "2026-10-15T01:57:00.000Z",
-    "reason": "Vague prediction with no factual claim",
-    "text": "China will be making a LOT of RAM in 2028",
-    "url": "https://x.com/elonmusk/status/2110566143983223006"
-  },
-  {
-    "id": "x-1792033993037-lzqew7",
-    "source": "x",
-    "ts": "2026-10-15T03:13:13.037Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 29,
-    "originTimestamp": "2026-10-15T02:43:42.000Z",
-    "reason": "Generic vague opinion with no basis.",
-    "text": "Exactly what I predicted has happened",
-    "url": "https://x.com/elonmusk/status/2110568956100841655"
-  },
-  {
     "id": "x-1792035160781-k7j18f",
     "source": "x",
     "ts": "2026-10-15T03:32:40.781Z",
@@ -7958,5 +7932,39 @@
       "https://pbs.twimg.com/media/HUyAkfhWAAAD9ah.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792187552064-gqzrmf",
+    "source": "x",
+    "ts": "2026-10-16T21:52:32.064Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-16T21:50:16.000Z",
+    "reason": "Generic economic insight with no direct crypto or token-related implications.",
+    "text": "🚨 INSIGHT: Gen Z earns 20–40% more than millennials did at the same age across all income levels, adjusted for inflation, a16z reports.",
+    "url": "https://x.com/Cointelegraph/status/2111213158337515992"
+  },
+  {
+    "id": "x-1792187557014-ozudor",
+    "source": "x",
+    "ts": "2026-10-16T21:52:37.014Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-16T21:43:00.000Z",
+    "reason": "Pi Network hosting a developer-focused summit.",
+    "text": "Pi Network is putting its builders center stage\n\nPi Network (@PiCoreTeam) will hold its first Pi Ecosystem Summit, a three-day online event, from November 17 to 19. Unlike Pi Day, it will focus on developers and the apps and tools they build on Pi.\n\nThe schedule includes new",
+    "url": "https://x.com/BSCNews/status/2111211330393010661",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111204752084152320/vid/avc1/1220x720/HHbu0e-I9HQcFR5F.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111204752084152320/img/6r2OyD-dRGzcFgfa.jpg"
+    }
   }
 ]
