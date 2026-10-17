@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1792041757971-2t3djk",
-    "source": "x",
-    "ts": "2026-10-15T05:22:37.971Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-15T05:18:33.000Z",
-    "reason": "Sei Network's native token is now available on Public, expanding investor access.",
-    "text": "Sei Network Reaches Millions of Investors Through Public\n\nSei Network's (@SeiNetwork) sei-network:native token is now available to trade on Public.\n\nThe platform gives millions of investors access to SEI alongside stocks, ETFs, and options.\n\nMeanwhile, Sei is also preparing to",
-    "url": "https://x.com/BSCNews/status/2110601200576123008",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110601099589844992/vid/avc1/1280x720/uxHiPXNLdpkg3G4g.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110601099589844992/img/_RdL_9tGMBLLbG9d.jpg"
-    }
-  },
-  {
-    "id": "x-1792042329895-z0ewlh",
-    "source": "x",
-    "ts": "2026-10-15T05:32:09.895Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-15T05:30:28.000Z",
-    "reason": "The tweet is vague and speculative without concrete information.",
-    "text": "🚨 LATEST: Elon Musk’s Tesla and SpaceX could announce a merger before Tesla’s annual meeting, expected by Dec. 6, says Barclays.",
-    "url": "https://x.com/Cointelegraph/status/2110604198626611250",
-    "images": [
-      "https://pbs.twimg.com/media/HUpfUejWwAA7yi-.jpg",
-      "https://pbs.twimg.com/media/HUpfVFgW4AANFR3.jpg",
-      "https://pbs.twimg.com/media/HUpfVTtWgAAsl0X.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792043045747-g4xkmi",
-    "source": "x",
-    "ts": "2026-10-15T05:44:05.747Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-15T05:28:18.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Literally just sold the first product (took LESS than 6 minutes after posting the video btw).\n\nGrok bot rocks!",
-    "url": "https://x.com/elonmusk/status/2110605255968989506"
-  },
-  {
     "id": "x-1792043050656-znbqtd",
     "source": "x",
     "ts": "2026-10-15T05:44:10.656Z",
@@ -7955,5 +7901,44 @@
       "https://pbs.twimg.com/media/HUyV63faEAEOpoJ.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792195337611-f8k1yw",
+    "source": "x",
+    "ts": "2026-10-17T00:02:17.611Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-17T00:00:21.000Z",
+    "reason": "No notable move or news value.",
+    "text": "Anthropic’s Claude Mythos 5 Cuts Quantum Circuit Gate Count for Elliptic-Curve Operations by 17x\n\nOn October 16, Anthropic published research showing that Claude Mythos 5, assisted by an automated evaluation system, optimized eight quantum circuit design tasks spanning quantum",
+    "url": "https://x.com/WuBlockchain/status/2111245896998641814"
+  },
+  {
+    "id": "x-1792195340568-js35ra",
+    "source": "x",
+    "ts": "2026-10-17T00:02:20.568Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-17T00:00:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Hold RLUSD and share in $800,000 worth of XRP rewards! \n\nEarn up to 7.77% APR.*\n\nReward APRs are updated weekly.\n\nDetails:",
+    "url": "https://x.com/binance/status/2111245808100159601"
+  },
+  {
+    "id": "x-1792195342701-4guipq",
+    "source": "x",
+    "ts": "2026-10-17T00:02:22.701Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 26,
+    "originTimestamp": "2026-10-16T23:35:58.000Z",
+    "reason": "Generic hype without real content.",
+    "text": "We really got flying cars before GTA 6",
+    "url": "https://x.com/elonmusk/status/2111245698112901274"
   }
 ]
