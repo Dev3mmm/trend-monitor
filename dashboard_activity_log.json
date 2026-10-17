@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792044117808-ywkcyl",
-    "source": "x",
-    "ts": "2026-10-15T06:01:57.808Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-15T06:00:38.000Z",
-    "reason": "No notable move in cryptocurrency prices or adoption.",
-    "text": "🇦🇪 NEW: UAE oil output hit a record 5.3M barrels per day in September after a 400K-barrel jump, freed from OPEC+ limits, per the IEA.",
-    "url": "https://x.com/Cointelegraph/status/2110611788622451170"
-  },
-  {
-    "id": "x-1792044122461-76neaz",
-    "source": "x",
-    "ts": "2026-10-15T06:02:02.461Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-15T06:00:04.000Z",
-    "reason": "No notable crypto event or price movement.",
-    "text": "🚨This is scary. \n\nA hacker used the password “123456” to establish access into Denmark’s National Population Registry, exposing records of 8.8 MILLION people.\n\nThe breach reportedly exploited an account at IT company Pays ApS, which had legitimate access to the registry. At",
-    "url": "https://x.com/coinbureau/status/2110611648390279427"
-  },
-  {
     "id": "x-1792044128169-dnaqoe",
     "source": "x",
     "ts": "2026-10-15T06:02:08.169Z",
@@ -7945,6 +7919,43 @@
       "https://pbs.twimg.com/media/HUygFibaEAAxtbe.png",
       "https://pbs.twimg.com/media/HUygFidaAAA66NW.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1792203743401-t791bg",
+    "source": "x",
+    "ts": "2026-10-17T02:22:23.401Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-17T02:17:00.000Z",
+    "reason": "Solana's RWA market cap rapidly grew significantly faster than Ethereum's.",
+    "text": "Solana Rapidly Closes The RWA Gap With Ethereum\n\nSolana’s (@solana) $SOL onchain RWA market cap climbed from $700 million to $4.3 billion in one year, according to Castle Labs.\n\nEthereum’s (@ethereum) $ETH RWA market grew more modestly, from $15.5 billion to $16.6 billion.",
+    "url": "https://x.com/BSCNews/status/2111280284922482894",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111036407779065857/vid/avc1/1280x720/twpvd0KN2Jb_XBF0.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111036407779065857/img/ZIxWYbD2kVpZ1u9j.jpg"
+    }
+  },
+  {
+    "id": "x-1792203748677-znbrur",
+    "source": "x",
+    "ts": "2026-10-17T02:22:28.677Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-17T02:15:00.000Z",
+    "reason": "Notable institutional response to AI agent regulations.",
+    "text": "The AI agent crackdown has BEGUN.\n\nYour AI agent is now being BLOCKED by JPMorgan, Citi and Amazon.\n\n1. JPMorgan bars outside agents from moving money in customer accounts, with Jamie Dimon warning of “rogue agents.”\n\n2. Citi won’t let “third-party AI agents or assistants” log",
+    "url": "https://x.com/coinbureau/status/2111279781711089965",
+    "images": [],
     "video": null
   }
 ]
