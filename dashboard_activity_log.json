@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1792068140356-74ze9u",
-    "source": "x",
-    "ts": "2026-10-15T12:42:20.356Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-15T12:34:35.000Z",
-    "reason": "U.S. PPI inflation significantly higher than expected, reinforcing concerns.",
-    "text": "🚨JUST OUT: U.S. PPI inflation SURGES to 6.3%, significantly HIGHER than expectations.\n\n- Headline PPI YoY: 6.3% vs. 5.4% expected and 5.4% prior\n- Core PPI YoY: 5.0% vs. 4.4% expected and 4.6% prior  \n\nProducer inflation accelerated sharply, reinforcing concerns over persistent",
-    "url": "https://x.com/coinbureau/status/2110710929516331444",
-    "images": [
-      "https://pbs.twimg.com/media/HUrAXr6aUAA4j8h.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792068144076-vl2r86",
     "source": "x",
     "ts": "2026-10-15T12:42:24.076Z",
@@ -7897,5 +7879,18 @@
     "reason": "No notable crypto-related news is mentioned.",
     "text": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
     "url": "https://x.com/DecryptMedia/status/2111473034296992007"
+  },
+  {
+    "id": "x-1792250522835-a7w8gg",
+    "source": "x",
+    "ts": "2026-10-17T15:22:02.835Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-17T15:17:13.000Z",
+    "reason": "No notable move, no newsworthy information.",
+    "text": "BIS: Stablecoins and Bank Deposits Act as Substitutes as Deposit Hikes Slow Stablecoin Growth\n\nBIS (Bank for International Settlements) working paper finds that stablecoins and bank deposits act as direct portfolio substitutes. Analyzing U.S. data, the authors show that a",
+    "url": "https://x.com/WuBlockchain/status/2111476632011804680"
   }
 ]
