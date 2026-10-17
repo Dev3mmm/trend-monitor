@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792047129097-6yj8fj",
-    "source": "x",
-    "ts": "2026-10-15T06:52:09.097Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-15T06:45:00.000Z",
-    "reason": "Vitalik Buterin's comments on zkEVMs suggest a shift in development priorities, potentially impacting the Ethereum ecosystem.",
-    "text": "Vitalik Wants ZkEVM Developers to Stop Chasing Speed and Fix Security\n\nVitalik Buterin (@VitalikButerin) says zkEVMs have effectively won the race for speed. \n\nHis comments followed ZKsync’s (@zksync) ethereum:0x66a5cfb2e9c529f14fe6364ad1075df3a649c0a5 Airbender Prime milestone,",
-    "url": "https://x.com/BSCNews/status/2110622953193038073",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110615332595675136/vid/avc1/1280x720/0j_sYtEPa_aYWENT.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110615332595675136/img/8l1yKjT2iAY2NRx4.jpg"
-    }
-  },
-  {
     "id": "x-1792047132640-2fpge9",
     "source": "x",
     "ts": "2026-10-15T06:52:12.640Z",
@@ -7960,5 +7939,26 @@
     "reason": "No notable move or specific event is described.",
     "text": "Anomalies in the matrix are inevitable",
     "url": "https://x.com/elonmusk/status/2111312443305558190"
+  },
+  {
+    "id": "x-1792212132865-3ua9k5",
+    "source": "x",
+    "ts": "2026-10-17T04:42:12.865Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-17T04:37:00.000Z",
+    "reason": "New use of a token on a different network/network.",
+    "text": "OnRe Finance's 'ONyc' is coming to Monad.\n\nUntil now, @onrefinance's ONyc reinsurance-backed yield asset has only been available on @Solana.\n\nHowever, the new nONyc, which packages the asset through @plumenetwork Vaults, is bringing OnRe's asset to other EVM networks and @Monad",
+    "url": "https://x.com/BSCNews/status/2111315516933497218",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111036663816151041/vid/avc1/1312x720/ofhXLYYIgaRITYTl.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111036663816151041/img/vPWOAVmQiTYGul9d.jpg"
+    }
   }
 ]
