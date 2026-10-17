@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792077226903-7pdpq1",
-    "source": "x",
-    "ts": "2026-10-15T15:13:46.903Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-15T15:02:24.000Z",
-    "reason": "Significant supply breakdown analysis affecting Bitcoin ownership.",
-    "text": "JUST IN: Galaxy Research releases a detailed breakdown of Bitcoin supply ownership.\n\nMore than a quarter of all BTC may be permanently off the market. 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2110748127376605242",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110745398553780225/vid/avc1/1280x720/VnvXnMelExoDsRTo.mp4?tag=29",
-      "duration": 166,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HUriVb_XIAEnqCz.jpg"
-    }
-  },
-  {
-    "id": "x-1792077232703-sgg0pi",
-    "source": "x",
-    "ts": "2026-10-15T15:13:52.703Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-15T15:02:00.000Z",
-    "reason": "New use of a token for secure peer-to-peer transactions without trust.",
-    "text": "🟢 @joobescrow has opened the public presale of its JOOB token on BNB Chain. The protocol lets two strangers trade without trusting each other, with funds held in an audited smart contract until the work is approved.",
-    "url": "https://x.com/BSCNews/status/2110748030622183802",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792077762773-7v05ld",
     "source": "x",
     "ts": "2026-10-15T15:22:42.773Z",
@@ -7837,5 +7800,37 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "The degree to which people in the West fall prey to suicidal empathy continues to astonish me. \n\nRead @GadSaad’s book about it!",
     "url": "https://x.com/elonmusk/status/2111551063870570853"
+  },
+  {
+    "id": "x-1792269142922-tynoaw",
+    "source": "x",
+    "ts": "2026-10-17T20:32:22.922Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-17T20:30:19.000Z",
+    "reason": "Notable opinion from a high-profile figure in the crypto space about Bitcoin's resilience.",
+    "text": "⚡ LATEST: Arthur Hayes says quantum computing is no reason to sell Bitcoin and the real risk sits with people who reuse addresses.",
+    "url": "https://x.com/Cointelegraph/status/2111555426324025764",
+    "images": [
+      "https://pbs.twimg.com/media/HU3Ad0KWwAASAj5.jpg",
+      "https://pbs.twimg.com/media/HU3AeDNXIAATlIP.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792269149384-uw1c49",
+    "source": "x",
+    "ts": "2026-10-17T20:32:29.384Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-17T20:25:00.000Z",
+    "reason": "No notable move or specific, verifiable data provided.",
+    "text": "🇨🇳🇺🇸 China's share of America's $9.3 TRILLION foreign-held debt just hit a 25-YEAR LOW.\n\nChina's $591 BILLION of US Treasuries is just 6.3% of the total, down from over 28% in 2011, per Treasury data.\n\nIts holdings are also the lowest since 2008.\n\nMeanwhile, the UK just passed $1",
+    "url": "https://x.com/coinbureau/status/2111554089045946763"
   }
 ]
