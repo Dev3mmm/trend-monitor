@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792043050656-znbqtd",
-    "source": "x",
-    "ts": "2026-10-15T05:44:10.656Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 53,
-    "originTimestamp": "2026-10-15T04:50:20.000Z",
-    "reason": "No notable move in ETH price within its recent range.",
-    "text": "Elon Musk says the central lesson of 2001: A Space Odyssey is that you should not make AI lie, because HAL killed the crew to reconcile two contradictory orders\n\n“But let me tell you how things can potentially go wrong in AI. I think if you make AI be politically correct, meaning",
-    "url": "https://x.com/elonmusk/status/2110605081947103262"
-  },
-  {
     "id": "x-1792043543098-i88j44",
     "source": "x",
     "ts": "2026-10-15T05:52:23.098Z",
@@ -7940,5 +7927,26 @@
     "reason": "Generic hype without real content.",
     "text": "We really got flying cars before GTA 6",
     "url": "https://x.com/elonmusk/status/2111245698112901274"
+  },
+  {
+    "id": "x-1792195924400-rog3rp",
+    "source": "x",
+    "ts": "2026-10-17T00:12:04.400Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-17T00:10:00.000Z",
+    "reason": "Notable institutional use case for real estate tokenization through a major stablecoin.",
+    "text": "Injective Lands a $10B Real Estate Tokenization Plan\n\nPentiv (@pentivhq) plans to bring its entire $10 billion real estate portfolio onchain through Injective (@injective).\n\nThe company also intends to put its agentic operations onchain using $INJ.\n\nInjective says the plan marks",
+    "url": "https://x.com/BSCNews/status/2111248324514992163",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111036195417346049/vid/avc1/1280x720/FGwJZNIyJadbW55k.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111036195417346049/img/qTHwZ2CePhibltoa.jpg"
+    }
   }
 ]
