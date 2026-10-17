@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792074747129-ur69xz",
-    "source": "x",
-    "ts": "2026-10-15T14:32:27.129Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-15T14:28:30.000Z",
-    "reason": "Notable price movement and macro pressures affecting Ethereum and altcoins.",
-    "text": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-    "url": "https://x.com/DecryptMedia/status/2110739597290266867",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792075947806-yeji9z",
-    "source": "x",
-    "ts": "2026-10-15T14:52:27.806Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-15T14:43:00.000Z",
-    "reason": "Significant increase in token supply with notable growth rate.",
-    "text": "Ondo's $USDY keeps growing and growing.\n\n@Ondo's own treasury token, $USDY, has just hit an all-time high supply of $2.35B per data from CMC.\n\nOn February 24, USDY's supply stood at just $705M, meaning it has grown by some +233% in the space of less than 8 months.",
-    "url": "https://x.com/BSCNews/status/2110743246422905176",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110636658693406720/vid/avc1/1312x720/IoavPYVivZKto-jk.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110636658693406720/img/hc7UlchnfFDJmfUn.jpg"
-    }
-  },
-  {
     "id": "x-1792075953586-9l1btu",
     "source": "x",
     "ts": "2026-10-15T14:52:33.586Z",
@@ -7844,5 +7807,45 @@
     "reason": "No notable crypto-related move or use of crypto is mentioned.",
     "text": "🇺🇸 BREAKING: The US took in a RECORD $5.4 TRILLION in fiscal 2026 and still ran a $1.99 TRILLION deficit.\n\nSpending hit a record $7.4 TRILLION, up 6%, while revenue grew just 3%, per Treasury data.\n\nIt's the largest deficit since 2021, at about 6.2% of GDP.\n\nInterest on the debt",
     "url": "https://x.com/coinbureau/status/2111518857055830249"
+  },
+  {
+    "id": "x-1792261933061-045nu5",
+    "source": "x",
+    "ts": "2026-10-17T18:32:13.061Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-17T18:31:00.000Z",
+    "reason": "Specific institutional partnership with potential for significant market impact.",
+    "text": "New Chainlink partnership!\n\nInfrastructure leader @chainlink has just announced a partnership with @PacificMeta, with a view to driving institutionally-focused tokenisation in Japan.\n\nAs part of the partnership, Pacific Meta has both...\n\n(1) Adopted Chainlink CCIP for cross-chain",
+    "url": "https://x.com/BSCNews/status/2111525400048255323",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111370955503108096/vid/avc1/1312x720/LvMoXGg9DEFogfpI.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111370955503108096/img/Bodf4a0DZ5CjPug_.jpg"
+    }
+  },
+  {
+    "id": "x-1792261938055-owtv6m",
+    "source": "x",
+    "ts": "2026-10-17T18:32:18.055Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-17T18:30:20.000Z",
+    "reason": "An on-chain data point with significant cryptographic implications.",
+    "text": "🔥 HUGE: Claude solved a 25-year-old crypto mystery in under 30 minutes, tracing the NSA-supplied seeds behind NIST's P-256 curve to a 1990s random number generator.",
+    "url": "https://x.com/Cointelegraph/status/2111525232053817508",
+    "images": [
+      "https://pbs.twimg.com/media/HU2k_-UWsAABi23.png",
+      "https://pbs.twimg.com/media/HU2lAdkWEAAJOlo.jpg"
+    ],
+    "video": null
   }
 ]
