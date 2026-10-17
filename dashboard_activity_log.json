@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792068130492-fa39yl",
-    "source": "x",
-    "ts": "2026-10-15T12:42:10.492Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-15T12:37:09.000Z",
-    "reason": "No notable move in token price or specific event.",
-    "text": "New Roadster is \nbeyond movies, \nbeyond imagination, \nbeyond human, \nyet still made\nby humans\non Earth",
-    "url": "https://x.com/elonmusk/status/2110711574121857208"
-  },
-  {
-    "id": "x-1792068134088-gesdj2",
-    "source": "x",
-    "ts": "2026-10-15T12:42:14.088Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-15T12:34:51.000Z",
-    "reason": "Advertisement without concrete news content.",
-    "text": "Binance AI gives you the clearest view of the market - stocks, crypto, and commodities, all in one place.\n\nExplore →",
-    "url": "https://x.com/binance/status/2110710998068060333"
-  },
-  {
     "id": "x-1792068140356-74ze9u",
     "source": "x",
     "ts": "2026-10-15T12:42:20.356Z",
@@ -7889,5 +7863,39 @@
     "reason": "No notable news event or specific factual claim.",
     "text": "🚨AI researchers have started SMOKING to show they believe AI will cure cancer, claims Palantir CTO.\n\nShyam Sankar says “so many AI researchers have started smoking” as a way of signaling “how much they believe in AI.”",
     "url": "https://x.com/coinbureau/status/2111472306748809284"
+  },
+  {
+    "id": "x-1792249930096-p6ayqx",
+    "source": "x",
+    "ts": "2026-10-17T15:12:10.096Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-17T15:03:00.000Z",
+    "reason": "Notable increase in TVL for a new DeFi platform.",
+    "text": "This Robinhood Chain DeFi platform is on fire.\n\n@arcus_xyz, which launched in July alongside @RobinhoodCrypto Chain, has seen its TVL explode by +146% in the past month.\n\nThe figure now stands at nearly $60M - exceptionally impressive for a three-month old platform. \n\nArcus",
+    "url": "https://x.com/BSCNews/status/2111473055512043793",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111358641865416704/vid/avc1/1312x720/KmdKsAJ_9Kw6k63x.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111358641865416704/img/nI7dLIkvrK8lPCu-.jpg"
+    }
+  },
+  {
+    "id": "x-1792249933109-es8pv8",
+    "source": "x",
+    "ts": "2026-10-17T15:12:13.109Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-17T15:02:55.000Z",
+    "reason": "No notable crypto-related news is mentioned.",
+    "text": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+    "url": "https://x.com/DecryptMedia/status/2111473034296992007"
   }
 ]
