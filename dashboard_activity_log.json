@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792063332884-k4flcw",
-    "source": "x",
-    "ts": "2026-10-15T11:22:12.884Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-15T11:16:30.000Z",
-    "reason": "Notable institutional investment in Bitcoin.",
-    "text": "JUST IN: 🇬🇧 Publicly traded The Smarter Web Company bought 83 #Bitcoin for £5.2 million for its treasury.\n\nNow holding 2,830 BTC!",
-    "url": "https://x.com/BitcoinMagazine/status/2110691280284176525",
-    "images": [
-      "https://pbs.twimg.com/media/HUquiGaXYAAxpnX.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792063950896-1astaf",
-    "source": "x",
-    "ts": "2026-10-15T11:32:30.896Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T11:30:29.000Z",
-    "reason": "Notable regulatory and potential conflict of interest involving Tether.",
-    "text": "🚨 LATEST: Tether payments to a firm Bo Hines co-owned began while he led the White House crypto council, WSJ reports.\n\nThe firm reportedly earned $6.3M from the deal. The firm denies Hines knew of the dealings or received Tether funds while in office.",
-    "url": "https://x.com/Cointelegraph/status/2110694797497319834",
-    "images": [
-      "https://pbs.twimg.com/media/HUqxtdMW8AAIPgF.jpg",
-      "https://pbs.twimg.com/media/HUqxuP1WMAAhEex.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792063955293-yptnwx",
     "source": "x",
     "ts": "2026-10-15T11:32:35.293Z",
@@ -7897,5 +7860,45 @@
     "reason": "No notable move or specific event is presented.",
     "text": "📊 FUN FACT: US spot Bitcoin ETFs have never logged more than four straight months of outflows.",
     "url": "https://x.com/Cointelegraph/status/2111434639793439167"
+  },
+  {
+    "id": "x-1792241686606-2157wv",
+    "source": "x",
+    "ts": "2026-10-17T12:54:46.606Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-17T12:45:00.000Z",
+    "reason": "Notable decline in America's biggest bank stocks.",
+    "text": "🚨Has the “Bankpocalypse” begun?\n\nAmerica’s biggest bank stocks are taking a beating, with reported declines from their highs ranging from 11% to 25%.\n\n• JPMorgan: -11%\n• Bank of America: -19%\n• Citigroup: -15%\n• Wells Fargo: -18.5%\n• Goldman Sachs: -24%\n• Morgan Stanley:",
+    "url": "https://x.com/coinbureau/status/2111438326561751382",
+    "images": [
+      "https://pbs.twimg.com/media/HU1Q8_ta0AEk-G4.jpg",
+      "https://pbs.twimg.com/media/HU1Q-FqboAAymlm.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792241691896-r26hxb",
+    "source": "x",
+    "ts": "2026-10-17T12:54:51.896Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-17T12:45:00.000Z",
+    "reason": "Potential upcoming announcements could drive token price.",
+    "text": "Bitcoin OG calls for $FET price run.\n\nDespite teasing several major announcements, @Fetch_ai / @ASI_Alliance's native token has seen a muted performance while much of crypto experienced a bullish run.\n\nNow, Bitcoin OG @LLuciano_BTC has called for a \"solid run\" for the $FET token.",
+    "url": "https://x.com/BSCNews/status/2111438326460780587",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111065047933849600/vid/avc1/1312x720/FEI4ioDd0HhEKvgt.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111065047933849600/img/CnFB59MsaKtdTOO6.jpg"
+    }
   }
 ]
