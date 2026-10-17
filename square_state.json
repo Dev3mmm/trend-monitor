@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 BIG: The Nasdaq 100 closed the week down 5.5%, its largest weekly decline since April 2025, and is now 7% below its high from just 10 days ago.",
-      "url": "https://x.com/Cointelegraph/status/2111220714019647501",
-      "images": [
-        "https://pbs.twimg.com/media/HUyQDChW0AAbzs8.jpg",
-        "https://pbs.twimg.com/media/HUyQDPAWIAAsPRC.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792189334504
-    },
-    {
       "text": "Former Mt. Gox CEO: Ledger Received Hardware Wallet Tampering Reports Since December 2025 but Issued No Public Warning\n\nFormer Mt. Gox CEO Mark Karpelès said Ledger had received reports of hardware wallets tampered with and fitted with malicious components since at least December",
       "url": "https://x.com/WuBlockchain/status/2111235129452728780",
       "images": [
@@ -2023,12 +2013,6 @@
     }
   ],
   "posted": [
-    {
-      "text": "🚨 JUST IN: The SEC has approved Cboe to launch exchange-listed binary options tied to key performance indicators reported by public companies.",
-      "at": 1792026119928,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/377384668974102?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🇺🇸 HUGE: The SEC officially approves prediction market style options tied to Coinbase, Nvidia, Tesla and 20 other companies' results.\n\nTraders will be able to bet on whether company metrics like Coinbase's trading volume and MARA's Bitcoin production land above or below set",
       "at": 1792027956134,
@@ -2522,7 +2506,18 @@
       "at": 1792197147933,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/378085238308715?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 BIG: The Nasdaq 100 closed the week down 5.5%, its largest weekly decline since April 2025, and is now 7% below its high from just 10 days ago.",
+      "final": "🚨 BIG: The Nasdaq 100 closed the week down 5.5%, its largest weekly decline since April 2025, and is now 7% below its high from just 10 days ago.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HUyQDChW0AAbzs8.jpg",
+        "https://pbs.twimg.com/media/HUyQDPAWIAAsPRC.jpg"
+      ],
+      "at": 1792198932907,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/378092580347943?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1792197147933
+  "lastPostAt": 1792198932907
 }
