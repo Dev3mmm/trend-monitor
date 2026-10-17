@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792044131869-hu9wgs",
-    "source": "x",
-    "ts": "2026-10-15T06:02:11.869Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 22,
-    "originTimestamp": "2026-10-15T05:39:08.000Z",
-    "reason": "No notable move in price or relevant event.",
-    "text": "This works well. If Grok @Bot makes a mistake with a purchase or leaks your card (never happened yet), SpaceX will make you whole.",
-    "url": "https://x.com/elonmusk/status/2110610960474079445"
-  },
-  {
     "id": "x-1792044798588-6orsqn",
     "source": "x",
     "ts": "2026-10-15T06:13:18.588Z",
@@ -7952,5 +7939,24 @@
     "reason": "No real content or factual claim.",
     "text": "Binancian Impressionism",
     "url": "https://x.com/binance/status/2111291116364464469"
+  },
+  {
+    "id": "x-1792207377653-j4x4sn",
+    "source": "x",
+    "ts": "2026-10-17T03:22:57.654Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-17T03:19:21.000Z",
+    "reason": "Notable policy change impacting crypto energy trade.",
+    "text": "🇺🇸🇷🇺 HUGE: Trump waives key Russia sanctions and up to 100% tariffs on buyers of Russian oil and gas, just days before they were set to kick in under a law he signed last month.",
+    "url": "https://x.com/Cointelegraph/status/2111295978619781463",
+    "images": [
+      "https://pbs.twimg.com/media/HUzUgB1XQAAjomv.jpg",
+      "https://pbs.twimg.com/media/HUzUgMtWUAAI99C.jpg"
+    ],
+    "video": null
   }
 ]
