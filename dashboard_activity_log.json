@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1792062717966-hlv220",
-    "source": "x",
-    "ts": "2026-10-15T11:11:57.966Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T11:09:56.000Z",
-    "reason": "Noteworthy institutional investment in Bitcoin",
-    "text": "JUST IN: 🇬🇧 Publicly traded The Smarter Web Company bought 83 #Bitcoin for £5.2 million for its treasury.\n\nNow holding 2,830 BTC!",
-    "url": "https://x.com/BitcoinMagazine/status/2110689626658582698",
-    "images": [
-      "https://pbs.twimg.com/media/HUqtB9eW4AA30MX.jpg",
-      "https://pbs.twimg.com/media/HUqtB9fX0AEGW3n.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792062719876-9a5c5b",
     "source": "x",
     "ts": "2026-10-15T11:11:59.876Z",
@@ -7900,5 +7881,26 @@
     "reason": "Generic meme without factual claim.",
     "text": "Men,\n\nWhen your woman shouts at you in public, smile.\n\nIt shows she cares.\n\nLower your head.\n\nApologise to the people watching.\n\nA peaceful man absorbs everything.\n\n#MasculinitySaturday",
     "url": "https://x.com/amerix/status/2111419469134221417"
+  },
+  {
+    "id": "x-1792237302467-5j399i",
+    "source": "x",
+    "ts": "2026-10-17T11:41:42.467Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-17T11:35:00.000Z",
+    "reason": "No notable move; price is within its recent range.",
+    "text": "Algorand is flexing its post-quantum dominance.\n\nSince @Google published its famous/infamous post-quantum cryptography paper, @Algorand claims its has processed some 1.7M post-quantum transactions on mainnet.\n\nIt highlighted very small figure by comparison from the likes of",
+    "url": "https://x.com/BSCNews/status/2111420710362948066",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111044018104668160/vid/avc1/1312x720/1jDapd7WXdY63LS6.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111044018104668160/img/RI6Y7AMPc-bYLVHb.jpg"
+    }
   }
 ]
