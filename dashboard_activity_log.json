@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1792087433390-2nmyg8",
-    "source": "x",
-    "ts": "2026-10-15T18:03:53.390Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-15T17:55:06.000Z",
-    "reason": "The purchase of BTC is significant but not breaking news as it doesn't affect overall market trends.",
-    "text": "JUST IN: $5.3 billion Cardone Capital bought 60 BTC, worth $4.8 million! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2110791590012678637",
-    "images": [
-      "https://pbs.twimg.com/media/HUsJw7iXAAAKzJY.jpg",
-      "https://pbs.twimg.com/media/HUsJw7nXAAAJJRI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792087930086-fersfq",
     "source": "x",
     "ts": "2026-10-15T18:12:10.086Z",
@@ -7794,5 +7775,18 @@
     "url": "https://x.com/BSCNews/status/2111720434857283840",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792311715340-wvsl7f",
+    "source": "x",
+    "ts": "2026-10-18T08:21:55.340Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-18T08:15:36.000Z",
+    "reason": "No notable news provided, only a speculative statement without supporting evidence.",
+    "text": "🚨WARNING: Up to 80% of independent AI cloud operators could face bankruptcy or consolidation, according to Gartner.\n\nDan Niles warns of a “huge wave of bankruptcies” as AI overinvestment leaves smaller providers with massive debts and excess capacity.\n\nYet, he predicts",
+    "url": "https://x.com/coinbureau/status/2111732917949055354"
   }
 ]
