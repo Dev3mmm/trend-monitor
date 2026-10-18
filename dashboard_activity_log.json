@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792086157616-qj2jd9",
-    "source": "x",
-    "ts": "2026-10-15T17:42:37.616Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 83,
-    "originTimestamp": "2026-10-15T16:19:17.000Z",
-    "reason": "Noise: No real content.",
-    "text": "🔥",
-    "url": "https://x.com/elonmusk/status/2110788138092355945"
-  },
-  {
-    "id": "x-1792086161847-vmopa0",
-    "source": "x",
-    "ts": "2026-10-15T17:42:41.847Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 35,
-    "originTimestamp": "2026-10-15T17:06:52.000Z",
-    "reason": "No notable move in crypto related to Tesla's Cybercab Robotaxis.",
-    "text": "Tesla's Cybercab Robotaxis were involved in zero crashes or accidents during their first two weeks of public rides, according to the latest NHTSA data.",
-    "url": "https://x.com/elonmusk/status/2110788040042156538"
-  },
-  {
     "id": "x-1792086165638-2qk8xl",
     "source": "x",
     "ts": "2026-10-15T17:42:45.638Z",
@@ -7780,5 +7754,39 @@
       "https://pbs.twimg.com/media/HU4evd7aMAIuFwp.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792296135836-teqe5m",
+    "source": "x",
+    "ts": "2026-10-18T04:02:15.836Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-18T04:00:01.000Z",
+    "reason": "No notable move or newsworthy event.",
+    "text": "Justin Sun on His WLFI Investment: He Would Invest Again, Saying the Decision Was Almost Inevitable at the Time\n\nTRON founder Justin Sun @justinsuntron  said in an October 14 interview with Bonnie Blockchain @TheBonnieChang   that if he could go back in time, he would still",
+    "url": "https://x.com/WuBlockchain/status/2111668598091686154"
+  },
+  {
+    "id": "x-1792296141728-lzpfvv",
+    "source": "x",
+    "ts": "2026-10-18T04:02:21.728Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-18T03:55:00.000Z",
+    "reason": "Aave protocol reaches $450M in active loans in under a year.",
+    "text": "A good time to be an $AAVE holder...?\n\nThe adoption of @Aave v4 has been exponential, the protocol just now reaching a staggering $450M in active loans.\n\nThe milestone is all the more bullish when you consider that Aave v4 is less than 7 months old, having only launched in March",
+    "url": "https://x.com/BSCNews/status/2111667335224291348",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111371639485034496/vid/avc1/1312x720/gQjX77DiSZa_CXIE.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111371639485034496/img/pXaLrQivQKyImbSU.jpg"
+    }
   }
 ]
