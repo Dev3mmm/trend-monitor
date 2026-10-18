@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792083144140-8ct8bt",
-    "source": "x",
-    "ts": "2026-10-15T16:52:24.140Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-15T16:46:05.000Z",
-    "reason": "New use of a token/stablecoin for AI agents.",
-    "text": "Self launches 'Agent Vault' - a portable payment and login layer for AI agents.\n\n@selfxyz has just announced the launch of its own 'Agent Vault' product, built to power AI agent payments that don't put user credentials at risk, while ensuring unauthorised actions do not take",
-    "url": "https://x.com/BSCNews/status/2110774220447748233",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110774184292855808/vid/avc1/1280x720/fjzL_OCZB6zjI3nq.mp4?tag=29",
-      "duration": 14,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110774184292855808/img/6DGwsmrZjgzRilFo.jpg"
-    }
-  },
-  {
     "id": "x-1792083149239-qt9inv",
     "source": "x",
     "ts": "2026-10-15T16:52:29.239Z",
@@ -7796,5 +7775,24 @@
     "reason": "No notable move, price is well within its recent range.",
     "text": "🔥 BIG: Jensen Huang says the AI market turmoil will pass and the massive hardware spend will ultimately pay off.",
     "url": "https://x.com/Cointelegraph/status/2111615826474221660"
+  },
+  {
+    "id": "x-1792287184987-ta25l6",
+    "source": "x",
+    "ts": "2026-10-18T01:33:04.987Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-18T01:30:18.000Z",
+    "reason": "Potential insider trading and regulatory fallout.",
+    "text": "🚨 BIG: Mt. Gox's Mark Karpelès says Ledger knew about advanced spy implants back in March and slams its response to what he calls \"a five-alarm fire in the making.\"",
+    "url": "https://x.com/Cointelegraph/status/2111630921002537095",
+    "images": [
+      "https://pbs.twimg.com/media/HU4FINrWYAAYo6C.jpg",
+      "https://pbs.twimg.com/media/HU4FIcDWwAArcCF.jpg"
+    ],
+    "video": null
   }
 ]
