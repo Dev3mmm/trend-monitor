@@ -111,6 +111,12 @@ jobs:
         run: node refresh_all_rss.js
         continue-on-error: true
 
+      - name: Check hosted dashboard can still read data (Telegram alert on failure)
+        run: node dashboard_health_check.js
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        continue-on-error: true
+
       - name: Remove secrets before commit
         run: rm -f x_state.json config.local.json
 
