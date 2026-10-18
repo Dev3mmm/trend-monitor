@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792087930086-fersfq",
-    "source": "x",
-    "ts": "2026-10-15T18:12:10.086Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T18:10:20.000Z",
-    "reason": "No factual claim or verifiable event.",
-    "text": "🚨 ALERT: Stock markets face a growing risk of an AI-driven crunch, per the Financial Times.",
-    "url": "https://x.com/Cointelegraph/status/2110795424827142161"
-  },
-  {
     "id": "x-1792088559680-wunxvj",
     "source": "x",
     "ts": "2026-10-15T18:22:39.680Z",
@@ -7788,5 +7775,25 @@
     "reason": "No notable news provided, only a speculative statement without supporting evidence.",
     "text": "🚨WARNING: Up to 80% of independent AI cloud operators could face bankruptcy or consolidation, according to Gartner.\n\nDan Niles warns of a “huge wave of bankruptcies” as AI overinvestment leaves smaller providers with massive debts and excess capacity.\n\nYet, he predicts",
     "url": "https://x.com/coinbureau/status/2111732917949055354"
+  },
+  {
+    "id": "x-1792312312131-c5hjsn",
+    "source": "x",
+    "ts": "2026-10-18T08:31:52.131Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-18T08:30:21.000Z",
+    "reason": "Notable institutional interest in tokenization and crypto payments.",
+    "text": "🔥 BIG: Goldman Sachs, Wells Fargo and Morgan Stanley all pitched tokenization as a growth opportunity on their Q3 calls, with Wells Fargo already settling cross-border payments in two minutes using tokenized deposits.",
+    "url": "https://x.com/Cointelegraph/status/2111736628804812961",
+    "images": [
+      "https://pbs.twimg.com/media/HU5lQ9uWAAA4mzg.png",
+      "https://pbs.twimg.com/media/HU5lRNNX0AAZ8zl.png",
+      "https://pbs.twimg.com/media/HU5lRavWEAAVasu.jpg"
+    ],
+    "video": null
   }
 ]
