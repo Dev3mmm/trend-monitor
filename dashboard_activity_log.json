@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792094015549-hb5lfd",
-    "source": "x",
-    "ts": "2026-10-15T19:53:35.549Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-15T19:43:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Solana’s Helius CEO joins the council that runs NEAR Foundation\n\nHelius CEO @mert has joined the NEAR Foundation Council, which oversees the foundation’s biggest decisions. He stays on at @Helius, which builds Solana infrastructure used by Phantom, Jupiter, and Coinbase.\n\nAs an",
-    "url": "https://x.com/BSCNews/status/2110818743550898186",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110802883130060800/vid/avc1/1220x720/WP6CpLShvBSHCZ9i.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110802883130060800/img/r1GcLsSomKm_6xV0.jpg"
-    }
-  },
-  {
-    "id": "x-1792094597220-nrwqpd",
-    "source": "x",
-    "ts": "2026-10-15T20:03:17.220Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T20:01:11.000Z",
-    "reason": "No notable move or specific actionable information provided.",
-    "text": "🚨JUST IN: Google may bring Bitcoin’s Q-Day sooner than expected after its Willow chip cuts quantum errors 40x.\n\nGoogle says a technique called “magic state cultivation” now works on its Willow chip, cutting errors about 40x with a record 99.99% accuracy.\n\nQ-Day is the moment a",
-    "url": "https://x.com/coinbureau/status/2110823318848958534"
-  },
-  {
     "id": "x-1792095136963-lga4dx",
     "source": "x",
     "ts": "2026-10-15T20:12:16.963Z",
@@ -7806,6 +7772,40 @@
     "ageMin": 8,
     "originTimestamp": "2026-10-18T13:14:00.000Z",
     "reason": "ETF losses highlight ongoing volatility in crypto assets.",
+    "text": "Chainlink ETFs see third day of losses in history.\n\nOn October 16, spot @chainlink ETFs saw -$397K in net outflows - Only the third such day in history.\n\nDespite the negative activity, the ETFs still hold 2.36% of $LINK's supply - more than 1 in every 50 tokens.",
+    "url": "https://x.com/BSCNews/status/2111808012344013288",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111739506806202368/vid/avc1/1312x720/7HKggGaHf6zPiBUu.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111739506806202368/img/KHtLgnmM8zk5JmaM.jpg"
+    }
+  },
+  {
+    "id": "x-1792329881593-uvakh3",
+    "source": "x",
+    "ts": "2026-10-18T13:24:41.593Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-18T13:15:54.000Z",
+    "reason": "No factual claim or verifiable information provided.",
+    "text": "The most bullish stock by analyst sentiment is $MSTR.",
+    "url": "https://x.com/saylor/status/2111809322959179789"
+  },
+  {
+    "id": "x-1792329887549-so2b5f",
+    "source": "x",
+    "ts": "2026-10-18T13:24:47.549Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-18T13:14:00.000Z",
+    "reason": "Notable institutional outflow from Chainlink ETFs.",
     "text": "Chainlink ETFs see third day of losses in history.\n\nOn October 16, spot @chainlink ETFs saw -$397K in net outflows - Only the third such day in history.\n\nDespite the negative activity, the ETFs still hold 2.36% of $LINK's supply - more than 1 in every 50 tokens.",
     "url": "https://x.com/BSCNews/status/2111808012344013288",
     "images": [],
