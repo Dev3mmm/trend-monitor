@@ -1,43 +1,5 @@
 [
   {
-    "id": "x-1792113265106-893udv",
-    "source": "x",
-    "ts": "2026-10-16T01:14:25.106Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-16T01:03:22.000Z",
-    "reason": "Exploit involving stolen funds from a stablecoin to ETH.",
-    "text": "#PeckShieldAlert The phisher who drained a Bofur Capital-related address of $2M in DAI has swapped the stolen funds for 825.5 $ETH.",
-    "url": "https://x.com/PeckShieldAlert/status/2110899366429102307",
-    "images": [
-      "https://pbs.twimg.com/media/HUtrtP4bUAAhuKI.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792114340582-p9hgxd",
-    "source": "x",
-    "ts": "2026-10-16T01:32:20.582Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T01:30:19.000Z",
-    "reason": "Notable regulatory move affecting a major crypto exchange in a politically sensitive region.",
-    "text": "🇹🇼 TODAY: Taiwan has cut off access to Coinbase and Kalshi over alleged election betting, just weeks ahead of local polls seen as a test for President Lai Ching-te’s government.",
-    "url": "https://x.com/Cointelegraph/status/2110906148589060482",
-    "images": [
-      "https://pbs.twimg.com/media/HUtx8jkWUAAeHUX.jpg",
-      "https://pbs.twimg.com/media/HUtx85WWsAE8jyT.jpg",
-      "https://pbs.twimg.com/media/HUtx9IPWoAAYM5d.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792114346330-vdp2c0",
     "source": "x",
     "ts": "2026-10-16T01:32:26.330Z",
@@ -7724,5 +7686,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111751739292393473/img/3jhXtT5gbGbqeAJ3.jpg"
     }
+  },
+  {
+    "id": "x-1792365560006-b8f563",
+    "source": "x",
+    "ts": "2026-10-18T23:19:20.006Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-18T23:16:39.000Z",
+    "reason": "Potential regulatory or strategic move impact on Nscale and its stakeholders.",
+    "text": "🚨 BIG: Microsoft just walked away from Nscale's UK data center days before its $3B IPO, and Microsoft and Anthropic make up 85% of Nscale's contracts.",
+    "url": "https://x.com/Cointelegraph/status/2111959675516113404",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792365561924-1zeemp",
+    "source": "x",
+    "ts": "2026-10-18T23:19:21.924Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Rarma",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-18T23:14:41.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "All this started by people listening to that little psycho Greta.\n\nNow you know, never give them an inch, they will take a mile, one cm at a time.\n\nProgressive = Pro Agressive. \n\nIYKYK.",
+    "url": "https://x.com/Rarma_/status/2111959180689195086"
   }
 ]
