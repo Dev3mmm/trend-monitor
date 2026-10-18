@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792102986076-i131cl",
-    "source": "x",
-    "ts": "2026-10-15T22:23:06.076Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-15T22:17:15.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-    "url": "https://x.com/DecryptMedia/status/2110857562237120931"
-  },
-  {
-    "id": "x-1792103583164-6s7vzr",
-    "source": "x",
-    "ts": "2026-10-15T22:33:03.164Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T22:30:23.000Z",
-    "reason": "Price movement is significant and indicative of market sentiment.",
-    "text": "🚨 LATEST: Bitcoin funding rates on Binance have fallen to -0.0073%, signaling bearish sentiment as rate hike expectations rise, according to a CryptoQuant analyst.",
-    "url": "https://x.com/Cointelegraph/status/2110860870083317952",
-    "images": [
-      "https://pbs.twimg.com/media/HUtIxNeWgAAj9kL.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792104160050-yj903m",
     "source": "x",
     "ts": "2026-10-15T22:42:40.050Z",
@@ -7769,5 +7738,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111751280141963264/img/Og3LvMTROtflF44w.jpg"
     }
+  },
+  {
+    "id": "x-1792348830041-w4ksua",
+    "source": "x",
+    "ts": "2026-10-18T18:40:30.041Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-18T18:30:17.000Z",
+    "reason": "Exploit led to a significant minting and wallet freeze incident.",
+    "text": "🚨 REKT: Cysic halted its bridge after an attacker exploited a flaw to mint 10M CYS on BNB Chain, with about 2.8M still frozen in the hacker's wallet. What's the real damage?",
+    "url": "https://x.com/Cointelegraph/status/2111887608078901721",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792348834729-61x8fm",
+    "source": "x",
+    "ts": "2026-10-18T18:40:34.729Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-18T18:28:06.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "⚡️NEW: Anthropic commits roughly 20% of its shares to PUBLIC BENEFIT, launching the \"Anthropic Public Benefit Fund\" with an initial 5% stake.\n\nThe fund could receive up to another 2% for every 50% increase in Anthropic's valuation, subject to board approval.\n\nIts co-founders have",
+    "url": "https://x.com/coinbureau/status/2111887059162103840"
   }
 ]
