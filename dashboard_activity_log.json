@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792113141957-64jivu",
-    "source": "x",
-    "ts": "2026-10-16T01:12:21.957Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T01:06:17.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸🇮🇷 LATEST: President Trump says the “Mother of All Bombs,” which the US is reportedly considering for strikes on Iran, is NOT nuclear.\n\nTrump calls it “just an extremely large bomb,” adding “it’s like a tiny nuclear bomb… but it’s not nuclear.”\n\n“No, I wouldn’t use nuclear, we",
-    "url": "https://x.com/coinbureau/status/2110900100348407849"
-  },
-  {
     "id": "x-1792113265106-893udv",
     "source": "x",
     "ts": "2026-10-16T01:14:25.106Z",
@@ -7716,5 +7703,26 @@
       "https://pbs.twimg.com/media/HU8lgWBX0AEGyCu.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792363334193-8u3rxu",
+    "source": "x",
+    "ts": "2026-10-18T22:42:14.193Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-18T22:36:00.000Z",
+    "reason": "The tweet lacks specific details to verify the partnership's significance.",
+    "text": "Theta Network's latest big partnership.\n\nJust a few days ago, @Theta_Network announced an official partnership with blockchain Telecom company, @Weaver_Labs.\n\nWeaver will leverage Theta's decentralized GPU network as an AI compute resource for its Cell-Stack.\n\nAt time of writing,",
+    "url": "https://x.com/BSCNews/status/2111949443994104116",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111751739292393473/vid/avc1/1312x720/XrYFsuC_hKIYUiKP.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111751739292393473/img/3jhXtT5gbGbqeAJ3.jpg"
+    }
   }
 ]
