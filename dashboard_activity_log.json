@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792115009436-17mtkc",
-    "source": "x",
-    "ts": "2026-10-16T01:43:29.436Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-16T01:34:31.000Z",
-    "reason": "No concrete event or data to verify.",
-    "text": "⚡️Elon Musk’s Tesla and SpaceX officially unveil their first “flying” car, the new Roadster.",
-    "url": "https://x.com/coinbureau/status/2110907205210009998"
-  },
-  {
     "id": "x-1792116142190-7h9zt7",
     "source": "x",
     "ts": "2026-10-16T02:02:22.190Z",
@@ -7707,5 +7694,26 @@
     "reason": "No concrete crypto-related information or use.",
     "text": "🇺🇸 TODAY: President Trump says he struck a diesel export deal with Russia and held off on new sanctions to keep Putin at the Ukraine peace talks.",
     "url": "https://x.com/Cointelegraph/status/2111963818066600251"
+  },
+  {
+    "id": "x-1792367515438-h6z4vb",
+    "source": "x",
+    "ts": "2026-10-18T23:51:55.438Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-18T23:46:00.000Z",
+    "reason": "Security concerns leading to delayed mainnet launch.",
+    "text": "Soul Labs delays mainnet launch.\n\n\"We know this is another delay and that many of you were looking forward to finally using Soul\"\n\n@0xSoulProtocol has pushed back its mainnet launch date from October 19, 2026, to January 5, 2027.\n\nThe platform says security is the motivation",
+    "url": "https://x.com/BSCNews/status/2111967060079133114",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111751898202038273/vid/avc1/1312x720/9XVEFYzszbCC8wLM.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111751898202038273/img/fCl2_gcVbU7l6up5.jpg"
+    }
   }
 ]
