@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1791939123671-du1f41",
-    "source": "x",
-    "ts": "2026-10-14T00:52:03.671Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-14T00:49:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "A brand new product in the $FLOKI ecosystem.\n\n@Floki's tokenisation-focused sister project @tokenfi, has just announced the launch of 'TokenFi Shield'.\n\nThe new platform leverages AI to identify smart contract risks and potential exploits before protocols even go live, forming a",
-    "url": "https://x.com/BSCNews/status/2110170975186927967"
-  },
-  {
     "id": "x-1791939129998-ei2c13",
     "source": "x",
     "ts": "2026-10-14T00:52:09.998Z",
@@ -7814,6 +7801,24 @@
     "images": [
       "https://pbs.twimg.com/media/HU6KCQoa4AAn71o.jpg",
       "https://pbs.twimg.com/media/HU6KD_sa4AA7B_F.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792323130295-bsc87w",
+    "source": "x",
+    "ts": "2026-10-18T11:32:10.295Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-18T11:28:16.000Z",
+    "reason": "On-chain data point with a significant transfer volume.",
+    "text": "🔥 BIG: Solana snatched the #1 spot for stablecoin transfers with a record 557M in September, edging out BNB Chain's 543M by just 14M.",
+    "url": "https://x.com/Cointelegraph/status/2111781404946145656",
+    "images": [
+      "https://pbs.twimg.com/media/HU6N_rSX0AA92ld.jpg"
     ],
     "video": null
   }
