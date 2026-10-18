@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1792091596406-hh78lh",
-    "source": "x",
-    "ts": "2026-10-15T19:13:16.406Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T19:10:21.000Z",
-    "reason": "No notable price move or significant event is suggested in the tweet.",
-    "text": "🚨 UPDATE: Bitcoin’s realized volatility fell to 43% over the past year from 81% five years ago, putting it within the range of S&amp;P 500 stocks, Grayscale says.",
-    "url": "https://x.com/Cointelegraph/status/2110810529140801933"
-  },
-  {
-    "id": "x-1792091600681-0hl6rg",
-    "source": "x",
-    "ts": "2026-10-15T19:13:20.681Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-15T19:07:51.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "JUST IN: There's now a 60% chance Bitcoin will be above $90,000 this year, according to Polymarket⁠.com 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2110809900716814687"
-  },
-  {
-    "id": "x-1792092113511-lhabrb",
-    "source": "x",
-    "ts": "2026-10-15T19:21:53.511Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-15T19:17:15.000Z",
-    "reason": "No notable move or specific event is clearly stated.",
-    "text": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-    "url": "https://x.com/DecryptMedia/status/2110812263292502408"
-  },
-  {
     "id": "x-1792092116218-cyt8hp",
     "source": "x",
     "ts": "2026-10-15T19:21:56.218Z",
@@ -7811,6 +7772,51 @@
     "url": "https://x.com/BitcoinMagazine/status/2111799090787082365",
     "images": [
       "https://pbs.twimg.com/media/HU6d6FbXMAA_-2n.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792327923598-rchel2",
+    "source": "x",
+    "ts": "2026-10-18T12:52:03.598Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 24,
+    "originTimestamp": "2026-10-18T12:27:28.000Z",
+    "reason": "Generic hype with no real content.",
+    "text": "Now stacking sats with double the horsepower.",
+    "url": "https://x.com/saylor/status/2111801115641544876"
+  },
+  {
+    "id": "x-1792327925755-w32pph",
+    "source": "x",
+    "ts": "2026-10-18T12:52:05.755Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-18T12:45:10.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "We found room for more orange.",
+    "url": "https://x.com/saylor/status/2111800758576574624"
+  },
+  {
+    "id": "x-1792327929721-4z80dm",
+    "source": "x",
+    "ts": "2026-10-18T12:52:09.721Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-18T12:42:00.000Z",
+    "reason": "Exploit or vulnerability revelation in stablecoin industry.",
+    "text": "🚨STUNNING: Circle hits back at rival stablecoins, revealing it keeps just 7 CENTS per dollar.\n\nCircle says rivals are pitching that issuers keep too much of the money and make redemptions expensive.\n\nIt brought in about $1.4 BILLION in revenue in the first half of 2026, and says",
+    "url": "https://x.com/coinbureau/status/2111799959360049450",
+    "images": [
+      "https://pbs.twimg.com/media/HU6Ti43bYAA7f7C.png",
+      "https://pbs.twimg.com/media/HU6Ti4obIAEDw8w.png"
     ],
     "video": null
   }
