@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1792110739943-4xqz7x",
-    "source": "x",
-    "ts": "2026-10-16T00:32:19.943Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T00:30:21.000Z",
-    "reason": "Regulatory move impacting cryptocurrency exchange penalties.",
-    "text": "🇺🇸 LATEST: A federal judge has denied a joint push by Gemini and the CFTC to scrap the Biden-era $5 million penalty against the Winklevoss-led crypto exchange.",
-    "url": "https://x.com/Cointelegraph/status/2110891060570320917",
-    "images": [
-      "https://pbs.twimg.com/media/HUtkOW1WoAEA8sz.jpg",
-      "https://pbs.twimg.com/media/HUtkOrtXMAAdAIZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792110744756-ugrp6h",
-    "source": "x",
-    "ts": "2026-10-16T00:32:24.756Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T00:29:20.000Z",
-    "reason": "No notable move in crypto markets.",
-    "text": "You can’t make this up.\n\nTreasury yields FELL despite US wholesale prices jumping 1.3% in a single month, the biggest rise since March 2022.\n\nThe 10-year dropped to around 5.06% during Thursday’s trading, per CNBC.\n\nInvestors sold tech stocks and fled into the safety of bonds.",
-    "url": "https://x.com/coinbureau/status/2110890803300307401"
-  },
-  {
-    "id": "x-1792110749995-4oerc9",
-    "source": "x",
-    "ts": "2026-10-16T00:32:29.995Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-16T00:25:00.000Z",
-    "reason": "Notable institutional use of Bitcoin in a new lending protocol.",
-    "text": "Babylon Wants Bitcoin Holders to Borrow on Aave\n\nBabylon Labs (@babylonlabs_io) has proposed letting users borrow stablecoins on Aave V4 (@aave) against native Bitcoin.\n\nBTC would remain on the Bitcoin network, locked in vaults rather than bridged or wrapped.\n\nAn Ethereum token",
-    "url": "https://x.com/BSCNews/status/2110889711031988277",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110709184408825857/vid/avc1/1280x720/K3aCxRaAZ0Iye0Ih.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110709184408825857/img/ql4HoEOpNhh5iYhR.jpg"
-    }
-  },
-  {
     "id": "x-1792112608720-36ysq8",
     "source": "x",
     "ts": "2026-10-16T01:03:28.720Z",
@@ -7734,5 +7681,49 @@
     "reason": "Nothing specific or notable mentioned.",
     "text": "Plan ₿.",
     "url": "https://x.com/saylor/status/2111924502607384925"
+  },
+  {
+    "id": "x-1792359164222-hde0b1",
+    "source": "x",
+    "ts": "2026-10-18T21:32:44.222Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-18T21:30:18.000Z",
+    "reason": "Significant change in Bitcoin custody behavior revealed.",
+    "text": "📊 NEW: Bitcoin holders who bought 6 to 12 months ago have almost stopped sending coins to exchanges, dropping from 40.4% of their transfers in June to just 4.4%, per CryptoQuant.",
+    "url": "https://x.com/Cointelegraph/status/2111932913134502364",
+    "images": [
+      "https://pbs.twimg.com/media/HU8XyhpWMAAI7Qg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792359168159-kkubqp",
+    "source": "x",
+    "ts": "2026-10-18T21:32:48.159Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-18T21:27:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "So @injective is looking to become a dominant force in the RWA sub-sector - But how to tokenised stocks on $INJ actually work...? ⬇️",
+    "url": "https://x.com/BSCNews/status/2111932079529464205"
+  },
+  {
+    "id": "x-1792359171690-lzl0z0",
+    "source": "x",
+    "ts": "2026-10-18T21:32:51.690Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-18T21:21:41.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "What it’s like trying to rent AI/SI compute",
+    "url": "https://x.com/elonmusk/status/2111930742615802163"
   }
 ]
