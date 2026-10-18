@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792096960741-7vb51x",
-    "source": "x",
-    "ts": "2026-10-15T20:42:40.741Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T20:40:11.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "A massive day for financial markets, here are the 8 stories you need to know ↓\n\n1. U.S. PPI came in higher than expected at 6.3% vs expectations at 5.3%\n\n2. Apple and Meta partner to bring Meta's 'Muse AI' to Mac computers.\n\n3. Ramp raises $1.85B at a $60B valuation.\n\n4. Google",
-    "url": "https://x.com/coinbase/status/2110833402656018581"
-  },
-  {
-    "id": "x-1792096965238-m9vpgs",
-    "source": "x",
-    "ts": "2026-10-15T20:42:45.238Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-15T20:41:00.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "One of Haskell’s designers has spent nine years building Cardano\n\nPhilip Wadler is one of the principal designers of Haskell, the programming language that powers @Cardano’s core. The University of Edinburgh also credits his work with shaping Java, Go and Swift.\n\nHe joined",
-    "url": "https://x.com/BSCNews/status/2110833339649417513"
-  },
-  {
     "id": "x-1792096969823-lw6ijn",
     "source": "x",
     "ts": "2026-10-15T20:42:49.823Z",
@@ -7789,5 +7763,39 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🇺🇸🇷🇺🇺🇦 ESCALATING: Ukraine's massive 1,000+ drone attack hits St. Petersburg's oil terminal, a week after Trump's ENERGY CEASEFIRE.\n\nRussia's Defense Ministry says it downed 1,015 Ukrainian drones overnight, one of the largest attacks of the war.\n\nThe ceasefire came 2 days after",
     "url": "https://x.com/coinbureau/status/2111822608614506499"
+  },
+  {
+    "id": "x-1792333943743-ttf8nq",
+    "source": "x",
+    "ts": "2026-10-18T14:32:23.743Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-18T14:30:20.000Z",
+    "reason": "Generic financial speculation without crypto-specific context or token value reference.",
+    "text": "📊 FUN FACT: Nvidia is on pace to sell around $430B worth of chips this year.\n\nThat's about the size of South Africa's entire economy.",
+    "url": "https://x.com/Cointelegraph/status/2111827222445076640"
+  },
+  {
+    "id": "x-1792333947977-ddoqed",
+    "source": "x",
+    "ts": "2026-10-18T14:32:27.977Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-18T14:25:00.000Z",
+    "reason": "On-chain data indicating significant price movement and volatility.",
+    "text": "Stellar's stablecoin supply jumps +28% despite TVL pullback.\n\n@StellarOrg's stablecoin market cap now stands at over $541M, currently up +28% on the week.\n\nAt the same time, however, stellar:native's total value locked has dropped more than $42M, since reaching a new all-time",
+    "url": "https://x.com/BSCNews/status/2111825879915503851",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111751089343115264/vid/avc1/1312x720/4qzD57wZWUjt1FUk.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111751089343115264/img/pjrnoz4QNFMFYxDc.jpg"
+    }
   }
 ]
