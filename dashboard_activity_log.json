@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792087423286-pwwml2",
-    "source": "x",
-    "ts": "2026-10-15T18:03:43.286Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-15T18:00:05.000Z",
-    "reason": "No notable move, tweet is ambiguous and could be a typo.",
-    "text": "not old, just market-made.. how old are you btw?",
-    "url": "https://x.com/binance/status/2110792846026363344"
-  },
-  {
-    "id": "x-1792087428262-x9ucku",
-    "source": "x",
-    "ts": "2026-10-15T18:03:48.262Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-15T18:00:01.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Vitalik Buterin: A Sign of Ethereum's Maturity Is That It Can Keep Moving Forward Without My Involvement\n\nEthereum co-founder Vitalik Buterin @VitalikButerin  said in an October 9 interview with Balaji Srinivasan  @balajis at the Network State Conference 2026 that constantly",
-    "url": "https://x.com/WuBlockchain/status/2110792827068125475"
-  },
-  {
     "id": "x-1792087433390-2nmyg8",
     "source": "x",
     "ts": "2026-10-15T18:03:53.390Z",
@@ -7791,5 +7765,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111371902635606016/img/DglYwYPOvd4_QazX.jpg"
     }
+  },
+  {
+    "id": "x-1792308707967-fnczvb",
+    "source": "x",
+    "ts": "2026-10-18T07:31:47.967Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-18T07:30:18.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "📊 FUN FACT: Bitcoin hasn't closed two red Octobers in a row since at least 2013. Could this year be the first?",
+    "url": "https://x.com/Cointelegraph/status/2111721516916179217"
+  },
+  {
+    "id": "x-1792308712025-c6ddpp",
+    "source": "x",
+    "ts": "2026-10-18T07:31:52.025Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-18T07:26:00.000Z",
+    "reason": "New stablecoin gaining attention and analysis",
+    "text": "Here's why @ethena's $USDe token is now a top-3 stablecoin. Think is worth understanding... ⬇️",
+    "url": "https://x.com/BSCNews/status/2111720434857283840",
+    "images": [],
+    "video": null
   }
 ]
