@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792091062936-l5adyc",
-    "source": "x",
-    "ts": "2026-10-15T19:04:22.936Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-15T18:59:22.000Z",
-    "reason": "New use of a token (Internet Computer) for smart contracts with a unique feature.",
-    "text": "Internet Computer smart contracts can set their own alarm clock\n\nOn most blockchains, a smart contract sits idle until an outside transaction wakes it up. Projects often pay outside bots, known as keepers, to send that nudge on time.\n\nOn the Internet Computer from @dfinity, the",
-    "url": "https://x.com/BSCNews/status/2110807764960268785",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110807650619338752/vid/avc1/1220x720/HO4O9MFei1u0b747.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110807650619338752/img/yF0F5QPQEJG9Nb6E.jpg"
-    }
-  },
-  {
-    "id": "x-1792091591956-8cmcg8",
-    "source": "x",
-    "ts": "2026-10-15T19:13:11.956Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 79,
-    "originTimestamp": "2026-10-15T17:53:58.000Z",
-    "reason": "No notable move or new information provided.",
-    "text": "NEW: Money For AI Q3 Update 📄\n\nEarlier this year, we studied which forms of money AI models would choose for four financial tasks: saving for the future, making payments, setting prices/keeping accounts, and settling payments.\n\nFor our Q3 follow-up, we tested 13 new models using",
-    "url": "https://x.com/saylor/status/2110810607670776088"
-  },
-  {
     "id": "x-1792091596406-hh78lh",
     "source": "x",
     "ts": "2026-10-15T19:13:16.406Z",
@@ -7812,6 +7778,40 @@
     "text": "Understand why @PiCoreTeam's $PI Ventures decided to invest real capital into robotics start-up @axisrobotics ⬇️",
     "url": "https://x.com/BSCNews/status/2111790648349045088",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792327326035-ghp9mz",
+    "source": "x",
+    "ts": "2026-10-18T12:42:06.035Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-18T12:41:16.000Z",
+    "reason": "Criminal activity involving cryptocurrency transactions",
+    "text": "🇹🇭 BUSTED: Thai police arrested a Chinese man allegedly behind crypto and FX exchanges for a crime network that moved $75M, found hiding in a Bangkok luxury house with fake documents, swapped number plates and a visa that expired over three years ago.",
+    "url": "https://x.com/Cointelegraph/status/2111799773908836748",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792327328878-tqgu9j",
+    "source": "x",
+    "ts": "2026-10-18T12:42:08.878Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-18T12:38:33.000Z",
+    "reason": "Specific individual making a public statement about crypto investment.",
+    "text": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin. 👀\n\n\"Now stacking sats with double the horsepower.\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2111799090787082365",
+    "images": [
+      "https://pbs.twimg.com/media/HU6d6FbXMAA_-2n.png"
+    ],
     "video": null
   }
 ]
