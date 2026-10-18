@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1792095136963-lga4dx",
-    "source": "x",
-    "ts": "2026-10-15T20:12:16.963Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-15T20:11:21.000Z",
-    "reason": "All-time high in Bitcoin wallets surpassing previous highs",
-    "text": "🐋 UPDATE: Bitcoin wallets holding 10 to 10,000 $BTC hit an all-time high of 20,338, climbing sharply since mid-July despite price volatility, Santiment reports.",
-    "url": "https://x.com/Cointelegraph/status/2110825879706255429",
-    "images": [
-      "https://pbs.twimg.com/media/HUso80BWQAACirw.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792095736357-xxd0ld",
-    "source": "x",
-    "ts": "2026-10-15T20:22:16.357Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-15T20:21:33.000Z",
-    "reason": "Notable institutional investment in Bitcoin by a public company.",
-    "text": "NEW: 🇸🇬 Singapore public company BitFuFu disclosed adding 15 Bitcoin, raising their total holdings to 1,388 BTC worth $114.2 million 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2110828447866192379",
-    "images": [
-      "https://pbs.twimg.com/media/HUsrSPWWUAAFAn6.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792095738823-vtbc6q",
     "source": "x",
     "ts": "2026-10-15T20:22:18.823Z",
@@ -7815,5 +7779,31 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111739506806202368/img/KHtLgnmM8zk5JmaM.jpg"
     }
+  },
+  {
+    "id": "x-1792330324424-pi71wn",
+    "source": "x",
+    "ts": "2026-10-18T13:32:04.424Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-18T13:29:16.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "⚡ SAYLOR: \"We found room for more orange.\"\n\nAnother week, another Saylor tease.",
+    "url": "https://x.com/Cointelegraph/status/2111811853789610150"
+  },
+  {
+    "id": "x-1792330329312-xbj0mj",
+    "source": "x",
+    "ts": "2026-10-18T13:32:09.312Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-18T13:27:00.000Z",
+    "reason": "Noise: Generic geopolitical speculation without concrete or specific details.",
+    "text": "🇺🇸🇷🇺 NEW: The US and Russia are discussing data centers powered by Russian NUCLEAR plants.\n\nPutin's envoy Kirill Dmitriev, head of Russia's sovereign wealth fund, made the comments at Russian Energy Week in Moscow.\n\nNo location was given for the data centers.\n\nDmitriev also",
+    "url": "https://x.com/coinbureau/status/2111811283595252050"
   }
 ]
