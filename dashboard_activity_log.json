@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1792107187193-vgs5e5",
-    "source": "x",
-    "ts": "2026-10-15T23:33:07.193Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T23:30:18.000Z",
-    "reason": "No notable move in ETH price, price is within its recent range.",
-    "text": "🔥 BIG: Google says it has cracked one of quantum computing’s toughest bottlenecks, using “magic state cultivation” on its Willow chip to cut errors by roughly 40x.",
-    "url": "https://x.com/Cointelegraph/status/2110875945737367744"
-  },
-  {
-    "id": "x-1792108350529-qemmpo",
-    "source": "x",
-    "ts": "2026-10-15T23:52:30.529Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-15T23:51:00.000Z",
-    "reason": "Notable institutional testing of proposed native lending features on the XRP Ledger.",
-    "text": "XRP Ledger Lending Heads To Hackathon Testing\n\nXRPL Commons (@xrpl_commons) says hackathon teams will test proposed native lending features using XLS-65 and XLS-66.\n\nThe amendments would introduce pooled asset vaults and fixed term loans on @Ripple's $XRP Ledger.\n\nBoth proposals",
-    "url": "https://x.com/BSCNews/status/2110881154727579718",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110708793596145664/vid/avc1/1280x720/KBLvyvRRQIpOLkbT.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110708793596145664/img/CMjI5dDYV9B-Gtl2.jpg"
-    }
-  },
-  {
-    "id": "x-1792108619942-vqjf96",
-    "source": "x",
-    "ts": "2026-10-15T23:56:59.942Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-15T23:51:00.000Z",
-    "reason": "Notable institutional testing of XRP Ledger lending features.",
-    "text": "XRP Ledger Lending Heads To Hackathon Testing\n\nXRPL Commons (@xrpl_commons) says hackathon teams will test proposed native lending features using XLS-65 and XLS-66.\n\nThe amendments would introduce pooled asset vaults and fixed term loans on @Ripple's $XRP Ledger.\n\nBoth proposals",
-    "url": "https://x.com/BSCNews/status/2110881154727579718",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110708793596145664/vid/avc1/1280x720/KBLvyvRRQIpOLkbT.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110708793596145664/img/CMjI5dDYV9B-Gtl2.jpg"
-    }
-  },
-  {
     "id": "x-1792109088960-4c0ekk",
     "source": "x",
     "ts": "2026-10-16T00:04:48.960Z",
@@ -7751,5 +7696,49 @@
       "https://pbs.twimg.com/media/HU7utP-bAAA7XHa.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792355534459-3o7rwn",
+    "source": "x",
+    "ts": "2026-10-18T20:32:14.459Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-18T20:30:18.000Z",
+    "reason": "Blockchain-related infrastructure delays impacting the AI buildout.",
+    "text": "🚨 BIG: At least 47 major US data center projects have been delayed, scrapped or blocked this year, and Bernstein says only about 35% of the planned pipeline is even credible. Is the AI buildout cracking?",
+    "url": "https://x.com/Cointelegraph/status/2111917813208113482",
+    "images": [
+      "https://pbs.twimg.com/media/HU8KDqkXAAEzmx6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792355536811-2tydyb",
+    "source": "x",
+    "ts": "2026-10-18T20:32:16.812Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 118,
+    "originTimestamp": "2026-10-18T18:33:40.000Z",
+    "reason": "No notable crypto-related action or move mentioned.",
+    "text": "Grok @Bot is like hiring an incredibly competent employee",
+    "url": "https://x.com/elonmusk/status/2111914748648296655"
+  },
+  {
+    "id": "x-1792355540146-9goq1v",
+    "source": "x",
+    "ts": "2026-10-18T20:32:20.146Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 14,
+    "originTimestamp": "2026-10-18T20:18:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Robinhood is trying to teach traders about $SUI \n\n@RobinhoodApp is offering $5 worth of $SUI for users who spend just a few minutes learning about the @SuiNetwork L1 blockchain.\n\nThough certainly not an endorsement, it certainly seems interesting that @vladtenev's $HOOD is using",
+    "url": "https://x.com/BSCNews/status/2111914715173855304"
   }
 ]
