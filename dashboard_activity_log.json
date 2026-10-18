@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792089585327-48tx8r",
-    "source": "x",
-    "ts": "2026-10-15T18:39:45.327Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-15T18:30:29.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇮🇷 JUST IN: Prices for 15-year-old oil tankers now exceed new builds by 22% as the Iran war drives longer shipping routes and surging vessel demand, per Nikkei.",
-    "url": "https://x.com/Cointelegraph/status/2110800493492543537"
-  },
-  {
     "id": "x-1792089588940-7eiho6",
     "source": "x",
     "ts": "2026-10-15T18:39:48.940Z",
@@ -7804,5 +7791,24 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111740626110660608/img/l8CialEtGOZ967z5.jpg"
     }
+  },
+  {
+    "id": "x-1792322544982-5s9z52",
+    "source": "x",
+    "ts": "2026-10-18T11:22:24.982Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-18T11:12:23.000Z",
+    "reason": "Notable institutional blockage of stock tokens on a major crypto exchange.",
+    "text": "🚨SHOCKING: Broadcom, UnitedHealth, Verizon and 6 others BLOCK their stock from trading as tokens on OKXICE.\n\nOKXICE, a venture between OKX and NYSE owner Intercontinental Exchange, named 63 US stocks it planned to list as tokens.\n\nThe 9 companies that objected are worth over $2",
+    "url": "https://x.com/coinbureau/status/2111777408936472988",
+    "images": [
+      "https://pbs.twimg.com/media/HU6KCQoa4AAn71o.jpg",
+      "https://pbs.twimg.com/media/HU6KD_sa4AA7B_F.jpg"
+    ],
+    "video": null
   }
 ]
