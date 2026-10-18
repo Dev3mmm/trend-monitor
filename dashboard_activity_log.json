@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1792092756538-7kfmcz",
-    "source": "x",
-    "ts": "2026-10-15T19:32:36.538Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-15T19:30:21.000Z",
-    "reason": "Notable insider information about a stablecoin deal and political influence.",
-    "text": "🚨 LATEST: Former Trump crypto adviser Bo Hines reportedly kept a one-third stake in Nxum, which received $6.3 million in a Tether deal while he pushed lawmakers to pass the GENIUS stablecoin bill.",
-    "url": "https://x.com/Cointelegraph/status/2110815562175488313",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792094012063-kio6kn",
-    "source": "x",
-    "ts": "2026-10-15T19:53:32.063Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-15T19:50:23.000Z",
-    "reason": "Morgan Stanley's insight suggests a significant future market potential.",
-    "text": "🔥 INSIGHT: Morgan Stanley says quantum computing could eventually become a $100 billion market.",
-    "url": "https://x.com/Cointelegraph/status/2110820601023672602",
-    "images": [
-      "https://pbs.twimg.com/media/HUskJMQWMAABmvx.jpg",
-      "https://pbs.twimg.com/media/HUskJlfWMAEa-yW.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792094015549-hb5lfd",
     "source": "x",
     "ts": "2026-10-15T19:53:35.549Z",
@@ -7816,5 +7781,39 @@
     "url": "https://x.com/DecryptMedia/status/2111805154110353453",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792329726833-mjdk73",
+    "source": "x",
+    "ts": "2026-10-18T13:22:06.833Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-18T13:15:54.000Z",
+    "reason": "No notable move in ETH within its recent range.",
+    "text": "The most bullish stock by analyst sentiment is $MSTR.",
+    "url": "https://x.com/saylor/status/2111809322959179789"
+  },
+  {
+    "id": "x-1792329730599-o9jsn7",
+    "source": "x",
+    "ts": "2026-10-18T13:22:10.599Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-18T13:14:00.000Z",
+    "reason": "ETF losses highlight ongoing volatility in crypto assets.",
+    "text": "Chainlink ETFs see third day of losses in history.\n\nOn October 16, spot @chainlink ETFs saw -$397K in net outflows - Only the third such day in history.\n\nDespite the negative activity, the ETFs still hold 2.36% of $LINK's supply - more than 1 in every 50 tokens.",
+    "url": "https://x.com/BSCNews/status/2111808012344013288",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111739506806202368/vid/avc1/1312x720/7HKggGaHf6zPiBUu.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111739506806202368/img/KHtLgnmM8zk5JmaM.jpg"
+    }
   }
 ]
