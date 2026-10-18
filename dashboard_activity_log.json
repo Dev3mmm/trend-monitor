@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1792089074833-v6syzi",
-    "source": "x",
-    "ts": "2026-10-15T18:31:14.833Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-15T18:17:15.000Z",
-    "reason": "Larry Fink's warning about AI data centers could affect financial markets.",
-    "text": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-    "url": "https://x.com/DecryptMedia/status/2110797163840094235",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792089077304-49z6q7",
     "source": "x",
     "ts": "2026-10-15T18:31:17.304Z",
@@ -7805,5 +7789,26 @@
       "https://pbs.twimg.com/media/HU5y_mdWYAAreyp.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792317121451-i3smbo",
+    "source": "x",
+    "ts": "2026-10-18T09:52:01.451Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-18T09:45:00.000Z",
+    "reason": "No notable move, price retracement after gains.",
+    "text": "STRK retraces after insane month of gains.\n\n@Starknet's $STRK token is down -41% over the past week - more than any other crypto major.\n\nThe reduction follows an insane pump, however, following the L2's proposed transition to its own L1 blockchain.\n\nThe $STRK token is still up",
+    "url": "https://x.com/BSCNews/status/2111755415516062098",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111739265394573312/vid/avc1/1312x720/qxex_XTIsMUABNDL.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111739265394573312/img/IRJpSjIOiiH_5Dun.jpg"
+    }
   }
 ]
