@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1792131747730-dw9wdt",
-    "source": "x",
-    "ts": "2026-10-16T06:22:27.730Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T06:16:22.000Z",
-    "reason": "Noteworthy EU tax proposal affecting crypto-to-stablecoin gains.",
-    "text": "🇫🇷 MASSIVE: France has prosposed taxing crypto-to-stablecoin gains at 31.4%, even if investors NEVER cash out to a bank account.\n\nThe proposal would make swaps into stablecoins classified as electronic-money tokens under EU rules taxable from January 1, 2027.\n\nMoving into those",
-    "url": "https://x.com/coinbureau/status/2110978136007749706",
-    "images": [
-      "https://pbs.twimg.com/media/HUuvBKfa0AAUUyo.jpg",
-      "https://pbs.twimg.com/media/HUuvEm3agAA30H7.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792132416261-tea4zd",
-    "source": "x",
-    "ts": "2026-10-16T06:33:36.261Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T06:31:29.000Z",
-    "reason": "Ledger wallet hack leads to loss of Bitcoin",
-    "text": "Ledger Hack Costs Alleged Crypto Scammer $4.8M\n\nAn alleged crypto scammer has reportedly lost $4.8 million in Bitcoin after his Ledger wallet (@Ledger) was compromised.\n\nThe victim reportedly lost around 60 bitcoin:native in the incident.\n\nThe breach is tied to a wider attack",
-    "url": "https://x.com/BSCNews/status/2110981941025788098",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110960730409476096/vid/avc1/1280x720/CKa6slix4Y4-ex4B.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110960730409476096/img/6NBfNVMKeriG6VVh.jpg"
-    }
-  },
-  {
-    "id": "x-1792132420895-1suvpv",
-    "source": "x",
-    "ts": "2026-10-16T06:33:40.895Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T06:30:20.000Z",
-    "reason": "G7 leaders are taking cybersecurity seriously with simulated financial system responses.",
-    "text": "🚨 LATEST: G7 finance leaders agree to run tabletop exercises simulating AI-driven cyberattacks to test how well they can respond to growing threats to the financial system.",
-    "url": "https://x.com/Cointelegraph/status/2110981649882030422",
-    "images": [
-      "https://pbs.twimg.com/media/HUu2ngtWUAAFEyd.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792133550794-74gxre",
     "source": "x",
     "ts": "2026-10-16T06:52:30.794Z",
@@ -7781,5 +7723,50 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112065999197634560/img/t-zXYgGAZWMNS_OW.jpg"
     }
+  },
+  {
+    "id": "x-1792396919693-nif9d8",
+    "source": "x",
+    "ts": "2026-10-19T08:01:59.693Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T07:56:53.000Z",
+    "reason": "Specific institutional adoption with a notable partner.",
+    "text": "🔥 JUST IN: JPMorgan is bringing JPM Coin to Ethereum for institutional clients, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2112090594763763946",
+    "images": [
+      "https://pbs.twimg.com/media/HU-nMzHX0AAfCo_.png",
+      "https://pbs.twimg.com/media/HU-nM-cXkAAVwNe.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792396924037-4wlb0z",
+    "source": "x",
+    "ts": "2026-10-19T08:02:04.037Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T07:56:32.000Z",
+    "reason": "Noise: generic, opinionated tweet without factual claim.",
+    "text": "Every home has that chaotic, narcissistic daughter who wants to control the family with her manipulative ideologies.\n\nThese daughters think because they have financial influence in the family, they can make blanket decisions, manipulate parents and override the sons of the home.",
+    "url": "https://x.com/amerix/status/2112090508700897559"
+  },
+  {
+    "id": "x-1792396927725-5um1zr",
+    "source": "x",
+    "ts": "2026-10-19T08:02:07.725Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-19T07:52:45.000Z",
+    "reason": "Generic announcement with no specific action or verification.",
+    "text": "Next year, I will give one of my SpaceX shares to every kid in America.\n\nThis will be the first of many.",
+    "url": "https://x.com/elonmusk/status/2112089556615123114"
   }
 ]
