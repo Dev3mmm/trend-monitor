@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792154514143-x7wfkf",
-    "source": "x",
-    "ts": "2026-10-16T12:41:54.143Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-16T12:38:01.000Z",
-    "reason": "Memes are not considered news.",
-    "text": "Jealousy is a very corrosive behaviour.\n\nIt corrodes you.\n\nJealousy is proof that you have no purpose in life.\n\nJealousy reflects your inability to accomplish your goals.\n\nTherefore, you angrily insult, abuse and disrespect those who are better than you.",
-    "url": "https://x.com/amerix/status/2111074180233855154"
-  },
-  {
-    "id": "x-1792154516308-wq5giy",
-    "source": "x",
-    "ts": "2026-10-16T12:41:56.308Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-16T12:31:31.000Z",
-    "reason": "Specific on-chain data suggesting potential bottom.",
-    "text": "🔥 INSIGHT: $BTC latest loss-selling spike near $80K could mark a local bottom if recent capitulation patterns repeat, per Glassnode.",
-    "url": "https://x.com/Cointelegraph/status/2111072548230189473",
-    "images": [
-      "https://pbs.twimg.com/media/HUwJSj6XcAAEqp5.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792154690760-yiq6rk",
     "source": "x",
     "ts": "2026-10-16T12:44:50.760Z",
@@ -7755,5 +7724,40 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112165523416870912/img/SS5KzpdXD7BVV7C-.jpg"
     }
+  },
+  {
+    "id": "x-1792415529061-hgm3jt",
+    "source": "x",
+    "ts": "2026-10-19T13:12:09.061Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T13:06:03.000Z",
+    "reason": "Specific institutional action with tangible dollar amounts",
+    "text": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+    "url": "https://x.com/DecryptMedia/status/2112168400713609376",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792415531238-8pf9tk",
+    "source": "x",
+    "ts": "2026-10-19T13:12:11.238Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T13:05:27.000Z",
+    "reason": "Notable institutional adoption and strategy expansion for Bitcoin.",
+    "text": "🇺🇸 JUST IN: Metaplanet gets shareholder approval for its Super League Enterprise deal, expanding its Bitcoin treasury strategy into the US.",
+    "url": "https://x.com/Cointelegraph/status/2112168249521500170",
+    "images": [
+      "https://pbs.twimg.com/media/HU_t03wWgAARiXc.jpg",
+      "https://pbs.twimg.com/media/HU_t1DkWUAAZ4Cn.png"
+    ],
+    "video": null
   }
 ]
