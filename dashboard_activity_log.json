@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792138931488-ydyllx",
-    "source": "x",
-    "ts": "2026-10-16T08:22:11.488Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-16T08:12:06.000Z",
-    "reason": "Security exploit involving wallet access",
-    "text": "OpenAI Agent Uses Someone Else’s Wallet After Running Out of Funds\n\nAn OpenAI (@OpenAI) research model ran out of test tokens, then found another way to pay its fees.\n\nThe model looked through 362 wallet addresses that were using recovery phrases available to the public and came",
-    "url": "https://x.com/BSCNews/status/2111007262974341155",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110967785325264896/vid/avc1/1280x720/vao_-a1ASTqEWK1K.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110967785325264896/img/HcgY0-LrI7Hvg5Vn.jpg"
-    }
-  },
-  {
-    "id": "x-1792139589030-94sd5p",
-    "source": "x",
-    "ts": "2026-10-16T08:33:09.030Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T08:30:28.000Z",
-    "reason": "No notable move in ADA price or significant news.",
-    "text": "You can make passive income on Cardano!\n\nUsing @ElanInsights' Income Dashboard, we were able to identify the highest yield opportunities in the entire @Cardano ecosystem.\n\nAccess Now: \n\nBy far the winner when it comes to yield on $ADA was @MinswapDEX -",
-    "url": "https://x.com/BSCNews/status/2111011882530206128"
-  },
-  {
     "id": "x-1792139593667-adnqrp",
     "source": "x",
     "ts": "2026-10-16T08:33:13.667Z",
@@ -7759,5 +7725,45 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112093386186665985/img/5lQAuGUXPGTWdbZR.jpg"
     }
+  },
+  {
+    "id": "x-1792404142633-licq8r",
+    "source": "x",
+    "ts": "2026-10-19T10:02:22.633Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T09:57:00.000Z",
+    "reason": "Specific institutional adoption and significant asset growth for the XRP ETF.",
+    "text": "Bitwise XRP ETF Crosses Half a Billion Dollars\n\nBitwise’s (@Bitwise) ripple:native ETF has accumulated more than $541 million in net assets.\n\nAccording to SoSoValue, cumulative net inflows have reached $684.73 million.\n\nThis fund enables investors to invest in XRP without owning",
+    "url": "https://x.com/BSCNews/status/2112120825726083271",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112096458782732288/vid/avc1/1280x720/6aPLqbPpTazns_Wx.mp4?tag=29",
+      "duration": 18,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112096458782732288/img/fVOdAPicyeE4JHfM.jpg"
+    }
+  },
+  {
+    "id": "x-1792404147118-zsi5o7",
+    "source": "x",
+    "ts": "2026-10-19T10:02:27.118Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T09:56:23.000Z",
+    "reason": "Notable use case of tokenized funds in traditional finance",
+    "text": "HUGE: $15.5T BlackRock sees tokenized funds used as collateral in tradfi, just like in crypto, letting investors back trades without cashing out.",
+    "url": "https://x.com/coinbureau/status/2112120667353272395",
+    "images": [
+      "https://pbs.twimg.com/media/HU_AbSOagAAKlgc.jpg",
+      "https://pbs.twimg.com/media/HU_AflibQAEZ5dr.jpg"
+    ],
+    "video": null
   }
 ]
