@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1792179161216-aziejr",
-    "source": "x",
-    "ts": "2026-10-16T19:32:41.216Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T19:30:22.000Z",
-    "reason": "Notable institutional opposition to tokenizing shares regulatory move.",
-    "text": "🇺🇸 LATEST: Verizon, UnitedHealth and Broadcom are among US companies pushing back against tokenizing their shares under a new regulatory framework, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2111177953262411795",
-    "images": [
-      "https://pbs.twimg.com/media/HUxpJvpWwAAVDS9.jpg",
-      "https://pbs.twimg.com/media/HUxpKByXIAAd0nL.jpg",
-      "https://pbs.twimg.com/media/HUxpKPwWEAAAb9w.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792179714965-fpqnc8",
-    "source": "x",
-    "ts": "2026-10-16T19:41:54.965Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-16T19:37:15.000Z",
-    "reason": "Exploit of high-profile device sensitivity",
-    "text": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-    "url": "https://x.com/DecryptMedia/status/2111179684352262529",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792180374309-r4ktq5",
     "source": "x",
     "ts": "2026-10-16T19:52:54.309Z",
@@ -7867,5 +7831,34 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "⚡️ INSIGHT: Goldman Sachs recommends defensive stocks for investors worried the AI bull run could falter.",
     "url": "https://x.com/Cointelegraph/status/2112282688916803608"
+  },
+  {
+    "id": "x-1792443133734-6jka4v",
+    "source": "x",
+    "ts": "2026-10-19T20:52:13.734Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-19T20:47:15.000Z",
+    "reason": "Notable regulatory and technical development in the crypto ecosystem.",
+    "text": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+    "url": "https://x.com/DecryptMedia/status/2112284464411750488",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792443138806-le3b0e",
+    "source": "x",
+    "ts": "2026-10-19T20:52:18.806Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T20:46:00.000Z",
+    "reason": "No notable move, no newsworthy information provided.",
+    "text": "What it costs to lose a vote on the Internet Computer\n\nThe Internet Computer, built by the DFINITY Foundation (@dfinity), is governed by a voting system called the NNS. ICP holders lock tokens in “neurons” to vote on network changes, and a neuron that takes at least 6 months to",
+    "url": "https://x.com/BSCNews/status/2112284149709250632"
   }
 ]
