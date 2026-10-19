@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792134154907-3ce61a",
-    "source": "x",
-    "ts": "2026-10-16T07:02:34.907Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 53,
-    "originTimestamp": "2026-10-16T06:08:45.000Z",
-    "reason": "Noise: Generic hype without factual claim.",
-    "text": "Holy smokes",
-    "url": "https://x.com/elonmusk/status/2110988635264950570"
-  },
-  {
-    "id": "x-1792135371827-x07tso",
-    "source": "x",
-    "ts": "2026-10-16T07:22:51.827Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-16T07:17:37.000Z",
-    "reason": "No notable news in the tweet provided.",
-    "text": "InterLink Teases BitFlip Jackpot After New Market Launch\n\nInterLink (@inter_link) has announced a new Market feature on BitFlip (@BitFlipITL), giving users more flexibility in managing their in-game positions.\n\nUsers can explore the new marketplace mechanics now.\n\nJackpot is",
-    "url": "https://x.com/BSCNews/status/2110993551559651717",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110993428125544448/vid/avc1/1280x720/8HCmYmRZaft3tDtH.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110993428125544448/img/llOglWUGcHOYWeSA.jpg"
-    }
-  },
-  {
     "id": "x-1792135939635-2jy3dc",
     "source": "x",
     "ts": "2026-10-16T07:32:19.635Z",
@@ -7770,5 +7736,39 @@
     "reason": "No notable move or specific event is described.",
     "text": "Sharp boys wameanza kutengeneza fake apps BUT, ni ngumu kutell ju rangi ni yetu, logo yetu, hata jina ndio waget... M-PESA PIN, passwords na personal details zako. Inakaa legit, which means... one wrong download na scammer ako ndani ya simu yako, akiona kila kitu.\n\nJilinde hivi:",
     "url": "https://x.com/Safaricom_Care/status/2112092255796265468"
+  },
+  {
+    "id": "x-1792398731138-xdei6h",
+    "source": "x",
+    "ts": "2026-10-19T08:32:11.138Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T08:30:22.000Z",
+    "reason": "Bank's institutional adoption on a different blockchain network.",
+    "text": "JPMorgan Brings JPM Coin To Ethereum\n\nJPMorgan (@jpmorgan) launched its deposit token, JPM Coin, on Ethereum (@ethereum) ethereum:native for institutional clients.\n\nThe bank cited Ethereum’s liquidity and established client activity as reasons for choosing the network.\n\nThe token",
+    "url": "https://x.com/BSCNews/status/2112099020504170594",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112098109757267968/vid/avc1/1280x720/QQbeKlzTDRJwAEcN.mp4?tag=29",
+      "duration": 18,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112098109757267968/img/TGkf9pbTupYNzeBD.jpg"
+    }
+  },
+  {
+    "id": "x-1792398735689-9yn6hb",
+    "source": "x",
+    "ts": "2026-10-19T08:32:15.689Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T08:26:31.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "JUST IN: 🇮🇱 Netanyahu reveals a map of allies and rivals as Israel looks beyond US support.\n\nHe warns the US could turn hostile after Trump leaves office, potentially cutting BILLIONS in aid to Israel.\n\nThe map shows three main camps:\n\n🔵 Blue (allies)\n\nUAE, Greece, Cyprus,",
+    "url": "https://x.com/coinbureau/status/2112098055596241406"
   }
 ]
