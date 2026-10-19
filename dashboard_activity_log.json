@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792182774477-fqcqi5",
-    "source": "x",
-    "ts": "2026-10-16T20:32:54.477Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-16T20:27:25.000Z",
-    "reason": "No notable crypto-related news detected.",
-    "text": "🚨JUST IN: The Nasdaq 100 suffers its WORST week in a year, just 10 days after hitting a record high.\n\nThe tech-heavy index fell 2.5% on Friday and lost 5.5% this week.\n\nIt now sits nearly 7% below its October 6 peak, and another drop of just over 3% would put it in correction",
-    "url": "https://x.com/coinbureau/status/2111192309496938564"
-  },
-  {
-    "id": "x-1792183918513-zoqu2t",
-    "source": "x",
-    "ts": "2026-10-16T20:51:58.513Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T20:50:16.000Z",
-    "reason": "Notable cost reduction for stablecoin transfers.",
-    "text": "⚡️ UPDATE: Stablecoin-funded remittances cost roughly 84% less than traditional transfers, with a median fee of $2 versus $12.72 for sending $200.",
-    "url": "https://x.com/Cointelegraph/status/2111198059715518606",
-    "images": [
-      "https://pbs.twimg.com/media/HUx7ck6WQAA609Q.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792183923047-pcltid",
     "source": "x",
     "ts": "2026-10-16T20:52:03.047Z",
@@ -7850,5 +7819,42 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "A BIG THANK YOU to our legendary friend, @ElonMusk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon",
     "url": "https://x.com/elonmusk/status/2112296126795899361"
+  },
+  {
+    "id": "x-1792446747592-vfnh12",
+    "source": "x",
+    "ts": "2026-10-19T21:52:27.592Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T21:47:15.000Z",
+    "reason": "Not enough context to verify the specific transaction amounts.",
+    "text": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+    "url": "https://x.com/DecryptMedia/status/2112299564052922795",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792446753149-2lab3f",
+    "source": "x",
+    "ts": "2026-10-19T21:52:33.149Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-19T21:45:00.000Z",
+    "reason": "New use of a token for private company tracking.",
+    "text": "Pump.​fun adds tokens tracking OpenAI, Anthropic, and other private giants\n\n@Pumpfun has added tokens from PreStocks that track the value of private companies such as OpenAI, Anthropic, Anduril, Neuralink, Kalshi, and Polymarket before they go public. Users can buy and sell them",
+    "url": "https://x.com/BSCNews/status/2112298997339603119",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112274876518023168/vid/avc1/1220x720/MpoA4-S-dmmLNo4I.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112274876518023168/img/S59Nk2CbD_C7PUZs.jpg"
+    }
   }
 ]
