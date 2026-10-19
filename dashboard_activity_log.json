@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792189333895-b3tzu1",
-    "source": "x",
-    "ts": "2026-10-16T22:22:13.895Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-16T22:18:00.000Z",
-    "reason": "Hedera's network metrics showed significant improvement.",
-    "text": "Hedera Expands its Reach as Network Metrics Improve\n\nHedera (@hedera) TVL reached $33.2 million after a 12.3% increase, while TPS rose 168.37%, over a 30-day period, based on recent Token Relations data.\n\nThere have been several institutional achievements, such as Hedera becoming",
-    "url": "https://x.com/BSCNews/status/2111220138686980582",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111035970816520192/vid/avc1/1280x720/F5nM0-pehBD305tF.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111035970816520192/img/JMvW5tldPxbRX7iz.jpg"
-    }
-  },
-  {
     "id": "x-1792189839120-rt4734",
     "source": "x",
     "ts": "2026-10-16T22:30:39.120Z",
@@ -7852,5 +7831,24 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112097602325929984/img/P5NFhgzKdPUUY878.jpg"
     }
+  },
+  {
+    "id": "x-1792452754613-wmk6x8",
+    "source": "x",
+    "ts": "2026-10-19T23:32:34.613Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T23:31:03.000Z",
+    "reason": "Notable institutional move with a new ETF.",
+    "text": "🔥 NOW: BlackRock files for the iShares Bitcoin Managed Protection ETF under the ticker $PBIT, a “buffer” ETF trading some upside for downside protection.",
+    "url": "https://x.com/Cointelegraph/status/2112325685310025848",
+    "images": [
+      "https://pbs.twimg.com/media/HVB9AUkW8AA4qpM.jpg",
+      "https://pbs.twimg.com/media/HVB9BCyXsAACnrT.jpg"
+    ],
+    "video": null
   }
 ]
