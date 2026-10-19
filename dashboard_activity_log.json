@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792169034245-0nfhqf",
-    "source": "x",
-    "ts": "2026-10-16T16:43:54.245Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-16T16:43:16.000Z",
-    "reason": "Elon Musk's comments about ad standards for X do not constitute a notable crypto event.",
-    "text": "🚨 NEW: Elon Musk says X will enforce a “reasonable esthetic standard” for ads, barring advertisers whose promotions are ugly, shrill, strident or exaggerate product claims.",
-    "url": "https://x.com/Cointelegraph/status/2111135903087260050",
-    "images": [
-      "https://pbs.twimg.com/media/HUxC6ZnW4AA1cwk.jpg",
-      "https://pbs.twimg.com/media/HUxC6nRXcAAN7x2.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792169037311-hagsa3",
-    "source": "x",
-    "ts": "2026-10-16T16:43:57.311Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 33,
-    "originTimestamp": "2026-10-16T16:10:17.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "My favorite Grok Bot use case so far:\n\nI wake up to hundreds of comments. I try to answer everyone, but some always slip through. Now Grok Bot sends me links to every comment I haven't answered, and I reply to each one myself. No automated replies, just no one left behind 💛",
-    "url": "https://x.com/elonmusk/status/2111135858216902816"
-  },
-  {
     "id": "x-1792169040833-4k8q5g",
     "source": "x",
     "ts": "2026-10-16T16:44:00.833Z",
@@ -7811,5 +7779,42 @@
       "https://pbs.twimg.com/media/HVAewJ_XQAADyLc.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792428770231-t7ck62",
+    "source": "x",
+    "ts": "2026-10-19T16:52:50.231Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T16:47:15.000Z",
+    "reason": "Wallet associated with Bitcoin moves $33 million due to legal action.",
+    "text": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+    "url": "https://x.com/DecryptMedia/status/2112224066157298139",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792428776090-t42d2o",
+    "source": "x",
+    "ts": "2026-10-19T16:52:56.090Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-19T16:45:05.000Z",
+    "reason": "New use of privacy coin Kaspa in private payment test.",
+    "text": "Kaspa’s privacy push moves real test coins in a private payment\n\n#Kaspa Privacy Initiative developer Olaf Weller (@WellerOlaf) has run a full private payment test on the TN10 test network. A wallet holding 10 test $KAS privately sent 4 to a second wallet and kept 6 as change, and",
+    "url": "https://x.com/BSCNews/status/2112223521237565480",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112222658427342848/vid/avc1/1220x720/mgts9PYS9BJy0llv.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112222658427342848/img/XcTw4uVWjR41BTPh.jpg"
+    }
   }
 ]
