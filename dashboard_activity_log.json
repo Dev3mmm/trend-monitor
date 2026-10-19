@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792185750907-i0lbfw",
-    "source": "x",
-    "ts": "2026-10-16T21:22:30.907Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-16T21:14:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Where ICP goes when Internet Computer apps need fuel\n\nApps on @dfinity’s Internet Computer don’t pay for computing with $ICP directly. They run on cycles, a kind of prepaid credit. Developers swap ICP for cycles, and the ICP they swap is burned, permanently removed from supply.",
-    "url": "https://x.com/BSCNews/status/2111204032391819300"
-  },
-  {
     "id": "x-1792185754393-em4djd",
     "source": "x",
     "ts": "2026-10-16T21:22:34.393Z",
@@ -7863,5 +7850,24 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112097428912451584/img/og8_ei1CkBT4xxKS.jpg"
     }
+  },
+  {
+    "id": "x-1792449106840-83b15d",
+    "source": "x",
+    "ts": "2026-10-19T22:31:46.841Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T22:25:00.000Z",
+    "reason": "Bank filing for a Bitcoin ETF with downside protection.",
+    "text": "🚨HUGE: BlackRock officially files for a Bitcoin ETF designed to LIMIT losses.\n\nThe iShares Bitcoin Managed Protection ETF would offer upside on its $65 BILLION IBIT up to a cap while seeking \"a level of downside protection,\" per its SEC filing.\n\nIBIT and BITA, BlackRock's",
+    "url": "https://x.com/coinbureau/status/2112309064004714846",
+    "images": [
+      "https://pbs.twimg.com/media/HVBtLFkaIAA-MfC.jpg",
+      "https://pbs.twimg.com/media/HVBtLFYaAAAR2bw.jpg"
+    ],
+    "video": null
   }
 ]
