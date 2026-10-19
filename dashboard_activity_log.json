@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792130531672-gmrai6",
-    "source": "x",
-    "ts": "2026-10-16T06:02:11.672Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T06:00:01.000Z",
-    "reason": "No notable move in the recent price range, the price is well within the recent trading range.",
-    "text": "⚡️ NEW: Ledger launches the Ledger Atom, an $899 smartphone-like device built to secure crypto transactions and sensitive activity.",
-    "url": "https://x.com/Cointelegraph/status/2110974020921512106"
-  },
-  {
-    "id": "x-1792131211061-gzr0no",
-    "source": "x",
-    "ts": "2026-10-16T06:13:31.061Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-16T06:02:54.000Z",
-    "reason": "Notable institutional move by a major player in the space.",
-    "text": "Arbitrum is Paying Projects to Make USDG Their Main Stablecoin\n\nArbitrum (@arbitrum) $ARB has launched the Arbitrum Stablecoin Growth Program to boost $USDG adoption across its ecosystem.\n\nThe program targets applications that use USDG as their primary stablecoin, collateral, or",
-    "url": "https://x.com/BSCNews/status/2110974748842996153",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110970792641236992/vid/avc1/1280x720/j54pXKxEyb7bDMEQ.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110970792641236992/img/DVa5GIy05t8Tnwjh.jpg"
-    }
-  },
-  {
     "id": "x-1792131747730-dw9wdt",
     "source": "x",
     "ts": "2026-10-16T06:22:27.730Z",
@@ -7775,5 +7741,45 @@
     "url": "https://x.com/BSCNews/status/2112081875430990053",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792396321699-os9k1o",
+    "source": "x",
+    "ts": "2026-10-19T07:52:01.699Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-19T07:43:34.000Z",
+    "reason": "Specific, verifiable institutional adoption event.",
+    "text": "JUST IN: JPMorgan, US largest bank with $5T+ in assets, now allows clients send USD deposits on Ethereum using JPM Coin.",
+    "url": "https://x.com/coinbureau/status/2112087246304317828",
+    "images": [
+      "https://pbs.twimg.com/media/HU-jLSoaAAAyFnu.jpg",
+      "https://pbs.twimg.com/media/HU-jj7FagAAR-rP.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792396325364-obi9hw",
+    "source": "x",
+    "ts": "2026-10-19T07:52:05.364Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-19T07:42:24.000Z",
+    "reason": "Zcash node upgrade targets Visa-level throughput, improving block propagation.",
+    "text": "Zcash Node Upgrade Targets Visa Level Throughput\n\nZakura (@ZakuraZcash) has launched P2Pv2, an experimental networking layer designed to improve block propagation on Zcash (@Zcash) $ZEC.\n\nIt works in parallel with the existing peer-to-peer network layer on the Testnet by default.",
+    "url": "https://x.com/BSCNews/status/2112086949523767797",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112065999197634560/vid/avc1/1280x720/a0Mf67sS_twRJmNw.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112065999197634560/img/t-zXYgGAZWMNS_OW.jpg"
+    }
   }
 ]
