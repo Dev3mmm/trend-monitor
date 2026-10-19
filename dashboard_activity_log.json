@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792178600685-2uyf20",
-    "source": "x",
-    "ts": "2026-10-16T19:23:20.685Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-16T19:18:14.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 TRUMP: Every U.S. adult will receive $5,000 if Republicans win, while Democrats would raise taxes and hurt the economy.",
-    "url": "https://x.com/Cointelegraph/status/2111174899452768637"
-  },
-  {
-    "id": "x-1792178605966-ujdx0l",
-    "source": "x",
-    "ts": "2026-10-16T19:23:25.966Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-16T19:18:00.000Z",
-    "reason": "New use of a token for additional functionality.",
-    "text": "Chainlink’s LINK token can pay and give instructions in one move\n\nMost Ethereum tokens follow ERC-20, the basic rulebook for sending and holding tokens. @chainlink’s $LINK goes a step further. It follows ERC-677, which builds on ERC-20 and lets a token transfer carry extra data.",
-    "url": "https://x.com/BSCNews/status/2111174839923061229",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111169526024798208/vid/avc1/1220x720/Ue2LonQqcHTcZxMd.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111169526024798208/img/_-AIxw1jh9Cr9Hd-.jpg"
-    }
-  },
-  {
     "id": "x-1792178610101-7a74nt",
     "source": "x",
     "ts": "2026-10-16T19:23:30.101Z",
@@ -7852,6 +7818,46 @@
     "ageMin": 9,
     "originTimestamp": "2026-10-19T20:14:00.000Z",
     "reason": "Not applicable, tweet contains no significant new information.",
+    "text": "NEAR is keeping a bigger cut of its swap fees\n\n@near_intents handled about $10.4 billion in Q3, bringing lifetime volume to over $32 billion, per @NEARProtocol's Q3 report. Lifetime fees topped $52 million, and more than $8 million of that went toward buying back $NEAR.\n\nThe",
+    "url": "https://x.com/BSCNews/status/2112276096288694629",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112258555873038336/vid/avc1/1220x720/2tW18gk5ySkBPSu2.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112258555873038336/img/CjrqJmEWNJJUuhwd.jpg"
+    }
+  },
+  {
+    "id": "x-1792441970004-y6x7mb",
+    "source": "x",
+    "ts": "2026-10-19T20:32:50.004Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-19T20:20:13.000Z",
+    "reason": "Specific institutional action related to stablecoin volumes.",
+    "text": "🇮🇷 JUST IN: Paolo Ardoino says Tether’s actions led to a 94% decline in Iran-linked stablecoin volumes.",
+    "url": "https://x.com/Cointelegraph/status/2112277660730634485",
+    "images": [
+      "https://pbs.twimg.com/media/HVBRVU7WoAAl2OO.jpg",
+      "https://pbs.twimg.com/media/HVBRVlTWYAAHPQ3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792441976041-32h3fj",
+    "source": "x",
+    "ts": "2026-10-19T20:32:56.041Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 18,
+    "originTimestamp": "2026-10-19T20:14:00.000Z",
+    "reason": "Notable institutional activity and financials disclosure from a major protocol.",
     "text": "NEAR is keeping a bigger cut of its swap fees\n\n@near_intents handled about $10.4 billion in Q3, bringing lifetime volume to over $32 billion, per @NEARProtocol's Q3 report. Lifetime fees topped $52 million, and more than $8 million of that went toward buying back $NEAR.\n\nThe",
     "url": "https://x.com/BSCNews/status/2112276096288694629",
     "images": [],
