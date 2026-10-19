@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792169040833-4k8q5g",
-    "source": "x",
-    "ts": "2026-10-16T16:44:00.833Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 55,
-    "originTimestamp": "2026-10-16T15:49:02.000Z",
-    "reason": "No notable move, partnership without specific details or value.",
-    "text": "It’s no secret that Grok @Bot is my favorite 24/7 AI agent right now.\n\nI’m partnering with @SpaceXSI to give out codes for one month FREE of the Super tier ($100) of their new X Subscription.\n\nIt combines X, Grok, Grok Bot, and Cursor into one subscription and is imo a no",
-    "url": "https://x.com/elonmusk/status/2111135460861038952"
-  },
-  {
-    "id": "x-1792169044173-7oqv7n",
-    "source": "x",
-    "ts": "2026-10-16T16:44:04.173Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T16:37:15.000Z",
-    "reason": "CFTC's stance could impact future regulatory actions in crypto markets.",
-    "text": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-    "url": "https://x.com/DecryptMedia/status/2111134385751671280",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792169540726-v3h33t",
     "source": "x",
     "ts": "2026-10-16T16:52:20.726Z",
@@ -7816,5 +7787,42 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112222658427342848/img/XcTw4uVWjR41BTPh.jpg"
     }
+  },
+  {
+    "id": "x-1792429326306-ywo6bn",
+    "source": "x",
+    "ts": "2026-10-19T17:02:06.306Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T17:00:42.000Z",
+    "reason": "Notable regulatory and financial institution collaboration.",
+    "text": "🇨🇳 NEW: China’s central bank approved Visa’s preparations for a domestic bankcard clearing institution, giving it one year to complete setup before applying for a formal license.",
+    "url": "https://x.com/Cointelegraph/status/2112227451996680615",
+    "images": [
+      "https://pbs.twimg.com/media/HVAjqudXkAADXvR.jpg",
+      "https://pbs.twimg.com/media/HVAjq8cWYAE-7cG.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792429329076-ge8pu0",
+    "source": "x",
+    "ts": "2026-10-19T17:02:09.076Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T17:00:40.000Z",
+    "reason": "Specific institutional announcement affecting a significant protocol.",
+    "text": "🚨 ALERT: Echo Protocol announces it is winding down after nearly two years, halting new deposits, borrowing and staking while keeping withdrawals and repayments available.",
+    "url": "https://x.com/Cointelegraph/status/2112227443725521215",
+    "images": [
+      "https://pbs.twimg.com/media/HVAjqmxXcAAV1ty.png"
+    ],
+    "video": null
   }
 ]
