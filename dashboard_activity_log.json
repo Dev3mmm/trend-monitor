@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792177349151-3hmx7h",
-    "source": "x",
-    "ts": "2026-10-16T19:02:29.151Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-16T18:56:45.000Z",
-    "reason": "Circle's CEO suggests stablecoins are expanding into new markets.",
-    "text": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-    "url": "https://x.com/DecryptMedia/status/2111169492185215025",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792177955237-fbowk5",
-    "source": "x",
-    "ts": "2026-10-16T19:12:35.237Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T19:10:25.000Z",
-    "reason": "Memes and no factual claim.",
-    "text": "Wamama ni wakora. Trust them at your own peril. None is loyal, they are loyal to their feelings and self-made lies that they believe to be true.",
-    "url": "https://x.com/amerix/status/2111172930759758205"
-  },
-  {
     "id": "x-1792177957055-hvtsrr",
     "source": "x",
     "ts": "2026-10-16T19:12:37.055Z",
@@ -7841,5 +7812,42 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "⚡️ INSIGHT: Eric Balchunas says most of America’s richest billionaires’ wealth is tied to stock ownership, arguing stock donations could help narrow the wealth gap.",
     "url": "https://x.com/Cointelegraph/status/2112267588759585003"
+  },
+  {
+    "id": "x-1792439546413-md1cyw",
+    "source": "x",
+    "ts": "2026-10-19T19:52:26.413Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T19:47:15.000Z",
+    "reason": "Notable exploit involving cross-platform code execution.",
+    "text": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
+    "url": "https://x.com/DecryptMedia/status/2112269364799971707",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792439549945-rmca8u",
+    "source": "x",
+    "ts": "2026-10-19T19:52:29.945Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-19T19:43:00.000Z",
+    "reason": "Specific announcement about Algorand payment system.",
+    "text": "Why Algorand payments don’t wait for extra blocks\n\nOn Bitcoin, two miners can find a block at the same time, and the chain briefly splits in two, which is called a fork. Payments on the dropped side are undone, so waiting six blocks, about an hour, is the common rule before a",
+    "url": "https://x.com/BSCNews/status/2112268295059743107",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112254099282411520/vid/avc1/1220x720/9GEAhpFLtQMs5Bpz.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112254099282411520/img/P2U95ABkg9xL8kTF.jpg"
+    }
   }
 ]
