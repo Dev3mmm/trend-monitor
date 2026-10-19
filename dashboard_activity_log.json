@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792127537333-073tcv",
-    "source": "x",
-    "ts": "2026-10-16T05:12:17.333Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-16T05:05:11.000Z",
-    "reason": "Starknet holders considering becoming an independent Layer 1 to enhance security against quantum threats.",
-    "text": "Starknet Holders Back a Potential Quantum Safe Layer 1\n\nStarknet (@Starknet) $STRK holders are voting on whether the network should become an independent Layer 1 to strengthen its security against quantum threats.\n\nThe idea is that the network will gain more control over its",
-    "url": "https://x.com/BSCNews/status/2110960222567121214",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110950631225868288/vid/avc1/1280x720/AOKLaUWDGNkYV8TR.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110950631225868288/img/nhfDTYnLYWVY08Eh.jpg"
-    }
-  },
-  {
-    "id": "x-1792128125316-lacip1",
-    "source": "x",
-    "ts": "2026-10-16T05:22:05.316Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T05:19:05.000Z",
-    "reason": "Meme-coin shill without any factual content.",
-    "text": "3 crates of grass-finished organic eggs from my farm.\n\nFREEDOM.\n\n#FoodFriday",
-    "url": "https://x.com/amerix/status/2110963720188768498"
-  },
-  {
     "id": "x-1792128765901-ws30eb",
     "source": "x",
     "ts": "2026-10-16T05:32:45.901Z",
@@ -7770,5 +7736,44 @@
     "reason": "No notable move or specific event described.",
     "text": "Learn to control how you react,\n\nControl what you eat.\n\nControl what you say.\n\nControl what you spend.\n\nControl your Mind, Mouth, Mood and Money.\n\nA man who controls nothing is controlled by everything.\n\n#ManDay",
     "url": "https://x.com/amerix/status/2112073508217876550"
+  },
+  {
+    "id": "x-1792393389978-w8fidx",
+    "source": "x",
+    "ts": "2026-10-19T07:03:09.978Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T07:00:38.000Z",
+    "reason": "On-chain data point about crypto performance related to equity markets.",
+    "text": "🚨 NOW: Altcoins are down over 5% this weekend as equity market fear spills into crypto, on track for their biggest weekend drop since April, per @glassnode.",
+    "url": "https://x.com/Cointelegraph/status/2112076440262807883",
+    "images": [
+      "https://pbs.twimg.com/media/HU-aVCoXQAAjUzW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792393395792-0dhqt3",
+    "source": "x",
+    "ts": "2026-10-19T07:03:15.792Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T06:57:38.000Z",
+    "reason": "New use of a token (KAS) with a notable technical development.",
+    "text": "Kaspa Developer Completes Key Step Toward Private KAS Payments  \n\nKaspa (@kaspaunchained) Privacy Initiative developer Olaf Weller (@WellerOlaf) says a proof of concept for shielded native $KAS has been completed on testnet TN10.  \n\nThe tests demonstrated transaction ordering,",
+    "url": "https://x.com/BSCNews/status/2112075684155904288",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112075630632423424/vid/avc1/1280x720/O94PTwB8ItwH9iNB.mp4?tag=29",
+      "duration": 17,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112075630632423424/img/GWhm5hjgk_Vc9P1p.jpg"
+    }
   }
 ]
