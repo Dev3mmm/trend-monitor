@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1792142553783-75kn3u",
-    "source": "x",
-    "ts": "2026-10-16T09:22:33.783Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-16T09:12:01.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
-    "url": "https://x.com/DecryptMedia/status/2111022341148811370"
-  },
-  {
-    "id": "x-1792143134002-34axiz",
-    "source": "x",
-    "ts": "2026-10-16T09:32:14.002Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-16T09:23:19.000Z",
-    "reason": "Notable institutional adoption with major banks participating in cross-border payments.",
-    "text": "🇯🇵 NEW: Japan’s Mizuho, MUFG and SMBC announce completion of a joint yen stablecoin pilot testing cross-border payments for Mitsubishi Corporation.",
-    "url": "https://x.com/Cointelegraph/status/2111025185595769053",
-    "images": [
-      "https://pbs.twimg.com/media/HUveNztWQAAtQRI.png",
-      "https://pbs.twimg.com/media/HUveN_WXgAAGg0O.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792143731671-n2p5gs",
-    "source": "x",
-    "ts": "2026-10-16T09:42:11.671Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-16T09:37:19.000Z",
-    "reason": "Price and market cap growth of ZCAT are notable over the short term.",
-    "text": "Anonymous Cat Rallies as Zcash Reward Model Gains Momentum Again\n\nAnonymous Cat $ZCAT is seeing renewed price momentum, up 26% in 24 hours and 30% over seven days. Its market cap has reached $57 million.\n\nUnlike many Solana (@solana) $SOL memecoins, ZCAT trades against $ZEC on",
-    "url": "https://x.com/BSCNews/status/2111028706785493258",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111028643581566976/vid/avc1/1280x720/T5H6e3NYhpUxzGVi.mp4?tag=29",
-      "duration": 16,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111028643581566976/img/3bvTSNN_R2AMNDrU.jpg"
-    }
-  },
-  {
     "id": "x-1792143734638-d78c49",
     "source": "x",
     "ts": "2026-10-16T09:42:14.638Z",
@@ -7776,5 +7723,57 @@
     "url": "https://x.com/DecryptMedia/status/2112129756984381486",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792407752988-74fbxt",
+    "source": "x",
+    "ts": "2026-10-19T11:02:32.988Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T11:00:34.000Z",
+    "reason": "Noteworthy institutional action with significant potential impact on the ecosystem.",
+    "text": "🔥 TODAY: BNB Chain completes its 37th quarterly burn, removing 1.65M $BNB worth approximately $1.2B from circulation.",
+    "url": "https://x.com/Cointelegraph/status/2112136822767669594",
+    "images": [
+      "https://pbs.twimg.com/media/HU_RPzQXkAEwJVh.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792407758675-ybqhb6",
+    "source": "x",
+    "ts": "2026-10-19T11:02:38.675Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-19T10:53:00.000Z",
+    "reason": "Notable volume increase for THORChain's DEX.",
+    "text": "THORChain still the king of cross-chain swaps...\n\nAccording to data from DefiLlama, @THORChain's DEX volume is only trending one way.\n\nOfficial Link:  \n\nThe platform has processed a staggering $382.76M in the last 7 days alone...\n\n... and that figure is up",
+    "url": "https://x.com/BSCNews/status/2112134916112515370",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112102168924663808/vid/avc1/1312x720/Vx08sdkIpl5jTI0d.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112102168924663808/img/xzkafV7UORqvkTbv.jpg"
+    }
+  },
+  {
+    "id": "x-1792407763637-mmbdse",
+    "source": "x",
+    "ts": "2026-10-19T11:02:43.637Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-19T10:52:04.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Arbitrum and Pepe spearhead crypto surge... \n\nThe top-performing asset in the 24-hour trading period is @Arbitrum, which gained 9.2%.\n\nThe Layer-2 token leads other digital assets in returns as the crypto market cap rises slightly to $2.84T on breakout moves, despite an",
+    "url": "https://x.com/BSCNews/status/2112134680736661851"
   }
 ]
