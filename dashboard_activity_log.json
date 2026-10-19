@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792116795351-o8htw2",
-    "source": "x",
-    "ts": "2026-10-16T02:13:15.351Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T02:11:36.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "The chart after you sell.",
-    "url": "https://x.com/coinbase/status/2110916540346581087"
-  },
-  {
-    "id": "x-1792116801999-tmxw0b",
-    "source": "x",
-    "ts": "2026-10-16T02:13:21.999Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T02:07:00.000Z",
-    "reason": "Canton Network generates record-breaking $155M in fees, outpacing major chains.",
-    "text": "Canton generates more fees than any other blockchain.\n\nAccording to @Certik's @CertiKCommunity, the @CantonNetwork generated a staggering $155M worth of fees in Q3 2026.\n\nThis outpaces all other chains, including the likes of @Solana, @Ethereum and @injective.\n\nIs institutional",
-    "url": "https://x.com/BSCNews/status/2110915380273197233",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110708924043100160/vid/avc1/1312x720/HFo-mXK7HpwsoPQF.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110708924043100160/img/8XVGcCkHVMvplrA9.jpg"
-    }
-  },
-  {
     "id": "x-1792117347561-7j0lom",
     "source": "x",
     "ts": "2026-10-16T02:22:27.561Z",
@@ -7728,6 +7694,37 @@
     "ageMin": 8,
     "originTimestamp": "2026-10-19T01:21:55.000Z",
     "reason": "Exploit of wallet seeds leading to significant loss of funds",
+    "text": "Qubic Attack Drains 1,404 Wallets of Approximately 2.94 Trillion QU, With 87.1% of Stolen Funds Frozen\n\nLayer 1 network Qubic said in a post that between 23:42 UTC on October 17 and 01:26 UTC on October 18, an attacker exploited insufficient randomness in certain wallet seeds to",
+    "url": "https://x.com/WuBlockchain/status/2111991201016721809",
+    "images": [
+      "https://pbs.twimg.com/media/HU9MzAlagAAcfTd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792373920335-u62v9y",
+    "source": "x",
+    "ts": "2026-10-19T01:38:40.335Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-19T01:30:14.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 NEW: “The most bullish crypto asset by analyst sentiment is $HYPE,” says CryptoQuant CEO Ki Young Ju.",
+    "url": "https://x.com/Cointelegraph/status/2111993293156372545"
+  },
+  {
+    "id": "x-1792373926087-qcnt6d",
+    "source": "x",
+    "ts": "2026-10-19T01:38:46.087Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 16,
+    "originTimestamp": "2026-10-19T01:21:55.000Z",
+    "reason": "Exploit involving significant theft of funds from users.",
     "text": "Qubic Attack Drains 1,404 Wallets of Approximately 2.94 Trillion QU, With 87.1% of Stolen Funds Frozen\n\nLayer 1 network Qubic said in a post that between 23:42 UTC on October 17 and 01:26 UTC on October 18, an attacker exploited insufficient randomness in certain wallet seeds to",
     "url": "https://x.com/WuBlockchain/status/2111991201016721809",
     "images": [
