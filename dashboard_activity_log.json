@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792120961808-f8a3ly",
-    "source": "x",
-    "ts": "2026-10-16T03:22:41.808Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 98,
-    "originTimestamp": "2026-10-16T01:44:22.000Z",
-    "reason": "No notable crypto event mentioned.",
-    "text": "Ok that was beyond insane.  Beyond plaid.\n0-60 in 0.8 seconds (thanks to thrusters and suction for tire grip) and top speed of Mach 0.5  \nOh, and it can fly.",
-    "url": "https://x.com/elonmusk/status/2110932103424508344"
-  },
-  {
-    "id": "x-1792121533670-a6a73z",
-    "source": "x",
-    "ts": "2026-10-16T03:32:13.670Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T03:30:18.000Z",
-    "reason": "Notable appointment in the rapidly growing blockchain space.",
-    "text": "🚨 NEW: Helius CEO Mert Mumtaz has been appointed to the NEAR Foundation Council, where he’ll help steer the foundation’s push to bring privacy to onchain markets.",
-    "url": "https://x.com/Cointelegraph/status/2110936344474120534",
-    "images": [
-      "https://pbs.twimg.com/media/HUuNaorWYAA5-Pj.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792121536906-rayrge",
     "source": "x",
     "ts": "2026-10-16T03:32:16.906Z",
@@ -7754,5 +7723,45 @@
     "reason": "No notable crypto-related news in the tweet.",
     "text": "🇺🇸NOW:  U.S. stock futures reportedly opened HIGHER despite weekend warnings of a “Black Monday” crash.\n\nAt open:\n\n• S&amp;P 500 futures: +0.2%\n• Nasdaq 100 futures: +0.2%\n• Dow futures: +0.1%\n\nStocks pointed higher as energy prices eased, offering an early reprieve from selloff",
     "url": "https://x.com/coinbureau/status/2112030982815842656"
+  },
+  {
+    "id": "x-1792383731862-7sm0xk",
+    "source": "x",
+    "ts": "2026-10-19T04:22:11.862Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T04:20:12.000Z",
+    "reason": "Vitalik Buterin's proposal could impact Ethereum's scalability and security.",
+    "text": "⚡️ TODAY: Vitalik Buterin calls for “EIP-8288 maximalism,” saying heavy cryptography should be STARKed client-side and kept off Ethereum’s main chain so the network never needs to add another precompile.",
+    "url": "https://x.com/Cointelegraph/status/2112036066345582652",
+    "images": [
+      "https://pbs.twimg.com/media/HU91mwlWUAAwNAa.png",
+      "https://pbs.twimg.com/media/HU91nAPXEAAD3Nb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792383735833-wfb65x",
+    "source": "x",
+    "ts": "2026-10-19T04:22:15.833Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T04:16:00.000Z",
+    "reason": "Notable legal action involving a crypto company and sports betting regulations.",
+    "text": "Crypto(.)com And Novig Take Missouri to Court Over Sports Bets\n\nCrypto(.)com’s (@cryptocom) prediction market exchange and Novig (@Novig) have sued Missouri officials over sports event contracts.\n\nThe purpose of the lawsuit is to prevent the enforcement of state sports wagering",
+    "url": "https://x.com/BSCNews/status/2112035007959282030",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112032734994731008/vid/avc1/1280x720/brKqD-BnPe877oxU.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112032734994731008/img/QUpp4pj0wJcnEZ4d.jpg"
+    }
   }
 ]
