@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792125734568-1e4hst",
-    "source": "x",
-    "ts": "2026-10-16T04:42:14.568Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-16T04:33:05.000Z",
-    "reason": "US becomes net importer of Bitcoin for first time since 2022",
-    "text": "US Becomes a Net Bitcoin Importer For First Time Since 2022\n\nThe US became a net importer of Bitcoin $BTC in 2026, according to Chainalysis.\n\nSince the introduction of spot Bitcoin ETFs in 2024, the US' share of total global Bitcoin transactions has grown every reporting period.",
-    "url": "https://x.com/BSCNews/status/2110952142735577176",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110945864227405824/vid/avc1/1280x720/EBrTehRshQe-Z6Jn.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110945864227405824/img/8a2OEDPtE_OCq71h.jpg"
-    }
-  },
-  {
-    "id": "x-1792126408261-e1w7p5",
-    "source": "x",
-    "ts": "2026-10-16T04:53:28.261Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-16T04:42:10.000Z",
-    "reason": "Generic opinion with no factual claim or verified price movement.",
-    "text": "⚠️ Peter Schiff: “SELL your Bitcoin before the bottom drops out of the market and buy gold.”\n\nBoth assets are DOWN this year: Bitcoin has fallen around -6.8%, versus Gold’s -4.2% decline.\n\nGold is holding up better, but neither has delivered positive returns in 2026 as Schiff",
-    "url": "https://x.com/coinbureau/status/2110954429335941173"
-  },
-  {
     "id": "x-1792126977956-790cy2",
     "source": "x",
     "ts": "2026-10-16T05:02:57.956Z",
@@ -7776,5 +7742,39 @@
     "reason": "No notable financial events or announcements are listed or implied in the tweet.",
     "text": "⚡️ Key Economic Events This Week:\n\nTuesday - September Pending Home Sales data, SpaceX $SPCX earnings\n\nWednesday - Tesla $TSLA and Meta $META earnings\n\nThursday - Initial Jobless Claims data\n\nFriday - October Michigan Consumer Sentiment and Inflation Expectations data\n\nRoughly",
     "url": "https://x.com/Cointelegraph/status/2112068831350763805"
+  },
+  {
+    "id": "x-1792392139213-z7ukwy",
+    "source": "x",
+    "ts": "2026-10-19T06:42:19.213Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-19T06:38:00.000Z",
+    "reason": "Notable development in the development of a private KAS payments system.",
+    "text": "Kaspa Developer Completes Key Step Toward Private KAS Payments\n\nKaspa (@kaspaunchained) developer Olaf Weller (@WellerOlaf) says a proof of concept for shielded native $KAS has been completed on testnet TN10.\n\nThe tests demonstrated transaction ordering, zero knowledge proof",
+    "url": "https://x.com/BSCNews/status/2112070743609553379",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112058827562778624/vid/avc1/1280x720/RhUKFaWsN7aQpUqo.mp4?tag=29",
+      "duration": 17,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112058827562778624/img/C5HIUobkRJijyU_a.jpg"
+    }
+  },
+  {
+    "id": "x-1792392142859-kd2ng6",
+    "source": "x",
+    "ts": "2026-10-19T06:42:22.859Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T06:35:20.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "So many people are going to get one-shotted by super persuasive super intelligences and I might be one of them",
+    "url": "https://x.com/elonmusk/status/2112070071401238607"
   }
 ]
