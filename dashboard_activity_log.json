@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792137738576-rwhk6q",
-    "source": "x",
-    "ts": "2026-10-16T08:02:18.576Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-16T07:53:30.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Guys after making $100 profit",
-    "url": "https://x.com/coinbase/status/2111002582055567748"
-  },
-  {
     "id": "x-1792138324681-unywfk",
     "source": "x",
     "ts": "2026-10-16T08:12:04.681Z",
@@ -7749,5 +7736,26 @@
     "reason": "No notable move or event described.",
     "text": "You nominated. We shortlisted. Now you decide. \n\nVoting for The Blockchain 100 is open 👇",
     "url": "https://x.com/binance/status/2112108636671820034"
+  },
+  {
+    "id": "x-1792401721550-zh88dn",
+    "source": "x",
+    "ts": "2026-10-19T09:22:01.550Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-19T09:15:00.000Z",
+    "reason": "No notable move; price is within its recent range.",
+    "text": "ICP Makes Credit Card Payments Easier For Developers\n\nDfinity (@dfinity) $ICP founder Dominic Williams (@dominic_w) highlighted a new way to buy Internet Computer cycles using credit cards.\n\nThe latest icp-cli update lets users scan a QR code and pay through Stripe.\n\nCycles are",
+    "url": "https://x.com/BSCNews/status/2112110253647310957",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112092112439463936/vid/avc1/1280x720/yNdVFJpm8f9ztgh-.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112092112439463936/img/e7iu-Y5QTfXCEY_Q.jpg"
+    }
   }
 ]
