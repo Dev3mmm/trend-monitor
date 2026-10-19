@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792166532863-4vprn5",
-    "source": "x",
-    "ts": "2026-10-16T16:02:12.863Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T15:58:35.000Z",
-    "reason": "No crypto-related content.",
-    "text": "🔥CRAZY: A parking spot fight takes a wild turn when a Tesla Roadster comes in for a LANDING instead of parking.\n\nViral visualizations are surfacing on how the FIRST- EVER flying car could disrupt traffic, driving rules, and road etiquette.",
-    "url": "https://x.com/coinbureau/status/2111124655532859732"
-  },
-  {
-    "id": "x-1792167122123-neatiu",
-    "source": "x",
-    "ts": "2026-10-16T16:12:02.123Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T16:10:18.000Z",
-    "reason": "SEC filing showing significant Bitcoin holdings by a SEC-registered entity.",
-    "text": "🇺🇸 NEW: The SEC files Unique Wealth’s 13F-HR showing $10.4M in Bitcoin holdings.",
-    "url": "https://x.com/Cointelegraph/status/2111127606351311362",
-    "images": [
-      "https://pbs.twimg.com/media/HUw7XavXMAM84bz.jpg",
-      "https://pbs.twimg.com/media/HUw7XplXoAAWDtu.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792167125454-3cfsc5",
     "source": "x",
     "ts": "2026-10-16T16:12:05.454Z",
@@ -7786,5 +7754,42 @@
     "reason": "No notable move or specific event is mentioned.",
     "text": "Weekly Market Watch | Oct 19–23\n\nTesla &amp; Meta earnings are on deck 👀\n\nDon’t let the clock limit your trades. Trade 24/7 on Binance.\n\n👉",
     "url": "https://x.com/binance/status/2112212803629043718"
+  },
+  {
+    "id": "x-1792426932554-wkmink",
+    "source": "x",
+    "ts": "2026-10-19T16:22:12.554Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T16:19:10.000Z",
+    "reason": "Notable bank launch of crypto trading through banking app",
+    "text": "🇩🇪 NEW: Germany’s Sparkassen network has launched crypto trading through its banking app at select banks, initially supporting Bitcoin, Ethereum, XRP, Solana and Polygon, with 30–40 more banks set to join each month.",
+    "url": "https://x.com/Cointelegraph/status/2112217000634118191",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792426938971-2qas9j",
+    "source": "x",
+    "ts": "2026-10-19T16:22:18.971Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T16:15:11.000Z",
+    "reason": "Significant staking increase and governance support.",
+    "text": "Nearly half of Flare’s active FLR now sits in staking\n\nHolders have now staked 23.1 billion $FLR on @FlareNetworks, or 49.2% of the FLR taking part in the network. The rest is delegated.\n\nGovernance voters backed the FIP.16 overhaul in April with 98.06% support. It gives staked",
+    "url": "https://x.com/BSCNews/status/2112215997260210618",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112214362626650112/vid/avc1/1220x720/gVKoJCQjMazcK3Dn.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112214362626650112/img/uxvcf-Chul6PqhML.jpg"
+    }
   }
 ]
