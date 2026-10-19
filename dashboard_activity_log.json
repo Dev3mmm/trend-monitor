@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792116160086-rl5zp0",
-    "source": "x",
-    "ts": "2026-10-16T02:02:40.086Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-16T01:57:58.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "Turns out the future does have flying cars",
-    "url": "https://x.com/elonmusk/status/2110913107094606330"
-  },
-  {
     "id": "x-1792116795351-o8htw2",
     "source": "x",
     "ts": "2026-10-16T02:13:15.351Z",
@@ -7729,5 +7716,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111752057656840192/img/W80t9Ti03BuoPJ7C.jpg"
     }
+  },
+  {
+    "id": "x-1792373429616-7g0uvt",
+    "source": "x",
+    "ts": "2026-10-19T01:30:29.616Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-19T01:21:55.000Z",
+    "reason": "Exploit of wallet seeds leading to significant loss of funds",
+    "text": "Qubic Attack Drains 1,404 Wallets of Approximately 2.94 Trillion QU, With 87.1% of Stolen Funds Frozen\n\nLayer 1 network Qubic said in a post that between 23:42 UTC on October 17 and 01:26 UTC on October 18, an attacker exploited insufficient randomness in certain wallet seeds to",
+    "url": "https://x.com/WuBlockchain/status/2111991201016721809",
+    "images": [
+      "https://pbs.twimg.com/media/HU9MzAlagAAcfTd.jpg"
+    ],
+    "video": null
   }
 ]
