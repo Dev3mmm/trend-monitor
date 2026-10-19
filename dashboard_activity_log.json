@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792118534371-x2ufk6",
-    "source": "x",
-    "ts": "2026-10-16T02:42:14.371Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 42,
-    "originTimestamp": "2026-10-16T01:59:17.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Real life, baby",
-    "url": "https://x.com/elonmusk/status/2110923749138842065"
-  },
-  {
     "id": "x-1792118538200-psdwx3",
     "source": "x",
     "ts": "2026-10-16T02:42:18.200Z",
@@ -7745,5 +7732,18 @@
       "https://pbs.twimg.com/media/HU9VlOHWYAAWlO_.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792377120497-13jcmi",
+    "source": "x",
+    "ts": "2026-10-19T02:32:00.497Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T02:30:14.000Z",
+    "reason": "No notable crypto-specific event or movement mentioned.",
+    "text": "🇨🇳 JUST IN: China’s economy beats expectations with 4.5% growth in Q3.",
+    "url": "https://x.com/Cointelegraph/status/2112008392680018170"
   }
 ]
