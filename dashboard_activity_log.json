@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1792180606754-rze1f8",
-    "source": "x",
-    "ts": "2026-10-16T19:56:46.754Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-16T19:47:00.000Z",
-    "reason": "Notable institutional adoption of Stellar and Arc for tokenization.",
-    "text": "DTCC picks Canton for launch, Stellar and Arc for 2027\n\nDTCC (@The_DTCC) will launch its Tokenization Service this month on the @CantonNetwork and Besu, DTCC's private network. It starts with 25 stocks, ETFs, and US Treasuries, tokenized 1:1 with securities held at DTC and",
-    "url": "https://x.com/BSCNews/status/2111182138167153023",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111172868700532736/vid/avc1/1220x720/Dq6YlQ5kJI3ieS31.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111172868700532736/img/LUygcmEwkuQVN-6V.jpg"
-    }
-  },
-  {
-    "id": "x-1792181546423-t00xzx",
-    "source": "x",
-    "ts": "2026-10-16T20:12:26.423Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T20:10:16.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🤖 NEW: Claude solved the decades-old mystery of NIST elliptic curve seeds in under 30 minutes, tracing them to timestamps.",
-    "url": "https://x.com/Cointelegraph/status/2111187993226575903"
-  },
-  {
-    "id": "x-1792182132158-6yuzxr",
-    "source": "x",
-    "ts": "2026-10-16T20:22:12.158Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 38,
-    "originTimestamp": "2026-10-16T19:43:49.000Z",
-    "reason": "No notable move, correlation changes are vague.",
-    "text": "The top 20 AI &amp; chip stocks lost over $1T this week. \n\nIn the meantime $BTC has looked resilient.\n\nCorrelation between BTC and SMH went from +0.9 to -0.79. A rough stretch for BTC. \n\nThe correlation has now weakened to -0.23 and BTC is the one rising while the AI trade falls.",
-    "url": "https://x.com/BitcoinMagazine/status/2111190093616881744"
-  },
-  {
     "id": "x-1792182134930-8db7cb",
     "source": "x",
     "ts": "2026-10-16T20:22:14.930Z",
@@ -7852,5 +7805,47 @@
     "reason": "No notable financial or price information provided, just a comparison to the S&P 500.",
     "text": "JUST IN: Bitcoin is now less volatile than 57% of S&amp;P 500 companies, according to Grayscale 👀\n\nBullish! 🚀",
     "url": "https://x.com/BitcoinMagazine/status/2112288262710526247"
+  },
+  {
+    "id": "x-1792444935941-o6j8ll",
+    "source": "x",
+    "ts": "2026-10-19T21:22:15.941Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T21:20:10.000Z",
+    "reason": "No notable move in gold or crypto price/usage mentioned.",
+    "text": "🇨🇳 BIG: Goldman Sachs says China was the largest identifiable gold buyer in August, purchasing 25 tonnes.",
+    "url": "https://x.com/Cointelegraph/status/2112292750791999663"
+  },
+  {
+    "id": "x-1792444938738-hy5fcr",
+    "source": "x",
+    "ts": "2026-10-19T21:22:18.738Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T21:16:15.000Z",
+    "reason": "Notable institution (Anthropic) making a public move in response to another (Musk's SpaceX)",
+    "text": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+    "url": "https://x.com/DecryptMedia/status/2112291762211295332",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792444941031-pgce4e",
+    "source": "x",
+    "ts": "2026-10-19T21:22:21.031Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-19T21:15:00.000Z",
+    "reason": "No notable move, price is well within its recent range.",
+    "text": "Injective’s monthly buyback returns Wednesday, and Stockdrop is back too\n\nThe next @injective Community BuyBack opens on Wednesday, with the October pool valued at more than $247,000. Holders commit $INJ and receive a share of Injective ecosystem revenue in return, split by how",
+    "url": "https://x.com/BSCNews/status/2112291448074690971"
   }
 ]
