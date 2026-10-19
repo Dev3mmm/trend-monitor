@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791057815619-gaafaj",
     "x-1791057817751-2m5usx",
     "x-1791058333121-fz50up",
     "x-1791058336620-lcji1r",
@@ -1999,18 +1998,10 @@
     "x-1792433054670-8hdhar",
     "x-1792433577301-qbwu0d",
     "x-1792434191727-p924wl",
-    "x-1792434203315-bqiydr"
+    "x-1792434203315-bqiydr",
+    "x-1792435361369-5c0c4s"
   ],
   "queue": [
-    {
-      "text": "🚨 ALERT: Echo Protocol announces it is winding down after nearly two years, halting new deposits, borrowing and staking while keeping withdrawals and repayments available.",
-      "url": "https://x.com/Cointelegraph/status/2112227443725521215",
-      "images": [
-        "https://pbs.twimg.com/media/HVAjqmxXcAAV1ty.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1792429330305
-    },
     {
       "text": "⚡️ JUST IN: $XRP launches an official X account managed by Ripple and the XRP Ledger Foundation.",
       "url": "https://x.com/Cointelegraph/status/2112234889130979357",
@@ -2057,20 +2048,19 @@
       ],
       "video": null,
       "enqueuedAt": 1792434210141
+    },
+    {
+      "text": "🇺🇸 UPDATE: The CFTC urged a federal court to dismiss CME’s lawsuit challenging its approval of crypto perpetual futures, arguing the exchange has shown no concrete financial harm.",
+      "url": "https://x.com/Cointelegraph/status/2112252494357180792",
+      "images": [
+        "https://pbs.twimg.com/media/HVA6caEWAAEO12Q.jpg",
+        "https://pbs.twimg.com/media/HVA6ctdW4AAvFBp.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1792435366753
     }
   ],
   "posted": [
-    {
-      "text": "🔥 HUGE: Claude solved a 25-year-old crypto mystery in under 30 minutes, tracing the NSA-supplied seeds behind NIST's P-256 curve to a 1990s random number generator.",
-      "final": "🔥 HUGE: Claude solved a 25-year-old crypto mystery in under 30 minutes, tracing the NSA-supplied seeds behind NIST's P-256 curve to a 1990s random number generator.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HU2k_-UWsAABi23.png",
-        "https://pbs.twimg.com/media/HU2lAdkWEAAJOlo.jpg"
-      ],
-      "at": 1792261938657,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/378350682777685?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "⚡ LATEST: Arthur Hayes says quantum computing is no reason to sell Bitcoin and the real risk sits with people who reuse addresses.",
       "final": "⚡ LATEST: Arthur Hayes says quantum computing is no reason to sell Bitcoin and the real risk sits with people who reuse addresses.\n\n#Bitcoin $BTC",
@@ -2579,7 +2569,17 @@
       "at": 1792433577828,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379053615030053?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Echo Protocol announces it is winding down after nearly two years, halting new deposits, borrowing and staking while keeping withdrawals and repayments available.",
+      "final": "🚨 ALERT: Echo Protocol announces it is winding down after nearly two years, halting new deposits, borrowing and staking while keeping withdrawals and repayments available.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVAjqmxXcAAV1ty.png"
+      ],
+      "at": 1792435366753,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/379060925171324?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1792433577828
+  "lastPostAt": 1792435366753
 }
