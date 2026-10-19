@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792164791924-12gb5g",
-    "source": "x",
-    "ts": "2026-10-16T15:33:11.924Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 89,
-    "originTimestamp": "2026-10-16T14:03:16.000Z",
-    "reason": "No notable price movement indicated.",
-    "text": "the bell is optional now, $1B and counting.",
-    "url": "https://x.com/binance/status/2111115922517745920"
-  },
-  {
-    "id": "x-1792165316937-z7okkh",
-    "source": "x",
-    "ts": "2026-10-16T15:41:56.937Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 67,
-    "originTimestamp": "2026-10-16T14:34:18.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "The Bitcoin Standard explained in 4 minutes",
-    "url": "https://x.com/saylor/status/2111120006822154473"
-  },
-  {
     "id": "x-1792165321120-s5wlp0",
     "source": "x",
     "ts": "2026-10-16T15:42:01.120Z",
@@ -7788,5 +7762,40 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112209460391251968/img/J9zWvNYVRSshQ7tP.jpg"
     }
+  },
+  {
+    "id": "x-1792425735520-oz45hx",
+    "source": "x",
+    "ts": "2026-10-19T16:02:15.520Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T16:00:54.000Z",
+    "reason": "Potential security implications from removing legacy code.",
+    "text": "🔥 UPDATE: Trust Wallet cuts 200 MB from its app after removing nine years of legacy code, CEO Felix Fan says more cuts incoming.",
+    "url": "https://x.com/Cointelegraph/status/2112212401558860064",
+    "images": [
+      "https://pbs.twimg.com/media/HVAV-xvWMAAheXv.png",
+      "https://pbs.twimg.com/media/HVAV_A4WIAAj1ZZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792425737958-f8t5z4",
+    "source": "x",
+    "ts": "2026-10-19T16:02:17.958Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 111,
+    "originTimestamp": "2026-10-19T14:10:55.000Z",
+    "reason": "Notable private transaction volume and new rewards program launch.",
+    "text": "JUST IN: @NullMaskio has surpassed $50M in private transaction volume since October 1st.\n\nNow, Points Season 1 is live, rewarding users for moving funds privately over the next 90 days.\n\nLive across Ethereum, Base, BNB Chain and Robinhood Chain, with Solana support on the way.",
+    "url": "https://x.com/BSCNews/status/2112211289401618699",
+    "images": [],
+    "video": null
   }
 ]
