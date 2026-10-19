@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1792156444797-dqmavw",
-    "source": "x",
-    "ts": "2026-10-16T13:14:04.797Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T13:10:37.000Z",
-    "reason": "New dividend system for STRC with rebase and automatic dividends.",
-    "text": "Daily dividends are coming to $STRCx.\n\nPending shareholder approval, $STRCx will rebase daily from November, with dividends accruing automatically to your balance.\n\nRate markets are live on @Pendle_fi and @ExponentFinance.",
-    "url": "https://x.com/saylor/status/2111083073584722194",
-    "images": [
-      "https://pbs.twimg.com/media/HUwSEMobUAE6fnN.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792156449002-znpglk",
     "source": "x",
     "ts": "2026-10-16T13:14:09.002Z",
@@ -7769,5 +7751,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112173862284664832/img/4HOPGBREzyJbbOdf.jpg"
     }
+  },
+  {
+    "id": "x-1792417788780-o3iu5w",
+    "source": "x",
+    "ts": "2026-10-19T13:49:48.781Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T13:44:09.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇨🇦 JUST IN: Canada’s inflation rises to 3.1%, below the 3.2% forecast.",
+    "url": "https://x.com/Cointelegraph/status/2112177989727228012"
   }
 ]
