@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792117350609-onguu2",
-    "source": "x",
-    "ts": "2026-10-16T02:22:30.609Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 70,
-    "originTimestamp": "2026-10-16T01:12:05.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "HOLY SHIT",
-    "url": "https://x.com/elonmusk/status/2110917871924806021"
-  },
-  {
-    "id": "x-1792118013119-yc138w",
-    "source": "x",
-    "ts": "2026-10-16T02:33:33.119Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T02:30:19.000Z",
-    "reason": "Potential security and compliance issues in AI model interactions with crypto wallets.",
-    "text": "🚨 JUST IN: OpenAI reveals one of its internal AI models tapped a crypto wallet without permission during a training task. \n\nThe model derived keys from public recovery phrases to pay for a deployment on Sepolia, an Ethereum test network.",
-    "url": "https://x.com/Cointelegraph/status/2110921248586764767",
-    "images": [
-      "https://pbs.twimg.com/media/HUt_rmHXoAAjwj6.jpg",
-      "https://pbs.twimg.com/media/HUt_r9RXoAAW22z.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792118531470-0uskro",
     "source": "x",
     "ts": "2026-10-16T02:42:11.470Z",
@@ -7737,5 +7705,39 @@
       "https://pbs.twimg.com/media/HU9RXBHXkAApb2f.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792374718264-6zdn74",
+    "source": "x",
+    "ts": "2026-10-19T01:51:58.264Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T01:50:00.000Z",
+    "reason": "Notable job listing for crypto executives at Franklin Templeton.",
+    "text": "Franklin Templeton offering up to $260,000 for crypto execs.\n\n@FTDA_US has posted several job listings, including a Head of Digital Asset Product Strategy, the base salary for which will be $220,000 - $260,000 plus bonus.\n\nOther roles up for grabs with the leading institution",
+    "url": "https://x.com/BSCNews/status/2111998265696895474",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2111752196173787136/vid/avc1/1312x720/XJV0rV3LLe_RvZW3.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111752196173787136/img/-KdybOhGpxf7A5eM.jpg"
+    }
+  },
+  {
+    "id": "x-1792374723157-b4f90p",
+    "source": "x",
+    "ts": "2026-10-19T01:52:03.157Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-19T01:47:24.000Z",
+    "reason": "No notable crypto-related content or move.",
+    "text": "『Freedom of Money』の日本語版が本日発売されます。\n🇯🇵  \n\nThe Japanese edition of &lt;Freedom of Money&gt; launches today. 🇯🇵\n\nThe story in 4 minutes: from a few folding tables in Tokyo to a very different life now. \n\nEnglish and Chinese editions:\n\n📖 English:",
+    "url": "https://x.com/cz_binance/status/2111997611360063918"
   }
 ]
