@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792170081630-1qc1mh",
-    "source": "x",
-    "ts": "2026-10-16T17:01:21.630Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-16T16:50:05.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Real.",
-    "url": "https://x.com/coinbase/status/2111139986158633219"
-  },
-  {
     "id": "x-1792170646218-ul08k9",
     "source": "x",
     "ts": "2026-10-16T17:10:46.218Z",
@@ -7818,5 +7805,23 @@
     "reason": "No notable move in ETH price.",
     "text": "🇺🇸 LATEST: White House economic adviser Kevin Hassett says wage growth is ACCELERATING while price increases slow, crediting a surge in capital spending.\n\n“The price increases are decelerating and the wage increases are accelerating because of all the capital spending.”\n\nCiting",
     "url": "https://x.com/coinbureau/status/2112231049849672092"
+  },
+  {
+    "id": "x-1792431127908-in5cst",
+    "source": "x",
+    "ts": "2026-10-19T17:32:07.909Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T17:30:15.000Z",
+    "reason": "Official launch of XRP account by Ripple and XRP Ledger Foundation.",
+    "text": "⚡️ JUST IN: $XRP launches an official X account managed by Ripple and the XRP Ledger Foundation.",
+    "url": "https://x.com/Cointelegraph/status/2112234889130979357",
+    "images": [
+      "https://pbs.twimg.com/media/HVAqbqXXMAAmRrg.png"
+    ],
+    "video": null
   }
 ]
