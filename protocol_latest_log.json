@@ -3738,5 +3738,19 @@
     "fetchedAt": "2026-10-19T13:13:16.699Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-5928a61fbaf3efc1",
+    "title": "Peras Weekly Update | 16 October 2026",
+    "url": "https://forum.cardano.org/t/peras-weekly-update-16-october-2026/157464",
+    "description": "Another week of progress on Peras, with developments across Ledger, Consensus, Network and Testnet. This week saw the merging of Ledger support for forecasting on-chain Peras parameters, further progress on ObjectDiffusion, and some promising experiments with Buck2 to speed up testnet builds. Ledger Prepared cardano-base#700 and cardano-base#701 for external review, while continuing work on integr",
+    "publishedAt": "2026-10-19T13:58:28.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-10-19T14:05:47.128Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
