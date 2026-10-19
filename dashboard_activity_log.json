@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792185744344-y9azfw",
-    "source": "x",
-    "ts": "2026-10-16T21:22:24.344Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T21:20:17.000Z",
-    "reason": "No notable crypto news in the given tweet.",
-    "text": "🇺🇸 ALERT: Debt payments now consume an estimated 52 cents of every dollar gained in inflation-adjusted household take-home income for a typical US worker.",
-    "url": "https://x.com/Cointelegraph/status/2111205613946482954",
-    "images": [
-      "https://pbs.twimg.com/media/HUyCUFEWEAAsJ3T.jpg",
-      "https://pbs.twimg.com/media/HUyCUR7XkAAaq-j.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792185747621-km8a6z",
-    "source": "x",
-    "ts": "2026-10-16T21:22:27.621Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T21:16:13.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "TRON’s Q3 2026 by the numbers 📊\n\n🌐 $2.21T in stablecoin settlement volume\n🌐 18M monthly active addresses\n🌐 1.1B transactions\n\nThanks to @BSCNews for the coverage!\n\nRead the full breakdown 👇",
-    "url": "https://x.com/BSCNews/status/2111204904941322590"
-  },
-  {
     "id": "x-1792185750907-i0lbfw",
     "source": "x",
     "ts": "2026-10-16T21:22:30.907Z",
@@ -7856,5 +7824,44 @@
     "reason": "No notable move or newsworthy event is suggested.",
     "text": "Although $BTC has recovered nicely from its $58k low, anyone who bought one year ago is still underwater. \n\nIf the bulls can reclaim the YOY dip, there will be a positive shift in market psychology. \n\nTo do so, bitcoin must close at $101K before Nov 6 or just $84k by Nov 22.",
     "url": "https://x.com/BitcoinMagazine/status/2112304464967106958"
+  },
+  {
+    "id": "x-1792448536583-0lsmcc",
+    "source": "x",
+    "ts": "2026-10-19T22:22:16.583Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T22:20:11.000Z",
+    "reason": "Sei network surpasses a significant all-time volume milestone.",
+    "text": "🔥 BIG: The Sei network reaches $15.9B in all-time decentralized exchange volume.",
+    "url": "https://x.com/Cointelegraph/status/2112307853314691136",
+    "images": [
+      "https://pbs.twimg.com/media/HVBszGeXcAAtQwh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792448542666-zqnlmh",
+    "source": "x",
+    "ts": "2026-10-19T22:22:22.666Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T22:16:00.000Z",
+    "reason": "Notable token burn and associated value.",
+    "text": "Aster has now burned 210M $ASTER tokens.\n\n@Aster_DEX has now bought back and burned a staggering 210,088,876.51 $ASTER tokens, worth around $148M at time of writing. \n\nSome 32.3M $ASTER tokens have been burned under the perps DEX' upgraded tokenomics, which came into effect back",
+    "url": "https://x.com/BSCNews/status/2112306798740861140",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112097428912451584/vid/avc1/1312x720/nRCYfvFxmplAINU1.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112097428912451584/img/og8_ei1CkBT4xxKS.jpg"
+    }
   }
 ]
