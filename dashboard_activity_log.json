@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792137149373-3kjdnd",
-    "source": "x",
-    "ts": "2026-10-16T07:52:29.373Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-16T07:48:09.000Z",
-    "reason": "New use of a token for a privacy-enhanced AI assistant.",
-    "text": "NEAR AI Brings Hardware Verified Privacy to Brave Leo\n\nNEAR (@NEARProtocol) AI $NEAR Cloud now powers private inference for Brave's (@brave) Leo assistant.\n\nPrompts remain encrypted in the browser and are decrypted inside a hardware enclave.\n\nBrave's verifier checks the hardware",
-    "url": "https://x.com/BSCNews/status/2111001232856985970",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2110998084050403328/vid/avc1/1280x720/lYYZs6qCm6pGVCfC.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110998084050403328/img/A0901I5tjWwvBoJX.jpg"
-    }
-  },
-  {
     "id": "x-1792137735138-qrlldf",
     "source": "x",
     "ts": "2026-10-16T08:02:15.138Z",
@@ -7754,5 +7733,26 @@
       "https://pbs.twimg.com/media/HU-w3G6bcAAuLnO.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792400556176-7joxfz",
+    "source": "x",
+    "ts": "2026-10-19T09:02:36.176Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-19T08:52:00.000Z",
+    "reason": "Ecosystem milestone with significant trading volume.",
+    "text": "Injective Ecosystem Posts Billion Dollar RWA Milestone\n\nReal-world asset perpetuals on Injective (@injective) $INJ have surpassed $1.1 billion in year-to-date trading volume.\n\nThe market generated more than $230 million over the past month.\n\nTrading spans equities, foreign",
+    "url": "https://x.com/BSCNews/status/2112104465448964523",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112084352247193600/vid/avc1/1280x720/rHMQY12UbNErtPbN.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112084352247193600/img/3mEck5-Nu5mdzU2l.jpg"
+    }
   }
 ]
