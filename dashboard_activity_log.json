@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1792156449002-znpglk",
-    "source": "x",
-    "ts": "2026-10-16T13:14:09.002Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-16T13:09:00.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "Here's everything you need to know about @Hedera's origins and the story behind the HBAR ecosystem... ⬇️",
-    "url": "https://x.com/BSCNews/status/2111081977973723523"
-  },
-  {
-    "id": "x-1792156454249-wje8k3",
-    "source": "x",
-    "ts": "2026-10-16T13:14:14.249Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 24,
-    "originTimestamp": "2026-10-16T12:49:14.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "JUST IN: Strategy $MSTR just conditionally declared $STRC daily dividends for all 30 days of November, ahead of the shareholder vote results.\n\n$STRC annual dividend rate to be maintained at 12% for November.\n\nLike if you voted YES for daily dividends 🔥",
-    "url": "https://x.com/saylor/status/2111081705033662480"
-  },
-  {
-    "id": "x-1792156937143-hlqvfd",
-    "source": "x",
-    "ts": "2026-10-16T13:22:17.143Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-16T13:10:37.000Z",
-    "reason": "Dividends and rebasing details for a new crypto token.",
-    "text": "Daily dividends are coming to $STRCx.\n\nPending shareholder approval, $STRCx will rebase daily from November, with dividends accruing automatically to your balance.\n\nRate markets are live on @Pendle_fi and @ExponentFinance.",
-    "url": "https://x.com/saylor/status/2111083073584722194",
-    "images": [
-      "https://pbs.twimg.com/media/HUwSEMobUAE6fnN.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792156939040-cwog09",
     "source": "x",
     "ts": "2026-10-16T13:22:19.040Z",
@@ -7762,6 +7718,53 @@
     "ageMin": 5,
     "originTimestamp": "2026-10-19T13:44:09.000Z",
     "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇨🇦 JUST IN: Canada’s inflation rises to 3.1%, below the 3.2% forecast.",
+    "url": "https://x.com/Cointelegraph/status/2112177989727228012"
+  },
+  {
+    "id": "x-1792418252163-1f1sg0",
+    "source": "x",
+    "ts": "2026-10-19T13:57:32.163Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 83,
+    "originTimestamp": "2026-10-19T12:33:50.000Z",
+    "reason": "Tweet is not related to cryptocurrencies or blockchain technology.",
+    "text": "🚨 #BREAKING: Since Lindsay Clancy not being found guilty, 82 mothers in America have murdered 123 of their children.",
+    "url": "https://x.com/amerix/status/2112180756470456482"
+  },
+  {
+    "id": "x-1792418254936-1g66rj",
+    "source": "x",
+    "ts": "2026-10-19T13:57:34.936Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-19T13:53:39.000Z",
+    "reason": "Significant institutional action with a substantial token burn.",
+    "text": "BNB Chain burns nearly $2B worth of tokens in 37th quarterly burn \n\n@BNBCHAIN successfully completed the 37th quarterly token burn on the BNB Smart Chain, destroying 1,646,196 $BNB (worth about $1.197B) from the floating supply. \n\nThis process reduces the asset's total",
+    "url": "https://x.com/BSCNews/status/2112180379197026730",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112179975004590081/vid/avc1/1316x720/jyi5KJWdEP32mSpg.mp4?tag=29",
+      "duration": 30,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112179975004590081/img/muQtWrlTbfWSgKBo.jpg"
+    }
+  },
+  {
+    "id": "x-1792418256674-k5rll2",
+    "source": "x",
+    "ts": "2026-10-19T13:57:36.674Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 13,
+    "originTimestamp": "2026-10-19T13:44:09.000Z",
+    "reason": "No notable move in ETH price.",
     "text": "🇨🇦 JUST IN: Canada’s inflation rises to 3.1%, below the 3.2% forecast.",
     "url": "https://x.com/Cointelegraph/status/2112177989727228012"
   }
