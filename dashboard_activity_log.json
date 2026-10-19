@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792151536671-xkjd2u",
-    "source": "x",
-    "ts": "2026-10-16T11:52:16.671Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-16T11:46:33.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "JUST IN: 🇮🇩Indonesia’s stock market wiped out $60,000,000,000 today, its worst day in 28 years.\n\nThe Jakarta Composite closed down 11.57% at 5,185, a level not seen in almost 26 years.\n\nThe last bigger daily drop came during the 1998 Asian financial crisis, when a collapsing",
-    "url": "https://x.com/coinbureau/status/2111061228433134056"
-  },
-  {
-    "id": "x-1792152206439-5w85g8",
-    "source": "x",
-    "ts": "2026-10-16T12:03:26.439Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T12:02:04.000Z",
-    "reason": "No notable move indicated, price is within recent range.",
-    "text": "Addressing the bear case.",
-    "url": "https://x.com/saylor/status/2111065132877189537"
-  },
-  {
     "id": "x-1792152209298-b6lzlz",
     "source": "x",
     "ts": "2026-10-16T12:03:29.298Z",
@@ -7755,6 +7729,40 @@
       "duration": 31,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112154920325431296/img/YvrllyvE_MxiucxB.jpg"
+    }
+  },
+  {
+    "id": "x-1792413152252-gahbya",
+    "source": "x",
+    "ts": "2026-10-19T12:32:32.252Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-19T12:28:33.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Dogecoin (@dogecoin) and Dogwifhat (@dogwifcoin) share a Shiba Inu mascot, but their stories are very different.\n\nFrom blockchain design to tokenomics, here’s how $DOGE and $WIF compare. 👇",
+    "url": "https://x.com/BSCNews/status/2112158964712710486"
+  },
+  {
+    "id": "x-1792413157459-c9e8mz",
+    "source": "x",
+    "ts": "2026-10-19T12:32:37.459Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T12:27:12.000Z",
+    "reason": "Notable institutional partnership and corporate move in the crypto space.",
+    "text": "Metaplanet's US Bitcoin Treasury platform gets huge boost\n\nShareholders at Super League Enterprise vote on the definitive strategic partnership with Japan-based Metaplanet, completing the corporate move to establish the \"Superplanet\" brand under Nasdaq listed $SLE.\n\nThe move,",
+    "url": "https://x.com/BSCNews/status/2112158624088752541",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112157954531065856/vid/avc1/1316x720/eaQ2d9nBkRJnQHZA.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112157954531065856/img/ekhW4sfamjNFlCj-.jpg"
     }
   }
 ]
