@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792143734638-d78c49",
-    "source": "x",
-    "ts": "2026-10-16T09:42:14.638Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-16T09:32:49.000Z",
-    "reason": "Noise: generic statement without content.",
-    "text": "Where your email finds me.",
-    "url": "https://x.com/coinbase/status/2111027576726757726"
-  },
-  {
     "id": "x-1792145012828-fjc4e4",
     "source": "x",
     "ts": "2026-10-16T10:03:32.828Z",
@@ -7775,5 +7762,26 @@
     "reason": "No notable move or specific event is described.",
     "text": "Arbitrum and Pepe spearhead crypto surge... \n\nThe top-performing asset in the 24-hour trading period is @Arbitrum, which gained 9.2%.\n\nThe Layer-2 token leads other digital assets in returns as the crypto market cap rises slightly to $2.84T on breakout moves, despite an",
     "url": "https://x.com/BSCNews/status/2112134680736661851"
+  },
+  {
+    "id": "x-1792409537333-aivq3s",
+    "source": "x",
+    "ts": "2026-10-19T11:32:17.333Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-19T11:29:09.000Z",
+    "reason": "New level of decentralization and active validators reported.",
+    "text": "Algorand hits a new level of decentralization!\n\n@Algorand reports 1,582 active consensus validators on October 17, setting a new quarterly high for the number of nodes in the network.\n\nAccording to @chainspect_app data tracking, infrastructure distribution is growing within the",
+    "url": "https://x.com/BSCNews/status/2112144013310452030",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112143975956045824/vid/avc1/1316x720/oygGY3Aa9T_GKYVF.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112143975956045824/img/9UpzU193D6TQjJQz.jpg"
+    }
   }
 ]
