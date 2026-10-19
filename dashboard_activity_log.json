@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792174332220-dlil9e",
-    "source": "x",
-    "ts": "2026-10-16T18:12:12.220Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T18:10:17.000Z",
-    "reason": "Notable institutional move affecting financial services regulation.",
-    "text": "🚨 LATEST: Citi has become the latest US bank to restrict AI agents from accessing accounts, the Financial Times reports.",
-    "url": "https://x.com/Cointelegraph/status/2111157799501664330",
-    "images": [
-      "https://pbs.twimg.com/media/HUxW001XoAAGMg5.jpg",
-      "https://pbs.twimg.com/media/HUxW1AnXUAA6HAc.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792174942835-tq2xuc",
-    "source": "x",
-    "ts": "2026-10-16T18:22:22.835Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 63,
-    "originTimestamp": "2026-10-16T17:19:11.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "I’ve never seen a product unveil come close to what Tesla pulled off with the new Roadster last night.\n\nElon was right. \n\nIt was the greatest product unveil we’ve ever witnessed.\n\nNine years of anticipation, and somehow Tesla delivered something even crazier than we imagined.\n\nI",
-    "url": "https://x.com/elonmusk/status/2111160525329740072"
-  },
-  {
     "id": "x-1792174948503-kcqqz1",
     "source": "x",
     "ts": "2026-10-16T18:22:28.503Z",
@@ -7841,5 +7809,42 @@
     "reason": "Generic, vague opinion with no factual claim.",
     "text": "Fantastic!\n\nI have loyal white females who follow me.\n\nMost of them are expats working for the UN and International Companies.\n\nOne brought me sea salt from Europe. Another bought an office desk for my clinic.\n\nIt is only these mujahedeen of Nairobi who insult me.",
     "url": "https://x.com/amerix/status/2112251929309159929"
+  },
+  {
+    "id": "x-1792436034687-xslgry",
+    "source": "x",
+    "ts": "2026-10-19T18:53:54.687Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T18:47:15.000Z",
+    "reason": "Specific institutional focus on a controversial topic in the crypto space.",
+    "text": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
+    "url": "https://x.com/DecryptMedia/status/2112254265393631450",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792436038152-4q08xo",
+    "source": "x",
+    "ts": "2026-10-19T18:53:58.152Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-19T18:45:00.000Z",
+    "reason": "Notable institutional integration of a public blockchain by a private bank.",
+    "text": "Polygon lets private bank blockchains connect to the wider crypto market\n\n@0xPolygon has launched CDK Besu, a kit for banks to build private chains on Besu, open-source blockchain software that Polygon says already powers platforms at DTCC, Citi and Swift. Banks pick who runs the",
+    "url": "https://x.com/BSCNews/status/2112253699200352475",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112240808820654080/vid/avc1/1220x720/YmLy3qwXDYBcIAuJ.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112240808820654080/img/g-tpAdnnI6DnGGW4.jpg"
+    }
   }
 ]
