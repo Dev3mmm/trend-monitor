@@ -1124,5 +1124,19 @@
     "fetchedAt": "2026-10-19T23:02:37.216Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-cf034eabc31db408",
+    "title": "Two Ways to Read Chainlink Prices on Stellar: Data Feeds and Data Streams",
+    "url": "https://stellar.org/blog/developers/ways-to-read-chainlink-prices-on-stellar-data-feeds-and-data-streams",
+    "description": "Chainlink Data Feeds and Data Streams are live on Stellar mainnet. How the push and pull models work, and how to verify the deployments yourself without spending a stroop.",
+    "publishedAt": "2026-10-19T20:35:29.000Z",
+    "source": "Stellar",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-19T23:23:15.109Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
