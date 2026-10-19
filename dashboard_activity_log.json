@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1792161172648-qicnvu",
-    "source": "x",
-    "ts": "2026-10-16T14:32:52.648Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T14:31:16.000Z",
-    "reason": "Solana event cancellation due to exceeding attendance cap.",
-    "text": "🇨🇳 UPDATE: Solana postponed its Shanghai Accelerate event after registrations quadrupled and exceeded the attendance cap.",
-    "url": "https://x.com/Cointelegraph/status/2111102681620058421",
-    "images": [
-      "https://pbs.twimg.com/media/HUwksNyXcAA1Zrz.jpg",
-      "https://pbs.twimg.com/media/HUwksuTWgAAvhfu.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792161176420-m8kez0",
-    "source": "x",
-    "ts": "2026-10-16T14:32:56.420Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T14:31:00.000Z",
-    "reason": "Starknet proposal for becoming its own sovereign L1 chain sees overwhelming support.",
-    "text": "Starknet’s L1 proposal sees overwhelming support.\n\nYesterday, @Starkent $STRK opened a non-binding poll on whether it should pivot to becoming its own sovereign L1 chain.\n\nSo far, the support seems overwhelming.\n\nThough there are few comments on the poll itself, these comments",
-    "url": "https://x.com/BSCNews/status/2111102614364709232",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111025407143100416/vid/avc1/1312x720/BrcKlbFnrdmJoyzE.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111025407143100416/img/SM0SVd4EzsJoC7kB.jpg"
-    }
-  },
-  {
-    "id": "x-1792161180074-c6a6qo",
-    "source": "x",
-    "ts": "2026-10-16T14:33:00.075Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T14:30:01.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨ALERT: Nasdaq 100 Index DROPS over 1%, now DOWN 6% from its high just 10 days ago, as SEMICONDUCTOR and TECH stocks face heavy SELL OFF.\n\nYesterday, the Nasdaq 100, Semiconductor Index and S&amp;P 500 Software Index all fell at least 2%, only the second such day in 2026.\n\nThe",
-    "url": "https://x.com/coinbureau/status/2111102368519704673"
-  },
-  {
     "id": "x-1792162970612-os1v8j",
     "source": "x",
     "ts": "2026-10-16T15:02:50.612Z",
@@ -7796,5 +7743,55 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112195142480269312/img/KcWs2VvMM_ytAWv7.jpg"
     }
+  },
+  {
+    "id": "x-1792422729369-obqy0r",
+    "source": "x",
+    "ts": "2026-10-19T15:12:09.369Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T15:09:49.000Z",
+    "reason": "Noteworthy institutional adoption of crypto.",
+    "text": "Top European Bank just launched spot trading of XRP and more... \n\nThe @Sparkasse bank consortium, Europe’s largest municipal savings institution, now offers direct crypto spot trading to its 42 million active depositors.\n\nThis integration lets consumers buy, sell, and store $BTC,",
+    "url": "https://x.com/BSCNews/status/2112199548433060139",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112199251434360832/vid/avc1/1316x720/zBRQTjrE1P1aDuy-.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112199251434360832/img/1jzEvXpZnhyXIEaZ.jpg"
+    }
+  },
+  {
+    "id": "x-1792422734129-oadop6",
+    "source": "x",
+    "ts": "2026-10-19T15:12:14.129Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T15:05:11.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Crypto has a two-year “grace period.” Can it deliver?\n\n@justinsuntron says Trump has given the industry a chance to prove its value.\n\nWatch our interview:",
+    "url": "https://x.com/Cointelegraph/status/2112198382018023450",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792422737830-lca0j6",
+    "source": "x",
+    "ts": "2026-10-19T15:12:17.830Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-19T15:02:42.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Meet AI Pro, built for traders.\n\nJust type what you want to do, and AI Pro builds an automated workflow for you.\n\nGet up to speed →",
+    "url": "https://x.com/binance/status/2112197757943361975"
   }
 ]
