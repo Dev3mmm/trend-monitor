@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1792147332201-k4wal9",
-    "source": "x",
-    "ts": "2026-10-16T10:42:12.201Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T10:40:15.000Z",
-    "reason": "Notable institutional use case for Ethereum.",
-    "text": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-    "url": "https://x.com/DecryptMedia/status/2111044544049328392",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792147335638-iuo5o9",
-    "source": "x",
-    "ts": "2026-10-16T10:42:15.638Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-16T10:34:21.000Z",
-    "reason": "No notable move in price is mentioned.",
-    "text": "\"Bro check the charts, we're ripping\"\n\nMe outside in my Tesla:",
-    "url": "https://x.com/coinbase/status/2111043058766860460"
-  },
-  {
-    "id": "x-1792147339923-4kn3oz",
-    "source": "x",
-    "ts": "2026-10-16T10:42:19.923Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-16T10:32:41.000Z",
-    "reason": "Tweet appears to be in a language other than English.",
-    "text": "Eeh!\n\nHaitakuwa rahisi vile tulikuwa tunafikiria.\n\nBut, wacha tujaribu tu.",
-    "url": "https://x.com/amerix/status/2111042642456846767"
-  },
-  {
-    "id": "x-1792147947976-daxgph",
-    "source": "x",
-    "ts": "2026-10-16T10:52:27.976Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T10:51:00.000Z",
-    "reason": "New use of a token by a notable mining pool for a stablecoin.",
-    "text": "F2 launches official Quantus Network mining pool.\n\nProof of work chain infrastructure platform, @f2pool, has launched its official mining pool for the @QuantusNetwork PoW L1.\n\nThe pool for the post-quantum L1 will allow users to mine its $QTC token.\n\nIt has already been a big",
-    "url": "https://x.com/BSCNews/status/2111047249304183062",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111024541388402689/vid/avc1/1312x720/p83mM7VdQXw-jC-F.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111024541388402689/img/CjUkIPvJU5taXA4z.jpg"
-    }
-  },
-  {
     "id": "x-1792147954181-ajc2gt",
     "source": "x",
     "ts": "2026-10-16T10:52:34.181Z",
@@ -7773,5 +7710,62 @@
     "url": "https://x.com/DecryptMedia/status/2112147248960159884",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792411361538-0nssqh",
+    "source": "x",
+    "ts": "2026-10-19T12:02:41.538Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-19T12:01:52.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "You can't be online 24/7.\nYour workflows can.\n\nDescribe the idea. AI Pro plans it, tests it, and waits for your approval before anything runs.\n\n👉",
+    "url": "https://x.com/binance/status/2112152247266132387"
+  },
+  {
+    "id": "x-1792411367257-o8sorx",
+    "source": "x",
+    "ts": "2026-10-19T12:02:47.257Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T12:01:26.000Z",
+    "reason": "Michael Saylor, the CEO of MicroStrategy, has made a significant purchase of Bitcoin worth $22 million.",
+    "text": "BREAKING: 🇺🇸 Michael Saylor's Strategy buys 267 BTC worth $22 million 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112152141011833224",
+    "images": [
+      "https://pbs.twimg.com/media/HU_fLbzXoAA-UZW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792411371326-x8ojvl",
+    "source": "x",
+    "ts": "2026-10-19T12:02:51.326Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T12:00:02.000Z",
+    "reason": "No notable move in price or significant event described.",
+    "text": "You can't be online 24/7.\nYour workflows can.\n\nDescribe the idea. AI Pro plans it, tests it, and waits for your approval before anything runs.\n\n👉",
+    "url": "https://x.com/binance/status/2112151784781418736"
+  },
+  {
+    "id": "x-1792411376537-6sgofc",
+    "source": "x",
+    "ts": "2026-10-19T12:02:56.537Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 32,
+    "originTimestamp": "2026-10-19T11:30:00.000Z",
+    "reason": "No notable crypto-related news or move mentioned.",
+    "text": "\"We've got two equities: an income equity and a growth equity. I don't think we need anything else on that front.\"\n\nSmarter Web CEO @asjwebley on the Smarter Web Livestream discussing Smarter Web's simple and scalable capital structure with @MillerC0le.\n\n LSE: #SWC #MORE | OTCQB:",
+    "url": "https://x.com/saylor/status/2112151149516112271"
   }
 ]
