@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792116151058-9hmblw",
-    "source": "x",
-    "ts": "2026-10-16T02:02:31.058Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 38,
-    "originTimestamp": "2026-10-16T01:24:12.000Z",
-    "reason": "No notable crypto-related event or movement described.",
-    "text": "That was the most insane product demo I’ve ever seen. Well done Tesla!",
-    "url": "https://x.com/elonmusk/status/2110913490181304456"
-  },
-  {
     "id": "x-1792116154391-xux45s",
     "source": "x",
     "ts": "2026-10-16T02:02:34.391Z",
@@ -7715,5 +7702,24 @@
     "reason": "No notable move, no newsworthy information provided.",
     "text": "Jeff Yan on How Hyperliquid Can Legally Enter the U.S. Market\n\nOn October 15, 2026, Hyperliquid Labs co-founder and CEO Jeff Yan @chameleon_jeff said on Bloomberg Podcasts @podcasts that Americans using a VPN to access the service violate its terms of service. He argued that",
     "url": "https://x.com/WuBlockchain/status/2111970585916080361"
+  },
+  {
+    "id": "x-1792369911465-beuhv2",
+    "source": "x",
+    "ts": "2026-10-19T00:31:51.465Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T00:30:15.000Z",
+    "reason": "Notable institutional use of crypto for public benefit.",
+    "text": "🚨 BIG: Anthropic is putting 5% of its shares into a new Public Benefit Fund, with up to roughly 20% eventually committed to “the public good.”",
+    "url": "https://x.com/Cointelegraph/status/2111978195071168655",
+    "images": [
+      "https://pbs.twimg.com/media/HU9A-LNXcAA4PpI.jpg",
+      "https://pbs.twimg.com/media/HU9A-Z9W0AA8UuK.jpg"
+    ],
+    "video": null
   }
 ]
