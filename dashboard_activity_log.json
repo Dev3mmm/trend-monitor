@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1792158168852-puvbea",
-    "source": "x",
-    "ts": "2026-10-16T13:42:48.852Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T13:36:31.000Z",
-    "reason": "No notable move; price is within recent range.",
-    "text": "Chris Wamalwa amejikaza sana.\n\nAtaweza?",
-    "url": "https://x.com/amerix/status/2111088902736154824"
-  },
-  {
-    "id": "x-1792158174479-om5jw4",
-    "source": "x",
-    "ts": "2026-10-16T13:42:54.479Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-16T13:34:12.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "JUST IN: @Crynuxio is building a decentralized network designed to connect AI developers with computing resources.\n\nbase:0x9557dd9e241bc9636732623b672b4090af519396 supports the ecosystem through compute payments, node staking, delegation and governance, giving the token multiple",
-    "url": "https://x.com/BSCNews/status/2111088319308140660"
-  },
-  {
-    "id": "x-1792158179393-ideuq5",
-    "source": "x",
-    "ts": "2026-10-16T13:42:59.393Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-16T13:32:08.000Z",
-    "reason": "Notable institution expanding crypto trading to millions of clients.",
-    "text": "🔥 JUST IN: $13.4T Charles Schwab now offers direct $BTC and $ETH trading across its  its 40.1M retail clients.",
-    "url": "https://x.com/Cointelegraph/status/2111087799407435883",
-    "images": [
-      "https://pbs.twimg.com/media/HUwXI1-XcAEZwZZ.jpg",
-      "https://pbs.twimg.com/media/HUwXKNhWwAAsarQ.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792158741137-b6nmbw",
     "source": "x",
     "ts": "2026-10-16T13:52:21.137Z",
@@ -7769,6 +7724,67 @@
       "duration": 30,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112179975004590081/img/muQtWrlTbfWSgKBo.jpg"
+    }
+  },
+  {
+    "id": "x-1792419738347-eq7z77",
+    "source": "x",
+    "ts": "2026-10-19T14:22:18.347Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-19T14:21:36.000Z",
+    "reason": "Notable institutional dominance and market share shift.",
+    "text": "Tron Leads the World's Stablecoin Settlement Rail\n\n@Trondao has captured 73% of the world’s stablecoin transaction volume through the end of Q3 2026, creating an impenetrable operational moat against any competing Layer-1 or Layer-2 settlement rail.\n\nEthereum ranks second with",
+    "url": "https://x.com/BSCNews/status/2112187415146139898",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112187202046132224/vid/avc1/1316x720/CqnBO5cZyfvwGrA3.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112187202046132224/img/c7E6lroDhgUZoLCh.jpg"
+    }
+  },
+  {
+    "id": "x-1792419744000-sfcljz",
+    "source": "x",
+    "ts": "2026-10-19T14:22:24.000Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-19T14:15:00.000Z",
+    "reason": "Notable and significant price burn of $BNB, worth over $1 billion.",
+    "text": "🔥TODAY: BNB Chain burns 1.64 MILLION $BNB worth over $1.197 BILLION in its 37th quarterly token burn.\n\nBinance founder CZ reacted, asking on X: “Which other blockchain burns $1.1 billion worth of tokens each quarter?”",
+    "url": "https://x.com/coinbureau/status/2112185752041693323",
+    "images": [
+      "https://pbs.twimg.com/media/HU_zJBHbIAA6rtd.png",
+      "https://pbs.twimg.com/media/HU_zc7sboAAemLr.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792419748071-b37l4e",
+    "source": "x",
+    "ts": "2026-10-19T14:22:28.071Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-19T14:12:40.000Z",
+    "reason": "Specific institutional adoption of Bitcoin by a German savings bank.",
+    "text": "JUST IN: 🇩🇪 German savings bank Sparkasse to allow its 40 million customers to buy Bitcoin 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112185166210707843",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112185127434416128/vid/avc1/1280x720/eVBJ0eiHOHwXtj9k.mp4?tag=29",
+      "duration": 16,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HU_9R9HW0AArlIB.jpg"
     }
   }
 ]
