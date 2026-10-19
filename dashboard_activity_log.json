@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792120357433-4jbml6",
-    "source": "x",
-    "ts": "2026-10-16T03:12:37.433Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 31,
-    "originTimestamp": "2026-10-16T02:41:07.000Z",
-    "reason": "No notable crypto-related event or move is described.",
-    "text": "That demo involved a non trivial chance of embarrassing failure! 🫡\n\nI’m only going for the baseline model. At this point in my life, rocket bunny hops are out of my comfort zone.",
-    "url": "https://x.com/elonmusk/status/2110931414212346190"
-  },
-  {
-    "id": "x-1792120957925-jihfia",
-    "source": "x",
-    "ts": "2026-10-16T03:22:37.925Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T03:20:44.000Z",
-    "reason": "Significant growth in Solana RWA market cap.",
-    "text": "Solana RWA Market Cap Grows From $700 Million to $4.3 Billion in One Year\n\nAccording to a Castle Labs report on the Solana ecosystem, on-chain RWA market capitalization on Solana grew from about $700 million to $4.3 billion over the past year. Over the same period, Ethereum RWA",
-    "url": "https://x.com/WuBlockchain/status/2110933936197316733",
-    "images": [
-      "https://pbs.twimg.com/media/HUuLOVLbUAA2hmb.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792120961808-f8a3ly",
     "source": "x",
     "ts": "2026-10-16T03:22:41.808Z",
@@ -7754,5 +7723,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112028175022866432/img/2i8VY4F08tKZf8H8.jpg"
     }
+  },
+  {
+    "id": "x-1792382519230-asdlbo",
+    "source": "x",
+    "ts": "2026-10-19T04:01:59.230Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T04:00:14.000Z",
+    "reason": "Notable institutional adoption of tokenized funds in Wall Street infrastructure.",
+    "text": "🔥 HUGE: BlackRock sees tokenized funds moving deeper into Wall Street’s core infrastructure, with uses as collateral and around-the-clock transfers, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2112031041200222659",
+    "images": [
+      "https://pbs.twimg.com/media/HU9xCUOXsAAjr8B.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792382524710-wc07es",
+    "source": "x",
+    "ts": "2026-10-19T04:02:04.710Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T04:00:00.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇺🇸NOW:  U.S. stock futures reportedly opened HIGHER despite weekend warnings of a “Black Monday” crash.\n\nAt open:\n\n• S&amp;P 500 futures: +0.2%\n• Nasdaq 100 futures: +0.2%\n• Dow futures: +0.1%\n\nStocks pointed higher as energy prices eased, offering an early reprieve from selloff",
+    "url": "https://x.com/coinbureau/status/2112030982815842656"
   }
 ]
