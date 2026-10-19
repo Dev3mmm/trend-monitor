@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791052266283-isyzxb",
     "x-1791052993496-rmxww4",
     "x-1791052999407-2zqom2",
     "x-1791053004819-4phe4j",
@@ -1999,7 +1998,8 @@
     "x-1792407758675-ybqhb6",
     "x-1792409537333-aivq3s",
     "x-1792410144768-5bbumk",
-    "x-1792410746311-ht0ry0"
+    "x-1792410746311-ht0ry0",
+    "x-1792411367257-o8sorx"
   ],
   "queue": [],
   "posted": [
@@ -2449,7 +2449,17 @@
       "at": 1792408320781,
       "status": "failed",
       "error": "ed to S3, polling status...\n  Processing... (1/10)\n  Processing... (2/10)\n  Processing... (3/10)\n  Processing... (4/10)\n  Processing... (5/10)\n  Processing... (6/10)\n  Processing... (7/10)\n  Processing... (8/10)\n  Processing... (9/10)\n  Processing... (10/10)\n\n\nFailed: Poll timed out after 10 retries"
+    },
+    {
+      "text": "BREAKING: 🇺🇸 Michael Saylor's Strategy buys 267 BTC worth $22 million 🚀",
+      "final": "BREAKING: 🇺🇸 Michael Saylor's Strategy buys 267 BTC worth $22 million 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HU_fLbzXoAA-UZW.jpg"
+      ],
+      "at": 1792411377341,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/378962682097384?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1792408320781
+  "lastPostAt": 1792411377341
 }
