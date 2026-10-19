@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792177962219-jhswrg",
-    "source": "x",
-    "ts": "2026-10-16T19:12:42.219Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-16T18:57:52.000Z",
-    "reason": "No notable move in ETH price, price is within its recent range.",
-    "text": "SpaceXSI is putting serious effort into Grok Bot for businesses, and the potential economic impact is really enormous\n\nSpaceXSI's internal Haggle Bot identified over $100,000 in savings in its first week by analyzing vendor contracts, unused software subscriptions and recurring",
-    "url": "https://x.com/elonmusk/status/2111171700209619195"
-  },
-  {
-    "id": "x-1792177964739-2ifgdf",
-    "source": "x",
-    "ts": "2026-10-16T19:12:44.739Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-16T19:02:08.000Z",
-    "reason": "CZ clarifies the removal of Solana's Shanghai ad, providing context.",
-    "text": "🚨 TODAY: CZ says his X post did not trigger the removal of Solana’s Shanghai ad, saying it was taken down within 10 minutes, long before he saw it.",
-    "url": "https://x.com/Cointelegraph/status/2111170849025806823",
-    "images": [
-      "https://pbs.twimg.com/media/HUxistiWkAAaBd8.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792178600685-2uyf20",
     "source": "x",
     "ts": "2026-10-16T19:23:20.685Z",
@@ -7852,5 +7821,45 @@
     "reason": "No direct relation to crypto or blockchain technology.",
     "text": "🇺🇸🇫🇷 JUST NOW: Trump claims he WARNED France years ago to close its BORDERS.\n\nTrump says he told Macron to close the borders or \"you're going to ruin your country.\"\n\n\"What's happening in France has to do with immigration.\"",
     "url": "https://x.com/coinbureau/status/2112273990974882072"
+  },
+  {
+    "id": "x-1792441408720-ygwid2",
+    "source": "x",
+    "ts": "2026-10-19T20:23:28.720Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-19T20:20:13.000Z",
+    "reason": "Specific institutional statement linking Tether to stablecoin volume changes.",
+    "text": "🇮🇷 JUST IN: Paolo Ardoino says Tether’s actions led to a 94% decline in Iran-linked stablecoin volumes.",
+    "url": "https://x.com/Cointelegraph/status/2112277660730634485",
+    "images": [
+      "https://pbs.twimg.com/media/HVBRVU7WoAAl2OO.jpg",
+      "https://pbs.twimg.com/media/HVBRVlTWYAAHPQ3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792441411204-n4z0hu",
+    "source": "x",
+    "ts": "2026-10-19T20:23:31.204Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-19T20:14:00.000Z",
+    "reason": "Not applicable, tweet contains no significant new information.",
+    "text": "NEAR is keeping a bigger cut of its swap fees\n\n@near_intents handled about $10.4 billion in Q3, bringing lifetime volume to over $32 billion, per @NEARProtocol's Q3 report. Lifetime fees topped $52 million, and more than $8 million of that went toward buying back $NEAR.\n\nThe",
+    "url": "https://x.com/BSCNews/status/2112276096288694629",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112258555873038336/vid/avc1/1220x720/2tW18gk5ySkBPSu2.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112258555873038336/img/CjrqJmEWNJJUuhwd.jpg"
+    }
   }
 ]
