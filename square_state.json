@@ -2001,17 +2001,7 @@
     "x-1792407752988-74fbxt",
     "x-1792407758675-ybqhb6"
   ],
-  "queue": [
-    {
-      "text": "🔥 TODAY: BNB Chain completes its 37th quarterly burn, removing 1.65M $BNB worth approximately $1.2B from circulation.",
-      "url": "https://x.com/Cointelegraph/status/2112136822767669594",
-      "images": [
-        "https://pbs.twimg.com/media/HU_RPzQXkAEwJVh.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1792407764295
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨Has the “Bankpocalypse” begun?\n\nAmerica’s biggest bank stocks are taking a beating, with reported declines from their highs ranging from 11% to 25%.\n\n• JPMorgan: -11%\n• Bank of America: -19%\n• Citigroup: -15%\n• Wells Fargo: -18.5%\n• Goldman Sachs: -24%\n• Morgan Stanley:",
@@ -2449,7 +2439,17 @@
       "at": 1792406554366,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/378942981986515?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 TODAY: BNB Chain completes its 37th quarterly burn, removing 1.65M $BNB worth approximately $1.2B from circulation.",
+      "final": "🔥 TODAY: BNB Chain completes its 37th quarterly burn, removing 1.65M $BNB worth approximately $1.2B from circulation.\n\n#BNB $BNB",
+      "images": [
+        "https://pbs.twimg.com/media/HU_RPzQXkAEwJVh.png"
+      ],
+      "at": 1792408320781,
+      "status": "failed",
+      "error": "ed to S3, polling status...\n  Processing... (1/10)\n  Processing... (2/10)\n  Processing... (3/10)\n  Processing... (4/10)\n  Processing... (5/10)\n  Processing... (6/10)\n  Processing... (7/10)\n  Processing... (8/10)\n  Processing... (9/10)\n  Processing... (10/10)\n\n\nFailed: Poll timed out after 10 retries"
     }
   ],
-  "lastPostAt": 1792406554366
+  "lastPostAt": 1792408320781
 }
