@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792174957280-dcj8sp",
-    "source": "x",
-    "ts": "2026-10-16T18:22:37.280Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T18:19:00.000Z",
-    "reason": "Notable regulatory and institutional adoption of a cryptocurrency.",
-    "text": "Sei Network lands regulated perps in the US\n\nA CFTC-regulated exchange has certified $SEI perpetual futures, @SeiNetwork announced today. The contracts settle in US dollars, trade around the clock, and never expire, putting SEI in the same group as BTC, ETH, SOL, and XRP.\n\nThree",
-    "url": "https://x.com/BSCNews/status/2111159993106039291",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111154224146878464/vid/avc1/1220x720/td6ucowWDw7-jhdd.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111154224146878464/img/WHrBAxhrziBwr447.jpg"
-    }
-  },
-  {
-    "id": "x-1792174961020-1it7t6",
-    "source": "x",
-    "ts": "2026-10-16T18:22:41.020Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-16T18:17:15.000Z",
-    "reason": "Not enough context provided to judge the significance of the tweet.",
-    "text": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-    "url": "https://x.com/DecryptMedia/status/2111159551927959779",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792175547804-8yiyl2",
     "source": "x",
     "ts": "2026-10-16T18:32:27.804Z",
@@ -7849,5 +7812,42 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "what did you get done with grok @bot last week?",
     "url": "https://x.com/elonmusk/status/2112259494399107099"
+  },
+  {
+    "id": "x-1792437769259-fhs5bn",
+    "source": "x",
+    "ts": "2026-10-19T19:22:49.259Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T19:17:15.000Z",
+    "reason": "Specific bank adoption of stablecoin payments.",
+    "text": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+    "url": "https://x.com/DecryptMedia/status/2112261814796837038",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792437772899-nwl8ar",
+    "source": "x",
+    "ts": "2026-10-19T19:22:52.899Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T19:16:00.000Z",
+    "reason": "Noteworthy regulatory statement about crypto harmonization efforts.",
+    "text": "Europe has no US crypto law to line up with, says Hedera’s policy chief\n\nHedera (@hedera) chief policy officer Nilmini Rubin (@nilminirubin) said a European government leader told her the EU had hoped to work this year to get the EU and US to recognize each other’s crypto rules.",
+    "url": "https://x.com/BSCNews/status/2112261500307972274",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112248669336440832/vid/avc1/1220x720/uZVWqrLVk53aaXZ2.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112248669336440832/img/v1qe_44Tagg8jWX_.jpg"
+    }
   }
 ]
