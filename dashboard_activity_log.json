@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792164785379-hnu36g",
-    "source": "x",
-    "ts": "2026-10-16T15:33:05.379Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T15:26:57.000Z",
-    "reason": "Memes are treated as noise.",
-    "text": "I don't sell shoes.\n\nIf you are conned, then you are either greedy or ignorant, and you are not my genuine follower.\n\nHow come you know where to rightfully complain when you have been conned?",
-    "url": "https://x.com/amerix/status/2111116693372117194"
-  },
-  {
-    "id": "x-1792164789695-sxes4b",
-    "source": "x",
-    "ts": "2026-10-16T15:33:09.695Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-16T15:25:01.000Z",
-    "reason": "Expands USDC issuance into emerging markets, a notable institutional move.",
-    "text": "🚨JUST IN: Circle plans to EXPAND into 50 emerging markets, backed by its $400M Tazapay acquisition.  \n\nNow, the USDC issuer is targeting Southeast Asia, Latin America and the Middle East as demand for digital-dollar payments grows.\n\nCircle also reported $1.4 BILLION in H1 2026",
-    "url": "https://x.com/coinbureau/status/2111116208661836281",
-    "images": [
-      "https://pbs.twimg.com/media/HUwwqN4a0AAWZFh.png",
-      "https://pbs.twimg.com/media/HUww6JzaIAA9mI_.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792164791924-12gb5g",
     "source": "x",
     "ts": "2026-10-16T15:33:11.924Z",
@@ -7785,6 +7753,40 @@
       "duration": 30,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112205144724996096/img/LsdHNhZ4_IHR6rp4.jpg"
+    }
+  },
+  {
+    "id": "x-1792425348491-t8yqot",
+    "source": "x",
+    "ts": "2026-10-19T15:55:48.491Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 33,
+    "originTimestamp": "2026-10-19T15:22:05.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Just tested Binance AI Pro with a challenge:\n\nBuild an automated BNB trading strategy from scratch.\n\nAnd it actually generated a complete trading workflow. 🤯\n\n✅ Market monitoring every 15 minutes\n✅ Breakout detection\n✅ Entry conditions and position sizing\n✅ Automated",
+    "url": "https://x.com/cz_binance/status/2112209785189761346"
+  },
+  {
+    "id": "x-1792425354096-lgmnwn",
+    "source": "x",
+    "ts": "2026-10-19T15:55:54.096Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T15:49:21.000Z",
+    "reason": "Notable institutional transaction fee reduction by Hedera.",
+    "text": "Hedera transaction fees hit lowest levels... \n\n@Hedera hit its lowest fee of the quarter, with an average execution fee of $0.00065 per transaction on October 17.\n\n@chainspect_app data shows that executing 100,000 consecutive transactions in the enterprise space on the Hedera",
+    "url": "https://x.com/BSCNews/status/2112209497980539158",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112209460391251968/vid/avc1/1316x720/vPMK1fNOcmBVW4-h.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112209460391251968/img/J9zWvNYVRSshQ7tP.jpg"
     }
   }
 ]
