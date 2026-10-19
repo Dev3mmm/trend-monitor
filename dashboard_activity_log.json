@@ -1,75 +1,5 @@
 [
   {
-    "id": "x-1792158741137-b6nmbw",
-    "source": "x",
-    "ts": "2026-10-16T13:52:21.137Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-16T13:43:48.000Z",
-    "reason": "Multiple altcoins have seen significant gains, with Celestia leading with a 32% surge.",
-    "text": "🚨BIG MOVERS: At least 15 altcoins SURGE over 10% in the past 24 hours as the crypto market rebounds.\n\nCelestia (TIA) leads with a 32% gain, followed by INJ (+27%), ZRO (+19%), ETHFI (+17%) and ARB (+15%).\n\nAPT, NEAR and WLD also join the broad altcoin rally.",
-    "url": "https://x.com/coinbureau/status/2111090735558857040",
-    "images": [
-      "https://pbs.twimg.com/media/HUwY0A6aMAEuAOR.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792159354275-0i6589",
-    "source": "x",
-    "ts": "2026-10-16T14:02:34.275Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-16T14:00:59.000Z",
-    "reason": "Concrete price movement outside recent range indicates a potential trend change.",
-    "text": "🔥 UPDATE: Bitcoin rallied from $60K to $87K with barely any rise in funding rates, a bullish signal, says CoinGlass.",
-    "url": "https://x.com/Cointelegraph/status/2111095059474964507",
-    "images": [
-      "https://pbs.twimg.com/media/HUwdxKOXYAAQ5Ye.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792159356158-b0f39r",
-    "source": "x",
-    "ts": "2026-10-16T14:02:36.158Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T14:00:36.000Z",
-    "reason": "No notable move in ETH price within its recent range.",
-    "text": "Stock Options just got an upgrade. \n\nSell puts and calls. Explore covered calls and cash-secured puts.\n\nAll finance. On Binance.\n\nRead more 👉",
-    "url": "https://x.com/binance/status/2111094963756769509"
-  },
-  {
-    "id": "x-1792159358474-v9o9y1",
-    "source": "x",
-    "ts": "2026-10-16T14:02:38.474Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-16T13:59:00.000Z",
-    "reason": "Notable institutional launch with AI capabilities.",
-    "text": "Ankr just chose Monad to launch AI payments.\n\n@ankr has undergone a new first, launching x402 AI agent payments and choosing the @Monad L1 for its launch chain.\n\nAI agents can now autonomously access Ankr’s infrastructure tooling and pay for it themselves.\n\nThe $MON ecosystem has",
-    "url": "https://x.com/BSCNews/status/2111094561087103461",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111025291900383232/vid/avc1/1312x720/s4tUprgHOdLUn0mk.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111025291900383232/img/6-y9cc626ilacOPu.jpg"
-    }
-  },
-  {
     "id": "x-1792159930134-fpsdxz",
     "source": "x",
     "ts": "2026-10-16T14:12:10.134Z",
@@ -7786,5 +7716,69 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/media/HU_9R9HW0AArlIB.jpg"
     }
+  },
+  {
+    "id": "x-1792420316177-9mw60p",
+    "source": "x",
+    "ts": "2026-10-19T14:31:56.177Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T14:30:17.000Z",
+    "reason": "Specific on-chain data point about USDC issuance.",
+    "text": "🔥 TODAY: Circle minted 250M $USDC on Solana.",
+    "url": "https://x.com/Cointelegraph/status/2112189598201725277",
+    "images": [
+      "https://pbs.twimg.com/media/HVABPTjWQAAmqZb.png",
+      "https://pbs.twimg.com/media/HVABPp_W0AAdaYE.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792420318705-ajyxc3",
+    "source": "x",
+    "ts": "2026-10-19T14:31:58.705Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-19T14:28:53.000Z",
+    "reason": "Notable chain burn event and comparison to other blockchains.",
+    "text": "🔥TODAY: BNB Chain burns 1.64 MILLION $BNB worth over $1.1 BILLION in its 37th quarterly TOKEN BURN.\n\nBinance founder CZ reacted on X asking: “Which other blockchain burns $1.1 billion worth of tokens each quarter?”",
+    "url": "https://x.com/coinbureau/status/2112189247998579009",
+    "images": [
+      "https://pbs.twimg.com/media/HU_zJBHbIAA6rtd.png",
+      "https://pbs.twimg.com/media/HU_zc7sboAAemLr.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792420320658-huasyg",
+    "source": "x",
+    "ts": "2026-10-19T14:32:00.658Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 32,
+    "originTimestamp": "2026-10-19T14:00:09.000Z",
+    "reason": "Generic meme without factual claim",
+    "text": "𝗕𝗶𝘁𝗰𝗼𝗶𝗻 𝗦𝗲𝗶𝗻𝗳𝗲𝗹𝗱 𝗦𝗵𝗼𝗿𝘁: 𝗕𝗶𝘁𝗰𝗼𝗶𝗻𝗲𝗿𝘀 𝗮𝘁 𝘁𝗵𝗲 𝗮𝗶𝗿𝗽𝗼𝗿𝘁\n\nThis is me when I go abroad for a bitcoin conference, anybody else like this?",
+    "url": "https://x.com/saylor/status/2112189226468970555"
+  },
+  {
+    "id": "x-1792420322216-vb8833",
+    "source": "x",
+    "ts": "2026-10-19T14:32:02.216Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-19T14:28:47.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Natembeya,\n\nTake a walk.\n\nPause.\n\nReflect.",
+    "url": "https://x.com/amerix/status/2112189220760469876"
   }
 ]
