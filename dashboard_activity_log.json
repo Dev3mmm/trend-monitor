@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792117347561-7j0lom",
-    "source": "x",
-    "ts": "2026-10-16T02:22:27.561Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-16T02:01:15.000Z",
-    "reason": "Noise: meme without context or price.",
-    "text": "Roadster!",
-    "url": "https://x.com/elonmusk/status/2110917910571229584"
-  },
-  {
     "id": "x-1792117350609-onguu2",
     "source": "x",
     "ts": "2026-10-16T02:22:30.609Z",
@@ -7729,6 +7716,25 @@
     "url": "https://x.com/WuBlockchain/status/2111991201016721809",
     "images": [
       "https://pbs.twimg.com/media/HU9MzAlagAAcfTd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792374168640-b7q6or",
+    "source": "x",
+    "ts": "2026-10-19T01:42:48.640Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-19T01:41:49.000Z",
+    "reason": "Sam Altman's World integrates high-profile entities into cybersecurity efforts.",
+    "text": "🚨 NOW: Sam Altman’s World brings World ID to Zoom and major financial firms to fight bots, fraud, and deepfakes.",
+    "url": "https://x.com/Cointelegraph/status/2111996209241956594",
+    "images": [
+      "https://pbs.twimg.com/media/HU9RW16W4AAiNOE.jpg",
+      "https://pbs.twimg.com/media/HU9RXBHXkAApb2f.jpg"
     ],
     "video": null
   }
