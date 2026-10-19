@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792123946556-4d9cfs",
-    "source": "x",
-    "ts": "2026-10-16T04:12:26.556Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 99,
-    "originTimestamp": "2026-10-16T02:32:36.000Z",
-    "reason": "No factual claim or specific event.",
-    "text": "Tesla really did it. This isn't AI.",
-    "url": "https://x.com/elonmusk/status/2110945480720965859"
-  },
-  {
-    "id": "x-1792123949771-b3kbbx",
-    "source": "x",
-    "ts": "2026-10-16T04:12:29.771Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 92,
-    "originTimestamp": "2026-10-16T02:40:19.000Z",
-    "reason": "No notable event or price movement described.",
-    "text": "Where we're going, we don't need roads",
-    "url": "https://x.com/elonmusk/status/2110945451746931077"
-  },
-  {
     "id": "x-1792123955398-e6goee",
     "source": "x",
     "ts": "2026-10-16T04:12:35.398Z",
@@ -7776,5 +7750,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112044476642574336/img/HGHELNpp-8CJGgrE.jpg"
     }
+  },
+  {
+    "id": "x-1792389767101-7gcgrt",
+    "source": "x",
+    "ts": "2026-10-19T06:02:47.101Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T06:00:33.000Z",
+    "reason": "Notable regulatory move affecting AI and government intervention in AI models.",
+    "text": "🇺🇸 LATEST: Anthropic is quietly pitching lawmakers its own AI safety bill that would limit when the government can block a model’s release and preempt some state AI laws, per Politico.",
+    "url": "https://x.com/Cointelegraph/status/2112061320790978917",
+    "images": [
+      "https://pbs.twimg.com/media/HU-MkxjXEAAdTHm.jpg",
+      "https://pbs.twimg.com/media/HU-Mk9GW8AAL2qO.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792389769714-56ua4d",
+    "source": "x",
+    "ts": "2026-10-19T06:02:49.714Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-19T06:00:00.000Z",
+    "reason": "Generic, vague statement without a specific claim.",
+    "text": "We raise the standard every day because you deserve nothing less.",
+    "url": "https://x.com/binance/status/2112061180072300916"
   }
 ]
