@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792146248047-leqgqi",
-    "source": "x",
-    "ts": "2026-10-16T10:24:08.047Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T10:17:15.000Z",
-    "reason": "Meme coin-related news with no specific on-chain impact or institutional involvement.",
-    "text": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
-    "url": "https://x.com/DecryptMedia/status/2111038755729510601",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792146719093-j4ojdn",
-    "source": "x",
-    "ts": "2026-10-16T10:31:59.093Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T10:29:20.000Z",
-    "reason": "Tokenized stocks market cap reached a record high",
-    "text": "🔥 UPDATE: Tokenized stocks hit a record $4B market cap, up 831.8% over the past year, per Token Terminal.",
-    "url": "https://x.com/Cointelegraph/status/2111041798584029551",
-    "images": [
-      "https://pbs.twimg.com/media/HUvtUx1aMAAtgGh.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792147332201-k4wal9",
     "source": "x",
     "ts": "2026-10-16T10:42:12.201Z",
@@ -7776,6 +7742,35 @@
     "reason": "Notable regulatory move involving multiple financial institutions.",
     "text": "🔥 UPDATE: BingX, YouHodler and Santander’s Openbank join ESMA’s MiCA register, bringing the total to 375 unique crypto-asset service providers.",
     "url": "https://x.com/Cointelegraph/status/2112145786272129323",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792410741843-jbu0jo",
+    "source": "x",
+    "ts": "2026-10-19T11:52:21.843Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-19T11:48:54.000Z",
+    "reason": "No notable move or event described.",
+    "text": "\"Your money will arrive in 3-5 business days\"",
+    "url": "https://x.com/coinbase/status/2112148983309045942"
+  },
+  {
+    "id": "x-1792410746311-ht0ry0",
+    "source": "x",
+    "ts": "2026-10-19T11:52:26.311Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-19T11:42:00.000Z",
+    "reason": "Sam Altman's initiative involves banks and uses AI, raising concerns about potential fraud risks in the financial sector.",
+    "text": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+    "url": "https://x.com/DecryptMedia/status/2112147248960159884",
     "images": [],
     "video": null
   }
