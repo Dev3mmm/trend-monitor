@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792180374309-r4ktq5",
-    "source": "x",
-    "ts": "2026-10-16T19:52:54.309Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T19:50:16.000Z",
-    "reason": "No concrete price or significant event mentioned.",
-    "text": "🚨 JUST IN: Jim Cramer says oil and a possible major hedge fund blowup are making this “one of the worst days of the year.”",
-    "url": "https://x.com/Cointelegraph/status/2111182959784984958"
-  },
-  {
-    "id": "x-1792180377059-2grm4g",
-    "source": "x",
-    "ts": "2026-10-16T19:52:57.059Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-16T19:47:00.000Z",
-    "reason": "Noteworthy institutional adoption of tokenization services.",
-    "text": "DTCC picks Canton for launch, Stellar and Arc for 2027\n\nDTCC (@The_DTCC) will launch its Tokenization Service this month on the @CantonNetwork and Besu, DTCC's private network. It starts with 25 stocks, ETFs, and US Treasuries, tokenized 1:1 with securities held at DTC and",
-    "url": "https://x.com/BSCNews/status/2111182138167153023",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111172868700532736/vid/avc1/1220x720/Dq6YlQ5kJI3ieS31.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111172868700532736/img/LUygcmEwkuQVN-6V.jpg"
-    }
-  },
-  {
     "id": "x-1792180601027-i6fn9v",
     "source": "x",
     "ts": "2026-10-16T19:56:41.027Z",
@@ -7860,5 +7826,31 @@
     "reason": "No notable move, no newsworthy information provided.",
     "text": "What it costs to lose a vote on the Internet Computer\n\nThe Internet Computer, built by the DFINITY Foundation (@dfinity), is governed by a voting system called the NNS. ICP holders lock tokens in “neurons” to vote on network changes, and a neuron that takes at least 6 months to",
     "url": "https://x.com/BSCNews/status/2112284149709250632"
+  },
+  {
+    "id": "x-1792443728794-qcgjqq",
+    "source": "x",
+    "ts": "2026-10-19T21:02:08.794Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-19T21:01:10.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "More ways to create, more ways to earn. ✍️\n\nBuild your community on Binance Square and earn engagement bonuses, plus up to 50% trading commission from livestreams.\n\nExplore more →",
+    "url": "https://x.com/binance/status/2112287965921546367"
+  },
+  {
+    "id": "x-1792443730641-7kksm6",
+    "source": "x",
+    "ts": "2026-10-19T21:02:10.641Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-19T21:00:20.000Z",
+    "reason": "No notable on-chain data point verified.",
+    "text": "🔥 BIG: Solana recorded 8.92 billion non-vote transactions in Q3 2026, up 104% from Q4 2025.",
+    "url": "https://x.com/Cointelegraph/status/2112287757800210480"
   }
 ]
