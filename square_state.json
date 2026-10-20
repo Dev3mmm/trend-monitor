@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791066173937-rnhdps",
     "x-1791066738109-66y7c6",
     "x-1791066740873-2zr29r",
     "x-1791067396999-cqzekj",
@@ -1999,19 +1998,10 @@
     "x-1792489962084-ejciph",
     "x-1792491132948-tr6jmj",
     "x-1792491140818-ihwabw",
-    "x-1792491713578-qx1809"
+    "x-1792491713578-qx1809",
+    "x-1792493002829-1qdx5q"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Mt. Gox extends its repayment deadline by one year to Oct. 31, 2027.",
-      "url": "https://x.com/Cointelegraph/status/2112454112662966554",
-      "images": [
-        "https://pbs.twimg.com/media/HVDx0TYXUAAHwYJ.png",
-        "https://pbs.twimg.com/media/HVDx0exWcAENSL6.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1792489312518
-    },
     {
       "text": "What happens when you put 100+ curious students in a room with real blockchain use cases?\n\nYou find the next generation of builders 🇱🇰\n\nGreat session at the University of Colombo - thanks for having us! More coming soon.",
       "url": "https://x.com/binance/status/2112453919779487971",
@@ -2580,7 +2570,18 @@
       "at": 1792491144629,
       "status": "failed",
       "error": "Uploading: sq_1792491144629_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261020/89b791174581481c84e6b75a2ddc2ec1.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
+    },
+    {
+      "text": "🚨 UPDATE: Mt. Gox extends its repayment deadline by one year to Oct. 31, 2027.",
+      "final": "🚨 UPDATE: Mt. Gox extends its repayment deadline by one year to Oct. 31, 2027.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVDx0TYXUAAHwYJ.png",
+        "https://pbs.twimg.com/media/HVDx0exWcAENSL6.png"
+      ],
+      "at": 1792493006296,
+      "status": "posted",
+      "link": "https://app.binance.com/uni-qr/cpos/379297035882089?r=XAQZ06ZX&l=en"
     }
   ],
-  "lastPostAt": 1792491144629
+  "lastPostAt": 1792493006296
 }
