@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792215181797-nmbbmz",
-    "source": "x",
-    "ts": "2026-10-17T05:33:01.797Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-17T05:30:16.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "⚡ QUESTION: Did you survive the weekly?",
-    "url": "https://x.com/Cointelegraph/status/2111328924638589340"
-  },
-  {
     "id": "x-1792215184954-5wc7mn",
     "source": "x",
     "ts": "2026-10-17T05:33:04.954Z",
@@ -7856,5 +7843,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112392988051787776/img/9csuqvkQ8hT4uxf5.jpg"
     }
+  },
+  {
+    "id": "x-1792470147906-miccbp",
+    "source": "x",
+    "ts": "2026-10-20T04:22:27.906Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-20T04:21:41.000Z",
+    "reason": "Notable financial institution inflows into Bitcoin ETFs.",
+    "text": "US spot Bitcoin ETFs see $527M inflows; BlackRock IBIT leads with $665M\n\nAccording to SoSoValue, U.S. spot Bitcoin ETFs recorded $527 million in net inflows on October 19, led by BlackRock's IBIT with $665 million. Spot Ethereum ETFs saw $103 million in net outflows, with",
+    "url": "https://x.com/WuBlockchain/status/2112398827131146506",
+    "images": [
+      "https://pbs.twimg.com/media/HVC_hqPbcAAc_ZB.jpg"
+    ],
+    "video": null
   }
 ]
