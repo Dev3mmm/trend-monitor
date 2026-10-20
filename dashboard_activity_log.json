@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1792359164222-hde0b1",
-    "source": "x",
-    "ts": "2026-10-18T21:32:44.222Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T21:30:18.000Z",
-    "reason": "Significant change in Bitcoin custody behavior revealed.",
-    "text": "📊 NEW: Bitcoin holders who bought 6 to 12 months ago have almost stopped sending coins to exchanges, dropping from 40.4% of their transfers in June to just 4.4%, per CryptoQuant.",
-    "url": "https://x.com/Cointelegraph/status/2111932913134502364",
-    "images": [
-      "https://pbs.twimg.com/media/HU8XyhpWMAAI7Qg.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792359168159-kkubqp",
-    "source": "x",
-    "ts": "2026-10-18T21:32:48.159Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-18T21:27:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "So @injective is looking to become a dominant force in the RWA sub-sector - But how to tokenised stocks on $INJ actually work...? ⬇️",
-    "url": "https://x.com/BSCNews/status/2111932079529464205"
-  },
-  {
-    "id": "x-1792359171690-lzl0z0",
-    "source": "x",
-    "ts": "2026-10-18T21:32:51.690Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-18T21:21:41.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "What it’s like trying to rent AI/SI compute",
-    "url": "https://x.com/elonmusk/status/2111930742615802163"
-  },
-  {
     "id": "x-1792361538461-m2rpxn",
     "source": "x",
     "ts": "2026-10-18T22:12:18.461Z",
@@ -8144,5 +8100,49 @@
     "reason": "No notable move or specific event described.",
     "text": "Avalanche runs three blockchains at once, and each one has a different job\n\nAvalanche (@avax) splits its main network, called the Primary Network, across the C-Chain, the P-Chain, and the X-Chain.\n\nThe C-Chain is EVM-compatible, so apps built for Ethereum can run there. Since",
     "url": "https://x.com/BSCNews/status/2112646034287444007"
+  },
+  {
+    "id": "x-1792530161865-28gzs4",
+    "source": "x",
+    "ts": "2026-10-20T21:02:41.865Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T21:01:05.000Z",
+    "reason": "Notable staking percentages for both Ethereum and Solana.",
+    "text": "🚨 BIG: Ethereum staking hit a record 43.8M $ETH, locking up 35.9% of supply, while 69% of SOL was staked by the end of Q3, Bitwise reports.",
+    "url": "https://x.com/Cointelegraph/status/2112650334040392047",
+    "images": [
+      "https://pbs.twimg.com/media/HVGkSAqWMAAwzTG.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792530164253-uxjmxh",
+    "source": "x",
+    "ts": "2026-10-20T21:02:44.253Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-20T21:00:01.000Z",
+    "reason": "No notable move, generic promotion.",
+    "text": "Track top investor portfolios and move when they move, all in one place.\n\nCheck it out →",
+    "url": "https://x.com/binance/status/2112650065831493945"
+  },
+  {
+    "id": "x-1792530166237-vf7apx",
+    "source": "x",
+    "ts": "2026-10-20T21:02:46.237Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-20T20:54:47.000Z",
+    "reason": "No concrete information provided.",
+    "text": "Today's news: Bitcoin.",
+    "url": "https://x.com/coinbase/status/2112649529782829475"
   }
 ]
