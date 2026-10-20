@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1792336333220-dtzxky",
-    "source": "x",
-    "ts": "2026-10-18T15:12:13.220Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-18T15:02:31.000Z",
-    "reason": "Bitcoin ETFs losing value despite positive October trends",
-    "text": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-    "url": "https://x.com/DecryptMedia/status/2111835323428655488",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792337540555-nodewc",
-    "source": "x",
-    "ts": "2026-10-18T15:32:20.555Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T15:30:17.000Z",
-    "reason": "Noteworthy institutional move with potential impact on AI and payments landscape.",
-    "text": "🔥 NEW: Tether is backing AIsa, a payments network that lets AI agents pay for their own data, APIs and compute, which says it already has 250K agents and 100M+ transactions.",
-    "url": "https://x.com/Cointelegraph/status/2111842308249289117",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792338125140-akqzto",
-    "source": "x",
-    "ts": "2026-10-18T15:42:05.140Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-18T15:35:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Yuga Labs drops new game for the Bored Ape community.\n\n@yugalabs and @BoredApeYC have just launched 'Mudwater' - a @Solana-based trading card series.\n\nBored Ape and Mutant Ape NFT holders are both eligible to claim now.\n\nInterestingly, every Mudwater card trade carries",
-    "url": "https://x.com/BSCNews/status/2111843496738930688"
-  },
-  {
     "id": "x-1792339328777-ky5dia",
     "source": "x",
     "ts": "2026-10-18T16:02:08.777Z",
@@ -8100,5 +8055,52 @@
     "reason": "Generic promotional tweet without a specific event or move.",
     "text": "Trade more. Earn more.\n\nOur trading loyalty program is here. Get up to 50% of your swap fees back, every week.",
     "url": "https://x.com/coinbase/status/2112598232736096360"
+  },
+  {
+    "id": "x-1792518756184-1pwlx4",
+    "source": "x",
+    "ts": "2026-10-20T17:52:36.184Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-20T17:49:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Aster DEX and BNB Chain put up to $70,000 on the table for bStocks traders\n\n@Aster_DEX and @BNBCHAIN are running a competition until October 31 for traders of bStocks, the tokenized US stocks from @bstocksfinance. Spot traders of five bStocks, including Nvidia, Circle, and",
+    "url": "https://x.com/BSCNews/status/2112601994611294457",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112596943792738306/vid/avc1/1220x720/jygWitDkaizQPJod.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112596943792738306/img/bMZ3P56cadQ2r1Sc.jpg"
+    }
+  },
+  {
+    "id": "x-1792518759573-v97uf4",
+    "source": "x",
+    "ts": "2026-10-20T17:52:39.573Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-20T17:46:15.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "Bitcoin's Next Move: Here's What to Watch",
+    "url": "https://x.com/DecryptMedia/status/2112601301766865108"
+  },
+  {
+    "id": "x-1792518763050-hun3wh",
+    "source": "x",
+    "ts": "2026-10-20T17:52:43.050Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-20T17:44:06.000Z",
+    "reason": "Generic opinion with no factual claim.",
+    "text": "Johann Sebastian Bach is the Shakespeare of music. Best there ever was.",
+    "url": "https://x.com/elonmusk/status/2112600761762717997"
   }
 ]
