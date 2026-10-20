@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792300386576-6miiva",
-    "source": "x",
-    "ts": "2026-10-18T05:13:06.576Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-18T05:05:00.000Z",
-    "reason": "Significant burn of a new token with potential implications.",
-    "text": "Aptos has now burned 1,900,000 $APT tokens...\n\nAccording to its latest update, the @Aptos L1 has now burned 1.9M $APT tokens since launching mainnet.\n\nThe tokens have a current dollar value of only some $1.58M, however.\n\nMore promising though, is the fact that some 174.1K $APT",
-    "url": "https://x.com/BSCNews/status/2111684951611425221",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111371775434985472/vid/avc1/1312x720/P6rto0wSw8pkEOfS.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111371775434985472/img/g5FkVJqQvmUmCdZx.jpg"
-    }
-  },
-  {
     "id": "x-1792301561703-k1gt7p",
     "source": "x",
     "ts": "2026-10-18T05:32:41.703Z",
@@ -8080,5 +8059,18 @@
     "reason": "Generic promotional tweet without factual claim.",
     "text": "How to buy Bitcoin in 30 seconds:\n\n1) Tap this → bitcoin:native \n\n2) Click trade BTC on Coinbase\n\n3) Enjoy stacking more sats",
     "url": "https://x.com/coinbase/status/2112560113168929146"
+  },
+  {
+    "id": "x-1792509751856-7u8c6h",
+    "source": "x",
+    "ts": "2026-10-20T15:22:31.856Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 27,
+    "originTimestamp": "2026-10-20T14:55:38.000Z",
+    "reason": "No notable financial event related to crypto or stablecoins.",
+    "text": "🚨ALERT: WTI crude CRASHED to $96.95, its LOWEST LEVEL in 5 DAYS, falling over 5% from its intraday high as reports signal progress toward a U.S.-Iran deal. \n\nNO final deal has been confirmed.",
+    "url": "https://x.com/coinbureau/status/2112562581466738791"
   }
 ]
