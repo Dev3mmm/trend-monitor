@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1792333333417-xdg19o",
-    "source": "x",
-    "ts": "2026-10-18T14:22:13.417Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-18T14:12:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🇺🇸🇷🇺🇺🇦 ESCALATING: Ukraine's massive 1,000+ drone attack hits St. Petersburg's oil terminal, a week after Trump's ENERGY CEASEFIRE.\n\nRussia's Defense Ministry says it downed 1,015 Ukrainian drones overnight, one of the largest attacks of the war.\n\nThe ceasefire came 2 days after",
-    "url": "https://x.com/coinbureau/status/2111822608614506499"
-  },
-  {
-    "id": "x-1792333943743-ttf8nq",
-    "source": "x",
-    "ts": "2026-10-18T14:32:23.743Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T14:30:20.000Z",
-    "reason": "Generic financial speculation without crypto-specific context or token value reference.",
-    "text": "📊 FUN FACT: Nvidia is on pace to sell around $430B worth of chips this year.\n\nThat's about the size of South Africa's entire economy.",
-    "url": "https://x.com/Cointelegraph/status/2111827222445076640"
-  },
-  {
-    "id": "x-1792333947977-ddoqed",
-    "source": "x",
-    "ts": "2026-10-18T14:32:27.977Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-18T14:25:00.000Z",
-    "reason": "On-chain data indicating significant price movement and volatility.",
-    "text": "Stellar's stablecoin supply jumps +28% despite TVL pullback.\n\n@StellarOrg's stablecoin market cap now stands at over $541M, currently up +28% on the week.\n\nAt the same time, however, stellar:native's total value locked has dropped more than $42M, since reaching a new all-time",
-    "url": "https://x.com/BSCNews/status/2111825879915503851",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111751089343115264/vid/avc1/1312x720/4qzD57wZWUjt1FUk.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111751089343115264/img/pjrnoz4QNFMFYxDc.jpg"
-    }
-  },
-  {
     "id": "x-1792334529082-xircmz",
     "source": "x",
     "ts": "2026-10-18T14:42:09.082Z",
@@ -8091,6 +8044,53 @@
     "url": "https://x.com/Cointelegraph/status/2112594946502877593",
     "images": [
       "https://pbs.twimg.com/media/HVFx6FOW0AEbmhB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792517546634-t2m9i1",
+    "source": "x",
+    "ts": "2026-10-20T17:32:26.634Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coinbase 🛡️",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-20T17:29:18.000Z",
+    "reason": "Mastercard and Cloudflare's involvement in agentic payments suggests a significant move in the crypto payments space.",
+    "text": "Mastercard and Cloudflare are getting into agentic payments.\n\nWe’re helping them do it.",
+    "url": "https://x.com/coinbase/status/2112597360358375762",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792517551671-0lovan",
+    "source": "x",
+    "ts": "2026-10-20T17:32:31.671Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-20T17:30:00.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "🚨This trade took a BRUTAL turn.\n\nIn June, U.S. Democrat Nancy Pelosi disclosed nearly $1.5 MILLION in Intel calls with the stock approaching $110. \n\nOnce it dropped toward $92, she added more calls and 10,000 shares.\n\nIntel then surged to $120 after her buy, before erasing its",
+    "url": "https://x.com/coinbureau/status/2112597213876797680"
+  },
+  {
+    "id": "x-1792517557488-mwvs8h",
+    "source": "x",
+    "ts": "2026-10-20T17:32:37.488Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-20T17:29:05.000Z",
+    "reason": "Price and volume far outside the recent range for a meme coin.",
+    "text": "JUST IN: $FATKAT is off to a flying start 🐱\n\nThe newly launched BNB Chain memecoin is close to surpassing $300K in trading volume within minutes, with 300 holders and a growing community rallying around the meme.\n\nThe @FATKATBNB cult is taking shape 👀",
+    "url": "https://x.com/BSCNews/status/2112596981940138463",
+    "images": [
+      "https://pbs.twimg.com/media/HVFzwcTXEAA_4Ke.jpg"
     ],
     "video": null
   }
