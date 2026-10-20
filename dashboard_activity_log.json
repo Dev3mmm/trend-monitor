@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792224166042-o04auo",
-    "source": "x",
-    "ts": "2026-10-17T08:02:46.043Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-17T08:00:15.000Z",
-    "reason": "Memes and social commentary are not news.",
-    "text": "Men,\n\nWearing matching clothes is a sign of compatibility.\n\nWear the same mix-and-match when you go to church, a wedding, merry-go round.\n\nHappy wife, happy man.\n\nMarriage goals. Two-term.\n\nCrush-woman Wednesday. \n\nTBT.\n\nIgnore haters.\n\n#MasculinitySaturday",
-    "url": "https://x.com/amerix/status/2111366667385090370"
-  },
-  {
-    "id": "x-1792224740033-46e4h1",
-    "source": "x",
-    "ts": "2026-10-17T08:12:20.033Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-17T08:05:00.000Z",
-    "reason": "No notable price movement or noteworthy event is indicated.",
-    "text": "Solana ecosystem tokens are collapsing.\n\nThough very few assets have seen growth this week, several @Solana protocol governance tokens are faring worse than most...\n\n@Raydium $RAY [-21%]\n@JupiterExchange $JUP [-20%]\n@Pumpfun $PUMP [-18%]",
-    "url": "https://x.com/BSCNews/status/2111367862296486384"
-  },
-  {
     "id": "x-1792225929649-h5msbn",
     "source": "x",
     "ts": "2026-10-17T08:32:09.649Z",
@@ -7889,5 +7863,44 @@
     "reason": "Vague motivational quote with no factual claim or on-chain data.",
     "text": "You don't get in life what you want.\n\nYou get what you are.\n\nYour discipline, your thoughts, your words, your house, your office, your books, your body, and what you produce already say who you are.\n\nTherefore, fix what you are, for it becomes what you get in life.",
     "url": "https://x.com/amerix/status/2112428620685734202"
+  },
+  {
+    "id": "x-1792477935184-kmgrm7",
+    "source": "x",
+    "ts": "2026-10-20T06:32:15.184Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-20T06:27:42.000Z",
+    "reason": "JPMorgan's inclusion of Bitcoin in its long-term assumptions is a significant institutional move.",
+    "text": "🔥 BIG: JPMorgan Asset Management included Bitcoin in its 2027 Long-Term Capital Market Assumptions.\n\nIts base case projects a 10% annualized return for bitcoin:native  over the next decade, the highest of any asset in its comparison.",
+    "url": "https://x.com/Cointelegraph/status/2112430541262000385",
+    "images": [
+      "https://pbs.twimg.com/media/HVDcRuracAABl0i.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792477941116-3h8qsk",
+    "source": "x",
+    "ts": "2026-10-20T06:32:21.116Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-20T06:27:00.000Z",
+    "reason": "Not a breaking news item, only a request for clarification without specific action or outcome.",
+    "text": "Hyperliquid Policy Center Urges SEC to Rewrite Key Crypto Rules\n\nThe Hyperliquid (@HyperliquidX) $HYPE Policy Center has urged the SEC to refine its proposed crypto asset rules.\n\nThis includes clarifications for airdrop and secondary market transactions.\n\nHPC has also asked for a",
+    "url": "https://x.com/BSCNews/status/2112430362835968309",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112397005456891904/vid/avc1/1280x720/W7Tr7B8aCCn7oxfi.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112397005456891904/img/PM9vNrI-6kG5NxT4.jpg"
+    }
   }
 ]
