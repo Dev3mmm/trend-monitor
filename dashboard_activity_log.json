@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792334529082-xircmz",
-    "source": "x",
-    "ts": "2026-10-18T14:42:09.082Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-18T14:33:03.000Z",
-    "reason": "Tweet unrelated to crypto or blockchain technology.",
-    "text": "Elon Musk on suicidal empathy: When compassion for criminals outweighs compassion for their victims, something has gone terribly wrong\n\nWhy are repeat violent offenders being released back onto the streets, often without bail, while innocent people are left to suffer the",
-    "url": "https://x.com/elonmusk/status/2111829566960308310"
-  },
-  {
-    "id": "x-1792335735205-a90ufy",
-    "source": "x",
-    "ts": "2026-10-18T15:02:15.205Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T15:00:15.000Z",
-    "reason": "No actionable information provided.",
-    "text": "guess someone got Binance’d.",
-    "url": "https://x.com/binance/status/2111834751589920776"
-  },
-  {
     "id": "x-1792336333220-dtzxky",
     "source": "x",
     "ts": "2026-10-18T15:12:13.220Z",
@@ -8093,5 +8067,38 @@
       "https://pbs.twimg.com/media/HVFzwcTXEAA_4Ke.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792518113855-limtr5",
+    "source": "x",
+    "ts": "2026-10-20T17:41:53.855Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T17:41:01.000Z",
+    "reason": "Notable institutional opposition to crypto tokenization efforts.",
+    "text": "🚨 LATEST: Goldman Sachs, McDonald’s and Microsoft are pushing back against efforts to tokenize their shares under a new regulatory framework, The Wall Street Journal reports.",
+    "url": "https://x.com/Cointelegraph/status/2112599986902847747",
+    "images": [
+      "https://pbs.twimg.com/media/HVF2fAiXwAAPZyo.jpg",
+      "https://pbs.twimg.com/media/HVF2fNGWgAE-JMP.jpg",
+      "https://pbs.twimg.com/media/HVF2fZOW8AARnKS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792518115599-13m5bg",
+    "source": "x",
+    "ts": "2026-10-20T17:41:55.599Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 71,
+    "originTimestamp": "2026-10-20T16:31:07.000Z",
+    "reason": "Generic promotional tweet without a specific event or move.",
+    "text": "Trade more. Earn more.\n\nOur trading loyalty program is here. Get up to 50% of your swap fees back, every week.",
+    "url": "https://x.com/coinbase/status/2112598232736096360"
   }
 ]
