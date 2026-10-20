@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1792301561703-k1gt7p",
-    "source": "x",
-    "ts": "2026-10-18T05:32:41.703Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T05:30:18.000Z",
-    "reason": "Regulatory move impacting crypto taxation",
-    "text": "🇫🇷 REGULATION: French MPs voted 38 to 37 to tax crypto-to-stablecoin swaps at 31.4% from 2027, with only 100 of 577 lawmakers bothering to show up.",
-    "url": "https://x.com/Cointelegraph/status/2111691321190588840",
-    "images": [
-      "https://pbs.twimg.com/media/HU48ED7WYAASIqW.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792303962275-zts8gs",
-    "source": "x",
-    "ts": "2026-10-18T06:12:42.275Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-18T06:12:04.000Z",
-    "reason": "Notable institutional use of stablecoins for US Treasuries payments.",
-    "text": "⚡ NEW: Italy, Portugal and Singapore hold 66.9% of geolocated tokenized US Treasuries, while Americans hold just 10.5%, according to Chainalysis.",
-    "url": "https://x.com/Cointelegraph/status/2111701829520085443",
-    "images": [
-      "https://pbs.twimg.com/media/HU5Fn0oWUAAgsWA.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792303965749-3ze31r",
     "source": "x",
     "ts": "2026-10-18T06:12:45.749Z",
@@ -8072,5 +8036,37 @@
     "reason": "No notable financial event related to crypto or stablecoins.",
     "text": "🚨ALERT: WTI crude CRASHED to $96.95, its LOWEST LEVEL in 5 DAYS, falling over 5% from its intraday high as reports signal progress toward a U.S.-Iran deal. \n\nNO final deal has been confirmed.",
     "url": "https://x.com/coinbureau/status/2112562581466738791"
+  },
+  {
+    "id": "x-1792510312450-ic0xtt",
+    "source": "x",
+    "ts": "2026-10-20T15:31:52.450Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T15:31:07.000Z",
+    "reason": "Ethereum staking hits new record.",
+    "text": "🚨 UPDATE: Ethereum staking hits a record 43.8M ETH, or 35.9% of supply, while staking yields and validators fall, per Bitwise report.",
+    "url": "https://x.com/Cointelegraph/status/2112567294874288131",
+    "images": [
+      "https://pbs.twimg.com/media/HVFYvvOWcAAersf.png",
+      "https://pbs.twimg.com/media/HVFYwSTXgAAc7Pz.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792510314300-zvf594",
+    "source": "x",
+    "ts": "2026-10-20T15:31:54.300Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-20T15:28:17.000Z",
+    "reason": "It's a generic trading guide without factual claim.",
+    "text": "How to buy Bitcoin in 30 seconds:\n\n1) Tap this → bitcoin:native \n\n2) Click trade BTC on Coinbase\n\n3) Enjoy stacking more sats",
+    "url": "https://x.com/coinbase/status/2112566581960057301"
   }
 ]
