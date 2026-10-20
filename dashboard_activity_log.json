@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792243953810-ycbw4e",
-    "source": "x",
-    "ts": "2026-10-17T13:32:33.810Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-17T13:23:32.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "JUST IN: The Bitcoin Fear &amp; Greed Index is holding at 55, \"Greed\" 👀    \n\nBullish 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2111448022915731581"
-  },
-  {
-    "id": "x-1792243959106-8iud2n",
-    "source": "x",
-    "ts": "2026-10-17T13:32:39.106Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Wu Blockchain",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-17T13:23:08.000Z",
-    "reason": "On-chain data indicating increased use of Zcash for laundering stolen funds.",
-    "text": "On-Chain Data Shows Increasing Number of Hackers Moving Stolen Funds to Zcash for Laundering\n\nOn-chain analyst Specter noted that following ZachXBT's disclosure regarding the Bitget exploiter shielding stolen assets via Zcash (ZEC), multiple other threat actors have begun",
-    "url": "https://x.com/WuBlockchain/status/2111447924563755035",
-    "images": [
-      "https://pbs.twimg.com/media/HU1ervra0AEV2V8.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792245813517-5yrj3n",
     "source": "x",
     "ts": "2026-10-17T14:03:33.517Z",
@@ -7914,5 +7883,39 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "🔥 SAYLOR: We're definitely moving back to six figures in the next 12 months.",
     "url": "https://x.com/Cointelegraph/status/2112493749519737063"
+  },
+  {
+    "id": "x-1792493554432-778d1d",
+    "source": "x",
+    "ts": "2026-10-20T10:52:34.432Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 110,
+    "originTimestamp": "2026-10-20T09:02:11.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "JUST IN: 🇺🇸America’s emergency oil reserve falls to its LOWEST level in 44 YEARS.\n\nThe US Strategic Petroleum Reserve now holds 282.7 MILLION barrels, the least since October 1982, data from the ‌Department ⁠of Energy shows.\n\nThe drawdown is part of Washington’s 172M barrel",
+    "url": "https://x.com/coinbureau/status/2112496821612503234"
+  },
+  {
+    "id": "x-1792493559931-aym867",
+    "source": "x",
+    "ts": "2026-10-20T10:52:39.931Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-20T10:43:29.000Z",
+    "reason": "Bitget aims to acquire a regulated Thai exchange through BTGT Management.",
+    "text": "Bitget Plans Takeover of Licensed Thai Exchange After $388M Security Attack\n\n@Bitget is moving to buy the operator of a regulated Thai exchange, GMO-Z Cryptonomics, through BTGT Management, with the aim of closing the deal before October 31.\n\nThrough the takeover, the centralized",
+    "url": "https://x.com/BSCNews/status/2112494908145545621",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112494862570258432/vid/avc1/1316x720/_RPoHBQaEEI-hQAp.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112494862570258432/img/8p7ngnn7P1AI1Zhb.jpg"
+    }
   }
 ]
