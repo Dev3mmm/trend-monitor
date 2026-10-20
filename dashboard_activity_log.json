@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792213929382-8l2vy6",
-    "source": "x",
-    "ts": "2026-10-17T05:12:09.382Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-17T04:57:30.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Designed, engineered, and made in America",
-    "url": "https://x.com/elonmusk/status/2111323638238515408"
-  },
-  {
     "id": "x-1792215181797-nmbbmz",
     "source": "x",
     "ts": "2026-10-17T05:33:01.797Z",
@@ -7848,5 +7835,26 @@
     "reason": "No notable move in Bitcoin price.",
     "text": "Justin Sun: AI and Quantum Risks Make Me More Bearish on Bitcoin Than Before\n\nOn October 16, 2026, Justin Sun @justinsuntron said in an interview with William Joy that advances in AI algorithms and quantum computing risks had made him more bearish on Bitcoin than before. He",
     "url": "https://x.com/WuBlockchain/status/2112393374775099669"
+  },
+  {
+    "id": "x-1792469591238-qelzwx",
+    "source": "x",
+    "ts": "2026-10-20T04:13:11.238Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-20T04:07:48.000Z",
+    "reason": "Notable institutional adoption of a crypto-asset solution.",
+    "text": "Chainlink Powers Archax's Tokenized Treasury Product\n\nArchax (@ArchaxEx) has adopted Chainlink (@chainlink) $LINK Data Streams for $GOVY, its 24/7 tokenized U.S. Treasury product.\n\nThe integration offers low-latency pricing data for the institutional market.\n\nThis could enable",
+    "url": "https://x.com/BSCNews/status/2112395332348964907",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112392988051787776/vid/avc1/1280x720/ZOgkEcg9u21Dx65Q.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112392988051787776/img/9csuqvkQ8hT4uxf5.jpg"
+    }
   }
 ]
