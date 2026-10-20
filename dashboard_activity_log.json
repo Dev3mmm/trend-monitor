@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1792287184987-ta25l6",
-    "source": "x",
-    "ts": "2026-10-18T01:33:04.987Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T01:30:18.000Z",
-    "reason": "Potential insider trading and regulatory fallout.",
-    "text": "🚨 BIG: Mt. Gox's Mark Karpelès says Ledger knew about advanced spy implants back in March and slams its response to what he calls \"a five-alarm fire in the making.\"",
-    "url": "https://x.com/Cointelegraph/status/2111630921002537095",
-    "images": [
-      "https://pbs.twimg.com/media/HU4FINrWYAAYo6C.jpg",
-      "https://pbs.twimg.com/media/HU4FIcDWwAArcCF.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792287740779-20uhae",
-    "source": "x",
-    "ts": "2026-10-18T01:42:20.779Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-18T01:35:00.000Z",
-    "reason": "Investors showing significant bearishness on Hedera.",
-    "text": "Uh oh... Investors going bearish on Hedera?\n\nUntil yesterday, the one spot @Hedera ETF had seen only a single day of negative flows.\n\nThat ended on October 17, when the ETF lost -$559K in investor capital. \n\nAt time of writing, it still holds 1.81% of hedera-hashgraph:native's",
-    "url": "https://x.com/BSCNews/status/2111632103037435906",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111371495930826752/vid/avc1/1312x720/G0MEOUJL35Upb0cQ.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111371495930826752/img/KT3g-jmE7T1dMtka.jpg"
-    }
-  },
-  {
     "id": "x-1792287745579-y908lw",
     "source": "x",
     "ts": "2026-10-18T01:42:25.579Z",
@@ -8078,5 +8038,39 @@
     "reason": "Noise: vague and speculative tweet without concrete information.",
     "text": "另外 @yahbtc 这位小伙伴喷我的原因是因为我在 @StandX_Official 的群里说，我看到 Neosoul 和 StandX 的某位工作人员有接触，StandX 的小伙伴也确认了确实有接触，但没有进一步联系，就因为这件事，这位王守亿就接连发了很多篇推文，不是骂 neosoul 的就是骂相关的小伙伴。\n\n我相信这事和 StandX",
     "url": "https://x.com/PhyrexNi/status/2112551291541127193"
+  },
+  {
+    "id": "x-1792507349564-16yaw7",
+    "source": "x",
+    "ts": "2026-10-20T14:42:29.564Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 28,
+    "originTimestamp": "2026-10-20T14:14:37.000Z",
+    "reason": "No notable move or news event.",
+    "text": "Plan ₿ Network President Giacomo Zucco on the unrest in France:\n\n\"[Inflation] is not a theoretical matter, it is a very important and present threat.\"\n\n\"People are still not really matching the problem of [fiat] money with the societal and economic problems that are afflicting",
+    "url": "https://x.com/BitcoinMagazine/status/2112554474007060933"
+  },
+  {
+    "id": "x-1792507353150-9fg9uc",
+    "source": "x",
+    "ts": "2026-10-20T14:42:33.150Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-20T14:34:07.000Z",
+    "reason": "Notable institutional move with real-world use case deployment",
+    "text": "NEAR Protocol Deploys Confidential Multisig Treasury Suite Across Thirty-Five Blockchains\n\n@NEARProtocol announces the launch of NEAR Business. \n\nNEAR Business is an institutional-grade multisig treasury management platform, tailor-made for Web3 businesses, institutional crypto",
+    "url": "https://x.com/BSCNews/status/2112552948890775709",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112552571764121601/vid/avc1/1316x720/pBj6WMRfgp6njQNl.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112552571764121601/img/PFKCPL5mqmZ4Ib53.jpg"
+    }
   }
 ]
