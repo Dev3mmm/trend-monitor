@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792345931542-z89145",
-    "source": "x",
-    "ts": "2026-10-18T17:52:11.542Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 58,
-    "originTimestamp": "2026-10-18T16:53:14.000Z",
-    "reason": "No notable event or move described.",
-    "text": "Try Grok @Bot",
-    "url": "https://x.com/elonmusk/status/2111877649513529345"
-  },
-  {
-    "id": "x-1792346544762-7vna8p",
-    "source": "x",
-    "ts": "2026-10-18T18:02:24.762Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T18:00:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": ".       ₿₿    ₿₿\n₿🔸🔸🔸🔸🔸🔸₿\n🔸🔸₿₿🔸₿₿₿🔸\n 🔸₿₿🔸🔸🔸₿₿\n Λ 🔸🔸🔸₿₿🔸\n( ˘ ᵕ ˘ ₿🔸🔸\n ヽ つ ＼ ／\n   UU  / 🌼 \\",
-    "url": "https://x.com/binance/status/2111879988618141776"
-  },
-  {
     "id": "x-1792346551231-l2ryfn",
     "source": "x",
     "ts": "2026-10-18T18:02:31.231Z",
@@ -8127,5 +8101,44 @@
     "reason": "No notable move or newsworthy information provided.",
     "text": "Jeff Yan: Hyperliquid Has No Competitors, Nobody Competes with the Internet\n\nHyperliquid Labs co-founder and CEO Jeff Yan @chameleon_jeff  said in an October 7 interview with Risk Labs co-founder Hart Lambur at TOKEN2049 2026 that it is inaccurate to view Hyperliquid as competing",
     "url": "https://x.com/WuBlockchain/status/2112619862438604823"
+  },
+  {
+    "id": "x-1792524162617-wn4tzl",
+    "source": "x",
+    "ts": "2026-10-20T19:22:42.617Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T19:20:59.000Z",
+    "reason": "Significant on-chain data point with high market cap for tokenized stocks.",
+    "text": "⚡️ UPDATE: Strategy’s tokenized stocks hit $473.4M in onchain market cap, with Ethereum ($ETH), BNB Chain ($BNB) and Solana ($SOL) making up 86%.",
+    "url": "https://x.com/Cointelegraph/status/2112625142715076947",
+    "images": [
+      "https://pbs.twimg.com/media/HVGNXt9XsAAZqeM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792524168768-ogix2v",
+    "source": "x",
+    "ts": "2026-10-20T19:22:48.768Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-20T19:16:00.000Z",
+    "reason": "Notable percentage gain and increased trading volume for Worldcoin.",
+    "text": "Worldcoin posts the biggest daily gain in the top 100\n\n$WLD rose about 15% over the past 24 hours to around $0.58, up from roughly $0.51. Trading volume nearly doubled to about $599M, more than a quarter of the token’s $2.21B market value.\n\n@worldnetwork's token had been roughly",
+    "url": "https://x.com/BSCNews/status/2112623888228335871",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112617100229398529/vid/avc1/1220x720/BhRWyD6t-hNq2Ug6.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112617100229398529/img/2B7AnHga5_7lNYpy.jpg"
+    }
   }
 ]
