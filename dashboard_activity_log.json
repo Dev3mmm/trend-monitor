@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792247536265-z6ckcz",
-    "source": "x",
-    "ts": "2026-10-17T14:32:16.265Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-17T14:30:21.000Z",
-    "reason": "Vague opinion without factual claim.",
-    "text": "⚡ NEW: Vitalik says Bitcoin mining costs split roughly 50/50 between hardware and electricity, while AI inference is almost all hardware, so who's really burning the planet now?",
-    "url": "https://x.com/Cointelegraph/status/2111464838098468932"
-  },
-  {
-    "id": "x-1792247540933-pr19lv",
-    "source": "x",
-    "ts": "2026-10-17T14:32:20.933Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-17T14:30:06.000Z",
-    "reason": "Memetic and nonsensical content, no factual claim.",
-    "text": "Men,\n\nIf she sleeps until noon.\n\nShe is preserving her beauty.\n\nSo, as the man, go and cook.\n\nDo the cleaning.\n\nTake the children to school.\n\nDon't disturb a tired girl.\n\nA rested woman is a happy woman.\n\n#MasculinitySaturday",
-    "url": "https://x.com/amerix/status/2111464776563880329"
-  },
-  {
     "id": "x-1792249332294-3vc2d9",
     "source": "x",
     "ts": "2026-10-17T15:02:12.294Z",
@@ -7934,5 +7908,39 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112499230598213632/img/kjrBapNJ_3m3uQk3.jpg"
     }
+  },
+  {
+    "id": "x-1792495311362-wbzodi",
+    "source": "x",
+    "ts": "2026-10-20T11:21:51.362Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T11:21:05.000Z",
+    "reason": "Validators not prepared for Solana's Alpenglow hard upgrade upgrade.",
+    "text": "Solana validators still aren't ready for the Alpenglow upgrade!\n\nStatistics from @pumpkinspool show that 151 validators hold 20.3% of the network stake, worth 88.9M $SOL, and are not prepared for Solana’s Alpenglow hard upgrade, set for epoch 1064.\n\nDevelopers at @anza_xyz and",
+    "url": "https://x.com/BSCNews/status/2112504372789711294",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112503398385815552/vid/avc1/1316x720/p0ADIDwpKbVoYgv5.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112503398385815552/img/Ba0Orbx_Vbarg7W6.jpg"
+    }
+  },
+  {
+    "id": "x-1792495313608-952yed",
+    "source": "x",
+    "ts": "2026-10-20T11:21:53.608Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T11:20:26.000Z",
+    "reason": "No notable move in the price, and the statement is a forecast without supporting evidence.",
+    "text": "JUST IN: The largest bank in the U.S. JPMorgan is forecasting Bitcoin to outperform every major asset over the next decade.\n\nYou are not bullish enough 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112504210960880031"
   }
 ]
