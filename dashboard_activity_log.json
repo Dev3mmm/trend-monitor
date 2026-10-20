@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792312959660-1bt6hw",
-    "source": "x",
-    "ts": "2026-10-18T08:42:39.660Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-18T08:33:01.000Z",
-    "reason": "Notable institutional transaction involving a high-profile figure.",
-    "text": "Justin Sun: Sold 80–90% of ETH at $3,600–$4,000, Then Bought Heavily Into US Stocks\n\nOn October 16, 2026, Justin Sun @justinsuntron said in an interview with William Joy that he had sold 80–90% of his ETH position at around $3,600–$4,000, keeping only a core holding and had not",
-    "url": "https://x.com/WuBlockchain/status/2111737300946460760",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111735650340966400/vid/avc1/1278x720/I2c5ClHFjffiA4wZ.mp4?tag=29",
-      "duration": 111,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111735650340966400/img/aBdTjnmiLsIdG3Lp.jpg"
-    }
-  },
-  {
-    "id": "x-1792314150974-8vf8xq",
-    "source": "x",
-    "ts": "2026-10-18T09:02:30.974Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T09:00:09.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "wearing Binance like it’s a personality trait",
-    "url": "https://x.com/binance/status/2111744129466061149"
-  },
-  {
     "id": "x-1792315925266-5r2aqm",
     "source": "x",
     "ts": "2026-10-18T09:32:05.266Z",
@@ -8077,5 +8043,42 @@
       "https://pbs.twimg.com/media/HVFfwngXQAE9mZ4.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792512715581-9tqtrq",
+    "source": "x",
+    "ts": "2026-10-20T16:11:55.581Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-20T16:06:40.000Z",
+    "reason": "Specific and notable adoption of crypto by a major financial institution.",
+    "text": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
+    "url": "https://x.com/DecryptMedia/status/2112576241559572914",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792512718000-z08vcq",
+    "source": "x",
+    "ts": "2026-10-20T16:11:58.000Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 25,
+    "originTimestamp": "2026-10-20T15:46:59.000Z",
+    "reason": "No notable move; price is within the recent range.",
+    "text": "Strive's Jeff Walton (@PunterJeff) on the credit investors behind its $700M $SATS offering:\n\n\"This is new capital. We are attracting new capital from different capital pools to the market.\"\n\n\"That fundamentally changes how Bitcoin will operate into the future.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2112575382721380399",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112571198311710721/vid/avc1/1206x662/fmJE23NMNZyNECFt.mp4?tag=29",
+      "duration": 126,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112571198311710721/img/GNuLRjjdgoIzR-gP.jpg"
+    }
   }
 ]
