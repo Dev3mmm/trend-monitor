@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1792189844571-p5rj4q",
-    "source": "x",
-    "ts": "2026-10-16T22:30:44.571Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-16T22:20:17.000Z",
-    "reason": "The Nasdaq 100's decline is significant as a major indicator of crypto sentiment.",
-    "text": "🚨 BIG: The Nasdaq 100 closed the week down 5.5%, its largest weekly decline since April 2025, and is now 7% below its high from just 10 days ago.",
-    "url": "https://x.com/Cointelegraph/status/2111220714019647501",
-    "images": [
-      "https://pbs.twimg.com/media/HUyQDChW0AAbzs8.jpg",
-      "https://pbs.twimg.com/media/HUyQDPAWIAAsPRC.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792189850315-91z74t",
-    "source": "x",
-    "ts": "2026-10-16T22:30:50.315Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-16T22:18:00.000Z",
-    "reason": "Notable TVL and TPS growth with institutional achievements.",
-    "text": "Hedera Expands its Reach as Network Metrics Improve\n\nHedera (@hedera) TVL reached $33.2 million after a 12.3% increase, while TPS rose 168.37%, over a 30-day period, based on recent Token Relations data.\n\nThere have been several institutional achievements, such as Hedera becoming",
-    "url": "https://x.com/BSCNews/status/2111220138686980582",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111035970816520192/vid/avc1/1280x720/F5nM0-pehBD305tF.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111035970816520192/img/JMvW5tldPxbRX7iz.jpg"
-    }
-  },
-  {
-    "id": "x-1792036932048-fyvrx6",
-    "source": "x",
-    "ts": "2026-10-15T04:02:12.048Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-15T04:00:28.000Z",
-    "reason": "Generic hype with no factual claim.",
-    "text": "⚡️ ELON MUSK: “Unless there is a major world war, SpaceX probably gets to &gt;$100T in &lt;10 years.”",
-    "url": "https://x.com/Cointelegraph/status/2110581547791270267"
-  },
-  {
     "id": "x-1792036937362-12mfe8",
     "source": "x",
     "ts": "2026-10-15T04:02:17.362Z",
@@ -7858,5 +7805,44 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112097697612070912/img/mCqim-Uoxl24k3S1.jpg"
     }
+  },
+  {
+    "id": "x-1792454522507-ohk220",
+    "source": "x",
+    "ts": "2026-10-20T00:02:02.507Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T00:01:02.000Z",
+    "reason": "No notable move or specific actionable information provided.",
+    "text": "🚨 LATEST: Anthropic is reportedly in talks with Nscale on a $45 billion deal for computing power at a second facility on Nscale’s Monarch campus in West Virginia, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2112333232175780313"
+  },
+  {
+    "id": "x-1792454524079-isl2x3",
+    "source": "x",
+    "ts": "2026-10-20T00:02:04.079Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-20T00:00:15.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "so… yes or no?",
+    "url": "https://x.com/binance/status/2112333034519203987"
+  },
+  {
+    "id": "x-1792454526369-4uja4q",
+    "source": "x",
+    "ts": "2026-10-20T00:02:06.369Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-20T00:00:01.000Z",
+    "reason": "No notable move in Bitcoin price is mentioned.",
+    "text": "Tom Lee: Many VC Friends Say They Wish They Had Just Bought BTC\n\nSpeaking at TOKEN2049 @token2049, Tom Lee @fundstrat said he recently had dinner in Taiwan, China, with some VC friends he first met ten years ago, when he had just begun researching Bitcoin. He noted that Bitcoin",
+    "url": "https://x.com/WuBlockchain/status/2112332977870938549"
   }
 ]
