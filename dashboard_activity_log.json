@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792367515438-h6z4vb",
-    "source": "x",
-    "ts": "2026-10-18T23:51:55.438Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-18T23:46:00.000Z",
-    "reason": "Security concerns leading to delayed mainnet launch.",
-    "text": "Soul Labs delays mainnet launch.\n\n\"We know this is another delay and that many of you were looking forward to finally using Soul\"\n\n@0xSoulProtocol has pushed back its mainnet launch date from October 19, 2026, to January 5, 2027.\n\nThe platform says security is the motivation",
-    "url": "https://x.com/BSCNews/status/2111967060079133114",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111751898202038273/vid/avc1/1312x720/9XVEFYzszbCC8wLM.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111751898202038273/img/fCl2_gcVbU7l6up5.jpg"
-    }
-  },
-  {
-    "id": "x-1792368182077-bfhkfm",
-    "source": "x",
-    "ts": "2026-10-19T00:03:02.077Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T00:00:17.000Z",
-    "reason": "No direct impact on crypto markets",
-    "text": "🇷🇺 JUST IN: Russian President Putin has proposed a summit with Trump and Xi next month to negotiate an end to the Ukraine war without Zelensky, WSJ reports.",
-    "url": "https://x.com/Cointelegraph/status/2111970657688838211"
-  },
-  {
     "id": "x-1792368184891-92uz0v",
     "source": "x",
     "ts": "2026-10-19T00:03:04.891Z",
@@ -8155,5 +8121,42 @@
     "reason": "Generic corporate earnings call without specific crypto-related announcements.",
     "text": "Here’s full Elon Musk’s remarks at SpaceX Q3 2026 results:\n\n0:00 - Inflection moment for SpaceX\n0:50 - Starship Flight 14 to orbit\n1:40 - Flight 15 catch both stages\n2:50 - Louisiana spaceport announced\n4:00 - Weekly then twice weekly flights\n5:20 - Complete reusability like",
     "url": "https://x.com/elonmusk/status/2112660557073379683"
+  },
+  {
+    "id": "x-1792533092163-gobvzt",
+    "source": "x",
+    "ts": "2026-10-20T21:51:32.163Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-20T21:47:15.000Z",
+    "reason": "Not relevant to cryptocurrency or crypto news categories.",
+    "text": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+    "url": "https://x.com/DecryptMedia/status/2112661952002429001",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792533096125-70dr0h",
+    "source": "x",
+    "ts": "2026-10-20T21:51:36.125Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-20T21:44:00.000Z",
+    "reason": "Specific institutional adoption and new product launch in the Ethereum ecosystem.",
+    "text": "Wrapped ETH arrives on Canton Network as Temple lists BitSafe’s BETH\n\n@temple_ny, a trading platform on @CantonNetwork, has listed BETH, a wrapped version of ETH issued by BitSafe (@BitSafe_Finance). It’s Temple’s first wrapped ETH product, and its BETH-USDCx market lets",
+    "url": "https://x.com/BSCNews/status/2112661133564022822",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112643936137158656/vid/avc1/1220x720/F9qgKz32bwdBjcBz.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112643936137158656/img/npW-uz4QK33rjnQ0.jpg"
+    }
   }
 ]
