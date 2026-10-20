@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792258357706-u6wydk",
-    "source": "x",
-    "ts": "2026-10-17T17:32:37.706Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-17T17:17:55.000Z",
-    "reason": "Memes and non-cryptocurrency related content.",
-    "text": "🥲我用拖鞋去扔它，结果肩膀扭到了，而且还没打着。它现在在我的房间里乱飞，是的，是飞。\n\n我现在唯一的武器就是一把扇子。不是它死就是我活。",
-    "url": "https://x.com/PhyrexNi/status/2111510226625306865"
-  },
-  {
-    "id": "x-1792258361806-cks1us",
-    "source": "x",
-    "ts": "2026-10-17T17:32:41.806Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-17T17:28:38.000Z",
-    "reason": "Generic opinion without factual claim or verifiable data.",
-    "text": "⚡️ NEW: Tom Lee says fundamentals are holding while markets get fearful, calling it \"a pretty good risk reward setup for investors.\"",
-    "url": "https://x.com/Cointelegraph/status/2111509706951045616"
-  },
-  {
     "id": "x-1792258911471-agp5a8",
     "source": "x",
     "ts": "2026-10-17T17:41:51.471Z",
@@ -8006,5 +7980,39 @@
       "https://pbs.twimg.com/media/HVEqpAdXcAE_pzA.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792501377312-2wnh07",
+    "source": "x",
+    "ts": "2026-10-20T13:02:57.312Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T13:01:44.000Z",
+    "reason": "No notable crypto/crypto-related news.",
+    "text": "🇺🇸 UPDATE: Trump announces an $8B Harvest Fuel Relief program to help farmers offset rising costs amid global supply disruptions.",
+    "url": "https://x.com/Cointelegraph/status/2112529700622942589"
+  },
+  {
+    "id": "x-1792501380537-lnq6yl",
+    "source": "x",
+    "ts": "2026-10-20T13:03:00.537Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-20T12:56:00.000Z",
+    "reason": "Price is well outside its recent trading range, indicating a potential significant move.",
+    "text": "PI Network back to July Levels...\n\nPi Network (@PiCoreTeam)'s native asset, $PI, has hit rock bottom again. \n\nThe coin is now trading at $0.07754, similar to its recent low in July 2026. \n\nDespite the many announcements and upgrades, pioneers continue to wait for a price move up.",
+    "url": "https://x.com/BSCNews/status/2112528258290139199",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112523860323004416/vid/avc1/1316x720/bDE5eI8242Z3f5X1.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112523860323004416/img/MsQCvf8OK_JDDYhb.jpg"
+    }
   }
 ]
