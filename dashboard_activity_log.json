@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1792303965749-3ze31r",
-    "source": "x",
-    "ts": "2026-10-18T06:12:45.749Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 86,
-    "originTimestamp": "2026-10-18T04:45:57.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "World Still LOSING It Over Tesla's Flying Roadster\n\nSOURCE:\n◆",
-    "url": "https://x.com/elonmusk/status/2111699431758430563"
-  },
-  {
-    "id": "x-1792304561724-a5rdfm",
-    "source": "x",
-    "ts": "2026-10-18T06:22:41.724Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-18T06:17:00.000Z",
-    "reason": "Regulatory scrutiny of crypto markets by a high-profile politician.",
-    "text": "Democrats voted for market manipulation says Lummis.\n\nThe pro-crypto @SenLummis has highlighted that the recently failed CLARITY Act included provisions around \"large trader reporting so regulators can spot manipulation early\".\n\nThis was something the Democrats wanted adding, but",
-    "url": "https://x.com/BSCNews/status/2111703070677815361",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111371902635606016/vid/avc1/1312x720/IPNKsttmL8RKGV75.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111371902635606016/img/DglYwYPOvd4_QazX.jpg"
-    }
-  },
-  {
-    "id": "x-1792308707967-fnczvb",
-    "source": "x",
-    "ts": "2026-10-18T07:31:47.967Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-18T07:30:18.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "📊 FUN FACT: Bitcoin hasn't closed two red Octobers in a row since at least 2013. Could this year be the first?",
-    "url": "https://x.com/Cointelegraph/status/2111721516916179217"
-  },
-  {
     "id": "x-1792308712025-c6ddpp",
     "source": "x",
     "ts": "2026-10-18T07:31:52.025Z",
@@ -8068,5 +8021,63 @@
     "reason": "It's a generic trading guide without factual claim.",
     "text": "How to buy Bitcoin in 30 seconds:\n\n1) Tap this → bitcoin:native \n\n2) Click trade BTC on Coinbase\n\n3) Enjoy stacking more sats",
     "url": "https://x.com/coinbase/status/2112566581960057301"
+  },
+  {
+    "id": "x-1792510973476-mlntz7",
+    "source": "x",
+    "ts": "2026-10-20T15:42:53.476Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T15:40:58.000Z",
+    "reason": "Regulatory scrutiny on crypto transfer restrictions in the UK banks",
+    "text": "🇬🇧 NEW: UK banks received over 10,000 complaints about crypto transfer restrictions in 90 days, according to Stand With Crypto.\n\nLloyds, Barclays and NatWest topped the list, while six banks were listed as banning crypto transfers entirely.",
+    "url": "https://x.com/Cointelegraph/status/2112569772982301126",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792510979736-8dfjz3",
+    "source": "x",
+    "ts": "2026-10-20T15:42:59.736Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-20T15:39:35.000Z",
+    "reason": "Strive’s IPO of SATS is notable as it raises funds for Bitcoin and assets, aligning with a new use of a token.",
+    "text": "JUST IN: 🇺🇸 Strive’s 'SATS' has officially IPO’d on the Nasdaq, and is raising $630 million to buy more Bitcoin and income-generating assets 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112569426889617752",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112568238991106048/vid/avc1/1280x720/Tw14gQXgBMfnGtST.mp4?tag=29",
+      "duration": 291,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HVFaw4UW8AEo2NP.jpg"
+    }
+  },
+  {
+    "id": "x-1792510985256-raugiu",
+    "source": "x",
+    "ts": "2026-10-20T15:43:05.256Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-20T15:32:22.000Z",
+    "reason": "Arbitrum surpasses 2.4 billion lifetime transactions on Ethereum, confirming its leadership.",
+    "text": "Arbitrum hits a groundbreaking milestone!\n\nOn-chain analysis shows @Arbitrum has surpassed 2.4 billion lifetime transactions. \n\nThis confirms its leadership as the rollup with the largest transaction volume in the Ethereum ecosystem.\n\nThe data analyzed through @chainspect_app",
+    "url": "https://x.com/BSCNews/status/2112567608968896587",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112567578195353600/vid/avc1/1316x720/3VxcePQjcWZQ2321.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112567578195353600/img/2eQFh9Rpean5SUfr.jpg"
+    }
   }
 ]
