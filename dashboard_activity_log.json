@@ -1,65 +1,5 @@
 [
   {
-    "id": "x-1792323130295-bsc87w",
-    "source": "x",
-    "ts": "2026-10-18T11:32:10.295Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-18T11:28:16.000Z",
-    "reason": "On-chain data point with a significant transfer volume.",
-    "text": "🔥 BIG: Solana snatched the #1 spot for stablecoin transfers with a record 557M in September, edging out BNB Chain's 543M by just 14M.",
-    "url": "https://x.com/Cointelegraph/status/2111781404946145656",
-    "images": [
-      "https://pbs.twimg.com/media/HU6N_rSX0AA92ld.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792324978741-h1vsbx",
-    "source": "x",
-    "ts": "2026-10-18T12:02:58.741Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T12:00:51.000Z",
-    "reason": "No notable move; price is within the recent range.",
-    "text": "What will sound old-fashioned in finance by 2036? \n\nWe'll go first, “Please visit your local branch”",
-    "url": "https://x.com/binance/status/2111789605326315560",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792324981503-5mweb4",
-    "source": "x",
-    "ts": "2026-10-18T12:03:01.503Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T12:00:14.000Z",
-    "reason": "No notable move detected.",
-    "text": "brb, touching sand",
-    "url": "https://x.com/binance/status/2111789449113653614"
-  },
-  {
-    "id": "x-1792324985953-bzteeg",
-    "source": "x",
-    "ts": "2026-10-18T12:03:05.953Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-18T11:57:00.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸🇮🇷 JUST IN: Iran says the Strait of Hormuz could REOPEN within 6 days if Washington agrees to its terms.\n\nForeign Minister Abbas Araqchi says talks with Washington would then resume the following day.\n\nIran's terms include lifting the US blockade on its ports and US sanctions",
-    "url": "https://x.com/coinbureau/status/2111788634554896868"
-  },
-  {
     "id": "x-1792325505753-378d0y",
     "source": "x",
     "ts": "2026-10-18T12:11:45.753Z",
@@ -8082,5 +8022,63 @@
     "reason": "No new actionable information beyond sentiment analysis.",
     "text": "🚨BULLISH: Bitcoin’s short-term holder profit-taking has cooled after driving the biggest exchange inflows in a year and adding pressure to prices.\n\nThe activity has now returned to its yearly average, per Glassnode, suggesting the recent wave of sell†ing pressure is easing.",
     "url": "https://x.com/coinbureau/status/2112578337852006420"
+  },
+  {
+    "id": "x-1792514537695-vcovft",
+    "source": "x",
+    "ts": "2026-10-20T16:42:17.695Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T16:41:02.000Z",
+    "reason": "Notable regulatory action against major crypto exchanges and platforms",
+    "text": "🇰🇿 LATEST: Kazakhstan’s AIFC Court barred Coinbase, HTX, BingX, BitMart, Bitcoincom and WEEX from offering unlicensed crypto services and ordered app store restrictions.",
+    "url": "https://x.com/Cointelegraph/status/2112584892282290358",
+    "images": [
+      "https://pbs.twimg.com/media/HVFowayWgAAKUZx.jpg",
+      "https://pbs.twimg.com/media/HVFowwjXEAAj18N.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792514542483-u5jpjn",
+    "source": "x",
+    "ts": "2026-10-20T16:42:22.483Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-20T16:35:20.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "In 2024's U.S. presidential election, prediction markets were barely out of the gate.\n\nFor this year's midterms, they’ve had the whole campaign. Polls or markets: who calls it? @chucktodd takes on the question at @nextpredictio.",
+    "url": "https://x.com/DecryptMedia/status/2112583455741522327"
+  },
+  {
+    "id": "x-1792514546223-kbyfu9",
+    "source": "x",
+    "ts": "2026-10-20T16:42:26.223Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 101,
+    "originTimestamp": "2026-10-20T15:00:41.000Z",
+    "reason": "No notable move or specific event.",
+    "text": "Video call",
+    "url": "https://x.com/elonmusk/status/2112583304738210216"
+  },
+  {
+    "id": "x-1792514551445-j2yhhw",
+    "source": "x",
+    "ts": "2026-10-20T16:42:31.445Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 37,
+    "originTimestamp": "2026-10-20T16:05:05.000Z",
+    "reason": "No notable move in token price or specific event.",
+    "text": "THE CONFERENCE IS 2 DAYS, THE WHALE EXPERIENCE IS 4 🐳🇳🇱\n\n🥂 Private parties\n🤝 Elite networking\n🎤 Whale-only sessions\n🏦 BFC Symposium access\n🍽️ All-inclusive VIP perks\n\nTHIS IS GOING TO BE ONE FOR THE BOOKS! 🔥",
+    "url": "https://x.com/BitcoinMagazine/status/2112583024558903599"
   }
 ]
