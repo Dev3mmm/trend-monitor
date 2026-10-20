@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792195340568-js35ra",
-    "source": "x",
-    "ts": "2026-10-17T00:02:20.568Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-17T00:00:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Hold RLUSD and share in $800,000 worth of XRP rewards! \n\nEarn up to 7.77% APR.*\n\nReward APRs are updated weekly.\n\nDetails:",
-    "url": "https://x.com/binance/status/2111245808100159601"
-  },
-  {
     "id": "x-1792195342701-4guipq",
     "source": "x",
     "ts": "2026-10-17T00:02:22.701Z",
@@ -7833,5 +7820,24 @@
     "reason": "No notable move, no specific price or event mentioned.",
     "text": "A disruptive new DEX just went live... \n\nThe @metricxyz DEX launched in full only days ago, across @BNBChain, @Ethereum and @RobinhoodCrypto Chain.\n\nRather than adopting the traditional AMM model, Metric is integrated with @chainlink data streams, to provide traders a better",
     "url": "https://x.com/BSCNews/status/2112353607119262074"
+  },
+  {
+    "id": "x-1792460551633-5jfu5u",
+    "source": "x",
+    "ts": "2026-10-20T01:42:31.633Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CertiK Alert",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-20T01:41:33.000Z",
+    "reason": "Exploit detection reported by Certik Security Dashboard",
+    "text": "#CertiKInsight 🚨\n\nWe have detected  deposit of 1255.8 ETH (~$3M) from Aztec rollup exploiter in June.\n\nCertiK Report Security Dashboard 👇 \n\nStay Vigilant!",
+    "url": "https://x.com/CertiKAlert/status/2112358527348179206",
+    "images": [
+      "https://pbs.twimg.com/media/HVCZ06baMAE45il.jpg",
+      "https://pbs.twimg.com/media/HVCaFVPaQAA8zdM.jpg"
+    ],
+    "video": null
   }
 ]
