@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792193536169-o2za6l",
-    "source": "x",
-    "ts": "2026-10-16T23:32:16.169Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-16T23:30:00.000Z",
-    "reason": "Notable move in AI development related to Ethereum.",
-    "text": "🔥Ethereum co-founder Vitalik Buterin builds a “paranoid mode” for his AI agent using zkAPI, Tor and cover traffic.\n\nEach conversation gets its own Tor circuit, and requests are masked with random cover traffic.\n\nHis zkAPI tool ensures users don’t leak their identity through",
-    "url": "https://x.com/coinbureau/status/2111238259154293029",
-    "images": [
-      "https://pbs.twimg.com/media/HUyV63kbUAArYeH.png",
-      "https://pbs.twimg.com/media/HUyV63faEAEOpoJ.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792195337611-f8k1yw",
-    "source": "x",
-    "ts": "2026-10-17T00:02:17.611Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-17T00:00:21.000Z",
-    "reason": "No notable move or news value.",
-    "text": "Anthropic’s Claude Mythos 5 Cuts Quantum Circuit Gate Count for Elliptic-Curve Operations by 17x\n\nOn October 16, Anthropic published research showing that Claude Mythos 5, assisted by an automated evaluation system, optimized eight quantum circuit design tasks spanning quantum",
-    "url": "https://x.com/WuBlockchain/status/2111245896998641814"
-  },
-  {
     "id": "x-1792195340568-js35ra",
     "source": "x",
     "ts": "2026-10-17T00:02:20.568Z",
@@ -7839,5 +7807,31 @@
     "reason": "No notable move in crypto news categories.",
     "text": "Have to give the EU regulators credit where it’s due for making all Apple products use USB-C",
     "url": "https://x.com/elonmusk/status/2112348601255125059"
+  },
+  {
+    "id": "x-1792459921114-xjtv9t",
+    "source": "x",
+    "ts": "2026-10-20T01:32:01.114Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T01:31:02.000Z",
+    "reason": "No notable crypto-related information.",
+    "text": "🚨 JUST IN: OpenAI is reportedly rushing to close a roughly $30 billion funding round that could value it above $1.4 trillion before Anthropic’s expected mid-November IPO, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2112355880997920900"
+  },
+  {
+    "id": "x-1792459923140-sqcy89",
+    "source": "x",
+    "ts": "2026-10-20T01:32:03.140Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-20T01:22:00.000Z",
+    "reason": "No notable move, no specific price or event mentioned.",
+    "text": "A disruptive new DEX just went live... \n\nThe @metricxyz DEX launched in full only days ago, across @BNBChain, @Ethereum and @RobinhoodCrypto Chain.\n\nRather than adopting the traditional AMM model, Metric is integrated with @chainlink data streams, to provide traders a better",
+    "url": "https://x.com/BSCNews/status/2112353607119262074"
   }
 ]
