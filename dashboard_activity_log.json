@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792346551231-l2ryfn",
-    "source": "x",
-    "ts": "2026-10-18T18:02:31.231Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-18T17:56:00.000Z",
-    "reason": "Zama's TVL has experienced a significant increase, reaching $131M in the last month.",
-    "text": "Zama's TVL has nearly doubled in the last month.\n\nAccording to DefiLlama data, @Zama's total value locked (TVL) has exploded +82% in the last 30 days, reaching a total of $131M at time of writing. \n\nZama is a platform designed to bring data privacy to public blockchains using",
-    "url": "https://x.com/BSCNews/status/2111878979665969207",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111751280141963264/vid/avc1/1312x720/33Tzhqts1dRFKGWW.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111751280141963264/img/Og3LvMTROtflF44w.jpg"
-    }
-  },
-  {
-    "id": "x-1792348830041-w4ksua",
-    "source": "x",
-    "ts": "2026-10-18T18:40:30.041Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-18T18:30:17.000Z",
-    "reason": "Exploit led to a significant minting and wallet freeze incident.",
-    "text": "🚨 REKT: Cysic halted its bridge after an attacker exploited a flaw to mint 10M CYS on BNB Chain, with about 2.8M still frozen in the hacker's wallet. What's the real damage?",
-    "url": "https://x.com/Cointelegraph/status/2111887608078901721",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792348834729-61x8fm",
     "source": "x",
     "ts": "2026-10-18T18:40:34.729Z",
@@ -8140,5 +8103,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112617100229398529/img/2B7AnHga5_7lNYpy.jpg"
     }
+  },
+  {
+    "id": "x-1792525312521-bmeq1w",
+    "source": "x",
+    "ts": "2026-10-20T19:41:52.521Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T19:41:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "⚡️ INSIGHT: Adam Back says potential MSCI index removal would cost Strategy passive inflows, but active fund managers seeking to outperform the index could still buy its shares.",
+    "url": "https://x.com/Cointelegraph/status/2112630181244309744"
+  },
+  {
+    "id": "x-1792525316074-4ei0mx",
+    "source": "x",
+    "ts": "2026-10-20T19:41:56.074Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-20T19:32:15.000Z",
+    "reason": "Swiss regulator's approval of a retail Bitcoin fund is a notable move in crypto regulation.",
+    "text": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+    "url": "https://x.com/DecryptMedia/status/2112627977976430825",
+    "images": [],
+    "video": null
   }
 ]
