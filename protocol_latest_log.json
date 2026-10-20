@@ -510,6 +510,20 @@
     "relevanceRejected": false
   },
   {
+    "id": "proto-29eda3a48ff3c5f3",
+    "title": "Blog: Your First Ethereum Classic Node, Part 1: Build core-geth from Source",
+    "url": "https://ethereumclassic.org/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source",
+    "description": "Part 1 of a three-part series: build core-geth from source, start your own Ethereum Classic node, and talk to it from the console.",
+    "publishedAt": "2026-10-15T00:00:00.000Z",
+    "source": "Ethereum Classic",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-19T21:52:52.112Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
     "id": "proto-ed84ae7bd7828874",
     "title": "CARDANO MINDSET — Poème 003 : Mon wallet, ma responsabilité",
     "url": "https://forum.cardano.org/t/cardano-mindset-poeme-003-mon-wallet-ma-responsabilite/157385",
@@ -716,6 +730,20 @@
     "sourceKind": "blog",
     "translated": false,
     "fetchedAt": "2026-10-16T08:03:20.372Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-05095c3da8455fbe",
+    "title": "NEAR Brings Confidential SOL Yield to near.com with Kamino",
+    "url": "https://kamino.com/blog/near-brings-confidential-sol-yield-to-near-com-with-kamino",
+    "description": "Deposit SOL from a confidential account on near.com and earn yield in a Gauntlet-curated Kamino vault, without exposing your wallet address. No lockup.",
+    "publishedAt": "2026-10-16T09:00:00.000Z",
+    "source": "Kamino",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-20T01:33:24.419Z",
     "userStatus": null,
     "relevanceRejected": false
   },
@@ -1098,34 +1126,6 @@
     "relevanceRejected": false
   },
   {
-    "id": "proto-29eda3a48ff3c5f3",
-    "title": "Blog: Your First Ethereum Classic Node, Part 1: Build core-geth from Source",
-    "url": "https://ethereumclassic.org/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source",
-    "description": "Part 1 of a three-part series: build core-geth from source, start your own Ethereum Classic node, and talk to it from the console.",
-    "publishedAt": "2026-10-15T00:00:00.000Z",
-    "source": "Ethereum Classic",
-    "sourceType": "protocol",
-    "sourceKind": "blog",
-    "translated": false,
-    "fetchedAt": "2026-10-19T21:52:52.112Z",
-    "userStatus": null,
-    "relevanceRejected": false
-  },
-  {
-    "id": "proto-ccda7d3ce6273d2d",
-    "title": "Beyond treasury votes: How to verify Cardano’s public funding?",
-    "url": "https://forum.cardano.org/t/beyond-treasury-votes-how-to-verify-cardano-s-public-funding/157479",
-    "description": "Every blockchain needs resources to maintain its infrastructure, fund research, improve its tools, and support ecosystem development. Cardano does this through a treasury governed on-chain, allowing the community to influence how funds are allocated. But knowing how much ADA was approved is only the beginning. We should also understand where that ADA comes from, who authorizes its withdrawal, and ",
-    "publishedAt": "2026-10-19T22:54:59.000Z",
-    "source": "Cardano Forum",
-    "sourceType": "protocol",
-    "sourceKind": "forum",
-    "translated": false,
-    "fetchedAt": "2026-10-19T23:02:37.216Z",
-    "userStatus": null,
-    "relevanceRejected": false
-  },
-  {
     "id": "proto-cf034eabc31db408",
     "title": "Two Ways to Read Chainlink Prices on Stellar: Data Feeds and Data Streams",
     "url": "https://stellar.org/blog/developers/ways-to-read-chainlink-prices-on-stellar-data-feeds-and-data-streams",
@@ -1140,16 +1140,16 @@
     "relevanceRejected": false
   },
   {
-    "id": "proto-05095c3da8455fbe",
-    "title": "NEAR Brings Confidential SOL Yield to near.com with Kamino",
-    "url": "https://kamino.com/blog/near-brings-confidential-sol-yield-to-near-com-with-kamino",
-    "description": "Deposit SOL from a confidential account on near.com and earn yield in a Gauntlet-curated Kamino vault, without exposing your wallet address. No lockup.",
-    "publishedAt": "2026-10-16T09:00:00.000Z",
-    "source": "Kamino",
+    "id": "proto-ccda7d3ce6273d2d",
+    "title": "Beyond treasury votes: How to verify Cardano’s public funding?",
+    "url": "https://forum.cardano.org/t/beyond-treasury-votes-how-to-verify-cardano-s-public-funding/157479",
+    "description": "Every blockchain needs resources to maintain its infrastructure, fund research, improve its tools, and support ecosystem development. Cardano does this through a treasury governed on-chain, allowing the community to influence how funds are allocated. But knowing how much ADA was approved is only the beginning. We should also understand where that ADA comes from, who authorizes its withdrawal, and ",
+    "publishedAt": "2026-10-19T22:54:59.000Z",
+    "source": "Cardano Forum",
     "sourceType": "protocol",
-    "sourceKind": "blog",
+    "sourceKind": "forum",
     "translated": false,
-    "fetchedAt": "2026-10-20T01:33:24.419Z",
+    "fetchedAt": "2026-10-19T23:02:37.216Z",
     "userStatus": null,
     "relevanceRejected": false
   },
