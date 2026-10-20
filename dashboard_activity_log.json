@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792212132865-3ua9k5",
-    "source": "x",
-    "ts": "2026-10-17T04:42:12.865Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-17T04:37:00.000Z",
-    "reason": "New use of a token on a different network/network.",
-    "text": "OnRe Finance's 'ONyc' is coming to Monad.\n\nUntil now, @onrefinance's ONyc reinsurance-backed yield asset has only been available on @Solana.\n\nHowever, the new nONyc, which packages the asset through @plumenetwork Vaults, is bringing OnRe's asset to other EVM networks and @Monad",
-    "url": "https://x.com/BSCNews/status/2111315516933497218",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111036663816151041/vid/avc1/1312x720/ofhXLYYIgaRITYTl.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111036663816151041/img/vPWOAVmQiTYGul9d.jpg"
-    }
-  },
-  {
-    "id": "x-1792212724069-qvfbo3",
-    "source": "x",
-    "ts": "2026-10-17T04:52:04.069Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-17T04:42:36.000Z",
-    "reason": "The tweet is about a legal issue unrelated to cryptocurrency.",
-    "text": "🇺🇸 BREAKING: U.S Federal judge threatens sanctions against President Trump for refusing to testify in his own $10 BILLION defamation lawsuit against the BBC.\n\nTrump’s legal team reportedly pulled him from a scheduled deposition, citing “matters of national importance,” and said",
-    "url": "https://x.com/coinbureau/status/2111316926756712501"
-  },
-  {
     "id": "x-1792213301830-6e0y9b",
     "source": "x",
     "ts": "2026-10-17T05:01:41.830Z",
@@ -7851,5 +7817,36 @@
     "reason": "No notable crypto-related event.",
     "text": "🇰🇷 BREAKING: ₩170 TRILLION wiped from South Korean stocks as Kospi plunges -3.5%.\n\nAI-chip stocks dumps as fears over debt infrastructure grows.\n\nSK Hynix sank as much as -5.6%, while Samsung Electronics fell -2.6%.\n\nThe selloff comes despite a tech-led Wall Street rally",
     "url": "https://x.com/coinbureau/status/2112388273507320094"
+  },
+  {
+    "id": "x-1792468365151-dt3tin",
+    "source": "x",
+    "ts": "2026-10-20T03:52:45.151Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-20T03:45:59.000Z",
+    "reason": "Ethereum upgrade details and potential impact on gas limits.",
+    "text": "⚡️ UPDATE: Ethereum’s Glamsterdam upgrade will go live on the Hoodi testnet on October 26 alongside a gas limit increase to 200M, with no mainnet date set yet.",
+    "url": "https://x.com/Cointelegraph/status/2112389842768113998",
+    "images": [
+      "https://pbs.twimg.com/media/HVC3XfrXMAAhcvY.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792468367633-bq0tsh",
+    "source": "x",
+    "ts": "2026-10-20T03:52:47.633Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-20T03:44:09.000Z",
+    "reason": "No notable move or specific, verifiable event.",
+    "text": "Ethereum's Glamsterdam Test Has a New Date\n\nEthereum (@ethereum) ethereum:native developers have scheduled the Glamsterdam upgrade for the Hoodi testnet on October 26.\n\nThe activation is set for 17:42:48 UTC. The test will raise Hoodi’s gas limit to 200 million.\n\nGlamsterdam",
+    "url": "https://x.com/BSCNews/status/2112389381596303861"
   }
 ]
