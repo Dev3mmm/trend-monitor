@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1792371747381-5zumns",
-    "source": "x",
-    "ts": "2026-10-19T01:02:27.381Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T01:00:15.000Z",
-    "reason": "No notable move in crypto or related events.",
-    "text": "🔥 HUGE: Iran says two oil tankers carrying about 2M barrels each hit mines in the Strait of Hormuz, on the same day it offered the US a 7 day plan to reopen it.",
-    "url": "https://x.com/Cointelegraph/status/2111985747477622856"
-  },
-  {
-    "id": "x-1792371752785-nwgqf6",
-    "source": "x",
-    "ts": "2026-10-19T01:02:32.785Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-19T00:56:00.000Z",
-    "reason": "Not newsworthy, typical reserve addition.",
-    "text": "Chainlink buys another $1.1M worth of $LINK for its reserve.\n\n@Chainlink, as has become typical, has added another big purchase to its official reserve.\n\nWith the purchase, the reserve's holdings now stand at 6.29M $LINK, worth $75.5M at time of writing.\n\nSince launching the",
-    "url": "https://x.com/BSCNews/status/2111984676143346168",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111752057656840192/vid/avc1/1312x720/pLpR9uIl211Lx_7V.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111752057656840192/img/W80t9Ti03BuoPJ7C.jpg"
-    }
-  },
-  {
-    "id": "x-1792373429616-7g0uvt",
-    "source": "x",
-    "ts": "2026-10-19T01:30:29.616Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-19T01:21:55.000Z",
-    "reason": "Exploit of wallet seeds leading to significant loss of funds",
-    "text": "Qubic Attack Drains 1,404 Wallets of Approximately 2.94 Trillion QU, With 87.1% of Stolen Funds Frozen\n\nLayer 1 network Qubic said in a post that between 23:42 UTC on October 17 and 01:26 UTC on October 18, an attacker exploited insufficient randomness in certain wallet seeds to",
-    "url": "https://x.com/WuBlockchain/status/2111991201016721809",
-    "images": [
-      "https://pbs.twimg.com/media/HU9MzAlagAAcfTd.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792373920335-u62v9y",
     "source": "x",
     "ts": "2026-10-19T01:38:40.335Z",
@@ -8160,5 +8108,52 @@
     "reason": "No notable move in price.",
     "text": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible",
     "url": "https://x.com/elonmusk/status/2112666467712073815"
+  },
+  {
+    "id": "x-1792534930389-gcty8t",
+    "source": "x",
+    "ts": "2026-10-20T22:22:10.389Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T22:21:00.000Z",
+    "reason": "Vague opinion with no factual claim or data provided.",
+    "text": "🔥 BULLISH: Grayscale says AI compute demand remains strong despite a roughly 27% slide in compute infrastructure stocks since September, calling the pullback a buying opportunity.",
+    "url": "https://x.com/Cointelegraph/status/2112670444264300803"
+  },
+  {
+    "id": "x-1792534932895-o0zkpt",
+    "source": "x",
+    "ts": "2026-10-20T22:22:12.895Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-20T22:17:15.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+    "url": "https://x.com/DecryptMedia/status/2112669501514752505"
+  },
+  {
+    "id": "x-1792534936815-ruusx6",
+    "source": "x",
+    "ts": "2026-10-20T22:22:16.815Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-20T22:16:00.000Z",
+    "reason": "Notable institutional adoption and changing investor demand for Litecoin ETF.",
+    "text": "Something is happening with LTC ...\n\nThe performance of Canary's spot @litecoin ETF has shocked the industry since mid-September.\n\nUntil then, inflows to the product had been sporadic at best. Now, the ETF seems to be taking on a whole new life.\n\nDemand from investors has been",
+    "url": "https://x.com/BSCNews/status/2112669186925461550",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112456346012397568/vid/avc1/1312x720/FCuFG94e9b6dGWkY.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112456346012397568/img/8Ycd4b4u6FX6aVNq.jpg"
+    }
   }
 ]
