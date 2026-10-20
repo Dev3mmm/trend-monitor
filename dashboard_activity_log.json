@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792342968059-n5bdna",
-    "source": "x",
-    "ts": "2026-10-18T17:02:48.059Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 36,
-    "originTimestamp": "2026-10-18T16:26:42.000Z",
-    "reason": "No factual claim or notable event described.",
-    "text": "Talarico hates Texas",
-    "url": "https://x.com/elonmusk/status/2111864930815402428"
-  },
-  {
     "id": "x-1792343597945-2mq8hq",
     "source": "x",
     "ts": "2026-10-18T17:13:17.945Z",
@@ -8111,5 +8098,21 @@
     "reason": "No notable crypto-related event.",
     "text": "Ebola is a scam. They will use the media to manufacture consent. Reject it.",
     "url": "https://x.com/amerix/status/2112611093801840741"
+  },
+  {
+    "id": "x-1792521743075-3l5lnv",
+    "source": "x",
+    "ts": "2026-10-20T18:42:23.075Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-20T18:39:58.000Z",
+    "reason": "Specific statement about the viability and use cases of tokenization.",
+    "text": "🎥 99%” of tokenization use cases aren’t better, faster or cheaper, says @Cardano Foundation CEO @F_Gregaard.\n\nSo what would make tokenization worth using—and what is Cardano doing differently?\n\nWatch the interview:",
+    "url": "https://x.com/Cointelegraph/status/2112614820465750303",
+    "images": [],
+    "video": null
   }
 ]
