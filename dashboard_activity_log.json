@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792312953169-tkgl5s",
-    "source": "x",
-    "ts": "2026-10-18T08:42:33.169Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-18T08:37:00.000Z",
-    "reason": "Notable institutional financial performance related to a stablecoin issuer.",
-    "text": "Circle made $1.4 BILLION in the first half of the year...\n\nAccording to WuBlockchain, $USDC issuer @Circle generated a staggering $1.4 billion in revenue in H1 2026.\n\nThat said, some 59% of that was spent on USDC distribution partners and txn costs. Another 34% was spent on",
-    "url": "https://x.com/BSCNews/status/2111738302806229273",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2111372087851937792/vid/avc1/1312x720/VAazWkEcdn-S1ohB.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111372087851937792/img/xH-a0GkhLlbUQ9ny.jpg"
-    }
-  },
-  {
     "id": "x-1792312959660-1bt6hw",
     "source": "x",
     "ts": "2026-10-18T08:42:39.660Z",
@@ -8080,5 +8059,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112570363238391808/img/OR3LFtdQQLjFP38b.jpg"
     }
+  },
+  {
+    "id": "x-1792512137328-90vlny",
+    "source": "x",
+    "ts": "2026-10-20T16:02:17.328Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-20T16:01:42.000Z",
+    "reason": "Potential security concern related to exposed public keys in BTC addresses.",
+    "text": "🚨 UPDATE: 1.7M $BTC sits in addresses with exposed public keys, Starknet says, as quantum attack estimates fall 20x.",
+    "url": "https://x.com/Cointelegraph/status/2112574992621650189",
+    "images": [
+      "https://pbs.twimg.com/media/HVFfwngXQAE9mZ4.jpg"
+    ],
+    "video": null
   }
 ]
