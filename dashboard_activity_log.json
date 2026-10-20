@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1792308712025-c6ddpp",
-    "source": "x",
-    "ts": "2026-10-18T07:31:52.025Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-18T07:26:00.000Z",
-    "reason": "New stablecoin gaining attention and analysis",
-    "text": "Here's why @ethena's $USDe token is now a top-3 stablecoin. Think is worth understanding... ⬇️",
-    "url": "https://x.com/BSCNews/status/2111720434857283840",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792311715340-wvsl7f",
-    "source": "x",
-    "ts": "2026-10-18T08:21:55.340Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-18T08:15:36.000Z",
-    "reason": "No notable news provided, only a speculative statement without supporting evidence.",
-    "text": "🚨WARNING: Up to 80% of independent AI cloud operators could face bankruptcy or consolidation, according to Gartner.\n\nDan Niles warns of a “huge wave of bankruptcies” as AI overinvestment leaves smaller providers with massive debts and excess capacity.\n\nYet, he predicts",
-    "url": "https://x.com/coinbureau/status/2111732917949055354"
-  },
-  {
-    "id": "x-1792312312131-c5hjsn",
-    "source": "x",
-    "ts": "2026-10-18T08:31:52.131Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-18T08:30:21.000Z",
-    "reason": "Notable institutional interest in tokenization and crypto payments.",
-    "text": "🔥 BIG: Goldman Sachs, Wells Fargo and Morgan Stanley all pitched tokenization as a growth opportunity on their Q3 calls, with Wells Fargo already settling cross-border payments in two minutes using tokenized deposits.",
-    "url": "https://x.com/Cointelegraph/status/2111736628804812961",
-    "images": [
-      "https://pbs.twimg.com/media/HU5lQ9uWAAA4mzg.png",
-      "https://pbs.twimg.com/media/HU5lRNNX0AAZ8zl.png",
-      "https://pbs.twimg.com/media/HU5lRavWEAAVasu.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792312953169-tkgl5s",
     "source": "x",
     "ts": "2026-10-18T08:42:33.169Z",
@@ -8078,6 +8029,56 @@
       "duration": 31,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112567578195353600/img/2eQFh9Rpean5SUfr.jpg"
+    }
+  },
+  {
+    "id": "x-1792511525843-ca9qq5",
+    "source": "x",
+    "ts": "2026-10-20T15:52:05.843Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-20T15:50:00.000Z",
+    "reason": "No basis in factual claim or specific information.",
+    "text": "🌍40+ countries in the world now TAX crypto!\n\nHere’s every rate:\n\n🇯🇵 Japan: 55% (20% expected from 2028)\n🇩🇰 Denmark: 52%\n🇩🇪 Germany: 45% (0% if held 1yr+)\n🇦🇺 Australia: 45% (50% discount if held 1yr+)\n🇱🇺 Luxembourg: 42% (0% if held 6mo+)\n🇺🇸 USA: 37%\n🇲🇽 Mexico: 35%\n🇹🇭 Thailand:",
+    "url": "https://x.com/coinbureau/status/2112572047230439594"
+  },
+  {
+    "id": "x-1792511529217-dn78hu",
+    "source": "x",
+    "ts": "2026-10-20T15:52:09.217Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 56,
+    "originTimestamp": "2026-10-20T14:55:38.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🚨UPDATE: Reports that a U.S.-Iran deal is CLOSE are FALSE, according to a diplomat involved in the negotiations.\n\nTalks between Washington and Tehran are STILL ONGOING, contradicting earlier reports suggesting a breakthrough was near.",
+    "url": "https://x.com/coinbureau/status/2112570870309044669",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792511532728-6zpdxi",
+    "source": "x",
+    "ts": "2026-10-20T15:52:12.728Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-20T15:43:27.000Z",
+    "reason": "New native self-custody wallet for Starknet blockchain.",
+    "text": "Starknet now has its own native self-custody wallet\n\nThe @Starknet Foundation has released the @Bramble_fi wallet, designed to leverage native account abstraction and zero-knowledge capabilities on @Starknet. \n\nSTRK20, a privacy standard on the Starknet blockchain, enables",
+    "url": "https://x.com/BSCNews/status/2112570397564555522",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112570363238391808/vid/avc1/1316x720/5uGXTgqzd1Bo4-AP.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112570363238391808/img/OR3LFtdQQLjFP38b.jpg"
     }
   }
 ]
