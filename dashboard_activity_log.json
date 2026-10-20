@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792211570889-1brch9",
-    "source": "x",
-    "ts": "2026-10-17T04:32:50.889Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-17T04:30:16.000Z",
-    "reason": "Crypto PACs significantly exceed initial plan with $52M.",
-    "text": "🚨🇺🇸 HUGE: Crypto PACs have now poured over $52M into keeping Sherrod Brown out of the Senate, blowing way past Fairshake's original $30M plan.",
-    "url": "https://x.com/Cointelegraph/status/2111313823449633263",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792211573402-mdw661",
-    "source": "x",
-    "ts": "2026-10-17T04:32:53.402Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 63,
-    "originTimestamp": "2026-10-17T03:29:17.000Z",
-    "reason": "No notable move in crypto prices or events.",
-    "text": "Yes! No more ads so ugly they make your eyes bleed. \n\nTears of Blood 🩸",
-    "url": "https://x.com/elonmusk/status/2111313240420737438"
-  },
-  {
     "id": "x-1792211575661-1x27gy",
     "source": "x",
     "ts": "2026-10-17T04:32:55.661Z",
@@ -7849,5 +7820,36 @@
     "reason": "No notable crypto-related content.",
     "text": "🇺🇸 JUST IN: President Trump says he’s open to three-way talks with Xi Jinping and Vladimir Putin as soon as next month to discuss nuclear weapons, denuclearization, and possibly trade.",
     "url": "https://x.com/Cointelegraph/status/2112382294203760989"
+  },
+  {
+    "id": "x-1792467122450-ze24f7",
+    "source": "x",
+    "ts": "2026-10-20T03:32:02.450Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T03:31:02.000Z",
+    "reason": "No notable crypto-related move or news.",
+    "text": "🔥 NEW: Former Google CEO Eric Schmidt reportedly owns about 1% of Anthropic, setting him up for a huge IPO windfall, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2112386078883652068"
+  },
+  {
+    "id": "x-1792467125049-3rzzyl",
+    "source": "x",
+    "ts": "2026-10-20T03:32:05.049Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-20T03:23:07.000Z",
+    "reason": "Specific institutional action and potential regulatory implications.",
+    "text": "Tether Says Its Wallet Freezes Drove 94% Drop in Iran-Linked Stablecoin Volume\n\nTether CEO Paolo Ardoino disputed U.S. Senator Richard Blumenthal's analysis of the company's sanctions compliance, claiming its wallet freezes had reduced Iran-linked stablecoin transaction volume by",
+    "url": "https://x.com/WuBlockchain/status/2112384087038292137",
+    "images": [
+      "https://pbs.twimg.com/media/HVCyIIQaAAAJR4u.jpg"
+    ],
+    "video": null
   }
 ]
