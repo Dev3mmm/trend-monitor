@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1792348834729-61x8fm",
-    "source": "x",
-    "ts": "2026-10-18T18:40:34.729Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-18T18:28:06.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "⚡️NEW: Anthropic commits roughly 20% of its shares to PUBLIC BENEFIT, launching the \"Anthropic Public Benefit Fund\" with an initial 5% stake.\n\nThe fund could receive up to another 2% for every 50% increase in Anthropic's valuation, subject to board approval.\n\nIts co-founders have",
-    "url": "https://x.com/coinbureau/status/2111887059162103840"
-  },
-  {
-    "id": "x-1792349327673-6ql5qe",
-    "source": "x",
-    "ts": "2026-10-18T18:48:47.673Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-18T18:30:17.000Z",
-    "reason": "Exploit led to significant token loss and damage assessment needed.",
-    "text": "🚨 REKT: Cysic halted its bridge after an attacker exploited a flaw to mint 10M CYS on BNB Chain, with about 2.8M still frozen in the hacker's wallet. What's the real damage?",
-    "url": "https://x.com/Cointelegraph/status/2111887608078901721",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792349333114-2fjaqz",
-    "source": "x",
-    "ts": "2026-10-18T18:48:53.114Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-18T18:28:06.000Z",
-    "reason": "No notable move in price or significant news related to the tweet content.",
-    "text": "⚡️NEW: Anthropic commits roughly 20% of its shares to PUBLIC BENEFIT, launching the \"Anthropic Public Benefit Fund\" with an initial 5% stake.\n\nThe fund could receive up to another 2% for every 50% increase in Anthropic's valuation, subject to board approval.\n\nIts co-founders have",
-    "url": "https://x.com/coinbureau/status/2111887059162103840"
-  },
-  {
     "id": "x-1792350461498-pw7hqg",
     "source": "x",
     "ts": "2026-10-18T19:07:41.498Z",
@@ -8132,5 +8090,52 @@
     "url": "https://x.com/DecryptMedia/status/2112627977976430825",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792525970648-xnbdmb",
+    "source": "x",
+    "ts": "2026-10-20T19:52:50.648Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-20T19:44:53.000Z",
+    "reason": "No notable crypto-related news or move.",
+    "text": "YouTube has banned The Bitcoin Conference channel. \n\nAll our channel does is post keynotes and panels from the largest Bitcoin conference in the world, bringing Bitcoin education to the masses.\n\nPlease reinstate our channel.\n\n@YouTube @TeamYouTube",
+    "url": "https://x.com/BitcoinMagazine/status/2112631684243788010"
+  },
+  {
+    "id": "x-1792525976051-3eps84",
+    "source": "x",
+    "ts": "2026-10-20T19:52:56.051Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-20T19:46:25.000Z",
+    "reason": "Generic financial information without a clear crypto/crypto-related angle.",
+    "text": "🚨ALARMING: Anthropic's draft IPO filing reveals an $80.7 BILLION net loss in H1 2026, despite revenue surging nearly 15x to $16.3 BILLION, per WSJ.\n\nThe loss largely reflects accounting adjustments, while computing costs reached nearly $9 BILLION.\n\nFuture computing commitments",
+    "url": "https://x.com/coinbureau/status/2112631543923679233"
+  },
+  {
+    "id": "x-1792525981471-xl6txd",
+    "source": "x",
+    "ts": "2026-10-20T19:53:01.471Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-20T19:45:00.000Z",
+    "reason": "Notable institutional support for a blockchain ecosystem.",
+    "text": "Alchemy puts $1M behind teams building on Arc\n\n@Alchemy, which provides the servers and tools apps use to connect to blockchains, is offering eligible teams building on @arc up to $10K in credits for its services. The credits go straight into a team’s Alchemy account and cover a",
+    "url": "https://x.com/BSCNews/status/2112631186442875169",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112612491691745280/vid/avc1/1220x720/xwgzYxWaoEpUBpDM.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112612491691745280/img/aJkoYQ0Nm8ajWGnT.jpg"
+    }
   }
 ]
