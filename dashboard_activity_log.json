@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792250522835-a7w8gg",
-    "source": "x",
-    "ts": "2026-10-17T15:22:02.835Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-17T15:17:13.000Z",
-    "reason": "No notable move, no newsworthy information.",
-    "text": "BIS: Stablecoins and Bank Deposits Act as Substitutes as Deposit Hikes Slow Stablecoin Growth\n\nBIS (Bank for International Settlements) working paper finds that stablecoins and bank deposits act as direct portfolio substitutes. Analyzing U.S. data, the authors show that a",
-    "url": "https://x.com/WuBlockchain/status/2111476632011804680"
-  },
-  {
     "id": "x-1792251213571-c5xvut",
     "source": "x",
     "ts": "2026-10-17T15:33:33.571Z",
@@ -7946,5 +7933,26 @@
       "https://pbs.twimg.com/media/HVElJZCX0AEDI-n.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792497796391-lssom4",
+    "source": "x",
+    "ts": "2026-10-20T12:03:16.391Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-20T11:56:47.000Z",
+    "reason": "French government imposes tax on crypto-stablecoin conversions.",
+    "text": "France imposes tax on crypto-stablecoin conversion\n\nFrench parliament passes legislation that will impose a 31.4% flat tax on cryptocurrency-to-stablecoin exchanges.\n\nThis ends the tax-deferred policy that used to apply to on-chain rebalancing.\n\nUnder the bill, exchanging digital",
+    "url": "https://x.com/BSCNews/status/2112513357014044927",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112512979727994880/vid/avc1/1316x720/Z4WfOMYDx01vE3sX.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112512979727994880/img/w2fvu4GdFWf1PFtN.jpg"
+    }
   }
 ]
