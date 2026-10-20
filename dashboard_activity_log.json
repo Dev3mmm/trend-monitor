@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792245818370-8vz38e",
-    "source": "x",
-    "ts": "2026-10-17T14:03:38.370Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-17T13:56:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Lesser-known memecoin ecosystems you should be watching...\n\nEveryone knows about the crazy memecoin ecosystems on chains like @Solana and @RobinhoodApp, but we think these alternative L1 chains are showing promising signs:\n\n(1) @injective is pushing hard to grow its community",
-    "url": "https://x.com/BSCNews/status/2111456193940238735"
-  },
-  {
-    "id": "x-1792246925843-mjod2c",
-    "source": "x",
-    "ts": "2026-10-17T14:22:05.843Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-17T14:15:00.000Z",
-    "reason": "No notable move in price or significant event described.",
-    "text": "🚨 BRUTAL: Leopold Aschenbrenner rebuilt his AI bets after July’s forced liquidation, only to face ANOTHER sharp selloff.\n\nHe bought hundreds of millions of dollars in options premium in early September. \n\nSince September 8, six of the seven stocks highlighted in those bets have",
-    "url": "https://x.com/coinbureau/status/2111460976054739318"
-  },
-  {
     "id": "x-1792247536265-z6ckcz",
     "source": "x",
     "ts": "2026-10-17T14:32:16.265Z",
@@ -7920,5 +7894,45 @@
     "url": "https://x.com/DecryptMedia/status/2112498312225984639",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792494719316-teslq4",
+    "source": "x",
+    "ts": "2026-10-20T11:11:59.316Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-20T11:10:49.000Z",
+    "reason": "Goldman Sachs is a large institution with significant influence on markets, and a negative risk-appetite indicator could affect investor sentiment towards crypto.",
+    "text": "🚨 MARKETS: Goldman Sachs’ risk-appetite indicator turns negative for the first time since April as investors sell AI stocks and move into Treasurys, WSJ reports.\n\nWhat could this shift mean for crypto market?",
+    "url": "https://x.com/Cointelegraph/status/2112501788175630730",
+    "images": [
+      "https://pbs.twimg.com/media/HVEdLZeWYAAApg0.png",
+      "https://pbs.twimg.com/media/HVEdLlvXcAEITxH.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792494725096-n9itya",
+    "source": "x",
+    "ts": "2026-10-20T11:12:05.096Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-20T11:02:41.000Z",
+    "reason": "On-chain data point with a significant price impact on execution costs.",
+    "text": "Sui is fast becoming the cheapest Layer 1 Blockchain \n\n@SuiNetwork average execution costs fell 23.47% to a new execution fee of $0.0000187 on Monday. \n\nThe protocol hit its lowest execution-cost baseline on the Layer-1 platform in the past seven days.\n\nAccording to @Chainspect",
+    "url": "https://x.com/BSCNews/status/2112499743460876344",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112499230598213632/vid/avc1/1316x720/tsrc5hdBnnFjbQau.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112499230598213632/img/kjrBapNJ_3m3uQk3.jpg"
+    }
   }
 ]
