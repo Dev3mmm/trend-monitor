@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1792369911465-beuhv2",
-    "source": "x",
-    "ts": "2026-10-19T00:31:51.465Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T00:30:15.000Z",
-    "reason": "Notable institutional use of crypto for public benefit.",
-    "text": "🚨 BIG: Anthropic is putting 5% of its shares into a new Public Benefit Fund, with up to roughly 20% eventually committed to “the public good.”",
-    "url": "https://x.com/Cointelegraph/status/2111978195071168655",
-    "images": [
-      "https://pbs.twimg.com/media/HU9A-LNXcAA4PpI.jpg",
-      "https://pbs.twimg.com/media/HU9A-Z9W0AA8UuK.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792371747381-5zumns",
     "source": "x",
     "ts": "2026-10-19T01:02:27.381Z",
@@ -8166,5 +8147,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112660431554633728/img/BA-ZRf9esgrIllSr.jpg"
     }
+  },
+  {
+    "id": "x-1792534377267-ow4y0h",
+    "source": "x",
+    "ts": "2026-10-20T22:12:57.267Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-20T22:05:12.000Z",
+    "reason": "No notable move in price.",
+    "text": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible",
+    "url": "https://x.com/elonmusk/status/2112666467712073815"
   }
 ]
