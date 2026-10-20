@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792357328395-6p21z4",
-    "source": "x",
-    "ts": "2026-10-18T21:02:08.395Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-18T21:00:01.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "🚨ALARMING: America's projected $10 TRILLION AI infrastructure boom faces a growing DEBT CRISIS as costs surge and projects stall.\n\nAt least 47 major data center projects are DELAYED, BLOCKED or WITHDRAWN in 2026, FT reports.\n\nThe scale of the risks is GROWING:\n\n- Only 35% of",
-    "url": "https://x.com/coinbureau/status/2111925290679103695"
-  },
-  {
-    "id": "x-1792357331216-ucu7uu",
-    "source": "x",
-    "ts": "2026-10-18T21:02:11.216Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-18T20:56:53.000Z",
-    "reason": "Nothing specific or notable mentioned.",
-    "text": "Plan ₿.",
-    "url": "https://x.com/saylor/status/2111924502607384925"
-  },
-  {
     "id": "x-1792359164222-hde0b1",
     "source": "x",
     "ts": "2026-10-18T21:32:44.222Z",
@@ -8141,5 +8115,34 @@
       "https://pbs.twimg.com/media/HVGfryvXsAAyBsq.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792529533175-ba8z74",
+    "source": "x",
+    "ts": "2026-10-20T20:52:13.176Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-20T20:47:15.000Z",
+    "reason": "Wallet linked to significant Ethereum loss moves funds to Tornado Cash.",
+    "text": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+    "url": "https://x.com/DecryptMedia/status/2112646851711115353",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792529538307-v9i2g8",
+    "source": "x",
+    "ts": "2026-10-20T20:52:18.307Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-20T20:44:00.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Avalanche runs three blockchains at once, and each one has a different job\n\nAvalanche (@avax) splits its main network, called the Primary Network, across the C-Chain, the P-Chain, and the X-Chain.\n\nThe C-Chain is EVM-compatible, so apps built for Ethereum can run there. Since",
+    "url": "https://x.com/BSCNews/status/2112646034287444007"
   }
 ]
