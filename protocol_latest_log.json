@@ -412,6 +412,20 @@
     "relevanceRejected": false
   },
   {
+    "id": "proto-6c31c2232b637449",
+    "title": "Bitcoin Staking With Institutional-Grade Custody",
+    "url": "https://www.stacks.co/blog/bitcoin-staking-with-institutional-grade-custody",
+    "description": "How institutions can earn BTC rewards through Bitcoin Staking on Stacks while keeping native BTC on Bitcoin L1 with institutional-grade custody infrastructure.",
+    "publishedAt": "2026-10-14T15:00:00.000Z",
+    "source": "Stacks",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-20T17:11:38.206Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
     "id": "proto-ae7c1ed2518b7c42",
     "title": "Geo-Aware Leader Schedule",
     "url": "https://solana.com/news/geo-aware-leader-schedule",
@@ -1292,6 +1306,20 @@
     "sourceKind": "blog",
     "translated": false,
     "fetchedAt": "2026-10-20T16:13:03.978Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-deaeb55151d863b0",
+    "title": "Establishing the Standard for Underwriting Cross-Chain Collateral With Chainlink CCIP",
+    "url": "https://kamino.com/blog/establishing-the-standard-for-underwriting-cross-chain-collateral-with-chainlink-ccip",
+    "description": "Kamino’s defense-in-depth framework treats cross-chain infrastructure as a primary risk variable. Assets secured by Chainlink CCIP earn higher caps and LTVs because the standard makes risk measurable once and comparable across chains.",
+    "publishedAt": "2026-10-21T09:00:00.000Z",
+    "source": "Kamino",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-20T17:11:42.108Z",
     "userStatus": null,
     "relevanceRejected": false
   }
