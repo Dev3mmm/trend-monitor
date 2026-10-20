@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792216928052-p0kfo8",
-    "source": "x",
-    "ts": "2026-10-17T06:02:08.052Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-17T06:00:01.000Z",
-    "reason": "Tweet appears to be gibberish or noise.",
-    "text": "💤🫷😌🫸🌿",
-    "url": "https://x.com/binance/status/2111336410431062266"
-  },
-  {
     "id": "x-1792217543949-hdasj7",
     "source": "x",
     "ts": "2026-10-17T06:12:23.949Z",
@@ -7875,5 +7862,26 @@
     "reason": "No notable move in token or market price, and no specific, verifiable event.",
     "text": "🇺🇸 NOW: Fed officials see the AI boom fueling inflation, but further rate hikes are expected to hit small businesses and consumers harder than deep-pocketed AI giants, per Reuters.",
     "url": "https://x.com/Cointelegraph/status/2112408736593596552"
+  },
+  {
+    "id": "x-1792473136699-3u4zjd",
+    "source": "x",
+    "ts": "2026-10-20T05:12:16.699Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-20T05:04:00.000Z",
+    "reason": "Notable institutional move with potential regulatory and market impact.",
+    "text": "BlackRock Files For a Bitcoin ETF With Downside Protection\n\nBlackRock (@BlackRock) has filed for the iShares Bitcoin $BTC Managed Protect ETF with the SEC.\n\nThe fund seeks limited upside exposure to IBIT while offering downside protection.\n\nIts flagship IBIT ETF holds more than",
+    "url": "https://x.com/BSCNews/status/2112409475433005299",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112403273223421952/vid/avc1/1280x720/bfv8ds2Ce9ujFzY-.mp4?tag=29",
+      "duration": 16,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112403273223421952/img/quyH8WehnPbFWw5z.jpg"
+    }
   }
 ]
