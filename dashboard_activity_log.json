@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792216323066-rh72ny",
-    "source": "x",
-    "ts": "2026-10-17T05:52:03.066Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-17T05:47:00.000Z",
-    "reason": "No newsworthy information about stablecoin market caps.",
-    "text": "No alternative stablecoin is even close to competing with Circle and Tether.\n\n@Tether's $USDT and @Circle's $USDC boast market caps of around $183B and $73B respectively.\n\nThere is currently not a single other stablecoin that has a market cap of more than $5B.\n\nThe closest",
-    "url": "https://x.com/BSCNews/status/2111333133199298565"
-  },
-  {
     "id": "x-1792216924427-zbsotz",
     "source": "x",
     "ts": "2026-10-17T06:02:04.427Z",
@@ -7867,5 +7854,26 @@
       "https://pbs.twimg.com/media/HVDBr71WYAE6DAW.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792471333960-v3b01n",
+    "source": "x",
+    "ts": "2026-10-20T04:42:13.960Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-20T04:35:45.000Z",
+    "reason": "Specific, notable institutional investment with a hedge fund announcement.",
+    "text": "Multicoin Makes Hyperliquid Its Biggest Hedge Fund Bet\n\nMulticoin Capital says Hyperliquid (@HyperliquidX) $HYPE is now the largest position in its hedge fund.\n\nGeneral partner Spencer Applebaum said the firm acquired the holding through public markets.\n\nThe firm manages about",
+    "url": "https://x.com/BSCNews/status/2112402365739643234",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112398813633941504/vid/avc1/1280x720/YzH8SHqh2gv9jNBj.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112398813633941504/img/sQ09KMFhhGWJT6d6.jpg"
+    }
   }
 ]
