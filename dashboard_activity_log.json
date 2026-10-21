@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1792454526369-4uja4q",
-    "source": "x",
-    "ts": "2026-10-20T00:02:06.369Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-20T00:00:01.000Z",
-    "reason": "No notable move in Bitcoin price is mentioned.",
-    "text": "Tom Lee: Many VC Friends Say They Wish They Had Just Bought BTC\n\nSpeaking at TOKEN2049 @token2049, Tom Lee @fundstrat said he recently had dinner in Taiwan, China, with some VC friends he first met ten years ago, when he had just begun researching Bitcoin. He noted that Bitcoin",
-    "url": "https://x.com/WuBlockchain/status/2112332977870938549"
-  },
-  {
-    "id": "x-1792455775538-2u5r7r",
-    "source": "x",
-    "ts": "2026-10-20T00:22:55.538Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-20T00:20:00.000Z",
-    "reason": "No notable move or newsworthy information provided.",
-    "text": "Is StonkFun the industry's next big token launchpad?\n\nLaunched in only August of this year, the @LaunchOnSF launchpad on @Solana has been on an absolute tear...\n\n- $40M in total fees.\n- Over $900M in total DEX volume.\n- 21% of $STONK supply now burned.\n\nNew launchpads are popping",
-    "url": "https://x.com/BSCNews/status/2112338004186697885"
-  },
-  {
-    "id": "x-1792456330031-q2oxgx",
-    "source": "x",
-    "ts": "2026-10-20T00:32:10.031Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T00:31:01.000Z",
-    "reason": "No notable move in crypto related to AI development.",
-    "text": "⚡️ NEW: OpenAI CEO Sam Altman reportedly outlined three possible endgames for safe AI development to employees last week, including one where a single company wipes out its rivals’ GPUs, per The Information.",
-    "url": "https://x.com/Cointelegraph/status/2112340778731127183"
-  },
-  {
     "id": "x-1792457532225-0yain7",
     "source": "x",
     "ts": "2026-10-20T00:52:12.225Z",
@@ -8117,5 +8078,57 @@
       "https://pbs.twimg.com/media/HVLi3tsWYAAbhor.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792615960516-0ch84a",
+    "source": "x",
+    "ts": "2026-10-21T20:52:40.516Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T20:50:40.000Z",
+    "reason": "Tokenized stocks market cap hit a new high with significant year-over-year growth.",
+    "text": "🔥 BIG: Tokenized stocks hit $4.4B in market cap, up 886% over the past year, led by BNB Chain, Solana and Ethereum.",
+    "url": "https://x.com/Cointelegraph/status/2113010099690070347",
+    "images": [
+      "https://pbs.twimg.com/media/HVLrfLnXoAE-y_y.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792615963337-8v7yi0",
+    "source": "x",
+    "ts": "2026-10-21T20:52:43.337Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 48,
+    "originTimestamp": "2026-10-21T20:04:24.000Z",
+    "reason": "No notable move or specific action mentioned.",
+    "text": "Great progress by the Tesla team!",
+    "url": "https://x.com/elonmusk/status/2113009907012382829"
+  },
+  {
+    "id": "x-1792615967601-egr4o6",
+    "source": "x",
+    "ts": "2026-10-21T20:52:47.601Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-21T20:44:00.000Z",
+    "reason": "New use of tokenized stocks in a crypto app.",
+    "text": "Zebec Network brings Wall Street names into its crypto app\n\nZebec Network (@Zebec_HQ) has added tokenized stocks to the Zebec SuperApp via xStocks (@xStocksFi). Users can now buy onchain versions of Apple, Nvidia, Amazon, Robinhood, Circle, and other shares, held next to their",
+    "url": "https://x.com/BSCNews/status/2113008421905523106",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112992325840326657/vid/avc1/1220x720/LHa_y9KrZ84k-CjQ.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112992325840326657/img/OXr0aUnHzvrnogG2.jpg"
+    }
   }
 ]
