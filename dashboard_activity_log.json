@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1792427600837-uopnw1",
-    "source": "x",
-    "ts": "2026-10-19T16:33:20.837Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 52,
-    "originTimestamp": "2026-10-19T15:40:34.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Digital credit is misunderstood, but completely transparent.",
-    "url": "https://x.com/saylor/status/2112219431111958889"
-  },
-  {
-    "id": "x-1792427605739-o73orl",
-    "source": "x",
-    "ts": "2026-10-19T16:33:25.739Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-19T16:28:33.000Z",
-    "reason": "Memes and quotes are not considered news.",
-    "text": "Don't be a man who speaks aimlessly and noisily.\n\nNoise is the antithesis of manliness.\n\nLAW 4, in the 48 Laws of Power.\n\nPause. Be thoughtful.\n\nWords are indelible.\n\nThey are like arrows. Once they leave the quiver, they never return.",
-    "url": "https://x.com/amerix/status/2112219360203084108"
-  },
-  {
-    "id": "x-1792427610874-9hresy",
-    "source": "x",
-    "ts": "2026-10-19T16:33:30.874Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coinbase 🛡️",
-    "ageMin": 28,
-    "originTimestamp": "2026-10-19T16:04:34.000Z",
-    "reason": "New partnership for stablecoin infrastructure connection to bank accounts and mobile wallets.",
-    "text": "Stablecoins can cross the world in seconds.\n\nThen they have to land somewhere the recipient can spend them.\n\nWe're working with @ThunesPayments to connect our stablecoin infrastructure to local bank accounts and mobile wallets worldwide.",
-    "url": "https://x.com/coinbase/status/2112218427586670984",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792427616158-19hgo1",
-    "source": "x",
-    "ts": "2026-10-19T16:33:36.158Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-19T16:23:12.000Z",
-    "reason": "Notable institutional adoption and BTC holder.",
-    "text": "JUST IN: 🇯🇵 Japan's Metaplanet to buy Super League for 2,100 BTC and $2.5 million 👀\n\nThis will give the 2nd-largest corporate BTC holder a U.S. listed Bitcoin treasury platform! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2112218012740956347",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112215422132948992/vid/avc1/1280x720/W5wvk7_5l7g4-piS.mp4?tag=29",
-      "duration": 118,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HVAbLdPWkAERPMG.jpg"
-    }
-  },
-  {
     "id": "x-1792427619301-3g9bwc",
     "source": "x",
     "ts": "2026-10-19T16:33:39.302Z",
@@ -8151,5 +8088,65 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112923813012819968/img/rK0L2WwfTel9L8aE.jpg"
     }
+  },
+  {
+    "id": "x-1792597326363-wfxse6",
+    "source": "x",
+    "ts": "2026-10-21T15:42:06.363Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 40,
+    "originTimestamp": "2026-10-21T15:02:00.000Z",
+    "reason": "No factual claim or notable event mentioned.",
+    "text": "Try Grok @Bot",
+    "url": "https://x.com/elonmusk/status/2112932127901987225"
+  },
+  {
+    "id": "x-1792597329735-7spt3z",
+    "source": "x",
+    "ts": "2026-10-21T15:42:09.735Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-21T15:38:10.000Z",
+    "reason": "No notable move or concrete information provided.",
+    "text": "Some fools still think the legacy news is real. Amazing.",
+    "url": "https://x.com/elonmusk/status/2112931457786081428"
+  },
+  {
+    "id": "x-1792597334318-a0b5lc",
+    "source": "x",
+    "ts": "2026-10-21T15:42:14.318Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T15:36:45.000Z",
+    "reason": "Critical vulnerabilities impacting a large portion of the internet引起广泛关注",
+    "text": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+    "url": "https://x.com/DecryptMedia/status/2112931100032897371",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792597339028-j6mtwv",
+    "source": "x",
+    "ts": "2026-10-21T15:42:19.028Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-21T15:34:32.000Z",
+    "reason": "US Treasury Department action on Bitcoin is a notable regulatory move.",
+    "text": "JUST IN: 🇺🇸 US Treasury Department to buy back up to $750 million in longer-term debt today 👀    \n\nBuy Bitcoin 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112930543319085173",
+    "images": [
+      "https://pbs.twimg.com/media/HVKi-CGXYAAR0xF.jpg"
+    ],
+    "video": null
   }
 ]
