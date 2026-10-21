@@ -89,6 +89,7 @@ jobs:
       - name: Binance Square lane (dedupe, pace, paraphrase, Telegram, post)
         run: node square_cloud.js
         env:
+          GH_TOKEN: ${{ github.token }}
           BINANCE_SQUARE_OPENAPI_KEY: ${{ secrets.BINANCE_SQUARE_OPENAPI_KEY }}
         continue-on-error: true
 

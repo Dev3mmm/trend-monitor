@@ -161,6 +161,23 @@ async function download(url, name) {
   return f;
 }
 
+// Commits square_state.json to main via the contents API (body via stdin, no argv limit). Only enforced in Actions.
+function persistRemote() {
+  if (!process.env.GITHUB_ACTIONS) return true;
+  const repo = process.env.GITHUB_REPOSITORY;
+  if (!repo || !process.env.GH_TOKEN) return false;
+  const gh = (args, input) => spawnSync('gh', ['api', ...args], { env: process.env, encoding: 'utf8', input, timeout: 60000 });
+  for (let i = 0; i < 3; i++) {
+    const g = gh([`repos/${repo}/contents/square_state.json`, '--jq', '.sha']);
+    const body = { message: `Square claim ${new Date().toISOString().slice(11, 16)}`, content: fs.readFileSync(STATE_FILE).toString('base64'), branch: 'main' };
+    if (g.status === 0 && g.stdout.trim()) body.sha = g.stdout.trim();
+    const p = gh(['-X', 'PUT', `repos/${repo}/contents/square_state.json`, '--input', '-'], JSON.stringify(body));
+    if (p.status === 0) return true;
+    log(`claim save attempt ${i + 1} failed: ${(p.stderr || '').slice(0, 150)}`);
+  }
+  return false;
+}
+
 function postToSquare(text, images, video) {
   if (video) {
     const r = spawnSync(process.execPath, [path.join('scripts', 'post-video.mjs'), '--video', video.file, '--duration', String(video.duration), '--text', text], { cwd: SKILL_DIR, env: { ...process.env, BINANCE_SQUARE_OPENAPI_KEY: KEY }, encoding: 'utf8', timeout: 300000 });
@@ -233,9 +250,15 @@ ${r.stderr || ''}`;
       await telegram(`SQUARE PREVIEW (not posted: ${DRY ? 'dry run' : 'no key'}; ${imgs.length} img)\n\n${text}`);
       state.posted.push({ text: item.text, final: text, images: item.images, at: now, status: 'dryrun' });
     } else {
-      const r = postToSquare(text, imgs, vid);
+      // Write-ahead claim: commit "this item is posted" to main BEFORE posting. If that save fails, do not post
+      // (a missed post is fine, a duplicate is not).
       state.lastPostAt = now;
-      state.posted.push({ text: item.text, final: text, images: item.images, at: now, status: r.ok ? 'posted' : 'failed', link: r.link, error: r.ok ? undefined : r.error });
+      const rec = { text: item.text, final: text, images: item.images, at: now, status: 'posting' };
+      state.posted.push(rec);
+      saveAtomic(STATE_FILE, state);
+      if (!persistRemote()) { log('claim could not be saved to main: NOT posting (duplicate guard)'); await telegram('SQUARE: state save failed, post skipped to avoid a duplicate'); return; }
+      const r = postToSquare(text, imgs, vid);
+      rec.status = r.ok ? 'posted' : 'failed'; rec.link = r.link; if (!r.ok) rec.error = r.error;
       await telegram(r.ok ? `POSTED to Binance Square (${imgs.length} img)\n${r.link || r.id || ''}\n\n${text}` : `SQUARE POST FAILED: ${r.error}\n\n${text}`);
       log(r.ok ? `posted @${handle}` : `FAILED @${handle}: ${r.error}`);
     }
