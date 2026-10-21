@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792401122199-u8wx6e",
-    "source": "x",
-    "ts": "2026-10-19T09:12:02.199Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T09:08:34.000Z",
-    "reason": "No notable move or event described.",
-    "text": "You nominated. We shortlisted. Now you decide. \n\nVoting for The Blockchain 100 is open 👇",
-    "url": "https://x.com/binance/status/2112108636671820034"
-  },
-  {
-    "id": "x-1792401721550-zh88dn",
-    "source": "x",
-    "ts": "2026-10-19T09:22:01.550Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-19T09:15:00.000Z",
-    "reason": "No notable move; price is within its recent range.",
-    "text": "ICP Makes Credit Card Payments Easier For Developers\n\nDfinity (@dfinity) $ICP founder Dominic Williams (@dominic_w) highlighted a new way to buy Internet Computer cycles using credit cards.\n\nThe latest icp-cli update lets users scan a QR code and pay through Stripe.\n\nCycles are",
-    "url": "https://x.com/BSCNews/status/2112110253647310957",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112092112439463936/vid/avc1/1280x720/yNdVFJpm8f9ztgh-.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112092112439463936/img/e7iu-Y5QTfXCEY_Q.jpg"
-    }
-  },
-  {
     "id": "x-1792402337584-ac03in",
     "source": "x",
     "ts": "2026-10-19T09:32:17.584Z",
@@ -8174,5 +8140,39 @@
     "reason": "No notable move or specific event is mentioned.",
     "text": "Injective (@injective) $INJ and Solana (@solana) $SOL are both fast Layer 1 blockchains, but their priorities are quite different.\n\nHere’s how their technology, ecosystems, and tokens compare 👇",
     "url": "https://x.com/BSCNews/status/2112809119321305333"
+  },
+  {
+    "id": "x-1792569193680-8ir97y",
+    "source": "x",
+    "ts": "2026-10-21T07:53:13.680Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-21T07:50:01.000Z",
+    "reason": "Notable change in token issuance policy by NEAR Protocol.",
+    "text": "NEAR Proposal Targets a Sharp Cut in Token Issuance\n\nNEAR’s (@NEARProtocol) House of Stake is voting on a proposal to reduce annual token issuance from 2.5% to 1.6%.\n\nHSP-029 would phase in the reduction over 24 months, following a 90-day grace period. \n\nUnder the proposal’s",
+    "url": "https://x.com/BSCNews/status/2112813642852790680",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112813396328579075/vid/avc1/1280x720/kX6WP3eVemF6Ac95.mp4?tag=29",
+      "duration": 16,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112813396328579075/img/PxkPeiP3rftU5p-x.jpg"
+    }
+  },
+  {
+    "id": "x-1792569196866-95ey75",
+    "source": "x",
+    "ts": "2026-10-21T07:53:16.866Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 29,
+    "originTimestamp": "2026-10-21T07:23:31.000Z",
+    "reason": "Noise: generic hype with no real content.",
+    "text": "It is very wrong.",
+    "url": "https://x.com/amerix/status/2112811534254551547"
   }
 ]
