@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1792395149764-4gw6p0",
-    "source": "x",
-    "ts": "2026-10-19T07:32:29.764Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-19T07:22:14.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Who actually runs Avalanche (@avax), and what separates Ava Labs from the Avalanche Foundation?\n\nHere's how the two work together to keep the Avalanche ecosystem running👇",
-    "url": "https://x.com/BSCNews/status/2112081875430990053",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792396321699-os9k1o",
-    "source": "x",
-    "ts": "2026-10-19T07:52:01.699Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-19T07:43:34.000Z",
-    "reason": "Specific, verifiable institutional adoption event.",
-    "text": "JUST IN: JPMorgan, US largest bank with $5T+ in assets, now allows clients send USD deposits on Ethereum using JPM Coin.",
-    "url": "https://x.com/coinbureau/status/2112087246304317828",
-    "images": [
-      "https://pbs.twimg.com/media/HU-jLSoaAAAyFnu.jpg",
-      "https://pbs.twimg.com/media/HU-jj7FagAAR-rP.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792396325364-obi9hw",
     "source": "x",
     "ts": "2026-10-19T07:52:05.364Z",
@@ -8174,5 +8139,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112766589766610944/img/YROTj7IC7NYLxq1B.jpg"
     }
+  },
+  {
+    "id": "x-1792562526775-kxaqq0",
+    "source": "x",
+    "ts": "2026-10-21T06:02:06.775Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T06:00:53.000Z",
+    "reason": "Stellar introduces significant protocol upgrade for businesses.",
+    "text": "🚨 UPDATE: Stellar unveils its Bell upgrade (Protocol 30) to scale smart accounts for businesses and lay groundwork for quantum-safe signatures, with mainnet set for Nov. 23.",
+    "url": "https://x.com/Cointelegraph/status/2112786180949352501",
+    "images": [
+      "https://pbs.twimg.com/media/HVIf1Y3XkAAYeLw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792562529968-x8wff1",
+    "source": "x",
+    "ts": "2026-10-21T06:02:09.968Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T06:00:01.000Z",
+    "reason": "Noise: No substantive content provided.",
+    "text": "28–29 Nov 2026",
+    "url": "https://x.com/binance/status/2112785963395231875"
   }
 ]
