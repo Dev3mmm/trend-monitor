@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1792425735520-oz45hx",
-    "source": "x",
-    "ts": "2026-10-19T16:02:15.520Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T16:00:54.000Z",
-    "reason": "Potential security implications from removing legacy code.",
-    "text": "🔥 UPDATE: Trust Wallet cuts 200 MB from its app after removing nine years of legacy code, CEO Felix Fan says more cuts incoming.",
-    "url": "https://x.com/Cointelegraph/status/2112212401558860064",
-    "images": [
-      "https://pbs.twimg.com/media/HVAV-xvWMAAheXv.png",
-      "https://pbs.twimg.com/media/HVAV_A4WIAAj1ZZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792425737958-f8t5z4",
-    "source": "x",
-    "ts": "2026-10-19T16:02:17.958Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-19T14:10:55.000Z",
-    "reason": "Notable private transaction volume and new rewards program launch.",
-    "text": "JUST IN: @NullMaskio has surpassed $50M in private transaction volume since October 1st.\n\nNow, Points Season 1 is live, rewarding users for moving funds privately over the next 90 days.\n\nLive across Ethereum, Base, BNB Chain and Robinhood Chain, with Solana support on the way.",
-    "url": "https://x.com/BSCNews/status/2112211289401618699",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792426328499-4wfept",
     "source": "x",
     "ts": "2026-10-19T16:12:08.499Z",
@@ -8145,5 +8110,39 @@
     "reason": "No notable move or specific event described.",
     "text": "Switching swag, mood, and now switching from one Binance AI to another… still all in Binance 😎",
     "url": "https://x.com/binance/status/2112921950452380144"
+  },
+  {
+    "id": "x-1792595543675-vpsiyv",
+    "source": "x",
+    "ts": "2026-10-21T15:12:23.675Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T15:11:05.000Z",
+    "reason": "Specific buyback event with on-chain data verification.",
+    "text": "Zebec Buybacks hit a new milestone\n\n@Zebec_HQ Network completes the automated buyback of 40,536,539 $ZBCN in Q3 2026, using roughly $100,000 in cash flow to remove tokens from circulation.\n\nOnchain data shows the purchased tokens have been put away for good and will no longer",
+    "url": "https://x.com/BSCNews/status/2112924643468149164",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112921683573018624/vid/avc1/1316x720/yz4qHQm4n0RMznDh.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112921683573018624/img/OecGd2LITUCWGyXS.jpg"
+    }
+  },
+  {
+    "id": "x-1792595548226-zlw2wx",
+    "source": "x",
+    "ts": "2026-10-21T15:12:28.226Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-21T15:02:21.000Z",
+    "reason": "No notable move in ETH price, price is within its recent range.",
+    "text": "🎥 WATCH: Analysts are more bullish on Ethereum and Solana than Bitcoin, according to a new CryptoQuant tool.\n\nCryptoQuant founder @ki_young_ju explains why.",
+    "url": "https://x.com/Cointelegraph/status/2112922442830090407"
   }
 ]
