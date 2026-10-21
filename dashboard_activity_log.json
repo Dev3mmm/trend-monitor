@@ -1,127 +1,5 @@
 [
   {
-    "id": "x-1792439549945-rmca8u",
-    "source": "x",
-    "ts": "2026-10-19T19:52:29.945Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-19T19:43:00.000Z",
-    "reason": "Specific announcement about Algorand payment system.",
-    "text": "Why Algorand payments don’t wait for extra blocks\n\nOn Bitcoin, two miners can find a block at the same time, and the chain briefly splits in two, which is called a fork. Payments on the dropped side are undone, so waiting six blocks, about an hour, is the common rule before a",
-    "url": "https://x.com/BSCNews/status/2112268295059743107",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112254099282411520/vid/avc1/1220x720/9GEAhpFLtQMs5Bpz.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112254099282411520/img/P2U95ABkg9xL8kTF.jpg"
-    }
-  },
-  {
-    "id": "x-1792440162910-s4s4ed",
-    "source": "x",
-    "ts": "2026-10-19T20:02:42.910Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T20:00:11.000Z",
-    "reason": "Potential regulatory and business developments involving a high-profile figure in the crypto space.",
-    "text": "🎥 WATCH: No CLARITY Act. No problem. \n\nJustin Sun isn’t waiting for Congress to make his next move. And his plans for TRON go beyond digital dollars.\n\nWhat’s the next bet?",
-    "url": "https://x.com/Cointelegraph/status/2112272619017773131",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792440775728-945zs6",
-    "source": "x",
-    "ts": "2026-10-19T20:12:55.728Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T20:10:11.000Z",
-    "reason": "The tweet is about a renaming proposal and not related to crypto.",
-    "text": "🇺🇸 JUST IN: President Trump calls for New Mexico to be renamed “New America,” saying the change would boost home values, incomes and state prestige.",
-    "url": "https://x.com/Cointelegraph/status/2112275138599063982"
-  },
-  {
-    "id": "x-1792440777609-lgjt7g",
-    "source": "x",
-    "ts": "2026-10-19T20:12:57.609Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-19T20:05:38.000Z",
-    "reason": "No direct relation to crypto or blockchain technology.",
-    "text": "🇺🇸🇫🇷 JUST NOW: Trump claims he WARNED France years ago to close its BORDERS.\n\nTrump says he told Macron to close the borders or \"you're going to ruin your country.\"\n\n\"What's happening in France has to do with immigration.\"",
-    "url": "https://x.com/coinbureau/status/2112273990974882072"
-  },
-  {
-    "id": "x-1792441408720-ygwid2",
-    "source": "x",
-    "ts": "2026-10-19T20:23:28.720Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T20:20:13.000Z",
-    "reason": "Specific institutional statement linking Tether to stablecoin volume changes.",
-    "text": "🇮🇷 JUST IN: Paolo Ardoino says Tether’s actions led to a 94% decline in Iran-linked stablecoin volumes.",
-    "url": "https://x.com/Cointelegraph/status/2112277660730634485",
-    "images": [
-      "https://pbs.twimg.com/media/HVBRVU7WoAAl2OO.jpg",
-      "https://pbs.twimg.com/media/HVBRVlTWYAAHPQ3.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792441411204-n4z0hu",
-    "source": "x",
-    "ts": "2026-10-19T20:23:31.204Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-19T20:14:00.000Z",
-    "reason": "Not applicable, tweet contains no significant new information.",
-    "text": "NEAR is keeping a bigger cut of its swap fees\n\n@near_intents handled about $10.4 billion in Q3, bringing lifetime volume to over $32 billion, per @NEARProtocol's Q3 report. Lifetime fees topped $52 million, and more than $8 million of that went toward buying back $NEAR.\n\nThe",
-    "url": "https://x.com/BSCNews/status/2112276096288694629",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112258555873038336/vid/avc1/1220x720/2tW18gk5ySkBPSu2.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112258555873038336/img/CjrqJmEWNJJUuhwd.jpg"
-    }
-  },
-  {
-    "id": "x-1792441970004-y6x7mb",
-    "source": "x",
-    "ts": "2026-10-19T20:32:50.004Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-19T20:20:13.000Z",
-    "reason": "Specific institutional action related to stablecoin volumes.",
-    "text": "🇮🇷 JUST IN: Paolo Ardoino says Tether’s actions led to a 94% decline in Iran-linked stablecoin volumes.",
-    "url": "https://x.com/Cointelegraph/status/2112277660730634485",
-    "images": [
-      "https://pbs.twimg.com/media/HVBRVU7WoAAl2OO.jpg",
-      "https://pbs.twimg.com/media/HVBRVlTWYAAHPQ3.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792441976041-32h3fj",
     "source": "x",
     "ts": "2026-10-19T20:32:56.041Z",
@@ -8124,5 +8002,102 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112958082565189632/img/oOx9Fywvhui7haZt.jpg"
     }
+  },
+  {
+    "id": "x-1792605729280-mrdr6e",
+    "source": "x",
+    "ts": "2026-10-21T18:02:09.280Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T18:00:01.000Z",
+    "reason": "Large inflow into Bitcoin by BlackRock indicates institutional interest.",
+    "text": "🚨Bitcoin's next BIG MOVE may be brewing beneath the calm.\n\nBlackRock's IBIT attracted $665 MILLION on October 19, its LARGEST daily inflow in Bitcoin terms since April 2025, alongside a smaller, separately reported nearly $30 MILLION inflow today.\n\nMeanwhile, Bitcoin remains",
+    "url": "https://x.com/coinbureau/status/2112967157181284436",
+    "images": [
+      "https://pbs.twimg.com/media/HVKphkRbEAAty2N.jpg",
+      "https://pbs.twimg.com/media/HVKpmxbbcAAZX_j.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792605731366-h59l3g",
+    "source": "x",
+    "ts": "2026-10-21T18:02:11.366Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T18:00:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Michael Saylor: MSCI Is Biased Against Digital Assets  \n\nOn October 14, 2026, Strategy Executive Chairman Michael Saylor @saylor said in a Bloomberg @BloombergTV interview that MSCI is biased against digital assets, recognizing oil, land, and machinery as capital while refusing",
+    "url": "https://x.com/WuBlockchain/status/2112967150042226939"
+  },
+  {
+    "id": "x-1792605732990-9l69h0",
+    "source": "x",
+    "ts": "2026-10-21T18:02:12.991Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 18,
+    "originTimestamp": "2026-10-21T17:44:12.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Grok @Bot can help protect and fix your credit rating. Just ask it to do so!",
+    "url": "https://x.com/elonmusk/status/2112966832969708020"
+  },
+  {
+    "id": "x-1792605734574-6ascij",
+    "source": "x",
+    "ts": "2026-10-21T18:02:14.574Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 51,
+    "originTimestamp": "2026-10-21T17:10:27.000Z",
+    "reason": "Generic hype with no real content",
+    "text": "Send your friends links to 𝕏 so that they know what’s really going on",
+    "url": "https://x.com/elonmusk/status/2112966587149881376"
+  },
+  {
+    "id": "x-1792605736373-ab7dfd",
+    "source": "x",
+    "ts": "2026-10-21T18:02:16.373Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 91,
+    "originTimestamp": "2026-10-21T16:30:34.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "If there's one thing I can tell you about @SpaceX, it's that there's never been a company like this... \nMy thoughts on the earnings call with @SquawkCNBC.",
+    "url": "https://x.com/elonmusk/status/2112966061284851739"
+  },
+  {
+    "id": "x-1792605738265-370xtr",
+    "source": "x",
+    "ts": "2026-10-21T18:02:18.265Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 20,
+    "originTimestamp": "2026-10-21T17:41:41.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Because Wenger was a teacher, SAF was a businessman. The former wanted successful leaders, the latter wanted a successful ledger.",
+    "url": "https://x.com/amerix/status/2112965951465337244"
+  },
+  {
+    "id": "x-1792605740000-xplcvq",
+    "source": "x",
+    "ts": "2026-10-21T18:02:20.000Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 37,
+    "originTimestamp": "2026-10-21T17:25:06.000Z",
+    "reason": "Tweet is vague and does not provide specific crypto-related information.",
+    "text": "“Sydney Sweeney” makes the case for Voter ID.",
+    "url": "https://x.com/elonmusk/status/2112965839263760393"
   }
 ]
