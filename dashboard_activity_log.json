@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792396927725-5um1zr",
-    "source": "x",
-    "ts": "2026-10-19T08:02:07.725Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-19T07:52:45.000Z",
-    "reason": "Generic announcement with no specific action or verification.",
-    "text": "Next year, I will give one of my SpaceX shares to every kid in America.\n\nThis will be the first of many.",
-    "url": "https://x.com/elonmusk/status/2112089556615123114"
-  },
-  {
     "id": "x-1792397546952-8r7abg",
     "source": "x",
     "ts": "2026-10-19T08:12:26.952Z",
@@ -8168,6 +8155,25 @@
     "images": [
       "https://pbs.twimg.com/media/HVIfr7cboAAWLy2.png",
       "https://pbs.twimg.com/media/HVIiYMUagAA-xKN.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792564314901-ysai0v",
+    "source": "x",
+    "ts": "2026-10-21T06:31:54.901Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T06:30:43.000Z",
+    "reason": "The tweet provides context and potential implications without being directly about a concrete crypto-related event.",
+    "text": "🚨 NOW: Citadel CEO Ken Griffin says investors are “almost certainly” in an AI bubble, likening the moment to the run-up before the dot-com crash.\n\nIs AI headed for a dot-com-style crash?",
+    "url": "https://x.com/Cointelegraph/status/2112793687918776791",
+    "images": [
+      "https://pbs.twimg.com/media/HVImqCYWQAAvTnK.jpg",
+      "https://pbs.twimg.com/media/HVImqVmWIAEVYbj.jpg"
     ],
     "video": null
   }
