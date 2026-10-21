@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792446135859-ud8l1i",
-    "source": "x",
-    "ts": "2026-10-19T21:42:15.859Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-19T21:24:17.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "A BIG THANK YOU to our legendary friend, @ElonMusk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon",
-    "url": "https://x.com/elonmusk/status/2112296126795899361"
-  },
-  {
-    "id": "x-1792446747592-vfnh12",
-    "source": "x",
-    "ts": "2026-10-19T21:52:27.592Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-19T21:47:15.000Z",
-    "reason": "Not enough context to verify the specific transaction amounts.",
-    "text": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-    "url": "https://x.com/DecryptMedia/status/2112299564052922795",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792446753149-2lab3f",
     "source": "x",
     "ts": "2026-10-19T21:52:33.149Z",
@@ -8112,5 +8083,45 @@
     "reason": "No notable move or newsworthy event mentioned.",
     "text": "Bitcoin for Corporations' Allen Helm on Bitcoin treasury companies going global:\n\n\"Capital does what capital wants and it's gonna ultimately find where it can find liquidity.\"\n\n\"[The United States] has a really great opportunity to be the unifier of these markets.\" 🌍",
     "url": "https://x.com/BitcoinMagazine/status/2112982229907333494"
+  },
+  {
+    "id": "x-1792610539099-q7yia9",
+    "source": "x",
+    "ts": "2026-10-21T19:22:19.099Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T19:16:52.000Z",
+    "reason": "Potential market movement ahead of earnings reports.",
+    "text": "🚨ALERT: Meta and Tesla are seeing bullish options activity ahead of their EARNINGS reports today, following SpaceX's strong results.\n\n- $META +1.34%\nNearly $22M in bullish bets vs. $7.5M bearish, with options pricing a 6.5% post-earnings move.\n\n- $TSLA +3.15%\nOver $200M in",
+    "url": "https://x.com/coinbureau/status/2112986495019802921",
+    "images": [
+      "https://pbs.twimg.com/media/HVLVEoUbcAASL28.png",
+      "https://pbs.twimg.com/media/HVLVJDha8AARe4K.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792610545109-jq3mw7",
+    "source": "x",
+    "ts": "2026-10-21T19:22:25.109Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-21T19:15:00.000Z",
+    "reason": "Notable fee generation by a new token launchpad on a specific blockchain.",
+    "text": "Argus Launchpad leads Arc on fees as the launch rush cools\n\nArgus (@Arguspad) token launchpad on @arc chain generated about $1.89M in fees and $248K in revenue over the past 30 days, the most of any app on Arc, per DefiLlama data. Creators set a buy-and-sell tax on each launch,",
+    "url": "https://x.com/BSCNews/status/2112986024443785407",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112980119694221313/vid/avc1/1220x720/1T0tm23VYIilSkd_.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112980119694221313/img/SmF6j3Yt4FaP8yBW.jpg"
+    }
   }
 ]
