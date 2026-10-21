@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792395144991-x0v922",
-    "source": "x",
-    "ts": "2026-10-19T07:32:24.991Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 26,
-    "originTimestamp": "2026-10-19T07:05:44.000Z",
-    "reason": "Generic hype with no real content.",
-    "text": "Hire Grok @Bot today. You won’t regret it.",
-    "url": "https://x.com/elonmusk/status/2112083685872644421"
-  },
-  {
     "id": "x-1792395149764-4gw6p0",
     "source": "x",
     "ts": "2026-10-19T07:32:29.764Z",
@@ -8166,5 +8153,26 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Stellar, Chainlink And Others Push SEC on Crypto Status\n\nStellar (@StellarOrg) stellar:native, Hedera (@hedera) hedera-hashgraph:native, Aptos (@Aptos) $APT, Avalanche (@avax) (avalanche-2:native), Cardano (@Cardano) cardano:native and Chainlink Labs (@chainlink)",
     "url": "https://x.com/BSCNews/status/2112774379666809319"
+  },
+  {
+    "id": "x-1792561374855-7pbc5o",
+    "source": "x",
+    "ts": "2026-10-21T05:42:54.855Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T05:41:00.000Z",
+    "reason": "Notable institutional adoption of cryptocurrencies by a major banking network.",
+    "text": "Europe's Largest Banking Network Brings XRP, POL to Banking App\n\nGermany’s Sparkasse banking network has begun rolling out crypto trading for nearly 50 million customers.\n\nThe service covers Bitcoin bitcoin:native, Ether (@ethereum) ethereum:native, XRP (@XRP) ripple:native,",
+    "url": "https://x.com/BSCNews/status/2112781174741299258",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112766589766610944/vid/avc1/1280x720/m73bOTQuhhIVn0Nt.mp4?tag=29",
+      "duration": 17,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112766589766610944/img/YROTj7IC7NYLxq1B.jpg"
+    }
   }
 ]
