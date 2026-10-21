@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792392139213-z7ukwy",
-    "source": "x",
-    "ts": "2026-10-19T06:42:19.213Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-19T06:38:00.000Z",
-    "reason": "Notable development in the development of a private KAS payments system.",
-    "text": "Kaspa Developer Completes Key Step Toward Private KAS Payments\n\nKaspa (@kaspaunchained) developer Olaf Weller (@WellerOlaf) says a proof of concept for shielded native $KAS has been completed on testnet TN10.\n\nThe tests demonstrated transaction ordering, zero knowledge proof",
-    "url": "https://x.com/BSCNews/status/2112070743609553379",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112058827562778624/vid/avc1/1280x720/RhUKFaWsN7aQpUqo.mp4?tag=29",
-      "duration": 17,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112058827562778624/img/C5HIUobkRJijyU_a.jpg"
-    }
-  },
-  {
     "id": "x-1792392142859-kd2ng6",
     "source": "x",
     "ts": "2026-10-19T06:42:22.859Z",
@@ -8179,5 +8158,24 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112760092047351810/img/LtGde4QaabKFGAP1.jpg"
     }
+  },
+  {
+    "id": "x-1792557124251-o9sm7t",
+    "source": "x",
+    "ts": "2026-10-21T04:32:04.251Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T04:30:43.000Z",
+    "reason": "Notable regulatory and industry response to crypto market downturn.",
+    "text": "🇺🇸 JUST IN: Crypto exchanges including Blockchaincom and Binance US are rushing to launch prediction markets in the US as the prolonged token slump pushes them to find new revenue, per FT.",
+    "url": "https://x.com/Cointelegraph/status/2112763487445274732",
+    "images": [
+      "https://pbs.twimg.com/media/HVILL7pWMAA_5W4.jpg",
+      "https://pbs.twimg.com/media/HVILMXoW4AA8SDf.png"
+    ],
+    "video": null
   }
 ]
