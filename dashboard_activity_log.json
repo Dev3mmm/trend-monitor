@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792451536931-zdbgaj",
-    "source": "x",
-    "ts": "2026-10-19T23:12:16.931Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T23:10:00.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "⚡️JUST IN: Anthropic is in talks to buy ANOTHER $45 BILLION of computing from Nscale.\n\nThe deal would give Anthropic a second building at Nscale's Monarch campus in West Virginia, and could land within days, per Bloomberg.\n\nIt follows a $45 BILLION deal Anthropic signed with",
-    "url": "https://x.com/coinbureau/status/2112320388378112188"
-  },
-  {
-    "id": "x-1792452182758-pp7tul",
-    "source": "x",
-    "ts": "2026-10-19T23:23:02.758Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-19T23:18:00.000Z",
-    "reason": "Unidentified large withdrawal of LINK tokens suggests potential news or insider information.",
-    "text": "Someone is seriously bullish on $LINK ...\n\nIn the past 4 days, one unidentified wallet has withdrawn 1.237M @Chainlink tokens from the @Binance exchange.\n\nAt the times of the transfers, the assets are worth a total of more than $3M.\n\nDo they know something we don't?\n\nCertainly",
-    "url": "https://x.com/BSCNews/status/2112322401597882612",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112097602325929984/vid/avc1/1312x720/CEC4SNsETMawNCmm.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112097602325929984/img/P5NFhgzKdPUUY878.jpg"
-    }
-  },
-  {
     "id": "x-1792452754613-wmk6x8",
     "source": "x",
     "ts": "2026-10-19T23:32:34.613Z",
@@ -8128,5 +8094,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112983154889809920/img/rdrGV3m8gkvU6E-T.jpg"
     }
+  },
+  {
+    "id": "x-1792613501887-ejvyt8",
+    "source": "x",
+    "ts": "2026-10-21T20:11:41.887Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T20:10:54.000Z",
+    "reason": "No notable financial or crypto related move is mentioned.",
+    "text": "BREAKING: Meta jumps 4% after hours even as its free cash flow turns NEGATIVE.\n\nShares climbed from $697.52 at the close to around $727 after Meta beat revenue and earnings estimates.\n\nHere are the 4 numbers we told you to watch:\n\n1. Revenue: $64.6 BILLION vs $63.3 BILLION",
+    "url": "https://x.com/coinbureau/status/2113000091867099567"
+  },
+  {
+    "id": "x-1792613504439-pmlhj7",
+    "source": "x",
+    "ts": "2026-10-21T20:11:44.439Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T20:10:40.000Z",
+    "reason": "Notable move in GPU rental prices suggesting potential AI demand acceleration.",
+    "text": "🚨 LATEST: Grayscale says GPU rental prices are hitting new highs while compute stocks hover near one-year lows as AI agent demand accelerates.\n\nIs the market underestimating AI demand?",
+    "url": "https://x.com/Cointelegraph/status/2113000032337064311",
+    "images": [
+      "https://pbs.twimg.com/media/HVLiVEhXoAACXvO.jpg"
+    ],
+    "video": null
   }
 ]
