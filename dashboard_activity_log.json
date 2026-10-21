@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1792460857907-j0ckzc",
-    "source": "x",
-    "ts": "2026-10-20T01:47:37.907Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CertiK Alert",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-20T01:44:14.000Z",
-    "reason": "Exploit detected and reported, potential security risk.",
-    "text": "#CertiKInsight 🚨\n\nWe have detected  deposit of 1255.8 ETH (~$3M) from Aztec rollup exploiter in June.\n\nCertiK Report Security Dashboard 👇\n\n\nStay Vigilant!",
-    "url": "https://x.com/CertiKAlert/status/2112359201507049692",
-    "images": [
-      "https://pbs.twimg.com/media/HVCZ06baMAE45il.jpg",
-      "https://pbs.twimg.com/media/HVCaFVPaQAA8zdM.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792461751517-jx9jv0",
-    "source": "x",
-    "ts": "2026-10-20T02:02:31.517Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T02:01:03.000Z",
-    "reason": "Notable use case and potential for Aave in the tokenization space.",
-    "text": "🔥 LATEST: Citi Research says Aave could become the go-to layer for financing tokenized assets once they move onchain, calling collateral mobility one of tokenization’s most important use cases.",
-    "url": "https://x.com/Cointelegraph/status/2112363433978904731",
-    "images": [
-      "https://pbs.twimg.com/media/HVCfVsvWEAAN4SL.jpg",
-      "https://pbs.twimg.com/media/HVCfWJhWMAApE80.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792461757214-rj49nz",
-    "source": "x",
-    "ts": "2026-10-20T02:02:37.214Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-20T01:55:00.000Z",
-    "reason": "Price and valuation details are significant market-moving information.",
-    "text": "🚨JUST IN: AI RIVALS OpenAI and Anthropic are RACING for investors' cash before going public.\n\nOpenAI is trying to raise about $30 BILLION at a valuation over $1.4 TRILLION, up from $852 BILLION in March, per Reuters.\n\nAnthropic is expected to go public in mid-November, with some",
-    "url": "https://x.com/coinbureau/status/2112361911882838233",
-    "images": [
-      "https://pbs.twimg.com/media/HVCWExCakAA0VUS.png",
-      "https://pbs.twimg.com/media/HVCWGfRaYAAjN61.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792461762534-mabsy4",
     "source": "x",
     "ts": "2026-10-20T02:02:42.534Z",
@@ -8137,5 +8080,52 @@
     "reason": "No notable move, price is well within its recent range.",
     "text": "🔥 BULLISH: $META beats Q3 2026 revenue forecasts with $64.6 billion.",
     "url": "https://x.com/Cointelegraph/status/2113015136877207999"
+  },
+  {
+    "id": "x-1792617738680-ov6cmm",
+    "source": "x",
+    "ts": "2026-10-21T21:22:18.680Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-21T21:21:28.000Z",
+    "reason": "No notable move, price is well within the recent trading range.",
+    "text": "JUST IN: There's now a 67% chance Bitcoin will be above $90,000 this year, according to Polymarket⁠.com 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2113017851779174826"
+  },
+  {
+    "id": "x-1792617744335-j6bc7c",
+    "source": "x",
+    "ts": "2026-10-21T21:22:24.335Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-21T21:18:28.000Z",
+    "reason": "No notable financial or crypto-related news in the tweet.",
+    "text": "Wall Street expected Musk's Tesla to burn $4.9 BILLION in cash, but it generated $1.53 BILLION.\n\nThat's Tesla's Q3 free cash flow, against an analyst estimate of negative $4.92 BILLION, per LSEG.\n\nAdjusted EPS also beat, at 48 cents vs 43 cents expected.\n\nTesla's quarter in",
+    "url": "https://x.com/coinbureau/status/2113017095227404334"
+  },
+  {
+    "id": "x-1792617749842-5g9rx3",
+    "source": "x",
+    "ts": "2026-10-21T21:22:29.842Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-21T21:14:00.000Z",
+    "reason": "Notable institutional integration with AI technology.",
+    "text": "Hedera opens its network to AI coding agents, on testnet for now\n\n@hedera has launched its Network MCP on testnet, a single connection point that lets AI tools such as Claude Code, Codex, Cursor, and ChatGPT work directly with the network. Through more than 40 tools, an agent can",
+    "url": "https://x.com/BSCNews/status/2113015971749539917",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112997633727848448/vid/avc1/1220x720/HmLmhisQj_Ckx7Ef.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112997633727848448/img/q7ldI86rDrYekrLm.jpg"
+    }
   }
 ]
