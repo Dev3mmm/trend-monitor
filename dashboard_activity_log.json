@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1792430623486-tfe5oc",
-    "source": "x",
-    "ts": "2026-10-19T17:23:43.486Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T17:20:12.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "🔥 BULLISH: Bitcoin’s sustained recovery hinges on positive spot demand, buyers absorbing $BTC returning to exchanges and broader accumulation across holder groups, according to CryptoQuant.",
-    "url": "https://x.com/Cointelegraph/status/2112232359307132985"
-  },
-  {
-    "id": "x-1792430628059-i1za5s",
-    "source": "x",
-    "ts": "2026-10-19T17:23:48.059Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-19T17:15:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "🇺🇸 LATEST: White House economic adviser Kevin Hassett says wage growth is ACCELERATING while price increases slow, crediting a surge in capital spending.\n\n“The price increases are decelerating and the wage increases are accelerating because of all the capital spending.”\n\nCiting",
-    "url": "https://x.com/coinbureau/status/2112231049849672092"
-  },
-  {
-    "id": "x-1792431127908-in5cst",
-    "source": "x",
-    "ts": "2026-10-19T17:32:07.909Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T17:30:15.000Z",
-    "reason": "Official launch of XRP account by Ripple and XRP Ledger Foundation.",
-    "text": "⚡️ JUST IN: $XRP launches an official X account managed by Ripple and the XRP Ledger Foundation.",
-    "url": "https://x.com/Cointelegraph/status/2112234889130979357",
-    "images": [
-      "https://pbs.twimg.com/media/HVAqbqXXMAAmRrg.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792431764364-iw5a0b",
     "source": "x",
     "ts": "2026-10-19T17:42:44.364Z",
@@ -8114,6 +8070,63 @@
       "duration": 31,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112926545727680512/img/uvnqtZMrRbL9P9yo.jpg"
+    }
+  },
+  {
+    "id": "x-1792599118967-4k9fl4",
+    "source": "x",
+    "ts": "2026-10-21T16:11:58.967Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-21T16:11:14.000Z",
+    "reason": "New use of a token with a significant upgrade on a major blockchain network.",
+    "text": "🔥 BIG: Solana launches Alpenglow on mainnet in the network’s biggest-ever consensus upgrade.",
+    "url": "https://x.com/Cointelegraph/status/2112939780388401208",
+    "images": [
+      "https://pbs.twimg.com/media/HVKrh-rXYAAcFe4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792599121328-d69dr2",
+    "source": "x",
+    "ts": "2026-10-21T16:12:01.328Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-21T16:08:14.000Z",
+    "reason": "Critical PHP vulnerabilities raise security concerns in the crypto industry.",
+    "text": "Critical PHP Vulnerabilities Spark Global Security Alert; SlowMist Warns Crypto Exchanges, DeFi Platforms and Wallet Providers\n\nSlowMist said its MistEye threat intelligence system conducted a global scan of PHP-related assets across the crypto industry following the disclosure",
+    "url": "https://x.com/WuBlockchain/status/2112939023421620717",
+    "images": [
+      "https://pbs.twimg.com/media/HVKq1jmakAArdn8.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792599123799-yb64e6",
+    "source": "x",
+    "ts": "2026-10-21T16:12:03.799Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-21T16:00:01.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Bitcoin isn't a future utopia. @blocks Maria Pesce (@mariapesce) on what's already happening across @CashApp and @Square:\n\n\"We have people paying with Bitcoin. We have people living on the Bitcoin standard.\"\n\n\"We're just getting started.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2112938953171259615",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112932506936741888/vid/avc1/1180x650/XWq8P-sb6VJ33boH.mp4?tag=29",
+      "duration": 106,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112932506936741888/img/D2BOHyViCcMkFLur.jpg"
     }
   }
 ]
