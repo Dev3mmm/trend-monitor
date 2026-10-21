@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792441976041-32h3fj",
-    "source": "x",
-    "ts": "2026-10-19T20:32:56.041Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-19T20:14:00.000Z",
-    "reason": "Notable institutional activity and financials disclosure from a major protocol.",
-    "text": "NEAR is keeping a bigger cut of its swap fees\n\n@near_intents handled about $10.4 billion in Q3, bringing lifetime volume to over $32 billion, per @NEARProtocol's Q3 report. Lifetime fees topped $52 million, and more than $8 million of that went toward buying back $NEAR.\n\nThe",
-    "url": "https://x.com/BSCNews/status/2112276096288694629",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112258555873038336/vid/avc1/1220x720/2tW18gk5ySkBPSu2.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112258555873038336/img/CjrqJmEWNJJUuhwd.jpg"
-    }
-  },
-  {
     "id": "x-1792442529596-ddlqp7",
     "source": "x",
     "ts": "2026-10-19T20:42:09.596Z",
@@ -8099,5 +8078,18 @@
     "reason": "Tweet is vague and does not provide specific crypto-related information.",
     "text": "“Sydney Sweeney” makes the case for Voter ID.",
     "url": "https://x.com/elonmusk/status/2112965839263760393"
+  },
+  {
+    "id": "x-1792606356169-suo087",
+    "source": "x",
+    "ts": "2026-10-21T18:12:36.169Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T18:10:40.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🇨🇦 UPDATE: Canada’s monthly P2P crypto transactions peaked near 650,000 in spring 2024 before declining alongside study permit issuance, Chainalysis reports.",
+    "url": "https://x.com/Cointelegraph/status/2112969835151819265"
   }
 ]
