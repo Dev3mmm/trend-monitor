@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792422737830-lca0j6",
-    "source": "x",
-    "ts": "2026-10-19T15:12:17.830Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-19T15:02:42.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Meet AI Pro, built for traders.\n\nJust type what you want to do, and AI Pro builds an automated workflow for you.\n\nGet up to speed →",
-    "url": "https://x.com/binance/status/2112197757943361975"
-  },
-  {
-    "id": "x-1792423336571-bj1gm1",
-    "source": "x",
-    "ts": "2026-10-19T15:22:16.572Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T15:18:57.000Z",
-    "reason": "Notable institution entering the crypto custody space.",
-    "text": "JUST IN: AnchorWatch Trust Company launches a Bitcoin custody service with up to $370 million in insurance per client 🚀\n\n\"Its clients include fiduciaries, public companies, trusts, and high-net-worth individuals requiring qualified bitcoin custody.\" — The Block",
-    "url": "https://x.com/BitcoinMagazine/status/2112201846702092411",
-    "images": [
-      "https://pbs.twimg.com/media/HVALfS0XsAA1uxI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792423341022-m0nr14",
     "source": "x",
     "ts": "2026-10-19T15:22:21.022Z",
@@ -8160,5 +8129,34 @@
       "https://pbs.twimg.com/media/HVKLtIGakAAaXM3.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792592579114-psp1c8",
+    "source": "x",
+    "ts": "2026-10-21T14:22:59.114Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CertiK Alert",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-21T14:19:20.000Z",
+    "reason": "Notable regulatory/security concern reported by CertiK.",
+    "text": "#CertiKInsight 🚨  \n\nOn 11 Oct, PaperTrade reported manipulation attempts on the Hyperliquid BBO.\n\nRead our full analysis here👇 \n\nCertiK Report Security Dashboard 👇",
+    "url": "https://x.com/CertiKAlert/status/2112911620016095503",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792592582206-iuik97",
+    "source": "x",
+    "ts": "2026-10-21T14:23:02.206Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-21T14:18:44.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🚨ALARMING: Up to 70% of the world's websites could be at RISK after AI researchers uncovered PHP2Shell, a CRITICAL security flaw in PHP, per WSJ.\n\nThe vulnerability could allow hackers to hijack unpatched servers, steal sensitive information and launch attacks against website",
+    "url": "https://x.com/coinbureau/status/2112911467582476403"
   }
 ]

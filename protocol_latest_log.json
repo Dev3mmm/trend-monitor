@@ -1336,5 +1336,19 @@
     "fetchedAt": "2026-10-21T14:03:21.586Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-81d64a3b15b6c5c3",
+    "title": "DWPose: Whole-Body Pose Estimation from a Single Image",
+    "url": "https://aioz.network/blog/dwpose-whole-body-pose-estimation-from-a-single-image",
+    "description": "TL;DR DWPose is a whole-body pose estimation model that extracts 133 keypoints across the body, face, hands, and feet from a single image. Built on the RTMPose framework with a YOLOX person detector and a two-stage pose-distillation strategy, DWPose is designed to balance pose accuracy and inference speed across GPU and CPU environments. What the Model Is DWPose, now listed on AIOZ AI, is a whole-",
+    "publishedAt": "2026-10-21T14:14:23.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-21T14:23:24.495Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
