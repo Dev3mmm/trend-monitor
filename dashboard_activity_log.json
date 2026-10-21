@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1792464158517-s76r1y",
-    "source": "x",
-    "ts": "2026-10-20T02:42:38.517Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T02:41:54.000Z",
-    "reason": "No notable crypto-related event or market movement mentioned.",
-    "text": "Two important changes to timeline recommendations:\n\n- New AI/SI ranking model that predicts probable time spent much better\n\n- Retrieval model trained to surface posts people read all the way through\n\nUser active seconds is growing exponentially and hitting all-time highs almost",
-    "url": "https://x.com/elonmusk/status/2112373713937084809"
-  },
-  {
-    "id": "x-1792464160803-ao6qyy",
-    "source": "x",
-    "ts": "2026-10-20T02:42:40.803Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-20T02:39:50.000Z",
-    "reason": "Exploit of a decentralized finance protocol detected",
-    "text": "#PeckShieldAlert Aztec Exploiter - labeled address has deposited 1255.8 $ETH (worth ~$3M) into #Tornadocash",
-    "url": "https://x.com/PeckShieldAlert/status/2112373195294831076",
-    "images": [
-      "https://pbs.twimg.com/media/HVCoOJdaYAEgaEA.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792464701284-6btl7d",
-    "source": "x",
-    "ts": "2026-10-20T02:51:41.284Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-20T02:47:06.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Perp Traders Get a Skill Check: Trading IQ and On-Chain Reputation [Brought to you by @​​ParadyzeFi]",
-    "url": "https://x.com/Cointelegraph/status/2112375022790815903"
-  },
-  {
     "id": "x-1792465318820-nbpgyd",
     "source": "x",
     "ts": "2026-10-20T03:01:58.820Z",
@@ -8121,5 +8077,52 @@
     "url": "https://x.com/DecryptMedia/status/2113020564629532708",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792619550750-n5jgd0",
+    "source": "x",
+    "ts": "2026-10-21T21:52:30.750Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T21:50:39.000Z",
+    "reason": "No notable crypto-related event or data point mentioned.",
+    "text": "🇺🇸 JUST IN: Polymarket traders put Democrats’ chances of winning the Senate in 2026 at 67%, versus 34% for Republicans.",
+    "url": "https://x.com/Cointelegraph/status/2113025196269384006"
+  },
+  {
+    "id": "x-1792619554345-usfh3j",
+    "source": "x",
+    "ts": "2026-10-21T21:52:34.345Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-21T21:40:06.000Z",
+    "reason": "Elon Musk's comment does not provide concrete, specific information that could be verified.",
+    "text": "Elon Musk on Optimus:\n\n\"We've started early production. The growth of Optimus is an S curve, but the initial curve is a shallow slope. We have the vast majority of the 1 million unit/year line installed at Fremont. There's still some things we need to tweak about the design.",
+    "url": "https://x.com/elonmusk/status/2113024424886648882"
+  },
+  {
+    "id": "x-1792619558532-l2lig4",
+    "source": "x",
+    "ts": "2026-10-21T21:52:38.532Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-21T21:44:00.000Z",
+    "reason": "New Alpenglow consensus protocol introduces faster trade finality on Solana mainnet.",
+    "text": "Solana switches on Alpenglow, built to settle trades in a blink\n\nAlpenglow, a new consensus protocol built by Anza (@anza_xyz), went live on @solana mainnet today, replacing the TowerBFT system the $SOL network has run since launch. Anza says it is designed to cut finality from",
+    "url": "https://x.com/BSCNews/status/2113023521429344611",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113006913491202050/vid/avc1/1220x720/JdMjRGfKtMKF612t.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113006913491202050/img/XPtKtL2ql5TCRZ_x.jpg"
+    }
   }
 ]
