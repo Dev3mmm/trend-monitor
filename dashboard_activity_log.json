@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1792452754613-wmk6x8",
-    "source": "x",
-    "ts": "2026-10-19T23:32:34.613Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T23:31:03.000Z",
-    "reason": "Notable institutional move with a new ETF.",
-    "text": "🔥 NOW: BlackRock files for the iShares Bitcoin Managed Protection ETF under the ticker $PBIT, a “buffer” ETF trading some upside for downside protection.",
-    "url": "https://x.com/Cointelegraph/status/2112325685310025848",
-    "images": [
-      "https://pbs.twimg.com/media/HVB9AUkW8AA4qpM.jpg",
-      "https://pbs.twimg.com/media/HVB9BCyXsAACnrT.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792453964276-xlro31",
-    "source": "x",
-    "ts": "2026-10-19T23:52:44.276Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T23:49:00.000Z",
-    "reason": "Polygon's CEO categorically shifts focus to payments, a significant change in their business strategy.",
-    "text": "Polygon CEO says it's now a payments company.\n\n@0xPolygon CEO @0xMarcB says that Polygon is no longer competing with other L1 and L2 blockchains, saying the OG crypto platform is now just a payments company that uses blockchain.\n\nHis comments came as Polygon completed its",
-    "url": "https://x.com/BSCNews/status/2112330203020300323",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112097697612070912/vid/avc1/1312x720/EbRHbVZQAa_QXID8.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112097697612070912/img/mCqim-Uoxl24k3S1.jpg"
-    }
-  },
-  {
-    "id": "x-1792454522507-ohk220",
-    "source": "x",
-    "ts": "2026-10-20T00:02:02.507Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T00:01:02.000Z",
-    "reason": "No notable move or specific actionable information provided.",
-    "text": "🚨 LATEST: Anthropic is reportedly in talks with Nscale on a $45 billion deal for computing power at a second facility on Nscale’s Monarch campus in West Virginia, per Bloomberg.",
-    "url": "https://x.com/Cointelegraph/status/2112333232175780313"
-  },
-  {
-    "id": "x-1792454524079-isl2x3",
-    "source": "x",
-    "ts": "2026-10-20T00:02:04.079Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-20T00:00:15.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "so… yes or no?",
-    "url": "https://x.com/binance/status/2112333034519203987"
-  },
-  {
     "id": "x-1792454526369-4uja4q",
     "source": "x",
     "ts": "2026-10-20T00:02:06.369Z",
@@ -8123,6 +8057,64 @@
     "url": "https://x.com/Cointelegraph/status/2113000032337064311",
     "images": [
       "https://pbs.twimg.com/media/HVLiVEhXoAACXvO.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792614215868-00gq1g",
+    "source": "x",
+    "ts": "2026-10-21T20:23:35.868Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T20:21:39.000Z",
+    "reason": "No notable move, price is well within the recent trading range.",
+    "text": "BREAKING: $IBM jumps over 5% after hours as IBM beats estimates and raises its cash outlook.\n\nRevenue hit $17.1 BILLION vs $16.83 BILLION expected, up 5% from a year ago.\n\nAdjusted EPS came in at $2.95 vs $2.86 expected.\n\nIBM now expects free cash flow to grow by more than $1",
+    "url": "https://x.com/coinbureau/status/2113002798870827386"
+  },
+  {
+    "id": "x-1792614219966-5k78so",
+    "source": "x",
+    "ts": "2026-10-21T20:23:39.966Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-21T20:17:15.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+    "url": "https://x.com/DecryptMedia/status/2113001690223739112"
+  },
+  {
+    "id": "x-1792614224359-zrvh3c",
+    "source": "x",
+    "ts": "2026-10-21T20:23:44.359Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-21T20:16:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Trump puts overseas crypto scam gangs in the White House spotlight\n\nThe White House (@WhiteHouse) said President @realDonaldTrump will highlight his administration’s push against foreign criminal networks that lure Americans into fake crypto investments at a cybercrime event",
+    "url": "https://x.com/BSCNews/status/2113001375529611474"
+  },
+  {
+    "id": "x-1792614229477-oxi6e1",
+    "source": "x",
+    "ts": "2026-10-21T20:23:49.477Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-21T20:13:01.000Z",
+    "reason": "SpaceX maintaining its significant BTC holdings is notable.",
+    "text": "NEW: 🇺🇸 SpaceX did not sell any of its 18,712 BTC treasury in Q3 2026, remaining one of the largest publicly traded companies holding bitcoin! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2113000626158538949",
+    "images": [
+      "https://pbs.twimg.com/media/HVLi3tlWsAAKzJz.jpg",
+      "https://pbs.twimg.com/media/HVLi3tsWYAAbhor.jpg"
     ],
     "video": null
   }
