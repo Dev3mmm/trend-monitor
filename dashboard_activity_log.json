@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1792405342365-yji8ut",
-    "source": "x",
-    "ts": "2026-10-19T10:22:22.365Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-19T10:11:09.000Z",
-    "reason": "Suggests easing sell pressure in Bitcoin market.",
-    "text": "📊 INSIGHT: 4.4% of moved Bitcoin aged 6–12 months reached exchanges, down from 40.4% in June, suggesting easing sell pressure, per CryptoQuant.",
-    "url": "https://x.com/Cointelegraph/status/2112124384294903976",
-    "images": [
-      "https://pbs.twimg.com/media/HU_F7ykWwAAXJ3N.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792405347030-k1heme",
     "source": "x",
     "ts": "2026-10-19T10:22:27.030Z",
@@ -8155,5 +8137,26 @@
     "reason": "Incoherent tweet with no concrete crypto-related news.",
     "text": "We will reject vaccine mandates. We strongly rejected COVID vaccines, we shall equally reject Ebola vaccines.\n\nReject.",
     "url": "https://x.com/amerix/status/2112821430429667701"
+  },
+  {
+    "id": "x-1792571548481-dojac5",
+    "source": "x",
+    "ts": "2026-10-21T08:32:28.481Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T08:26:55.000Z",
+    "reason": "Notable institution promoting yield on a stablecoin.",
+    "text": "Where's the best place to earn yield on your idle XRP...?\n\n@ElanInsights' Income Dashboard lets you filter yield opportunities based on the assets you hold, and that's exactly what we did for @Ripple's $XRP token.\n\nTry now: \n\nNotably, the biggest XRP income",
+    "url": "https://x.com/BSCNews/status/2112822930732138951",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112822792991186944/vid/avc1/1312x720/PQybgScTlGHpIb0m.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112822792991186944/img/U6FXzCT13EAmxz_g.jpg"
+    }
   }
 ]
