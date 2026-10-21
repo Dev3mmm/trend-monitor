@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1792415529061-hgm3jt",
-    "source": "x",
-    "ts": "2026-10-19T13:12:09.061Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-19T13:06:03.000Z",
-    "reason": "Specific institutional action with tangible dollar amounts",
-    "text": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
-    "url": "https://x.com/DecryptMedia/status/2112168400713609376",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792415531238-8pf9tk",
-    "source": "x",
-    "ts": "2026-10-19T13:12:11.238Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-19T13:05:27.000Z",
-    "reason": "Notable institutional adoption and strategy expansion for Bitcoin.",
-    "text": "🇺🇸 JUST IN: Metaplanet gets shareholder approval for its Super League Enterprise deal, expanding its Bitcoin treasury strategy into the US.",
-    "url": "https://x.com/Cointelegraph/status/2112168249521500170",
-    "images": [
-      "https://pbs.twimg.com/media/HU_t03wWgAARiXc.jpg",
-      "https://pbs.twimg.com/media/HU_t1DkWUAAZ4Cn.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792416137912-1q31qq",
-    "source": "x",
-    "ts": "2026-10-19T13:22:17.912Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T13:20:00.000Z",
-    "reason": "No notable move, price is well inside the recent range.",
-    "text": "⚡️UPDATE: Cardano founder Charles Hoskinson is personally developing a NEW programming language combining transaction intents with cryptographic proofs.\n\nHe's also teasing a major Midnight (midnight-3:native) plan to solve unresolved crypto industry challenges, calling it a",
-    "url": "https://x.com/coinbureau/status/2112171910071275828",
-    "images": [
-      "https://pbs.twimg.com/media/HU_wjs2bAAAFRtV.png",
-      "https://pbs.twimg.com/media/HU_wkjhbQAAbWtB.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792416141859-6sl7p7",
     "source": "x",
     "ts": "2026-10-19T13:22:21.859Z",
@@ -8183,6 +8129,48 @@
     "ageMin": 6,
     "originTimestamp": "2026-10-21T12:17:31.000Z",
     "reason": "No notable move in cryptocurrency price or significant event.",
+    "text": "Dogecoin Labs Launches to boost DOGE Ecosystem growth\n\nThe @Dogecoin Foundation has officially endorsed the creation of Dogecoin Labs. \n\nIt is an independent corporate software organization led by CEO Jordan Jefferson, intended to consolidate the blockchain's consumer and",
+    "url": "https://x.com/BSCNews/status/2112880962728054928"
+  },
+  {
+    "id": "x-1792585630636-e7131v",
+    "source": "x",
+    "ts": "2026-10-21T12:27:10.636Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-21T12:24:15.000Z",
+    "reason": "No notable move, price is well within its recent range.",
+    "text": "JUST IN: Bitcoin is now 25% above its 200-week moving average 👀\n\nEvery time Bitcoin has pulled back toward its 200WMA, it has bounced and gone on to new highs 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112882658770382944"
+  },
+  {
+    "id": "x-1792585633689-why4s3",
+    "source": "x",
+    "ts": "2026-10-21T12:27:13.689Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-21T12:18:00.000Z",
+    "reason": "Specific, verifiable price milestone outside recent trading range.",
+    "text": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
+    "url": "https://x.com/DecryptMedia/status/2112881085856022588",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792585636846-mcu5h5",
+    "source": "x",
+    "ts": "2026-10-21T12:27:16.846Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-21T12:17:31.000Z",
+    "reason": "No notable move in the price or significant event described.",
     "text": "Dogecoin Labs Launches to boost DOGE Ecosystem growth\n\nThe @Dogecoin Foundation has officially endorsed the creation of Dogecoin Labs. \n\nIt is an independent corporate software organization led by CEO Jordan Jefferson, intended to consolidate the blockchain's consumer and",
     "url": "https://x.com/BSCNews/status/2112880962728054928"
   }
