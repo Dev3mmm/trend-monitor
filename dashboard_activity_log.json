@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1792442529596-ddlqp7",
-    "source": "x",
-    "ts": "2026-10-19T20:42:09.596Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T20:40:12.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "⚡️ INSIGHT: Goldman Sachs recommends defensive stocks for investors worried the AI bull run could falter.",
-    "url": "https://x.com/Cointelegraph/status/2112282688916803608"
-  },
-  {
-    "id": "x-1792443133734-6jka4v",
-    "source": "x",
-    "ts": "2026-10-19T20:52:13.734Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-19T20:47:15.000Z",
-    "reason": "Notable regulatory and technical development in the crypto ecosystem.",
-    "text": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-    "url": "https://x.com/DecryptMedia/status/2112284464411750488",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792443138806-le3b0e",
-    "source": "x",
-    "ts": "2026-10-19T20:52:18.806Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-19T20:46:00.000Z",
-    "reason": "No notable move, no newsworthy information provided.",
-    "text": "What it costs to lose a vote on the Internet Computer\n\nThe Internet Computer, built by the DFINITY Foundation (@dfinity), is governed by a voting system called the NNS. ICP holders lock tokens in “neurons” to vote on network changes, and a neuron that takes at least 6 months to",
-    "url": "https://x.com/BSCNews/status/2112284149709250632"
-  },
-  {
     "id": "x-1792443728794-qcgjqq",
     "source": "x",
     "ts": "2026-10-19T21:02:08.794Z",
@@ -8091,5 +8049,52 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "🇨🇦 UPDATE: Canada’s monthly P2P crypto transactions peaked near 650,000 in spring 2024 before declining alongside study permit issuance, Chainalysis reports.",
     "url": "https://x.com/Cointelegraph/status/2112969835151819265"
+  },
+  {
+    "id": "x-1792606936803-hdvzpx",
+    "source": "x",
+    "ts": "2026-10-21T18:22:16.803Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T18:19:52.000Z",
+    "reason": "Memes and non-cryptocurrency content.",
+    "text": "How to be an adult:\n \nBe honest with yourself.\n\nBook: Everything is f*cked by Mark Manson.",
+    "url": "https://x.com/amerix/status/2112972150332162285"
+  },
+  {
+    "id": "x-1792606939816-dg2qqo",
+    "source": "x",
+    "ts": "2026-10-21T18:22:19.816Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T18:17:15.000Z",
+    "reason": "Generic hype with no real content.",
+    "text": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+    "url": "https://x.com/DecryptMedia/status/2112971491520176412"
+  },
+  {
+    "id": "x-1792606944922-bx904v",
+    "source": "x",
+    "ts": "2026-10-21T18:22:24.922Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-21T18:16:00.000Z",
+    "reason": "New wallet integration enhances app security and user experience.",
+    "text": "Dynamic opens a simpler door into Midnight\n\nDynamic (@dynamic_xyz), the wallet infrastructure firm owned by Fireblocks, has added Midnight (@MidnightNtwrk) to its non-custodial wallet tools. Apps using Dynamic can now create a Midnight wallet from an email or social login,",
+    "url": "https://x.com/BSCNews/status/2112971176469516684",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112968896135237633/vid/avc1/1220x720/MHsVytSlhvbcFXov.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112968896135237633/img/LEyY6tNOZlpSKi--.jpg"
+    }
   }
 ]
