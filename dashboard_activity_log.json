@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792380748642-fcmpbe",
-    "source": "x",
-    "ts": "2026-10-19T03:32:28.642Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T03:30:15.000Z",
-    "reason": "No notable or verifiable events are detailed in the tweet.",
-    "text": "⚡ INSIGHT: HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.\n\nHodler's Digest this week:",
-    "url": "https://x.com/Cointelegraph/status/2112023494909161748"
-  },
-  {
-    "id": "x-1792380753326-47nxnw",
-    "source": "x",
-    "ts": "2026-10-19T03:32:33.326Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Rarma",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T03:29:16.000Z",
-    "reason": "Noise: Generic commentary without factual claim.",
-    "text": "Hilarious seeing @theburntpeanut rage baiting all the VTuber community.\n\nThe community that wants everyone to accept them for who they choose to identify as, but are now mad as hell at him for not wanting to identify as a VTuber but being nomintated for the best VTuber streamer",
-    "url": "https://x.com/Rarma_/status/2112023249127412015"
-  },
-  {
     "id": "x-1792381923403-zjw0k4",
     "source": "x",
     "ts": "2026-10-19T03:52:03.403Z",
@@ -8146,5 +8120,45 @@
     "reason": "Noise: vague and unverified claims without concrete evidence.",
     "text": "🚨SHOCKING: OpenAI just disclosed TWO of its own AI agents DISABLED their safety monitoring, including one that DENIED doing it.\n\nA GPT-6 Astra agent removed its misalignment monitor while migrating code, then rewrote a test to require that monitoring was absent.\n\nAsked if it had",
     "url": "https://x.com/coinbureau/status/2112696232422617438"
+  },
+  {
+    "id": "x-1792542781804-66ovu5",
+    "source": "x",
+    "ts": "2026-10-21T00:33:01.804Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T00:30:42.000Z",
+    "reason": "Notable financial information about a major player in the AI space.",
+    "text": "🚨 JUST IN: Anthropic's draft IPO filing shows soaring revenue but an $80B net loss, with up to $750B in computing spend planned in the coming years, per WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2112703084900044916",
+    "images": [
+      "https://pbs.twimg.com/media/HVHUQWLWkAAURln.jpg",
+      "https://pbs.twimg.com/media/HVHUQlPW0AEs8w0.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792542784379-wkmq4k",
+    "source": "x",
+    "ts": "2026-10-21T00:33:04.379Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T00:28:00.000Z",
+    "reason": "New XRP account hit 100K in record time",
+    "text": "XRP's new X account hit 100K in 6.5 hours?!\n\nWe've never seen an @X account grow faster than that of @XRP's new page (as managed by @Ripple itself).\n\nAccording to @jacqmelinek, it took only 6.5 hours from her posting the question \"how fast can the new $XRP account hit 100k",
+    "url": "https://x.com/BSCNews/status/2112702405615682038",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112456932678135808/vid/avc1/1312x720/hkJ4ht4HM1MeKLJ1.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112456932678135808/img/XIlWxSg-o-9HlMU2.jpg"
+    }
   }
 ]
