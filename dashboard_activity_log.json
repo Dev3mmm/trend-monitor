@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792396325364-obi9hw",
-    "source": "x",
-    "ts": "2026-10-19T07:52:05.364Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-19T07:42:24.000Z",
-    "reason": "Zcash node upgrade targets Visa-level throughput, improving block propagation.",
-    "text": "Zcash Node Upgrade Targets Visa Level Throughput\n\nZakura (@ZakuraZcash) has launched P2Pv2, an experimental networking layer designed to improve block propagation on Zcash (@Zcash) $ZEC.\n\nIt works in parallel with the existing peer-to-peer network layer on the Testnet by default.",
-    "url": "https://x.com/BSCNews/status/2112086949523767797",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112065999197634560/vid/avc1/1280x720/a0Mf67sS_twRJmNw.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112065999197634560/img/t-zXYgGAZWMNS_OW.jpg"
-    }
-  },
-  {
     "id": "x-1792396919693-nif9d8",
     "source": "x",
     "ts": "2026-10-19T08:01:59.693Z",
@@ -8170,5 +8149,26 @@
     "reason": "Noise: No substantive content provided.",
     "text": "28–29 Nov 2026",
     "url": "https://x.com/binance/status/2112785963395231875"
+  },
+  {
+    "id": "x-1792563115947-1kl7t3",
+    "source": "x",
+    "ts": "2026-10-21T06:11:55.947Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T06:10:00.000Z",
+    "reason": "Notable regulatory action against major crypto platforms.",
+    "text": "Kazakhstan Court Blocks Six Crypto Platforms Including Coinbase, HTX\n\nKazakhstan’s AIFC Court has restricted Coinbase, BingX, Bitcoin(.)com, HTX, BitMart and WEEX from offering unlicensed crypto services within the financial centre.\n\nThe injunction also covers marketing services",
+    "url": "https://x.com/BSCNews/status/2112788472545022033",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112771677222559744/vid/avc1/1280x720/JqCmZU43Vgw0rtKI.mp4?tag=29",
+      "duration": 17,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112771677222559744/img/g3JDvWRibWTQRZ6F.jpg"
+    }
   }
 ]
