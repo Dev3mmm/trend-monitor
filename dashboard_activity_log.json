@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792465329515-av73js",
-    "source": "x",
-    "ts": "2026-10-20T03:02:09.515Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Wu Blockchain",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-20T02:52:19.000Z",
-    "reason": "Specific and notable upgrade announcement for Ethereum's testnet.",
-    "text": "Ethereum Sets October 26 for Glamsterdam Upgrade on Hoodi Testnet, Raising Gas Limit to 200 Million\n\nThe Ethereum Foundation announced that the Glamsterdam upgrade will activate on the Hoodi testnet on October 26 at 17:42 UTC, raising its block gas limit to 200 million, matching",
-    "url": "https://x.com/WuBlockchain/status/2112376337684173037",
-    "images": [
-      "https://pbs.twimg.com/media/HVCrEDPbsAI3afV.jpg",
-      "https://pbs.twimg.com/media/HVCrE0YaIAAmEia.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792466542663-sk02zu",
-    "source": "x",
-    "ts": "2026-10-20T03:22:22.663Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-20T03:15:59.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 JUST IN: President Trump says he’s open to three-way talks with Xi Jinping and Vladimir Putin as soon as next month to discuss nuclear weapons, denuclearization, and possibly trade.",
-    "url": "https://x.com/Cointelegraph/status/2112382294203760989"
-  },
-  {
     "id": "x-1792467122450-ze24f7",
     "source": "x",
     "ts": "2026-10-20T03:32:02.450Z",
@@ -8118,5 +8086,42 @@
       "https://pbs.twimg.com/media/HVL2kjjaoAAz4t3.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792621342126-7coc0y",
+    "source": "x",
+    "ts": "2026-10-21T22:22:22.126Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T22:20:38.000Z",
+    "reason": "Potential regulatory and policy shift regarding crypto mentioned by a prominent figure.",
+    "text": "🇺🇸 UPDATE: President Trump never mentioned “crypto” at the White House cybercrime roundtable, instead referring to $1 billion frozen from foreign scammers as “cybercurrency.”",
+    "url": "https://x.com/Cointelegraph/status/2113032741700636802",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792621346962-133fxd",
+    "source": "x",
+    "ts": "2026-10-21T22:22:26.962Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T22:17:00.000Z",
+    "reason": "ETF shows bearish trend in NEAR cryptocurrency.",
+    "text": "Spot $NEAR ETF flows flip bearish\n\n@Bitwise's spot @NEARProtocol ETF just saw its first day of net outflows, losing -$2.54M on October 20.\n\nLaunched in late September, the ETF had seen only net inflows until yesterday.\n\nIt already holds 1.27% of $NEAR's circulating supply.",
+    "url": "https://x.com/BSCNews/status/2113031826034077934",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112817376060116992/vid/avc1/1312x720/ySNOeAJJKfjDSHNe.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112817376060116992/img/8VA6g9uSOyVttlpM.jpg"
+    }
   }
 ]
