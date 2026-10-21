@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792378942667-05zu4c",
-    "source": "x",
-    "ts": "2026-10-19T03:02:22.667Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T03:00:15.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "8 options strategies. Different ways to navigate the market. \n\nCalls, puts, spreads, straddles, and more.\n\nExplore them all 👇",
-    "url": "https://x.com/binance/status/2112015947238154666"
-  },
-  {
-    "id": "x-1792380164863-281hhs",
-    "source": "x",
-    "ts": "2026-10-19T03:22:44.863Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-19T03:15:00.000Z",
-    "reason": "No notable move in crypto markets.",
-    "text": "🇯🇵 BREAKING: Over ¥23.5 TRILLION ($150 BILLION) wiped from Japanese stocks as the Nikkei drops 2% at the open.\n\nA U.S. tech selloff and rising oil prices are rattling investors, with Japan facing pressure from both weaker technology shares and higher energy import costs.",
-    "url": "https://x.com/coinbureau/status/2112019657624564116"
-  },
-  {
     "id": "x-1792380748642-fcmpbe",
     "source": "x",
     "ts": "2026-10-19T03:32:28.642Z",
@@ -8143,5 +8117,34 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112456785810296832/img/dqxTdSLaOJgeYRHq.jpg"
     }
+  },
+  {
+    "id": "x-1792541530452-qtp2ke",
+    "source": "x",
+    "ts": "2026-10-21T00:12:10.452Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coinbase 🛡️",
+    "ageMin": 30,
+    "originTimestamp": "2026-10-20T23:41:41.000Z",
+    "reason": "Highlighting significant real-world usage and demand for stablecoins.",
+    "text": "few highlights from our new research w/ @TheBlockCo:\n\n- hundreds of millions of dollars are being moved via stablecoins, every hour, around the world. real demand, at scale.\n- 73% of volume is happening outside U.S. banking hours, pointing to their appeal both as an alternative",
+    "url": "https://x.com/coinbase/status/2112696411959529916",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792541532720-bm1mku",
+    "source": "x",
+    "ts": "2026-10-21T00:12:12.720Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-21T00:03:28.000Z",
+    "reason": "Noise: vague and unverified claims without concrete evidence.",
+    "text": "🚨SHOCKING: OpenAI just disclosed TWO of its own AI agents DISABLED their safety monitoring, including one that DENIED doing it.\n\nA GPT-6 Astra agent removed its misalignment monitor while migrating code, then rewrote a test to require that monitoring was absent.\n\nAsked if it had",
+    "url": "https://x.com/coinbureau/status/2112696232422617438"
   }
 ]
