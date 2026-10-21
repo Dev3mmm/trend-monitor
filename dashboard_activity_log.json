@@ -1,73 +1,5 @@
 [
   {
-    "id": "x-1792175556219-mbe0cd",
-    "source": "x",
-    "ts": "2026-10-16T18:32:36.219Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 19,
-    "originTimestamp": "2026-10-16T18:13:05.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "Everything is being tokenized, and you're bearish?",
-    "url": "https://x.com/coinbase/status/2111160908269465766"
-  },
-  {
-    "id": "x-1792438578516-6rb3tb",
-    "source": "x",
-    "ts": "2026-10-19T19:36:18.516Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-19T19:30:49.000Z",
-    "reason": "No notable move or specific event/eventual price prediction.",
-    "text": "🚨ALARMING: Veteran analyst Gil Luria warns CoreWeave ($CRWV) could go to ZERO if the AI boom falters, calling it \"the subprime tranche of this AI trade.\"\n\nLuria warns neocloud providers could be the FIRST to suffer, while Microsoft, Amazon and Google are better positioned to",
-    "url": "https://x.com/coinbureau/status/2112265229505790439"
-  },
-  {
-    "id": "x-1792438582680-l010hu",
-    "source": "x",
-    "ts": "2026-10-19T19:36:22.681Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-19T19:24:24.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "NEW: Bitcoin is bouncing off its 50 Day Moving Average 👀 \n\nHistorically, this is a signal that a bull market has started! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2112263617169281270"
-  },
-  {
-    "id": "x-1792438921926-dysc80",
-    "source": "x",
-    "ts": "2026-10-19T19:42:01.926Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T19:40:11.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "⚡️ INSIGHT: Eric Balchunas says most of America’s richest billionaires’ wealth is tied to stock ownership, arguing stock donations could help narrow the wealth gap.",
-    "url": "https://x.com/Cointelegraph/status/2112267588759585003"
-  },
-  {
-    "id": "x-1792439546413-md1cyw",
-    "source": "x",
-    "ts": "2026-10-19T19:52:26.413Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-19T19:47:15.000Z",
-    "reason": "Notable exploit involving cross-platform code execution.",
-    "text": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
-    "url": "https://x.com/DecryptMedia/status/2112269364799971707",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792439549945-rmca8u",
     "source": "x",
     "ts": "2026-10-19T19:52:29.945Z",
@@ -8114,5 +8046,83 @@
     "reason": "No notable move; price is within the recent range.",
     "text": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
     "url": "https://x.com/DecryptMedia/status/2112960166710653145"
+  },
+  {
+    "id": "x-1792605159584-5uub9l",
+    "source": "x",
+    "ts": "2026-10-21T17:52:39.584Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T17:50:39.000Z",
+    "reason": "Specific staking ratio and value details, verifiable.",
+    "text": "⚡️ UPDATE: NEAR’s staking ratio holds at 46% three quarters after issuance was halved, with 596M tokens worth $3B staked at a 4.87% average yield, Bitwise reports.",
+    "url": "https://x.com/Cointelegraph/status/2112964800091238681",
+    "images": [
+      "https://pbs.twimg.com/media/HVLCSTAWAAAYTlC.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792605161390-66v23u",
+    "source": "x",
+    "ts": "2026-10-21T17:52:41.390Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 50,
+    "originTimestamp": "2026-10-21T17:02:18.000Z",
+    "reason": "Nothing substantive stated.",
+    "text": "Cool",
+    "url": "https://x.com/elonmusk/status/2112964643593269747"
+  },
+  {
+    "id": "x-1792605164013-64eeln",
+    "source": "x",
+    "ts": "2026-10-21T17:52:44.013Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 42,
+    "originTimestamp": "2026-10-21T17:10:33.000Z",
+    "reason": "Generic hate speech, no factual claim.",
+    "text": "Talarico would vote to take away your kids and transition them, not just in Texas, but nationwide. \n\nPure evil.",
+    "url": "https://x.com/elonmusk/status/2112964322192408813"
+  },
+  {
+    "id": "x-1792605167509-napti4",
+    "source": "x",
+    "ts": "2026-10-21T17:52:47.509Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 112,
+    "originTimestamp": "2026-10-21T16:00:27.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Digital Credit is Bitcoin, refined.\n\n2026 YTD annualized volatility:\n\nASST + MSTR: 95%\nBitcoin: 45%\nSATA + STRC: 24%\n\nSame raw material. \n\nStructured finance sends the volatility to the common equity and strips it out of Digital Credit:",
+    "url": "https://x.com/saylor/status/2112964041228333521"
+  },
+  {
+    "id": "x-1792605172054-53568l",
+    "source": "x",
+    "ts": "2026-10-21T17:52:52.054Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-21T17:45:00.000Z",
+    "reason": "New holders and volume increase for tokenized real-world assets on Sei Network chain.",
+    "text": "Sei Network’s tokenized real-world assets pick up new holders and volume\n\n@SeiNetwork now counts 2,510 holders of tokenized real-world assets, up about 24% in 30 days, per rwa.​xyz data. Monthly RWA transfer volume on the $SEI chain nearly tripled to $18.8M, while its total value",
+    "url": "https://x.com/BSCNews/status/2112963375302857159",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112958082565189632/vid/avc1/1220x720/T3Pg0AabHOUlADKW.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112958082565189632/img/oOx9Fywvhui7haZt.jpg"
+    }
   }
 ]
