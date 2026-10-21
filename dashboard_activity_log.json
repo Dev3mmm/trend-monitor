@@ -1,73 +1,5 @@
 [
   {
-    "id": "x-1792431764364-iw5a0b",
-    "source": "x",
-    "ts": "2026-10-19T17:42:44.364Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-19T17:42:00.000Z",
-    "reason": "XRP gaining new digital presence on the platform.",
-    "text": "XRP finally has an X account\n\n@XRP posted its first message on X today, a short logo video with the words “hello, world. It’s about time.” The post passed 260,000 views in about an hour.\n\n@Ripple and the XRP Ledger Foundation (@XRPLF) manage it together, and its profile describes",
-    "url": "https://x.com/BSCNews/status/2112237844383371720",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112230964420116480/vid/avc1/1220x720/rX9h-KKMcaPTCCho.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112230964420116480/img/MlWEV-ynK0amx2ba.jpg"
-    }
-  },
-  {
-    "id": "x-1792431769070-rsfol1",
-    "source": "x",
-    "ts": "2026-10-19T17:42:49.070Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 73,
-    "originTimestamp": "2026-10-19T16:29:32.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Literally have no idea how incredible Grok Bot really is\n\nBasically any task you can think of that you want to do on a laptop it does it... I didn't see it do anything wrong tbh, such as with the tasks that required payment and with things like buying stuff online and booking",
-    "url": "https://x.com/elonmusk/status/2112237454333788356"
-  },
-  {
-    "id": "x-1792431773875-tvali8",
-    "source": "x",
-    "ts": "2026-10-19T17:42:53.875Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T17:40:11.000Z",
-    "reason": "Notable regulatory move impacting financial institutions' use of stablecoins.",
-    "text": "⚡️ LATEST: Mastercard introduces Stablecoin Security to help financial institutions detect fraud, scams and sanctions risks in stablecoin payments, with global availability expected in 2027.",
-    "url": "https://x.com/Cointelegraph/status/2112237389334606146",
-    "images": [
-      "https://pbs.twimg.com/media/HVAstgKXAAAhFgT.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792431778813-3u9tix",
-    "source": "x",
-    "ts": "2026-10-19T17:42:58.813Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-19T17:32:15.000Z",
-    "reason": "Notable institutional adoption of stablecoins on Ethereum by a major bank.",
-    "text": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-    "url": "https://x.com/DecryptMedia/status/2112235390736208304",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792433039822-drey0s",
     "source": "x",
     "ts": "2026-10-19T18:03:59.822Z",
@@ -8128,5 +8060,57 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112932506936741888/img/D2BOHyViCcMkFLur.jpg"
     }
+  },
+  {
+    "id": "x-1792599718556-nj8iuf",
+    "source": "x",
+    "ts": "2026-10-21T16:21:58.556Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 13,
+    "originTimestamp": "2026-10-21T16:08:13.000Z",
+    "reason": "Generic political rally announcement without crypto-specific content.",
+    "text": "🚨 VIRGINIA!\n\nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE",
+    "url": "https://x.com/elonmusk/status/2112942136056528901"
+  },
+  {
+    "id": "x-1792599721128-1rz3lf",
+    "source": "x",
+    "ts": "2026-10-21T16:22:01.128Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-21T16:11:22.000Z",
+    "reason": "Generic hype without factual claim",
+    "text": "Send 𝕏 links to your friends so that they know what’s really going on",
+    "url": "https://x.com/elonmusk/status/2112941801510178862"
+  },
+  {
+    "id": "x-1792599724101-uzqolq",
+    "source": "x",
+    "ts": "2026-10-21T16:22:04.101Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-21T16:17:15.000Z",
+    "reason": "No factual claim or specific event is presented.",
+    "text": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+    "url": "https://x.com/DecryptMedia/status/2112941292585906464"
+  },
+  {
+    "id": "x-1792599727802-e6cfbr",
+    "source": "x",
+    "ts": "2026-10-21T16:22:07.802Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 21,
+    "originTimestamp": "2026-10-21T16:00:18.000Z",
+    "reason": "Memes and personal opinions without factual claims.",
+    "text": "with Grok Bot the future of computing is headless\n\nI never wake up thinking \"this will be a great day to open up the amazon app and have to click a bunch of buttons to find my order and fill out forms to return it\"\n\n(this is de-humanizing)\n\ninstead I just tell Grok to do it!",
+    "url": "https://x.com/elonmusk/status/2112941047902843137"
   }
 ]
