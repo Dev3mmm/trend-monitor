@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792412541594-kfffcc",
-    "source": "x",
-    "ts": "2026-10-19T12:22:21.594Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T12:21:05.000Z",
-    "reason": "No notable move or specific event is indicated.",
-    "text": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
-    "url": "https://x.com/DecryptMedia/status/2112157083709669695"
-  },
-  {
-    "id": "x-1792412544382-cikp5z",
-    "source": "x",
-    "ts": "2026-10-19T12:22:24.382Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T12:20:12.000Z",
-    "reason": "Significant institutional crypto purchase.",
-    "text": "🔥 JUST IN: Strive buys 1,223 BTC, bringing total holdings to 36,818 BTC valued at $3B.",
-    "url": "https://x.com/Cointelegraph/status/2112156860065198183",
-    "images": [
-      "https://pbs.twimg.com/media/HU_jeGaXYAAQ0Du.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792412547773-7r3uz8",
     "source": "x",
     "ts": "2026-10-19T12:22:27.773Z",
@@ -8177,6 +8146,46 @@
       "duration": 31,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112855937211936769/img/m_Of25Xj8PGucCic.jpg"
+    }
+  },
+  {
+    "id": "x-1792580522862-by9yf6",
+    "source": "x",
+    "ts": "2026-10-21T11:02:02.862Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-21T11:01:08.000Z",
+    "reason": "Alpenglow upgrade targeting 150ms finality could impact Solana's transaction speed and scalability.",
+    "text": "🔥 TODAY: Solana’s Alpenglow upgrade is scheduled to activate at 13:20 UTC, targeting 150ms finality, down from 12.8 seconds.",
+    "url": "https://x.com/Cointelegraph/status/2112861741423968509",
+    "images": [
+      "https://pbs.twimg.com/media/HVJkjApXQAAP9la.png",
+      "https://pbs.twimg.com/media/HVJkjcmXYAAnw8z.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792580528056-ofwpyk",
+    "source": "x",
+    "ts": "2026-10-21T11:02:08.056Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-21T10:53:33.000Z",
+    "reason": "No notable information provided, appears to be a promotional tweet.",
+    "text": "What is Plume Network Trying to Bring Onchain?\n\nFrom real estate to private credit, Plume Network (@plumenetwork) $PLUME is building infrastructure designed to bring real-world financial assets onto the blockchain.\n\nThe idea isto make assets that have traditionally been difficult",
+    "url": "https://x.com/BSCNews/status/2112859832726466682",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112858749291655168/vid/avc1/1280x720/TpIW8IV45ftCp54D.mp4?tag=29",
+      "duration": 14,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112858749291655168/img/1hw0hKWMnUSuwjUn.jpg"
     }
   }
 ]
