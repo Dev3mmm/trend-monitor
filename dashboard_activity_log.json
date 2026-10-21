@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1792433571860-amvwt0",
-    "source": "x",
-    "ts": "2026-10-19T18:12:51.861Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T18:09:47.000Z",
-    "reason": "No notable move or event described.",
-    "text": "Just another day at the office.",
-    "url": "https://x.com/saylor/status/2112244839186076145"
-  },
-  {
-    "id": "x-1792433577301-qbwu0d",
-    "source": "x",
-    "ts": "2026-10-19T18:12:57.301Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-19T18:06:26.000Z",
-    "reason": "No notable move, as the creation of an account and a ledger within an hour is not a significant event.",
-    "text": "⚡️FRESH: Ripple just created a NEW X account dedicated to $XRP and the XRP Ledger has just been created in the past HOUR.",
-    "url": "https://x.com/coinbureau/status/2112243996248731711",
-    "images": [
-      "https://pbs.twimg.com/media/HVAyqDbb0AAPkkk.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792434191727-p924wl",
-    "source": "x",
-    "ts": "2026-10-19T18:23:11.727Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T18:20:12.000Z",
-    "reason": "The tweet is too vague without concrete details to verify.",
-    "text": "🇺🇸 INSIGHT: Peter Schiff warns the U.S. faces its “worst housing market” in history, citing soaring construction costs and rising mortgage rates.",
-    "url": "https://x.com/Cointelegraph/status/2112247460819075420",
-    "images": [
-      "https://pbs.twimg.com/media/HVA13jfXQAAEztd.jpg",
-      "https://pbs.twimg.com/media/HVA13w_XsAAZkea.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792434194513-masjp8",
-    "source": "x",
-    "ts": "2026-10-19T18:23:14.513Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-19T18:17:38.000Z",
-    "reason": "Tweet is unrelated to crypto or blockchain technology.",
-    "text": "Switzerland's Minister of African Affairs. Paul Biya, 93 years old.\n\nHe is Switzerland's most respect youth leader.",
-    "url": "https://x.com/amerix/status/2112246814464438548"
-  },
-  {
     "id": "x-1792434196814-nm9eyk",
     "source": "x",
     "ts": "2026-10-19T18:23:16.814Z",
@@ -8114,6 +8051,69 @@
       "duration": 15,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112942080314023936/img/_ku1DNrCsoT1UUpQ.jpg"
+    }
+  },
+  {
+    "id": "x-1792601532623-0rny57",
+    "source": "x",
+    "ts": "2026-10-21T16:52:12.623Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 57,
+    "originTimestamp": "2026-10-21T15:54:42.000Z",
+    "reason": "No notable move in ETH price, price is within its recent range.",
+    "text": "看到有小伙伴在问为什么 ethereum:native 现货 ETF 本周持续净流出，但 ETH 的价格反而还在上涨。\n\n首先，ETF 只是 ETH 交易的一部分，并不是全部，而且相对于加密货币的原生交易来说，两边的成交规模还是有挺大区别的。比如 10月20日 这一天，全部美国 ETH 现货 ETF 的成交额约为 6.25亿",
+    "url": "https://x.com/PhyrexNi/status/2112949831518028215"
+  },
+  {
+    "id": "x-1792601534081-fh5wvp",
+    "source": "x",
+    "ts": "2026-10-21T16:52:14.081Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T16:50:41.000Z",
+    "reason": "No crypto-related content.",
+    "text": "🚨 BIG: US pending home sales fell to an all-time low in September.",
+    "url": "https://x.com/Cointelegraph/status/2112949706523369914"
+  },
+  {
+    "id": "x-1792601536231-o91iwm",
+    "source": "x",
+    "ts": "2026-10-21T16:52:16.231Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T16:47:15.000Z",
+    "reason": "Notable institutional investment in Dogecoin ecosystem development.",
+    "text": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+    "url": "https://x.com/DecryptMedia/status/2112948843067175028",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792601538946-hzs815",
+    "source": "x",
+    "ts": "2026-10-21T16:52:18.946Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-21T16:46:03.000Z",
+    "reason": "Notable financial institution's USD1 stablecoin trading on multiple exchanges.",
+    "text": "World Liberty Financial’s USD1 clears $1.6B in a single day of trading\n\nSpot markets accounted for about $950M of Tuesday’s total, and perps about $650M, according to @worldlibertyfi. The $USD1 stablecoin now trades on @binance, @Aster_DEX, @Gate, @MEXC, and @Bybit_Official.",
+    "url": "https://x.com/BSCNews/status/2112948541177970969",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112947379338903552/vid/avc1/1220x720/_KrwNVkROuRpuEPw.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112947379338903552/img/WjSMboWcCQ-aCqrQ.jpg"
     }
   }
 ]
