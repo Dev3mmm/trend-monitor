@@ -99,7 +99,9 @@ jobs:
           f=square_state.json
           [ -f $f ] || exit 0
           sha=$(gh api repos/${{ github.repository }}/contents/$f --jq .sha 2>/dev/null || true)
-          gh api -X PUT repos/${{ github.repository }}/contents/$f -f message="Square state $(date -u +%H:%M)" -f content="$(base64 -w0 $f)" -f branch=main ${sha:+-f sha=$sha} > /dev/null
+          # content goes via --input (a file): state grew past the OS argv limit ("Argument list too long"), which silently dropped saves and re-posted the same item every run
+          node -e "const fs=require('fs');const b={message:'Square state '+new Date().toISOString().slice(11,16),content:fs.readFileSync('$f').toString('base64'),branch:'main'};if(process.argv[1])b.sha=process.argv[1];fs.writeFileSync('/tmp/sq_put.json',JSON.stringify(b))" "$sha"
+          gh api -X PUT repos/${{ github.repository }}/contents/$f --input /tmp/sq_put.json > /dev/null
           git checkout -- $f 2>/dev/null || true
         continue-on-error: true
 
