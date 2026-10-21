@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792468935651-nqmwp5",
-    "source": "x",
-    "ts": "2026-10-20T04:02:15.651Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-20T04:00:01.000Z",
-    "reason": "No notable move in Bitcoin price.",
-    "text": "Justin Sun: AI and Quantum Risks Make Me More Bearish on Bitcoin Than Before\n\nOn October 16, 2026, Justin Sun @justinsuntron said in an interview with William Joy that advances in AI algorithms and quantum computing risks had made him more bearish on Bitcoin than before. He",
-    "url": "https://x.com/WuBlockchain/status/2112393374775099669"
-  },
-  {
-    "id": "x-1792469591238-qelzwx",
-    "source": "x",
-    "ts": "2026-10-20T04:13:11.238Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-20T04:07:48.000Z",
-    "reason": "Notable institutional adoption of a crypto-asset solution.",
-    "text": "Chainlink Powers Archax's Tokenized Treasury Product\n\nArchax (@ArchaxEx) has adopted Chainlink (@chainlink) $LINK Data Streams for $GOVY, its 24/7 tokenized U.S. Treasury product.\n\nThe integration offers low-latency pricing data for the institutional market.\n\nThis could enable",
-    "url": "https://x.com/BSCNews/status/2112395332348964907",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112392988051787776/vid/avc1/1280x720/ZOgkEcg9u21Dx65Q.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112392988051787776/img/9csuqvkQ8hT4uxf5.jpg"
-    }
-  },
-  {
     "id": "x-1792470147906-miccbp",
     "source": "x",
     "ts": "2026-10-20T04:22:27.906Z",
@@ -8116,5 +8082,36 @@
     "reason": "No notable move or specific event is described.",
     "text": "Ripple is going big on the $XRP token.\n\nShortly after the launch of the official @XRP X account, and the xrp[.]org website was revealed.\n\nWe looked at that website and found that it is basically just a platform dedicated to educating people about the $XRP token itself, explaining",
     "url": "https://x.com/BSCNews/status/2113048435603513483"
+  },
+  {
+    "id": "x-1792626135845-9oaayo",
+    "source": "x",
+    "ts": "2026-10-21T23:42:15.845Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-21T23:35:00.000Z",
+    "reason": "No notable crypto-related content or move mentioned.",
+    "text": "This is CONCERNING.\n\nThe US is pulling some troops and diplomats out of its Middle East posts as Trump weighs new military action in Iran, per NBC.\n\nWe've seen this before.\n\nIn January and February, the US pulled troops from its Middle East bases as Trump weighed strikes on Iran.",
+    "url": "https://x.com/coinbureau/status/2113051455888433616"
+  },
+  {
+    "id": "x-1792626140582-vhcnax",
+    "source": "x",
+    "ts": "2026-10-21T23:42:20.582Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-21T23:32:41.000Z",
+    "reason": "Potential security risk affecting user safety and privacy.",
+    "text": "⚡️ NOW: CZ warns users to be “extra careful visiting ANY web site in the next few days,” as unpatched sites vulnerable to two exploited PHP flaws could be used for credential theft or device exploits.",
+    "url": "https://x.com/Cointelegraph/status/2113050871512588695",
+    "images": [
+      "https://pbs.twimg.com/media/HVMQkaYWsAA0p2C.png"
+    ],
+    "video": null
   }
 ]
