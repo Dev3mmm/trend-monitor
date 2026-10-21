@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1792460551633-5jfu5u",
-    "source": "x",
-    "ts": "2026-10-20T01:42:31.633Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CertiK Alert",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-20T01:41:33.000Z",
-    "reason": "Exploit detection reported by Certik Security Dashboard",
-    "text": "#CertiKInsight 🚨\n\nWe have detected  deposit of 1255.8 ETH (~$3M) from Aztec rollup exploiter in June.\n\nCertiK Report Security Dashboard 👇 \n\nStay Vigilant!",
-    "url": "https://x.com/CertiKAlert/status/2112358527348179206",
-    "images": [
-      "https://pbs.twimg.com/media/HVCZ06baMAE45il.jpg",
-      "https://pbs.twimg.com/media/HVCaFVPaQAA8zdM.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792460857907-j0ckzc",
     "source": "x",
     "ts": "2026-10-20T01:47:37.907Z",
@@ -8143,5 +8124,18 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "People are buying FSD with a car attached, not the other way around",
     "url": "https://x.com/elonmusk/status/2113011056847278486"
+  },
+  {
+    "id": "x-1792617151608-4apkvj",
+    "source": "x",
+    "ts": "2026-10-21T21:12:31.608Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T21:10:41.000Z",
+    "reason": "No notable move, price is well within its recent range.",
+    "text": "🔥 BULLISH: $META beats Q3 2026 revenue forecasts with $64.6 billion.",
+    "url": "https://x.com/Cointelegraph/status/2113015136877207999"
   }
 ]
