@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792409537333-aivq3s",
-    "source": "x",
-    "ts": "2026-10-19T11:32:17.333Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T11:29:09.000Z",
-    "reason": "New level of decentralization and active validators reported.",
-    "text": "Algorand hits a new level of decentralization!\n\n@Algorand reports 1,582 active consensus validators on October 17, setting a new quarterly high for the number of nodes in the network.\n\nAccording to @chainspect_app data tracking, infrastructure distribution is growing within the",
-    "url": "https://x.com/BSCNews/status/2112144013310452030",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112143975956045824/vid/avc1/1316x720/oygGY3Aa9T_GKYVF.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112143975956045824/img/9UpzU193D6TQjJQz.jpg"
-    }
-  },
-  {
     "id": "x-1792410141565-eslbhr",
     "source": "x",
     "ts": "2026-10-19T11:42:21.565Z",
@@ -8156,5 +8135,26 @@
       "https://pbs.twimg.com/media/HVJQWBtXgAAdHwA.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792576421826-5966el",
+    "source": "x",
+    "ts": "2026-10-21T09:53:41.826Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-21T09:44:00.000Z",
+    "reason": "Notable institutional development in blockchain technology.",
+    "text": "Zcash Plans to Triple its Block Production Speed\n\nZcash (@Zcash) $ZEC developers have targeted November 5 for the NU7 upgrade, pending final implementation.\n\nThe upgrade would cut block times from 75 seconds to 25 seconds. It would also temporarily remove 60% of transaction fees",
+    "url": "https://x.com/BSCNews/status/2112842327656141142",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112834287418630144/vid/avc1/1280x720/Bcp4gUGQALB5ySph.mp4?tag=29",
+      "duration": 14,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112834287418630144/img/tkl-rCeFW6_cooh9.jpg"
+    }
   }
 ]
