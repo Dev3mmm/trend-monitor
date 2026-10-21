@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792465318820-nbpgyd",
-    "source": "x",
-    "ts": "2026-10-20T03:01:58.820Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-20T03:01:04.000Z",
-    "reason": "OpenAI's involvement could signal significant regulatory or technological developments in the crypto space.",
-    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 Citi Research says Aave could become the go-to layer for financing tokenized assets once they move onchain, calling collateral mobility one of tokenization’s most important use cases.\n\n🔹 OpenAI is reportedly",
-    "url": "https://x.com/Cointelegraph/status/2112378540775670108",
-    "images": [
-      "https://pbs.twimg.com/media/HVCtE8OWcAEKr4t.jpg",
-      "https://pbs.twimg.com/media/HVCtFTWWEAAnf9u.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792465324031-a6vvb6",
-    "source": "x",
-    "ts": "2026-10-20T03:02:04.031Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T03:00:02.000Z",
-    "reason": "New order routing feature on Binance Spot with currency conversion.",
-    "text": "Auto Order Routing is now live on Binance Spot.\n\nOrders are routed via whichever path provides the better price for you at the time of routing. No extra fees are charged by Binance for the currency conversion.\n\nLive on eligible U, USD, USD1, and USDC-quoted pairs with more to",
-    "url": "https://x.com/binance/status/2112378280242258058",
-    "images": [
-      "https://pbs.twimg.com/media/HU_dFrWawAAqmFQ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792465329515-av73js",
     "source": "x",
     "ts": "2026-10-20T03:02:09.515Z",
@@ -8124,5 +8087,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113006913491202050/img/XPtKtL2ql5TCRZ_x.jpg"
     }
+  },
+  {
+    "id": "x-1792620722867-qkpx7z",
+    "source": "x",
+    "ts": "2026-10-21T22:12:02.867Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T22:06:55.000Z",
+    "reason": "No notable crypto-related news or move described.",
+    "text": "Call me paranoid, but be extra careful visiting ANY web site in the next few days, as some web admins are not always up-to-date with security patches.\n\nTwo vulnerabilities (CVE-2026-109618 and CVE-2026-109619) reported for PHP, the web programming language, affecting servers",
+    "url": "https://x.com/cz_binance/status/2113029289155178716"
+  },
+  {
+    "id": "x-1792620726420-wh2fjh",
+    "source": "x",
+    "ts": "2026-10-21T22:12:06.420Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-21T22:02:00.000Z",
+    "reason": "Concrete price movement with specific level and significant price increase.",
+    "text": "JUST IN: Bitcoin climbs above $84,700, its HIGHEST level since October 7.\n\n$BTC is up over $2,000 from today's low of $82,535.",
+    "url": "https://x.com/coinbureau/status/2113028052422733843",
+    "images": [
+      "https://pbs.twimg.com/media/HVL2kjjaoAAz4t3.png"
+    ],
+    "video": null
   }
 ]
