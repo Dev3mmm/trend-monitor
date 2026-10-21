@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792444938738-hy5fcr",
-    "source": "x",
-    "ts": "2026-10-19T21:22:18.738Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-19T21:16:15.000Z",
-    "reason": "Notable institution (Anthropic) making a public move in response to another (Musk's SpaceX)",
-    "text": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-    "url": "https://x.com/DecryptMedia/status/2112291762211295332",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792444941031-pgce4e",
-    "source": "x",
-    "ts": "2026-10-19T21:22:21.031Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-19T21:15:00.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "Injective’s monthly buyback returns Wednesday, and Stockdrop is back too\n\nThe next @injective Community BuyBack opens on Wednesday, with the October pool valued at more than $247,000. Holders commit $INJ and receive a share of Injective ecosystem revenue in return, split by how",
-    "url": "https://x.com/BSCNews/status/2112291448074690971"
-  },
-  {
     "id": "x-1792446126510-974zex",
     "source": "x",
     "ts": "2026-10-19T21:42:06.510Z",
@@ -8110,5 +8081,39 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/media/HVLMs1KWUAAZ2vL.jpg"
     }
+  },
+  {
+    "id": "x-1792608742312-z6aply",
+    "source": "x",
+    "ts": "2026-10-21T18:52:22.312Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-21T18:48:00.000Z",
+    "reason": "Notable price movement and trading volume increase for ENA.",
+    "text": "Ethena leads the top 100 gainers with a sharp rebound\n\n@ethena's $ENA rose about 14.5% over the past 24 hours to $0.224, ahead of Starknet at about 13.7%. Trading volume climbed 32% to $520M, and its market cap is back near $3B.\n\nENA slid to about $0.176 over the weekend, its",
+    "url": "https://x.com/BSCNews/status/2112979229432221978",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112974476405043200/vid/avc1/1220x720/YwWSSXnkMms44PWT.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112974476405043200/img/T_qHbBs4dIJeyMgQ.jpg"
+    }
+  },
+  {
+    "id": "x-1792608747103-wbix1o",
+    "source": "x",
+    "ts": "2026-10-21T18:52:27.103Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-21T18:47:15.000Z",
+    "reason": "The tweet appears to be a meme or inside joke rather than a concrete news item.",
+    "text": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+    "url": "https://x.com/DecryptMedia/status/2112979040940216434"
   }
 ]
