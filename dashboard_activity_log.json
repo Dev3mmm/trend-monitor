@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792418254936-1g66rj",
-    "source": "x",
-    "ts": "2026-10-19T13:57:34.936Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-19T13:53:39.000Z",
-    "reason": "Significant institutional action with a substantial token burn.",
-    "text": "BNB Chain burns nearly $2B worth of tokens in 37th quarterly burn \n\n@BNBCHAIN successfully completed the 37th quarterly token burn on the BNB Smart Chain, destroying 1,646,196 $BNB (worth about $1.197B) from the floating supply. \n\nThis process reduces the asset's total",
-    "url": "https://x.com/BSCNews/status/2112180379197026730",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112179975004590081/vid/avc1/1316x720/jyi5KJWdEP32mSpg.mp4?tag=29",
-      "duration": 30,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112179975004590081/img/muQtWrlTbfWSgKBo.jpg"
-    }
-  },
-  {
-    "id": "x-1792418256674-k5rll2",
-    "source": "x",
-    "ts": "2026-10-19T13:57:36.674Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-19T13:44:09.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "🇨🇦 JUST IN: Canada’s inflation rises to 3.1%, below the 3.2% forecast.",
-    "url": "https://x.com/Cointelegraph/status/2112177989727228012"
-  },
-  {
     "id": "x-1792418722377-rtfur0",
     "source": "x",
     "ts": "2026-10-19T14:05:22.377Z",
@@ -8176,5 +8142,39 @@
     "reason": "No notable move or specific event is indicated.",
     "text": "LIVE: BTC Liquidity Cycle, On-Chain Intelligence, Wall Street &amp; Bitcoin | BMTV Oct. 19, 2026",
     "url": "https://x.com/BitcoinMagazine/status/2112176064491655338"
+  },
+  {
+    "id": "x-1792587740198-a709cw",
+    "source": "x",
+    "ts": "2026-10-21T13:02:20.198Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T13:00:03.000Z",
+    "reason": "No notable crypto-related information provided.",
+    "text": "🔥 JUST IN: Unitree unveils its H2-X humanoid robot, designed to “serve and guard” with up to 8 hours of endurance.",
+    "url": "https://x.com/Cointelegraph/status/2112891667330310463"
+  },
+  {
+    "id": "x-1792587744468-cl2263",
+    "source": "x",
+    "ts": "2026-10-21T13:02:24.468Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-21T12:55:04.000Z",
+    "reason": "NU7 upgrade activation leads to ZEC price jump.",
+    "text": "Zcash Jumps 12% After Core Developers Set to Activate NU7 Upgrade\n\nThe $ZEC price is up 12% in the last 24 hours, trading near $1,270, after rallying more than 300% year-to-date.\n\nThis follows the protocol developers' agreement to use block 3,543,405 to activate Network Upgrade 7",
+    "url": "https://x.com/BSCNews/status/2112890412763419017",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112890238494208000/vid/avc1/1316x720/T5243qscch8YgFvj.mp4?tag=29",
+      "duration": 30,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112890238494208000/img/ADixEVXt58o3rRh2.jpg"
+    }
   }
 ]
