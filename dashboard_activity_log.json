@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792412551468-qsrbdm",
-    "source": "x",
-    "ts": "2026-10-19T12:22:31.468Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-19T12:13:54.000Z",
-    "reason": "Announcement of a new Layer-2 network release using Elysium.",
-    "text": "Kinetiq sets date for Layer 2 Mainnet on Hyperliquid\n\nKinetiq (@Kinetiq_xyz) announces the official mainnet release of Elysium on November 9th.\n\nElysium will utilize a custom Layer-2 execution network that is meant to scale the @HyperliquidX derivatives platform.\n\nThe release",
-    "url": "https://x.com/BSCNews/status/2112155278045049018",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112154920325431296/vid/avc1/1316x720/aRIl8mvbP55akth7.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112154920325431296/img/YvrllyvE_MxiucxB.jpg"
-    }
-  },
-  {
     "id": "x-1792413152252-gahbya",
     "source": "x",
     "ts": "2026-10-19T12:32:32.252Z",
@@ -8184,5 +8163,24 @@
     "reason": "No notable crypto-related information provided.",
     "text": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
     "url": "https://x.com/DecryptMedia/status/2112866675280302226"
+  },
+  {
+    "id": "x-1792582344346-ulwvng",
+    "source": "x",
+    "ts": "2026-10-21T11:32:24.346Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-21T11:24:22.000Z",
+    "reason": "Notable regulatory move affecting stablecoin issuers.",
+    "text": "🇺🇸 BREAKING: The US OCC finalizes GENIUS Act rules for stablecoin issuers, covering reserves, redemptions, and custody.\n\nEffective January 18, 2027.",
+    "url": "https://x.com/Cointelegraph/status/2112867585834233885",
+    "images": [
+      "https://pbs.twimg.com/media/HVJp3jUWYAAAjq2.png",
+      "https://pbs.twimg.com/media/HVJp3v3XYAAoYO7.png"
+    ],
+    "video": null
   }
 ]
