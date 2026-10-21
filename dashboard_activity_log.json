@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792426932554-wkmink",
-    "source": "x",
-    "ts": "2026-10-19T16:22:12.554Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T16:19:10.000Z",
-    "reason": "Notable bank launch of crypto trading through banking app",
-    "text": "🇩🇪 NEW: Germany’s Sparkassen network has launched crypto trading through its banking app at select banks, initially supporting Bitcoin, Ethereum, XRP, Solana and Polygon, with 30–40 more banks set to join each month.",
-    "url": "https://x.com/Cointelegraph/status/2112217000634118191",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792426938971-2qas9j",
-    "source": "x",
-    "ts": "2026-10-19T16:22:18.971Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-19T16:15:11.000Z",
-    "reason": "Significant staking increase and governance support.",
-    "text": "Nearly half of Flare’s active FLR now sits in staking\n\nHolders have now staked 23.1 billion $FLR on @FlareNetworks, or 49.2% of the FLR taking part in the network. The rest is delegated.\n\nGovernance voters backed the FIP.16 overhaul in April with 98.06% support. It gives staked",
-    "url": "https://x.com/BSCNews/status/2112215997260210618",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112214362626650112/vid/avc1/1220x720/gVKoJCQjMazcK3Dn.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112214362626650112/img/uxvcf-Chul6PqhML.jpg"
-    }
-  },
-  {
     "id": "x-1792427600837-uopnw1",
     "source": "x",
     "ts": "2026-10-19T16:33:20.837Z",
@@ -8151,5 +8114,42 @@
       "https://pbs.twimg.com/media/HVKeWvTbUAEVEbe.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792596729447-opabd9",
+    "source": "x",
+    "ts": "2026-10-21T15:32:09.447Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T15:30:43.000Z",
+    "reason": "Major US companies object to tokenized shares.",
+    "text": "🇺🇸 UPDATE: Tokenized stock trading is surging overseas, with Robinhood Chain volume hitting $11.31B in September.\n\nHowever, major US companies object to tokenized shares, per CNBC.\nGoldman Sachs \nMicrosoft \nQualcomm\nCaterpillar\nMcDonald’s\nWestern Digital \nAlphabet",
+    "url": "https://x.com/Cointelegraph/status/2112929582558937247",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792596733198-4krao9",
+    "source": "x",
+    "ts": "2026-10-21T15:32:13.198Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 22,
+    "originTimestamp": "2026-10-21T15:09:47.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "173 public companies now hold Bitcoin. \n\nBitcoin for Corporations' Allen Helm on his pitch to the CFOs who don't: \"We know cash is a melting ice cube at the end of the day.\"\n\n\"Just take one or two percent and just see what happens over the course of an entire cycle.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2112927633356779907",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112923813012819968/vid/avc1/1180x648/IHh_tKp7RWigEr03.mp4?tag=29",
+      "duration": 151,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112923813012819968/img/rK0L2WwfTel9L8aE.jpg"
+    }
   }
 ]
