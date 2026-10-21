@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791102149975-6ll5wq",
     "x-1791102155932-dgo1xl",
     "x-1791102759202-8utrkq",
     "x-1791102763293-tyut0v",
@@ -1999,31 +1998,11 @@
     "x-1792593122548-amuw7m",
     "x-1792593126497-dx4ub8",
     "x-1792594356859-uz5btd",
-    "x-1792594364195-km58fz"
+    "x-1792594364195-km58fz",
+    "x-1792595543675-vpsiyv"
   ],
-  "queue": [
-    {
-      "text": "🚨 ALERT: PHP developers patch two critical vulnerabilities in software used by roughly 75% of websites with identifiable programming languages.\n\nWebsite operators advised to update as soon as possible.",
-      "url": "https://x.com/Cointelegraph/status/2112917360424222749",
-      "images": [
-        "https://pbs.twimg.com/media/HVKXJAxW8AAvxbp.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1792594365281
-    }
-  ],
+  "queue": [],
   "posted": [
-    {
-      "text": "🔥 TODAY: Circle minted 250M $USDC on Solana.",
-      "final": "🔥 TODAY: Circle minted 250M $USDC on Solana.\n\n#Solana $SOL #Stablecoin",
-      "images": [
-        "https://pbs.twimg.com/media/HVABPTjWQAAmqZb.png",
-        "https://pbs.twimg.com/media/HVABPp_W0AAdaYE.png"
-      ],
-      "at": 1792422738396,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/379009220154995?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "JUST IN: AnchorWatch Trust Company launches a Bitcoin custody service with up to $370 million in insurance per client 🚀\n\n\"Its clients include fiduciaries, public companies, trusts, and high-net-worth individuals requiring qualified bitcoin custody.\" — The Block",
       "final": "JUST IN: AnchorWatch Trust Company launches a Bitcoin custody service with up to $370 million in insurance per client 🚀\n\n\"Its clients include fiduciaries, public companies, trusts, and high-net-worth individuals requiring qualified bitcoin custody.\" — The Block\n\n#Bitcoin $BTC",
@@ -2580,7 +2559,16 @@
       "at": 1792593725065,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379709574345283?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: PHP developers patch two critical vulnerabilities in software used by roughly 75% of websites with identifiable programming languages.\n\nWebsite operators advised to update as soon as possible.",
+      "final": "🚨 ALERT: PHP developers patch two critical vulnerabilities in software used by roughly 75% of websites with identifiable programming languages.\n\nWebsite operators advised to update as soon as possible.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVKXJAxW8AAvxbp.png"
+      ],
+      "at": 1792595549081,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792593725065
+  "lastPostAt": 1792595549081
 }
