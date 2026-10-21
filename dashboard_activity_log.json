@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1792438334214-khqt6o",
-    "source": "x",
-    "ts": "2026-10-19T19:32:14.214Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T19:30:51.000Z",
-    "reason": "No notable move in price or significant event described.",
-    "text": "Binance Pick is coming.\n\nReserve during Early Bird from Oct 19 to earn bonus Scores. The more users reserve, the bigger the prize pool unlocks, up to 1,000,000 USDC.\n\nPredict. Climb. Share the rewards.\n\nT&amp;Cs apply. Not available in all regions.\n\n👉",
-    "url": "https://x.com/binance/status/2112265239471288438"
-  },
-  {
-    "id": "x-1792438338299-ftbw52",
-    "source": "x",
-    "ts": "2026-10-19T19:32:18.299Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T19:30:49.000Z",
-    "reason": "Generic warning with no concrete, verifiable claim or price move.",
-    "text": "🚨ALARMING: Veteran analyst Gil Luria warns CoreWeave ($CRWV) could go to ZERO if the AI boom falters, calling it \"the subprime tranche of this AI trade.\"\n\nLuria warns neocloud providers could be the FIRST to suffer, while Microsoft, Amazon and Google are better positioned to",
-    "url": "https://x.com/coinbureau/status/2112265229505790439"
-  },
-  {
-    "id": "x-1792438341999-fjhujj",
-    "source": "x",
-    "ts": "2026-10-19T19:32:21.999Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-19T19:24:24.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "NEW: Bitcoin is bouncing off its 50 Day Moving Average 👀 \n\nHistorically, this is a signal that a bull market has started! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2112263617169281270"
-  },
-  {
     "id": "x-1792175556219-mbe0cd",
     "source": "x",
     "ts": "2026-10-16T18:32:36.219Z",
@@ -8103,5 +8064,55 @@
       "https://pbs.twimg.com/media/HVK8G8AXAAAbZh1.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792437769259-fhs5bn",
+    "source": "x",
+    "ts": "2026-10-19T19:22:49.259Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-19T19:17:15.000Z",
+    "reason": "Specific bank adoption of stablecoin payments.",
+    "text": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+    "url": "https://x.com/DecryptMedia/status/2112261814796837038",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792437772899-nwl8ar",
+    "source": "x",
+    "ts": "2026-10-19T19:22:52.899Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-19T19:16:00.000Z",
+    "reason": "Noteworthy regulatory statement about crypto harmonization efforts.",
+    "text": "Europe has no US crypto law to line up with, says Hedera’s policy chief\n\nHedera (@hedera) chief policy officer Nilmini Rubin (@nilminirubin) said a European government leader told her the EU had hoped to work this year to get the EU and US to recognize each other’s crypto rules.",
+    "url": "https://x.com/BSCNews/status/2112261500307972274",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112248669336440832/vid/avc1/1220x720/uZVWqrLVk53aaXZ2.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112248669336440832/img/v1qe_44Tagg8jWX_.jpg"
+    }
+  },
+  {
+    "id": "x-1792604648073-sbyd6u",
+    "source": "x",
+    "ts": "2026-10-21T17:44:08.073Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-21T17:32:15.000Z",
+    "reason": "No notable move; price is within the recent range.",
+    "text": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+    "url": "https://x.com/DecryptMedia/status/2112960166710653145"
   }
 ]
