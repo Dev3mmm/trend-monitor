@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "JUST IN: 🇺🇸 US Treasury Department to buy back up to $750 million in longer-term debt today 👀    \n\nBuy Bitcoin 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2112930543319085173",
-      "images": [
-        "https://pbs.twimg.com/media/HVKi-CGXYAAR0xF.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792597339907
-    },
-    {
       "text": "🔥 BIG: Solana launches Alpenglow on mainnet in the network’s biggest-ever consensus upgrade.",
       "url": "https://x.com/Cointelegraph/status/2112939780388401208",
       "images": [
@@ -2606,7 +2597,16 @@
       "at": 1792599124414,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379731735893109?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: 🇺🇸 US Treasury Department to buy back up to $750 million in longer-term debt today 👀    \n\nBuy Bitcoin 🚀",
+      "final": "JUST IN: 🇺🇸 US Treasury Department to buy back up to $750 million in longer-term debt today 👀 \n\nBuy Bitcoin 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HVKi-CGXYAAR0xF.jpg"
+      ],
+      "at": 1792600903910,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792599124414
+  "lastPostAt": 1792600903910
 }
