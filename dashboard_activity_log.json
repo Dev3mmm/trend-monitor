@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792444422598-4q2utk",
-    "source": "x",
-    "ts": "2026-10-19T21:13:42.598Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-19T21:02:20.000Z",
-    "reason": "No notable financial or price information provided, just a comparison to the S&P 500.",
-    "text": "JUST IN: Bitcoin is now less volatile than 57% of S&amp;P 500 companies, according to Grayscale 👀\n\nBullish! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2112288262710526247"
-  },
-  {
-    "id": "x-1792444935941-o6j8ll",
-    "source": "x",
-    "ts": "2026-10-19T21:22:15.941Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-19T21:20:10.000Z",
-    "reason": "No notable move in gold or crypto price/usage mentioned.",
-    "text": "🇨🇳 BIG: Goldman Sachs says China was the largest identifiable gold buyer in August, purchasing 25 tonnes.",
-    "url": "https://x.com/Cointelegraph/status/2112292750791999663"
-  },
-  {
     "id": "x-1792444938738-hy5fcr",
     "source": "x",
     "ts": "2026-10-19T21:22:18.738Z",
@@ -8102,5 +8076,39 @@
       "https://pbs.twimg.com/media/HVLKbH9aMAAk6jp.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792608216700-mnn58v",
+    "source": "x",
+    "ts": "2026-10-21T18:43:36.700Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T18:40:41.000Z",
+    "reason": "Prediction without a basis given.",
+    "text": "🔥 BULLISH: JPMorgan predicts SpaceX shares will triple after a major third-quarter earnings beat.",
+    "url": "https://x.com/Cointelegraph/status/2112977388174823933"
+  },
+  {
+    "id": "x-1792608222187-n2u5ji",
+    "source": "x",
+    "ts": "2026-10-21T18:43:42.187Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-21T18:34:13.000Z",
+    "reason": "Price projection based on significant capital allocation is noteworthy.",
+    "text": "JUST IN: Look Into Bitcoin’s Head of Research says “1% of global capital being invested into Bitcoin would see a price of about $275,000.” 👀  \n\n\"This is the lower end of what big allocators like BlackRock are advocating to be holding in Bitcoin.\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112975761099440393",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112975669424484352/vid/avc1/1322x720/f3oZuAmNIHPHTlA2.mp4?tag=29",
+      "duration": 92,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HVLMs1KWUAAZ2vL.jpg"
+    }
   }
 ]
