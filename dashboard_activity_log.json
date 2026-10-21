@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1792434196814-nm9eyk",
-    "source": "x",
-    "ts": "2026-10-19T18:23:16.814Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-19T18:17:15.000Z",
-    "reason": "No information about crypto or blockchain systems.",
-    "text": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
-    "url": "https://x.com/DecryptMedia/status/2112246715394806226"
-  },
-  {
-    "id": "x-1792434199559-5c3u8a",
-    "source": "x",
-    "ts": "2026-10-19T18:23:19.559Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-19T18:14:20.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Our objective is for $STRC to trade at $99-$100 over time.",
-    "url": "https://x.com/saylor/status/2112246260736647582"
-  },
-  {
-    "id": "x-1792434203315-bqiydr",
-    "source": "x",
-    "ts": "2026-10-19T18:23:23.315Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-19T18:14:00.000Z",
-    "reason": "Binance AI Pro introduces automated trading capabilities using plain-language instructions.",
-    "text": "Binance AI Pro turns a simple chat into a trading bot\n\n@binance has rolled out Binance AI Pro, an AI agent that builds automated trading strategies from plain-language instructions. Users can test each strategy with virtual funds first, and going live requires separate approval.",
-    "url": "https://x.com/BSCNews/status/2112245897409233365",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112233538292477952/vid/avc1/1220x720/tLhr-nu4MKAcEqmo.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112233538292477952/img/A0xYEtZm_zimM56B.jpg"
-    }
-  },
-  {
     "id": "x-1792435361369-5c0c4s",
     "source": "x",
     "ts": "2026-10-19T18:42:41.369Z",
@@ -8115,5 +8068,57 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112947379338903552/img/WjSMboWcCQ-aCqrQ.jpg"
     }
+  },
+  {
+    "id": "x-1792602138894-dbvxp8",
+    "source": "x",
+    "ts": "2026-10-21T17:02:18.894Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-21T17:00:14.000Z",
+    "reason": "Specific institutional activity with notable inflows into Bitcoin ETFs.",
+    "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs have seen inflows of $549.9 million over the past two trading sessions 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112952109348045257",
+    "images": [
+      "https://pbs.twimg.com/media/HVK2vmcXUAAjF8l.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792602144246-pyz1ak",
+    "source": "x",
+    "ts": "2026-10-21T17:02:24.246Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-21T16:59:04.000Z",
+    "reason": "Europe's crypto regulations improving credibility for Web3 firms.",
+    "text": "🎥 LATEST: Europe’s crypto regulations are restoring credibility and bringing Web3 firms closer to regulated institutions, says @BlockBen’s Viktor Bodnár.\n\nSpeaking at TOKEN2049, he explains why companies are seeking licenses and partnerships to access the European market.",
+    "url": "https://x.com/Cointelegraph/status/2112951815482339545",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112951699799232512/vid/avc1/1280x720/PD9zwj9x2LcWikh-.mp4?tag=29",
+      "duration": 71,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112951699799232512/img/_jL6UXwcnBDdOJxa.jpg"
+    }
+  },
+  {
+    "id": "x-1792602147615-wr98ri",
+    "source": "x",
+    "ts": "2026-10-21T17:02:27.615Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 32,
+    "originTimestamp": "2026-10-21T16:29:56.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Starlink moves the needle",
+    "url": "https://x.com/elonmusk/status/2112950704327520260"
   }
 ]
