@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🔥 BIG: Solana launches Alpenglow on mainnet in the network’s biggest-ever consensus upgrade.",
-      "url": "https://x.com/Cointelegraph/status/2112939780388401208",
-      "images": [
-        "https://pbs.twimg.com/media/HVKrh-rXYAAcFe4.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792599124414
-    },
-    {
       "text": "Critical PHP Vulnerabilities Spark Global Security Alert; SlowMist Warns Crypto Exchanges, DeFi Platforms and Wallet Providers\n\nSlowMist said its MistEye threat intelligence system conducted a global scan of PHP-related assets across the crypto industry following the disclosure",
       "url": "https://x.com/WuBlockchain/status/2112939023421620717",
       "images": [
@@ -2046,17 +2037,6 @@
     }
   ],
   "posted": [
-    {
-      "text": "🔥 UPDATE: Trust Wallet cuts 200 MB from its app after removing nine years of legacy code, CEO Felix Fan says more cuts incoming.",
-      "final": "🔥 UPDATE: Trust Wallet cuts 200 MB from its app after removing nine years of legacy code, CEO Felix Fan says more cuts incoming.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HVAV-xvWMAAheXv.png",
-        "https://pbs.twimg.com/media/HVAV_A4WIAAj1ZZ.jpg"
-      ],
-      "at": 1792429926653,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/379038662593266?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🔥 JUST IN: Mesh partners with Visa to enable crypto payments at over 175 million merchant locations without a separate card.",
       "final": "🔥 JUST IN: Mesh partners with Visa to enable crypto payments at over 175 million merchant locations without a separate card.\n\n#Crypto",
@@ -2608,7 +2588,16 @@
       "at": 1792600903910,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379738975257359?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 BIG: Solana launches Alpenglow on mainnet in the network’s biggest-ever consensus upgrade.",
+      "final": "🔥 BIG: Solana launches Alpenglow on mainnet in the network’s biggest-ever consensus upgrade.\n\n#Solana $SOL",
+      "images": [
+        "https://pbs.twimg.com/media/HVKrh-rXYAAcFe4.jpg"
+      ],
+      "at": 1792602728817,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792600903910
+  "lastPostAt": 1792602728817
 }
