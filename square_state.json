@@ -2001,17 +2001,7 @@
     "x-1792593122548-amuw7m",
     "x-1792593126497-dx4ub8"
   ],
-  "queue": [
-    {
-      "text": "JUST IN: $84,003 Bitcoin 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2112913597793980538",
-      "images": [
-        "https://pbs.twimg.com/media/HVKTs_DWEAADe25.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792593126999
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "JUST IN: 🇩🇪 German savings bank Sparkasse to allow its 40 million customers to buy Bitcoin 🚀",
@@ -2578,7 +2568,16 @@
       "at": 1792591976008,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379702478772693?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: $84,003 Bitcoin 🚀",
+      "final": "JUST IN: $84,003 Bitcoin 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HVKTs_DWEAADe25.jpg"
+      ],
+      "at": 1792593725065,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792591976008
+  "lastPostAt": 1792593725065
 }
