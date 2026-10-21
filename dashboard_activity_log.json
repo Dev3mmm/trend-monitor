@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1792423341022-m0nr14",
-    "source": "x",
-    "ts": "2026-10-19T15:22:21.022Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-19T15:15:11.000Z",
-    "reason": "Specific mention of a notable investment in Ethereum by a well-known figure.",
-    "text": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
-    "url": "https://x.com/DecryptMedia/status/2112200897639899452",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792423928576-xlxpvu",
-    "source": "x",
-    "ts": "2026-10-19T15:32:08.576Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T15:30:16.000Z",
-    "reason": "Notifiable regulatory action affecting crypto technology.",
-    "text": "🚨 UPDATE: US DHS orders DeepSeek products removed from civilian agencies, citing risks of sensitive data reaching China, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2112204691933168100",
-    "images": [
-      "https://pbs.twimg.com/media/HVAO9osWIAAAq8w.png",
-      "https://pbs.twimg.com/media/HVAO-OeXkAAEm8G.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792423933365-aod0jq",
-    "source": "x",
-    "ts": "2026-10-19T15:32:13.365Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 47,
-    "originTimestamp": "2026-10-19T14:45:02.000Z",
-    "reason": "No notable move or concrete claim.",
-    "text": "OranjeBTC's Sam Callahan: \"The US dollar has lost 20% of its purchasing power over the last five years.\"\n\n\"That's an obscene level of currency debasement and that's the global reserve asset.\"\n\n\"You [should] seek monetary alternatives that are difficult to debase like Bitcoin.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2112204395941417361"
-  },
-  {
     "id": "x-1792423938836-5wudfj",
     "source": "x",
     "ts": "2026-10-19T15:32:18.836Z",
@@ -8158,5 +8110,52 @@
     "reason": "No notable crypto-related news in the tweet.",
     "text": "🚨ALARMING: Up to 70% of the world's websites could be at RISK after AI researchers uncovered PHP2Shell, a CRITICAL security flaw in PHP, per WSJ.\n\nThe vulnerability could allow hackers to hijack unpatched servers, steal sensitive information and launch attacks against website",
     "url": "https://x.com/coinbureau/status/2112911467582476403"
+  },
+  {
+    "id": "x-1792593118707-utfokf",
+    "source": "x",
+    "ts": "2026-10-21T14:31:58.707Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T14:30:38.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "⚡ INSIGHT: The Ledger and Coldcard thefts show you can do everything right and still lose your Bitcoin. Here are five hardware wallet alternatives to consider, along with their drawbacks.",
+    "url": "https://x.com/Cointelegraph/status/2112914463632376142"
+  },
+  {
+    "id": "x-1792593122548-amuw7m",
+    "source": "x",
+    "ts": "2026-10-21T14:32:02.548Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-21T14:27:12.000Z",
+    "reason": "Concrete, verifiable price milestone outside recent range.",
+    "text": "JUST IN: $84,003 Bitcoin 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2112913597793980538",
+    "images": [
+      "https://pbs.twimg.com/media/HVKTs_DWEAADe25.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792593126497-dx4ub8",
+    "source": "x",
+    "ts": "2026-10-21T14:32:06.497Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-21T14:25:45.000Z",
+    "reason": "New use of a token with significant hype in the DeFi space.",
+    "text": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+    "url": "https://x.com/DecryptMedia/status/2112913232469881310",
+    "images": [],
+    "video": null
   }
 ]
