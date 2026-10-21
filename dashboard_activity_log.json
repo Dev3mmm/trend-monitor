@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792450945108-d11x7y",
-    "source": "x",
-    "ts": "2026-10-19T23:02:25.108Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-19T23:01:15.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "Would you rather hold Bitcoin, gold, or cash for the next five years? 👇",
-    "url": "https://x.com/Cointelegraph/status/2112318188780237104"
-  },
-  {
-    "id": "x-1792451171506-m4qozj",
-    "source": "x",
-    "ts": "2026-10-19T23:06:11.506Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-19T23:03:00.000Z",
-    "reason": "Discussing a new stablecoin project and its potential competition with major players is noteworthy.",
-    "text": "Can $USD1 really compete with stablecoin giants...?\n\nWe dive into the big question around @worldlibertyfi $WLFI's big stablecoin play - Can it ever supply giants in @Tether and @Circle...? ⬇️",
-    "url": "https://x.com/BSCNews/status/2112318626829082922",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792451536931-zdbgaj",
     "source": "x",
     "ts": "2026-10-19T23:12:16.931Z",
@@ -8118,5 +8089,44 @@
       "https://pbs.twimg.com/media/HVLXWDEWAAEIYyW.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792612331654-qo5a1o",
+    "source": "x",
+    "ts": "2026-10-21T19:52:11.654Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-21T19:50:40.000Z",
+    "reason": "Crypto derivatives open interest reaches significant new heights.",
+    "text": "⚡️ LATEST: Crypto derivatives open interest climbs as prices recover, reaching $23.4B for $BTC, $15.5B for $ETH and $2.7B for $SOL, Santiment data shows.",
+    "url": "https://x.com/Cointelegraph/status/2112994999851712590",
+    "images": [
+      "https://pbs.twimg.com/media/HVLdwNFXAAA-ta4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792612336805-kfr8sh",
+    "source": "x",
+    "ts": "2026-10-21T19:52:16.805Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-21T19:46:00.000Z",
+    "reason": "Notable upgrade with specific on-chain data point.",
+    "text": "Celestia goes live with Fibre, built for AI agents and nonstop markets\n\n@celestia switched on Fibre on Tuesday, a new data availability protocol it calls its biggest upgrade since launch. Fibre starts at about 150 megabytes per second, roughly 15 times the old capacity. Every",
+    "url": "https://x.com/BSCNews/status/2112993825912389685",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112983154889809920/vid/avc1/1220x720/LocDzh7ubk3PsiVY.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112983154889809920/img/rdrGV3m8gkvU6E-T.jpg"
+    }
   }
 ]
