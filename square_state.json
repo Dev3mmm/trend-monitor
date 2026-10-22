@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "⚡️ TODAY: Elon Musk says SpaceX has “a shot at exceeding 10GW of compute next year.”",
-      "url": "https://x.com/Cointelegraph/status/2113126765203788248",
-      "images": [
-        "https://pbs.twimg.com/media/HVNVltrW8AAl3xD.jpg",
-        "https://pbs.twimg.com/media/HVNVl_4WAAEgKqm.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792644138658
-    },
-    {
       "text": "🚨 LATEST: bitcoin:native treasury companies are back in profit with Bitcoin trading above their roughly $80K cost basis since Sept. 18, yet they’ve barely resumed buying, per @glassnode .",
       "url": "https://x.com/Cointelegraph/status/2113133244665479290",
       "images": [
@@ -2566,7 +2556,17 @@
       "at": 1792645327256,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379920964952281?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "⚡️ TODAY: Elon Musk says SpaceX has “a shot at exceeding 10GW of compute next year.”",
+      "final": "⚡️ TODAY: Elon Musk says SpaceX has “a shot at exceeding 10GW of compute next year.”\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVNVltrW8AAl3xD.jpg",
+        "https://pbs.twimg.com/media/HVNVl_4WAAEgKqm.jpg"
+      ],
+      "at": 1792647146248,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792645327256
+  "lastPostAt": 1792647146248
 }
