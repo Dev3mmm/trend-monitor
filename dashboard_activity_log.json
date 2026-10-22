@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1792604472196-4mssg2",
-    "source": "x",
-    "ts": "2026-10-21T17:41:12.196Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-21T17:23:40.000Z",
-    "reason": "Specific institutional event with potential for significant market impact.",
-    "text": "🚨 JUST IN: Anthropic could make its IPO filing public as soon as Friday, with a listing that could surpass SpaceX’s as the largest ever",
-    "url": "https://x.com/Cointelegraph/status/2112958005838807199",
-    "images": [
-      "https://pbs.twimg.com/media/HVK8GvyW0AEXbOi.jpg",
-      "https://pbs.twimg.com/media/HVK8G8AXAAAbZh1.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792437769259-fhs5bn",
-    "source": "x",
-    "ts": "2026-10-19T19:22:49.259Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-19T19:17:15.000Z",
-    "reason": "Specific bank adoption of stablecoin payments.",
-    "text": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-    "url": "https://x.com/DecryptMedia/status/2112261814796837038",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792437772899-nwl8ar",
     "source": "x",
     "ts": "2026-10-19T19:22:52.899Z",
@@ -7730,5 +7695,39 @@
     "reason": "Ad for a crypto trading platform.",
     "text": "Your agent &lt;&gt; your Coinbase account.\n\nTrade crypto, stocks, and derivatives on the Everything Exchange - all from a single conversation.\n\nWorks with Claude, ChatGPT, Grok, Muse, and more.\n\nConnect your agent ↓",
     "url": "https://x.com/coinbase/status/2113375768969674928"
+  },
+  {
+    "id": "x-1792705929085-7xa4ho",
+    "source": "x",
+    "ts": "2026-10-22T21:52:09.085Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-22T21:49:42.000Z",
+    "reason": "No notable crypto-related event or price movement mentioned.",
+    "text": "🚨 JUST IN: OpenAI is nearing a funding round of up to $30 billion at a $1.25 trillion valuation ahead of a potential IPO, CNBC reports.",
+    "url": "https://x.com/Cointelegraph/status/2113387345986621526"
+  },
+  {
+    "id": "x-1792705934933-i5dfzu",
+    "source": "x",
+    "ts": "2026-10-22T21:52:14.933Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-22T21:46:00.000Z",
+    "reason": "Notable institutional adoption of stablecoins and impact on trading volume.",
+    "text": "Pyth Network says round-the-clock stock trading is already here\n\n@PythNetwork, the solana:HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3 oracle network, said its price data powered more than $2T in trading volume on stocks, commodities, and currencies across offshore derivatives",
+    "url": "https://x.com/BSCNews/status/2113386412728783237",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113374212412854272/vid/avc1/1220x720/4T-iLnwLaMuR7wMd.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113374212412854272/img/QqYsWgjHYSc6sknt.jpg"
+    }
   }
 ]
