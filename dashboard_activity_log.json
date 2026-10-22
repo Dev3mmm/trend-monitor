@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792477334361-he9qob",
-    "source": "x",
-    "ts": "2026-10-20T06:22:14.361Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-20T06:20:04.000Z",
-    "reason": "Vague motivational quote with no factual claim or on-chain data.",
-    "text": "You don't get in life what you want.\n\nYou get what you are.\n\nYour discipline, your thoughts, your words, your house, your office, your books, your body, and what you produce already say who you are.\n\nTherefore, fix what you are, for it becomes what you get in life.",
-    "url": "https://x.com/amerix/status/2112428620685734202"
-  },
-  {
     "id": "x-1792477935184-kmgrm7",
     "source": "x",
     "ts": "2026-10-20T06:32:15.184Z",
@@ -8127,5 +8114,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112818339957342208/img/FsS4nZsmJiokfWYo.jpg"
     }
+  },
+  {
+    "id": "x-1792636326689-frkzcr",
+    "source": "x",
+    "ts": "2026-10-22T02:32:06.689Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T02:30:43.000Z",
+    "reason": "OpenAI's policy change could impact the use and development of AI models.",
+    "text": "🚨 TODAY: OpenAI says it’s updating its Usage Policies effective Nov. 20, requiring model routers and AI gateways to get its approval before offering access to its models.",
+    "url": "https://x.com/Cointelegraph/status/2113095675369947576",
+    "images": [
+      "https://pbs.twimg.com/media/HVM5UDtWkAASrqJ.jpg"
+    ],
+    "video": null
   }
 ]
