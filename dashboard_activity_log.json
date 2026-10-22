@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792491132948-tr6jmj",
-    "source": "x",
-    "ts": "2026-10-20T10:12:12.948Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-20T10:09:52.000Z",
-    "reason": "Notable institutional crypto move with regulatory implications.",
-    "text": "🇹🇭 NEW: Bitget plans to acquire a licensed Thai crypto exchange weeks after a $388M hack.\n\nThe deal would expand its Southeast Asia footprint, subject to regulatory approval.",
-    "url": "https://x.com/Cointelegraph/status/2112486451501740513",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792491136648-jet8ef",
-    "source": "x",
-    "ts": "2026-10-20T10:12:16.649Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-20T09:56:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "非常同意狼哥说的，这方面我做过研究，其实不论是互动还是点赞还是别的什么，甚至是 X 本身的规则连续发内容会被降权都没用，只要内容本身能让人停留，就会有更多的曝光，\n\nX",
-    "url": "https://x.com/PhyrexNi/status/2112485494965862633"
-  },
-  {
     "id": "x-1792491140818-ihwabw",
     "source": "x",
     "ts": "2026-10-20T10:12:20.818Z",
@@ -8119,5 +8090,42 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113141229613662208/img/zf4c_g2R0Qc2_753.jpg"
     }
+  },
+  {
+    "id": "x-1792648935748-5sldil",
+    "source": "x",
+    "ts": "2026-10-22T06:02:15.748Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-22T06:00:02.000Z",
+    "reason": "Large amount of Solana sold to Kraken.",
+    "text": "🚨 TODAY: Pumpfun deposits another 129,798 solana:So11111111111111111111111111111111111111112  worth $14.07M to Kraken, bringing its total solana:So11111111111111111111111111111111111111112 sold to 5.48M, or about $875.5M, per Arkham data.",
+    "url": "https://x.com/Cointelegraph/status/2113148352074514752",
+    "images": [
+      "https://pbs.twimg.com/media/HVM-0pDbwAAaeFy.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792648941340-psvyno",
+    "source": "x",
+    "ts": "2026-10-22T06:02:21.340Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-22T05:52:59.000Z",
+    "reason": "Wallet drain of $369K+ flagged in Railway security breach.",
+    "text": "⚠️ ALERT: $369K+ in suspected wallet drains flagged amid Railway’s security breach, that may have exposed customer secrets.\n\nA suspected attacker wallet moved at least $369,300 to HitBTC and other addresses, per Onchain Lens.\n\nIt also received funds from an address linked to the",
+    "url": "https://x.com/coinbureau/status/2113146580543123845",
+    "images": [
+      "https://pbs.twimg.com/media/HVNnnMSagAESiVV.png",
+      "https://pbs.twimg.com/media/HVNnnMTbgAA0euA.png"
+    ],
+    "video": null
   }
 ]
