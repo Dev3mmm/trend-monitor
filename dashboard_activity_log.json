@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1792503120024-fsxa66",
-    "source": "x",
-    "ts": "2026-10-20T13:32:00.024Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-20T13:13:30.000Z",
-    "reason": "Notable institutional adoption and partnership between MetaMask and Mastercard.",
-    "text": "MetaMask Enables Self-Custodial Mastercard Sign-ups in the United Kingdom\n\n@MetaMask officially launches sign-ups for its blockchain-native payment card in the United Kingdom, leveraging infrastructure developed through a collaboration with @Mastercard that connects",
-    "url": "https://x.com/BSCNews/status/2112532663328248146",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112532604654112769/vid/avc1/1316x720/VUTiyl5-18dfhrOV.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112532604654112769/img/h7gzzTbeP5F88T1m.jpg"
-    }
-  },
-  {
-    "id": "x-1792503741602-mbkhbj",
-    "source": "x",
-    "ts": "2026-10-20T13:42:21.602Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-20T13:33:16.000Z",
-    "reason": "Specific institutional partnership between OpenZeppelin and Chainlink.",
-    "text": "OpenZeppelin integrates Chainlink into its tooling standard...\n\n@Chainlink and @OpenZeppelin have formed a deep partnership that brings Chainlink's CCIP and ACE technology directly into OpenZeppelin's developer library.\n\nThe integration links the core software used to transfer",
-    "url": "https://x.com/BSCNews/status/2112537638590701776",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112537157470429184/vid/avc1/1316x720/PrF9fxlhV5_bP99P.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112537157470429184/img/zbiMxhjl6oBPZJPz.jpg"
-    }
-  },
-  {
-    "id": "x-1792503745516-3ochwd",
-    "source": "x",
-    "ts": "2026-10-20T13:42:25.516Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-20T13:33:07.000Z",
-    "reason": "No concrete price or notable event is mentioned.",
-    "text": "LIVE: SATA IPO, BTC Election Outlook &amp; Nation-State Adoption | BMTV Oct. 20, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2112537600838012974"
-  },
-  {
     "id": "x-1792503749980-vvtr39",
     "source": "x",
     "ts": "2026-10-20T13:42:29.980Z",
@@ -8037,5 +7982,50 @@
     "reason": "No notable move or specific event.",
     "text": "@MotoriAutoHub Hello. Sorry about that. Please share the error you are getting. ^RC",
     "url": "https://x.com/Safaricom_Care/status/2113200963460698121"
+  },
+  {
+    "id": "x-1792662131711-lcp23o",
+    "source": "x",
+    "ts": "2026-10-22T09:42:11.711Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-22T09:38:14.000Z",
+    "reason": "No notable crypto-related event or use of crypto mentioned.",
+    "text": "From what I can tell from my exposure to it, the Japanese voice on this platform is the most blessed and wholesome signal in world media. 🩷🇯🇵",
+    "url": "https://x.com/elonmusk/status/2113203947997450634"
+  },
+  {
+    "id": "x-1792662135976-simij9",
+    "source": "x",
+    "ts": "2026-10-22T09:42:15.976Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-22T09:37:34.000Z",
+    "reason": "No notable move or newsworthy event.",
+    "text": "@PaulWaraho Hello Paul. Thank you for your inquiry. The system automatically deducts the available funds from your Pochi account to repay the loan. ^NC",
+    "url": "https://x.com/Safaricom_Care/status/2113203096587292845"
+  },
+  {
+    "id": "x-1792662141309-fh2apr",
+    "source": "x",
+    "ts": "2026-10-22T09:42:21.309Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-22T09:35:35.000Z",
+    "reason": "Significant price movement and loss of long positions in BTC and ETH.",
+    "text": "JUST IN: Over $210,000,000 in crypto longs wiped out in the last 12hrs as BTC and ETH plunge toward $81K and $2.3K.",
+    "url": "https://x.com/coinbureau/status/2113202599956820060",
+    "images": [
+      "https://pbs.twimg.com/media/HVOZ2qjagAAt9DX.png",
+      "https://pbs.twimg.com/media/HVOZ8vMa8AAvJjB.png"
+    ],
+    "video": null
   }
 ]
