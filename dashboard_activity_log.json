@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792564974823-uibqnc",
-    "source": "x",
-    "ts": "2026-10-21T06:42:54.823Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-21T06:39:42.000Z",
-    "reason": "Alleged laundering links to criminal activity involving ransomware and exploits revealed.",
-    "text": "ZachXBT Exposes Alleged Laundering Links Tied to Hyperliquid\n\nOn-chain investigator, ZachXBT (@zachxbt), traced over $20 million in historical FreedomXMR inflows to suspected criminal activity.\n\nThe funds reportedly involved ransomware, exploits and social engineering attacks",
-    "url": "https://x.com/BSCNews/status/2112795948900593758",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112792956432490496/vid/avc1/1280x720/Z9JxX-GZxmQfzJv7.mp4?tag=29",
-      "duration": 17,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112792956432490496/img/Uxlqa_Zt-5UHcnvz.jpg"
-    }
-  },
-  {
-    "id": "x-1792566132382-2xavun",
-    "source": "x",
-    "ts": "2026-10-21T07:02:12.382Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-21T07:00:39.000Z",
-    "reason": "Notable institutional partnership between a cryptocurrency project and a custodian.",
-    "text": "🇰🇷 NEW: Injective partners with South Korean custodian BDACS to make its won-backed KRW1 stablecoin the exclusive settlement asset for tokenized RWAs on its network.",
-    "url": "https://x.com/Cointelegraph/status/2112801221471801789",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792566712394-qqngum",
     "source": "x",
     "ts": "2026-10-21T07:11:52.394Z",
@@ -7834,5 +7797,41 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/media/HVP3ImVW4AAHyq_.jpg"
     }
+  },
+  {
+    "id": "x-1792687347006-fd3y87",
+    "source": "x",
+    "ts": "2026-10-22T16:42:27.006Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CryptoNewsLive",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-22T16:39:38.000Z",
+    "reason": "Significant trading volume increase for SOL on Binance perpetuals.",
+    "text": "Seven Binance perpetuals with no Binance spot market traded $1.89B on Oct 21, up from $22.5M on Oct 19. solana:DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV did $1.09B of it and ran 270% before giving back more than half. The dated record:",
+    "url": "https://x.com/CryptoNwsOrg/status/2113309313125241061",
+    "images": [
+      "https://pbs.twimg.com/media/HVP7mXJWIAA2fo5.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792687349835-mm2qwm",
+    "source": "x",
+    "ts": "2026-10-22T16:42:29.835Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CryptoNewsLive",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-22T16:37:39.000Z",
+    "reason": "Notable trading volume and price movement on Solana token.",
+    "text": "Seven Binance perpetuals with no Binance spot market traded $1.89B on Oct 21, up from $22.5M on Oct 19. solana:DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV did $1.09B of it and ran 270% before giving back more than half. The dated record:",
+    "url": "https://x.com/CryptoNwsOrg/status/2113308813214290301",
+    "images": [
+      "https://pbs.twimg.com/media/HVP7J8qWsAAK1r3.jpg"
+    ],
+    "video": null
   }
 ]
