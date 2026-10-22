@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792472529407-grod9p",
-    "source": "x",
-    "ts": "2026-10-20T05:02:09.407Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T05:01:04.000Z",
-    "reason": "No notable move in token or market price, and no specific, verifiable event.",
-    "text": "🇺🇸 NOW: Fed officials see the AI boom fueling inflation, but further rate hikes are expected to hit small businesses and consumers harder than deep-pocketed AI giants, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2112408736593596552"
-  },
-  {
-    "id": "x-1792473136699-3u4zjd",
-    "source": "x",
-    "ts": "2026-10-20T05:12:16.699Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-20T05:04:00.000Z",
-    "reason": "Notable institutional move with potential regulatory and market impact.",
-    "text": "BlackRock Files For a Bitcoin ETF With Downside Protection\n\nBlackRock (@BlackRock) has filed for the iShares Bitcoin $BTC Managed Protect ETF with the SEC.\n\nThe fund seeks limited upside exposure to IBIT while offering downside protection.\n\nIts flagship IBIT ETF holds more than",
-    "url": "https://x.com/BSCNews/status/2112409475433005299",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112403273223421952/vid/avc1/1280x720/bfv8ds2Ce9ujFzY-.mp4?tag=29",
-      "duration": 16,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112403273223421952/img/quyH8WehnPbFWw5z.jpg"
-    }
-  },
-  {
     "id": "x-1792473728771-fh9202",
     "source": "x",
     "ts": "2026-10-20T05:22:08.771Z",
@@ -8108,5 +8074,44 @@
     "reason": "No notable move in TVL or market share.",
     "text": "Two apps currently dominate Sui's DeFi sector.\n\nAccording to DefiLlama, @SuiNetwork's TVL stands at roughly $496M at time of writing.\n\nInterestingly, just two protocols (both lending-focused) account for a staggering 66.5% of this figure.\n\nThose two apps are @navi_protocol and",
     "url": "https://x.com/BSCNews/status/2113056740216336600"
+  },
+  {
+    "id": "x-1792629128625-ldnmel",
+    "source": "x",
+    "ts": "2026-10-22T00:32:08.625Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T00:30:41.000Z",
+    "reason": "On-chain data point of a network upgrade for Zcash.",
+    "text": "🚨 UPDATE: Zcash sets its Network Upgrade 7 to go live on mainnet at block 3,543,405, expected around Nov. 5.",
+    "url": "https://x.com/Cointelegraph/status/2113065468898443656",
+    "images": [
+      "https://pbs.twimg.com/media/HVMd13eW8AA3gNW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792629134092-9tzbqc",
+    "source": "x",
+    "ts": "2026-10-22T00:32:14.092Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-22T00:29:00.000Z",
+    "reason": "On-chain data showing significant growth in tokenised assets.",
+    "text": "Tokenisation on Sei Network is growing lightning fast. \n\n@SeiNetwork has published data showing that the number of holders of tokenised assets on its chain has grown by some +24% over the past month.\n\nTransfer volume of tokenised assets of $SEI is also up a staggering +206% over",
+    "url": "https://x.com/BSCNews/status/2113065044854587465",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112817953603289088/vid/avc1/1312x720/fucTSaL2QxMRDlU7.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112817953603289088/img/Qxr23hl6M7uttF6T.jpg"
+    }
   }
 ]
