@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791208949272-17my8v",
     "x-1791210161491-uc6iwt",
     "x-1791210708895-9r49bu",
     "x-1791211315021-wwcnei",
@@ -1999,19 +1998,10 @@
     "x-1792670801111-tglnef",
     "x-1792670807053-tsiamn",
     "x-1792670815861-7zs98l",
-    "x-1792671159724-y61na9"
+    "x-1792671159724-y61na9",
+    "x-1792672421777-fr0n2v"
   ],
-  "queue": [
-    {
-      "text": "🐋 ALERT: A whale has sold 1,917.7 $BTC worth $159M and bought 64,545 $ETH worth $155M over the past 11 days, per Lookonchain.\n\nIs this whale seeing something the market isn’t, or simply betting big on $ETH?",
-      "url": "https://x.com/Cointelegraph/status/2113239243459846145",
-      "images": [
-        "https://pbs.twimg.com/media/HVO744SW8AA5UFi.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792670595033
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "⚡️ NEW: LayerZero’s Zero mainnet and IzATLAS launch November 30, with Open ATLAS set to support more than a dozen trading venues.",
@@ -2598,7 +2588,16 @@
       "at": 1792670595033,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/380024485612568?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🐋 ALERT: A whale has sold 1,917.7 $BTC worth $159M and bought 64,545 $ETH worth $155M over the past 11 days, per Lookonchain.\n\nIs this whale seeing something the market isn’t, or simply betting big on $ETH?",
+      "final": "🐋 ALERT: A whale has sold 1,917.7 $BTC worth $159M and bought 64,545 $ETH worth $155M over the past 11 days, per Lookonchain.\n\nIs this whale seeing something the market isn’t, or simply betting big on $ETH?\n\n#Bitcoin $BTC #Ethereum $ETH",
+      "images": [
+        "https://pbs.twimg.com/media/HVO744SW8AA5UFi.jpg"
+      ],
+      "at": 1792672432279,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792670595033
+  "lastPostAt": 1792672432279
 }
