@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792534377267-ow4y0h",
-    "source": "x",
-    "ts": "2026-10-20T22:12:57.267Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-20T22:05:12.000Z",
-    "reason": "No notable move in price.",
-    "text": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible",
-    "url": "https://x.com/elonmusk/status/2112666467712073815"
-  },
-  {
-    "id": "x-1792534930389-gcty8t",
-    "source": "x",
-    "ts": "2026-10-20T22:22:10.389Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T22:21:00.000Z",
-    "reason": "Vague opinion with no factual claim or data provided.",
-    "text": "🔥 BULLISH: Grayscale says AI compute demand remains strong despite a roughly 27% slide in compute infrastructure stocks since September, calling the pullback a buying opportunity.",
-    "url": "https://x.com/Cointelegraph/status/2112670444264300803"
-  },
-  {
     "id": "x-1792534932895-o0zkpt",
     "source": "x",
     "ts": "2026-10-20T22:22:12.895Z",
@@ -7873,5 +7847,39 @@
     "reason": "No notable move or specific event described.",
     "text": "@vanestter , checking. ^JG",
     "url": "https://x.com/Safaricom_Care/status/2113276067251110276"
+  },
+  {
+    "id": "x-1792680138006-8f4ark",
+    "source": "x",
+    "ts": "2026-10-22T14:42:18.007Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-22T14:37:47.000Z",
+    "reason": "No notable move or event described.",
+    "text": "@jamukolwe Hi Jamukolwe, thank you for reaching out. Share your number, full name, national id number and year of birth for assistance.^CS",
+    "url": "https://x.com/Safaricom_Care/status/2113278651168928179"
+  },
+  {
+    "id": "x-1792680141927-0j2m7d",
+    "source": "x",
+    "ts": "2026-10-22T14:42:21.927Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-22T14:33:41.000Z",
+    "reason": "Notable institutional and infrastructure development in the DeFi ecosystem.",
+    "text": "Uniswap v4 Just Became a Full Aggregator\n\n@Uniswap announces Aggregator Hooks for Uniswap v4. \n\nThis transforms the world’s largest decentralized exchange into a native multi-venue aggregator on @Ethereum mainnet, @Base, and @RobinhoodApp Chain.\n\nThe integration connects to seven",
+    "url": "https://x.com/BSCNews/status/2113277617625317486",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113277583982796800/vid/avc1/1316x720/QLobzIJ-78Zugfmr.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113277583982796800/img/NQwEZ4FpsUc8sOVC.jpg"
+    }
   }
 ]
