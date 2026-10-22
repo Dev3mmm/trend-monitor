@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1791202332834-t2hxbb",
-    "x-1791202338145-0a6jur",
-    "x-1791202344111-gyym77",
     "x-1791202348610-puqyv2",
     "x-1791202930220-dc0kfz",
     "x-1791203501222-2c9gs4",
@@ -1999,20 +1996,13 @@
     "x-1792660303519-t5om4s",
     "x-1792661581380-zmaumi",
     "x-1792662141309-fh2apr",
-    "x-1792662740144-l2ck58"
+    "x-1792662740144-l2ck58",
+    "x-1792663935250-1uxs62",
+    "x-1792663949921-b9dlbh",
+    "x-1792663956185-y7iov9"
   ],
   "queue": [],
   "posted": [
-    {
-      "text": "🚨 NEW: Top 6 token unlocks this week led by $AKE at $62.42M, followed by $ZRO, $XPL, and $H, per Cryptorank.",
-      "final": "🚨 NEW: Top 6 token unlocks this week led by $AKE at $62.42M, followed by $ZRO, $XPL, and $H, per Cryptorank.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HVDkFFkWwAAefPi.jpg"
-      ],
-      "at": 1792491144629,
-      "status": "failed",
-      "error": "Uploading: sq_1792491144629_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261020/89b791174581481c84e6b75a2ddc2ec1.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
-    },
     {
       "text": "🚨 UPDATE: Mt. Gox extends its repayment deadline by one year to Oct. 31, 2027.",
       "final": "🚨 UPDATE: Mt. Gox extends its repayment deadline by one year to Oct. 31, 2027.\n\n#Crypto",
@@ -2589,7 +2579,17 @@
       "at": 1792662141853,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379989822734426?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "#CertiKInsight 🚨\n\nWe have seen a ~$820K exploit.\n\n\n$NEM 'pendingLpSellRecycle' created when tokens enter pool, remained after they left, allowing existing NEM reserve be burned and manipulated.\n\nCertiK Report Security Dashboard 👇",
+      "final": "#CertiKInsight 🚨\n\nWe have seen a ~$820K exploit.\n\n $NEM 'pendingLpSellRecycle' created when tokens enter pool, remained after they left, allowing existing NEM reserve be burned and manipulated.\n\nCertiK Report Security Dashboard 👇\n\n#Crypto #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HVOfKQIa4AAMpg9.png",
+        "https://pbs.twimg.com/media/HVOfXHraQAASZKz.png"
+      ],
+      "at": 1792663960730,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792662141853
+  "lastPostAt": 1792663960730
 }
