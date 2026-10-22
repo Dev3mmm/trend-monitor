@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1792474350484-h43ivm",
-    "source": "x",
-    "ts": "2026-10-20T05:32:30.484Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T05:31:01.000Z",
-    "reason": "Short-term profit-taking cooled Bitcoin's price to its yearly average.",
-    "text": "🚨 UPDATE: Short-term holder profit-taking that drove Bitcoin’s biggest exchange inflows in a year and pressured price has now cooled to its yearly average, per @glassnode.",
-    "url": "https://x.com/Cointelegraph/status/2112416277381673289",
-    "images": [
-      "https://pbs.twimg.com/media/HVDPaA7XwAAufL4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792474353942-bxdudv",
-    "source": "x",
-    "ts": "2026-10-20T05:32:33.942Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-20T05:26:35.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "If your actions inspire others to dream more, learn more, do more and become more, you are a LEADER.\n\n — John Quincy Adams",
-    "url": "https://x.com/amerix/status/2112415157833928875"
-  },
-  {
-    "id": "x-1792474925268-3bugqp",
-    "source": "x",
-    "ts": "2026-10-20T05:42:05.268Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-20T05:32:00.000Z",
-    "reason": "Specific institutional action with significant impact on Solana ecosystem.",
-    "text": "Solana Treasury Firm Abandons SOL Treasury Strategy For Massive Buyback\n\nSkyAI has sold its entire Solana (@solana) treasury and launched a $201.3 million share and warrant buyback.\n\nThe company reported about $223.8 million in cash as of October 16.\n\nThe tender offer is no",
-    "url": "https://x.com/BSCNews/status/2112416521725358138",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112400750450208768/vid/avc1/1280x720/lxg_v6CpPgvR3hjU.mp4?tag=29",
-      "duration": 17,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112400750450208768/img/Vrk6jRGadMwZe0-n.jpg"
-    }
-  },
-  {
     "id": "x-1792476152537-ga8hq5",
     "source": "x",
     "ts": "2026-10-20T06:02:32.537Z",
@@ -8119,5 +8067,60 @@
       "https://pbs.twimg.com/media/HVMkufEWQAElEeG.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792632148994-puckxm",
+    "source": "x",
+    "ts": "2026-10-22T01:22:28.994Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T01:21:11.000Z",
+    "reason": "Possible security breach affecting customer credentials.",
+    "text": "🚨 ALERT: Railway says hackers may have accessed customer environment variables, including API keys and database credentials, urging all users to rotate their secrets as it pauses deployments to investigate.",
+    "url": "https://x.com/Cointelegraph/status/2113078176700141774",
+    "images": [
+      "https://pbs.twimg.com/media/HVMpZ00WYAAfiTZ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792632153647-sdj6b7",
+    "source": "x",
+    "ts": "2026-10-22T01:22:33.647Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-22T01:15:00.000Z",
+    "reason": "Notable legislative update on important crypto legislation.",
+    "text": "The CLARITY Act's journey is not necessarily over...\n\nDespite the failed September vote, hope remains for the most important and controversial piece of crypto legislation in history ⬇️",
+    "url": "https://x.com/BSCNews/status/2113076621506949326",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792632159420-k9uofj",
+    "source": "x",
+    "ts": "2026-10-22T01:22:39.420Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 20,
+    "originTimestamp": "2026-10-22T01:02:00.000Z",
+    "reason": "Algorand stablecoin approaching significant market cap milestone.",
+    "text": "Algorand about to enter the stablecoin big leagues...\n\n@Algorand stablecoin market cap has grown by nearly +25% on the week according to DefiLlama data.\n\nIts supply now stands at $97.07M.\n\nIf the growth continues, algorand:native will quickly surpass the $100M milestone and join",
+    "url": "https://x.com/BSCNews/status/2113073350092464504",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112818106158415873/vid/avc1/1312x720/Ii8t8Jw4nMlyw2IQ.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112818106158415873/img/Vk-mtUP0fENChxCN.jpg"
+    }
   }
 ]
