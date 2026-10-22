@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792498343273-5ozjnu",
-    "source": "x",
-    "ts": "2026-10-20T12:12:23.273Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-20T12:08:41.000Z",
-    "reason": "Noteworthy institutional adoption in perpetuals derivatives market.",
-    "text": "Six months after launch, @ProprXYZ has become a leading perps prop firm on Hyperliquid. It has paid out $3 million to traders and hit nearly $20 million annual run rate, with every figure tracked on a public dashboard.",
-    "url": "https://x.com/BSCNews/status/2112516352736928060",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792498347282-6dyb7f",
-    "source": "x",
-    "ts": "2026-10-20T12:12:27.282Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-20T12:08:01.000Z",
-    "reason": "Specific institutional announcement regarding tokenized stocks in the crypto market.",
-    "text": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
-    "url": "https://x.com/DecryptMedia/status/2112516185686229177",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792498352634-25kgzq",
     "source": "x",
     "ts": "2026-10-20T12:12:32.634Z",
@@ -8082,5 +8050,38 @@
     "reason": "Inappropriate and unrelated to cryptocurrency.",
     "text": "These young men did a commendable job of facelifting my clinic's perimeter wall.",
     "url": "https://x.com/amerix/status/2113165629939151296"
+  },
+  {
+    "id": "x-1792654640376-xomawj",
+    "source": "x",
+    "ts": "2026-10-22T07:37:20.376Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T07:35:35.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "@GetrudeOndoro Hi, on it. ^WG",
+    "url": "https://x.com/Safaricom_Care/status/2113172400221175981"
+  },
+  {
+    "id": "x-1792654646707-khai39",
+    "source": "x",
+    "ts": "2026-10-22T07:37:26.707Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-22T07:30:54.000Z",
+    "reason": "Net inflows into BTC, ETH, SOL, and XRP spot ETFs are significant market data.",
+    "text": "🇺🇸 ETF FLOWS: BTC, ETH, SOL and XRP spot ETFs saw net inflows on Oct. 21.\n\nBTC: $528.4M\nETH: $14.96M\nSOL: $585.3K\nXRP: $708.52K",
+    "url": "https://x.com/Cointelegraph/status/2113171222347272238",
+    "images": [
+      "https://pbs.twimg.com/media/HVN-ANAXUAAaU6h.jpg",
+      "https://pbs.twimg.com/media/HVN-Bm8WYAAC6mC.jpg",
+      "https://pbs.twimg.com/media/HVN-ByiWUAAlk0f.jpg"
+    ],
+    "video": null
   }
 ]
