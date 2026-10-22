@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 ALERT: Railway says hackers may have accessed customer environment variables, including API keys and database credentials, urging all users to rotate their secrets as it pauses deployments to investigate.",
-      "url": "https://x.com/Cointelegraph/status/2113078176700141774",
-      "images": [
-        "https://pbs.twimg.com/media/HVMpZ00WYAAfiTZ.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1792632159959
-    },
-    {
       "text": "🔥 NEW: Lighter CEO Vladimir Novakovski says the company will apply for a US derivatives license next month and integrate into Robinhood’s US offering once approved.",
       "url": "https://x.com/Cointelegraph/status/2113088131574411648",
       "images": [
@@ -2527,7 +2518,16 @@
       "at": 1792634270173,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379875642411166?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Railway says hackers may have accessed customer environment variables, including API keys and database credentials, urging all users to rotate their secrets as it pauses deployments to investigate.",
+      "final": "🚨 ALERT: Railway says hackers may have accessed customer environment variables, including API keys and database credentials, urging all users to rotate their secrets as it pauses deployments to investigate.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVMpZ00WYAAfiTZ.png"
+      ],
+      "at": 1792636005456,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792634270173
+  "lastPostAt": 1792636005456
 }
