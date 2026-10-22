@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 UPDATE: Zcash sets its Network Upgrade 7 to go live on mainnet at block 3,543,405, expected around Nov. 5.",
-      "url": "https://x.com/Cointelegraph/status/2113065468898443656",
-      "images": [
-        "https://pbs.twimg.com/media/HVMd13eW8AA3gNW.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792629134598
-    },
-    {
       "text": "🚨 ALERT: Railway says hackers may have accessed customer environment variables, including API keys and database credentials, urging all users to rotate their secrets as it pauses deployments to investigate.",
       "url": "https://x.com/Cointelegraph/status/2113078176700141774",
       "images": [
@@ -2527,7 +2518,16 @@
       "at": 1792632733658,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/379869358231311?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Zcash sets its Network Upgrade 7 to go live on mainnet at block 3,543,405, expected around Nov. 5.",
+      "final": "🚨 UPDATE: Zcash sets its Network Upgrade 7 to go live on mainnet at block 3,543,405, expected around Nov. 5.\n\n#Zcash $ZEC",
+      "images": [
+        "https://pbs.twimg.com/media/HVMd13eW8AA3gNW.jpg"
+      ],
+      "at": 1792634270173,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792632733658
+  "lastPostAt": 1792634270173
 }
