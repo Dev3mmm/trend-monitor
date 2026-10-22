@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1792525970648-xnbdmb",
-    "source": "x",
-    "ts": "2026-10-20T19:52:50.648Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-20T19:44:53.000Z",
-    "reason": "No notable crypto-related news or move.",
-    "text": "YouTube has banned The Bitcoin Conference channel. \n\nAll our channel does is post keynotes and panels from the largest Bitcoin conference in the world, bringing Bitcoin education to the masses.\n\nPlease reinstate our channel.\n\n@YouTube @TeamYouTube",
-    "url": "https://x.com/BitcoinMagazine/status/2112631684243788010"
-  },
-  {
-    "id": "x-1792525976051-3eps84",
-    "source": "x",
-    "ts": "2026-10-20T19:52:56.051Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-20T19:46:25.000Z",
-    "reason": "Generic financial information without a clear crypto/crypto-related angle.",
-    "text": "🚨ALARMING: Anthropic's draft IPO filing reveals an $80.7 BILLION net loss in H1 2026, despite revenue surging nearly 15x to $16.3 BILLION, per WSJ.\n\nThe loss largely reflects accounting adjustments, while computing costs reached nearly $9 BILLION.\n\nFuture computing commitments",
-    "url": "https://x.com/coinbureau/status/2112631543923679233"
-  },
-  {
-    "id": "x-1792525981471-xl6txd",
-    "source": "x",
-    "ts": "2026-10-20T19:53:01.471Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-20T19:45:00.000Z",
-    "reason": "Notable institutional support for a blockchain ecosystem.",
-    "text": "Alchemy puts $1M behind teams building on Arc\n\n@Alchemy, which provides the servers and tools apps use to connect to blockchains, is offering eligible teams building on @arc up to $10K in credits for its services. The credits go straight into a team’s Alchemy account and cover a",
-    "url": "https://x.com/BSCNews/status/2112631186442875169",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112612491691745280/vid/avc1/1220x720/xwgzYxWaoEpUBpDM.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112612491691745280/img/aJkoYQ0Nm8ajWGnT.jpg"
-    }
-  },
-  {
     "id": "x-1792526543233-uumtzx",
     "source": "x",
     "ts": "2026-10-20T20:02:23.233Z",
@@ -7886,5 +7839,50 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113265717390782464/img/fhAaEkJtwBmZCgpj.jpg"
     }
+  },
+  {
+    "id": "x-1792677726536-njarxd",
+    "source": "x",
+    "ts": "2026-10-22T14:02:06.536Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T14:01:18.000Z",
+    "reason": "No notable move in price or event.",
+    "text": "@isaacgachema It was a pleasure serving you. Kindly rate our service on \nFor easy DIY solutions, please join our WhatsApp community via",
+    "url": "https://x.com/Safaricom_Care/status/2113269466184253758"
+  },
+  {
+    "id": "x-1792677728230-gl5r1r",
+    "source": "x",
+    "ts": "2026-10-22T14:02:08.230Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T14:01:12.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "@isaacgachema Hello Isaac, only personal numbers can be registered in Mpesa. ^CJ",
+    "url": "https://x.com/Safaricom_Care/status/2113269442943611222"
+  },
+  {
+    "id": "x-1792677731518-flw12s",
+    "source": "x",
+    "ts": "2026-10-22T14:02:11.518Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-22T14:00:09.000Z",
+    "reason": "The tweet contains a denial from Fireblocks, suggesting this is a notable development worthy of attention.",
+    "text": "🚨BREAKING: Fireblocks DENIES reports that Visa is in late-stage talks to acquire the crypto custody firm for $2.5 BILLION.\n\nFireblocks says the claims are \"not true at present time,\" while Visa declined to comment, per The Block.",
+    "url": "https://x.com/coinbureau/status/2113269179939954984",
+    "images": [
+      "https://pbs.twimg.com/media/HVPXCiubMAA6NkE.png",
+      "https://pbs.twimg.com/media/HVPXEgnbsAAcsVw.jpg"
+    ],
+    "video": null
   }
 ]
