@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1792481529402-mmonqp",
-    "source": "x",
-    "ts": "2026-10-20T07:32:09.402Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T07:31:03.000Z",
-    "reason": "Notable ETF flows showing preference for BTC over ETH and SOL.",
-    "text": "🇺🇸 ETF FLOWS: BTC spot ETFs saw net inflows on Oct. 19, while ETH and SOL spot ETFs saw net outflows.\n\nBTC: $526.6M\nETH: -$103.28M\nSOL: -$6.72M",
-    "url": "https://x.com/Cointelegraph/status/2112446480736809315",
-    "images": [
-      "https://pbs.twimg.com/media/HVDq38RWkAA7wZr.jpg",
-      "https://pbs.twimg.com/media/HVDq4OHWMAEfZ7N.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792481534248-0h9xot",
-    "source": "x",
-    "ts": "2026-10-20T07:32:14.248Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T07:30:18.000Z",
-    "reason": "No notable move or newsworthy information provided.",
-    "text": "Who is Bryan Pellegrino (@PrimordialAA), one of the minds behind LayerZero (@LayerZero_Core)?  \n\nFrom co-founding LayerZero to building Zero, a Layer 1 blockchain designed for institutional finance, Pellegrino is helping shape how blockchains connect and how global markets could",
-    "url": "https://x.com/BSCNews/status/2112446292924494281"
-  },
-  {
-    "id": "x-1792481539456-s8lmoe",
-    "source": "x",
-    "ts": "2026-10-20T07:32:19.456Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-20T07:27:01.000Z",
-    "reason": "The tweet is a news story about a political referendum and not related to cryptocurrencies.",
-    "text": "JUST IN: 🇨🇦Oil-rich Alberta votes to STAY in Canada in its first-ever referendum on separation.\n\nAround 77% of Alberta residents backed remaining in Canada, while 23% supported separation, according to unofficial results.\n\nThe referendum followed growing pressure from separatists",
-    "url": "https://x.com/coinbureau/status/2112445469255159998"
-  },
-  {
     "id": "x-1792482150292-83y8ci",
     "source": "x",
     "ts": "2026-10-20T07:42:30.292Z",
@@ -8100,5 +8055,58 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "🚨 LATEST: Microsoft warns a China-aligned hacking group used an AI-powered pentesting tool to breach IT firm ConnectWise in a campaign targeting hundreds of organizations worldwide.",
     "url": "https://x.com/Cointelegraph/status/2113110782716035114"
+  },
+  {
+    "id": "x-1792641719211-ysltyv",
+    "source": "x",
+    "ts": "2026-10-22T04:01:59.211Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T04:00:43.000Z",
+    "reason": "Potential impact on Meta's share price and governance structure.",
+    "text": "🚨 NEW: Meta creates a new class of non-voting shares that it could use to help fund its massive AI spending, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2113118326360576360",
+    "images": [
+      "https://pbs.twimg.com/media/HVNN6gAWkAAoupd.jpg",
+      "https://pbs.twimg.com/media/HVNN6zNX0AAYWlN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792641721352-j4l1k8",
+    "source": "x",
+    "ts": "2026-10-22T04:02:01.352Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-22T04:00:00.000Z",
+    "reason": "No notable move or specific news event.",
+    "text": "Jeff Yan: Our Vision Is to Power Global Finance with Consumer-Grade Hardware\n\nOn October 15, 2026, Hyperliquid founder Jeff Yan @chameleon_jeff said on Bloomberg’s Odd Lots podcast @podcasts that his vision is to power the global financial system with consumer-grade hardware",
+    "url": "https://x.com/WuBlockchain/status/2113118147507302854"
+  },
+  {
+    "id": "x-1792641724235-0iul1t",
+    "source": "x",
+    "ts": "2026-10-22T04:02:04.235Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-22T03:53:41.000Z",
+    "reason": "Pi Network highlights a potential use case for its ecosystem in the AI era.",
+    "text": "Pi Network Targets AI Era Distribution Challenge\n\nPi Network (@PiCoreTeam) pi-network:native says its ecosystem could help developers overcome a major challenge in the AI era: reaching users.\n\nThe project cites more than 60 million Engaged Pioneers, over 300 Mainnet apps and 18.1",
+    "url": "https://x.com/BSCNews/status/2113116558356525230",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113113955988377600/vid/avc1/1280x720/7O6f9CDgmz5_fipl.mp4?tag=29",
+      "duration": 14,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113113955988377600/img/XjQLFx964-RtadFQ.jpg"
+    }
   }
 ]
