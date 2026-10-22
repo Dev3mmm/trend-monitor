@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792486992648-n8njyq",
-    "source": "x",
-    "ts": "2026-10-20T09:03:12.648Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-20T09:02:11.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "BREAKING: Brent oil breaks above $110 a barrel for the first time in 5 months, ending its longest run of lower prices since the Iran war began.",
-    "url": "https://x.com/coinbureau/status/2112469418932662609"
-  },
-  {
-    "id": "x-1792486997318-k9b7uh",
-    "source": "x",
-    "ts": "2026-10-20T09:03:17.318Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-20T09:00:03.000Z",
-    "reason": "No notable move in cryptocurrency prices mentioned.",
-    "text": "InterLink Livestreams Are Now Live\n\nInterLink (@inter_link) has launched livestreaming directly inside its app. \n\nThis feature lets users connect with streamers by participating in conversations and sending virtual gifts.\n\nThe streams may consist of anything from ecosystem news,",
-    "url": "https://x.com/BSCNews/status/2112468880752787506"
-  },
-  {
     "id": "x-1792487002248-sxkphs",
     "source": "x",
     "ts": "2026-10-20T09:03:22.248Z",
@@ -8113,5 +8087,39 @@
       "https://pbs.twimg.com/media/HVM4DFvaoAAS9Im.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792646530676-kvtz3s",
+    "source": "x",
+    "ts": "2026-10-22T05:22:10.676Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T05:20:43.000Z",
+    "reason": "New staking position reaching new heights and significant value.",
+    "text": "BitMine’s Ethereum Staking Position Reaches New Heights\n\nTom Lee’s (@fundstrat) BitMine (@BitMNR) has staked another 159,728 $ETH worth approximately $390.6 million, according to Lookonchain.\n\nIts total staked holdings have now reached 5.23 million ETH, valued at $12.78 billion.",
+    "url": "https://x.com/BSCNews/status/2113138458202194097",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113132042879905792/vid/avc1/1280x720/yqZheqZfpwtcV_gf.mp4?tag=29",
+      "duration": 14,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113132042879905792/img/c_EiONKHHwYg2i5m.jpg"
+    }
+  },
+  {
+    "id": "x-1792646535198-8vo2ex",
+    "source": "x",
+    "ts": "2026-10-22T05:22:15.198Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-22T05:14:43.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "@kariukiEnrique Hey Eric, our sincere apologies. Kindly consider updating the app then test once again. If that fails, please share your mobile number, full name, id number as well as year of birth we check and advise.^DE",
+    "url": "https://x.com/Safaricom_Care/status/2113136949913403660"
   }
 ]
