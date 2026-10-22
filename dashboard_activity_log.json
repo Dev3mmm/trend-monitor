@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792503749980-vvtr39",
-    "source": "x",
-    "ts": "2026-10-20T13:42:29.980Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-20T13:31:04.000Z",
-    "reason": "Regulatory approval for a Bitcoin ETF in Switzerland",
-    "text": "🇨🇭 JUST IN: Switzerland approves its first spot Bitcoin ETF for retail investors, allowing direct $BTC investment under Swiss fund rules.",
-    "url": "https://x.com/Cointelegraph/status/2112537085659709492",
-    "images": [
-      "https://pbs.twimg.com/media/HVE9RzRWUAE2OnH.png",
-      "https://pbs.twimg.com/media/HVE9SDmWkAIG-WS.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792503755737-74urly",
-    "source": "x",
-    "ts": "2026-10-20T13:42:35.737Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 26,
-    "originTimestamp": "2026-10-20T13:16:06.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "SATS is now listed on Nasdaq.   15.00% fixed annualized dividend rate based on $100 stated amount. Paid every business day.   First dividend: November 9, 2026, inclusive of dividends accrued since the October 20 closing.  $SATS $ASST $SATA",
-    "url": "https://x.com/saylor/status/2112535385704173893"
-  },
-  {
     "id": "x-1792503761047-9qukrg",
     "source": "x",
     "ts": "2026-10-20T13:42:41.047Z",
@@ -8027,5 +7995,39 @@
       "https://pbs.twimg.com/media/HVOZ8vMa8AAvJjB.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792662734510-gnrwwg",
+    "source": "x",
+    "ts": "2026-10-22T09:52:14.510Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-22T09:49:50.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "@patriqoh Hello Patriqoh , thank you for reaching out. Kindly DM  the Mpesa transaction code , your number , full names , id number and year of birth we check and advise. ^ND",
+    "url": "https://x.com/Safaricom_Care/status/2113206185838956746"
+  },
+  {
+    "id": "x-1792662740144-l2ck58",
+    "source": "x",
+    "ts": "2026-10-22T09:52:20.144Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-22T09:45:53.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "XRP Ledger Bug Fix Hits a Last Minute Roadblock\n\nThe XRP Ledger’s (@XRP) $XRP fixCleanup3_4_0 amendment has been delayed until November after validator support briefly fell below the required threshold.\n\nThe network requires at least 29 validators to maintain approval throughout",
+    "url": "https://x.com/BSCNews/status/2113205190660931669",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113205098994446336/vid/avc1/1280x720/FpfWPlWsERnka5gS.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113205098994446336/img/SgUBDHYlpQrWQt7m.jpg"
+    }
   }
 ]
