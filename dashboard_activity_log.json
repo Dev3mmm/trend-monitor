@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1792470147906-miccbp",
-    "source": "x",
-    "ts": "2026-10-20T04:22:27.906Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-20T04:21:41.000Z",
-    "reason": "Notable financial institution inflows into Bitcoin ETFs.",
-    "text": "US spot Bitcoin ETFs see $527M inflows; BlackRock IBIT leads with $665M\n\nAccording to SoSoValue, U.S. spot Bitcoin ETFs recorded $527 million in net inflows on October 19, led by BlackRock's IBIT with $665 million. Spot Ethereum ETFs saw $103 million in net outflows, with",
-    "url": "https://x.com/WuBlockchain/status/2112398827131146506",
-    "images": [
-      "https://pbs.twimg.com/media/HVC_hqPbcAAc_ZB.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792470753256-kburo8",
-    "source": "x",
-    "ts": "2026-10-20T04:32:33.256Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-20T04:31:04.000Z",
-    "reason": "Notable regulatory engagement by a major industry organization",
-    "text": "🇺🇸 NEW: The Blockchain Association submitted comments on Treasury’s proposed GENIUS Act rule for stablecoin issuance, urging clearer definitions and narrower liability so the final rule matches Congress’ intent.",
-    "url": "https://x.com/Cointelegraph/status/2112401190268936279",
-    "images": [
-      "https://pbs.twimg.com/media/HVDBrekWAAAKzSr.jpg",
-      "https://pbs.twimg.com/media/HVDBr71WYAE6DAW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792471333960-v3b01n",
-    "source": "x",
-    "ts": "2026-10-20T04:42:13.960Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-20T04:35:45.000Z",
-    "reason": "Specific, notable institutional investment with a hedge fund announcement.",
-    "text": "Multicoin Makes Hyperliquid Its Biggest Hedge Fund Bet\n\nMulticoin Capital says Hyperliquid (@HyperliquidX) $HYPE is now the largest position in its hedge fund.\n\nGeneral partner Spencer Applebaum said the firm acquired the holding through public markets.\n\nThe firm manages about",
-    "url": "https://x.com/BSCNews/status/2112402365739643234",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112398813633941504/vid/avc1/1280x720/YzH8SHqh2gv9jNBj.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112398813633941504/img/sQ09KMFhhGWJT6d6.jpg"
-    }
-  },
-  {
     "id": "x-1792472529407-grod9p",
     "source": "x",
     "ts": "2026-10-20T05:02:09.407Z",
@@ -8113,5 +8055,58 @@
       "https://pbs.twimg.com/media/HVMQkaYWsAA0p2C.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792627357904-1irifd",
+    "source": "x",
+    "ts": "2026-10-22T00:02:37.904Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T00:00:46.000Z",
+    "reason": "SEC reveals tokenized securities venues under Innovation Exemption.",
+    "text": "🇺🇸 LATEST: The SEC reveals three firms, TSV LLC, OKXICE TSV and Perpetualscom, have filed to run tokenized securities venues under its new Innovation Exemption.",
+    "url": "https://x.com/Cointelegraph/status/2113057940223488024",
+    "images": [
+      "https://pbs.twimg.com/media/HVMW_IvWcAAhKwN.jpg",
+      "https://pbs.twimg.com/media/HVMW_nsWkAAJftc.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792627364189-med4uh",
+    "source": "x",
+    "ts": "2026-10-22T00:02:44.189Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-22T00:00:00.000Z",
+    "reason": "Notable institutional action and cap on ETH holdings by a major player.",
+    "text": "Tom Lee: BitMine Will Soon Stop Buying ETH\n\nSpeaking at TOKEN2049 @token2049, Tom Lee @fundstrat said Bitmine has set a hard cap of 5% of Ethereum's total supply for its ETH holdings and will stop accumulating once it reaches that level. He said Vitalik had suggested that the",
+    "url": "https://x.com/WuBlockchain/status/2113057747151225245",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2112835761724866560/vid/avc1/1278x720/kVdHPn1rkBfQllCQ.mp4?tag=29",
+      "duration": 92,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112835761724866560/img/In9pYUjkyhV2L5zS.jpg"
+    }
+  },
+  {
+    "id": "x-1792627369682-i4tj29",
+    "source": "x",
+    "ts": "2026-10-22T00:02:49.682Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-21T23:56:00.000Z",
+    "reason": "No notable move in TVL or market share.",
+    "text": "Two apps currently dominate Sui's DeFi sector.\n\nAccording to DefiLlama, @SuiNetwork's TVL stands at roughly $496M at time of writing.\n\nInterestingly, just two protocols (both lending-focused) account for a staggering 66.5% of this figure.\n\nThose two apps are @navi_protocol and",
+    "url": "https://x.com/BSCNews/status/2113056740216336600"
   }
 ]
