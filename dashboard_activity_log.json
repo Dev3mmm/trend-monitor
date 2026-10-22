@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1792599118967-4k9fl4",
-    "source": "x",
-    "ts": "2026-10-21T16:11:58.967Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-21T16:11:14.000Z",
-    "reason": "New use of a token with a significant upgrade on a major blockchain network.",
-    "text": "🔥 BIG: Solana launches Alpenglow on mainnet in the network’s biggest-ever consensus upgrade.",
-    "url": "https://x.com/Cointelegraph/status/2112939780388401208",
-    "images": [
-      "https://pbs.twimg.com/media/HVKrh-rXYAAcFe4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792599121328-d69dr2",
-    "source": "x",
-    "ts": "2026-10-21T16:12:01.328Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-21T16:08:14.000Z",
-    "reason": "Critical PHP vulnerabilities raise security concerns in the crypto industry.",
-    "text": "Critical PHP Vulnerabilities Spark Global Security Alert; SlowMist Warns Crypto Exchanges, DeFi Platforms and Wallet Providers\n\nSlowMist said its MistEye threat intelligence system conducted a global scan of PHP-related assets across the crypto industry following the disclosure",
-    "url": "https://x.com/WuBlockchain/status/2112939023421620717",
-    "images": [
-      "https://pbs.twimg.com/media/HVKq1jmakAArdn8.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792599123799-yb64e6",
-    "source": "x",
-    "ts": "2026-10-21T16:12:03.799Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-21T16:00:01.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Bitcoin isn't a future utopia. @blocks Maria Pesce (@mariapesce) on what's already happening across @CashApp and @Square:\n\n\"We have people paying with Bitcoin. We have people living on the Bitcoin standard.\"\n\n\"We're just getting started.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2112938953171259615",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112932506936741888/vid/avc1/1180x650/XWq8P-sb6VJ33boH.mp4?tag=29",
-      "duration": 106,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112932506936741888/img/D2BOHyViCcMkFLur.jpg"
-    }
-  },
-  {
     "id": "x-1792599718556-nj8iuf",
     "source": "x",
     "ts": "2026-10-21T16:21:58.556Z",
@@ -7726,5 +7669,57 @@
       "https://pbs.twimg.com/media/HVQrVlcbkAA0ZxT.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792700930894-yjmt8w",
+    "source": "x",
+    "ts": "2026-10-22T20:28:50.894Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-22T20:24:10.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "@nic_neyo Hello Nic. We're sorry to hear you feel this way. That's certainly not the experience we aim to provide. Kindly tell us what happened or share your concern so we can look into it and assist you accordingly. ^HS",
+    "url": "https://x.com/Safaricom_Care/status/2113365820021612875"
+  },
+  {
+    "id": "x-1792700933418-zykesk",
+    "source": "x",
+    "ts": "2026-10-22T20:28:53.418Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-22T20:20:42.000Z",
+    "reason": "Crypto-focused regulation concerns potentially impact financial systems.",
+    "text": "🚨 ALERT: Sen. Bernie Sanders calls to “pause AI NOW,” warning unchecked AI could endanger the global financial system after reports of unauthorized AI agents accessing bank accounts.",
+    "url": "https://x.com/Cointelegraph/status/2113364948613054586",
+    "images": [
+      "https://pbs.twimg.com/media/HVQuOGGXIAAAPpW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792700936080-bhr7gx",
+    "source": "x",
+    "ts": "2026-10-22T20:28:56.080Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 16,
+    "originTimestamp": "2026-10-22T20:13:00.000Z",
+    "reason": "Launch of perpetual futures trading on the Sei Network network.",
+    "text": "Saphyre’s perps exchange goes live on Sei Network\n\n@saphyre launched perpetual futures trading on @SeiNetwork today. Perpetual futures are bets on price moves with no expiry date, and traders can use them to trade stocks, gold, currencies, and crypto. Trading fees range from",
+    "url": "https://x.com/BSCNews/status/2113363008441266637",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113351655928279040/vid/avc1/1220x720/BXX1NLj_Fo_f_vu6.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113351655928279040/img/wDOGfRSnfUWMogvg.jpg"
+    }
   }
 ]
