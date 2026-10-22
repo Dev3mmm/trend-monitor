@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792604648073-sbyd6u",
-    "source": "x",
-    "ts": "2026-10-21T17:44:08.073Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-21T17:32:15.000Z",
-    "reason": "No notable move; price is within the recent range.",
-    "text": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-    "url": "https://x.com/DecryptMedia/status/2112960166710653145"
-  },
-  {
-    "id": "x-1792605159584-5uub9l",
-    "source": "x",
-    "ts": "2026-10-21T17:52:39.584Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-21T17:50:39.000Z",
-    "reason": "Specific staking ratio and value details, verifiable.",
-    "text": "⚡️ UPDATE: NEAR’s staking ratio holds at 46% three quarters after issuance was halved, with 596M tokens worth $3B staked at a 4.87% average yield, Bitwise reports.",
-    "url": "https://x.com/Cointelegraph/status/2112964800091238681",
-    "images": [
-      "https://pbs.twimg.com/media/HVLCSTAWAAAYTlC.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792605161390-66v23u",
     "source": "x",
     "ts": "2026-10-21T17:52:41.390Z",
@@ -7721,5 +7690,44 @@
     "reason": "No notable financial news or regulatory move related to cryptocurrencies.",
     "text": "🇺🇸 JUST IN: Treasury OFFICIALLY proposes BANNING US investments in AI firms in China, Russia and 3 other countries.\n\nThe proposal covers China, Russia, Iran, North Korea and Cuba.\n\nIt mixes outright bans and notice requirements for deals in chips, quantum, supercomputing,",
     "url": "https://x.com/coinbureau/status/2113393110533505479"
+  },
+  {
+    "id": "x-1792707734592-9ubrhu",
+    "source": "x",
+    "ts": "2026-10-22T22:22:14.592Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-22T22:20:42.000Z",
+    "reason": "Notable blockchain infrastructure launch with multiple integrations.",
+    "text": "🔥 NEW: Dune launches real-time market data feeds across 200+ onchain venues and 12 blockchains, including the tokenized stock venue from OKX and NYSE parent Intercontinental Exchange.",
+    "url": "https://x.com/Cointelegraph/status/2113395146951716956",
+    "images": [
+      "https://pbs.twimg.com/media/HVRJr4KXYAAHYfe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792707737355-0t4e50",
+    "source": "x",
+    "ts": "2026-10-22T22:22:17.355Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-22T22:19:00.000Z",
+    "reason": "Significant performance losses for spot altcoin ETFs.",
+    "text": "It's been a HORRIFIC week for spot altcoin ETFs.\n\nHere's how various spot altcoin ETFs have performed this week so far, according to SoSoValue data...\n\n@Dogecoin $DOGE [$0]\n@Polkadot $DOT [$0]\n@Avax $AVAX [$0]\n@chainlink $LINK [$0]\n@HyperliquidX $HYPE [-$7.34M]\n@BNBCHAIN $BNB",
+    "url": "https://x.com/BSCNews/status/2113394717325226225",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113183871034327040/vid/avc1/1312x720/SwZWTUWW400uQUew.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113183871034327040/img/T29jwlY6eCxqWMWu.jpg"
+    }
   }
 ]
