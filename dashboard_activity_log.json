@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792627369682-i4tj29",
-    "source": "x",
-    "ts": "2026-10-22T00:02:49.682Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-21T23:56:00.000Z",
-    "reason": "No notable move in TVL or market share.",
-    "text": "Two apps currently dominate Sui's DeFi sector.\n\nAccording to DefiLlama, @SuiNetwork's TVL stands at roughly $496M at time of writing.\n\nInterestingly, just two protocols (both lending-focused) account for a staggering 66.5% of this figure.\n\nThose two apps are @navi_protocol and",
-    "url": "https://x.com/BSCNews/status/2113056740216336600"
-  },
-  {
     "id": "x-1792629128625-ldnmel",
     "source": "x",
     "ts": "2026-10-22T00:32:08.625Z",
@@ -7735,5 +7722,24 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "🇺🇸 JUST IN: Trump’s UN envoy Mike Waltz says the US is ready for a prolonged standoff with Iran and can keep its blockade on Iranian ports for the foreseeable future, per FT.",
     "url": "https://x.com/Cointelegraph/status/2113499575428256134"
+  },
+  {
+    "id": "x-1792733596744-vku62s",
+    "source": "x",
+    "ts": "2026-10-23T05:33:16.744Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T05:30:46.000Z",
+    "reason": "Aave expanding into new markets with external curation",
+    "text": "🚨 TODAY: Aave launches its first externally curated markets on V4 with Sentora, letting users borrow RLUSD, PYUSD and OUSD against yield-bearing and blue-chip collateral on Ethereum.",
+    "url": "https://x.com/Cointelegraph/status/2113503376239452557",
+    "images": [
+      "https://pbs.twimg.com/media/HVSsHCgXoAA5mh0.png",
+      "https://pbs.twimg.com/media/HVSsHllW0AAlrNM.jpg"
+    ],
+    "video": null
   }
 ]
