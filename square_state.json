@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791284583412-rp189q",
     "x-1791286340471-v0cyn5",
     "x-1791286344877-dnyuvx",
     "x-1791286963654-0d3z3s",
@@ -1999,18 +1998,10 @@
     "x-1792713247719-tkthei",
     "x-1792713253184-skoafk",
     "x-1792713780792-hhwamk",
-    "x-1792713790718-fruoi2"
+    "x-1792713790718-fruoi2",
+    "x-1792716028176-n5bi15"
   ],
   "queue": [
-    {
-      "text": "🔥 NEW: Dune launches real-time market data feeds across 200+ onchain venues and 12 blockchains, including the tokenized stock venue from OKX and NYSE parent Intercontinental Exchange.",
-      "url": "https://x.com/Cointelegraph/status/2113395146951716956",
-      "images": [
-        "https://pbs.twimg.com/media/HVRJr4KXYAAHYfe.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792707737963
-    },
     {
       "text": "🇪🇺 UPDATE: Europe-based validators account for 72.8% of Solana’s $SOL stake, according to Bitwise.",
       "url": "https://x.com/Cointelegraph/status/2113400168158527731",
@@ -2039,6 +2030,18 @@
       ],
       "video": null,
       "enqueuedAt": 1792713791409
+    },
+    {
+      "text": "⚡️ TODAY: Heatbit introduces Bitwater, a water heater element packed with 20 ASIC chips that mines Bitcoin while heating your tank.\n\nWould you mine Bitcoin from your water heater?",
+      "url": "https://x.com/Cointelegraph/status/2113427684709818632",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2113299598865465344/vid/avc1/1280x720/79cGCIKrfr3qqzZx.mp4?tag=29",
+        "duration": 42,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113299598865465344/img/PYkP43yNzJEaftNo.jpg"
+      },
+      "enqueuedAt": 1792716028891
     }
   ],
   "posted": [
@@ -2658,7 +2661,16 @@
       "at": 1792713791409,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/380201417725814?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 NEW: Dune launches real-time market data feeds across 200+ onchain venues and 12 blockchains, including the tokenized stock venue from OKX and NYSE parent Intercontinental Exchange.",
+      "final": "🔥 NEW: Dune launches real-time market data feeds across 200+ onchain venues and 12 blockchains, including the tokenized stock venue from OKX and NYSE parent Intercontinental Exchange.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVRJr4KXYAAHYfe.jpg"
+      ],
+      "at": 1792716028891,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792713791409
+  "lastPostAt": 1792716028891
 }
