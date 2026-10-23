@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨  NOW: Polymarket has reportedly fired CMO Matthew Modabber, a close ally of CEO Shayne Coplan, following an internal probe, per New York Post.",
-      "url": "https://x.com/Cointelegraph/status/2113442955637772555",
-      "images": [
-        "https://pbs.twimg.com/media/HVR1KlTWIAA6cni.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1792719806433
-    },
-    {
       "text": "🚨 NEW: Ethereum Foundation delays the Glamsterdam upgrade on the Hoodi testnet, originally set for October 26, to further study EIP-8037’s impact on mainnet smart contracts.",
       "url": "https://x.com/Cointelegraph/status/2113458057137074539",
       "images": [
@@ -2641,7 +2632,16 @@
       "at": 1792723151207,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/380239723901719?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨  NOW: Polymarket has reportedly fired CMO Matthew Modabber, a close ally of CEO Shayne Coplan, following an internal probe, per New York Post.",
+      "final": "🚨 NOW: Polymarket has reportedly fired CMO Matthew Modabber, a close ally of CEO Shayne Coplan, following an internal probe, per New York Post.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVR1KlTWIAA6cni.jpg"
+      ],
+      "at": 1792725100274,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792723151207
+  "lastPostAt": 1792725100274
 }
