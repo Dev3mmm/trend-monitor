@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1792611133922-k6m8t0",
-    "source": "x",
-    "ts": "2026-10-21T19:32:13.923Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Michael Saylor",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-21T19:24:32.000Z",
-    "reason": "Notable reserve metric and token pair mention.",
-    "text": "Our BTC Reserve is worth 6.3x the combined notional of STRC and all securities senior to it, net of USD Assets. $MSTR $STRC",
-    "url": "https://x.com/saylor/status/2112988832484208650",
-    "images": [
-      "https://pbs.twimg.com/media/HVLXWDEWAAEIYyW.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792611825471-8ylmhc",
-    "source": "x",
-    "ts": "2026-10-21T19:43:45.471Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-21T19:30:43.000Z",
-    "reason": "Notable regulatory stance by a major crypto foundation affecting DeFi and staking technology.",
-    "text": "🇪🇺 JUST IN: Cardano Foundation urges the EU against expanding MiCA to DeFi and staking, calling for rules based on financial risks rather than technology.",
-    "url": "https://x.com/Cointelegraph/status/2112989980414840878",
-    "images": [
-      "https://pbs.twimg.com/media/HVLZLyYXsAASPWm.jpg",
-      "https://pbs.twimg.com/media/HVLZMFdXgAA8KZX.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792611828559-nes5fu",
     "source": "x",
     "ts": "2026-10-21T19:43:48.559Z",
@@ -7752,5 +7715,31 @@
     "reason": "No notable move or newsworthy event identified.",
     "text": "@Inraydah Hi Inraydah , sorry for the delay , we are responding shortly .^LB",
     "url": "https://x.com/Safaricom_Care/status/2113442627366309962"
+  },
+  {
+    "id": "x-1792720319126-2rm9cq",
+    "source": "x",
+    "ts": "2026-10-23T01:51:59.126Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "ZachXBT",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-23T01:50:31.000Z",
+    "reason": "Noise: Generic complaint without a concrete claim.",
+    "text": "@bot Why are Premium+ subscribers forcefully shown ads on XChat at the top of chats for a product that’s a privacy nightmare with no way to disable on the UI?",
+    "url": "https://x.com/zachxbt/status/2113447969261556191"
+  },
+  {
+    "id": "x-1792720322605-74u34t",
+    "source": "x",
+    "ts": "2026-10-23T01:52:02.605Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T01:49:37.000Z",
+    "reason": "No notable move in ETH price within the recent range.",
+    "text": "@AwesamC Good morning @AwesamC, we regret any inconvenience caused. Please elaborate on the issue at hand and include your phone number, full name, ID number and date of birth via DM for support. ^JH",
+    "url": "https://x.com/Safaricom_Care/status/2113447721533149685"
   }
 ]
