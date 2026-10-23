@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1792609358469-8cjc7r",
-    "source": "x",
-    "ts": "2026-10-21T19:02:38.469Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-21T19:00:40.000Z",
-    "reason": "The tweet mentions a notable price movement and market reaction.",
-    "text": "🚨 LATEST: SpaceX’s stronger-than-expected Q3 results helped lift risk sentiment, with Bitcoin climbing to $84,600. \n\nBTC extended its gains alongside U.S. stocks as markets reacted to the earnings beat. \n\nThe move put Bitcoin back within reach of the $85,000 level.",
-    "url": "https://x.com/Cointelegraph/status/2112982417543746028",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792609361604-5jftff",
     "source": "x",
     "ts": "2026-10-21T19:02:41.604Z",
@@ -7756,5 +7740,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113299598865465344/img/PYkP43yNzJEaftNo.jpg"
     }
+  },
+  {
+    "id": "x-1792716786401-i65adq",
+    "source": "x",
+    "ts": "2026-10-23T00:53:06.401Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-23T00:50:00.000Z",
+    "reason": "Noise: Generic news without concrete data or source.",
+    "text": "🩸BREAKING: Metals are MELTING, wiping an estimated $1,000,000,000,000 off gold and silver alone on Thursday.\n\nSilver sank 5.8% and gold 2.8% with surging oil fueling inflation fears ahead of next week's Fed meeting.\n\nPlatinum fell 4% and palladium 3.7%, while copper slid 2.8% to",
+    "url": "https://x.com/coinbureau/status/2113432717698433138"
   }
 ]
