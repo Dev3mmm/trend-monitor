@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792691218763-rrsigh",
-    "source": "x",
-    "ts": "2026-10-22T17:46:58.763Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 33,
-    "originTimestamp": "2026-10-22T17:12:56.000Z",
-    "reason": "Noise: Memes without any substance.",
-    "text": "Talarico hates Texas and America",
-    "url": "https://x.com/elonmusk/status/2113319277092642942"
-  },
-  {
-    "id": "x-1792691220903-uvf90x",
-    "source": "x",
-    "ts": "2026-10-22T17:47:00.903Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 43,
-    "originTimestamp": "2026-10-22T17:02:31.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Go vote!",
-    "url": "https://x.com/elonmusk/status/2113319084553376019"
-  },
-  {
     "id": "x-1792578727021-7323ye",
     "source": "x",
     "ts": "2026-10-21T10:32:07.021Z",
@@ -7647,5 +7621,36 @@
     "reason": "No notable move or newsworthy event.",
     "text": "@Eddy_Alara We apologize for the inconvenience caused. Our team is actively working to resolve the issue as quickly as possible. In the meantime, kindly contact 400 or call 0722002222 for further assistance and support. ^MK",
     "url": "https://x.com/Safaricom_Care/status/2113698180520894515"
+  },
+  {
+    "id": "x-1792780975641-87gy2o",
+    "source": "x",
+    "ts": "2026-10-23T18:42:55.641Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Safaricom Care",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T18:40:55.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "@_nick_254 Hi @_nick_254, thank you for engaging with us. Please advise on the issue at hand, so that we can support accordingly. ^JH",
+    "url": "https://x.com/Safaricom_Care/status/2113702223410544915"
+  },
+  {
+    "id": "x-1792780978706-u6lg2i",
+    "source": "x",
+    "ts": "2026-10-23T18:42:58.706Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-23T18:38:17.000Z",
+    "reason": "Franklin Templeton's approval for Bitcoin ETFs is a notable move in institutional adoption.",
+    "text": "JUST IN: 🇺🇸 $1.8 trillion Franklin Templeton has received approval from Nasdaq to list two new Bitcoin ETFs with a DRIP strategy 👀\n\nThe 'FBEQ' and 'FIBT' ETFs will reinvest dividends from US stocks into Bitcoin! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2113701562673446988",
+    "images": [
+      "https://pbs.twimg.com/media/HVVgUfhWYAAFGg8.jpg"
+    ],
+    "video": null
   }
 ]
