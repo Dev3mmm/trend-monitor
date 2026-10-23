@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1792679271078-m6ta4l",
-    "source": "x",
-    "ts": "2026-10-22T14:27:51.078Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 27,
-    "originTimestamp": "2026-10-22T14:00:06.000Z",
-    "reason": "No notable news or move in the tweet provided.",
-    "text": "Trade the news the moment you read it.\n\nJupiter now powers trading inside @DecryptMedia Money Accounts. Read a story, swap the token, never leave Decrypt.\n\nEvery app is becoming a financial app. Jupiter is the engine under all of them.",
-    "url": "https://x.com/DecryptMedia/status/2113269713065406560"
-  },
-  {
-    "id": "x-1792679514185-6krxyg",
-    "source": "x",
-    "ts": "2026-10-22T14:31:54.185Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-22T14:30:47.000Z",
-    "reason": "Notable statement from a prominent figure in the crypto industry regarding security risks.",
-    "text": "🔥 UPDATE: CZ says no crypto wallet or software is 100% secure, urging users to stay informed and manage their risks.",
-    "url": "https://x.com/Cointelegraph/status/2113276886537158976",
-    "images": [
-      "https://pbs.twimg.com/media/HVPeH84XgAApPk0.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792679517537-cmgcb9",
-    "source": "x",
-    "ts": "2026-10-22T14:31:57.537Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-22T14:30:00.000Z",
-    "reason": "New regulatory service offering insights into DeFi vault risks.",
-    "text": "NEW: S&amp;P Global Ratings has launched DeFi vault risk assessments, examining underlying assets, curator, operational, security and governance risks.\n\nAndrew O’Neill explains how the firm turns onchain transparency into insight on risks facing depositors.",
-    "url": "https://x.com/Cointelegraph/status/2113276689845215309",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113251121590685696/vid/avc1/1280x720/iKWl1DzdqQQ3hMxy.mp4?tag=29",
-      "duration": 102,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113251121590685696/img/6Wcbu_MD4DYcCrBl.jpg"
-    }
-  },
-  {
     "id": "x-1792679519867-1jepag",
     "source": "x",
     "ts": "2026-10-22T14:31:59.867Z",
@@ -7657,5 +7605,52 @@
     "url": "https://x.com/Cointelegraph/status/2113631638311592019",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792764753727-7v6w6w",
+    "source": "x",
+    "ts": "2026-10-23T14:12:33.727Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-23T14:08:27.000Z",
+    "reason": "Injective becomes key stablecoin hub across many blockchains.",
+    "text": "Injective Becomes Go-To Stablecoin Hub for Cosmos and 20+ Blockchains\n\n@Injective expanded its native $USDC supply by 43% over the last 30 days, bringing the total on-chain dollar supply to $16.5M.\n\nThe financial Layer-1 platform is becoming the canonical dollar standard across",
+    "url": "https://x.com/BSCNews/status/2113633654626787686",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113633607327662080/vid/avc1/1316x720/L5cQ9kscdkNqrZoA.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113633607327662080/img/P67kobS6z5STttIQ.jpg"
+    }
+  },
+  {
+    "id": "x-1792764757536-aeh4le",
+    "source": "x",
+    "ts": "2026-10-23T14:12:37.536Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-23T14:02:45.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Tell me you're using Binance AI Pro without telling me you're using Binance AI Pro 👀\n\nWe'll start: we just made a whole video about it. 📽️",
+    "url": "https://x.com/binance/status/2113632219122024779"
+  },
+  {
+    "id": "x-1792764762194-aljfjr",
+    "source": "x",
+    "ts": "2026-10-23T14:12:42.194Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-23T14:02:04.000Z",
+    "reason": "No notable crypto-related news or move.",
+    "text": "Is GOLD really a SAFE ASSET? 🔥\n\nA U.S. startup claims it has turned MERCURY into GOLD, that can be indistinguisable from naturally-mined GOLD.\n\nStartup Marathon Fusion says it produced stable gold at 10x CERN's record rate, raising questions about whether lab-made gold could",
+    "url": "https://x.com/coinbureau/status/2113632050708377773"
   }
 ]
