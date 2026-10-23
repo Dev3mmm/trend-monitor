@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1792585422676-810i89",
-    "source": "x",
-    "ts": "2026-10-21T12:23:42.676Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-21T12:17:31.000Z",
-    "reason": "No notable move in cryptocurrency price or significant event.",
-    "text": "Dogecoin Labs Launches to boost DOGE Ecosystem growth\n\nThe @Dogecoin Foundation has officially endorsed the creation of Dogecoin Labs. \n\nIt is an independent corporate software organization led by CEO Jordan Jefferson, intended to consolidate the blockchain's consumer and",
-    "url": "https://x.com/BSCNews/status/2112880962728054928"
-  },
-  {
-    "id": "x-1792585630636-e7131v",
-    "source": "x",
-    "ts": "2026-10-21T12:27:10.636Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-21T12:24:15.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "JUST IN: Bitcoin is now 25% above its 200-week moving average 👀\n\nEvery time Bitcoin has pulled back toward its 200WMA, it has bounced and gone on to new highs 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2112882658770382944"
-  },
-  {
-    "id": "x-1792691648536-ckl4e5",
-    "source": "x",
-    "ts": "2026-10-22T17:54:08.536Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-22T17:50:42.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "🔥 INSIGHT: Bitcoin’s hashrate is rising again as miners run at full capacity, a bullish signal according to CryptoQuant CEO Ki Young Ju.",
-    "url": "https://x.com/Cointelegraph/status/2113327198790660179",
-    "images": [
-      "https://pbs.twimg.com/media/HVQL4xHXEAALVZx.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792691652258-tpth92",
     "source": "x",
     "ts": "2026-10-22T17:54:12.258Z",
@@ -7668,5 +7624,55 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113732432234983424/img/qJpUtb-HwiravOJK.jpg"
     }
+  },
+  {
+    "id": "x-1792791192226-m45rqw",
+    "source": "x",
+    "ts": "2026-10-23T21:33:12.226Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-23T21:31:52.000Z",
+    "reason": "Notable increase in Bitcoin derivatives trading volume.",
+    "text": "JUST IN: CME Group recorded $326.7 billion in total notional trading volume for its Bitcoin derivatives in Q3! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2113745243543871935",
+    "images": [
+      "https://pbs.twimg.com/media/HVWFL_rWMAA_c2K.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792791196022-oanvfs",
+    "source": "x",
+    "ts": "2026-10-23T21:33:16.022Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T21:30:29.000Z",
+    "reason": "No notable crypto-specific move or event mentioned.",
+    "text": "🚨 BIG: China’s stock market is lagging the U.S. by the widest margin on record.",
+    "url": "https://x.com/Cointelegraph/status/2113744894598512706"
+  },
+  {
+    "id": "x-1792791201475-iezt9b",
+    "source": "x",
+    "ts": "2026-10-23T21:33:21.475Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-23T21:26:50.000Z",
+    "reason": "Regulatory relief for cryptocurrency token in Argentina.",
+    "text": "🇦🇷 BREAKING: Argentina OFFICIALLY drops the $LIBRA case against President Milei and 10 others, finding NO crime.\n\nA federal judge ruled the facts don't constitute a crime, clearing Milei, his sister Karina and Hayden Davis, the American who led the token's launch.\n\nOn Feb. 14,",
+    "url": "https://x.com/coinbureau/status/2113743976583065938",
+    "images": [
+      "https://pbs.twimg.com/media/HVWEoVYagAAaiu4.png",
+      "https://pbs.twimg.com/media/HVWFxH9bkAAipp3.png"
+    ],
+    "video": null
   }
 ]
