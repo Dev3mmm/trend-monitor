@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792616184645-wf5ys5",
-    "source": "x",
-    "ts": "2026-10-21T20:56:24.645Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-21T20:50:40.000Z",
-    "reason": "Tokenized stocks market cap hit a significant increase.",
-    "text": "🔥 BIG: Tokenized stocks hit $4.4B in market cap, up 886% over the past year, led by BNB Chain, Solana and Ethereum.",
-    "url": "https://x.com/Cointelegraph/status/2113010099690070347",
-    "images": [
-      "https://pbs.twimg.com/media/HVLrfLnXoAE-y_y.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792616186227-dxp0rw",
-    "source": "x",
-    "ts": "2026-10-21T20:56:26.227Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 52,
-    "originTimestamp": "2026-10-21T20:04:24.000Z",
-    "reason": "No factual claim or specific event mentioned.",
-    "text": "Great progress by the Tesla team!",
-    "url": "https://x.com/elonmusk/status/2113009907012382829"
-  },
-  {
     "id": "x-1792616189210-n551ne",
     "source": "x",
     "ts": "2026-10-21T20:56:29.210Z",
@@ -7738,5 +7707,39 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Arthur Hayes: HYPE Could Significantly Underperform ETH and ZEC\n\nOn October 16, BitMEX founder Arthur Hayes @CryptoHayes stated that Hyperliquid has demonstrated genuine demand for on-chain perpetual futures markets. However, as the sector has become a consensus trade, HYPE's",
     "url": "https://x.com/WuBlockchain/status/2113480537121722468"
+  },
+  {
+    "id": "x-1792729172661-ra201n",
+    "source": "x",
+    "ts": "2026-10-23T04:19:32.661Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T04:17:14.000Z",
+    "reason": "No notable move, price is well outside recent range.",
+    "text": "🚨BREAKING: Brent crude surges above $115 to a FIVE-MONTH HIGH as renewed supply fears grip oil markets.\n\nBrent traded at $115.08 after touching $115.84, extending Thursday’s 4% rally and taking its 2026 gain above 80%.\n\nThe surge comes amid reported Houthi strikes on Saudi",
+    "url": "https://x.com/coinbureau/status/2113484871515746722"
+  },
+  {
+    "id": "x-1792729178432-mqr8p9",
+    "source": "x",
+    "ts": "2026-10-23T04:19:38.432Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-23T04:16:00.000Z",
+    "reason": "JPMorgan provides insights on regulatory developments affecting the crypto industry.",
+    "text": "JPMorgan Warns Crypto Risks Remain Without CLARITY Act\n\nJPMorgan says recent moves by U.S. regulators are helping soften the blow from the CLARITY Act setback.\n\nThe SEC, CFTC and OCC are opening doors for crypto firms, but the relief may not last. \n\nThe problem is that agency",
+    "url": "https://x.com/BSCNews/status/2113484559333376157",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113480009633705984/vid/avc1/1280x720/KJ3RvKfcSG9PlIa3.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113480009633705984/img/62bMX7gSh_W3S4-s.jpg"
+    }
   }
 ]
