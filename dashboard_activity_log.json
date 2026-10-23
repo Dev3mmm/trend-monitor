@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792692184520-1obk34",
-    "source": "x",
-    "ts": "2026-10-22T18:03:04.520Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-22T17:58:45.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "@nashohmy Jambo Nashomy, confirm your account number and number for further assistance.^TM",
-    "url": "https://x.com/Safaricom_Care/status/2113329225172132029"
-  },
-  {
-    "id": "x-1792692188117-1ojiuk",
-    "source": "x",
-    "ts": "2026-10-22T18:03:08.117Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-22T17:58:23.000Z",
-    "reason": "No notable move in Bitcoin dominance.",
-    "text": "NEW: Bitcoin dominance climbs past 60%, the highest in 5 months 👀\n\nNew capital continues to flow into BTC! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2113329130326671464"
-  },
-  {
     "id": "x-1792692734567-y1o0lz",
     "source": "x",
     "ts": "2026-10-22T18:12:14.567Z",
@@ -7679,5 +7653,39 @@
       "https://pbs.twimg.com/media/HVWOqNJXgAApKlp.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792794036285-okubb9",
+    "source": "x",
+    "ts": "2026-10-23T22:20:36.285Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-23T22:19:00.000Z",
+    "reason": "Activity and trading volume on Hedera's ETF are very low.",
+    "text": "Are investors getting bored of HBAR exposure...?\n\nActivity on Canary's spot @Hedera ETF has been lacklustre this month, the product seeing only three days of activity in October.\n\nOne of those days (October 16) saw the product's second ever day of net outflows, to the tune of",
+    "url": "https://x.com/BSCNews/status/2113757105236697519",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113548282542600192/vid/avc1/1312x720/_-qwB7h5NuQHhdY6.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113548282542600192/img/VChRVYQ0a2vAn2qm.jpg"
+    }
+  },
+  {
+    "id": "x-1792794040492-jas1zl",
+    "source": "x",
+    "ts": "2026-10-23T22:20:40.492Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 47,
+    "originTimestamp": "2026-10-23T21:33:20.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week. Congrats to the whole team!",
+    "url": "https://x.com/elonmusk/status/2113754749288006108"
   }
 ]
