@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792691652258-tpth92",
-    "source": "x",
-    "ts": "2026-10-22T17:54:12.258Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-22T17:50:00.000Z",
-    "reason": "Tokenized assets reaching significant valuation and growth.",
-    "text": "Ondo Finance’s tokenized assets climb past $4B\n\n@Ondo now has $4.02B in tokenized real-world assets in circulation, up 5.74% over the past 30 days, per RWA.​xyz data. Ranking second among tokenization platforms, behind @Securitize at $4.3B.\n\nOver the same 30 days, holders rose",
-    "url": "https://x.com/BSCNews/status/2113327021371588665",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113321432725725184/vid/avc1/1220x720/P5-8QpTQTWgZFgqc.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113321432725725184/img/OADNFj_qXNjr2CYU.jpg"
-    }
-  },
-  {
-    "id": "x-1792692177740-cmxlln",
-    "source": "x",
-    "ts": "2026-10-22T18:02:57.740Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-22T18:02:13.000Z",
-    "reason": "Generic promotion with no specific event or move.",
-    "text": "Spot Trading Tournament Season 8 is here.\n\nShare up to 400 BNB in token vouchers.\n\nJoin now 👉",
-    "url": "https://x.com/binance/status/2113330097205760296"
-  },
-  {
     "id": "x-1792692180687-rilned",
     "source": "x",
     "ts": "2026-10-22T18:03:00.687Z",
@@ -7674,5 +7640,39 @@
       "https://pbs.twimg.com/media/HVWFxH9bkAAipp3.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792792335776-6735tt",
+    "source": "x",
+    "ts": "2026-10-23T21:52:15.776Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 19,
+    "originTimestamp": "2026-10-23T21:32:29.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Every Friday, our @watchbmtv substack includes my “Friday Forecast”, where I provide directional insights based on market analysis from that week. \n\nWe include additional high signal quantitative analysis each month. \n\nSubscribe while it’s still free.",
+    "url": "https://x.com/BitcoinMagazine/status/2113748534889713778"
+  },
+  {
+    "id": "x-1792792339911-wizp65",
+    "source": "x",
+    "ts": "2026-10-23T21:52:19.911Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-23T21:44:00.000Z",
+    "reason": "Notable institutional adoption with a major financial institution adding US Treasury indices to its data service.",
+    "text": "Pyth Network adds US Treasury yields to its paid data service\n\n@PythNetwork has added 14 US Treasury indices to Pyth Pro, its subscription market data service, covering seven terms from two to 30 years with a yield feed and a pricing feed for each. Pyth also widened its commodity",
+    "url": "https://x.com/BSCNews/status/2113748297261494584",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113745630690447360/vid/avc1/1220x720/kBxmIDAPThIH00t8.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113745630690447360/img/FFE4HHiX-zUh2J7M.jpg"
+    }
   }
 ]
