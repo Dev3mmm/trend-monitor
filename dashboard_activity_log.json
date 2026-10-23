@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792612336805-kfr8sh",
-    "source": "x",
-    "ts": "2026-10-21T19:52:16.805Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-21T19:46:00.000Z",
-    "reason": "Notable upgrade with specific on-chain data point.",
-    "text": "Celestia goes live with Fibre, built for AI agents and nonstop markets\n\n@celestia switched on Fibre on Tuesday, a new data availability protocol it calls its biggest upgrade since launch. Fibre starts at about 150 megabytes per second, roughly 15 times the old capacity. Every",
-    "url": "https://x.com/BSCNews/status/2112993825912389685",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112983154889809920/vid/avc1/1220x720/LocDzh7ubk3PsiVY.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112983154889809920/img/rdrGV3m8gkvU6E-T.jpg"
-    }
-  },
-  {
     "id": "x-1792613501887-ejvyt8",
     "source": "x",
     "ts": "2026-10-21T20:11:41.887Z",
@@ -7743,6 +7722,22 @@
     "images": [
       "https://pbs.twimg.com/media/HVSC5lZXMAAarpo.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1792723877410-xiklo3",
+    "source": "x",
+    "ts": "2026-10-23T02:51:17.410Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-23T02:49:57.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Everyone worried about AI hacking crypto, but the internet and banking systems rely on weaker encryption.\n\nThat said, AI doesn’t need to break Bitcoin’s cryptography to cause damage, leaked data already enables more phishing, social engineering, etc, \n\nStay SAFU!",
+    "url": "https://x.com/cz_binance/status/2113462904435642556",
+    "images": [],
     "video": null
   }
 ]
