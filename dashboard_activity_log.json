@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792584727654-dklc40",
-    "source": "x",
-    "ts": "2026-10-21T12:12:07.654Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-21T12:02:18.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "New bStock Listing.\n\nTrade: BOTB/USDT, BRKBB/USDT, KSTRB/USDT, TMFB/USDT and VSTB/USDT\n\n24/7 access. 1:1 free and instant exchange for actual stocks on Binance\n\nExchange the World, one market at a time.\n\nRead more 👉",
-    "url": "https://x.com/binance/status/2112877130862174252"
-  },
-  {
-    "id": "x-1792585419565-sl8u77",
-    "source": "x",
-    "ts": "2026-10-21T12:23:39.565Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-21T12:18:00.000Z",
-    "reason": "Concrete price milestone compared to the recent range.",
-    "text": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
-    "url": "https://x.com/DecryptMedia/status/2112881085856022588",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792585422676-810i89",
     "source": "x",
     "ts": "2026-10-21T12:23:42.676Z",
@@ -7660,5 +7631,42 @@
     "reason": "Meme without real content",
     "text": "w e e k e n d  m o d e : ↺ |◁ II ▷| ♡",
     "url": "https://x.com/binance/status/2113737267030188361"
+  },
+  {
+    "id": "x-1792790512038-j1ttx2",
+    "source": "x",
+    "ts": "2026-10-23T21:21:52.038Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-23T21:17:15.000Z",
+    "reason": "Netanyahu's consideration of a crypto plan could have significant regulatory and institutional impacts.",
+    "text": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+    "url": "https://x.com/DecryptMedia/status/2113741565239701505",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792790517012-39w5pz",
+    "source": "x",
+    "ts": "2026-10-23T21:21:57.012Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-23T21:15:00.000Z",
+    "reason": "South Korea plans to regulate stablecoins under currency rules.",
+    "text": "South Korea plans to bring stablecoins under its currency rules as payment tools\n\nThe Bank of Korea (@bok_hub) says it will work with the government this year to draft changes to the Foreign Exchange Transactions Act to regulate stablecoins as payment instruments. The plan",
+    "url": "https://x.com/BSCNews/status/2113740999302262862",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113732432234983424/vid/avc1/1220x720/oQsIxi3EXxL7vV2P.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113732432234983424/img/qJpUtb-HwiravOJK.jpg"
+    }
   }
 ]
