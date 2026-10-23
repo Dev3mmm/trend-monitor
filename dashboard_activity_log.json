@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1792681428608-dsx41d",
-    "source": "x",
-    "ts": "2026-10-22T15:03:48.608Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-22T14:52:13.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Agents need teammates too.",
-    "url": "https://x.com/coinbase/status/2113283731343417529"
-  },
-  {
-    "id": "x-1792681430986-uepn0l",
-    "source": "x",
-    "ts": "2026-10-22T15:03:50.986Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-22T14:57:04.000Z",
-    "reason": "No notable move or specific news content.",
-    "text": "@KifathelaTz Kindly DM  till number, business name, nominated number and ID we check and advise. ^WL",
-    "url": "https://x.com/Safaricom_Care/status/2113283500350566548"
-  },
-  {
-    "id": "x-1792681433400-xuor8y",
-    "source": "x",
-    "ts": "2026-10-22T15:03:53.400Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-22T14:56:52.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "@wquamboukha Hello @wquamboukha Checking ^HW",
-    "url": "https://x.com/Safaricom_Care/status/2113283453781213507"
-  },
-  {
     "id": "x-1792681436244-835r0c",
     "source": "x",
     "ts": "2026-10-22T15:03:56.244Z",
@@ -7641,5 +7602,60 @@
     "reason": "No notable move or specific event is described.",
     "text": "#BITCOIN WAS THE CANARY IN THE COAL MINE FOR AI SECURITY RISKS. 🚨\n\nNow the rest of the internet is facing the same challenge.\n\nRob Hamilton, Talip, &amp; Seth For Privacy are bringing this critical conversation to Bitcoin Amsterdam.\n\nNov 5 | 4:15 PM | Treasury Stage",
     "url": "https://x.com/BitcoinMagazine/status/2113653249345487352"
+  },
+  {
+    "id": "x-1792770151861-4bcojy",
+    "source": "x",
+    "ts": "2026-10-23T15:42:31.861Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T15:40:43.000Z",
+    "reason": "Geoff Kendrick discusses traditional banking rails with a simple analogy for Standard Chartered.",
+    "text": "🔥 WATCH: What if you couldn’t send emails after 5 PM or on weekends?\n\n@StanChart's Geoff Kendrick explains traditional banking rails with a simple analogy.",
+    "url": "https://x.com/Cointelegraph/status/2113656874482495549",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113656804496248832/vid/avc1/1280x720/4JX4DaG7YMKsYHjd.mp4?tag=16",
+      "duration": 43,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113656804496248832/img/XuC_Qpozzb7PKVs3.jpg"
+    }
+  },
+  {
+    "id": "x-1792770155850-na0bb5",
+    "source": "x",
+    "ts": "2026-10-23T15:42:35.850Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T15:39:51.000Z",
+    "reason": "New use of Zcash by a prominent DEX",
+    "text": "Polkadot's Leading DEX Is Going Big on Zcash\n\n@Hydration_net has launched @Zcash $ZEC swaps within its ecosystem. \n\nUsers can trade pairs in its liquidity layer, which features dollar-cost averaging (DCA), limit-order trade execution, and instant swapping for the privacy token.",
+    "url": "https://x.com/BSCNews/status/2113656657276240086",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113656019171647489/vid/avc1/1316x720/gi-IVmXvDsyME69U.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113656019171647489/img/eRk7kE97JOSTgU2a.jpg"
+    }
+  },
+  {
+    "id": "x-1792770158792-8qhlef",
+    "source": "x",
+    "ts": "2026-10-23T15:42:38.792Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 79,
+    "originTimestamp": "2026-10-23T14:23:06.000Z",
+    "reason": "Noise: generic tweet without real content.",
+    "text": "Try Grok @Bot",
+    "url": "https://x.com/elonmusk/status/2113656412694073647"
   }
 ]
