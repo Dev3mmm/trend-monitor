@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1792580004985-8qluzx",
-    "source": "x",
-    "ts": "2026-10-21T10:53:24.985Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-21T10:40:00.000Z",
-    "reason": "Zcash price jump and upgrade announcement is notable.",
-    "text": "📊 MARKETS: Zcash jumps 12% to around $1,270 as developers target Nov. 5 for the NU7 upgrade, aiming to cut block times from 75 to 25 seconds.\n\n$ZEC is now up more than 148% this year.",
-    "url": "https://x.com/Cointelegraph/status/2112856421784039741",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792580011602-lbahn6",
-    "source": "x",
-    "ts": "2026-10-21T10:53:31.602Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-21T10:38:13.000Z",
-    "reason": "Token price surged nearly 200% in the past 30 days.",
-    "text": "Janction is going parabolic...\n\nAI-driven Blockchain platform Janction (@JANCTION_Global) is in the news today after a remarkable price surge. \n\nThe protocol's native ethereum:0xc477b6dfd26ec2460b3b92de18837fd476ea7549 token has surged nearly 200% over the past 30 days, with many",
-    "url": "https://x.com/BSCNews/status/2112855972574122214",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112855937211936769/vid/avc1/1316x720/uNmOF2Hb4Olq-vq-.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112855937211936769/img/m_Of25Xj8PGucCic.jpg"
-    }
-  },
-  {
-    "id": "x-1792691403522-883jhn",
-    "source": "x",
-    "ts": "2026-10-22T17:50:03.522Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-22T17:45:08.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "@mugangasiaJoe Hello @mugangasiaJoe. We are on it. ^CR",
-    "url": "https://x.com/Safaricom_Care/status/2113325797582725297"
-  },
-  {
     "id": "x-1792691407118-eu0gkb",
     "source": "x",
     "ts": "2026-10-22T17:50:07.118Z",
@@ -7655,5 +7605,58 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113691514945638400/img/Za5Y1ghgDf8LTtfG.jpg"
     }
+  },
+  {
+    "id": "x-1792783365294-iee1ar",
+    "source": "x",
+    "ts": "2026-10-23T19:22:45.294Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-23T19:16:18.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Irys rockets past its May record with an 800% day \n\nirys:native traded near $0.19, up more than 800% over 24 hours from a low near $0.02. Trading volume topped $1B, lifting its market cap to about $492M.\n\n@irys_xyz bills itself as a programmable datachain, a layer 1 that stores",
+    "url": "https://x.com/BSCNews/status/2113711129801425146",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113710660274012161/vid/avc1/1220x720/W30mK415U_MVzfh4.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113710660274012161/img/hYkd9oOn-hHRKOLg.jpg"
+    }
+  },
+  {
+    "id": "x-1792783367165-ckuwus",
+    "source": "x",
+    "ts": "2026-10-23T19:22:47.165Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 14,
+    "originTimestamp": "2026-10-23T19:08:34.000Z",
+    "reason": "Vague opinion without factual claim or data.",
+    "text": "🔥 BULLISH: CZ says past declarations that “Bitcoin is dead” marked “the best times to buy Bitcoin.”",
+    "url": "https://x.com/Cointelegraph/status/2113709183296020864"
+  },
+  {
+    "id": "x-1792783369209-p1xl2a",
+    "source": "x",
+    "ts": "2026-10-23T19:22:49.209Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 22,
+    "originTimestamp": "2026-10-23T19:00:45.000Z",
+    "reason": "Regulatory move regarding election manipulation concerns",
+    "text": "🇺🇸 LATEST: The CFTC is closely monitoring prediction markets for manipulation ahead of the US midterm elections, Mike Selig says, warning violators will be held accountable.",
+    "url": "https://x.com/Cointelegraph/status/2113707213604659550",
+    "images": [
+      "https://pbs.twimg.com/media/HVVlfhoWsAAbCLT.jpg",
+      "https://pbs.twimg.com/media/HVVlgAfW0AA8d2d.jpg"
+    ],
+    "video": null
   }
 ]
