@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1792690451003-6xvu35",
-    "source": "x",
-    "ts": "2026-10-22T17:34:11.003Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 31,
-    "originTimestamp": "2026-10-22T17:02:31.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "Go vote!",
-    "url": "https://x.com/elonmusk/status/2113319084553376019"
-  },
-  {
-    "id": "x-1792691180315-krtxm6",
-    "source": "x",
-    "ts": "2026-10-22T17:46:20.315Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-22T17:45:08.000Z",
-    "reason": "No notable move, tweet seems more confirmation or acknowledgment.",
-    "text": "@mugangasiaJoe Hello @mugangasiaJoe. We are on it. ^CR",
-    "url": "https://x.com/Safaricom_Care/status/2113325797582725297"
-  },
-  {
-    "id": "x-1792691183068-1w821q",
-    "source": "x",
-    "ts": "2026-10-22T17:46:23.068Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-22T17:44:04.000Z",
-    "reason": "No notable move; price is typical for ETH.",
-    "text": "@KifathelaTz @KifathelaTz kindly aval the funds for further assistance. ^BX",
-    "url": "https://x.com/Safaricom_Care/status/2113325530455867641"
-  },
-  {
-    "id": "x-1792691186037-ttix9e",
-    "source": "x",
-    "ts": "2026-10-22T17:46:26.037Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-22T17:44:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "@rapkemboi Hello @rapkemboi .Thank you for reaching out. Please share a reachable number. Our sales representative will get in touch during working hours and assist. ^NC",
-    "url": "https://x.com/Safaricom_Care/status/2113325513296990657"
-  },
-  {
     "id": "x-1792691189774-r1dffc",
     "source": "x",
     "ts": "2026-10-22T17:46:29.774Z",
@@ -7643,5 +7591,65 @@
     "reason": "No notable crypto-related event or movement in the tweet provided.",
     "text": "🚨ALERT: BRENT crude surged above $118 per barrel, just $1 AWAY from $119 and near its early-May high, amid fears of renewed U.S. strikes on Iran.\n\nMiddle East supply risks threaten oil shipments through the Strait of Hormuz, fueling inflation concerns and complicating the Fed's",
     "url": "https://x.com/coinbureau/status/2113685536674324884"
+  },
+  {
+    "id": "x-1792778168881-1blosx",
+    "source": "x",
+    "ts": "2026-10-23T17:56:08.881Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-23T17:54:45.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "How I Vibe Coded My Smart TV—And Claude Killed It",
+    "url": "https://x.com/DecryptMedia/status/2113690604265697429"
+  },
+  {
+    "id": "x-1792778172272-qk2445",
+    "source": "x",
+    "ts": "2026-10-23T17:56:12.272Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-23T17:51:09.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "If you fail to plan, then you are planning to fail.\n\nA simple ancient adage, but very powerful.",
+    "url": "https://x.com/amerix/status/2113689700762370230"
+  },
+  {
+    "id": "x-1792778175264-pc3e8h",
+    "source": "x",
+    "ts": "2026-10-23T17:56:15.264Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 111,
+    "originTimestamp": "2026-10-23T16:04:53.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Bullish on stablecoins. Bullish on AiFi.",
+    "url": "https://x.com/coinbase/status/2113689143360569554"
+  },
+  {
+    "id": "x-1792778180513-cytvn7",
+    "source": "x",
+    "ts": "2026-10-23T17:56:20.513Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-23T17:47:00.000Z",
+    "reason": "Notable institutional change impacting USDC liquidity.",
+    "text": "Cosmos USDC is moving to Injective, and the first Noble deadline lands next week\n\n@circle stopped minting new USDC on Noble, the chain that issued the stablecoin for Cosmos. Starting October 31, Circle will begin reducing how much USDC can leave Noble through its older transfer",
+    "url": "https://x.com/BSCNews/status/2113688654086598747",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113682800247250945/vid/avc1/1220x720/qR8atGBYqntwXBE4.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113682800247250945/img/Q2WPGBA_aa3tWhQW.jpg"
+    }
   }
 ]
