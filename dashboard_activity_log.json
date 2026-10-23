@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792458757912-nbuaqs",
-    "source": "x",
-    "ts": "2026-10-20T01:12:37.912Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-20T01:10:00.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "This never ends WELL.\n\n5 of history's biggest stock market bubbles all ended in a crash or a recession.\n\nToday, the 41 stocks JPMorgan classifies as AI-related make up 49% of the S&amp;P 500.\n\nThat's higher than every one of those bubbles except the 1880s railroads.\n\nHere's how each",
-    "url": "https://x.com/coinbureau/status/2112350587736252644"
-  },
-  {
-    "id": "x-1792616678484-crzx1m",
-    "source": "x",
-    "ts": "2026-10-21T21:04:38.484Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 82,
-    "originTimestamp": "2026-10-21T19:42:13.000Z",
-    "reason": "No notable crypto-related event or move described.",
-    "text": "Grok @Bot is like hiring a super smart and fun employee!",
-    "url": "https://x.com/elonmusk/status/2113011511429902609"
-  },
-  {
     "id": "x-1792616682011-zfe9ko",
     "source": "x",
     "ts": "2026-10-21T21:04:42.011Z",
@@ -7741,5 +7715,37 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113480009633705984/img/62bMX7gSh_W3S4-s.jpg"
     }
+  },
+  {
+    "id": "x-1792458098254-573uix",
+    "source": "x",
+    "ts": "2026-10-20T01:01:38.254Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 84,
+    "originTimestamp": "2026-10-19T23:37:01.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Using TBC tunnels to transport freight.\n\nThe latest Prufrock Liner Truck (using Tesla Model 3 batteries and drive units) has been modified to carry a standard 20’ shipping container. \n\nFits like a glove!",
+    "url": "https://x.com/elonmusk/status/2112346571362717751"
+  },
+  {
+    "id": "x-1792729952792-ujzr9w",
+    "source": "x",
+    "ts": "2026-10-23T04:32:32.792Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T04:30:44.000Z",
+    "reason": "Notable institutional adoption of a stablecoin.",
+    "text": "🇭🇰 LATEST: HSBC begins rolling out its Hong Kong dollar-backed stablecoin RedCoin to over 3.3 million PayMe users, SCMP reports.",
+    "url": "https://x.com/Cointelegraph/status/2113488267765014765",
+    "images": [
+      "https://pbs.twimg.com/media/HVSeX6KWoAAcn99.png",
+      "https://pbs.twimg.com/media/HVSeYNcXMAAPWdZ.jpg"
+    ],
+    "video": null
   }
 ]

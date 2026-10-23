@@ -1504,5 +1504,21 @@
     "fetchedAt": "2026-10-22T17:47:25.378Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-f068af545ebddfb2",
+    "title": "How Is Cardano Prepared for the Arrival of the AI Payment Agent Age?",
+    "url": "https://forum.cardano.org/t/ai-cardadno/157524",
+    "description": "People press a payment button, but for the agent, pressing the button does not exist. Entering card numbers, agreeing to the terms, and opening a link in an authentication email is not something that software is often burdened with, but rather something that is mostly blocked by design. The announcement by the Cardano Foundation that Cardano has integrated with x402's official SDK is directly aimed at this blocked area. While news headlines might be brief, opening the specification document reveals a much deeper story. Following the sentence that mentions trading API values in ADA, there is a signed transaction that was not broadcast, and a complete stake-out to prevent re-creation.",
+    "publishedAt": "2026-10-23T04:30:14.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": true,
+    "originalTitle": "AI 에이전트 결제 시대 도래에 Cardadno는 어떻게 준비하고 있나",
+    "originalDescription": "x402와 카르다노의 기술 지도 AI 에이전트 결제 시대 도래에 Cardadno는 어떻게 준비하고 있나 2026년 10월 23일 사람은 결제 버튼을 누르지만, 에이전트에게는 누를 손이 없습니다. 카드 번호를 입력하고, 약관에 동의하고, 인증 메일의 링크를 여는 일은 소프트웨어가 혼자 하기에 번거로운 정도가 아니라 설계상 막혀 있는 경우가 대부분입니다. 카르다노(Cardano) 재단이 카르다노가 x402 공식 SDK에 통합되었다 고 발표한 것은 바로 이 막힌 자리를 겨냥한 일이었습니다. 소식만 보면 한 줄짜리입니다. 그런데 사양 문서 를 열어 보면 이야기가 훨씬 깊어집니다. 에이다(ADA)로 API 값을 치른다는 문장 뒤에는 브로드캐스트하지 않은 서명 트랜잭션, UTXO 하나를 통째로 걸어 두는 재생 방지, ",
+    "fetchedAt": "2026-10-23T04:32:56.101Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
