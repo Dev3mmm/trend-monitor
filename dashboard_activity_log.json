@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792692180687-rilned",
-    "source": "x",
-    "ts": "2026-10-22T18:03:00.687Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 109,
-    "originTimestamp": "2026-10-22T16:13:38.000Z",
-    "reason": "Nothing substantive or new in the tweet.",
-    "text": "Try Grok @Bot",
-    "url": "https://x.com/elonmusk/status/2113329537509449744"
-  },
-  {
     "id": "x-1792692184520-1obk34",
     "source": "x",
     "ts": "2026-10-22T18:03:04.520Z",
@@ -7674,5 +7661,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113745630690447360/img/FFE4HHiX-zUh2J7M.jpg"
     }
+  },
+  {
+    "id": "x-1792793005550-tk1d8b",
+    "source": "x",
+    "ts": "2026-10-23T22:03:25.550Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-23T22:00:32.000Z",
+    "reason": "Notable court decision on cryptocurrency scandal involvement.",
+    "text": "🇦🇷 UPDATE: An Argentine judge dismissed the investigation into President Javier Milei and his sister’s links to the $LIBRA cryptocurrency scandal at prosecutors’ request.",
+    "url": "https://x.com/Cointelegraph/status/2113752460397363631",
+    "images": [
+      "https://pbs.twimg.com/media/HVWOqNJXgAApKlp.jpg"
+    ],
+    "video": null
   }
 ]
