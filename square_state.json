@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791288719228-6rx1ou",
     "x-1791288721643-ukafpy",
     "x-1791288723769-z9m3g1",
     "x-1791289325470-c71nev",
@@ -1999,21 +1998,10 @@
     "x-1792717685720-tlo5st",
     "x-1792719797351-vj4f97",
     "x-1792719801871-lrwwgm",
-    "x-1792721531963-i99bq6"
+    "x-1792721531963-i99bq6",
+    "x-1792723150471-l4wslu"
   ],
   "queue": [
-    {
-      "text": "⚡️ TODAY: Heatbit introduces Bitwater, a water heater element packed with 20 ASIC chips that mines Bitcoin while heating your tank.\n\nWould you mine Bitcoin from your water heater?",
-      "url": "https://x.com/Cointelegraph/status/2113427684709818632",
-      "images": [],
-      "video": {
-        "url": "https://video.twimg.com/amplify_video/2113299598865465344/vid/avc1/1280x720/79cGCIKrfr3qqzZx.mp4?tag=29",
-        "duration": 42,
-        "gif": false,
-        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113299598865465344/img/PYkP43yNzJEaftNo.jpg"
-      },
-      "enqueuedAt": 1792716028891
-    },
     {
       "text": "🚨  NOW: Polymarket has reportedly fired CMO Matthew Modabber, a close ally of CEO Shayne Coplan, following an internal probe, per New York Post.",
       "url": "https://x.com/Cointelegraph/status/2113442955637772555",
@@ -2022,20 +2010,18 @@
       ],
       "video": null,
       "enqueuedAt": 1792719806433
+    },
+    {
+      "text": "🚨 NEW: Ethereum Foundation delays the Glamsterdam upgrade on the Hoodi testnet, originally set for October 26, to further study EIP-8037’s impact on mainnet smart contracts.",
+      "url": "https://x.com/Cointelegraph/status/2113458057137074539",
+      "images": [
+        "https://pbs.twimg.com/media/HVSC5lZXMAAarpo.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1792723151207
     }
   ],
   "posted": [
-    {
-      "text": "🚨 JUST IN: Anthropic's draft IPO filing shows soaring revenue but an $80B net loss, with up to $750B in computing spend planned in the coming years, per WSJ.",
-      "final": "🚨 JUST IN: Anthropic's draft IPO filing shows soaring revenue but an $80B net loss, with up to $750B in computing spend planned in the coming years, per WSJ.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HVHUQWLWkAAURln.jpg",
-        "https://pbs.twimg.com/media/HVHUQlPW0AEs8w0.jpg"
-      ],
-      "at": 1792549946074,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/379530291960045?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨 TODAY: Bloomberg’s Joe Weisenthal admits he may have been wrong to mock the “blockchain, not Bitcoin” crowd. \n\nHe says perps on neutral chains like Hyperliquid could unite traditional finance on one platform.",
       "final": "🚨 TODAY: Bloomberg’s Joe Weisenthal admits he may have been wrong to mock the “blockchain, not Bitcoin” crowd. \n\nHe says perps on neutral chains like Hyperliquid could unite traditional finance on one platform.\n\n#Bitcoin $BTC #Hyperliquid $HYPE",
@@ -2657,7 +2643,14 @@
       "at": 1792721125895,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/380231422286206?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "⚡️ TODAY: Heatbit introduces Bitwater, a water heater element packed with 20 ASIC chips that mines Bitcoin while heating your tank.\n\nWould you mine Bitcoin from your water heater?",
+      "final": "⚡️ TODAY: Heatbit introduces Bitwater, a water heater element packed with 20 ASIC chips that mines Bitcoin while heating your tank.\n\nWould you mine Bitcoin from your water heater?\n\n#Bitcoin $BTC",
+      "images": [],
+      "at": 1792723151207,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792721125895
+  "lastPostAt": 1792723151207
 }
