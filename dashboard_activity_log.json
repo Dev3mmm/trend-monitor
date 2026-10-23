@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1792584127917-wfibiy",
-    "source": "x",
-    "ts": "2026-10-21T12:02:07.917Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-21T12:00:12.000Z",
-    "reason": "Significant on-chain data showing active address increase.",
-    "text": "Ondo Tokenized Instruments has grown by 100%\n\nOn-chain data shows that @Ondo Finance tokenized instruments reached 166,723 active addresses over the last 30-day period, a 100.16% increase from 83,295 active addresses three months ago. \n\nFast network penetration ensures Ondo’s",
-    "url": "https://x.com/BSCNews/status/2112876606238699986",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112876339212525568/vid/avc1/1316x720/Yj-bGvPwMmSc51-E.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112876339212525568/img/Aurw6ntIQdIJ1eqg.jpg"
-    }
-  },
-  {
-    "id": "x-1792584133178-qgrtv6",
-    "source": "x",
-    "ts": "2026-10-21T12:02:13.178Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-21T11:55:52.000Z",
-    "reason": "Demonstrates the use case of Web3 in settlement without trust.",
-    "text": "JUST IN: BSCN has received an on-chain payout through @JoobEscrow, demonstrating how Web3 deals can be settled without either party having to trust the other.\n\nThe campaign payment was secured in an audited smart contract on BNB Chain before work began, then released upon",
-    "url": "https://x.com/BSCNews/status/2112875514520015099",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2112875491589783552/vid/avc1/1280x720/6xAMshasUwZK0K1T.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112875491589783552/img/L5KmZJXl6rRH7jYa.jpg"
-    }
-  },
-  {
     "id": "x-1792584138625-i5bijp",
     "source": "x",
     "ts": "2026-10-21T12:02:18.625Z",
@@ -7665,5 +7623,39 @@
       "https://pbs.twimg.com/media/HVV6Dl0WIAAHcl2.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792789043313-ymyejn",
+    "source": "x",
+    "ts": "2026-10-23T20:57:23.313Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-23T20:46:00.000Z",
+    "reason": "USDT movement exceeds combined activity of Tron and Ethereum on BNB Chain.",
+    "text": "USDT on BNB Chain moved more in a month than Tron and Ethereum combined\n\n$USDT on @BNBCHAIN recorded $3.69T across 471 million transfers over the past 30 days, about 2.5 times Tron and Ethereum combined, per rwa.​xyz.\n\nThe supply behind it is far smaller: $9.18B versus $92B on",
+    "url": "https://x.com/BSCNews/status/2113733700957380884",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113728522334187520/vid/avc1/1220x720/yzw2JE8uk1KlcyxZ.mp4?tag=29",
+      "duration": 15,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113728522334187520/img/eWRExfr0eiSX8MZm.jpg"
+    }
+  },
+  {
+    "id": "x-1792789048558-7o37it",
+    "source": "x",
+    "ts": "2026-10-23T20:57:28.558Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 22,
+    "originTimestamp": "2026-10-23T20:34:58.000Z",
+    "reason": "No notable crypto-related news or on-chain data points.",
+    "text": "Today was a big day for financial markets, here are the 8 headlines you need to know ↓\n\n1. The McRib is coming back soon (iykyk). \n\n2. The Fed purchased $3.653 billion in short term Treasury bills today.\n\n3. Brent crude oil soars above $116/barrel for the first time since May.",
+    "url": "https://x.com/coinbase/status/2113731294668669007"
   }
 ]
