@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1792583547186-737hpz",
-    "source": "x",
-    "ts": "2026-10-21T11:52:27.186Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-21T11:45:41.000Z",
-    "reason": "This could indicate regulatory or enforcement action affecting the crypto space.",
-    "text": "🇺🇸 JUST IN: Trump to highlight crackdown on overseas crypto scams targeting Americans today, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2112872951259287864",
-    "images": [
-      "https://pbs.twimg.com/media/HVJuvxDWoAIf_l0.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792584127917-wfibiy",
     "source": "x",
     "ts": "2026-10-21T12:02:07.917Z",
@@ -7665,5 +7647,23 @@
     "reason": "No notable move in ETH price.",
     "text": "ChainPatrol shows where scammers hunt crypto users, using Zebec’s numbers\n\n@ChainPatrol finds and blocks fake accounts, scam websites, and fake crypto wallets that copy crypto brands, feeding its blocklist into more than 20 wallets, including MetaMask and Phantom. Its clients",
     "url": "https://x.com/BSCNews/status/2113726151415730552"
+  },
+  {
+    "id": "x-1792787497303-cm98oz",
+    "source": "x",
+    "ts": "2026-10-23T20:31:37.303Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-23T20:30:31.000Z",
+    "reason": "Notable institutional liquidity event with specific data.",
+    "text": "🚨 UPDATE: Ethereum recorded net exchange outflows of roughly 169,770 $ETH, the largest in over four months, as traders watch the $2,400 level, according to Santiment.",
+    "url": "https://x.com/Cointelegraph/status/2113729805598244975",
+    "images": [
+      "https://pbs.twimg.com/media/HVV6Dl0WIAAHcl2.jpg"
+    ],
+    "video": null
   }
 ]
