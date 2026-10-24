@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792740789275-tnjcru",
-    "source": "x",
-    "ts": "2026-10-23T07:33:09.275Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-23T07:27:41.000Z",
-    "reason": "No notable move or specific event reported.",
-    "text": "@Finny215 Hi Finny215, sorry we are experiencing system downtime affecting M-Shwari services and resolution is underway. Kindly bear with us. ^WG",
-    "url": "https://x.com/Safaricom_Care/status/2113532799164559826"
-  },
-  {
-    "id": "x-1792740796281-e27ezu",
-    "source": "x",
-    "ts": "2026-10-23T07:33:16.281Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "PeckShieldAlert",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-23T07:26:50.000Z",
-    "reason": "Blockchain exploit involving stolen ETH and BNB detected",
-    "text": "#PeckShieldAlert The address labeled as the @cysic_xyz exploiter has deposited 300 $ETH (~$721.14K) and 30.4 $BNB (~$22.59K) into #TornadoCash.\n\nOn October 17, the Cysic cross-chain bridge suffered a security incident, with 10M base:0x19e8d59ff3d7a31289e0dc04db48d43b02c7ffa6",
-    "url": "https://x.com/PeckShieldAlert/status/2113532584588402877",
-    "images": [
-      "https://pbs.twimg.com/media/HVTGo9TbAAA57MQ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792740800787-jdoyvs",
     "source": "x",
     "ts": "2026-10-23T07:33:20.787Z",
@@ -7521,6 +7490,44 @@
     "images": [
       "https://pbs.twimg.com/media/HVbIjVpagAEjIWY.jpg",
       "https://pbs.twimg.com/media/HVbIjVob0AAFXIe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792883085264-7m9x43",
+    "source": "x",
+    "ts": "2026-10-24T23:04:45.264Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-24T23:00:53.000Z",
+    "reason": "Security breach involving customer data",
+    "text": "🚨 JUST IN: Hardware wallet maker Keystone says hackers got into its website and walked off with customer names, contact details, home addresses and order info. \n\nSeed phrases and keys weren't touched, but expect a wave of fake \"Keystone support\" scams.",
+    "url": "https://x.com/Cointelegraph/status/2114130034633916432",
+    "images": [
+      "https://pbs.twimg.com/media/HVbmDoGXQAA7a2G.png",
+      "https://pbs.twimg.com/media/HVbmD3SXYAE_3A4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792883089013-y20jug",
+    "source": "x",
+    "ts": "2026-10-24T23:04:49.013Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-24T22:56:49.000Z",
+    "reason": "Notable institutional investment in BTC",
+    "text": "NEW: $5.3 billion Cardone Capital bought 16 BTC worth $1.28 million on this dip! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2114129011752178077",
+    "images": [
+      "https://pbs.twimg.com/media/HVblIJEWgAEfGh4.jpg",
+      "https://pbs.twimg.com/media/HVblIcGXoAA5akg.jpg"
     ],
     "video": null
   }
