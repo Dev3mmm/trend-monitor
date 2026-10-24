@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1792620722867-qkpx7z",
-    "source": "x",
-    "ts": "2026-10-21T22:12:02.867Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-21T22:06:55.000Z",
-    "reason": "No notable crypto-related news or move described.",
-    "text": "Call me paranoid, but be extra careful visiting ANY web site in the next few days, as some web admins are not always up-to-date with security patches.\n\nTwo vulnerabilities (CVE-2026-109618 and CVE-2026-109619) reported for PHP, the web programming language, affecting servers",
-    "url": "https://x.com/cz_binance/status/2113029289155178716"
-  },
-  {
-    "id": "x-1792620726420-wh2fjh",
-    "source": "x",
-    "ts": "2026-10-21T22:12:06.420Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-21T22:02:00.000Z",
-    "reason": "Concrete price movement with specific level and significant price increase.",
-    "text": "JUST IN: Bitcoin climbs above $84,700, its HIGHEST level since October 7.\n\n$BTC is up over $2,000 from today's low of $82,535.",
-    "url": "https://x.com/coinbureau/status/2113028052422733843",
-    "images": [
-      "https://pbs.twimg.com/media/HVL2kjjaoAAz4t3.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792621342126-7coc0y",
-    "source": "x",
-    "ts": "2026-10-21T22:22:22.126Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-21T22:20:38.000Z",
-    "reason": "Potential regulatory and policy shift regarding crypto mentioned by a prominent figure.",
-    "text": "🇺🇸 UPDATE: President Trump never mentioned “crypto” at the White House cybercrime roundtable, instead referring to $1 billion frozen from foreign scammers as “cybercurrency.”",
-    "url": "https://x.com/Cointelegraph/status/2113032741700636802",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792621346962-133fxd",
     "source": "x",
     "ts": "2026-10-21T22:22:26.962Z",
@@ -7551,5 +7504,55 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113897464986001408/img/rTrumioR7FzNDl94.jpg"
     }
+  },
+  {
+    "id": "x-1792868535660-jwcvnq",
+    "source": "x",
+    "ts": "2026-10-24T19:02:15.660Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-24T19:00:56.000Z",
+    "reason": "Noise: Generic tweet without specific news or action.",
+    "text": "More crypto updates, conversations and insights: \n\nBeyond the headlines: \n\nThe conversation continues on Telegram 👇",
+    "url": "https://x.com/Cointelegraph/status/2114069647859298580"
+  },
+  {
+    "id": "x-1792868540773-tf6eob",
+    "source": "x",
+    "ts": "2026-10-24T19:02:20.773Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-24T19:00:02.000Z",
+    "reason": "Memes and predictions without factual claim",
+    "text": "🚨Chamath Palihapitiya believes Bitcoin will get hacked and go to ZERO.\n\nChamath says if AI is aimed at crypto, the obvious target would be \"Satoshi's wallet,\" to \"drain the wallet and then go short.\"\n\nWhat's your take?",
+    "url": "https://x.com/coinbureau/status/2114069420826108326",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2114058230460817408/vid/avc1/1280x720/Qu5muGKmyQb7QhbA.mp4?tag=29",
+      "duration": 65,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114058230460817408/img/Xip65WiEJeaDGuDK.jpg"
+    }
+  },
+  {
+    "id": "x-1792868547412-tlxr0s",
+    "source": "x",
+    "ts": "2026-10-24T19:02:27.412Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-24T18:57:53.000Z",
+    "reason": "Significant DeFi and stablecoin milestone with high-value enabled.",
+    "text": "🚨 TRON SETTLED $2.21 TRILLION IN STABLECOINS IN Q3 🚨\n\nAnd TRON's DeFi runs on Chainlink.\n→ Chainlink Data Feeds: TRON's official oracle (LIVE)\n→ TRON joined Chainlink Scale in Oct 2024\n→ Chainlink Total Value Enabled: $36.42T\n→ Scenario: 1% of TVE = $364B = $364 per $LINK",
+    "url": "https://x.com/BSCNews/status/2114068929765368154",
+    "images": [],
+    "video": null
   }
 ]
