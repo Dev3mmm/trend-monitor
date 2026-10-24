@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1792704868842-6m7xzg",
-    "source": "x",
-    "ts": "2026-10-22T21:34:28.842Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-22T21:10:42.000Z",
-    "reason": "Notable lawsuit involving high-profile figures in the crypto space.",
-    "text": "🚨 JUST IN: A new lawsuit accuses Trump and World Liberty Financial of illegally profiting from more than $2 billion in UAE-linked crypto deals.",
-    "url": "https://x.com/Cointelegraph/status/2113377532162572478",
-    "images": [
-      "https://pbs.twimg.com/media/HVQ5qaSW0AE7YJg.jpg",
-      "https://pbs.twimg.com/media/HVQ5ql3WoAAZc05.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792704873496-m2yejv",
-    "source": "x",
-    "ts": "2026-10-22T21:34:33.496Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-22T21:10:15.000Z",
-    "reason": "Hashrate jump is notable as it could indicate strong underlying interest in Bitcoin.",
-    "text": "JUST IN: Bitcoin's hashrate has jumped to its highest level in 7 months, despite some miners shifting to AI infrastructure! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2113377416554909842",
-    "images": [
-      "https://pbs.twimg.com/media/HVQ4MoOXcAIJcZR.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792704877678-bks16x",
-    "source": "x",
-    "ts": "2026-10-22T21:34:37.678Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 58,
-    "originTimestamp": "2026-10-22T20:35:18.000Z",
-    "reason": "Ad for a crypto trading platform.",
-    "text": "Your agent &lt;&gt; your Coinbase account.\n\nTrade crypto, stocks, and derivatives on the Everything Exchange - all from a single conversation.\n\nWorks with Claude, ChatGPT, Grok, Muse, and more.\n\nConnect your agent ↓",
-    "url": "https://x.com/coinbase/status/2113375768969674928"
-  },
-  {
     "id": "x-1792705929085-7xa4ho",
     "source": "x",
     "ts": "2026-10-22T21:52:09.085Z",
@@ -7632,5 +7582,56 @@
     "reason": "No notable move, price is well within its normal recent range.",
     "text": "@Bish311437 Hello there, sorry for the challenge. Please share your number via DM for us to have a look at your account and usage. ^JR",
     "url": "https://x.com/Safaricom_Care/status/2113906891801649418"
+  },
+  {
+    "id": "x-1792830716005-07jj8h",
+    "source": "x",
+    "ts": "2026-10-24T08:31:56.005Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-24T08:30:36.000Z",
+    "reason": "Vague opinion without factual claim or basis.",
+    "text": "🔥 QUESTION: Is Bitcoin heading to $1 million, and could crypto outperform AI stocks in the next bull market? \n\nWall Street veteran and Visser Labs founder Jordi Visser (@jvisserlabs) joins @itsciaranlyons on Trade Secrets to explain why he believes the crypto bull market is just",
+    "url": "https://x.com/Cointelegraph/status/2113911019781361735"
+  },
+  {
+    "id": "x-1792830721801-ngomxp",
+    "source": "x",
+    "ts": "2026-10-24T08:32:01.801Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-24T08:25:00.000Z",
+    "reason": "Significant retracement of token prices on Starknet and Celestia.",
+    "text": "Starknet and Celestia are retracing... Hard.\n\n@Starknet's $STRK token is down -30.1% on the week, retracing more than any other major crypto asset.\n\n@celestia's native token, however, is not far behind it, down -25.3% on the week at time of writing.",
+    "url": "https://x.com/BSCNews/status/2113909609937404345",
+    "images": [
+      "https://pbs.twimg.com/media/HVYSJltWEAAmmmC.jpg",
+      "https://pbs.twimg.com/media/HVYSJj2XkAAfBaf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792830728583-0bl3ny",
+    "source": "x",
+    "ts": "2026-10-24T08:32:08.583Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-24T08:24:14.000Z",
+    "reason": "Notable fund liquidation with significant altcoin positions sold.",
+    "text": "🚨MASSIVE: Arthur Hayes says “I DUMPED IT ALL” as Maelstrom liquidates roughly $22.3MILLION in altcoin positions.\n\nThe fund reportedly sold \n- 6,400 ETH ($15.2M), \n- 14M ENA ($2.76M), \n- 323,000 UNI ($2.24M),\n - and additional positions in ETHFI, AERO, PENDLE and ZAMA.\n\nThe move",
+    "url": "https://x.com/coinbureau/status/2113909417569898869",
+    "images": [
+      "https://pbs.twimg.com/media/HVYdUXOakAAH-lK.jpg",
+      "https://pbs.twimg.com/media/HVYdUXPbAAAwzDE.jpg"
+    ],
+    "video": null
   }
 ]
