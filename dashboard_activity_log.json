@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792695339824-7qnbjc",
-    "source": "x",
-    "ts": "2026-10-22T18:55:39.824Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-22T18:32:26.000Z",
-    "reason": "Noise: Generic announcement without notable move or event.",
-    "text": "@GeorgeAbwajo Apologies for the inconvenience,please allow us to follow up and advise.^TN",
-    "url": "https://x.com/Safaricom_Care/status/2113337700300239079"
-  },
-  {
-    "id": "x-1792695344578-6978rl",
-    "source": "x",
-    "ts": "2026-10-22T18:55:44.578Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 24,
-    "originTimestamp": "2026-10-22T18:30:44.000Z",
-    "reason": "Intensifying mining competition due to major miners shifting capacity to AI.",
-    "text": "⚡️ LATEST: Bitcoin’s hashrate hits a seven-month high above 1 ZH/s, intensifying mining competition despite major miners shifting capacity to AI.",
-    "url": "https://x.com/Cointelegraph/status/2113337272078586295",
-    "images": [
-      "https://pbs.twimg.com/media/HVQVC8LXMAA06_H.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792695348455-g7k3hg",
     "source": "x",
     "ts": "2026-10-22T18:55:48.455Z",
@@ -7687,5 +7656,39 @@
     "reason": "Noise: generic statement without content.",
     "text": "✌️",
     "url": "https://x.com/binance/status/2113802438733938941"
+  },
+  {
+    "id": "x-1792806652254-2dekd8",
+    "source": "x",
+    "ts": "2026-10-24T01:50:52.254Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-24T01:44:39.000Z",
+    "reason": "Notable government consideration of crypto for sanctions avoidance.",
+    "text": "🇮🇱 JUST IN: Israel's Prime Minister is considering crypto to get around possible banking sanctions.\n\nNetanyahu said Israel must prepare an economy that can bypass banking sanctions, and that he's working on currencies that get around them.\n\nOn blockchain, he said: \"One of them,",
+    "url": "https://x.com/coinbureau/status/2113808861211844925",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113808770241634304/vid/avc1/1280x720/EgMtJS3gdeHSZH3B.mp4?tag=29",
+      "duration": 62,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113808770241634304/img/tvSNeDb7SgETXSAA.jpg"
+    }
+  },
+  {
+    "id": "x-1792806656859-x9lrr3",
+    "source": "x",
+    "ts": "2026-10-24T01:50:56.859Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-24T01:43:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "The @aeroxyz platform has just undergone the biggest development in its multi-year history.\n\nIs it enough to turn $AERO into a true blue-chip asset? Here's what you need to know ⬇️",
+    "url": "https://x.com/BSCNews/status/2113808443350090167"
   }
 ]
