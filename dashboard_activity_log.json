@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792732250179-uhohcc",
-    "source": "x",
-    "ts": "2026-10-23T05:10:50.179Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-23T05:06:18.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "@Davidwainaina07 Hi David, responded. Please check. ^MD",
-    "url": "https://x.com/Safaricom_Care/status/2113497219332489395"
-  },
-  {
-    "id": "x-1792732254653-cs0ha0",
-    "source": "x",
-    "ts": "2026-10-23T05:10:54.653Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-23T05:03:16.000Z",
-    "reason": "No notable crypto-related event or use of crypto technology.",
-    "text": "🇨🇳BREAKING: Nearly ¥1.4 Trillion wiped out from Chinese stocks as Shanghai index continues to fall more than -2% to a fresh 52-WEEK LOW.\n\nThe selloff is being driven by fears of overstretched AI valuations, fading hopes for fresh Chinese stimulus and surging oil prices adding to",
-    "url": "https://x.com/coinbureau/status/2113496454585291000"
-  },
-  {
     "id": "x-1792732258460-248q5l",
     "source": "x",
     "ts": "2026-10-23T05:10:58.460Z",
@@ -7545,5 +7519,42 @@
     "reason": "No notable crypto-related event or news.",
     "text": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
     "url": "https://x.com/DecryptMedia/status/2114040161008816607"
+  },
+  {
+    "id": "x-1792863143284-2aifkp",
+    "source": "x",
+    "ts": "2026-10-24T17:32:23.284Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-24T17:30:51.000Z",
+    "reason": "Excessive staking could affect ETH price and liquidity.",
+    "text": "🔥 BIG: Over a third of all $ETH is now staked, hitting a record of roughly 36% of supply.\n\nHolders aren't selling, they're locking up.",
+    "url": "https://x.com/Cointelegraph/status/2114046980213051683",
+    "images": [
+      "https://pbs.twimg.com/media/HVaahH_W4AAr2UB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792863145848-5jkur8",
+    "source": "x",
+    "ts": "2026-10-24T17:32:25.848Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-24T17:30:00.000Z",
+    "reason": "New, significant change in token inflation rate.",
+    "text": "Aero's $AERO token much less inflationary than expected!\n\nFollowing the merge between @aeroxyz and Velodrome, the $AERO token's annualised inflation rate has been cut in half to around 6.6%.\n\nBefore the merge, $AERO's annual inflation stood at a massive 12%, and projections only",
+    "url": "https://x.com/BSCNews/status/2114046764835852800",
+    "images": [
+      "https://pbs.twimg.com/media/HVYSOD-XsAAu4sd.jpg",
+      "https://pbs.twimg.com/media/HVYSOD7XgAAdr_R.jpg"
+    ],
+    "video": null
   }
 ]
