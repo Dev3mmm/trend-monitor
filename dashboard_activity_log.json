@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792695348455-g7k3hg",
-    "source": "x",
-    "ts": "2026-10-22T18:55:48.455Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 28,
-    "originTimestamp": "2026-10-22T18:27:04.000Z",
-    "reason": "Noise: generic message without financial content.",
-    "text": "@GeorgeAbwajo Hi George,  apologies for any inconvenience. Allow us to follow up and get back to you. Manage your account at MySafaricomApp   ^PS",
-    "url": "https://x.com/Safaricom_Care/status/2113336349440806952"
-  },
-  {
-    "id": "x-1792593122548-amuw7m",
-    "source": "x",
-    "ts": "2026-10-21T14:32:02.548Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-21T14:27:12.000Z",
-    "reason": "Concrete, verifiable price milestone outside recent range.",
-    "text": "JUST IN: $84,003 Bitcoin 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2112913597793980538",
-    "images": [
-      "https://pbs.twimg.com/media/HVKTs_DWEAADe25.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792593126497-dx4ub8",
     "source": "x",
     "ts": "2026-10-21T14:32:06.497Z",
@@ -7688,6 +7657,40 @@
     "ageMin": 7,
     "originTimestamp": "2026-10-24T01:43:00.000Z",
     "reason": "No notable move, price is within its normal recent range.",
+    "text": "The @aeroxyz platform has just undergone the biggest development in its multi-year history.\n\nIs it enough to turn $AERO into a true blue-chip asset? Here's what you need to know ⬇️",
+    "url": "https://x.com/BSCNews/status/2113808443350090167"
+  },
+  {
+    "id": "x-1792806823572-oytzm7",
+    "source": "x",
+    "ts": "2026-10-24T01:53:43.572Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-24T01:44:39.000Z",
+    "reason": "Notable government consideration of crypto for sanctions avoidance",
+    "text": "🇮🇱 JUST IN: Israel's Prime Minister is considering crypto to get around possible banking sanctions.\n\nNetanyahu said Israel must prepare an economy that can bypass banking sanctions, and that he's working on currencies that get around them.\n\nOn blockchain, he said: \"One of them,",
+    "url": "https://x.com/coinbureau/status/2113808861211844925",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113808770241634304/vid/avc1/1280x720/EgMtJS3gdeHSZH3B.mp4?tag=29",
+      "duration": 62,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113808770241634304/img/tvSNeDb7SgETXSAA.jpg"
+    }
+  },
+  {
+    "id": "x-1792806827538-hsa527",
+    "source": "x",
+    "ts": "2026-10-24T01:53:47.538Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-24T01:43:00.000Z",
+    "reason": "No notable move or specific event described.",
     "text": "The @aeroxyz platform has just undergone the biggest development in its multi-year history.\n\nIs it enough to turn $AERO into a true blue-chip asset? Here's what you need to know ⬇️",
     "url": "https://x.com/BSCNews/status/2113808443350090167"
   }
