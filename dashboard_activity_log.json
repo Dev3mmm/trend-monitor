@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792705929085-7xa4ho",
-    "source": "x",
-    "ts": "2026-10-22T21:52:09.085Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-22T21:49:42.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "🚨 JUST IN: OpenAI is nearing a funding round of up to $30 billion at a $1.25 trillion valuation ahead of a potential IPO, CNBC reports.",
-    "url": "https://x.com/Cointelegraph/status/2113387345986621526"
-  },
-  {
-    "id": "x-1792705934933-i5dfzu",
-    "source": "x",
-    "ts": "2026-10-22T21:52:14.933Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-22T21:46:00.000Z",
-    "reason": "Notable institutional adoption of stablecoins and impact on trading volume.",
-    "text": "Pyth Network says round-the-clock stock trading is already here\n\n@PythNetwork, the solana:HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3 oracle network, said its price data powered more than $2T in trading volume on stocks, commodities, and currencies across offshore derivatives",
-    "url": "https://x.com/BSCNews/status/2113386412728783237",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113374212412854272/vid/avc1/1220x720/4T-iLnwLaMuR7wMd.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113374212412854272/img/QqYsWgjHYSc6sknt.jpg"
-    }
-  },
-  {
     "id": "x-1792707235008-thcp7l",
     "source": "x",
     "ts": "2026-10-22T22:13:55.008Z",
@@ -7633,5 +7599,31 @@
       "https://pbs.twimg.com/media/HVYdUXPbAAAwzDE.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792832516039-xsno52",
+    "source": "x",
+    "ts": "2026-10-24T09:01:56.039Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-24T09:00:06.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "but doc said i need more vitamin Bᶦⁿᵃⁿᶜᵉ",
+    "url": "https://x.com/binance/status/2113918445284683840"
+  },
+  {
+    "id": "x-1792832521106-jstt7s",
+    "source": "x",
+    "ts": "2026-10-24T09:02:01.106Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-24T09:00:03.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Murad Mahmudov: A Memecoin Could One Day Surpass Bitcoin and the Entire Stock Market in Market Cap\n\nProminent crypto investor Murad Mahmudov @MustStopMurad  predicted at TOKEN2049 Singapore 2026 on October 16 that a meme coin could one day surpass Bitcoin in market capitalization",
+    "url": "https://x.com/WuBlockchain/status/2113918429774086172"
   }
 ]
