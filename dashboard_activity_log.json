@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792695332401-vo6k97",
-    "source": "x",
-    "ts": "2026-10-22T18:55:32.401Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-22T18:47:00.000Z",
-    "reason": "Regulatory fine for Coinbase in Ireland",
-    "text": "Coinbase hit with its second Irish fine in under a year\n\nThe Central Bank of Ireland (@centralbank_ie) fined the Irish unit of @coinbase €3.25M after finding it let customer money mix with funds belonging to customers of other Coinbase companies from November 2020 to August",
-    "url": "https://x.com/BSCNews/status/2113341365757308981",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113331671919378432/vid/avc1/1220x720/f9143fRmh1zPVoj1.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113331671919378432/img/WP9B_2F5labxbMin.jpg"
-    }
-  },
-  {
     "id": "x-1792695336197-xs4jyu",
     "source": "x",
     "ts": "2026-10-22T18:55:36.197Z",
@@ -7693,5 +7672,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113548686034698240/img/XP0-iUkyKzqJGVVS.jpg"
     }
+  },
+  {
+    "id": "x-1792803745426-u0l2ee",
+    "source": "x",
+    "ts": "2026-10-24T01:02:25.426Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-24T01:00:50.000Z",
+    "reason": "New USDC minting event on Solana.",
+    "text": "⚡ NEW: Circle has minted another $250M $USDC on Solana.",
+    "url": "https://x.com/Cointelegraph/status/2113797832809292129",
+    "images": [
+      "https://pbs.twimg.com/media/HVW37NEWEAAhiaY.jpg"
+    ],
+    "video": null
   }
 ]
