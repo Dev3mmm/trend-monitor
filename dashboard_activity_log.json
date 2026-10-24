@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792716023338-3536aa",
-    "source": "x",
-    "ts": "2026-10-23T00:40:23.338Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-23T00:31:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Top US politicians praise the GENIUS Act's implementation.\n\nAfter the @USOCC finalised its statutory rulebook under the GENIUS Act, some of America's most prominent lawmakers were quick to add support.\n\nTreasury Secretary @SecScottBessent said the law helped keep America the",
-    "url": "https://x.com/BSCNews/status/2113427936326111481"
-  },
-  {
-    "id": "x-1792716028176-n5bi15",
-    "source": "x",
-    "ts": "2026-10-23T00:40:28.176Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-23T00:30:00.000Z",
-    "reason": "New use of a token/stablecoin for a non-traditional purpose",
-    "text": "⚡️ TODAY: Heatbit introduces Bitwater, a water heater element packed with 20 ASIC chips that mines Bitcoin while heating your tank.\n\nWould you mine Bitcoin from your water heater?",
-    "url": "https://x.com/Cointelegraph/status/2113427684709818632",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113299598865465344/vid/avc1/1280x720/79cGCIKrfr3qqzZx.mp4?tag=29",
-      "duration": 42,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113299598865465344/img/PYkP43yNzJEaftNo.jpg"
-    }
-  },
-  {
     "id": "x-1792716206832-4dm6u8",
     "source": "x",
     "ts": "2026-10-23T00:43:26.832Z",
@@ -7566,5 +7532,39 @@
     "url": "https://x.com/Cointelegraph/status/2113972157076423008",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1792846328688-19gw0m",
+    "source": "x",
+    "ts": "2026-10-24T12:52:08.688Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-24T12:47:00.000Z",
+    "reason": "New institutional partnership and integration into a major crypto platform.",
+    "text": "The Morpho x Robinhood collab just got even stronger.\n\n@Morpho has announced full support for @RobinhoodApp's tokenised stocks product on its platform.\n\nFollowing a key collab between $MORPHO and @RobinhoodCrypto Chain at its launch, users can now use Stock Tokens as collateral",
+    "url": "https://x.com/BSCNews/status/2113975544589238576",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113550851432214528/vid/avc1/1312x720/bHB5Yd9PtLdANvht.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113550851432214528/img/es68SNROAyz0pqpo.jpg"
+    }
+  },
+  {
+    "id": "x-1792846333212-071rp7",
+    "source": "x",
+    "ts": "2026-10-24T12:52:13.212Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-24T12:44:20.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "⚠️ ALERT: “HTTP2Shell” raises fresh concerns after the PHP warnings leaving Google’s Brotli compression library potentially vulnerable.\n\nDiscovered by OpenAI’s security team, CVE-2026-111497 affects software that decompresses malicious Brotli data, with risks extending beyond",
+    "url": "https://x.com/coinbureau/status/2113974876214047091"
   }
 ]
