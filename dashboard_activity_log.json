@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792704663162-y23evb",
-    "source": "x",
-    "ts": "2026-10-22T21:31:03.162Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-22T21:20:41.000Z",
-    "reason": "No notable move in oil prices, tweet lacks concrete price or move details.",
-    "text": "🇺🇸BREAKING: Trump OFFICIALLY invokes a national EMERGENCY to boost US oil as Brent hits $113.\n\nThe President has declared US oil production \"essential to the national defense.\"\n\nHis memo cites the national energy emergency from his first day back in office.\n\nUnder the memo:\n\n -",
-    "url": "https://x.com/coinbureau/status/2113380041250013312"
-  },
-  {
     "id": "x-1792704667550-c5f1e6",
     "source": "x",
     "ts": "2026-10-22T21:31:07.550Z",
@@ -7646,5 +7633,26 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🚨JUST IN: Amazon CEO Andy Jassy reveals AWS cloud capacity is largely SOLD OUT through 2027, with a significant chunk of 2028 already booked.\n\n$AMZN is the largest cloud provider globally and has risen to its highest level this year, up nearly 30% YTD. \n\nJassy says demand for AI",
     "url": "https://x.com/coinbureau/status/2113884142475620611"
+  },
+  {
+    "id": "x-1792826528115-5nb574",
+    "source": "x",
+    "ts": "2026-10-24T07:22:08.115Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-24T07:18:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Did Celestia just soft-launch another chain?!\n\nJust days ago, @celestia unveiled 'Eden' - a high-performance EVM test/sandbox environment launched on its modular blockchain network.\n\nRun in parallel with Celestia's primary L1, the chain is dedicated to testing and experimenting",
+    "url": "https://x.com/BSCNews/status/2113892749283905738",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113549797978230784/vid/avc1/1312x720/XU2CVg74fihW97C4.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113549797978230784/img/eI3iCcZre1_0NSZS.jpg"
+    }
   }
 ]
