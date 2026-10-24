@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792619558532-l2lig4",
-    "source": "x",
-    "ts": "2026-10-21T21:52:38.532Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-21T21:44:00.000Z",
-    "reason": "New Alpenglow consensus protocol introduces faster trade finality on Solana mainnet.",
-    "text": "Solana switches on Alpenglow, built to settle trades in a blink\n\nAlpenglow, a new consensus protocol built by Anza (@anza_xyz), went live on @solana mainnet today, replacing the TowerBFT system the $SOL network has run since launch. Anza says it is designed to cut finality from",
-    "url": "https://x.com/BSCNews/status/2113023521429344611",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113006913491202050/vid/avc1/1220x720/JdMjRGfKtMKF612t.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113006913491202050/img/XPtKtL2ql5TCRZ_x.jpg"
-    }
-  },
-  {
     "id": "x-1792620722867-qkpx7z",
     "source": "x",
     "ts": "2026-10-21T22:12:02.867Z",
@@ -7542,6 +7521,27 @@
     "ageMin": 8,
     "originTimestamp": "2026-10-24T18:42:00.000Z",
     "reason": "Specific institutional move with smart contract development.",
+    "text": "The Stellar Blockchain is going private!\n\nSmart contract development firm @OpenZeppelin has announced that contracts for @StellarOrg v0.8 are now live on its platform.\n\nThe update is exciting because it allows devs to add a confidential layer on top of any SEP-41 token,",
+    "url": "https://x.com/BSCNews/status/2114064883226730981",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113897464986001408/vid/avc1/1312x720/jN5iAqeUFj886Srv.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113897464986001408/img/rTrumioR7FzNDl94.jpg"
+    }
+  },
+  {
+    "id": "x-1792867957654-3vh6h2",
+    "source": "x",
+    "ts": "2026-10-24T18:52:37.654Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-24T18:42:00.000Z",
+    "reason": "Stellar is adopting confidential smart contracts on their platform.",
     "text": "The Stellar Blockchain is going private!\n\nSmart contract development firm @OpenZeppelin has announced that contracts for @StellarOrg v0.8 are now live on its platform.\n\nThe update is exciting because it allows devs to add a confidential layer on top of any SEP-41 token,",
     "url": "https://x.com/BSCNews/status/2114064883226730981",
     "images": [],
