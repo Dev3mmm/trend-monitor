@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792723877410-xiklo3",
-    "source": "x",
-    "ts": "2026-10-23T02:51:17.410Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CZ 🔶 BNB",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-23T02:49:57.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Everyone worried about AI hacking crypto, but the internet and banking systems rely on weaker encryption.\n\nThat said, AI doesn’t need to break Bitcoin’s cryptography to cause damage, leaked data already enables more phishing, social engineering, etc, \n\nStay SAFU!",
-    "url": "https://x.com/cz_binance/status/2113462904435642556",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792724453944-qdmpts",
-    "source": "x",
-    "ts": "2026-10-23T03:00:53.944Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-23T03:00:02.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "who let the ₿ out?",
-    "url": "https://x.com/binance/status/2113465441813139665"
-  },
-  {
     "id": "x-1792724456548-2pnhq9",
     "source": "x",
     "ts": "2026-10-23T03:00:56.548Z",
@@ -7552,5 +7523,36 @@
     "reason": "Noise: generic irrelevant tweet.",
     "text": "Try Grok @Bot",
     "url": "https://x.com/elonmusk/status/2113996858842563006"
+  },
+  {
+    "id": "x-1792852962015-eykd4s",
+    "source": "x",
+    "ts": "2026-10-24T14:42:42.015Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-24T14:38:51.000Z",
+    "reason": "The tweet provides specific, actionable information about a significant price movement and financial impact in the crypto market.",
+    "text": "🚨ALERT: Bitcoin dips below $80,000 for the first time since October 15.\n\n$219 MILLION in crypto longs wiped out in the past hour.\n\nThe biggest single liquidation in the past 24 hours was an $11.84 MILLION $BTC long, per CoinGlass.",
+    "url": "https://x.com/coinbureau/status/2114003694085890083",
+    "images": [
+      "https://pbs.twimg.com/media/HVZzJwwbMAA9aHA.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792852965595-t0qh0p",
+    "source": "x",
+    "ts": "2026-10-24T14:42:45.595Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-24T14:35:40.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🇯🇵 HUGE: Japan’s 20-year bond auction draws RECORD demand as higher yields lure investors back.\n\nThe October 20 sale attracted bids worth 5.84 TIMES the amount offered, crushing the previous auction’s 4.01 ratio and the 12-month average of 3.73, per Bloomberg.\n\nWith an average",
+    "url": "https://x.com/coinbureau/status/2114002892864536587"
   }
 ]
