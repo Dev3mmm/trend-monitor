@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792738338336-0yrf04",
-    "source": "x",
-    "ts": "2026-10-23T06:52:18.336Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-23T06:50:37.000Z",
-    "reason": "Ad request without verification",
-    "text": "@grey_254 Hey grey_254, thank you for contacting us this morning.  To enable us check and advise, kindly share via DM \n your phone number, full names, ID number , year of birth and amount we check and advise.^HM",
-    "url": "https://x.com/Safaricom_Care/status/2113523469786759434"
-  },
-  {
     "id": "x-1792738933197-olclgj",
     "source": "x",
     "ts": "2026-10-23T07:02:13.197Z",
@@ -7513,5 +7500,18 @@
     "reason": "Noise: Generic inquiry without substantive content.",
     "text": "@MagnitoOmar Hello @MagnitoOmar, Apologies for that. Kindly DM us the affected number, registered name, ID and year of birth we check and advise. ^AC",
     "url": "https://x.com/Safaricom_Care/status/2114098869906637092"
+  },
+  {
+    "id": "x-1792876387362-o79pn1",
+    "source": "x",
+    "ts": "2026-10-24T21:13:07.362Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-24T21:03:00.000Z",
+    "reason": "No notable move or breaking news, the tweet is mostly an update about a past event.",
+    "text": "Pavel Durov's takeover of solana:WKMZummev5UcXz5nNKQZvTD6QjNSM2X58uwmDReondo has failed...?\n\n@telegram founder Pavel Durov effectively took over the @ton_blockchain platform in May of this year, much to the exciting of the now- the-open-network:native community.\n\nHowever, since",
+    "url": "https://x.com/BSCNews/status/2114100367516459119"
   }
 ]
