@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792649534351-90xlta",
-    "source": "x",
-    "ts": "2026-10-22T06:12:14.351Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-22T06:04:32.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "BREAKING: China’s stock market has officially entered BEAR MARKET, wiping out ¥12 TRILLION ($1.75T) since its June peak.\n\nThe CSI 300, which tracks China’s 300 largest companies, has now crashed 20% from its June peak, officially putting the index in a bear market.\n\nThe index is",
-    "url": "https://x.com/coinbureau/status/2113149483991351598"
-  },
-  {
-    "id": "x-1792650139465-ts1tmr",
-    "source": "x",
-    "ts": "2026-10-22T06:22:19.465Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-22T06:18:31.000Z",
-    "reason": "No notable move in Binance's disclosure of a security vulnerability.",
-    "text": "Binance is committed to protecting our users and platform. Following the disclosure of a PHP security vulnerability, our security teams implemented proactive safeguards ahead of the official patch release and completed the necessary remediation.\n\nWe continue to monitor",
-    "url": "https://x.com/binance/status/2113153006007128464"
-  },
-  {
     "id": "x-1792743247334-y2gwfg",
     "source": "x",
     "ts": "2026-10-23T08:14:07.334Z",
@@ -7514,6 +7488,38 @@
     "images": [
       "https://pbs.twimg.com/media/HVYbc-rXwAAtgJC.jpg",
       "https://pbs.twimg.com/media/HVYbc-gWIAAnk7H.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792897354616-h246q3",
+    "source": "x",
+    "ts": "2026-10-25T03:02:34.616Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-25T03:00:03.000Z",
+    "reason": "Noise: Generic vague statement without factual content.",
+    "text": "brb he'll be covering me.",
+    "url": "https://x.com/binance/status/2114190221629612257"
+  },
+  {
+    "id": "x-1792897359476-zo2mrf",
+    "source": "x",
+    "ts": "2026-10-25T03:02:39.476Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-25T02:56:17.000Z",
+    "reason": "Notable regulatory stance on crypto use for sanctions avoidance.",
+    "text": "Bank of Israel Rejects Netanyahu’s Proposal to Use Crypto to Evade Potential International Financial Sanctions\n\nAccording to the Financial Times, the Bank of Israel publicly rejected Prime Minister Benjamin Netanyahu’s proposal to use cryptocurrencies to circumvent potential",
+    "url": "https://x.com/WuBlockchain/status/2114189273381662875",
+    "images": [
+      "https://pbs.twimg.com/media/HVcb7mXbUAECH6a.jpg",
+      "https://pbs.twimg.com/media/HVcb7mlagAAmars.png"
     ],
     "video": null
   }
