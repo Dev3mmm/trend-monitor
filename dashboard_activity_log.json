@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792753968057-vrgnju",
-    "source": "x",
-    "ts": "2026-10-23T11:12:48.057Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-23T10:57:00.000Z",
-    "reason": "THORChain upgrade expected to bring network fixes and restore full functionality.",
-    "text": "Massive THORChain upgrade expected today!\n\n@THORChain's upgrade V3.21 is expected to go live today, October 23, at a halt height of 28,366,100.\n\nAccording to THORChain itself, the upgrade will bring \"a ton of network fixes\", effectively restoring the network to full",
-    "url": "https://x.com/BSCNews/status/2113585474371522655",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113573202014146560/vid/avc1/1312x720/TM76lYMaQ5WQGPuX.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113573202014146560/img/LQqsR1aPQ7cz-eCe.jpg"
-    }
-  },
-  {
     "id": "x-1792753970611-em98u3",
     "source": "x",
     "ts": "2026-10-23T11:12:50.611Z",
@@ -7518,6 +7497,24 @@
     "text": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
     "url": "https://x.com/DecryptMedia/status/2114387498361057548",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1792945927705-jbufu4",
+    "source": "x",
+    "ts": "2026-10-25T16:32:07.705Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-25T16:30:54.000Z",
+    "reason": "Notable and significant price drop within a short period.",
+    "text": "🔥 LATEST: $ETH has lost $54B in market cap in under three weeks, down about 15%.\n\nAnalyst Darkfost thinks the flush may be nearly done. Last time OI dropped like this in July, $ETH ripped 32%.",
+    "url": "https://x.com/Cointelegraph/status/2114394280248644025",
+    "images": [
+      "https://pbs.twimg.com/media/HVfWYgaWoAAdsCw.jpg"
+    ],
     "video": null
   }
 ]
