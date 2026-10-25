@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792750952146-hnm8l8",
-    "source": "x",
-    "ts": "2026-10-23T10:22:32.146Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 31,
-    "originTimestamp": "2026-10-23T09:51:16.000Z",
-    "reason": "No notable news or move, just a personal update about a tool.",
-    "text": "我把思路在整理一下：\n\n0. 这个工具是接入了期权交易所的 API ，目前来看 Deribit 的期权是深度最好的，不过 Deribit 现在正在和 Coinbase 整合，正好以后应该就可以直接在 Coinbase 开单了。所以需要在 Deribit 或者 Coinbase 存放资金。\n\n1. 目前测试接入的是在 Binance 以及 Binance",
-    "url": "https://x.com/PhyrexNi/status/2113574728552333716"
-  },
-  {
     "id": "x-1792750958672-srp0jv",
     "source": "x",
     "ts": "2026-10-23T10:22:38.672Z",
@@ -7515,5 +7502,18 @@
       "https://pbs.twimg.com/media/HVeSyNIbYAA24eB.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792929757737-p571fp",
+    "source": "x",
+    "ts": "2026-10-25T12:02:37.737Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-25T12:00:05.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "my laptop needed this walk",
+    "url": "https://x.com/binance/status/2114326125585240399"
   }
 ]
