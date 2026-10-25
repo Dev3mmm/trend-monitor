@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792664578451-pkv2ti",
-    "source": "x",
-    "ts": "2026-10-22T10:22:58.451Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-22T10:12:16.000Z",
-    "reason": "Nothing substantive in the tweet.",
-    "text": "@phredrick_kiddy Hi phredrick_kiddy, responding shortly. ^MS",
-    "url": "https://x.com/Safaricom_Care/status/2113211830684332335"
-  },
-  {
     "id": "x-1792665128551-hs0u8q",
     "source": "x",
     "ts": "2026-10-22T10:32:08.551Z",
@@ -7518,5 +7505,18 @@
       "https://pbs.twimg.com/media/HVe2SE6XcAAeVQC.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792941728830-1lqi4r",
+    "source": "x",
+    "ts": "2026-10-25T15:22:08.830Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 19,
+    "originTimestamp": "2026-10-25T15:02:41.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "The best way to use Grok @Bot is assume you are hiring a super competent employee",
+    "url": "https://x.com/elonmusk/status/2114375896073216334"
   }
 ]
