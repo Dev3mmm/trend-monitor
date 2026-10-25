@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792752707061-7jevgv",
-    "source": "x",
-    "ts": "2026-10-23T10:51:47.061Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-23T10:41:00.000Z",
-    "reason": "On-chain data point and institutional usage, but not typically breaking news scope.",
-    "text": "Tron and Solana are the revenue kings...\n\nGlobal blockchain networks earn $17.51M in fees each week, with three chains taking over 70% of the earnings.\n\n@trondao leads with $5.56M (32% market share) thanks to sustained cross-border $USDT velocity.\n\n@Solana's high-throughput",
-    "url": "https://x.com/BSCNews/status/2113581447701553636",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113578445321973760/vid/avc1/1316x720/5ifusjBzdRAn4cau.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113578445321973760/img/RUg279FJxeYCp54j.jpg"
-    }
-  },
-  {
     "id": "x-1792752710783-5ex1gb",
     "source": "x",
     "ts": "2026-10-23T10:51:50.783Z",
@@ -7513,5 +7492,24 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "You own crypto, so you can explain how a blockchain works right?",
     "url": "https://x.com/coinbase/status/2114331673898696970"
+  },
+  {
+    "id": "x-1792932165154-piboa3",
+    "source": "x",
+    "ts": "2026-10-25T12:42:45.154Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-25T12:40:21.000Z",
+    "reason": "Government block on a major AI platform in a major European country",
+    "text": "🇸🇪 TOMORROW: Sweden’s government officially blocks ChatGPT and Claude on staff computers.\n\nIn an email to SVT, the government confirmed the block takes effect October 26.\n\nStaff are being directed to Microsoft’s Copilot instead, an approved tool whose security the government",
+    "url": "https://x.com/coinbureau/status/2114336259564798413",
+    "images": [
+      "https://pbs.twimg.com/media/HVehhskbIAAYP07.png",
+      "https://pbs.twimg.com/media/HVehneAawAALDn5.png"
+    ],
+    "video": null
   }
 ]
