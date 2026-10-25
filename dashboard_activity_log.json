@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792656954612-7u0vso",
-    "source": "x",
-    "ts": "2026-10-22T08:15:54.612Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-22T08:03:50.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "DFINITY Founder Takes Aim at NEAR’s Privacy Claims\n\nDFINITY (@dfinity) $ICP founder Dominic Williams (@dominic_w) says a PhD engineer’s review raised questions about Near (@NEARProtocol) $NEAR Confidential Intents.\n\nWilliams shared the engineer’s assessment, alleging the system",
-    "url": "https://x.com/BSCNews/status/2113179509759562036"
-  },
-  {
     "id": "x-1792748336408-twb1iq",
     "source": "x",
     "ts": "2026-10-23T09:38:56.408Z",
@@ -7517,5 +7504,26 @@
       "https://pbs.twimg.com/media/HVYlYMSWMAAtPxD.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792915326603-c97dep",
+    "source": "x",
+    "ts": "2026-10-25T08:02:06.603Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-25T08:00:55.000Z",
+    "reason": "Price move of Brent crude well outside its recent range.",
+    "text": "🇺🇸 Trump claims the US is making a “freaking fortune” from high oil prices.\n\nThe US president says the country is making “hundreds of billions of dollars because of what’s happened in the Middle East.”\n\nBrent crude price:\n\nBefore the Iran war: $72\n\nNow: $117 (up over 60%)",
+    "url": "https://x.com/coinbureau/status/2114265938434683115",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2114265860240261120/vid/avc1/1284x720/9TDxvQLDxsCuujzz.mp4?tag=29",
+      "duration": 113,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114265860240261120/img/vsiwN5EZbvcvjmKa.jpg"
+    }
   }
 ]
