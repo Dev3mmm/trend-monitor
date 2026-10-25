@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792752710783-5ex1gb",
-    "source": "x",
-    "ts": "2026-10-23T10:51:50.783Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-23T10:37:30.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "@AkokoElly Hello @AkokoElly. We are sorry for the late response. We are on it. ^CR",
-    "url": "https://x.com/Safaricom_Care/status/2113580567207739539"
-  },
-  {
     "id": "x-1792752714333-roqcpx",
     "source": "x",
     "ts": "2026-10-23T10:51:54.333Z",
@@ -7509,6 +7496,24 @@
     "images": [
       "https://pbs.twimg.com/media/HVehhskbIAAYP07.png",
       "https://pbs.twimg.com/media/HVehneAawAALDn5.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792935158609-ar5nrq",
+    "source": "x",
+    "ts": "2026-10-25T13:32:38.609Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-25T13:31:46.000Z",
+    "reason": "Exploit involving a significant loss from a previous hack.",
+    "text": "🚨 REKT: CoinDCX now confirms a $15.99M loss from old wallets it said were retired after last year's hack.",
+    "url": "https://x.com/Cointelegraph/status/2114349198992617863",
+    "images": [
+      "https://pbs.twimg.com/media/HVetZC2WYAA1zP-.png"
     ],
     "video": null
   }
