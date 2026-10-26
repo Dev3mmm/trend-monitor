@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791473635112-ojq96v",
-    "x-1791474165169-9i12tn",
     "x-1791474176402-h8ynz2",
     "x-1791474742333-8rn3r7",
     "x-1791474748374-xknwup",
@@ -1999,18 +1997,11 @@
     "x-1793029035219-vusvcy",
     "x-1793029317629-3cf7ri",
     "x-1793029941672-nchqs4",
-    "x-1793030540218-2nnqzx"
+    "x-1793030540218-2nnqzx",
+    "x-1793031807331-e5fw11",
+    "x-1793031816409-aq8k63"
   ],
   "queue": [
-    {
-      "text": "🚨ALERT: Bitcoin falls below $80,000 during U.S. stock market open.",
-      "url": "https://x.com/coinbureau/status/2114716092983836872",
-      "images": [
-        "https://pbs.twimg.com/media/HVj6ZJ0aEAADpdB.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793022764368
-    },
     {
       "text": "🇺🇸 NEW: The US OCC urges US community banks to explore becoming permitted payment stablecoin issuers.",
       "url": "https://x.com/Cointelegraph/status/2114715122895585676",
@@ -2604,7 +2595,16 @@
       "at": 1793029944274,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381496443275882?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨ALERT: Bitcoin falls below $80,000 during U.S. stock market open.",
+      "final": "🚨ALERT: Bitcoin falls below $80,000 during U.S. stock market open.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HVj6ZJ0aEAADpdB.jpg"
+      ],
+      "at": 1793031816923,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793029944274
+  "lastPostAt": 1793031816923
 }
