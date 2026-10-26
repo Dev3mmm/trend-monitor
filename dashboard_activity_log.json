@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1792765941764-xs6zkv",
-    "source": "x",
-    "ts": "2026-10-23T14:32:21.764Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-23T14:25:08.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "@ShemNderitu1 Hi ShemNderitu, we are experiencing issues with MShwari services but resolution is underway. Sorry for the inconveniences caused. ^KP",
-    "url": "https://x.com/Safaricom_Care/status/2113637855213809974"
-  },
-  {
-    "id": "x-1792766520534-9rriwy",
-    "source": "x",
-    "ts": "2026-10-23T14:42:00.534Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-23T14:37:21.000Z",
-    "reason": "No notable move or specific event identified.",
-    "text": "China is going onchain but may not support XRP and other assets... \n\nChina aims to establish its national blockchain network by 2030 under the 15th Five-Year Plan for National Informatization. \n\nUnder the plan, distribution nodes are being created around business centers and will",
-    "url": "https://x.com/BSCNews/status/2113640928132903068"
-  },
-  {
-    "id": "x-1792767700133-grfegs",
-    "source": "x",
-    "ts": "2026-10-23T15:01:40.133Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-23T15:01:03.000Z",
-    "reason": "No notable crypto-related news or movement detected.",
-    "text": "🇺🇸 TODAY: The US Department of War releases its seventh batch of declassified UFO files, with more disclosures planned.",
-    "url": "https://x.com/Cointelegraph/status/2113646892873597202"
-  },
-  {
     "id": "x-1792768938706-zyf618",
     "source": "x",
     "ts": "2026-10-23T15:22:18.706Z",
@@ -7576,5 +7537,57 @@
     "reason": "No notable crypto-related event or move described.",
     "text": "Over 800,000 government jobs have been cut or slated for cuts:\n\n1. US: -256,000\n2. Pakistan: -150,000\n3. Vietnam: -128,000\n4. Argentina: -77,500\n5. Sri Lanka: -50,000\n6. El Salvador: -47,100\n7. Canada: -40,000\n8. Romania: -31,200\n9. Netherlands: -25,000\n10. UK: -10,000\n11. New",
     "url": "https://x.com/coinbureau/status/2114671641108394089"
+  },
+  {
+    "id": "x-1792765338497-k66qff",
+    "source": "x",
+    "ts": "2026-10-23T14:22:18.497Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-23T14:18:52.000Z",
+    "reason": "No notable crypto-related news or movement is mentioned.",
+    "text": "The world is preparing for the internet to SHUT DOWN.\n\nYesterday, the UK government urged households to keep 3 days of food, water and cash at home.\n\nAmong the risks are CYBERATTACKS that could disrupt power, internet access and card payments.\n\nAnd this week showed how quickly",
+    "url": "https://x.com/coinbureau/status/2113636278428385785"
+  },
+  {
+    "id": "x-1792765343213-m2bgzn",
+    "source": "x",
+    "ts": "2026-10-23T14:22:23.213Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-23T14:12:06.000Z",
+    "reason": "Specific institutional statement about Bitcoin's role and development.",
+    "text": "JUST IN: The world's largest derivatives exchange CME Group says Bitcoin primarily functions as a decentralized store of value 👀\n\n\"The asset is maturing along distinct economic, functional, and regulatory paths\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2113634575507431861",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2113634543492075520/vid/avc1/1280x720/tGwKKI-ViscbKHeG.mp4?tag=29",
+      "duration": 16,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HVUjfIgWIAAwILo.jpg"
+    }
+  },
+  {
+    "id": "x-1792765937833-gfxepi",
+    "source": "x",
+    "ts": "2026-10-23T14:32:17.833Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CryptoNewsLive",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-23T14:26:41.000Z",
+    "reason": "Notable on-chain data point with specific price and technical analysis reference.",
+    "text": "$DOGE traded at 0.0803 on Binance spot at 11:00 UTC on Friday Oct 23. It has given back about two thirds of the Aug 1 to Sep 22 rally and sits between the 0.618 line (0.0823) and the 0.786 line (0.0758). Full TA breakdown in this thread:",
+    "url": "https://x.com/CryptoNwsOrg/status/2113638245049553073",
+    "images": [
+      "https://pbs.twimg.com/media/HVUmxk2WwAAWMAd.jpg"
+    ],
+    "video": null
   }
 ]
