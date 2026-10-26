@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1791450729514-f1yyrg",
-    "x-1791450731850-90maci",
-    "x-1791451447445-17le2p",
     "x-1791451942128-0ztt72",
     "x-1791452565208-p88e06",
     "x-1791453302125-jhspby",
@@ -1999,18 +1996,12 @@
     "x-1793015043949-0qnmv6",
     "x-1793015352047-zv83zc",
     "x-1793015356937-0sz1hp",
-    "x-1793015360657-nvm0s8"
+    "x-1793015360657-nvm0s8",
+    "x-1793016818023-v5yicw",
+    "x-1793016821894-e0s3su",
+    "x-1793016828763-cfpdod"
   ],
   "queue": [
-    {
-      "text": "🔥 LATEST: Tokenized equities on Solana now have a record 1.5M holders.",
-      "url": "https://x.com/Cointelegraph/status/2114673702767939976",
-      "images": [
-        "https://pbs.twimg.com/media/HVjUhZ4WwAAWXOK.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793012829290
-    },
     {
       "text": "⚡️ INSIGHT: Seeing a DeFi vault’s transactions doesn’t reveal how it may behave under stress.\n\nJames Wiemken of @SPGlobalRatings explains why assessing governance and controls is key to moving from transaction transparency to risk transparency.",
       "url": "https://x.com/Cointelegraph/status/2114683543918149878",
@@ -2022,6 +2013,16 @@
         "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114681585555623937/img/AF5RN700rQWjt8f1.jpg"
       },
       "enqueuedAt": 1793015361293
+    },
+    {
+      "text": "🔥 JUST IN: Strive acquires 6,182 $BTC, bringing its total holdings to 43,000 Bitcoin.",
+      "url": "https://x.com/Cointelegraph/status/2114690303160439245",
+      "images": [
+        "https://pbs.twimg.com/media/HVjjnsrWwAAiEVz.png",
+        "https://pbs.twimg.com/media/HVjjn4NWMAAX2g0.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793016835799
     }
   ],
   "posted": [
@@ -2488,7 +2489,16 @@
       "at": 1793015044813,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381435314933523?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 LATEST: Tokenized equities on Solana now have a record 1.5M holders.",
+      "final": "🔥 LATEST: Tokenized equities on Solana now have a record 1.5M holders.\n\n#Solana $SOL",
+      "images": [
+        "https://pbs.twimg.com/media/HVjUhZ4WwAAWXOK.png"
+      ],
+      "at": 1793016835799,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793015044813
+  "lastPostAt": 1793016835799
 }
