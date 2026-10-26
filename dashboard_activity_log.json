@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1792861958054-8em00b",
-    "source": "x",
-    "ts": "2026-10-24T17:12:38.054Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-24T17:03:46.000Z",
-    "reason": "No notable crypto-related event or news.",
-    "text": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
-    "url": "https://x.com/DecryptMedia/status/2114040161008816607"
-  },
-  {
-    "id": "x-1792863143284-2aifkp",
-    "source": "x",
-    "ts": "2026-10-24T17:32:23.284Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-24T17:30:51.000Z",
-    "reason": "Excessive staking could affect ETH price and liquidity.",
-    "text": "🔥 BIG: Over a third of all $ETH is now staked, hitting a record of roughly 36% of supply.\n\nHolders aren't selling, they're locking up.",
-    "url": "https://x.com/Cointelegraph/status/2114046980213051683",
-    "images": [
-      "https://pbs.twimg.com/media/HVaahH_W4AAr2UB.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792863145848-5jkur8",
-    "source": "x",
-    "ts": "2026-10-24T17:32:25.848Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-24T17:30:00.000Z",
-    "reason": "New, significant change in token inflation rate.",
-    "text": "Aero's $AERO token much less inflationary than expected!\n\nFollowing the merge between @aeroxyz and Velodrome, the $AERO token's annualised inflation rate has been cut in half to around 6.6%.\n\nBefore the merge, $AERO's annual inflation stood at a massive 12%, and projections only",
-    "url": "https://x.com/BSCNews/status/2114046764835852800",
-    "images": [
-      "https://pbs.twimg.com/media/HVYSOD-XsAAu4sd.jpg",
-      "https://pbs.twimg.com/media/HVYSOD7XgAAdr_R.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792863730084-hks2fv",
     "source": "x",
     "ts": "2026-10-24T17:42:10.084Z",
@@ -7751,5 +7701,50 @@
     "reason": "Vague comparison without specific evidence or action.",
     "text": "🔥 REMEMBER: Bitcoin is less volatile than Oracle, Coinbase, Honeywell and Sandisk, according to Grayscale.",
     "url": "https://x.com/Cointelegraph/status/2114832143201280137"
+  },
+  {
+    "id": "x-1793051324438-9j97by",
+    "source": "x",
+    "ts": "2026-10-26T21:48:44.438Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-26T21:47:15.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+    "url": "https://x.com/DecryptMedia/status/2114836279309279536"
+  },
+  {
+    "id": "x-1793051330501-hgwlr4",
+    "source": "x",
+    "ts": "2026-10-26T21:48:50.501Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-26T21:45:00.000Z",
+    "reason": "Osmosis stops printing new tokens and reduces supply.",
+    "text": "Osmosis stops printing new OSMO\n\n@osmosis has switched off $OSMO inflation, and today’s daily epoch minted zero new tokens, down from 91,324 a day. Proposal 1053 passed with a 91.1% yes vote. The daily release of developer tokens is also paused, leaving about 51.9M OSMO in place",
+    "url": "https://x.com/BSCNews/status/2114835712365441345",
+    "images": [
+      "https://pbs.twimg.com/media/HVlablzWsAAkkh2.jpg",
+      "https://pbs.twimg.com/media/HVlaeVVXcAAqE5A.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793051335100-x4lbm1",
+    "source": "x",
+    "ts": "2026-10-26T21:48:55.100Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 13,
+    "originTimestamp": "2026-10-26T21:35:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: Ripple now lets businesses earn returns on idle cash 24/7, even on weekends.\n\nThe new 24/7 Returns feature puts unused operating cash to work when banks are closed.\n\nEligible Ripple Treasury customers can use qualifying digital assets held in a Ripple wallet, including",
+    "url": "https://x.com/coinbureau/status/2114833195959300246"
   }
 ]
