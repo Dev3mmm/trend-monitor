@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792850598858-owbf0l",
-    "source": "x",
-    "ts": "2026-10-24T14:03:18.858Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-24T13:58:35.000Z",
-    "reason": "No notable move or specific event in stocks or short positions is mentioned.",
-    "text": "🇺🇸 A short squeeze brewing in U.S. stocks?\n\nHedge-fund short positions on Goldman Sachs’ books are higher than 99% of readings over the past five years, prompting the bank to flag a “short squeeze risk.”\n\nFunds sold $5 of stocks short for every $1 they bought this month, while",
-    "url": "https://x.com/coinbureau/status/2113993560311701891"
-  },
-  {
-    "id": "x-1792850604540-n3b6wr",
-    "source": "x",
-    "ts": "2026-10-24T14:03:24.540Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-24T13:58:00.000Z",
-    "reason": "New L1 network launch could be significant for LayerZero ecosystem.",
-    "text": "The biggest launch in LayerZero's history is coming November 30.\n\nOn November 30, in just over a month's time, @LayerZero_Core new L1 network 'Zero' and the network's flagship application, lzATLAS, will launch.\n\nThe launch, if successful and popular, could serve as a huge boost",
-    "url": "https://x.com/BSCNews/status/2113993413066477643",
-    "images": [
-      "https://pbs.twimg.com/media/HVU7qHPWcAAahy5.jpg",
-      "https://pbs.twimg.com/media/HVU7qKPWEAA7bBF.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792850609870-hretbv",
     "source": "x",
     "ts": "2026-10-24T14:03:29.870Z",
@@ -7713,6 +7681,35 @@
     "ageMin": 19,
     "originTimestamp": "2026-10-26T19:32:15.000Z",
     "reason": "Newsworthy cybersecurity incident involving AI systems",
+    "text": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+    "url": "https://x.com/DecryptMedia/status/2114802304838779094",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793044506619-hfdlxo",
+    "source": "x",
+    "ts": "2026-10-26T19:55:06.619Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-26T19:50:00.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Pakistan and DFINITY are back at the table, this time over AI\n\nPakistan Digital Authority (@digitalauthpk) chair Dr. Sohail Munir (@sohailmunir) met in Dubai today with @dfinity founder Dominic Williams (@dominic_w) and business chief Pierre Samaties (@PierreSamaties). They",
+    "url": "https://x.com/BSCNews/status/2114806771797672345"
+  },
+  {
+    "id": "x-1793044511338-nj60pb",
+    "source": "x",
+    "ts": "2026-10-26T19:55:11.338Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 22,
+    "originTimestamp": "2026-10-26T19:32:15.000Z",
+    "reason": "Notable security exploit involving a major AI research organization.",
     "text": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
     "url": "https://x.com/DecryptMedia/status/2114802304838779094",
     "images": [],
