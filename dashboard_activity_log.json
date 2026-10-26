@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1792676164830-sb2mpd",
-    "source": "x",
-    "ts": "2026-10-22T13:36:04.830Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-22T13:29:43.000Z",
-    "reason": "Record-breaking tokenized lending with $RLUSD on Flare Network.",
-    "text": "Flare FXRP Sets Record with Tokens Backing RLUSD Loans\n\n@FlareNetworks has generated a record $8.77M in total loans of @Ripple's $RLUSD stablecoin, secured by tokenized $FXRP on @Morpho. \n\nThis represents a 24.73% growth over 30 days. \n\nOn-chain lending data shows users have",
-    "url": "https://x.com/BSCNews/status/2113261521178394679",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113260506920136704/vid/avc1/1316x720/AN1VGD7S19BsPotS.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113260506920136704/img/m3ChPqLHZY0G5arY.jpg"
-    }
-  },
-  {
-    "id": "x-1792676649641-dsqcxf",
-    "source": "x",
-    "ts": "2026-10-22T13:44:09.641Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "ZachXBT",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-22T13:42:49.000Z",
-    "reason": "Potential security and trust issues in a major cryptocurrency exchange.",
-    "text": "@CoinDCX Withdraw all funds from CoinDCX if you value your assets. \n\nIts co-founders are clowns running a circus. \n\nThey publicly and privately denied a theft of its assets occurred meaning they straight up lied or are negligently incompetent. \n\nLater they disclosed the $16M theft and",
-    "url": "https://x.com/zachxbt/status/2113264834267713790",
-    "images": [
-      "https://pbs.twimg.com/media/HVPTJNfb0AA3VGm.jpg",
-      "https://pbs.twimg.com/media/HVPTJNdbMAAObsi.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792677161675-qzhllz",
     "source": "x",
     "ts": "2026-10-22T13:52:41.675Z",
@@ -7578,5 +7538,36 @@
     "reason": "No notable crypto-related event mentioned.",
     "text": "JUST IN: Brent crude drops nearly -7% on reports Trump declined Netanyahu’s request for joint strikes in Iran before Israel’s election.\n\nIsrael votes tomorrow, Oct 27, with Trump endorsing Netanyahu as a “Great Warrior Prime Minister.”",
     "url": "https://x.com/coinbureau/status/2114651304513655097"
+  },
+  {
+    "id": "x-1793007727880-wh09no",
+    "source": "x",
+    "ts": "2026-10-26T09:42:07.880Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-26T09:39:31.000Z",
+    "reason": "Notable L2 shutdown impacting Blast's ETH withdrawals.",
+    "text": "🚨 TODAY: Blast’s normal withdrawal interface closes as the L2 shuts down. \n\nAfter today, withdrawals require direct interaction with Ethereum bridge contracts.",
+    "url": "https://x.com/Cointelegraph/status/2114653138078646420",
+    "images": [
+      "https://pbs.twimg.com/media/HVjB0jdXwAAJrTn.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793007731601-3264ve",
+    "source": "x",
+    "ts": "2026-10-26T09:42:11.601Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-26T09:35:33.000Z",
+    "reason": "No notable move or newsworthy comparison provided.",
+    "text": "Solana’s Network Metrics Give it an Edge Over XRP\n\nA recent Motley Fool analysis favours Solana (@solana) $SOL over XRP Ledger (@XRP) $XRP on multiple network measures.\n\nSolana processed 3.18 billion non-vote transactions in September 2026. \n\nHowever, XRP Ledger recorded 222.4",
+    "url": "https://x.com/BSCNews/status/2114652141432504760"
   }
 ]
