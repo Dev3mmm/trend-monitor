@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792867957654-3vh6h2",
-    "source": "x",
-    "ts": "2026-10-24T18:52:37.654Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-24T18:42:00.000Z",
-    "reason": "Stellar is adopting confidential smart contracts on their platform.",
-    "text": "The Stellar Blockchain is going private!\n\nSmart contract development firm @OpenZeppelin has announced that contracts for @StellarOrg v0.8 are now live on its platform.\n\nThe update is exciting because it allows devs to add a confidential layer on top of any SEP-41 token,",
-    "url": "https://x.com/BSCNews/status/2114064883226730981",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113897464986001408/vid/avc1/1312x720/jN5iAqeUFj886Srv.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113897464986001408/img/rTrumioR7FzNDl94.jpg"
-    }
-  },
-  {
     "id": "x-1792868535660-jwcvnq",
     "source": "x",
     "ts": "2026-10-24T19:02:15.660Z",
@@ -7744,5 +7723,24 @@
     "reason": "Meme-content unrelated to crypto or financial events.",
     "text": "Why Phones Think Starlink Satellites Are Cell Towers",
     "url": "https://x.com/elonmusk/status/2114053491463217539"
+  },
+  {
+    "id": "x-1793052102068-oyt6wh",
+    "source": "x",
+    "ts": "2026-10-26T22:01:42.068Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-26T22:00:56.000Z",
+    "reason": "Blockchain security concerns revealed",
+    "text": "🚨 BIG: Ex-DOGE staffers say they broke into Anthropic.\n\nTheir months-old startup Cathedral claims it got into the AI giant's sensitive internal data and messaging systems.",
+    "url": "https://x.com/Cointelegraph/status/2114839722522529994",
+    "images": [
+      "https://pbs.twimg.com/media/HVlrg9eXsAE6KJ_.jpg",
+      "https://pbs.twimg.com/media/HVlrhOMWUAAYmI-.jpg"
+    ],
+    "video": null
   }
 ]
