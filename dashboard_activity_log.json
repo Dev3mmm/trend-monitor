@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792676140843-huodoi",
-    "source": "x",
-    "ts": "2026-10-22T13:35:40.843Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-22T13:33:12.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "On the ground live with our partners @nextpredictio for NEXTPredict Summit NYC.",
-    "url": "https://x.com/DecryptMedia/status/2113262394432438344"
-  },
-  {
-    "id": "x-1792763155092-8wwfey",
-    "source": "x",
-    "ts": "2026-10-23T13:45:55.092Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 45,
-    "originTimestamp": "2026-10-23T13:00:58.000Z",
-    "reason": "Generic hype with no real content.",
-    "text": "₿urn the bears 🔥",
-    "url": "https://x.com/saylor/status/2113625720689700897"
-  },
-  {
     "id": "x-1792763156962-y2x01i",
     "source": "x",
     "ts": "2026-10-23T13:45:56.962Z",
@@ -7571,6 +7545,38 @@
       "https://pbs.twimg.com/media/HViq1C5aUAAvkIJ.png",
       "https://pbs.twimg.com/media/HViq5xHa8AAGGkb.png",
       "https://pbs.twimg.com/media/HVirHr1bsAAeAM7.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793005461480-zzny4o",
+    "source": "x",
+    "ts": "2026-10-26T09:04:21.480Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-26T09:02:30.000Z",
+    "reason": "No notable move in ETH price provided.",
+    "text": "🎥 LONGITUDE: Are institutions betting on Bitcoin, or just trading it?\n\n@ArthurB, Co-founder of @tezos weighs in.",
+    "url": "https://x.com/Cointelegraph/status/2114643822508421324"
+  },
+  {
+    "id": "x-1793005466299-sj4gbw",
+    "source": "x",
+    "ts": "2026-10-26T09:04:26.299Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 14,
+    "originTimestamp": "2026-10-26T08:49:56.000Z",
+    "reason": "Notable new use of a token/stablecoin in an Ethereum reward pool.",
+    "text": "Aster Extends Grid Rewards With a New WLFI Pool\n\nAster (@Aster_DEX) is adding a ethereum:0xda5e1988097297dcdc1f90d4dfe7909e847cbef6 reward pool to its Grid Liquidity Mining campaign from October 26. The campaign will run for four more weeks.\n\nEligible USDT grids can share 10,000",
+    "url": "https://x.com/BSCNews/status/2114640662071283866",
+    "images": [
+      "https://pbs.twimg.com/media/HViyH34bEAAAJ8w.png",
+      "https://pbs.twimg.com/media/HViyKlTasAAMixA.png"
     ],
     "video": null
   }
