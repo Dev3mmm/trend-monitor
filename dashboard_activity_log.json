@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792763156962-y2x01i",
-    "source": "x",
-    "ts": "2026-10-23T13:45:56.962Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-23T13:36:50.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "LIVE: BTC Market Outlook, Macro &amp; Derivatives, Adam Back on Bitcoin | BMTV Oct. 23, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2113625700553134245"
-  },
-  {
-    "id": "x-1792763159442-2zduja",
-    "source": "x",
-    "ts": "2026-10-23T13:45:59.442Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-23T13:32:46.000Z",
-    "reason": "Notable institutional adoption and use case on Stellar.",
-    "text": "Stellar Facilitates 24/7 Institutional Use Case\n\nAscend and M1X Global Successfully Complete First Automated Institutional Repo on Stellar Using Tokenized Treasuries\n\n@AscendFi Markets and @M1XGlobal completed the first institutional repurchase agreement on the @StellarOrg",
-    "url": "https://x.com/BSCNews/status/2113624677046190434",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113623741288587264/vid/avc1/1316x720/s_hbuPFGvTEcJ9Lr.mp4?tag=29",
-      "duration": 30,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113623741288587264/img/I8Yp8xdqf4UxGZ5U.jpg"
-    }
-  },
-  {
     "id": "x-1792763161138-u4kv76",
     "source": "x",
     "ts": "2026-10-23T13:46:01.138Z",
@@ -7572,6 +7538,38 @@
     "ageMin": 14,
     "originTimestamp": "2026-10-26T08:49:56.000Z",
     "reason": "Notable new use of a token/stablecoin in an Ethereum reward pool.",
+    "text": "Aster Extends Grid Rewards With a New WLFI Pool\n\nAster (@Aster_DEX) is adding a ethereum:0xda5e1988097297dcdc1f90d4dfe7909e847cbef6 reward pool to its Grid Liquidity Mining campaign from October 26. The campaign will run for four more weeks.\n\nEligible USDT grids can share 10,000",
+    "url": "https://x.com/BSCNews/status/2114640662071283866",
+    "images": [
+      "https://pbs.twimg.com/media/HViyH34bEAAAJ8w.png",
+      "https://pbs.twimg.com/media/HViyKlTasAAMixA.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793005630929-9zl3q7",
+    "source": "x",
+    "ts": "2026-10-26T09:07:10.929Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-26T09:02:30.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "🎥 LONGITUDE: Are institutions betting on Bitcoin, or just trading it?\n\n@ArthurB, Co-founder of @tezos weighs in.",
+    "url": "https://x.com/Cointelegraph/status/2114643822508421324"
+  },
+  {
+    "id": "x-1793005637352-7zapy5",
+    "source": "x",
+    "ts": "2026-10-26T09:07:17.352Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 17,
+    "originTimestamp": "2026-10-26T08:49:56.000Z",
+    "reason": "New token pool addition with details on rewards and duration.",
     "text": "Aster Extends Grid Rewards With a New WLFI Pool\n\nAster (@Aster_DEX) is adding a ethereum:0xda5e1988097297dcdc1f90d4dfe7909e847cbef6 reward pool to its Grid Liquidity Mining campaign from October 26. The campaign will run for four more weeks.\n\nEligible USDT grids can share 10,000",
     "url": "https://x.com/BSCNews/status/2114640662071283866",
     "images": [
