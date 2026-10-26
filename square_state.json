@@ -1,9 +1,5 @@
 {
   "seen": [
-    "x-1791468927847-ms6lta",
-    "x-1791469505803-90gdcu",
-    "x-1791470068824-gqhd39",
-    "x-1791470071163-p8ja6x",
     "x-1791470077216-z8vplu",
     "x-1791470927473-rc424v",
     "x-1791470929473-91om23",
@@ -1999,19 +1995,13 @@
     "x-1793025129189-1xemhh",
     "x-1793026312903-030jny",
     "x-1793026930843-ujurao",
-    "x-1793026936478-e8f21u"
+    "x-1793026936478-e8f21u",
+    "x-1793028164988-881g4x",
+    "x-1793028174342-rp9u3i",
+    "x-1793028179180-rifzly",
+    "x-1793028184568-m7z42e"
   ],
   "queue": [
-    {
-      "text": "🔥 JUST IN: Anthropic files S-1 for IPO, seeking Nasdaq listing under $ANT.",
-      "url": "https://x.com/Cointelegraph/status/2114706912939737592",
-      "images": [
-        "https://pbs.twimg.com/media/HVjyueHX0AAA2D0.png",
-        "https://pbs.twimg.com/media/HVjyupiXoAA3jeh.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793020901887
-    },
     {
       "text": "⚡️ JUST IN: Saylor’s Strategy pauses Bitcoin purchases, leaving its holdings unchanged at 848,517 $BTC.",
       "url": "https://x.com/Cointelegraph/status/2114703969544994827",
@@ -2076,20 +2066,30 @@
       ],
       "video": null,
       "enqueuedAt": 1793026941054
+    },
+    {
+      "text": "JUST IN: Casa's Chief Security Officer Jameson Lopp says Bitcoin faces no immediate threat from quantum computing. 👀\n\n\"We are orders of magnitudes away from a real usable quantum computer that can crack the algorithm that is used to secure your Bitcoin.\" 👏",
+      "url": "https://x.com/BitcoinMagazine/status/2114737959010500896",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2114737880555827202/vid/avc1/1206x652/-fSmE1rNzvAN4sBb.mp4?tag=29",
+        "duration": 101,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/media/HVkPPoaWMAABvgH.jpg"
+      },
+      "enqueuedAt": 1793028185585
+    },
+    {
+      "text": "⚡️UPDATE: Anthropic is reportedly planning an UNCONVENTIONAL IPO lock-up structure that could let early investors and employees cash out much SOONER than the standard 180-day restriction.\n\nHere's the reported timeline:\nDAY 1: First batch of shares available for sale\nDAY 27: More",
+      "url": "https://x.com/coinbureau/status/2114736569739591734",
+      "images": [
+        "https://pbs.twimg.com/media/HVkM_2QaYAApCmQ.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793028185585
     }
   ],
   "posted": [
-    {
-      "text": "🇬🇧 REGULATION: The UK FCA just told DeFi projects that slapping \"decentralized\" on your app won't get you out of regulation.  \n\nIt says \"true DeFi\" isn't even a legal concept.",
-      "final": "🇬🇧 REGULATION: The UK FCA just told DeFi projects that slapping \"decentralized\" on your app won't get you out of regulation. \n\nIt says \"true DeFi\" isn't even a legal concept.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HVZ0CkHaUAASsZR.jpg",
-        "https://pbs.twimg.com/media/HVZ0Cj_bAAAgKRL.jpg"
-      ],
-      "at": 1792854196186,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/380776477196948?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨ALERT: Over $40,000,000,000 was wiped off the crypto market’s value in the past 24 hours.\n\nMore than 213,000 traders were liquidated in the same period.\n\nIn a single hour alone, over $270 MILLION was liquidated, 94% of it from longs, per CoinGlass.",
       "final": "🚨ALERT: Over $40,000,000,000 was wiped off the crypto market’s value in the past 24 hours.\n\nMore than 213,000 traders were liquidated in the same period.\n\nIn a single hour alone, over $270 MILLION was liquidated, 94% of it from longs, per CoinGlass.\n\n#Crypto",
@@ -2572,7 +2572,17 @@
       "at": 1793026313487,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381481471101022?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 JUST IN: Anthropic files S-1 for IPO, seeking Nasdaq listing under $ANT.",
+      "final": "🔥 JUST IN: Anthropic files S-1 for IPO, seeking Nasdaq listing under $ANT.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVjyueHX0AAA2D0.png",
+        "https://pbs.twimg.com/media/HVjyupiXoAA3jeh.png"
+      ],
+      "at": 1793028185585,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793026313487
+  "lastPostAt": 1793028185585
 }
