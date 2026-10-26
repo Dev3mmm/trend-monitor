@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1792851109624-p5c1xx",
-    "source": "x",
-    "ts": "2026-10-24T14:11:49.624Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-24T14:04:35.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "@thenaibaddie Hello. We understand how concerning this situation may be. However, we were unable to complete your reversal because the recipient’s account had insufficient funds. Kindly contact the recipient directly to arrange a refund.\n\nTo help prevent similar situations in the",
-    "url": "https://x.com/Safaricom_Care/status/2113995068931453073"
-  },
-  {
-    "id": "x-1792851736507-7qd7nm",
-    "source": "x",
-    "ts": "2026-10-24T14:22:16.507Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 36,
-    "originTimestamp": "2026-10-24T13:45:45.000Z",
-    "reason": "No notable crypto-specific event or price movement mentioned.",
-    "text": "In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch. One Sunday in January 2002, he walked into a friend's rented warehouse in Huntington Beach and found Tom Mueller holding an 80-pound rocket engine on",
-    "url": "https://x.com/elonmusk/status/2113997336456339963"
-  },
-  {
-    "id": "x-1792851739276-dzt7mm",
-    "source": "x",
-    "ts": "2026-10-24T14:22:19.276Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 27,
-    "originTimestamp": "2026-10-24T13:54:45.000Z",
-    "reason": "Noise: generic irrelevant tweet.",
-    "text": "Try Grok @Bot",
-    "url": "https://x.com/elonmusk/status/2113996858842563006"
-  },
-  {
     "id": "x-1792852962015-eykd4s",
     "source": "x",
     "ts": "2026-10-24T14:42:42.015Z",
@@ -7711,6 +7672,56 @@
     "text": "🚨 BIG: S&amp;P Dow Jones Indices just partnered with Kalshi, making it a preferred platform for event contracts tied to S&amp;P indexes.\n\nS&amp;P DJI will also explore building new indexes from Kalshi's prediction market data.",
     "url": "https://x.com/Cointelegraph/status/2114809544295481764",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793046250494-i0itsx",
+    "source": "x",
+    "ts": "2026-10-26T20:24:10.494Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-26T20:19:00.000Z",
+    "reason": "New developer tool for Zcash apps",
+    "text": "Zcash gets a JavaScript toolkit for app makers\n\n@ZcashLabs has released Zcash JS, a free, open-source developer kit for building $ZEC apps in JavaScript and TypeScript. It lets developers read chain data, run lightweight wallets, and sign and send transactions from web browsers",
+    "url": "https://x.com/BSCNews/status/2114814069924356493",
+    "images": [
+      "https://pbs.twimg.com/media/HVlGuIHWwAADadD.jpg",
+      "https://pbs.twimg.com/media/HVlGuIMWQAAr6dM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793046255499-qyydee",
+    "source": "x",
+    "ts": "2026-10-26T20:24:15.499Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 16,
+    "originTimestamp": "2026-10-26T20:07:15.000Z",
+    "reason": "The tweet is about AI-assisted hacking, not directly related to cryptocurrencies or blockchain technology.",
+    "text": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+    "url": "https://x.com/DecryptMedia/status/2114811112931639305"
+  },
+  {
+    "id": "x-1793046261167-2r7j92",
+    "source": "x",
+    "ts": "2026-10-26T20:24:21.167Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 20,
+    "originTimestamp": "2026-10-26T20:03:50.000Z",
+    "reason": "This brings their total holdings to a significant number of Bitcoin.",
+    "text": "NEW: 🇬🇧 Publicly traded The Smarter Web Company disclosed the purchase of 20 Bitcoin, now worth $1.59 million. 👀\n\nThis brings their total holdings to 2,850 BTC! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2114810252994531350",
+    "images": [
+      "https://pbs.twimg.com/media/HVlQiJlXIAMsCEi.jpg"
+    ],
     "video": null
   }
 ]
