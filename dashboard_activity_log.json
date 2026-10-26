@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792777406810-3xf958",
-    "source": "x",
-    "ts": "2026-10-23T17:43:26.810Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 49,
-    "originTimestamp": "2026-10-23T16:53:29.000Z",
-    "reason": "Noise: generic tweet without content.",
-    "text": "Yeah",
-    "url": "https://x.com/elonmusk/status/2113683278503072004"
-  },
-  {
     "id": "x-1792689164807-safyab",
     "source": "x",
     "ts": "2026-10-22T17:12:44.807Z",
@@ -7651,5 +7638,26 @@
     "reason": "No notable move or specific event described.",
     "text": "I swear it’s just a coincidence 😂",
     "url": "https://x.com/elonmusk/status/2114714943417110693"
+  },
+  {
+    "id": "x-1793023376563-rhtlx6",
+    "source": "x",
+    "ts": "2026-10-26T14:02:56.563Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-26T14:00:03.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 NEW: @SPGlobalRatings has launched DeFi vault risk assessments, examining underlying assets, curator, operational, security and governance risks.\n\nAndrew O’Neill explains how the firm turns onchain transparency into insight on risks facing depositors.",
+    "url": "https://x.com/Cointelegraph/status/2114718704755683512",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2114716464385282048/vid/avc1/1280x720/cSsY-xPFrfdFL9GU.mp4?tag=29",
+      "duration": 102,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114716464385282048/img/CVgjxBLq35XXk2Lc.jpg"
+    }
   }
 ]
