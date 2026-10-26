@@ -2001,17 +2001,7 @@
     "x-1792989750170-4hdx4x",
     "x-1792989753859-1x67u1"
   ],
-  "queue": [
-    {
-      "text": "🚨 ALERT: Foundation warns spam emails were sent from its official domains via compromised Cloudflare API keys, but says Passport funds and hardware remain safe.",
-      "url": "https://x.com/Cointelegraph/status/2114578035101794745",
-      "images": [
-        "https://pbs.twimg.com/media/HVh9hD7W8AATlip.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1792989754411
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨BREAKING: Wall Street is fighting against tokenized stocks as 22 companies oppose OKX’s plan to bring their shares onchain.\n\nWells Fargo, Arm and Intuit are among the latest companies objecting to tokenized trading through OKXICE, the OKX–ICE joint venture. The number of",
@@ -2434,7 +2424,16 @@
       "at": 1792989754411,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381331811360656?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Foundation warns spam emails were sent from its official domains via compromised Cloudflare API keys, but says Passport funds and hardware remain safe.",
+      "final": "🚨 ALERT: Foundation warns spam emails were sent from its official domains via compromised Cloudflare API keys, but says Passport funds and hardware remain safe.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVh9hD7W8AATlip.png"
+      ],
+      "at": 1792991504165,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1792989754411
+  "lastPostAt": 1792991504165
 }
