@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1792760463520-udcv0e",
-    "source": "x",
-    "ts": "2026-10-23T13:01:03.520Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-23T12:53:07.000Z",
-    "reason": "The tweet mentions significant changes in ETF inflows and outflows, indicating substantial market activity.",
-    "text": "ALERT: U.S. spot Bitcoin ETFs recorded $635.6 MILLION in net outflows on October 22, offsetting nearly 59% of the $1.07 BILLION in inflows accumulated over the previous three days.\n\nA staggering $1.16 BILLION swing in ETF flows in just 24 hours, as $524.8 MILLION in inflows on",
-    "url": "https://x.com/coinbureau/status/2113614696570138912",
-    "images": [
-      "https://pbs.twimg.com/media/HVUOlKabkAAgiM6.png",
-      "https://pbs.twimg.com/media/HVURV9sbUAAgeSl.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792760467692-gmh5wn",
-    "source": "x",
-    "ts": "2026-10-23T13:01:07.692Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-23T12:51:28.000Z",
-    "reason": "No notable move in price.",
-    "text": "@Juliejin001 Hello Julie, thank you for contacting us. Sorry for this. Share your names, number, ID, year of birth and the screen-shot of the SMS via DM only only for a follow up. ^CJ",
-    "url": "https://x.com/Safaricom_Care/status/2113614281140822395"
-  },
-  {
-    "id": "x-1792760472610-4n0hfg",
-    "source": "x",
-    "ts": "2026-10-23T13:01:12.610Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-23T12:43:56.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "@_Akenyax We completely understand your frustration after receiving that message, Edwin. Unfortunately, we have checked your account, and confirm your current M-Shwari loan limit is still showing as KES 0.  Please continuing to save on your M-Shwari account and using M-Pesa and",
-    "url": "https://x.com/Safaricom_Care/status/2113612388037517642"
-  },
-  {
     "id": "x-1792760477629-4kyx8f",
     "source": "x",
     "ts": "2026-10-23T13:01:17.629Z",
@@ -7544,5 +7499,50 @@
       "https://pbs.twimg.com/media/HVfQhHWbQAAy-xQ.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1792972950518-6bms04",
+    "source": "x",
+    "ts": "2026-10-26T00:02:30.518Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-26T00:00:54.000Z",
+    "reason": "The tweet mentions a significant financial prediction about the survival of companies and a substantial amount of debt, but does not provide enough concrete, specific information to verify its claims.",
+    "text": "🚨 TODAY: Elon Musk says debt markets have nearly shut out firms without non-AI revenue, predicting most of the 200+ neoclouds won’t survive.\n\nHe adds SpaceX still secured $40B in GPU debt, backed by Starlink and launch revenue.",
+    "url": "https://x.com/Cointelegraph/status/2114507526414692382",
+    "images": [
+      "https://pbs.twimg.com/media/HVg9YCQWAAA7cVb.jpg",
+      "https://pbs.twimg.com/media/HVg9Y31XYAAJTiL.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792972953415-5ri0u6",
+    "source": "x",
+    "ts": "2026-10-26T00:02:33.415Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 120,
+    "originTimestamp": "2026-10-25T22:01:34.000Z",
+    "reason": "Noise: Generic statement without specific action or price.",
+    "text": "True",
+    "url": "https://x.com/elonmusk/status/2114507338249875500"
+  },
+  {
+    "id": "x-1792972957180-y3l3zn",
+    "source": "x",
+    "ts": "2026-10-26T00:02:37.180Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-26T00:00:03.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "How does algorithmic trading work? \n\nFrom VWAP and TWAP to market making, explore common strategies, how they're used, and the risks to consider.\n\nLearn the fundamentals 👇",
+    "url": "https://x.com/binance/status/2114507310517116934"
   }
 ]
