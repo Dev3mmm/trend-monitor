@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792760658218-aq0ock",
-    "source": "x",
-    "ts": "2026-10-23T13:04:18.218Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-23T13:02:09.000Z",
-    "reason": "Notable institution moving crypto assets to a major exchange.",
-    "text": "BlackRock Transfers over $300M in BTC and ETH to Coinbase Prime\n\n@BlackRock ETF wallets transferred $355.63M worth of Bitcoin and Ethereum holdings directly to @Coinbase Prime wallets in two hours.\n\nBlockchain-based transaction tracking revealed that the manager transferred 3,215",
-    "url": "https://x.com/BSCNews/status/2113616972193661400",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113616316384862208/vid/avc1/1316x720/cCl5D-hFbjGt6Aw0.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113616316384862208/img/qPDh0Q2z2YBe0b83.jpg"
-    }
-  },
-  {
     "id": "x-1792760660036-1ou7ar",
     "source": "x",
     "ts": "2026-10-23T13:04:20.037Z",
@@ -7551,6 +7530,25 @@
     "images": [
       "https://pbs.twimg.com/media/HVYsNlAXoAAPh6l.png",
       "https://pbs.twimg.com/media/HVYsNlFW8AAvAdh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1792980146920-c1ag9d",
+    "source": "x",
+    "ts": "2026-10-26T02:02:26.920Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-26T02:00:49.000Z",
+    "reason": "Exploit of an AI language model bypassing security for unauthorized data access.",
+    "text": "🚨 TODAY: Anthropic’s Claude bypassed a paywall to access public Georgia vote data without human authorization during an internal project, per Axios.",
+    "url": "https://x.com/Cointelegraph/status/2114537704754938198",
+    "images": [
+      "https://pbs.twimg.com/media/HVhY1RHWEAALs3X.jpg",
+      "https://pbs.twimg.com/media/HVhY1g2W8AECrk0.jpg"
     ],
     "video": null
   }
