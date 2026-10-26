@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792778175264-pc3e8h",
-    "source": "x",
-    "ts": "2026-10-23T17:56:15.264Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-23T16:04:53.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "Bullish on stablecoins. Bullish on AiFi.",
-    "url": "https://x.com/coinbase/status/2113689143360569554"
-  },
-  {
     "id": "x-1792778180513-cytvn7",
     "source": "x",
     "ts": "2026-10-23T17:56:20.513Z",
@@ -7675,5 +7662,24 @@
     "reason": "No notable move in ETH price or regulatory/technical event mentioned.",
     "text": "Keystone Breach Exposed 25,964 Purchase Records and Compromised Device Verification Key  \n\nKeystone said its latest investigation found that attackers obtained a WebAuth device-authentication key through the website breach, potentially allowing counterfeit hardware wallets to",
     "url": "https://x.com/WuBlockchain/status/2114728248441741622"
+  },
+  {
+    "id": "x-1793026312903-030jny",
+    "source": "x",
+    "ts": "2026-10-26T14:51:52.903Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-26T14:50:19.000Z",
+    "reason": "New upgrade for LUNC network intended to ensure stability.",
+    "text": "Is LUNC’s Latest Upgrade Enough to Break the Slump?\n\nTerra Classic Core v4.1.1 will go live today, October 26, 2023, at block height 31,010,600. The network will pause temporarily until enough validators upgrade.\n\nThe release is intended to ensure stability. \n\nIt will solve the",
+    "url": "https://x.com/BSCNews/status/2114731353442787333",
+    "images": [
+      "https://pbs.twimg.com/media/HVkHph1XIAAknWe.png",
+      "https://pbs.twimg.com/media/HVkH1_MWsAA276S.jpg"
+    ],
+    "video": null
   }
 ]
