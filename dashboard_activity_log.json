@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792763677448-6dxozu",
-    "source": "x",
-    "ts": "2026-10-23T13:54:37.448Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-23T13:36:50.000Z",
-    "reason": "The tweet is a future date and time with no current event or move.",
-    "text": "LIVE: BTC Market Outlook, Macro &amp; Derivatives, Adam Back on Bitcoin | BMTV Oct. 23, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2113625700553134245"
-  },
-  {
-    "id": "x-1792764145020-w0f3r4",
-    "source": "x",
-    "ts": "2026-10-23T14:02:25.020Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-23T14:00:26.000Z",
-    "reason": "Specific regulatory move in blockchain technology.",
-    "text": "🇨🇳 BIG: China targets 2030 to largely complete its national blockchain network, with plans to expand blockchain use in trade, finance, manufacturing and agriculture.",
-    "url": "https://x.com/Cointelegraph/status/2113631638311592019",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792764753727-7v6w6w",
     "source": "x",
     "ts": "2026-10-23T14:12:33.727Z",
@@ -7570,6 +7541,38 @@
     "images": [
       "https://pbs.twimg.com/media/HVjG5OoWgAAMgAj.png",
       "https://pbs.twimg.com/media/HVjG5cJXcAAoI7N.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793010843467-44o3fi",
+    "source": "x",
+    "ts": "2026-10-26T10:34:03.467Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-26T10:31:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "TON Blockchain Crushes Bitcoin and Ethereum in daily transactions \n\nAccording to a recent report from @MSBIntel, @ton_blockchain is seeing more activity than flagship names like Ethereum and Bitcoin. \n\nSince the start of October 2026, TON Blockchain the-open-network:native has",
+    "url": "https://x.com/BSCNews/status/2114666095059595706"
+  },
+  {
+    "id": "x-1793010845973-9c857y",
+    "source": "x",
+    "ts": "2026-10-26T10:34:05.973Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-26T10:30:52.000Z",
+    "reason": "Notable institutional crypto investment with real-world impact.",
+    "text": "🔥 NEW: Aviva Investors launches a tokenized share class of its £22B Sterling Liquidity Fund on XRP Ledger.\n\nAviva invests £50M in the new share class.",
+    "url": "https://x.com/Cointelegraph/status/2114666061157077102",
+    "images": [
+      "https://pbs.twimg.com/media/HVjNj_KXkAAT6tP.png",
+      "https://pbs.twimg.com/media/HVjNkngWIAAtGeg.png"
     ],
     "video": null
   }
