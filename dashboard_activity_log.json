@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1792760678692-cf27k9",
-    "source": "x",
-    "ts": "2026-10-23T13:04:38.692Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 31,
-    "originTimestamp": "2026-10-23T12:33:06.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "@kwambai254 Hi kwambai254, we are aware of the issue and it is currently being addressed. Apologies for the inconveniences caused. ^DY",
-    "url": "https://x.com/Safaricom_Care/status/2113609660942971332"
-  },
-  {
-    "id": "x-1792762332745-9n2c0m",
-    "source": "x",
-    "ts": "2026-10-23T13:32:12.745Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-23T13:31:28.000Z",
-    "reason": "a16z ceasing to use the term 'crypto' in its fund suggests a shift towards more mainstream finance.",
-    "text": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
-    "url": "https://x.com/DecryptMedia/status/2113624346736398384",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792762336611-48kc69",
     "source": "x",
     "ts": "2026-10-23T13:32:16.611Z",
@@ -7554,5 +7525,37 @@
     "reason": "No notable crypto-related event mentioned.",
     "text": "🇧🇷 BREAKING: Brazil’s markets CRASH -20% as socialist candidate Lula Da Silva defeats Flavio Bolsonaro to secure a historic fourth Presidential term.\n\nThe iShares MSCI Brazil ETF plunged nearly 20% in overnight trading, as investors reacted to Lula da Silva’s shock runoff victory",
     "url": "https://x.com/coinbureau/status/2114558321802035492"
+  },
+  {
+    "id": "x-1792987822917-z99zmy",
+    "source": "x",
+    "ts": "2026-10-26T04:10:22.917Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-26T04:05:57.000Z",
+    "reason": "No notable move or specific event reported.",
+    "text": "Vitalik Buterin Warns Against a Locked Down AI Future  \n\nEthereum (@ethereum) ethereum:native co-founder, Vitalik Buterin (@VitalikButerin), supports Kimi K3.1 Pro’s decision to limit offensive cyber capabilities.   \n\nHe argues restricting use cases is better than restricting",
+    "url": "https://x.com/BSCNews/status/2114569194226499678"
+  },
+  {
+    "id": "x-1792987827992-72oy6a",
+    "source": "x",
+    "ts": "2026-10-26T04:10:27.992Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-26T04:00:53.000Z",
+    "reason": "Potential major change in BNB ecosystem strategy hinted at by CZ",
+    "text": "🚨 TODAY: CZ hints at “multiple chains, one coin” as BNB Chain’s updated docs reveal plans for a new high-performance EVM L1.",
+    "url": "https://x.com/Cointelegraph/status/2114567917895385223",
+    "images": [
+      "https://pbs.twimg.com/media/HVh0Tk3XYAAViHo.png",
+      "https://pbs.twimg.com/media/HVh0UI6WYAARU6Y.png"
+    ],
+    "video": null
   }
 ]
