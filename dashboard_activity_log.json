@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1792853752731-nevl42",
-    "source": "x",
-    "ts": "2026-10-24T14:55:52.731Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-24T14:50:11.000Z",
-    "reason": "No notable move, request for personal information without context.",
-    "text": "@Toto_Dolly Hello @Toto_Dolly, apologies for that. Please DM your year of birth, name, ID and phone number we assist. ^JJ",
-    "url": "https://x.com/Safaricom_Care/status/2114006545545498995"
-  },
-  {
-    "id": "x-1792853755136-8x3x7u",
-    "source": "x",
-    "ts": "2026-10-24T14:55:55.136Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-24T14:42:47.000Z",
-    "reason": "Regulatory guidance on DeFi projects and regulation.",
-    "text": "🇬🇧 REGULATION: The UK FCA just told DeFi projects that slapping \"decentralized\" on your app won't get you out of regulation.  \n\nIt says \"true DeFi\" isn't even a legal concept.",
-    "url": "https://x.com/Cointelegraph/status/2114004684507893899",
-    "images": [
-      "https://pbs.twimg.com/media/HVZ0CkHaUAASsZR.jpg",
-      "https://pbs.twimg.com/media/HVZ0Cj_bAAAgKRL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792854195551-1e2g4t",
-    "source": "x",
-    "ts": "2026-10-24T15:03:15.551Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-24T15:00:37.000Z",
-    "reason": "Generic hype without factual claim or action.",
-    "text": "Things to do today:\n✅ Buy Binance Blockchain Week ticket.\n\nThings to regret later:\n❌ Not buying Binance Blockchain Week ticket at US$29",
-    "url": "https://x.com/binance/status/2114009172492656749"
-  },
-  {
     "id": "x-1792854769286-a42dot",
     "source": "x",
     "ts": "2026-10-24T15:12:49.286Z",
@@ -7730,6 +7685,51 @@
     "images": [
       "https://pbs.twimg.com/media/HVlW5ctWQAAoegM.jpg",
       "https://pbs.twimg.com/media/HVlW52AXwAAkJcg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793047944862-qdtlao",
+    "source": "x",
+    "ts": "2026-10-26T20:52:24.862Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 50,
+    "originTimestamp": "2026-10-26T20:02:16.000Z",
+    "reason": "No notable move or concrete news provided.",
+    "text": "I’m joining the team at @X to lead Product.\n\nI am a huge believer in @SpaceX's mission to extend human consciousness to the stars, so it’s time to make shitposting multiplanetary.\n\nX is the best way to find out what’s happening in the world right now and talk about it. The team",
+    "url": "https://x.com/elonmusk/status/2114821902623764790"
+  },
+  {
+    "id": "x-1793047949205-dxwj86",
+    "source": "x",
+    "ts": "2026-10-26T20:52:29.205Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-26T20:48:40.000Z",
+    "reason": "No concrete or specific information provided.",
+    "text": "🇺🇸BIG MOVES: US regulators are building crypto rails from THREE directions.\n\nEven with the CLARITY Act stalled in the Senate, regulators keep moving, and the latest steps came on Monday.\n\n1. Local banks could issue their own stablecoins.\n\nThe OCC is encouraging small community",
+    "url": "https://x.com/coinbureau/status/2114821535219556814"
+  },
+  {
+    "id": "x-1793047954473-vq5ayc",
+    "source": "x",
+    "ts": "2026-10-26T20:52:34.473Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-26T20:47:00.000Z",
+    "reason": "Notable institutional move with a new ETF launch.",
+    "text": "Canary Capital’s staked Injective ETF gets its launch details\n\nCanary Capital (@CanaryFunds) has moved its planned staked Injective ETF to Nasdaq under the ticker INJC, in a fourth amended filing with the SEC on Friday. The fund would hold $INJ and stake at least 90% of it,",
+    "url": "https://x.com/BSCNews/status/2114821116174721295",
+    "images": [
+      "https://pbs.twimg.com/media/HVlT96lW0AAUV14.jpg",
+      "https://pbs.twimg.com/media/HVlT965WIAAfvX7.jpg"
     ],
     "video": null
   }
