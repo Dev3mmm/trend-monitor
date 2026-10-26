@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1792778180513-cytvn7",
-    "source": "x",
-    "ts": "2026-10-23T17:56:20.513Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-23T17:47:00.000Z",
-    "reason": "Notable institutional change impacting USDC liquidity.",
-    "text": "Cosmos USDC is moving to Injective, and the first Noble deadline lands next week\n\n@circle stopped minting new USDC on Noble, the chain that issued the stablecoin for Cosmos. Starting October 31, Circle will begin reducing how much USDC can leave Noble through its older transfer",
-    "url": "https://x.com/BSCNews/status/2113688654086598747",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113682800247250945/vid/avc1/1220x720/qR8atGBYqntwXBE4.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113682800247250945/img/Q2WPGBA_aa3tWhQW.jpg"
-    }
-  },
-  {
-    "id": "x-1792778525087-ev52zr",
-    "source": "x",
-    "ts": "2026-10-23T18:02:05.088Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-23T18:00:46.000Z",
-    "reason": "Notable political pressure on Tether from a high-profile government official.",
-    "text": "🚨 JUST IN: Senator Richard Blumenthal is demanding Tether’s records over allegations it paid more than $6 million to a firm co-owned by Bo Hines while he shaped stablecoin legislation at the White House.",
-    "url": "https://x.com/Cointelegraph/status/2113692119793557825",
-    "images": [
-      "https://pbs.twimg.com/media/HVVXwJWWkAAPSv8.jpg",
-      "https://pbs.twimg.com/media/HVVXwWPXUAAaXXN.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792779140466-iafr9i",
-    "source": "x",
-    "ts": "2026-10-23T18:12:20.466Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-23T18:06:20.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "@stephensenior73 Hello @stephensenior73. Thanks for reaching out. Could you please DM  more details about the issue you're experiencing so we can assist you better? ^CQ",
-    "url": "https://x.com/Safaricom_Care/status/2113693518908510501"
-  },
-  {
     "id": "x-1792779142326-hmskbm",
     "source": "x",
     "ts": "2026-10-23T18:12:22.326Z",
@@ -7681,5 +7628,54 @@
       "https://pbs.twimg.com/media/HVkH1_MWsAA276S.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793026930843-ujurao",
+    "source": "x",
+    "ts": "2026-10-26T15:02:10.843Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-26T15:01:19.000Z",
+    "reason": "New information about tokenized asset performance.",
+    "text": "⚡️ NEW: Securitize’s tokenized stock market cap falls more than 50% to $208.6M in under a month.",
+    "url": "https://x.com/Cointelegraph/status/2114734124950757874",
+    "images": [
+      "https://pbs.twimg.com/media/HVkLeEAXMAA3uHr.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793026936478-e8f21u",
+    "source": "x",
+    "ts": "2026-10-26T15:02:16.478Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "PeckShieldAlert",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-26T14:53:03.000Z",
+    "reason": "Flash loan attack and significant ETH loss detected",
+    "text": "#PeckShieldAlert The address labeled as the X100 exploiter has deposited 821.2 $ETH (~$1.89M) into #TornadoCash.\n\nX100 ($X) suffered a flash-loan governance attack on October 24, 2026, losing ~$4.75M. $X has dropped 96% in 24h.",
+    "url": "https://x.com/PeckShieldAlert/status/2114732040960774614",
+    "images": [
+      "https://pbs.twimg.com/media/HVkJhhOaoAAeSr6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793026940301-wnd4qa",
+    "source": "x",
+    "ts": "2026-10-26T15:02:20.301Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-26T14:52:26.000Z",
+    "reason": "Generic motivational tweet without a specific crypto-related claim.",
+    "text": "I don't know how many times I will tell you this:\n\nSTOP sleeping, dating, having sexual affairs or marrying women older than you.\n\nSTOP IT.\n\nChange or Perish.",
+    "url": "https://x.com/amerix/status/2114731886803042802"
   }
 ]
