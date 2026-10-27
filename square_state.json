@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791562378893-ail38b",
-    "x-1791562383049-xpw5he",
     "x-1791563545740-bf17co",
     "x-1791563556495-z7vcw7",
     "x-1791564131102-7wmve5",
@@ -1999,19 +1997,11 @@
     "x-1793112171471-xqfnie",
     "x-1793112737274-qnnrva",
     "x-1793113331791-57m76h",
-    "x-1793113947949-8wyigm"
+    "x-1793113947949-8wyigm",
+    "x-1793114666327-zvht5j",
+    "x-1793114669188-cib8vx"
   ],
   "queue": [
-    {
-      "text": "🔥 INSIGHT: Justin Sun emerges as $PEPE’s top individual holder, with $51.25M in tokens across attributed wallets, per Arkham.",
-      "url": "https://x.com/Cointelegraph/status/2115073747832987843",
-      "images": [
-        "https://pbs.twimg.com/media/HVpAW4XXEAAc1Po.jpg",
-        "https://pbs.twimg.com/media/HVpAXTjWIAAuvPH.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793108782505
-    },
     {
       "text": "🔥 JUST IN: Michael Saylor says AI and Bitcoin are complementary: “AI creates abundance. Bitcoin enforces scarcity. The world needs both.”",
       "url": "https://x.com/Cointelegraph/status/2115077515429515746",
@@ -2061,6 +2051,18 @@
       ],
       "video": null,
       "enqueuedAt": 1793113955288
+    },
+    {
+      "text": "JUST IN: Lightning Labs has launched Wavelength, enabling AI agents to pay and get paid in Bitcoin! ⚡️",
+      "url": "https://x.com/BitcoinMagazine/status/2115099828833444122",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2115099788794273792/vid/avc1/1280x720/cSDMmtifSjnE_Frv.mp4?tag=29",
+        "duration": 19,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/media/HVpYHfEXAAIyKYd.jpg"
+      },
+      "enqueuedAt": 1793114670168
     }
   ],
   "posted": [
@@ -2679,7 +2681,17 @@
       "at": 1793112741854,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381835476731842?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 INSIGHT: Justin Sun emerges as $PEPE’s top individual holder, with $51.25M in tokens across attributed wallets, per Arkham.",
+      "final": "🔥 INSIGHT: Justin Sun emerges as $PEPE’s top individual holder, with $51.25M in tokens across attributed wallets, per Arkham.\n\n#Pepe $PEPE",
+      "images": [
+        "https://pbs.twimg.com/media/HVpAW4XXEAAc1Po.jpg",
+        "https://pbs.twimg.com/media/HVpAXTjWIAAuvPH.jpg"
+      ],
+      "at": 1793114670168,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793112741854
+  "lastPostAt": 1793114670168
 }
