@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792929757737-p571fp",
-    "source": "x",
-    "ts": "2026-10-25T12:02:37.737Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-25T12:00:05.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "my laptop needed this walk",
-    "url": "https://x.com/binance/status/2114326125585240399"
-  },
-  {
-    "id": "x-1792931543676-tok3eb",
-    "source": "x",
-    "ts": "2026-10-25T12:32:23.676Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-25T12:30:56.000Z",
-    "reason": "No crypto-related content.",
-    "text": "🇺🇸 BIG: Trump wages a trade war with Canada as GOP candidates become casualties.",
-    "url": "https://x.com/Cointelegraph/status/2114333890554790197"
-  },
-  {
     "id": "x-1792931549684-zq79no",
     "source": "x",
     "ts": "2026-10-25T12:32:29.684Z",
@@ -7861,5 +7835,34 @@
       "https://pbs.twimg.com/media/HVm8MunbMAE4Bzl.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793091722420-2bb2ml",
+    "source": "x",
+    "ts": "2026-10-27T09:02:02.420Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T09:00:46.000Z",
+    "reason": "Specific institutional move in a major market.",
+    "text": "🇧🇷 LATEST: Binance has applied for a crypto service provider license in Brazil ahead of the Oct. 30 deadline.",
+    "url": "https://x.com/Cointelegraph/status/2115005777421177232",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793091724157-a3z5ri",
+    "source": "x",
+    "ts": "2026-10-27T09:02:04.157Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-27T08:55:08.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "The advice I can give to any one of you in business, especially startups:\n\nAvoid courts. If your conflicts can be solved silently, the better.\n\nLitigation is expensive and sometimes unnecessary.",
+    "url": "https://x.com/amerix/status/2115004356361584941"
   }
 ]
