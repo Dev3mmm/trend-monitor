@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1792976536124-28e2lq",
-    "source": "x",
-    "ts": "2026-10-26T01:02:16.124Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T01:00:51.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 LATEST: Trump calls high gas prices “a small price to pay” for the Iran War, saying he expected them to double or triple.",
-    "url": "https://x.com/Cointelegraph/status/2114522612738961915"
-  },
-  {
-    "id": "x-1792978333802-vcjecn",
-    "source": "x",
-    "ts": "2026-10-26T01:32:13.802Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T01:30:48.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇧🇷 JUST IN: Brazil’s Lula wins a fourth presidential term, edging out Flávio Bolsonaro 51.8% to 48.2% in a tight runoff.\n\nIts state-owned oil giant Petrobras fell 12% following the result.",
-    "url": "https://x.com/Cointelegraph/status/2114530149202882678"
-  },
-  {
-    "id": "x-1792978924304-mjgspq",
-    "source": "x",
-    "ts": "2026-10-26T01:42:04.304Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-26T01:37:00.000Z",
-    "reason": "Notable shift in stablecoin supply dynamics highlighted.",
-    "text": "Algorand is become a dominant force in the stablecoin game.\n\nMajor networks like @SuiNetwork, @StellarOrg and @Ripple's $XRP Ledger have all see serious reductions in their stablecoin supplies over the past week.\n\nThe same is not true for @AlgoFoundation's @Algorand, however,",
-    "url": "https://x.com/BSCNews/status/2114531709718770020",
-    "images": [
-      "https://pbs.twimg.com/media/HVYsNlAXoAAPh6l.png",
-      "https://pbs.twimg.com/media/HVYsNlFW8AAvAdh.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792980146920-c1ag9d",
     "source": "x",
     "ts": "2026-10-26T02:02:26.920Z",
@@ -7916,5 +7871,52 @@
     "url": "https://x.com/DecryptMedia/status/2115079632907104304",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793110335750-s3opki",
+    "source": "x",
+    "ts": "2026-10-27T14:12:15.750Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-27T14:09:06.000Z",
+    "reason": "Notable new ETF including Bitcoin exposure.",
+    "text": "JUST IN: $200 billion VanEck includes Bitcoin exposure in their new Wealth Builder ETF 👀\n\n\"This fund brings Bitcoin to investors who want one simple diversified holding\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2115083371126939691",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115083332476137472/vid/avc1/1280x720/R9ZbpJSFSVPYwAgg.mp4?tag=29",
+      "duration": 21,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115083332476137472/img/mU0sQBCSKymNSwBm.jpg"
+    }
+  },
+  {
+    "id": "x-1793110338369-jpmzpx",
+    "source": "x",
+    "ts": "2026-10-27T14:12:18.369Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-27T14:02:27.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Markets, Jason Calacanis' Bottom Signal, RH Q3 Earnings and LONG Ecosystem Founder Interview",
+    "url": "https://x.com/DecryptMedia/status/2115081697880633616"
+  },
+  {
+    "id": "x-1793110340536-g12f5s",
+    "source": "x",
+    "ts": "2026-10-27T14:12:20.536Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-27T14:01:42.000Z",
+    "reason": "No notable move or specific action described.",
+    "text": "Going global.",
+    "url": "https://x.com/coinbase/status/2115081507274703071"
   }
 ]

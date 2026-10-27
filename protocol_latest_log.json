@@ -2024,5 +2024,19 @@
     "fetchedAt": "2026-10-27T13:51:31.902Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-06f13c36d4145b85",
+    "title": "AIOZ AI MCP Server: Connect Your Agent to AIOZ AI",
+    "url": "https://aioz.network/blog/aioz-ai-mcp-server-connect-your-agent-to-aioz-ai",
+    "description": "AIOZ AI now supports the Model Context Protocol (MCP), allowing Claude Code, Cursor, and other MCP-compatible clients to find and run AIOZ AI models directly from your editor. Connect the local MCP server with your AIOZ AI key, add the provided agent skills, and let your agent handle model selection, cost checks, task execution, file uploads, and result retrieval within your existing workflow. Wha",
+    "publishedAt": "2026-10-27T14:02:42.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-27T14:12:53.618Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
