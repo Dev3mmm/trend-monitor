@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792935741251-cmcp2j",
-    "source": "x",
-    "ts": "2026-10-25T13:42:21.251Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 42,
-    "originTimestamp": "2026-10-25T13:00:00.000Z",
-    "reason": "No notable move in the token/asset price or significant news.",
-    "text": "Cloud Engines are Internet Computer subnets that firms configure under ICP's on-chain governance.\n\nNode providers keep 80% of their revenue. The other 20% buys and burns $ICP, per the Mission 70 whitepaper from @dfinity.\n\nHow the burn model works:",
-    "url": "https://x.com/BSCNews/status/2114350747542278166"
-  },
-  {
-    "id": "x-1792937564172-dwgxah",
-    "source": "x",
-    "ts": "2026-10-25T14:12:44.172Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-25T14:09:26.000Z",
-    "reason": "USDT launch on Bitcoin ecosystem is notable regulatory and adoption move.",
-    "text": "NEW: Utexo is rolling out its public launch of USDT on Bitcoin next month, \"an opportunity to bring dollar liquidity into the Bitcoin ecosystem\" 👀\n\nUSDT is coming home! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2114358677490512296",
-    "images": [
-      "https://pbs.twimg.com/media/HVe0EYpXAAAXH93.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792937568051-ij366w",
     "source": "x",
     "ts": "2026-10-25T14:12:48.051Z",
@@ -7856,5 +7825,40 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Satoshi’s Bitcoin Design Powers Far More Than BTC\n\nArkham points to the UTXO model as a key part of Satoshi Nakamoto’s legacy.\n\nThe system tracks funds as separate spendable outputs rather than account balances.\n\nArkham has drawn attention to a surprising detail in Bitcoin’s $BTC",
     "url": "https://x.com/BSCNews/status/2115021940339380561"
+  },
+  {
+    "id": "x-1793096568338-1y4l7v",
+    "source": "x",
+    "ts": "2026-10-27T10:22:48.338Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-27T10:18:01.000Z",
+    "reason": "Ripple's trust bank gaining regulatory approval for a significant stablecoin.",
+    "text": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+    "url": "https://x.com/DecryptMedia/status/2115025214429970627",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793096573873-vbpapa",
+    "source": "x",
+    "ts": "2026-10-27T10:22:53.873Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-27T10:15:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "THORChain's numbers don't lie...\n\n@THORChain, since launching over five years ago, has established itself as THE leading venue for cross-chain swaps.\n\nThat dominance is reflected in its cumulative DEX volume which, according to @DefiLlama, now stands at an eye-watering $128.4",
+    "url": "https://x.com/BSCNews/status/2115024456947048709",
+    "images": [
+      "https://pbs.twimg.com/media/HVoJh4MXYAARB4L.png",
+      "https://pbs.twimg.com/media/HVoJh4dX0AAQGVP.jpg"
+    ],
+    "video": null
   }
 ]
