@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792920754996-epcrf7",
-    "source": "x",
-    "ts": "2026-10-25T09:32:34.996Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-25T09:27:59.000Z",
-    "reason": "New 30-day low and potential signal for a sharp move.",
-    "text": "📊 MARKET: CryptoQuant's Axel Adler says $BTC closed at $80,500 yesterday, a new 30-day low, after bouncing off its 365-day moving average.\n\nHe says tight ranges like this usually end with a sharp move.",
-    "url": "https://x.com/Cointelegraph/status/2114287850879365471",
-    "images": [
-      "https://pbs.twimg.com/media/HVd1mC9WMAA2VQo.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792922532798-2yxtsn",
-    "source": "x",
-    "ts": "2026-10-25T10:02:12.798Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-25T09:55:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "🚨This week's key events are going to be BIG.\n\nIt's FED week.\n\nThe Fed HIKED last month, and on Wednesday it decides again, a day before headline PCE inflation is expected to come in at 3.6%, nearly DOUBLE its 2% target.\n\nThen Microsoft, Alphabet and Amazon, worth over $10",
-    "url": "https://x.com/coinbureau/status/2114294647162011747"
-  },
-  {
     "id": "x-1792923189059-p9lolu",
     "source": "x",
     "ts": "2026-10-25T10:13:09.059Z",
@@ -7866,5 +7835,37 @@
     "reason": "No notable move in price or relevant action.",
     "text": "This week in AI and ML Phase II, \n\nThe students branch into their preferred pathways.\n\n• Developer\n• Data Analysis\n• Educator\n\nWe continue learning. \n\nLearn more here:",
     "url": "https://x.com/amerix/status/2114984851967209538"
+  },
+  {
+    "id": "x-1793087537304-g25mtt",
+    "source": "x",
+    "ts": "2026-10-27T07:52:17.304Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-27T07:45:33.000Z",
+    "reason": "No notable financial information provided, just a list of companies.",
+    "text": "The $637 BILLION bill behind Anthropic’s IPO:\n\n1. Broadcom: $161.2 billion\n2. SpaceX: $120.5 billion\n3. Google: $114.5 billion\n4. Amazon: $110.0 billion\n5. Microsoft: $44.9 billion\n6. Nscale: $44.6 billion\n7. Lambda: $41.3 billion\n\nAt its Q2 pace of $11.6B revenue per quarter, it",
+    "url": "https://x.com/coinbureau/status/2114986845167874132"
+  },
+  {
+    "id": "x-1793087543340-s91yth",
+    "source": "x",
+    "ts": "2026-10-27T07:52:23.340Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-27T07:45:23.000Z",
+    "reason": "Ethereum users can now access Sui Network's NAVI SUI lending market directly.",
+    "text": "Sui Network’s NAVI Opens a New Route for Ethereum USDC\n\nEthereum (@ethereum) $ETH users can now access NAVI’s (@navi_protocol) $NAVX Sui lending market without manually bridging their funds.\n\nNAVI built the new $USDC yield vault with Lagoon Finance (@lagoon_finance). Deposits",
+    "url": "https://x.com/BSCNews/status/2114986806014029970",
+    "images": [
+      "https://pbs.twimg.com/media/HVnYFoAa4AEhXJe.png",
+      "https://pbs.twimg.com/media/HVnYKoVa0AAtLUA.png"
+    ],
+    "video": null
   }
 ]
