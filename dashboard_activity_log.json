@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793021623851-bn2l35",
-    "source": "x",
-    "ts": "2026-10-26T13:33:43.851Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-26T13:13:12.000Z",
-    "reason": "Specific institutional move with potential significant impact on the crypto market.",
-    "text": "🔥 JUST IN: Anthropic targets an IPO the week of Nov. 16, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2114710972632010842",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793021627665-fg92pu",
-    "source": "x",
-    "ts": "2026-10-26T13:33:47.665Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-26T13:25:45.000Z",
-    "reason": "Specific institutional action with a substantial amount involved.",
-    "text": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-    "url": "https://x.com/DecryptMedia/status/2114710072261525933",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793021633601-tbfpcj",
     "source": "x",
     "ts": "2026-10-26T13:33:53.601Z",
@@ -7877,5 +7845,37 @@
     "reason": "No factual claim or concrete information provided.",
     "text": "🇺🇸 US national debt just hit a record $40.5 TRILLION, adding nearly $7 BILLION a day.\n\nThat's $118,175 for every man, woman and child in America.\n\nThe first $1 TRILLION of US debt took 192 years.\n\nThe latest $1 TRILLION took just over 3 months.\n\nAt this pace, the debt is expected",
     "url": "https://x.com/coinbureau/status/2115193421019386247"
+  },
+  {
+    "id": "x-1793137322263-s3fum8",
+    "source": "x",
+    "ts": "2026-10-27T21:42:02.263Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T21:40:47.000Z",
+    "reason": "Cryptocurrency regulatory impact affecting critical infrastructure.",
+    "text": "🇺🇸 BIG: The U.S. Federal Election Commission temporarily shut down online services amid hacking attempts, disrupting its electronic filing system a week before the Nov. 3 midterm election",
+    "url": "https://x.com/Cointelegraph/status/2115197041101918686",
+    "images": [
+      "https://pbs.twimg.com/media/HVqwfoFWUAAUtPf.jpg",
+      "https://pbs.twimg.com/media/HVqwf8vWYAA9gXu.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793137326913-8suadr",
+    "source": "x",
+    "ts": "2026-10-27T21:42:06.913Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 45,
+    "originTimestamp": "2026-10-27T20:56:45.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "My podcast conversation with @saturn_credit (@kevinlhr88, @eosborn88). We cover many challenging and nuanced questions on $STRC including buybacks, dividend rate, target price range, and onchain structuring. \n\nReminder: @Strategy's Q3 2026 earnings call is this Thursday, October",
+    "url": "https://x.com/saylor/status/2115196894628503758"
   }
 ]
