@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792945204216-8olnwq",
-    "source": "x",
-    "ts": "2026-10-25T16:20:04.216Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-25T16:03:57.000Z",
-    "reason": "Notable institutional objection to tokenized stocks.",
-    "text": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
-    "url": "https://x.com/DecryptMedia/status/2114387498361057548",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1792945364585-24hsa9",
-    "source": "x",
-    "ts": "2026-10-25T16:22:44.585Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-25T16:03:57.000Z",
-    "reason": "Notable institutional objection to tokenized stocks.",
-    "text": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
-    "url": "https://x.com/DecryptMedia/status/2114387498361057548",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1792945927705-jbufu4",
     "source": "x",
     "ts": "2026-10-25T16:32:07.705Z",
@@ -7913,5 +7881,31 @@
       "https://pbs.twimg.com/media/HVoxdegXgAAR16b.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793105449743-j4x4dt",
+    "source": "x",
+    "ts": "2026-10-27T12:50:49.743Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-27T12:45:02.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "🔥 LATEST: AI agents need safeguards to manage tokenized assets securely.\n\n@KenomicAI is building infrastructure that lets users set rules for agents, with noncustodial smart contracts executing transactions.\n\n“Blockchain helps us provide those rails and the rules embedded in the",
+    "url": "https://x.com/Cointelegraph/status/2115062214948450597"
+  },
+  {
+    "id": "x-1793105452675-sklgf7",
+    "source": "x",
+    "ts": "2026-10-27T12:50:52.675Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-27T12:41:53.000Z",
+    "reason": "Vague opinion without factual claim",
+    "text": "Saying there’s no reason to buy Bitcoin because anyone can create a cryptocurrency is like saying there’s no reason to learn English because anyone can invent a language.",
+    "url": "https://x.com/saylor/status/2115061421843087541"
   }
 ]
