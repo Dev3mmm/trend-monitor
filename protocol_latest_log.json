@@ -1952,5 +1952,21 @@
     "fetchedAt": "2026-10-27T03:33:01.484Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-5937b25a0bcd08ad",
+    "title": "SecondFi Asset Recovery Tool Official Launch",
+    "url": "https://forum.cardano.org/t/secondfi/157589",
+    "description": "Recently, inquiries have been ongoing within the community regarding the progress of the SecondFi incident. Since the vulnerability was exposed in June, a series of emergency asset freezing, cryptanalytic counter-engineering forensics, cross-party security audits, and post-recovery compensation phases have been carried out. Before providing detailed guidance on the official launch of the asset recovery tool and specific actions for affected users, this article will first outline the core context and timeline of the entire incident. The incident's full story and key timeline will be clarified, detailing the vulnerability exposure and hacker's on-chain theft from the SecondFi wallet (a form that branched off from the initial Yoroi client lineage). The hacker exploited a defect in the random number generation process during the software's digital signature creation process.",
+    "publishedAt": "2026-10-27T03:44:13.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": true,
+    "originalTitle": "SecondFi 자산 회수 도구 공식 출시",
+    "originalDescription": "최근 커뮤니티 내에서 SecondFi 사건의 진행 상황에 대한 문의가 이어지고 있습니다. 6월 하순 취약점이 노출된 이후 지금까지 긴급 자산 차단, 암호학적 역공학 포렌식, 다자간 보안 감사, 그리고 사후 보상 단계에 이르기까지 일련의 대응이 진행되었습니다. 현재의 수습 상황을 명확히 전달해 드리고자 전체 사건의 핵심 맥락과 타임라인을 먼저 정리한 뒤, 공식 출시된 자산 회수 도구 및 피해 사용자의 구체적인 행동 요령을 상세히 안내해 드립니다. 사건 전말 및 핵심 타임라인 정리 취약점 노출 및 해커의 온체인 탈취: SecondFi 지갑(초기 Yoroi 클라이언트 계보에서 분기되어 발전한 형태)에서 비정상적인 자산 유출이 감지되었습니다. 해커는 소프트웨어의 디지털 서명 생성 과정에서 발생한 난수 파생 결함을 ",
+    "fetchedAt": "2026-10-27T03:52:22.095Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
