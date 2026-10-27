@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792939950756-y41swh",
-    "source": "x",
-    "ts": "2026-10-25T14:52:30.756Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-25T14:43:34.000Z",
-    "reason": "Specific institutional move with real-world impact from a public company.",
-    "text": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin. 👀\n\n\"The sats/$SATS perpetual swap has been activated.\" 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2114367268369117525",
-    "images": [
-      "https://pbs.twimg.com/media/HVe7thOWEAA6ctn.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792940582738-jaf8wg",
-    "source": "x",
-    "ts": "2026-10-25T15:03:02.738Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-25T15:00:02.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "If you had to choose one:\n\n✰ 1 BTC/yr for life\n✰ $10M in stablecoins (one time)",
-    "url": "https://x.com/binance/status/2114371411795976602"
-  },
-  {
     "id": "x-1792940584984-u3s9o7",
     "source": "x",
     "ts": "2026-10-25T15:03:04.984Z",
@@ -7876,6 +7845,43 @@
     "images": [
       "https://pbs.twimg.com/media/HVoiF21WwAAMKgs.png",
       "https://pbs.twimg.com/media/HVoiJL_XkAEPMUZ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793100750797-qmiwe8",
+    "source": "x",
+    "ts": "2026-10-27T11:32:30.797Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T11:30:53.000Z",
+    "reason": "Crypto industry investment in US midterm elections",
+    "text": "🇺🇸 JUST IN: The crypto industry has spent roughly $176M across more than 100 US midterm races, seeking to build bipartisan support in Congress, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2115043555110420738",
+    "images": [
+      "https://pbs.twimg.com/media/HVok4wVX0AAeAEE.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793100756187-vsdw6e",
+    "source": "x",
+    "ts": "2026-10-27T11:32:36.187Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T11:30:37.000Z",
+    "reason": "Binance blocked multiple North Korea-linked cyberattacks without any asset losses.",
+    "text": "Binance Says It Blocked Multiple North Korea-Linked Cyberattacks Over the Past Week, With No Asset Losses\n\nBinance said on October 27 that its security team had successfully identified and blocked multiple North Korea-linked cyberattacks over the past week, with no damage to",
+    "url": "https://x.com/WuBlockchain/status/2115043488089932007",
+    "images": [
+      "https://pbs.twimg.com/media/HVok0VzaUAANMER.jpg",
+      "https://pbs.twimg.com/media/HVok07saEAAs2Gu.jpg"
     ],
     "video": null
   }
