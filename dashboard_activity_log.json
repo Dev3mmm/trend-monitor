@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1793020885564-xzx3iq",
-    "source": "x",
-    "ts": "2026-10-26T13:21:25.564Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-26T13:07:50.000Z",
-    "reason": "QuantNetwork's token awarded a significant contract.",
-    "text": "Quant is in the spotlight again... \n\n@QuantNetwork's $QNT token is back in the spotlight, but not just because of price movement.\n\nOn September 24, 2026, The Clearing House awarded Quant a contract to supply the technology behind its On-Chain Money program. \n\nThe Clearing House",
-    "url": "https://x.com/BSCNews/status/2114705565859324099",
-    "images": [
-      "https://pbs.twimg.com/media/HVjw3_KXQAAGN-H.png",
-      "https://pbs.twimg.com/media/HVjxfDaWgAAulcb.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793020889725-8or37t",
-    "source": "x",
-    "ts": "2026-10-26T13:21:29.725Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Decrypt",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-26T13:06:22.000Z",
-    "reason": "Bitcoin price dipping below a significant psychological level ahead of key economic decisions.",
-    "text": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-    "url": "https://x.com/DecryptMedia/status/2114705196139872417",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793020893327-klyz8g",
-    "source": "x",
-    "ts": "2026-10-26T13:21:33.327Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-26T13:05:46.000Z",
-    "reason": "Vague opinion without factual claim or basis.",
-    "text": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-    "url": "https://x.com/DecryptMedia/status/2114705045744669178"
-  },
-  {
     "id": "x-1793020897261-vd729k",
     "source": "x",
     "ts": "2026-10-26T13:21:37.261Z",
@@ -7870,6 +7822,62 @@
     "images": [
       "https://pbs.twimg.com/media/HVqn9NoXkAAYogT.png",
       "https://pbs.twimg.com/media/HVqn-NrW8AATDen.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793136217212-i1dqva",
+    "source": "x",
+    "ts": "2026-10-27T21:23:37.212Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-27T21:20:54.000Z",
+    "reason": "Specific institutional commentary on crypto integration affecting traditional finance.",
+    "text": "🔥 BIG: @eToro founder @yoniassia expects most US stocks to trade 24/7 within 3 to 6 months, calling it a major step that mirrors crypto.",
+    "url": "https://x.com/Cointelegraph/status/2115192035137265789",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115192000118996992/vid/avc1/1280x720/enJ_Cbvpkg-Oq-t3.mp4?tag=16",
+      "duration": 18,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115192000118996992/img/5ADwh5wc0mVGTLdc.jpg"
+    }
+  },
+  {
+    "id": "x-1793136219236-q5yfct",
+    "source": "x",
+    "ts": "2026-10-27T21:23:39.236Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-27T21:17:15.000Z",
+    "reason": "China's Stock Market Loss Reflects Fading AI Boom Confidence",
+    "text": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
+    "url": "https://x.com/DecryptMedia/status/2115191116815314986",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793136221925-4vat9e",
+    "source": "x",
+    "ts": "2026-10-27T21:23:41.925Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-27T21:15:44.000Z",
+    "reason": "Flare's FXRP pool nearly full with XRP-backed loans.",
+    "text": "Demand for XRP-backed loans has Flare’s FXRP pool on Morpho nearly full\n\nLoans of @Ripple's RLUSD stablecoin against $FXRP, @FlareNetworks version of $XRP, have reached $8.77M on @Morpho. Since opening on Ethereum in late July, the pool has lent out 94.5% of its RLUSD.\n\nBorrowers",
+    "url": "https://x.com/BSCNews/status/2115190735808979062",
+    "images": [
+      "https://pbs.twimg.com/media/HVqpoNIXIAAJZ2t.jpg",
+      "https://pbs.twimg.com/media/HVqppcxW4AANf17.jpg"
     ],
     "video": null
   }
