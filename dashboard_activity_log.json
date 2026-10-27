@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793020875174-45ic0l",
-    "source": "x",
-    "ts": "2026-10-26T13:21:15.174Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-26T13:03:54.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Starlink coming to EasyJet",
-    "url": "https://x.com/elonmusk/status/2114707637506117956"
-  },
-  {
-    "id": "x-1793020880243-ivpcjr",
-    "source": "x",
-    "ts": "2026-10-26T13:21:20.243Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-26T13:13:12.000Z",
-    "reason": "Anthropic seeking Nasdaq listing for an IPO, a notable move in the crypto and venture capital space.",
-    "text": "🔥 JUST IN: Anthropic files S-1 for IPO, seeking Nasdaq listing under $ANT.",
-    "url": "https://x.com/Cointelegraph/status/2114706912939737592",
-    "images": [
-      "https://pbs.twimg.com/media/HVjyueHX0AAA2D0.png",
-      "https://pbs.twimg.com/media/HVjyupiXoAA3jeh.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793020885564-xzx3iq",
     "source": "x",
     "ts": "2026-10-26T13:21:25.564Z",
@@ -7872,5 +7840,37 @@
     "reason": "No notable move in token or crypto-related revenue is mentioned.",
     "text": "Robinhood Q3 Revenue Meets Estimates as Prediction Market Revenue Surges and Crypto Revenue Falls 55%\n\nRobinhood reported Q3 2026 revenue of $1.424 billion, up 12% year-over-year and roughly in line with the $1.42 billion estimate. Net income fell 14% to $476 million, while",
     "url": "https://x.com/WuBlockchain/status/2115185708629725346"
+  },
+  {
+    "id": "x-1793135538886-g0ijco",
+    "source": "x",
+    "ts": "2026-10-27T21:12:18.886Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T21:10:45.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸 ALERT: Affordability is emerging as a central issue ahead of the Nov. 3 U.S. midterm elections, as high housing costs and concerns over gas and grocery prices weigh on voters.",
+    "url": "https://x.com/Cointelegraph/status/2115189482857091302"
+  },
+  {
+    "id": "x-1793135542807-xwia36",
+    "source": "x",
+    "ts": "2026-10-27T21:12:22.807Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-27T21:06:24.000Z",
+    "reason": "Notable statement from a high-ranking government official in the crypto space.",
+    "text": "Treasury Secretary Scott Bessent says the U.S. is \"going to win in the digital asset stack\" and that it will fortify the dollar. Speaking at Ripple's Swell conference, he said Treasury can work with the SEC and CFTC on crypto rules after Congress failed to pass the Clarity Act.",
+    "url": "https://x.com/DecryptMedia/status/2115188387619451191",
+    "images": [
+      "https://pbs.twimg.com/media/HVqn9NoXkAAYogT.png",
+      "https://pbs.twimg.com/media/HVqn-NrW8AATDen.jpg"
+    ],
+    "video": null
   }
 ]
