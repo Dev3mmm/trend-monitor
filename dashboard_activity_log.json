@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793021637241-rr49xn",
-    "source": "x",
-    "ts": "2026-10-26T13:33:57.241Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 29,
-    "originTimestamp": "2026-10-26T13:03:54.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Starlink coming to EasyJet",
-    "url": "https://x.com/elonmusk/status/2114707637506117956"
-  },
-  {
     "id": "x-1793021641933-4p978v",
     "source": "x",
     "ts": "2026-10-26T13:34:01.933Z",
@@ -7875,6 +7862,25 @@
     "images": [
       "https://pbs.twimg.com/media/HVqu9LxXkAAkuHB.png",
       "https://pbs.twimg.com/media/HVqvAPtXAAA7P0Z.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793138549810-7utvim",
+    "source": "x",
+    "ts": "2026-10-27T22:02:29.810Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T22:00:57.000Z",
+    "reason": "Specific launch of new prediction markets on multiple cryptocurrencies including SOL.",
+    "text": "🇺🇸 NEW: Polymarket has launched five-minute crypto price prediction markets for $XRP, $SOL, $ETH and $BTC in its U.S. app.",
+    "url": "https://x.com/Cointelegraph/status/2115202115026948198",
+    "images": [
+      "https://pbs.twimg.com/media/HVq1HBTXwAA_T0b.jpg",
+      "https://pbs.twimg.com/media/HVq1HQuXUAABtjo.jpg"
     ],
     "video": null
   }
