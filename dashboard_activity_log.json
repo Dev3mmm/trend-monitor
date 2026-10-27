@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793006586975-v2m6vw",
-    "source": "x",
-    "ts": "2026-10-26T09:23:06.975Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-26T09:12:30.000Z",
-    "reason": "The token is still showing losses, no newsworthy development.",
-    "text": "Robinhood Chain's Artificial Inu Rebounds But Weekly Losses Still Sting\n\nRobinhood (@RobinhoodCrypto) Chain's Artificial Inu (@ArtificiallyInu) $AI is showing signs of a rebound, rising 15% over the last 24 hours.\n\nHowever, the token is still down 25% over the last seven days.",
-    "url": "https://x.com/BSCNews/status/2114646341494419771",
-    "images": [
-      "https://pbs.twimg.com/media/HVi3o4AboAA9kyJ.png",
-      "https://pbs.twimg.com/media/HVi3rHrbQAILQTw.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793007211288-40z0qu",
-    "source": "x",
-    "ts": "2026-10-26T09:33:31.288Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T09:32:13.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "JUST IN: Brent crude drops nearly -7% on reports Trump declined Netanyahu’s request for joint strikes in Iran before Israel’s election.\n\nIsrael votes tomorrow, Oct 27, with Trump endorsing Netanyahu as a “Great Warrior Prime Minister.”",
-    "url": "https://x.com/coinbureau/status/2114651304513655097"
-  },
-  {
-    "id": "x-1793007727880-wh09no",
-    "source": "x",
-    "ts": "2026-10-26T09:42:07.880Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-26T09:39:31.000Z",
-    "reason": "Notable L2 shutdown impacting Blast's ETH withdrawals.",
-    "text": "🚨 TODAY: Blast’s normal withdrawal interface closes as the L2 shuts down. \n\nAfter today, withdrawals require direct interaction with Ethereum bridge contracts.",
-    "url": "https://x.com/Cointelegraph/status/2114653138078646420",
-    "images": [
-      "https://pbs.twimg.com/media/HVjB0jdXwAAJrTn.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793007731601-3264ve",
     "source": "x",
     "ts": "2026-10-26T09:42:11.601Z",
@@ -7882,5 +7832,56 @@
     "reason": "No notable move in ETH price or institutional adoption event mentioned.",
     "text": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
     "url": "https://x.com/DecryptMedia/status/2115124993918972142"
+  },
+  {
+    "id": "x-1793121514600-6xek7y",
+    "source": "x",
+    "ts": "2026-10-27T17:18:34.600Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-27T17:17:53.000Z",
+    "reason": "Notable institutional launch of tokenized stocks on a new platform.",
+    "text": "Ondo Stocks go live on Robinhood Chain\n\n@Ondo, the issuer behind $ONDO and the largest tokenized stock platform by value, launched 15 tokenized stocks and ETFs on Robinhood Chain (@RobinhoodCrypto) today. Eleven of them now sit in new @Uniswap v4 StablePair pools, each pairing an",
+    "url": "https://x.com/BSCNews/status/2115130878103884069",
+    "images": [
+      "https://pbs.twimg.com/media/HVpy5mbX0AAXLDA.jpg",
+      "https://pbs.twimg.com/media/HVpy7t6XYAAJzJ_.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793121517408-7i3dtv",
+    "source": "x",
+    "ts": "2026-10-27T17:18:37.408Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 57,
+    "originTimestamp": "2026-10-27T16:20:37.000Z",
+    "reason": "Noise: generic phrase without real content.",
+    "text": "Good",
+    "url": "https://x.com/elonmusk/status/2115129139468673514"
+  },
+  {
+    "id": "x-1793121521759-l3o3ce",
+    "source": "x",
+    "ts": "2026-10-27T17:18:41.759Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-27T17:10:55.000Z",
+    "reason": "Notable technological integration in the crypto ecosystem",
+    "text": "⚡️ NEW: Oracle is integrating ChatGPT and Codex into its applications and adding Google TPUs, OpenAI’s Jalapeño chip and Cerebras hardware to its cloud infrastructure.",
+    "url": "https://x.com/Cointelegraph/status/2115129124356264127",
+    "images": [
+      "https://pbs.twimg.com/media/HVpyuaZXoAA3AO6.jpg",
+      "https://pbs.twimg.com/media/HVpyunZWsAALPs0.jpg"
+    ],
+    "video": null
   }
 ]
