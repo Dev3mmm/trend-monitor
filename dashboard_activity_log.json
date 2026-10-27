@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1792883089013-y20jug",
-    "source": "x",
-    "ts": "2026-10-24T23:04:49.013Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-24T22:56:49.000Z",
-    "reason": "Notable institutional investment in BTC",
-    "text": "NEW: $5.3 billion Cardone Capital bought 16 BTC worth $1.28 million on this dip! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2114129011752178077",
-    "images": [
-      "https://pbs.twimg.com/media/HVblIJEWgAEfGh4.jpg",
-      "https://pbs.twimg.com/media/HVblIcGXoAA5akg.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792884751584-r3zgpu",
-    "source": "x",
-    "ts": "2026-10-24T23:32:31.584Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-24T23:25:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "🚨Sam Altman says the internet can no longer be SECURED by patching bugs.\n\n\"I no longer think we're going to be able to just patch all the bugs,\" the OpenAI CEO said, warning smarter models can find \"hardware level insane stuff.\"\n\nHe says OpenAI can't responsibly open source its",
-    "url": "https://x.com/coinbureau/status/2114136102781043004"
-  },
-  {
-    "id": "x-1792884753897-buf0ap",
-    "source": "x",
-    "ts": "2026-10-24T23:32:33.897Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-24T23:25:00.000Z",
-    "reason": "No notable on-chain data point or specific event is mentioned.",
-    "text": "Internet Computer flips Solana to become crypto's fastest chain.\n\nDespite @Solana holding the top spot for several weeks, @dfinity was the fastest chain in crypto over the past week, recording some 2,323 tx/s.\n\n$ICP's figure sat well ahead of $SOL's for the period, which saw only",
-    "url": "https://x.com/BSCNews/status/2114136102478958863"
-  },
-  {
     "id": "x-1792886552625-5unxzh",
     "source": "x",
     "ts": "2026-10-25T00:02:32.625Z",
@@ -7784,6 +7739,63 @@
     "images": [
       "https://pbs.twimg.com/media/HVir2SIW0AAMd78.jpg",
       "https://pbs.twimg.com/media/HVir2SKX0AA8ljk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793065770587-zftlq2",
+    "source": "x",
+    "ts": "2026-10-27T01:49:30.587Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-27T01:45:00.000Z",
+    "reason": "Notable institutional investor BlackRock exploring stablecoin integration.",
+    "text": "🇯🇵 JUST IN: BlackRock officially signs on to explore linking tokenized funds with a yen stablecoin.\n\nThe $15.5 TRILLION asset manager is working with SBI and Startale, the companies behind JPYSC, a stablecoin tied to the Japanese yen.\n\nThey want to see if tokenized money market",
+    "url": "https://x.com/coinbureau/status/2114896110330552826",
+    "images": [
+      "https://pbs.twimg.com/media/HVmaKMUbYAAPwr3.jpg",
+      "https://pbs.twimg.com/media/HVmaKIObEAA_PtV.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793065774207-yzrgvc",
+    "source": "x",
+    "ts": "2026-10-27T01:49:34.207Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-27T01:39:01.000Z",
+    "reason": "Notable bank-institutional collaboration in JPYSC stablecoin ecosystem.",
+    "text": "🇯🇵 BIG: BlackRock signs an MOU with SBI Holdings and Startale to explore linking tokenized money market funds with JPYSC, a yen-backed stablecoin, to push onchain finance in Japan.",
+    "url": "https://x.com/Cointelegraph/status/2114894606630359251",
+    "images": [
+      "https://pbs.twimg.com/media/HVmdbhTWgAA4u7f.jpg",
+      "https://pbs.twimg.com/media/HVmdbxUXAAAb5DA.jpg",
+      "https://pbs.twimg.com/media/HVmdb8dXgAAe80P.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793065778772-2x3q1m",
+    "source": "x",
+    "ts": "2026-10-27T01:49:38.772Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Wu Blockchain",
+    "ageMin": 16,
+    "originTimestamp": "2026-10-27T01:33:31.000Z",
+    "reason": "Specific institutional use case of stablecoin for tokenized assets.",
+    "text": "Sixpence @SixpenceAI, an onchain money market for tokenized U.S. stocks, will run a points campaign on Robinhood Chain from October 26 at 00:00 to November 23 at 00:00 (UTC), with a total reward pool of 10,000 USDG, split into two periods of 5,000 USDG each. Sixpence allows users",
+    "url": "https://x.com/WuBlockchain/status/2114893223038783914",
+    "images": [
+      "https://pbs.twimg.com/media/HVmcLExacAACs8E.png"
     ],
     "video": null
   }
