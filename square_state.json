@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791548532674-i35p73",
-    "x-1791548536720-fpdbvx",
     "x-1791548540637-bhmfjx",
     "x-1791549133169-4odcxp",
     "x-1791550346881-8immy5",
@@ -1999,19 +1997,11 @@
     "x-1793101922702-icob1m",
     "x-1793102520979-00lt2x",
     "x-1793102536653-4omb7m",
-    "x-1793103740551-l3kfzc"
+    "x-1793103740551-l3kfzc",
+    "x-1793104336067-m4fwlg",
+    "x-1793104340481-ubqn74"
   ],
   "queue": [
-    {
-      "text": "JUST IN: DTCC’s tokenization service could go LIVE this week, turning select assets from its $114T in custody into digital tokens.",
-      "url": "https://x.com/coinbureau/status/2115047101528997926",
-      "images": [
-        "https://pbs.twimg.com/media/HVooCpmbEAA4Pd_.png",
-        "https://pbs.twimg.com/media/HVooFBWbcAASh7F.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793101923349
-    },
     {
       "text": "⚡️ LATEST: xStocks’ onchain AUM rose 19.1% to $1.03B in 30 days despite falling stock prices, per Token Terminal.",
       "url": "https://x.com/Cointelegraph/status/2115051221501251654",
@@ -2030,6 +2020,18 @@
       ],
       "video": null,
       "enqueuedAt": 1793103741195
+    },
+    {
+      "text": "🔥 INSIGHT: @eToro founder @yoniassia says $BTC could face another “bump in the road” before its next rally, which he expects to start next year.",
+      "url": "https://x.com/Cointelegraph/status/2115058854836731972",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2115058817272557568/vid/avc1/1280x720/-WZ-3uyCS9tZe-d3.mp4?tag=16",
+        "duration": 17,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115058817272557568/img/nZTY_khUznjlnXVZ.jpg"
+      },
+      "enqueuedAt": 1793104341091
     }
   ],
   "posted": [
@@ -2627,7 +2629,17 @@
       "at": 1793102537369,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381793721239391?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: DTCC’s tokenization service could go LIVE this week, turning select assets from its $114T in custody into digital tokens.",
+      "final": "JUST IN: DTCC’s tokenization service could go LIVE this week, turning select assets from its $114T in custody into digital tokens.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVooCpmbEAA4Pd_.png",
+        "https://pbs.twimg.com/media/HVooFBWbcAASh7F.jpg"
+      ],
+      "at": 1793104341091,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793102537369
+  "lastPostAt": 1793104341091
 }
