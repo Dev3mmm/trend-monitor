@@ -1936,5 +1936,21 @@
     "fetchedAt": "2026-10-27T03:03:54.495Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-cf7e848421d3c92b",
+    "title": "Understanding Cardano Programmable Tokens",
+    "url": "https://forum.cardano.org/t/cardano/157588",
+    "description": "One of the most proud pillars of the Cardano ecosystem is its native asset mechanism, which elevates custom tokens to 'citizens.' These tokens are inherently tracked from the origin and experience transmission and security as seamlessly as ADA, which is essentially the same. However, this design was also a double-edged sword. Because native token transmissions bypass complex smart contract executions and are directly handled by the base asset rules, issuing them becomes significantly more complex.",
+    "publishedAt": "2026-10-27T03:24:21.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": true,
+    "originalTitle": "Cardano 프로그래머블 토큰의 이해",
+    "originalDescription": "Cardano 생태계에서 우리가 가장 자랑스럽게 여기는 기반 경쟁력 중 하나는 바로 네이티브 자산 메커니즘입니다. 이더리움처럼 계정 모델에 기반한 퍼블릭 체인에서 토큰(예: ERC-20)은 본질적으로 스마트 컨트랙트 내부에 배포된 상태 기록표에 불과합니다. 따라서 매번 전송할 때마다 컨트랙트를 호출해야 하므로 비싼 가스비가 소모되고 로직상의 보안 취약점 위험에 노출됩니다. 반면 Cardano는 사용자 정의 토큰을 '일급 시민’으로 격상시켰습니다. 토큰은 원장에서 기본적으로 직접 추적되며, 전송 경험과 보안성은 ADA와 사실상 완전히 동일합니다. 그러나 이러한 설계는 양날의 검이기도 했습니다. 네이티브 토큰의 전송은 복잡한 스마트 컨트랙트 실행을 거치지 않고 기반 원장 규칙에 의해 직접 처리되기 때문에, 발행",
+    "fetchedAt": "2026-10-27T03:33:01.484Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
