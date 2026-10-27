@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791534722616-khzydt",
     "x-1791535348155-ekyasx",
     "x-1791536543428-fe2nkt",
     "x-1791536548021-p71v1l",
@@ -1999,18 +1998,10 @@
     "x-1793073748385-hisjc3",
     "x-1793074326155-r8ygoe",
     "x-1793077328103-iaebgm",
-    "x-1793077957096-4oo48c"
+    "x-1793077957096-4oo48c",
+    "x-1793079135000-xpbi6v"
   ],
   "queue": [
-    {
-      "text": "#CertiKInsight 🚨\n\nWe have seen multiple Tornado Cash deposits which trace to , \nwho recently drained ~$1.58M from unknown victim(s).\n\nCertiK Report Security Dashboard 👇  \n \n\nStay Vigilant!",
-      "url": "https://x.com/CertiKAlert/status/2114921508657397986",
-      "images": [
-        "https://pbs.twimg.com/media/HVm1BIfbIAAVUmu.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793071935685
-    },
     {
       "text": "🚨 UPDATE: bitcoin:native short-term holders in profit have cooled to around 70% from nearly 100% in late September, signaling a better entry point for buyers betting on the uptrend, per @glassnode .",
       "url": "https://x.com/Cointelegraph/status/2114930087342620750",
@@ -2028,6 +2019,16 @@
       ],
       "video": null,
       "enqueuedAt": 1793077332362
+    },
+    {
+      "text": "🇺🇸 NEW: The US DOJ is appealing a federal judge’s ruling that lifted the government’s ban on agencies using Anthropic’s AI, escalating the fight over the Pentagon’s supply-chain risk label on the company, per Bloomberg.",
+      "url": "https://x.com/Cointelegraph/status/2114952946496553203",
+      "images": [
+        "https://pbs.twimg.com/media/HVnSfbeWgAAhedV.png",
+        "https://pbs.twimg.com/media/HVnSfwuWYAABxXj.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793079135540
     }
   ],
   "posted": [
@@ -2606,7 +2607,16 @@
       "at": 1793077332362,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381690424464092?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "#CertiKInsight 🚨\n\nWe have seen multiple Tornado Cash deposits which trace to , \nwho recently drained ~$1.58M from unknown victim(s).\n\nCertiK Report Security Dashboard 👇  \n \n\nStay Vigilant!",
+      "final": "#CertiKInsight 🚨\n\nWe have seen multiple Tornado Cash deposits which trace to , \nwho recently drained ~$1.58M from unknown victim(s).\n\nCertiK Report Security Dashboard 👇 \n \n\nStay Vigilant!\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVm1BIfbIAAVUmu.jpg"
+      ],
+      "at": 1793079135540,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793077332362
+  "lastPostAt": 1793079135540
 }
