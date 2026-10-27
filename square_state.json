@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791519153565-opl0x2",
     "x-1791520321275-0ayxii",
     "x-1791520324081-4xc9ud",
     "x-1791520326627-qs7ycq",
@@ -1999,19 +1998,10 @@
     "x-1793058724852-nu2y81",
     "x-1793059941594-5rps4u",
     "x-1793060580585-d6vxrd",
-    "x-1793060583447-6s3anz"
+    "x-1793060583447-6s3anz",
+    "x-1793061119090-payrvs"
   ],
   "queue": [
-    {
-      "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻\n\nThey now own 7,817 BTC! 👏",
-      "url": "https://x.com/BitcoinMagazine/status/2114832819683827774",
-      "images": [
-        "https://pbs.twimg.com/media/HVllEiaWAAAoQl1.jpg",
-        "https://pbs.twimg.com/media/HVlk93eWkAA-_rW.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793050484847
-    },
     {
       "text": "🚨 BIG: Ex-DOGE staffers say they broke into Anthropic.\n\nTheir months-old startup Cathedral claims it got into the AI giant's sensitive internal data and messaging systems.",
       "url": "https://x.com/Cointelegraph/status/2114839722522529994",
@@ -2067,6 +2057,16 @@
       ],
       "video": null,
       "enqueuedAt": 1793057558617
+    },
+    {
+      "text": "🚨 TODAY: Coinbase CEO Brian Armstrong says that while lab-grown diamonds boom and alchemy-made gold nears reality, Bitcoin’s 21M cap stays untouchable.\n\n“You can’t invent anything that will increase Bitcoin supply.”",
+      "url": "https://x.com/Cointelegraph/status/2114877447703286097",
+      "images": [
+        "https://pbs.twimg.com/media/HVmN0s-XAAAxKaA.jpg",
+        "https://pbs.twimg.com/media/HVmN1E6W4AAqBh3.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793061119592
     }
   ],
   "posted": [
@@ -2550,7 +2550,17 @@
       "at": 1793059327493,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381616678475085?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻\n\nThey now own 7,817 BTC! 👏",
+      "final": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻\n\nThey now own 7,817 BTC! 👏\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HVllEiaWAAAoQl1.jpg",
+        "https://pbs.twimg.com/media/HVlk93eWkAA-_rW.jpg"
+      ],
+      "at": 1793061119592,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793059327493
+  "lastPostAt": 1793061119592
 }
