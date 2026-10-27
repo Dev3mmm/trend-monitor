@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1792914742968-l3wz7x",
-    "source": "x",
-    "ts": "2026-10-25T07:52:22.968Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-25T07:43:00.000Z",
-    "reason": "Notable DeFi trading volume milestone",
-    "text": "Aptos-based perps DEX smashes $8.5 BILLION in volume.\n\n@DecibelTrade, a dedicated perps DEX built on @Aptos $APT, has now processed more than 31 million trades, generating over $8.5 billion in total volume.\n\nThe milestones are all the more impressive given Decibel fully launched",
-    "url": "https://x.com/BSCNews/status/2114261428358017380",
-    "images": [
-      "https://pbs.twimg.com/media/HVYlYMVWgAA_UTx.jpg",
-      "https://pbs.twimg.com/media/HVYlYMSWMAAtPxD.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792915326603-c97dep",
-    "source": "x",
-    "ts": "2026-10-25T08:02:06.603Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-25T08:00:55.000Z",
-    "reason": "Price move of Brent crude well outside its recent range.",
-    "text": "🇺🇸 Trump claims the US is making a “freaking fortune” from high oil prices.\n\nThe US president says the country is making “hundreds of billions of dollars because of what’s happened in the Middle East.”\n\nBrent crude price:\n\nBefore the Iran war: $72\n\nNow: $117 (up over 60%)",
-    "url": "https://x.com/coinbureau/status/2114265938434683115",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2114265860240261120/vid/avc1/1284x720/9TDxvQLDxsCuujzz.mp4?tag=29",
-      "duration": 113,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114265860240261120/img/vsiwN5EZbvcvjmKa.jpg"
-    }
-  },
-  {
     "id": "x-1792915927226-oxo2tm",
     "source": "x",
     "ts": "2026-10-25T08:12:07.226Z",
@@ -7851,5 +7811,43 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "ᜊ( ‘ ⩊ ‘𖦹)ᜊ\n\nGM",
     "url": "https://x.com/binance/status/2114960283261178194"
+  },
+  {
+    "id": "x-1793082147937-5fmos6",
+    "source": "x",
+    "ts": "2026-10-27T06:22:27.937Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-27T06:16:00.000Z",
+    "reason": "Notable regulatory and institutional move in the crypto market.",
+    "text": "Hyperliquid Could Be Soon Getting a Regulated US Trading Gateway\n\nHyperliquid (@HyperliquidX) $HYPE plans to make Payward, Kraken’s (@krakenfx) parent company, the first CFTC-regulated deployer on its HIP-3 markets.\n\nThe plan could open a route to regulated US perpetual futures",
+    "url": "https://x.com/BSCNews/status/2114964309977530530",
+    "images": [
+      "https://pbs.twimg.com/media/HVnV8qLa8AA8x4y.png",
+      "https://pbs.twimg.com/media/HVnV_xfaAAA4UqQ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793082154506-jr1qaf",
+    "source": "x",
+    "ts": "2026-10-27T06:22:34.506Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-27T06:15:00.000Z",
+    "reason": "The tweet seems to mix up Ethereum (ETH) with the Exponential Time Hypothesis (ETH), making it unclear and not a notable news event.",
+    "text": "🚨 OpenAI says its AI has DISPROVED ETH.\n\nETH here stands for the Exponential Time Hypothesis, a decades-old assumption about how difficult certain computing problems are to solve as they grow.\n\nOpenAI says its AI developed an algorithm faster than the hypothesis permits,",
+    "url": "https://x.com/coinbureau/status/2114964058231239070",
+    "images": [
+      "https://pbs.twimg.com/media/HVnMSGzbcAAry3s.jpg",
+      "https://pbs.twimg.com/media/HVnMjtaa8AAiH8a.jpg"
+    ],
+    "video": null
   }
 ]
