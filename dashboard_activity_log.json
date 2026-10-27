@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1792949013827-hgx5rw",
-    "source": "x",
-    "ts": "2026-10-25T17:23:33.827Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-25T17:13:00.000Z",
-    "reason": "New information about the distribution of a high-profile crypto fund.",
-    "text": "Which chains dominate Blackrock's biggest crypto product...?\n\n@Blackrock's $BUIDL fund now has a market cap of more than $2B per data from RWA[.]zyx.\n\nHowever, the chains where it lives may surprise you.\n\n@Solana $SOL is the single biggest host chain, with some $872M of a total",
-    "url": "https://x.com/BSCNews/status/2114404873815117867",
-    "images": [
-      "https://pbs.twimg.com/media/HVYl23eWMAAvO6u.png",
-      "https://pbs.twimg.com/media/HVYl23cWwAE7fC4.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792949183698-8gtyoi",
     "source": "x",
     "ts": "2026-10-25T17:26:23.698Z",
@@ -7902,5 +7883,18 @@
     "reason": "Vague opinion with no factual claim",
     "text": "Saying there’s no reason to buy Bitcoin because anyone can create a cryptocurrency is like saying there’s no reason to learn English because anyone can invent a language.",
     "url": "https://x.com/saylor/status/2115061421843087541"
+  },
+  {
+    "id": "x-1793106153008-igd9u7",
+    "source": "x",
+    "ts": "2026-10-27T13:02:33.008Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-27T12:54:16.000Z",
+    "reason": "No notable move or specific factual claim.",
+    "text": "The Gap between Bitcoin and ICP is too wide... \n\nPer @Chainspect, $BTC averages $0.263 per transaction, while @dfinity's $ICP averages $0.0000637, a 4,129x difference.\n\nAs $BTC and $ETH keep high fees to preserve scarce blockspace, other compute-and-throughput chains have reduced",
+    "url": "https://x.com/BSCNews/status/2115064538118717935"
   }
 ]
