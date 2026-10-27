@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792876387362-o79pn1",
-    "source": "x",
-    "ts": "2026-10-24T21:13:07.362Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-24T21:03:00.000Z",
-    "reason": "No notable move or breaking news, the tweet is mostly an update about a past event.",
-    "text": "Pavel Durov's takeover of solana:WKMZummev5UcXz5nNKQZvTD6QjNSM2X58uwmDReondo has failed...?\n\n@telegram founder Pavel Durov effectively took over the @ton_blockchain platform in May of this year, much to the exciting of the now- the-open-network:native community.\n\nHowever, since",
-    "url": "https://x.com/BSCNews/status/2114100367516459119"
-  },
-  {
-    "id": "x-1792877545405-uaixxi",
-    "source": "x",
-    "ts": "2026-10-24T21:32:25.405Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-24T21:30:49.000Z",
-    "reason": "Price movement not significant based on recent range.",
-    "text": "⚡ BIG: Fidelity's Zack Wainwright says $BTC took nearly 16 years to hit $100K, but the jump to $200K could happen much faster.\n\nHe says Bitcoin's up nearly 50% from its June low near $58K.",
-    "url": "https://x.com/Cointelegraph/status/2114107369994985715"
-  },
-  {
     "id": "x-1792878812245-6iryz1",
     "source": "x",
     "ts": "2026-10-24T21:53:32.245Z",
@@ -7785,6 +7759,44 @@
     "text": "StarkNet might actually be the biggest L1 launch of 2026...\n\n@Starknet and $STRK have dominated headlines since its proposal to pivot from an @Ethereum L2 to its own L1. Make sure you understand it, before it's too late... ⬇️",
     "url": "https://x.com/BSCNews/status/2114870693154152947",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793060580585-d6vxrd",
+    "source": "x",
+    "ts": "2026-10-27T00:23:00.585Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T00:22:00.000Z",
+    "reason": "Notable institutional sale of Ethereum by the Ethereum Foundation.",
+    "text": "The Ethereum Foundation selling $ETH ?!\n\nAccording to reports from the likes of @lookonchain and @OnchainLens, the @Ethereum Foundation has dumped some 2,785 $ETH worth around $6.42M.\n\nPer OnChain Lens, the tokens were sold in exchange for @SkyEcosystem's $USDS through @CoWSwap.",
+    "url": "https://x.com/BSCNews/status/2114875222604059092",
+    "images": [
+      "https://pbs.twimg.com/media/HVirbedW0AAr4ge.jpg",
+      "https://pbs.twimg.com/media/HVirbeaXAAEkc4R.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793060583447-6s3anz",
+    "source": "x",
+    "ts": "2026-10-27T00:23:03.447Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-27T00:19:26.000Z",
+    "reason": "Specific regulatory approval news for a major crypto player.",
+    "text": "BREAKING: @Ripple recieves regulatory approval for Ripple National Trust Bank. \n\nripple:native is up on the news",
+    "url": "https://x.com/BSCNews/status/2114874578560569824",
+    "images": [
+      "https://pbs.twimg.com/media/HVmLOJLXMAAvcFp.jpg",
+      "https://pbs.twimg.com/media/HVmLOJIW8AATgf4.jpg"
+    ],
     "video": null
   }
 ]
