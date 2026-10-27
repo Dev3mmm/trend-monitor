@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1792939349394-fiajzm",
-    "source": "x",
-    "ts": "2026-10-25T14:42:29.394Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 38,
-    "originTimestamp": "2026-10-25T14:03:45.000Z",
-    "reason": "No factual claim or notable move.",
-    "text": "Try Grok @Bot",
-    "url": "https://x.com/elonmusk/status/2114364277595488330"
-  },
-  {
     "id": "x-1792939946064-2u0ctt",
     "source": "x",
     "ts": "2026-10-25T14:52:26.064Z",
@@ -7868,6 +7855,22 @@
       "https://pbs.twimg.com/media/HVoXpAUXsAAqjfp.png",
       "https://pbs.twimg.com/media/HVoXxkUXMAAPdTA.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793099570075-i8o4rv",
+    "source": "x",
+    "ts": "2026-10-27T11:12:50.075Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-27T11:10:45.000Z",
+    "reason": "Notable change in Zcash governance and funding structure proposed by a key figure.",
+    "text": "⚡️ LATEST: Zcash co-founder Sean Bowe proposed ending automatic funding for Zcash Community Grants, saying it already has over $125M.\n\nHe wants its 8% share of $ZEC block rewards redirected to a network reserve.",
+    "url": "https://x.com/Cointelegraph/status/2115038487342674352",
+    "images": [],
     "video": null
   }
 ]
