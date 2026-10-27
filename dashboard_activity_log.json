@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792775237283-j9mi8p",
-    "source": "x",
-    "ts": "2026-10-23T17:07:17.283Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-23T16:54:37.000Z",
-    "reason": "Bitcoin broke its 200-Day Average against the NASDAQ.",
-    "text": "JUST IN: Bitcoin has risen above its 200-Day Average against the NASDAQ, breaking a streak of 235 sessions below the average! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2113675471384625409",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113675376777990144/vid/avc1/1280x720/bM8rublMYixMFLSo.mp4?tag=29",
-      "duration": 152,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113675376777990144/img/ATi62BB5A1B-SBzU.jpg"
-    }
-  },
-  {
     "id": "x-1792775240972-bkwciq",
     "source": "x",
     "ts": "2026-10-23T17:07:20.972Z",
@@ -7892,5 +7871,18 @@
       "https://pbs.twimg.com/media/HVqVpA8XcAAeFRc.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793143933953-15i40d",
+    "source": "x",
+    "ts": "2026-10-27T23:32:13.953Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-27T23:30:15.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🤖 NEW: Anthropic is working with six organizations to accelerate drug development using Claude and has launched its own drug discovery programs targeting rare childhood forms of muscular dystrophy.",
+    "url": "https://x.com/Cointelegraph/status/2115224590091706657"
   }
 ]
