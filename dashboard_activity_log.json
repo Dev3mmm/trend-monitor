@@ -1,51 +1,5 @@
 [
   {
-    "id": "x-1793003603527-mqyeq2",
-    "source": "x",
-    "ts": "2026-10-26T08:33:23.527Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-26T08:27:28.000Z",
-    "reason": "No notable move or specific event identified.",
-    "text": "It's gonna be a BIG week for crypto.\n\nWe used @ElanInsights professional Crypto Calendar tool to identify some of the biggest industry catalysts coming this week - Keep an eye out for some of these events in particular... \n\nTry now: \n\n[October 27] Leading",
-    "url": "https://x.com/BSCNews/status/2114635009256575350"
-  },
-  {
-    "id": "x-1793003606626-41e7pv",
-    "source": "x",
-    "ts": "2026-10-26T08:33:26.626Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-26T08:22:57.000Z",
-    "reason": "No notable news, the tweet is just describing a feature without any significant impact or move.",
-    "text": "ICP’s OpenChat Makes Cross Platform Chatting Easier\n\nInternet Computer (@dfinity) $ICP -based, OpenChat (@OpenChat), now lets Discord (@discord) and Telegram (@telegram) communities relay messages directly into its decentralized chat app.\n\nThe feature relays messages between",
-    "url": "https://x.com/BSCNews/status/2114633869089714200",
-    "images": [
-      "https://pbs.twimg.com/media/HViq1C5aUAAvkIJ.png",
-      "https://pbs.twimg.com/media/HViq5xHa8AAGGkb.png",
-      "https://pbs.twimg.com/media/HVirHr1bsAAeAM7.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793005461480-zzny4o",
-    "source": "x",
-    "ts": "2026-10-26T09:04:21.480Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-26T09:02:30.000Z",
-    "reason": "No notable move in ETH price provided.",
-    "text": "🎥 LONGITUDE: Are institutions betting on Bitcoin, or just trading it?\n\n@ArthurB, Co-founder of @tezos weighs in.",
-    "url": "https://x.com/Cointelegraph/status/2114643822508421324"
-  },
-  {
     "id": "x-1793005466299-sj4gbw",
     "source": "x",
     "ts": "2026-10-26T09:04:26.299Z",
@@ -7890,5 +7844,55 @@
     "reason": "Generic motivational message with no specific content.",
     "text": "Once again. NEVER GIVE UP.",
     "url": "https://x.com/amerix/status/2115121630204580297"
+  },
+  {
+    "id": "x-1793119932940-cqwndo",
+    "source": "x",
+    "ts": "2026-10-27T16:52:12.940Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T16:50:47.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🇺🇸 JUST IN: Trump says he will ban the term “artificial intelligence” from relevant documents, calling it inaccurate and advocating “super intelligence” instead.",
+    "url": "https://x.com/Cointelegraph/status/2115124059327340969"
+  },
+  {
+    "id": "x-1793119938321-wte5yt",
+    "source": "x",
+    "ts": "2026-10-27T16:52:18.321Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 83,
+    "originTimestamp": "2026-10-27T15:28:48.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Bitcoin mining or AI compute? ⚡️\n\nCMT Digital's Sam Hallene says why not both:\n\n\"We believe that this asset, Bitcoin, is a globally significant macro asset that belongs in every portfolio.\"\n\n\"We're grateful that we got the opportunity to partner with Luxor and help to push",
+    "url": "https://x.com/BitcoinMagazine/status/2115123448603095268",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115102951664439297/vid/avc1/1276x720/jK9M5Ky1XOixNYpl.mp4?tag=29",
+      "duration": 64,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115102951664439297/img/0fmQLI34TsPRj_tG.jpg"
+    }
+  },
+  {
+    "id": "x-1793119944064-5whg45",
+    "source": "x",
+    "ts": "2026-10-27T16:52:24.064Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-27T16:44:00.000Z",
+    "reason": "New use of a token/stablecoin (WIRE token) announced.",
+    "text": "The $WIRE TGE has been cancelled at the last minute.\n\n@WireNetwork's native token was expected to undergo TGE around October 27, but a new post announces that date has been pushed back to the second half of next month.\n\nThe platform, which has been in development for a staggering",
+    "url": "https://x.com/BSCNews/status/2115122351377428802",
+    "images": [],
+    "video": null
   }
 ]
