@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1792983731777-cz46xv",
-    "source": "x",
-    "ts": "2026-10-26T03:02:11.777Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T03:00:49.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "⚡️ NOW: Vitalik Buterin backs Kimi 3.1 excluding offensive cyber capabilities from its training data, warning that mishandling AI risk could lead to locked-down models and KYC-gated access.",
-    "url": "https://x.com/Cointelegraph/status/2114552802861031436"
-  },
-  {
-    "id": "x-1792983735100-ctv2yv",
-    "source": "x",
-    "ts": "2026-10-26T03:02:15.100Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-26T03:00:01.000Z",
-    "reason": "Generic, vague sentiment without a specific claim.",
-    "text": "wishing you a timeline full of smiles this week",
-    "url": "https://x.com/binance/status/2114552601282748832"
-  },
-  {
-    "id": "x-1792985577451-mtsao2",
-    "source": "x",
-    "ts": "2026-10-26T03:32:57.451Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-26T03:30:00.000Z",
-    "reason": "Franklin Templeton's involvement with Bitcoin through ETFs is significant institutional adoption.",
-    "text": "🔥 BIG: Franklin Templeton is set to launch ETFs that hold US stocks and reinvest dividends into Bitcoin, targeting a 5% bitcoin:native allocation, per ETF analyst Nate Geraci.",
-    "url": "https://x.com/Cointelegraph/status/2114560148358480195",
-    "images": [
-      "https://pbs.twimg.com/media/HVhi9uya4AAfgGb.jpg",
-      "https://pbs.twimg.com/media/HVhi9s-bkAAP6SK.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792985578759-tg8397",
-    "source": "x",
-    "ts": "2026-10-26T03:32:58.759Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-26T03:17:28.000Z",
-    "reason": "No substantive information provided.",
-    "text": "Yes",
-    "url": "https://x.com/elonmusk/status/2114560002157654414"
-  },
-  {
     "id": "x-1792985581025-56ph6n",
     "source": "x",
     "ts": "2026-10-26T03:33:01.025Z",
@@ -7907,5 +7849,60 @@
     "reason": "No notable move, statement without a specific price or action.",
     "text": "⚡ INSIGHT: Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana.",
     "url": "https://x.com/Cointelegraph/status/2115088824942362791"
+  },
+  {
+    "id": "x-1793112159464-4kzaal",
+    "source": "x",
+    "ts": "2026-10-27T14:42:39.464Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 102,
+    "originTimestamp": "2026-10-27T13:00:03.000Z",
+    "reason": "Memes and political commentary are not relevant to crypto news.",
+    "text": "SUPERCUT: Five minutes of insanity from Democrat James Talarico in his own words.\n\nHe has shown us exactly why he does not belong in the U.S. Senate. Vote for Ken Paxton.\n\nShare this with your friends in Texas.",
+    "url": "https://x.com/elonmusk/status/2115090779890946117"
+  },
+  {
+    "id": "x-1793112163044-7zj93v",
+    "source": "x",
+    "ts": "2026-10-27T14:42:43.044Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 30,
+    "originTimestamp": "2026-10-27T14:12:19.000Z",
+    "reason": "No notable move in cryptocurrency prices or usage mentioned.",
+    "text": "BREAKING: United Airlines is adding @Starlink to ~3 aircraft a day, its CEO just announced.\n\nAlready on 48% of United's flights, Starlink is set to reach 50% next week.",
+    "url": "https://x.com/elonmusk/status/2115090692695593138"
+  },
+  {
+    "id": "x-1793112165882-h0011y",
+    "source": "x",
+    "ts": "2026-10-27T14:42:45.883Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 40,
+    "originTimestamp": "2026-10-27T14:02:27.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Live now with @Natan_benish, co-founder of @longdotxyz.",
+    "url": "https://x.com/DecryptMedia/status/2115089971942154566"
+  },
+  {
+    "id": "x-1793112171471-xqfnie",
+    "source": "x",
+    "ts": "2026-10-27T14:42:51.471Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-27T14:32:15.000Z",
+    "reason": "Specific event involving an established company (McDonald's) and blockchain/crypto, likely drawing attention to the intersection of traditional commerce and cryptocurrencies.",
+    "text": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
+    "url": "https://x.com/DecryptMedia/status/2115089195400102059",
+    "images": [],
+    "video": null
   }
 ]
