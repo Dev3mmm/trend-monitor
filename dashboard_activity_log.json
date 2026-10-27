@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1792989750170-4hdx4x",
-    "source": "x",
-    "ts": "2026-10-26T04:42:30.170Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-26T04:41:36.000Z",
-    "reason": "Significant exploit involving stolen crypto.",
-    "text": "⚠️ ALERT: BloomTrading Bot users report nearly $1 MILLION in wallet drains, with 9,408 SOL traced to a suspected attacker wallet.\n\nReports identify roughly 49 victims, with the largest individual loss reaching 1,636 SOL, worth about $166,000. \n\nTotal losses could be higher as",
-    "url": "https://x.com/coinbureau/status/2114578165628625109",
-    "images": [
-      "https://pbs.twimg.com/media/HVh9HOXXEAEtty9.png",
-      "https://pbs.twimg.com/media/HVh9PmoXIAA-58u.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792989753859-1x67u1",
-    "source": "x",
-    "ts": "2026-10-26T04:42:33.859Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T04:41:05.000Z",
-    "reason": "Potential security breach affecting Foundation's official domains.",
-    "text": "🚨 ALERT: Foundation warns spam emails were sent from its official domains via compromised Cloudflare API keys, but says Passport funds and hardware remain safe.",
-    "url": "https://x.com/Cointelegraph/status/2114578035101794745",
-    "images": [
-      "https://pbs.twimg.com/media/HVh9hD7W8AATlip.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1792990524059-j589n2",
-    "source": "x",
-    "ts": "2026-10-26T04:55:24.059Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T04:54:08.000Z",
-    "reason": "No notable move in Pi Network's update.",
-    "text": "Pi Network's Latest Update Targets Access And Security\n\nPi Network (@PiCoreTeam) $PI has released Pi Desktop version 0.6.4, simplifying remote access to SoloHost apps.\n\nThe update removes the need to configure home routers. Pioneers can access local AI agents on their computers",
-    "url": "https://x.com/BSCNews/status/2114581319439253856"
-  },
-  {
-    "id": "x-1792990929920-6puk8q",
-    "source": "x",
-    "ts": "2026-10-26T05:02:09.920Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T05:00:50.000Z",
-    "reason": "No notable move in crypto related to the tweet.",
-    "text": "🚨 NOW: Oil prices dip from near six-month highs, with US crude futures down 2% to $101 and Brent futures at $114, as Houthi attacks on Saudi Arabia keep supply fears alive.",
-    "url": "https://x.com/Cointelegraph/status/2114583007944163521"
-  },
-  {
     "id": "x-1792992131936-3epi2j",
     "source": "x",
     "ts": "2026-10-26T05:22:11.936Z",
@@ -7900,5 +7837,70 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "TON Just Opened Its Doors to Pump Fun Traders\n\n@ton_blockchain is now available in @Pumpfun’s mobile wallet. This lets traders trade TON native tokens directly from their $USDC wallet balance.\n\nThe platform eliminates manual bridging and gas management. \n\nThis means the",
     "url": "https://x.com/BSCNews/status/2115096962978463884"
+  },
+  {
+    "id": "x-1793114658851-nwd9e5",
+    "source": "x",
+    "ts": "2026-10-27T15:24:18.851Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-27T15:23:18.000Z",
+    "reason": "No notable move in ETH, price is within its recent range.",
+    "text": "What Do Crypto Holders Need To Know About US Midterm Elections [Ft. Turner Wright] #CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2115102041991495851"
+  },
+  {
+    "id": "x-1793114661932-w4drxb",
+    "source": "x",
+    "ts": "2026-10-27T15:24:21.932Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 22,
+    "originTimestamp": "2026-10-27T15:02:26.000Z",
+    "reason": "No notable move in the crypto space.",
+    "text": "United Airlines CEO in new interview on Delta Airlines choosing not to adopt @Starlink:\n\n\"It's a mistake. I think (Starlink) is the biggest competitive advantage of all time. We are going to have a few years of being the only airline that has it at scale.\"",
+    "url": "https://x.com/elonmusk/status/2115101700872982537"
+  },
+  {
+    "id": "x-1793114666327-zvht5j",
+    "source": "x",
+    "ts": "2026-10-27T15:24:26.327Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-27T15:18:00.000Z",
+    "reason": "New stablecoin support adds to Celo's AI ecosystem.",
+    "text": "Just when you thought @Celo's AI ecosystem couldn't get any stronger...\n\nCelo has announced that its native x402 facilitator now supports additional stablecoins in the form of @cngn_co’s $cNGN, as well as @RipioHQ’s $wMXN, $wCLP &amp; $wPEN.\n\nFollowing the update, x402/Celo now",
+    "url": "https://x.com/BSCNews/status/2115100709477659004",
+    "images": [
+      "https://pbs.twimg.com/media/HVpY1VIW0AAacPT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793114669188-cib8vx",
+    "source": "x",
+    "ts": "2026-10-27T15:24:29.188Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-27T15:14:30.000Z",
+    "reason": "Innovative application of cryptocurrency for AI payments.",
+    "text": "JUST IN: Lightning Labs has launched Wavelength, enabling AI agents to pay and get paid in Bitcoin! ⚡️",
+    "url": "https://x.com/BitcoinMagazine/status/2115099828833444122",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115099788794273792/vid/avc1/1280x720/cSDMmtifSjnE_Frv.mp4?tag=29",
+      "duration": 19,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HVpYHfEXAAIyKYd.jpg"
+    }
   }
 ]
