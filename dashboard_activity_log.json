@@ -1,76 +1,5 @@
 [
   {
-    "id": "x-1792765343213-m2bgzn",
-    "source": "x",
-    "ts": "2026-10-23T14:22:23.213Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-23T14:12:06.000Z",
-    "reason": "Specific institutional statement about Bitcoin's role and development.",
-    "text": "JUST IN: The world's largest derivatives exchange CME Group says Bitcoin primarily functions as a decentralized store of value 👀\n\n\"The asset is maturing along distinct economic, functional, and regulatory paths\" 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2113634575507431861",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113634543492075520/vid/avc1/1280x720/tGwKKI-ViscbKHeG.mp4?tag=29",
-      "duration": 16,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HVUjfIgWIAAwILo.jpg"
-    }
-  },
-  {
-    "id": "x-1792765937833-gfxepi",
-    "source": "x",
-    "ts": "2026-10-23T14:32:17.833Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CryptoNewsLive",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-23T14:26:41.000Z",
-    "reason": "Notable on-chain data point with specific price and technical analysis reference.",
-    "text": "$DOGE traded at 0.0803 on Binance spot at 11:00 UTC on Friday Oct 23. It has given back about two thirds of the Aug 1 to Sep 22 rally and sits between the 0.618 line (0.0823) and the 0.786 line (0.0758). Full TA breakdown in this thread:",
-    "url": "https://x.com/CryptoNwsOrg/status/2113638245049553073",
-    "images": [
-      "https://pbs.twimg.com/media/HVUmxk2WwAAWMAd.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793015035027-p8og32",
-    "source": "x",
-    "ts": "2026-10-26T11:43:55.027Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-26T11:40:20.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "⚡️ INSIGHT: Seeing a DeFi vault’s transactions doesn’t reveal how it may behave under stress.\n\nJames Wiemken of @SPGlobalRatings explains why assessing governance and controls is key to moving from transaction transparency to risk transparency.",
-    "url": "https://x.com/Cointelegraph/status/2114683543918149878"
-  },
-  {
-    "id": "x-1793015040189-7dkgfk",
-    "source": "x",
-    "ts": "2026-10-26T11:44:00.189Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-26T11:38:00.000Z",
-    "reason": "South Korea's repeated postponement of crypto taxes is noteworthy regulatory news.",
-    "text": "South Korea is pushing crypto taxes... Again!\n\nSouth Korea is reportedly postponing its 22% crypto gains tax for the fourth time, according to a Newsis report.\n\nThe presidential office said they were now discussing postponing the tax, according to local media. Meanwhile, the",
-    "url": "https://x.com/BSCNews/status/2114682957155770812",
-    "images": [
-      "https://pbs.twimg.com/media/HVjSdPlWMAA1ExU.png",
-      "https://pbs.twimg.com/media/HVjSdPpWYAE5hVn.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793015043949-0qnmv6",
     "source": "x",
     "ts": "2026-10-26T11:44:03.949Z",
@@ -7888,6 +7817,73 @@
     "url": "https://x.com/Cointelegraph/status/2115149233913245919",
     "images": [
       "https://pbs.twimg.com/media/HVqFA-mWEAA-bHt.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793127231263-v40p27",
+    "source": "x",
+    "ts": "2026-10-27T18:53:51.263Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-27T18:50:46.000Z",
+    "reason": "No notable financial or crypto move, purchasing power comparison is historical and not verifiable in the crypto space.",
+    "text": "🇺🇸 INTERESTING: The US dollar has lost about 97% of its purchasing power since the Fed was founded in 1913, and $1 from then is now worth about 3 cents, per River.",
+    "url": "https://x.com/Cointelegraph/status/2115154255778635778"
+  },
+  {
+    "id": "x-1793127236667-wqn4v8",
+    "source": "x",
+    "ts": "2026-10-27T18:53:56.668Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-27T18:47:15.000Z",
+    "reason": "Notable institutional objection to a major player in the crypto space.",
+    "text": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+    "url": "https://x.com/DecryptMedia/status/2115153368238678142",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793127242631-jyodgd",
+    "source": "x",
+    "ts": "2026-10-27T18:54:02.631Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-27T18:46:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Canton Network trading platform Cancore lands $7.2M seed round\n\nCancore (@cancore_io), a trading platform linking assets on @CantonNetwork ($CC) with liquidity on public blockchains, has been live on the Canton mainnet since April. ArkStream Capital (@ark_stream), dao5",
+    "url": "https://x.com/BSCNews/status/2115153053665964250",
+    "images": [
+      "https://pbs.twimg.com/media/HVp_QEiXAAArbLV.jpg",
+      "https://pbs.twimg.com/media/HVp_TOLWQAA9UYh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793127248731-6p2hmw",
+    "source": "x",
+    "ts": "2026-10-27T18:54:08.731Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-27T18:45:00.000Z",
+    "reason": "Notable and verifiable financial event involving a high-profile crypto figure.",
+    "text": "🚨WILD: SBF’s $500 Million Anthropic investment would have been worth over $100 BILLION at its reported IPO valuation.\n\nFollowing FTX’s collapse, the bankruptcy estate sold the shares in 2024 for nearly $1.3 billion, LESS than 1% of what it would be worth today undiluted.",
+    "url": "https://x.com/coinbureau/status/2115152801676632332",
+    "images": [
+      "https://pbs.twimg.com/media/HVqA0TUaEAAF4pg.png",
+      "https://pbs.twimg.com/media/HVqA0SwaMAAxO8G.jpg"
     ],
     "video": null
   }
