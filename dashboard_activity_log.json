@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1793040177932-2hridf",
-    "source": "x",
-    "ts": "2026-10-26T18:42:57.932Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-26T18:29:45.000Z",
-    "reason": "The tweet references a known security vulnerability and its rapid escalation, likely indicating a significant security incident.",
-    "text": "🔥 BIG: Cloudflare saw thousands of exploit attempts on the PHP bug before it was even public, then millions in the 24 hours after.\n\nThe PHP Foundation admits it sat on the flaw, first spotted in 2024, because it ran short of resources.",
-    "url": "https://x.com/Cointelegraph/status/2114786577180237889",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793040179554-oepx6f",
-    "source": "x",
-    "ts": "2026-10-26T18:42:59.554Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-26T18:29:07.000Z",
-    "reason": "No notable move or specific event is reported.",
-    "text": "Elon's farmers vanished.",
-    "url": "https://x.com/amerix/status/2114786418157343015"
-  },
-  {
-    "id": "x-1793040181655-acpcl1",
-    "source": "x",
-    "ts": "2026-10-26T18:43:01.655Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-26T18:26:01.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "⚡️NEW: Microsoft's new AI system diagnoses complex medical cases more than TWICE as accurately as general physicians, per a study on Science(.)org.\n\nHere's what researchers found:\n- 83% accuracy for AI vs. 36% for doctors on 304 complex cases\n\n- 80% accuracy for AI vs. 47% for",
-    "url": "https://x.com/coinbureau/status/2114785638272880806"
-  },
-  {
     "id": "x-1793040184452-l8d4ze",
     "source": "x",
     "ts": "2026-10-26T18:43:04.452Z",
@@ -7951,5 +7909,50 @@
     "reason": "No notable crypto-related event or market movement.",
     "text": "Legacy media will never run this list, so I will.\n\n2018, Flint, Michigan: Elon funded filtration systems for schools with unsafe water. Over $480K.\n\n2018, Thailand: SpaceX engineers built a mini-submarine within days to help rescue a boys' soccer team trapped in a flooded cave.",
     "url": "https://x.com/elonmusk/status/2115467041809576173"
+  },
+  {
+    "id": "x-1793202810064-83lalg",
+    "source": "x",
+    "ts": "2026-10-28T15:53:30.064Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-28T15:51:45.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "1 tattoo = 1 gonorrhoea\n\n2 tattoos = 1 gonorrhoea + 1 chlamydia\n\n3 tattoos = 2 gonorrhoea +1 chlamydia\n\n4 tattoos = 2 gonorrhoea + 2 chlamydia\n\n5 tattoos = Syphilis\n\nCHANGE or PERISH",
+    "url": "https://x.com/amerix/status/2115471592440426684"
+  },
+  {
+    "id": "x-1793202812739-nii7i3",
+    "source": "x",
+    "ts": "2026-10-28T15:53:32.739Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 53,
+    "originTimestamp": "2026-10-28T15:00:39.000Z",
+    "reason": "No notable crypto-related content",
+    "text": "We’re proud to announce that we will face FC Bayern in the opening match of the new Raila Odinga International Stadium at Talanta Sports City in Nairobi, Kenya 🇰🇪",
+    "url": "https://x.com/amerix/status/2115471069813371258"
+  },
+  {
+    "id": "x-1793202816419-q2p6yd",
+    "source": "x",
+    "ts": "2026-10-28T15:53:36.419Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-28T15:44:09.000Z",
+    "reason": "US Treasury sanctions involving crypto transactions related to North Korea",
+    "text": "US Treasury sanctions 10 people and 1 entity tied to North Korea's IT worker schemes.\n\nOne Russian national converted about $3.5M in crypto for a sanctioned DPRK IT firm since 2024, OFAC says.",
+    "url": "https://x.com/DecryptMedia/status/2115469677740630043",
+    "images": [
+      "https://pbs.twimg.com/media/HVuoR_eWwAAAbFi.png",
+      "https://pbs.twimg.com/media/HVuoTqqXIAAtJZV.png"
+    ],
+    "video": null
   }
 ]
