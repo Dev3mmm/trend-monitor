@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793051484334-vi0qzy",
-    "source": "x",
-    "ts": "2026-10-26T21:51:24.334Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-26T21:45:00.000Z",
-    "reason": "Osmosis stops printing new tokens, impacting the OSMO stablecoin supply.",
-    "text": "Osmosis stops printing new OSMO\n\n@osmosis has switched off $OSMO inflation, and today’s daily epoch minted zero new tokens, down from 91,324 a day. Proposal 1053 passed with a 91.1% yes vote. The daily release of developer tokens is also paused, leaving about 51.9M OSMO in place",
-    "url": "https://x.com/BSCNews/status/2114835712365441345",
-    "images": [
-      "https://pbs.twimg.com/media/HVlablzWsAAkkh2.jpg",
-      "https://pbs.twimg.com/media/HVlaeVVXcAAqE5A.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793051488736-xwtt8q",
     "source": "x",
     "ts": "2026-10-26T21:51:28.736Z",
@@ -7954,5 +7935,26 @@
       "https://pbs.twimg.com/media/HVvDi8XXEAAdhy3.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793214158058-1vkz03",
+    "source": "x",
+    "ts": "2026-10-28T19:02:38.058Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T18:59:34.000Z",
+    "reason": "No notable move in Fed Chair's comments, within recent inflation range.",
+    "text": "🚨Fed Chair Warsh says the Fed remains DATA-DEPENDENT amid global uncertainty, with inflation still above its 2% target.\n\n\"The period right in front of us is information rich. There is A LOT that's happening in the world. My colleagues and I are keen to take notice of it.\"\n\n\"[We]",
+    "url": "https://x.com/coinbureau/status/2115518857221980423",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115518626556194816/vid/avc1/1280x720/0ImcctUpGeMn7LJ_.mp4?tag=29",
+      "duration": 214,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115518626556194816/img/LZ6P6xZOZoPQuigD.jpg"
+    }
   }
 ]
