@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1792888319547-n6zr6k",
-    "source": "x",
-    "ts": "2026-10-25T00:31:59.547Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-25T00:30:52.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 BIG: US consumer sentiment just hit 48.0, the second-lowest reading ever recorded. \n\nThe only time it's been worse was this May.",
-    "url": "https://x.com/Cointelegraph/status/2114152680348111330"
-  },
-  {
-    "id": "x-1793067237170-ypg1rq",
-    "source": "x",
-    "ts": "2026-10-27T02:13:57.170Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-27T02:01:00.000Z",
-    "reason": "New use of token/stablecoin by Solana blockchain, highlighting Euro stablecoins on Solana.",
-    "text": "The non-USD stablecoin sector is growing, and Solana is winning it...\n\nIn the past week, the @Solana blockchain added around $22M worth of Euro stablecoins - More than all other chains tracked by @tokenterminal combined.\n\nThe only other chains to see positive Euro stablecoin",
-    "url": "https://x.com/BSCNews/status/2114900137168240745",
-    "images": [
-      "https://pbs.twimg.com/media/HVir_9oWwAAZcbe.jpg",
-      "https://pbs.twimg.com/media/HVir_9iW4AAqhkI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793067241314-bq74an",
     "source": "x",
     "ts": "2026-10-27T02:14:01.314Z",
@@ -7922,6 +7890,43 @@
     "images": [
       "https://pbs.twimg.com/media/HVvTPuAXcAAwhXV.png",
       "https://pbs.twimg.com/media/HVvTRbcXEAEEhxY.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793229765019-wihzzx",
+    "source": "x",
+    "ts": "2026-10-28T23:22:45.019Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-28T23:22:00.000Z",
+    "reason": "ETF outflows could indicate reduced interest.",
+    "text": "Will the spot $NEAR ETF see its first ever week of outflows?\n\n@Bitwise's recently launched spot @NEARProtocol ETF has been on fire so far, with four back-to-back weeks of millions in net inflows.\n\nThat could be about to change.\n\nThe product lost -$4.84M on October 28, which has",
+    "url": "https://x.com/BSCNews/status/2115584898996343294",
+    "images": [
+      "https://pbs.twimg.com/media/HVtHdckWsAA88Ds.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793229769190-a6prfz",
+    "source": "x",
+    "ts": "2026-10-28T23:22:49.190Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T23:20:17.000Z",
+    "reason": "Notable criminal conviction in crypto-related scheme",
+    "text": "🇺🇸 NEW: The DOJ has sentenced a Missouri man to four years in federal prison for his role in a cryptocurrency robbery scheme.",
+    "url": "https://x.com/Cointelegraph/status/2115584467540525468",
+    "images": [
+      "https://pbs.twimg.com/media/HVwQ29hWAAA00NL.jpg",
+      "https://pbs.twimg.com/media/HVwQ3KCW0AAN59D.jpg"
     ],
     "video": null
   }
