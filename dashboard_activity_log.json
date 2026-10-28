@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793032001613-1ugvma",
-    "source": "x",
-    "ts": "2026-10-26T16:26:41.613Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 83,
-    "originTimestamp": "2026-10-26T15:03:27.000Z",
-    "reason": "No specific price or event is mentioned or verified.",
-    "text": "They used LOG SCALE instead of linear to hide how extreme the differences really are…",
-    "url": "https://x.com/elonmusk/status/2114753927400808672"
-  },
-  {
     "id": "x-1793032006837-9c61yd",
     "source": "x",
     "ts": "2026-10-26T16:26:46.837Z",
@@ -7882,6 +7869,25 @@
     "images": [
       "https://pbs.twimg.com/media/HVsJ4C9aoAENmYI.png",
       "https://pbs.twimg.com/media/HVsKGmVbAAExqic.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793171227021-2sjh52",
+    "source": "x",
+    "ts": "2026-10-28T07:07:07.021Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-28T07:00:28.000Z",
+    "reason": "Specific institutional involvement in a potential IPO.",
+    "text": "🚨 TODAY: Anthropic has reportedly chosen JPMorgan to lead the retail portion of its potentially record-breaking IPO, Bloomberg reports.",
+    "url": "https://x.com/Cointelegraph/status/2115337887940059413",
+    "images": [
+      "https://pbs.twimg.com/media/HVswmH_XwAATwpV.jpg",
+      "https://pbs.twimg.com/media/HVswmUaXoAAvA71.jpg"
     ],
     "video": null
   }
