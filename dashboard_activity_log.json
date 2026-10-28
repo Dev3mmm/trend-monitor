@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793053567361-m86u1n",
-    "source": "x",
-    "ts": "2026-10-26T22:26:07.361Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-26T22:14:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Floki’s Valhalla game clears the path to battle\n\nValhalla (@ValhallaP2E), @FLOKI's flagship game, has pushed patch 1.13.2 live on mainnet. Players can now sign in using Google, WeChat, email, or a phone number, replacing the old split accounts and private-key backups. Rewards now",
-    "url": "https://x.com/BSCNews/status/2114843010835861754"
-  },
-  {
-    "id": "x-1793053920504-032hna",
-    "source": "x",
-    "ts": "2026-10-26T22:32:00.504Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T22:30:50.000Z",
-    "reason": "Stablecoin holder base expansion is notable.",
-    "text": "🔥 BIG: Stablecoins already surpassed 300 million holder addresses worldwide, and ARK Invest says EVM chains hold about 94% of them.",
-    "url": "https://x.com/Cointelegraph/status/2114847246202101944",
-    "images": [
-      "https://pbs.twimg.com/media/HVlyW-MXcAAXEyQ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793053922595-y0p0gg",
-    "source": "x",
-    "ts": "2026-10-26T22:32:02.595Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T22:30:25.000Z",
-    "reason": "No notable move or institutional action is suggested or verified.",
-    "text": "OpenAI says its AI has disproved ETH, and no, not Ethereum.\n\nETH here is short for the Exponential Time Hypothesis, a decades-old computer science assumption.\n\nIt says some hard computing problems will always take exponentially longer to solve as they grow.\n\nOpenAI says the",
-    "url": "https://x.com/coinbureau/status/2114847143618019529"
-  },
-  {
     "id": "x-1793055116139-rabs89",
     "source": "x",
     "ts": "2026-10-26T22:51:56.139Z",
@@ -7964,5 +7920,55 @@
     "reason": "Tweet is in Chinese and lacks concrete, specific crypto-related news.",
     "text": "总的来说沃什的讲话非常的简洁，该透露的不该透露的什么都没说，大家关心的就是美联储12月加息的问题，沃什的回答是不知道，还要看数据才能决定，这也是很美联储了。",
     "url": "https://x.com/PhyrexNi/status/2115525463976312837"
+  },
+  {
+    "id": "x-1793217152146-xcy34c",
+    "source": "x",
+    "ts": "2026-10-28T19:52:32.146Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-28T19:47:15.000Z",
+    "reason": "No notable move in cryptocurrency as stated, just a survey finding.",
+    "text": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
+    "url": "https://x.com/DecryptMedia/status/2115530855359631619"
+  },
+  {
+    "id": "x-1793217156467-z8u306",
+    "source": "x",
+    "ts": "2026-10-28T19:52:36.467Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T19:45:00.000Z",
+    "reason": "Retail interest in crypto is indeed fading based on Google search data.",
+    "text": "INSIGHT: Google searches for Bitcoin have plunged to a FIVE-YEAR LOW as $BTC trades near $81,000.\n\nSimilar lows in September 2023 and September 2024 coincided with local Bitcoin price BOTTOMS.\n\nRetail interest in crypto FADING:\n\n- Robinhood's crypto revenue plunged 55% year over",
+    "url": "https://x.com/coinbureau/status/2115530289493717462",
+    "images": [
+      "https://pbs.twimg.com/media/HVvd-hsacAAe_vd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793217160374-u5b7s5",
+    "source": "x",
+    "ts": "2026-10-28T19:52:40.374Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T19:45:00.000Z",
+    "reason": "Monaco mainnet launch with real funds and leverage adoption on Sei Network.",
+    "text": "Monaco mainnet is live on Sei, and testnet traders get the first seats\n\n@MonacoTrading has opened its invite-only mainnet on @SeiNetwork ($SEI), with real funds and real leverage. Anyone who traded on the public testnet gets in right away, along with one invite code for a friend",
+    "url": "https://x.com/BSCNews/status/2115530289074307453",
+    "images": [
+      "https://pbs.twimg.com/media/HVvVo19XYAAnjKc.jpg",
+      "https://pbs.twimg.com/media/HVvVpuXWcAAX6xm.jpg"
+    ],
+    "video": null
   }
 ]
