@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1793052102068-oyt6wh",
-    "source": "x",
-    "ts": "2026-10-26T22:01:42.068Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-26T22:00:56.000Z",
-    "reason": "Blockchain security concerns revealed",
-    "text": "🚨 BIG: Ex-DOGE staffers say they broke into Anthropic.\n\nTheir months-old startup Cathedral claims it got into the AI giant's sensitive internal data and messaging systems.",
-    "url": "https://x.com/Cointelegraph/status/2114839722522529994",
-    "images": [
-      "https://pbs.twimg.com/media/HVlrg9eXsAE6KJ_.jpg",
-      "https://pbs.twimg.com/media/HVlrhOMWUAAYmI-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793053558587-a778p3",
-    "source": "x",
-    "ts": "2026-10-26T22:25:58.587Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-26T22:18:20.000Z",
-    "reason": "Notable delay in an Ethereum fork due to compatibility risks.",
-    "text": "Ethereum Delays Glamsterdam Hoodi Fork Over EIP-8037 and EIP-8038 Risks\n\nEthereum researcher Toni Wahrstätter said the planned Glamsterdam fork on the Hoodi testnet has been delayed after ChainSecurity identified compatibility risks in EIP-8037 and EIP-8038. The gas changes could",
-    "url": "https://x.com/WuBlockchain/status/2114844104140222968",
-    "images": [
-      "https://pbs.twimg.com/media/HVlvf63bgAARCTL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793053562166-8fc3fx",
-    "source": "x",
-    "ts": "2026-10-26T22:26:02.166Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-26T22:17:15.000Z",
-    "reason": "Notable regulatory move affecting stablecoins.",
-    "text": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-    "url": "https://x.com/DecryptMedia/status/2114843828947472888",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793053567361-m86u1n",
     "source": "x",
     "ts": "2026-10-26T22:26:07.361Z",
@@ -7968,6 +7915,53 @@
     "ageMin": 74,
     "originTimestamp": "2026-10-28T18:19:11.000Z",
     "reason": "Tweet is in Chinese and lacks concrete, specific information verifiable in the crypto market.",
+    "text": "总的来说沃什的讲话非常的简洁，该透露的不该透露的什么都没说，大家关心的就是美联储12月加息的问题，沃什的回答是不知道，还要看数据才能决定，这也是很美联储了。",
+    "url": "https://x.com/PhyrexNi/status/2115525463976312837"
+  },
+  {
+    "id": "x-1793216529148-71cnub",
+    "source": "x",
+    "ts": "2026-10-28T19:42:09.148Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-28T19:40:48.000Z",
+    "reason": "Specific, verifiable policy and institutional action.",
+    "text": "JUST IN: 🇺🇸 Senator Bill Hagerty says growing the U.S. Strategic Bitcoin Reserve beyond its current 200,000 BTC “could come very soon” once crypto market structure legislation gets done 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2115529232814318036",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115527231556505601/vid/avc1/1206x670/6SgdMV3yy3hTHkC7.mp4?tag=29",
+      "duration": 99,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HVvc77LWMAABKHv.jpg"
+    }
+  },
+  {
+    "id": "x-1793216531152-vf7ep6",
+    "source": "x",
+    "ts": "2026-10-28T19:42:11.152Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T19:38:19.000Z",
+    "reason": "No notable move or specific event related to crypto is mentioned.",
+    "text": "🇺🇸 TODAY: Kevin Warsh says politics played no role in the Fed’s decision, adding that policymakers will closely assess how geopolitical developments and higher oil prices affect the dual mandate.",
+    "url": "https://x.com/Cointelegraph/status/2115528609821553023"
+  },
+  {
+    "id": "x-1793216533257-hucigb",
+    "source": "x",
+    "ts": "2026-10-28T19:42:13.257Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 83,
+    "originTimestamp": "2026-10-28T18:19:11.000Z",
+    "reason": "Tweet is in Chinese and lacks concrete, specific crypto-related news.",
     "text": "总的来说沃什的讲话非常的简洁，该透露的不该透露的什么都没说，大家关心的就是美联储12月加息的问题，沃什的回答是不知道，还要看数据才能决定，这也是很美联储了。",
     "url": "https://x.com/PhyrexNi/status/2115525463976312837"
   }
