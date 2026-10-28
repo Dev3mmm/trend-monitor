@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 NEW: Tether and industry partners have launched the FASE Foundation to combat scams, support human trafficking survivors and pilot stablecoin-based humanitarian aid.",
-      "url": "https://x.com/Cointelegraph/status/2115483786091663408",
-      "images": [
-        "https://pbs.twimg.com/media/HVu1SeYWMAESz7D.jpg",
-        "https://pbs.twimg.com/media/HVu1SsSW8AADTG4.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793205788885
-    },
-    {
       "text": "🚨 ALERT: A user lost $50,000 in $USDT to an address poisoning attack on Ethereum, according to Scam Sniffer. \n\nAlways verify the full wallet address before sending funds.",
       "url": "https://x.com/Cointelegraph/status/2115489004434890928",
       "images": [
@@ -2686,7 +2676,17 @@
       "at": 1793211151038,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382238564374587?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NEW: Tether and industry partners have launched the FASE Foundation to combat scams, support human trafficking survivors and pilot stablecoin-based humanitarian aid.",
+      "final": "🚨 NEW: Tether and industry partners have launched the FASE Foundation to combat scams, support human trafficking survivors and pilot stablecoin-based humanitarian aid.\n\n#Crypto #Stablecoin",
+      "images": [
+        "https://pbs.twimg.com/media/HVu1SeYWMAESz7D.jpg",
+        "https://pbs.twimg.com/media/HVu1SsSW8AADTG4.jpg"
+      ],
+      "at": 1793212928520,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793211151038
+  "lastPostAt": 1793212928520
 }
