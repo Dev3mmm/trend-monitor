@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793060580585-d6vxrd",
-    "source": "x",
-    "ts": "2026-10-27T00:23:00.585Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T00:22:00.000Z",
-    "reason": "Notable institutional sale of Ethereum by the Ethereum Foundation.",
-    "text": "The Ethereum Foundation selling $ETH ?!\n\nAccording to reports from the likes of @lookonchain and @OnchainLens, the @Ethereum Foundation has dumped some 2,785 $ETH worth around $6.42M.\n\nPer OnChain Lens, the tokens were sold in exchange for @SkyEcosystem's $USDS through @CoWSwap.",
-    "url": "https://x.com/BSCNews/status/2114875222604059092",
-    "images": [
-      "https://pbs.twimg.com/media/HVirbedW0AAr4ge.jpg",
-      "https://pbs.twimg.com/media/HVirbeaXAAEkc4R.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793060583447-6s3anz",
-    "source": "x",
-    "ts": "2026-10-27T00:23:03.447Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-27T00:19:26.000Z",
-    "reason": "Specific regulatory approval news for a major crypto player.",
-    "text": "BREAKING: @Ripple recieves regulatory approval for Ripple National Trust Bank. \n\nripple:native is up on the news",
-    "url": "https://x.com/BSCNews/status/2114874578560569824",
-    "images": [
-      "https://pbs.twimg.com/media/HVmLOJLXMAAvcFp.jpg",
-      "https://pbs.twimg.com/media/HVmLOJIW8AATgf4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793061119090-payrvs",
-    "source": "x",
-    "ts": "2026-10-27T00:31:59.090Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T00:30:50.000Z",
-    "reason": "Coinbase CEO confirms Bitcoin's supply cap remains unchanged.",
-    "text": "🚨 TODAY: Coinbase CEO Brian Armstrong says that while lab-grown diamonds boom and alchemy-made gold nears reality, Bitcoin’s 21M cap stays untouchable.\n\n“You can’t invent anything that will increase Bitcoin supply.”",
-    "url": "https://x.com/Cointelegraph/status/2114877447703286097",
-    "images": [
-      "https://pbs.twimg.com/media/HVmN0s-XAAAxKaA.jpg",
-      "https://pbs.twimg.com/media/HVmN1E6W4AAqBh3.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793062993261-l23ls7",
     "source": "x",
     "ts": "2026-10-27T01:03:13.261Z",
@@ -7966,5 +7909,49 @@
     "url": "https://x.com/DecryptMedia/status/2115553505742033185",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793223789856-anzrkf",
+    "source": "x",
+    "ts": "2026-10-28T21:43:09.856Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T21:40:00.000Z",
+    "reason": "No notable move in Bitcoin price indicated.",
+    "text": "🎙️ Stacks (@stacks.btc) founder Muneeb Ali (@muneeb) says Bitcoin could be entering a \"risky era\" if no work is done on quantum resistance between now and 2028. \n\n#CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2115559229838729297"
+  },
+  {
+    "id": "x-1793223795450-unn8oz",
+    "source": "x",
+    "ts": "2026-10-28T21:43:15.450Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coinbase 🛡️",
+    "ageMin": 43,
+    "originTimestamp": "2026-10-28T20:59:36.000Z",
+    "reason": "Bitcoin reclaims $81,000, a price far outside its recent range.",
+    "text": "Today was a huge day for financial markets. \n\nHere are the 8 headlines you need to know ↓\n\n1. Bitcoin reclaims $81,000. \n\n2. Vivek Ramaswamy's 'Strive' has purchased 15,538 BTC worth $1.25B so far this month.\n\n3. Treasury Secretary Bessent says crypto stablecoins can",
+    "url": "https://x.com/coinbase/status/2115559208611619171",
+    "images": [
+      "https://pbs.twimg.com/media/HVvvvJGXEAAnItR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793223799537-ruidv7",
+    "source": "x",
+    "ts": "2026-10-28T21:43:19.537Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-28T21:38:00.000Z",
+    "reason": "No concrete, specific event or move is described.",
+    "text": "🚨BULLISH: Oracle surges 11% after promising Wall Street $30 BILLION of free cash flow by 2029.  \n\nOracle, which S&amp;P cut to one notch above junk in July, has been burning cash on AI data centers.  \n\nIt now says it needs only $20 BILLION more, split evenly between stock and debt,",
+    "url": "https://x.com/coinbureau/status/2115558726509920743"
   }
 ]
