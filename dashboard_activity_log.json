@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1793040729248-c4ux18",
-    "source": "x",
-    "ts": "2026-10-26T18:52:09.248Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 22,
-    "originTimestamp": "2026-10-26T18:29:45.000Z",
-    "reason": "Exploit disclosure and admission of delayed response by the PHP Foundation.",
-    "text": "🔥 BIG: Cloudflare saw thousands of exploit attempts on the PHP bug before it was even public, then millions in the 24 hours after.\n\nThe PHP Foundation admits it sat on the flaw, first spotted in 2024, because it ran short of resources.",
-    "url": "https://x.com/Cointelegraph/status/2114786577180237889",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793040732206-fhq2qv",
-    "source": "x",
-    "ts": "2026-10-26T18:52:12.206Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 22,
-    "originTimestamp": "2026-10-26T18:29:07.000Z",
-    "reason": "No notable move or concrete news provided.",
-    "text": "Elon's farmers vanished.",
-    "url": "https://x.com/amerix/status/2114786418157343015"
-  },
-  {
-    "id": "x-1793040737260-zqoy5f",
-    "source": "x",
-    "ts": "2026-10-26T18:52:17.260Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 25,
-    "originTimestamp": "2026-10-26T18:26:01.000Z",
-    "reason": "No notable move in cryptocurrency prices or adoption described.",
-    "text": "⚡️NEW: Microsoft's new AI system diagnoses complex medical cases more than TWICE as accurately as general physicians, per a study on Science(.)org.\n\nHere's what researchers found:\n- 83% accuracy for AI vs. 36% for doctors on 304 complex cases\n\n- 80% accuracy for AI vs. 47% for",
-    "url": "https://x.com/coinbureau/status/2114785638272880806"
-  },
-  {
     "id": "x-1793040742855-0jcfe5",
     "source": "x",
     "ts": "2026-10-26T18:52:22.855Z",
@@ -7946,5 +7904,55 @@
     "reason": "No notable crypto news related to STRC, STRF, STRK, or STRD.",
     "text": "Strategy's preferred stocks are moving to daily dividends. STRC switches Nov. 1, with STRF, STRK and STRD following Jan. 1, 2027.\n\nDividend rates and total payouts are unchanged, per company filings.",
     "url": "https://x.com/DecryptMedia/status/2115472422665388043"
+  },
+  {
+    "id": "x-1793203969747-nxxwem",
+    "source": "x",
+    "ts": "2026-10-28T16:12:49.747Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-28T16:12:00.000Z",
+    "reason": "Stablecoin supply growth above $1 billion is noteworthy.",
+    "text": "XRP Ledger's stablecoin supply is back above $1 billion.\n\n@Ripple's $XRP Ledger has seen its stablecoin market cap grow nearly +5% in the past week.\n\nThe growth sends @XRP Ledger's stablecoin economy back above the $1 billion mark, its total now at $1.093 billion.\n\nIt still sits",
+    "url": "https://x.com/BSCNews/status/2115476686481293330",
+    "images": [
+      "https://pbs.twimg.com/media/HVt5xVEW8AAQsmd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793203972433-u99tnf",
+    "source": "x",
+    "ts": "2026-10-28T16:12:52.433Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T16:09:38.000Z",
+    "reason": "ArcherSwap implementing a revenue-sharing mechanism on the Enter_Elysium blockchain network.",
+    "text": "Core DAO Users Are First in Line for ArcherSwap’s HYPE Revenue Share\n\nThe @Archerswapcore DEX will implement a revenue-sharing mechanism on the @Enter_Elysium blockchain network.\n\nUsers who swap, provide liquidity, or interact with the platform can stake their tokens and receive",
+    "url": "https://x.com/BSCNews/status/2115476089963217055",
+    "images": [
+      "https://pbs.twimg.com/media/HVuro6tWQAAqyM-.png",
+      "https://pbs.twimg.com/media/HVurrtMWMAAEfj7.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793203974501-ekjyz7",
+    "source": "x",
+    "ts": "2026-10-28T16:12:54.501Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 37,
+    "originTimestamp": "2026-10-28T15:35:32.000Z",
+    "reason": "No notable move or newsworthy development mentioned.",
+    "text": "Tokenization is no longer a matter of when, it's a matter of where.\n\nIt's already live globally, opening U.S. markets to investors abroad.\n\nWe saw this dynamic with stablecoins, and tokenization is following the same path.\n\nSuperior rails always win. The question is which markets",
+    "url": "https://x.com/coinbase/status/2115474334882177046"
   }
 ]
