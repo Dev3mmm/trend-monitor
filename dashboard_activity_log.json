@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793023988876-zrnj13",
-    "source": "x",
-    "ts": "2026-10-26T14:13:08.876Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-26T14:05:14.000Z",
-    "reason": "No notable move or specific event is clearly described.",
-    "text": "BTC Loses $80k, Anthropic IPO and Big Week Ahead",
-    "url": "https://x.com/DecryptMedia/status/2114720008723157139"
-  },
-  {
-    "id": "x-1793023993457-quyos0",
-    "source": "x",
-    "ts": "2026-10-26T14:13:13.457Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-26T14:02:31.000Z",
-    "reason": "Notable interest rate increase for USDC users.",
-    "text": "Your USDC can do more. 👀\n\nEarn a flat 2% APR on USDC holdings in your Futures and Portfolio Margin accounts.\n\nMore info 👉",
-    "url": "https://x.com/binance/status/2114719327051972650",
-    "images": [
-      "https://pbs.twimg.com/media/HVj-BR2XYAAVvIi.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793024617523-1wwppq",
     "source": "x",
     "ts": "2026-10-26T14:23:37.523Z",
@@ -7879,5 +7848,37 @@
     "reason": "Meme and opinion without factual claim or verified event.",
     "text": "What the Democrats are willing to do with power is terrifying. \n\nWe saw it during Covid, when parents were investigated under the Patriot Act for showing up to schools board meetings and Catholics were spied upon for going to traditional Latin mass. If you bought a MAGA hat you",
     "url": "https://x.com/elonmusk/status/2115260611076792721"
+  },
+  {
+    "id": "x-1793153522643-yu0m2l",
+    "source": "x",
+    "ts": "2026-10-28T02:12:02.643Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T02:10:00.000Z",
+    "reason": "No notable move or specific action described.",
+    "text": "Fomo is taking its community seriously...\n\n@Fomo, the industry's leading social-first trading application, has just launched the official @tryfomo Ecosystem page and account.\n\nExactly what is planned for the new channel is not yet clear but, with nearly 3 million users and nearly",
+    "url": "https://x.com/BSCNews/status/2115264789706313787"
+  },
+  {
+    "id": "x-1793153525268-0yx2j5",
+    "source": "x",
+    "ts": "2026-10-28T02:12:05.268Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-28T02:05:47.000Z",
+    "reason": "Notable data breaches reported by major South Korean cryptocurrency exchanges.",
+    "text": "🇰🇷 NOW: South Korea’s Bithumb, Daishin Securities and Mirae Asset Global Investments have all reported customer data breaches, with Bithumb’s linked to an external cyberattack, per Yonhap.",
+    "url": "https://x.com/Cointelegraph/status/2115263730581688811",
+    "images": [
+      "https://pbs.twimg.com/media/HVrtJn4WkAAyY9T.png",
+      "https://pbs.twimg.com/media/HVrtJzCWwAAQB9q.png"
+    ],
+    "video": null
   }
 ]
