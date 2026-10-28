@@ -2122,5 +2122,19 @@
     "fetchedAt": "2026-10-28T13:22:50.541Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-706e8ca55589e2f8",
+    "title": "Architectural Instance Segmentation for Building Elements",
+    "url": "https://aioz.network/blog/architectural-instance-segmentation-for-building-elements",
+    "description": "TL;DR Architectural Instance Segmentation is a computer vision model for detecting and masking structural elements in building images. Built on YOLOv8n-seg, it identifies individual architectural elements and produces separate segmentation masks for each detected instance. The current checkpoint recognizes five classes: window, door, column, wall, and beam. What the Model Is Architectural Instance",
+    "publishedAt": "2026-10-28T14:25:43.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-28T14:32:35.368Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]

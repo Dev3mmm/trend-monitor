@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793037120588-12x5cd",
-    "source": "x",
-    "ts": "2026-10-26T17:52:00.588Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-26T17:30:10.000Z",
-    "reason": "No relevant to crypto or token prices.",
-    "text": "Try using @Starlink for your home or business",
-    "url": "https://x.com/elonmusk/status/2114773137640554754"
-  },
-  {
-    "id": "x-1793037123854-h54ggo",
-    "source": "x",
-    "ts": "2026-10-26T17:52:03.854Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 64,
-    "originTimestamp": "2026-10-26T16:47:00.000Z",
-    "reason": "No notable crypto-related event or movement described.",
-    "text": "Grok @Bot is like hiring an incredibly competent chief of staff",
-    "url": "https://x.com/elonmusk/status/2114772843997351993"
-  },
-  {
     "id": "x-1792827123775-qwl6ax",
     "source": "x",
     "ts": "2026-10-24T07:32:03.775Z",
@@ -7938,5 +7912,42 @@
     "url": "https://x.com/Cointelegraph/status/2115448546447045043",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793197925297-uaouqv",
+    "source": "x",
+    "ts": "2026-10-28T14:32:05.297Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T14:28:59.000Z",
+    "reason": "Specific institutional announcement related to Bitcoin custody.",
+    "text": "🔥 JUST IN: Google Cloud details a preview Bitcoin custody service that lets institutions sign transactions.",
+    "url": "https://x.com/Cointelegraph/status/2115450761857630640",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793197927935-730itn",
+    "source": "x",
+    "ts": "2026-10-28T14:32:07.935Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-28T14:22:16.000Z",
+    "reason": "Itaú Unibanco becomes the first bank to offer crypto services in Brazil.",
+    "text": "JUST IN: 🇧🇷 Brazil's largest bank Itaú Unibanco becomes the first bank to be a crypto service provider under the country’s new digital-asset rules. 👀\n\nThis allows their 98.5 million customers to have Bitcoin trading and custody through the bank! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2115449069867094270",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115449029802721280/vid/avc1/1280x720/dqfxNXa5couKeYUz.mp4?tag=29",
+      "duration": 24,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HVuVy5LWMAA_cHL.jpg"
+    }
   }
 ]
