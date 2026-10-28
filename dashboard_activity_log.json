@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793046255499-qyydee",
-    "source": "x",
-    "ts": "2026-10-26T20:24:15.499Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-26T20:07:15.000Z",
-    "reason": "The tweet is about AI-assisted hacking, not directly related to cryptocurrencies or blockchain technology.",
-    "text": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-    "url": "https://x.com/DecryptMedia/status/2114811112931639305"
-  },
-  {
-    "id": "x-1793046261167-2r7j92",
-    "source": "x",
-    "ts": "2026-10-26T20:24:21.167Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-26T20:03:50.000Z",
-    "reason": "This brings their total holdings to a significant number of Bitcoin.",
-    "text": "NEW: 🇬🇧 Publicly traded The Smarter Web Company disclosed the purchase of 20 Bitcoin, now worth $1.59 million. 👀\n\nThis brings their total holdings to 2,850 BTC! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2114810252994531350",
-    "images": [
-      "https://pbs.twimg.com/media/HVlQiJlXIAMsCEi.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793046432839-kkbuia",
     "source": "x",
     "ts": "2026-10-26T20:27:12.839Z",
@@ -7971,5 +7940,31 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/media/HVu87a-XEAENY4x.jpg"
     }
+  },
+  {
+    "id": "x-1793209383456-k7980n",
+    "source": "x",
+    "ts": "2026-10-28T17:43:03.456Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T17:40:13.000Z",
+    "reason": "No notable move, statement about tokenizing stocks.",
+    "text": "⚡️ SAYLOR: “Rejecting tokenization of your stock is like rejecting inclusion in an index fund.”",
+    "url": "https://x.com/Cointelegraph/status/2115498886672355512"
+  },
+  {
+    "id": "x-1793209387286-7asmm5",
+    "source": "x",
+    "ts": "2026-10-28T17:43:07.286Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-28T17:37:15.000Z",
+    "reason": "No concrete, specific event or move is described.",
+    "text": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
+    "url": "https://x.com/DecryptMedia/status/2115498139800977751"
   }
 ]
