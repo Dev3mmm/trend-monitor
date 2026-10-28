@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 ALERT: A user lost $50,000 in $USDT to an address poisoning attack on Ethereum, according to Scam Sniffer. \n\nAlways verify the full wallet address before sending funds.",
-      "url": "https://x.com/Cointelegraph/status/2115489004434890928",
-      "images": [
-        "https://pbs.twimg.com/media/HVu6B2ZXkAABqFO.jpg",
-        "https://pbs.twimg.com/media/HVu6CPcXcAEGrMA.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793207091396
-    },
-    {
       "text": ".",
       "url": "https://x.com/amerix/status/2115500092631240856",
       "images": [
@@ -2698,7 +2688,17 @@
       "at": 1793212928520,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382245845274411?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: A user lost $50,000 in $USDT to an address poisoning attack on Ethereum, according to Scam Sniffer. \n\nAlways verify the full wallet address before sending funds.",
+      "final": "🚨 ALERT: A user lost $50,000 in $USDT to an address poisoning attack on Ethereum, according to Scam Sniffer. \n\nAlways verify the full wallet address before sending funds.\n\n#Ethereum $ETH #Stablecoin",
+      "images": [
+        "https://pbs.twimg.com/media/HVu6B2ZXkAABqFO.jpg",
+        "https://pbs.twimg.com/media/HVu6CPcXcAEGrMA.jpg"
+      ],
+      "at": 1793214756948,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793212928520
+  "lastPostAt": 1793214756948
 }
