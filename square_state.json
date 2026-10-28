@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791644536849-actg8k",
-    "x-1791644542920-djfe2m",
     "x-1791646354998-fb2y2v",
     "x-1791647526929-m3o1jh",
     "x-1791648143912-0aj00q",
@@ -1999,19 +1997,11 @@
     "x-1793148737628-nci9kr",
     "x-1793149344538-7hwq2m",
     "x-1793149350261-qflicx",
-    "x-1793150525762-z8uz1k"
+    "x-1793150525762-z8uz1k",
+    "x-1793151172939-nte6g9",
+    "x-1793151178489-2undss"
   ],
   "queue": [
-    {
-      "text": "⚡️ BRIAN ARMSTRONG: “All asset classes are moving onchain. Tokenized stocks and stablecoins (which are really just tokenized fiat currency) are growing fast, with more to come.”",
-      "url": "https://x.com/Cointelegraph/status/2115232149607514475",
-      "images": [
-        "https://pbs.twimg.com/media/HVrQbReXMAAPj06.png",
-        "https://pbs.twimg.com/media/HVrQbiaXcAASRjr.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793145732716
-    },
     {
       "text": "🚨 ALERT: Solflare’s validator has stopped producing SOL staking rewards after a security incident at its staking provider affected the validator keys, though the wallet says user funds are safe.",
       "url": "https://x.com/Cointelegraph/status/2115243450077462677",
@@ -2021,6 +2011,16 @@
       ],
       "video": null,
       "enqueuedAt": 1793148738111
+    },
+    {
+      "text": "🚨 NOW: OpenAI is planning to purchase Google’s AI chips, per The Information.\n\nThe ChatGPT maker has long relied on Nvidia, which is also one of its backers.",
+      "url": "https://x.com/Cointelegraph/status/2115254786404626732",
+      "images": [
+        "https://pbs.twimg.com/media/HVrlA1pWsAAOe6A.jpg",
+        "https://pbs.twimg.com/media/HVrlBJtWkAAAeru.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793151179046
     }
   ],
   "posted": [
@@ -2671,7 +2671,17 @@
       "at": 1793149350874,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381985431287916?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "⚡️ BRIAN ARMSTRONG: “All asset classes are moving onchain. Tokenized stocks and stablecoins (which are really just tokenized fiat currency) are growing fast, with more to come.”",
+      "final": "⚡️ BRIAN ARMSTRONG: “All asset classes are moving onchain. Tokenized stocks and stablecoins (which are really just tokenized fiat currency) are growing fast, with more to come.”\n\n#Crypto #Stablecoin",
+      "images": [
+        "https://pbs.twimg.com/media/HVrQbReXMAAPj06.png",
+        "https://pbs.twimg.com/media/HVrQbiaXcAASRjr.jpg"
+      ],
+      "at": 1793151179046,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793149350874
+  "lastPostAt": 1793151179046
 }
