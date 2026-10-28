@@ -2001,17 +2001,7 @@
     "x-1793157148263-f7z6ac",
     "x-1793157153278-ria5kg"
   ],
-  "queue": [
-    {
-      "text": "🚨 NOW: Coinbase says it has not suffered a data breach.\n\nA security incident at analytics vendor Amplitude exposed some users’ contact data, but customer funds and Coinbase systems were unaffected.",
-      "url": "https://x.com/Cointelegraph/status/2115279419640029666",
-      "images": [
-        "https://pbs.twimg.com/media/HVr7bBAWUAAAuQb.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793157153968
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🔥 BIG: Franklin Templeton is set to launch ETFs that hold US stocks and reinvest dividends into Bitcoin, targeting a 5% bitcoin:native allocation, per ETF analyst Nate Geraci.",
@@ -2671,7 +2661,16 @@
       "at": 1793156562219,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382015009884750?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NOW: Coinbase says it has not suffered a data breach.\n\nA security incident at analytics vendor Amplitude exposed some users’ contact data, but customer funds and Coinbase systems were unaffected.",
+      "final": "🚨 NOW: Coinbase says it has not suffered a data breach.\n\nA security incident at analytics vendor Amplitude exposed some users’ contact data, but customer funds and Coinbase systems were unaffected.\n\n#Crypto #Coinbase",
+      "images": [
+        "https://pbs.twimg.com/media/HVr7bBAWUAAAuQb.jpg"
+      ],
+      "at": 1793158340628,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793156562219
+  "lastPostAt": 1793158340628
 }
