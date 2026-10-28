@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1793044511338-nj60pb",
-    "source": "x",
-    "ts": "2026-10-26T19:55:11.338Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 22,
-    "originTimestamp": "2026-10-26T19:32:15.000Z",
-    "reason": "Notable security exploit involving a major AI research organization.",
-    "text": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
-    "url": "https://x.com/DecryptMedia/status/2114802304838779094",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793044921563-sgc2cl",
-    "source": "x",
-    "ts": "2026-10-26T20:02:01.563Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T20:01:01.000Z",
-    "reason": "Notable financial institution partnership with blockchain technology.",
-    "text": "🚨 BIG: S&amp;P Dow Jones Indices just partnered with Kalshi, making it a preferred platform for event contracts tied to S&amp;P indexes.\n\nS&amp;P DJI will also explore building new indexes from Kalshi's prediction market data.",
-    "url": "https://x.com/Cointelegraph/status/2114809544295481764",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793046250494-i0itsx",
-    "source": "x",
-    "ts": "2026-10-26T20:24:10.494Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-26T20:19:00.000Z",
-    "reason": "New developer tool for Zcash apps",
-    "text": "Zcash gets a JavaScript toolkit for app makers\n\n@ZcashLabs has released Zcash JS, a free, open-source developer kit for building $ZEC apps in JavaScript and TypeScript. It lets developers read chain data, run lightweight wallets, and sign and send transactions from web browsers",
-    "url": "https://x.com/BSCNews/status/2114814069924356493",
-    "images": [
-      "https://pbs.twimg.com/media/HVlGuIHWwAADadD.jpg",
-      "https://pbs.twimg.com/media/HVlGuIMWQAAr6dM.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793046255499-qyydee",
     "source": "x",
     "ts": "2026-10-26T20:24:15.499Z",
@@ -7966,5 +7915,61 @@
     "reason": "No notable crypto-related event or move is mentioned.",
     "text": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
     "url": "https://x.com/DecryptMedia/status/2115490470843277484"
+  },
+  {
+    "id": "x-1793208147894-xmdv50",
+    "source": "x",
+    "ts": "2026-10-28T17:22:27.894Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T17:20:13.000Z",
+    "reason": "Potential impact on campaign finance disclosures and elections.",
+    "text": "🇺🇸 BIG: The FEC’s electronic filing system remains offline after a reported hacking attempt, blocking new campaign finance disclosures days before the U.S. midterm elections.",
+    "url": "https://x.com/Cointelegraph/status/2115493856108056868",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793208153935-t6aqfn",
+    "source": "x",
+    "ts": "2026-10-28T17:22:33.935Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T17:19:34.000Z",
+    "reason": "Seizure of stolen assets and recovery of a specific cryptocurrency instance.",
+    "text": "Osmosis seizes the attacker’s stash to make Alloyed BTC whole\n\n@osmosis has finished the recovery of Alloyed BTC (allBTC). On June 25, an attacker exploited a bug in the @nomicbtc bridge to mint about 40 fake nBTC, and nearly all of it ended up inside allBTC. Real backing fell to",
+    "url": "https://x.com/BSCNews/status/2115493692236595306",
+    "images": [
+      "https://pbs.twimg.com/media/HVu8cTcWcAAqUSR.jpg",
+      "https://pbs.twimg.com/media/HVu8fCyWIAAdCYH.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793208158691-i2usp6",
+    "source": "x",
+    "ts": "2026-10-28T17:22:38.691Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-28T17:12:50.000Z",
+    "reason": "Specific institutional activity with significant inflows into U.S. Bitcoin ETFs.",
+    "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs saw $176 million in inflows yesterday 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2115491996836016342",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115491970537697280/vid/avc1/1270x718/R9hSvJvqZqet_IVO.mp4?tag=29",
+      "duration": 21,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HVu87a-XEAENY4x.jpg"
+    }
   }
 ]
