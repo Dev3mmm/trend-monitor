@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793033176612-aq08ya",
-    "source": "x",
-    "ts": "2026-10-26T16:46:16.612Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-26T16:30:53.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "📊 MARKET: BitMine only needs 63,519 $ETH to reach its goal of owning 5% of the supply.",
-    "url": "https://x.com/Cointelegraph/status/2114756663005569059"
-  },
-  {
     "id": "x-1793033181635-ya9yeg",
     "source": "x",
     "ts": "2026-10-26T16:46:21.635Z",
@@ -7882,5 +7869,24 @@
     "reason": "No notable move or specific event described.",
     "text": "⚡️ LONGITUDE: Did token farming give crypto investors unrealistic yield expectations?\n\n@Bitwise’s @Yannimoto says some allocators still want 20% stablecoin yields with no risk and instant liquidity.",
     "url": "https://x.com/Cointelegraph/status/2115354467897881070"
+  },
+  {
+    "id": "x-1793175774163-xyazmc",
+    "source": "x",
+    "ts": "2026-10-28T08:22:54.163Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T08:18:13.000Z",
+    "reason": "A notable record-breaking event with a large amount of a token bridged to a new network.",
+    "text": "Zcash Hits Record Bridged Supply on Solana\n\nA record 103,000 Zcash's (@Zcash) $ZEC now sits on Solana (@solana) $SOL, making it the largest bridged pool of Zcash on the network.\n\nMost of the tokens arrive through NEAR’s (@NEARProtocol) $NEAR OmniBridge. The record is based on",
+    "url": "https://x.com/BSCNews/status/2115357456255913984",
+    "images": [
+      "https://pbs.twimg.com/media/HVsazcbbEAABWkC.png",
+      "https://pbs.twimg.com/media/HVsa1XzaUAAXgWm.png"
+    ],
+    "video": null
   }
 ]
