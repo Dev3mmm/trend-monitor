@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793026940301-wnd4qa",
-    "source": "x",
-    "ts": "2026-10-26T15:02:20.301Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-26T14:52:26.000Z",
-    "reason": "Generic motivational tweet without a specific crypto-related claim.",
-    "text": "I don't know how many times I will tell you this:\n\nSTOP sleeping, dating, having sexual affairs or marrying women older than you.\n\nSTOP IT.\n\nChange or Perish.",
-    "url": "https://x.com/amerix/status/2114731886803042802"
-  },
-  {
     "id": "x-1793028746807-419sar",
     "source": "x",
     "ts": "2026-10-26T15:32:26.807Z",
@@ -7880,5 +7867,24 @@
     "reason": "No notable crypto-related event mentioned.",
     "text": "🇺🇸 LATEST: The US has reportedly told several Gulf countries to prepare for a short but intense renewed military campaign against Iran after the midterm elections, per WSJ.",
     "url": "https://x.com/Cointelegraph/status/2115284986676883519"
+  },
+  {
+    "id": "x-1793158936472-ttrjry",
+    "source": "x",
+    "ts": "2026-10-28T03:42:16.472Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T03:34:34.000Z",
+    "reason": "New DeFi product launch with eligible US traders.",
+    "text": "Crypto(.)com Brings Zcash and Sei Perps to the US\n\nCrypto(.)com (@cryptocom) and OG(.)com have launched perpetual crypto contracts for eligible US traders.\n\nThe lineup includes $BTC, $ETH, $SOL, $HYPE, $ZEC and $SEI.\n\nUsers can trade around the clock with up to 5x leverage. The",
+    "url": "https://x.com/BSCNews/status/2115286073920409847",
+    "images": [
+      "https://pbs.twimg.com/media/HVr7NZzbkAAM4OO.png",
+      "https://pbs.twimg.com/media/HVr7Up-boAIkFRy.jpg"
+    ],
+    "video": null
   }
 ]
