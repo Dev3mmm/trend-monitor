@@ -2001,18 +2001,7 @@
     "x-1793185365931-052gn0",
     "x-1793185923853-8hfwrn"
   ],
-  "queue": [
-    {
-      "text": "JUST IN: $800B Itaú, Brazil’s largest bank, formalizes crypto trading, offering 15 assets including BTC, ETH, SOL and XRP.",
-      "url": "https://x.com/coinbureau/status/2115395914986934508",
-      "images": [
-        "https://pbs.twimg.com/media/HVtlRAqbQAAdN7N.jpg",
-        "https://pbs.twimg.com/media/HVtlO4maQAA9pMi.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793184801554
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🔥 NEW: Aviva Investors launches a tokenized share class of its £22B Sterling Liquidity Fund on XRP Ledger.\n\nAviva invests £50M in the new share class.",
@@ -2658,7 +2647,17 @@
       "at": 1793184801554,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382130635634083?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: $800B Itaú, Brazil’s largest bank, formalizes crypto trading, offering 15 assets including BTC, ETH, SOL and XRP.",
+      "final": "JUST IN: $800B Itaú, Brazil’s largest bank, formalizes crypto trading, offering 15 assets including BTC, ETH, SOL and XRP.\n\n#Bitcoin $BTC #Ethereum $ETH #Solana $SOL",
+      "images": [
+        "https://pbs.twimg.com/media/HVtlRAqbQAAdN7N.jpg",
+        "https://pbs.twimg.com/media/HVtlO4maQAA9pMi.png"
+      ],
+      "at": 1793186566212,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793184801554
+  "lastPostAt": 1793186566212
 }
