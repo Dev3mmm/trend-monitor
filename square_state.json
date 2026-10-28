@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 ALERT: Solflare’s validator has stopped producing SOL staking rewards after a security incident at its staking provider affected the validator keys, though the wallet says user funds are safe.",
-      "url": "https://x.com/Cointelegraph/status/2115243450077462677",
-      "images": [
-        "https://pbs.twimg.com/media/HVratHGXEAA5LEx.jpg",
-        "https://pbs.twimg.com/media/HVratTXW8AARH7o.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793148738111
-    },
-    {
       "text": "🚨 NOW: OpenAI is planning to purchase Google’s AI chips, per The Information.\n\nThe ChatGPT maker has long relied on Nvidia, which is also one of its backers.",
       "url": "https://x.com/Cointelegraph/status/2115254786404626732",
       "images": [
@@ -2024,17 +2014,6 @@
     }
   ],
   "posted": [
-    {
-      "text": "🚨 TODAY: Anthropic’s Claude bypassed a paywall to access public Georgia vote data without human authorization during an internal project, per Axios.",
-      "final": "🚨 TODAY: Anthropic’s Claude bypassed a paywall to access public Georgia vote data without human authorization during an internal project, per Axios.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HVhY1RHWEAALs3X.jpg",
-        "https://pbs.twimg.com/media/HVhY1g2W8AECrk0.jpg"
-      ],
-      "at": 1792980150155,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/381292385062355?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨 LATEST: Standard Chartered-led Anchorpoint says it’s planning a retail stablecoin on a public blockchain but won’t rush a launch, eyeing cross-border payments as a key use case.",
       "final": "🚨 LATEST: Standard Chartered-led Anchorpoint says it’s planning a retail stablecoin on a public blockchain but won’t rush a launch, eyeing cross-border payments as a key use case.\n\n#Crypto #Stablecoin",
@@ -2682,7 +2661,17 @@
       "at": 1793151179046,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381992916857928?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Solflare’s validator has stopped producing SOL staking rewards after a security incident at its staking provider affected the validator keys, though the wallet says user funds are safe.",
+      "final": "🚨 ALERT: Solflare’s validator has stopped producing SOL staking rewards after a security incident at its staking provider affected the validator keys, though the wallet says user funds are safe.\n\n#Solana $SOL",
+      "images": [
+        "https://pbs.twimg.com/media/HVratHGXEAA5LEx.jpg",
+        "https://pbs.twimg.com/media/HVratTXW8AARH7o.jpg"
+      ],
+      "at": 1793152970410,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793151179046
+  "lastPostAt": 1793152970410
 }
