@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793028746807-419sar",
-    "source": "x",
-    "ts": "2026-10-26T15:32:26.807Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T15:31:00.000Z",
-    "reason": "No notable move in the crypto market.",
-    "text": "🇺🇸 UPDATE: Markets price in a 90.6% chance the Fed holds rates steady on Oct. 28.",
-    "url": "https://x.com/Cointelegraph/status/2114741591642411269"
-  },
-  {
-    "id": "x-1793028752323-hg7gxs",
-    "source": "x",
-    "ts": "2026-10-26T15:32:32.323Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 58,
-    "originTimestamp": "2026-10-26T14:34:11.000Z",
-    "reason": "Quantum computing threat to Bitcoin highlighted by a cybersecurity expert.",
-    "text": "Is your Bitcoin on a quantum hit list? ⚡️\n\nCypherpunk @lopp says, \"Unless you have more than 50 Bitcoin, you're at the very bottom of the totem pole.\"\n\n\"If I was an attacker, I'd be just going down the rich list from top to bottom.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2114741250687738303",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2114726901444907008/vid/avc1/1206x668/_AN7INRQ2MRDn0X3.mp4?tag=29",
-      "duration": 85,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114726901444907008/img/L8_WhwYMtUVyQOhW.jpg"
-    }
-  },
-  {
     "id": "x-1793028757545-91nvgg",
     "source": "x",
     "ts": "2026-10-26T15:32:37.545Z",
@@ -7884,6 +7850,37 @@
     "images": [
       "https://pbs.twimg.com/media/HVr7NZzbkAAM4OO.png",
       "https://pbs.twimg.com/media/HVr7Up-boAIkFRy.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793159548730-hhw192",
+    "source": "x",
+    "ts": "2026-10-28T03:52:28.730Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T03:50:08.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🚨Is a Global emergency imminent?\n\nFormer FBI deputy chief echoes governments WORLDWIDE in calling for emergency preparedness, urging citizens to stock up.\n\n“Get your stuff today. Please. Do it for your family,” Dan Bongino said, recommending food, water-filtration supplies,",
+    "url": "https://x.com/coinbureau/status/2115289991173775870"
+  },
+  {
+    "id": "x-1793159553823-adhzkh",
+    "source": "x",
+    "ts": "2026-10-28T03:52:33.823Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CertiK Alert",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T03:48:47.000Z",
+    "reason": "Exploit involving loss of USDC from a CertiK-secured vault.",
+    "text": "#CertiKAlert 🚨\n\nAn Avalanche vault lost ~$1.01M USDC in  exploit. \n\n\nA scheduled accounting update reopened used draw capacity, enabling a second withdrawal against the same funding.\n\nCertiK Report Security Dashboard 👇",
+    "url": "https://x.com/CertiKAlert/status/2115289650025923015",
+    "images": [
+      "https://pbs.twimg.com/media/HVr5zooacAAQ3k2.png"
     ],
     "video": null
   }
