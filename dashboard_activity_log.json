@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793055300858-2h3t6o",
-    "source": "x",
-    "ts": "2026-10-26T22:55:00.858Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-26T22:34:05.000Z",
-    "reason": "Generic hype without a specific claim.",
-    "text": "Everyday is zero-day these days",
-    "url": "https://x.com/elonmusk/status/2114848066767630417"
-  },
-  {
-    "id": "x-1793055747563-eik6mu",
-    "source": "x",
-    "ts": "2026-10-26T23:02:27.563Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T23:00:57.000Z",
-    "reason": "High-yield Brazilian bonds and currency movements.",
-    "text": "🇧🇷🚨 JUST IN: Brazil's 10Y bond yield jumped almost 275 basis points in a single day to nearly 16% after Lula's surprise reelection.\n\nThe real also lost about 12% against the dollar, and the Treasury cancelled this week's bond auctions.",
-    "url": "https://x.com/Cointelegraph/status/2114854827570172299",
-    "images": [
-      "https://pbs.twimg.com/media/HVl5QcNWEAErrk3.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793057549978-pz3do6",
     "source": "x",
     "ts": "2026-10-26T23:32:29.978Z",
@@ -7981,5 +7950,36 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Vouch for a friend, earn ITLG: InterLink’s new KYC twist\n\n@inter_link is introducing KYC sponsorship as part of its $ITLG mainnet phase. Anyone who has passed Level 1 KYC can sponsor new users, and a trusted sponsor can move those users up the KYC queue and improve their ITLG",
     "url": "https://x.com/BSCNews/status/2115538090727035353"
+  },
+  {
+    "id": "x-1793220159667-wmpg8e",
+    "source": "x",
+    "ts": "2026-10-28T20:42:39.667Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T20:40:12.000Z",
+    "reason": "Warning about potential malware, impacting user safety and security.",
+    "text": "🚨 ALERT: CZ urges users to avoid clicking email links or downloading attachments, warning that even trusted contacts may unknowingly have malware on their computers.",
+    "url": "https://x.com/Cointelegraph/status/2115544180009193682",
+    "images": [
+      "https://pbs.twimg.com/media/HVvsOD_WMAANxjT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793220164786-a6ov6c",
+    "source": "x",
+    "ts": "2026-10-28T20:42:44.786Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 25,
+    "originTimestamp": "2026-10-28T20:17:29.000Z",
+    "reason": "No notable move in crypto mentioned.",
+    "text": "🚨JUST OUT: Google $GOOGL PLUNGES over 9% after hours on an earnings MISS, and its AI infrastructure spending pushes free cash flow NEGATIVE.\n\nAlphabet spent $51.4 BILLION on capex in the quarter, leaving free cash flow at NEGATIVE $9.07 BILLION despite revenue rising 25% to",
+    "url": "https://x.com/coinbureau/status/2115543826412810325"
   }
 ]
