@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1792830123673-45nnji",
-    "source": "x",
-    "ts": "2026-10-24T08:22:03.673Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-24T08:14:12.000Z",
-    "reason": "No notable move, price is well within its normal recent range.",
-    "text": "@Bish311437 Hello there, sorry for the challenge. Please share your number via DM for us to have a look at your account and usage. ^JR",
-    "url": "https://x.com/Safaricom_Care/status/2113906891801649418"
-  },
-  {
-    "id": "x-1793038513384-8tw4al",
-    "source": "x",
-    "ts": "2026-10-26T18:15:13.384Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T18:13:35.000Z",
-    "reason": "Impressive TRON stablecoin transaction numbers.",
-    "text": "TRON’s Q3 numbers speak for themselves.  🔻\n\n$2.21T in stablecoin settlement\n1.07B transactions\n3.72M average daily active addresses\n\nMore on TRON’s latest quarter from @BSCNews below.👇",
-    "url": "https://x.com/BSCNews/status/2114782626552701139",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793038516219-swvjiz",
-    "source": "x",
-    "ts": "2026-10-26T18:15:16.219Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-26T18:09:37.000Z",
-    "reason": "Specific regulatory information impacting cryptocurrency markets.",
-    "text": "JUST IN: 🇺🇸 The odds of the Fed rate holding unchanged at October's FOMC meeting are at 92%, according to Polymarket⁠.com 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2114781512323236327",
-    "images": [
-      "https://pbs.twimg.com/media/HVk2QGPXYAAYxgI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793038519603-klpz2l",
     "source": "x",
     "ts": "2026-10-26T18:15:19.603Z",
@@ -7954,5 +7907,55 @@
       "https://pbs.twimg.com/media/HVua9sBWgAArKdv.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793200417564-wnsj12",
+    "source": "x",
+    "ts": "2026-10-28T15:13:37.564Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T15:09:13.000Z",
+    "reason": "No notable crypto-related move or event described.",
+    "text": "Jesus Christ!\n\nWhat did I just watch?",
+    "url": "https://x.com/amerix/status/2115460886500413513"
+  },
+  {
+    "id": "x-1793200421280-557pzf",
+    "source": "x",
+    "ts": "2026-10-28T15:13:41.280Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T15:06:15.000Z",
+    "reason": "JPMorgan and Coca-Cola demonstrate institutional skepticism towards OKX-ICE's tokenized stocks.",
+    "text": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+    "url": "https://x.com/DecryptMedia/status/2115460139868176562",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793200425271-40cvz3",
+    "source": "x",
+    "ts": "2026-10-28T15:13:45.271Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 25,
+    "originTimestamp": "2026-10-28T14:48:33.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Capital B's Alexandre Laizet on how digital credit could take the company to 42,000 BTC:\n\n\"Capital B has started with 40 Bitcoin, then 600, then 1,000, now 3,500 plus BTC on the balance sheet.\"\n\n\"Our objective is, with the potential of digital credit, to replicate what STRC has",
+    "url": "https://x.com/BitcoinMagazine/status/2115459625008918853",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115455183031304192/vid/avc1/1206x664/JCPH63pGh16DkQu4.mp4?tag=29",
+      "duration": 72,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115455183031304192/img/D_UvAr8KvcKVWSbK.jpg"
+    }
   }
 ]
