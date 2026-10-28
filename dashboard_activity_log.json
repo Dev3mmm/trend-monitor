@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1793036377463-58ytol",
-    "source": "x",
-    "ts": "2026-10-26T17:39:37.463Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-26T17:26:14.000Z",
-    "reason": "DeFi integration with a major player on Dogecoin",
-    "text": "DogeOS brings RedStone on board; DeFi on Dogecoin moves a step closer\n\nRedStone (@redstone_defi) has connected its price feeds to DogeOS (@DogeOS), the app layer being built on Dogecoin by the team behind the MyDoge wallet. The feeds are live on the DogeOS public testnet, with",
-    "url": "https://x.com/BSCNews/status/2114770593719501297",
-    "images": [
-      "https://pbs.twimg.com/media/HVkrIwgWIAA3Maq.jpg",
-      "https://pbs.twimg.com/media/HVkrIwZXkAA4phX.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793036383263-1dqxa5",
-    "source": "x",
-    "ts": "2026-10-26T17:39:43.263Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-26T17:25:23.000Z",
-    "reason": "New DeFi protocol announcement with specific features and rewards.",
-    "text": "JUST IN: @TheHouseDotFun (WICK) brings a new DeFi protocol to BNB Chain.\n\n🔹 100% of tokens locked in LP\n🔹 No team tokens\n🔹 Renounced contracts\n\nEvery 0.5% BTC dip triggers a “wick,” rewarding WICK holders with ASH, which earns BNB rewards from wicks and trades.\n\n6 days in: 48",
-    "url": "https://x.com/BSCNews/status/2114770379013001362",
-    "images": [
-      "https://pbs.twimg.com/media/HVksZfpWcAAEw5y.png",
-      "https://pbs.twimg.com/media/HVksaQRXoAAKMz9.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793036388930-0h746b",
-    "source": "x",
-    "ts": "2026-10-26T17:39:48.930Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-26T17:25:02.000Z",
-    "reason": "Tweet unrelated to cryptocurrencies and crypto markets.",
-    "text": "🇺🇸NOW: $540 BILLION added to the U.S. stock market in one hour after Trump pauses planned attacks on Iran.\n\nThe relief rally sent the S&amp;P 500 up 0.83%, the Nasdaq up 1.38% and the Dow up 0.50%, with Tesla surging 6.48%, Nvidia gaining 3.01% and Broadcom rising 3.09%.",
-    "url": "https://x.com/coinbureau/status/2114770292497326467"
-  },
-  {
     "id": "x-1792821123414-v0yfen",
     "source": "x",
     "ts": "2026-10-24T05:52:03.414Z",
@@ -7931,6 +7880,48 @@
     "images": [
       "https://pbs.twimg.com/media/HVuJzteX0AEXGHf.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793195042482-ssaafw",
+    "source": "x",
+    "ts": "2026-10-28T13:44:02.482Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T13:40:36.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "🇺🇸 BESSENT: Treasury can work with the SEC and CFTC to fill crypto regulatory gaps after Congress failed to pass the CLARITY Act.",
+    "url": "https://x.com/Cointelegraph/status/2115438586627842138"
+  },
+  {
+    "id": "x-1793195046526-ld5b49",
+    "source": "x",
+    "ts": "2026-10-28T13:44:06.526Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T13:39:22.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "LIVE: Bitcoin in the Midterms, Bitcoin Macro Strategy | BMTV Oct. 28, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2115438275573784740"
+  },
+  {
+    "id": "x-1793195050642-cflpod",
+    "source": "x",
+    "ts": "2026-10-28T13:44:10.642Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T13:39:15.000Z",
+    "reason": "Mention of a regulatory probe into AI companies.",
+    "text": "House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies",
+    "url": "https://x.com/DecryptMedia/status/2115438245169205645",
+    "images": [],
     "video": null
   }
 ]
