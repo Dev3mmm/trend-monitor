@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793036363431-j0rxag",
-    "source": "x",
-    "ts": "2026-10-26T17:39:23.431Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-26T17:30:10.000Z",
-    "reason": "No crypto-related content mentioned.",
-    "text": "Try using @Starlink for your home or business",
-    "url": "https://x.com/elonmusk/status/2114773137640554754"
-  },
-  {
-    "id": "x-1793036366664-jhnwj4",
-    "source": "x",
-    "ts": "2026-10-26T17:39:26.664Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 52,
-    "originTimestamp": "2026-10-26T16:47:00.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Grok @Bot is like hiring an incredibly competent chief of staff",
-    "url": "https://x.com/elonmusk/status/2114772843997351993"
-  },
-  {
     "id": "x-1793036371898-zn6huk",
     "source": "x",
     "ts": "2026-10-26T17:39:31.898Z",
@@ -7925,6 +7899,38 @@
     "text": "📊#TRON のネットワーク収益が、世界のパブリックブロックチェーンで首位に！\n\n@chainspect_appのデータによると、TRONの週間ネットワーク収益は556万ドルに達し、全体の32％を占めました。",
     "url": "https://x.com/BSCNews/status/2115428813035147368",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793193746062-az9sh0",
+    "source": "x",
+    "ts": "2026-10-28T13:22:26.062Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T13:15:00.000Z",
+    "reason": "No notable move in price or event details provided.",
+    "text": "⚡️UPGRADE: Google unveils a new CRYPTO SECURITY system for banks as compromised private keys accounted for 43.8% of crypto theft in 2024, per Chainalysis.\n\nThe new Multi-Party Compute (MPC) service splits wallet keys across multiple systems and checks transactions BEFORE",
+    "url": "https://x.com/coinbureau/status/2115432142528561257"
+  },
+  {
+    "id": "x-1793193748657-t7vhl4",
+    "source": "x",
+    "ts": "2026-10-28T13:22:28.657Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T13:14:49.000Z",
+    "reason": "Notable institutional adoption and innovation in the financial sector.",
+    "text": "Canton Powers DTCC’s Tokenization Launch for Treasuries, Stocks and ETFs\n\n@The_DTCC has rolled out its Tokenization Service via @CantonNetwork, aiming to provide tokenization rails for its $114 trillion central securities depository.\n\nDTCC launched it in partnership with 20",
+    "url": "https://x.com/BSCNews/status/2115432096596382099",
+    "images": [
+      "https://pbs.twimg.com/media/HVuFGRLX0AAGXyo.png",
+      "https://pbs.twimg.com/media/HVuFHAzWQAAodoe.png"
+    ],
     "video": null
   }
 ]
