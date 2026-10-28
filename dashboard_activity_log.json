@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1793028757545-91nvgg",
-    "source": "x",
-    "ts": "2026-10-26T15:32:37.545Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-26T15:16:34.000Z",
-    "reason": "Quantum computing threat to Bitcoin is downplayed by Casa's Chief Security Officer.",
-    "text": "JUST IN: Casa's Chief Security Officer Jameson Lopp says Bitcoin faces no immediate threat from quantum computing. 👀\n\n\"We are orders of magnitudes away from a real usable quantum computer that can crack the algorithm that is used to secure your Bitcoin.\" 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2114737959010500896",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2114737880555827202/vid/avc1/1206x652/-fSmE1rNzvAN4sBb.mp4?tag=29",
-      "duration": 101,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HVkPPoaWMAABvgH.jpg"
-    }
-  },
-  {
-    "id": "x-1793028763363-o91hnu",
-    "source": "x",
-    "ts": "2026-10-26T15:32:43.363Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 49,
-    "originTimestamp": "2026-10-26T14:43:08.000Z",
-    "reason": "No notable moves or specific events are reported in the tweet.",
-    "text": "Today's top crypto stories 👇\n\n1. Aviva Investors tokenises £22B fund on XRPL $XRP\n2. South Korea eyes 4th crypto tax delay\n3. TON hits 4M daily txs, 5.6x Bitcoin $TON $BTC\n4. @solana tops XRPL on txs, stablecoins $SOL\n5. Dogecoin Core funding call $DOGE",
-    "url": "https://x.com/BSCNews/status/2114737420885500198"
-  },
-  {
-    "id": "x-1793028768146-ygnibf",
-    "source": "x",
-    "ts": "2026-10-26T15:32:48.146Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-26T15:11:02.000Z",
-    "reason": "No notable move or specific institutional action mentioned.",
-    "text": "⚡️UPDATE: Anthropic is reportedly planning an UNCONVENTIONAL IPO lock-up structure that could let early investors and employees cash out much SOONER than the standard 180-day restriction.\n\nHere's the reported timeline:\nDAY 1: First batch of shares available for sale\nDAY 27: More",
-    "url": "https://x.com/coinbureau/status/2114736569739591734"
-  },
-  {
     "id": "x-1793028772056-kw1jfy",
     "source": "x",
     "ts": "2026-10-26T15:32:52.056Z",
@@ -7883,5 +7836,55 @@
       "https://pbs.twimg.com/media/HVr5zooacAAQ3k2.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793160181480-wccf34",
+    "source": "x",
+    "ts": "2026-10-28T04:03:01.480Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-28T04:02:12.000Z",
+    "reason": "NEAR Protocol's launch of ANT perpetual futures tied to Anthropic is a notable use of a token.",
+    "text": "NEAR Taps Into the Anthropic IPO Frenzy\n\nNEAR Protocol (@NEARProtocol) $NEAR has launched ANT perpetual futures tied to AI company Anthropic (@AnthropicAI) on near(.)com, with support from Hyperliquid.\n\nTraders can use up to 10x leverage, while positions are designed to remain",
+    "url": "https://x.com/BSCNews/status/2115293025635336391",
+    "images": [
+      "https://pbs.twimg.com/media/HVsAJGHaoAA06Xb.png",
+      "https://pbs.twimg.com/media/HVsAL92aoAAJyMr.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793160186235-is8r43",
+    "source": "x",
+    "ts": "2026-10-28T04:03:06.235Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T04:00:14.000Z",
+    "reason": "New restrictions on young adult users in the crypto space.",
+    "text": "🚨 LATEST: Kalshi is capping deposits at $2,500 a month for users aged 18 to 20 as part of new restrictions aimed at curbing risky trading among young adults.",
+    "url": "https://x.com/Cointelegraph/status/2115292532284297612",
+    "images": [
+      "https://pbs.twimg.com/media/HVsHWKQW8AAn9Tn.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793160191201-llozz1",
+    "source": "x",
+    "ts": "2026-10-28T04:03:11.201Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T04:00:00.000Z",
+    "reason": "No notable move in price or other specific event.",
+    "text": "Jack Dorsey: Bitcoin Fails If It Ends Up Just Being Digital Gold  (ARCHIVE FOOTAGE) \n\nIn a January 16, 2025 interview published by Abundant Mines @AbundantMines, Block co-founder Jack Dorsey @jack said nation-state Bitcoin reserves are good for the state but not necessarily for",
+    "url": "https://x.com/WuBlockchain/status/2115292472100454454"
   }
 ]
