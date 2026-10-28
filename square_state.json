@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "US Treasury sanctions 10 people and 1 entity tied to North Korea's IT worker schemes.\n\nOne Russian national converted about $3.5M in crypto for a sanctioned DPRK IT firm since 2024, OFAC says.",
-      "url": "https://x.com/DecryptMedia/status/2115469677740630043",
-      "images": [
-        "https://pbs.twimg.com/media/HVuoR_eWwAAAbFi.png",
-        "https://pbs.twimg.com/media/HVuoTqqXIAAtJZV.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793202816964
-    },
-    {
       "text": "🔥 NEW: Pumpfun has launched perpetual futures trading powered by Hyperliquid, letting users trade crypto, stocks and commodities directly from their USDC balance without bridging.",
       "url": "https://x.com/Cointelegraph/status/2115473468418371612",
       "images": [
@@ -2664,7 +2654,17 @@
       "at": 1793205788885,
       "status": "failed",
       "error": "Uploading: sq_1793205788885_0.png\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261028/c28c16fd386f4d588f713a995cc0ef31.png\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
+    },
+    {
+      "text": "US Treasury sanctions 10 people and 1 entity tied to North Korea's IT worker schemes.\n\nOne Russian national converted about $3.5M in crypto for a sanctioned DPRK IT firm since 2024, OFAC says.",
+      "final": "US Treasury sanctions 10 people and 1 entity tied to North Korea's IT worker schemes.\n\nOne Russian national converted about $3.5M in crypto for a sanctioned DPRK IT firm since 2024, OFAC says.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVuoR_eWwAAAbFi.png",
+        "https://pbs.twimg.com/media/HVuoTqqXIAAtJZV.png"
+      ],
+      "at": 1793207559614,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793205788885
+  "lastPostAt": 1793207559614
 }
