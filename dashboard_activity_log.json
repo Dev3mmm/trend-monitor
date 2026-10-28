@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1793029030520-jazpip",
-    "source": "x",
-    "ts": "2026-10-26T15:37:10.520Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 5,
-    "author": "Decrypt",
-    "ageMin": 31,
-    "originTimestamp": "2026-10-26T15:05:09.000Z",
-    "reason": "Possible regulatory or consumer protection news impacting crypto ecosystem.",
-    "text": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-    "url": "https://x.com/DecryptMedia/status/2114735087765836073",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793029035219-vusvcy",
-    "source": "x",
-    "ts": "2026-10-26T15:37:15.219Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 6,
-    "author": "BSCN",
-    "ageMin": 32,
-    "originTimestamp": "2026-10-26T15:04:00.000Z",
-    "reason": "New use of a token/stablecoin combining multiple GPU rental prices on-chain.",
-    "text": "Injective Is Turning AI Compute Into the Next Onchain Asset Class\n\n@Injective introduced the Super Intelligence Compute Index (SICI), which lets traders access @nvidia GPU rental prices onchain via 10x-leverage perpetuals.\n\n$SICI combines five GPU rental prices into a single",
-    "url": "https://x.com/BSCNews/status/2114734798203986385",
-    "images": [
-      "https://pbs.twimg.com/media/HVkKSkDWsAAFGb3.png",
-      "https://pbs.twimg.com/media/HVkKcqSXsAAVmZ9.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793029317629-3cf7ri",
-    "source": "x",
-    "ts": "2026-10-26T15:41:57.629Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-26T15:37:15.000Z",
-    "reason": "Specific bank action with crypto.",
-    "text": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-    "url": "https://x.com/DecryptMedia/status/2114743165030732218",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793029936019-zaqn6w",
     "source": "x",
     "ts": "2026-10-26T15:52:16.019Z",
@@ -7889,5 +7838,44 @@
       "https://pbs.twimg.com/media/HVsJAZcboAARpiz.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793165541133-lhw8w6",
+    "source": "x",
+    "ts": "2026-10-28T05:32:21.133Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T05:30:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🎙️ @Stacks founder @muneeb says that it is crunchtime and Bitcoin is already at a point where it should have a clear roadmap for a quantum-resistant upgrade.\n\n\"The upgrade will go live and people need some time to do the transfers to the new addresses and so on. There has to be a",
+    "url": "https://x.com/Cointelegraph/status/2115315122298044723"
+  },
+  {
+    "id": "x-1793165544799-jzgsyx",
+    "source": "x",
+    "ts": "2026-10-28T05:32:24.799Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T05:30:00.000Z",
+    "reason": "No notable move, price is well within its recent range.",
+    "text": "🚨HUGE: Anthropic will pay SpaceX AI $3.1 BILLION per MONTH for compute starting December.\n\nThat’s roughly $37 BILLION a year, with agreements potentially worth $120.5 BILLION through 2029 as the Claude maker secures additional Nvidia GPU capacity.\n\nThat’s 55% of Anthropic’s",
+    "url": "https://x.com/coinbureau/status/2115315121224560721"
+  },
+  {
+    "id": "x-1793165548266-af6phr",
+    "source": "x",
+    "ts": "2026-10-28T05:32:28.266Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-28T05:26:00.000Z",
+    "reason": "No notable move, no newsworthy information provided.",
+    "text": "Floki’s Valhalla Gets a New Battle Game\n\nFloki’s (@FLOKI) $FLOKI Valhalla (@ValhallaP2E) has launched Frontlines, a mini-game playable directly in mobile browsers.\n\nPlayers can build teams of Veras, mix their abilities with spells, and fight across Floki Island. There are also",
+    "url": "https://x.com/BSCNews/status/2115314114679456217"
   }
 ]
