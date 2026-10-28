@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1793029018343-x4wbls",
-    "source": "x",
-    "ts": "2026-10-26T15:36:58.343Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-26T15:16:34.000Z",
-    "reason": "Jameson Lopp's statement provides a concrete, specific claim about the security of Bitcoin.",
-    "text": "JUST IN: Casa's Chief Security Officer Jameson Lopp says Bitcoin faces no immediate threat from quantum computing. 👀\n\n\"We are orders of magnitudes away from a real usable quantum computer that can crack the algorithm that is used to secure your Bitcoin.\" 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2114737959010500896",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2114737880555827202/vid/avc1/1206x652/-fSmE1rNzvAN4sBb.mp4?tag=29",
-      "duration": 101,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HVkPPoaWMAABvgH.jpg"
-    }
-  },
-  {
     "id": "x-1793029022212-z48vxj",
     "source": "x",
     "ts": "2026-10-26T15:37:02.212Z",
@@ -7886,6 +7865,22 @@
       "https://pbs.twimg.com/media/HVsP5BMaQAAN58I.png",
       "https://pbs.twimg.com/media/HVsP6WXbkAEvMo6.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793163102883-6hj8dz",
+    "source": "x",
+    "ts": "2026-10-28T04:51:42.883Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T04:49:33.000Z",
+    "reason": "Data leaks affecting cryptocurrency users and traditional finance institutions.",
+    "text": "4 data leaks reported today:\n\n1. Coinbase's vendor Amplitude exposed some users’ contact data (funds unaffected).\n2. Bithumb (Korea) had user data leaks.\n\nIn TradFi, two securities firms in Korea leaked data: \n3. Mirae Asset\n4. Daishin Securities\n\nYou can't prevent a leak, but",
+    "url": "https://x.com/cz_binance/status/2115304943934672928",
+    "images": [],
     "video": null
   }
 ]
