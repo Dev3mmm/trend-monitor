@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🇺🇸 BIG: The U.S. Federal Election Commission temporarily shut down online services amid hacking attempts, disrupting its electronic filing system a week before the Nov. 3 midterm election",
-      "url": "https://x.com/Cointelegraph/status/2115197041101918686",
-      "images": [
-        "https://pbs.twimg.com/media/HVqwfoFWUAAUtPf.jpg",
-        "https://pbs.twimg.com/media/HVqwf8vWYAA9gXu.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793137329637
-    },
-    {
       "text": "🇺🇸 NEW: Polymarket has launched five-minute crypto price prediction markets for $XRP, $SOL, $ETH and $BTC in its U.S. app.",
       "url": "https://x.com/Cointelegraph/status/2115202115026948198",
       "images": [
@@ -2669,7 +2659,17 @@
       "at": 1793145732716,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/381970640413527?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇺🇸 BIG: The U.S. Federal Election Commission temporarily shut down online services amid hacking attempts, disrupting its electronic filing system a week before the Nov. 3 midterm election",
+      "final": "🇺🇸 BIG: The U.S. Federal Election Commission temporarily shut down online services amid hacking attempts, disrupting its electronic filing system a week before the Nov. 3 midterm election\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVqwfoFWUAAUtPf.jpg",
+        "https://pbs.twimg.com/media/HVqwf8vWYAA9gXu.jpg"
+      ],
+      "at": 1793147559469,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793145732716
+  "lastPostAt": 1793147559469
 }
