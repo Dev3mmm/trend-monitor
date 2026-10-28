@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793058724852-nu2y81",
-    "source": "x",
-    "ts": "2026-10-26T23:52:04.852Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-26T23:44:24.000Z",
-    "reason": "Not applicable, missing crucial context about the recent range of ETH.",
-    "text": "🇺🇸BREAKING: The OCC has officially given Ripple final approval for its own national trust bank, which will manage the reserves behind its RLUSD stablecoin.\n\nIt completes a process that began with the OCC's conditional approval last December.\n\nRipple National Trust Bank will also",
-    "url": "https://x.com/coinbureau/status/2114865763198836826",
-    "images": [
-      "https://pbs.twimg.com/media/HVmCJ26aUAE_s4O.jpg",
-      "https://pbs.twimg.com/media/HVmCb9kaYAAyiuV.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793059323766-2xrvix",
-    "source": "x",
-    "ts": "2026-10-27T00:02:03.766Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T00:00:51.000Z",
-    "reason": "No notable crypto-specific event or price movement mentioned.",
-    "text": "⚡️ NOW: OpenAI reveals three new AI-driven discoveries spanning math, computer science, and physics, including a claim that the Exponential Time Hypothesis is false.",
-    "url": "https://x.com/Cointelegraph/status/2114869900233633936"
-  },
-  {
     "id": "x-1793059326763-dzetuq",
     "source": "x",
     "ts": "2026-10-27T00:02:06.763Z",
@@ -7966,5 +7934,37 @@
     "reason": "No notable move in ETH price.",
     "text": "Introducing: your plans for Thursday afternoon.\n\nCome find out about everything we’re building at Coinbase.\n\nWe'll be live for our Q3 earnings AMA, tomorrow at 5PM ET.\n\nGuests include @blknoiz06, @jonbma, @LorenzoARK and Andrew Jeffrey.",
     "url": "https://x.com/coinbase/status/2115548363286249834"
+  },
+  {
+    "id": "x-1793222136664-u5kwk6",
+    "source": "x",
+    "ts": "2026-10-28T21:15:36.664Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-28T21:15:00.000Z",
+    "reason": "Noteworthy institutional collaboration in DeFi oversight",
+    "text": "Chainlink puts S&amp;P Global’s DeFi vault risk checks onchain\n\n@chainlink ($LINK) is now publishing Vault Risk Assessments from @SPGlobalRatings onchain, starting on @base. The assessments give S&amp;P’s view of a lending vault's risk for depositors, covering loan quality, liquidity,",
+    "url": "https://x.com/BSCNews/status/2115552938504380812",
+    "images": [
+      "https://pbs.twimg.com/media/HVvsI9gXcAANsAK.jpg",
+      "https://pbs.twimg.com/media/HVvsJsqXgAAz6iT.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793222140071-83e8b8",
+    "source": "x",
+    "ts": "2026-10-28T21:15:40.071Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 12,
+    "originTimestamp": "2026-10-28T21:03:07.000Z",
+    "reason": "No notable move, price is well within the recent trading range.",
+    "text": "JUST IN: $15 billion Bitwise raises their Bitcoin price target to $1.6 million by 2036 👀\n\n\"Developments in the prior year have only deepened our conviction that bitcoin is on the path to becoming a major institutional asset.\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2115549947873394953"
   }
 ]
