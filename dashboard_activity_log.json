@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793022748093-wbu7il",
-    "source": "x",
-    "ts": "2026-10-26T13:52:28.093Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-26T13:49:40.000Z",
-    "reason": "Bitcoin price below key psychological level.",
-    "text": "🚨ALERT: Bitcoin falls below $80,000 during U.S. stock market open.",
-    "url": "https://x.com/coinbureau/status/2114716092983836872",
-    "images": [
-      "https://pbs.twimg.com/media/HVj6ZJ0aEAADpdB.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793022753164-6m6sq9",
-    "source": "x",
-    "ts": "2026-10-26T13:52:33.164Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-26T13:47:14.000Z",
-    "reason": "Notable institutional crypto investment and holdings disclosure.",
-    "text": "Strive just bought 6,182 Bitcoin for ~$511 million 📈\n\n📌 Average price: ~$82,700\n📌 Total holdings: 43,000 BTC\n📌 New $1 billion at-the-market program for its SAT shares",
-    "url": "https://x.com/BitcoinMagazine/status/2114715866218770842",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2114714786332016640/vid/avc1/1206x672/swGCM3AT1t0UxXCB.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114714786332016640/img/U2rSUliiwoNFguXC.jpg"
-    }
-  },
-  {
     "id": "x-1793022756164-lbnd60",
     "source": "x",
     "ts": "2026-10-26T13:52:36.164Z",
@@ -7877,6 +7838,41 @@
     "images": [
       "https://pbs.twimg.com/media/HVratHGXEAA5LEx.jpg",
       "https://pbs.twimg.com/media/HVratTXW8AARH7o.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793149344538-7hwq2m",
+    "source": "x",
+    "ts": "2026-10-28T01:02:24.538Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T01:00:11.000Z",
+    "reason": "Specific institutional partnership with potential for new products or services.",
+    "text": "🔥 BIG: Ripple and Robinhood are expanding their partnership to bring RLUSD to Robinhood’s retail and institutional businesses, with integrations across treasury, lending and trading.",
+    "url": "https://x.com/Cointelegraph/status/2115247220916146407",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793149350261-qflicx",
+    "source": "x",
+    "ts": "2026-10-28T01:02:30.261Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-28T00:53:00.000Z",
+    "reason": "Significant increase in Arbitrum's stablecoin holder base.",
+    "text": "Is Arbitrum secretly the king of stablecoins...?\n\nAccording to reports from the likes of @MSBIntel, @arbitrum boasts nearly 11.7 million stablecoin holders on its chain.\n\nThis works out to 3.5x the figure of rival L2 @Optimism $OP and more than 2.8 million more than @Coinbase's",
+    "url": "https://x.com/BSCNews/status/2115245412034781515",
+    "images": [
+      "https://pbs.twimg.com/media/HVqWWqZWwAE_V7c.jpg",
+      "https://pbs.twimg.com/media/HVqWWpuXYAAy2PN.jpg"
     ],
     "video": null
   }
