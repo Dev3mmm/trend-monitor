@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1792794040492-jas1zl",
-    "source": "x",
-    "ts": "2026-10-23T22:20:40.492Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 47,
-    "originTimestamp": "2026-10-23T21:33:20.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week. Congrats to the whole team!",
-    "url": "https://x.com/elonmusk/status/2113754749288006108"
-  },
-  {
-    "id": "x-1792794312292-vp2bwg",
-    "source": "x",
-    "ts": "2026-10-23T22:25:12.292Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-23T22:23:45.000Z",
-    "reason": "CrowdStrike CEO's warning about security flaws puts millions of servers at risk.",
-    "text": "🚨CrowdStrike CEO urges fast patching after AI proved the PHP flaws can be exploited, putting tens of millions of servers at risk.\n\nGeorge Kurtz says exploiting the almost 20-year-old flaws was only \"theoretical\" until AI proved it could be done.\n\nThat has forced everyone into a",
-    "url": "https://x.com/coinbureau/status/2113758300135432598",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113758255029817344/vid/avc1/1280x720/wueMCva_qYpZpqjO.mp4?tag=29",
-      "duration": 125,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113758255029817344/img/iAxCNhlDRU2ofX4p.jpg"
-    }
-  },
-  {
     "id": "x-1793033552839-ow2fkx",
     "source": "x",
     "ts": "2026-10-26T16:52:32.839Z",
@@ -7893,5 +7859,45 @@
     "reason": "No notable move in Cardano, price inside recent range.",
     "text": "Midnight (@MidnightNtwrk) is not a Cardano (@cardano) $ADA Layer 2. It’s a separate blockchain built to work alongside Cardano.\n\nFrom how midnight-3:native and DUST work to the planned role of Cardano stake pool operators, here’s how the two networks connect and what users should",
     "url": "https://x.com/BSCNews/status/2115388102432702953"
+  },
+  {
+    "id": "x-1793183536697-naw1w2",
+    "source": "x",
+    "ts": "2026-10-28T10:32:16.697Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T10:28:17.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Stellar Just Landed a Big Name in Real-World Asset Tokenization\n\n@Securitize is integrating with @StellarOrg to enable issuance, compliance, and asset-management rails on the fourth-largest blockchain network for tokenized real-world assets.\n\nThe integration will make Stellar the",
+    "url": "https://x.com/BSCNews/status/2115390189426049206",
+    "images": [
+      "https://pbs.twimg.com/media/HVtf7p1XQAAmgfV.png",
+      "https://pbs.twimg.com/media/HVtf9oXXYAAr7iW.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793183539113-38t3u8",
+    "source": "x",
+    "ts": "2026-10-28T10:32:19.113Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T10:25:24.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 INSIGHT: @eToro founder @yoniassia says tokenization and 24/7 trading are reshaping markets, but the infrastructure is still catching up.",
+    "url": "https://x.com/Cointelegraph/status/2115389462154805588",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115389407213600768/vid/avc1/1280x720/WTJDw6WM5TD-1-iz.mp4?tag=16",
+      "duration": 42,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115389407213600768/img/BH0b47P3bApw_Fyl.jpg"
+    }
   }
 ]
