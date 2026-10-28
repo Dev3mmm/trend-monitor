@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1792794036285-okubb9",
-    "source": "x",
-    "ts": "2026-10-23T22:20:36.285Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-23T22:19:00.000Z",
-    "reason": "Activity and trading volume on Hedera's ETF are very low.",
-    "text": "Are investors getting bored of HBAR exposure...?\n\nActivity on Canary's spot @Hedera ETF has been lacklustre this month, the product seeing only three days of activity in October.\n\nOne of those days (October 16) saw the product's second ever day of net outflows, to the tune of",
-    "url": "https://x.com/BSCNews/status/2113757105236697519",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113548282542600192/vid/avc1/1312x720/_-qwB7h5NuQHhdY6.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113548282542600192/img/VChRVYQ0a2vAn2qm.jpg"
-    }
-  },
-  {
     "id": "x-1792794040492-jas1zl",
     "source": "x",
     "ts": "2026-10-23T22:20:40.492Z",
@@ -7901,5 +7880,18 @@
       "https://pbs.twimg.com/media/HVs0X6eagAAuM9N.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793182927911-rj09pf",
+    "source": "x",
+    "ts": "2026-10-28T10:22:07.911Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T10:20:00.000Z",
+    "reason": "No notable move in Cardano, price inside recent range.",
+    "text": "Midnight (@MidnightNtwrk) is not a Cardano (@cardano) $ADA Layer 2. It’s a separate blockchain built to work alongside Cardano.\n\nFrom how midnight-3:native and DUST work to the planned role of Cardano stake pool operators, here’s how the two networks connect and what users should",
+    "url": "https://x.com/BSCNews/status/2115388102432702953"
   }
 ]
