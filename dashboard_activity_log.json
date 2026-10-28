@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793025735793-iy9n7q",
-    "source": "x",
-    "ts": "2026-10-26T14:42:15.793Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-26T14:37:58.000Z",
-    "reason": "No notable move in ETH price or regulatory/technical event mentioned.",
-    "text": "Keystone Breach Exposed 25,964 Purchase Records and Compromised Device Verification Key  \n\nKeystone said its latest investigation found that attackers obtained a WebAuth device-authentication key through the website breach, potentially allowing counterfeit hardware wallets to",
-    "url": "https://x.com/WuBlockchain/status/2114728248441741622"
-  },
-  {
-    "id": "x-1793026312903-030jny",
-    "source": "x",
-    "ts": "2026-10-26T14:51:52.903Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T14:50:19.000Z",
-    "reason": "New upgrade for LUNC network intended to ensure stability.",
-    "text": "Is LUNC’s Latest Upgrade Enough to Break the Slump?\n\nTerra Classic Core v4.1.1 will go live today, October 26, 2023, at block height 31,010,600. The network will pause temporarily until enough validators upgrade.\n\nThe release is intended to ensure stability. \n\nIt will solve the",
-    "url": "https://x.com/BSCNews/status/2114731353442787333",
-    "images": [
-      "https://pbs.twimg.com/media/HVkHph1XIAAknWe.png",
-      "https://pbs.twimg.com/media/HVkH1_MWsAA276S.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793026930843-ujurao",
-    "source": "x",
-    "ts": "2026-10-26T15:02:10.843Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-26T15:01:19.000Z",
-    "reason": "New information about tokenized asset performance.",
-    "text": "⚡️ NEW: Securitize’s tokenized stock market cap falls more than 50% to $208.6M in under a month.",
-    "url": "https://x.com/Cointelegraph/status/2114734124950757874",
-    "images": [
-      "https://pbs.twimg.com/media/HVkLeEAXMAA3uHr.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793026936478-e8f21u",
     "source": "x",
     "ts": "2026-10-26T15:02:16.478Z",
@@ -7880,5 +7830,60 @@
     "reason": "No notable move in ETH price, price is within its recent range.",
     "text": "ASML bStock (ASMLB) dividends are now in your Spot Wallet ✅\n\nIf you were holding tokens before 27 Oct 2026, your dividend should now be available.\n\n→ $1.79 USD dividend per share\n→ Distributed as additional ASMLB\n\nThank you for being part of Binance bStocks. 🫡",
     "url": "https://x.com/binance/status/2115277388485714182"
+  },
+  {
+    "id": "x-1793157143343-l4nk0c",
+    "source": "x",
+    "ts": "2026-10-28T03:12:23.343Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T03:08:08.000Z",
+    "reason": "Coinbase confirms no data breach, highlighting the importance of vendor security.",
+    "text": "🚨 NOW: Coinbase says it has not suffered a data breach.\n\nA security incident at analytics vendor Amplitude exposed some users’ contact data, but customer funds and Coinbase systems were unaffected.",
+    "url": "https://x.com/Cointelegraph/status/2115279419640029666",
+    "images": [
+      "https://pbs.twimg.com/media/HVr7bBAWUAAAuQb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793157148263-f7z6ac",
+    "source": "x",
+    "ts": "2026-10-28T03:12:28.263Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-28T03:06:29.000Z",
+    "reason": "PONS token showing significant price movement with new institutional adoption.",
+    "text": "Pons is up over 20% in the last 24 hours!\n\nThe $PONS  move came after @ponsdotfamily  announced the project is now discoverable in @Robinhoodcrypto app.",
+    "url": "https://x.com/BSCNews/status/2115279004131582059",
+    "images": [
+      "https://pbs.twimg.com/media/HVr6g-CWAAAmRpA.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793157153278-ria5kg",
+    "source": "x",
+    "ts": "2026-10-28T03:12:33.278Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-28T03:05:37.000Z",
+    "reason": "Notable cyber intrusion affecting multiple South Korean financial firms.",
+    "text": "🇰🇷LATEST: Bithumb confirms a internal data leak as cyber intrusions hit THREE South Korean financial firms.\n\nSouth Korea’s second-largest crypto exchange detected unauthorized access to its internal mobile groupware system on October 27. Whether customer information was exposed",
+    "url": "https://x.com/coinbureau/status/2115278786577273319",
+    "images": [
+      "https://pbs.twimg.com/media/HVr6q4jaMAEMlbY.png",
+      "https://pbs.twimg.com/media/HVr6po7aYAAF7Wy.png"
+    ],
+    "video": null
   }
 ]
