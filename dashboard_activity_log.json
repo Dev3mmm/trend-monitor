@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793059326763-dzetuq",
-    "source": "x",
-    "ts": "2026-10-27T00:02:06.763Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T00:00:02.000Z",
-    "reason": "Generic statement without a specific price or action.",
-    "text": "The move is always yours.",
-    "url": "https://x.com/binance/status/2114869695736139866"
-  },
-  {
-    "id": "x-1793059941594-5rps4u",
-    "source": "x",
-    "ts": "2026-10-27T00:12:21.594Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-27T00:04:00.000Z",
-    "reason": "StarkNet's potential to become a significant L1 launch is gaining attention.",
-    "text": "StarkNet might actually be the biggest L1 launch of 2026...\n\n@Starknet and $STRK have dominated headlines since its proposal to pivot from an @Ethereum L2 to its own L1. Make sure you understand it, before it's too late... ⬇️",
-    "url": "https://x.com/BSCNews/status/2114870693154152947",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793060580585-d6vxrd",
     "source": "x",
     "ts": "2026-10-27T00:23:00.585Z",
@@ -7966,5 +7937,34 @@
     "reason": "No notable move, price is well within the recent trading range.",
     "text": "JUST IN: $15 billion Bitwise raises their Bitcoin price target to $1.6 million by 2036 👀\n\n\"Developments in the prior year have only deepened our conviction that bitcoin is on the path to becoming a major institutional asset.\" 🚀",
     "url": "https://x.com/BitcoinMagazine/status/2115549947873394953"
+  },
+  {
+    "id": "x-1793222529249-qoeuwx",
+    "source": "x",
+    "ts": "2026-10-28T21:22:09.249Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T21:19:12.000Z",
+    "reason": "No notable move, price is well inside the recent range.",
+    "text": "🚨 UPDATE: Google reported $127.58 billion in revenue for Q3 2026, missing expectations. \n\nIt Shares fell more than 7% following the report.",
+    "url": "https://x.com/Cointelegraph/status/2115553996173644193"
+  },
+  {
+    "id": "x-1793222534010-64pd17",
+    "source": "x",
+    "ts": "2026-10-28T21:22:14.010Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T21:17:15.000Z",
+    "reason": "Chip Maker Sk Hynix's record quarter highlights AI memory demand in crypto and tech sectors.",
+    "text": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
+    "url": "https://x.com/DecryptMedia/status/2115553505742033185",
+    "images": [],
+    "video": null
   }
 ]
