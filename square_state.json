@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791652346913-ibriou",
     "x-1791655920027-phle2s",
     "x-1791657746702-zrp862",
     "x-1791660156008-oel8id",
@@ -1999,9 +1998,20 @@
     "x-1793157143343-l4nk0c",
     "x-1793157148263-f7z6ac",
     "x-1793157153278-ria5kg",
-    "x-1793158936472-ttrjry"
+    "x-1793158936472-ttrjry",
+    "x-1793159553823-adhzkh"
   ],
-  "queue": [],
+  "queue": [
+    {
+      "text": "#CertiKAlert 🚨\n\nAn Avalanche vault lost ~$1.01M USDC in  exploit. \n\n\nA scheduled accounting update reopened used draw capacity, enabling a second withdrawal against the same funding.\n\nCertiK Report Security Dashboard 👇",
+      "url": "https://x.com/CertiKAlert/status/2115289650025923015",
+      "images": [
+        "https://pbs.twimg.com/media/HVr5zooacAAQ3k2.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793159554324
+    }
+  ],
   "posted": [
     {
       "text": "⚠️ ALERT: BloomTrading Bot users report nearly $1 MILLION in wallet drains, with 9,408 SOL traced to a suspected attacker wallet.\n\nReports identify roughly 49 victims, with the largest individual loss reaching 1,636 SOL, worth about $166,000. \n\nTotal losses could be higher as",
