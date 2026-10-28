@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1792792339911-wizp65",
-    "source": "x",
-    "ts": "2026-10-23T21:52:19.911Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-23T21:44:00.000Z",
-    "reason": "Notable institutional adoption with a major financial institution adding US Treasury indices to its data service.",
-    "text": "Pyth Network adds US Treasury yields to its paid data service\n\n@PythNetwork has added 14 US Treasury indices to Pyth Pro, its subscription market data service, covering seven terms from two to 30 years with a yield feed and a pricing feed for each. Pyth also widened its commodity",
-    "url": "https://x.com/BSCNews/status/2113748297261494584",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2113745630690447360/vid/avc1/1220x720/kBxmIDAPThIH00t8.mp4?tag=29",
-      "duration": 15,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113745630690447360/img/FFE4HHiX-zUh2J7M.jpg"
-    }
-  },
-  {
-    "id": "x-1792793005550-tk1d8b",
-    "source": "x",
-    "ts": "2026-10-23T22:03:25.550Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-23T22:00:32.000Z",
-    "reason": "Notable court decision on cryptocurrency scandal involvement.",
-    "text": "🇦🇷 UPDATE: An Argentine judge dismissed the investigation into President Javier Milei and his sister’s links to the $LIBRA cryptocurrency scandal at prosecutors’ request.",
-    "url": "https://x.com/Cointelegraph/status/2113752460397363631",
-    "images": [
-      "https://pbs.twimg.com/media/HVWOqNJXgAApKlp.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792794036285-okubb9",
     "source": "x",
     "ts": "2026-10-23T22:20:36.285Z",
@@ -7905,5 +7866,40 @@
     "reason": "No notable move in ZEC, price is within its recent range.",
     "text": "Zcash' $ZEC has absolutely destroyed the market.\n\nUsing @ElanInsights' professional backtesting tool, we were able to see clearly just how well @Zcash has performed over the past 12 months.\n\nTry now: \n\nFor literally the entirely of the past year, $ZEC has",
     "url": "https://x.com/BSCNews/status/2115383084266770762"
+  },
+  {
+    "id": "x-1793182331578-phg7re",
+    "source": "x",
+    "ts": "2026-10-28T10:12:11.578Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-28T10:11:45.000Z",
+    "reason": "Coinbase customer data breach incident",
+    "text": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
+    "url": "https://x.com/DecryptMedia/status/2115386025971257450",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793182334261-66bggw",
+    "source": "x",
+    "ts": "2026-10-28T10:12:14.261Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-28T10:02:00.000Z",
+    "reason": "Notable institutional figure outlining a major new use case for AI and crypto.",
+    "text": "Arthur Hayes Eyes $2.3T AI Compute Market With FLOP\n\nBitMEX co-founder Arthur Hayes (@CryptoHayes) outlined a plan to make AI computing power a tradable commodity through Flop Network (@flop_labs).\n\nThe proposal would use task-level data to price compute in",
+    "url": "https://x.com/BSCNews/status/2115383573121298766",
+    "images": [
+      "https://pbs.twimg.com/media/HVs0YvBagAAPvIt.jpg",
+      "https://pbs.twimg.com/media/HVs0X6eagAAuM9N.png"
+    ],
+    "video": null
   }
 ]
