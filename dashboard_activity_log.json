@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793029013349-nqgeqf",
-    "source": "x",
-    "ts": "2026-10-26T15:36:53.349Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 62,
-    "originTimestamp": "2026-10-26T14:34:11.000Z",
-    "reason": "No notable crypto-related news or move described.",
-    "text": "Is your Bitcoin on a quantum hit list? ⚡️\n\nCypherpunk @lopp says, \"Unless you have more than 50 Bitcoin, you're at the very bottom of the totem pole.\"\n\n\"If I was an attacker, I'd be just going down the rich list from top to bottom.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2114741250687738303"
-  },
-  {
     "id": "x-1793029018343-x4wbls",
     "source": "x",
     "ts": "2026-10-26T15:36:58.343Z",
@@ -7879,6 +7866,25 @@
     "images": [
       "https://pbs.twimg.com/media/HVsLHUSasAEyAUO.png",
       "https://pbs.twimg.com/media/HVsLMG_acAAchsT.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793162494800-serbes",
+    "source": "x",
+    "ts": "2026-10-28T04:41:34.800Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T04:37:43.000Z",
+    "reason": "Security incident involving Coinbase contact info leak",
+    "text": "Third-Party Analytics Vendor Amplitude Suffers Security Incident, Leaking Contact Info for a Small Subset of Coinbase Users\n\nSlowMist CISO 23pds posted that a data leak involving Coinbase has been confirmed, though it remains unconfirmed whether passwords or funds were",
+    "url": "https://x.com/WuBlockchain/status/2115301963520958930",
+    "images": [
+      "https://pbs.twimg.com/media/HVsP5BMaQAAN58I.png",
+      "https://pbs.twimg.com/media/HVsP6WXbkAEvMo6.png"
     ],
     "video": null
   }
