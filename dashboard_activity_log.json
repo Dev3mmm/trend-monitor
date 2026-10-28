@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793029941672-nchqs4",
-    "source": "x",
-    "ts": "2026-10-26T15:52:21.672Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-26T15:45:00.000Z",
-    "reason": "The tweet mentions a new regulatory framework for stablecoins, which is notable.",
-    "text": "JUST IN: 🇨🇦Canada opens consultation on STABLECOIN rules draft but maintains its BAN on interest and yield payments to holders.\n\nThe proposed framework requires:\n- 1:1 reserves held at qualified Canadian financial institutions.\n\n- Users must be able to exchange stablecoins for",
-    "url": "https://x.com/coinbureau/status/2114745117646942300",
-    "images": [
-      "https://pbs.twimg.com/media/HVkNyBLa4AA7Wa3.png",
-      "https://pbs.twimg.com/media/HVkNyBWaEAQRTBT.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793030540218-2nnqzx",
-    "source": "x",
-    "ts": "2026-10-26T16:02:20.218Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T16:01:26.000Z",
-    "reason": "New regulatory move impacting crypto markets.",
-    "text": "🇺🇸 BIG: CFTC Chairman Mike Selig says crypto markets should get the same protections as US derivatives markets.\n\nCongress hasn't acted, so the CFTC is moving on its own. Should it have waited?",
-    "url": "https://x.com/Cointelegraph/status/2114749253046120823",
-    "images": [
-      "https://pbs.twimg.com/media/HVkZPJtWkAAPOk3.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793031801567-xja2jc",
-    "source": "x",
-    "ts": "2026-10-26T16:23:21.567Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 79,
-    "originTimestamp": "2026-10-26T15:03:27.000Z",
-    "reason": "No notable price movement or specific event is mentioned.",
-    "text": "They used LOG SCALE instead of linear to hide how extreme the differences really are…",
-    "url": "https://x.com/elonmusk/status/2114753927400808672"
-  },
-  {
     "id": "x-1793031807331-e5fw11",
     "source": "x",
     "ts": "2026-10-26T16:23:27.331Z",
@@ -7883,5 +7833,55 @@
       "https://pbs.twimg.com/media/HVsdEO6a0AAkG6u.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793167416743-a7gjxb",
+    "source": "x",
+    "ts": "2026-10-28T06:03:36.743Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T06:00:17.000Z",
+    "reason": "Bitcoin showing continued volatility with a decline.",
+    "text": "🚨 LATEST: Uptober has disappointed, with Bitcoin down 4.2% and heading for a second straight red October, per CryptoQuant.\n\nCan November turn things around? 👀",
+    "url": "https://x.com/Cointelegraph/status/2115322743189102767",
+    "images": [
+      "https://pbs.twimg.com/media/HVsi0u4X0AAECfL.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793167422524-e2e25i",
+    "source": "x",
+    "ts": "2026-10-28T06:03:42.524Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-28T05:56:52.000Z",
+    "reason": "Token2049 event showcases new developments in privacy and security technologies.",
+    "text": "Midnight Revealed What’s Coming Next...\n\nMidnight’s (@MidnightNtwrk) midnight-3:native October updates span product demos, developer infrastructure, and its next technical milestones.\n\nAt TOKEN2049, the team showcased tools for shielded deposits, private trades, digital identity,",
+    "url": "https://x.com/BSCNews/status/2115321884246179936",
+    "images": [
+      "https://pbs.twimg.com/media/HVsHdN1boAAB0xh.png",
+      "https://pbs.twimg.com/media/HVsHtZjaEAAku3w.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793167426478-rh2d4s",
+    "source": "x",
+    "ts": "2026-10-28T06:03:46.478Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T05:56:29.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸 JUST IN: Trump says ending the Iran conflict is a matter of when he chooses, adding that Tehran may be stalling on a deal until the US elections but that it “won’t help them.”",
+    "url": "https://x.com/Cointelegraph/status/2115321786753798345"
   }
 ]
