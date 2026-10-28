@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1792827123775-qwl6ax",
-    "source": "x",
-    "ts": "2026-10-24T07:32:03.775Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-24T07:30:48.000Z",
-    "reason": "The tweet mentions a significant inflow of BTC, which is noteworthy in the crypto market.",
-    "text": "🚨 JUST IN: 32,380 $BTC, worth roughly $2.6B, flowed in, the biggest single-day inflow since April.\n\nLast time we saw a spike like this, $BTC topped out a few weeks later.",
-    "url": "https://x.com/Cointelegraph/status/2113895971549515939",
-    "images": [
-      "https://pbs.twimg.com/media/HVYRLrZWQAAd3oP.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793038230478-u5an6s",
-    "source": "x",
-    "ts": "2026-10-26T18:10:30.478Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-26T18:09:37.000Z",
-    "reason": "No notable move or specific event is reported.",
-    "text": "JUST IN: 🇺🇸 The odds of the Fed rate holding unchanged at October's FOMC meeting are at 92%, according to Polymarket⁠.com 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2114781512323236327"
-  },
-  {
-    "id": "x-1793038234201-a6sqag",
-    "source": "x",
-    "ts": "2026-10-26T18:10:34.201Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-26T18:01:07.000Z",
-    "reason": "Microsoft's voluntary buyouts highlight potential financial strain in the tech sector.",
-    "text": "🚨 JUST IN: Microsoft is offering voluntary buyouts to around 60,000 employees, according to CNBC.\n\nIt comes six months after its first-ever voluntary retirement program, as AI data center spending strains its finances.",
-    "url": "https://x.com/Cointelegraph/status/2114779370732597656",
-    "images": [
-      "https://pbs.twimg.com/media/HVk0oQ6WoAA0unD.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793038237551-ps73ej",
     "source": "x",
     "ts": "2026-10-26T18:10:37.551Z",
@@ -7948,6 +7899,64 @@
       "duration": 24,
       "gif": false,
       "thumb": "https://pbs.twimg.com/media/HVuVy5LWMAA_cHL.jpg"
+    }
+  },
+  {
+    "id": "x-1793198496832-fmsi68",
+    "source": "x",
+    "ts": "2026-10-28T14:41:36.832Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-28T14:40:02.000Z",
+    "reason": "FOMC rally is a notable move and provides specific, concrete information.",
+    "text": "🚨FOMC TODAY: Bitcoin has rallied as much as 31% from its FOMC-day low to the peak of the subsequent rally in 2026.\n\nHere's how $BTC performed following previous Fed meetings:\n\n🟢 September 16: +16% rally\n🟢 July 29: +31% rally\n🔴 June 17: −13% decline\n🟢 April 29: +11% rally",
+    "url": "https://x.com/coinbureau/status/2115453542320497020",
+    "images": [
+      "https://pbs.twimg.com/media/HVuYnBVakAIXHkz.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793198499449-7fekje",
+    "source": "x",
+    "ts": "2026-10-28T14:41:39.449Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T14:38:41.000Z",
+    "reason": "xStocks shows explosive growth and significant asset growth, far beyond its initial February figures.",
+    "text": "xStocks tops $1B in assets, more than 4x its roughly $225M in February.\n\nIt has 550,000+ holders and $45B+ in cumulative volume, per Kraken parent Payward.",
+    "url": "https://x.com/DecryptMedia/status/2115453201956892818",
+    "images": [
+      "https://pbs.twimg.com/media/HVuVu_GWAAAV2cU.png",
+      "https://pbs.twimg.com/media/HVuVwjbXwAA-K2g.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793198501795-2dzd53",
+    "source": "x",
+    "ts": "2026-10-28T14:41:41.795Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 42,
+    "originTimestamp": "2026-10-28T13:59:30.000Z",
+    "reason": "Notable government statement on stablecoins and digital assets.",
+    "text": "Treasury Secretary Scott Bessent says America is going to win in digital assets and that it will strengthen the dollar's global dominance. 💸\n\nSpeaking at the Swell conference, Bessent said stablecoins could become an important source of funding for the Treasury.",
+    "url": "https://x.com/BitcoinMagazine/status/2115452752859889785",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115443128568008704/vid/avc1/1286x720/EM3ltamLVMzV8ZRJ.mp4?tag=29",
+      "duration": 21,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115443128568008704/img/3IGLH0cCAJR8Fg8U.jpg"
     }
   }
 ]
