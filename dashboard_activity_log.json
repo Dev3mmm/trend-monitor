@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1792864465054-9ww8d6",
-    "source": "x",
-    "ts": "2026-10-24T17:54:25.054Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-24T17:53:46.000Z",
-    "reason": "No notable crypto-related event or market movement mentioned.",
-    "text": "@amaruh___ Good evening Amaruh, sorry for the experience. Please DM  your account number and contact for follow up. ^KP",
-    "url": "https://x.com/Safaricom_Care/status/2114052744759632010"
-  },
-  {
-    "id": "x-1792864937528-uow070",
-    "source": "x",
-    "ts": "2026-10-24T18:02:17.528Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 62,
-    "originTimestamp": "2026-10-24T16:59:39.000Z",
-    "reason": "Meme-content unrelated to crypto or financial events.",
-    "text": "Why Phones Think Starlink Satellites Are Cell Towers",
-    "url": "https://x.com/elonmusk/status/2114053491463217539"
-  },
-  {
     "id": "x-1793052102068-oyt6wh",
     "source": "x",
     "ts": "2026-10-26T22:01:42.068Z",
@@ -7962,5 +7936,39 @@
       "https://pbs.twimg.com/media/HVvQpIFWoAA_PsP.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793216041729-4bj2dq",
+    "source": "x",
+    "ts": "2026-10-28T19:34:01.729Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-28T19:33:09.000Z",
+    "reason": "Senator Hagerty's statement indicates a potential policy shift in crypto regulation.",
+    "text": "JUST IN: 🇺🇸 Senator Bill Hagerty says growing the U.S. Strategic Bitcoin Reserve beyond its current 200,000 BTC “once crypto market structure legislation gets done\" 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2115527307058086245",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115527231556505601/vid/avc1/1206x670/6SgdMV3yy3hTHkC7.mp4?tag=29",
+      "duration": 99,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HVvc77LWMAABKHv.jpg"
+    }
+  },
+  {
+    "id": "x-1793216046830-xjuy4g",
+    "source": "x",
+    "ts": "2026-10-28T19:34:06.830Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 74,
+    "originTimestamp": "2026-10-28T18:19:11.000Z",
+    "reason": "Tweet is in Chinese and lacks concrete, specific information verifiable in the crypto market.",
+    "text": "总的来说沃什的讲话非常的简洁，该透露的不该透露的什么都没说，大家关心的就是美联储12月加息的问题，沃什的回答是不知道，还要看数据才能决定，这也是很美联储了。",
+    "url": "https://x.com/PhyrexNi/status/2115525463976312837"
   }
 ]
