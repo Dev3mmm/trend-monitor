@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793033360409-ajd6ec",
-    "source": "x",
-    "ts": "2026-10-26T16:49:20.409Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-26T16:37:15.000Z",
-    "reason": "Indian cryptocurrency exchange confirms significant financial loss.",
-    "text": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
-    "url": "https://x.com/DecryptMedia/status/2114758265040953461",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793033361778-gz4mrc",
-    "source": "x",
-    "ts": "2026-10-26T16:49:21.778Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 38,
-    "originTimestamp": "2026-10-26T16:10:54.000Z",
-    "reason": "Vague opinion without factual claim",
-    "text": "Soon Moon",
-    "url": "https://x.com/elonmusk/status/2114756811689447712"
-  },
-  {
     "id": "x-1793033363583-qngdrw",
     "source": "x",
     "ts": "2026-10-26T16:49:23.583Z",
@@ -7893,5 +7864,37 @@
     "reason": "No notable move in ETH price.",
     "text": "How did you first discover Bitcoin?",
     "url": "https://x.com/Cointelegraph/status/2115374443828805899"
+  },
+  {
+    "id": "x-1793180522045-ac7xoo",
+    "source": "x",
+    "ts": "2026-10-28T09:42:02.045Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T09:40:00.000Z",
+    "reason": "Security warning and data leak reports from multiple exchanges.",
+    "text": "CZ Shares a Security Warning After Four Data Leak Reports\n\nBinance (@binance) co-founder Changpeng Zhao (@cz_binance) flagged reported data leaks at Coinbase (@coinbase) vendor Amplitude, Bithumb (@BithumbOfficial), Mirae Asset and Daishin Securities.\n\nThe reported Coinbase",
+    "url": "https://x.com/BSCNews/status/2115378036157931809",
+    "images": [
+      "https://pbs.twimg.com/media/HVsX4Jaa4AAo1ie.png",
+      "https://pbs.twimg.com/media/HVsaeOZbAAA0TlJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793180525978-qow683",
+    "source": "x",
+    "ts": "2026-10-28T09:42:05.978Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T09:39:58.000Z",
+    "reason": "No crypto-related content or data.",
+    "text": "Children lack the intellectual capacity to make sound decisions.\n\nLearn to firmly tell your children NO.\n\nThey can throw tantrums as much as they want, but let them learn to accept rejection as early as possible.",
+    "url": "https://x.com/amerix/status/2115378029698449571"
   }
 ]
