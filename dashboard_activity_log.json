@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793057549978-pz3do6",
-    "source": "x",
-    "ts": "2026-10-26T23:32:29.978Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-26T23:28:52.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🇺🇸 JUST IN: Ripple CEO Brad Garlinghouse says the OCC has given final approval for Ripple National Trust Bank, creating a federally supervised home for $RLUSD and enterprise crypto custody.",
-    "url": "https://x.com/Cointelegraph/status/2114861854434410534",
-    "images": [
-      "https://pbs.twimg.com/media/HVl_pWTXMAAiqIX.png",
-      "https://pbs.twimg.com/media/HVl_piFX0AEy_xw.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793057554701-7pw4wn",
-    "source": "x",
-    "ts": "2026-10-26T23:32:34.701Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-26T23:26:08.000Z",
-    "reason": "JPMorgan's change in stance from bearish to bullish on Unitree's stock is a notable market move.",
-    "text": "🇨🇳BULLISH: Chinese robot maker Unitree's stock has surged more than 65% in seven trading days, and JPMorgan has turned from bearish to bullish.\n\nShares jumped as much as 18% on Monday before closing up 7.7% at 672 yuan.\n\nJPMorgan more than tripled its price target to 995 yuan,",
-    "url": "https://x.com/coinbureau/status/2114861162525569409",
-    "images": [
-      "https://pbs.twimg.com/media/HVl_A_5a8AAUGfb.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793057557878-5ounyt",
     "source": "x",
     "ts": "2026-10-26T23:32:37.878Z",
@@ -7981,5 +7944,37 @@
     "reason": "No notable move in crypto mentioned.",
     "text": "🚨JUST OUT: Google $GOOGL PLUNGES over 9% after hours on an earnings MISS, and its AI infrastructure spending pushes free cash flow NEGATIVE.\n\nAlphabet spent $51.4 BILLION on capex in the quarter, leaving free cash flow at NEGATIVE $9.07 BILLION despite revenue rising 25% to",
     "url": "https://x.com/coinbureau/status/2115543826412810325"
+  },
+  {
+    "id": "x-1793220738512-6ufw5a",
+    "source": "x",
+    "ts": "2026-10-28T20:52:18.512Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-28T20:47:00.000Z",
+    "reason": "Notable institutional endorsement of a cryptocurrency.",
+    "text": "Flare earns a validator seat on the XRP Ledger’s trusted list\n\nThe @XRPLF added @FlareNetworks ($FLR) to its recommended validator list today. Many XRP Ledger servers use this list to decide which validators to trust, so Flare now helps confirm new ledgers and vote on amendments.",
+    "url": "https://x.com/BSCNews/status/2115545891935502428",
+    "images": [
+      "https://pbs.twimg.com/media/HVvjFTGXQAA4Dvz.jpg",
+      "https://pbs.twimg.com/media/HVvjGPcXQAE5dBd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793220741758-0gnyuk",
+    "source": "x",
+    "ts": "2026-10-28T20:52:21.758Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-28T20:43:19.000Z",
+    "reason": "No crypto-related content.",
+    "text": "BREAKING: Alphabet shares $GOOGL drop more than 9% after hours as Q3 revenue falls short of estimates.\n\nRevenue rose 25% to $127.6 billion, below the $128.2 billion LSEG estimate. Google Cloud revenue jumped 103% to $30.7 billion.",
+    "url": "https://x.com/DecryptMedia/status/2115544965069902019"
   }
 ]
