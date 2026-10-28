@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1793022204268-v3imzz",
-    "source": "x",
-    "ts": "2026-10-26T13:43:24.268Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CertiK Alert",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T13:42:27.000Z",
-    "reason": "Potential significant exploit detected.",
-    "text": "#CertiKInsight 🚨  \n\n@x100global attacker  is currently sending funds to Tornado Cash:  \n\n300 ETH ($690k) has already been sent so far.\n\nCertiK Report Security Dashboard 👇",
-    "url": "https://x.com/CertiKAlert/status/2114714276342485018",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793022207731-zl3u1f",
     "source": "x",
     "ts": "2026-10-26T13:43:27.731Z",
@@ -7885,5 +7869,18 @@
       "https://pbs.twimg.com/media/HVqWMk9WMAEl4Z7.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793147558354-df84nu",
+    "source": "x",
+    "ts": "2026-10-28T00:32:38.354Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T00:30:14.000Z",
+    "reason": "No notable move, price is well inside its recent range.",
+    "text": "🇺🇸 JUST IN: Anthropic has expanded its GSA partnership, cutting Claude prices by 40% for US federal, state and local agencies in a deal expected to save the government around $1 billion.",
+    "url": "https://x.com/Cointelegraph/status/2115239681990287549"
   }
 ]
