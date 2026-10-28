@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791801124950-ta1t7u",
     "x-1791801135394-kyrzuo",
     "x-1791803528305-2qpqrk",
     "x-1791804729407-hbjvu1",
@@ -1999,18 +1998,10 @@
     "x-1793217745917-zmk0tu",
     "x-1793217749901-3id2a3",
     "x-1793218940606-7so5kx",
-    "x-1793218949566-05gvuw"
+    "x-1793218949566-05gvuw",
+    "x-1793220159667-wmpg8e"
   ],
   "queue": [
-    {
-      "text": "🇺🇸 BREAKING: The Federal Reserve has left interest rates unchanged.",
-      "url": "https://x.com/Cointelegraph/status/2115504106034831697",
-      "images": [
-        "https://pbs.twimg.com/media/HVvHxebWAAEhooB.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793210549812
-    },
     {
       "text": "🇺🇸 BIG: Chainlink expands its collaboration with S&amp;P Global Ratings to bring vault risk assessments onchain.",
       "url": "https://x.com/Cointelegraph/status/2115502406989468158",
@@ -2092,6 +2083,15 @@
       ],
       "video": null,
       "enqueuedAt": 1793218954669
+    },
+    {
+      "text": "🚨 ALERT: CZ urges users to avoid clicking email links or downloading attachments, warning that even trusted contacts may unknowingly have malware on their computers.",
+      "url": "https://x.com/Cointelegraph/status/2115544180009193682",
+      "images": [
+        "https://pbs.twimg.com/media/HVvsOD_WMAANxjT.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793220165306
     }
   ],
   "posted": [
@@ -2723,7 +2723,16 @@
       "at": 1793218315828,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382267893046508?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇺🇸 BREAKING: The Federal Reserve has left interest rates unchanged.",
+      "final": "🇺🇸 BREAKING: The Federal Reserve has left interest rates unchanged.\n\n#Crypto #Fed",
+      "images": [
+        "https://pbs.twimg.com/media/HVvHxebWAAEhooB.jpg"
+      ],
+      "at": 1793220165306,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793218315828
+  "lastPostAt": 1793220165306
 }
