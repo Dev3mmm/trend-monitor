@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793026936478-e8f21u",
-    "source": "x",
-    "ts": "2026-10-26T15:02:16.478Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "PeckShieldAlert",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-26T14:53:03.000Z",
-    "reason": "Flash loan attack and significant ETH loss detected",
-    "text": "#PeckShieldAlert The address labeled as the X100 exploiter has deposited 821.2 $ETH (~$1.89M) into #TornadoCash.\n\nX100 ($X) suffered a flash-loan governance attack on October 24, 2026, losing ~$4.75M. $X has dropped 96% in 24h.",
-    "url": "https://x.com/PeckShieldAlert/status/2114732040960774614",
-    "images": [
-      "https://pbs.twimg.com/media/HVkJhhOaoAAeSr6.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793026940301-wnd4qa",
     "source": "x",
     "ts": "2026-10-26T15:02:20.301Z",
@@ -7885,5 +7867,18 @@
       "https://pbs.twimg.com/media/HVr6po7aYAAF7Wy.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793158339832-wtgxaz",
+    "source": "x",
+    "ts": "2026-10-28T03:32:19.832Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T03:30:15.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🇺🇸 LATEST: The US has reportedly told several Gulf countries to prepare for a short but intense renewed military campaign against Iran after the midterm elections, per WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2115284986676883519"
   }
 ]
