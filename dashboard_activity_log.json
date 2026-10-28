@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793029022212-z48vxj",
-    "source": "x",
-    "ts": "2026-10-26T15:37:02.212Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 53,
-    "originTimestamp": "2026-10-26T14:43:08.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "Today's top crypto stories 👇\n\n1. Aviva Investors tokenises £22B fund on XRPL $XRP\n2. South Korea eyes 4th crypto tax delay\n3. TON hits 4M daily txs, 5.6x Bitcoin $TON $BTC\n4. @solana tops XRPL on txs, stablecoins $SOL\n5. Dogecoin Core funding call $DOGE",
-    "url": "https://x.com/BSCNews/status/2114737420885500198"
-  },
-  {
-    "id": "x-1793029026877-cddta8",
-    "source": "x",
-    "ts": "2026-10-26T15:37:06.877Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Coin Bureau",
-    "ageMin": 25,
-    "originTimestamp": "2026-10-26T15:11:02.000Z",
-    "reason": "Unconventional IPO structure with early cash-out potential for investors.",
-    "text": "⚡️UPDATE: Anthropic is reportedly planning an UNCONVENTIONAL IPO lock-up structure that could let early investors and employees cash out much SOONER than the standard 180-day restriction.\n\nHere's the reported timeline:\nDAY 1: First batch of shares available for sale\nDAY 27: More",
-    "url": "https://x.com/coinbureau/status/2114736569739591734",
-    "images": [
-      "https://pbs.twimg.com/media/HVkM_2QaYAApCmQ.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793029030520-jazpip",
     "source": "x",
     "ts": "2026-10-26T15:37:10.520Z",
@@ -7881,6 +7850,44 @@
     "text": "4 data leaks reported today:\n\n1. Coinbase's vendor Amplitude exposed some users’ contact data (funds unaffected).\n2. Bithumb (Korea) had user data leaks.\n\nIn TradFi, two securities firms in Korea leaked data: \n3. Mirae Asset\n4. Daishin Securities\n\nYou can't prevent a leak, but",
     "url": "https://x.com/cz_binance/status/2115304943934672928",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793163810870-gzqwkn",
+    "source": "x",
+    "ts": "2026-10-28T05:03:30.870Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-28T05:00:18.000Z",
+    "reason": "New financial products available on Robinhood Chain",
+    "text": "🔥 LATEST: Ondo Stocks are now live on Robinhood Chain, with 15 tokenized stocks and ETFs bridgeable and 24/7 liquidity via Uniswap.",
+    "url": "https://x.com/Cointelegraph/status/2115307648706879728",
+    "images": [
+      "https://pbs.twimg.com/media/HVsVFkiXQAAPglP.jpg",
+      "https://pbs.twimg.com/media/HVsVGA9W0AAlktt.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793163817024-zt3iu1",
+    "source": "x",
+    "ts": "2026-10-28T05:03:37.024Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T04:59:00.000Z",
+    "reason": "Noteworthy institutional KYC and identity check measures.",
+    "text": "InterLink Could Restrict Accounts Before ITLG Mainnet\n\nInterLink (@inter_link) is tightening identity checks ahead of $ITLG Mainnet KYC. \n\nThe network is strengthening AI-powered identity checks and liveness detection to catch bots, duplicate profiles, and KYC manipulation.",
+    "url": "https://x.com/BSCNews/status/2115307319810814202",
+    "images": [
+      "https://pbs.twimg.com/media/HVsIxXAa8AAPkW5.png",
+      "https://pbs.twimg.com/media/HVsJAZcboAARpiz.jpg"
+    ],
     "video": null
   }
 ]
