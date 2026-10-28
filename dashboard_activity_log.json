@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793033363583-qngdrw",
-    "source": "x",
-    "ts": "2026-10-26T16:49:23.583Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-26T16:30:53.000Z",
-    "reason": "No notable move or specific action is mentioned.",
-    "text": "📊 MARKET: BitMine only needs 63,519 $ETH to reach its goal of owning 5% of the supply.",
-    "url": "https://x.com/Cointelegraph/status/2114756663005569059"
-  },
-  {
-    "id": "x-1793033365719-4wqo4m",
-    "source": "x",
-    "ts": "2026-10-26T16:49:25.719Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 46,
-    "originTimestamp": "2026-10-26T16:03:16.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "We're excited to welcome equity analysts from leading Wall Street research firms to the live Q&amp;A during our Q3 2026 Earnings Call on Thursday, October 29 at 5 PM ET: Pete Christiansen (Citi), Nik Cremo (Barclays), and Andrew Harte (BTIG). $MSTR",
-    "url": "https://x.com/saylor/status/2114755909230497979"
-  },
-  {
     "id": "x-1792792335776-6735tt",
     "source": "x",
     "ts": "2026-10-23T21:52:15.776Z",
@@ -7896,5 +7870,40 @@
     "reason": "No crypto-related content or data.",
     "text": "Children lack the intellectual capacity to make sound decisions.\n\nLearn to firmly tell your children NO.\n\nThey can throw tantrums as much as they want, but let them learn to accept rejection as early as possible.",
     "url": "https://x.com/amerix/status/2115378029698449571"
+  },
+  {
+    "id": "x-1793181131916-74xtgy",
+    "source": "x",
+    "ts": "2026-10-28T09:52:11.916Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T09:49:37.000Z",
+    "reason": "Cryptocurrency-related hack affecting campaign finance disclosures.",
+    "text": "🇺🇸 ALERT: Hackers targeted the US FEC, disrupting campaign finance disclosures a week before the midterms, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2115380458452103601",
+    "images": [
+      "https://pbs.twimg.com/media/HVtXT7pXwAAi0y1.png",
+      "https://pbs.twimg.com/media/HVtXUI0XwAAsG_F.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793181134540-qw8ii6",
+    "source": "x",
+    "ts": "2026-10-28T09:52:14.541Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CertiK Alert",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-28T09:44:31.000Z",
+    "reason": "Exploit of a governance token leading to a significant loss.",
+    "text": "#CertiKInsight 🚨    \n\nOn 24 Oct, X100 was exploited in a governance takeover, resulting in a loss of ~$4.85M.  \n\nRead our full analysis here👇 \n\n\nCertiK Report Security Dashboard 👇",
+    "url": "https://x.com/CertiKAlert/status/2115379172109586588",
+    "images": [],
+    "video": null
   }
 ]
