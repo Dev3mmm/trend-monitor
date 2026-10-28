@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793050477258-ah1llh",
-    "source": "x",
-    "ts": "2026-10-26T21:34:37.258Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-26T21:33:30.000Z",
-    "reason": "Notable institutional adoption of Bitcoin by a government entity.",
-    "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻\n\nThey now own 7,817 BTC! 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2114832819683827774",
-    "images": [
-      "https://pbs.twimg.com/media/HVllEiaWAAAoQl1.jpg",
-      "https://pbs.twimg.com/media/HVlk93eWkAA-_rW.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793050481359-sf6hj4",
     "source": "x",
     "ts": "2026-10-26T21:34:41.360Z",
@@ -7947,5 +7928,18 @@
     "url": "https://x.com/DecryptMedia/status/2115510534380356042",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793212927916-5eckqs",
+    "source": "x",
+    "ts": "2026-10-28T18:42:07.916Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-28T18:41:18.000Z",
+    "reason": "No notable move in ETH price given its recent range.",
+    "text": "🇺🇸 UPDATE: The Fed will keep eight FOMC meetings per year starting in 2027, but one will focus solely on long-term monetary policy strategy with no rate vote or policy statement.",
+    "url": "https://x.com/Cointelegraph/status/2115514259253661939"
   }
 ]
