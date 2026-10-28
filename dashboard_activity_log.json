@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1792814530965-xb2xsg",
-    "source": "x",
-    "ts": "2026-10-24T04:02:10.965Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Safaricom Care",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-24T04:00:56.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "@PaulWaraho Hello Paul, kindly check in your Google Play account if there are any pending payment submissions. Open Google Play, on your profile select payment and subscriptions, Payment methods and delete your M-PESA account as a payment method. If the same is not available,",
-    "url": "https://x.com/Safaricom_Care/status/2113843155384582427"
-  },
-  {
-    "id": "x-1792814535739-ofyksh",
-    "source": "x",
-    "ts": "2026-10-24T04:02:15.739Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-24T04:00:48.000Z",
-    "reason": "BlackRock's ETF outflow is a significant institutional move.",
-    "text": "🚨 JUST IN: Spot Bitcoin ETFs just bled $635.6M in a single day, the biggest outflow since June. \n\nBlackRock's $IBIT alone dumped $254.1M.",
-    "url": "https://x.com/Cointelegraph/status/2113843123486966077",
-    "images": [
-      "https://pbs.twimg.com/media/HVXhHYxWUAE7Jcw.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1792814541536-iykyb0",
     "source": "x",
     "ts": "2026-10-24T04:02:21.536Z",
@@ -7931,6 +7900,44 @@
     "images": [
       "https://pbs.twimg.com/media/HVt5TDlWUAAnMiV.png",
       "https://pbs.twimg.com/media/HVt5TOgWIAAHW0q.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793190750782-wfxux9",
+    "source": "x",
+    "ts": "2026-10-28T12:32:30.782Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-28T12:29:34.000Z",
+    "reason": "Regulatory move from the Treasury on crypto regulation.",
+    "text": "NEW: 🇺🇸 Secretary Scott Bessent says the Treasury is moving on crypto regulation with or without Congress\n\nHe says they will “bring the SEC and CFTC together to close the gaps through regulation.”",
+    "url": "https://x.com/BitcoinMagazine/status/2115420708339614116",
+    "images": [
+      "https://pbs.twimg.com/media/HVt6XCgXQAAXmZ0.png",
+      "https://pbs.twimg.com/media/HVt6Xd5XIAAOxC4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793190756574-n6tjrj",
+    "source": "x",
+    "ts": "2026-10-28T12:32:36.574Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-28T12:28:00.000Z",
+    "reason": "Ripple's stablecoin listing on Coinbase is a notable institutional adoption.",
+    "text": "Ripple's RLUSD is coming to Coinbase!\n\n@Coinbase is listing @Ripple’s $RLUSD stablecoin on its retail application, order book network, and Coinbase Prime custody platform. \n\nThis will enable users to convert USD to any USD-backed stablecoins 1:1.\n\nThis listing enables multi-chain",
+    "url": "https://x.com/BSCNews/status/2115420314947473706",
+    "images": [
+      "https://pbs.twimg.com/media/HVt4o6ZWMAAAFLG.png",
+      "https://pbs.twimg.com/media/HVt4pUyXQAA7xKh.png"
     ],
     "video": null
   }
