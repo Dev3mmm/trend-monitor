@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791655920027-phle2s",
-    "x-1791657746702-zrp862",
     "x-1791660156008-oel8id",
     "x-1791660732763-k9fwei",
     "x-1791663440106-zpnhyx",
@@ -1999,17 +1997,19 @@
     "x-1793157148263-f7z6ac",
     "x-1793157153278-ria5kg",
     "x-1793158936472-ttrjry",
-    "x-1793159553823-adhzkh"
+    "x-1793159553823-adhzkh",
+    "x-1793160181480-wccf34",
+    "x-1793160186235-is8r43"
   ],
   "queue": [
     {
-      "text": "#CertiKAlert 🚨\n\nAn Avalanche vault lost ~$1.01M USDC in  exploit. \n\n\nA scheduled accounting update reopened used draw capacity, enabling a second withdrawal against the same funding.\n\nCertiK Report Security Dashboard 👇",
-      "url": "https://x.com/CertiKAlert/status/2115289650025923015",
+      "text": "🚨 LATEST: Kalshi is capping deposits at $2,500 a month for users aged 18 to 20 as part of new restrictions aimed at curbing risky trading among young adults.",
+      "url": "https://x.com/Cointelegraph/status/2115292532284297612",
       "images": [
-        "https://pbs.twimg.com/media/HVr5zooacAAQ3k2.png"
+        "https://pbs.twimg.com/media/HVsHWKQW8AAn9Tn.png"
       ],
       "video": null,
-      "enqueuedAt": 1793159554324
+      "enqueuedAt": 1793160191829
     }
   ],
   "posted": [
@@ -2670,7 +2670,16 @@
       "at": 1793158340628,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382022236510507?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "#CertiKAlert 🚨\n\nAn Avalanche vault lost ~$1.01M USDC in  exploit. \n\n\nA scheduled accounting update reopened used draw capacity, enabling a second withdrawal against the same funding.\n\nCertiK Report Security Dashboard 👇",
+      "final": "#CertiKAlert 🚨\n\nAn Avalanche vault lost ~$1.01M USDC in exploit.\n\nA scheduled accounting update reopened used draw capacity, enabling a second withdrawal against the same funding.\n\nCertiK Report Security Dashboard 👇\n\n#Avalanche $AVAX #Stablecoin #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HVr5zooacAAQ3k2.png"
+      ],
+      "at": 1793160191829,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793158340628
+  "lastPostAt": 1793160191829
 }
