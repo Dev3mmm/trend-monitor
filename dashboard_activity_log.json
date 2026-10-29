@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793127231263-v40p27",
-    "source": "x",
-    "ts": "2026-10-27T18:53:51.263Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-27T18:50:46.000Z",
-    "reason": "No notable financial or crypto move, purchasing power comparison is historical and not verifiable in the crypto space.",
-    "text": "🇺🇸 INTERESTING: The US dollar has lost about 97% of its purchasing power since the Fed was founded in 1913, and $1 from then is now worth about 3 cents, per River.",
-    "url": "https://x.com/Cointelegraph/status/2115154255778635778"
-  },
-  {
-    "id": "x-1793127236667-wqn4v8",
-    "source": "x",
-    "ts": "2026-10-27T18:53:56.668Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-27T18:47:15.000Z",
-    "reason": "Notable institutional objection to a major player in the crypto space.",
-    "text": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-    "url": "https://x.com/DecryptMedia/status/2115153368238678142",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793127242631-jyodgd",
     "source": "x",
     "ts": "2026-10-27T18:54:02.631Z",
@@ -8089,6 +8060,42 @@
     "url": "https://x.com/BitcoinMagazine/status/2115888766778806691",
     "images": [
       "https://pbs.twimg.com/media/HV0lnnLXwAApeCi.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793303180313-0c6e8p",
+    "source": "x",
+    "ts": "2026-10-29T19:46:20.313Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 61,
+    "originTimestamp": "2026-10-29T18:45:00.000Z",
+    "reason": "Polymarket provider compromise and reimbursement announcement",
+    "text": "⚡️UPDATE: Polymarket says trading is fully back online and it will reimburse ALL affected traders.\n\nIt says one of its third-party providers was compromised, affecting its international platform, Polymarket(.)com.\n\nThe issue has been identified and fixed, and the incident has",
+    "url": "https://x.com/coinbureau/status/2115892239125840279",
+    "images": [
+      "https://pbs.twimg.com/media/HV0oS4FbwAEKTlU.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793303185003-kkakie",
+    "source": "x",
+    "ts": "2026-10-29T19:46:25.003Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-29T19:40:29.000Z",
+    "reason": "US crypto activity percentages highlight regulatory and user distribution insights.",
+    "text": "🇺🇸 UPDATE: The US accounts for roughly 15–20% of global crypto activity, including 36% of Bitcoin hashrate and 31% of Ethereum full nodes, per Grayscale.",
+    "url": "https://x.com/Cointelegraph/status/2115891540962705673",
+    "images": [
+      "https://pbs.twimg.com/media/HV0oJIPXwAEfJ8i.jpg"
     ],
     "video": null
   }
