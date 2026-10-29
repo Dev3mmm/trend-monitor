@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1791840145303-f71sqm",
-    "x-1791840159538-ergxus",
-    "x-1791841471987-nobo2d",
     "x-1791841474944-mj4wgs",
     "x-1791841981593-umad7h",
     "x-1791841985647-8juti7",
@@ -1999,19 +1996,12 @@
     "x-1793277131748-oko129",
     "x-1793277134802-mzxv5r",
     "x-1793277138626-taldpa",
-    "x-1793277781418-kfvo5u"
+    "x-1793277781418-kfvo5u",
+    "x-1793278946400-ebnm4b",
+    "x-1793278955815-zdg6ux",
+    "x-1793278975064-nsvrdz"
   ],
   "queue": [
-    {
-      "text": "🇷🇺 NEW: Russia’s central bank registers its first self-regulatory organization for crypto exchangers and digital depositories.",
-      "url": "https://x.com/Cointelegraph/status/2115783480562823532",
-      "images": [
-        "https://pbs.twimg.com/media/HVzF2UkXEAA05U_.png",
-        "https://pbs.twimg.com/media/HVzF26nXUAAWzV9.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793277141060
-    },
     {
       "text": "Australia's Westpac Caps Crypto Exchange Payments at A$10,000 a Month.\n\nThe limit starts Dec 1. In-branch payments to exchanges will end, and no exemptions will be granted. Withdrawals aren't changing.",
       "url": "https://x.com/DecryptMedia/status/2115783211058171956",
@@ -2021,19 +2011,28 @@
       ],
       "video": null,
       "enqueuedAt": 1793277141060
+    },
+    {
+      "text": "🇷🇺 NEW: Bank of Russia confirms proposed self-custody wallet restrictions won’t apply to international payments.",
+      "url": "https://x.com/Cointelegraph/status/2115791137545896443",
+      "images": [
+        "https://pbs.twimg.com/media/HVzMzs6WgAADQ74.png",
+        "https://pbs.twimg.com/media/HVzM0d7XYAAmqUt.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793278975724
+    },
+    {
+      "text": "🚨PRICE WATCH: Bitcoin falls below $80,000 following a wave of U.S. macroeconomic data releases.",
+      "url": "https://x.com/coinbureau/status/2115789098074190020",
+      "images": [
+        "https://pbs.twimg.com/media/HVzKrujbsAAhzRv.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793278975724
     }
   ],
   "posted": [
-    {
-      "text": "⚡️ LATEST: xStocks’ onchain AUM rose 19.1% to $1.03B in 30 days despite falling stock prices, per Token Terminal.",
-      "final": "⚡️ LATEST: xStocks’ onchain AUM rose 19.1% to $1.03B in 30 days despite falling stock prices, per Token Terminal.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HVor4AuWEAAsa3b.png"
-      ],
-      "at": 1793106153866,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/381808481992224?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "⚡️NEW: Binance has applied for a virtual asset brokerage license in Brazil ahead of the October 30 regulatory deadline.\n\nFiled through its local entity, BBrasil, the application seeks authorization to offer crypto buying, selling and trading services on behalf of Brazilian",
       "final": "⚡️NEW: Binance has applied for a virtual asset brokerage license in Brazil ahead of the October 30 regulatory deadline.\n\nFiled through its local entity, BBrasil, the application seeks authorization to offer crypto buying, selling and trading services on behalf of Brazilian\n\n#Crypto #Binance",
@@ -2704,7 +2703,17 @@
       "at": 1793277141060,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382508879027296?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇷🇺 NEW: Russia’s central bank registers its first self-regulatory organization for crypto exchangers and digital depositories.",
+      "final": "🇷🇺 NEW: Russia’s central bank registers its first self-regulatory organization for crypto exchangers and digital depositories.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVzF2UkXEAA05U_.png",
+        "https://pbs.twimg.com/media/HVzF26nXUAAWzV9.png"
+      ],
+      "at": 1793278975724,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793277141060
+  "lastPostAt": 1793278975724
 }
