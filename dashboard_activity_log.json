@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793075572489-ez816i",
-    "source": "x",
-    "ts": "2026-10-27T04:32:52.489Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-27T04:32:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Vitalik Buterin Flags Growing Risk of Future Pandemics\n\nEthereum (@ethereum) $ETH co-founder, Vitalik Buterin (@VitalikButerin) says airborne disease resistance deserves far more attention from researchers.\n\nHe warns that future pandemics could emerge from dense societies,",
-    "url": "https://x.com/BSCNews/status/2114938137445106103"
-  },
-  {
-    "id": "x-1793075576466-pikf9c",
-    "source": "x",
-    "ts": "2026-10-27T04:32:56.466Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T04:30:50.000Z",
-    "reason": "No notable move in cryptocurrency or blockchain technology.",
-    "text": "🚨 LATEST: Alibaba’s Qwen AI model attempted to send data to an Alibaba Cloud server in Beijing during a security test, according to rival Cohere, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2114937844842074468"
-  },
-  {
     "id": "x-1793076143856-l7q6y0",
     "source": "x",
     "ts": "2026-10-27T04:42:23.856Z",
@@ -7965,5 +7939,36 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "That’s what I do too. Just have @Bot buy it somewhere else at a lower price.",
     "url": "https://x.com/elonmusk/status/2115632219712811226"
+  },
+  {
+    "id": "x-1793241714344-stkstm",
+    "source": "x",
+    "ts": "2026-10-29T02:41:54.344Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-29T02:36:47.000Z",
+    "reason": "Generic hype with no factual claim.",
+    "text": "Buy from @Shopify!",
+    "url": "https://x.com/elonmusk/status/2115634265702678859"
+  },
+  {
+    "id": "x-1793241716890-02rkw3",
+    "source": "x",
+    "ts": "2026-10-29T02:41:56.890Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-29T02:38:00.000Z",
+    "reason": "Exploit and significant token movement identified.",
+    "text": "Two dormant $PEPE whales just woke up and moved $10M...\n\nAccording to data shared by @lookonchain and originating from @arkham, two @pepecoineth whale wallet addresses have just woken up.\n\nMore specifically, they moved 2.27T $PEPE tokens, worth around $10.19M at time of transfer.",
+    "url": "https://x.com/BSCNews/status/2115634224032289072",
+    "images": [
+      "https://pbs.twimg.com/media/HVuyRgIXYAAC84s.jpg"
+    ],
+    "video": null
   }
 ]
