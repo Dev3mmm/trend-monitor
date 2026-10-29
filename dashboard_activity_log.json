@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793148737628-nci9kr",
-    "source": "x",
-    "ts": "2026-10-28T00:52:17.628Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T00:45:12.000Z",
-    "reason": "Security incident affecting SOL staking rewards.",
-    "text": "🚨 ALERT: Solflare’s validator has stopped producing SOL staking rewards after a security incident at its staking provider affected the validator keys, though the wallet says user funds are safe.",
-    "url": "https://x.com/Cointelegraph/status/2115243450077462677",
-    "images": [
-      "https://pbs.twimg.com/media/HVratHGXEAA5LEx.jpg",
-      "https://pbs.twimg.com/media/HVratTXW8AARH7o.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793149344538-7hwq2m",
-    "source": "x",
-    "ts": "2026-10-28T01:02:24.538Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T01:00:11.000Z",
-    "reason": "Specific institutional partnership with potential for new products or services.",
-    "text": "🔥 BIG: Ripple and Robinhood are expanding their partnership to bring RLUSD to Robinhood’s retail and institutional businesses, with integrations across treasury, lending and trading.",
-    "url": "https://x.com/Cointelegraph/status/2115247220916146407",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793149350261-qflicx",
     "source": "x",
     "ts": "2026-10-28T01:02:30.261Z",
@@ -8096,6 +8061,38 @@
     "images": [
       "https://pbs.twimg.com/media/HV1BQ1KXEAAPUw_.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793310749624-5feyxy",
+    "source": "x",
+    "ts": "2026-10-29T21:52:29.624Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T21:50:27.000Z",
+    "reason": "Possible security incident update with user funds safe",
+    "text": "🚨 JUST IN:  reports it is unaffected by the  security incident, with user funds safe and services operating normally.",
+    "url": "https://x.com/Cointelegraph/status/2115924247600058375",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793310755459-uncrr9",
+    "source": "x",
+    "ts": "2026-10-29T21:52:35.459Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Phyrex",
+    "ageMin": 15,
+    "originTimestamp": "2026-10-29T21:36:42.000Z",
+    "reason": "No notable news, as it's an internal event without concrete details.",
+    "text": "阶段性回顾一下 @binance 这次疑似被盗事件还好是发生在北京时间的晚间，也就是美国时间的白天，所以事件发生后 @tether 和 @circle 都能在第一时间反应，从而冻结链上资金，减少损失。\n\n这次被盗不知道和某个国家的黑客团队是不是相关。",
+    "url": "https://x.com/PhyrexNi/status/2115922559569158547",
+    "images": [],
     "video": null
   }
 ]
