@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793119944064-5whg45",
-    "source": "x",
-    "ts": "2026-10-27T16:52:24.064Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-27T16:44:00.000Z",
-    "reason": "New use of a token/stablecoin (WIRE token) announced.",
-    "text": "The $WIRE TGE has been cancelled at the last minute.\n\n@WireNetwork's native token was expected to undergo TGE around October 27, but a new post announces that date has been pushed back to the second half of next month.\n\nThe platform, which has been in development for a staggering",
-    "url": "https://x.com/BSCNews/status/2115122351377428802",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793120628135-y5h9ie",
-    "source": "x",
-    "ts": "2026-10-27T17:03:48.135Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-27T16:56:28.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Elections got prediction markets started. Robinhood says economics and financials are next.\n\nThe key takeaways from two days of @nextpredictio.",
-    "url": "https://x.com/DecryptMedia/status/2115125491648578021"
-  },
-  {
     "id": "x-1793120632702-3kevic",
     "source": "x",
     "ts": "2026-10-27T17:03:52.702Z",
@@ -8052,6 +8023,41 @@
     "images": [
       "https://pbs.twimg.com/media/HVz4GRFWcAAU14A.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793294575136-djwxvt",
+    "source": "x",
+    "ts": "2026-10-29T17:22:55.136Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T17:20:30.000Z",
+    "reason": "Notable regulatory stance from a high-level official in crypto regulation.",
+    "text": "🇺🇸 TODAY: CFTC Chair Michael Selig says “the days of regulation by enforcement are over” while speaking at Chainlink’s LINK: NYC event.",
+    "url": "https://x.com/Cointelegraph/status/2115856313964023917",
+    "images": [
+      "https://pbs.twimg.com/media/HV0IGZQWgAA1UvW.jpg",
+      "https://pbs.twimg.com/media/HV0IGqbWcAEoS4z.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793294577768-ty40e7",
+    "source": "x",
+    "ts": "2026-10-29T17:22:57.768Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-29T17:16:01.000Z",
+    "reason": "Bitcoin options expiration could indicate upcoming market sentiment changes.",
+    "text": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+    "url": "https://x.com/DecryptMedia/status/2115855187147452440",
+    "images": [],
     "video": null
   }
 ]
