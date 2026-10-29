@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793083104596-s900b4",
-    "source": "x",
-    "ts": "2026-10-27T06:38:24.596Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-27T06:30:49.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "⚡️ NOW: Vitalik Buterin urges biologists to take airborne disease resistance more seriously as more plagues likely loom. \n\nHe backs early detection, better ventilation, and open-source vaccines, secured with privacy-preserving cryptography.",
-    "url": "https://x.com/Cointelegraph/status/2114968039481356344"
-  },
-  {
-    "id": "x-1793083927171-yxf2dz",
-    "source": "x",
-    "ts": "2026-10-27T06:52:07.171Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-27T06:44:00.000Z",
-    "reason": "Grayscale credits Zcash's block reward allocation for development support.",
-    "text": "Zcash’s Decade Of Privacy Innovation Has a 20% Funding Engine\n\nGrayscale (@Grayscale) credits Zcash’s (@Zcash) $ZEC 20% block reward allocation for supporting nearly a decade of development. \n\nMiners receive 80%, while 8% funds community grants and 12% goes into a development",
-    "url": "https://x.com/BSCNews/status/2114971356135559664",
-    "images": [
-      "https://pbs.twimg.com/media/HVnSZgBbQAEgZTb.png",
-      "https://pbs.twimg.com/media/HVnSbiLagAAEW3X.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793084532092-wb4xao",
     "source": "x",
     "ts": "2026-10-27T07:02:12.092Z",
@@ -7983,5 +7951,37 @@
     "reason": "No notable move or specific information provided.",
     "text": "Blockworks looked closely at $APT's tokenomics... Here's what it found.\n\n@Aptos has shared a report from @Blockworks' @blockworksres team, the latter having conducted a thorough analysis of the former's native token.\n\nSome of the most important insights...\n\n(1) $APT is getting",
     "url": "https://x.com/BSCNews/status/2115658383122465274"
+  },
+  {
+    "id": "x-1793248342301-lf7imy",
+    "source": "x",
+    "ts": "2026-10-29T04:32:22.301Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T04:30:33.000Z",
+    "reason": "No notable crypto-related content or use of crypto.",
+    "text": "🇺🇸 JUST IN: Vice President JD Vance has reportedly sent a letter to Iranian security chief Mohsen Rezaei in a bid to revive peace talks, as Trump threatens to restart the war after the midterms.",
+    "url": "https://x.com/Cointelegraph/status/2115662550029185500"
+  },
+  {
+    "id": "x-1793248346368-hbcajv",
+    "source": "x",
+    "ts": "2026-10-29T04:32:26.368Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-29T04:22:47.000Z",
+    "reason": "The tweet mentions a security breach involving major financial institutions, which is noteworthy.",
+    "text": "⚠️ ALERT: Allium, the blockchain data provider serving Visa, Stripe and Coinbase, discloses a security breach  into its systems.\n\nThe company detected the breach on October 25, notified affected customers and brought in an independent cybersecurity firm. \n\nThe full scope and",
+    "url": "https://x.com/coinbureau/status/2115660595446100013",
+    "images": [
+      "https://pbs.twimg.com/media/HVxVjPIbIAAUX_t.png",
+      "https://pbs.twimg.com/media/HVxVoaUaMAAcJ8W.png"
+    ],
+    "video": null
   }
 ]
