@@ -1,25 +1,5 @@
 [
   {
-    "id": "x-1793084532092-wb4xao",
-    "source": "x",
-    "ts": "2026-10-27T07:02:12.092Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T07:01:02.000Z",
-    "reason": "ETF inflows/outflows are notable institutional activity.",
-    "text": "🇺🇸 ETF FLOWS: BTC spot ETFs saw net inflows on Oct. 26, while ETH, SOL and XRP spot ETFs saw net outflows.\n\nBTC: $110.34M\nETH: -$88.58M\nSOL: -$8.23M\nXRP: -$3.61M",
-    "url": "https://x.com/Cointelegraph/status/2114975644723368016",
-    "images": [
-      "https://pbs.twimg.com/media/HVnnImZXEAEZJMK.jpg",
-      "https://pbs.twimg.com/media/HVnnIy7XAAAA94o.jpg",
-      "https://pbs.twimg.com/media/HVnnI-9WYAAgcPy.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793084535006-s27eoq",
     "source": "x",
     "ts": "2026-10-27T07:02:15.006Z",
@@ -7983,5 +7963,18 @@
       "https://pbs.twimg.com/media/HVxVoaUaMAAcJ8W.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793248925338-p1fwrw",
+    "source": "x",
+    "ts": "2026-10-29T04:42:05.338Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 84,
+    "originTimestamp": "2026-10-29T03:17:49.000Z",
+    "reason": "Noise: generic hype without real content",
+    "text": "True",
+    "url": "https://x.com/elonmusk/status/2115664319278973255"
   }
 ]
