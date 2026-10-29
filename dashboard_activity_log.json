@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1793161936659-7ls7p7",
-    "source": "x",
-    "ts": "2026-10-28T04:32:16.659Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T04:30:11.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "🚨 UPDATE: Discord will make discoverable servers visible on Google starting November 16, with members’ answers in public channels becoming searchable from December.",
-    "url": "https://x.com/Cointelegraph/status/2115300069704368197"
-  },
-  {
-    "id": "x-1793161941278-67ijul",
-    "source": "x",
-    "ts": "2026-10-28T04:32:21.278Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T04:30:00.000Z",
-    "reason": "Specific data breach affecting Coinbase users.",
-    "text": "⚠️ DATA BREACH ALERT: Coinbase customer contact information exposed in security incident at analytics provider Amplitude.\n\nHackers have allegedly accessed contact information belonging to more than 70,000 Coinbase users.\n\nCoinbase confirms there is no evidence of unauthorised",
-    "url": "https://x.com/coinbureau/status/2115300023550328953",
-    "images": [
-      "https://pbs.twimg.com/media/HVsLHUSasAEyAUO.png",
-      "https://pbs.twimg.com/media/HVsLMG_acAAchsT.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793162494800-serbes",
-    "source": "x",
-    "ts": "2026-10-28T04:41:34.800Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-28T04:37:43.000Z",
-    "reason": "Security incident involving Coinbase contact info leak",
-    "text": "Third-Party Analytics Vendor Amplitude Suffers Security Incident, Leaking Contact Info for a Small Subset of Coinbase Users\n\nSlowMist CISO 23pds posted that a data leak involving Coinbase has been confirmed, though it remains unconfirmed whether passwords or funds were",
-    "url": "https://x.com/WuBlockchain/status/2115301963520958930",
-    "images": [
-      "https://pbs.twimg.com/media/HVsP5BMaQAAN58I.png",
-      "https://pbs.twimg.com/media/HVsP6WXbkAEvMo6.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793163102883-6hj8dz",
     "source": "x",
     "ts": "2026-10-28T04:51:42.883Z",
@@ -8080,5 +8029,52 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Coinbase is safe and secure.\n\nWe’re actively monitoring the Binance situation, and have reached out to their team to offer our support.",
     "url": "https://x.com/coinbase/status/2115937606064279787"
+  },
+  {
+    "id": "x-1793315078043-jwlbm7",
+    "source": "x",
+    "ts": "2026-10-29T23:04:38.043Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-29T23:01:05.000Z",
+    "reason": "Bybit confirms user funds security after reported incidents.",
+    "text": "🚨 NOW: Bybit confirms it is unaffected by the reported security incidents, with trading and withdrawals operating normally and user funds secure.",
+    "url": "https://x.com/Cointelegraph/status/2115942025342439931",
+    "images": [
+      "https://pbs.twimg.com/media/HV1WDdRaAAEfBOk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793315082527-y75nnl",
+    "source": "x",
+    "ts": "2026-10-29T23:04:42.527Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-29T22:59:01.000Z",
+    "reason": "Binance hacker activity highlights DeFi security risks.",
+    "text": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+    "url": "https://x.com/DecryptMedia/status/2115941504002744406",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793315086904-mlac6f",
+    "source": "x",
+    "ts": "2026-10-29T23:04:46.904Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-29T22:54:10.000Z",
+    "reason": "No notable regulatory or financial event.",
+    "text": "🚨 UPDATE: Who’s exposed to the Binance hack so far\n\nLimited exposure:\n- Wintermute: exposure is under 20% of net equity. CEO Evgeny Gaevoy sees no disruption to operations in any scenario.\n- GSR: exposure is under 5% of net equity, with no material disruption to business as",
+    "url": "https://x.com/Cointelegraph/status/2115940284253225160"
   }
 ]
