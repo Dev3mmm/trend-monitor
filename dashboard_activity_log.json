@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793076143856-l7q6y0",
-    "source": "x",
-    "ts": "2026-10-27T04:42:23.856Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 19,
-    "originTimestamp": "2026-10-27T04:22:27.000Z",
-    "reason": "No notable crypto-related event or data point identified.",
-    "text": "Just published a Grok @Bot to remove my number from spam call lists and one to remove my personal info from public sites \n\nCall list remover: \n\nPrivacy scrubber: \n\nTook seconds to set up.",
-    "url": "https://x.com/elonmusk/status/2114938896597520583"
-  },
-  {
     "id": "x-1793077328103-iaebgm",
     "source": "x",
     "ts": "2026-10-27T05:02:08.103Z",
@@ -7968,6 +7955,24 @@
     "url": "https://x.com/BSCNews/status/2115634224032289072",
     "images": [
       "https://pbs.twimg.com/media/HVuyRgIXYAAC84s.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793242308871-jk4mph",
+    "source": "x",
+    "ts": "2026-10-29T02:51:48.871Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T02:49:35.000Z",
+    "reason": "Notable on-chain development with potential wider impact on Binance Smart Chain.",
+    "text": "🔥 NOW: BNB Chain’s Jenner hard fork goes live on BSC testnet, reserving 5% of block gas for payments.",
+    "url": "https://x.com/Cointelegraph/status/2115637139731878131",
+    "images": [
+      "https://pbs.twimg.com/media/HVxAw-qWgAIxW4n.jpg"
     ],
     "video": null
   }
