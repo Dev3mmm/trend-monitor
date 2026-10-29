@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1793126676638-3ay2k7",
-    "source": "x",
-    "ts": "2026-10-27T18:44:36.638Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-27T18:43:38.000Z",
-    "reason": "Notable on-chain data revealing potential gains from a hack.",
-    "text": "Wallet Potentially Linked to $40M UXLINK Hack Shows $6.54M in Unrealized ETH Gains\n\nA wallet suspected of belonging to the hacker behind last year’s roughly $40 million UXLINK theft holds a 30,282 ETH long on Hyperliquid, according to on-chain data. The position has an average",
-    "url": "https://x.com/WuBlockchain/status/2115152459152994606",
-    "images": [
-      "https://pbs.twimg.com/media/HVqH8pTasAE10D4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793126680085-nzkcip",
-    "source": "x",
-    "ts": "2026-10-27T18:44:40.085Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-27T18:30:49.000Z",
-    "reason": "Specific ETF launch with exposure to AI infrastructure stocks.",
-    "text": "⚡️ UPDATE: Grayscale's AI Compute ETF $GCPU gives exposure to AI infrastructure stocks, led by CoreWeave, Nebius and DigitalOcean.",
-    "url": "https://x.com/Cointelegraph/status/2115149233913245919",
-    "images": [
-      "https://pbs.twimg.com/media/HVqFA-mWEAA-bHt.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793127231263-v40p27",
     "source": "x",
     "ts": "2026-10-27T18:53:51.263Z",
@@ -8094,6 +8058,37 @@
     "url": "https://x.com/BSCNews/status/2115886133909303395",
     "images": [
       "https://pbs.twimg.com/media/HV0ZMA0WQAASqyM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793302411625-u9c8lx",
+    "source": "x",
+    "ts": "2026-10-29T19:33:31.625Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 36,
+    "originTimestamp": "2026-10-29T18:56:49.000Z",
+    "reason": "Noise: Generic, unrelated tweet.",
+    "text": "Kenyans have multiple problems in USA",
+    "url": "https://x.com/amerix/status/2115889427952046109"
+  },
+  {
+    "id": "x-1793302415190-x6jznq",
+    "source": "x",
+    "ts": "2026-10-29T19:33:35.190Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-29T19:29:27.000Z",
+    "reason": "Notable inflows into US Bitcoin ETFs.",
+    "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs saw $137.3 million in inflows yesterday 👀\n\nThis week has brought in $423.6 million over the past three trading sessions! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2115888766778806691",
+    "images": [
+      "https://pbs.twimg.com/media/HV0lnnLXwAApeCi.jpg"
     ],
     "video": null
   }
