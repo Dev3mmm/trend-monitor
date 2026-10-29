@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793098325547-tl33rj",
-    "source": "x",
-    "ts": "2026-10-27T10:52:05.547Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-27T10:36:08.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "Behind the scenes of hosting an IRL trading competition.",
-    "url": "https://x.com/coinbase/status/2115031334741795135"
-  },
-  {
     "id": "x-1793098330610-r1p9x8",
     "source": "x",
     "ts": "2026-10-27T10:52:10.610Z",
@@ -7989,5 +7976,18 @@
       "https://pbs.twimg.com/media/HVuzBEQXIAAiyDH.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793263366105-bhhm1v",
+    "source": "x",
+    "ts": "2026-10-29T08:42:46.105Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 24,
+    "originTimestamp": "2026-10-29T08:18:33.000Z",
+    "reason": "No notable move in token/coin value or significant news about institutions or regulatory actions.",
+    "text": "另外这套监控逻辑跑的是 @binance 的 Alpha（含现货） + 合约的异常（狗庄）监控，499个标的随时监控，任何出现异常的信息就会给我报备。\n\nAI 最大的用处还是在于提高生产力，我个人觉的装一大堆的应用或者是技能（Skill）并没有太大的用处，只有能真的实际应用在业务上才是王道。",
+    "url": "https://x.com/PhyrexNi/status/2115725002385625506"
   }
 ]
