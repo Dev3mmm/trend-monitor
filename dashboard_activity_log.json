@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793134517516-3zdj12",
-    "source": "x",
-    "ts": "2026-10-27T20:55:17.516Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-27T20:51:03.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🎙️ Stacks (@stacks.btc) founder Muneeb Ali (@muneeb) answers the tough question: Where will Bitcoin's price end up by the end of 2026. #CHAINREACTION",
-    "url": "https://x.com/Cointelegraph/status/2115184524128571893"
-  },
-  {
-    "id": "x-1793134521157-rtly1n",
-    "source": "x",
-    "ts": "2026-10-27T20:55:21.157Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-27T20:47:31.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Today was a big day for financial markets, here are the 8 headlines you need to know ↓\n\n1. Gold reclaims $4,000\n\n2. Tom Lee's 'BitMine' now owns 6,051,933 ETH – 4.95% of the total ETH supply.\n\n3. Elon Musk says it will take 2-3 years to fully build out its Starlink Mobile U.S.",
-    "url": "https://x.com/coinbase/status/2115184259430244382"
-  },
-  {
-    "id": "x-1793134525251-664g9u",
-    "source": "x",
-    "ts": "2026-10-27T20:55:25.251Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-27T20:44:00.000Z",
-    "reason": "High-profile company earnings news could impact market sentiment.",
-    "text": "🚨JUST IN: Visa $V slides nearly 2% after hours despite beating earnings and raising its dividend 16%.\n\nThat's about $14 BILLION wiped off its market value in minutes.",
-    "url": "https://x.com/coinbureau/status/2115182749057179973",
-    "images": [
-      "https://pbs.twimg.com/media/HVqhUwNakAAJPMy.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793134528372-u8roq9",
     "source": "x",
     "ts": "2026-10-27T20:55:28.372Z",
@@ -8065,5 +8021,55 @@
     "reason": "No notable move or newsworthy event described.",
     "text": "We’re building the only unified, regulated, global exchange, for US and ex-US users.\n\nPerps, options, futures - and no VPN required.\n\nComing next: Relaunching Coinbase Pro.",
     "url": "https://x.com/coinbase/status/2115905047385293051"
+  },
+  {
+    "id": "x-1793307134259-7npq54",
+    "source": "x",
+    "ts": "2026-10-29T20:52:14.259Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T20:50:27.000Z",
+    "reason": "Notable institutional move with tokenized shares on a major exchange.",
+    "text": "⚡️ JUST IN: Nasdaq-listed Canton Strategic Holdings plans to begin trading tokenized versions of its shares on the Canton Network as early as Nov. 2.",
+    "url": "https://x.com/Cointelegraph/status/2115909150932627577",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793307138403-vklzbj",
+    "source": "x",
+    "ts": "2026-10-29T20:52:18.403Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-29T20:48:01.000Z",
+    "reason": "Coinbase's profit is significant in the context of crypto gains.",
+    "text": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+    "url": "https://x.com/DecryptMedia/status/2115908534957137964",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793307143612-6juuco",
+    "source": "x",
+    "ts": "2026-10-29T20:52:23.612Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-29T20:46:00.000Z",
+    "reason": "Notable regulatory and industry association move.",
+    "text": "Cardano Foundation joins the Swiss body writing standards for tokenized shares\n\n@Cardano_CF has joined @cmta_ch, a Geneva-based association founded by Swiss finance, legal, and tech firms. The move follows CMTA’s ruling that Cardano’s new CIP-0113 token standard is equivalent to",
+    "url": "https://x.com/BSCNews/status/2115908028243595269",
+    "images": [
+      "https://pbs.twimg.com/media/HV0wHZBXsAA6OPn.jpg"
+    ],
+    "video": null
   }
 ]
