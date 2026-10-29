@@ -1,4 +1,5 @@
 {
-  "failing": false,
-  "since": "2026-10-28T09:02:29.586Z"
+  "failing": true,
+  "since": "2026-10-29T15:33:24.439Z",
+  "error": "HTTP 502 GitHub API GET dashboard_activity_log.json failed: HTTP 522 error code: 522\n"
 }
