@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793105449743-j4x4dt",
-    "source": "x",
-    "ts": "2026-10-27T12:50:49.743Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-27T12:45:02.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "🔥 LATEST: AI agents need safeguards to manage tokenized assets securely.\n\n@KenomicAI is building infrastructure that lets users set rules for agents, with noncustodial smart contracts executing transactions.\n\n“Blockchain helps us provide those rails and the rules embedded in the",
-    "url": "https://x.com/Cointelegraph/status/2115062214948450597"
-  },
-  {
-    "id": "x-1793105452675-sklgf7",
-    "source": "x",
-    "ts": "2026-10-27T12:50:52.675Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-27T12:41:53.000Z",
-    "reason": "Vague opinion without factual claim",
-    "text": "Saying there’s no reason to buy Bitcoin because anyone can create a cryptocurrency is like saying there’s no reason to learn English because anyone can invent a language.",
-    "url": "https://x.com/saylor/status/2115061421843087541"
-  },
-  {
-    "id": "x-1793105602341-pvaz7n",
-    "source": "x",
-    "ts": "2026-10-27T12:53:22.341Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-27T12:45:02.000Z",
-    "reason": "No notable move in price or significant event.",
-    "text": "🔥 LATEST: AI agents need safeguards to manage tokenized assets securely.\n\n@KenomicAI is building infrastructure that lets users set rules for agents, with noncustodial smart contracts executing transactions.\n\n“Blockchain helps us provide those rails and the rules embedded in the",
-    "url": "https://x.com/Cointelegraph/status/2115062214948450597"
-  },
-  {
     "id": "x-1793105605925-4y8pn4",
     "source": "x",
     "ts": "2026-10-27T12:53:25.925Z",
@@ -7952,5 +7913,56 @@
     "reason": "No notable move or specific event related to crypto.",
     "text": "What Could ECB Without Christine Mean for Crypto in Europe?\n\nEuropean Central Bank President Christine Lagarde has told her peers she plans to leave office on February 7, 2027, after serving a seven-year term.\n\nHer exit is sparking a discussion about succession in Frankfurt and",
     "url": "https://x.com/BSCNews/status/2115756490740973710"
+  },
+  {
+    "id": "x-1793271780171-4mbd7b",
+    "source": "x",
+    "ts": "2026-10-29T11:03:00.171Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-29T10:59:37.000Z",
+    "reason": "Specific institutional partnership with potential regulatory impact.",
+    "text": "NYSE Parent ICE Plans to Partner With Trade xyz to Launch Perpetual Futures Market in the US\n\nAccording to Bloomberg, Intercontinental Exchange (ICE), parent company of the New York Stock Exchange, is partnering with Trade xyz to launch regulated perpetual futures contracts in",
+    "url": "https://x.com/WuBlockchain/status/2115760462856171756",
+    "images": [
+      "https://pbs.twimg.com/media/HVywux4a8AA8X4j.png",
+      "https://pbs.twimg.com/media/HVyw1DHbsAArJ16.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793271785796-sswl5v",
+    "source": "x",
+    "ts": "2026-10-29T11:03:05.796Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-29T10:57:00.000Z",
+    "reason": "No concrete, specific event or price movement to verify.",
+    "text": "China may be the FIRST country to burst the AI bubble.\n\nIts stock market, the world’s 2nd-largest, is now OFFICIALLY in a bear market.\n\nIts blue-chip CSI 300 has now fallen -20% from its peak.\n\nMainland stocks have lost $2.4T since May.\n\nWhat caused? AI.\n\nOver the past 2 years,",
+    "url": "https://x.com/coinbureau/status/2115759801074589740"
+  },
+  {
+    "id": "x-1793271792764-jh5kdl",
+    "source": "x",
+    "ts": "2026-10-29T11:03:12.764Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-29T10:52:00.000Z",
+    "reason": "On-chain data point showing stark disparity in transaction speed and staked security between Solana and Polygon projects.",
+    "text": "The Gap Between Solana and Polygon is bigger than you think\n\nBased on @chainspect_app's analysis, the two projects show a clear disparity in performance. @Solana recorded 1,895 tx/s during a 30-day period, compared to @0xPolygon's 55.9.\n\nThe gap in staked security is even wider.",
+    "url": "https://x.com/BSCNews/status/2115758543328711095",
+    "images": [
+      "https://pbs.twimg.com/media/HVyqZoEWMAAfiZn.png",
+      "https://pbs.twimg.com/media/HVyqZoFW0AAUsmC.png"
+    ],
+    "video": null
   }
 ]
