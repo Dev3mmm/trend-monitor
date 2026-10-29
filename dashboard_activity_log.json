@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793125717278-tg8m4e",
-    "source": "x",
-    "ts": "2026-10-27T18:28:37.278Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-27T18:15:27.000Z",
-    "reason": "Generic motivational tweet with no crypto-specific content or price information.",
-    "text": "If you block an abusive person, 7 good people will follow you.\n\nWhen you remove chaff from your life, you have opened up space for newer people.\n\nSo, don't be the jam that blocks the door.",
-    "url": "https://x.com/amerix/status/2115145368455307732"
-  },
-  {
-    "id": "x-1793125722955-15qkm8",
-    "source": "x",
-    "ts": "2026-10-27T18:28:42.955Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-27T18:15:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨TODAY: Gold and silver RALLIED, adding an estimated $550 BILLION in just FIVE HOURS.\n\nGold climbed 1.1% to around $4,060, while silver gained 0.9% to $54.40.\n\nThe rebound comes as oil prices fall and investors prepare for the Federal Reserve's October 28 rate decision.\n\nWhat's",
-    "url": "https://x.com/coinbureau/status/2115145252600225908"
-  },
-  {
-    "id": "x-1793125728903-n95veh",
-    "source": "x",
-    "ts": "2026-10-27T18:28:48.903Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 87,
-    "originTimestamp": "2026-10-27T17:00:24.000Z",
-    "reason": "Partnership with a major publication and potential for high visibility at a major conference.",
-    "text": "New on @BitcoinMagazine Ten Decrees: Old Masters, New Money.\n\nA conversation w/ @luchopoletti about his ambitious reimagining of Bosch, Bruegel, and bitcoin.\n\nThe series will be featured on the main-stage LED screens @bitcoinconfams Nov. 5–6 🇳🇱 Link below 👇",
-    "url": "https://x.com/BitcoinMagazine/status/2115144856033284196",
-    "images": [
-      "https://pbs.twimg.com/media/HVpwCluXsAE4JvH.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793126494486-qz9k8a",
     "source": "x",
     "ts": "2026-10-27T18:41:34.486Z",
@@ -8081,6 +8037,58 @@
       "https://pbs.twimg.com/media/HV0YO4IbgAA7e1t.png",
       "https://pbs.twimg.com/media/HV0YcmiasAAeZYF.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793300545543-ywu0gz",
+    "source": "x",
+    "ts": "2026-10-29T19:02:25.543Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T19:01:03.000Z",
+    "reason": "KuCoin's decision affects users in sanctioned regions, impacting their services.",
+    "text": "🚨 ALERT: KuCoin is immediately ending all services for users in Russia and Belarus, with affected users to receive deadlines and instructions for closing positions and withdrawing assets.",
+    "url": "https://x.com/Cointelegraph/status/2115881618518806764",
+    "images": [
+      "https://pbs.twimg.com/media/HV0fGZSX0AA46NH.jpg",
+      "https://pbs.twimg.com/media/HV0fG8ZWMAEXZLE.jpg",
+      "https://pbs.twimg.com/media/HV0fHXXXIAAgIFS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793300550605-s6c2iw",
+    "source": "x",
+    "ts": "2026-10-29T19:02:30.605Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 73,
+    "originTimestamp": "2026-10-29T17:48:32.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "This 👇 seems to be caused by \n\nit appears to be an injection attack on the front end. injecting incorrect tx, but showing a valid tx for the user to sign.",
+    "url": "https://x.com/cz_binance/status/2115880474375749834",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793300555204-fglyhh",
+    "source": "x",
+    "ts": "2026-10-29T19:02:35.204Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-29T18:55:01.000Z",
+    "reason": "Security incident at Polymarket raises concerns about prediction market security.",
+    "text": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+    "url": "https://x.com/DecryptMedia/status/2115880101124469086",
+    "images": [],
     "video": null
   }
 ]
