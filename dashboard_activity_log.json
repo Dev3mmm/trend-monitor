@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793109730670-fefa92",
-    "source": "x",
-    "ts": "2026-10-27T14:02:10.670Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-27T13:54:15.000Z",
-    "reason": "Polymarket's investigation into election bets suggests significant regulatory or market interest.",
-    "text": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
-    "url": "https://x.com/DecryptMedia/status/2115079632907104304",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793110335750-s3opki",
-    "source": "x",
-    "ts": "2026-10-27T14:12:15.750Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-27T14:09:06.000Z",
-    "reason": "Notable new ETF including Bitcoin exposure.",
-    "text": "JUST IN: $200 billion VanEck includes Bitcoin exposure in their new Wealth Builder ETF 👀\n\n\"This fund brings Bitcoin to investors who want one simple diversified holding\" 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2115083371126939691",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2115083332476137472/vid/avc1/1280x720/R9ZbpJSFSVPYwAgg.mp4?tag=29",
-      "duration": 21,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115083332476137472/img/mU0sQBCSKymNSwBm.jpg"
-    }
-  },
-  {
     "id": "x-1793110338369-jpmzpx",
     "source": "x",
     "ts": "2026-10-27T14:12:18.369Z",
@@ -7992,6 +7955,37 @@
       "https://pbs.twimg.com/media/HVy_bf2WkAAcIY_.jpg",
       "https://pbs.twimg.com/media/HVy_bfzXIAALjDG.jpg",
       "https://pbs.twimg.com/media/HVy_bf0WMAAftS9.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793281294410-j1e2d5",
+    "source": "x",
+    "ts": "2026-10-29T13:41:34.410Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T13:38:51.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "MACRO TODAY: 🇺🇸 Strong growth, rising inflation and squeezed consumers.\n\nToday’s U.S. data paints a MIXED picture for markets and the Fed.\n\nThe U.S. Economy in NUMBERS:\n\n- GDP grew 3.4% in Q3, the fastest pace in a year.\n\n- Headline PCE inflation rose to 3.6%. Core reached 3.1%.",
+    "url": "https://x.com/coinbureau/status/2115800532904456667"
+  },
+  {
+    "id": "x-1793281297164-0m42ii",
+    "source": "x",
+    "ts": "2026-10-29T13:41:37.164Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-29T13:34:51.000Z",
+    "reason": "Specific token price movement linked to institutional news.",
+    "text": "Hype is pumping on NYSE News\n\n@HyperliquidX $HYPE has surged 4% in the past hour and 14% in the past 24 hours. \n\nThe token has responded positively to news that the @NYSE owner plans to launch a U.S. Perps market on its platform. \n\nEarlier today, @ICE_Markets and @tradexyz",
+    "url": "https://x.com/BSCNews/status/2115799527512838250",
+    "images": [
+      "https://pbs.twimg.com/media/HVzUTNjWsAADdOT.jpg"
     ],
     "video": null
   }
