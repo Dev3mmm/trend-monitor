@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793109059591-dow1mz",
-    "source": "x",
-    "ts": "2026-10-27T13:50:59.592Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-27T13:37:00.000Z",
-    "reason": "No notable crypto-related news in the provided tweet.",
-    "text": "⚡️MARKET OPEN: U.S. stocks open HIGHER, led by the Nasdaq as Wall Street starts the session in positive territory.\n\nNasdaq:+0.50% to 26,299.83\nS&amp;P 500: +0.31% to 7,700.42\nDow Jones: +0.04% to 52,384.42",
-    "url": "https://x.com/coinbureau/status/2115075293866238386"
-  },
-  {
-    "id": "x-1793109063588-eyhrc7",
-    "source": "x",
-    "ts": "2026-10-27T13:51:03.588Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-27T13:34:29.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "LIVE: Stablecoins &amp; Central Banks, On-Chain Data, Bitcoin Sentiment  | BMTV Oct. 27, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2115074660127625502"
-  },
-  {
     "id": "x-1793109069298-yvdvfh",
     "source": "x",
     "ts": "2026-10-27T13:51:09.298Z",
@@ -7987,5 +7961,37 @@
       "https://pbs.twimg.com/media/HVylN_vXQAAnw7T.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793277781418-kfvo5u",
+    "source": "x",
+    "ts": "2026-10-29T12:43:01.418Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-29T12:39:16.000Z",
+    "reason": "Inflation data impacts rate-cut hopes and could affect crypto markets.",
+    "text": "US Inflation Crypto’s Rate-Cut Hopes Just Took a Hit From Fresh US Data\n\nUS economic figures are making the case for lower interest rates harder to make. \n\nHeadline personal consumption expenditure (PCE) inflation rose to 3.6% year-on-year in September, the highest since May,",
+    "url": "https://x.com/BSCNews/status/2115785538066125061",
+    "images": [
+      "https://pbs.twimg.com/media/HVzHlS5XAAExawh.jpg",
+      "https://pbs.twimg.com/media/HVzHsmKW4AE3ClI.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793277785050-hz3juw",
+    "source": "x",
+    "ts": "2026-10-29T12:43:05.050Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-29T12:35:50.000Z",
+    "reason": "No notable crypto-related information.",
+    "text": "🇺🇸 JUST IN: US Q3 GDP grows 3.4% annualized vs. 3.2% expected.",
+    "url": "https://x.com/Cointelegraph/status/2115784674673074571"
   }
 ]
