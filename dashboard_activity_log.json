@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1793107753373-c0q894",
-    "source": "x",
-    "ts": "2026-10-27T13:29:13.373Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-27T13:15:49.000Z",
-    "reason": "Dutch households holding significant crypto assets.",
-    "text": "🇳🇱 BULLISH: Dutch households held €3.2B in crypto with domestic providers at the end of June. \n\nIncluding €1.5B in $BTC and €300M in $ETH, per the Dutch central bank.",
-    "url": "https://x.com/Cointelegraph/status/2115069959369793595",
-    "images": [
-      "https://pbs.twimg.com/media/HVo86jkXQAEhG6t.png",
-      "https://pbs.twimg.com/media/HVo86zAXYAApWEP.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793107755755-33ufu2",
-    "source": "x",
-    "ts": "2026-10-27T13:29:15.755Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 61,
-    "originTimestamp": "2026-10-27T12:27:51.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "October was frighteningly busy at Coinbase. A few monster partnerships we unleashed this month:",
-    "url": "https://x.com/coinbase/status/2115069823789195530"
-  },
-  {
-    "id": "x-1793107758795-pnsw51",
-    "source": "x",
-    "ts": "2026-10-27T13:29:18.795Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-27T13:05:48.000Z",
-    "reason": "Notable institutional move in the crypto space with a financing event.",
-    "text": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-    "url": "https://x.com/DecryptMedia/status/2115067439755010468",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793107761905-rvf87m",
     "source": "x",
     "ts": "2026-10-27T13:29:21.905Z",
@@ -7981,6 +7933,51 @@
     "images": [
       "https://pbs.twimg.com/media/HVy8eROaEAA7CS-.png",
       "https://pbs.twimg.com/media/HVy8gLLboAAQ3Xa.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793275399182-3hq2bn",
+    "source": "x",
+    "ts": "2026-10-29T12:03:19.182Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-29T12:00:11.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "The 100 are here.\n\nCreators. Traders. Educators. Voices shaping how the world understands blockchain.\n\nMeet The Blockchain 100, 2026 👇",
+    "url": "https://x.com/binance/status/2115775702385430537"
+  },
+  {
+    "id": "x-1793275403880-3d26oc",
+    "source": "x",
+    "ts": "2026-10-29T12:03:23.880Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-29T11:56:12.000Z",
+    "reason": "Noise: No real content, speculation without evidence.",
+    "text": "BREAKING: US found a Chinese SPY close to Nvidia CEO Jensen Huang passing intelligence to China, NYT reports.\n\nThe identified spy, Alice Huang, was a top executive at Singapore-based Megaspeed, suspected of illegally funneling restricted Nvidia AI chips into China.\n\nUS",
+    "url": "https://x.com/coinbureau/status/2115774700278399445"
+  },
+  {
+    "id": "x-1793275409868-uhsrni",
+    "source": "x",
+    "ts": "2026-10-29T12:03:29.868Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-29T11:56:00.000Z",
+    "reason": "New use of a token/stablecoin (WalletConnect integrating with Stellar)",
+    "text": "WalletConnect Just Plugged Stellar Into 900 Million Users\n\n@WalletConnect has added support for the @StellarOrg  blockchain. It has also partnered with Penrose Partners to launch WalletConnect Pay for Bermuda merchants, helping the country become the world's first fully on-chain",
+    "url": "https://x.com/BSCNews/status/2115774649305051380",
+    "images": [
+      "https://pbs.twimg.com/media/HVy8V4zW4AAe4Sx.png",
+      "https://pbs.twimg.com/media/HVy8WYXXoAA_vk9.png"
     ],
     "video": null
   }
