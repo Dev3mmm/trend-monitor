@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793123521904-sv8id8",
-    "source": "x",
-    "ts": "2026-10-27T17:52:01.904Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T17:50:48.000Z",
-    "reason": "Notable regulatory action involving the CFTC and state jurisdiction.",
-    "text": "🇺🇸 BIG: The CFTC sues Utah, its 10th state, in a fight over regulatory jurisdiction for prediction markets.",
-    "url": "https://x.com/Cointelegraph/status/2115139162026180832",
-    "images": [
-      "https://pbs.twimg.com/media/HVp72m7WoAApaKH.jpg",
-      "https://pbs.twimg.com/media/HVp725wXcAE4650.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793123525602-0e6177",
-    "source": "x",
-    "ts": "2026-10-27T17:52:05.602Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-27T17:48:00.000Z",
-    "reason": "Notable institutional adoption of a smart contract platform.",
-    "text": "ADQ-backed Further picks Chainlink to police tokenized trades in Abu Dhabi\n\nFurther Asset Management (@further), an Abu Dhabi firm backed by wealth fund ADQ, is plugging @chainlink into Anubis, a platform that turns financial rules into code. Before any tokenized asset trade goes",
-    "url": "https://x.com/BSCNews/status/2115138457291174073",
-    "images": [
-      "https://pbs.twimg.com/media/HVp3vS-XkAACxb5.jpg",
-      "https://pbs.twimg.com/media/HVp3vS9XQAANiUH.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793123529478-g9gyy3",
-    "source": "x",
-    "ts": "2026-10-27T17:52:09.478Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Wu Blockchain",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-27T17:46:34.000Z",
-    "reason": "Regulatory probe into crypto exchange Polymarket.",
-    "text": "Reuters: CFTC Again Probes Whether Polymarket Violated 2022 Settlement\n\nAccording to Reuters, citing two sources familiar with the matter, the CFTC is investigating whether Polymarket violated its 2022 settlement by failing to take sufficient steps to block U.S. users from its",
-    "url": "https://x.com/WuBlockchain/status/2115138099206611017",
-    "images": [
-      "https://pbs.twimg.com/media/HVp64S9bsAAXzSM.jpg",
-      "https://pbs.twimg.com/media/HVp64mMakAEaJi3.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793123532898-6i1ldt",
     "source": "x",
     "ts": "2026-10-27T17:52:12.898Z",
@@ -8066,5 +8009,52 @@
     "reason": "No notable move or specific event is described.",
     "text": "JUST IN: 🇺🇸 Stand With Crypto's Executive Director says \"I think the Strategic Reserve is obviously an incredible priority\" in 2027 👀\n\n\"Lawmakers need to understand the arguments they're making and feel the heat from their holders back home that Bitcoin reserve must happen.\" 👏",
     "url": "https://x.com/BitcoinMagazine/status/2115867944613810257"
+  },
+  {
+    "id": "x-1793298140898-cjxmrq",
+    "source": "x",
+    "ts": "2026-10-29T18:22:20.898Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T18:21:00.000Z",
+    "reason": "Notable payment infrastructure update on BSC.",
+    "text": "BNB Chain wants payments to get through even when the network is busy\n\n@BNBCHAIN has activated the Jenner hard fork on BSC testnet. Its main feature, Payment Lane, sets aside 5% of each block’s gas for payments by default. Plain $BNB transfers between wallets qualify, while token",
+    "url": "https://x.com/BSCNews/status/2115871537719091573",
+    "images": [
+      "https://pbs.twimg.com/media/HV0UKftWIAEnSVa.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793298144898-txivz8",
+    "source": "x",
+    "ts": "2026-10-29T18:22:24.898Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T18:20:31.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🚨 BIG: Alphabet ($GOOGL) shares fell 12.08% to $285.65, putting the stock on track for its biggest one-day percentage decline on record.",
+    "url": "https://x.com/Cointelegraph/status/2115871418797752621"
+  },
+  {
+    "id": "x-1793298149037-2tpakx",
+    "source": "x",
+    "ts": "2026-10-29T18:22:29.037Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 23,
+    "originTimestamp": "2026-10-29T17:59:13.000Z",
+    "reason": "Specific on-chain data point.",
+    "text": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC \n\n via @bitcoinmagazine @FutureBit",
+    "url": "https://x.com/BitcoinMagazine/status/2115870732869910667",
+    "images": [],
+    "video": null
   }
 ]
