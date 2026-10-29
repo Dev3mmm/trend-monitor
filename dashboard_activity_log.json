@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793118864943-sbmcii",
-    "source": "x",
-    "ts": "2026-10-27T16:34:24.943Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-27T16:24:43.000Z",
-    "reason": "Specific institutional investment news",
-    "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs saw $110.3 million in net inflows yesterday 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2115117497665958167",
-    "images": [
-      "https://pbs.twimg.com/media/HVpoJyAWEAA6BAL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793119413965-7tb5du",
-    "source": "x",
-    "ts": "2026-10-27T16:43:33.965Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T16:41:08.000Z",
-    "reason": "Generic motivational message with no specific content.",
-    "text": "Once again. NEVER GIVE UP.",
-    "url": "https://x.com/amerix/status/2115121630204580297"
-  },
-  {
-    "id": "x-1793119932940-cqwndo",
-    "source": "x",
-    "ts": "2026-10-27T16:52:12.940Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T16:50:47.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "🇺🇸 JUST IN: Trump says he will ban the term “artificial intelligence” from relevant documents, calling it inaccurate and advocating “super intelligence” instead.",
-    "url": "https://x.com/Cointelegraph/status/2115124059327340969"
-  },
-  {
     "id": "x-1793119938321-wte5yt",
     "source": "x",
     "ts": "2026-10-27T16:52:18.321Z",
@@ -8043,5 +7999,62 @@
     "url": "https://x.com/DecryptMedia/status/2115844623922811050",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793293336545-itsbg7",
+    "source": "x",
+    "ts": "2026-10-29T17:02:16.545Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T17:01:15.000Z",
+    "reason": "Notable institutional reward distribution in the DeFi ecosystem.",
+    "text": "🔥 LATEST: Ethena has distributed over $800 million in rewards across its USDe ecosystem since launch.",
+    "url": "https://x.com/Cointelegraph/status/2115851470159384607",
+    "images": [
+      "https://pbs.twimg.com/media/HV0DsopW0AA-dfZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793293338928-fuinmc",
+    "source": "x",
+    "ts": "2026-10-29T17:02:18.928Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T17:00:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "USD1 holders, we're not done yet 😎\n\n• Airdrop: extended ✔️\n• Up to 8% APR (variable): ✔️\n• 2.5M USD1 rewards: extended ✔️\n\n👉",
+    "url": "https://x.com/binance/status/2115851153401631086",
+    "images": [
+      "https://pbs.twimg.com/media/HVzz_nVacAAYTl8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793293342167-unuvrz",
+    "source": "x",
+    "ts": "2026-10-29T17:02:22.167Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-29T16:59:16.000Z",
+    "reason": "Fidelity Digital Assets reports Bitcoin outperforming gold by 58% since February 28, indicating a potential bottom with room to run.",
+    "text": "JUST IN: Fidelity Digital Assets says Bitcoin has outperformed gold by 58% since February 28 👀\n\nTheir report adds that Bitcoin \"may have already hit a cyclical bottom, with possibly more room to run.\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2115850970089541733",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115850934945222656/vid/avc1/1280x720/cKMaccVJnrAla4cq.mp4?tag=29",
+      "duration": 18,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HV0DSpiXoAApBEr.jpg"
+    }
   }
 ]
