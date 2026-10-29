@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793097193695-rho09g",
-    "source": "x",
-    "ts": "2026-10-27T10:33:13.695Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T10:30:53.000Z",
-    "reason": "No notable move or specific event related to crypto.",
-    "text": "🤖 NEW: AIA Orbis is developing a 3.5-meter humanoid robot, with a planned launch in 2032.",
-    "url": "https://x.com/Cointelegraph/status/2115028454429053338"
-  },
-  {
-    "id": "x-1793097198156-x30apg",
-    "source": "x",
-    "ts": "2026-10-27T10:33:18.156Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-27T10:23:50.000Z",
-    "reason": "No notable move or specific event.",
-    "text": "Satoshi’s Bitcoin Design Powers Far More Than BTC  \n\nArkham Intelligence points to the UTXO model as a key part of Satoshi Nakamoto’s legacy.  \n\nThe system tracks funds as separate spendable outputs rather than account balances.  \n\nArkham has drawn attention to a surprising",
-    "url": "https://x.com/BSCNews/status/2115026682080043317"
-  },
-  {
     "id": "x-1793098325547-tl33rj",
     "source": "x",
     "ts": "2026-10-27T10:52:05.547Z",
@@ -7984,5 +7958,36 @@
     "reason": "No notable crypto-specific news is mentioned.",
     "text": "🇺🇸HUGE: U.S. Treasury buys back $6 BILLION of its own debt, taking October’s total to $26.08 BILLION.\n\nThe October 27 operation targeted bonds with 20–30 years remaining, accepting the full $6 billion maximum from $10.75 billion offered.\n\nThis comes amid concerns over China’s",
     "url": "https://x.com/coinbureau/status/2115719787267715424"
+  },
+  {
+    "id": "x-1793262746721-oa78i7",
+    "source": "x",
+    "ts": "2026-10-29T08:32:26.721Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T08:30:50.000Z",
+    "reason": "No notable move or event described.",
+    "text": "🚨 LONGITUDE: Post-quantum technology is ready, but users must migrate their keys while it’s still safe, @sgoldfed of @Offchain Labs explains.\n\nThe challenge is getting users to act before the last moment.",
+    "url": "https://x.com/Cointelegraph/status/2115723016822837380"
+  },
+  {
+    "id": "x-1793262750632-xow5yx",
+    "source": "x",
+    "ts": "2026-10-29T08:32:30.632Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T08:30:00.000Z",
+    "reason": "Announcement of new derivative product launch on a meme-coins platform.",
+    "text": "PumpFun is expanding beyond memecoin launches.\n\n@Pumpfun has announced that perps trading is now live on its platform, the new product leveraging @HyperliquidX's rails.\n\nUsers can now use their $USDC balances directly to trade perps contracts on assets spanning crypto, stocks,",
+    "url": "https://x.com/BSCNews/status/2115722808722670054",
+    "images": [
+      "https://pbs.twimg.com/media/HVuzBEQXIAAiyDH.jpg"
+    ],
+    "video": null
   }
 ]
