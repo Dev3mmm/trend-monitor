@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793106153008-igd9u7",
-    "source": "x",
-    "ts": "2026-10-27T13:02:33.008Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-27T12:54:16.000Z",
-    "reason": "No notable move or specific factual claim.",
-    "text": "The Gap between Bitcoin and ICP is too wide... \n\nPer @Chainspect, $BTC averages $0.263 per transaction, while @dfinity's $ICP averages $0.0000637, a 4,129x difference.\n\nAs $BTC and $ETH keep high fees to preserve scarce blockspace, other compute-and-throughput chains have reduced",
-    "url": "https://x.com/BSCNews/status/2115064538118717935"
-  },
-  {
-    "id": "x-1793107401142-0ug3cz",
-    "source": "x",
-    "ts": "2026-10-27T13:23:21.142Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 39,
-    "originTimestamp": "2026-10-27T12:44:22.000Z",
-    "reason": "Vague sentiment without a concrete event or price.",
-    "text": "You will come out.\n\nBeing at your rock bottom is not the end of your life. It is the beginning of your greatness.\n\nHold on there.",
-    "url": "https://x.com/amerix/status/2115070895005761668"
-  },
-  {
     "id": "x-1793107405084-tgtvtf",
     "source": "x",
     "ts": "2026-10-27T13:23:25.084Z",
@@ -7966,6 +7940,37 @@
     "text": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
     "url": "https://x.com/DecryptMedia/status/2115762573756788945",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793272951260-ddmoht",
+    "source": "x",
+    "ts": "2026-10-29T11:22:31.260Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-29T11:21:39.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Your money shouldn’t need permission to leave. $STRC",
+    "url": "https://x.com/saylor/status/2115766006656241764"
+  },
+  {
+    "id": "x-1793272955975-z0o1p3",
+    "source": "x",
+    "ts": "2026-10-29T11:22:35.975Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T11:21:20.000Z",
+    "reason": "Notable move in a speculative token on regulatory news.",
+    "text": "BREAKING: $HYPE surges 10% on reports NYSE’s owner ICE plans to bring Hyperliquid futures trading to the US.",
+    "url": "https://x.com/coinbureau/status/2115765925572231407",
+    "images": [
+      "https://pbs.twimg.com/media/HVy1adxaIAE7Oy4.png"
+    ],
     "video": null
   }
 ]
