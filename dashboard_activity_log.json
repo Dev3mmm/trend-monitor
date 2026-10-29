@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793080939339-oe8n0p",
-    "source": "x",
-    "ts": "2026-10-27T06:02:19.339Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T06:00:52.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "⚡️ INSIGHT: Bitcoin remains the only major asset class held mostly by individuals, but ownership is expected to shift toward institutions as it matures, mirroring gold, per River.\n\nDo you think institutional dominance is good or bad for Bitcoin? 👇",
-    "url": "https://x.com/Cointelegraph/status/2114960500345679873"
-  },
-  {
-    "id": "x-1793080943081-dy7jcq",
-    "source": "x",
-    "ts": "2026-10-27T06:02:23.081Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T06:00:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "ᜊ( ‘ ⩊ ‘𖦹)ᜊ\n\nGM",
-    "url": "https://x.com/binance/status/2114960283261178194"
-  },
-  {
     "id": "x-1793082147937-5fmos6",
     "source": "x",
     "ts": "2026-10-27T06:22:27.937Z",
@@ -7981,5 +7955,45 @@
       "https://pbs.twimg.com/media/HVxNq0dbwAA4jHE.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793246549886-eko7zm",
+    "source": "x",
+    "ts": "2026-10-29T04:02:29.886Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T04:00:33.000Z",
+    "reason": "Regulatory body discussing major market changes.",
+    "text": "🇺🇸 BIG: The CFTC will host an industry roundtable on Dec. 15 to discuss moving US derivatives markets to 24/7 trading.",
+    "url": "https://x.com/Cointelegraph/status/2115654997740286414",
+    "images": [
+      "https://pbs.twimg.com/media/HVxRAG_WkAANWz4.jpg",
+      "https://pbs.twimg.com/media/HVxRAgGXgAAqB97.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793246555268-1w4mky",
+    "source": "x",
+    "ts": "2026-10-29T04:02:35.268Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T04:00:01.000Z",
+    "reason": "Specific, verifiable institutional adoption event.",
+    "text": "CZ: The Real Demand for Tokenized US Stocks Comes from Outside the US  \n\nOn October 27, 2026, Binance founder CZ @cz_binance said in an interview with The Rollup founder Andy @andyyy that demand for tokenized U.S. stocks primarily comes from people outside the United States who",
+    "url": "https://x.com/WuBlockchain/status/2115654864642679270",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115455848222973952/vid/avc1/1280x720/LN8zh2l5GuLAztMr.mp4?tag=29",
+      "duration": 85,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115455848222973952/img/W3zsvZ_cr-Uy4Vzl.jpg"
+    }
   }
 ]
