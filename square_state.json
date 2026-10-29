@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791847317011-jr2prr",
     "x-1791847967085-a0vm8z",
     "x-1791849116501-s9zkri",
     "x-1791850924518-l2m22j",
@@ -1999,19 +1998,10 @@
     "x-1793279653557-qxm140",
     "x-1793280204560-1z0l00",
     "x-1793280748646-nv0qow",
-    "x-1793281297164-0m42ii"
+    "x-1793281297164-0m42ii",
+    "x-1793282530429-h37sbt"
   ],
   "queue": [
-    {
-      "text": "🇷🇺 NEW: Bank of Russia confirms proposed self-custody wallet restrictions won’t apply to international payments.",
-      "url": "https://x.com/Cointelegraph/status/2115791137545896443",
-      "images": [
-        "https://pbs.twimg.com/media/HVzMzs6WgAADQ74.png",
-        "https://pbs.twimg.com/media/HVzM0d7XYAAmqUt.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793278975724
-    },
     {
       "text": "🚨PRICE WATCH: Bitcoin falls below $80,000 following a wave of U.S. macroeconomic data releases.",
       "url": "https://x.com/coinbureau/status/2115789098074190020",
@@ -2042,17 +2032,18 @@
       ],
       "video": null,
       "enqueuedAt": 1793280750911
+    },
+    {
+      "text": "🇪🇺 JUST IN: European Central Bank holds its key deposit rate at 2.50%, as expected.",
+      "url": "https://x.com/Cointelegraph/status/2115806134661492828",
+      "images": [
+        "https://pbs.twimg.com/media/HVzaduGWEAEwyAQ.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793282530877
     }
   ],
   "posted": [
-    {
-      "text": "🔥 INSIGHT: @eToro founder @yoniassia says $BTC could face another “bump in the road” before its next rally, which he expects to start next year.",
-      "final": "🔥 INSIGHT: @eToro founder @yoniassia says $BTC could face another “bump in the road” before its next rally, which he expects to start next year.\n\n#Bitcoin $BTC",
-      "images": [],
-      "at": 1793109285950,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/381821328419114?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🇳🇱 BULLISH: Dutch households held €3.2B in crypto with domestic providers at the end of June. \n\nIncluding €1.5B in $BTC and €300M in $ETH, per the Dutch central bank.",
       "final": "🇳🇱 BULLISH: Dutch households held €3.2B in crypto with domestic providers at the end of June. \n\nIncluding €1.5B in $BTC and €300M in $ETH, per the Dutch central bank.\n\n#Bitcoin $BTC #Ethereum $ETH",
@@ -2726,7 +2717,17 @@
       "at": 1793280750911,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382523672394620?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇷🇺 NEW: Bank of Russia confirms proposed self-custody wallet restrictions won’t apply to international payments.",
+      "final": "🇷🇺 NEW: Bank of Russia confirms proposed self-custody wallet restrictions won’t apply to international payments.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HVzMzs6WgAADQ74.png",
+        "https://pbs.twimg.com/media/HVzM0d7XYAAmqUt.png"
+      ],
+      "at": 1793282530877,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793280750911
+  "lastPostAt": 1793282530877
 }
