@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793124136253-e6jjzw",
-    "source": "x",
-    "ts": "2026-10-27T18:02:16.253Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T18:00:02.000Z",
-    "reason": "Generic, vague statement without a concrete claim or event.",
-    "text": "CZ: Today Is the Best Day in History to Start a Business\n\nOn October 24, 2026, Binance founder CZ @cz_binance said in an interview with PIVOT @PIVOT_inc_ that today is a better time to start a business than any previous day in history, with clear opportunities in AI, blockchain",
-    "url": "https://x.com/WuBlockchain/status/2115141484676833307"
-  },
-  {
-    "id": "x-1793124138890-o7xs89",
-    "source": "x",
-    "ts": "2026-10-27T18:02:18.890Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T18:00:02.000Z",
-    "reason": "Dividend payment for NOKB token holders.",
-    "text": "NOK bStock (NOKB) dividends are now in your Spot Wallet ✅\n\nIf you were holding tokens before 27 Oct 2026, your dividend should now be available.\n\n→ $0.01 USD dividend per share\n→ Distributed as additional NOKB\n\nThank you for being part of Binance bStocks. 🫡",
-    "url": "https://x.com/binance/status/2115141484601049154",
-    "images": [
-      "https://pbs.twimg.com/media/HVp5fpsacAA9_po.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793124786116-6qh5k5",
     "source": "x",
     "ts": "2026-10-27T18:13:06.116Z",
@@ -8061,6 +8030,43 @@
     "url": "https://x.com/DecryptMedia/status/2115873466058407966",
     "images": [
       "https://pbs.twimg.com/media/HV0XMp3WoAASME2.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793299359832-l0u4bb",
+    "source": "x",
+    "ts": "2026-10-29T18:42:39.832Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T18:40:29.000Z",
+    "reason": "US ETF outflows indicate declining investor confidence in Bitcoin spot markets.",
+    "text": "🚨 UPDATE: US spot Bitcoin ETFs recorded $292 million in net outflows over the 30 days ending Oct. 26, their first negative 30-day total since late July, according to @Glassnode.",
+    "url": "https://x.com/Cointelegraph/status/2115876440021320096",
+    "images": [
+      "https://pbs.twimg.com/media/HV0aaE4W0AEClmh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793299363533-skn37j",
+    "source": "x",
+    "ts": "2026-10-29T18:42:43.533Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "PeckShieldAlert",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-29T18:30:41.000Z",
+    "reason": "Potential security exploit that could compromise user funds.",
+    "text": "It seems @Polymarket UI may be compromised. Do NOT interact on the site for now.",
+    "url": "https://x.com/PeckShieldAlert/status/2115875362584535292",
+    "images": [
+      "https://pbs.twimg.com/media/HV0Xz4EXMAEBXss.png",
+      "https://pbs.twimg.com/media/HV0YInJXIAA30Ul.png"
     ],
     "video": null
   }
