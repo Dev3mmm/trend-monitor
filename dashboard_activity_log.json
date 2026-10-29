@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1793118858650-o46x1v",
-    "source": "x",
-    "ts": "2026-10-27T16:34:18.650Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 32,
-    "originTimestamp": "2026-10-27T16:02:27.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "New features in Grok @Bot",
-    "url": "https://x.com/elonmusk/status/2115119252785303813"
-  },
-  {
-    "id": "x-1793118861588-sds6mm",
-    "source": "x",
-    "ts": "2026-10-27T16:34:21.588Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-27T16:31:04.000Z",
-    "reason": "North Korea's Lazarus Group using stolen crypto for nuclear program is a significant cybersecurity and financial crime development.",
-    "text": "🎥 North Korea’s Lazarus Group is using stolen crypto to help fund its nuclear program, says Chainalysis.\n\nAI, cross-chain laundering, and sophisticated infiltration tactics are changing crypto crime.\n\nHow do investigators fight back?",
-    "url": "https://x.com/Cointelegraph/status/2115119098333986855",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793118863274-iw3dw3",
-    "source": "x",
-    "ts": "2026-10-27T16:34:23.274Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-27T16:13:11.000Z",
-    "reason": "Generic hype with no factual claim.",
-    "text": "Order of AiFi operations:\nStep 1: Vibe buy the domain\nStep 2: Vibe code something to put on it\n\nWe got you covered for Step 1.",
-    "url": "https://x.com/coinbase/status/2115117753631670426"
-  },
-  {
     "id": "x-1793118864943-sbmcii",
     "source": "x",
     "ts": "2026-10-27T16:34:24.943Z",
@@ -8030,6 +7988,59 @@
     "reason": "Bitwise ETF achieved a significant trading volume in its short trading period.",
     "text": "Bitwise's Hyperliquid ETF Tops $40M Traded in 3 Hours.\n\nBitwise CEO @HHorsley said BHYP traded more than $40 million in its first three hours of trading Thursday.",
     "url": "https://x.com/DecryptMedia/status/2115843148245246008",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793292135716-vpq116",
+    "source": "x",
+    "ts": "2026-10-29T16:42:15.716Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T16:41:00.000Z",
+    "reason": "This tweet highlights significant growth in a specific stablecoin, which could be noteworthy.",
+    "text": "Only Arc, XRP and Algorand seeing stablecoin growth...\n\nA glance at DefiLlama's stablecoin-by-chain dashboard, paints an ugly picture, with nearly all major chains seeing their stablecoin economies shrink over the past week.\n\nBut there are three clear exceptions...\n\n- @Arc +54.5%",
+    "url": "https://x.com/BSCNews/status/2115846372020703585",
+    "images": [
+      "https://pbs.twimg.com/media/HVzlugCWIAAYJID.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793292140833-hctv8o",
+    "source": "x",
+    "ts": "2026-10-29T16:42:20.833Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T16:40:29.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🇺🇸 JUST IN: Peter Schiff calls Warsh’s inflation-fighting rhetoric a “bluff,” predicting the Fed will likely expand QE and potentially cut rates next year even as inflation rises.",
+    "url": "https://x.com/Cointelegraph/status/2115846245046444446",
+    "images": [
+      "https://pbs.twimg.com/media/HVz-8UiXgAAzYtF.jpg",
+      "https://pbs.twimg.com/media/HVz-8h0WAAAKQig.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793292144929-9ylgqq",
+    "source": "x",
+    "ts": "2026-10-29T16:42:24.929Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-29T16:34:03.000Z",
+    "reason": "Price outside the recent range indicates a potential significant move.",
+    "text": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+    "url": "https://x.com/DecryptMedia/status/2115844623922811050",
     "images": [],
     "video": null
   }
