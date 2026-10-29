@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1793107405084-tgtvtf",
-    "source": "x",
-    "ts": "2026-10-27T13:23:25.084Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-27T13:15:49.000Z",
-    "reason": "Dutch households holding significant crypto, potentially regulatory impact.",
-    "text": "🇳🇱 BULLISH: Dutch households held €3.2B in crypto with domestic providers at the end of June. \n\nIncluding €1.5B in $BTC and €300M in $ETH, per the Dutch central bank.",
-    "url": "https://x.com/Cointelegraph/status/2115069959369793595",
-    "images": [
-      "https://pbs.twimg.com/media/HVo86jkXQAEhG6t.png",
-      "https://pbs.twimg.com/media/HVo86zAXYAApWEP.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793107407885-9wirng",
-    "source": "x",
-    "ts": "2026-10-27T13:23:27.885Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 55,
-    "originTimestamp": "2026-10-27T12:27:51.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "October was frighteningly busy at Coinbase. A few monster partnerships we unleashed this month:",
-    "url": "https://x.com/coinbase/status/2115069823789195530"
-  },
-  {
-    "id": "x-1793107411229-ru4fw9",
-    "source": "x",
-    "ts": "2026-10-27T13:23:31.229Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-27T13:05:48.000Z",
-    "reason": "Notable institutional move with a specific amount raised.",
-    "text": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-    "url": "https://x.com/DecryptMedia/status/2115067439755010468",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793107415249-w16wbt",
     "source": "x",
     "ts": "2026-10-27T13:23:35.249Z",
@@ -7970,6 +7922,59 @@
     "url": "https://x.com/coinbureau/status/2115765925572231407",
     "images": [
       "https://pbs.twimg.com/media/HVy1adxaIAE7Oy4.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793273599790-v9hfvs",
+    "source": "x",
+    "ts": "2026-10-29T11:33:19.790Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-29T11:30:01.000Z",
+    "reason": "Ledger wallet security breach reported by Singapore police.",
+    "text": "Singapore police report about S$3.5M in losses from tampered Ledger wallets bought at some local stores. At least 2 cases have been reported since Sept. 10.\n\nLedger has asked authorized resellers to suspend sales in Southeast Asia and Hong Kong.",
+    "url": "https://x.com/DecryptMedia/status/2115768111513174207",
+    "images": [
+      "https://pbs.twimg.com/media/HVyjowWXQAAV1vZ.jpg",
+      "https://pbs.twimg.com/media/HVyj0WIWsAANLzN.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793273604423-mdbo3e",
+    "source": "x",
+    "ts": "2026-10-29T11:33:24.423Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-29T11:30:00.000Z",
+    "reason": "Crypto exchanges expanding into payments services.",
+    "text": "🔥 LATEST: Crypto exchanges are expanding beyond trading into everyday payments.\n\n@Gate’s latest launch of Gate Money combines fiat transfers, digital assets, investment services and Visa-powered card payments, with availability varying by region.\n\nRead more:",
+    "url": "https://x.com/Cointelegraph/status/2115768108774572540",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793273609100-h0l5oi",
+    "source": "x",
+    "ts": "2026-10-29T11:33:29.100Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-29T11:24:18.000Z",
+    "reason": "Notable move in a cryptocurrency related to a major financial institution.",
+    "text": "BREAKING: $HYPE surges +10% on reports NYSE’s owner ICE plans to bring Hyperliquid futures trading to the US.",
+    "url": "https://x.com/coinbureau/status/2115766673001341312",
+    "images": [
+      "https://pbs.twimg.com/media/HVy2hmPbMAAev9F.jpg"
     ],
     "video": null
   }
