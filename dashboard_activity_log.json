@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793074326155-r8ygoe",
-    "source": "x",
-    "ts": "2026-10-27T04:12:06.155Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T04:09:53.000Z",
-    "reason": "The tweet is about a significant acquisition but lacks the specific price or market impact detail to be newsworthy.",
-    "text": "🇺🇸 LATEST: Intel is reportedly acquiring Israeli quantum computing startup Classiq for $2.3 BILLION, per Bloomberg.\n\nClassiq’s software lets companies design quantum applications across different hardware platforms, with customers including BMW and AT&amp;T. The deal would help Intel",
-    "url": "https://x.com/coinbureau/status/2114932572547633604",
-    "images": [
-      "https://pbs.twimg.com/media/HVm_8VQa4AAiMYU.jpg",
-      "https://pbs.twimg.com/media/HVm_8VTaoAAT0-4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793074327741-xfmdho",
-    "source": "x",
-    "ts": "2026-10-27T04:12:07.741Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 40,
-    "originTimestamp": "2026-10-27T03:31:53.000Z",
-    "reason": "Memes and jokes are not news.",
-    "text": "Sounds like Alex P🍆 knows a thing or two about being investigated 🤔",
-    "url": "https://x.com/elonmusk/status/2114930622238200202"
-  },
-  {
     "id": "x-1793075572489-ez816i",
     "source": "x",
     "ts": "2026-10-27T04:32:52.489Z",
@@ -7965,5 +7933,37 @@
       "https://pbs.twimg.com/media/HVtHxWoWAAApnZX.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793241168484-o14jny",
+    "source": "x",
+    "ts": "2026-10-29T02:32:48.484Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T02:30:32.000Z",
+    "reason": "Crypto-related financial impact affecting a major tech company.",
+    "text": "🚨 BIG: Google parent Alphabet's share decline could cost more than $300B in market capitalization following its earnings report, per WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2115632346296725713",
+    "images": [
+      "https://pbs.twimg.com/media/HVw8ZrQWsAA-MP7.jpg",
+      "https://pbs.twimg.com/media/HVw8aAhWcAAiZl9.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793241170971-fc8gtj",
+    "source": "x",
+    "ts": "2026-10-29T02:32:50.971Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 32,
+    "originTimestamp": "2026-10-29T02:00:53.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "That’s what I do too. Just have @Bot buy it somewhere else at a lower price.",
+    "url": "https://x.com/elonmusk/status/2115632219712811226"
   }
 ]
