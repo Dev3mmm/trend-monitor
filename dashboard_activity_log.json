@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793101922702-icob1m",
-    "source": "x",
-    "ts": "2026-10-27T11:52:02.702Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-27T11:44:59.000Z",
-    "reason": "Specific institutional move in tokenization, potential impact on asset digitalization.",
-    "text": "JUST IN: DTCC’s tokenization service could go LIVE this week, turning select assets from its $114T in custody into digital tokens.",
-    "url": "https://x.com/coinbureau/status/2115047101528997926",
-    "images": [
-      "https://pbs.twimg.com/media/HVooCpmbEAA4Pd_.png",
-      "https://pbs.twimg.com/media/HVooFBWbcAASh7F.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793102520979-00lt2x",
-    "source": "x",
-    "ts": "2026-10-27T12:02:00.979Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-27T12:01:21.000Z",
-    "reason": "Notable on-chain metric growth for a crypto-focused platform.",
-    "text": "⚡️ LATEST: xStocks’ onchain AUM rose 19.1% to $1.03B in 30 days despite falling stock prices, per Token Terminal.",
-    "url": "https://x.com/Cointelegraph/status/2115051221501251654",
-    "images": [
-      "https://pbs.twimg.com/media/HVor4AuWEAAsa3b.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793102524249-c4ok0i",
-    "source": "x",
-    "ts": "2026-10-27T12:02:04.249Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T12:00:08.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Intern is glued to the phone… but not watching charts 🤔",
-    "url": "https://x.com/binance/status/2115050913496760827"
-  },
-  {
     "id": "x-1793102529714-upg6kq",
     "source": "x",
     "ts": "2026-10-27T12:02:09.714Z",
@@ -7972,5 +7922,55 @@
       "https://pbs.twimg.com/media/HVyfQfDXgAAGEnM.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793268102271-oyz8fe",
+    "source": "x",
+    "ts": "2026-10-29T10:01:42.271Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 55,
+    "originTimestamp": "2026-10-29T09:06:04.000Z",
+    "reason": "Exploit confirmed, funds drained from bridge contracts.",
+    "text": "zkLink Nova confirms an ongoing exploit of its Arbitrator contract on Ethereum and Optimism. Blockaid flagged about $786K drained from its Ethereum bridge by 10:24 PM ET Wednesday (02:24 UTC Thursday).",
+    "url": "https://x.com/DecryptMedia/status/2115744375808328132",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793268104329-ldzqdi",
+    "source": "x",
+    "ts": "2026-10-29T10:01:44.329Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "ZachXBT",
+    "ageMin": 17,
+    "originTimestamp": "2026-10-29T09:44:33.000Z",
+    "reason": "No notable move or newsworthy event described.",
+    "text": "@MonkeyCharts It’s quite nuanced so I am not sure how much benefit a site would end up having. \n\nMajority of CT is not capable of thinking critically about the following:\n\n-what’s the threshold for number of scams promoted before it’s malicious?\n\n-what’s the threshold for undisclosed paid",
+    "url": "https://x.com/zachxbt/status/2115743833984246230"
+  },
+  {
+    "id": "x-1793268106863-053b2o",
+    "source": "x",
+    "ts": "2026-10-29T10:01:46.863Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-29T09:52:36.000Z",
+    "reason": "Notable regulatory insight on crypto compliance.",
+    "text": "⚡️ INSIGHT: Compliance needs to be built in from day one, says @FinHarbor CEO Ilya Podoynitsyn.\n\nIntegrating identity checks, AML controls and transaction data gives firms a unified view of fiat and crypto risk, cleaner audit trails and less manual work as they scale across",
+    "url": "https://x.com/Cointelegraph/status/2115743593914921159",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115741052149862400/vid/avc1/1280x720/m3C5LBTNks32BeEp.mp4?tag=29",
+      "duration": 75,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115741052149862400/img/I3g7flde6lKNgFSH.jpg"
+    }
   }
 ]
