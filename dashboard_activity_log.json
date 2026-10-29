@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1793117005164-upa8ih",
-    "source": "x",
-    "ts": "2026-10-27T16:03:25.164Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T16:01:21.000Z",
-    "reason": "Update on significant on-chain data point from Glassnode.",
-    "text": "🚨 UPDATE: Hyperliquid whales turn net short on $BTC for the first time since March, per Glassnode.\n\nWill they be right or REKT?",
-    "url": "https://x.com/Cointelegraph/status/2115111619994820645",
-    "images": [
-      "https://pbs.twimg.com/media/HVpizsJXEAARjiZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793117007027-4ox3nt",
-    "source": "x",
-    "ts": "2026-10-27T16:03:27.027Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 77,
-    "originTimestamp": "2026-10-27T14:46:19.000Z",
-    "reason": "No notable price movement or specific event mentioned.",
-    "text": "Since 2009, Bitcoin has only lived through a strong dollar and a US equity bull run.\n\nBitwise's André Dragosch says that could flip:",
-    "url": "https://x.com/BitcoinMagazine/status/2115109378768699873"
-  },
-  {
-    "id": "x-1793117009707-502xss",
-    "source": "x",
-    "ts": "2026-10-27T16:03:29.707Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-27T15:50:51.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "JUST IN: @JoobEscrow is building an on-chain escrow platform on BNB Chain, with live transactions already taking place.\n\nThe project highlights several security measures, including a SpyWolf audit, a KYC-verified founder, verified contracts on BscScan and official JoobEscrow",
-    "url": "https://x.com/BSCNews/status/2115108976853430533",
-    "images": [
-      "https://pbs.twimg.com/media/HVpgWdrWUAAqgOz.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793117011258-c96ok6",
     "source": "x",
     "ts": "2026-10-27T16:03:31.258Z",
@@ -8020,5 +7971,60 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Good to see Google now also working on an MPC solution.\n\nWe've used it in production for years and open-sourced our production-derived MPC library in 2025 for others to use for their custody. \n\nThat MPC underpins key management for customer assets across the platform, including",
     "url": "https://x.com/coinbase/status/2115827335014334970"
+  },
+  {
+    "id": "x-1793289167849-zkx2ws",
+    "source": "x",
+    "ts": "2026-10-29T15:52:47.849Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T15:50:42.000Z",
+    "reason": "Dubai royal family-backed firm unveils Bitcoin strategy with Coinbase involvement",
+    "text": "JUST IN: 🇦🇪 Dubai royal family-backed Standard Asset Company unveils a $1.5 billion Bitcoin and UAE real estate strategy 👀\n\nThe firm has appointed Coinbase Asset Management as its exclusive manager for its Bitcoin holdings. 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2115833715956035972",
+    "images": [
+      "https://pbs.twimg.com/media/HVzzjRhXgAAzE56.jpg",
+      "https://pbs.twimg.com/media/HVzzjNwWkAAVTea.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793289173851-1donyb",
+    "source": "x",
+    "ts": "2026-10-29T15:52:53.851Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-29T15:48:36.000Z",
+    "reason": "Not a specific new development, just a statement of a launch without details.",
+    "text": "One of the biggest mobile app launches of 2026... \n\nLeading @BNBChain DeFi trading platform @GeniusTerminal has this week announced the launch of its official mobile application, now live on both the Google Play and App Stores.\n\nThe new application incorporates all the",
+    "url": "https://x.com/BSCNews/status/2115833186164858935",
+    "images": [
+      "https://pbs.twimg.com/media/HVzzDaVXcAAjjlY.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793289179546-55kqtp",
+    "source": "x",
+    "ts": "2026-10-29T15:52:59.546Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-29T15:46:00.000Z",
+    "reason": "Notable institutional and cross-chain adoption event.",
+    "text": "Canada’s Top Dollar Stablecoin Goes Omnichain With LayerZero\n\nThe @LoonFinance Canadian dollar stablecoin, CADC, has switched to @LayerZero’s OFT protocol. \n\nThis means the coin can be transferred across @Ethereum, @Base, @Polygon, and @Solana chains via native transfers instead",
+    "url": "https://x.com/BSCNews/status/2115832531677249873",
+    "images": [
+      "https://pbs.twimg.com/media/HVziZb2XQAAjAA3.jpg"
+    ],
+    "video": null
   }
 ]
