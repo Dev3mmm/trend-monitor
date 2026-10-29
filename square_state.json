@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨PRICE WATCH: Bitcoin falls below $80,000 following a wave of U.S. macroeconomic data releases.",
-      "url": "https://x.com/coinbureau/status/2115789098074190020",
-      "images": [
-        "https://pbs.twimg.com/media/HVzKrujbsAAhzRv.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793278975724
-    },
-    {
       "text": "@axisrobotics Please explain to the community why an entity received ~42M AXIS from the Axis team multisig to six addresses and sold it for ~5.04M USDC via DEX over the past 24 hours which has caused the AXIS price to crash 40%?\n\nYou only TGE’d one week ago….",
       "url": "https://x.com/zachxbt/status/2115793538948673997",
       "images": [
@@ -2729,7 +2720,16 @@
       "at": 1793282530877,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382530949730409?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨PRICE WATCH: Bitcoin falls below $80,000 following a wave of U.S. macroeconomic data releases.",
+      "final": "🚨PRICE WATCH: Bitcoin falls below $80,000 following a wave of U.S. macroeconomic data releases.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HVzKrujbsAAhzRv.jpg"
+      ],
+      "at": 1793284348888,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793282530877
+  "lastPostAt": 1793284348888
 }
