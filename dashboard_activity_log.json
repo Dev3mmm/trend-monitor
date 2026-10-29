@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793107415249-w16wbt",
-    "source": "x",
-    "ts": "2026-10-27T13:23:35.249Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-27T13:05:27.000Z",
-    "reason": "Tokenized stock battle is expected to impact Robinhood's earnings, indicating a notable move in the crypto space.",
-    "text": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood’s Earnings Call",
-    "url": "https://x.com/DecryptMedia/status/2115067352182063601",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793107418630-ikznt4",
-    "source": "x",
-    "ts": "2026-10-27T13:23:38.630Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Cointelegraph",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-27T13:05:17.000Z",
-    "reason": "Specific crypto-related news from an established financial institution.",
-    "text": "🔥 JUST IN: Janus Henderson launches JQQQ, the first licensed tokenized Nasdaq-100 fund, on Stellar using Centrifuge.",
-    "url": "https://x.com/Cointelegraph/status/2115067310419390934",
-    "images": [
-      "https://pbs.twimg.com/media/HVo6gYaXIAInQ3k.png",
-      "https://pbs.twimg.com/media/HVo6gliW0AANaOq.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793107750184-zzqbyd",
     "source": "x",
     "ts": "2026-10-27T13:29:10.184Z",
@@ -7976,6 +7941,41 @@
     "images": [
       "https://pbs.twimg.com/media/HVy2hmPbMAAev9F.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793274201325-5amqs7",
+    "source": "x",
+    "ts": "2026-10-29T11:43:21.325Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-29T11:35:23.000Z",
+    "reason": "Specific institutional move in crypto derivatives market.",
+    "text": "ICE Wants to Bring 24/7 Perpetuals to US Brokers, and Hyperliquid Is the Engine\n\nIntercontinental Exchange (@ICE_Markets), which operates the @NYSE, has partnered with and invested in @TradeXYZ to form a federally regulated 24/7 perpetual futures exchange on @HyperliquidX.",
+    "url": "https://x.com/BSCNews/status/2115769460103557401",
+    "images": [
+      "https://pbs.twimg.com/media/HVy40ZXXkAAQke7.png",
+      "https://pbs.twimg.com/media/HVy40u-XMAAwhOb.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793274205263-nqfm7e",
+    "source": "x",
+    "ts": "2026-10-29T11:43:25.263Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-29T11:34:00.000Z",
+    "reason": "Treasury sanctions on a crypto scheme involving North Korea",
+    "text": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
+    "url": "https://x.com/DecryptMedia/status/2115769115411456106",
+    "images": [],
     "video": null
   }
 ]
