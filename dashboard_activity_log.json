@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793110340536-g12f5s",
-    "source": "x",
-    "ts": "2026-10-27T14:12:20.536Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-27T14:01:42.000Z",
-    "reason": "No notable move or specific action described.",
-    "text": "Going global.",
-    "url": "https://x.com/coinbase/status/2115081507274703071"
-  },
-  {
     "id": "x-1793110951384-ispy6f",
     "source": "x",
     "ts": "2026-10-27T14:22:31.384Z",
@@ -7988,5 +7975,23 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "LIVE: Oil &amp; Commodities, Fed Rates, Bitcoin Cycle Analysis | BMTV Oct. 29, 2026",
     "url": "https://x.com/BitcoinMagazine/status/2115801523170996631"
+  },
+  {
+    "id": "x-1793282530429-h37sbt",
+    "source": "x",
+    "ts": "2026-10-29T14:02:10.429Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-29T14:01:06.000Z",
+    "reason": "European Central Bank's rate decision is notable as it aligns with market expectations.",
+    "text": "🇪🇺 JUST IN: European Central Bank holds its key deposit rate at 2.50%, as expected.",
+    "url": "https://x.com/Cointelegraph/status/2115806134661492828",
+    "images": [
+      "https://pbs.twimg.com/media/HVzaduGWEAEwyAQ.png"
+    ],
+    "video": null
   }
 ]
