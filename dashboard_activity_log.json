@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793107761905-rvf87m",
-    "source": "x",
-    "ts": "2026-10-27T13:29:21.905Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-27T13:05:27.000Z",
-    "reason": "Tokenized Stock Implementation in Robinhood's Earnings Call Raises Interest in the Cryptocurrency Market",
-    "text": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood’s Earnings Call",
-    "url": "https://x.com/DecryptMedia/status/2115067352182063601",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793107764657-6memrc",
-    "source": "x",
-    "ts": "2026-10-27T13:29:24.657Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Cointelegraph",
-    "ageMin": 24,
-    "originTimestamp": "2026-10-27T13:05:17.000Z",
-    "reason": "Notable institutional launch of a tokenized fund.",
-    "text": "🔥 JUST IN: Janus Henderson launches JQQQ, the first licensed tokenized Nasdaq-100 fund, on Stellar using Centrifuge.",
-    "url": "https://x.com/Cointelegraph/status/2115067310419390934",
-    "images": [
-      "https://pbs.twimg.com/media/HVo6gYaXIAInQ3k.png",
-      "https://pbs.twimg.com/media/HVo6gliW0AANaOq.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793109043056-jfs1vc",
     "source": "x",
     "ts": "2026-10-27T13:50:43.056Z",
@@ -7980,5 +7945,44 @@
       "https://pbs.twimg.com/media/HVy8WYXXoAA_vk9.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793275984962-ksm7x4",
+    "source": "x",
+    "ts": "2026-10-29T12:13:04.962Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T12:10:50.000Z",
+    "reason": "Unusual profit increase linked to Bitcoin returns.",
+    "text": "JUST IN: Fidelity Digital Assets reports Bitcoin holders’ unrealized profits jumped from 0.09 to 0.36 last quarter 👀\n\n“Historically, periods when BTC’s NUPL score hovered around 0.36 (±0.05) have coincided with a median one-year return of 93%.” 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2115778382365425782",
+    "images": [
+      "https://pbs.twimg.com/media/HVzA7LdWIAAan6A.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793275989847-zhhkua",
+    "source": "x",
+    "ts": "2026-10-29T12:13:09.847Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-29T12:03:57.000Z",
+    "reason": "Notable move regarding regulatory clarity in crypto market.",
+    "text": "🔥 INSIGHT: Can the US lead on crypto without the CLARITY Act?\n\n@etoro founder @yoniassia argues that moves by regulators and market infrastructure providers are putting the US at the forefront despite the bill’s failure to pass.",
+    "url": "https://x.com/Cointelegraph/status/2115776649819983932",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2115776484744843264/vid/avc1/1280x720/iAI2J4_3Eud-NDU7.mp4?tag=16",
+      "duration": 41,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115776484744843264/img/6lbeVYwUgeFPBqJs.jpg"
+    }
   }
 ]
