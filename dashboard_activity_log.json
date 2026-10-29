@@ -1,79 +1,5 @@
 [
   {
-    "id": "x-1793124786116-6qh5k5",
-    "source": "x",
-    "ts": "2026-10-27T18:13:06.116Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T18:10:46.000Z",
-    "reason": "The tweet is about household financial assets and not directly related to cryptocurrencies.",
-    "text": "🇺🇸 LATEST: US households now hold a record 48.2% of their financial assets in stocks, topping even the dot-com bubble",
-    "url": "https://x.com/Cointelegraph/status/2115144185950941660"
-  },
-  {
-    "id": "x-1793125700395-3bi3w5",
-    "source": "x",
-    "ts": "2026-10-27T18:28:20.395Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T18:27:20.000Z",
-    "reason": "No notable crypto-related event or movement described.",
-    "text": "If you are a parent and you are stranded what digital skill your teenagers can learn while at home, then visit my classroom.",
-    "url": "https://x.com/amerix/status/2115148358163513835"
-  },
-  {
-    "id": "x-1793125703205-wd1fnz",
-    "source": "x",
-    "ts": "2026-10-27T18:28:23.205Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 43,
-    "originTimestamp": "2026-10-27T17:44:37.000Z",
-    "reason": "Noise: generic hype without factual claim",
-    "text": "😑",
-    "url": "https://x.com/elonmusk/status/2115146545448571175"
-  },
-  {
-    "id": "x-1793125709024-p0ri4e",
-    "source": "x",
-    "ts": "2026-10-27T18:28:29.024Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-27T18:19:00.000Z",
-    "reason": "New use of a token for AI agent interactions on a blockchain mainnet.",
-    "text": "Argus Launchpad now plugs straight into your AI assistant\n\nArgus Launchpad (@Arguspad, $ARGUS) released an open-source package today that lets AI agents launch tokens, trade, claim creator fees, and lock tokens on the @arc mainnet. It runs on the user’s computer and plugs in",
-    "url": "https://x.com/BSCNews/status/2115146258759172556",
-    "images": [
-      "https://pbs.twimg.com/media/HVp6yWNXwAAI20U.jpg",
-      "https://pbs.twimg.com/media/HVp65arWcAAPQ85.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793125712902-tof48r",
-    "source": "x",
-    "ts": "2026-10-27T18:28:32.902Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-27T18:17:15.000Z",
-    "reason": "Notable action by a major player in the crypto ecosystem.",
-    "text": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
-    "url": "https://x.com/DecryptMedia/status/2115145818445422882",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793125717278-tg8m4e",
     "source": "x",
     "ts": "2026-10-27T18:28:37.278Z",
@@ -8067,6 +7993,93 @@
     "images": [
       "https://pbs.twimg.com/media/HV0Xz4EXMAEBXss.png",
       "https://pbs.twimg.com/media/HV0YInJXIAA30Ul.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793299961354-xzu4oy",
+    "source": "x",
+    "ts": "2026-10-29T18:52:41.354Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T18:50:47.000Z",
+    "reason": "Exploit-related update affecting a crypto trading platform.",
+    "text": "🚨 UPDATE: Polymarket says it has fixed an issue involving a compromised third-party provider and will make affected users whole, with trading temporarily halted as it works to restore the platform.",
+    "url": "https://x.com/Cointelegraph/status/2115879033040761217",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793299967067-7rbq7a",
+    "source": "x",
+    "ts": "2026-10-29T18:52:47.067Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T18:50:00.000Z",
+    "reason": "Notable financial institution applying for regulatory approval.",
+    "text": "Galaxy Digital is going for a US bank charter\n\n@galaxyhq ($GLXY) has applied to open Galaxy National Bank, a national trust bank based in New York. The application went to the OCC, the US regulator for national banks. \n\nTrust banks hold and manage assets for clients but do not",
+    "url": "https://x.com/BSCNews/status/2115878835879280943",
+    "images": [
+      "https://pbs.twimg.com/media/HV0VOqgXgAA9xiT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793299971448-cut00p",
+    "source": "x",
+    "ts": "2026-10-29T18:52:51.448Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-29T18:47:15.000Z",
+    "reason": "Notable data breach involving sensitive government employees' information.",
+    "text": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+    "url": "https://x.com/DecryptMedia/status/2115878144636846193",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793299976175-5x8syk",
+    "source": "x",
+    "ts": "2026-10-29T18:52:56.175Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-29T18:46:23.000Z",
+    "reason": "Notable incident affecting crypto trading APIs.",
+    "text": "🚨 ALERT: Polymarket reports a major trading API outage, switches to cancel-only mode and pauses relay actions while investigating the incident.",
+    "url": "https://x.com/Cointelegraph/status/2115877928332394758",
+    "images": [
+      "https://pbs.twimg.com/media/HV0bwyHXoAA7Ej5.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793299981725-co3rj9",
+    "source": "x",
+    "ts": "2026-10-29T18:53:01.725Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 5,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-29T18:45:00.000Z",
+    "reason": "Crypto platform faces security incident with user funds at risk.",
+    "text": "⚠️ SECURITY ALERT:  Polymarket faces a suspected frontend compromise as multiple users report WALLET DRAINS and unexpected signature requests.\n\nTrading has been restricted to cancel-only mode, with relayer operations paused as the platform investigates to incidents. \n\nThe cause",
+    "url": "https://x.com/coinbureau/status/2115877577625841710",
+    "images": [
+      "https://pbs.twimg.com/media/HV0YO4IbgAA7e1t.png",
+      "https://pbs.twimg.com/media/HV0YcmiasAAeZYF.png"
     ],
     "video": null
   }
