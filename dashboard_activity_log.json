@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793095351816-wugdif",
-    "source": "x",
-    "ts": "2026-10-27T10:02:31.816Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T10:01:08.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Which altcoin do you think has the strongest use case today?",
-    "url": "https://x.com/Cointelegraph/status/2115020967248281759"
-  },
-  {
-    "id": "x-1793095940065-etaczi",
-    "source": "x",
-    "ts": "2026-10-27T10:12:20.065Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-27T10:05:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Satoshi’s Bitcoin Design Powers Far More Than BTC\n\nArkham points to the UTXO model as a key part of Satoshi Nakamoto’s legacy.\n\nThe system tracks funds as separate spendable outputs rather than account balances.\n\nArkham has drawn attention to a surprising detail in Bitcoin’s $BTC",
-    "url": "https://x.com/BSCNews/status/2115021940339380561"
-  },
-  {
     "id": "x-1793096568338-1y4l7v",
     "source": "x",
     "ts": "2026-10-27T10:22:48.338Z",
@@ -7980,5 +7954,39 @@
     "reason": "No notable move or specific event, just a statement of future expectations.",
     "text": "SIP-6 set to make Sei Network even faster...\n\n@SeiNetwork's SIP-6, described as the \"biggest part of the Giga upgrade\" is close at hand.\n\nBy replacing $SEI's existing consensus mechanism with Autobahn, the upgrade is expected to increase the chain's scalability to...\n\n- 200,000",
     "url": "https://x.com/BSCNews/status/2115707456558973044"
+  },
+  {
+    "id": "x-1793260928187-kk3rvl",
+    "source": "x",
+    "ts": "2026-10-29T08:02:08.187Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-29T08:00:28.000Z",
+    "reason": "Notable regulatory and technological advancement in crypto landscape.",
+    "text": "🇺🇸 LATEST: CFTC Chair Michael Selig says your fridge could one day buy groceries with ETH staking rewards or even launch its own memecoin, urging regulators to adapt to autonomous AI agents.",
+    "url": "https://x.com/Cointelegraph/status/2115715376545714331",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793260930665-vk4yxm",
+    "source": "x",
+    "ts": "2026-10-29T08:02:10.665Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-29T07:58:00.000Z",
+    "reason": "Innovative use of blockchain technology for AI applications.",
+    "text": "Verona blockchain goes quantum-resistant.\n\n@verona_dev, a layer-1 blockchain built using the @cosmos SDK and serving as an \"intelligence layer\" for AI agents, enterprises, and consumers...\n\n... has just implemented its Fermi upgrade on Verona mainnet.\n\nThe upgrade implements the",
+    "url": "https://x.com/BSCNews/status/2115714754572615981",
+    "images": [
+      "https://pbs.twimg.com/media/HVuy9zjWoAAflj6.jpg"
+    ],
+    "video": null
   }
 ]
