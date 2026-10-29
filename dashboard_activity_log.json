@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793071935197-i37z2z",
-    "source": "x",
-    "ts": "2026-10-27T03:32:15.197Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "CertiK Alert",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-27T03:25:55.000Z",
-    "reason": "Potential security exploit involving Tornado Cash and a significant loss.",
-    "text": "#CertiKInsight 🚨\n\nWe have seen multiple Tornado Cash deposits which trace to , \nwho recently drained ~$1.58M from unknown victim(s).\n\nCertiK Report Security Dashboard 👇  \n \n\nStay Vigilant!",
-    "url": "https://x.com/CertiKAlert/status/2114921508657397986",
-    "images": [
-      "https://pbs.twimg.com/media/HVm1BIfbIAAVUmu.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793072630497-ogz3s6",
     "source": "x",
     "ts": "2026-10-27T03:43:50.497Z",
@@ -7962,6 +7944,25 @@
     "url": "https://x.com/BSCNews/status/2115617866393215020",
     "images": [
       "https://pbs.twimg.com/media/HVtHtLAXgAAYzo1.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793238822168-yjxyfj",
+    "source": "x",
+    "ts": "2026-10-29T01:53:42.168Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-29T01:45:32.000Z",
+    "reason": "Security breach notification impacting customers.",
+    "text": "Allium, Blockchain Data Provider Serving Visa, Stripe and Coinbase, Discloses Security Breach\n\nBlockchain data infrastructure provider Allium disclosed that it detected unauthorized access to certain systems on October 25. The company has notified affected customers and engaged",
+    "url": "https://x.com/WuBlockchain/status/2115621021369909594",
+    "images": [
+      "https://pbs.twimg.com/media/HVwyFYUaYAAxWMz.png",
+      "https://pbs.twimg.com/media/HVwyGSjbcAEUNA7.jpg"
     ],
     "video": null
   }
