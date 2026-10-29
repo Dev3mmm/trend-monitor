@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791823359784-qyphby",
-    "x-1791823363962-zmfvhj",
     "x-1791824592322-lep4zi",
     "x-1791825711310-30o3u9",
     "x-1791826347025-r03giq",
@@ -1999,28 +1997,11 @@
     "x-1793250753690-54f8d8",
     "x-1793251335023-r5bfrb",
     "x-1793253155588-4ewu8q",
-    "x-1793253770309-ateki8"
+    "x-1793253770309-ateki8",
+    "x-1793255537927-xm01lc",
+    "x-1793255545269-9m8zqm"
   ],
   "queue": [
-    {
-      "text": "🚨BREAKING: Bitcoin falls below $80,000 and Ethereum slips under $2,300 after the Fed holds rates steady.\n\nMore than $100 MILLION in long positions were reportedly liquidated in two hours as persistent inflation, rising oil prices and geopolitical tensions weigh on risk assets.",
-      "url": "https://x.com/coinbureau/status/2115647228882915644",
-      "images": [
-        "https://pbs.twimg.com/media/HVxIp50boAAgVGm.jpg",
-        "https://pbs.twimg.com/media/HVxIr08a4AAI0W4.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793244708561
-    },
-    {
-      "text": "Hyperliquid's HYPE Token Burns Near 5% of Maximum Supply, Worth $3.89 Billion\n\nHyperliquid has cumulatively bought back and burned approximately 49.87 million HYPE tokens, equivalent to 4.99% of its 1 billion maximum supply and valued at roughly $3.89 billion at current prices.",
-      "url": "https://x.com/WuBlockchain/status/2115652735811141879",
-      "images": [
-        "https://pbs.twimg.com/media/HVxO8JFbkAAhJrq.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793245956029
-    },
     {
       "text": "🚨 UPDATE: Bitcoin volatility has dropped back to summer 2023 levels, mirroring that year’s pattern of a rally, a meme and altcoin frenzy, then a quiet market, per @glassnode.\n\nIs a big breakout coming next? 👀",
       "url": "https://x.com/Cointelegraph/status/2115670097905811609",
@@ -2049,6 +2030,15 @@
       ],
       "video": null,
       "enqueuedAt": 1793253771006
+    },
+    {
+      "text": "🔥 NEW: Stellar introduces Project Thruput, a new execution model live on FutureNet that hit 7.02M payments per second in early benchmarks by scaling across multiple machines.",
+      "url": "https://x.com/Cointelegraph/status/2115692736934265062",
+      "images": [
+        "https://pbs.twimg.com/media/HVxzVINWYAAO5GX.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793255546414
     }
   ],
   "posted": [
@@ -2695,7 +2685,16 @@
       "at": 1793253771006,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382413134816075?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "Hyperliquid's HYPE Token Burns Near 5% of Maximum Supply, Worth $3.89 Billion\n\nHyperliquid has cumulatively bought back and burned approximately 49.87 million HYPE tokens, equivalent to 4.99% of its 1 billion maximum supply and valued at roughly $3.89 billion at current prices.",
+      "final": "Hyperliquid's HYPE Token Burns Near 5% of Maximum Supply, Worth $3.89 Billion\n\nHyperliquid has cumulatively bought back and burned approximately 49.87 million HYPE tokens, equivalent to 4.99% of its 1 billion maximum supply and valued at roughly $3.89 billion at current prices.\n\n#Hyperliquid $HYPE",
+      "images": [
+        "https://pbs.twimg.com/media/HVxO8JFbkAAhJrq.jpg"
+      ],
+      "at": 1793255546414,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793253771006
+  "lastPostAt": 1793255546414
 }
