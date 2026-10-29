@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793085152487-ehfhh3",
-    "source": "x",
-    "ts": "2026-10-27T07:12:32.487Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-27T07:11:37.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "BREAKING: Philippine peso falls to its LOWEST level in history, reaching ₱64 per US dollar for the first time.",
-    "url": "https://x.com/coinbureau/status/2114978306269593747"
-  },
-  {
     "id": "x-1793085732614-nmxkcv",
     "source": "x",
     "ts": "2026-10-27T07:22:12.614Z",
@@ -7979,6 +7966,24 @@
     "url": "https://x.com/BSCNews/status/2115666436181868688",
     "images": [
       "https://pbs.twimg.com/media/HVuyiWsXIAATSTq.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793250184438-7gokb9",
+    "source": "x",
+    "ts": "2026-10-29T05:03:04.438Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-29T05:00:33.000Z",
+    "reason": "Recent volatility levels suggest a potential breakout.",
+    "text": "🚨 UPDATE: Bitcoin volatility has dropped back to summer 2023 levels, mirroring that year’s pattern of a rally, a meme and altcoin frenzy, then a quiet market, per @glassnode.\n\nIs a big breakout coming next? 👀",
+    "url": "https://x.com/Cointelegraph/status/2115670097905811609",
+    "images": [
+      "https://pbs.twimg.com/media/HVxevKHXMAAtXuR.jpg"
     ],
     "video": null
   }
