@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1793099570075-i8o4rv",
-    "source": "x",
-    "ts": "2026-10-27T11:12:50.075Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-27T11:10:45.000Z",
-    "reason": "Notable change in Zcash governance and funding structure proposed by a key figure.",
-    "text": "⚡️ LATEST: Zcash co-founder Sean Bowe proposed ending automatic funding for Zcash Community Grants, saying it already has over $125M.\n\nHe wants its 8% share of $ZEC block rewards redirected to a network reserve.",
-    "url": "https://x.com/Cointelegraph/status/2115038487342674352",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793100135045-8xtyjd",
-    "source": "x",
-    "ts": "2026-10-27T11:22:15.045Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-27T11:19:04.000Z",
-    "reason": "Core's DeFi TVL has significantly declined.",
-    "text": "Could Memecoins Revitalize the Core Blockchain?\n\n@Coredao_Org is a Bitcoin-backed blockchain that supports $BTC staking and DeFi but not memes. \n\nHowever, $CORE’s activities have dried up. Core's current DeFi TVL is about $3.7 million, down from hundreds of millions in 2024-2025.",
-    "url": "https://x.com/BSCNews/status/2115040579461468490",
-    "images": [
-      "https://pbs.twimg.com/media/HVoiF21WwAAMKgs.png",
-      "https://pbs.twimg.com/media/HVoiJL_XkAEPMUZ.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793100750797-qmiwe8",
-    "source": "x",
-    "ts": "2026-10-27T11:32:30.797Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-27T11:30:53.000Z",
-    "reason": "Crypto industry investment in US midterm elections",
-    "text": "🇺🇸 JUST IN: The crypto industry has spent roughly $176M across more than 100 US midterm races, seeking to build bipartisan support in Congress, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2115043555110420738",
-    "images": [
-      "https://pbs.twimg.com/media/HVok4wVX0AAeAEE.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793100756187-vsdw6e",
     "source": "x",
     "ts": "2026-10-27T11:32:36.187Z",
@@ -7979,6 +7926,50 @@
     "text": "🇸🇬 ALERT: Tampered Ledger wallets bought from Singapore retailers caused $2.7M in losses across at least two cases, police report.",
     "url": "https://x.com/Cointelegraph/status/2115730569636016201",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793265168537-ap6rha",
+    "source": "x",
+    "ts": "2026-10-29T09:12:48.537Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-29T09:06:49.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Double the leadership. Double the takes.\n\nYi He and Richard Teng join #BinanceBlockchainWeek in Bangkok for a conversation on where Binance — and the industry — goes next. \n\n 🗓 28–29 Nov 2026\n\nBe there for the takes →",
+    "url": "https://x.com/binance/status/2115732072115368287"
+  },
+  {
+    "id": "x-1793265173446-wjmz2e",
+    "source": "x",
+    "ts": "2026-10-29T09:12:53.446Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 54,
+    "originTimestamp": "2026-10-29T08:18:33.000Z",
+    "reason": "No notable crypto-related content or move.",
+    "text": "这是协同合作的过程，可以明显的看到 Claude 和 Grok 介入以及对算法的检验。为此我还专门写了一个跨 AI 合作的 MCP 和 Skill ，到目前这套三 AI 协作版本也勉强就是测试运营。但已经能解决我很多实际的问题了。\n\n一个 @Gate ，交易更多市场",
+    "url": "https://x.com/PhyrexNi/status/2115731248480239776"
+  },
+  {
+    "id": "x-1793265180177-yi5vdm",
+    "source": "x",
+    "ts": "2026-10-29T09:13:00.177Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-29T09:02:00.000Z",
+    "reason": "Aave's stake in Monad TVL exceeds a significant threshold, highlighting its importance in the ecosystem.",
+    "text": "Aave makes up 1/3rd of Monad's entire TVL.\n\nLending and borrowing application @aave accounts for $330M of TVL on the scalable @Monad L1 chain, per DefiLlama data.\n\n$MON's TVL currently stands at some $966M, meaning $AAVE accounts for around 34% of that total.\n\nother major",
+    "url": "https://x.com/BSCNews/status/2115730861324947931",
+    "images": [
+      "https://pbs.twimg.com/media/HVuzE2RXkAADl0d.jpg"
+    ],
     "video": null
   }
 ]
