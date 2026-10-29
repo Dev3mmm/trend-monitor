@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791855126931-bx6bc6",
-    "x-1791855733412-gf4sg4",
     "x-1791857546669-ig52xz",
     "x-1791858738848-9m8f6u",
     "x-1791862315862-ecmzdz",
@@ -1999,19 +1997,11 @@
     "x-1793283716400-od671r",
     "x-1793283719649-iql68d",
     "x-1793285561311-wv7am6",
-    "x-1793285566387-e2c5a8"
+    "x-1793285566387-e2c5a8",
+    "x-1793286136583-aduxhk",
+    "x-1793286141195-ize2jp"
   ],
   "queue": [
-    {
-      "text": "@axisrobotics Please explain to the community why an entity received ~42M AXIS from the Axis team multisig to six addresses and sold it for ~5.04M USDC via DEX over the past 24 hours which has caused the AXIS price to crash 40%?\n\nYou only TGE’d one week ago….",
-      "url": "https://x.com/zachxbt/status/2115793538948673997",
-      "images": [
-        "https://pbs.twimg.com/media/HVzO9gNaAAAVXDP.jpg",
-        "https://pbs.twimg.com/media/HVzO9feagAAIcZl.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793279658140
-    },
     {
       "text": "JUST IN: @BitcoinForCorps has filed a formal complaint with MSCI over its new non-operating company eligibility framework.\n\n🗒️ Full letter attached:",
       "url": "https://x.com/BitcoinMagazine/status/2115797080254136643",
@@ -2053,6 +2043,18 @@
       ],
       "video": null,
       "enqueuedAt": 1793285567204
+    },
+    {
+      "text": "🔥 INSIGHT: AI agents could become crypto’s biggest users. Who’s accountable when they overspend?\n\n@Mysten_Labs co-founder @EmanAbio explains why spending limits and verifiable records will be critical as AI takes control of payments.",
+      "url": "https://x.com/Cointelegraph/status/2115820961262166288",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2115789925174104065/vid/avc1/1280x720/lVYvOPLDpOkJ5jx1.mp4?tag=29",
+        "duration": 427,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115789925174104065/img/7kHVSClKGgjSgLcY.jpg"
+      },
+      "enqueuedAt": 1793286141817
     }
   ],
   "posted": [
@@ -2728,7 +2730,17 @@
       "at": 1793284348888,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382538365767171?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "@axisrobotics Please explain to the community why an entity received ~42M AXIS from the Axis team multisig to six addresses and sold it for ~5.04M USDC via DEX over the past 24 hours which has caused the AXIS price to crash 40%?\n\nYou only TGE’d one week ago….",
+      "final": "@axisrobotics Please explain to the community why an entity received ~42M AXIS from the Axis team multisig to six addresses and sold it for ~5.04M USDC via DEX over the past 24 hours which has caused the AXIS price to crash 40%?\n\nYou only TGE’d one week ago….\n\n#Crypto #Stablecoin",
+      "images": [
+        "https://pbs.twimg.com/media/HVzO9gNaAAAVXDP.jpg",
+        "https://pbs.twimg.com/media/HVzO9feagAAIcZl.jpg"
+      ],
+      "at": 1793286141817,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793284348888
+  "lastPostAt": 1793286141817
 }
