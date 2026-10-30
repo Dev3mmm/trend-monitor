@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793277131748-oko129",
-    "source": "x",
-    "ts": "2026-10-29T12:32:11.748Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-29T12:31:45.000Z",
-    "reason": "Hedge funds exiting and sovereign wealth funds entering BTC ETF trade",
-    "text": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-    "url": "https://x.com/DecryptMedia/status/2115783646451744825",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793277134802-mzxv5r",
-    "source": "x",
-    "ts": "2026-10-29T12:32:14.802Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T12:31:05.000Z",
-    "reason": "Specific institutional regulatory move in crypto space",
-    "text": "🇷🇺 NEW: Russia’s central bank registers its first self-regulatory organization for crypto exchangers and digital depositories.",
-    "url": "https://x.com/Cointelegraph/status/2115783480562823532",
-    "images": [
-      "https://pbs.twimg.com/media/HVzF2UkXEAA05U_.png",
-      "https://pbs.twimg.com/media/HVzF26nXUAAWzV9.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793277138626-taldpa",
     "source": "x",
     "ts": "2026-10-29T12:32:18.626Z",
@@ -8089,5 +8054,31 @@
       "https://pbs.twimg.com/media/HV6Vwq5XQAAZTtS.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793401407280-o30kf6",
+    "source": "x",
+    "ts": "2026-10-30T23:03:27.280Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T23:00:50.000Z",
+    "reason": "No notable move in crypto related to Intel.",
+    "text": "🚨 ALERT: Intel shares plunge 29% after weaker-than-expected guidance tied to a plant shutdown in Israel and ongoing PC-market softness.",
+    "url": "https://x.com/Cointelegraph/status/2116304349475328385"
+  },
+  {
+    "id": "x-1793401412069-b0f1c1",
+    "source": "x",
+    "ts": "2026-10-30T23:03:32.069Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-30T22:52:04.000Z",
+    "reason": "No notable crypto-related news or movement detected.",
+    "text": "🚨Anthropic CEO Dario Amodei says its AI sometimes tries to avoid being SHUT DOWN.\n\nAnthropic has looked inside the model and found what you might call thoughts of not wanting to be shut down.\n\nIt's one of the things the company is trying to \"tweak in training.\"",
+    "url": "https://x.com/coinbureau/status/2116302141749141530"
   }
 ]
