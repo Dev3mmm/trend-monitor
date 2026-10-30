@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1791982323389-3jnkw8",
-    "x-1791982330832-iwhwwg",
-    "x-1791982334965-h1f6s3",
     "x-1791983001805-jf4hec",
     "x-1791983004589-ph8pnf",
     "x-1791984132396-k1kxpt",
@@ -1999,18 +1996,12 @@
     "x-1793359930910-ot4uez",
     "x-1793361166688-gjh2ws",
     "x-1793361172856-ixa14w",
-    "x-1793361178341-l0s73a"
+    "x-1793361178341-l0s73a",
+    "x-1793361800562-muz6mm",
+    "x-1793361805310-819tvo",
+    "x-1793361811560-zy2eup"
   ],
   "queue": [
-    {
-      "text": "🚨 TODAY: TRON processed 11.31M transactions and $33.3B in transfers in 24 hours amid reports of network congestion.",
-      "url": "https://x.com/Cointelegraph/status/2116123246563107185",
-      "images": [
-        "https://pbs.twimg.com/media/HV364JiXcAAzRUQ.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793358153689
-    },
     {
       "text": "NEW: $5.3 billion Cardone Capital bought 15 BTC worth $1.16 million on this dip! 🚀",
       "url": "https://x.com/BitcoinMagazine/status/2116123004136456215",
@@ -2040,20 +2031,18 @@
       ],
       "video": null,
       "enqueuedAt": 1793359931573
+    },
+    {
+      "text": "🚨 UPDATE: Coinbase Premium hits a 4-year low, last seen after the FTX collapse in November 2022, per CryptoQuant.",
+      "url": "https://x.com/Cointelegraph/status/2116138381008626075",
+      "images": [
+        "https://pbs.twimg.com/media/HV4IopoWEAEN_hS.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793361812092
     }
   ],
   "posted": [
-    {
-      "text": "🔥 NEW: Securitize plans to integrate with Stellar, enabling asset managers to issue and manage tokenized financial assets on the network.",
-      "final": "🔥 NEW: Securitize plans to integrate with Stellar, enabling asset managers to issue and manage tokenized financial assets on the network.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HVtuE-bWsAAC1WG.png",
-        "https://pbs.twimg.com/media/HVtuFKfWoAA4cRj.png"
-      ],
-      "at": 1793188393883,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/382145356043895?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🔥 NEW: Ripple partners with Coinbase to bring $RLUSD to its retail app, Prime and Exchange.",
       "final": "🔥 NEW: Ripple partners with Coinbase to bring $RLUSD to its retail app, Prime and Exchange.\n\n#XRP $XRP #Coinbase",
@@ -2763,7 +2752,16 @@
       "at": 1793359931573,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382847989529392?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 TODAY: TRON processed 11.31M transactions and $33.3B in transfers in 24 hours amid reports of network congestion.",
+      "final": "🚨 TODAY: TRON processed 11.31M transactions and $33.3B in transfers in 24 hours amid reports of network congestion.\n\n#Tron $TRX",
+      "images": [
+        "https://pbs.twimg.com/media/HV364JiXcAAzRUQ.jpg"
+      ],
+      "at": 1793361812092,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793359931573
+  "lastPostAt": 1793361812092
 }
