@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1793241714344-stkstm",
-    "source": "x",
-    "ts": "2026-10-29T02:41:54.344Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-29T02:36:47.000Z",
-    "reason": "Generic hype with no factual claim.",
-    "text": "Buy from @Shopify!",
-    "url": "https://x.com/elonmusk/status/2115634265702678859"
-  },
-  {
-    "id": "x-1793241716890-02rkw3",
-    "source": "x",
-    "ts": "2026-10-29T02:41:56.890Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-29T02:38:00.000Z",
-    "reason": "Exploit and significant token movement identified.",
-    "text": "Two dormant $PEPE whales just woke up and moved $10M...\n\nAccording to data shared by @lookonchain and originating from @arkham, two @pepecoineth whale wallet addresses have just woken up.\n\nMore specifically, they moved 2.27T $PEPE tokens, worth around $10.19M at time of transfer.",
-    "url": "https://x.com/BSCNews/status/2115634224032289072",
-    "images": [
-      "https://pbs.twimg.com/media/HVuyRgIXYAAC84s.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793242308871-jk4mph",
-    "source": "x",
-    "ts": "2026-10-29T02:51:48.871Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T02:49:35.000Z",
-    "reason": "Notable on-chain development with potential wider impact on Binance Smart Chain.",
-    "text": "🔥 NOW: BNB Chain’s Jenner hard fork goes live on BSC testnet, reserving 5% of block gas for payments.",
-    "url": "https://x.com/Cointelegraph/status/2115637139731878131",
-    "images": [
-      "https://pbs.twimg.com/media/HVxAw-qWgAIxW4n.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793242987115-tnyzpj",
     "source": "x",
     "ts": "2026-10-29T03:03:07.115Z",
@@ -8086,6 +8037,50 @@
     "url": "https://x.com/BSCNews/status/2116209263236333631",
     "images": [
       "https://pbs.twimg.com/media/HV3zxiyWUAAKK4d.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793380381200-z8i5kn",
+    "source": "x",
+    "ts": "2026-10-30T17:13:01.200Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T17:10:44.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "🇺🇸 INSIGHT: Peter Schiff argues a stock market crash on Monday would cement a Democratic sweep in Tuesday’s elections, potentially driven by investors pricing in that outcome.",
+    "url": "https://x.com/Cointelegraph/status/2116216242159616434"
+  },
+  {
+    "id": "x-1793380382649-qw6oub",
+    "source": "x",
+    "ts": "2026-10-30T17:13:02.649Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T17:05:16.000Z",
+    "reason": "Noise: generic statement with no real content.",
+    "text": "Cool",
+    "url": "https://x.com/elonmusk/status/2116215659214561518"
+  },
+  {
+    "id": "x-1793380385086-nd2n75",
+    "source": "x",
+    "ts": "2026-10-30T17:13:05.086Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-30T17:04:15.000Z",
+    "reason": "Multiple significant institutional developments in XRP.",
+    "text": "October in review: The BIGGEST news events to hit $XRP:\n\n1) @BNYglobal names XRP in its corporate payments roadmap \n2) @StanChart launches custody \n3) @Ripple gets final US approval for Ripple Bank\n4) @coinbase launches Ripple USD",
+    "url": "https://x.com/BSCNews/status/2116214613704380652",
+    "images": [
+      "https://pbs.twimg.com/media/HV5NKcPWEAA65hA.png"
     ],
     "video": null
   }
