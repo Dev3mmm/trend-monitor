@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793200417564-wnsj12",
-    "source": "x",
-    "ts": "2026-10-28T15:13:37.564Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-28T15:09:13.000Z",
-    "reason": "No notable crypto-related move or event described.",
-    "text": "Jesus Christ!\n\nWhat did I just watch?",
-    "url": "https://x.com/amerix/status/2115460886500413513"
-  },
-  {
-    "id": "x-1793200421280-557pzf",
-    "source": "x",
-    "ts": "2026-10-28T15:13:41.280Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T15:06:15.000Z",
-    "reason": "JPMorgan and Coca-Cola demonstrate institutional skepticism towards OKX-ICE's tokenized stocks.",
-    "text": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-    "url": "https://x.com/DecryptMedia/status/2115460139868176562",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793200425271-40cvz3",
     "source": "x",
     "ts": "2026-10-28T15:13:45.271Z",
@@ -8058,5 +8029,42 @@
     "reason": "No notable move in Ethereum's price within its recent range.",
     "text": "Starknet's privacy ecosystem is growing fast...\n\nThough @Starknet is a publicly visible @Ethereum L2 chain by default, the number of private use cases within the $STRK ecosystem is growing fast.\n\nPowered by STRK20 shadow accounts, Starknet highlighted some of the apps providing",
     "url": "https://x.com/BSCNews/status/2116066069534363683"
+  },
+  {
+    "id": "x-1793345565575-6jybfv",
+    "source": "x",
+    "ts": "2026-10-30T07:32:45.575Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T07:30:29.000Z",
+    "reason": "Price and volume of stolen altcoins sold for ETH is significant.",
+    "text": "JUST IN: The Binance attacker has now SOLD $158.25M of stolen altcoins for 70,480 $ETH.\n\n🔴DUMPED:\n\n7.02M $UNI: $39.63M\n217.5M $ENA: $33.93M\n7.77T $PEPE: $31.66M\n2.57M $LINK: $26.05M\n127,953 $AAVE: $14.27M\n21.85M $ONDO: $6.62M\n17.32M $WLD: $6.09M\n\nThese tokens have fallen up to",
+    "url": "https://x.com/coinbureau/status/2116070219730899172",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793345569636-yhrvl8",
+    "source": "x",
+    "ts": "2026-10-30T07:32:49.636Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T07:30:00.000Z",
+    "reason": "The Trump administration giving crypto a \"two-year grace period\" is a significant regulatory update.",
+    "text": "🚨 INSIGHT: @trondao founder @justinsuntron says the Trump administration has given crypto a “two-year grace period” to show it can benefit ordinary people. \n\nWith the CLARITY Act stalled, can the industry deliver? \n#CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2116070097114878086",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116024613469884416/vid/avc1/1280x720/oLkYId9Z-wbbWkmv.mp4?tag=29",
+      "duration": 292,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116024613469884416/img/3jIYfucItpeIJcdP.jpg"
+    }
   }
 ]
