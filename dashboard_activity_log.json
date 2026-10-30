@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793209387286-7asmm5",
-    "source": "x",
-    "ts": "2026-10-28T17:43:07.286Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-28T17:37:15.000Z",
-    "reason": "No concrete, specific event or move is described.",
-    "text": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
-    "url": "https://x.com/DecryptMedia/status/2115498139800977751"
-  },
-  {
-    "id": "x-1793209951927-q1em4p",
-    "source": "x",
-    "ts": "2026-10-28T17:52:31.927Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T17:49:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Fetch.​ai’s new desktop app takes on the work sitting in your folders\n\n@Fetch_ai, a founding member of the @ASI_Alliance, launched ASI:Work today as part of its ASI:One desktop app for Mac and Windows. \n\nUsers point it at a folder and describe a job, and it reads files, writes",
-    "url": "https://x.com/BSCNews/status/2115501096781193466"
-  },
-  {
-    "id": "x-1793209957130-bshpq2",
-    "source": "x",
-    "ts": "2026-10-28T17:52:37.130Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Eric",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T17:45:00.000Z",
-    "reason": "Specific, verifiable institutional adoption event.",
-    "text": ".",
-    "url": "https://x.com/amerix/status/2115500092631240856",
-    "images": [
-      "https://pbs.twimg.com/media/HVvEGmTWUAEkpjm.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793210539000-wfrygr",
     "source": "x",
     "ts": "2026-10-28T18:02:19.000Z",
@@ -8112,6 +8068,58 @@
     "text": "BREAKING: BOT-LIKE laundering detected in the $6.4B Binance hack.\n\nChainalysis says it’s seeing laundering patterns it has NEVER seen before.\n\nThousands of transactions are moving in a short window.\n\nThe funds don’t move in a straight line. They circle between wallets and often",
     "url": "https://x.com/coinbureau/status/2116134188390978036",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793361800562-muz6mm",
+    "source": "x",
+    "ts": "2026-10-30T12:03:20.562Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T12:01:20.000Z",
+    "reason": "Coinbase Premium price at a 4-year low after the FTX collapse.",
+    "text": "🚨 UPDATE: Coinbase Premium hits a 4-year low, last seen after the FTX collapse in November 2022, per CryptoQuant.",
+    "url": "https://x.com/Cointelegraph/status/2116138381008626075",
+    "images": [
+      "https://pbs.twimg.com/media/HV4IopoWEAEN_hS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793361805310-819tvo",
+    "source": "x",
+    "ts": "2026-10-30T12:03:25.310Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 68,
+    "originTimestamp": "2026-10-30T10:55:15.000Z",
+    "reason": "Potential exploit or security issue related to trading fees.",
+    "text": "Seems token recovery already began.\n\nAnother little detail in addition to the effort described, users pay trading fees on Binance in the coins they trade, so Binance's naturally accumulates all tokens they list.\n\nYour funds are SAFU!",
+    "url": "https://x.com/cz_binance/status/2116137390180065546",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793361811560-zy2eup",
+    "source": "x",
+    "ts": "2026-10-30T12:03:31.560Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T11:57:00.000Z",
+    "reason": "Notable new asset support from THORChain (NEW)",
+    "text": "Just a selection of the assets that @THORChain already supports...\n\nAccess Now:  \n\n- @Avax $AVAX \n- @Litecoin $LTC \n- @XRP $XRP \n- @Zcash $ZEC [NEW]\n- @arbitrum $ARB \n- @pepecoineth $PEPE \n- @TrustWallet $TWT\n\nTry the industry's leading cross-chain platform",
+    "url": "https://x.com/BSCNews/status/2116137288925126867",
+    "images": [
+      "https://pbs.twimg.com/media/HV3imKlWIAANbZL.jpg"
+    ],
     "video": null
   }
 ]
