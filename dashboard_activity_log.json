@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793178764362-j721i4",
-    "source": "x",
-    "ts": "2026-10-28T09:12:44.362Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-28T09:11:31.000Z",
-    "reason": "Generic inspirational quote, no factual claim or concrete price move.",
-    "text": "The most important days in your life are the day you are born and the day you find out why.",
-    "url": "https://x.com/amerix/status/2115370867676827711"
-  },
-  {
-    "id": "x-1793179371625-c7uttl",
-    "source": "x",
-    "ts": "2026-10-28T09:22:51.625Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-28T09:14:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Fuzzy Launches Dynamic NFT Collection With Four Phases\n\nXRP Ledger’s (@XRP) $XRP Fuzzy memecoin (@fuzzy_xrp) fuzzybear:native has opened Fuzzyverse minting to whitelisted wallets.\n\nThe project introduced Fuzzyverse at its first in-person FuzzyCon gathering.\n\nPublic access was",
-    "url": "https://x.com/BSCNews/status/2115371492858843296"
-  },
-  {
-    "id": "x-1793179961238-ud2fsi",
-    "source": "x",
-    "ts": "2026-10-28T09:32:41.238Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T09:25:43.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "How did you first discover Bitcoin?",
-    "url": "https://x.com/Cointelegraph/status/2115374443828805899"
-  },
-  {
     "id": "x-1793180522045-ac7xoo",
     "source": "x",
     "ts": "2026-10-28T09:42:02.045Z",
@@ -8085,5 +8046,60 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "thank you! 🙏",
     "url": "https://x.com/cz_binance/status/2115965174243033143"
+  },
+  {
+    "id": "x-1793321605527-ws8wdh",
+    "source": "x",
+    "ts": "2026-10-30T00:53:25.527Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 0,
+    "originTimestamp": "2026-10-30T00:52:32.000Z",
+    "reason": "Specific mention of significant frozen amount and collaboration with law enforcement.",
+    "text": "Update: The current verified total frozen amount is around $3 billion. \n\nOur teams continue to work closely with law enforcement, issuers, blockchain intelligence firms and industry partners to trace and freeze additional assets.\n\nWe will only share confirmed figures and will",
+    "url": "https://x.com/binance/status/2115970069696217576",
+    "images": [
+      "https://pbs.twimg.com/media/HV1vj6Fa4AAHuo8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793321610243-u8bg8x",
+    "source": "x",
+    "ts": "2026-10-30T00:53:30.243Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T00:50:38.000Z",
+    "reason": "Update on a significant security incident involving crypto assets.",
+    "text": "🚨 UPDATE: Arbitrum Security Council freezes $30.5M linked to the Binance hack, per ZachXBT.",
+    "url": "https://x.com/Cointelegraph/status/2115969594674311344",
+    "images": [
+      "https://pbs.twimg.com/media/HV1vINUXAAAYmsd.jpg",
+      "https://pbs.twimg.com/media/HV1vIftXEAAyURj.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793321615767-7awdwa",
+    "source": "x",
+    "ts": "2026-10-30T00:53:35.767Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T00:50:00.000Z",
+    "reason": "Significant price increase after a major partnership announcement.",
+    "text": "Quant Network activity exploded +1,242% after key partnership announcement.\n\nIn late September, @quantnetwork announced a major partnership with @TCHtweets. The news sent the $QNT token surging, but that wasn't the only increase...\n\nBetween September 22 and September 28, daily",
+    "url": "https://x.com/BSCNews/status/2115969432849670149",
+    "images": [
+      "https://pbs.twimg.com/media/HVzoXmAXwAEiAYe.jpg"
+    ],
+    "video": null
   }
 ]
