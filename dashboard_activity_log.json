@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793180522045-ac7xoo",
-    "source": "x",
-    "ts": "2026-10-28T09:42:02.045Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T09:40:00.000Z",
-    "reason": "Security warning and data leak reports from multiple exchanges.",
-    "text": "CZ Shares a Security Warning After Four Data Leak Reports\n\nBinance (@binance) co-founder Changpeng Zhao (@cz_binance) flagged reported data leaks at Coinbase (@coinbase) vendor Amplitude, Bithumb (@BithumbOfficial), Mirae Asset and Daishin Securities.\n\nThe reported Coinbase",
-    "url": "https://x.com/BSCNews/status/2115378036157931809",
-    "images": [
-      "https://pbs.twimg.com/media/HVsX4Jaa4AAo1ie.png",
-      "https://pbs.twimg.com/media/HVsaeOZbAAA0TlJ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793180525978-qow683",
     "source": "x",
     "ts": "2026-10-28T09:42:05.978Z",
@@ -8099,6 +8080,24 @@
     "url": "https://x.com/BSCNews/status/2115969432849670149",
     "images": [
       "https://pbs.twimg.com/media/HVzoXmAXwAEiAYe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793322129140-cawy83",
+    "source": "x",
+    "ts": "2026-10-30T01:02:09.140Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T00:58:13.000Z",
+    "reason": "Specific, verifiable amount related to a high-profile hack incident.",
+    "text": "🚨 UPDATE: Binance says the verified frozen amount from the hack has climbed to about $3B, up from $2.54B earlier.",
+    "url": "https://x.com/Cointelegraph/status/2115971499681005875",
+    "images": [
+      "https://pbs.twimg.com/media/HV1w3YvX0AAweT9.jpg"
     ],
     "video": null
   }
