@@ -2416,5 +2416,33 @@
     "fetchedAt": "2026-10-30T15:12:46.705Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-cc31c48f58c0df34",
+    "title": "Arkadiko Governance Attack — Post-Mortem and Recovery Update",
+    "url": "https://www.stacks.co/blog/arkadiko-governance-attack----post-mortem-and-recovery-update",
+    "description": "On October 22, 2026, Arkadiko suffered a governance attack that resulted in the theft of user collateral and the depegging of USDA. The attacker exploited Arkadiko’s governance mechanism to authorize a malicious smart contract with privileged access to the protocol’s vaults. How the attack happened On October 17, the attacker deployed a malicious vault operations contract and submitted Governance ",
+    "publishedAt": "2026-10-30T15:54:15.000Z",
+    "source": "Stacks",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-30T16:10:07.742Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-d1786764d4f9c818",
+    "title": "🍿 Keeping Bitcoin Secure and Productive",
+    "url": "https://www.stacks.co/blog/keeping-bitcoin-secure-and-productive",
+    "description": "Muneeb warns Bitcoin could face a \"risky era\" without quantum resistance work done soon.",
+    "publishedAt": "2026-10-30T15:57:35.000Z",
+    "source": "Stacks",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-10-30T16:10:07.742Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
