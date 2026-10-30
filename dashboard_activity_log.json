@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1793204543086-cswdwq",
-    "source": "x",
-    "ts": "2026-10-28T16:22:23.086Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 44,
-    "originTimestamp": "2026-10-28T15:38:30.000Z",
-    "reason": "No notable move, tweet is vague and speculative.",
-    "text": "⚡ @UTXOmgmt CIO Tyler Evans on how AI agents could make Bitcoin as easy as Apple Pay:\n\n\"Private keys and wallets and transaction hashes and UTXOs and sats per vByte... is a significant barrier to entry to making Bitcoin user-friendly.\"\n\n\"There's an opportunity to rethink that",
-    "url": "https://x.com/BitcoinMagazine/status/2115478252298838209"
-  },
-  {
-    "id": "x-1793204545436-pk422r",
-    "source": "x",
-    "ts": "2026-10-28T16:22:25.436Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T16:16:15.000Z",
-    "reason": "Notable institutional action with Sovereign Funds and Fast Money contrasting moves.",
-    "text": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
-    "url": "https://x.com/DecryptMedia/status/2115477755835900359",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793205140646-5y8qr7",
-    "source": "x",
-    "ts": "2026-10-28T16:32:20.646Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-28T16:24:15.000Z",
-    "reason": "Notable departure of an influencer from a meme-focused project.",
-    "text": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
-    "url": "https://x.com/DecryptMedia/status/2115479768745275826",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793205785129-a7ln96",
     "source": "x",
     "ts": "2026-10-28T16:43:05.129Z",
@@ -8069,5 +8024,55 @@
     "reason": "No notable move in Aster's perps volume.",
     "text": "Aster volume crosses $1.5 TRILLION.\n\n@Aster_DEX has now seen an incredible $1.53 trillion in cumulative perps volume, cementing it as a dominant force in the perps trading sector.\n\nAround $47 billion of that volume arrived in the past 30 days alone, and $ASTER has now generated a",
     "url": "https://x.com/BSCNews/status/2116103314874278136"
+  },
+  {
+    "id": "x-1793355112990-bkcjf7",
+    "source": "x",
+    "ts": "2026-10-30T10:11:52.990Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T10:09:45.000Z",
+    "reason": "No notable financial news is reported in the tweet.",
+    "text": "BREAKING: Asia's stock market wiped out more than $600,000,000,000 across eight markets today.\n\nThat brings October losses for Asian stocks to $3,600,000,000,000 at the month’s final close.",
+    "url": "https://x.com/coinbureau/status/2116110298008752367"
+  },
+  {
+    "id": "x-1793355116177-pbla4h",
+    "source": "x",
+    "ts": "2026-10-30T10:11:56.177Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T10:08:45.000Z",
+    "reason": "Specific report of a security concern in crypto devices.",
+    "text": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+    "url": "https://x.com/DecryptMedia/status/2116110046622818391",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793355119291-vd9tc1",
+    "source": "x",
+    "ts": "2026-10-30T10:11:59.291Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-30T10:02:56.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨 LONGITUDE: @monad’s @keoneHD argues blockchain payment rails aren’t ready for mass adoption yet, citing gaps in scale and integration with existing fiat systems.",
+    "url": "https://x.com/Cointelegraph/status/2116108583070740964",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116108417014087680/vid/avc1/1280x720/LIgJJ0mi4VVhozbh.mp4?tag=16",
+      "duration": 62,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116108417014087680/img/yeY0AkFLmMK7vXhk.jpg"
+    }
   }
 ]
