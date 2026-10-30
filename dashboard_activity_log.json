@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793197343694-qg4ev5",
-    "source": "x",
-    "ts": "2026-10-28T14:22:23.694Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T14:20:11.000Z",
-    "reason": "Specific institutional move with potential impact on Bitcoin custody.",
-    "text": "🔥 JUST IN: Google Cloud details a preview Bitcoin custody service that lets institutions sign transactions without one party controlling the full private key.",
-    "url": "https://x.com/Cointelegraph/status/2115448546447045043",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793197925297-uaouqv",
-    "source": "x",
-    "ts": "2026-10-28T14:32:05.297Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T14:28:59.000Z",
-    "reason": "Specific institutional announcement related to Bitcoin custody.",
-    "text": "🔥 JUST IN: Google Cloud details a preview Bitcoin custody service that lets institutions sign transactions.",
-    "url": "https://x.com/Cointelegraph/status/2115450761857630640",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793197927935-730itn",
     "source": "x",
     "ts": "2026-10-28T14:32:07.935Z",
@@ -8078,5 +8046,36 @@
     "reason": "No notable crypto-related news or move in this tweet.",
     "text": "🚨 UPDATE: North Korea’s TraderTraitor group, tied to the $388M Bitget exploit, is likely also behind the $6.3B Binance hack, says ZachXBT. \n\nStolen funds from both landed at one address.",
     "url": "https://x.com/Cointelegraph/status/2116038499757428998"
+  },
+  {
+    "id": "x-1793338928755-u9stgo",
+    "source": "x",
+    "ts": "2026-10-30T05:42:08.755Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-30T05:38:00.000Z",
+    "reason": "Arbitrum's full support and integration with PumpFun's platform is a notable development in the DeFi space.",
+    "text": "Arbitrum lands full support from PumpFun.\n\n@PumpFun has announced that its platform is now live on the leading @arbitrum L2 network.\n\nUsers on the $PUMP platform can now trade any $ARB native token, directly with their $USDC balance.\n\nPumpFun has made several similar",
+    "url": "https://x.com/BSCNews/status/2116041910225936555",
+    "images": [
+      "https://pbs.twimg.com/media/HVzpF38W8AA-k85.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793338931497-m1p6na",
+    "source": "x",
+    "ts": "2026-10-30T05:42:11.497Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 18,
+    "originTimestamp": "2026-10-30T05:24:11.000Z",
+    "reason": "No notable crypto-related event or use of crypto mentioned.",
+    "text": "Friday is the last day to Vote Early in Texas.\n\nGet out and VOTE Republican.\n\nInfo Here:",
+    "url": "https://x.com/elonmusk/status/2116041443152461931"
   }
 ]
