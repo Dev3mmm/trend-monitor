@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1791993821515-e31dl6",
-    "x-1791994400124-9u1m0j",
-    "x-1791994405258-arn8p3",
     "x-1791994414612-0g76vl",
     "x-1791995784641-nm6ypz",
     "x-1791995790797-3egbzz",
@@ -1999,19 +1996,12 @@
     "x-1793370754738-cyeff9",
     "x-1793370761601-0j1bsj",
     "x-1793370773244-rieltp",
-    "x-1793371992459-d4grso"
+    "x-1793371992459-d4grso",
+    "x-1793372525506-1xuomx",
+    "x-1793372530445-86oi3s",
+    "x-1793372535937-xe5zt7"
   ],
   "queue": [
-    {
-      "text": "🔥 UPDATE: CZ praises Bitcoin’s resilience, noting that traditional markets suffered steeper losses while crypto held up comparatively well.",
-      "url": "https://x.com/Cointelegraph/status/2116141997484302468",
-      "images": [
-        "https://pbs.twimg.com/media/HV4L7XPWUAEeedF.png",
-        "https://pbs.twimg.com/media/HV4L7mJWYAA5OU_.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793362945224
-    },
     {
       "text": "📊 INSIGHT: Tether generates $16.4M in 24H fee revenue, followed by Tron at $8.1M and Circle at $6.6M, per Token Terminal.",
       "url": "https://x.com/Cointelegraph/status/2116145778787836114",
@@ -2041,6 +2031,15 @@
         "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116180104720076800/img/MFbKCjKVE1ymfhh9.jpg"
       },
       "enqueuedAt": 1793372001394
+    },
+    {
+      "text": "Few exchanges fully reimburse users after hacks.\n\nBinance has done it before and will keep doing so.\n\nThat's one reason it keeps growing.",
+      "url": "https://x.com/cz_binance/status/2116182911129174243",
+      "images": [
+        "https://pbs.twimg.com/media/HV4XqwxXcAAe-za.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793372536462
     }
   ],
   "posted": [
@@ -2796,7 +2795,17 @@
       "at": 1793370779122,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382892399148737?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 UPDATE: CZ praises Bitcoin’s resilience, noting that traditional markets suffered steeper losses while crypto held up comparatively well.",
+      "final": "🔥 UPDATE: CZ praises Bitcoin’s resilience, noting that traditional markets suffered steeper losses while crypto held up comparatively well.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HV4L7XPWUAEeedF.png",
+        "https://pbs.twimg.com/media/HV4L7mJWYAA5OU_.jpg"
+      ],
+      "at": 1793372536462,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793370779122
+  "lastPostAt": 1793372536462
 }
