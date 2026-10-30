@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793227363336-zted4p",
-    "source": "x",
-    "ts": "2026-10-28T22:42:43.336Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T22:40:00.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "🎥 Bitcoin has a \"ceiling on the growth\" because of quantum fears, says Stacks founder Muneeb Ali (@muneeb).\n\n\"It doesn't take a lot of effort to sort of give people enough confidence.\"\n\n#CHAINREACTION",
-    "url": "https://x.com/Cointelegraph/status/2115574329496973354"
-  },
-  {
-    "id": "x-1793227970441-gj1fdo",
-    "source": "x",
-    "ts": "2026-10-28T22:52:50.441Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T22:46:00.000Z",
-    "reason": "No notable move or specific action/event is described.",
-    "text": "Algorand says the real quantum deadline comes before 2029\n\nAlgorand CPO Will Beaumont (@wj_beaumont) argues that delaying the upgrade to quantum-safe cryptography piles up security debt. Some estimates say quantum computers could break today’s encryption by 2029, though he calls",
-    "url": "https://x.com/BSCNews/status/2115575839446221105"
-  },
-  {
-    "id": "x-1793227976325-8emhq3",
-    "source": "x",
-    "ts": "2026-10-28T22:52:56.325Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 112,
-    "originTimestamp": "2026-10-28T21:00:00.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "True North Ep. 84: Bitcoin Is The Moat  \n\nFeaturing @hillery_dan and @MasonFoard.\n\nTimestamps:\n00:00 True North Loading...\n03:54 Daily Dividends Come To Strategy $MSTR\n11:36 Strive's New $SATS Offering\n22:48 Digital Credit As High Powered Money\n27:51 AI Disruption And The $BTC",
-    "url": "https://x.com/saylor/status/2115575838133617006"
-  },
-  {
     "id": "x-1793228542694-myo02i",
     "source": "x",
     "ts": "2026-10-28T23:02:22.694Z",
@@ -8097,5 +8058,55 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "This is literally their plan and they say it out loud!",
     "url": "https://x.com/elonmusk/status/2116186406544413103"
+  },
+  {
+    "id": "x-1793374338013-xvrjlz",
+    "source": "x",
+    "ts": "2026-10-30T15:32:18.013Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T15:30:50.000Z",
+    "reason": "Notable exploit disclosure affecting Bitcoin Core nodes.",
+    "text": "🚨 ALERT: Bitcoin Core discloses a low-severity bug that could let miners corrupt other nodes’ undo data and trigger shutdowns under extreme conditions.",
+    "url": "https://x.com/Cointelegraph/status/2116191103816749190",
+    "images": [
+      "https://pbs.twimg.com/media/HV44lP4X0AEOzVS.png",
+      "https://pbs.twimg.com/media/HV44lsmXAAADcVf.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793374341180-fiopak",
+    "source": "x",
+    "ts": "2026-10-30T15:32:21.180Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T15:23:53.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "User funds are SAFU.",
+    "url": "https://x.com/cz_binance/status/2116190340717977698"
+  },
+  {
+    "id": "x-1793374346644-0ykfui",
+    "source": "x",
+    "ts": "2026-10-30T15:32:26.644Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T15:23:50.000Z",
+    "reason": "Notable institutional adoption and participation by major players.",
+    "text": "Canton Network Is Quietly Becoming Wall Street’s Favorite Blockchain\n\n@CantonNetwork has begun collecting institutional wins. \n\n@The_DTCC launched the Tokenization Service on October 28, with Canton as the live network and 20 participating entities, including @JPMorgan, @Citadel",
+    "url": "https://x.com/BSCNews/status/2116189342553043347",
+    "images": [
+      "https://pbs.twimg.com/media/HV42xE6WkAA94hS.jpg"
+    ],
+    "video": null
   }
 ]
