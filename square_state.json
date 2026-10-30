@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791995797964-5ith39",
-    "x-1791995801102-3768f2",
     "x-1791995807596-lzfl2j",
     "x-1791995527104-fj3owi",
     "x-1791995535846-95kibj",
@@ -1999,18 +1997,11 @@
     "x-1793373143109-vpp596",
     "x-1793373145429-4vys6q",
     "x-1793373733820-cjebg4",
-    "x-1793373737245-9pyz4u"
+    "x-1793373737245-9pyz4u",
+    "x-1793374338013-xvrjlz",
+    "x-1793374346644-0ykfui"
   ],
   "queue": [
-    {
-      "text": "📊 INSIGHT: Tether generates $16.4M in 24H fee revenue, followed by Tron at $8.1M and Circle at $6.6M, per Token Terminal.",
-      "url": "https://x.com/Cointelegraph/status/2116145778787836114",
-      "images": [
-        "https://pbs.twimg.com/media/HV4PXXoXgAAw29u.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793363555960
-    },
     {
       "text": "🚨 REKT: Crypto liquidations hit $1.6B in 24 hours, with the largest single order worth $11.09M on Binance.",
       "url": "https://x.com/Cointelegraph/status/2116149534078185527",
@@ -2061,6 +2052,16 @@
       ],
       "video": null,
       "enqueuedAt": 1793373740809
+    },
+    {
+      "text": "🚨 ALERT: Bitcoin Core discloses a low-severity bug that could let miners corrupt other nodes’ undo data and trigger shutdowns under extreme conditions.",
+      "url": "https://x.com/Cointelegraph/status/2116191103816749190",
+      "images": [
+        "https://pbs.twimg.com/media/HV44lP4X0AEOzVS.png",
+        "https://pbs.twimg.com/media/HV44lsmXAAADcVf.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793374347178
     }
   ],
   "posted": [
@@ -2816,7 +2817,16 @@
       "at": 1793372536462,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382899616373613?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "📊 INSIGHT: Tether generates $16.4M in 24H fee revenue, followed by Tron at $8.1M and Circle at $6.6M, per Token Terminal.",
+      "final": "📊 INSIGHT: Tether generates $16.4M in 24H fee revenue, followed by Tron at $8.1M and Circle at $6.6M, per Token Terminal.\n\n#Tron $TRX",
+      "images": [
+        "https://pbs.twimg.com/media/HV4PXXoXgAAw29u.jpg"
+      ],
+      "at": 1793374347178,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793372536462
+  "lastPostAt": 1793374347178
 }
