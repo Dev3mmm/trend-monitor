@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791926544719-uw5xw6",
-    "x-1791927797734-7odwkx",
     "x-1791928306851-bgwewa",
     "x-1791928936622-5mskp7",
     "x-1791928942239-cjami8",
@@ -1999,18 +1997,11 @@
     "x-1793319865240-qv642s",
     "x-1793319868601-2g250h",
     "x-1793319872268-k3ucvy",
-    "x-1793319876852-75xmrj"
+    "x-1793319876852-75xmrj",
+    "x-1793320343613-k2nn2n",
+    "x-1793320349352-hgv8kx"
   ],
   "queue": [
-    {
-      "text": "疑似被盗事件发生后 @cz_binance 和 @heyibinance 均公开表示用户资金的安全性。\n\n根据目前消息，这次 @binance 疑似被盗约 25.3亿 美元，其中已经有 9.71亿 美元和 8.23亿 美元分别被 Tether 和 Circle 冻结，减少资金损失约 17.94 亿美元。\n\n如果被盗金额没有继续增加，实际损失可能会低于 7.36",
-      "url": "https://x.com/PhyrexNi/status/2115918864819400794",
-      "images": [
-        "https://pbs.twimg.com/media/HV0_J9rbIAAi1pe.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793309559686
-    },
     {
       "text": "JUST IN: Galaxy's Head of Firmwide Research says Bitcoin's case as digital gold is \"only getting stronger\" 👀\n\n\"Fundamental look good, cyclical looks good, positioning is light...this looks like a great time for an entry or a hold from basically everything I can see.\" 🚀",
       "url": "https://x.com/BitcoinMagazine/status/2115918699379236943",
@@ -2786,7 +2777,16 @@
       "at": 1793318546941,
       "status": "failed",
       "error": "Uploading: sq_1793318546941_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261030/d7e0dffabad74ed1a12c354f90691110.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
+    },
+    {
+      "text": "疑似被盗事件发生后 @cz_binance 和 @heyibinance 均公开表示用户资金的安全性。\n\n根据目前消息，这次 @binance 疑似被盗约 25.3亿 美元，其中已经有 9.71亿 美元和 8.23亿 美元分别被 Tether 和 Circle 冻结，减少资金损失约 17.94 亿美元。\n\n如果被盗金额没有继续增加，实际损失可能会低于 7.36",
+      "final": "疑似被盗事件发生后 @cz_binance 和 @heyibinance 均公开表示用户资金的安全性。\n\n根据目前消息，这次 @binance 疑似被盗约 25.3亿 美元，其中已经有 9.71亿 美元和 8.23亿 美元分别被 Tether 和 Circle 冻结，减少资金损失约 17.94 亿美元。\n\n如果被盗金额没有继续增加，实际损失可能会低于 7.36\n\n#Crypto #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HV0_J9rbIAAi1pe.png"
+      ],
+      "at": 1793320349827,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793318546941
+  "lastPostAt": 1793320349827
 }
