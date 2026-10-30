@@ -1,76 +1,5 @@
 [
   {
-    "id": "x-1793173373985-m56fvz",
-    "source": "x",
-    "ts": "2026-10-28T07:42:53.985Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-28T07:33:00.000Z",
-    "reason": "Meme without factual claim or price verification",
-    "text": "I saw the worst of you\nAnd I still chose you",
-    "url": "https://x.com/elonmusk/status/2115346075666325755"
-  },
-  {
-    "id": "x-1793173967091-toxl28",
-    "source": "x",
-    "ts": "2026-10-28T07:52:47.091Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 17,
-    "originTimestamp": "2026-10-28T07:35:17.000Z",
-    "reason": "Memes and quotes without substantive content.",
-    "text": "@elonmusk \"To love and be loved is to feel the sun from both sides.\"\nGrok Imagine",
-    "url": "https://x.com/elonmusk/status/2115349948544020638"
-  },
-  {
-    "id": "x-1793173972834-47lcnd",
-    "source": "x",
-    "ts": "2026-10-28T07:52:52.834Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T07:45:00.000Z",
-    "reason": "New use of Shiba Inu token in a real-world service.",
-    "text": "Shiba Inu Breaks Into Global Car Rentals With Travala\n\nShiba Inu $SHIB holders can now book rental cars through Travala (@travalacom). \n\nThe service covers more than 50,000 locations worldwide.\n\nMeanwhile, community member Mazrael (@Mazrael_shib) has introduced ShibPayment, which",
-    "url": "https://x.com/BSCNews/status/2115349095133196560",
-    "images": [
-      "https://pbs.twimg.com/media/HVsei5QbEAAJw4n.png",
-      "https://pbs.twimg.com/media/HVselWnbcAAJIog.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793173977828-kt61jw",
-    "source": "x",
-    "ts": "2026-10-28T07:52:57.828Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 25,
-    "originTimestamp": "2026-10-28T07:27:28.000Z",
-    "reason": "No notable move in the token's price.",
-    "text": "Speakers.\nExhibitors.\nNetworking.\nAn afterparty.\n\nThat was BlockDown in 2020, built entirely in a virtual world.\n\nIn January, we bring all of it to life at Uptown Dubai 🇦🇪 Jan 26 to 27, 2027.\n\n🎟️ Tickets are LIVE: \n\n#BlockDownDubai",
-    "url": "https://x.com/BSCNews/status/2115348450472841267"
-  },
-  {
-    "id": "x-1793174566370-ekuzrv",
-    "source": "x",
-    "ts": "2026-10-28T08:02:46.370Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T08:00:19.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "This one needs no introduction. Yet here we are.\n\nCZ will be at #BinanceBlockchainWeek in Bangkok.\n\n🗓 28–29 Nov 2026\n\nThis is your sign to get your ticket\n→",
-    "url": "https://x.com/binance/status/2115352952143859965"
-  },
-  {
     "id": "x-1793175146879-5finuk",
     "source": "x",
     "ts": "2026-10-28T08:12:26.879Z",
@@ -8076,5 +8005,88 @@
       "https://pbs.twimg.com/media/HV1k1D4WIAAqAcF.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793319865240-qv642s",
+    "source": "x",
+    "ts": "2026-10-30T00:24:25.240Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T00:18:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Privy adds full support for XRP Ledger wallets.\n\nEarlier this month, @privy_io announced it was partnering with @Ripple to bring its robust wallet infrastructure to the @XRP Ledger.\n\nFollowing on from this, the @XRPLF has just announced that its ecosystem's wallets are now live",
+    "url": "https://x.com/BSCNews/status/2115961379668533451",
+    "images": [
+      "https://pbs.twimg.com/media/HVzoR27WsAEc8FL.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793319868601-2g250h",
+    "source": "x",
+    "ts": "2026-10-30T00:24:28.601Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-30T00:16:54.000Z",
+    "reason": "Significant liquidation event with specific dollar amounts and price impact.",
+    "text": "🚨 NOW: Over $1 billion liquidated in the past 24 hours, with longs taking $958M of the hit, as bitcoin:native plunged below $78,000.",
+    "url": "https://x.com/Cointelegraph/status/2115961105143238882",
+    "images": [
+      "https://pbs.twimg.com/media/HV1nSlebIAAc2yM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793319872268-k3ucvy",
+    "source": "x",
+    "ts": "2026-10-30T00:24:32.268Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Wu Blockchain",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-30T00:16:42.000Z",
+    "reason": "Binance's response to a hacking incident indicates significant regulatory and user attention.",
+    "text": "He Yi: Binance will cover all hacking losses, deposits and withdrawals are temporarily suspended  \n\nBinance co-founder Yi He stated that user funds are safe. Binance will cover all hacking losses. Deposits and withdrawals have been temporarily suspended while the team conducts",
+    "url": "https://x.com/WuBlockchain/status/2115961055071670287",
+    "images": [
+      "https://pbs.twimg.com/media/HV1nXBQbQAA1THD.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793319876852-75xmrj",
+    "source": "x",
+    "ts": "2026-10-30T00:24:36.852Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "ZachXBT",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-30T00:14:50.000Z",
+    "reason": "Exploit involving Binance and $30.5M冻结 in Arbitrum",
+    "text": "BREAKING: Arbitrum Security Council has executed a transaction to freeze ~$30.5M from the Binance Exploit.  \n\nThanks to all other signers involved. \n\nExploiter address \n0x3E2bf1ac6bf0934BBba6456C341c2EcbCED632d5\n\nTrsanction hash:",
+    "url": "https://x.com/zachxbt/status/2115960582230913357",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793319879912-8sjczs",
+    "source": "x",
+    "ts": "2026-10-30T00:24:39.912Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-30T00:13:40.000Z",
+    "reason": "No notable move in price or significant action described.",
+    "text": "We are working non-stop to resolve this issue. Binance will cover all losses.\n\nAs a precaution, all deposits and withdrawals are temporarily suspended while our team conducts security checks, freezes funds, and works with law enforcement.\n\nWe are working around the clock and will",
+    "url": "https://x.com/binance/status/2115960292115124558"
   }
 ]
