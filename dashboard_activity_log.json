@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1793211848299-3qwbp5",
-    "source": "x",
-    "ts": "2026-10-28T18:24:08.300Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-28T18:11:51.000Z",
-    "reason": "Price well outside the recent trading range, a genuine breakout",
-    "text": "🚨ALERT: Bitcoin breaks above $81,000 as the Federal Reserve leaves interest rates UNCHANGED at 3.75%–4.00%.",
-    "url": "https://x.com/coinbureau/status/2115507212991054239",
-    "images": [
-      "https://pbs.twimg.com/media/HVvKcnoaQAAh2Zg.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793211853740-r5b13o",
-    "source": "x",
-    "ts": "2026-10-28T18:24:13.740Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-28T18:11:51.000Z",
-    "reason": "No notable move or specific event is reported.",
-    "text": "⚡️JUST OUT: Fed leaves interest rates UNCHANGED at 3.75%–4.00%. \n\nThe Fed PAUSES after September's 25-basis-point hike, despite U.S. inflation reaching 3.7%, well above its 2% target.\n\nMarkets had priced in less than 10% odds of another hike today, but traders still expect HIGHER",
-    "url": "https://x.com/coinbureau/status/2115506849089024371"
-  },
-  {
-    "id": "x-1793212342334-d2s7np",
-    "source": "x",
-    "ts": "2026-10-28T18:32:22.334Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T18:26:30.000Z",
-    "reason": "Fed's stance on Bitcoin's stability mentioned in the tweet.",
-    "text": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-    "url": "https://x.com/DecryptMedia/status/2115510534380356042",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793212927916-5eckqs",
     "source": "x",
     "ts": "2026-10-28T18:42:07.916Z",
@@ -8134,5 +8087,62 @@
     "reason": "Price movement within the recent range, no notable breakout.",
     "text": "Beam is surging despite the dark crypto market\n\n@BeamFDN's $BEAM token has surged nearly 40% in the past 24 hours despite the current market conditions.\n\nThe asset joins $PEPE, $KNTQ, $HYPE, and $RUNE among the few still in the green zone after the @Binance hack.",
     "url": "https://x.com/BSCNews/status/2116153827132952729"
+  },
+  {
+    "id": "x-1793366520965-qg1rpv",
+    "source": "x",
+    "ts": "2026-10-30T13:22:00.965Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T13:20:00.000Z",
+    "reason": "Exploit affecting users of an AI coding tool.",
+    "text": "🚨ALERT: Up to 5,000 users affected after a malicious Claude Code extension appeared on Cursor’s marketplace.\n\nCursor is an AI coding tool that helps developers write and edit software.\n\nUsers with auto-updates enabled could have downloaded it.\n\nCursor says the malicious version",
+    "url": "https://x.com/coinbureau/status/2116158176680939808",
+    "images": [
+      "https://pbs.twimg.com/media/HV4SpgyagAAvF74.png",
+      "https://pbs.twimg.com/media/HV4Spg4aUAAWaRf.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793366522949-dj2lsg",
+    "source": "x",
+    "ts": "2026-10-30T13:22:02.949Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T13:15:43.000Z",
+    "reason": "Plans to strengthen security amid rising threats is noteworthy.",
+    "text": "🔥 UPDATE: Trust Wallet says it was unaffected by the Binance and Polymarket attacks but plans to strengthen security amid rising AI-driven threats.",
+    "url": "https://x.com/Cointelegraph/status/2116157098153124331",
+    "images": [
+      "https://pbs.twimg.com/media/HV4ZqJnWEAAtVom.png",
+      "https://pbs.twimg.com/media/HV4ZqfQWoAAQYf4.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793366525417-ox3tt7",
+    "source": "x",
+    "ts": "2026-10-30T13:22:05.417Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-30T13:12:02.000Z",
+    "reason": "Malicious extension incident with potential security risks",
+    "text": "Malicious Claude Code Extension Hit Up to 5,000 Cursor Users.\n\nA tampered version of the extension, not made by Anthropic, sat in Cursor's marketplace for about 11 hours Thursday and tried to install an SSH backdoor. Cursor says it pulled it, rebuilt the marketplace and helped",
+    "url": "https://x.com/DecryptMedia/status/2116156171400741152",
+    "images": [
+      "https://pbs.twimg.com/media/HV4YZMSXAAAHvAZ.png",
+      "https://pbs.twimg.com/media/HV4YxUMXIAAhQw3.jpg"
+    ],
+    "video": null
   }
 ]
