@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1793181131916-74xtgy",
-    "source": "x",
-    "ts": "2026-10-28T09:52:11.916Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T09:49:37.000Z",
-    "reason": "Cryptocurrency-related hack affecting campaign finance disclosures.",
-    "text": "🇺🇸 ALERT: Hackers targeted the US FEC, disrupting campaign finance disclosures a week before the midterms, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2115380458452103601",
-    "images": [
-      "https://pbs.twimg.com/media/HVtXT7pXwAAi0y1.png",
-      "https://pbs.twimg.com/media/HVtXUI0XwAAsG_F.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793181134540-qw8ii6",
-    "source": "x",
-    "ts": "2026-10-28T09:52:14.541Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "CertiK Alert",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T09:44:31.000Z",
-    "reason": "Exploit of a governance token leading to a significant loss.",
-    "text": "#CertiKInsight 🚨    \n\nOn 24 Oct, X100 was exploited in a governance takeover, resulting in a loss of ~$4.85M.  \n\nRead our full analysis here👇 \n\n\nCertiK Report Security Dashboard 👇",
-    "url": "https://x.com/CertiKAlert/status/2115379172109586588",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793181735909-dk1bmp",
-    "source": "x",
-    "ts": "2026-10-28T10:02:15.909Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T10:00:03.000Z",
-    "reason": "No notable move in ZEC, price is within its recent range.",
-    "text": "Zcash' $ZEC has absolutely destroyed the market.\n\nUsing @ElanInsights' professional backtesting tool, we were able to see clearly just how well @Zcash has performed over the past 12 months.\n\nTry now: \n\nFor literally the entirely of the past year, $ZEC has",
-    "url": "https://x.com/BSCNews/status/2115383084266770762"
-  },
-  {
     "id": "x-1793182331578-phg7re",
     "source": "x",
     "ts": "2026-10-28T10:12:11.578Z",
@@ -8105,5 +8057,50 @@
       "https://pbs.twimg.com/media/HV1xnU5W0AAaQDG.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793323339687-z94ciu",
+    "source": "x",
+    "ts": "2026-10-30T01:22:19.687Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-30T01:17:12.000Z",
+    "reason": "No notable financial move or data point is provided.",
+    "text": "Our Q3 2026 $MSTR Earnings Call covered record financial results, Digital Capital, Digital Equity, Digital Credit, tokenization, and our strategy for the next bull market.\n\nAndrew Kang | Q3 Financial Results\n00:01:32 - Q3 highlights: 848,517 BTC, record earnings, and treasury",
+    "url": "https://x.com/saylor/status/2115976277366571300"
+  },
+  {
+    "id": "x-1793323344896-67j6cz",
+    "source": "x",
+    "ts": "2026-10-30T01:22:24.896Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T01:15:39.000Z",
+    "reason": "Chainalysis estimates a significant cryptocurrency theft.",
+    "text": "🚨 UPDATE: Chainalysis estimates about $5.91B was stolen in the Binance hack, nearly 4x the 2025 Bybit heist, while Binance has so far confirmed $3B frozen.\n\nCan Binance recover the rest? 👀",
+    "url": "https://x.com/Cointelegraph/status/2115975887212445842",
+    "images": [
+      "https://pbs.twimg.com/media/HV102d_XcAA2Nya.png",
+      "https://pbs.twimg.com/media/HV102u-XYAAtgaX.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793323350085-8zjox4",
+    "source": "x",
+    "ts": "2026-10-30T01:22:30.085Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 28,
+    "originTimestamp": "2026-10-30T00:54:03.000Z",
+    "reason": "No official statement from Binance has been confirmed.",
+    "text": "BREAKING: BINANCE JUST CONFIRMED IT WILL COVER ALL LOSSES FROM TODAY’S HACK\n\nTHE WORLD’S LARGEST #BITCOIN AND CRYPTO EXCHANGE JUST PUBLICLY AGREED TO MAKE 300,000,000 USERS WHOLE\n\nTHEY WON’T LOSE A SINGLE SAT\n\nTHIS IS THE WAY 🔥🔥🔥",
+    "url": "https://x.com/cz_binance/status/2115974979045278139"
   }
 ]
