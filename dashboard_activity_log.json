@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1793271792764-jh5kdl",
-    "source": "x",
-    "ts": "2026-10-29T11:03:12.764Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-29T10:52:00.000Z",
-    "reason": "On-chain data point showing stark disparity in transaction speed and staked security between Solana and Polygon projects.",
-    "text": "The Gap Between Solana and Polygon is bigger than you think\n\nBased on @chainspect_app's analysis, the two projects show a clear disparity in performance. @Solana recorded 1,895 tx/s during a 30-day period, compared to @0xPolygon's 55.9.\n\nThe gap in staked security is even wider.",
-    "url": "https://x.com/BSCNews/status/2115758543328711095",
-    "images": [
-      "https://pbs.twimg.com/media/HVyqZoEWMAAfiZn.png",
-      "https://pbs.twimg.com/media/HVyqZoFW0AAUsmC.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793272324578-wa8c0k",
-    "source": "x",
-    "ts": "2026-10-29T11:12:04.578Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-29T11:08:01.000Z",
-    "reason": "Notable legal action taken against crypto company Kalshi related to sports bets.",
-    "text": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
-    "url": "https://x.com/DecryptMedia/status/2115762573756788945",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793272951260-ddmoht",
-    "source": "x",
-    "ts": "2026-10-29T11:22:31.260Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-29T11:21:39.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Your money shouldn’t need permission to leave. $STRC",
-    "url": "https://x.com/saylor/status/2115766006656241764"
-  },
-  {
-    "id": "x-1793272955975-z0o1p3",
-    "source": "x",
-    "ts": "2026-10-29T11:22:35.975Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T11:21:20.000Z",
-    "reason": "Notable move in a speculative token on regulatory news.",
-    "text": "BREAKING: $HYPE surges 10% on reports NYSE’s owner ICE plans to bring Hyperliquid futures trading to the US.",
-    "url": "https://x.com/coinbureau/status/2115765925572231407",
-    "images": [
-      "https://pbs.twimg.com/media/HVy1adxaIAE7Oy4.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793273599790-v9hfvs",
     "source": "x",
     "ts": "2026-10-29T11:33:19.790Z",
@@ -8122,5 +8056,65 @@
       "https://pbs.twimg.com/media/HV58SGoW4AIc68D.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793397788092-1fone4",
+    "source": "x",
+    "ts": "2026-10-30T22:03:08.092Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T22:01:58.000Z",
+    "reason": "Generic opinion without factual evidence or verified price.",
+    "text": "🔥INSIGHT: Still waiting for one more dip to buy Bitcoin?\n\nSpeaking to @itsciaranlyons, @markus10x of 10x Research says the market has already bottomed and taken its first step into a new bull market, but most people missed it.\n\nHe sees $60,000 to $65,000 as a solid accumulation",
+    "url": "https://x.com/Cointelegraph/status/2116289536196006276"
+  },
+  {
+    "id": "x-1793397792929-vq736t",
+    "source": "x",
+    "ts": "2026-10-30T22:03:12.929Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T22:00:02.000Z",
+    "reason": "No notable move or breaking news, the statement is a generic financial forecast.",
+    "text": "🚨BREAKING: S&amp;P warns AI spending could push Meta, one of the world's most profitable companies, toward a credit DOWNGRADE.\n\nThe rating agency has cut Meta's outlook to NEGATIVE, making it the first of Big Tech's big four AI spenders to get one.\n\nS&amp;P now expects Meta to burn $71",
+    "url": "https://x.com/coinbureau/status/2116289046771335668"
+  },
+  {
+    "id": "x-1793397796986-9urxpz",
+    "source": "x",
+    "ts": "2026-10-30T22:03:16.986Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T22:00:01.000Z",
+    "reason": "No notable crypto-related news or move mentioned.",
+    "text": "Sam Altman Says It's \"Quite Terrible\" That Everyone's PC Holds Scarce DRAM.\n\nThe OpenAI CEO told John Collison on the Cheeky Pint podcast that memory in personal computers gets used \"5% of the time,\" and \"you want maximum utilization in the cloud\" amid tight supply.",
+    "url": "https://x.com/DecryptMedia/status/2116289044594520202"
+  },
+  {
+    "id": "x-1793397802010-us5n4e",
+    "source": "x",
+    "ts": "2026-10-30T22:03:22.010Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-30T21:53:02.000Z",
+    "reason": "No notable news or move, price within recent range.",
+    "text": "⚡️ LATEST: Strive (@Strive) CEO Matt Cole (@ColeMacro) tells @itsciaranlyons that he is impressed with how Bitcoin's price has held up despite the major hack on Binance and his \"base case\" is that hacks are going to become more frequent in the coming years.\n\n\"AI gives a lot more",
+    "url": "https://x.com/Cointelegraph/status/2116287287218823524",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116285727923408896/vid/avc1/1280x720/CqHRMu_fi210C1aR.mp4?tag=29",
+      "duration": 1638,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116285727923408896/img/rxz9YIIqUbzp3i1O.jpg"
+    }
   }
 ]
