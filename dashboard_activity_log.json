@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793259116514-uy5jua",
-    "source": "x",
-    "ts": "2026-10-29T07:31:56.514Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T07:30:53.000Z",
-    "reason": "No notable move or specific event related to crypto or institutional actions.",
-    "text": "🎙️  Former FTX COO Constance Waing (@ConstanceWaing) says that she only found out about the FTX \"liquidity problem\" in November 2022 just a few hours ahead of the public. \n\n#CHAINREACTION",
-    "url": "https://x.com/Cointelegraph/status/2115707931760951558"
-  },
-  {
-    "id": "x-1793259120189-380kzg",
-    "source": "x",
-    "ts": "2026-10-29T07:32:00.189Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-29T07:29:00.000Z",
-    "reason": "No notable move or specific event, just a statement of future expectations.",
-    "text": "SIP-6 set to make Sei Network even faster...\n\n@SeiNetwork's SIP-6, described as the \"biggest part of the Giga upgrade\" is close at hand.\n\nBy replacing $SEI's existing consensus mechanism with Autobahn, the upgrade is expected to increase the chain's scalability to...\n\n- 200,000",
-    "url": "https://x.com/BSCNews/status/2115707456558973044"
-  },
-  {
     "id": "x-1793260928187-kk3rvl",
     "source": "x",
     "ts": "2026-10-29T08:02:08.187Z",
@@ -8074,6 +8048,43 @@
     "text": "🚨 UPDATE: Binance identified additional breach points in the $6.3 billion hack, with attackers using an EIP-7702 delegation to bypass normal hot-wallet approval controls. \n\nCo-CEO Richard Teng clarified that the attack went beyond one engineer’s permissions and that",
     "url": "https://x.com/Cointelegraph/status/2116251389928067218",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793389917388-x1ucbb",
+    "source": "x",
+    "ts": "2026-10-30T19:51:57.388Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T19:50:23.000Z",
+    "reason": "Notable transaction milestone for TRON DAO token.",
+    "text": "🔥 BIG: TRON DAO marks 16 billion transactions on TRON.",
+    "url": "https://x.com/Cointelegraph/status/2116256421046112691",
+    "images": [
+      "https://pbs.twimg.com/media/HV5z_y2XAAAhWgW.jpg",
+      "https://pbs.twimg.com/media/HV5z__aW8AAQkcA.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793389923047-t3ab3o",
+    "source": "x",
+    "ts": "2026-10-30T19:52:03.047Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T19:45:00.000Z",
+    "reason": "Token issuers to prove their numbers with cryptographic methods.",
+    "text": "Canton token issuers will soon prove their numbers with math instead of audits\n\n@CantonFdn approved a grant this week for @Ligero_inc, a zero-knowledge proof firm, to build an open-source tool for @CantonNetwork, the network behind $CC. The tool will let token issuers prove their",
+    "url": "https://x.com/BSCNews/status/2116255064927166562",
+    "images": [
+      "https://pbs.twimg.com/media/HV5l5nSWsAE9wtV.jpg"
+    ],
     "video": null
   }
 ]
