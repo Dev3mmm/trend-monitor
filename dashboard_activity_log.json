@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793193140901-i7cn4p",
-    "source": "x",
-    "ts": "2026-10-28T13:12:20.901Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-28T13:01:26.000Z",
-    "reason": "TRON's network revenue surpasses 32% of the global public blockchain network.",
-    "text": "📊#TRON のネットワーク収益が、世界のパブリックブロックチェーンで首位に！\n\n@chainspect_appのデータによると、TRONの週間ネットワーク収益は556万ドルに達し、全体の32％を占めました。",
-    "url": "https://x.com/BSCNews/status/2115428813035147368",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793193746062-az9sh0",
-    "source": "x",
-    "ts": "2026-10-28T13:22:26.062Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T13:15:00.000Z",
-    "reason": "No notable move in price or event details provided.",
-    "text": "⚡️UPGRADE: Google unveils a new CRYPTO SECURITY system for banks as compromised private keys accounted for 43.8% of crypto theft in 2024, per Chainalysis.\n\nThe new Multi-Party Compute (MPC) service splits wallet keys across multiple systems and checks transactions BEFORE",
-    "url": "https://x.com/coinbureau/status/2115432142528561257"
-  },
-  {
     "id": "x-1793193748657-t7vhl4",
     "source": "x",
     "ts": "2026-10-28T13:22:28.657Z",
@@ -8086,5 +8057,42 @@
     "reason": "No notable move, reference to history.",
     "text": "The making of a legend...\n\nHow many of you remember that @VitalikButerin himself played a key role in making @Shibtoken $SHIB the memecoin giant that it is today...? ⬇️",
     "url": "https://x.com/BSCNews/status/2116025804240883937"
+  },
+  {
+    "id": "x-1793336545164-x8vsoz",
+    "source": "x",
+    "ts": "2026-10-30T05:02:25.164Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T05:00:40.000Z",
+    "reason": "Multiple significant hacks and losses reported.",
+    "text": "🚨 UPDATE: 12 crypto projects and platforms were hit by hacks in the past week, per DefiLlama.\n\n- Binance: $5.78B\n- X100: $4.75M\n- Initia: $2.6M\n- Polymarket: $2.7M\n- Fence Finance: $1.01M\n- Bloom Trading Bot: $953K\n- zkLink Nova: $783K\n- Predict(.)fun: $400K\n\nOther incidents",
+    "url": "https://x.com/Cointelegraph/status/2116032514745655798",
+    "images": [
+      "https://pbs.twimg.com/media/HV2oWxPW8AIZKH7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793336549376-0qnu5m",
+    "source": "x",
+    "ts": "2026-10-30T05:02:29.376Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T04:59:10.000Z",
+    "reason": "Bank of Japan's decision signals ongoing tightening in the Japanese economy.",
+    "text": "🇯🇵 LATEST: Bank of Japan HOLDS rates at 1.25% but signals further hikes, with borrowing costs already at their highest since 1995.\n\nThe yen strengthened as much as 0.4% to 157.12 per dollar as markets absorbed the signal that Japan’s tightening cycle is not over.\n\nThe decision",
+    "url": "https://x.com/coinbureau/status/2116032136704905567",
+    "images": [
+      "https://pbs.twimg.com/media/HV2n58kb0AAEf61.jpg",
+      "https://pbs.twimg.com/media/HV2n61EbIAAB9FX.png"
+    ],
+    "video": null
   }
 ]
