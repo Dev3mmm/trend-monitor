@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791931937170-ug4nz5",
     "x-1791933162598-cpocgc",
     "x-1791933739013-5ffhap",
     "x-1791934917102-49xrwp",
@@ -1999,18 +1998,10 @@
     "x-1793321610243-u8bg8x",
     "x-1793321615767-7awdwa",
     "x-1793322129140-cawy83",
-    "x-1793322745931-06jwln"
+    "x-1793322745931-06jwln",
+    "x-1793323344896-67j6cz"
   ],
   "queue": [
-    {
-      "text": "Binance 疑似被盗事件线路图，被盗的原因疑似是 Binance 关联的 Ethereum 热钱包可能被装上了恶意的 EIP-7702 委托代码，随后黑客通过该代码转走资产。\n\nEIP-7702 本身是 Ethereum 允许普通账户委托执行代码的功能。如果钱包授权了恶意代码，这段代码可能获得很高的账户控制权限。",
-      "url": "https://x.com/PhyrexNi/status/2115930671030173957",
-      "images": [
-        "https://pbs.twimg.com/media/HV1KkKuaAAAp9nN.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793312542085
-    },
     {
       "text": "WLFI 团队冻结了大约 2,700 万美元的 USD1 以及 约 200 万美元的 ethereum:0xda5e1988097297dcdc1f90d4dfe7909e847cbef6 ，目前 Binance 疑似总损失降低到 30.1 亿美元。",
       "url": "https://x.com/PhyrexNi/status/2115934598484070733",
@@ -2094,6 +2085,16 @@
       ],
       "video": null,
       "enqueuedAt": 1793321616247
+    },
+    {
+      "text": "🚨 UPDATE: Chainalysis estimates about $5.91B was stolen in the Binance hack, nearly 4x the 2025 Bybit heist, while Binance has so far confirmed $3B frozen.\n\nCan Binance recover the rest? 👀",
+      "url": "https://x.com/Cointelegraph/status/2115975887212445842",
+      "images": [
+        "https://pbs.twimg.com/media/HV102d_XcAA2Nya.png",
+        "https://pbs.twimg.com/media/HV102u-XYAAtgaX.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793323350708
     }
   ],
   "posted": [
