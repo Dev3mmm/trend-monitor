@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793275403880-3d26oc",
-    "source": "x",
-    "ts": "2026-10-29T12:03:23.880Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-29T11:56:12.000Z",
-    "reason": "Noise: No real content, speculation without evidence.",
-    "text": "BREAKING: US found a Chinese SPY close to Nvidia CEO Jensen Huang passing intelligence to China, NYT reports.\n\nThe identified spy, Alice Huang, was a top executive at Singapore-based Megaspeed, suspected of illegally funneling restricted Nvidia AI chips into China.\n\nUS",
-    "url": "https://x.com/coinbureau/status/2115774700278399445"
-  },
-  {
-    "id": "x-1793275409868-uhsrni",
-    "source": "x",
-    "ts": "2026-10-29T12:03:29.868Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-29T11:56:00.000Z",
-    "reason": "New use of a token/stablecoin (WalletConnect integrating with Stellar)",
-    "text": "WalletConnect Just Plugged Stellar Into 900 Million Users\n\n@WalletConnect has added support for the @StellarOrg  blockchain. It has also partnered with Penrose Partners to launch WalletConnect Pay for Bermuda merchants, helping the country become the world's first fully on-chain",
-    "url": "https://x.com/BSCNews/status/2115774649305051380",
-    "images": [
-      "https://pbs.twimg.com/media/HVy8V4zW4AAe4Sx.png",
-      "https://pbs.twimg.com/media/HVy8WYXXoAA_vk9.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793275984962-ksm7x4",
-    "source": "x",
-    "ts": "2026-10-29T12:13:04.962Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T12:10:50.000Z",
-    "reason": "Unusual profit increase linked to Bitcoin returns.",
-    "text": "JUST IN: Fidelity Digital Assets reports Bitcoin holders’ unrealized profits jumped from 0.09 to 0.36 last quarter 👀\n\n“Historically, periods when BTC’s NUPL score hovered around 0.36 (±0.05) have coincided with a median one-year return of 93%.” 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2115778382365425782",
-    "images": [
-      "https://pbs.twimg.com/media/HVzA7LdWIAAan6A.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793275989847-zhhkua",
     "source": "x",
     "ts": "2026-10-29T12:13:09.847Z",
@@ -8098,5 +8048,49 @@
       "https://pbs.twimg.com/media/HV6ECRWWQAAUZ-v.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793399546475-jjbnxa",
+    "source": "x",
+    "ts": "2026-10-30T22:32:26.475Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 108,
+    "originTimestamp": "2026-10-30T20:43:53.000Z",
+    "reason": "Generic hype with no factual claim.",
+    "text": "If you have a Tesla and haven't tried FSD in the last year, you need to try it again. Free month trial with this link. (i don't care about the referal credit, I'm posting this as a PSA because FSD is so awesome. )",
+    "url": "https://x.com/elonmusk/status/2116296893122658424"
+  },
+  {
+    "id": "x-1793399551623-rx92wt",
+    "source": "x",
+    "ts": "2026-10-30T22:32:31.623Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T22:30:40.000Z",
+    "reason": "Recall Foundation's announcement of burning a significant portion of its tokens is notable regulatory and strategic news.",
+    "text": "🚨 ALERT: Recall Foundation announces wind-down and plans to burn approximately 358.6 million RECALL tokens, or 35.86% of total supply, with no payouts to token holders.",
+    "url": "https://x.com/Cointelegraph/status/2116296758992970015",
+    "images": [
+      "https://pbs.twimg.com/media/HV6Yr6PWkAA8_pB.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793399554653-varvco",
+    "source": "x",
+    "ts": "2026-10-30T22:32:34.653Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 56,
+    "originTimestamp": "2026-10-30T21:36:26.000Z",
+    "reason": "No crypto-related content or move mentioned.",
+    "text": "PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship",
+    "url": "https://x.com/elonmusk/status/2116295922644619729"
   }
 ]
