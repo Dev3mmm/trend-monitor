@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1793224244360-qza06h",
-    "source": "x",
-    "ts": "2026-10-28T21:50:44.360Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T21:47:15.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-    "url": "https://x.com/DecryptMedia/status/2115561054524555534",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793224246554-apynt3",
-    "source": "x",
-    "ts": "2026-10-28T21:50:46.554Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T21:44:00.000Z",
-    "reason": "Potential regulatory changes in derivatives markets.",
-    "text": "Crypto never sleeps, and the CFTC is asking if US futures should follow\n\nThe @CFTC will host a public roundtable in Washington on Dec 15 to discuss moving US derivatives markets to round-the-clock trading. Topics include overnight trading, tokenization, infrastructure and",
-    "url": "https://x.com/BSCNews/status/2115560236492652755",
-    "images": [
-      "https://pbs.twimg.com/media/HVvvyGmW8AARGEH.jpg",
-      "https://pbs.twimg.com/media/HVvv10dWkAAMw66.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793224407105-wn20l4",
-    "source": "x",
-    "ts": "2026-10-28T21:53:27.105Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T21:47:15.000Z",
-    "reason": "Bitcoin Treasury Datavault AI claim suggests potential security issue or access problem.",
-    "text": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-    "url": "https://x.com/DecryptMedia/status/2115561054524555534",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793224410435-sjct5w",
     "source": "x",
     "ts": "2026-10-28T21:53:30.435Z",
@@ -8087,5 +8036,57 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "In his own words",
     "url": "https://x.com/elonmusk/status/2116179698267128211"
+  },
+  {
+    "id": "x-1793372525506-1xuomx",
+    "source": "x",
+    "ts": "2026-10-30T15:02:05.506Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T15:00:40.000Z",
+    "reason": "The tweet introduces a novel idea but lacks concrete evidence or specifics to verify the claim.",
+    "text": "🚨 INSIGHT: A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?",
+    "url": "https://x.com/Cointelegraph/status/2116183510704664712",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793372530445-86oi3s",
+    "source": "x",
+    "ts": "2026-10-30T15:02:10.445Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 114,
+    "originTimestamp": "2026-10-30T13:07:14.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Few exchanges fully reimburse users after hacks.\n\nBinance has done it before and will keep doing so.\n\nThat's one reason it keeps growing.",
+    "url": "https://x.com/cz_binance/status/2116182911129174243",
+    "images": [
+      "https://pbs.twimg.com/media/HV4XqwxXcAAe-za.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793372535937-xe5zt7",
+    "source": "x",
+    "ts": "2026-10-30T15:02:15.937Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-30T14:55:00.000Z",
+    "reason": "Notable hack response from Aave protocol reopening markets.",
+    "text": "Aave Reopens Its Markets Following Binance Hack\n\n@Aave has unfrozen all lending pools in V3 and V4 after a risk assessment triggered by the security breach at @Binance.\n\nAccording to the protocol, its smart contracts remained untouched. \n\nPositions remained completely",
+    "url": "https://x.com/BSCNews/status/2116182084788048301",
+    "images": [
+      "https://pbs.twimg.com/media/HV4v_QSWsAE69_c.jpg"
+    ],
+    "video": null
   }
 ]
