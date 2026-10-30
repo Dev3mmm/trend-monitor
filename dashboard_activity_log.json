@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1793208153935-t6aqfn",
-    "source": "x",
-    "ts": "2026-10-28T17:22:33.935Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T17:19:34.000Z",
-    "reason": "Seizure of stolen assets and recovery of a specific cryptocurrency instance.",
-    "text": "Osmosis seizes the attacker’s stash to make Alloyed BTC whole\n\n@osmosis has finished the recovery of Alloyed BTC (allBTC). On June 25, an attacker exploited a bug in the @nomicbtc bridge to mint about 40 fake nBTC, and nearly all of it ended up inside allBTC. Real backing fell to",
-    "url": "https://x.com/BSCNews/status/2115493692236595306",
-    "images": [
-      "https://pbs.twimg.com/media/HVu8cTcWcAAqUSR.jpg",
-      "https://pbs.twimg.com/media/HVu8fCyWIAAdCYH.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793208158691-i2usp6",
-    "source": "x",
-    "ts": "2026-10-28T17:22:38.691Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-28T17:12:50.000Z",
-    "reason": "Specific institutional activity with significant inflows into U.S. Bitcoin ETFs.",
-    "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs saw $176 million in inflows yesterday 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2115491996836016342",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2115491970537697280/vid/avc1/1270x718/R9hSvJvqZqet_IVO.mp4?tag=29",
-      "duration": 21,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HVu87a-XEAENY4x.jpg"
-    }
-  },
-  {
-    "id": "x-1793209383456-k7980n",
-    "source": "x",
-    "ts": "2026-10-28T17:43:03.456Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T17:40:13.000Z",
-    "reason": "No notable move, statement about tokenizing stocks.",
-    "text": "⚡️ SAYLOR: “Rejecting tokenization of your stock is like rejecting inclusion in an index fund.”",
-    "url": "https://x.com/Cointelegraph/status/2115498886672355512"
-  },
-  {
     "id": "x-1793209387286-7asmm5",
     "source": "x",
     "ts": "2026-10-28T17:43:07.286Z",
@@ -8115,6 +8062,56 @@
       "https://pbs.twimg.com/media/HV4Boy7XUAA1IAL.png",
       "https://pbs.twimg.com/media/HV4Bp5QWwAAUPzs.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793361166688-gjh2ws",
+    "source": "x",
+    "ts": "2026-10-30T11:52:46.689Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T11:46:00.000Z",
+    "reason": "Potential scam targeting Pi token users.",
+    "text": "Pioneers Are Being Targeted With a Sneaky Address Poisoning Trick\n\nScammers are transferring minuscule amounts of $Pi, usually 0.000314, to thousands of @PiCoreTeam wallets. They use memos stating ridiculous conversion rates such as “1 Pi = $314,159.”\n\nVictims are usually people",
+    "url": "https://x.com/BSCNews/status/2116134520881598753",
+    "images": [
+      "https://pbs.twimg.com/media/HV4CjjBWgAAhIO4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793361172856-ixa14w",
+    "source": "x",
+    "ts": "2026-10-30T11:52:52.856Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-30T11:45:36.000Z",
+    "reason": "EIP-7702 may have helped attackers bypass security checks, leading to a significant hack.",
+    "text": "🚨 INSIGHT: Ethereum’s EIP-7702 didn’t cause Binance’s $6.3B hack but may have helped attackers bypass security checks and drain funds in one sweep, @blockaid_ CEO Ido Ben-Natan tells Cointelegraph.",
+    "url": "https://x.com/Cointelegraph/status/2116134422961398257",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793361178341-l0s73a",
+    "source": "x",
+    "ts": "2026-10-30T11:52:58.341Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T11:44:41.000Z",
+    "reason": "Chainalysis detects unusual laundering patterns in a significant hack.",
+    "text": "BREAKING: BOT-LIKE laundering detected in the $6.4B Binance hack.\n\nChainalysis says it’s seeing laundering patterns it has NEVER seen before.\n\nThousands of transactions are moving in a short window.\n\nThe funds don’t move in a straight line. They circle between wallets and often",
+    "url": "https://x.com/coinbureau/status/2116134188390978036",
+    "images": [],
     "video": null
   }
 ]
