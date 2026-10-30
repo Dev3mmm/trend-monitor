@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793200982661-s5e2w0",
-    "source": "x",
-    "ts": "2026-10-28T15:23:02.661Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T15:16:45.000Z",
-    "reason": "No notable move described, no specific price mentioned.",
-    "text": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
-    "url": "https://x.com/DecryptMedia/status/2115462782657134932"
-  },
-  {
-    "id": "x-1793202172602-zxdbce",
-    "source": "x",
-    "ts": "2026-10-28T15:42:52.602Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 60,
-    "originTimestamp": "2026-10-28T14:42:28.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Latest top yield from the Elan Insights dashboard:\n\n$STEAKUSDG on @Morpho is paying over 7% yield!\n\nWith just one glance, find the top yields, latest news events, token prices, your portfolio balance, and more!\n\n🔗",
-    "url": "https://x.com/BSCNews/status/2115468921608323264"
-  },
-  {
     "id": "x-1793202177549-6iqp3i",
     "source": "x",
     "ts": "2026-10-28T15:42:57.549Z",
@@ -8061,5 +8035,39 @@
     "reason": "No notable move or specific event described.",
     "text": "World’s Second-Largest Hardware Wallet Maker Trezor Warns of Suspected Hardware Implant in Device Sold by Reseller  \n\nTrezor said it received a credible report of a suspected hardware implant in a Trezor Safe 5 device purchased from reseller CryptoBilis in August 2026. The",
     "url": "https://x.com/WuBlockchain/status/2116071063134330909"
+  },
+  {
+    "id": "x-1793346736748-h54ac9",
+    "source": "x",
+    "ts": "2026-10-30T07:52:16.748Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T07:50:00.000Z",
+    "reason": "Aero generated an impressive $11M in fees in the past 30 days, highlighting its success post-merge.",
+    "text": "Aero has made $11 MILLION in the past month...\n\nAccording to DefiLlama data, the @aeroxyz platform has generated an impressive $11M in fees in the past 30-days alone...\n\n... bringing the platform's cumulative total to nearly $610M.\n\nHaving just merged successfully with Velodrome,",
+    "url": "https://x.com/BSCNews/status/2116075130065408025",
+    "images": [
+      "https://pbs.twimg.com/media/HVzpd49WIAA9n6P.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793346741513-dvr4ud",
+    "source": "x",
+    "ts": "2026-10-30T07:52:21.513Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T07:43:32.000Z",
+    "reason": "No notable move, price is well inside the recent range.",
+    "text": "🚨 Follow the latest developments on Binance’s ~$6B hack, all in one place:",
+    "url": "https://x.com/Cointelegraph/status/2116073502138913278",
+    "images": [],
+    "video": null
   }
 ]
