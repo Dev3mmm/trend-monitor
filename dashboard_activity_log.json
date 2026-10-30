@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1793202182554-69887y",
-    "source": "x",
-    "ts": "2026-10-28T15:43:02.554Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-28T15:34:22.000Z",
-    "reason": "High developer activity on Cardano network.",
-    "text": "Cardano Just Posted a Number Critics Can’t Ignore\n\n@chainspect_app reports that 107 developers were active on @Cardano's infrastructure and smart contract repositories last month. \n\nThis is the network's highest monthly developer figure in the last quarter.\n\nIt shows continued",
-    "url": "https://x.com/BSCNews/status/2115467214396477706",
-    "images": [
-      "https://pbs.twimg.com/media/HVukOx-WoAEGN_K.png",
-      "https://pbs.twimg.com/media/HVukZDfWsAESD8Q.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793202187365-pgqtz4",
-    "source": "x",
-    "ts": "2026-10-28T15:43:07.365Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 30,
-    "originTimestamp": "2026-10-28T15:12:11.000Z",
-    "reason": "No notable crypto-related event or market movement.",
-    "text": "Legacy media will never run this list, so I will.\n\n2018, Flint, Michigan: Elon funded filtration systems for schools with unsafe water. Over $480K.\n\n2018, Thailand: SpaceX engineers built a mini-submarine within days to help rescue a boys' soccer team trapped in a flooded cave.",
-    "url": "https://x.com/elonmusk/status/2115467041809576173"
-  },
-  {
-    "id": "x-1793202810064-83lalg",
-    "source": "x",
-    "ts": "2026-10-28T15:53:30.064Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-28T15:51:45.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "1 tattoo = 1 gonorrhoea\n\n2 tattoos = 1 gonorrhoea + 1 chlamydia\n\n3 tattoos = 2 gonorrhoea +1 chlamydia\n\n4 tattoos = 2 gonorrhoea + 2 chlamydia\n\n5 tattoos = Syphilis\n\nCHANGE or PERISH",
-    "url": "https://x.com/amerix/status/2115471592440426684"
-  },
-  {
     "id": "x-1793202812739-nii7i3",
     "source": "x",
     "ts": "2026-10-28T15:53:32.739Z",
@@ -8070,5 +8025,57 @@
       "https://pbs.twimg.com/media/HV3SsjjXwAAMVIe.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793349752546-2yxyo3",
+    "source": "x",
+    "ts": "2026-10-30T08:42:32.546Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-30T08:37:00.000Z",
+    "reason": "Stellar's TVL is falling significantly due to a major reduction in a single investor's holdings.",
+    "text": "Why is Stellar's TVL falling...?\n\n@StellarOrg's TVL hit an all-time high of $273M at the start of the month, but that figure has dropped by some $48M since then.\n\nThe fall is (at least in some part) driven by a significant -23% reduction in the TVL of @blend_capital - The largest",
+    "url": "https://x.com/BSCNews/status/2116086957243617401",
+    "images": [
+      "https://pbs.twimg.com/media/HVzpiUOWYAAE2Ww.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793349756871-g0t9m4",
+    "source": "x",
+    "ts": "2026-10-30T08:42:36.871Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T08:33:50.000Z",
+    "reason": "Generic marketing tweet without a specific crypto-related claim.",
+    "text": "Afrikan seeds, for Afrikan soil, for nutrient-dense crops, to feed Afrikans.\n\nThese are our seeds.\n\n#FoodFriday",
+    "url": "https://x.com/amerix/status/2116086160871088347"
+  },
+  {
+    "id": "x-1793349761835-zidwde",
+    "source": "x",
+    "ts": "2026-10-30T08:42:41.835Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-30T08:31:57.000Z",
+    "reason": "Specific institutional involvement in stablecoin distribution.",
+    "text": "⚡ INSIGHT: Diederik van Wersch ASEAN Regional Director at @chainalysis joins Cointelegraph to explain how North Korea's Lazarus Group exploits human trust, moves stolen funds across blockchains, and uses artificial intelligence to make crypto crime harder to trace.",
+    "url": "https://x.com/Cointelegraph/status/2116085689032790340",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116085423038406656/vid/avc1/1280x720/_M2lAsSg0UF2k4xu.mp4?tag=16",
+      "duration": 236,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116085423038406656/img/egGoRQ7Nxl_yIRai.jpg"
+    }
   }
 ]
