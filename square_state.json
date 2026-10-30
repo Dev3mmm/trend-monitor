@@ -2001,20 +2001,7 @@
     "x-1793346736748-h54ac9",
     "x-1793346741513-dvr4ud"
   ],
-  "queue": [
-    {
-      "text": "🚨 INSIGHT: @trondao founder @justinsuntron says the Trump administration has given crypto a “two-year grace period” to show it can benefit ordinary people. \n\nWith the CLARITY Act stalled, can the industry deliver? \n#CHAINREACTION",
-      "url": "https://x.com/Cointelegraph/status/2116070097114878086",
-      "images": [],
-      "video": {
-        "url": "https://video.twimg.com/amplify_video/2116024613469884416/vid/avc1/1280x720/oLkYId9Z-wbbWkmv.mp4?tag=29",
-        "duration": 292,
-        "gif": false,
-        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116024613469884416/img/3jIYfucItpeIJcdP.jpg"
-      },
-      "enqueuedAt": 1793345570432
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨 ALERT: CZ warns leaked exchange data can fuel phishing, SIM swaps and real-world attacks after four reported leaks across crypto and TradFi.\n\n\"Stay SAFU.\"",
@@ -2691,7 +2678,14 @@
       "at": 1793345570432,
       "status": "failed",
       "error": "82447b291e99d9efe2e3af1.jpg\nUploading: sq_1793345570432_1.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261030/4a6dd82358f84417912c26887fda72b1.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
+    },
+    {
+      "text": "🚨 INSIGHT: @trondao founder @justinsuntron says the Trump administration has given crypto a “two-year grace period” to show it can benefit ordinary people. \n\nWith the CLARITY Act stalled, can the industry deliver? \n#CHAINREACTION",
+      "final": "🚨 INSIGHT: @trondao founder @justinsuntron says the Trump administration has given crypto a “two-year grace period” to show it can benefit ordinary people. \n\nWith the CLARITY Act stalled, can the industry deliver? #CHAINREACTION\n\n#Crypto #ClarityAct",
+      "images": [],
+      "at": 1793347326576,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793345570432
+  "lastPostAt": 1793347326576
 }
