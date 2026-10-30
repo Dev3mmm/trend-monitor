@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1793270588057-7cxg6y",
-    "source": "x",
-    "ts": "2026-10-29T10:43:08.057Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-29T10:35:11.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "The next round starts now.\n\nSpot Trading Tournament Season 10 is here, with 300,000 USDC in Token Vouchers up for grabs.\n\n👉",
-    "url": "https://x.com/binance/status/2115754310965592459"
-  },
-  {
-    "id": "x-1793271155377-qykggl",
-    "source": "x",
-    "ts": "2026-10-29T10:52:35.377Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-29T10:47:01.000Z",
-    "reason": "ICE's involvement in a US-regulated crypto derivatives market is notable.",
-    "text": "🇺🇸 JUST IN: NYSE parent ICE takes a stake in  and plans a US-regulated perpetual futures market built on Hyperliquid.",
-    "url": "https://x.com/Cointelegraph/status/2115757290850574450",
-    "images": [
-      "https://pbs.twimg.com/media/HVyuCkYXgAAZkj5.png",
-      "https://pbs.twimg.com/media/HVyuCxxWYAEqhXz.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793271160107-d03oxb",
-    "source": "x",
-    "ts": "2026-10-29T10:52:40.107Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-29T10:43:50.000Z",
-    "reason": "No notable move or specific event related to crypto.",
-    "text": "What Could ECB Without Christine Mean for Crypto in Europe?\n\nEuropean Central Bank President Christine Lagarde has told her peers she plans to leave office on February 7, 2027, after serving a seven-year term.\n\nHer exit is sparking a discussion about succession in Frankfurt and",
-    "url": "https://x.com/BSCNews/status/2115756490740973710"
-  },
-  {
     "id": "x-1793271780171-4mbd7b",
     "source": "x",
     "ts": "2026-10-29T11:03:00.171Z",
@@ -8115,5 +8070,58 @@
       "https://pbs.twimg.com/media/HV53pM6WsAAK7_r.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793395992489-lu6m54",
+    "source": "x",
+    "ts": "2026-10-30T21:33:12.489Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T21:30:28.000Z",
+    "reason": "Notable regulatory action affecting Iran's economy.",
+    "text": "🇺🇸 BIG: The Treasury says the U.S. blockade and sanctions are crippling Iran’s economy.",
+    "url": "https://x.com/Cointelegraph/status/2116281606293815307",
+    "images": [
+      "https://pbs.twimg.com/media/HV6K5dPXUAAAJxQ.jpg",
+      "https://pbs.twimg.com/media/HV6K523XUAAM2hg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793395994637-lzsoo5",
+    "source": "x",
+    "ts": "2026-10-30T21:33:14.637Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T21:30:00.000Z",
+    "reason": "No notable move in cryptocurrency values.",
+    "text": "Apple Overtakes Nvidia as World's Most Valuable Company.\n\nApple closed Friday worth about $5.03 trillion after slipping 1.23% to $344.63, while Nvidia fell 4.22% to $204.64, cutting its market value to about $4.94 trillion.",
+    "url": "https://x.com/DecryptMedia/status/2116281492087447975"
+  },
+  {
+    "id": "x-1793395998050-azsked",
+    "source": "x",
+    "ts": "2026-10-30T21:33:18.050Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Phyrex",
+    "ageMin": 54,
+    "originTimestamp": "2026-10-30T20:39:17.000Z",
+    "reason": "Notable mention of Binance being investigated by the FBI and President Trump, indicating a significant event.",
+    "text": "没想到 Binance 被盗的事情川普都已经知道了，并且在今天的记者招待会中提及此事。\n\n记者的提问很直接，是不是三胖干的，作为三胖的朋友，川普回答，现在还不知道，但（FBI）正在调查中。\n\n（也就是说不仅仅是 Binance 自己在调查，美国FBI也在调查，甚至会汇报给总统）",
+    "url": "https://x.com/PhyrexNi/status/2116280853672386732",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116274695159066624/vid/avc1/1280x720/BMOHBOV8JYRq_hh3.mp4?tag=29",
+      "duration": 34,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116274695159066624/img/YDf7PPG-RxJCvB-d.jpg"
+    }
   }
 ]
