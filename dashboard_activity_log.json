@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793205785129-a7ln96",
-    "source": "x",
-    "ts": "2026-10-28T16:43:05.129Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T16:40:13.000Z",
-    "reason": "Notable regulatory and industry partnership to combat financial crimes.",
-    "text": "🚨 NEW: Tether and industry partners have launched the FASE Foundation to combat scams, support human trafficking survivors and pilot stablecoin-based humanitarian aid.",
-    "url": "https://x.com/Cointelegraph/status/2115483786091663408",
-    "images": [
-      "https://pbs.twimg.com/media/HVu1SeYWMAESz7D.jpg",
-      "https://pbs.twimg.com/media/HVu1SsSW8AADTG4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793205786625-c6zacd",
-    "source": "x",
-    "ts": "2026-10-28T16:43:06.625Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 94,
-    "originTimestamp": "2026-10-28T15:09:13.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "This is unbelievable.",
-    "url": "https://x.com/amerix/status/2115482815701700631"
-  },
-  {
     "id": "x-1793206393860-5dwd0d",
     "source": "x",
     "ts": "2026-10-28T16:53:13.860Z",
@@ -8074,5 +8042,42 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116108417014087680/img/yeY0AkFLmMK7vXhk.jpg"
     }
+  },
+  {
+    "id": "x-1793356334983-z79e3a",
+    "source": "x",
+    "ts": "2026-10-30T10:32:14.983Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T10:30:41.000Z",
+    "reason": "Security incident affecting cryptocurrency users detected",
+    "text": "🚨 ALERT: Cursor reports a security incident involving a malicious Claude Code VS Code extension that may have affected up to 5,000 users.\n\n This malicious version of the extension was not developed by Anthropic.",
+    "url": "https://x.com/Cointelegraph/status/2116115568440783154",
+    "images": [
+      "https://pbs.twimg.com/media/HV3z46gX0AAphVw.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793356338579-aabum5",
+    "source": "x",
+    "ts": "2026-10-30T10:32:18.579Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 49,
+    "originTimestamp": "2026-10-30T09:42:50.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Binance's Yi He Says Revenue Can Cover Hack Losses Without Selling SpaceX Shares.\n\nReplying to CZ, the co-founder said Binance's \"revenue for the year is sufficient to cover the losses.\" CZ later said he hadn't suggested selling the shares, only showing funds Binance has.",
+    "url": "https://x.com/DecryptMedia/status/2116115196599226657",
+    "images": [
+      "https://pbs.twimg.com/media/HV3y9m_XcAAPPGW.png",
+      "https://pbs.twimg.com/media/HV3y_njW4AAnUaJ.png"
+    ],
+    "video": null
   }
 ]
