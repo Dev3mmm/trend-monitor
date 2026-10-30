@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791936154523-er8vdz",
-    "x-1791936162537-a3dffi",
     "x-1791937351226-27cr30",
     "x-1791937353117-c2gbs4",
     "x-1791937955131-e8nizw",
@@ -1999,18 +1997,11 @@
     "x-1793323970714-xcdm1n",
     "x-1793323973794-djq876",
     "x-1793323977439-g3z8dd",
-    "x-1793324528263-1k97ed"
+    "x-1793324528263-1k97ed",
+    "x-1793325789818-6m632q",
+    "x-1793325795423-xsx9vs"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Dozens of smaller tokens also saw sharp outflows from Binance, with one altcoin completely drained, per Glassnode.",
-      "url": "https://x.com/Cointelegraph/status/2115946363678773301",
-      "images": [
-        "https://pbs.twimg.com/media/HV1Z_8dboAAj1XJ.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793316193750
-    },
     {
       "text": "Paxos 团队表示冻结了 1,906.67 枚 ethereum:0x45804880de22913dafe09f4980848ece6ecbaf78 ，总价值约 763.3 万美元。",
       "url": "https://x.com/PhyrexNi/status/2115946231612796953",
@@ -2097,20 +2088,18 @@
       ],
       "video": null,
       "enqueuedAt": 1793324528979
+    },
+    {
+      "text": "🚨  ALERT: The Crypto Fear and Greed Index has slid to 35, its lowest level since August, down from extreme greed just two months ago.",
+      "url": "https://x.com/Cointelegraph/status/2115987230606885311",
+      "images": [
+        "https://pbs.twimg.com/media/HV1_KnsXoAEvizc.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793325800218
     }
   ],
   "posted": [
-    {
-      "text": "🚨 ALERT: Solflare’s validator has stopped producing SOL staking rewards after a security incident at its staking provider affected the validator keys, though the wallet says user funds are safe.",
-      "final": "🚨 ALERT: Solflare’s validator has stopped producing SOL staking rewards after a security incident at its staking provider affected the validator keys, though the wallet says user funds are safe.\n\n#Solana $SOL",
-      "images": [
-        "https://pbs.twimg.com/media/HVratHGXEAA5LEx.jpg",
-        "https://pbs.twimg.com/media/HVratTXW8AARH7o.jpg"
-      ],
-      "at": 1793152970410,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/382000256120932?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨 NOW: OpenAI is planning to purchase Google’s AI chips, per The Information.\n\nThe ChatGPT maker has long relied on Nvidia, which is also one of its backers.",
       "final": "🚨 NOW: OpenAI is planning to purchase Google’s AI chips, per The Information.\n\nThe ChatGPT maker has long relied on Nvidia, which is also one of its backers.\n\n#Crypto",
@@ -2739,7 +2728,16 @@
       "at": 1793323978254,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382700732631831?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Dozens of smaller tokens also saw sharp outflows from Binance, with one altcoin completely drained, per Glassnode.",
+      "final": "🚨 UPDATE: Dozens of smaller tokens also saw sharp outflows from Binance, with one altcoin completely drained, per Glassnode.\n\n#Crypto #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HV1Z_8dboAAj1XJ.jpg"
+      ],
+      "at": 1793325800218,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793323978254
+  "lastPostAt": 1793325800218
 }
