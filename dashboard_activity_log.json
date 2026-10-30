@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793189020403-61tt0s",
-    "source": "x",
-    "ts": "2026-10-28T12:03:40.403Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T12:00:06.000Z",
-    "reason": "Meme or Halloween game with no substantive crypto news value.",
-    "text": "A pumpkin has entered the charts. 🎃\n\nIntroducing Fly SAFU, our Halloween game.\n\nKeep an eye out for spooky clues along the way.\n\nEnter to fly 👉",
-    "url": "https://x.com/binance/status/2115413292428472464"
-  },
-  {
-    "id": "x-1793189026539-b7soen",
-    "source": "x",
-    "ts": "2026-10-28T12:03:46.539Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-28T11:57:51.000Z",
-    "reason": "The tweet is about a founder's opinion, not a verified news event.",
-    "text": "ICP Founder Says AI, Not Quantum Computing, Is Crypto’s Real Threat\n\nThe founder of Internet Computer (@Dfinity) believes AI recently disproved the Exponential Time Hypothesis, long considered true. \n\nThe core algorithms aren't in danger for now, but Dominic sees this as clear",
-    "url": "https://x.com/BSCNews/status/2115412727933919680",
-    "images": [
-      "https://pbs.twimg.com/media/HVt0ea9WIAAZQ1Z.png",
-      "https://pbs.twimg.com/media/HVt0hCDXYAA1hns.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793189031637-yll4mh",
     "source": "x",
     "ts": "2026-10-28T12:03:51.637Z",
@@ -8111,5 +8079,37 @@
     "reason": "No notable move or specific event.",
     "text": "FLOKI just got its own robot...?!\n\nPowered by @realRiceAI, the $FLOKI Minibot is nearly ready for production and delivery, according to a recent post.\n\n@FLOKI's Minibot is an AI-powered physical companion robot, designed to act as an intelligent daily assistant and emotional",
     "url": "https://x.com/BSCNews/status/2116009699523109158"
+  },
+  {
+    "id": "x-1793332391977-kx2ahy",
+    "source": "x",
+    "ts": "2026-10-30T03:53:11.977Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T03:45:03.000Z",
+    "reason": "Noise: Generic statement with no real content.\"",
+    "text": "👇",
+    "url": "https://x.com/cz_binance/status/2116014597056659597"
+  },
+  {
+    "id": "x-1793332397553-ojtcsb",
+    "source": "x",
+    "ts": "2026-10-30T03:53:17.553Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-30T03:43:21.000Z",
+    "reason": "Bank of Japan's rate decision is notable as it relates to interest rates and inflation targets.",
+    "text": "🇯🇵 JUST IN: The Bank of Japan has kept rates at 1.25%, still the highest since 1995, and says inflation has met its 2% target for the first time since 2013.",
+    "url": "https://x.com/Cointelegraph/status/2116013059617472861",
+    "images": [
+      "https://pbs.twimg.com/media/HV2WqQHXIAA0v0A.jpg",
+      "https://pbs.twimg.com/media/HV2WqfAWoAAZfb_.jpg"
+    ],
+    "video": null
   }
 ]
