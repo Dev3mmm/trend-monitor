@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793239355286-ai6ex0",
-    "source": "x",
-    "ts": "2026-10-29T02:02:35.286Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T02:00:32.000Z",
-    "reason": "Notable political figure acknowledgment of a tech leader in satellite technology.",
-    "text": "🚨 NEW: Russian President Putin calls Elon Musk “a real genius” and says Russia is in close contact with him on satellite technology.",
-    "url": "https://x.com/Cointelegraph/status/2115624795999965539",
-    "images": [
-      "https://pbs.twimg.com/media/HVw1iNKXkAANKyB.jpg",
-      "https://pbs.twimg.com/media/HVw1ifhXcAA8Lby.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793239359972-ov2n13",
-    "source": "x",
-    "ts": "2026-10-29T02:02:39.972Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T02:00:01.000Z",
-    "reason": "No notable crypto-specific news or move mentioned.",
-    "text": "Fed Chair Warsh is changing the FOMC calendar.\n\n8 meetings a year stays, but in 2027 one will be strategy-only, with no rate vote or policy statement expected. In 2028, he expects 6 rate-setting meetings and 2 for strategy.",
-    "url": "https://x.com/DecryptMedia/status/2115624667155435872"
-  },
-  {
     "id": "x-1793239973188-x8ueal",
     "source": "x",
     "ts": "2026-10-29T02:12:53.188Z",
@@ -8078,6 +8046,41 @@
     "reason": "Elon Musk and Tesla CEO Elon Musk's comments about SpaceX shares amid the $6.4B Binance hack could impact investor sentiment.",
     "text": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
     "url": "https://x.com/DecryptMedia/status/2116205048027918552",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793378566065-kup8d1",
+    "source": "x",
+    "ts": "2026-10-30T16:42:46.065Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T16:41:31.000Z",
+    "reason": "Notable regulatory move regarding cryptocurrency exchanges.",
+    "text": "CFTC Chair Says Binance's $6.3B Hack \"Proves Our Exact Point.\"\n\nMichael Selig told CNBC on Friday the agency wants to offer unregulated offshore exchanges a federal option to register with the CFTC, under the same cybersecurity safeguards as U.S. markets.",
+    "url": "https://x.com/DecryptMedia/status/2116208890295791723",
+    "images": [
+      "https://pbs.twimg.com/media/HV5Ihc8WkAAbwIX.png",
+      "https://pbs.twimg.com/media/HV5Ij4NXUAAwLqR.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793378571319-f737xz",
+    "source": "x",
+    "ts": "2026-10-30T16:42:51.319Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-30T16:35:30.000Z",
+    "reason": "Binance's move highlights the potential risks and measures taken in the crypto industry.",
+    "text": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+    "url": "https://x.com/DecryptMedia/status/2116207376088920166",
     "images": [],
     "video": null
   }
