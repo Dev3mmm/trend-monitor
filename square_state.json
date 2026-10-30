@@ -1,9 +1,5 @@
 {
   "seen": [
-    "x-1791937353117-c2gbs4",
-    "x-1791937955131-e8nizw",
-    "x-1791938524322-dnyxk5",
-    "x-1791939129998-ei2c13",
     "x-1791939728365-2qw45n",
     "x-1791940964627-3zz7ce",
     "x-1791941545547-vhk6za",
@@ -1999,28 +1995,13 @@
     "x-1793324528263-1k97ed",
     "x-1793325789818-6m632q",
     "x-1793325795423-xsx9vs",
-    "x-1793326949556-b0s2oo"
+    "x-1793326949556-b0s2oo",
+    "x-1793327538826-yc9nr4",
+    "x-1793327544875-vk9bff",
+    "x-1793327550013-a260ge",
+    "x-1793327554155-tc5m3t"
   ],
   "queue": [
-    {
-      "text": "Paxos 团队表示冻结了 1,906.67 枚 ethereum:0x45804880de22913dafe09f4980848ece6ecbaf78 ，总价值约 763.3 万美元。",
-      "url": "https://x.com/PhyrexNi/status/2115946231612796953",
-      "images": [
-        "https://pbs.twimg.com/media/HV1ZnvWbYAAQsyq.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793316193750
-    },
-    {
-      "text": "🚨 UPDATE: Cryptodotcom says it remains unaffected by the Binance attack and is blocking addresses linked to the incident.",
-      "url": "https://x.com/Cointelegraph/status/2115953074745553046",
-      "images": [
-        "https://pbs.twimg.com/media/HV1fWZgbsAEMEwr.jpg",
-        "https://pbs.twimg.com/media/HV1fWaXasAAdy4K.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793317953086
-    },
     {
       "text": "🚨 UPDATE: Justin Sun says TRON is monitoring Binance’s security incident and stands ready to assist.",
       "url": "https://x.com/Cointelegraph/status/2115956179117424892",
@@ -2107,6 +2088,25 @@
       ],
       "video": null,
       "enqueuedAt": 1793326950368
+    },
+    {
+      "text": "🚨 LATEST: Coinbase CEO Brian Armstrong plans to sell up to $1.31B in $COIN shares through October 2027.\n\nHe says the sales only kick in at high price targets, and most of his net worth stays in $COIN.",
+      "url": "https://x.com/Cointelegraph/status/2115994601224036619",
+      "images": [
+        "https://pbs.twimg.com/media/HV13P8EbsAAZLKc.png",
+        "https://pbs.twimg.com/media/HV13P81bYAA10i8.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793327559390
+    },
+    {
+      "text": "Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions. We have found no evidence of any wallet private",
+      "url": "https://x.com/binance/status/2115993361517891592",
+      "images": [
+        "https://pbs.twimg.com/media/HV2EXppbwAEyxeq.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793327559390
     }
   ],
   "posted": [
@@ -2748,7 +2748,17 @@
       "at": 1793325800218,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382708151600005?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Cryptodotcom says it remains unaffected by the Binance attack and is blocking addresses linked to the incident.",
+      "final": "🚨 UPDATE: Cryptodotcom says it remains unaffected by the Binance attack and is blocking addresses linked to the incident.\n\n#Crypto #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HV1fWZgbsAEMEwr.jpg",
+        "https://pbs.twimg.com/media/HV1fWaXasAAdy4K.jpg"
+      ],
+      "at": 1793327559390,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793325800218
+  "lastPostAt": 1793327559390
 }
