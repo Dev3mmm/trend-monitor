@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793254408582-gzn5xe",
-    "source": "x",
-    "ts": "2026-10-29T06:13:28.582Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-29T06:06:47.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "@m_goes_distance I think I’m Steve",
-    "url": "https://x.com/elonmusk/status/2115687257311232391"
-  },
-  {
-    "id": "x-1793254411939-pmudcc",
-    "source": "x",
-    "ts": "2026-10-29T06:13:31.939Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-29T06:00:43.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": "现在 X 都这么直接了吗？",
-    "url": "https://x.com/PhyrexNi/status/2115686934156923191"
-  },
-  {
-    "id": "x-1793254416198-kb11n1",
-    "source": "x",
-    "ts": "2026-10-29T06:13:36.198Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-29T06:03:21.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Inside Binance Ep. 2: Hydraze x Max\n\nBehind every product is a story. This is part of it.\n\nToday at·14:00 UTC ·📍 Binance Square  \n\nSet your reminder 👉   \n\n\"",
-    "url": "https://x.com/binance/status/2115685904442351945"
-  },
-  {
-    "id": "x-1793255537927-xm01lc",
-    "source": "x",
-    "ts": "2026-10-29T06:32:17.927Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T06:30:30.000Z",
-    "reason": "New payment scalability record on Stellar network.",
-    "text": "🔥 NEW: Stellar introduces Project Thruput, a new execution model live on FutureNet that hit 7.02M payments per second in early benchmarks by scaling across multiple machines.",
-    "url": "https://x.com/Cointelegraph/status/2115692736934265062",
-    "images": [
-      "https://pbs.twimg.com/media/HVxzVINWYAAO5GX.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793255545269-9m8zqm",
     "source": "x",
     "ts": "2026-10-29T06:32:25.269Z",
@@ -8066,5 +8009,71 @@
     "reason": "No new information provided, just an attention-grabbing headline without substantive content.",
     "text": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
     "url": "https://x.com/DecryptMedia/status/2116240280605057192"
+  },
+  {
+    "id": "x-1793386957475-ueu5hy",
+    "source": "x",
+    "ts": "2026-10-30T19:02:37.475Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T19:00:02.000Z",
+    "reason": "Specific, verifiable crypto hack event.",
+    "text": "Crypto's Biggest-Ever Hack: How $6.3 Billion Was Stolen From Binance\n\nOn October 30, Binance @binance suffered an estimated $6.3 billion hack, the largest crypto theft on record. Attackers drained hot wallets across multiple blockchains in under four hours.Binance suspects its",
+    "url": "https://x.com/WuBlockchain/status/2116243747969085507",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116184130753097728/vid/avc1/1280x720/5AkKP6kaLNR_1Y5L.mp4?tag=29",
+      "duration": 181,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116184130753097728/img/Pwc0QnZbTzPSo49S.jpg"
+    }
+  },
+  {
+    "id": "x-1793386960075-7dfd7j",
+    "source": "x",
+    "ts": "2026-10-30T19:02:40.075Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T19:00:02.000Z",
+    "reason": "Fed's statement on inflation and potential rate hikes could affect crypto markets.",
+    "text": "Fed's Musalem Says Another Rate Hike Is Needed 'Soon.'\n\nSt. Louis Fed President Alberto Musalem said Friday that \"additional firming of monetary policy will be necessary, and soon,\" warning inflation remains too high just days after the Fed held rates steady.",
+    "url": "https://x.com/DecryptMedia/status/2116243747813859712",
+    "images": [
+      "https://pbs.twimg.com/media/HV5iM-vXgAAqzc8.jpg",
+      "https://pbs.twimg.com/media/HV5imRzX0AAxRcb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793386961637-q4ddmv",
+    "source": "x",
+    "ts": "2026-10-30T19:02:41.637Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 11,
+    "originTimestamp": "2026-10-30T18:51:25.000Z",
+    "reason": "No factual claim or concrete event.",
+    "text": "Talarico would abolish democracy in America and institute permanent one-party rule!",
+    "url": "https://x.com/elonmusk/status/2116242885376974965"
+  },
+  {
+    "id": "x-1793386963049-rga79h",
+    "source": "x",
+    "ts": "2026-10-30T19:02:43.049Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 40,
+    "originTimestamp": "2026-10-30T18:21:57.000Z",
+    "reason": "No notable move in ETH.",
+    "text": "Good video about @Neuralink",
+    "url": "https://x.com/elonmusk/status/2116242462582989090"
   }
 ]
