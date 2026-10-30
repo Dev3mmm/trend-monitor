@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1793191914523-1dlj8y",
-    "source": "x",
-    "ts": "2026-10-28T12:51:54.523Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 28,
-    "originTimestamp": "2026-10-28T12:23:43.000Z",
-    "reason": "No notable move or specific event.",
-    "text": "$STRC vs $MSTR?\n\nIf the credit works, the equity wins.",
-    "url": "https://x.com/saylor/status/2115424740936433933"
-  },
-  {
-    "id": "x-1793192517299-vrrjqu",
-    "source": "x",
-    "ts": "2026-10-28T13:01:57.299Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-28T13:01:01.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "If you could ask one question to any crypto CEO, who would you ask and what would it be?\n\nTag them 👇🏻👇🏻",
-    "url": "https://x.com/Cointelegraph/status/2115428625314898060"
-  },
-  {
-    "id": "x-1793193135165-73bwbi",
-    "source": "x",
-    "ts": "2026-10-28T13:12:15.165Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T13:05:44.000Z",
-    "reason": "Notable institutional adoption in the crypto space with major players investing in on-chain lending solutions.",
-    "text": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
-    "url": "https://x.com/DecryptMedia/status/2115429811359236445",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793193140901-i7cn4p",
     "source": "x",
     "ts": "2026-10-28T13:12:20.901Z",
@@ -8083,5 +8041,50 @@
     "reason": "No notable move in ETH price.",
     "text": "🔥 BIG: Anthropic is reportedly SpaceX’s largest customer, the mystery “Customer B” that accounted for 34.5% of its Q3 revenue at about $3B a month, per Bloomberg.",
     "url": "https://x.com/Cointelegraph/status/2116024979053568366"
+  },
+  {
+    "id": "x-1793335315765-9m35en",
+    "source": "x",
+    "ts": "2026-10-30T04:41:55.766Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-30T04:36:11.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Service Update\n\nDeposits remain unaffected and continue to operate as normal.\n\nWithdrawals remain paused while our team completes a security revamp of the withdrawal service and its related addresses. We expect to resume within 48 hours, and will update with further details.",
+    "url": "https://x.com/binance/status/2116026356740034858"
+  },
+  {
+    "id": "x-1793335318162-4360el",
+    "source": "x",
+    "ts": "2026-10-30T04:41:58.162Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-30T04:34:52.000Z",
+    "reason": "Binance co-founder signals potential resolution to withdrawal issues.",
+    "text": "🚨 NOW: Binance co-founder Yi He says deposits operate as normal, and withdrawals should resume within the next 48 hours after upgrades to the withdrawal service.",
+    "url": "https://x.com/Cointelegraph/status/2116026022684414166",
+    "images": [
+      "https://pbs.twimg.com/media/HV2ic3WXgAAzt4Z.jpg",
+      "https://pbs.twimg.com/media/HV2idCbWoAADR42.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793335320044-c1r4ft",
+    "source": "x",
+    "ts": "2026-10-30T04:42:00.044Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T04:34:00.000Z",
+    "reason": "No notable move, reference to history.",
+    "text": "The making of a legend...\n\nHow many of you remember that @VitalikButerin himself played a key role in making @Shibtoken $SHIB the memecoin giant that it is today...? ⬇️",
+    "url": "https://x.com/BSCNews/status/2116025804240883937"
   }
 ]
