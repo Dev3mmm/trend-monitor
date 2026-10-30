@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1793239973188-x8ueal",
-    "source": "x",
-    "ts": "2026-10-29T02:12:53.188Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 119,
-    "originTimestamp": "2026-10-29T00:13:29.000Z",
-    "reason": "The tweet is unrelated to cryptocurrencies and does not contain any specific crypto-related information.",
-    "text": "Yesterday was the REDDEST day of early voting in Texas.\n\nWe need big turnout tomorrow &amp; Friday to finish strong for Election Day. \n\n@KenPaxtonTX",
-    "url": "https://x.com/elonmusk/status/2115627272862585316"
-  },
-  {
-    "id": "x-1793239979031-hm4bs8",
-    "source": "x",
-    "ts": "2026-10-29T02:12:59.031Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-29T02:06:00.000Z",
-    "reason": "Unprecedented level of verified messages by Chainlink oracles.",
-    "text": "Chainlink oracles break 20,000,000,000 verified messages.\n\n@Chainlink's oracles have now sent a staggering 20.33 billion verified messages across various smart contract-enabled blockchains.\n\nThe metric reflects $LINK's unchallenged dominance in the blockchain oracles sector, said",
-    "url": "https://x.com/BSCNews/status/2115626171014541351",
-    "images": [
-      "https://pbs.twimg.com/media/HVtHxWoWAAApnZX.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793241168484-o14jny",
-    "source": "x",
-    "ts": "2026-10-29T02:32:48.484Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T02:30:32.000Z",
-    "reason": "Crypto-related financial impact affecting a major tech company.",
-    "text": "🚨 BIG: Google parent Alphabet's share decline could cost more than $300B in market capitalization following its earnings report, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2115632346296725713",
-    "images": [
-      "https://pbs.twimg.com/media/HVw8ZrQWsAA-MP7.jpg",
-      "https://pbs.twimg.com/media/HVw8aAhWcAAiZl9.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793241170971-fc8gtj",
-    "source": "x",
-    "ts": "2026-10-29T02:32:50.971Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 32,
-    "originTimestamp": "2026-10-29T02:00:53.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "That’s what I do too. Just have @Bot buy it somewhere else at a lower price.",
-    "url": "https://x.com/elonmusk/status/2115632219712811226"
-  },
-  {
     "id": "x-1793241714344-stkstm",
     "source": "x",
     "ts": "2026-10-29T02:41:54.344Z",
@@ -8082,6 +8019,74 @@
     "text": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
     "url": "https://x.com/DecryptMedia/status/2116207376088920166",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793379149270-ch3dp8",
+    "source": "x",
+    "ts": "2026-10-30T16:52:29.270Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T16:50:41.000Z",
+    "reason": "The tweet is too vague without context or specific details about the update.",
+    "text": "🚨 UPDATE: The US stock market shed nearly $1 trillion in value at the open.",
+    "url": "https://x.com/Cointelegraph/status/2116211199226286477",
+    "images": [
+      "https://pbs.twimg.com/media/HV5K3cyW0AAgyXk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793379154092-wibi2j",
+    "source": "x",
+    "ts": "2026-10-30T16:52:34.092Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T16:49:45.000Z",
+    "reason": "Could indicate a significant security breach with high monetary value.",
+    "text": "Binance’s $6.3B Hack: Could It Have Been Stopped? [Ft. Blockaid Co-Founder] #CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2116210964525932994",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793379159655-pdtbyh",
+    "source": "x",
+    "ts": "2026-10-30T16:52:39.656Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-30T16:47:19.000Z",
+    "reason": "No notable newsworthy information provided.",
+    "text": "The $6.3B Binance hack didn't break $BTC. \n\nThe selling started with Amazon and Intel's after-hours drop, before the hack was public. \n\nThen futures outsold spot about 7 to 1 as new shorts and hedges piled in, and dealers likely short gamma into this morning's expiry could have",
+    "url": "https://x.com/BitcoinMagazine/status/2116210891977081121",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793379165651-wyyskf",
+    "source": "x",
+    "ts": "2026-10-30T16:52:45.651Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-30T16:43:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Is the $HYPE coming back...?!\n\nSpot @HyperliquidX ETFs just saw their first day of net inflows since as far back as October 6, yesterday seeing net inflows to the tune of some +$3.7M.\n\nThe ETFs have had a terrible month of October - Currently down -$34.48M on the month, October",
+    "url": "https://x.com/BSCNews/status/2116209263236333631",
+    "images": [
+      "https://pbs.twimg.com/media/HV3zxiyWUAAKK4d.jpg"
+    ],
     "video": null
   }
 ]
