@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 UPDATE: Coinbase Premium hits a 4-year low, last seen after the FTX collapse in November 2022, per CryptoQuant.",
-      "url": "https://x.com/Cointelegraph/status/2116138381008626075",
-      "images": [
-        "https://pbs.twimg.com/media/HV4IopoWEAEN_hS.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793361812092
-    },
-    {
       "text": "JUST IN: Blockchain investigators at TRM Labs say North Korea’s elite hacking unit, TraderTraitor, is responsible for the $6.3 billion Binance hack 👀\n\nIt’s officially the largest crypto hack in history.",
       "url": "https://x.com/BitcoinMagazine/status/2116143476769268043",
       "images": [
@@ -2792,7 +2783,16 @@
       "at": 1793367352145,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382878392260838?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Coinbase Premium hits a 4-year low, last seen after the FTX collapse in November 2022, per CryptoQuant.",
+      "final": "🚨 UPDATE: Coinbase Premium hits a 4-year low, last seen after the FTX collapse in November 2022, per CryptoQuant.\n\n#Crypto #Coinbase",
+      "images": [
+        "https://pbs.twimg.com/media/HV4IopoWEAEN_hS.jpg"
+      ],
+      "at": 1793369064403,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793367352145
+  "lastPostAt": 1793369064403
 }
