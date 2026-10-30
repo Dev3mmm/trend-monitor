@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793185928947-7qg69j",
-    "source": "x",
-    "ts": "2026-10-28T11:12:08.947Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T11:09:14.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Europe has started a SURVIVAL COUNTDOWN.\n\nGovernments are now ordering citizens to STOCKPILE and prepare to survive without their help.\n\nWater. Food. First-aid kits. Cash. Powerbanks. Radios.\n\nHere’s how long each country wants YOU to last on your own:\n\nUK: 3 days\nGermany: up to",
-    "url": "https://x.com/coinbureau/status/2115400494181237109"
-  },
-  {
     "id": "x-1793187138180-kl0sek",
     "source": "x",
     "ts": "2026-10-28T11:32:18.180Z",
@@ -8108,6 +8095,24 @@
     "url": "https://x.com/Cointelegraph/status/2115995681433264481",
     "images": [
       "https://pbs.twimg.com/media/HV2G28LW4AAskR6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793328751512-910waz",
+    "source": "x",
+    "ts": "2026-10-30T02:52:31.512Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-30T02:47:20.000Z",
+    "reason": "Exploit and security breach in Binance's wallet.",
+    "text": "Blockaid Reveals How Hacker Took Control of Binance Wallet: One of 50 EIP-7702 Authorizations Succeeded\n\nAccording to analysis by blockchain security firm Blockaid, the attacker used Ethereum’s EIP-7702 authorization mechanism to attack Binance’s Binance 14 hot wallet. Because",
+    "url": "https://x.com/WuBlockchain/status/2115998959886102530",
+    "images": [
+      "https://pbs.twimg.com/media/HV2JvJPasAAiV0q.jpg"
     ],
     "video": null
   }
