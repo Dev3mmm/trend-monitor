@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791947541990-kdt2dg",
-    "x-1791950665620-r5y2y8",
     "x-1791950474943-t2qv0j",
     "x-1791951712406-dldc2g",
     "x-1791952355974-maeh7p",
@@ -1999,18 +1997,11 @@
     "x-1793332397553-ojtcsb",
     "x-1793332946791-fyzf97",
     "x-1793333568602-11lg2g",
-    "x-1793335318162-4360el"
+    "x-1793335318162-4360el",
+    "x-1793336545164-x8vsoz",
+    "x-1793336549376-0qnu5m"
   ],
   "queue": [
-    {
-      "text": "🚨  ALERT: The Crypto Fear and Greed Index has slid to 35, its lowest level since August, down from extreme greed just two months ago.",
-      "url": "https://x.com/Cointelegraph/status/2115987230606885311",
-      "images": [
-        "https://pbs.twimg.com/media/HV1_KnsXoAEvizc.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793325800218
-    },
     {
       "text": "🚨 LATEST: OKX CEO Star Xu says the Binance hack should serve as a wake-up call for the industry, and urges exchange CEOs to unite on stronger shared security standards.\n\n“Security is everyone’s responsibility. No company can protect the future of crypto alone.”",
       "url": "https://x.com/Cointelegraph/status/2115990635068916013",
@@ -2714,7 +2705,16 @@
       "at": 1793334742182,
       "status": "failed",
       "error": "7d24c48a08018bf43d0460f6c.jpg\nUploading: sq_1793334742182_1.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261030/3adb444791e144b2a73544c4b6cfa82e.jpg\nPublishing...\n\n\nFailed: API error [220094]: Hashtag count exceeds the allowed limit"
+    },
+    {
+      "text": "🚨  ALERT: The Crypto Fear and Greed Index has slid to 35, its lowest level since August, down from extreme greed just two months ago.",
+      "final": "🚨 ALERT: The Crypto Fear and Greed Index has slid to 35, its lowest level since August, down from extreme greed just two months ago.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HV1_KnsXoAEvizc.jpg"
+      ],
+      "at": 1793336550334,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793334742182
+  "lastPostAt": 1793336550334
 }
