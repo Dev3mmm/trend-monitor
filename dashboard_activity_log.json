@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1793182331578-phg7re",
-    "source": "x",
-    "ts": "2026-10-28T10:12:11.578Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-28T10:11:45.000Z",
-    "reason": "Coinbase customer data breach incident",
-    "text": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
-    "url": "https://x.com/DecryptMedia/status/2115386025971257450",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793182334261-66bggw",
-    "source": "x",
-    "ts": "2026-10-28T10:12:14.261Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-28T10:02:00.000Z",
-    "reason": "Notable institutional figure outlining a major new use case for AI and crypto.",
-    "text": "Arthur Hayes Eyes $2.3T AI Compute Market With FLOP\n\nBitMEX co-founder Arthur Hayes (@CryptoHayes) outlined a plan to make AI computing power a tradable commodity through Flop Network (@flop_labs).\n\nThe proposal would use task-level data to price compute in",
-    "url": "https://x.com/BSCNews/status/2115383573121298766",
-    "images": [
-      "https://pbs.twimg.com/media/HVs0YvBagAAPvIt.jpg",
-      "https://pbs.twimg.com/media/HVs0X6eagAAuM9N.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793182927911-rj09pf",
-    "source": "x",
-    "ts": "2026-10-28T10:22:07.911Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T10:20:00.000Z",
-    "reason": "No notable move in Cardano, price inside recent range.",
-    "text": "Midnight (@MidnightNtwrk) is not a Cardano (@cardano) $ADA Layer 2. It’s a separate blockchain built to work alongside Cardano.\n\nFrom how midnight-3:native and DUST work to the planned role of Cardano stake pool operators, here’s how the two networks connect and what users should",
-    "url": "https://x.com/BSCNews/status/2115388102432702953"
-  },
-  {
     "id": "x-1793183536697-naw1w2",
     "source": "x",
     "ts": "2026-10-28T10:32:16.697Z",
@@ -8102,5 +8054,61 @@
     "reason": "No official statement from Binance has been confirmed.",
     "text": "BREAKING: BINANCE JUST CONFIRMED IT WILL COVER ALL LOSSES FROM TODAY’S HACK\n\nTHE WORLD’S LARGEST #BITCOIN AND CRYPTO EXCHANGE JUST PUBLICLY AGREED TO MAKE 300,000,000 USERS WHOLE\n\nTHEY WON’T LOSE A SINGLE SAT\n\nTHIS IS THE WAY 🔥🔥🔥",
     "url": "https://x.com/cz_binance/status/2115974979045278139"
+  },
+  {
+    "id": "x-1793323970714-xcdm1n",
+    "source": "x",
+    "ts": "2026-10-30T01:32:50.714Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "PeckShieldAlert",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T01:29:20.000Z",
+    "reason": "Ethereum address involved in a significant theft event.",
+    "text": "#PeckShieldAlert The address labeled as #Binance Hacker 12 has already swapped 7.7T $PEPE (~$24M) for 14,049.9 ethereum:native. The address that received 167.14 $WBTC (~$12.8M) and 9.7M $USDe from  #Binance Hacker 2 has swapped the WBTC for 5,700 ethereum:native. The ETH from",
+    "url": "https://x.com/PeckShieldAlert/status/2115979333085118554",
+    "images": [
+      "https://pbs.twimg.com/media/HV138y_bMAA2D_W.jpg",
+      "https://pbs.twimg.com/media/HV13-X6aUAAZRyU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793323973794-djq876",
+    "source": "x",
+    "ts": "2026-10-30T01:32:53.794Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-30T01:27:10.000Z",
+    "reason": "Coinbase's new policy on compromised wallets highlights industry collaboration.",
+    "text": "⚡️ NOW: Coinbase CEO Brian Armstrong says Coinbase has blocked transfers to compromised wallets and offered help to Binance.\n\n“Moments like this call for the industry to work together.”",
+    "url": "https://x.com/Cointelegraph/status/2115978787947213267",
+    "images": [
+      "https://pbs.twimg.com/media/HV13bT_bEAAd__R.png",
+      "https://pbs.twimg.com/media/HV13bUob0AAkK0n.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793323977439-g3z8dd",
+    "source": "x",
+    "ts": "2026-10-30T01:32:57.439Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-30T01:22:00.000Z",
+    "reason": "Notable institutional adoption and asset secourge announcement.",
+    "text": "Pyth Network now secures more than $3 BILLION in assets.\n\n@PythNetwork's oracle solutions now secure around $3.124 billion in assets, according to DefiLlama data.\n\nThe vast majority of this value ($1.928B) is on the @Solana blockchain, but",
+    "url": "https://x.com/BSCNews/status/2115977485800308825",
+    "images": [
+      "https://pbs.twimg.com/media/HVzoe2WWMAA4nEj.jpg"
+    ],
+    "video": null
   }
 ]
