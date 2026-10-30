@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1791941545547-vhk6za",
     "x-1791943320313-m206bu",
     "x-1791943324034-btzgrf",
     "x-1791945136684-1lfeq1",
@@ -1999,19 +1998,10 @@
     "x-1793327550013-a260ge",
     "x-1793327554155-tc5m3t",
     "x-1793328144856-r1wuyt",
-    "x-1793328751512-910waz"
+    "x-1793328751512-910waz",
+    "x-1793329339278-mz9gv6"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Justin Sun says TRON is monitoring Binance’s security incident and stands ready to assist.",
-      "url": "https://x.com/Cointelegraph/status/2115956179117424892",
-      "images": [
-        "https://pbs.twimg.com/media/HV1i7a-XIAAqCqD.jpg",
-        "https://pbs.twimg.com/media/HV1i7myW8AAYWZG.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793318546941
-    },
     {
       "text": "🚨 NOW: Over $1 billion liquidated in the past 24 hours, with longs taking $958M of the hit, as bitcoin:native plunged below $78,000.",
       "url": "https://x.com/Cointelegraph/status/2115961105143238882",
@@ -2748,7 +2738,17 @@
       "at": 1793327559390,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382715498973175?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Justin Sun says TRON is monitoring Binance’s security incident and stands ready to assist.",
+      "final": "🚨 UPDATE: Justin Sun says TRON is monitoring Binance’s security incident and stands ready to assist.\n\n#Tron $TRX #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HV1i7a-XIAAqCqD.jpg",
+        "https://pbs.twimg.com/media/HV1i7myW8AAYWZG.jpg"
+      ],
+      "at": 1793329339803,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793327559390
+  "lastPostAt": 1793329339803
 }
