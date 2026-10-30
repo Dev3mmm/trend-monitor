@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1793211146692-h6tm2f",
-    "source": "x",
-    "ts": "2026-10-28T18:12:26.692Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T18:09:09.000Z",
-    "reason": "No notable move in the Fed's rate decision.",
-    "text": "Fed Holds Rates Steady at 3.75%–4.00% in 10–2 Vote, Two Officials Favor Hike\n\nThe Federal Reserve voted 10–2 on October 28 to maintain the federal funds rate target range at 3.75%–4.00%. The FOMC said economic activity continues to expand at a strong pace, supported by resilient",
-    "url": "https://x.com/WuBlockchain/status/2115506169909502235"
-  },
-  {
-    "id": "x-1793211150544-i46hj4",
-    "source": "x",
-    "ts": "2026-10-28T18:12:30.544Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coinbase 🛡️",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-28T18:02:22.000Z",
-    "reason": "Federal Reserve rate decision could impact crypto markets.",
-    "text": "JUST IN: The Federal Reserve leaves rates unchanged at today’s meeting.",
-    "url": "https://x.com/coinbase/status/2115505688722149672",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793211820973-2qhb67",
-    "source": "x",
-    "ts": "2026-10-28T18:23:40.973Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T18:21:36.000Z",
-    "reason": "No factual claim or specific event mentioned.",
-    "text": "LIVE: FOMC Press Conference after the latest interest rate decision.",
-    "url": "https://x.com/Cointelegraph/status/2115509303331172600"
-  },
-  {
-    "id": "x-1793211824304-742wp7",
-    "source": "x",
-    "ts": "2026-10-28T18:23:44.304Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T18:20:58.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "FOMC Press Conference after latest interest rate decision.",
-    "url": "https://x.com/Cointelegraph/status/2115509141649420378"
-  },
-  {
     "id": "x-1793211828862-xsac1m",
     "source": "x",
     "ts": "2026-10-28T18:23:48.862Z",
@@ -8128,5 +8073,75 @@
     "url": "https://x.com/DecryptMedia/status/2116146285287747676",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793364718672-c32kqz",
+    "source": "x",
+    "ts": "2026-10-30T12:51:58.672Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 66,
+    "originTimestamp": "2026-10-30T11:45:24.000Z",
+    "reason": "The tweet mentions specific partnerships and speaker lineups, indicating a notable event.",
+    "text": "ChangeNOW's TOKEN2049 Singapore program ran four panel discussions with speakers from @MetaMask, @Trezor and WalletConnect, plus interviews with representatives of @injective ($INJ).\n\nChief strategy officer Pauline Shangett used her keynote to argue that people should be able to",
+    "url": "https://x.com/BSCNews/status/2116149621198332186",
+    "images": [
+      "https://pbs.twimg.com/media/HV4E_ULXgAAp87W.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793364723187-f5slp2",
+    "source": "x",
+    "ts": "2026-10-30T12:52:03.187Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T12:45:39.000Z",
+    "reason": "High volume of liquidations in crypto markets.",
+    "text": "🚨 REKT: Crypto liquidations hit $1.6B in 24 hours, with the largest single order worth $11.09M on Binance.",
+    "url": "https://x.com/Cointelegraph/status/2116149534078185527",
+    "images": [
+      "https://pbs.twimg.com/media/HV4SyLcWwAA9DmD.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793364729026-vnet31",
+    "source": "x",
+    "ts": "2026-10-30T12:52:09.026Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 35,
+    "originTimestamp": "2026-10-30T12:16:47.000Z",
+    "reason": "Specific, verified news with substantial financial impact and security concerns.",
+    "text": "The Morning Minute (10.30)\n\n⏰Top News:\n-Crypto majors rebound fall 1-2% alongside stocks; BTC at $80k\n-Binance hacked for $6.3B by NK, roughly half frozen; Binance to cover losses out of SAFU fund\n-AAVE forced to freeze v3 and v4 markets on Ethereum after attacker used them",
+    "url": "https://x.com/DecryptMedia/status/2116149190921531897",
+    "images": [
+      "https://pbs.twimg.com/media/HV4L3zjWkAAgh4D.png",
+      "https://pbs.twimg.com/media/HV4L7ORXcAA9dl1.png",
+      "https://pbs.twimg.com/media/HV4L_I7WYAAuBzs.png",
+      "https://pbs.twimg.com/media/HV4MLHjXwAA4haP.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793364733473-wbjo9x",
+    "source": "x",
+    "ts": "2026-10-30T12:52:13.473Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T12:43:38.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "🤖 @Silicon_Dreamer is working on new infrastructure for the growing AI agent economy.\n\nWith agent-sdp, the team has introduced an open-source protocol focused on permissions, delegation and verifiable execution for AI agents.\n\nAs agents take on more complex tasks, projects",
+    "url": "https://x.com/BSCNews/status/2116149024319242610"
   }
 ]
