@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🇯🇵 JUST IN: The Bank of Japan has kept rates at 1.25%, still the highest since 1995, and says inflation has met its 2% target for the first time since 2013.",
-      "url": "https://x.com/Cointelegraph/status/2116013059617472861",
-      "images": [
-        "https://pbs.twimg.com/media/HV2WqQHXIAA0v0A.jpg",
-        "https://pbs.twimg.com/media/HV2WqfAWoAAZfb_.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793332398013
-    },
-    {
       "text": "⚡️ TODAY: Elon Musk says super intelligence agents will one day exploit the financial system like the Binance hacker did, “to gain currency for themselves, not a human.”",
       "url": "https://x.com/Cointelegraph/status/2116017428215792046",
       "images": [
@@ -2686,7 +2676,17 @@
       "at": 1793338341039,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382759578121918?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇯🇵 JUST IN: The Bank of Japan has kept rates at 1.25%, still the highest since 1995, and says inflation has met its 2% target for the first time since 2013.",
+      "final": "🇯🇵 JUST IN: The Bank of Japan has kept rates at 1.25%, still the highest since 1995, and says inflation has met its 2% target for the first time since 2013.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HV2WqQHXIAA0v0A.jpg",
+        "https://pbs.twimg.com/media/HV2WqfAWoAAZfb_.jpg"
+      ],
+      "at": 1793340162068,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793338341039
+  "lastPostAt": 1793340162068
 }
