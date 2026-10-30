@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793263366105-bhhm1v",
-    "source": "x",
-    "ts": "2026-10-29T08:42:46.105Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 24,
-    "originTimestamp": "2026-10-29T08:18:33.000Z",
-    "reason": "No notable move in token/coin value or significant news about institutions or regulatory actions.",
-    "text": "另外这套监控逻辑跑的是 @binance 的 Alpha（含现货） + 合约的异常（狗庄）监控，499个标的随时监控，任何出现异常的信息就会给我报备。\n\nAI 最大的用处还是在于提高生产力，我个人觉的装一大堆的应用或者是技能（Skill）并没有太大的用处，只有能真的实际应用在业务上才是王道。",
-    "url": "https://x.com/PhyrexNi/status/2115725002385625506"
-  },
-  {
-    "id": "x-1793263970242-l21xxe",
-    "source": "x",
-    "ts": "2026-10-29T08:52:50.242Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 14,
-    "originTimestamp": "2026-10-29T08:38:43.000Z",
-    "reason": "No notable move or specific event related to crypto mentioned.",
-    "text": "另外这个监控用 ChatGPT 为主最主要的原因就是因为 ChatGPT 本身就有 @binance 的插件，可以直接调用 Binance 的数据，这点就比很多其它的 AI 要强。",
-    "url": "https://x.com/PhyrexNi/status/2115728238798663745"
-  },
-  {
-    "id": "x-1793263974557-l2somp",
-    "source": "x",
-    "ts": "2026-10-29T08:52:54.557Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-29T08:48:53.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "$100K/month to see Trump's posts first.\n\nHere’s why they're paying for it:\n\n1. Jan 17, 2025: “GET YOUR $TRUMP NOW” post → $6B market cap overnight\n\n2. Mar 2, 2025: crypto reserve post → +$329B crypto market in 3 hours\n\n3. Apr 9, 2025: “THIS IS A GREAT TIME TO BUY!!!” &amp; tariff",
-    "url": "https://x.com/coinbureau/status/2115727561078497760"
-  },
-  {
     "id": "x-1793264548233-v23lxn",
     "source": "x",
     "ts": "2026-10-29T09:02:28.233Z",
@@ -8086,6 +8047,64 @@
     "url": "https://x.com/BSCNews/status/2116260193310781944",
     "images": [
       "https://pbs.twimg.com/media/HV5wHASWAAA_uKT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793391809011-9lvhc4",
+    "source": "x",
+    "ts": "2026-10-30T20:23:29.011Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-30T20:19:18.000Z",
+    "reason": "Notable regulatory and media update on a high-profile crypto incident.",
+    "text": "🚨JUST IN: US President Trump says \"we don't know\" if North Korea was behind the $6.3 BILLION Binance security incident.\n\n\"We're looking at that,\" the President said when asked about the attribution.\n\nBlockchain firms Chainalysis and TRM Labs have both linked the attack to North",
+    "url": "https://x.com/coinbureau/status/2116263696242819352",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116262617799122944/vid/avc1/1280x720/YxYbk2W8gIbPvDZb.mp4?tag=29",
+      "duration": 11,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116262617799122944/img/DeswqbPZAof64pDO.jpg"
+    }
+  },
+  {
+    "id": "x-1793391814239-9jumz3",
+    "source": "x",
+    "ts": "2026-10-30T20:23:34.239Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T20:16:55.000Z",
+    "reason": "Potential regulatory or law enforcement response to the Binance hack.",
+    "text": "Trump on the $6.3B Binance Hack: \"We're Looking at That.\"\n\nPresident Trump said Binance says \"they have it pretty much under control,\" adding \"We'll see,\" during a White House pool spray on Friday.",
+    "url": "https://x.com/DecryptMedia/status/2116263097795293679",
+    "images": [
+      "https://pbs.twimg.com/media/HV56CSGXEAAwrhf.jpg",
+      "https://pbs.twimg.com/media/HV56CqOWMAA0Pqh.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793391819697-qx5fdn",
+    "source": "x",
+    "ts": "2026-10-30T20:23:39.697Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-30T20:14:00.000Z",
+    "reason": "Specific institutional announcement about a new token round.",
+    "text": "InterLink sets the rules for its next token round, and ITL holders get an edge\n\n@inter_link explained how its upcoming $ITLG KYC round will work, and everyone can take part, including new accounts. Account activity, badges, and a bigger $ITL balance in the wallet can all improve",
+    "url": "https://x.com/BSCNews/status/2116262363208765751",
+    "images": [
+      "https://pbs.twimg.com/media/HV5qV1AXUAEO4KY.jpg"
     ],
     "video": null
   }
