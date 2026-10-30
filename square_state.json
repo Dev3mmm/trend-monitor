@@ -1,10 +1,5 @@
 {
   "seen": [
-    "x-1791973950822-edv4f0",
-    "x-1791976404937-oao4sv",
-    "x-1791977007460-61wqbi",
-    "x-1791977538237-xp1eyi",
-    "x-1791978753189-7ik2gd",
     "x-1791978755194-887fq7",
     "x-1791979366217-0bed4q",
     "x-1791979371769-l06v8b",
@@ -1999,18 +1994,14 @@
     "x-1793355119291-vd9tc1",
     "x-1793356334983-z79e3a",
     "x-1793356338579-aabum5",
-    "x-1793356916191-rop4cj"
+    "x-1793356916191-rop4cj",
+    "x-1793358141799-e38zu7",
+    "x-1793358143878-gp2k4c",
+    "x-1793358146121-h7adig",
+    "x-1793358148523-5glkeo",
+    "x-1793358151482-cu9baw"
   ],
   "queue": [
-    {
-      "text": "🚨 ALERT: Cursor reports a security incident involving a malicious Claude Code VS Code extension that may have affected up to 5,000 users.\n\n This malicious version of the extension was not developed by Anthropic.",
-      "url": "https://x.com/Cointelegraph/status/2116115568440783154",
-      "images": [
-        "https://pbs.twimg.com/media/HV3z46gX0AAphVw.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793356339302
-    },
     {
       "text": "Binance's Yi He Says Revenue Can Cover Hack Losses Without Selling SpaceX Shares.\n\nReplying to CZ, the co-founder said Binance's \"revenue for the year is sufficient to cover the losses.\" CZ later said he hadn't suggested selling the shares, only showing funds Binance has.",
       "url": "https://x.com/DecryptMedia/status/2116115196599226657",
@@ -2020,19 +2011,28 @@
       ],
       "video": null,
       "enqueuedAt": 1793356339302
+    },
+    {
+      "text": "🚨 TODAY: TRON processed 11.31M transactions and $33.3B in transfers in 24 hours amid reports of network congestion.",
+      "url": "https://x.com/Cointelegraph/status/2116123246563107185",
+      "images": [
+        "https://pbs.twimg.com/media/HV364JiXcAAzRUQ.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793358153689
+    },
+    {
+      "text": "NEW: $5.3 billion Cardone Capital bought 15 BTC worth $1.16 million on this dip! 🚀",
+      "url": "https://x.com/BitcoinMagazine/status/2116123004136456215",
+      "images": [
+        "https://pbs.twimg.com/media/HV36qHQWYAABVWy.jpg",
+        "https://pbs.twimg.com/media/HV36qHGX0AAWmYj.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793358153689
     }
   ],
   "posted": [
-    {
-      "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs have seen inflows of $286.3 million so far this week 🚀",
-      "final": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs have seen inflows of $286.3 million so far this week 🚀\n\n#Bitcoin $BTC #ETF",
-      "images": [
-        "https://pbs.twimg.com/media/HVtllYFXIAA38kO.jpg"
-      ],
-      "at": 1793184801554,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/382130635634083?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "JUST IN: $800B Itaú, Brazil’s largest bank, formalizes crypto trading, offering 15 assets including BTC, ETH, SOL and XRP.",
       "final": "JUST IN: $800B Itaú, Brazil’s largest bank, formalizes crypto trading, offering 15 assets including BTC, ETH, SOL and XRP.\n\n#Bitcoin $BTC #Ethereum $ETH #Solana $SOL",
@@ -2743,7 +2743,16 @@
       "at": 1793356339302,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382833294757325?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Cursor reports a security incident involving a malicious Claude Code VS Code extension that may have affected up to 5,000 users.\n\n This malicious version of the extension was not developed by Anthropic.",
+      "final": "🚨 ALERT: Cursor reports a security incident involving a malicious Claude Code VS Code extension that may have affected up to 5,000 users.\n\n This malicious version of the extension was not developed by Anthropic.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HV3z46gX0AAphVw.png"
+      ],
+      "at": 1793358153689,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793356339302
+  "lastPostAt": 1793358153689
 }
