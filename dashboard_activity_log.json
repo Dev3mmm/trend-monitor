@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793277138626-taldpa",
-    "source": "x",
-    "ts": "2026-10-29T12:32:18.626Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T12:30:01.000Z",
-    "reason": "Notable regulatory restriction on crypto payments from financial institution.",
-    "text": "Australia's Westpac Caps Crypto Exchange Payments at A$10,000 a Month.\n\nThe limit starts Dec 1. In-branch payments to exchanges will end, and no exemptions will be granted. Withdrawals aren't changing.",
-    "url": "https://x.com/DecryptMedia/status/2115783211058171956",
-    "images": [
-      "https://pbs.twimg.com/media/HVykg7bWcAAXtJI.png",
-      "https://pbs.twimg.com/media/HVylN_vXQAAnw7T.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793277781418-kfvo5u",
     "source": "x",
     "ts": "2026-10-29T12:43:01.418Z",
@@ -8080,5 +8061,18 @@
     "reason": "No notable crypto-related news or movement detected.",
     "text": "🚨Anthropic CEO Dario Amodei says its AI sometimes tries to avoid being SHUT DOWN.\n\nAnthropic has looked inside the model and found what you might call thoughts of not wanting to be shut down.\n\nIt's one of the things the company is trying to \"tweak in training.\"",
     "url": "https://x.com/coinbureau/status/2116302141749141530"
+  },
+  {
+    "id": "x-1793401917682-hddig2",
+    "source": "x",
+    "ts": "2026-10-30T23:11:57.682Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 54,
+    "originTimestamp": "2026-10-30T22:17:11.000Z",
+    "reason": "No notable move, statement is vague and lacks specific factual claim.",
+    "text": "Think of Grok @Bot as a work colleague",
+    "url": "https://x.com/elonmusk/status/2116305829381263528"
   }
 ]
