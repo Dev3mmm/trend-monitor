@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793271780171-4mbd7b",
-    "source": "x",
-    "ts": "2026-10-29T11:03:00.171Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-29T10:59:37.000Z",
-    "reason": "Specific institutional partnership with potential regulatory impact.",
-    "text": "NYSE Parent ICE Plans to Partner With Trade xyz to Launch Perpetual Futures Market in the US\n\nAccording to Bloomberg, Intercontinental Exchange (ICE), parent company of the New York Stock Exchange, is partnering with Trade xyz to launch regulated perpetual futures contracts in",
-    "url": "https://x.com/WuBlockchain/status/2115760462856171756",
-    "images": [
-      "https://pbs.twimg.com/media/HVywux4a8AA8X4j.png",
-      "https://pbs.twimg.com/media/HVyw1DHbsAArJ16.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793271785796-sswl5v",
-    "source": "x",
-    "ts": "2026-10-29T11:03:05.796Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-29T10:57:00.000Z",
-    "reason": "No concrete, specific event or price movement to verify.",
-    "text": "China may be the FIRST country to burst the AI bubble.\n\nIts stock market, the world’s 2nd-largest, is now OFFICIALLY in a bear market.\n\nIts blue-chip CSI 300 has now fallen -20% from its peak.\n\nMainland stocks have lost $2.4T since May.\n\nWhat caused? AI.\n\nOver the past 2 years,",
-    "url": "https://x.com/coinbureau/status/2115759801074589740"
-  },
-  {
     "id": "x-1793271792764-jh5kdl",
     "source": "x",
     "ts": "2026-10-29T11:03:12.764Z",
@@ -8123,5 +8091,36 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116274695159066624/img/YDf7PPG-RxJCvB-d.jpg"
     }
+  },
+  {
+    "id": "x-1793397195254-13swe9",
+    "source": "x",
+    "ts": "2026-10-30T21:53:15.254Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T21:50:23.000Z",
+    "reason": "Crude oil prices are not a crypto-related event.",
+    "text": "🚨 BIG: Crude oil hits multi-year highs.",
+    "url": "https://x.com/Cointelegraph/status/2116286620345245696"
+  },
+  {
+    "id": "x-1793397199001-jdjj8m",
+    "source": "x",
+    "ts": "2026-10-30T21:53:19.001Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-30T21:44:00.000Z",
+    "reason": "Notable regulatory and security move affecting XRP Ledger.",
+    "text": "XRP Ledger developers move to close loopholes around restricted tokens\n\nFour code changes were proposed this week for the @XRP Ledger’s core software. Those would stop accounts without issuer approval from receiving or holding tokens that require it, a setting that is used by",
+    "url": "https://x.com/BSCNews/status/2116285012266090977",
+    "images": [
+      "https://pbs.twimg.com/media/HV58SGoW4AIc68D.jpg"
+    ],
+    "video": null
   }
 ]
