@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1793213578227-59kwyz",
-    "source": "x",
-    "ts": "2026-10-28T18:52:58.227Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "CZ 🔶 BNB",
-    "ageMin": 70,
-    "originTimestamp": "2026-10-28T17:42:32.000Z",
-    "reason": "Exploit alert: Address poisoning detected on four blockchain chains.",
-    "text": "Address poisoning, measured on four chains.\n\nThe trick: a scammer sends you a fake 0 USDT transfer, so a look alike address appears in your history, with the same first and last characters as one you use. One careless copy later, the money is gone.\n\nWe sampled 24 hours of USDT",
-    "url": "https://x.com/cz_binance/status/2115515033077842255",
-    "images": [
-      "https://pbs.twimg.com/media/HVvDi8XXEAAdhy3.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793214158058-1vkz03",
-    "source": "x",
-    "ts": "2026-10-28T19:02:38.058Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T18:59:34.000Z",
-    "reason": "No notable move in Fed Chair's comments, within recent inflation range.",
-    "text": "🚨Fed Chair Warsh says the Fed remains DATA-DEPENDENT amid global uncertainty, with inflation still above its 2% target.\n\n\"The period right in front of us is information rich. There is A LOT that's happening in the world. My colleagues and I are keen to take notice of it.\"\n\n\"[We]",
-    "url": "https://x.com/coinbureau/status/2115518857221980423",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2115518626556194816/vid/avc1/1280x720/0ImcctUpGeMn7LJ_.mp4?tag=29",
-      "duration": 214,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115518626556194816/img/LZ6P6xZOZoPQuigD.jpg"
-    }
-  },
-  {
-    "id": "x-1793215376815-3go1v6",
-    "source": "x",
-    "ts": "2026-10-28T19:22:56.815Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-28T19:17:15.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-    "url": "https://x.com/DecryptMedia/status/2115523305419542749"
-  },
-  {
     "id": "x-1793215382455-xd2qmy",
     "source": "x",
     "ts": "2026-10-28T19:23:02.455Z",
@@ -8140,5 +8088,44 @@
       "https://pbs.twimg.com/media/HV4csi9X0AAgmqk.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793367726418-sq0nkw",
+    "source": "x",
+    "ts": "2026-10-30T13:42:06.418Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T13:41:09.000Z",
+    "reason": "The tweet is an event that hasn't occurred yet.",
+    "text": "LIVE: Binance Hack, MSTR Earnings, Tech Meltdown | BMTV Oct. 30, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2116163498413527501"
+  },
+  {
+    "id": "x-1793367728418-k7fzoj",
+    "source": "x",
+    "ts": "2026-10-30T13:42:08.418Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 28,
+    "originTimestamp": "2026-10-30T13:14:02.000Z",
+    "reason": "No notable move in cryptocurrency news.",
+    "text": "BREAKING: Starlink helped rescue a Swedish sailor stranded off South Africa’s coast. 🇿🇦\n\nThe solo sailor’s 12-metre yacht developed mechanical problems 8 nautical miles off St Lucia, with strong winds forecast.\n\nHe used Starlink to contact the Ocean Sailing Association of South",
+    "url": "https://x.com/elonmusk/status/2116162798011208032"
+  },
+  {
+    "id": "x-1793367730329-catjp6",
+    "source": "x",
+    "ts": "2026-10-30T13:42:10.329Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 43,
+    "originTimestamp": "2026-10-30T12:59:02.000Z",
+    "reason": "No notable move in cryptocurrency prices or events described.",
+    "text": "Exactly this.\n\nYou may not love Republicans but they aren’t here to destroy the country as we know it.\n\nVote accordingly…",
+    "url": "https://x.com/elonmusk/status/2116162627546357892"
   }
 ]
