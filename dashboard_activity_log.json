@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793210545447-l6ji4w",
-    "source": "x",
-    "ts": "2026-10-28T18:02:25.447Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T18:00:01.000Z",
-    "reason": "No notable move or news, just an announcement about a new feature.",
-    "text": "One less thing to do manually. \n\nScheduled Reports is now live in the Data Download Centre. Set your preferred schedule, file type, recipients, and password protection.\n\nHave ideas for what we should build next? \n\nLet us know 👉",
-    "url": "https://x.com/binance/status/2115503870642426315"
-  },
-  {
-    "id": "x-1793210546910-1y6c76",
-    "source": "x",
-    "ts": "2026-10-28T18:02:26.910Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 60,
-    "originTimestamp": "2026-10-28T17:01:48.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Impressive",
-    "url": "https://x.com/elonmusk/status/2115503730368061688"
-  },
-  {
     "id": "x-1793210549086-mhkk6c",
     "source": "x",
     "ts": "2026-10-28T18:02:29.086Z",
@@ -8122,6 +8096,40 @@
       "https://pbs.twimg.com/media/HV4L7XPWUAEeedF.png",
       "https://pbs.twimg.com/media/HV4L7mJWYAA5OU_.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793363550814-c3r9yp",
+    "source": "x",
+    "ts": "2026-10-30T12:32:30.814Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T12:30:44.000Z",
+    "reason": "Notable institutional activity with high trading fees from major stablecoins.",
+    "text": "📊 INSIGHT: Tether generates $16.4M in 24H fee revenue, followed by Tron at $8.1M and Circle at $6.6M, per Token Terminal.",
+    "url": "https://x.com/Cointelegraph/status/2116145778787836114",
+    "images": [
+      "https://pbs.twimg.com/media/HV4PXXoXgAAw29u.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793363555279-9dzvw4",
+    "source": "x",
+    "ts": "2026-10-30T12:32:35.279Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-30T12:23:15.000Z",
+    "reason": "Specific institutional action tied to a high-profile hack.",
+    "text": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
+    "url": "https://x.com/DecryptMedia/status/2116143894781894990",
+    "images": [],
     "video": null
   }
 ]
