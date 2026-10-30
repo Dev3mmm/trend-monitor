@@ -2360,5 +2360,19 @@
     "fetchedAt": "2026-10-30T13:03:15.630Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-85c5f8574b75908c",
+    "title": "From the great builders of TrustLevel: ZK voting on Cardano is available. Open source, live on Mainnet and on the Preprod testnet",
+    "url": "https://forum.cardano.org/t/from-the-great-builders-of-trustlevel-zk-voting-on-cardano-is-available-open-source-live-on-mainnet-and-on-the-preprod-testnet/157639",
+    "description": "What it is: a vote where every ballot is verified and counted on-chain, and nobody, not even the organiser, can tell which member cast which vote. Voters need only their invitation link. No wallet, no ADA, no account. How: each voter’s browser holds a secret identity and produces a zero-knowledge proof that the identity is on the list, without revealing which one. The validator verifies the proof ",
+    "publishedAt": "2026-10-30T14:02:48.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-10-30T14:04:45.095Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
