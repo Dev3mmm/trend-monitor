@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793199751014-70q0lw",
-    "source": "x",
-    "ts": "2026-10-28T15:02:31.014Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-28T14:53:19.000Z",
-    "reason": "No notable move or specific, verifiable event.",
-    "text": "BREAKING: 🇺🇸 Strategy just announced that its shareholders have officially approved daily dividends for all 4 of their U.S. preferred stocks! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2115456885608624523"
-  },
-  {
-    "id": "x-1793199754809-zis1z7",
-    "source": "x",
-    "ts": "2026-10-28T15:02:34.809Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Michael Saylor",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-28T14:46:20.000Z",
-    "reason": "New use of a token with potential for digital credit upgrades.",
-    "text": "This is a powerful upgrade to $STRC and digital credit. Thank you.",
-    "url": "https://x.com/saylor/status/2115456696080282071",
-    "images": [
-      "https://pbs.twimg.com/media/HVua9sBWgAArKdv.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793200417564-wnsj12",
     "source": "x",
     "ts": "2026-10-28T15:13:37.564Z",
@@ -8063,5 +8032,31 @@
     "reason": "No notable move or specific event is mentioned.",
     "text": "最近两年都是多事之秋，尤其是被盗的案件已经不止一起了，对于 Binance 来说应该也曾经考虑过应急预案，也给行业里的其它小伙伴都提醒了，黑客的技术和手段真的是层出不穷，为了资金安全考虑一定要小心。\n\n我记得 Coinbase 的财报中提过，有买过商业犯罪保险，涵盖部分盗窃和黑客攻击损失，不知道",
     "url": "https://x.com/PhyrexNi/status/2116062309336625646"
+  },
+  {
+    "id": "x-1793344966168-hcll6g",
+    "source": "x",
+    "ts": "2026-10-30T07:22:46.168Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 23,
+    "originTimestamp": "2026-10-30T06:59:03.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "这次 Binance 被盗，有很多小伙伴有疑问，被盗是因为 EIP-7702 授权，但同时被转走的还有 Bitcoin 以及其他链上的资产是怎么做到的。毕竟 EIP-7702 并不能直接控制 bitcoin:native 的钱包。\n\n目前 Binance",
+    "url": "https://x.com/PhyrexNi/status/2116068028916113698"
+  },
+  {
+    "id": "x-1793344971319-4k6q30",
+    "source": "x",
+    "ts": "2026-10-30T07:22:51.319Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-30T07:14:00.000Z",
+    "reason": "No notable move in Ethereum's price within its recent range.",
+    "text": "Starknet's privacy ecosystem is growing fast...\n\nThough @Starknet is a publicly visible @Ethereum L2 chain by default, the number of private use cases within the $STRK ecosystem is growing fast.\n\nPowered by STRK20 shadow accounts, Starknet highlighted some of the apps providing",
+    "url": "https://x.com/BSCNews/status/2116066069534363683"
   }
 ]
