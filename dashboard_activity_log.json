@@ -1,61 +1,5 @@
 [
   {
-    "id": "x-1793229769190-a6prfz",
-    "source": "x",
-    "ts": "2026-10-28T23:22:49.190Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T23:20:17.000Z",
-    "reason": "Notable criminal conviction in crypto-related scheme",
-    "text": "🇺🇸 NEW: The DOJ has sentenced a Missouri man to four years in federal prison for his role in a cryptocurrency robbery scheme.",
-    "url": "https://x.com/Cointelegraph/status/2115584467540525468",
-    "images": [
-      "https://pbs.twimg.com/media/HVwQ29hWAAA00NL.jpg",
-      "https://pbs.twimg.com/media/HVwQ3KCW0AAN59D.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793231533270-k9tfht",
-    "source": "x",
-    "ts": "2026-10-28T23:52:13.270Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T23:45:00.000Z",
-    "reason": "Notable institutional revenue generation from a DeFi product.",
-    "text": "Plume Vaults made over $1 million in the past month.\n\n@plumenetwork's Vaults products have just seen what must surely be their most profitable month in history.\n\nIn the past 30 days, per DefiLlama data, they have generated some $1.04M in fees.\n\nThe revenue growthis driven by use",
-    "url": "https://x.com/BSCNews/status/2115590687332667477",
-    "images": [
-      "https://pbs.twimg.com/media/HVtHhboW8AAnW2N.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793232195915-irm71x",
-    "source": "x",
-    "ts": "2026-10-29T00:03:15.916Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T00:00:35.000Z",
-    "reason": "Coinbase CEO suggests stablecoins can reduce checkout friction.",
-    "text": "⚡️ NOW: Coinbase CEO Brian Armstrong says, “With stablecoins and x402, businesses can accept usage-based micropayments, and reduce friction to checkout.”",
-    "url": "https://x.com/Cointelegraph/status/2115594611578093859",
-    "images": [
-      "https://pbs.twimg.com/media/HVwaFOyW0AAZwsM.png",
-      "https://pbs.twimg.com/media/HVwaFdhXMAAaFvo.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793232199752-vhn8gy",
     "source": "x",
     "ts": "2026-10-29T00:03:19.752Z",
@@ -8111,5 +8055,53 @@
       "https://pbs.twimg.com/media/HV48BjwXwAAyA47.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793376155686-grcnxb",
+    "source": "x",
+    "ts": "2026-10-30T16:02:35.686Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T16:00:42.000Z",
+    "reason": "Involves law enforcement action and significant funds involved.",
+    "text": "🚨 UPDATE: Binance is working with the FBI and other law enforcement agencies to recover stolen funds, while $3B has already been frozen.",
+    "url": "https://x.com/Cointelegraph/status/2116198619040690497",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793376161394-pav9gx",
+    "source": "x",
+    "ts": "2026-10-30T16:02:41.394Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T16:00:02.000Z",
+    "reason": "Coinbase and Strategy's stock drops following Binance's massive hack",
+    "text": "Coinbase and Strategy Drop Over 10% After Binance's $6.3B Hack.\n\nCoinbase fell about 12% to near $142 early Friday, while Strategy dropped about 10% to near $127. Crypto stocks have slid since Binance disclosed a record $6.3 billion security breach.",
+    "url": "https://x.com/DecryptMedia/status/2116198452745080957",
+    "images": [
+      "https://pbs.twimg.com/media/HV4vJLLXkAEYlHw.png",
+      "https://pbs.twimg.com/media/HV4vPtdXIAAy9nD.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793376165456-5exeia",
+    "source": "x",
+    "ts": "2026-10-30T16:02:45.456Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 56,
+    "originTimestamp": "2026-10-30T15:06:09.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Michael Saylor on what Strategy becomes after its biggest quarter ever:\n\n\"We are emerging as the central bank of the crypto economy.\" 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2116197084097658890"
   }
 ]
