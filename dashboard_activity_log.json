@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793257425066-bvlgeg",
-    "source": "x",
-    "ts": "2026-10-29T07:03:45.066Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-29T06:52:48.000Z",
-    "reason": "Notable regulatory/institutional move in the crypto space.",
-    "text": "🇬🇧 BIG: London Metal Exchange is reportedly planning to tokenize metal stored in its Hong Kong warehouses for use in financing, as part of the city’s push to become a commodities hub, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2115698345914109988",
-    "images": [
-      "https://pbs.twimg.com/media/HVx4bgbWUAAYxvt.png",
-      "https://pbs.twimg.com/media/HVx4bumXYAAii2e.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793258106130-96x6xc",
-    "source": "x",
-    "ts": "2026-10-29T07:15:06.130Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 33,
-    "originTimestamp": "2026-10-29T06:41:34.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "这也是很正常的，毕竟 USDC 更多的在加密货币的交易领域，一旦成交量萎缩，必然会有资金退场，另一方面是在做传统支付为主，“实用性”更强。合规并不代表就更有市场。",
-    "url": "https://x.com/PhyrexNi/status/2115703355742068770"
-  },
-  {
     "id": "x-1793259116514-uy5jua",
     "source": "x",
     "ts": "2026-10-29T07:31:56.514Z",
@@ -8077,6 +8045,35 @@
     "images": [
       "https://pbs.twimg.com/media/HV5iD8KXgAAq8ZO.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793388875111-1ysmoz",
+    "source": "x",
+    "ts": "2026-10-30T19:34:35.111Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T19:32:15.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
+    "url": "https://x.com/DecryptMedia/status/2116251856997331402"
+  },
+  {
+    "id": "x-1793388880714-amk2xt",
+    "source": "x",
+    "ts": "2026-10-30T19:34:40.714Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-30T19:30:24.000Z",
+    "reason": "Exploit and security breach affecting a significant hack incident.",
+    "text": "🚨 UPDATE: Binance identified additional breach points in the $6.3 billion hack, with attackers using an EIP-7702 delegation to bypass normal hot-wallet approval controls. \n\nCo-CEO Richard Teng clarified that the attack went beyond one engineer’s permissions and that",
+    "url": "https://x.com/Cointelegraph/status/2116251389928067218",
+    "images": [],
     "video": null
   }
 ]
