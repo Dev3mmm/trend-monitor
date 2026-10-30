@@ -1,84 +1,5 @@
 [
   {
-    "id": "x-1793185352429-izgm77",
-    "source": "x",
-    "ts": "2026-10-28T11:02:32.429Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-28T11:01:26.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Spot traders, this one’s for you 📣\n\nSeason 9 of the Spot Trading Tournament is here, with up to 400 BNB in token vouchers to share.\n\nJoin the action →",
-    "url": "https://x.com/binance/status/2115398529409503709"
-  },
-  {
-    "id": "x-1793185355933-x16gla",
-    "source": "x",
-    "ts": "2026-10-28T11:02:35.933Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T11:00:38.000Z",
-    "reason": "New stablecoin issuance significantly impacting market cap growth.",
-    "text": "📊  UPDATE: Open Standard led stablecoin issuers in market cap growth over the past 30 days, with $OUSD adding $794M, per Token Terminal.",
-    "url": "https://x.com/Cointelegraph/status/2115398327667753252",
-    "images": [
-      "https://pbs.twimg.com/media/HVtnkP6WQAAoXQM.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793185358943-xeyg3h",
-    "source": "x",
-    "ts": "2026-10-28T11:02:38.943Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T10:59:40.000Z",
-    "reason": "No notable move in the Fed decision reported, price is expected.",
-    "text": "Fed decision day. The rate decision lands at 2 PM ET (18:00 UTC), with Chair Kevin Warsh's press conference at 2:30 PM ET.",
-    "url": "https://x.com/DecryptMedia/status/2115398086646239566"
-  },
-  {
-    "id": "x-1793185362196-smvrfh",
-    "source": "x",
-    "ts": "2026-10-28T11:02:42.196Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-28T10:58:45.000Z",
-    "reason": "Bithumb's internal system hack could expose sensitive user data.",
-    "text": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
-    "url": "https://x.com/DecryptMedia/status/2115397854088908932",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793185365931-052gn0",
-    "source": "x",
-    "ts": "2026-10-28T11:02:45.931Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-28T10:53:12.000Z",
-    "reason": "Exploit involving a stablecoin linked to a high-profile individual.",
-    "text": "PEPE sees sharp surge on Justin Sun News... \n\n$PEPE rallied 15% in the last 24 hours after reports that wallets linked to Justin Sun are amassing a $51.25 million position through withdrawals from Poloniex.\n\nThe position is reportedly the largest single position held by anyone",
-    "url": "https://x.com/BSCNews/status/2115396458169896996",
-    "images": [
-      "https://pbs.twimg.com/media/HVtlCa7WsAAGvqv.png",
-      "https://pbs.twimg.com/media/HVtlwHuWwAAg1lC.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793185923853-8hfwrn",
     "source": "x",
     "ts": "2026-10-28T11:12:03.853Z",
@@ -8106,5 +8027,89 @@
       "https://pbs.twimg.com/media/HV2CRNeXkAA50Aj.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793327538826-yc9nr4",
+    "source": "x",
+    "ts": "2026-10-30T02:32:18.826Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T02:30:00.000Z",
+    "reason": "Coinbase CEO plans to sell shares, setting up potential future price targets.",
+    "text": "🚨 LATEST: Coinbase CEO Brian Armstrong plans to sell up to $1.31B in $COIN shares through October 2027.\n\nHe says the sales only kick in at high price targets, and most of his net worth stays in $COIN.",
+    "url": "https://x.com/Cointelegraph/status/2115994601224036619",
+    "images": [
+      "https://pbs.twimg.com/media/HV13P8EbsAAZLKc.png",
+      "https://pbs.twimg.com/media/HV13P81bYAA10i8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793327544875-vk9bff",
+    "source": "x",
+    "ts": "2026-10-30T02:32:24.875Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 38,
+    "originTimestamp": "2026-10-30T01:54:08.000Z",
+    "reason": "Financial disclosure of Binance hack exposure.",
+    "text": "Binance hack, customer exposure:\n\nCustomer reserves: $165.4B\n\nStolen: $5.9B (3.6%)\n\nMinus frozen: -$3.0B\nMinus SAFU fund: -$1.17B\n\nNet uncovered: ~$1.7B (1.0%)\n\n... so even if Binance socialised losses (they say they won't), that seems to be the max exposure rn",
+    "url": "https://x.com/cz_binance/status/2115994499663233313",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793327550013-a260ge",
+    "source": "x",
+    "ts": "2026-10-30T02:32:30.013Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T02:26:00.000Z",
+    "reason": "Notable institutional integration with hardware wallets for BTC borrowing.",
+    "text": "You can now borrow against your $BTC directly in your Ledger wallet.\n\nThrough an integration with @morpho and @yield_xyz, users of @Ledger's hardware wallets can now take out Bitcoin-backed loans from inside their wallets.\n\nFor now, users can borrow stablecoin against their",
+    "url": "https://x.com/BSCNews/status/2115993591805784085",
+    "images": [
+      "https://pbs.twimg.com/media/HVzoplKWkAAO0s6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793327554155-tc5m3t",
+    "source": "x",
+    "ts": "2026-10-30T02:32:34.155Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "Binance",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-30T02:25:05.000Z",
+    "reason": "Potential exploit involving wallet access",
+    "text": "Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions. We have found no evidence of any wallet private",
+    "url": "https://x.com/binance/status/2115993361517891592",
+    "images": [
+      "https://pbs.twimg.com/media/HV2EXppbwAEyxeq.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793327558882-6mpz38",
+    "source": "x",
+    "ts": "2026-10-30T02:32:38.882Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 68,
+    "originTimestamp": "2026-10-30T01:23:25.000Z",
+    "reason": "No notable crypto-related news or move.",
+    "text": "User funds are SAFU!\n\nYet, this pregnant lady 👇 pulled an all nighter, along side hundreds of Binancians. \n\nMany industry friends and even competitors (including some previously-not-so-friendly ones) provided very much needed help. 🙏\n\nIt hurts, but we will survive. 💪",
+    "url": "https://x.com/cz_binance/status/2115993068507897936"
   }
 ]
