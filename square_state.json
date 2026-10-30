@@ -2721,7 +2721,8 @@
         "https://pbs.twimg.com/media/HV13-X6aUAAZRyU.jpg"
       ],
       "at": 1793334742182,
-      "status": "posting"
+      "status": "failed",
+      "error": "7d24c48a08018bf43d0460f6c.jpg\nUploading: sq_1793334742182_1.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261030/3adb444791e144b2a73544c4b6cfa82e.jpg\nPublishing...\n\n\nFailed: API error [220094]: Hashtag count exceeds the allowed limit"
     }
   ],
   "lastPostAt": 1793334742182
