@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1793202816419-q2p6yd",
-    "source": "x",
-    "ts": "2026-10-28T15:53:36.419Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-28T15:44:09.000Z",
-    "reason": "US Treasury sanctions involving crypto transactions related to North Korea",
-    "text": "US Treasury sanctions 10 people and 1 entity tied to North Korea's IT worker schemes.\n\nOne Russian national converted about $3.5M in crypto for a sanctioned DPRK IT firm since 2024, OFAC says.",
-    "url": "https://x.com/DecryptMedia/status/2115469677740630043",
-    "images": [
-      "https://pbs.twimg.com/media/HVuoR_eWwAAAbFi.png",
-      "https://pbs.twimg.com/media/HVuoTqqXIAAtJZV.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793203355004-au4xk8",
-    "source": "x",
-    "ts": "2026-10-28T16:02:35.004Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-28T16:01:55.000Z",
-    "reason": "Notable institutional adoption and potential regulatory impact.",
-    "text": "JUST IN: Google unveils a new crypto custody framework to protect digital assets for banks 👀\n\n\"Several major financial institutions are already testing it, and Google plans to open it up early next year as stolen private keys has cost the crypto industry billions.\" 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2115474150487998732",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2115474123040100352/vid/avc1/1276x718/TIqwcrMY__EwNFgn.mp4?tag=29",
-      "duration": 26,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HVuslIcXUAAb8lV.jpg"
-    }
-  },
-  {
-    "id": "x-1793203357214-h9ri9u",
-    "source": "x",
-    "ts": "2026-10-28T16:02:37.214Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T15:59:52.000Z",
-    "reason": "No concrete price information or specific event mentioned.",
-    "text": "🚨HOT TAKE: The Fed is the \"BIGGEST RISK\" to the U.S. bull market, with further rate hikes threatening a 2018-style market SELLOFF.\n\nKey Advisors CEO Eddie Ghabour warns that further tightening could trigger a major economic slowdown in 2027.",
-    "url": "https://x.com/coinbureau/status/2115473635104399786"
-  },
-  {
     "id": "x-1793203359847-gfseoq",
     "source": "x",
     "ts": "2026-10-28T16:02:39.847Z",
@@ -8077,5 +8024,52 @@
     "reason": "No notable move or specific actionable information provided.",
     "text": "Investigation update: Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach.\n\n This was a complex attack, and we are doing all we can in coordination",
     "url": "https://x.com/binance/status/2116089661408108712"
+  },
+  {
+    "id": "x-1793350941032-m1sfjm",
+    "source": "x",
+    "ts": "2026-10-30T09:02:21.032Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T09:01:02.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🇺🇸 TODAY: The SEC has joined other regulators in its scrutiny of prediction markets, as its enforcement chief says bets tied to company earnings or KPIs may fall under its watch.",
+    "url": "https://x.com/Cointelegraph/status/2116093004431716667",
+    "images": [
+      "https://pbs.twimg.com/media/HV3fX3mXUAAuS1k.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793350945513-ztbtzs",
+    "source": "x",
+    "ts": "2026-10-30T09:02:25.513Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T09:01:00.000Z",
+    "reason": "EU crypto regulation impacting various areas of crypto.",
+    "text": "The EU's MiCA crypto regulation isn't necessarily good news for everyone...\n\nHere's how the EU's dedicated crypto rules are putting areas of crypto under pressure ⬇️",
+    "url": "https://x.com/BSCNews/status/2116092997368508743",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793350948561-4a8ijr",
+    "source": "x",
+    "ts": "2026-10-30T09:02:28.561Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 72,
+    "originTimestamp": "2026-10-30T07:49:54.000Z",
+    "reason": "Noise: generic statement without factual claim.",
+    "text": "🙏",
+    "url": "https://x.com/cz_binance/status/2116091000292790523"
   }
 ]
