@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793199131627-oeu1rk",
-    "source": "x",
-    "ts": "2026-10-28T14:52:11.627Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-28T14:48:12.000Z",
-    "reason": "No factual claim or specific event is mentioned.",
-    "text": "Commander is the only truthful man of God. Authentic. Kitambaya.",
-    "url": "https://x.com/amerix/status/2115455596568687076"
-  },
-  {
     "id": "x-1793199742012-s16io5",
     "source": "x",
     "ts": "2026-10-28T15:02:22.012Z",
@@ -8059,6 +8046,24 @@
     "images": [
       "https://pbs.twimg.com/media/HV289idWEAAUrv8.jpg",
       "https://pbs.twimg.com/media/HV2891rXYAEV2Mw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793343171753-ntoehh",
+    "source": "x",
+    "ts": "2026-10-30T06:52:51.753Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-30T06:42:00.000Z",
+    "reason": "Notable transaction count and scalability claim by Polygon.",
+    "text": "Polygon's transaction count is insane.\n\nIn the past 30 days alone, @0xPolygon has processed more than 145 million transactions, per data from @chainspect_app.\n\nIts cumulative transaction count now stands at an impressive 8.3 billion, and it is now a top-10 most scalable",
+    "url": "https://x.com/BSCNews/status/2116058016420339873",
+    "images": [
+      "https://pbs.twimg.com/media/HVzpQeeWwAAZ-ZM.jpg"
     ],
     "video": null
   }
