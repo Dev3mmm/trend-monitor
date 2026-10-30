@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793175146879-5finuk",
-    "source": "x",
-    "ts": "2026-10-28T08:12:26.879Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T08:06:21.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "⚡️ LONGITUDE: Did token farming give crypto investors unrealistic yield expectations?\n\n@Bitwise’s @Yannimoto says some allocators still want 20% stablecoin yields with no risk and instant liquidity.",
-    "url": "https://x.com/Cointelegraph/status/2115354467897881070"
-  },
-  {
-    "id": "x-1793175774163-xyazmc",
-    "source": "x",
-    "ts": "2026-10-28T08:22:54.163Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-28T08:18:13.000Z",
-    "reason": "A notable record-breaking event with a large amount of a token bridged to a new network.",
-    "text": "Zcash Hits Record Bridged Supply on Solana\n\nA record 103,000 Zcash's (@Zcash) $ZEC now sits on Solana (@solana) $SOL, making it the largest bridged pool of Zcash on the network.\n\nMost of the tokens arrive through NEAR’s (@NEARProtocol) $NEAR OmniBridge. The record is based on",
-    "url": "https://x.com/BSCNews/status/2115357456255913984",
-    "images": [
-      "https://pbs.twimg.com/media/HVsazcbbEAABWkC.png",
-      "https://pbs.twimg.com/media/HVsa1XzaUAAXgWm.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793177575322-mu0ved",
     "source": "x",
     "ts": "2026-10-28T08:52:55.322Z",
@@ -8088,5 +8056,39 @@
     "reason": "No notable move in price or significant action described.",
     "text": "We are working non-stop to resolve this issue. Binance will cover all losses.\n\nAs a precaution, all deposits and withdrawals are temporarily suspended while our team conducts security checks, freezes funds, and works with law enforcement.\n\nWe are working around the clock and will",
     "url": "https://x.com/binance/status/2115960292115124558"
+  },
+  {
+    "id": "x-1793320343613-k2nn2n",
+    "source": "x",
+    "ts": "2026-10-30T00:32:23.613Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T00:30:53.000Z",
+    "reason": "Security council action to recover stolen funds.",
+    "text": "Arbitrum Security Council Takes Emergency Action to Transfer Binance-Related Stolen Funds to an Intermediary Frozen Wallet\n\nThe Arbitrum Security Council announced that it has taken emergency action to rescue 74,559,805 ARB and 8,425 ETH held in an address on Arbitrum One",
+    "url": "https://x.com/WuBlockchain/status/2115964622889210000",
+    "images": [
+      "https://pbs.twimg.com/media/HV1qmf_bYAE-pZk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793320349352-hgv8kx",
+    "source": "x",
+    "ts": "2026-10-30T00:32:29.352Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-30T00:28:12.000Z",
+    "reason": "Potential security breach and impact on Binance users.",
+    "text": "🚨 JUST IN: Binance’s $2.5B hack may stem from a compromised signature system, not stolen private keys, says Blockaid CEO Ido Ben-Natan.  \n\nThe attacker reportedly bundled 50 EIP-7702 authorizations into one transaction to hijack a Binance wallet.  \n\nBinance has yet to confirm",
+    "url": "https://x.com/Cointelegraph/status/2115963948495519745",
+    "images": [],
+    "video": null
   }
 ]
