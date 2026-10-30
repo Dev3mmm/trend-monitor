@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1793189031637-yll4mh",
-    "source": "x",
-    "ts": "2026-10-28T12:03:51.637Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-28T11:56:49.000Z",
-    "reason": "New regulatory limit on trading for young users",
-    "text": "Kalshi is setting a default $2,500 monthly deposit limit for traders aged 18 to 20. Those with over $1,000 will get an alert if they put more than 25% of their balance into one trade.",
-    "url": "https://x.com/DecryptMedia/status/2115412468042248546",
-    "images": [
-      "https://pbs.twimg.com/media/HVt0F2zXkAA7r-Z.png",
-      "https://pbs.twimg.com/media/HVt0PCaXUAET6gR.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793189626130-gbesve",
-    "source": "x",
-    "ts": "2026-10-28T12:13:46.130Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-28T12:09:09.000Z",
-    "reason": "Notable regulatory action on a new crypto product.",
-    "text": "Euronext Suspends CoinShares’ Zcash ETP on Its Very First Day\n\n@Euronext has temporarily suspended trading of the recently launched @Zcash exchange-traded product, $ZCSH, on its first day of trading at Euronext Paris.\n\nThe stock market imposed an “until further notice” suspension",
-    "url": "https://x.com/BSCNews/status/2115415570657001873",
-    "images": [
-      "https://pbs.twimg.com/media/HVt3CshXoAEeyOt.png",
-      "https://pbs.twimg.com/media/HVt3LUOW4AA00jS.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793189630532-34s6lv",
-    "source": "x",
-    "ts": "2026-10-28T12:13:50.532Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-28T12:06:15.000Z",
-    "reason": "Cryptocurrencies outperforming despite Robinhood's miss.",
-    "text": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
-    "url": "https://x.com/DecryptMedia/status/2115414840856441092",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793190176093-vnvm4j",
     "source": "x",
     "ts": "2026-10-28T12:22:56.093Z",
@@ -8111,5 +8057,50 @@
       "https://pbs.twimg.com/media/HV2WqfAWoAAZfb_.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793332943074-5rjk0a",
+    "source": "x",
+    "ts": "2026-10-30T04:02:23.074Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T04:01:07.000Z",
+    "reason": "No real content or factual claim.",
+    "text": "BABY, YOU FLEW",
+    "url": "https://x.com/elonmusk/status/2116017528036327934"
+  },
+  {
+    "id": "x-1793332946791-fyzf97",
+    "source": "x",
+    "ts": "2026-10-30T04:02:26.791Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T04:00:43.000Z",
+    "reason": "Elon Musk's speculation on potential financial system exploitation doesn't constitute concrete news.",
+    "text": "⚡️ TODAY: Elon Musk says super intelligence agents will one day exploit the financial system like the Binance hacker did, “to gain currency for themselves, not a human.”",
+    "url": "https://x.com/Cointelegraph/status/2116017428215792046",
+    "images": [
+      "https://pbs.twimg.com/media/HV2an3oWwAArSQf.jpg",
+      "https://pbs.twimg.com/media/HV2aol8XEAAyTm4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793332949962-9gvlw3",
+    "source": "x",
+    "ts": "2026-10-30T04:02:29.962Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T04:00:00.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Michael Saylor on Why Preferred Stocks Should Pay Dividends on Weekends\n\nOn October 20, 2026, Michael Saylor @saylor said in an interview with Schwab Network @SchwabNetwork that, subject to shareholder approval, Strategy plans to have its credit instruments pay dividends every",
+    "url": "https://x.com/WuBlockchain/status/2116017249366495469"
   }
 ]
