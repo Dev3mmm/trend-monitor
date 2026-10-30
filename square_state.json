@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1791984135036-23n4ls",
-    "x-1791984137689-dxoki1",
     "x-1791985341681-kon7wo",
     "x-1791985909485-s43wwm",
     "x-1791985912015-0hh6kt",
@@ -1999,19 +1997,11 @@
     "x-1793361811560-zy2eup",
     "x-1793362933953-cgiawc",
     "x-1793362939829-c20m7y",
-    "x-1793362944540-7qbrvv"
+    "x-1793362944540-7qbrvv",
+    "x-1793363550814-c3r9yp",
+    "x-1793363555279-9dzvw4"
   ],
   "queue": [
-    {
-      "text": "NEW: $5.3 billion Cardone Capital bought 15 BTC worth $1.16 million on this dip! 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2116123004136456215",
-      "images": [
-        "https://pbs.twimg.com/media/HV36qHQWYAABVWy.jpg",
-        "https://pbs.twimg.com/media/HV36qHGX0AAWmYj.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793358153689
-    },
     {
       "text": "🔥 NEW: CZ praises how Binance’s Thai partner Gulf offered liquidity support after its $4B fine in 2023 and now again today.",
       "url": "https://x.com/Cointelegraph/status/2116126580254597357",
@@ -2060,6 +2050,15 @@
       ],
       "video": null,
       "enqueuedAt": 1793362945224
+    },
+    {
+      "text": "📊 INSIGHT: Tether generates $16.4M in 24H fee revenue, followed by Tron at $8.1M and Circle at $6.6M, per Token Terminal.",
+      "url": "https://x.com/Cointelegraph/status/2116145778787836114",
+      "images": [
+        "https://pbs.twimg.com/media/HV4PXXoXgAAw29u.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793363555960
     }
   ],
   "posted": [
@@ -2782,7 +2781,17 @@
       "at": 1793361812092,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/382855685741545?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "NEW: $5.3 billion Cardone Capital bought 15 BTC worth $1.16 million on this dip! 🚀",
+      "final": "NEW: $5.3 billion Cardone Capital bought 15 BTC worth $1.16 million on this dip! 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HV36qHQWYAABVWy.jpg",
+        "https://pbs.twimg.com/media/HV36qHGX0AAWmYj.jpg"
+      ],
+      "at": 1793363555960,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793361812092
+  "lastPostAt": 1793363555960
 }
