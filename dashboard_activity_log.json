@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1793245952972-lksk7z",
-    "source": "x",
-    "ts": "2026-10-29T03:52:32.972Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-29T03:46:08.000Z",
-    "reason": "Notable liquidation event with specific monetary value involved.",
-    "text": "🚨 REKT: Over $356M in crypto positions were liquidated in the past 24 hours as bitcoin:native fell below $80,000, with longs taking $207.7M of the hit.",
-    "url": "https://x.com/Cointelegraph/status/2115651372108636332",
-    "images": [
-      "https://pbs.twimg.com/media/HVxNq0dbwAA4jHE.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793246549886-eko7zm",
-    "source": "x",
-    "ts": "2026-10-29T04:02:29.886Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T04:00:33.000Z",
-    "reason": "Regulatory body discussing major market changes.",
-    "text": "🇺🇸 BIG: The CFTC will host an industry roundtable on Dec. 15 to discuss moving US derivatives markets to 24/7 trading.",
-    "url": "https://x.com/Cointelegraph/status/2115654997740286414",
-    "images": [
-      "https://pbs.twimg.com/media/HVxRAG_WkAANWz4.jpg",
-      "https://pbs.twimg.com/media/HVxRAgGXgAAqB97.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793246555268-1w4mky",
-    "source": "x",
-    "ts": "2026-10-29T04:02:35.268Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T04:00:01.000Z",
-    "reason": "Specific, verifiable institutional adoption event.",
-    "text": "CZ: The Real Demand for Tokenized US Stocks Comes from Outside the US  \n\nOn October 27, 2026, Binance founder CZ @cz_binance said in an interview with The Rollup founder Andy @andyyy that demand for tokenized U.S. stocks primarily comes from people outside the United States who",
-    "url": "https://x.com/WuBlockchain/status/2115654864642679270",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2115455848222973952/vid/avc1/1280x720/LN8zh2l5GuLAztMr.mp4?tag=29",
-      "duration": 85,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115455848222973952/img/W3zsvZ_cr-Uy4Vzl.jpg"
-    }
-  },
-  {
     "id": "x-1793247770870-zu044k",
     "source": "x",
     "ts": "2026-10-29T04:22:50.870Z",
@@ -8078,5 +8020,52 @@
     "reason": "No notable crypto-related content.",
     "text": "Google Gets Its First AI Response From Its Suncatcher Satellite, and It's a Haiku.\n\nGoogle says its Suncatcher prototype ran a prompt on its onboard Gemma 4 model and sent back a haiku, the first-ever AI response from a data center class TPU in orbit.",
     "url": "https://x.com/DecryptMedia/status/2116222370839191661"
+  },
+  {
+    "id": "x-1793382767749-l4ecqc",
+    "source": "x",
+    "ts": "2026-10-30T17:52:47.749Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T17:51:45.000Z",
+    "reason": "Notable law enforcement involvement in a significant Binance hack incident.",
+    "text": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+    "url": "https://x.com/DecryptMedia/status/2116226565121937719",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793382771601-mmjm5p",
+    "source": "x",
+    "ts": "2026-10-30T17:52:51.601Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-30T17:50:24.000Z",
+    "reason": "No concrete or specific event/event prediction.",
+    "text": "🚨 ALERT: Someone predicted back in June that Binance would be hacked in “2026 or 2027.”",
+    "url": "https://x.com/Cointelegraph/status/2116226224095687132"
+  },
+  {
+    "id": "x-1793382777051-8t8rqa",
+    "source": "x",
+    "ts": "2026-10-30T17:52:57.051Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-30T17:49:00.000Z",
+    "reason": "Notable use of a new blockchain design for AI payments.",
+    "text": "Celestia’s Voyager handled 21M transactions per second in its first big test\n\n@celestia, the network behind $TIA, unveiled Voyager on Thursday, a blockchain design that lets AI agents make a small payment each time they use data, content, or a service. The five-hour run pushed",
+    "url": "https://x.com/BSCNews/status/2116225872554349038",
+    "images": [
+      "https://pbs.twimg.com/media/HV5VevSW0AE3Ybh.jpg"
+    ],
+    "video": null
   }
 ]
