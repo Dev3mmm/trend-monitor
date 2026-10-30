@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793268794578-ocl6kq",
-    "source": "x",
-    "ts": "2026-10-29T10:13:14.578Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-29T10:03:02.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🔥 WATCH: @Bybit_Official's World Series of Trading 2026 kicks off with “The Opening Bell” as registration opens.\n\nThe global trading competition runs through Dec. 2, adding stocks, commodities and AI arenas, with up to 10M USDT in prizes.",
-    "url": "https://x.com/Cointelegraph/status/2115746219540758666"
-  },
-  {
-    "id": "x-1793269330765-mmd1g2",
-    "source": "x",
-    "ts": "2026-10-29T10:22:10.765Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-29T10:13:06.000Z",
-    "reason": "No notable move or specific event related to crypto.",
-    "text": "🇪🇺 JUST IN: Christine Lagarde to step down as ECB president on February 7, 2027.",
-    "url": "https://x.com/Cointelegraph/status/2115748755748368632"
-  },
-  {
     "id": "x-1793270588057-7cxg6y",
     "source": "x",
     "ts": "2026-10-29T10:43:08.057Z",
@@ -8107,5 +8081,39 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116271179208286209/img/_sHC5yUEtwqOU_jZ.jpg"
     }
+  },
+  {
+    "id": "x-1793395375160-t9wsxq",
+    "source": "x",
+    "ts": "2026-10-30T21:22:55.160Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-30T21:17:15.000Z",
+    "reason": "CFTC Chair highlights potential regulatory concern due to Binance hack.",
+    "text": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+    "url": "https://x.com/DecryptMedia/status/2116278280345039333",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793395380443-swzouv",
+    "source": "x",
+    "ts": "2026-10-30T21:23:00.443Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-30T21:16:00.000Z",
+    "reason": "Potential security breach in crypto wallets.",
+    "text": "Trezor warns CryptoBilis buyers after a reported spy chip in one of its wallets\n\n@Trezor said a customer in Indonesia found an extra circuit board inside a Trezor Safe 5 bought from the reseller CryptoBilis in August. According to the report, the board can capture the wallet",
+    "url": "https://x.com/BSCNews/status/2116277965873205654",
+    "images": [
+      "https://pbs.twimg.com/media/HV53pM6WsAAK7_r.jpg"
+    ],
+    "video": null
   }
 ]
