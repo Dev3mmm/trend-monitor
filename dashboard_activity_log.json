@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793187735043-wtn4m9",
-    "source": "x",
-    "ts": "2026-10-28T11:42:15.043Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T11:39:55.000Z",
-    "reason": "No notable crypto-related event or movement described.",
-    "text": "Saying there’s no reason to own Bitcoin because AI can hack a crypto app is like saying there’s no reason to speak English because AI can hack a messaging app.",
-    "url": "https://x.com/saylor/status/2115408216763027619"
-  },
-  {
-    "id": "x-1793187944049-jp4le8",
-    "source": "x",
-    "ts": "2026-10-28T11:45:44.049Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-28T11:43:17.000Z",
-    "reason": "Tweet is unrelated to crypto or financial markets.",
-    "text": "He dodged a bullet. God bless him wherever he is.",
-    "url": "https://x.com/amerix/status/2115409062351257648"
-  },
-  {
     "id": "x-1793187947785-t7nhg9",
     "source": "x",
     "ts": "2026-10-28T11:45:47.785Z",
@@ -8109,5 +8083,36 @@
     "reason": "No notable move or specific event is mentioned.",
     "text": "BNB也不言语，只是一味的强势。\n\n市场对币安的信心十足，出事真扛事。",
     "url": "https://x.com/cz_binance/status/2116000448893374892"
+  },
+  {
+    "id": "x-1793329333419-2jr8on",
+    "source": "x",
+    "ts": "2026-10-30T03:02:13.419Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-30T03:00:45.000Z",
+    "reason": "No notable move or news specific to crypto.",
+    "text": "⚡️ LATEST: Strategy CFO Andrew Kang will step down on Nov. 5.\n\n​CEO Phong Le will assume interim CFO duties until Senior VP Reza Virasteh takes over on Jan. 1, 2027.",
+    "url": "https://x.com/Cointelegraph/status/2116002337604985173"
+  },
+  {
+    "id": "x-1793329339278-mz9gv6",
+    "source": "x",
+    "ts": "2026-10-30T03:02:19.278Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-30T02:58:00.000Z",
+    "reason": "Significant institutional activity with high-value staking.",
+    "text": "Roughly half of all $INJ tokens are now staked...\n\nAccording to data from @Coinbase, a staggering 47% of @injective's current $INJ supply is now staked on the network and earning rewards.\n\nWith a current market cap of ~$805M, this means that nearly $380M worth of $INJ is staked.",
+    "url": "https://x.com/BSCNews/status/2116001644978880950",
+    "images": [
+      "https://pbs.twimg.com/media/HVzotYkWcAAkxdS.jpg"
+    ],
+    "video": null
   }
 ]
