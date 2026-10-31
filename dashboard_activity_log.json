@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1793280748646-nv0qow",
-    "source": "x",
-    "ts": "2026-10-29T13:32:28.646Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 61,
-    "originTimestamp": "2026-10-29T12:30:32.000Z",
-    "reason": "Notable regulatory response from a major financial institution.",
-    "text": "JUST IN: @BitcoinForCorps has filed a formal complaint with MSCI over its new non-operating company eligibility framework.\n\n🗒️ Full letter attached:",
-    "url": "https://x.com/BitcoinMagazine/status/2115797080254136643",
-    "images": [
-      "https://pbs.twimg.com/media/HVy_bfxXYAA9Y39.jpg",
-      "https://pbs.twimg.com/media/HVy_bf2WkAAcIY_.jpg",
-      "https://pbs.twimg.com/media/HVy_bfzXIAALjDG.jpg",
-      "https://pbs.twimg.com/media/HVy_bf0WMAAftS9.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793281294410-j1e2d5",
     "source": "x",
     "ts": "2026-10-29T13:41:34.410Z",
@@ -8088,5 +8067,26 @@
     "url": "https://x.com/BSCNews/status/2116365443191746777",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793417534846-cltgqs",
+    "source": "x",
+    "ts": "2026-10-31T03:32:14.846Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 6,
+    "originTimestamp": "2026-10-31T03:26:10.000Z",
+    "reason": "Specific and verifiable security compromise with affected funds.",
+    "text": "Binance Co-CEO: Binance's Own Hot Wallet Was Compromised, Customer Funds Were Unaffected\n\nBinance Co-CEO Richard Teng @_RichardTeng addressed users on October 30 following a roughly $6.3 billion hack, stating that Binance's own hot wallet was compromised while customer funds",
+    "url": "https://x.com/WuBlockchain/status/2116371123529252901",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116370961360666626/vid/avc1/1280x720/SxxCeF5MWRNdzrzf.mp4?tag=29",
+      "duration": 101,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116370961360666626/img/YEt0EpP9WMRVv6dQ.jpg"
+    }
   }
 ]
