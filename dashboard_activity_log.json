@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793305376801-3j0xg7",
-    "source": "x",
-    "ts": "2026-10-29T20:22:56.801Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 84,
-    "originTimestamp": "2026-10-29T18:57:56.000Z",
-    "reason": "New use of a token on a different blockchain network.",
-    "text": "Tokenized asset issuer Ondo Finance ($ONDO) has made all seven of its Intelligent Portfolios available on @solana ($SOL).\n\nThe products drew more than $40 million in total value locked on @ethereum ($ETH) and @BNBCHAIN in their first four weeks.\n\nDetails here:",
-    "url": "https://x.com/BSCNews/status/2115899526737248726",
-    "images": [
-      "https://pbs.twimg.com/media/HV0eZc5XoAAXwzf.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793306030525-vik9ty",
-    "source": "x",
-    "ts": "2026-10-29T20:33:50.525Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-29T20:30:06.000Z",
-    "reason": "No notable move or newsworthy information provided.",
-    "text": "🚨JUST IN: Coinbase $COIN returns to profit with $719 MILLION in Q3 net income.\n\nIts adjusted EBITDA jumped 60% in just one quarter to $333 MILLION, its 15th straight positive quarter.\n\nPrediction markets are now on pace for over $200 MILLION in yearly revenue, one of the",
-    "url": "https://x.com/coinbureau/status/2115904029838774448"
-  },
-  {
     "id": "x-1793306036306-ffm89b",
     "source": "x",
     "ts": "2026-10-29T20:33:56.306Z",
@@ -7988,5 +7957,34 @@
       "https://pbs.twimg.com/media/HV-8YMuagAAynYE.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793478756327-9manof",
+    "source": "x",
+    "ts": "2026-10-31T20:32:36.327Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-31T20:30:39.000Z",
+    "reason": "Notable regulatory and political response to a major hack.",
+    "text": "🇺🇸 BIG: Washington is already fighting over the $6.3B Binance hack days before the Nov. 3 election, with Republicans pushing the Clarity Act and Democrats calling for tougher crypto oversight.",
+    "url": "https://x.com/Cointelegraph/status/2116628941012181202",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793478761706-osl87b",
+    "source": "x",
+    "ts": "2026-10-31T20:32:41.706Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T20:30:00.000Z",
+    "reason": "No notable move or breaking news is reported.",
+    "text": "Reddit just showed what AI is doing to the internet.\n\nIt lost over $7 BILLION in a day after warning Google's AI is cutting its traffic.\n\nIts stock closed down 29.2% on Friday, its worst day ever, and is now down 41% in eight straight sessions.\n\nThe reason came out on its",
+    "url": "https://x.com/coinbureau/status/2116628778189238665"
   }
 ]
