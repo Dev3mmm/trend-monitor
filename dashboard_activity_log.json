@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1793305358763-vqfaf2",
-    "source": "x",
-    "ts": "2026-10-29T20:22:38.763Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T20:20:51.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨BREAKING: Intel $INTC plunges over 17% and Amazon $AMZN falls over 5% after hours following earnings.\n\nIntel beat Q3 estimates but issued weak Q4 guidance, saying the PC slowdown will last at least through the first half of 2027.  \n\nAmazon missed on both, with revenue of $201.9",
-    "url": "https://x.com/coinbureau/status/2115901698652942546"
-  },
-  {
-    "id": "x-1793305363910-4et9y5",
-    "source": "x",
-    "ts": "2026-10-29T20:22:43.910Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-29T20:17:00.000Z",
-    "reason": "Polymarket halted trading due to a third-party provider hack.",
-    "text": "Polymarket halts trading after a third-party provider gets hacked\n\n@Polymarket put its international exchange in cancel-only mode today after users reported unauthorized withdrawals. The prediction market said one of its third-party providers had been compromised, referred the",
-    "url": "https://x.com/BSCNews/status/2115900730309571054",
-    "images": [
-      "https://pbs.twimg.com/media/HV0qok2WUAASRpm.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793305368501-lym8qu",
-    "source": "x",
-    "ts": "2026-10-29T20:22:48.501Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coinbase 🛡️",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-29T20:16:40.000Z",
-    "reason": "Coinbase's USDC holdings are at an all-time high.",
-    "text": "The stablecoin takeover is happening on Coinbase.\n\nWe now hold more USDC on our platform than ever.\n\nHitting an average of $22B USDC held in Coinbase products in Q3.",
-    "url": "https://x.com/coinbase/status/2115900648021442923",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2115900507243888640/vid/avc1/1280x720/SO28V1gxZo063WNG.mp4?tag=29",
-      "duration": 8,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115900507243888640/img/36jxOdIVQaj0f6lC.jpg"
-    }
-  },
-  {
     "id": "x-1793305371961-cermf9",
     "source": "x",
     "ts": "2026-10-29T20:22:51.961Z",
@@ -7995,5 +7943,44 @@
       "https://pbs.twimg.com/media/HV-5FZ0XYAAtDpV.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793475717893-kqpvgv",
+    "source": "x",
+    "ts": "2026-10-31T19:41:57.893Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 22,
+    "originTimestamp": "2026-10-31T19:19:17.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Grok Bot is the most useful app on my phone right now.",
+    "url": "https://x.com/elonmusk/status/2116615575791116356"
+  },
+  {
+    "id": "x-1793475721225-t26yoo",
+    "source": "x",
+    "ts": "2026-10-31T19:42:01.225Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 117,
+    "originTimestamp": "2026-10-31T17:44:22.000Z",
+    "reason": "Noise: Generic hype with no real content.",
+    "text": "Neuralink deep dive",
+    "url": "https://x.com/elonmusk/status/2116614579136635120"
+  },
+  {
+    "id": "x-1793475725704-gsn89d",
+    "source": "x",
+    "ts": "2026-10-31T19:42:05.704Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-10-31T19:33:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Tokenised stocks might be the hottest part of the industry right now.\n\nLearn how @Ondo $ONDO's tokenised stocks differ from other major competitors ⬇️",
+    "url": "https://x.com/BSCNews/status/2116614432994332818"
   }
 ]
