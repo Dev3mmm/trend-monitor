@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793286745275-h25y5z",
-    "source": "x",
-    "ts": "2026-10-29T15:12:25.275Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-29T15:08:30.000Z",
-    "reason": "Notable institutional move by a major retailer affecting tokenized trading.",
-    "text": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
-    "url": "https://x.com/DecryptMedia/status/2115823093763461267",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793286750736-iyc7ei",
-    "source": "x",
-    "ts": "2026-10-29T15:12:30.736Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 20,
-    "originTimestamp": "2026-10-29T14:52:13.000Z",
-    "reason": "Notable institutional disagreement with central bank on cryptocurrency future.",
-    "text": "🇪🇺 In 2022, the ECB's official X account said Bitcoin was headed down \"a road to irrelevance.\"\n\nBTC was around $17,200 that day.\n\n\"Isn't it great to say you out-traded the European Central Bank?\" 😅",
-    "url": "https://x.com/BitcoinMagazine/status/2115821571877294242",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2115818884443893760/vid/avc1/1280x720/itXPbm3BEqlwj9PN.mp4?tag=29",
-      "duration": 107,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115818884443893760/img/hJsSnu3kJDyw4FLp.jpg"
-    }
-  },
-  {
     "id": "x-1793287390637-uf9d9f",
     "source": "x",
     "ts": "2026-10-29T15:23:10.637Z",
@@ -8085,5 +8048,37 @@
       "https://pbs.twimg.com/media/HV8h8ScW8AAPMgH.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793437326036-6zcyjq",
+    "source": "x",
+    "ts": "2026-10-31T09:02:06.036Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-31T09:00:40.000Z",
+    "reason": "Cyberattack disclosure is significant cybersecurity news.",
+    "text": "Chainalysis Hit by Cyberattack, Accessing User Names, Emails, and Organization Roles\n\nBlockchain data analytics and tracking firm Chainalysis disclosed that an external hacker used \"offensive agentic techniques\" to gain unauthorized access to its internal systems and tools,",
+    "url": "https://x.com/WuBlockchain/status/2116455300484218933",
+    "images": [
+      "https://pbs.twimg.com/media/HV8o2vYaoAArqLH.jpg",
+      "https://pbs.twimg.com/media/HV8o3ebbkAAiukU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793437331854-74qf8t",
+    "source": "x",
+    "ts": "2026-10-31T09:02:11.854Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-10-31T08:57:00.000Z",
+    "reason": "No notable on-chain data point or specific move.",
+    "text": "There is now $2.8 BILLION worth of $ETH waiting to be staked...\n\nAt time of writing, there is some 1,236,522 $ETH, worth close to $2.8B, waiting to be staked on @Ethereum mainnet.\n\nPerhaps even more bullish is the fact that there is only 1,682 $ETH waiting to be unstaked.\n\nAre we",
+    "url": "https://x.com/BSCNews/status/2116454378202710251"
   }
 ]
