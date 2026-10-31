@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793303601450-8ftxw8",
-    "source": "x",
-    "ts": "2026-10-29T19:53:21.450Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-29T19:47:15.000Z",
-    "reason": "The tweet is vague and lacks specific details.",
-    "text": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-    "url": "https://x.com/DecryptMedia/status/2115893244571627855"
-  },
-  {
-    "id": "x-1793304161701-o6dtbd",
-    "source": "x",
-    "ts": "2026-10-29T20:02:41.701Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-29T19:59:27.000Z",
-    "reason": "No notable move; price is within its recent range.",
-    "text": "🔥 HUGE: Blockchain revenue is projected to reach roughly $100 billion in 2026 despite a 28% year-over-year decline, according to a new 1kx report.",
-    "url": "https://x.com/Cointelegraph/status/2115896315649343889"
-  },
-  {
     "id": "x-1793304165938-kiuaub",
     "source": "x",
     "ts": "2026-10-29T20:02:45.938Z",
@@ -7976,5 +7950,36 @@
     "reason": "Noise: Generic statement without factual claim.",
     "text": "Yes",
     "url": "https://x.com/elonmusk/status/2116590025135829425"
+  },
+  {
+    "id": "x-1793470347759-rtfb89",
+    "source": "x",
+    "ts": "2026-10-31T18:12:27.759Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T18:10:13.000Z",
+    "reason": "No notable move or specific event is clearly described.",
+    "text": "18 years ago this minute, Satoshi lit a fire in cyberspace.",
+    "url": "https://x.com/saylor/status/2116593602310865070"
+  },
+  {
+    "id": "x-1793470353044-urdoxb",
+    "source": "x",
+    "ts": "2026-10-31T18:12:33.044Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-31T18:05:16.000Z",
+    "reason": "Exploit leading to token price decline and protocol response.",
+    "text": "NOW: @b14g_network suffered unauthorized withdrawals on their staking contract, leading to an 8% decline in the $core token. \n\nThe protocol quickly identified the issue and froze their staking contracts",
+    "url": "https://x.com/BSCNews/status/2116592353758663048",
+    "images": [
+      "https://pbs.twimg.com/media/HV-lh0iWMAAz3Hk.jpg"
+    ],
+    "video": null
   }
 ]
