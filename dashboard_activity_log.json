@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793303419412-4qiais",
-    "source": "x",
-    "ts": "2026-10-29T19:50:19.412Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-29T19:40:29.000Z",
-    "reason": "Specific institutional data on crypto activity.",
-    "text": "🇺🇸 UPDATE: The US accounts for roughly 15–20% of global crypto activity, including 36% of Bitcoin hashrate and 31% of Ethereum full nodes, per Grayscale.",
-    "url": "https://x.com/Cointelegraph/status/2115891540962705673",
-    "images": [
-      "https://pbs.twimg.com/media/HV0oJIPXwAEfJ8i.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793128277207-1s83ma",
-    "source": "x",
-    "ts": "2026-10-27T19:11:17.207Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-27T19:10:47.000Z",
-    "reason": "CFTC probes Polymarket for potential violation of settlement.",
-    "text": "🚨 LATEST: The CFTC is again probing whether Polymarket let US users onto its offshore platform in breach of a 2022 settlement.",
-    "url": "https://x.com/Cointelegraph/status/2115159291225063598",
-    "images": [
-      "https://pbs.twimg.com/media/HVqOKbYXQAAAH_V.jpg",
-      "https://pbs.twimg.com/media/HVqOKnEW4AA19U5.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793128587951-gyh2l2",
     "source": "x",
     "ts": "2026-10-27T19:16:27.951Z",
@@ -7989,6 +7952,35 @@
     "images": [
       "https://pbs.twimg.com/media/HV-bje4W4AESHPr.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793469156322-zlhw6y",
+    "source": "x",
+    "ts": "2026-10-31T17:52:36.322Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 34,
+    "originTimestamp": "2026-10-31T17:18:17.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "I’m currently early voting. The line wraps through the building and pushes outside. It’s also raining outside.\n\nStaying in line.",
+    "url": "https://x.com/elonmusk/status/2116589020104761487"
+  },
+  {
+    "id": "x-1793469161932-o400jl",
+    "source": "x",
+    "ts": "2026-10-31T17:52:41.932Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T17:50:00.000Z",
+    "reason": "DeFi websites hijacking highlights security vulnerabilities.",
+    "text": "🚨This is CONCERNING.\n\n12 DeFi websites were hijacked and turned into wallet drainers in just ONE night.\n\nBlockaid found the sites \"actively serving\" Step Drainer, a kit that fakes normal-looking wallet pop-ups to trick visitors into approving transfers.\n\nStep Drainer is sold to",
+    "url": "https://x.com/coinbureau/status/2116588512170463708",
+    "images": [],
     "video": null
   }
 ]
