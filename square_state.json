@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792043543098-i88j44",
-    "x-1792044128169-dnaqoe",
     "x-1792045360033-efymlp",
     "x-1792047123738-u765u5",
     "x-1792047129097-6yj8fj",
@@ -1999,9 +1997,21 @@
     "x-1793420548672-yu5m3d",
     "x-1793421150826-12l1en",
     "x-1793422374859-viahfl",
-    "x-1793424132576-ww5lnj"
+    "x-1793424132576-ww5lnj",
+    "x-1793425310594-9dcu89",
+    "x-1793425312769-o5lil1"
   ],
-  "queue": [],
+  "queue": [
+    {
+      "text": "📊 MARKET: October wiped out $300B from the market.\n\nWhat happened to Uptober?",
+      "url": "https://x.com/Cointelegraph/status/2116404960535380034",
+      "images": [
+        "https://pbs.twimg.com/media/HV77GFeWcAABY9e.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793425313523
+    }
+  ],
   "posted": [
     {
       "text": "🚨 TODAY: Kalshi CEO Tarek Mansour says the prediction market is exploring new safeguards to protect users losing money on the platform.",
@@ -2609,7 +2619,16 @@
       "at": 1793421151684,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/383098790935541?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "Spot Bitcoin ETFs See $643M in Net Outflows, Ethereum ETFs Lose $156M\n\nAccording to SoSoValue data, U.S. spot Bitcoin ETFs recorded total net outflows of $643 million on October 30 (ET). BlackRock's IBIT saw the largest daily net outflow among spot Bitcoin ETFs at $234 million.",
+      "final": "Spot Bitcoin ETFs See $643M in Net Outflows, Ethereum ETFs Lose $156M\n\nAccording to SoSoValue data, U.S. spot Bitcoin ETFs recorded total net outflows of $643 million on October 30 (ET). BlackRock's IBIT saw the largest daily net outflow among spot Bitcoin ETFs at $234 million.\n\n#Bitcoin $BTC #Ethereum $ETH #ETF",
+      "images": [
+        "https://pbs.twimg.com/media/HV77MVxaIAALrGg.jpg"
+      ],
+      "at": 1793425313523,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793421151684
+  "lastPostAt": 1793425313523
 }
