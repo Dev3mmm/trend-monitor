@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793285561311-wv7am6",
-    "source": "x",
-    "ts": "2026-10-29T14:52:41.311Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T14:50:08.000Z",
-    "reason": "Insider trading event with significant token value.",
-    "text": "ZachXBT: AXIS Insiders Dump ~42M Tokens From Team Multisig, Triggering 40% Crash Just Days After Binance, Coinbase &amp; Upbit Listings\n\nAccording to on-chain investigator ZachXBT, suspected insiders of Axis Robotics received over 76 million AXIS tokens (valued at over $12 million)",
-    "url": "https://x.com/WuBlockchain/status/2115818471955337374",
-    "images": [
-      "https://pbs.twimg.com/media/HVzlhoiaUAAA7Yv.jpg",
-      "https://pbs.twimg.com/media/HVzljCWboAA4hli.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793285566387-e2c5a8",
     "source": "x",
     "ts": "2026-10-29T14:52:46.387Z",
@@ -8103,5 +8084,18 @@
       "https://pbs.twimg.com/media/HV8Kzy-acAAn6Yc.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793430123619-48x0ro",
+    "source": "x",
+    "ts": "2026-10-31T07:02:03.619Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 95,
+    "originTimestamp": "2026-10-31T05:27:04.000Z",
+    "reason": "No crypto-related content.",
+    "text": "Falcon 9 launches 27 @Starlink satellites from California",
+    "url": "https://x.com/elonmusk/status/2116423243695370436"
   }
 ]
