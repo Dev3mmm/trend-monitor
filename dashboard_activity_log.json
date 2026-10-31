@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793299976175-5x8syk",
-    "source": "x",
-    "ts": "2026-10-29T18:52:56.175Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-29T18:46:23.000Z",
-    "reason": "Notable incident affecting crypto trading APIs.",
-    "text": "🚨 ALERT: Polymarket reports a major trading API outage, switches to cancel-only mode and pauses relay actions while investigating the incident.",
-    "url": "https://x.com/Cointelegraph/status/2115877928332394758",
-    "images": [
-      "https://pbs.twimg.com/media/HV0bwyHXoAA7Ej5.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793299981725-co3rj9",
-    "source": "x",
-    "ts": "2026-10-29T18:53:01.725Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 5,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-29T18:45:00.000Z",
-    "reason": "Crypto platform faces security incident with user funds at risk.",
-    "text": "⚠️ SECURITY ALERT:  Polymarket faces a suspected frontend compromise as multiple users report WALLET DRAINS and unexpected signature requests.\n\nTrading has been restricted to cancel-only mode, with relayer operations paused as the platform investigates to incidents. \n\nThe cause",
-    "url": "https://x.com/coinbureau/status/2115877577625841710",
-    "images": [
-      "https://pbs.twimg.com/media/HV0YO4IbgAA7e1t.png",
-      "https://pbs.twimg.com/media/HV0YcmiasAAeZYF.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793300545543-ywu0gz",
-    "source": "x",
-    "ts": "2026-10-29T19:02:25.543Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T19:01:03.000Z",
-    "reason": "KuCoin's decision affects users in sanctioned regions, impacting their services.",
-    "text": "🚨 ALERT: KuCoin is immediately ending all services for users in Russia and Belarus, with affected users to receive deadlines and instructions for closing positions and withdrawing assets.",
-    "url": "https://x.com/Cointelegraph/status/2115881618518806764",
-    "images": [
-      "https://pbs.twimg.com/media/HV0fGZSX0AA46NH.jpg",
-      "https://pbs.twimg.com/media/HV0fG8ZWMAEXZLE.jpg",
-      "https://pbs.twimg.com/media/HV0fHXXXIAAgIFS.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793300550605-s6c2iw",
     "source": "x",
     "ts": "2026-10-29T19:02:30.605Z",
@@ -8026,5 +7969,53 @@
     "reason": "No notable crypto-related news or movement.",
     "text": "North Korea Says Sanctions Are \"Doomed to Go Bankrupt.\"\n\nPyongyang rejected a joint statement by the US, South Korea and partner nations that, according to Yonhap, welcomed new sanctions over North Korea's cyberactivities and dispatch of workers overseas.",
     "url": "https://x.com/DecryptMedia/status/2116560835392762255"
+  },
+  {
+    "id": "x-1793463697401-kq3wqr",
+    "source": "x",
+    "ts": "2026-10-31T16:21:37.401Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-31T16:20:00.000Z",
+    "reason": "Noteworthy institutional backing and partnership in financial derivatives.",
+    "text": "🚨MASSIVE: Wall Street legend Stan Druckenmiller backs the company bringing Hyperliquid-powered futures to the U.S\n\nIn his first-ever X post, he disclosed an investment in trade[XYZ], which is partnering with NYSE owner ICE to bring Hyperliquid-powered, 24/7 perpetual futures to",
+    "url": "https://x.com/coinbureau/status/2116565862937498057",
+    "images": [
+      "https://pbs.twimg.com/media/HV93tU9bcAArSNR.jpg",
+      "https://pbs.twimg.com/media/HV93tUuaoAABPfH.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793463698805-gddr1j",
+    "source": "x",
+    "ts": "2026-10-31T16:21:38.805Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 111,
+    "originTimestamp": "2026-10-31T14:30:04.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Detailed FAQ 👇",
+    "url": "https://x.com/cz_binance/status/2116565758058885138"
+  },
+  {
+    "id": "x-1793463700923-n0wn38",
+    "source": "x",
+    "ts": "2026-10-31T16:21:40.923Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 111,
+    "originTimestamp": "2026-10-31T14:30:04.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Update: SAFU fund transfer is complete - this was the large 7,499 $BTC transfer visible here:",
+    "url": "https://x.com/binance/status/2116564794094559407",
+    "images": [],
+    "video": null
   }
 ]
