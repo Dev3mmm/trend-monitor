@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793292140833-hctv8o",
-    "source": "x",
-    "ts": "2026-10-29T16:42:20.833Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T16:40:29.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🇺🇸 JUST IN: Peter Schiff calls Warsh’s inflation-fighting rhetoric a “bluff,” predicting the Fed will likely expand QE and potentially cut rates next year even as inflation rises.",
-    "url": "https://x.com/Cointelegraph/status/2115846245046444446",
-    "images": [
-      "https://pbs.twimg.com/media/HVz-8UiXgAAzYtF.jpg",
-      "https://pbs.twimg.com/media/HVz-8h0WAAAKQig.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793292144929-9ylgqq",
-    "source": "x",
-    "ts": "2026-10-29T16:42:24.929Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-29T16:34:03.000Z",
-    "reason": "Price outside the recent range indicates a potential significant move.",
-    "text": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-    "url": "https://x.com/DecryptMedia/status/2115844623922811050",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793293336545-itsbg7",
     "source": "x",
     "ts": "2026-10-29T17:02:16.545Z",
@@ -8074,5 +8039,36 @@
       "https://pbs.twimg.com/media/HV9bhBoXwAAcJyl.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793451730930-8ck0nw",
+    "source": "x",
+    "ts": "2026-10-31T13:02:10.930Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CertiK Alert",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T13:00:02.000Z",
+    "reason": "Notable loss data with potential regulatory and investor implications.",
+    "text": "#CertiKStatsAlert 🚨\n\nIn October we’ve confirmed ~$6.5B lost to exploits and phishing.\n\nWith ~$9.2B in losses, 2026 now has the highest losses on record.\n\nMore details below 👇\n\nCertiK Report Security Dashboard 👇",
+    "url": "https://x.com/CertiKAlert/status/2116515540973797640",
+    "images": [
+      "https://pbs.twimg.com/media/HV4RHNvX0AAyjku.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793451737225-ikbff0",
+    "source": "x",
+    "ts": "2026-10-31T13:02:17.225Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T13:00:00.000Z",
+    "reason": "Noise: Generic market update without specific, verifiable events or data.",
+    "text": "🚨U.S. markets could face MORE TURBULENCE next week.\n\nThe Nasdaq 100 has lost more than $2 TRILLION across October as concerns over AI spending intensify.\n\nVolatility surged on Friday: VIX rose 12.9% to 19.42, while VXN jumped 13.2% to 28.50.\n\nOptions markets are pricing in",
+    "url": "https://x.com/coinbureau/status/2116515533340152101"
   }
 ]
