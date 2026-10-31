@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793299967067-7rbq7a",
-    "source": "x",
-    "ts": "2026-10-29T18:52:47.067Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T18:50:00.000Z",
-    "reason": "Notable financial institution applying for regulatory approval.",
-    "text": "Galaxy Digital is going for a US bank charter\n\n@galaxyhq ($GLXY) has applied to open Galaxy National Bank, a national trust bank based in New York. The application went to the OCC, the US regulator for national banks. \n\nTrust banks hold and manage assets for clients but do not",
-    "url": "https://x.com/BSCNews/status/2115878835879280943",
-    "images": [
-      "https://pbs.twimg.com/media/HV0VOqgXgAA9xiT.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793299971448-cut00p",
-    "source": "x",
-    "ts": "2026-10-29T18:52:51.448Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-29T18:47:15.000Z",
-    "reason": "Notable data breach involving sensitive government employees' information.",
-    "text": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
-    "url": "https://x.com/DecryptMedia/status/2115878144636846193",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793299976175-5x8syk",
     "source": "x",
     "ts": "2026-10-29T18:52:56.175Z",
@@ -8029,5 +7995,36 @@
     "reason": "No notable or specific news event or move to report.",
     "text": "We are living in the Golden Age of Hacks.\n\nAttackers are increasingly using AI to turn overlooked flaws into exploitable weaknesses.\n\nBinance’s $6.3 BILLION loss marked the largest crypto theft ever recorded. \n\nNow, even Chainalysis, one of the firms helping trace the stolen",
     "url": "https://x.com/coinbureau/status/2116554538815484144"
+  },
+  {
+    "id": "x-1793462596541-izd1v2",
+    "source": "x",
+    "ts": "2026-10-31T16:03:16.541Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T16:01:00.000Z",
+    "reason": "High staking percentage indicating significant growth and demand for Avalanche tokens.",
+    "text": "Nearly half of all $AVAX tokens are now staked.\n\nAccording to data from @Coinbase, a staggering 43% of all @Avax tokens are now staked on the network and actively earning rewards.\n\nWith a current market cap of around $3.65B, this means investors have committed tokens worth a",
+    "url": "https://x.com/BSCNews/status/2116561082227593538",
+    "images": [
+      "https://pbs.twimg.com/media/HV4exu7XcAEKrLW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793462600603-ssaxol",
+    "source": "x",
+    "ts": "2026-10-31T16:03:20.603Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-31T16:00:01.000Z",
+    "reason": "No notable crypto-related news or movement.",
+    "text": "North Korea Says Sanctions Are \"Doomed to Go Bankrupt.\"\n\nPyongyang rejected a joint statement by the US, South Korea and partner nations that, according to Yonhap, welcomed new sanctions over North Korea's cyberactivities and dispatch of workers overseas.",
+    "url": "https://x.com/DecryptMedia/status/2116560835392762255"
   }
 ]
