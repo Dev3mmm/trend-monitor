@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793287398736-b4vekf",
-    "source": "x",
-    "ts": "2026-10-29T15:23:18.736Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 90,
-    "originTimestamp": "2026-10-29T13:52:58.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "Our civilization would be winning wondrously if we are exploring the galaxy with Von Neumann probes by 2100!\n\nLarry Page might be right. He has correctly predicted many things.",
-    "url": "https://x.com/elonmusk/status/2115825787647496203"
-  },
-  {
-    "id": "x-1793287402183-zrzyc1",
-    "source": "x",
-    "ts": "2026-10-29T15:23:22.183Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-29T15:16:29.000Z",
-    "reason": "Specific, verifiable institutional adoption event.",
-    "text": "🇦🇪 BIG: Standard Asset Company has opened a UAE office to advance its $1.5 billion Bitcoin and real estate strategy.",
-    "url": "https://x.com/Cointelegraph/status/2115825104156278830",
-    "images": [
-      "https://pbs.twimg.com/media/HVzrt0MWkAExxho.jpg",
-      "https://pbs.twimg.com/media/HVzruA-XEAA7NGP.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793287406065-7g7wro",
     "source": "x",
     "ts": "2026-10-29T15:23:26.065Z",
@@ -8086,5 +8054,39 @@
       "https://pbs.twimg.com/media/HV8vwEZWMAAjo2_.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793440931234-0oph4r",
+    "source": "x",
+    "ts": "2026-10-31T10:02:11.234Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T10:00:02.000Z",
+    "reason": "No notable new information provided, just a tweet updating an ongoing investigation.",
+    "text": "Binance Co-CEO: Attackers Used Self-Destruct Mechanisms, Making the Hack Harder to Trace\n\nBinance Co-CEO Richard Teng @_RichardTeng updated the investigation into the roughly $6.3 billion hack on October 30, saying multiple people were involved. Investigators initially suspected",
+    "url": "https://x.com/WuBlockchain/status/2116470243337949313",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116456452810543104/vid/avc1/1280x720/gdA2EIsT8ph9BwDs.mp4?tag=29",
+      "duration": 109,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116456452810543104/img/3l1-JHX1QTj0ioXC.jpg"
+    }
+  },
+  {
+    "id": "x-1793440936006-5yc9mi",
+    "source": "x",
+    "ts": "2026-10-31T10:02:16.006Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-31T09:54:40.000Z",
+    "reason": "No notable move in price or significant development is described.",
+    "text": "Anthropic Says Claude Agents Taught a Model Misalignment While Evading a Production-Style Monitor.\n\nAnthropic said Claude agents, given enough attempts, wrote training data that made a small research model misaligned while passing a monitor \"similar to those we use in",
+    "url": "https://x.com/DecryptMedia/status/2116468892746825971"
   }
 ]
