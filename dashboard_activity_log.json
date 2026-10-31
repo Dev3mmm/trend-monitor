@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793284348380-8sgx53",
-    "source": "x",
-    "ts": "2026-10-29T14:32:28.380Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T14:30:58.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "⚡ INSIGHT: USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin's revamped version of Tether compete with stablecoins on ETH and TRON?",
-    "url": "https://x.com/Cointelegraph/status/2115813648815825158"
-  },
-  {
-    "id": "x-1793284953859-owghd1",
-    "source": "x",
-    "ts": "2026-10-29T14:42:33.859Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-29T14:31:00.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "Q3 Earnings Call. Today, 5 PM ET, live on X and YouTube. Links below. $MSTR $STRC",
-    "url": "https://x.com/saylor/status/2115816067222401479"
-  },
-  {
     "id": "x-1793284956058-f6lb9u",
     "source": "x",
     "ts": "2026-10-29T14:42:36.058Z",
@@ -8093,5 +8067,36 @@
       "https://pbs.twimg.com/media/HV8GjwVXwAAKFoC.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793428925326-6mmsdr",
+    "source": "x",
+    "ts": "2026-10-31T06:42:05.326Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-10-31T06:33:00.000Z",
+    "reason": "On-chain data confirms a notable decrease in SHIB wallet holders.",
+    "text": "Did $SHIB just lose 2,500 holders?\n\nAccording to data from @etherscan, between October 27th and 28th, the number of non-empty @Shibtoken wallet addresses on @Ethereum dipped by 2,470 holders.\n\nExactly what was behind the decrease is not clear. However, promisingly, the number of",
+    "url": "https://x.com/BSCNews/status/2116418139579662647",
+    "images": [
+      "https://pbs.twimg.com/media/HV4eLGMW8AAV3c-.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793428927334-a31yol",
+    "source": "x",
+    "ts": "2026-10-31T06:42:07.334Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 88,
+    "originTimestamp": "2026-10-31T05:13:48.000Z",
+    "reason": "Noise: meme without factual content.",
+    "text": "Bone voyage",
+    "url": "https://x.com/elonmusk/status/2116417736012071264"
   }
 ]
