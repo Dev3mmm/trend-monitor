@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793298791790-bwyh22",
-    "source": "x",
-    "ts": "2026-10-29T18:33:11.790Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-29T18:28:39.000Z",
-    "reason": "Polymarket's trading API outage investigation is notable for institutional trading platforms.",
-    "text": "Polymarket Puts Its Exchange in Cancel-Only Mode.\n\nPolymarket says its exchange is in cancel-only mode, with relayer actions paused while it investigates an incident. Its status page flagged a major outage on its trading API at 2:05 PM ET (18:05 UTC).",
-    "url": "https://x.com/DecryptMedia/status/2115873466058407966",
-    "images": [
-      "https://pbs.twimg.com/media/HV0XMp3WoAASME2.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793299359832-l0u4bb",
     "source": "x",
     "ts": "2026-10-29T18:42:39.832Z",
@@ -8038,6 +8020,22 @@
     "reason": "Specific event about a major crypto heist.",
     "text": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
     "url": "https://x.com/DecryptMedia/status/2116546831593230422",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793460100711-1edo89",
+    "source": "x",
+    "ts": "2026-10-31T15:21:40.711Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 21,
+    "originTimestamp": "2026-10-31T15:00:00.000Z",
+    "reason": "Notable institutional partnership with potential regulatory implications.",
+    "text": "Oracle built Overledger from Quant (@quantnetwork), the company behind $QNT, into its blockchain platform for over 400,000 businesses.\n\nIn May 2025 the European Central Bank picked Quant as a pioneer partner for the digital euro.\n\nThe full picture:",
+    "url": "https://x.com/BSCNews/status/2116550621775978913",
     "images": [],
     "video": null
   }
