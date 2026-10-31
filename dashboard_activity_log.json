@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793304165938-kiuaub",
-    "source": "x",
-    "ts": "2026-10-29T20:02:45.938Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-29T19:59:00.000Z",
-    "reason": "Generic promotion with no factual claim or notable move.",
-    "text": "Your weekly Write to Earn rewards are here! \n\nMore ways to create, more ways to earn. It’s all on Binance Square Write to Earn.\n\nExplore now →",
-    "url": "https://x.com/binance/status/2115896200134279260"
-  },
-  {
-    "id": "x-1793304772619-5sbdnf",
-    "source": "x",
-    "ts": "2026-10-29T20:12:52.619Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-29T20:09:28.000Z",
-    "reason": "No notable crypto-related information.",
-    "text": "🚨 LATEST: Amazon $AMZN reports Q3 revenue of $201.9 billion and earnings of $1.89 per share, missing estimates of $202.26 billion and $1.97, while AWS sales beat expectations.",
-    "url": "https://x.com/Cointelegraph/status/2115898836002455995"
-  },
-  {
     "id": "x-1793304777492-giwes5",
     "source": "x",
     "ts": "2026-10-29T20:12:57.492Z",
@@ -7979,6 +7953,37 @@
     "url": "https://x.com/BSCNews/status/2116592353758663048",
     "images": [
       "https://pbs.twimg.com/media/HV-lh0iWMAAz3Hk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793471582627-802shx",
+    "source": "x",
+    "ts": "2026-10-31T18:33:02.627Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T18:30:45.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 LATEST: Silver has practically wiped out its entire 1-year gain, now trading at the same $49 it sat at last October.",
+    "url": "https://x.com/Cointelegraph/status/2116598770259365892"
+  },
+  {
+    "id": "x-1793471588423-lb9lnh",
+    "source": "x",
+    "ts": "2026-10-31T18:33:08.423Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-10-31T18:23:00.000Z",
+    "reason": "Stellar XLM now live on the NEAR Protocol platform.",
+    "text": "Stellar x NEAR Protocol\n\n@NEARProtocol has announced that @StellarOrg and its native XLM token are now live on Near[.]com.\n\nUsers can now use to platform to deposit directly from Stellar's mainnet, and execute swaps with the likes of $USDC.\n\nAll transactions and activities are",
+    "url": "https://x.com/BSCNews/status/2116596816984825962",
+    "images": [
+      "https://pbs.twimg.com/media/HV4fFcHWsAAOXAm.jpg"
     ],
     "video": null
   }
