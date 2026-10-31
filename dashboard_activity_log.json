@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793287390637-uf9d9f",
-    "source": "x",
-    "ts": "2026-10-29T15:23:10.637Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-29T15:08:10.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "In His First Standalone X Post, Stan Druckenmiller Says He Is an Investor in Hyperliquid Perps Builder TradeXYZ.\n\nDruckenmiller said Thursday he is \"excited to be an investor in tradexyz\" as it partners with ICE to bring 24/7 Hyperliquid perps to the US. Elon Musk quoted the post",
-    "url": "https://x.com/DecryptMedia/status/2115826569901961576"
-  },
-  {
-    "id": "x-1793287395562-lbgrxk",
-    "source": "x",
-    "ts": "2026-10-29T15:23:15.562Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T15:21:50.000Z",
-    "reason": "Noteworthy institutional integration of Chainlink into the tokenized assets market.",
-    "text": "Chainlink Brings 24/7 Pricing to Tokenized Assets, With Aave on Board\n\n@Chainlink has launched its Chainlink 24/7 service into live operations. It provides real-time oracle pricing for stocks, commodities, and tokenized real-world assets, including weekends and market holidays.",
-    "url": "https://x.com/BSCNews/status/2115826450020376982",
-    "images": [
-      "https://pbs.twimg.com/media/HVzs5TdWcAE8ymZ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793287398736-b4vekf",
     "source": "x",
     "ts": "2026-10-29T15:23:18.736Z",
@@ -8080,5 +8049,42 @@
     "reason": "No notable on-chain data point or specific move.",
     "text": "There is now $2.8 BILLION worth of $ETH waiting to be staked...\n\nAt time of writing, there is some 1,236,522 $ETH, worth close to $2.8B, waiting to be staked on @Ethereum mainnet.\n\nPerhaps even more bullish is the fact that there is only 1,682 $ETH waiting to be unstaked.\n\nAre we",
     "url": "https://x.com/BSCNews/status/2116454378202710251"
+  },
+  {
+    "id": "x-1793439170266-l19f6c",
+    "source": "x",
+    "ts": "2026-10-31T09:32:50.267Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-10-31T09:31:48.000Z",
+    "reason": "Exploit involving stolen funds and unusual transaction patterns.",
+    "text": "🚨LATEST: Binance hackers are using NEVER SEEN BEFORE laundering patterns as stolen funds are being rapidly circulated through thousands of transactions, per Chainalysis.\n\nInstead of moving funds along a straightforward trail, the attackers repeatedly send them between wallets,",
+    "url": "https://x.com/coinbureau/status/2116463138833093093",
+    "images": [
+      "https://pbs.twimg.com/media/HV8v-vWb0AEFBM5.jpg",
+      "https://pbs.twimg.com/media/HV8vw2wacAAUxbY.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793439175324-u8w6ac",
+    "source": "x",
+    "ts": "2026-10-31T09:32:55.324Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-10-31T09:30:41.000Z",
+    "reason": "Notable institutional outflow from Bitcoin ETFs",
+    "text": "🇺🇸 ETFS: The US $BTC ETFs saw their largest single day outflows since June with over $643M flowing out in a single day.",
+    "url": "https://x.com/Cointelegraph/status/2116462855645991311",
+    "images": [
+      "https://pbs.twimg.com/media/HV8vwEZWMAAjo2_.jpg"
+    ],
+    "video": null
   }
 ]
