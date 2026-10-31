@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793281937635-9z2rc9",
-    "source": "x",
-    "ts": "2026-10-29T13:52:17.635Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-29T13:42:47.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "LIVE: Oil &amp; Commodities, Fed Rates, Bitcoin Cycle Analysis | BMTV Oct. 29, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2115801523170996631"
-  },
-  {
     "id": "x-1793282530429-h37sbt",
     "source": "x",
     "ts": "2026-10-29T14:02:10.429Z",
@@ -8086,6 +8073,24 @@
     "url": "https://x.com/BSCNews/status/2116382152288047255",
     "images": [
       "https://pbs.twimg.com/media/HV4eFI_XkAEO-Zg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793420548672-yu5m3d",
+    "source": "x",
+    "ts": "2026-10-31T04:22:28.672Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-10-31T04:18:27.000Z",
+    "reason": "Security firm identifies multiple crypto project websites linked to DNS hijacks.",
+    "text": "Blockaid: 12 Crypto Project Websites Linked to Frontend Attacks; Flap and Kintsu Confirm DNS Hijacks\n\nSecurity firm Blockaid initially flagged potential frontend attacks targeting Flap and Kintsu. It later identified 10 additional websites serving the Step Drainer wallet-draining",
+    "url": "https://x.com/WuBlockchain/status/2116384278267478430",
+    "images": [
+      "https://pbs.twimg.com/media/HV7oR1fbgAAW28C.jpg"
     ],
     "video": null
   }
