@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793299359832-l0u4bb",
-    "source": "x",
-    "ts": "2026-10-29T18:42:39.832Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T18:40:29.000Z",
-    "reason": "US ETF outflows indicate declining investor confidence in Bitcoin spot markets.",
-    "text": "🚨 UPDATE: US spot Bitcoin ETFs recorded $292 million in net outflows over the 30 days ending Oct. 26, their first negative 30-day total since late July, according to @Glassnode.",
-    "url": "https://x.com/Cointelegraph/status/2115876440021320096",
-    "images": [
-      "https://pbs.twimg.com/media/HV0aaE4W0AEClmh.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793299363533-skn37j",
-    "source": "x",
-    "ts": "2026-10-29T18:42:43.533Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "PeckShieldAlert",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-29T18:30:41.000Z",
-    "reason": "Potential security exploit that could compromise user funds.",
-    "text": "It seems @Polymarket UI may be compromised. Do NOT interact on the site for now.",
-    "url": "https://x.com/PeckShieldAlert/status/2115875362584535292",
-    "images": [
-      "https://pbs.twimg.com/media/HV0Xz4EXMAEBXss.png",
-      "https://pbs.twimg.com/media/HV0YInJXIAA30Ul.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793299961354-xzu4oy",
     "source": "x",
     "ts": "2026-10-29T18:52:41.354Z",
@@ -8038,5 +8001,36 @@
     "url": "https://x.com/BSCNews/status/2116550621775978913",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793460797517-40eb4x",
+    "source": "x",
+    "ts": "2026-10-31T15:33:17.517Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-10-31T15:30:00.000Z",
+    "reason": "Large-scale theft recovery by a major exchange is noteworthy.",
+    "text": "🚨 HUGE: Binance has announced that 90% of the stolen assets have been replenished.",
+    "url": "https://x.com/Cointelegraph/status/2116553282982203523",
+    "images": [
+      "https://pbs.twimg.com/media/HV96Y7ra8AA-QyN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793460800128-y1xz1z",
+    "source": "x",
+    "ts": "2026-10-31T15:33:20.128Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 90,
+    "originTimestamp": "2026-10-31T14:02:39.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Happy Bitcoin White Paper Day - If you have a friend that still hasn't read it, send them our way!",
+    "url": "https://x.com/saylor/status/2116552821164413075"
   }
 ]
