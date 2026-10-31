@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793298149037-2tpakx",
-    "source": "x",
-    "ts": "2026-10-29T18:22:29.037Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-29T17:59:13.000Z",
-    "reason": "Specific on-chain data point.",
-    "text": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC \n\n via @bitcoinmagazine @FutureBit",
-    "url": "https://x.com/BitcoinMagazine/status/2115870732869910667",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793298785750-g3ijsc",
-    "source": "x",
-    "ts": "2026-10-29T18:33:05.750Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T18:32:04.000Z",
-    "reason": "Possible security exploit and user losses reported.",
-    "text": "Multiple Polymarket Users Report Stolen Funds as Platform Restricts Trading and Launches Investigation\n\nMultiple Polymarket users reported unauthorized fund transfers, with some claiming losses of hundreds of thousands of dollars. Users suspected a possible frontend compromise,",
-    "url": "https://x.com/WuBlockchain/status/2115874323806519631",
-    "images": [
-      "https://pbs.twimg.com/media/HV0YevubIAAOIvO.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793298791790-bwyh22",
     "source": "x",
     "ts": "2026-10-29T18:33:11.790Z",
@@ -8039,5 +8005,40 @@
     "reason": "No notable move in crypto prices or events described.",
     "text": "Elon Musk answers the most ambitious question: “What do we do after a Terafab?”\n\nHow do we achieve a PETAWATT-scale future built on the Moon?\n\nThe vision is to use Tesla Optimus robots, humans and local lunar manufacturing to build massive compute infrastructure, then launch it",
     "url": "https://x.com/elonmusk/status/2116546023715639345"
+  },
+  {
+    "id": "x-1793459527666-b6pcok",
+    "source": "x",
+    "ts": "2026-10-31T15:12:07.666Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-31T15:04:34.000Z",
+    "reason": "Binance replenished 90% of stolen assets, indicating recovery and trust restoration.",
+    "text": "Binance: 90% of Stolen Assets Replenished; Withdrawals Set to Resume on Nov. 1\n\nBinance announced that it has now replenished 90% of the stolen asset shortfall. The top ten major tokens—including BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC—are now 100% fully backed",
+    "url": "https://x.com/WuBlockchain/status/2116546881715372246",
+    "images": [
+      "https://pbs.twimg.com/media/HV98HJubkAAJVX_.jpg",
+      "https://pbs.twimg.com/media/HV98IFWawAAc26l.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793459531320-71xdft",
+    "source": "x",
+    "ts": "2026-10-31T15:12:11.320Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-10-31T15:04:22.000Z",
+    "reason": "Specific event about a major crypto heist.",
+    "text": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+    "url": "https://x.com/DecryptMedia/status/2116546831593230422",
+    "images": [],
+    "video": null
   }
 ]
