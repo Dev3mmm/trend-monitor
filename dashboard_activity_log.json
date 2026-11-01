@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793310123720-staqh3",
-    "source": "x",
-    "ts": "2026-10-29T21:42:03.720Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Phyrex",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-29T21:32:29.000Z",
-    "reason": "Possible security incident with Binance, hot wallet theft reported.",
-    "text": "疑似 Binance 被攻击的热钱包总流出资金疑似 56.28亿 美元，目前已经被冻结的资金为 23.9 亿美元，有可能的受损金额为 32.38 亿美元。\n\n该数字只是疑似受损的金额，实际情况还要等 Binance 的公布。",
-    "url": "https://x.com/PhyrexNi/status/2115920788599820630",
-    "images": [
-      "https://pbs.twimg.com/media/HV1CbzWbQAA-MVI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793310125870-ggddow",
     "source": "x",
     "ts": "2026-10-29T21:42:05.870Z",
@@ -7962,5 +7944,18 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "#PeckShieldAlert In October 2026, the crypto industry experienced 56 major hacks, resulting in total losses of $6.48B, a ~745% month-over-month increase from September’s $766.49M.\n\nThe #Binance incident (~$6.3B, with $3B already frozen) has jumped to #1 among the largest crypto",
     "url": "https://x.com/PeckShieldAlert/status/2116754784330072346"
+  },
+  {
+    "id": "x-1793509358806-72utc8",
+    "source": "x",
+    "ts": "2026-11-01T05:02:38.806Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-01T04:59:00.000Z",
+    "reason": "No notable move in price or specific event is mentioned.",
+    "text": "The man behind crypto's most successful platform.\n\nMeet @SergeyNazarov, the founder of @Chainlink $LINK - the oracle and infra platform underpinning nearly the entire crypto industry ⬇️",
+    "url": "https://x.com/BSCNews/status/2116756871185117678"
   }
 ]
