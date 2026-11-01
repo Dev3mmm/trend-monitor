@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1793308956964-91lgjq",
-    "source": "x",
-    "ts": "2026-10-29T21:22:36.964Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Phyrex",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-29T21:11:35.000Z",
-    "reason": "Circle 冻结了大量USDC，涉及金额巨大。",
-    "text": "Circle 冻结了其中约 8.23 亿美元的 USDC 。",
-    "url": "https://x.com/PhyrexNi/status/2115915196732678388",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793308960884-cnddgh",
     "source": "x",
     "ts": "2026-10-29T21:22:40.884Z",
@@ -7986,6 +7970,25 @@
     "images": [
       "https://pbs.twimg.com/media/HWAOLtMakAEYG53.jpg",
       "https://pbs.twimg.com/media/HWAOL_lbwAAhYtg.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793500323692-1z865e",
+    "source": "x",
+    "ts": "2026-11-01T02:32:03.692Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T02:29:40.000Z",
+    "reason": "No notable crypto-related event or use of crypto in the tweet.",
+    "text": "🇺🇸 JUST IN: A federal judge dismissed Trump’s lawsuit against The Wall Street Journal with prejudice, ruling he failed to plausibly allege actual malice.",
+    "url": "https://x.com/Cointelegraph/status/2116719289474404372",
+    "images": [
+      "https://pbs.twimg.com/media/HWAY-ToWsAA_4c-.jpg",
+      "https://pbs.twimg.com/media/HWAY-e9XgAA6CHw.jpg"
     ],
     "video": null
   }
