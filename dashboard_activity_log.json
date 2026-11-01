@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793315549237-y0dut5",
-    "source": "x",
-    "ts": "2026-10-29T23:12:29.237Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-29T22:58:35.000Z",
-    "reason": "Noise: Generic statement with no real content.",
-    "text": "Exactly",
-    "url": "https://x.com/elonmusk/status/2115943007627141584"
-  },
-  {
-    "id": "x-1793316171250-huf9j0",
-    "source": "x",
-    "ts": "2026-10-29T23:22:51.250Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-29T23:22:09.000Z",
-    "reason": "Regulatory update on a significant frozen amount.",
-    "text": "We are aware of differing figures circulating publicly regarding the amount frozen, including references to $1.8 billion.\n\nFor clarity, the current verified total frozen is $2.54 billion. This figure may continue to increase as our teams work closely with law enforcement,",
-    "url": "https://x.com/binance/status/2115947325617299903",
-    "images": [
-      "https://pbs.twimg.com/media/HV1a3iRakAAkHZG.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793316176323-jzogvj",
     "source": "x",
     "ts": "2026-10-29T23:22:56.323Z",
@@ -7931,5 +7900,39 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "The $PURR memecoin has been well ahead of the market this week.\n\n$PURR on @HyperliquidX is the fastest-growing major memecoin in the entire industry this week, up +23% at time of writing.\n\nit outpaces still impressive growth from the likes of @pepecoineth $PEPE and",
     "url": "https://x.com/BSCNews/status/2116851495207412205"
+  },
+  {
+    "id": "x-1793532760677-73pe59",
+    "source": "x",
+    "ts": "2026-11-01T11:32:40.677Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 16,
+    "originTimestamp": "2026-11-01T11:15:53.000Z",
+    "reason": "New withdrawal networks and assets enabled for MATIC and AVAXC.",
+    "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ MATIC (Polygon): POL, USDT, USDC\n✅ AVAXC: AVAX, USDT, USDC\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC",
+    "url": "https://x.com/binance/status/2116855614634852611",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793532765715-sc25p4",
+    "source": "x",
+    "ts": "2026-11-01T11:32:45.715Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T11:30:46.000Z",
+    "reason": "Exploit involving a significant loss of Prom tokens.",
+    "text": "⚡️ INTERESTING: The Binance hacker reportedly dumped 908,793 $PROM worth roughly $5 million into a nearly empty Uniswap V2 pool and received just $71 in $ETH.\n\nKarma or bad luck?",
+    "url": "https://x.com/Cointelegraph/status/2116855462935024090",
+    "images": [
+      "https://pbs.twimg.com/media/HWCU0XSWwAA7UR7.jpg"
+    ],
+    "video": null
   }
 ]
