@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793338340371-z09ift",
-    "source": "x",
-    "ts": "2026-10-30T05:32:20.371Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-30T05:24:27.000Z",
-    "reason": "No notable crypto-related news or move in this tweet.",
-    "text": "🚨 UPDATE: North Korea’s TraderTraitor group, tied to the $388M Bitget exploit, is likely also behind the $6.3B Binance hack, says ZachXBT. \n\nStolen funds from both landed at one address.",
-    "url": "https://x.com/Cointelegraph/status/2116038499757428998"
-  },
-  {
-    "id": "x-1793338928755-u9stgo",
-    "source": "x",
-    "ts": "2026-10-30T05:42:08.755Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T05:38:00.000Z",
-    "reason": "Arbitrum's full support and integration with PumpFun's platform is a notable development in the DeFi space.",
-    "text": "Arbitrum lands full support from PumpFun.\n\n@PumpFun has announced that its platform is now live on the leading @arbitrum L2 network.\n\nUsers on the $PUMP platform can now trade any $ARB native token, directly with their $USDC balance.\n\nPumpFun has made several similar",
-    "url": "https://x.com/BSCNews/status/2116041910225936555",
-    "images": [
-      "https://pbs.twimg.com/media/HVzpF38W8AA-k85.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793338931497-m1p6na",
     "source": "x",
     "ts": "2026-10-30T05:42:11.497Z",
@@ -7873,6 +7842,42 @@
     "url": "https://x.com/BSCNews/status/2117031431071207428",
     "images": [
       "https://pbs.twimg.com/media/HWCPN6PW4AAZ8wi.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793575319976-m2dgek",
+    "source": "x",
+    "ts": "2026-11-01T23:21:59.976Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 48,
+    "originTimestamp": "2026-11-01T22:33:32.000Z",
+    "reason": "Wallet linked to Binance hacker activities detected on Uniswap.",
+    "text": "A wallet linked to the @binance hacker sold 908,793 $PROM tokens worth about $5 million into a nearly empty @Uniswap V2 pool and received 0.0316 $ETH, about $71.\n\nMore here:",
+    "url": "https://x.com/BSCNews/status/2117033789776110078",
+    "images": [
+      "https://pbs.twimg.com/media/HWEshDPXgAI2Pk7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793575322882-lmfjdb",
+    "source": "x",
+    "ts": "2026-11-01T23:22:02.882Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-01T23:14:23.000Z",
+    "reason": "Price and event are significant with potential security implications.",
+    "text": "🚨 JUST IN: BTCPay Server urges users to shut down their instances after reports that attackers swept hot wallets on its servers.",
+    "url": "https://x.com/Cointelegraph/status/2117032533938549058",
+    "images": [
+      "https://pbs.twimg.com/media/HWE100IbUAAniFb.jpg"
     ],
     "video": null
   }
