@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793325799586-o4xzg9",
-    "source": "x",
-    "ts": "2026-10-30T02:03:19.586Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-30T01:54:00.000Z",
-    "reason": "No notable move in the mentioned ETH price.",
-    "text": "Like midnight-3:native and $DUST ...\n\nThe @MidnightNtwrk ecosystem plays host to two entirely different tokens. Make sure you understand them ⬇️",
-    "url": "https://x.com/BSCNews/status/2115985538755035442"
-  },
-  {
-    "id": "x-1793326949556-b0s2oo",
-    "source": "x",
-    "ts": "2026-10-30T02:22:29.556Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T02:14:15.000Z",
-    "reason": "Important regulatory and industry leadership statement about security standards.",
-    "text": "🚨 LATEST: OKX CEO Star Xu says the Binance hack should serve as a wake-up call for the industry, and urges exchange CEOs to unite on stronger shared security standards.\n\n“Security is everyone’s responsibility. No company can protect the future of crypto alone.”",
-    "url": "https://x.com/Cointelegraph/status/2115990635068916013",
-    "images": [
-      "https://pbs.twimg.com/media/HV2CRAXWgAAWjt9.jpg",
-      "https://pbs.twimg.com/media/HV2CRNeXkAA50Aj.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793327538826-yc9nr4",
     "source": "x",
     "ts": "2026-10-30T02:32:18.826Z",
@@ -7877,5 +7845,36 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Face uniqueness checks are now live in PiVerify, and @PiCoreTeam has also attached price charts to its BlockExplorer, two usability upgrades landing on the same day.\n\nBSCN keeps every $PI story it has published in one place, from KYC migration to ecosystem apps and wallet",
     "url": "https://x.com/BSCNews/status/2116923923883594221"
+  },
+  {
+    "id": "x-1793550107365-hfb2ak",
+    "source": "x",
+    "ts": "2026-11-01T16:21:47.365Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T16:19:07.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Hyperliquid's $PURR Memecoin Leads Major Memecoins With 23% Weekly Gain\n\nFind us on Reddit:",
+    "url": "https://x.com/BSCNews/status/2116928190199353835"
+  },
+  {
+    "id": "x-1793550113004-u5d41b",
+    "source": "x",
+    "ts": "2026-11-01T16:21:53.004Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-01T16:12:16.000Z",
+    "reason": "Binance initiating withdrawal restoration after a disruption.",
+    "text": "Binance began restoring withdrawals in phases at 06:00 UTC on November 1, 2026. By 12:36 UTC, withdrawals had resumed for all 15 networks and assets in the initial phase. After an initial spike, withdrawal volumes have declined and are stabilising as expected, while deposit",
+    "url": "https://x.com/binance/status/2116926305254133892",
+    "images": [
+      "https://pbs.twimg.com/media/HWDVPwMaIAADXLQ.jpg"
+    ],
+    "video": null
   }
 ]
