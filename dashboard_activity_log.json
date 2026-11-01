@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793319879912-8sjczs",
-    "source": "x",
-    "ts": "2026-10-30T00:24:39.912Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T00:13:40.000Z",
-    "reason": "No notable move in price or significant action described.",
-    "text": "We are working non-stop to resolve this issue. Binance will cover all losses.\n\nAs a precaution, all deposits and withdrawals are temporarily suspended while our team conducts security checks, freezes funds, and works with law enforcement.\n\nWe are working around the clock and will",
-    "url": "https://x.com/binance/status/2115960292115124558"
-  },
-  {
-    "id": "x-1793320343613-k2nn2n",
-    "source": "x",
-    "ts": "2026-10-30T00:32:23.613Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T00:30:53.000Z",
-    "reason": "Security council action to recover stolen funds.",
-    "text": "Arbitrum Security Council Takes Emergency Action to Transfer Binance-Related Stolen Funds to an Intermediary Frozen Wallet\n\nThe Arbitrum Security Council announced that it has taken emergency action to rescue 74,559,805 ARB and 8,425 ETH held in an address on Arbitrum One",
-    "url": "https://x.com/WuBlockchain/status/2115964622889210000",
-    "images": [
-      "https://pbs.twimg.com/media/HV1qmf_bYAE-pZk.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793320349352-hgv8kx",
     "source": "x",
     "ts": "2026-10-30T00:32:29.352Z",
@@ -7902,5 +7871,31 @@
     "reason": "No factual claim or specific event mentioned.",
     "text": "Starlink saves lives",
     "url": "https://x.com/elonmusk/status/2116881187394445633"
+  },
+  {
+    "id": "x-1793539945827-apink5",
+    "source": "x",
+    "ts": "2026-11-01T13:32:25.827Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T13:31:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🤖 NEW: DeepSeek has released “Super-Agent,” an open-source coding agent prototype that monitors developer group chats and suggests solutions without prompting, aiming to rival Anthropic’s Claude Code.",
+    "url": "https://x.com/Cointelegraph/status/2116885723601068339"
+  },
+  {
+    "id": "x-1793539950332-gm7jl9",
+    "source": "x",
+    "ts": "2026-11-01T13:32:30.332Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T13:30:00.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "OpenAI Pares Funding Round Target to Up to $20 Billion Amid Tech Selloff.\n\nThe ChatGPT maker has cut its goal from about $30 billion and is seeking a $1.25 trillion post-money valuation, the Financial Times reported, with CNBC confirming the lower target on Saturday.",
+    "url": "https://x.com/DecryptMedia/status/2116885470315696357"
   }
 ]
