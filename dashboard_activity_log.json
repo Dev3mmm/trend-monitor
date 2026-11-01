@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793311939699-opzjsc",
-    "source": "x",
-    "ts": "2026-10-29T22:12:19.699Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 30,
-    "originTimestamp": "2026-10-29T21:41:59.000Z",
-    "reason": "No notable move; statement about security incident.",
-    "text": "is not affected by the reported  security incident. We are a separate, independent platform, and customer funds and services are secure and operating normally.\n\nRest assured, all user funds are safe.",
-    "url": "https://x.com/cz_binance/status/2115928236341534787"
-  },
-  {
-    "id": "x-1793311943168-34fyux",
-    "source": "x",
-    "ts": "2026-10-29T22:12:23.168Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-29T22:04:05.000Z",
-    "reason": "Notable reserve information from a major player in the crypto industry.",
-    "text": "⚡️ UPDATE: Binance held approximately $165 billion in crypto reserves as of October 1, accounting for nearly 69% of reserves across eight major exchanges, according to CoinMarketCap.",
-    "url": "https://x.com/Cointelegraph/status/2115927677500887243",
-    "images": [
-      "https://pbs.twimg.com/media/HV1JASpb0AA1XW8.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793312541549-65a6ox",
     "source": "x",
     "ts": "2026-10-29T22:22:21.549Z",
@@ -7938,5 +7907,34 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "BREAKING: 🇺🇸🇮🇷Iran says the Strait of Hormuz could reopen in 48 HOURS, as oil continues to surge.\n\nForeign Minister Abbas Araghchi says the plan, reached with Qatari mediators, depends on the US meeting Iran's conditions:\n\n1. Lifting the sanctions imposed after the July deal",
     "url": "https://x.com/coinbureau/status/2116794873525543208"
+  },
+  {
+    "id": "x-1793519519156-ju97bp",
+    "source": "x",
+    "ts": "2026-11-01T07:51:59.156Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 91,
+    "originTimestamp": "2026-11-01T06:20:36.000Z",
+    "reason": "Specific institutional announcement about restored withdrawals for various assets.",
+    "text": "Withdrawal Update\n\nWithdrawals have now been restored for the following assets and networks:\n\n- Ethereum Network: USDC, USDT, ETH\n- BNB Smart Chain (BSC): USDC, USDT, BNB\n\nWe will continue to restore additional assets and networks in phases following the completion of our",
+    "url": "https://x.com/binance/status/2116799757507305516",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793519524563-sme8gl",
+    "source": "x",
+    "ts": "2026-11-01T07:52:04.563Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-01T07:43:50.000Z",
+    "reason": "No notable move or specific event, price is within recent range.",
+    "text": "PEPE sees an impressive week...\n\nDespite a stormy market driven by the hack on @Binance, @pepecoineth is among crypto's best performers.\n\nThe $PEPE memecoin is up +14% on the week, leading gains alongside the likes of @MidnightNtwrk and @quantnetwork",
+    "url": "https://x.com/BSCNews/status/2116798355296993781"
   }
 ]
