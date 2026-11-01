@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793308952957-8l8elt",
-    "source": "x",
-    "ts": "2026-10-29T21:22:32.957Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Binance",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-29T21:16:31.000Z",
-    "reason": "No notable new information provided, just a statement of awareness.",
-    "text": "Our teams are aware of reports of a potential security issue and are actively investigating. At this stage, we have not confirmed any impact to user funds.\n\nOur security teams are reviewing all relevant information with urgency, and we will provide updates through official",
-    "url": "https://x.com/binance/status/2115915708504900039",
-    "images": [
-      "https://pbs.twimg.com/media/HV090tGakAAWDrI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793308956964-91lgjq",
     "source": "x",
     "ts": "2026-10-29T21:22:36.964Z",
@@ -7985,6 +7967,25 @@
     "url": "https://x.com/BSCNews/status/2116703016820863180",
     "images": [
       "https://pbs.twimg.com/media/HV4gLXpXIAAmhem.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793497924489-wqyh7v",
+    "source": "x",
+    "ts": "2026-11-01T01:52:04.489Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-01T01:42:34.000Z",
+    "reason": "North Korean hackers moving significant funds through a cryptocurrency relay protocol.",
+    "text": "North Korean Hackers Moved $38M Through Relay Protocol in 7 Hours\n\nOn-chain analyst Specter reported that North Korean hackers transferred approximately $38 million through Relay Protocol within seven hours, with transfers still ongoing at the time of the post. Despite Relay's",
+    "url": "https://x.com/WuBlockchain/status/2116707438628069850",
+    "images": [
+      "https://pbs.twimg.com/media/HWAOLtMakAEYG53.jpg",
+      "https://pbs.twimg.com/media/HWAOL_lbwAAhYtg.png"
     ],
     "video": null
   }
