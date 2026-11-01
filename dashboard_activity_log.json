@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1793310119092-bltyo1",
-    "source": "x",
-    "ts": "2026-10-29T21:41:59.092Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-29T21:37:45.000Z",
-    "reason": "No notable move, price is well inside the recent range.",
-    "text": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-    "url": "https://x.com/DecryptMedia/status/2115921051695579577",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793310120732-qxlvjd",
     "source": "x",
     "ts": "2026-10-29T21:42:00.732Z",
@@ -7959,5 +7943,24 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🚨 INSIGHT: Bloomberg strategist Mike McGlone warns Bitcoin staying below $80,000 could signal further weakness against US Treasury bonds.",
     "url": "https://x.com/Cointelegraph/status/2116749751349620779"
+  },
+  {
+    "id": "x-1793508141974-xx5pol",
+    "source": "x",
+    "ts": "2026-11-01T04:42:21.974Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-01T04:34:02.000Z",
+    "reason": "Resumption of withdrawals expected today, potentially significant for crypto users.",
+    "text": "⚡️JUST OUT: Binance announced to RESUME withdrawals in phases TODAY, starting between 06:00 and 09:00 UTC.\n\nAccess will reopen progressively as each asset and network completes security checks. Temporary delays are expected.\n\n\"PHASE ONE\" covers 15 networks, including Bitcoin,",
+    "url": "https://x.com/coinbureau/status/2116750588730077231",
+    "images": [
+      "https://pbs.twimg.com/media/HWA1V9facAAH5yv.jpg",
+      "https://pbs.twimg.com/media/HWA1Ws4aMAAiz-I.jpg"
+    ],
+    "video": null
   }
 ]
