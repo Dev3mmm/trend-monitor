@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1793321615767-7awdwa",
-    "source": "x",
-    "ts": "2026-10-30T00:53:35.767Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-30T00:50:00.000Z",
-    "reason": "Significant price increase after a major partnership announcement.",
-    "text": "Quant Network activity exploded +1,242% after key partnership announcement.\n\nIn late September, @quantnetwork announced a major partnership with @TCHtweets. The news sent the $QNT token surging, but that wasn't the only increase...\n\nBetween September 22 and September 28, daily",
-    "url": "https://x.com/BSCNews/status/2115969432849670149",
-    "images": [
-      "https://pbs.twimg.com/media/HVzoXmAXwAEiAYe.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793322129140-cawy83",
-    "source": "x",
-    "ts": "2026-10-30T01:02:09.140Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-30T00:58:13.000Z",
-    "reason": "Specific, verifiable amount related to a high-profile hack incident.",
-    "text": "🚨 UPDATE: Binance says the verified frozen amount from the hack has climbed to about $3B, up from $2.54B earlier.",
-    "url": "https://x.com/Cointelegraph/status/2115971499681005875",
-    "images": [
-      "https://pbs.twimg.com/media/HV1w3YvX0AAweT9.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793322745931-06jwln",
     "source": "x",
     "ts": "2026-10-30T01:12:25.931Z",
@@ -7892,5 +7856,31 @@
       "https://pbs.twimg.com/media/HWC3SMIWoAAH1Bw.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793542363162-8mf5ix",
+    "source": "x",
+    "ts": "2026-11-01T14:12:43.162Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 68,
+    "originTimestamp": "2026-11-01T13:04:26.000Z",
+    "reason": "No notable crypto-related content or movement mentioned.",
+    "text": "如果没有“内容补贴”大概率用户平均访问时长可能就会缩水了，现在的 X ，尤其是英文版已经完全就是 Tiktok + 抖音 + 小红书的搬运版本，当然也是免费版的 OnlyFans ，所以能大量的吸引人。",
+    "url": "https://x.com/PhyrexNi/status/2116894050888630733"
+  },
+  {
+    "id": "x-1793542366867-lwxn32",
+    "source": "x",
+    "ts": "2026-11-01T14:12:46.867Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-01T14:03:58.000Z",
+    "reason": "No factual claim or move is described.",
+    "text": "How to Run an AI Model Locally—And Why You Might Want To",
+    "url": "https://x.com/DecryptMedia/status/2116894017401029114"
   }
 ]
