@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793310133926-pxsbpx",
-    "source": "x",
-    "ts": "2026-10-29T21:42:13.926Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 8,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-29T21:31:39.000Z",
-    "reason": "US government bond yields now tracked in real time using Pyth Network's data.",
-    "text": "Pyth Network now streams US Treasury yields in real time\n\n@PythNetwork has launched live feeds for US government bond yields across seven terms, 2 to 30 years, updated every 200 milliseconds and calculated from Pyth’s Treasury price data. The US Treasury publishes its official",
-    "url": "https://x.com/BSCNews/status/2115919516119007742",
-    "images": [
-      "https://pbs.twimg.com/media/HV1BQ1KXEAAPUw_.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793310749624-5feyxy",
     "source": "x",
     "ts": "2026-10-29T21:52:29.624Z",
@@ -7957,5 +7939,21 @@
     "reason": "No notable crypto-related news.",
     "text": "OneKey Founder: Some Older iPhones Have Unpatchable Chip Vulnerabilities, Posing Risks to Seed Phrase Storage\n\nOneKey founder Yishi warned that factory-resetting an older iPhone, enabling airplane mode, and using it to store crypto wallet seed phrases offline may still be unsafe.",
     "url": "https://x.com/WuBlockchain/status/2116764451538104370"
+  },
+  {
+    "id": "x-1793512319171-felc58",
+    "source": "x",
+    "ts": "2026-11-01T05:51:59.171Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T05:50:08.000Z",
+    "reason": "FBI blame on Binance heist prompting heightened security measures from major exchanges.",
+    "text": "🔥Top crypto firms on HIGH ALERT\n\nExchanges and stablecoin issuers are STEPPING UP their response after the FBI blamed North Korea-linked $6.3B Binance heist.\n\n- Coinbase: Tightened cold storage controls as a precaution to protect customer assets.\n\n- Kraken: Is reviewing its",
+    "url": "https://x.com/coinbureau/status/2116769740542918980",
+    "images": [],
+    "video": null
   }
 ]
