@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793329033397-cfa74r",
-    "source": "x",
-    "ts": "2026-10-30T02:57:13.397Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 16,
-    "originTimestamp": "2026-10-30T02:40:44.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "BNB也不言语，只是一味的强势。\n\n市场对币安的信心十足，出事真扛事。",
-    "url": "https://x.com/cz_binance/status/2116000448893374892"
-  },
-  {
-    "id": "x-1793329333419-2jr8on",
-    "source": "x",
-    "ts": "2026-10-30T03:02:13.419Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T03:00:45.000Z",
-    "reason": "No notable move or news specific to crypto.",
-    "text": "⚡️ LATEST: Strategy CFO Andrew Kang will step down on Nov. 5.\n\n​CEO Phong Le will assume interim CFO duties until Senior VP Reza Virasteh takes over on Jan. 1, 2027.",
-    "url": "https://x.com/Cointelegraph/status/2116002337604985173"
-  },
-  {
-    "id": "x-1793329339278-mz9gv6",
-    "source": "x",
-    "ts": "2026-10-30T03:02:19.278Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T02:58:00.000Z",
-    "reason": "Significant institutional activity with high-value staking.",
-    "text": "Roughly half of all $INJ tokens are now staked...\n\nAccording to data from @Coinbase, a staggering 47% of @injective's current $INJ supply is now staked on the network and earning rewards.\n\nWith a current market cap of ~$805M, this means that nearly $380M worth of $INJ is staked.",
-    "url": "https://x.com/BSCNews/status/2116001644978880950",
-    "images": [
-      "https://pbs.twimg.com/media/HVzotYkWcAAkxdS.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793330539304-ztaa92",
     "source": "x",
     "ts": "2026-10-30T03:22:19.304Z",
@@ -7872,5 +7828,58 @@
     "reason": "No notable move in ETH price mentioned.",
     "text": "@PiCoreTeam's $PI Ventures is being called one of the best investors in the space...\n\nHere's what you need to know about its latest investment into @axisrobotics ⬇️",
     "url": "https://x.com/BSCNews/status/2116941085184266679"
+  },
+  {
+    "id": "x-1793554384340-juzfi0",
+    "source": "x",
+    "ts": "2026-11-01T17:33:04.340Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 80,
+    "originTimestamp": "2026-11-01T16:12:16.000Z",
+    "reason": "Notable regulatory and financial statement from a major institution.",
+    "text": "12 hours after withdrawals resumed: 2.1% net outflow, with most occurring in the first couple of hours.\n\nOver $1 billion in flow, too.\n\nTrust isn’t earned by what you say in good times. It’s earned by what you do in hard times.\n\nThank you for your trust! 🙏🙏🙏🙏",
+    "url": "https://x.com/cz_binance/status/2116946265422573686",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793554389351-aia5wd",
+    "source": "x",
+    "ts": "2026-11-01T17:33:09.351Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T17:31:08.000Z",
+    "reason": "Notable outflows from a major cryptocurrency exchange platform.",
+    "text": "🚨 ALERT: Binance recorded $3.53 billion in outflows after reopening withdrawals, equivalent to 2.7% of its assets, according to DefiLlama.",
+    "url": "https://x.com/Cointelegraph/status/2116946151198892222",
+    "images": [
+      "https://pbs.twimg.com/media/HWDnThDWkAA47aw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793554395646-nltphl",
+    "source": "x",
+    "ts": "2026-11-01T17:33:15.646Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-01T17:21:55.000Z",
+    "reason": "Russia's Moscow Exchange plans to include Bitcoin, Ether, and USDT in trading.",
+    "text": "Russia's Moscow Exchange Plans Bitcoin, Ether and USDT Trading From December 1.\n\nSenior managing director Boris Blokhin said Saturday the pilot will run on its stock market infrastructure from 6:50 a.m. to 11:50 p.m. Moscow time, with partner digital depositories holding the",
+    "url": "https://x.com/DecryptMedia/status/2116943834810569022",
+    "images": [
+      "https://pbs.twimg.com/media/HWDlC9eWgAAeojW.jpg",
+      "https://pbs.twimg.com/media/HWDlHRrWAAAO2yv.jpg"
+    ],
+    "video": null
   }
 ]
