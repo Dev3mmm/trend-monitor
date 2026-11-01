@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793317947808-hpdeib",
-    "source": "x",
-    "ts": "2026-10-29T23:52:27.808Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-29T23:46:00.000Z",
-    "reason": "Notable stablecoin growth on a new blockchain ecosystem.",
-    "text": "Ethena's USDe stablecoin is taking off on $AVAX.\n\n@ethena's $USDe has grown to outpace nearly all stablecoins outside of @Tether's $USDT and $USDC.\n\nNow it's making serious inroads in the @Avax ecosystem. \n\nUSDe's supply on Avalanche is up +211% in the past 30-days, now at more",
-    "url": "https://x.com/BSCNews/status/2115953326756131259",
-    "images": [
-      "https://pbs.twimg.com/media/HVzoNjqX0AAR3aY.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793317952424-c1uk6d",
-    "source": "x",
-    "ts": "2026-10-29T23:52:32.424Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-29T23:45:00.000Z",
-    "reason": "Notable statement about a crypto platform's response to an attack.",
-    "text": "🚨 UPDATE: Cryptodotcom says it remains unaffected by the Binance attack and is blocking addresses linked to the incident.",
-    "url": "https://x.com/Cointelegraph/status/2115953074745553046",
-    "images": [
-      "https://pbs.twimg.com/media/HV1fWZgbsAEMEwr.jpg",
-      "https://pbs.twimg.com/media/HV1fWaXasAAdy4K.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793318541748-rstfze",
     "source": "x",
     "ts": "2026-10-30T00:02:21.748Z",
@@ -7940,5 +7903,31 @@
     "url": "https://x.com/binance/status/2116871932075516174",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793537522121-fvbc6x",
+    "source": "x",
+    "ts": "2026-11-01T12:52:02.121Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T12:50:48.000Z",
+    "reason": "Generic meme without crypto or blockchain content",
+    "text": "I have this great idea for a drug called Regretamine. One dose and all your regrets are gone!\n\nIncluding, obviously, having taken Regretamine in the first place.",
+    "url": "https://x.com/elonmusk/status/2116875604889112772"
+  },
+  {
+    "id": "x-1793537525373-iixdhi",
+    "source": "x",
+    "ts": "2026-11-01T12:52:05.373Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-01T12:44:41.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "We found room for even more orange.",
+    "url": "https://x.com/saylor/status/2116874067353469187"
   }
 ]
