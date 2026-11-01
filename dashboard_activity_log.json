@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793327558882-6mpz38",
-    "source": "x",
-    "ts": "2026-10-30T02:32:38.882Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 68,
-    "originTimestamp": "2026-10-30T01:23:25.000Z",
-    "reason": "No notable crypto-related news or move.",
-    "text": "User funds are SAFU!\n\nYet, this pregnant lady 👇 pulled an all nighter, along side hundreds of Binancians. \n\nMany industry friends and even competitors (including some previously-not-so-friendly ones) provided very much needed help. 🙏\n\nIt hurts, but we will survive. 💪",
-    "url": "https://x.com/cz_binance/status/2115993068507897936"
-  },
-  {
-    "id": "x-1793328144856-r1wuyt",
-    "source": "x",
-    "ts": "2026-10-30T02:42:24.856Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T02:34:18.000Z",
-    "reason": "Exploit involving Binance and potential theft of $6.3B, significant financial impact.",
-    "text": "🚨 JUST IN: Binance says the hack likely stemmed from a compromised DevOps engineer’s laptop, with no sign of a private key leak.\n\nIt puts the total impact at about $6.3B.",
-    "url": "https://x.com/Cointelegraph/status/2115995681433264481",
-    "images": [
-      "https://pbs.twimg.com/media/HV2G28LW4AAskR6.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793328751512-910waz",
     "source": "x",
     "ts": "2026-10-30T02:52:31.512Z",
@@ -7868,5 +7837,45 @@
     "reason": "No notable move or specific event described.",
     "text": "Blockchain data is transparent.",
     "url": "https://x.com/cz_binance/status/2116935260193915006"
+  },
+  {
+    "id": "x-1793552540136-v6pij8",
+    "source": "x",
+    "ts": "2026-11-01T17:02:20.136Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T17:00:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 INSIGHT: The Binance hack was detectable.\n\nAsked whether it could have been prevented, @Blockaid_ co-founder Ido Ben-Natan says yes, pointing to transaction simulation and validation that can flag malicious transactions before they're signed.\n\nThat layer should be standard for",
+    "url": "https://x.com/Cointelegraph/status/2116938317266850219",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116907783669129218/vid/avc1/1280x720/bG5iFF2GKmhDjJQH.mp4?tag=29",
+      "duration": 125,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116907783669129218/img/4jhuQ8kSH_3hSc9C.jpg"
+    }
+  },
+  {
+    "id": "x-1793552543007-6mmm0t",
+    "source": "x",
+    "ts": "2026-11-01T17:02:23.007Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-01T16:56:31.000Z",
+    "reason": "Large-scale outflows represent a significant liquidity event.",
+    "text": "🔥TODAY: Binance recorded $3,640,000,000 in net outflows between 06:00 and 15:30 UTC.\n\nWithdrawals reached $4.65 BILLION, while deposits totaled $1.01 BILLION.\n\nThe net outflow represents 2.1% of the exchange’s $171 BILLION in AUM, based on its latest available Proof of Reserves",
+    "url": "https://x.com/coinbureau/status/2116937440439193650",
+    "images": [
+      "https://pbs.twimg.com/media/HWDeRM1aAAA8RmR.png",
+      "https://pbs.twimg.com/media/HWDfTN3asAEP0lf.png"
+    ],
+    "video": null
   }
 ]
