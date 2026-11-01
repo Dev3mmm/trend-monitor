@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792082619939-lskl8q",
     "x-1792083131568-5radth",
     "x-1792083138367-222lam",
     "x-1792083144140-8ct8bt",
@@ -1999,7 +1998,8 @@
     "x-1793511138050-uazyf8",
     "x-1793512319171-felc58",
     "x-1793513534190-vupina",
-    "x-1793513545034-48cs06"
+    "x-1793513545034-48cs06",
+    "x-1793514720941-72bhck"
   ],
   "queue": [],
   "posted": [
@@ -2537,7 +2537,16 @@
       "at": 1793509928082,
       "status": "failed",
       "error": "cd83849e199539b2a068581a4.jpg\nUploading: sq_1793509928082_1.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261101/555310ab64db428dbf3347e118ec2349.jpg\nPublishing...\n\n\nFailed: API error [220094]: Hashtag count exceeds the allowed limit"
+    },
+    {
+      "text": "🔥 BIG: Tokenized stocks on Ethereum have grown 170% year over year to $827 million, according to Token Terminal.",
+      "final": "🔥 BIG: Tokenized stocks on Ethereum have grown 170% year over year to $827 million, according to Token Terminal.\n\n#Ethereum $ETH",
+      "images": [
+        "https://pbs.twimg.com/media/HWBQI_oWYAAsZY_.jpg"
+      ],
+      "at": 1793514725287,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793509928082
+  "lastPostAt": 1793514725287
 }
