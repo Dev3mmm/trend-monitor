@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793308321675-wu84ao",
-    "source": "x",
-    "ts": "2026-10-29T21:12:01.675Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Phyrex",
-    "ageMin": 55,
-    "originTimestamp": "2026-10-29T20:16:17.000Z",
-    "reason": "The tweet contains specific and significant financial news events.",
-    "text": "Binance 疑似遭受黑客攻击，25.3亿美元流入TORNADO\n\nCoinbase 财报不及预期\n\n两者相加导致 bitcoin:native 等加密货币短期大幅下跌",
-    "url": "https://x.com/PhyrexNi/status/2115913756752671082",
-    "images": [
-      "https://pbs.twimg.com/media/HV08WDFaMAAQVkf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793308324059-i0thoo",
     "source": "x",
     "ts": "2026-10-29T21:12:04.059Z",
@@ -7986,5 +7968,18 @@
       "https://pbs.twimg.com/media/HV_wAzMXoAEyNma.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793492544623-sfw3w0",
+    "source": "x",
+    "ts": "2026-11-01T00:22:24.623Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-01T00:15:00.000Z",
+    "reason": "No notable move in EU crypto regulation mentioned.",
+    "text": "Are Europe's MiCA Rules actually hurting crypto...?\n\nHere's how The EU's biggest piece of crypto regulation could actually be hurting blockchain innovation... ⬇️",
+    "url": "https://x.com/BSCNews/status/2116685400584638627"
   }
 ]
