@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793310129089-5qiidp",
-    "source": "x",
-    "ts": "2026-10-29T21:42:09.089Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 6,
-    "author": "Phyrex",
-    "ageMin": 13,
-    "originTimestamp": "2026-10-29T21:29:03.000Z",
-    "reason": "Tether面临重大资金冻结事件，可能引起资金链路的连锁反应。",
-    "text": "Tether CEO 表示，疑似攻击后 Tether 已经冻结了超过 15.67 亿美元的 USDT ，如果受损总金额仍然是 25.3亿 美元的话，目前 Tether + Circle 总冻结 23.9 亿美元，受损降低到 1.4 亿美元。\n\n估计 Binance 要给 Tether 和 Circle 发红包了。",
-    "url": "https://x.com/PhyrexNi/status/2115919727302422726",
-    "images": [
-      "https://pbs.twimg.com/media/HV1BYqaaIAAQLHQ.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793310131322-gatf04",
-    "source": "x",
-    "ts": "2026-10-29T21:42:11.322Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 7,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-29T21:32:27.000Z",
-    "reason": "Potential multibillion-dollar hack investigation by Binance",
-    "text": "🚨 LATEST: Binance is investigating a potential multibillion-dollar hack, with no confirmed impact on user funds.",
-    "url": "https://x.com/Cointelegraph/status/2115919718011851188",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793310133926-pxsbpx",
     "source": "x",
     "ts": "2026-10-29T21:42:13.926Z",
@@ -7960,5 +7926,36 @@
       "https://pbs.twimg.com/media/HWA8fJTaUAEIdNj.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793511138050-uazyf8",
+    "source": "x",
+    "ts": "2026-11-01T05:32:18.050Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T05:30:43.000Z",
+    "reason": "Notable institutional outflow from Ethereum ETFs",
+    "text": "⚡️ LATEST: US spot Ethereum ETFs have recorded 23 consecutive trading sessions of outflows, their longest streak since launch, according to Glassnode.",
+    "url": "https://x.com/Cointelegraph/status/2116764855600394327",
+    "images": [
+      "https://pbs.twimg.com/media/HWBCaeFWoAAEL5o.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793511142479-9a5jrs",
+    "source": "x",
+    "ts": "2026-11-01T05:32:22.479Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-01T05:29:07.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "OneKey Founder: Some Older iPhones Have Unpatchable Chip Vulnerabilities, Posing Risks to Seed Phrase Storage\n\nOneKey founder Yishi warned that factory-resetting an older iPhone, enabling airplane mode, and using it to store crypto wallet seed phrases offline may still be unsafe.",
+    "url": "https://x.com/WuBlockchain/status/2116764451538104370"
   }
 ]
