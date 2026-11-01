@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793337740731-ynz0pn",
-    "source": "x",
-    "ts": "2026-10-30T05:22:20.731Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T05:14:04.000Z",
-    "reason": "The tweet is a scam alert but lacks concrete, specific information to be news.",
-    "text": "‼️ Scam alert.\n\nWhenever you see a Kenyan flossing on social media with expensive phones, cars, and a luxury lifestyle without tracing his source of wealth or a clear audit of his work history, know he is a fraudster stealing U.S. taxes by falsifying the documents of ignorant",
-    "url": "https://x.com/amerix/status/2116035889029660867"
-  },
-  {
     "id": "x-1793337745187-s2jftp",
     "source": "x",
     "ts": "2026-10-30T05:22:25.187Z",
@@ -7870,5 +7857,23 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "A pretty incredible week for the $LINK ecosystem...\n\nBut the month of October has been even better. \n\nThe chart below doesn't show everything, including @Chainlink's launch on @StellarOrg and the introduction of Chainlink Fulcrum.",
     "url": "https://x.com/BSCNews/status/2116995191605428338"
+  },
+  {
+    "id": "x-1793568109834-sxjrlr",
+    "source": "x",
+    "ts": "2026-11-01T21:21:49.834Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-01T21:17:53.000Z",
+    "reason": "Significant fund movement and institutional response to the hack.",
+    "text": "⚡️ Binance reopened withdrawals after the $6.3B hack. Where did the money go?\n\nBinance: -$4.5B in 24h\n\nNext 10 exchanges combined: ~+$368M (OKX took most of it)\n\n₿ Coinbase +984 $BTC, Kraken +1,422 $BTC\n\nNearly 9 in 10 dollars leaving Binance didn’t land on a rival exchange.",
+    "url": "https://x.com/Cointelegraph/status/2117003215367537077",
+    "images": [
+      "https://pbs.twimg.com/media/HWEbNGOXwAAKzAX.jpg"
+    ],
+    "video": null
   }
 ]
