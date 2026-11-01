@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793316757638-2utfpf",
-    "source": "x",
-    "ts": "2026-10-29T23:32:37.638Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T23:29:38.000Z",
-    "reason": "Specific institutional action related to asset freezing.",
-    "text": "🚨 JUST IN: Binance officially confirms $2.54B in assets frozen so far, with the total potentially rising as efforts to trace funds continue.",
-    "url": "https://x.com/Cointelegraph/status/2115949208243261867",
-    "images": [
-      "https://pbs.twimg.com/media/HV1clbuaoAACgg4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793317199977-6qwl5q",
-    "source": "x",
-    "ts": "2026-10-29T23:39:59.977Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-29T23:35:00.000Z",
-    "reason": "Significant regulatory action involving stolen funds and cryptocurrency custody.",
-    "text": "🚨 UPDATE: World Liberty Financial has frozen $27M in USD1 and $2M in WLFI tied to the Binance hack, working with BitGo to lock down the stolen funds.\n\nFollow our live coverage for the latest developments 👇",
-    "url": "https://x.com/Cointelegraph/status/2115950558372901196",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793317388841-kd84xx",
-    "source": "x",
-    "ts": "2026-10-29T23:43:08.841Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-29T23:35:00.000Z",
-    "reason": "Notable institutional action in response to a hack.",
-    "text": "🚨 UPDATE: World Liberty Financial has frozen $27M in USD1 and $2M in WLFI tied to the Binance hack, working with BitGo to lock down the stolen funds.\n\nFollow our live coverage for the latest developments 👇",
-    "url": "https://x.com/Cointelegraph/status/2115950558372901196",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793317942175-4t3bo7",
     "source": "x",
     "ts": "2026-10-29T23:52:22.175Z",
@@ -7941,5 +7891,56 @@
       "https://pbs.twimg.com/media/HWCaex9agAAxkrC.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793536327074-5amu4s",
+    "source": "x",
+    "ts": "2026-11-01T12:32:07.074Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T12:30:47.000Z",
+    "reason": "New on-chain activity involving stolen SOL and its conversion to BTC",
+    "text": "🚨 LATEST: The Binance hacker is swapping stolen $SOL for $BTC through Relay Protocol after moving 486,970 $SOL worth $46.4 million in the past hour.",
+    "url": "https://x.com/Cointelegraph/status/2116870568230207957",
+    "images": [
+      "https://pbs.twimg.com/media/HWCijsEX0AAf2eX.jpg",
+      "https://pbs.twimg.com/media/HWCij_xXoAEXWjo.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793536332133-1y01x9",
+    "source": "x",
+    "ts": "2026-11-01T12:32:12.133Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T12:30:00.000Z",
+    "reason": "Significant regulatory relief for users.",
+    "text": "Binance Reopens Withdrawals, Says It Has Covered About 95% of Losses.\n\nBitcoin network withdrawals reopened first, followed by ETH, USDT and USDC on Ethereum and BNB, USDT and USDC on BNB Smart Chain, with more assets and networks to return in phases after security checks.",
+    "url": "https://x.com/DecryptMedia/status/2116870371043320070",
+    "images": [
+      "https://pbs.twimg.com/media/HWCVyK8WAAAc-TD.png",
+      "https://pbs.twimg.com/media/HWCVzyCW8AIQnWU.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793536336331-c5wslt",
+    "source": "x",
+    "ts": "2026-11-01T12:32:16.331Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-01T12:27:00.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Zebec Network's story is one worth knowing...\n\nLearn how @Zebec_HQ has grown from humble @Solana origins, through to becoming a serious player in the payments sector ⬇️",
+    "url": "https://x.com/BSCNews/status/2116869614231777704"
   }
 ]
