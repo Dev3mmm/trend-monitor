@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1793324528263-1k97ed",
-    "source": "x",
-    "ts": "2026-10-30T01:42:08.263Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-30T01:32:56.000Z",
-    "reason": "Ethereum price below the recent low of $2,204.",
-    "text": "🚨BREAKING: Ethereum falls below $2,200.\n\n$ETH is down nearly 7% in 24 hours, trading at $2,179.",
-    "url": "https://x.com/coinbureau/status/2115980236554969535",
-    "images": [
-      "https://pbs.twimg.com/media/HV14zp1bwAAImEd.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793325789818-6m632q",
-    "source": "x",
-    "ts": "2026-10-30T02:03:09.818Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T02:01:30.000Z",
-    "reason": "Price well outside recent range, potential significant move.",
-    "text": "NOW: $BTC drops below $77k",
-    "url": "https://x.com/BSCNews/status/2115987425445240909",
-    "images": [
-      "https://pbs.twimg.com/media/HV1_U4aXQAAn5ne.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793325795423-xsx9vs",
-    "source": "x",
-    "ts": "2026-10-30T02:03:15.423Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T02:00:43.000Z",
-    "reason": "Crypto Fear and Greed Index at lowest level since August, indicating a shift in sentiment.",
-    "text": "🚨  ALERT: The Crypto Fear and Greed Index has slid to 35, its lowest level since August, down from extreme greed just two months ago.",
-    "url": "https://x.com/Cointelegraph/status/2115987230606885311",
-    "images": [
-      "https://pbs.twimg.com/media/HV1_KnsXoAEvizc.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793325799586-o4xzg9",
     "source": "x",
     "ts": "2026-10-30T02:03:19.586Z",
@@ -7886,5 +7832,50 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116907491980394496/img/QxGQ_Lp8lM3bDF0f.jpg"
     }
+  },
+  {
+    "id": "x-1793549525788-xzyado",
+    "source": "x",
+    "ts": "2026-11-01T16:12:05.788Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T16:09:30.000Z",
+    "reason": "Political action committees spending significant amounts on cryptocurrency-related midterms.",
+    "text": "🚨JUST IN: Three major crypto super Political Action Committee (PACs) have spent nearly $170 million on the U.S. midterms, with their biggest bets favoring Republicans, CoinDesk reports.\n\n1. Fairshake spent $154 million. Coinbase donated $25 million to its midterm efforts in",
+    "url": "https://x.com/coinbureau/status/2116925611398877292",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793549528591-3ad7sq",
+    "source": "x",
+    "ts": "2026-11-01T16:12:08.591Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-01T16:03:51.000Z",
+    "reason": "Bitcoin ETF faces challenges due to Binance hack.",
+    "text": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+    "url": "https://x.com/DecryptMedia/status/2116924185649840590",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793549531930-3hmbf5",
+    "source": "x",
+    "ts": "2026-11-01T16:12:11.930Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-01T15:57:39.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Face uniqueness checks are now live in PiVerify, and @PiCoreTeam has also attached price charts to its BlockExplorer, two usability upgrades landing on the same day.\n\nBSCN keeps every $PI story it has published in one place, from KYC migration to ecosystem apps and wallet",
+    "url": "https://x.com/BSCNews/status/2116923923883594221"
   }
 ]
