@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1793327538826-yc9nr4",
-    "source": "x",
-    "ts": "2026-10-30T02:32:18.826Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T02:30:00.000Z",
-    "reason": "Coinbase CEO plans to sell shares, setting up potential future price targets.",
-    "text": "🚨 LATEST: Coinbase CEO Brian Armstrong plans to sell up to $1.31B in $COIN shares through October 2027.\n\nHe says the sales only kick in at high price targets, and most of his net worth stays in $COIN.",
-    "url": "https://x.com/Cointelegraph/status/2115994601224036619",
-    "images": [
-      "https://pbs.twimg.com/media/HV13P8EbsAAZLKc.png",
-      "https://pbs.twimg.com/media/HV13P81bYAA10i8.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793327544875-vk9bff",
-    "source": "x",
-    "ts": "2026-10-30T02:32:24.875Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "CZ 🔶 BNB",
-    "ageMin": 38,
-    "originTimestamp": "2026-10-30T01:54:08.000Z",
-    "reason": "Financial disclosure of Binance hack exposure.",
-    "text": "Binance hack, customer exposure:\n\nCustomer reserves: $165.4B\n\nStolen: $5.9B (3.6%)\n\nMinus frozen: -$3.0B\nMinus SAFU fund: -$1.17B\n\nNet uncovered: ~$1.7B (1.0%)\n\n... so even if Binance socialised losses (they say they won't), that seems to be the max exposure rn",
-    "url": "https://x.com/cz_binance/status/2115994499663233313",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793327550013-a260ge",
-    "source": "x",
-    "ts": "2026-10-30T02:32:30.013Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T02:26:00.000Z",
-    "reason": "Notable institutional integration with hardware wallets for BTC borrowing.",
-    "text": "You can now borrow against your $BTC directly in your Ledger wallet.\n\nThrough an integration with @morpho and @yield_xyz, users of @Ledger's hardware wallets can now take out Bitcoin-backed loans from inside their wallets.\n\nFor now, users can borrow stablecoin against their",
-    "url": "https://x.com/BSCNews/status/2115993591805784085",
-    "images": [
-      "https://pbs.twimg.com/media/HVzoplKWkAAO0s6.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793327554155-tc5m3t",
     "source": "x",
     "ts": "2026-10-30T02:32:34.155Z",
@@ -7874,6 +7821,56 @@
     "url": "https://x.com/binance/status/2116926305254133892",
     "images": [
       "https://pbs.twimg.com/media/HWDVPwMaIAADXLQ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793550730688-rxnu02",
+    "source": "x",
+    "ts": "2026-11-01T16:32:10.689Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T16:31:01.000Z",
+    "reason": "No notable move or new information provided.",
+    "text": "🚨 INSIGHT: Bitcoin closed October at $77,430, with its RSI holding above 50 for a third consecutive month.\n\nCould this signal the start of a new bull market?",
+    "url": "https://x.com/Cointelegraph/status/2116931022998622599"
+  },
+  {
+    "id": "x-1793550736331-lxqxkg",
+    "source": "x",
+    "ts": "2026-11-01T16:32:16.331Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-01T16:24:08.000Z",
+    "reason": "Notable institutional objection to tokenized shares.",
+    "text": "Nvidia and Nike Among 50 Companies Objecting to Tokenized Shares on OKX-ICE Venue.\n\nA notice dated October 30 lists 50 issuers objecting to tokenized versions of their stock on OKXICE, the 50-50 venture between OKX and NYSE owner Intercontinental Exchange, up from 38 two days",
+    "url": "https://x.com/DecryptMedia/status/2116929290549727431",
+    "images": [
+      "https://pbs.twimg.com/media/HWDXzzqXIAAsOy5.png",
+      "https://pbs.twimg.com/media/HWDX2P7W0AANG9Y.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793550740987-6zwn3q",
+    "source": "x",
+    "ts": "2026-11-01T16:32:20.987Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Michael Saylor",
+    "ageMin": 51,
+    "originTimestamp": "2026-11-01T15:40:56.000Z",
+    "reason": "No notable move; price is within its recent range.",
+    "text": "We have paid every Digital Credit dividend since inception. Starting today, $STRC dividends go daily. $MSTR",
+    "url": "https://x.com/saylor/status/2116928878383894780",
+    "images": [
+      "https://pbs.twimg.com/media/HWDL9QJXkAABetl.jpg"
     ],
     "video": null
   }
