@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793311405658-31is3r",
-    "source": "x",
-    "ts": "2026-10-29T22:03:25.658Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-29T21:56:14.000Z",
-    "reason": "Specific institutional statement on service integrity.",
-    "text": "🚨 JUST IN: BinanceUS reports it is unaffected by the Binance security incident, with user funds safe and services operating normally.",
-    "url": "https://x.com/Cointelegraph/status/2115925705871732909",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793311409964-rczj0d",
-    "source": "x",
-    "ts": "2026-10-29T22:03:29.964Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-29T21:55:35.000Z",
-    "reason": "Suspected hack involving billions of dollars in cryptocurrency networks.",
-    "text": "🚨 JUST IN: Approximately $5.7 billion left Binance-linked wallets across the Ethereum, Bitcoin, and TRON networks in a suspected hack that the exchange is currently investigating.",
-    "url": "https://x.com/Cointelegraph/status/2115925539735433264",
-    "images": [
-      "https://pbs.twimg.com/media/HV1GlGYXgAAF1my.jpg",
-      "https://pbs.twimg.com/media/HV1GlRuW8AAuNR4.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793311415941-foorkb",
     "source": "x",
     "ts": "2026-10-29T22:03:35.941Z",
@@ -7952,5 +7917,36 @@
     "url": "https://x.com/cz_binance/status/2116773248184844498",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793514720941-72bhck",
+    "source": "x",
+    "ts": "2026-11-01T06:32:00.941Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T06:30:41.000Z",
+    "reason": "Tokenized stocks on Ethereum have grown significantly year over year.",
+    "text": "🔥 BIG: Tokenized stocks on Ethereum have grown 170% year over year to $827 million, according to Token Terminal.",
+    "url": "https://x.com/Cointelegraph/status/2116779945758232763",
+    "images": [
+      "https://pbs.twimg.com/media/HWBQI_oWYAAsZY_.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793514724767-t1rav2",
+    "source": "x",
+    "ts": "2026-11-01T06:32:04.767Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-01T06:20:36.000Z",
+    "reason": "No notable move detected; withdrawal announcement is common and not newsworthy.",
+    "text": "BTC withdrawal is live.",
+    "url": "https://x.com/cz_binance/status/2116778339918877033"
   }
 ]
