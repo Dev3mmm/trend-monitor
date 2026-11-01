@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793310114320-49aznc",
-    "source": "x",
-    "ts": "2026-10-29T21:41:54.320Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Phyrex",
-    "ageMin": 27,
-    "originTimestamp": "2026-10-29T21:14:29.000Z",
-    "reason": "Circle CEO表示协助并冻结相关资产超过8亿美元。",
-    "text": "Circle CEO 表示正在全力协助，并且冻结相关资产超过 8 亿美元。",
-    "url": "https://x.com/PhyrexNi/status/2115921861850910735",
-    "images": [
-      "https://pbs.twimg.com/media/HV1Dmi4bgAAlLDe.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793310116786-r94u1w",
-    "source": "x",
-    "ts": "2026-10-29T21:41:56.786Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T21:39:11.000Z",
-    "reason": "Notifiable security issue with potential billions at stake.",
-    "text": "⚡️LATEST: Binance says it has \"not confirmed any impact to user funds\" amid a potential security issue.\n\nThe exchange says its security teams are actively investigating and will share updates through official channels.\n\nTether and Circle have frozen over $2.3 BILLION in",
-    "url": "https://x.com/coinbureau/status/2115921414087967079",
-    "images": [
-      "https://pbs.twimg.com/media/HV1DTwma8AAR_ve.png",
-      "https://pbs.twimg.com/media/HV1DTwYb0AAqP2L.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793310119092-bltyo1",
     "source": "x",
     "ts": "2026-10-29T21:41:59.092Z",
@@ -7964,5 +7927,37 @@
       "https://pbs.twimg.com/media/HV4gXQOWgAAYRTD.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793507547154-ux4ntg",
+    "source": "x",
+    "ts": "2026-11-01T04:32:27.154Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-01T04:31:36.000Z",
+    "reason": "Binance resuming withdrawals could impact liquidity and user trust.",
+    "text": "⚡️JUST OUT: Binance announced to RESUME withdrawals in phases TODAY, starting between 06:00 and 09:00 UTC.\n\nAccess will reopen progressively as each asset and network completes security checks. Temporary delays are expected.\n\n\"PHASE ONE\" covers 15 networks, including Bitcoin,",
+    "url": "https://x.com/coinbureau/status/2116749976235864295",
+    "images": [
+      "https://pbs.twimg.com/media/HWAzLDNaAAATgZt.jpg",
+      "https://pbs.twimg.com/media/HWA0SjRaoAA6Wn_.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793507551338-g314b4",
+    "source": "x",
+    "ts": "2026-11-01T04:32:31.338Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T04:30:42.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨 INSIGHT: Bloomberg strategist Mike McGlone warns Bitcoin staying below $80,000 could signal further weakness against US Treasury bonds.",
+    "url": "https://x.com/Cointelegraph/status/2116749751349620779"
   }
 ]
