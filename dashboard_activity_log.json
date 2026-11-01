@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793310749624-5feyxy",
-    "source": "x",
-    "ts": "2026-10-29T21:52:29.624Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-29T21:50:27.000Z",
-    "reason": "Possible security incident update with user funds safe",
-    "text": "🚨 JUST IN:  reports it is unaffected by the  security incident, with user funds safe and services operating normally.",
-    "url": "https://x.com/Cointelegraph/status/2115924247600058375",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793310755459-uncrr9",
-    "source": "x",
-    "ts": "2026-10-29T21:52:35.459Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Phyrex",
-    "ageMin": 15,
-    "originTimestamp": "2026-10-29T21:36:42.000Z",
-    "reason": "No notable news, as it's an internal event without concrete details.",
-    "text": "阶段性回顾一下 @binance 这次疑似被盗事件还好是发生在北京时间的晚间，也就是美国时间的白天，所以事件发生后 @tether 和 @circle 都能在第一时间反应，从而冻结链上资金，减少损失。\n\n这次被盗不知道和某个国家的黑客团队是不是相关。",
-    "url": "https://x.com/PhyrexNi/status/2115922559569158547",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793311401696-ybtmh2",
-    "source": "x",
-    "ts": "2026-10-29T22:03:21.696Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-29T21:59:00.000Z",
-    "reason": "Security breach investigation by Binance indicating potential user funds issue.",
-    "text": "Binance investigates a possible security breach\n\n@binance says its security teams are looking into reports of a potential security issue and that user funds are “completely safe.” The exchange has not confirmed a hack, says it will share updates only through official channels,",
-    "url": "https://x.com/BSCNews/status/2115926399416402420",
-    "images": [
-      "https://pbs.twimg.com/media/HV1EUiFWYAAJpEi.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793311405658-31is3r",
     "source": "x",
     "ts": "2026-10-29T22:03:25.658Z",
@@ -7953,6 +7903,53 @@
     "reason": "FBI blame on Binance heist prompting heightened security measures from major exchanges.",
     "text": "🔥Top crypto firms on HIGH ALERT\n\nExchanges and stablecoin issuers are STEPPING UP their response after the FBI blamed North Korea-linked $6.3B Binance heist.\n\n- Coinbase: Tightened cold storage controls as a precaution to protect customer assets.\n\n- Kraken: Is reviewing its",
     "url": "https://x.com/coinbureau/status/2116769740542918980",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793513534190-vupina",
+    "source": "x",
+    "ts": "2026-11-01T06:12:14.190Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T06:10:00.000Z",
+    "reason": "Specific adoption by a major wallet affects adoption potential.",
+    "text": "MetaMask just gave Stellar a massive stamp of approval...\n\nLeading crypto wallet @MetaMask has added @StellarOrg as a default network on its platform. \n\nThe move could spell much faster retail adoption for the scalable L1 network.\n\nIt's been a huge 2026 for the Stellar",
+    "url": "https://x.com/BSCNews/status/2116774739515523137",
+    "images": [
+      "https://pbs.twimg.com/media/HV4ggA5W0AAFPmV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793513538264-gzza9l",
+    "source": "x",
+    "ts": "2026-11-01T06:12:18.264Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 120,
+    "originTimestamp": "2026-11-01T04:11:46.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Update: First batch network is $BTC bitcoin network",
+    "url": "https://x.com/binance/status/2116773465072251141"
+  },
+  {
+    "id": "x-1793513545034-48cs06",
+    "source": "x",
+    "ts": "2026-11-01T06:12:25.034Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 32,
+    "originTimestamp": "2026-11-01T05:39:51.000Z",
+    "reason": "Mention of a notable Binance network withdrawal phase opening, with potential impact on traffic and user experience.",
+    "text": "Phase 1 of withdrawals reopens @binance today, from 06:00–09:00 UTC, covering 15 networks. Not all 15 open at once but come back progressively to manage traffic volume, so expect a more bumpy experience in the beginning and gets smoothier closer to 09:00 UTC.\nI saw a lot of",
+    "url": "https://x.com/cz_binance/status/2116773248184844498",
     "images": [],
     "video": null
   }
