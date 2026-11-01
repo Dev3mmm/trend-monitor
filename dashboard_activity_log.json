@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793308964302-7mpqzv",
-    "source": "x",
-    "ts": "2026-10-29T21:22:44.302Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 6,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-29T21:13:29.000Z",
-    "reason": "Specific allegation of a significant financial hack",
-    "text": "🚨 ALERT: Binance allegedly suffered a $2.77 billion hack.",
-    "url": "https://x.com/Cointelegraph/status/2115914944696689147",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2115914937235107840/vid/avc1/720x536/ZHTf1-T_xiLoERRN.mp4?tag=16",
-      "duration": 13,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115914937235107840/img/H4Y_f5PzaDvdQ0Ai.jpg"
-    }
-  },
-  {
-    "id": "x-1793309537962-46it4o",
-    "source": "x",
-    "ts": "2026-10-29T21:32:17.962Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-29T21:29:09.000Z",
-    "reason": "No notable security issue or move in token price mentioned.",
-    "text": "Our teams are aware of reports of a potential security issue and are actively investigating. User funds are completely safe.\n\nOur security teams are reviewing all relevant information with urgency, and we will provide updates through official Binance channels as soon as we have",
-    "url": "https://x.com/binance/status/2115918888429133902",
-    "images": [
-      "https://pbs.twimg.com/media/HV090tGakAAWDrI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793309544981-tmf9fn",
     "source": "x",
     "ts": "2026-10-29T21:32:24.981Z",
@@ -7990,5 +7951,31 @@
       "https://pbs.twimg.com/media/HV4gGPRXUAA4X_3.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793502154732-m1mar3",
+    "source": "x",
+    "ts": "2026-11-01T03:02:34.732Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-01T02:53:38.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "⚡️NEW: $GOOG is in talks with the Pentagon to help secure data for Golden Dome, the $185 BILLION missile defense program, Bloomberg reports.\n\nThe system would use space-based and ground-based infrastructure to detect, track and intercept ballistic, hypersonic and cruise missiles.",
+    "url": "https://x.com/coinbureau/status/2116725320867090519"
+  },
+  {
+    "id": "x-1793502159146-0yhz4i",
+    "source": "x",
+    "ts": "2026-11-01T03:02:39.146Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 118,
+    "originTimestamp": "2026-11-01T01:04:06.000Z",
+    "reason": "Vague prediction with no factual claim",
+    "text": "Super Intelligence WILL EAT MANY ENTIRE businesses, industries and professions in the next few *months* and *quarters*.\n\nThe rest will follow.\n\nThe physical world will take a bit longer. That needs A LOT of humanoid robots.\n\nStrap yourselves in.",
+    "url": "https://x.com/elonmusk/status/2116724977156362517"
   }
 ]
