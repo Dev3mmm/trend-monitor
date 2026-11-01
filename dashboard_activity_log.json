@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793323977439-g3z8dd",
-    "source": "x",
-    "ts": "2026-10-30T01:32:57.439Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T01:22:00.000Z",
-    "reason": "Notable institutional adoption and asset secourge announcement.",
-    "text": "Pyth Network now secures more than $3 BILLION in assets.\n\n@PythNetwork's oracle solutions now secure around $3.124 billion in assets, according to DefiLlama data.\n\nThe vast majority of this value ($1.928B) is on the @Solana blockchain, but",
-    "url": "https://x.com/BSCNews/status/2115977485800308825",
-    "images": [
-      "https://pbs.twimg.com/media/HVzoe2WWMAA4nEj.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793324524152-eja4px",
-    "source": "x",
-    "ts": "2026-10-30T01:42:04.152Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T01:36:11.000Z",
-    "reason": "No notable move, as Binance's statement does not provide specific, verifiable information.",
-    "text": "Binance will cover all losses.\n\nAs a precaution, all deposits and withdrawals are temporarily suspended while our team conducts security checks, freezes funds, and works with law enforcement.\n\nWe are working around the clock and will share a full post-mortem once the",
-    "url": "https://x.com/binance/status/2115981055043981791"
-  },
-  {
     "id": "x-1793324528263-1k97ed",
     "source": "x",
     "ts": "2026-10-30T01:42:08.263Z",
@@ -7878,5 +7847,44 @@
     "reason": "No notable move or specific event described.",
     "text": "DeepSeek Releases Open-Source Coding Agent Prototype Taking Aim at Claude Code.\n\nThe MIT-licensed prototype, which DeepSeek calls \"research code, not production-ready software,\" watches a GitHub repository and optionally Feishu, taking on work when asked and answering with",
     "url": "https://x.com/DecryptMedia/status/2116914315336802620"
+  },
+  {
+    "id": "x-1793548927042-pkf2ce",
+    "source": "x",
+    "ts": "2026-11-01T16:02:07.042Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T16:00:02.000Z",
+    "reason": "ETF loss is a notable financial event in the crypto market.",
+    "text": "Spot $LINK ETFs end the week with worst day in history...\n\nThe US' spot @Chainlink ETF products lost -$1.77M on Friday, October 30 - The loss marked the ETFs' worst day since launch.\n\nInvestors are unlikely to lose hope, however, the products have now seen just four days of net",
+    "url": "https://x.com/BSCNews/status/2116923225246773362",
+    "images": [
+      "https://pbs.twimg.com/media/HWBnq5iWYAAQUY7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793548929477-16sp0o",
+    "source": "x",
+    "ts": "2026-11-01T16:02:09.477Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T16:00:00.000Z",
+    "reason": "Hacker sophistication remains high with the help of AI",
+    "text": "🔥 INSIGHT: Same playbook, bigger bill.\n\nPutting the Binance hack next to Bybit's, @Blockaid_ co-founder Ido Ben-Natan says the level of sophistication was basically identical, with the dollar amount being the big difference.\n\nHackers are getting better with AI like everyone",
+    "url": "https://x.com/Cointelegraph/status/2116923218728460715",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116907491980394496/vid/avc1/1280x720/Ro9EecOxLShwQDtn.mp4?tag=29",
+      "duration": 83,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116907491980394496/img/QxGQ_Lp8lM3bDF0f.jpg"
+    }
   }
 ]
