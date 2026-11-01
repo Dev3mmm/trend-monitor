@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793320349352-hgv8kx",
-    "source": "x",
-    "ts": "2026-10-30T00:32:29.352Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T00:28:12.000Z",
-    "reason": "Potential security breach and impact on Binance users.",
-    "text": "🚨 JUST IN: Binance’s $2.5B hack may stem from a compromised signature system, not stolen private keys, says Blockaid CEO Ido Ben-Natan.  \n\nThe attacker reportedly bundled 50 EIP-7702 authorizations into one transaction to hijack a Binance wallet.  \n\nBinance has yet to confirm",
-    "url": "https://x.com/Cointelegraph/status/2115963948495519745",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793321009087-pbw1q5",
-    "source": "x",
-    "ts": "2026-10-30T00:43:29.087Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-30T00:40:00.000Z",
-    "reason": "Specific and actionable information from an influential figure in the crypto industry.",
-    "text": "🚨️️️️️️ JUST IN: Binance co-founder Yi He says the exchange will cover all losses from the hack and user funds remain safe, with deposits and withdrawals paused for security checks.",
-    "url": "https://x.com/Cointelegraph/status/2115966916208521319",
-    "images": [
-      "https://pbs.twimg.com/media/HV1oqHSb0AAzgA8.jpg",
-      "https://pbs.twimg.com/media/HV1oqGpaMAAJt3P.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793321012418-h7x2bs",
     "source": "x",
     "ts": "2026-10-30T00:43:32.418Z",
@@ -7897,5 +7862,36 @@
     "reason": "No notable crypto-related news.",
     "text": "OpenAI Pares Funding Round Target to Up to $20 Billion Amid Tech Selloff.\n\nThe ChatGPT maker has cut its goal from about $30 billion and is seeking a $1.25 trillion post-money valuation, the Financial Times reported, with CNBC confirming the lower target on Saturday.",
     "url": "https://x.com/DecryptMedia/status/2116885470315696357"
+  },
+  {
+    "id": "x-1793540532953-ewucwc",
+    "source": "x",
+    "ts": "2026-11-01T13:42:12.953Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-01T13:31:39.000Z",
+    "reason": "Noise - vague opinion with no factual claim.",
+    "text": "X is the only place where the Legacy Media can’t censor information. \n\nThey have to denigrate X in order to maintain their grip on the information flow to Americans. \n\nX is where you find the truth.",
+    "url": "https://x.com/elonmusk/status/2116887497384906779"
+  },
+  {
+    "id": "x-1793540538394-6db3h0",
+    "source": "x",
+    "ts": "2026-11-01T13:42:18.394Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-01T13:38:00.000Z",
+    "reason": "New staking tool for Aero stakers.",
+    "text": "Aero launches brand-new 'Autopilot' tool for stakers.\n\n@aeroxyz finished the month in style, announcing its new 'Autopilot' tool specificially for $AERO stakers.\n\nThrough the tool, sAERO holders can automate activities such as...\n\n- pool selection\n- reallocation\n- rewards/revenue",
+    "url": "https://x.com/BSCNews/status/2116887482017194309",
+    "images": [
+      "https://pbs.twimg.com/media/HWBl_CeWYAATMP-.jpg"
+    ],
+    "video": null
   }
 ]
