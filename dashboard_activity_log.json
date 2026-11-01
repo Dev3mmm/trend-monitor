@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793315086904-mlac6f",
-    "source": "x",
-    "ts": "2026-10-29T23:04:46.904Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-29T22:54:10.000Z",
-    "reason": "No notable regulatory or financial event.",
-    "text": "🚨 UPDATE: Who’s exposed to the Binance hack so far\n\nLimited exposure:\n- Wintermute: exposure is under 20% of net equity. CEO Evgeny Gaevoy sees no disruption to operations in any scenario.\n- GSR: exposure is under 5% of net equity, with no material disruption to business as",
-    "url": "https://x.com/Cointelegraph/status/2115940284253225160"
-  },
-  {
     "id": "x-1793315537670-xn2yaw",
     "source": "x",
     "ts": "2026-10-29T23:12:17.670Z",
@@ -7925,5 +7912,21 @@
     "reason": "The tweet is a vague opinion without a factual claim.",
     "text": "🚨OpenAI CEO Sam Altman warns AI will expose far MORE security flaws than experts expect.\n\nAI is getting better at hunting down hidden security holes, he says, and it has only just started looking.\n\n\"We are in a world of many more serious vulnerabilities than we expect.\"",
     "url": "https://x.com/coinbureau/status/2116842686850404591"
+  },
+  {
+    "id": "x-1793530308059-9q44ax",
+    "source": "x",
+    "ts": "2026-11-01T10:51:48.059Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 48,
+    "originTimestamp": "2026-11-01T10:03:18.000Z",
+    "reason": "New withdrawal networks and assets enabled, indicating increased liquidity and usability.",
+    "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ ARBITRUM: ARB, ETH, USDT, USDC\n✅ TRX: TRX, USDT\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE:",
+    "url": "https://x.com/binance/status/2116844881448743094",
+    "images": [],
+    "video": null
   }
 ]
