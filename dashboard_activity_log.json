@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793323344896-67j6cz",
-    "source": "x",
-    "ts": "2026-10-30T01:22:24.896Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T01:15:39.000Z",
-    "reason": "Chainalysis estimates a significant cryptocurrency theft.",
-    "text": "🚨 UPDATE: Chainalysis estimates about $5.91B was stolen in the Binance hack, nearly 4x the 2025 Bybit heist, while Binance has so far confirmed $3B frozen.\n\nCan Binance recover the rest? 👀",
-    "url": "https://x.com/Cointelegraph/status/2115975887212445842",
-    "images": [
-      "https://pbs.twimg.com/media/HV102d_XcAA2Nya.png",
-      "https://pbs.twimg.com/media/HV102u-XYAAtgaX.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793323350085-8zjox4",
     "source": "x",
     "ts": "2026-10-30T01:22:30.085Z",
@@ -7882,5 +7863,26 @@
       "https://pbs.twimg.com/media/HWBmEUlW4AAY21U.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793545303771-cw1xjq",
+    "source": "x",
+    "ts": "2026-11-01T15:01:43.771Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T15:00:02.000Z",
+    "reason": "Exploit related to wallet upgrades and EIP-7702.",
+    "text": "🔥 INSIGHT: One wallet upgrade was all it took.\n\n@Blockaid_ co-founder Ido Ben-Natan says the Binance hack turned serious once a transaction upgraded a wallet into a smart account via EIP-7702 and funds started flowing to the attacker.\n\nHe adds that incidents across crypto went",
+    "url": "https://x.com/Cointelegraph/status/2116908126226268189",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2116903836833165312/vid/avc1/1280x720/hKpiRiRBLcvL5VO4.mp4?tag=29",
+      "duration": 135,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116903836833165312/img/oiPvpBaqoi31Vfhq.jpg"
+    }
   }
 ]
