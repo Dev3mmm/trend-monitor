@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793321610243-u8bg8x",
-    "source": "x",
-    "ts": "2026-10-30T00:53:30.243Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T00:50:38.000Z",
-    "reason": "Update on a significant security incident involving crypto assets.",
-    "text": "🚨 UPDATE: Arbitrum Security Council freezes $30.5M linked to the Binance hack, per ZachXBT.",
-    "url": "https://x.com/Cointelegraph/status/2115969594674311344",
-    "images": [
-      "https://pbs.twimg.com/media/HV1vINUXAAAYmsd.jpg",
-      "https://pbs.twimg.com/media/HV1vIftXEAAyURj.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793321615767-7awdwa",
     "source": "x",
     "ts": "2026-10-30T00:53:35.767Z",
@@ -7893,5 +7874,23 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "JUST IN: Bond Agent is introducing a new approach to connecting Bagent with Binance Agent Wallet IDs. 👀\n\nUsing an innovative constant-product bonding curve mechanism, the project aims to make claiming a Binance Agent Wallet ID more accessible, while also contributing to",
     "url": "https://x.com/BSCNews/status/2116889650744729721"
+  },
+  {
+    "id": "x-1793541723176-nbruk0",
+    "source": "x",
+    "ts": "2026-11-01T14:02:03.176Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-01T14:01:19.000Z",
+    "reason": "Notable amount of asset withdrawals from Binance.",
+    "text": "🚨 UPDATE: More than $4 billion in assets have reportedly been withdrawn from Binance since withdrawals resumed following the $6.3 billion hack.",
+    "url": "https://x.com/Cointelegraph/status/2116893351685329381",
+    "images": [
+      "https://pbs.twimg.com/media/HWC3SMIWoAAH1Bw.jpg"
+    ],
+    "video": null
   }
 ]
