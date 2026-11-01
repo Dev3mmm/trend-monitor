@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793313767808-bcan0o",
-    "source": "x",
-    "ts": "2026-10-29T22:42:47.808Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 64,
-    "originTimestamp": "2026-10-29T21:37:45.000Z",
-    "reason": "Tether's freeze of USDT linked to a potential Binance hack is a notable regulatory move.",
-    "text": "Tether Freezes More Than 1.5B USDT Tied to Potential Binance Hack.\n\nTether CEO Paolo Ardoino says the company froze more than 1.567B USDT linked to the incident. The exchange says its team is running security checks and that user funds \"remain safe.\"",
-    "url": "https://x.com/DecryptMedia/status/2115934707431165988",
-    "images": [
-      "https://pbs.twimg.com/media/HV1PDiCWMAA7dKu.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793314349403-5i5f5d",
     "source": "x",
     "ts": "2026-10-29T22:52:29.403Z",
@@ -7932,6 +7914,24 @@
     "text": "Withdrawals re-enabled for:\n\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC",
     "url": "https://x.com/cz_binance/status/2116827778545033429",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793527344133-88my24",
+    "source": "x",
+    "ts": "2026-11-01T10:02:24.133Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-01T09:52:00.000Z",
+    "reason": "Significant price drop and token drain event.",
+    "text": "⚠️ALERT: Core DAO's $CORE plunges 12% to an all time low after an attacker drains 97 MILLION tokens.\n\nThat's 99.8% below its 2023 peak of $6.14, and down over 22% this week alone.\n\nThe attacker drained the CORE, worth $1.47 MILLION, from Bitcoin staking protocol b14g on October",
+    "url": "https://x.com/coinbureau/status/2116830607216878077",
+    "images": [
+      "https://pbs.twimg.com/media/HWB7XAyb0AAmQ5M.png"
+    ],
     "video": null
   }
 ]
