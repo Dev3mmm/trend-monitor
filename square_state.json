@@ -2503,7 +2503,8 @@
         "https://pbs.twimg.com/media/HWBtqKkXYAAeSDP.jpg"
       ],
       "at": 1793522553044,
-      "status": "posting"
+      "status": "failed",
+      "error": "Uploading: sq_1793522553044_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261101/dc02a354be7c4853a73306a5ff6f10bd.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
     }
   ],
   "lastPostAt": 1793522553044
