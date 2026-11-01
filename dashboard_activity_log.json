@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793330539304-ztaa92",
-    "source": "x",
-    "ts": "2026-10-30T03:22:19.304Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 61,
-    "originTimestamp": "2026-10-30T02:21:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Yes",
-    "url": "https://x.com/elonmusk/status/2116006456763818028"
-  },
-  {
-    "id": "x-1793330542923-yq12na",
-    "source": "x",
-    "ts": "2026-10-30T03:22:22.923Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-30T03:12:51.000Z",
-    "reason": "Vague opinion without factual claim",
-    "text": "@cryptoblaney Super intelligence agents will at some point do this to gain currency for themselves, not a human",
-    "url": "https://x.com/elonmusk/status/2116005417591636319"
-  },
-  {
     "id": "x-1793331119622-ioul2f",
     "source": "x",
     "ts": "2026-10-30T03:31:59.622Z",
@@ -7881,5 +7855,34 @@
       "https://pbs.twimg.com/media/HWDlHRrWAAAO2yv.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793556112242-06d7ld",
+    "source": "x",
+    "ts": "2026-11-01T18:01:52.242Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 118,
+    "originTimestamp": "2026-11-01T16:03:51.000Z",
+    "reason": "Notable regulatory and financial move affecting a major crypto exchange.",
+    "text": "Binance Reports About $3.64 Billion Net Outflow After Reopening Withdrawals.\n\nBetween 1 a.m. and 10:30 a.m. ET (06:00–15:30 UTC), the exchange processed $4.649 billion in withdrawals and $1.01 billion in deposits, which it said equals 2.1% of its $171 billion in assets.",
+    "url": "https://x.com/DecryptMedia/status/2116953423744577761",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793556114601-2urwxw",
+    "source": "x",
+    "ts": "2026-11-01T18:01:54.601Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-01T18:00:00.000Z",
+    "reason": "The tweet appears to be speculative commentary without concrete claims or verified information.",
+    "text": "🔥 INSIGHT: North Korea won't get quantum first.\n\nThe first quantum computers will come out of US big tech like Google or Microsoft, says @Strive CEO @ColeMacro, and he doesn't see them draining $BTC or Satoshi's coins.\n\nQuantum would break the whole internet before it breaks",
+    "url": "https://x.com/Cointelegraph/status/2116953416350253308"
   }
 ]
