@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1793310125870-ggddow",
-    "source": "x",
-    "ts": "2026-10-29T21:42:05.870Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 5,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-29T21:34:27.000Z",
-    "reason": "Notable regulatory move regarding Tether liquidity issue.",
-    "text": "🚨 JUST IN: Tether froze more than $1.567 billion in USDT linked to a potential Binance hack, according to Paolo Ardoino.",
-    "url": "https://x.com/Cointelegraph/status/2115920221265416238",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793310129089-5qiidp",
     "source": "x",
     "ts": "2026-10-29T21:42:09.089Z",
@@ -7957,5 +7941,24 @@
     "reason": "No notable move in price or specific event is mentioned.",
     "text": "The man behind crypto's most successful platform.\n\nMeet @SergeyNazarov, the founder of @Chainlink $LINK - the oracle and infra platform underpinning nearly the entire crypto industry ⬇️",
     "url": "https://x.com/BSCNews/status/2116756871185117678"
+  },
+  {
+    "id": "x-1793509927616-2yxu14",
+    "source": "x",
+    "ts": "2026-11-01T05:12:07.616Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "PeckShieldAlert",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-01T05:05:03.000Z",
+    "reason": "Ethereum decentralized lending platform exploited for $464.6K",
+    "text": "#PeckShieldAlert @PremiaLabs has been exploited for $464.6K. The exploiter bridged the stolen funds from Arbitrum to Ethereum, then swapped them to BTC via #Chainflip and #NEARIntents.",
+    "url": "https://x.com/PeckShieldAlert/status/2116758393067340132",
+    "images": [
+      "https://pbs.twimg.com/media/HWA8df2aAAAAHGE.jpg",
+      "https://pbs.twimg.com/media/HWA8fJTaUAEIdNj.jpg"
+    ],
+    "video": null
   }
 ]
