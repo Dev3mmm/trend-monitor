@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793317942175-4t3bo7",
-    "source": "x",
-    "ts": "2026-10-29T23:52:22.175Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-29T23:50:54.000Z",
-    "reason": "Liquidations and significant price drop below $78k",
-    "text": "🚨BREAKING: Bitcoin drops below $78,000 as liquidations top $1.1 BILLION in 24 hours.\n\n$BTC hit a low of $77,739 today, down around 4%.",
-    "url": "https://x.com/coinbureau/status/2115954559973757387",
-    "images": [
-      "https://pbs.twimg.com/media/HV1hJwWa0AAsRFs.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793317947808-hpdeib",
     "source": "x",
     "ts": "2026-10-29T23:52:27.808Z",
@@ -7942,5 +7924,21 @@
     "reason": "No notable move in ETH price.",
     "text": "Zebec Network's story is one worth knowing...\n\nLearn how @Zebec_HQ has grown from humble @Solana origins, through to becoming a serious player in the payments sector ⬇️",
     "url": "https://x.com/BSCNews/status/2116869614231777704"
+  },
+  {
+    "id": "x-1793536944478-t0gkkn",
+    "source": "x",
+    "ts": "2026-11-01T12:42:24.478Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 70,
+    "originTimestamp": "2026-11-01T11:31:22.000Z",
+    "reason": "New withdrawal networks and assets enabled for ZEC, TON, SUI, and others.",
+    "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ ZEC: ZEC \n✅ TON: USDT, GRAM\n✅ SUI: SUI\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE: DOGE\n✅ OP",
+    "url": "https://x.com/binance/status/2116871932075516174",
+    "images": [],
+    "video": null
   }
 ]
