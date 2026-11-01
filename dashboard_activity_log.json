@@ -1,43 +1,5 @@
 [
   {
-    "id": "x-1793323970714-xcdm1n",
-    "source": "x",
-    "ts": "2026-10-30T01:32:50.714Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-30T01:29:20.000Z",
-    "reason": "Ethereum address involved in a significant theft event.",
-    "text": "#PeckShieldAlert The address labeled as #Binance Hacker 12 has already swapped 7.7T $PEPE (~$24M) for 14,049.9 ethereum:native. The address that received 167.14 $WBTC (~$12.8M) and 9.7M $USDe from  #Binance Hacker 2 has swapped the WBTC for 5,700 ethereum:native. The ETH from",
-    "url": "https://x.com/PeckShieldAlert/status/2115979333085118554",
-    "images": [
-      "https://pbs.twimg.com/media/HV138y_bMAA2D_W.jpg",
-      "https://pbs.twimg.com/media/HV13-X6aUAAZRyU.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793323973794-djq876",
-    "source": "x",
-    "ts": "2026-10-30T01:32:53.794Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-30T01:27:10.000Z",
-    "reason": "Coinbase's new policy on compromised wallets highlights industry collaboration.",
-    "text": "⚡️ NOW: Coinbase CEO Brian Armstrong says Coinbase has blocked transfers to compromised wallets and offered help to Binance.\n\n“Moments like this call for the industry to work together.”",
-    "url": "https://x.com/Cointelegraph/status/2115978787947213267",
-    "images": [
-      "https://pbs.twimg.com/media/HV13bT_bEAAd__R.png",
-      "https://pbs.twimg.com/media/HV13bUob0AAkK0n.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793323977439-g3z8dd",
     "source": "x",
     "ts": "2026-10-30T01:32:57.439Z",
@@ -7884,5 +7846,37 @@
     "reason": "Noise: Generic hype without factual claim.",
     "text": "New engine activated.",
     "url": "https://x.com/saylor/status/2116909521134027096"
+  },
+  {
+    "id": "x-1793547119690-jnj8s4",
+    "source": "x",
+    "ts": "2026-11-01T15:31:59.690Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-01T15:30:59.000Z",
+    "reason": "Notable regulatory stance from a major government.",
+    "text": "🇨🇳 BIG: China’s Communist Party called for tougher action against corruption involving cryptocurrencies and cross-border funds.",
+    "url": "https://x.com/Cointelegraph/status/2116915917044977745",
+    "images": [
+      "https://pbs.twimg.com/media/HWDLy2IXgAAV5Jw.jpg",
+      "https://pbs.twimg.com/media/HWDLzY0XMAA6YH2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793547124201-vvfmik",
+    "source": "x",
+    "ts": "2026-11-01T15:32:04.201Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-01T15:24:37.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "DeepSeek Releases Open-Source Coding Agent Prototype Taking Aim at Claude Code.\n\nThe MIT-licensed prototype, which DeepSeek calls \"research code, not production-ready software,\" watches a GitHub repository and optionally Feishu, taking on work when asked and answering with",
+    "url": "https://x.com/DecryptMedia/status/2116914315336802620"
   }
 ]
