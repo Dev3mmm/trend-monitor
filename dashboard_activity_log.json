@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793333563325-omzkfb",
-    "source": "x",
-    "ts": "2026-10-30T04:12:43.325Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T04:06:05.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see.\n\nIt is ready from an engineering standpoint. Just waiting on regulatory approval.",
-    "url": "https://x.com/elonmusk/status/2116019939056513218"
-  },
-  {
-    "id": "x-1793333568602-11lg2g",
-    "source": "x",
-    "ts": "2026-10-30T04:12:48.602Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T04:02:00.000Z",
-    "reason": "Notable institutional investment exposure revelation.",
-    "text": "Holy smokes... Blackrock is exposed to Canton.\n\nAccording to a report from @cantonnews_org, financial behemoth @Blackrock has disclosed its owns 6% of @CantonStrategic's common stock.\n\n4,819,281 common shares to be specific.\n\nFor context, Canton Strategic is one of, if not the",
-    "url": "https://x.com/BSCNews/status/2116017751500140637",
-    "images": [
-      "https://pbs.twimg.com/media/HVzo0lTWAAAezJF.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793334143760-ywwhei",
-    "source": "x",
-    "ts": "2026-10-30T04:22:23.760Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T04:18:22.000Z",
-    "reason": "No notable move; price is within the recent trading range.",
-    "text": "🎙️ Is BTC set to outperform ETH in the near term?\n\nMarkus Thielen (@markus10x), founder of @10xresearch, tells @itsciaranlyons why he’s not “super optimistic” on Ethereum right now, and why he sees Bitcoin ending the year around $90,000.\n\nPlus, could the OpenAI and Anthropic IPOs",
-    "url": "https://x.com/Cointelegraph/status/2116021870621499621"
-  },
-  {
     "id": "x-1793334148904-dwzrw8",
     "source": "x",
     "ts": "2026-10-30T04:22:28.904Z",
@@ -7880,5 +7836,55 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "🚨 ALERT: Major oil companies are resisting pressure to invest in new refineries as fuel prices continue to rise.",
     "url": "https://x.com/Cointelegraph/status/2116976299335897547"
+  },
+  {
+    "id": "x-1793562113706-38d8is",
+    "source": "x",
+    "ts": "2026-11-01T19:41:53.706Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-01T19:37:54.000Z",
+    "reason": "Notable regulatory move by a major company affecting AI development.",
+    "text": "🚨 JUST IN: Anthropic bans users from recreating existing video games with Claude Code amid a viral AI reverse-engineering trend.",
+    "url": "https://x.com/Cointelegraph/status/2116978053469331884",
+    "images": [
+      "https://pbs.twimg.com/media/HWEEURrXEAA3Q2D.jpg",
+      "https://pbs.twimg.com/media/HWEEUfuXYAAFA_n.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793562117565-1cegm5",
+    "source": "x",
+    "ts": "2026-11-01T19:41:57.565Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 90,
+    "originTimestamp": "2026-11-01T18:11:08.000Z",
+    "reason": "No notable move in cryptocurrency price or events.",
+    "text": "Thank you, @SecretService, and all the agencies and industry partners involved. You acted within minutes to help track and freeze stolen funds, and the work continues.\n\nYour speed, expertise, and dedication helped contain the damage and reduce the risk of potential ripple effects",
+    "url": "https://x.com/cz_binance/status/2116977683393618404"
+  },
+  {
+    "id": "x-1793562122816-2yxlbc",
+    "source": "x",
+    "ts": "2026-11-01T19:42:02.816Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-01T19:35:00.000Z",
+    "reason": "Significant staking event revealing new liquidity and interest in the token.",
+    "text": "1 in every 5 $MON tokens are now staked...\n\nAccording to data from @Coinbase, some 20% of @Monad's native token is now staked on the L1 network itself.\n\nWith an APY of more than 9%, it's unsurprisingly that holders are willing to lock up their assets, but Monad still has a way to",
+    "url": "https://x.com/BSCNews/status/2116977324478353811",
+    "images": [
+      "https://pbs.twimg.com/media/HWBqmvmXoAA5DPX.jpg"
+    ],
+    "video": null
   }
 ]
