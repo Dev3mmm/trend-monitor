@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793313761602-z7bwxk",
-    "source": "x",
-    "ts": "2026-10-29T22:42:41.602Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-29T22:33:11.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Our team is conducting security checks. Withdrawals will resume as soon as the security issue is fully resolved.\n\nUser funds remain safe.\n\nWe’ll keep you updated. Thank you for your patience.",
-    "url": "https://x.com/binance/status/2115935002139742437"
-  },
-  {
     "id": "x-1793313767808-bcan0o",
     "source": "x",
     "ts": "2026-10-29T22:42:47.808Z",
@@ -7928,6 +7915,22 @@
     "reason": "Potential security incident with user funds transfer concerns",
     "text": "Seeing questions about recent transfers from Binance wallets to unknown addresses.\n\nAs part of our ongoing security response, Binance has generated new hot wallet addresses. Transfers to these new wallets are internal, and the addresses have been added to our Proof of Reserves",
     "url": "https://x.com/cz_binance/status/2116825056303317238",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793526125304-bdc4ve",
+    "source": "x",
+    "ts": "2026-11-01T09:42:05.304Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-01T09:38:54.000Z",
+    "reason": "Specific bank announcement of withdrawal re-enabling for various cryptocurrencies.",
+    "text": "Withdrawals re-enabled for:\n\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC",
+    "url": "https://x.com/cz_binance/status/2116827778545033429",
     "images": [],
     "video": null
   }
