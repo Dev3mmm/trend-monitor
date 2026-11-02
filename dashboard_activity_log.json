@@ -1,70 +1,5 @@
 [
   {
-    "id": "x-1793369053434-dr377k",
-    "source": "x",
-    "ts": "2026-10-30T14:04:13.434Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T14:03:12.000Z",
-    "reason": "The tweet is about Intel stock, not crypto.",
-    "text": "Intel Shares Plunge Nearly 30% After a Weak Fourth-Quarter Forecast.\n\nIntel fell as low as $64.78 shortly after Friday's open, nearly 30% below Thursday's $92.07 close, after guiding Q4 revenue to $15 billion to $16 billion.",
-    "url": "https://x.com/DecryptMedia/status/2116169047654179010"
-  },
-  {
-    "id": "x-1793369055976-j01c88",
-    "source": "x",
-    "ts": "2026-10-30T14:04:15.976Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T14:02:14.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Binance Hack &amp; Aftermath + Robinhood Chain &amp; Stock Tokens with SimpleFarmer",
-    "url": "https://x.com/DecryptMedia/status/2116168805567398016"
-  },
-  {
-    "id": "x-1793369058660-ikgaru",
-    "source": "x",
-    "ts": "2026-10-30T14:04:18.660Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T14:02:06.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "🔥 INSIGHT: Can we trust AI agents?\n\n@Mysten_Labs @EvanWeb3 says AI needs deterministic protocols to set boundaries for agents operating in an adversarial world.",
-    "url": "https://x.com/Cointelegraph/status/2116168771799027996"
-  },
-  {
-    "id": "x-1793369061462-ztwq3f",
-    "source": "x",
-    "ts": "2026-10-30T14:04:21.462Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 38,
-    "originTimestamp": "2026-10-30T13:26:17.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "BREAKING: South Sudan’s Western Equatoria government has announced plans to install @Starlink along the DRC border to strengthen Ebola prevention.\n\nAt Nabiapai’s screening centre, it would help health workers share information and coordinate responses to protect local",
-    "url": "https://x.com/elonmusk/status/2116167714972856352"
-  },
-  {
-    "id": "x-1793369063659-l4ot3s",
-    "source": "x",
-    "ts": "2026-10-30T14:04:23.659Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 29,
-    "originTimestamp": "2026-10-30T13:35:12.000Z",
-    "reason": "No notable move or concrete event described.",
-    "text": "Vote ❤️🇺🇸",
-    "url": "https://x.com/elonmusk/status/2116167124561653886"
-  },
-  {
     "id": "x-1793369536946-frrji7",
     "source": "x",
     "ts": "2026-10-30T14:12:16.946Z",
@@ -7825,6 +7760,86 @@
     "images": [
       "https://pbs.twimg.com/media/HWHpHAPWgAA1chD.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793622782708-sm8djn",
+    "source": "x",
+    "ts": "2026-11-02T12:33:02.708Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T12:30:39.000Z",
+    "reason": "Notable institutional investment and share repurchase by Metaplanet",
+    "text": "🇯🇵 LATEST: Metaplanet bought back 96.45M shares for ¥25.27B between Oct. 14 and 31.",
+    "url": "https://x.com/Cointelegraph/status/2117232921756979610",
+    "images": [
+      "https://pbs.twimg.com/media/HWHsGytWEAA396c.jpg",
+      "https://pbs.twimg.com/media/HWHsHmKWIAA39sR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793622786135-6mzr3h",
+    "source": "x",
+    "ts": "2026-11-02T12:33:06.135Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-02T12:30:01.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "Goldman Sachs Raises December Brent Forecast to $105 From $90.\n\nThe bank also lifted its 2027 average Brent forecast to $88 a barrel from $80, citing high supply disruption risk from the Middle East and Russia-Ukraine conflicts, according to a note led by strategist Daan",
+    "url": "https://x.com/DecryptMedia/status/2117232762188910707"
+  },
+  {
+    "id": "x-1793622789365-3v27vb",
+    "source": "x",
+    "ts": "2026-11-02T12:33:09.365Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-02T12:29:47.000Z",
+    "reason": "Exploit-related news with significant funds involved.",
+    "text": "JUST IN: 44% of the $6.43 billion stolen from Binance has now been frozen or seized, according to Elliptic 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2117232703728923029",
+    "images": [
+      "https://pbs.twimg.com/media/HWHrwpyWAAAp18V.jpg",
+      "https://pbs.twimg.com/media/HWHr3_8WcAAxUs4.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793622792818-akrivg",
+    "source": "x",
+    "ts": "2026-11-02T12:33:12.818Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T12:25:53.000Z",
+    "reason": "No notable move in price or significant event.",
+    "text": "Trust is earned, and we’re grateful for the confidence you place in us. #ThankYouBinancians\n\nThis campaign reflects that appreciation: eligible users can claim a 100 USDC Spot fee rebate voucher, share 20,000,000 USDC, and earn up to 10% APR.\n\nLearn more 👉",
+    "url": "https://x.com/binance/status/2117231724241248393"
+  },
+  {
+    "id": "x-1793622796001-bsxrqw",
+    "source": "x",
+    "ts": "2026-11-02T12:33:16.001Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T12:25:30.000Z",
+    "reason": "Specific incident involving a significant wallet attack on the BTCPay service.",
+    "text": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+    "url": "https://x.com/DecryptMedia/status/2117231624811147581",
+    "images": [],
     "video": null
   }
 ]
