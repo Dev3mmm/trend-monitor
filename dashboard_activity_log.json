@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1793363555279-9dzvw4",
-    "source": "x",
-    "ts": "2026-10-30T12:32:35.279Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-30T12:23:15.000Z",
-    "reason": "Specific institutional action tied to a high-profile hack.",
-    "text": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
-    "url": "https://x.com/DecryptMedia/status/2116143894781894990",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793364203242-q2oukn",
     "source": "x",
     "ts": "2026-10-30T12:43:23.242Z",
@@ -7796,5 +7780,23 @@
     "reason": "No notable move in cryptocurrency specific to BTC, ETH, or SOL.",
     "text": "🇪🇺 UPDATE: SpaceXSI will add a watermark to all text outputs from its Grok API models by default from Nov. 7 to comply with EU AI Act rules.",
     "url": "https://x.com/Cointelegraph/status/2117172502371741955"
+  },
+  {
+    "id": "x-1793608945139-svheff",
+    "source": "x",
+    "ts": "2026-11-02T08:42:25.139Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-02T08:33:08.000Z",
+    "reason": "Release of new security tool for identifying contract weaknesses.",
+    "text": "Kaspa's New Security Tool Simulates Real Attacks on Contracts\n\nKaspa (@kaspaunchained) $KAS ecosystem's Kaspero Labs (@KasperoLabs) has released kaspa-redteam to help developers identify weaknesses in SilverScript contracts.\n\nUnlike basic code checks, the tool signs hostile",
+    "url": "https://x.com/BSCNews/status/2117173147783086096",
+    "images": [
+      "https://pbs.twimg.com/media/HWGme6faYAAqgBP.png"
+    ],
+    "video": null
   }
 ]
