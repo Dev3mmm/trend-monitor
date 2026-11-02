@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1793372525506-1xuomx",
-    "source": "x",
-    "ts": "2026-10-30T15:02:05.506Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T15:00:40.000Z",
-    "reason": "The tweet introduces a novel idea but lacks concrete evidence or specifics to verify the claim.",
-    "text": "🚨 INSIGHT: A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?",
-    "url": "https://x.com/Cointelegraph/status/2116183510704664712",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793372530445-86oi3s",
     "source": "x",
     "ts": "2026-10-30T15:02:10.445Z",
@@ -7857,6 +7841,25 @@
     "text": "Morning Minute: The Binance Hack Leads to Mass Outflows while FBI Opens Probe",
     "url": "https://x.com/DecryptMedia/status/2117249177662984200",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793627539935-a1izq3",
+    "source": "x",
+    "ts": "2026-11-02T13:52:19.935Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T13:45:00.000Z",
+    "reason": "Exploit targeting outdated BTCPay Server software.",
+    "text": "🚨ALERT: BTCPay Server warns attackers are draining HOT WALLETS on outdated software.\n\nThe attack targets version 2.4.1 or earlier. Operators are urged to update to version 2.4.7.\n\nNo credible wallet-drain reports have been received for the latest release.\n\nAn August attack also",
+    "url": "https://x.com/coinbureau/status/2117251632291262699",
+    "images": [
+      "https://pbs.twimg.com/media/HWH0CA0aUAA3xvx.png",
+      "https://pbs.twimg.com/media/HWH0CAgbwAA9SAl.png"
+    ],
     "video": null
   }
 ]
