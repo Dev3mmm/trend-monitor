@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793364733473-wbjo9x",
-    "source": "x",
-    "ts": "2026-10-30T12:52:13.473Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T12:43:38.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "🤖 @Silicon_Dreamer is working on new infrastructure for the growing AI agent economy.\n\nWith agent-sdp, the team has introduced an open-source protocol focused on permissions, delegation and verifiable execution for AI agents.\n\nAs agents take on more complex tasks, projects",
-    "url": "https://x.com/BSCNews/status/2116149024319242610"
-  },
-  {
     "id": "x-1793365364897-8y9elg",
     "source": "x",
     "ts": "2026-10-30T13:02:44.897Z",
@@ -7800,6 +7787,25 @@
     "ageMin": 5,
     "originTimestamp": "2026-11-02T09:57:27.000Z",
     "reason": "Specific exploit targeting older BTCPay Server versions",
+    "text": "BTCPay Server Says Attack Targeted Older Versions After Hot Wallet Sweep Reports.\n\nThe open-source Bitcoin payment processor said the attack vector it identified targeted instances running version 2.4.1 or older, adding it has no credible reports of hot wallet drains on the",
+    "url": "https://x.com/DecryptMedia/status/2117194365890146583",
+    "images": [
+      "https://pbs.twimg.com/media/HWHIkEDWEAATF0Q.png",
+      "https://pbs.twimg.com/media/HWHI8HsWsAAsMAg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793613930602-p0xyai",
+    "source": "x",
+    "ts": "2026-11-02T10:05:30.602Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-02T09:57:27.000Z",
+    "reason": "Specific exploit targeting Bitcoin payment processor version 2.4.1 or older.",
     "text": "BTCPay Server Says Attack Targeted Older Versions After Hot Wallet Sweep Reports.\n\nThe open-source Bitcoin payment processor said the attack vector it identified targeted instances running version 2.4.1 or older, adding it has no credible reports of hot wallet drains on the",
     "url": "https://x.com/DecryptMedia/status/2117194365890146583",
     "images": [
