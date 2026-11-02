@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1793382767749-l4ecqc",
-    "source": "x",
-    "ts": "2026-10-30T17:52:47.749Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T17:51:45.000Z",
-    "reason": "Notable law enforcement involvement in a significant Binance hack incident.",
-    "text": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-    "url": "https://x.com/DecryptMedia/status/2116226565121937719",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793382771601-mmjm5p",
-    "source": "x",
-    "ts": "2026-10-30T17:52:51.601Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T17:50:24.000Z",
-    "reason": "No concrete or specific event/event prediction.",
-    "text": "🚨 ALERT: Someone predicted back in June that Binance would be hacked in “2026 or 2027.”",
-    "url": "https://x.com/Cointelegraph/status/2116226224095687132"
-  },
-  {
-    "id": "x-1793382777051-8t8rqa",
-    "source": "x",
-    "ts": "2026-10-30T17:52:57.051Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-30T17:49:00.000Z",
-    "reason": "Notable use of a new blockchain design for AI payments.",
-    "text": "Celestia’s Voyager handled 21M transactions per second in its first big test\n\n@celestia, the network behind $TIA, unveiled Voyager on Thursday, a blockchain design that lets AI agents make a small payment each time they use data, content, or a service. The five-hour run pushed",
-    "url": "https://x.com/BSCNews/status/2116225872554349038",
-    "images": [
-      "https://pbs.twimg.com/media/HV5VevSW0AE3Ybh.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793383340365-mfkusu",
     "source": "x",
     "ts": "2026-10-30T18:02:20.365Z",
@@ -7822,6 +7775,48 @@
     "images": [
       "https://pbs.twimg.com/media/HWG-vXWXsAAFlfe.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793637099513-bwpbob",
+    "source": "x",
+    "ts": "2026-11-02T16:31:39.513Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T16:29:32.000Z",
+    "reason": "Memes and vague inspirational tweets are not newsworthy.",
+    "text": "Shiny things in Machakos.\n\nFollowing Amerix,\n\n1. Tells you to have discipline\n\n2. Calls you to order\n\n3. Pushes you to be competent\n\nResults will come.",
+    "url": "https://x.com/amerix/status/2117293037977997690"
+  },
+  {
+    "id": "x-1793637101978-un0wdc",
+    "source": "x",
+    "ts": "2026-11-02T16:31:41.978Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-02T16:27:31.000Z",
+    "reason": "No notable move in Bitcoin, Fear & Greed Index is just a sentiment indicator.",
+    "text": "JUST IN: The Bitcoin Fear &amp; Greed Index falls to \"fear\" for the first time since August following the $6.3B Binance hack 👀\n\nBe greedy when others are fearful ✊",
+    "url": "https://x.com/BitcoinMagazine/status/2117292532644172071"
+  },
+  {
+    "id": "x-1793637104353-khhiml",
+    "source": "x",
+    "ts": "2026-11-02T16:31:44.353Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T16:24:30.000Z",
+    "reason": "Specific institutional action with a notable price point mentioned",
+    "text": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+    "url": "https://x.com/DecryptMedia/status/2117291771340185629",
+    "images": [],
     "video": null
   }
 ]
