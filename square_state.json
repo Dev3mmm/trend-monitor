@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792178605966-ujdx0l",
     "x-1792179161216-aziejr",
     "x-1792179714965-fpqnc8",
     "x-1792180377059-2grm4g",
@@ -1999,19 +1998,10 @@
     "x-1793640755718-bqkux1",
     "x-1793641324252-0a5cua",
     "x-1793641327766-aehh8f",
-    "x-1793641966274-x6darn"
+    "x-1793641966274-x6darn",
+    "x-1793642615156-uaia6a"
   ],
   "queue": [
-    {
-      "text": "🔥 LATEST: OKX reports $27.8B in BTC, ETH, USDT and USDC reserves in its 49th proof-of-reserves report.",
-      "url": "https://x.com/Cointelegraph/status/2117289525533630713",
-      "images": [
-        "https://pbs.twimg.com/media/HWIfmUbW8AAtul6.png",
-        "https://pbs.twimg.com/media/HWIfmiZXoAAuxfa.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793636549220
-    },
     {
       "text": "🚨 ALERT: Bitcoin recorded its longest streak of daily net realized losses since mid-August last week as sellers exited below $80,000, according to Glassnode.",
       "url": "https://x.com/Cointelegraph/status/2117295796378828958",
@@ -2040,6 +2030,16 @@
       ],
       "video": null,
       "enqueuedAt": 1793640756250
+    },
+    {
+      "text": "🚨 LATEST: Morgan Stanley downgraded Coinbase ($COIN) to Underweight from Equal-weight and slashed its price target to $120 from $258, citing downside risks to earnings and a weaker recovery outlook.",
+      "url": "https://x.com/Cointelegraph/status/2117316051092308039",
+      "images": [
+        "https://pbs.twimg.com/media/HWI3uQSWIAAaHoB.jpg",
+        "https://pbs.twimg.com/media/HWI3ugLXsAAXd-4.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793642629702
     }
   ],
   "posted": [
@@ -2530,7 +2530,17 @@
       "at": 1793640756250,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/383998333279175?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 LATEST: OKX reports $27.8B in BTC, ETH, USDT and USDC reserves in its 49th proof-of-reserves report.",
+      "final": "🔥 LATEST: OKX reports $27.8B in BTC, ETH, USDT and USDC reserves in its 49th proof-of-reserves report.\n\n#Bitcoin $BTC #Ethereum $ETH #Stablecoin",
+      "images": [
+        "https://pbs.twimg.com/media/HWIfmUbW8AAtul6.png",
+        "https://pbs.twimg.com/media/HWIfmiZXoAAuxfa.jpg"
+      ],
+      "at": 1793642629702,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793640756250
+  "lastPostAt": 1793642629702
 }
