@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793386961637-q4ddmv",
-    "source": "x",
-    "ts": "2026-10-30T19:02:41.637Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-30T18:51:25.000Z",
-    "reason": "No factual claim or concrete event.",
-    "text": "Talarico would abolish democracy in America and institute permanent one-party rule!",
-    "url": "https://x.com/elonmusk/status/2116242885376974965"
-  },
-  {
     "id": "x-1793386963049-rga79h",
     "source": "x",
     "ts": "2026-10-30T19:02:43.049Z",
@@ -7819,6 +7806,24 @@
     "text": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
     "url": "https://x.com/DecryptMedia/status/2117310079007383791",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793641966274-x6darn",
+    "source": "x",
+    "ts": "2026-11-02T17:52:46.274Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-02T17:46:29.000Z",
+    "reason": "New trading tool for Polygon launched with support from Paradigm.",
+    "text": "Paradigm-backed RIFT brings one-click swaps and bridging to Polygon\n\n@RIFTHQ, a trading tool backed by crypto investment firm @paradigm, went live on Polygon today. Users can now bridge funds in or trade tokens like ethereum:0x455e53cbb86018ac2b8092fdcd39d8444affc3f6 in a single",
+    "url": "https://x.com/BSCNews/status/2117312402576347583",
+    "images": [
+      "https://pbs.twimg.com/media/HWIz39uXoAEQH9G.jpg"
+    ],
     "video": null
   }
 ]
