@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793391151764-vt0tua",
-    "source": "x",
-    "ts": "2026-10-30T20:12:31.764Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-30T20:07:15.000Z",
-    "reason": "Generic investment advice with no specific new information or action.",
-    "text": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
-    "url": "https://x.com/DecryptMedia/status/2116260664356290757"
-  },
-  {
-    "id": "x-1793391154821-5iuycr",
-    "source": "x",
-    "ts": "2026-10-30T20:12:34.821Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 39,
-    "originTimestamp": "2026-10-30T19:33:25.000Z",
-    "reason": "New use of a token/stablecoin in blockchain infrastructure development.",
-    "text": "The @dfinity Foundation has connected Internet Computer ($ICP) to Anthropic's Claude, letting developers and businesses build onchain infrastructure through chat prompts.\n\nMore here:",
-    "url": "https://x.com/BSCNews/status/2116260193310781944",
-    "images": [
-      "https://pbs.twimg.com/media/HV5wHASWAAA_uKT.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793391809011-9lvhc4",
     "source": "x",
     "ts": "2026-10-30T20:23:29.011Z",
@@ -7809,5 +7778,39 @@
     "reason": "No factual claim or notable event.",
     "text": "People full of bile, bitterness, hatred and jealousy of other people's success never go far in life.",
     "url": "https://x.com/amerix/status/2117331229712187682"
+  },
+  {
+    "id": "x-1793646725401-45o3gk",
+    "source": "x",
+    "ts": "2026-11-02T19:12:05.401Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-02T19:00:38.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "New since September:\n\n→ Trade stock options with zero commissions\n→ Get up to $5K for running a @base community\n→ Recoup up to 50% of your swap fees on @coinbasewallet\n→ Have your agent trade perps, or buy a domain with stablecoins (among other things)\n\nOctober @Coinbase ↓",
+    "url": "https://x.com/coinbase/status/2117332285288784054"
+  },
+  {
+    "id": "x-1793646730656-2blq7a",
+    "source": "x",
+    "ts": "2026-11-02T19:12:10.656Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-02T19:02:11.000Z",
+    "reason": "Notable partnership and vision sharing from a prominent figure in the crypto trading space.",
+    "text": "🚨 INSIGHT: Bitpanda (@Bitpanda_global) CEO Christian Trummer shares his vision for the future of crypto trading powered by AI bots on #CHAINREACTION, and it sounds exciting!",
+    "url": "https://x.com/Cointelegraph/status/2117331453994213679",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2117331405470330880/vid/avc1/1280x720/-UQP9FC0ND6z5zMd.mp4?tag=16",
+      "duration": 113,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117331405470330880/img/oYCbLGGWqd3W0A9a.jpg"
+    }
   }
 ]
