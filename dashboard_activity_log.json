@@ -1,43 +1,5 @@
 [
   {
-    "id": "x-1793391147866-vxj452",
-    "source": "x",
-    "ts": "2026-10-30T20:12:27.866Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 0,
-    "originTimestamp": "2026-10-30T20:12:02.000Z",
-    "reason": "The tweet references a significant real-world event that could impact the crypto market.",
-    "text": "JUST IN: 🇺🇸 President Trump says he is looking into the $6.3 billion Binance hack. 👀\n\n\"We're looking at that...They say they have it pretty much under control. We'll see.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2116261870877503586",
-    "images": [
-      "https://pbs.twimg.com/media/HV5406eW0AANqy1.jpg",
-      "https://pbs.twimg.com/media/HV544KaXkAA0HH8.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793391149855-nbyg9w",
-    "source": "x",
-    "ts": "2026-10-30T20:12:29.855Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T20:10:23.000Z",
-    "reason": "Notable comment on US tokenization regulation.",
-    "text": "⚡️ MATT HOUGAN: “The US tokenization exemption is exciting but for the foreseeable future it’s not going to be where the action is.”",
-    "url": "https://x.com/Cointelegraph/status/2116261455381119409",
-    "images": [
-      "https://pbs.twimg.com/media/HV54kxbXUAAXNUv.jpg",
-      "https://pbs.twimg.com/media/HV54k_mXAAAIDMm.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793391151764-vt0tua",
     "source": "x",
     "ts": "2026-10-30T20:12:31.764Z",
@@ -7818,5 +7780,34 @@
     "url": "https://x.com/DecryptMedia/status/2117327696216666402",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793646140238-w8f21d",
+    "source": "x",
+    "ts": "2026-11-02T19:02:20.238Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coinbase 🛡️",
+    "ageMin": 31,
+    "originTimestamp": "2026-11-02T18:30:58.000Z",
+    "reason": "Regulatory move impacting user access to staking rewards.",
+    "text": "Another one.\n\nNew Jersey has formally dropped its staking lawsuit against Coinbase and lifted its cease-and-desist order, paving the way for our NJ users to resume staking after missing millions of dollars in rewards over the past 3+ years.\n\nDefending our users’ access to secure,",
+    "url": "https://x.com/coinbase/status/2117331239027789992",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793646143791-ai0gm9",
+    "source": "x",
+    "ts": "2026-11-02T19:02:23.791Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-02T19:01:17.000Z",
+    "reason": "No factual claim or notable event.",
+    "text": "People full of bile, bitterness, hatred and jealousy of other people's success never go far in life.",
+    "url": "https://x.com/amerix/status/2117331229712187682"
   }
 ]
