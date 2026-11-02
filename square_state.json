@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 ALERT: Bitcoin recorded its longest streak of daily net realized losses since mid-August last week as sellers exited below $80,000, according to Glassnode.",
-      "url": "https://x.com/Cointelegraph/status/2117295796378828958",
-      "images": [
-        "https://pbs.twimg.com/media/HWIlTYAXAAEcm66.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793637717892
-    },
-    {
       "text": "CZ Says Binance Didn't Borrow, Sell Assets or Raise Money to Cover Stolen Funds.\n\nChangpeng Zhao said Monday that Binance covered the losses from its own balance sheet, as the exchange says it has replenished about 95% of the impacted amount, with the remaining less liquid tokens",
       "url": "https://x.com/DecryptMedia/status/2117307654033043572",
       "images": [
@@ -2541,7 +2532,16 @@
       "at": 1793642629702,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384005900695762?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Bitcoin recorded its longest streak of daily net realized losses since mid-August last week as sellers exited below $80,000, according to Glassnode.",
+      "final": "🚨 ALERT: Bitcoin recorded its longest streak of daily net realized losses since mid-August last week as sellers exited below $80,000, according to Glassnode.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWIlTYAXAAEcm66.jpg"
+      ],
+      "at": 1793644365496,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793642629702
+  "lastPostAt": 1793644365496
 }
