@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1793371334715-tbitg7",
-    "source": "x",
-    "ts": "2026-10-30T14:42:14.715Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-30T14:36:54.000Z",
-    "reason": "Tweet contains no crypto-related content.",
-    "text": "How a man walks around with manboobs like a woman, and a stomach hanging loosely like the abomasum of a cow, is something other men should condemn.\n\nNormalise fat-shaming FAT men until they lose weight.",
-    "url": "https://x.com/amerix/status/2116177529329344573"
-  },
-  {
-    "id": "x-1793371336310-4awyw6",
-    "source": "x",
-    "ts": "2026-10-30T14:42:16.310Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T14:32:09.000Z",
-    "reason": "Generic opening message without context or information.",
-    "text": "A message from Binance's Co-CEO, @_RichardTeng.",
-    "url": "https://x.com/binance/status/2116176954433102033"
-  },
-  {
-    "id": "x-1793371992459-d4grso",
-    "source": "x",
-    "ts": "2026-10-30T14:53:12.459Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T14:48:49.000Z",
-    "reason": "Coinbase's balance sheet move is notable as it involves a significant amount of Bitcoin.",
-    "text": "JUST IN: Coinbase disclosed buying 643 Bitcoin worth $1.5 billion for its balance sheet in Q3 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2116180528827175219",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2116180104720076800/vid/avc1/1280x720/-FU3azLRKTT_KFlq.mp4?tag=29",
-      "duration": 21,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116180104720076800/img/MFbKCjKVE1ymfhh9.jpg"
-    }
-  },
-  {
     "id": "x-1793371997506-4r3xnm",
     "source": "x",
     "ts": "2026-10-30T14:53:17.506Z",
@@ -7850,6 +7803,56 @@
     "url": "https://x.com/saylor/status/2117243253393404302",
     "images": [
       "https://pbs.twimg.com/media/HWHxB_BWcAAujBU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793626399293-or17fe",
+    "source": "x",
+    "ts": "2026-11-02T13:33:19.293Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T13:30:53.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Rival exchanges forced out of Europe? 👀\n\nBitpanda (@Bitpanda_global) CEO Christian Trummer gives his take on #CHAINREACTION.",
+    "url": "https://x.com/Cointelegraph/status/2117248082068824553"
+  },
+  {
+    "id": "x-1793626404959-2eeakp",
+    "source": "x",
+    "ts": "2026-11-02T13:33:24.959Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T13:30:36.000Z",
+    "reason": "Stellar and Solana saw significant growth in tokenized fund value.",
+    "text": "Stellar and Solana are winning the Tokenized fund race\n\nThe two biggest winners in tokenized fund value over the past 90 days have been @StellarOrg and @Solana, which together grew by $1.42 billion in on-chain AUM.\n\nStellar currently leads in total tokenized fund value with",
+    "url": "https://x.com/BSCNews/status/2117248010631405663",
+    "images": [
+      "https://pbs.twimg.com/media/HWH5p7uWwAEuGYJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793626410266-ah8xtg",
+    "source": "x",
+    "ts": "2026-11-02T13:33:30.266Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 28,
+    "originTimestamp": "2026-11-02T13:04:58.000Z",
+    "reason": "Notable institutional Bitcoin purchases.",
+    "text": "Strategy Buys 811 Bitcoin, Lifting Holdings to 849,327 BTC.\n\nThe company spent $65.5 million at an average of $80,846 per coin between October 26 and November 1, and used $208.2 million to repurchase STRC preferred stock, an SEC filing shows.",
+    "url": "https://x.com/DecryptMedia/status/2117247857120158087",
+    "images": [
+      "https://pbs.twimg.com/media/HWH1tqyXoAASCS8.png",
+      "https://pbs.twimg.com/media/HWH1xj5WQAApJEA.jpg"
     ],
     "video": null
   }
