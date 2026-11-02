@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1793391809011-9lvhc4",
-    "source": "x",
-    "ts": "2026-10-30T20:23:29.011Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T20:19:18.000Z",
-    "reason": "Notable regulatory and media update on a high-profile crypto incident.",
-    "text": "🚨JUST IN: US President Trump says \"we don't know\" if North Korea was behind the $6.3 BILLION Binance security incident.\n\n\"We're looking at that,\" the President said when asked about the attribution.\n\nBlockchain firms Chainalysis and TRM Labs have both linked the attack to North",
-    "url": "https://x.com/coinbureau/status/2116263696242819352",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2116262617799122944/vid/avc1/1280x720/YxYbk2W8gIbPvDZb.mp4?tag=29",
-      "duration": 11,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116262617799122944/img/DeswqbPZAof64pDO.jpg"
-    }
-  },
-  {
-    "id": "x-1793391814239-9jumz3",
-    "source": "x",
-    "ts": "2026-10-30T20:23:34.239Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T20:16:55.000Z",
-    "reason": "Potential regulatory or law enforcement response to the Binance hack.",
-    "text": "Trump on the $6.3B Binance Hack: \"We're Looking at That.\"\n\nPresident Trump said Binance says \"they have it pretty much under control,\" adding \"We'll see,\" during a White House pool spray on Friday.",
-    "url": "https://x.com/DecryptMedia/status/2116263097795293679",
-    "images": [
-      "https://pbs.twimg.com/media/HV56CSGXEAAwrhf.jpg",
-      "https://pbs.twimg.com/media/HV56CqOWMAA0Pqh.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793391819697-qx5fdn",
-    "source": "x",
-    "ts": "2026-10-30T20:23:39.697Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-30T20:14:00.000Z",
-    "reason": "Specific institutional announcement about a new token round.",
-    "text": "InterLink sets the rules for its next token round, and ITL holders get an edge\n\n@inter_link explained how its upcoming $ITLG KYC round will work, and everyone can take part, including new accounts. Account activity, badges, and a bigger $ITL balance in the wallet can all improve",
-    "url": "https://x.com/BSCNews/status/2116262363208765751",
-    "images": [
-      "https://pbs.twimg.com/media/HV5qV1AXUAEO4KY.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793392373761-vuhqb3",
     "source": "x",
     "ts": "2026-10-30T20:32:53.761Z",
@@ -7812,5 +7754,49 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117331405470330880/img/oYCbLGGWqd3W0A9a.jpg"
     }
+  },
+  {
+    "id": "x-1793647353359-7rta47",
+    "source": "x",
+    "ts": "2026-11-02T19:22:33.359Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-02T19:20:31.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "On this day in 2018, Uniswap went live on Ethereum. 🦄\n\nTwo years later, it airdropped 150M UNI to early users and LPs. Each of the 251,534 wallets that had ever used it got at least 400 UNI. It kicked off the DeFi airdrop era.\n\n400 UNI at the May 2021 peak ($44.92): ~$17,970\n400",
+    "url": "https://x.com/Cointelegraph/status/2117336069293158614"
+  },
+  {
+    "id": "x-1793647358587-aq6ggh",
+    "source": "x",
+    "ts": "2026-11-02T19:22:38.587Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T19:15:00.000Z",
+    "reason": "Notable institution-joining-institution partnership in DeFi ecosystem.",
+    "text": "SBI Digital Markets eyes Arbitrum for tokenized investment products with Ember Protocol\n\nSBI Digital Markets signed a memorandum of understanding with @EmberProtocol today. SBI will bring asset structuring and its network of institutional investors, while Ember will provide the",
+    "url": "https://x.com/BSCNews/status/2117334678747185177",
+    "images": [
+      "https://pbs.twimg.com/media/HWJBWPXWcAE9VdY.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793647362581-7c76ne",
+    "source": "x",
+    "ts": "2026-11-02T19:22:42.581Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T19:14:44.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: Bitcoin closed above its 50-Week Moving Average for the 7th consecutive week 👀\n\nStay bullish! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2117334610673570044"
   }
 ]
