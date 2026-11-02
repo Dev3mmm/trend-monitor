@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793361166688-gjh2ws",
-    "source": "x",
-    "ts": "2026-10-30T11:52:46.689Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T11:46:00.000Z",
-    "reason": "Potential scam targeting Pi token users.",
-    "text": "Pioneers Are Being Targeted With a Sneaky Address Poisoning Trick\n\nScammers are transferring minuscule amounts of $Pi, usually 0.000314, to thousands of @PiCoreTeam wallets. They use memos stating ridiculous conversion rates such as “1 Pi = $314,159.”\n\nVictims are usually people",
-    "url": "https://x.com/BSCNews/status/2116134520881598753",
-    "images": [
-      "https://pbs.twimg.com/media/HV4CjjBWgAAhIO4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793361172856-ixa14w",
-    "source": "x",
-    "ts": "2026-10-30T11:52:52.856Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-30T11:45:36.000Z",
-    "reason": "EIP-7702 may have helped attackers bypass security checks, leading to a significant hack.",
-    "text": "🚨 INSIGHT: Ethereum’s EIP-7702 didn’t cause Binance’s $6.3B hack but may have helped attackers bypass security checks and drain funds in one sweep, @blockaid_ CEO Ido Ben-Natan tells Cointelegraph.",
-    "url": "https://x.com/Cointelegraph/status/2116134422961398257",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793361178341-l0s73a",
     "source": "x",
     "ts": "2026-10-30T11:52:58.341Z",
@@ -7828,5 +7794,42 @@
     "reason": "No notable crypto-related event or use described.",
     "text": "In May 2022, BlockDown left the virtual world and met in real life for the first time in Croatia 🇭🇷 \n\nThree days on the Adriatic coast.\n\nWeb3 talks and networking alongside fun activities, workshops, boat parties, and dinners at a historic fortress. A festival, not just a",
     "url": "https://x.com/BSCNews/status/2117150406468161856"
+  },
+  {
+    "id": "x-1793604749806-wavhkr",
+    "source": "x",
+    "ts": "2026-11-02T07:32:29.806Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-02T07:30:34.000Z",
+    "reason": "Crypto industry figure SBF found guilty of fraud",
+    "text": "⚡️ ON THIS DAY: Nov 2, 2023, a jury found Sam Bankman-Fried guilty on all 7 counts of fraud and conspiracy.\n\nThe verdict took about 4 hours.",
+    "url": "https://x.com/Cointelegraph/status/2117157402319401100",
+    "images": [
+      "https://pbs.twimg.com/media/HWGnblKXgAAFNDL.jpg",
+      "https://pbs.twimg.com/media/HWGnbyaWoAAK3dd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793604755853-qbpx1n",
+    "source": "x",
+    "ts": "2026-11-02T07:32:35.853Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-02T07:24:05.000Z",
+    "reason": "No notable news, the tweet is vague and lacks concrete details.",
+    "text": "Shiba Inu Holds its Ground as Binance Hacker Dumps 499B Tokens\n\nThe attacker behind the $6.3 billion Binance (@binance) security breach has liquidated more than 130 altcoins.\n\nLookonchain estimates the sales generated approximately $279 million in total proceeds.\n\nAmong the",
+    "url": "https://x.com/BSCNews/status/2117155772832653707",
+    "images": [
+      "https://pbs.twimg.com/media/HWGi_dYawAAJ4yJ.png"
+    ],
+    "video": null
   }
 ]
