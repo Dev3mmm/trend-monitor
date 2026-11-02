@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793371997506-4r3xnm",
-    "source": "x",
-    "ts": "2026-10-30T14:53:17.506Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T14:48:44.000Z",
-    "reason": "No notable crypto-related news mentioned.",
-    "text": "Reddit Sinks 25% as Google's AI Search Squeezes Its Traffic.\n\nReddit fell about 25% to near $97 early Friday after guiding fourth-quarter revenue to $1 billion to $1.03 billion. CEO Steve Huffman told CNBC search referral traffic is \"down meaningfully\" due to Google's \"shift to",
-    "url": "https://x.com/DecryptMedia/status/2116180509545881879"
-  },
-  {
-    "id": "x-1793372000915-pm19x9",
-    "source": "x",
-    "ts": "2026-10-30T14:53:20.915Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-30T14:30:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "In his own words",
-    "url": "https://x.com/elonmusk/status/2116179698267128211"
-  },
-  {
     "id": "x-1793372525506-1xuomx",
     "source": "x",
     "ts": "2026-10-30T15:02:05.506Z",
@@ -7854,6 +7828,35 @@
       "https://pbs.twimg.com/media/HWH1tqyXoAASCS8.png",
       "https://pbs.twimg.com/media/HWH1xj5WQAApJEA.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793626927820-mfmzec",
+    "source": "x",
+    "ts": "2026-11-02T13:42:07.820Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 60,
+    "originTimestamp": "2026-11-02T12:41:26.000Z",
+    "reason": "Generic financial comparison without crypto specifics or on-chain data.",
+    "text": "参加币安这个活动存 20 天\n相当于在银行里边存定期，存 8 个月\n\n100 万人民币存银行定期\n一年利息 9500 块\n\n同样 100 万换成 U 放进币安\n20 天拿 6300 块，钱还随时能提\n\nUSDC 年化 11.5%，是活期，不是定期\n\nVIP 4 以上，前 30 万 U 都是 11.5%\nVIP 1 到 3 是 11%\n普通用户 10.5%，不到 5 万的 10%",
+    "url": "https://x.com/cz_binance/status/2117250693010743754"
+  },
+  {
+    "id": "x-1793626931386-vlfadf",
+    "source": "x",
+    "ts": "2026-11-02T13:42:11.386Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-02T13:35:15.000Z",
+    "reason": "The tweet mentions a specific and notable event (the Binance Hack) and its implications.",
+    "text": "Morning Minute: The Binance Hack Leads to Mass Outflows while FBI Opens Probe",
+    "url": "https://x.com/DecryptMedia/status/2117249177662984200",
+    "images": [],
     "video": null
   }
 ]
