@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793346741513-dvr4ud",
-    "source": "x",
-    "ts": "2026-10-30T07:52:21.513Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T07:43:32.000Z",
-    "reason": "No notable move, price is well inside the recent range.",
-    "text": "🚨 Follow the latest developments on Binance’s ~$6B hack, all in one place:",
-    "url": "https://x.com/Cointelegraph/status/2116073502138913278",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793347915636-9gwhpl",
-    "source": "x",
-    "ts": "2026-10-30T08:11:55.636Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T08:05:38.000Z",
-    "reason": "Update on Binance attack highlighting scope beyond initial understanding.",
-    "text": "🚨 UPDATE: Binance’s Richard Teng clarifies the attack went beyond one engineer’s permissions and was not a “one-click” action.",
-    "url": "https://x.com/Cointelegraph/status/2116079066042204585",
-    "images": [
-      "https://pbs.twimg.com/media/HV3SsUsXsAAIgI-.png",
-      "https://pbs.twimg.com/media/HV3SsjjXwAAMVIe.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793349752546-2yxyo3",
     "source": "x",
     "ts": "2026-10-30T08:42:32.546Z",
@@ -7884,5 +7849,36 @@
     "reason": "Vague prediction with no basis given",
     "text": "INSIGHT: Bitcoin’s last THREE cycle bottoms came shortly after the U.S. midterm elections.\n\n2014 → 71 days later\n2018 → 39 days later\n2022 → 13 days later\n\nThe next U.S. midterm election is TOMORROW, November 3rd.\n\nIf the pattern repeats, late 2026 to early 2027 could be a",
     "url": "https://x.com/coinbureau/status/2117074221700407350"
+  },
+  {
+    "id": "x-1793586744058-hgf4tg",
+    "source": "x",
+    "ts": "2026-11-02T02:32:24.058Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-02T02:30:32.000Z",
+    "reason": "No notable move or specific event is reported.",
+    "text": "🚨 NEW: Jim Cramer says market bears want to derail the Anthropic IPO. \n\nBullish or bearish sign? 👀",
+    "url": "https://x.com/Cointelegraph/status/2117081896840495183"
+  },
+  {
+    "id": "x-1793586749309-fql16n",
+    "source": "x",
+    "ts": "2026-11-02T02:32:29.309Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-02T02:23:28.000Z",
+    "reason": "Significant amount stolen and moved within a short time",
+    "text": "Binance Attacker Moved About $242 Million via Tron Within Two Days; Over $3 Billion in Stolen Assets Remain Largely Untouched\n\nAccording to on-chain analyst SomaXBT, about two days after the Binance attack, the attacker transferred approximately $242 million through Tron-related",
+    "url": "https://x.com/WuBlockchain/status/2117080117881282964",
+    "images": [
+      "https://pbs.twimg.com/media/HWFhH76bQAAIRI-.jpg"
+    ],
+    "video": null
   }
 ]
