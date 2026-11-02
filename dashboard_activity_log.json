@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793373150162-ayqvkq",
-    "source": "x",
-    "ts": "2026-10-30T15:12:30.162Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 22,
-    "originTimestamp": "2026-10-30T14:50:12.000Z",
-    "reason": "The tweet is unrelated to crypto and does not contain any specific crypto-related content.",
-    "text": "Democrats will execute their plan to end democracy in America if they gain control",
-    "url": "https://x.com/elonmusk/status/2116183808211141028"
-  },
-  {
-    "id": "x-1793373733820-cjebg4",
-    "source": "x",
-    "ts": "2026-10-30T15:22:13.820Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T15:21:04.000Z",
-    "reason": "Exploit/Security Incident involving a popular exchange.",
-    "text": "Binance Hacker Used a Self-Destruct Mechanism to Erase Traces, Teng Says.\n\nCo-CEO Richard Teng says the attacker used EIP-7702 to gain on-chain execution approval over a hot wallet, a delegation that bypassed Binance's normal approval controls. Binance is rebuilding its",
-    "url": "https://x.com/DecryptMedia/status/2116188643626729493",
-    "images": [
-      "https://pbs.twimg.com/media/HV42IhzXIAEWpKK.png",
-      "https://pbs.twimg.com/media/HV42R8aWgAAZKxR.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793373737245-9pyz4u",
     "source": "x",
     "ts": "2026-10-30T15:22:17.245Z",
@@ -7853,5 +7821,31 @@
       "https://pbs.twimg.com/media/HWIAOIibMAAlLV1.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793628715220-vrkqe2",
+    "source": "x",
+    "ts": "2026-11-02T14:11:55.220Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 42,
+    "originTimestamp": "2026-11-02T13:30:06.000Z",
+    "reason": "No notable move in token or crypto news related.",
+    "text": "Elon Musk's naming choices for Colossus 2 are on a completely different level 😭\n\n• Macrohard\n• Macroharder\n• Minihard\n• Gun Range\n• Spam\n\nThis man built the most powerful SI data center on Earth, is building the future of superintelligence, and these are the names he comes",
+    "url": "https://x.com/elonmusk/status/2117257075810316342"
+  },
+  {
+    "id": "x-1793628717985-ti5uzr",
+    "source": "x",
+    "ts": "2026-11-02T14:11:57.985Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-02T14:06:33.000Z",
+    "reason": "No notable move in oil prices.",
+    "text": "🚨ALERT: U.S. oil plunges 7% below $98 a barrel, while Brent crude drops 5% following reports that the U.S. and Iran are nearing a peace deal.",
+    "url": "https://x.com/coinbureau/status/2117257056298385479"
   }
 ]
