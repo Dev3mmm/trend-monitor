@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793386421035-nn8hk2",
-    "source": "x",
-    "ts": "2026-10-30T18:53:41.035Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-30T18:50:24.000Z",
-    "reason": "A notable new use of a token in AI development.",
-    "text": "🔥 NEW: Internet Computer $ICP is now available as a connector in Claude, allowing users to build on the network directly through AI prompts.",
-    "url": "https://x.com/Cointelegraph/status/2116241324877725758",
-    "images": [
-      "https://pbs.twimg.com/media/HV5mRAlXAAE7OyU.jpg",
-      "https://pbs.twimg.com/media/HV5mRPsWgAAh3NP.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793386423303-u5fx9k",
-    "source": "x",
-    "ts": "2026-10-30T18:53:43.303Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 79,
-    "originTimestamp": "2026-10-30T17:34:01.000Z",
-    "reason": "No factual claim or verifiable event.",
-    "text": "This would be the end of democracy in America",
-    "url": "https://x.com/elonmusk/status/2116240704393351411"
-  },
-  {
-    "id": "x-1793386427882-wbcf0k",
-    "source": "x",
-    "ts": "2026-10-30T18:53:47.882Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T18:47:00.000Z",
-    "reason": "Notable regulatory move with specific tax implementation on MEV (Maximize Ethereum Revenue) on the Aero network.",
-    "text": "Aero starts taxing the bots that pay to jump the line\n\n@aeroxyz began rolling out an MEV tax today on select OP Mainnet pools. The more a trade pays to cut ahead, the higher its extra fee, up to a set limit. That money goes to liquidity providers and staked $AERO holders.\n\nAero",
-    "url": "https://x.com/BSCNews/status/2116240468656738390",
-    "images": [
-      "https://pbs.twimg.com/media/HV5dsnNWYAAsGfR.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793386430793-0vcj9i",
     "source": "x",
     "ts": "2026-10-30T18:53:50.793Z",
@@ -7822,6 +7772,57 @@
     "url": "https://x.com/BSCNews/status/2117304931006734360",
     "images": [
       "https://pbs.twimg.com/media/HWItCy2WkAA9DZg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793640744180-bsgmd4",
+    "source": "x",
+    "ts": "2026-11-02T17:32:24.180Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 18,
+    "originTimestamp": "2026-11-02T17:13:48.000Z",
+    "reason": "Generic political message unrelated to crypto market or technology.",
+    "text": "Many elections this year will be decided by a small number of votes.\n\nYour vote gives you the power to hold anti-crypto lawmakers accountable.\n\nUse the SWC Voter Hub to see who is pro-crypto and make a plan to vote. The future of crypto depends on it.",
+    "url": "https://x.com/coinbase/status/2117307660726857973"
+  },
+  {
+    "id": "x-1793640749820-3vle6z",
+    "source": "x",
+    "ts": "2026-11-02T17:32:29.820Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-02T17:27:37.000Z",
+    "reason": "Regulatory clarity on Binance's handling of stolen funds.",
+    "text": "CZ Says Binance Didn't Borrow, Sell Assets or Raise Money to Cover Stolen Funds.\n\nChangpeng Zhao said Monday that Binance covered the losses from its own balance sheet, as the exchange says it has replenished about 95% of the impacted amount, with the remaining less liquid tokens",
+    "url": "https://x.com/DecryptMedia/status/2117307654033043572",
+    "images": [
+      "https://pbs.twimg.com/media/HWIwBguXUAA8ADG.png",
+      "https://pbs.twimg.com/media/HWIwCYkWYAAyEJ7.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793640755718-bqkux1",
+    "source": "x",
+    "ts": "2026-11-02T17:32:35.718Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T17:25:13.000Z",
+    "reason": "Notable power outage affecting key US political event.",
+    "text": "🚨ALARMING: Power outage hits Washington, D.C., a day before the U.S. midterm elections.\n\nNearly 80,000 customers are WITHOUT power across the U.S., including outages in Washington, D.C., per PowerOutage's data.\n\n- Pepco reports 1,176 customers without power in Foggy Bottom, just",
+    "url": "https://x.com/coinbureau/status/2117307053983375837",
+    "images": [
+      "https://pbs.twimg.com/media/HWIugCobUAAqwLY.png",
+      "https://pbs.twimg.com/media/HWIugoAbcAAh14C.png"
     ],
     "video": null
   }
