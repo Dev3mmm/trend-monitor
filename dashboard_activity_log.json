@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1793364205770-va2zoo",
-    "source": "x",
-    "ts": "2026-10-30T12:43:25.770Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T12:32:45.000Z",
-    "reason": "Binance's hack overshadowed a significant event for Hyperliquid.",
-    "text": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
-    "url": "https://x.com/DecryptMedia/status/2116146285287747676",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793364718672-c32kqz",
     "source": "x",
     "ts": "2026-10-30T12:51:58.672Z",
@@ -7802,6 +7786,24 @@
     "images": [
       "https://pbs.twimg.com/media/HWG8FruWYAAnboZ.png",
       "https://pbs.twimg.com/media/HWG8F7zWMAAxpQ4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793610765518-xwmiue",
+    "source": "x",
+    "ts": "2026-11-02T09:12:45.518Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-02T09:04:00.000Z",
+    "reason": "Starknet claims a potential edge in quantum-resistant cryptography for Ethereum.",
+    "text": "Starknet Claims a Major Edge in The Quantum Security Race\n\nStarknet (@Starknet) ethereum:0xca14007eff0db1f8135f4c25b34de49ab0d42766 says its account abstraction design could make the transition to quantum-resistant cryptography easier.\n\nUnlike Bitcoin $BTC and Ethereum $ETH,",
+    "url": "https://x.com/BSCNews/status/2117180916359627215",
+    "images": [
+      "https://pbs.twimg.com/media/HWGtdneaIAA60dd.png"
     ],
     "video": null
   }
