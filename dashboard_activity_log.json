@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793352137506-wjgtat",
-    "source": "x",
-    "ts": "2026-10-30T09:22:17.507Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T09:13:56.000Z",
-    "reason": "Noise: Generic hype without specific claims.",
-    "text": "Some big crypto developments coming in the next few days...\n\n@ElanInsights' Crypto Calendar tool might be the industry's best tool for staying on top of all things crypto.\n\nTry now: \n\nWe used it to flag 3 upcoming developments that you won't want to miss...",
-    "url": "https://x.com/BSCNews/status/2116096253624795238"
-  },
-  {
-    "id": "x-1793352726797-r1hlg8",
-    "source": "x",
-    "ts": "2026-10-30T09:32:06.797Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T09:30:41.000Z",
-    "reason": "New regulatory scrutiny on prediction markets.",
-    "text": "🇺🇸 LATEST: The SEC has joined other regulators in its scrutiny of prediction markets, as its enforcement chief says bets tied to company earnings or KPIs may fall under its watch.",
-    "url": "https://x.com/Cointelegraph/status/2116100466132005056",
-    "images": [
-      "https://pbs.twimg.com/media/HV3mJ2LW4AEKncT.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793353329809-jbt56o",
     "source": "x",
     "ts": "2026-10-30T09:42:09.809Z",
@@ -7862,5 +7831,41 @@
     "reason": "No notable move or specific event described.",
     "text": "ThorChain Co-Founder Has a Message for Binance Hack Investigators\n\nTHORChain (@THORChain) thorchain:native co-founder Chad Barraford (@CBarraford) says node operators hold no private information beyond public blockchain data. \n\nHis comments follow reports that the FBI urged DeFi",
     "url": "https://x.com/BSCNews/status/2117105588631138348"
+  },
+  {
+    "id": "x-1793593960863-j213zr",
+    "source": "x",
+    "ts": "2026-11-02T04:32:40.863Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T04:30:31.000Z",
+    "reason": "Notable institutional resistance to share tokenization proposals.",
+    "text": "🚨 NOW: Nike, Costco, Micron, Reddit and Nvidia object to OKX and ICE’s plan to tokenize their shares on its TSV. \n\nThe list of objectors now totals 50 of the 62 firms in the original proposal.",
+    "url": "https://x.com/Cointelegraph/status/2117112091584696476",
+    "images": [
+      "https://pbs.twimg.com/media/HWF-OZLXMAATszh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793593966931-2bg83j",
+    "source": "x",
+    "ts": "2026-11-02T04:32:46.931Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-02T04:27:53.000Z",
+    "reason": "Notable institutional collaboration for tokenized cash management on a public blockchain.",
+    "text": "Uber Gave Canton a Major Real World Test\n\nUber (@Uber) has completed its first tokenized cash management pilot on the Canton Network (@CantonNetwork) canton-network:native. \n\nThe test involved HSBC (@HSBC), Franklin Templeton (@FTDA_US), Tradeweb and Fireblocks (@FireblocksHQ).",
+    "url": "https://x.com/BSCNews/status/2117111430843695107",
+    "images": [
+      "https://pbs.twimg.com/media/HWF8opkaUAAqxU0.png"
+    ],
+    "video": null
   }
 ]
