@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793373737245-9pyz4u",
-    "source": "x",
-    "ts": "2026-10-30T15:22:17.245Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-30T15:15:00.000Z",
-    "reason": "Price movements of crypto stocks are notable and verifiable market events.",
-    "text": "🚨Crypto stocks NOSEDIVE\n\nCoinbase, $COIN: −12%\nStrategy, $MSTR: −11%\nHut 8, $HUT: −9%\nRiot Platforms, $RIOT: −9%\nMARA, $MARA: −9%\nRobinhood, $HOOD: −8%\nCleanSpark, $CLSK: −8%\nBitMine, $BMNR: −7%\nIREN, $IREN: −7%\n\nMeanwhile, over $850,000,000,000 got wiped out from the",
-    "url": "https://x.com/coinbureau/status/2116187117202379223",
-    "images": [
-      "https://pbs.twimg.com/media/HV4vOIda4AEN6vd.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793373738919-spodpu",
-    "source": "x",
-    "ts": "2026-10-30T15:22:18.919Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 42,
-    "originTimestamp": "2026-10-30T14:40:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "This is literally their plan and they say it out loud!",
-    "url": "https://x.com/elonmusk/status/2116186406544413103"
-  },
-  {
-    "id": "x-1793374338013-xvrjlz",
-    "source": "x",
-    "ts": "2026-10-30T15:32:18.013Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T15:30:50.000Z",
-    "reason": "Notable exploit disclosure affecting Bitcoin Core nodes.",
-    "text": "🚨 ALERT: Bitcoin Core discloses a low-severity bug that could let miners corrupt other nodes’ undo data and trigger shutdowns under extreme conditions.",
-    "url": "https://x.com/Cointelegraph/status/2116191103816749190",
-    "images": [
-      "https://pbs.twimg.com/media/HV44lP4X0AEOzVS.png",
-      "https://pbs.twimg.com/media/HV44lsmXAAADcVf.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793374341180-fiopak",
     "source": "x",
     "ts": "2026-10-30T15:32:21.180Z",
@@ -7847,5 +7797,44 @@
     "reason": "No notable move in oil prices.",
     "text": "🚨ALERT: U.S. oil plunges 7% below $98 a barrel, while Brent crude drops 5% following reports that the U.S. and Iran are nearing a peace deal.",
     "url": "https://x.com/coinbureau/status/2117257056298385479"
+  },
+  {
+    "id": "x-1793629342867-6wkuyg",
+    "source": "x",
+    "ts": "2026-11-02T14:22:22.867Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T14:20:19.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🚨ALERT: U.S. oil plunges 7% below $98 a barrel and Brent falls 5% as hopes for a U.S.–Iran deal grow.\n\nIran’s President Pezeshkian says, “We will attempt to resolve the issue through dialogue.” \n\nThe Supreme Leader has granted the government specific powers for negotiations.",
+    "url": "https://x.com/coinbureau/status/2117260518729961521"
+  },
+  {
+    "id": "x-1793629346162-bse5xq",
+    "source": "x",
+    "ts": "2026-11-02T14:22:26.162Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T14:20:17.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Exchange Hacks, Quantum Threats &amp; Self-Custody: Is Your Bitcoin Safe? [Ft. Cory Klippsten]",
+    "url": "https://x.com/Cointelegraph/status/2117260513197351284"
+  },
+  {
+    "id": "x-1793629349367-hegrcb",
+    "source": "x",
+    "ts": "2026-11-02T14:22:29.367Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-02T14:15:43.000Z",
+    "reason": "No notable crypto-related content or event.",
+    "text": "Educated fools are now buying almond \"milk\" and soy \"milk\" because they have been convinced that these can replace milk.\n\nI don't know where they learnt that plants produce milk.\n\nThen when they suffer long-term Inflammatory Bowel Syndrome, they will blame genes.",
+    "url": "https://x.com/amerix/status/2117259364494934270"
   }
 ]
