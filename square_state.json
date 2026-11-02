@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792218721141-uxo9b7",
     "x-1792220551505-2va4gx",
     "x-1792222338240-y7hk5m",
     "x-1792222951119-5uvt05",
@@ -1999,18 +1998,10 @@
     "x-1793655372845-3wl9ym",
     "x-1793655376332-mua1my",
     "x-1793656315237-ol68qq",
-    "x-1793656320661-qpk2b9"
+    "x-1793656320661-qpk2b9",
+    "x-1793656951837-7yq1qa"
   ],
   "queue": [
-    {
-      "text": "JUST IN: There's now a 71% chance Bitcoin will be above $80,000 this month, according to Polymarket⁠.com 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2117362167444115833",
-      "images": [
-        "https://pbs.twimg.com/media/HWJhq0rXEAEEZC1.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793653952768
-    },
     {
       "text": "🇳🇿 NEW: Revolut secures a New Zealand banking licence, fueling its global expansion and market disruption.",
       "url": "https://x.com/Cointelegraph/status/2117366260111454677",
@@ -2020,6 +2011,15 @@
       ],
       "video": null,
       "enqueuedAt": 1793655078002
+    },
+    {
+      "text": "🔥 BIG: Coinbase is now the second-largest tokenized stock issuer by weekly DEX volume, with a 26.7% share just behind Robinhood’s 27.3%.",
+      "url": "https://x.com/Cointelegraph/status/2117376354240938431",
+      "images": [
+        "https://pbs.twimg.com/media/HWJukkUXkAA3K6U.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793656955929
     }
   ],
   "posted": [
@@ -2564,7 +2564,16 @@
       "at": 1793655078002,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384056904042424?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: There's now a 71% chance Bitcoin will be above $80,000 this month, according to Polymarket⁠.com 🚀",
+      "final": "JUST IN: There's now a 71% chance Bitcoin will be above $80,000 this month, according to Polymarket⁠.com 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWJhq0rXEAEEZC1.jpg"
+      ],
+      "at": 1793656955929,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793655078002
+  "lastPostAt": 1793656955929
 }
