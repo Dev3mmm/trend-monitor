@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793364723187-f5slp2",
-    "source": "x",
-    "ts": "2026-10-30T12:52:03.187Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T12:45:39.000Z",
-    "reason": "High volume of liquidations in crypto markets.",
-    "text": "🚨 REKT: Crypto liquidations hit $1.6B in 24 hours, with the largest single order worth $11.09M on Binance.",
-    "url": "https://x.com/Cointelegraph/status/2116149534078185527",
-    "images": [
-      "https://pbs.twimg.com/media/HV4SyLcWwAA9DmD.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793364729026-vnet31",
     "source": "x",
     "ts": "2026-10-30T12:52:09.026Z",
@@ -7809,5 +7791,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117187599647301634/img/gi99ZZGDrVptW9TU.jpg"
     }
+  },
+  {
+    "id": "x-1793612585644-l885ud",
+    "source": "x",
+    "ts": "2026-11-02T09:43:05.644Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-02T09:33:50.000Z",
+    "reason": "Potential geopolitical impact on cryptocurrency regulation.",
+    "text": "Trump Made a Big Statement About The Binance Hack\n\nUS President Donald Trump (@realDonaldTrump) says the U.S. could engage with Pyongyang if North Korea was behind the $6.3 billion Binance (@binance) hack. \n\nBlockchain analytics firms have linked the attack to North Korean",
+    "url": "https://x.com/BSCNews/status/2117188426311291074",
+    "images": [
+      "https://pbs.twimg.com/media/HWG2l_2aoAAr3Y5.png"
+    ],
+    "video": null
   }
 ]
