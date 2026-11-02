@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1793355119291-vd9tc1",
-    "source": "x",
-    "ts": "2026-10-30T10:11:59.291Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-30T10:02:56.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 LONGITUDE: @monad’s @keoneHD argues blockchain payment rails aren’t ready for mass adoption yet, citing gaps in scale and integration with existing fiat systems.",
-    "url": "https://x.com/Cointelegraph/status/2116108583070740964",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2116108417014087680/vid/avc1/1280x720/LIgJJ0mi4VVhozbh.mp4?tag=16",
-      "duration": 62,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116108417014087680/img/yeY0AkFLmMK7vXhk.jpg"
-    }
-  },
-  {
-    "id": "x-1793356334983-z79e3a",
-    "source": "x",
-    "ts": "2026-10-30T10:32:14.983Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T10:30:41.000Z",
-    "reason": "Security incident affecting cryptocurrency users detected",
-    "text": "🚨 ALERT: Cursor reports a security incident involving a malicious Claude Code VS Code extension that may have affected up to 5,000 users.\n\n This malicious version of the extension was not developed by Anthropic.",
-    "url": "https://x.com/Cointelegraph/status/2116115568440783154",
-    "images": [
-      "https://pbs.twimg.com/media/HV3z46gX0AAphVw.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793356338579-aabum5",
-    "source": "x",
-    "ts": "2026-10-30T10:32:18.579Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 49,
-    "originTimestamp": "2026-10-30T09:42:50.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Binance's Yi He Says Revenue Can Cover Hack Losses Without Selling SpaceX Shares.\n\nReplying to CZ, the co-founder said Binance's \"revenue for the year is sufficient to cover the losses.\" CZ later said he hadn't suggested selling the shares, only showing funds Binance has.",
-    "url": "https://x.com/DecryptMedia/status/2116115196599226657",
-    "images": [
-      "https://pbs.twimg.com/media/HV3y9m_XcAAPPGW.png",
-      "https://pbs.twimg.com/media/HV3y_njW4AAnUaJ.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793356916191-rop4cj",
     "source": "x",
     "ts": "2026-10-30T10:41:56.191Z",
@@ -7870,5 +7812,55 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🚨 INSIGHT: Bitcoin to end the year below $100,000? 👀\n\nMarkus Thielen (@markus10x), founder of 10x Research, reveals on #TRADESECRETS where he thinks $BTC will close 2026.",
     "url": "https://x.com/Cointelegraph/status/2117123443707547699"
+  },
+  {
+    "id": "x-1793597577107-a1q7m2",
+    "source": "x",
+    "ts": "2026-11-02T05:32:57.107Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T05:30:32.000Z",
+    "reason": "The tweet contains no specific factual claim or event.",
+    "text": "🇦🇪 JUST IN: UAE and OpenAI sign four deals across government, energy and investment, as Abu Dhabi aims to become the world’s first fully AI-native government.",
+    "url": "https://x.com/Cointelegraph/status/2117127196103856323",
+    "images": [
+      "https://pbs.twimg.com/media/HWGL9LDWIAAjLKP.png",
+      "https://pbs.twimg.com/media/HWGL9vgXIAATwZd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793597579129-0itknn",
+    "source": "x",
+    "ts": "2026-11-02T05:32:59.130Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-02T05:30:00.000Z",
+    "reason": "No notable move in crypto related to the tweet's content.",
+    "text": "🚨LATEST: Oil prices fall more than -2% as Iran &amp; Qatar talks raise hopes of an end to the U.S.- Iran war.\n\nIran held a third consecutive day of talks with Qatari mediators, easing concerns over conflict-related supply disruptions.",
+    "url": "https://x.com/coinbureau/status/2117127061236330680"
+  },
+  {
+    "id": "x-1793597581768-796ko5",
+    "source": "x",
+    "ts": "2026-11-02T05:33:01.768Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-02T05:22:28.000Z",
+    "reason": "Notable institution Binance restoring withdrawals for multiple cryptocurrencies.",
+    "text": "XRP And DOGE Withdrawals Return as Binance Reopens More Networks\n\nBinance (@binance) has restored withdrawals for $XRP (@XRP), $DOGE (@dogecoin), $BTC, $ETH (@ethereum) and several other assets.\n\nThe latest phase also added $ZEC (@Zcash), TON-based $USDT and $GRAM",
+    "url": "https://x.com/BSCNews/status/2117125166862127407",
+    "images": [
+      "https://pbs.twimg.com/media/HWGE5nhaMAAu5_Q.png"
+    ],
+    "video": null
   }
 ]
