@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793365364897-8y9elg",
-    "source": "x",
-    "ts": "2026-10-30T13:02:44.897Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T13:01:25.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 UPDATE: Crypto has recorded 322 confirmed hacks in 2026, more than twice last year’s total, with two months still left, per DefiLlama.",
-    "url": "https://x.com/Cointelegraph/status/2116153500086211050"
-  },
-  {
-    "id": "x-1793365370395-xz7nog",
-    "source": "x",
-    "ts": "2026-10-30T13:02:50.395Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T12:52:00.000Z",
-    "reason": "Generic, speculative market update without specific data or verification.",
-    "text": "🚨TODAY: Silver FALLS to $50 for the FIRST TIME since November 2025, down about 59% from January’s $121 peak.\n\nMetals Focus projects a SUPPLY SURPLUS in 2027 as inventories rise and jewellery and industrial demand weaken.\n\nMarkets are also pricing in an 80% chance of a December",
-    "url": "https://x.com/coinbureau/status/2116151130757661156"
-  },
-  {
     "id": "x-1793365946735-ev4tn7",
     "source": "x",
     "ts": "2026-10-30T13:12:26.735Z",
@@ -7811,6 +7785,42 @@
     "images": [
       "https://pbs.twimg.com/media/HWHIkEDWEAATF0Q.png",
       "https://pbs.twimg.com/media/HWHI8HsWsAAsMAg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793614644905-ys02jp",
+    "source": "x",
+    "ts": "2026-11-02T10:17:24.905Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-02T10:13:35.000Z",
+    "reason": "Ethereum's adoption of tokenized stocks shows growth and integration with financial markets.",
+    "text": "📊 LATEST: Tokenized stocks on Ethereum grew 170% YoY to $827M, per Token Terminal.\n\nIs Ethereum becoming Wall Street’s next home?",
+    "url": "https://x.com/Cointelegraph/status/2117198429226992122",
+    "images": [
+      "https://pbs.twimg.com/media/HWHMv67WEAA9fea.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793614650690-5x38os",
+    "source": "x",
+    "ts": "2026-11-02T10:17:30.690Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-02T10:07:27.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Binance Hack Brings CLARITY Act Back Into Focus\n\nSen. Cynthia Lummis (@SenLummis) says the $6.3 billion Binance (@binance) hack shows why the CLARITY Act matters. \n\nShe argues the bill could give crypto firms legal protection to freeze suspicious transactions when law enforcement",
+    "url": "https://x.com/BSCNews/status/2117196884544749653",
+    "images": [
+      "https://pbs.twimg.com/media/HWHLH0ZaAAA9tAX.png"
     ],
     "video": null
   }
