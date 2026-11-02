@@ -1,73 +1,5 @@
 [
   {
-    "id": "x-1793392926511-9lvqhc",
-    "source": "x",
-    "ts": "2026-10-30T20:42:06.511Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 21,
-    "originTimestamp": "2026-10-30T20:20:49.000Z",
-    "reason": "Security breach and significant price movement mentioned",
-    "text": "Today's BSCN Debrief leads with the suspected @binance security breach, as stablecoin issuers froze more than $2.3 billion linked to the incident.\n\nThe edition also covers $HYPE rising 16.6% after the New York Stock Exchange's parent backed a 24/7 US perpetual futures market",
-    "url": "https://x.com/BSCNews/status/2116268688349462792",
-    "images": [
-      "https://pbs.twimg.com/media/HV569gxWcAAQvMM.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793393166448-fw76uy",
-    "source": "x",
-    "ts": "2026-10-30T20:46:06.448Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T20:45:00.000Z",
-    "reason": "Notable institutional adoption and innovation in the crypto space with Polymarket and Chainlink.",
-    "text": "Polymarket and Chainlink bring gold and silver to fast markets\n\n@Polymarket launched 15-minute up-or-down markets on gold and silver, with @chainlink, the oracle network behind $LINK, supplying the prices that settle each one. \n\nThe two expanded the deal at Link:NYC today, where",
-    "url": "https://x.com/BSCNews/status/2116270164526408018",
-    "images": [
-      "https://pbs.twimg.com/media/HV5u_dzXUAEqzcG.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793393529949-8nb66i",
-    "source": "x",
-    "ts": "2026-10-30T20:52:09.949Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T20:49:23.000Z",
-    "reason": "Notable institutional involvement in cryptocurrency by a major political figure.",
-    "text": "🚨 JUST IN: Trump said he is monitoring the Binance hack and that the exchange has the situation under control.",
-    "url": "https://x.com/Cointelegraph/status/2116271268177613152",
-    "images": [
-      "https://pbs.twimg.com/media/HV6Bf_LXEAAOpLD.jpg",
-      "https://pbs.twimg.com/media/HV6BgK1WMAA7FJp.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793393534705-ce2c2w",
-    "source": "x",
-    "ts": "2026-10-30T20:52:14.705Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T20:45:59.000Z",
-    "reason": "No notable crypto-related event.",
-    "text": "Intel Closes Down 28.6% in Its Worst Day Since the 1970s.\n\nIntel shares ended Friday at $65.76, down from Thursday's $92.07 close, after the chipmaker forecast fourth-quarter revenue of just $15 billion to $16 billion.",
-    "url": "https://x.com/DecryptMedia/status/2116270412896350259"
-  },
-  {
     "id": "x-1793394101015-3gsh1k",
     "source": "x",
     "ts": "2026-10-30T21:01:41.015Z",
@@ -7803,5 +7735,63 @@
       "https://pbs.twimg.com/media/HWJORSOXoAAfHzw.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793649130855-6qxjvb",
+    "source": "x",
+    "ts": "2026-11-02T19:52:10.855Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 83,
+    "originTimestamp": "2026-11-02T18:28:28.000Z",
+    "reason": "No notable crypto-related content or move.",
+    "text": "前边还在以色列12频道表示不急于和伊朗谈判的川普，在最新的演讲中表示今天油价大跌是因为美国在和伊朗的战斗中获得了胜利，伊朗想要达成协议，这是有可能的。\n\n一个 @Gate ，交易更多市场",
+    "url": "https://x.com/PhyrexNi/status/2117342878821384543"
+  },
+  {
+    "id": "x-1793649134588-z8nt2d",
+    "source": "x",
+    "ts": "2026-11-02T19:52:14.588Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-02T19:47:15.000Z",
+    "reason": "No factual claim or specific event is mentioned.",
+    "text": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+    "url": "https://x.com/DecryptMedia/status/2117342794599534968"
+  },
+  {
+    "id": "x-1793649139188-hnahr6",
+    "source": "x",
+    "ts": "2026-11-02T19:52:19.188Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-02T19:45:30.000Z",
+    "reason": "Regulatory move allowing staking for users in New Jersey.",
+    "text": "🇺🇸 LATEST: New Jersey has dropped its staking lawsuit against Coinbase, letting users in the state resume staking after more than three years.",
+    "url": "https://x.com/Cointelegraph/status/2117342354021417068",
+    "images": [
+      "https://pbs.twimg.com/media/HWJPpSTW8AEs04C.jpg",
+      "https://pbs.twimg.com/media/HWJPpixW4AIWWyj.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793649144669-3k8szd",
+    "source": "x",
+    "ts": "2026-11-02T19:52:24.669Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-02T19:44:00.000Z",
+    "reason": "No notable move; price is well within the recent trading range.",
+    "text": "Eleven days into the merger, Aero’s combined trading history nears $500 billion\n\nThe figure includes the full trading history of Aerodrome and Velodrome, which merged to form Aero on Oct 22. The total stands at about $499.6B per DefiLlama, and with roughly $480M traded in the",
+    "url": "https://x.com/BSCNews/status/2117341976714744225"
   }
 ]
