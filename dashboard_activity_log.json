@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793343736359-30lj47",
-    "source": "x",
-    "ts": "2026-10-30T07:02:16.359Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 70,
-    "originTimestamp": "2026-10-30T05:51:58.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "最近两年都是多事之秋，尤其是被盗的案件已经不止一起了，对于 Binance 来说应该也曾经考虑过应急预案，也给行业里的其它小伙伴都提醒了，黑客的技术和手段真的是层出不穷，为了资金安全考虑一定要小心。\n\n我记得 Coinbase 的财报中提过，有买过商业犯罪保险，涵盖部分盗窃和黑客攻击损失，不知道",
-    "url": "https://x.com/PhyrexNi/status/2116062309336625646"
-  },
-  {
     "id": "x-1793344966168-hcll6g",
     "source": "x",
     "ts": "2026-10-30T07:22:46.168Z",
@@ -7884,6 +7871,25 @@
     "url": "https://x.com/Cointelegraph/status/2117055460343730617",
     "images": [
       "https://pbs.twimg.com/media/HWFKt-6XkAEoE_A.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793581362586-o3lacr",
+    "source": "x",
+    "ts": "2026-11-02T01:02:42.586Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T01:00:33.000Z",
+    "reason": "Exploit involving user seed phrases on dApp Store.",
+    "text": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.",
+    "url": "https://x.com/Cointelegraph/status/2117059253131170035",
+    "images": [
+      "https://pbs.twimg.com/media/HWFOKnFWgAIzlPe.png",
+      "https://pbs.twimg.com/media/HWFOK8UXcAA1qpL.png"
     ],
     "video": null
   }
