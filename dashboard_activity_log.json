@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1793388201625-u755zu",
-    "source": "x",
-    "ts": "2026-10-30T19:23:21.625Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-30T19:16:00.000Z",
-    "reason": "Notable institutional adoption with new price feeds for Chinese stocks.",
-    "text": "Pyth Pro pushes deeper into Asian stocks and energy markets\n\n@PythNetwork, the oracle network behind $PYTH, added a new batch of price feeds to Pyth Pro, its paid market data service for trading firms and institutions. The update brings more Chinese stocks, including AI optics",
-    "url": "https://x.com/BSCNews/status/2116247766745899235",
-    "images": [
-      "https://pbs.twimg.com/media/HV5iD8KXgAAq8ZO.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793388875111-1ysmoz",
-    "source": "x",
-    "ts": "2026-10-30T19:34:35.111Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T19:32:15.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
-    "url": "https://x.com/DecryptMedia/status/2116251856997331402"
-  },
-  {
-    "id": "x-1793388880714-amk2xt",
-    "source": "x",
-    "ts": "2026-10-30T19:34:40.714Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T19:30:24.000Z",
-    "reason": "Exploit and security breach affecting a significant hack incident.",
-    "text": "🚨 UPDATE: Binance identified additional breach points in the $6.3 billion hack, with attackers using an EIP-7702 delegation to bypass normal hot-wallet approval controls. \n\nCo-CEO Richard Teng clarified that the attack went beyond one engineer’s permissions and that",
-    "url": "https://x.com/Cointelegraph/status/2116251389928067218",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793389917388-x1ucbb",
     "source": "x",
     "ts": "2026-10-30T19:51:57.388Z",
@@ -7823,5 +7776,47 @@
     "reason": "No notable move in ETH price.",
     "text": "Rootstocklabs' Tony DiCarlo on the \"paper Bitcoin\" concern:\n\n\"It can be a concern, but Bitcoin is transparent. We can see everything on the ledger.\"\n\n\"It's one of the first signs that Bitcoin's becoming genuinely a productive financial asset.\"",
     "url": "https://x.com/BitcoinMagazine/status/2117314260988514540"
+  },
+  {
+    "id": "x-1793643734943-81tx1d",
+    "source": "x",
+    "ts": "2026-11-02T18:22:14.943Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-02T18:20:27.000Z",
+    "reason": "No notable crypto-specific events are mentioned.",
+    "text": "⚡️ KEY EVENTS FOR THE REST OF THE WEEK (ET)\n\nTuesday, November 3 \n🇺🇸 US midterm elections (polls open from ~6:00 AM; first polls close 6:00 PM) \n🇺🇸 JOLTS job openings (September) – 10:00 AM\n\nWednesday, November 4 \n🇺🇸 ADP employment report (October) – 8:15 AM \n🇺🇸 S&amp;P Global",
+    "url": "https://x.com/Cointelegraph/status/2117320953562628447"
+  },
+  {
+    "id": "x-1793643738868-1adc6z",
+    "source": "x",
+    "ts": "2026-11-02T18:22:18.868Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-02T18:17:15.000Z",
+    "reason": "Crypto-related news with institutional impact.",
+    "text": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+    "url": "https://x.com/DecryptMedia/status/2117320146284904919",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793643743788-helc61",
+    "source": "x",
+    "ts": "2026-11-02T18:22:23.788Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-02T18:17:00.000Z",
+    "reason": "No notable move or concrete news.",
+    "text": "International Doge Day is here, and Floki showed up in its Viking helmet\n\n@FLOKI sent its greetings to the Doge community today, putting a helmeted $FLOKI pup side by side with Kabosu in its post. The team also saluted the day’s motto, Do Only Good Everyday, whose first letters",
+    "url": "https://x.com/BSCNews/status/2117320082623701105"
   }
 ]
