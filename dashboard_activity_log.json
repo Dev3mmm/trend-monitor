@@ -1,78 +1,5 @@
 [
   {
-    "id": "x-1793414562806-3kad3u",
-    "source": "x",
-    "ts": "2026-10-31T02:42:42.806Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-31T02:40:00.000Z",
-    "reason": "Debt surpassing GDP percentage is a historical economic milestone.",
-    "text": "You can't make this up.\n\nFor the first time since 1946, US debt held by the public ended the fiscal year bigger than the entire economy.\n\nIt hit $32.2 TRILLION at the end of fiscal 2026, equal to 100.03% of GDP, per WSJ.\n\nIt doesn't even count the money the government owes its",
-    "url": "https://x.com/coinbureau/status/2116359503226491264",
-    "images": [
-      "https://pbs.twimg.com/media/HV7E2VGboAA4_Pe.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793415740920-mootus",
-    "source": "x",
-    "ts": "2026-10-31T03:02:20.920Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-31T02:59:00.000Z",
-    "reason": "Notable price and market cap decline for stablecoins from two major players.",
-    "text": "Sonic and Stellar see shrinking stablecoin economies.\n\nAccording to data from DefiLlama at time of writing, both @StellarOrg and @SonicLabs have seen their respective stablecoin market caps shrink double-digit %s this week.\n\n- Stellar [-20.65%]\n- Sonic [-14.48%]\n\nThat said, both",
-    "url": "https://x.com/BSCNews/status/2116364284477530136",
-    "images": [
-      "https://pbs.twimg.com/media/HV4eA0NXIAAS6xD.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793416353740-xxt5mg",
-    "source": "x",
-    "ts": "2026-10-31T03:12:33.740Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-10-31T03:00:02.000Z",
-    "reason": "Litecoin's hash power now merged with Dogecoin, earning dual rewards.",
-    "text": "Dogecoin (@dogecoin) adopted Auxiliary Proof-of-Work in August 2014, so miners secure it and Litecoin with one Scrypt hash.\n\nMore than 70% of $DOGE hashpower now comes from merged mining with Litecoin, according to OKX.\n\nHow one hash earns two coins:",
-    "url": "https://x.com/BSCNews/status/2116365443191746777",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793417534846-cltgqs",
-    "source": "x",
-    "ts": "2026-10-31T03:32:14.846Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-31T03:26:10.000Z",
-    "reason": "Specific and verifiable security compromise with affected funds.",
-    "text": "Binance Co-CEO: Binance's Own Hot Wallet Was Compromised, Customer Funds Were Unaffected\n\nBinance Co-CEO Richard Teng @_RichardTeng addressed users on October 30 following a roughly $6.3 billion hack, stating that Binance's own hot wallet was compromised while customer funds",
-    "url": "https://x.com/WuBlockchain/status/2116371123529252901",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2116370961360666626/vid/avc1/1280x720/SxxCeF5MWRNdzrzf.mp4?tag=29",
-      "duration": 101,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116370961360666626/img/YEt0EpP9WMRVv6dQ.jpg"
-    }
-  },
-  {
     "id": "x-1793418164287-3cy5m5",
     "source": "x",
     "ts": "2026-10-31T03:42:44.287Z",
@@ -7789,5 +7716,62 @@
       "https://pbs.twimg.com/media/HWJ-kDMXsAAN-PX.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793661797940-n6au2s",
+    "source": "x",
+    "ts": "2026-11-02T23:23:17.940Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T23:20:27.000Z",
+    "reason": "No notable move or breaking news, the tweet is speculative and not verified.",
+    "text": "🚨 ALERT: An unidentified EU entity may have lost over $106M from multiple crypto exchange accounts on Sunday, according to ZachXBT. \n\nHe said the funds were moved into Monero and don’t appear linked to North Korea’s Lazarus Group. \n\nSeparately, a wallet tied to Solana arbitrage",
+    "url": "https://x.com/Cointelegraph/status/2117396449805705576"
+  },
+  {
+    "id": "x-1793661804121-5p1v6o",
+    "source": "x",
+    "ts": "2026-11-02T23:23:24.121Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-02T23:19:00.000Z",
+    "reason": "Stablecoin supply growth is notable given the context of most major networks seeing reductions.",
+    "text": "XDC Network's stablecoin supply is growing...\n\nAccording to DefiLlama data, @XDCNetwork's stablecoin market cap is up +7.5% on the week, despite most major networks seeing reductions in the period.\n\nFollowing the growth, xdce-crowd-sale:native's stablecoin supply stands at nearly",
+    "url": "https://x.com/BSCNews/status/2117396083454497015",
+    "images": [
+      "https://pbs.twimg.com/media/HWG-3c8W4AAf2JG.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793661808946-rv44qm",
+    "source": "x",
+    "ts": "2026-11-02T23:23:28.946Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-02T23:15:00.000Z",
+    "reason": "No notable crypto-related event or move mentioned.",
+    "text": "Apple Posts Record $114.5 Billion September Quarter, Capping Its \"Best Fiscal Year Ever.\"\n\nApple said fiscal fourth-quarter revenue rose 12% to $114.5 billion, with record iPhone sales and all-time high Services revenue, as full-year revenue hit a record $479 billion.",
+    "url": "https://x.com/DecryptMedia/status/2117395076997402732"
+  },
+  {
+    "id": "x-1793661813566-wbtge7",
+    "source": "x",
+    "ts": "2026-11-02T23:23:33.566Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-02T23:11:45.000Z",
+    "reason": "No notable move, the tweet is vague speculation without specific price or action reference.",
+    "text": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+    "url": "https://x.com/DecryptMedia/status/2117394258969690602"
   }
 ]
