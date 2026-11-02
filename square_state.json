@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1792200725824-w3ybc8",
-    "x-1792203743401-t791bg",
-    "x-1792203748677-znbrur",
     "x-1792207377653-j4x4sn",
     "x-1792207940156-tpynf7",
     "x-1792211567758-ap2d7d",
@@ -1999,18 +1996,12 @@
     "x-1793652129245-6jg7rq",
     "x-1793652751615-vtzprr",
     "x-1793653369489-cicnco",
-    "x-1793653949888-e9n71i"
+    "x-1793653949888-e9n71i",
+    "x-1793655058311-4fvafw",
+    "x-1793655063262-wj10tv",
+    "x-1793655069986-n5am4f"
   ],
   "queue": [
-    {
-      "text": "🇺🇸 BIG: The SEC has updated its crypto token taxonomy FAQ.",
-      "url": "https://x.com/Cointelegraph/status/2117344107550884284",
-      "images": [
-        "https://pbs.twimg.com/media/HWJRPqPWYAApJgV.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793649733546
-    },
     {
       "text": "JUST IN: There's now a 71% chance Bitcoin will be above $80,000 this month, according to Polymarket⁠.com 🚀",
       "url": "https://x.com/BitcoinMagazine/status/2117362167444115833",
@@ -2019,19 +2010,19 @@
       ],
       "video": null,
       "enqueuedAt": 1793653952768
+    },
+    {
+      "text": "🇳🇿 NEW: Revolut secures a New Zealand banking licence, fueling its global expansion and market disruption.",
+      "url": "https://x.com/Cointelegraph/status/2117366260111454677",
+      "images": [
+        "https://pbs.twimg.com/media/HWJlY4zWIAAhHP_.jpg",
+        "https://pbs.twimg.com/media/HWJlZFZWgAAaG7a.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793655078002
     }
   ],
   "posted": [
-    {
-      "text": "🚨 NEW: Justin Sun holds more $PEPE than any other individual, Arkham reports.\n\nHis official and Arkham-predicted wallets collectively hold nearly 3% of PEPE’s supply, worth $51.25 MILLION, following massive inflows over the past 10 days.\n\nTwo withdrawals from Poloniex alone",
-      "final": "🚨 NEW: Justin Sun holds more $PEPE than any other individual, Arkham reports.\n\nHis official and Arkham-predicted wallets collectively hold nearly 3% of PEPE’s supply, worth $51.25 MILLION, following massive inflows over the past 10 days.\n\nTwo withdrawals from Poloniex alone\n\n#Pepe $PEPE",
-      "images": [
-        "https://pbs.twimg.com/media/HV_DD2taEAAoC2a.jpg"
-      ],
-      "at": 1793481723770,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/383346900289487?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🔥 NEW: Circle redeemed $11.7B in $USDC in the week to Oct. 29 against $10.9B issued, shrinking supply by $800M to $70B.",
       "final": "🔥 NEW: Circle redeemed $11.7B in $USDC in the week to Oct. 29 against $10.9B issued, shrinking supply by $800M to $70B.\n\n#Crypto #Stablecoin",
@@ -2563,7 +2554,16 @@
       "at": 1793653370162,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384049892637442?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇺🇸 BIG: The SEC has updated its crypto token taxonomy FAQ.",
+      "final": "🇺🇸 BIG: The SEC has updated its crypto token taxonomy FAQ.\n\n#Crypto #SEC",
+      "images": [
+        "https://pbs.twimg.com/media/HWJRPqPWYAApJgV.jpg"
+      ],
+      "at": 1793655078002,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793653370162
+  "lastPostAt": 1793655078002
 }
