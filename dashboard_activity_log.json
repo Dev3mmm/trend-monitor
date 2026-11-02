@@ -1,43 +1,5 @@
 [
   {
-    "id": "x-1793366520965-qg1rpv",
-    "source": "x",
-    "ts": "2026-10-30T13:22:00.965Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T13:20:00.000Z",
-    "reason": "Exploit affecting users of an AI coding tool.",
-    "text": "🚨ALERT: Up to 5,000 users affected after a malicious Claude Code extension appeared on Cursor’s marketplace.\n\nCursor is an AI coding tool that helps developers write and edit software.\n\nUsers with auto-updates enabled could have downloaded it.\n\nCursor says the malicious version",
-    "url": "https://x.com/coinbureau/status/2116158176680939808",
-    "images": [
-      "https://pbs.twimg.com/media/HV4SpgyagAAvF74.png",
-      "https://pbs.twimg.com/media/HV4Spg4aUAAWaRf.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793366522949-dj2lsg",
-    "source": "x",
-    "ts": "2026-10-30T13:22:02.949Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T13:15:43.000Z",
-    "reason": "Plans to strengthen security amid rising threats is noteworthy.",
-    "text": "🔥 UPDATE: Trust Wallet says it was unaffected by the Binance and Polymarket attacks but plans to strengthen security amid rising AI-driven threats.",
-    "url": "https://x.com/Cointelegraph/status/2116157098153124331",
-    "images": [
-      "https://pbs.twimg.com/media/HV4ZqJnWEAAtVom.png",
-      "https://pbs.twimg.com/media/HV4ZqfQWoAAQYf4.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793366525417-ox3tt7",
     "source": "x",
     "ts": "2026-10-30T13:22:05.417Z",
@@ -7820,5 +7782,37 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Want access to the best yield opportunities on @Aptos ?\n\nWe used @ElanInsights's professional Income Dashboard to filter out the highest yield pools in the entire $APT ecosystem.\n\nTry now: \n\nFirst we eliminated any pools with a TVL of less than $500,000...",
     "url": "https://x.com/BSCNews/status/2117199713912918065"
+  },
+  {
+    "id": "x-1793615580991-hn1aop",
+    "source": "x",
+    "ts": "2026-11-02T10:33:00.991Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-02T10:32:24.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Don't be available. Be necessary. Be irreplaceable.",
+    "url": "https://x.com/amerix/status/2117203163707035793"
+  },
+  {
+    "id": "x-1793615586659-9q60c8",
+    "source": "x",
+    "ts": "2026-11-02T10:33:06.659Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-02T10:30:00.000Z",
+    "reason": "Ethereum reorg led to ETH payouts and halted chains.",
+    "text": "THORChain Says Ethereum Reorg Caused 10 ETH Payout, 10 Chains Remain Halted.\n\nA one-block Ethereum reorg on October 31 led a vault to pay out 10 ETH it never received, THORChain said, adding the user has returned the funds and nodes will re-enable chains once deemed safe.",
+    "url": "https://x.com/DecryptMedia/status/2117202557927887294",
+    "images": [
+      "https://pbs.twimg.com/media/HWHJJUDW8AAftvb.png",
+      "https://pbs.twimg.com/media/HWHJygrW0AAfamD.jpg"
+    ],
+    "video": null
   }
 ]
