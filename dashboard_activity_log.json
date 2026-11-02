@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793355112990-bkcjf7",
-    "source": "x",
-    "ts": "2026-10-30T10:11:52.990Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T10:09:45.000Z",
-    "reason": "No notable financial news is reported in the tweet.",
-    "text": "BREAKING: Asia's stock market wiped out more than $600,000,000,000 across eight markets today.\n\nThat brings October losses for Asian stocks to $3,600,000,000,000 at the month’s final close.",
-    "url": "https://x.com/coinbureau/status/2116110298008752367"
-  },
-  {
-    "id": "x-1793355116177-pbla4h",
-    "source": "x",
-    "ts": "2026-10-30T10:11:56.177Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-30T10:08:45.000Z",
-    "reason": "Specific report of a security concern in crypto devices.",
-    "text": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-    "url": "https://x.com/DecryptMedia/status/2116110046622818391",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793355119291-vd9tc1",
     "source": "x",
     "ts": "2026-10-30T10:11:59.291Z",
@@ -7873,5 +7844,31 @@
     "reason": "No notable exploit or institution-related action is provided.",
     "text": "Cardano Servers Could Be Exposed to a Critical Linux Exploit\n\nIntersect has urged Cardano (@Cardano) $ADA stake pool operators to patch and reboot their servers. \n\nThe warning concerns CVE-2026-98432, a critical Linux kernel flaw with a CVSS score of 9.8. \n\nRed Hat warns that",
     "url": "https://x.com/BSCNews/status/2117118877184176216"
+  },
+  {
+    "id": "x-1793596962339-iy8u9w",
+    "source": "x",
+    "ts": "2026-11-02T05:22:42.339Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-02T05:18:46.000Z",
+    "reason": "Vague motivational quote with no factual claim or on-chain data.",
+    "text": "It is a new month,\n\nIt is NOVEMBER.\n\nBelieve me, this will be your best month.\n\nBut I want to remind you this,\n\nBe proud of yourself.\n\nRefuse to hate yourself. \n\nDon't compare your Chapter 1 in life with another person's Chapter 16.\n\nWe all blossom at different seasons. \n\nYou",
+    "url": "https://x.com/amerix/status/2117124235298509247"
+  },
+  {
+    "id": "x-1793596967476-f0uz46",
+    "source": "x",
+    "ts": "2026-11-02T05:22:47.476Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T05:15:37.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨 INSIGHT: Bitcoin to end the year below $100,000? 👀\n\nMarkus Thielen (@markus10x), founder of 10x Research, reveals on #TRADESECRETS where he thinks $BTC will close 2026.",
+    "url": "https://x.com/Cointelegraph/status/2117123443707547699"
   }
 ]
