@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793353970673-spap9q",
-    "source": "x",
-    "ts": "2026-10-30T09:52:50.673Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 19,
-    "originTimestamp": "2026-10-30T09:33:15.000Z",
-    "reason": "Notable comment on the Binance hack and potential financial impact.",
-    "text": "CZ Tells Musk It's a \"Bad Time to Troll,\" Puts Binance Hack Gap at About $2B.\n\nBy CZ's \"rough math,\" about $2B is left uncovered after $3B was frozen and the SAFU fund. After Musk replied with a grimacing emoji, CZ said Binance's SPCX shares from its \"$500m investment\" in the",
-    "url": "https://x.com/DecryptMedia/status/2116103525298036967",
-    "images": [
-      "https://pbs.twimg.com/media/HV3ocqZXUAAemv7.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793353976010-6813oz",
-    "source": "x",
-    "ts": "2026-10-30T09:52:56.010Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T09:42:00.000Z",
-    "reason": "No notable move in Aster's perps volume.",
-    "text": "Aster volume crosses $1.5 TRILLION.\n\n@Aster_DEX has now seen an incredible $1.53 trillion in cumulative perps volume, cementing it as a dominant force in the perps trading sector.\n\nAround $47 billion of that volume arrived in the past 30 days alone, and $ASTER has now generated a",
-    "url": "https://x.com/BSCNews/status/2116103314874278136"
-  },
-  {
     "id": "x-1793355112990-bkcjf7",
     "source": "x",
     "ts": "2026-10-30T10:11:52.990Z",
@@ -7873,5 +7842,36 @@
       "https://pbs.twimg.com/media/HWGA0ueaAAAiEcp.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793595711345-76jbd8",
+    "source": "x",
+    "ts": "2026-11-02T05:01:51.345Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-02T05:00:32.000Z",
+    "reason": "Binance absorbing massive theft through revenue, not disclosing details.",
+    "text": "🚨  Binance says it has covered about 95% of the $6.3 billion stolen in last week's record hack, using its own treasury, its SAFU fund and its futures insurance fund. Withdrawals reopened on Nov. 1.\n\nHow does one exchange absorb a loss that size? Revenue.\n\nBinance doesn't publish",
+    "url": "https://x.com/Cointelegraph/status/2117119645018652948",
+    "images": [
+      "https://pbs.twimg.com/media/HWGFGF1XUAAdWqq.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793595716613-wgi74h",
+    "source": "x",
+    "ts": "2026-11-02T05:01:56.613Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-02T04:57:29.000Z",
+    "reason": "No notable exploit or institution-related action is provided.",
+    "text": "Cardano Servers Could Be Exposed to a Critical Linux Exploit\n\nIntersect has urged Cardano (@Cardano) $ADA stake pool operators to patch and reboot their servers. \n\nThe warning concerns CVE-2026-98432, a critical Linux kernel flaw with a CVSS score of 9.8. \n\nRed Hat warns that",
+    "url": "https://x.com/BSCNews/status/2117118877184176216"
   }
 ]
