@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793397195254-13swe9",
-    "source": "x",
-    "ts": "2026-10-30T21:53:15.254Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-30T21:50:23.000Z",
-    "reason": "Crude oil prices are not a crypto-related event.",
-    "text": "🚨 BIG: Crude oil hits multi-year highs.",
-    "url": "https://x.com/Cointelegraph/status/2116286620345245696"
-  },
-  {
     "id": "x-1793397199001-jdjj8m",
     "source": "x",
     "ts": "2026-10-30T21:53:19.001Z",
@@ -7778,6 +7765,24 @@
     "text": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
     "url": "https://x.com/DecryptMedia/status/2117355377993957502",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793652751615-vtzprr",
+    "source": "x",
+    "ts": "2026-11-02T20:52:31.615Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-02T20:46:00.000Z",
+    "reason": "Notable change in token issuance by a major protocol.",
+    "text": "NEAR Protocol holders vote to cut new token issuance by more than a third\n\nVoters in \"House of Stake\", the onchain governance body of @NEARProtocol, approved a plan today to lower the maximum yearly issuance of $NEAR from 2.5% to 1.6%. The cut will phase in step by step over 24",
+    "url": "https://x.com/BSCNews/status/2117357579693183174",
+    "images": [
+      "https://pbs.twimg.com/media/HWJS_1nWQAA_YJ5.jpg"
+    ],
     "video": null
   }
 ]
