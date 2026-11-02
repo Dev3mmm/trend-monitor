@@ -2001,18 +2001,7 @@
     "x-1793582537153-ff2tsb",
     "x-1793583140043-umbpjn"
   ],
-  "queue": [
-    {
-      "text": "🚨 NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.",
-      "url": "https://x.com/Cointelegraph/status/2117062887735009532",
-      "images": [
-        "https://pbs.twimg.com/media/HWFLsk8a0AAhI_n.png",
-        "https://pbs.twimg.com/media/HWFLsq0bYAAgAC-.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793582537599
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "Is the AI funding boom starting to crack?\n\nThe FT reports two new setbacks.\n\nOpenAI has SLASHED its funding target by $10 BILLION.\n\nIt now seeks $20 BILLION at a $1.25 TRILLION valuation, down from $1.4 TRILLION.\n\nBlackstone, an anchor investor in Anthropic's $63 BILLION chip",
@@ -2491,7 +2480,17 @@
       "at": 1793582537599,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/383759820779512?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.",
+      "final": "🚨 NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.\n\n#Ethereum $ETH",
+      "images": [
+        "https://pbs.twimg.com/media/HWFLsk8a0AAhI_n.png",
+        "https://pbs.twimg.com/media/HWFLsq0bYAAgAC-.png"
+      ],
+      "at": 1793584333987,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793582537599
+  "lastPostAt": 1793584333987
 }
