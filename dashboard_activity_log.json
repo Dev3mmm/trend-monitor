@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793343171753-ntoehh",
-    "source": "x",
-    "ts": "2026-10-30T06:52:51.753Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T06:42:00.000Z",
-    "reason": "Notable transaction count and scalability claim by Polygon.",
-    "text": "Polygon's transaction count is insane.\n\nIn the past 30 days alone, @0xPolygon has processed more than 145 million transactions, per data from @chainspect_app.\n\nIts cumulative transaction count now stands at an impressive 8.3 billion, and it is now a top-10 most scalable",
-    "url": "https://x.com/BSCNews/status/2116058016420339873",
-    "images": [
-      "https://pbs.twimg.com/media/HVzpQeeWwAAZ-ZM.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793343733959-xrm9ci",
     "source": "x",
     "ts": "2026-10-30T07:02:13.959Z",
@@ -7885,6 +7867,22 @@
     "images": [
       "https://pbs.twimg.com/media/HWCQSQsXoAAd46h.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793579562399-ubvvs6",
+    "source": "x",
+    "ts": "2026-11-02T00:32:42.399Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T00:30:28.000Z",
+    "reason": "Specific, verifiable institutional event related to a significant security breach.",
+    "text": "🚨 TODAY: Binance sees $5.8B in net outflows in 24 hours as withdrawals resume after its record $6.3B hack, per DefiLlama.",
+    "url": "https://x.com/Cointelegraph/status/2117051679665221670",
+    "images": [],
     "video": null
   }
 ]
