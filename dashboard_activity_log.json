@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1793384080194-es4509",
-    "source": "x",
-    "ts": "2026-10-30T18:14:40.194Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T18:10:22.000Z",
-    "reason": "Specific, verifiable revenue generation from a crypto company",
-    "text": "🔥 BIG: Hyperliquid’s outsourced revenue streams generated $38 million last month, per Grayscale.",
-    "url": "https://x.com/Cointelegraph/status/2116231252671910135",
-    "images": [
-      "https://pbs.twimg.com/media/HV5dG9KX0AAxV2e.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793384086157-i0p6py",
-    "source": "x",
-    "ts": "2026-10-30T18:14:46.157Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-30T18:07:38.000Z",
-    "reason": "Notable profit and reserve increase by Tether.",
-    "text": "Tether Posts $1.5B Q3 Operating Profit as Its Reserve Buffer Nearly Doubles.\n\nTether's third-quarter attestation, prepared by BDO, shows $1.5 billion in net operating profit and $191.5 billion in reserve assets, with its reserve buffer rising to $7.95 billion from $4.1 billion at",
-    "url": "https://x.com/DecryptMedia/status/2116230561861681638",
-    "images": [
-      "https://pbs.twimg.com/media/HV5cTI-WAAAmf-4.png",
-      "https://pbs.twimg.com/media/HV5cT_dXoAE7KAx.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793384581768-b2rh5q",
-    "source": "x",
-    "ts": "2026-10-30T18:23:01.768Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-30T18:18:00.000Z",
-    "reason": "No notable move in the crypto market as the tweet is about an AI model leaderboard without a price or market movement mentioned.",
-    "text": "ASI Alliance’s Super Decider now tops an independent board of 280 AI models\n\nSuper Decider, the free AI model from Singularity Compute that picks answers and says how sure it is, ranked first on JevBench. That public leaderboard scores AI models on accuracy, speed, cost, and how",
-    "url": "https://x.com/BSCNews/status/2116233170878173484"
-  },
-  {
-    "id": "x-1793384585501-be5sql",
-    "source": "x",
-    "ts": "2026-10-30T18:23:05.501Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-10-30T18:17:15.000Z",
-    "reason": "Notable criminal conviction involving cryptocurrency",
-    "text": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-    "url": "https://x.com/DecryptMedia/status/2116232982725800215",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793384590650-qwr9l3",
     "source": "x",
     "ts": "2026-10-30T18:23:10.650Z",
@@ -7815,6 +7749,77 @@
     "url": "https://x.com/Cointelegraph/status/2117295796378828958",
     "images": [
       "https://pbs.twimg.com/media/HWIlTYAXAAEcm66.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793638351287-s9u5er",
+    "source": "x",
+    "ts": "2026-11-02T16:52:31.287Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T16:50:34.000Z",
+    "reason": "New token tracking feature available in the blockchain explorer.",
+    "text": "Pi Block Explorer Now Tracks Token Prices, and Anyone Can Use It\n\nThe @PiCoreTeam official Block Explorer lets anyone monitor real-time and historical on-chain activity on Testnet, Testnet2, and Mainnet without a $Pi account or Pi Browser.\n\nIn late October, it also enabled",
+    "url": "https://x.com/BSCNews/status/2117298331626152122",
+    "images": [
+      "https://pbs.twimg.com/media/HWInlnGWkAAHNAM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793638354811-95l6yj",
+    "source": "x",
+    "ts": "2026-11-02T16:52:34.811Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-02T16:47:15.000Z",
+    "reason": "Notable hack affecting a major cryptocurrency exchange.",
+    "text": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+    "url": "https://x.com/DecryptMedia/status/2117297496510570918",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793638358581-ghxkys",
+    "source": "x",
+    "ts": "2026-11-02T16:52:38.581Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T16:45:00.000Z",
+    "reason": "Exploit involving large-scale crypto theft reported.",
+    "text": "🚨NEW: Over $106 MILLION reportedly drained from an EU entity’s accounts across multiple crypto exchanges, according to ZachXBT.\n\nThe suspected attacker withdrew USDC and USDT, then swapped funds into ETH, routed them through instant exchanges, converted to Monero and bridged",
+    "url": "https://x.com/coinbureau/status/2117296930045006053",
+    "images": [
+      "https://pbs.twimg.com/media/HWILQ5gawAAHTc7.png",
+      "https://pbs.twimg.com/media/HWILjAMbIAEdeNk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793638362441-tremhh",
+    "source": "x",
+    "ts": "2026-11-02T16:52:42.441Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-02T16:43:00.000Z",
+    "reason": "Whale withdrawal of a significant amount of XRP",
+    "text": "Whale withdraws 50,000,000 $XRP from Binance.\n\nAccording to reports from @whale_alert, an unknown whale holder has withdrawn some 50 million @XRP tokens.\n\nThe tokens were withdrawn from the @Binance exchange and were worth more than $62.4 million at the time of the transfer.\n\nIs",
+    "url": "https://x.com/BSCNews/status/2117296426770108873",
+    "images": [
+      "https://pbs.twimg.com/media/HWG-zHKXAAAXKmI.jpg"
     ],
     "video": null
   }
