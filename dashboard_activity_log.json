@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793400724511-8kd8n3",
-    "source": "x",
-    "ts": "2026-10-30T22:52:04.511Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T22:44:00.000Z",
-    "reason": "Midnight-3:native shows a notable price increase outside its recent range.",
-    "text": "Midnight stays green while most of the top 100 bleeds\n\nmidnight-3:native, the token of @MidnightNtwrk, climbed 8.2% over the past 24 hours to $0.04, the best showing in the top 100 by market cap on CoinGecko. It is trading at its daily high, while Bitcoin fell 4.8% and Ether",
-    "url": "https://x.com/BSCNews/status/2116300111768846800",
-    "images": [
-      "https://pbs.twimg.com/media/HV6Vwq5XQAAZTtS.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793401407280-o30kf6",
-    "source": "x",
-    "ts": "2026-10-30T23:03:27.280Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T23:00:50.000Z",
-    "reason": "No notable move in crypto related to Intel.",
-    "text": "🚨 ALERT: Intel shares plunge 29% after weaker-than-expected guidance tied to a plant shutdown in Israel and ongoing PC-market softness.",
-    "url": "https://x.com/Cointelegraph/status/2116304349475328385"
-  },
-  {
     "id": "x-1793401412069-b0f1c1",
     "source": "x",
     "ts": "2026-10-30T23:03:32.069Z",
@@ -7792,5 +7761,39 @@
     "reason": "No notable move, price is well within recent range.",
     "text": "🚨BREAKING: Apple keeps falling despite posting a RECORD $114.5 BILLION Q4, with HALF its earnings beat from tariff REFUNDS.\n\nApple earned $2.10 per share vs the $2.00 expected, and $0.05 of that came from tariff refunds.\n\niPhone sales hit a Q4 RECORD of $57.6 BILLION, above the",
     "url": "https://x.com/coinbureau/status/2117371222501757338"
+  },
+  {
+    "id": "x-1793656315237-ol68qq",
+    "source": "x",
+    "ts": "2026-11-02T21:51:55.237Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T21:44:00.000Z",
+    "reason": "New use of a token (SEI) in a unique blockchain design.",
+    "text": "Sei Labs maps out how blockchains could let many validators build each block at once\n\nResearchers from @Sei_Labs, the team behind @SeiNetwork ($SEI), and Solana developer @anza_xyz published a paper comparing 39 designs where several validators add transactions to the same block",
+    "url": "https://x.com/BSCNews/status/2117372175971680549",
+    "images": [
+      "https://pbs.twimg.com/media/HWJgrBQWsAAfvIO.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793656320661-qpk2b9",
+    "source": "x",
+    "ts": "2026-11-02T21:52:00.661Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-02T21:42:27.000Z",
+    "reason": "High-level North Korean official comments on crypto heist accusations.",
+    "text": "🇰🇵 BIG: Kim Yo Jong, Kim Jong Un’s sister and a senior Workers’ Party official, called the Binance heist accusations a US “political provocation” and said Pyongyang is watching closely, Yonhap reports. \n\nHer remarks follow state media KCNA calling claims that North Korea was",
+    "url": "https://x.com/Cointelegraph/status/2117371786408960418",
+    "images": [],
+    "video": null
   }
 ]
