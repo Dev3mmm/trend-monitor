@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793368407945-wix1au",
-    "source": "x",
-    "ts": "2026-10-30T13:53:27.945Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 35,
-    "originTimestamp": "2026-10-30T13:17:59.000Z",
-    "reason": "Generic statement without factual claim or price information.",
-    "text": "ELON IS RIGHT",
-    "url": "https://x.com/elonmusk/status/2116164609627537786"
-  },
-  {
     "id": "x-1793369053434-dr377k",
     "source": "x",
     "ts": "2026-10-30T14:04:13.434Z",
@@ -7821,5 +7808,23 @@
     "reason": "No direct crypto-related content.",
     "text": "🇮🇷🇺🇸 JUST IN: Iran proposes reopening the Strait of Hormuz and resuming nuclear talks within two days if the US meets its demands, AP reports.",
     "url": "https://x.com/Cointelegraph/status/2117226839668134204"
+  },
+  {
+    "id": "x-1793622107042-a2ic4o",
+    "source": "x",
+    "ts": "2026-11-02T12:21:47.042Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T12:19:43.000Z",
+    "reason": "Exploit recovery and asset salvage from a crypto attack.",
+    "text": "Core’s Hard Fork Recovers Funds From the Attackers\n\n@b14g_network reported that the @Coredao_Org network hard-fork on November 2, recovered 68,146,177 $CORE from three attacker-controlled addresses. \n\nThe assets were saved from an October 31 event involving nearly 97.05M CORE.",
+    "url": "https://x.com/BSCNews/status/2117230170327204129",
+    "images": [
+      "https://pbs.twimg.com/media/HWHpHAPWgAA1chD.jpg"
+    ],
+    "video": null
   }
 ]
