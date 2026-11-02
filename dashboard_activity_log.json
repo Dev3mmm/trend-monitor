@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793401412069-b0f1c1",
-    "source": "x",
-    "ts": "2026-10-30T23:03:32.069Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 11,
-    "originTimestamp": "2026-10-30T22:52:04.000Z",
-    "reason": "No notable crypto-related news or movement detected.",
-    "text": "🚨Anthropic CEO Dario Amodei says its AI sometimes tries to avoid being SHUT DOWN.\n\nAnthropic has looked inside the model and found what you might call thoughts of not wanting to be shut down.\n\nIt's one of the things the company is trying to \"tweak in training.\"",
-    "url": "https://x.com/coinbureau/status/2116302141749141530"
-  },
-  {
-    "id": "x-1793401917682-hddig2",
-    "source": "x",
-    "ts": "2026-10-30T23:11:57.682Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 54,
-    "originTimestamp": "2026-10-30T22:17:11.000Z",
-    "reason": "No notable move, statement is vague and lacks specific factual claim.",
-    "text": "Think of Grok @Bot as a work colleague",
-    "url": "https://x.com/elonmusk/status/2116305829381263528"
-  },
-  {
     "id": "x-1793403142223-lwjc1b",
     "source": "x",
     "ts": "2026-10-30T23:32:22.223Z",
@@ -7795,5 +7769,36 @@
     "url": "https://x.com/Cointelegraph/status/2117371786408960418",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793656951837-7yq1qa",
+    "source": "x",
+    "ts": "2026-11-02T22:02:31.837Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T22:00:36.000Z",
+    "reason": "Coinbase's market share in tokenized stocks is significant given its position.",
+    "text": "🔥 BIG: Coinbase is now the second-largest tokenized stock issuer by weekly DEX volume, with a 26.7% share just behind Robinhood’s 27.3%.",
+    "url": "https://x.com/Cointelegraph/status/2117376354240938431",
+    "images": [
+      "https://pbs.twimg.com/media/HWJukkUXkAA3K6U.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793656954738-qunoa0",
+    "source": "x",
+    "ts": "2026-11-02T22:02:34.738Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-02T21:56:28.000Z",
+    "reason": "No notable move in crypto related to Apple's financial performance.",
+    "text": "🔥 LATEST: Apple beat Q4 revenue estimates with $114.48B vs. $113.39B expected, helped by stronger iPhone sales.",
+    "url": "https://x.com/Cointelegraph/status/2117375315706089961"
   }
 ]
