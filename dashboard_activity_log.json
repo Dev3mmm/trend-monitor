@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793344966168-hcll6g",
-    "source": "x",
-    "ts": "2026-10-30T07:22:46.168Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 23,
-    "originTimestamp": "2026-10-30T06:59:03.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "这次 Binance 被盗，有很多小伙伴有疑问，被盗是因为 EIP-7702 授权，但同时被转走的还有 Bitcoin 以及其他链上的资产是怎么做到的。毕竟 EIP-7702 并不能直接控制 bitcoin:native 的钱包。\n\n目前 Binance",
-    "url": "https://x.com/PhyrexNi/status/2116068028916113698"
-  },
-  {
-    "id": "x-1793344971319-4k6q30",
-    "source": "x",
-    "ts": "2026-10-30T07:22:51.319Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T07:14:00.000Z",
-    "reason": "No notable move in Ethereum's price within its recent range.",
-    "text": "Starknet's privacy ecosystem is growing fast...\n\nThough @Starknet is a publicly visible @Ethereum L2 chain by default, the number of private use cases within the $STRK ecosystem is growing fast.\n\nPowered by STRK20 shadow accounts, Starknet highlighted some of the apps providing",
-    "url": "https://x.com/BSCNews/status/2116066069534363683"
-  },
-  {
     "id": "x-1793345565575-6jybfv",
     "source": "x",
     "ts": "2026-10-30T07:32:45.575Z",
@@ -7890,6 +7864,38 @@
     "images": [
       "https://pbs.twimg.com/media/HWFOKnFWgAIzlPe.png",
       "https://pbs.twimg.com/media/HWFOK8UXcAA1qpL.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793582529045-yb7tej",
+    "source": "x",
+    "ts": "2026-11-02T01:22:09.045Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 107,
+    "originTimestamp": "2026-11-01T23:35:02.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "INSIGHT: MAG 7 free cash flow is forecast to SURGE above $600 BILLION by 2030, per Bloomberg.\n\nThat’s over SIX TIMES the roughly $90 BILLION in 2024, with growth accelerating from 2027.\n\nThe bet is that massive AI spending starts delivering stronger cash returns.\n\nIf those",
+    "url": "https://x.com/coinbureau/status/2117062887852401108"
+  },
+  {
+    "id": "x-1793582537153-ff2tsb",
+    "source": "x",
+    "ts": "2026-11-02T01:22:17.153Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T01:15:00.000Z",
+    "reason": "Exploit involving THORChain and Ethereum native token payout.",
+    "text": "🚨 NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.",
+    "url": "https://x.com/Cointelegraph/status/2117062887735009532",
+    "images": [
+      "https://pbs.twimg.com/media/HWFLsk8a0AAhI_n.png",
+      "https://pbs.twimg.com/media/HWFLsq0bYAAgAC-.png"
     ],
     "video": null
   }
