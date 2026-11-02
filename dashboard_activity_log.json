@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793376155686-grcnxb",
-    "source": "x",
-    "ts": "2026-10-30T16:02:35.686Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T16:00:42.000Z",
-    "reason": "Involves law enforcement action and significant funds involved.",
-    "text": "🚨 UPDATE: Binance is working with the FBI and other law enforcement agencies to recover stolen funds, while $3B has already been frozen.",
-    "url": "https://x.com/Cointelegraph/status/2116198619040690497",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793376161394-pav9gx",
-    "source": "x",
-    "ts": "2026-10-30T16:02:41.394Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T16:00:02.000Z",
-    "reason": "Coinbase and Strategy's stock drops following Binance's massive hack",
-    "text": "Coinbase and Strategy Drop Over 10% After Binance's $6.3B Hack.\n\nCoinbase fell about 12% to near $142 early Friday, while Strategy dropped about 10% to near $127. Crypto stocks have slid since Binance disclosed a record $6.3 billion security breach.",
-    "url": "https://x.com/DecryptMedia/status/2116198452745080957",
-    "images": [
-      "https://pbs.twimg.com/media/HV4vJLLXkAEYlHw.png",
-      "https://pbs.twimg.com/media/HV4vPtdXIAAy9nD.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793376165456-5exeia",
     "source": "x",
     "ts": "2026-10-30T16:02:45.456Z",
@@ -7827,5 +7792,34 @@
     "reason": "No concrete price or event specified, only a future event reference.",
     "text": "LIVE: The Fed's Next Move, Bitcoin-Backed Credit &amp; BTC Yield | BMTV Nov. 2, 2026",
     "url": "https://x.com/BitcoinMagazine/status/2117263552813605374"
+  },
+  {
+    "id": "x-1793631109650-dxh43g",
+    "source": "x",
+    "ts": "2026-11-02T14:51:49.651Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T14:45:00.000Z",
+    "reason": "Regulatory push for increased security measures in crypto accounts.",
+    "text": "🔥 INSIGHT: Crypto users shouldn’t have to take security on faith, according to @OKX Europe CEO @EraldOnChain.\n\nHe calls for independent audits, verifiable safeguards and shared responsibility when accounts are compromised.",
+    "url": "https://x.com/Cointelegraph/status/2117266730921914602",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793631112079-koms17",
+    "source": "x",
+    "ts": "2026-11-02T14:51:52.079Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-02T14:44:08.000Z",
+    "reason": "The tweet is unrelated to cryptocurrency and lacks specific, concrete information.",
+    "text": "Anthropic Reveals $17 Billion Quarter in Updated IPO Filing.\n\nAnthropic's revenue grew 1,127% year over year to $17.0 billion in the three months ended September 30, up from $197 million in the final quarter of 2024, according to an amended S-1 filed with the SEC on Monday.",
+    "url": "https://x.com/DecryptMedia/status/2117266512188686344"
   }
 ]
