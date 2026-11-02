@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792121533670-a6a73z",
     "x-1792122127102-5j21at",
     "x-1792122759592-rk6o4f",
     "x-1792123336806-dgknoi",
@@ -1999,18 +1998,19 @@
     "x-1793578940621-2rq9i7",
     "x-1793579562399-ubvvs6",
     "x-1793580719049-tjwza6",
-    "x-1793581362586-o3lacr"
+    "x-1793581362586-o3lacr",
+    "x-1793582537153-ff2tsb"
   ],
   "queue": [
     {
-      "text": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.",
-      "url": "https://x.com/Cointelegraph/status/2117059253131170035",
+      "text": "🚨 NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.",
+      "url": "https://x.com/Cointelegraph/status/2117062887735009532",
       "images": [
-        "https://pbs.twimg.com/media/HWFOKnFWgAIzlPe.png",
-        "https://pbs.twimg.com/media/HWFOK8UXcAA1qpL.png"
+        "https://pbs.twimg.com/media/HWFLsk8a0AAhI_n.png",
+        "https://pbs.twimg.com/media/HWFLsq0bYAAgAC-.png"
       ],
       "video": null,
-      "enqueuedAt": 1793581365705
+      "enqueuedAt": 1793582537599
     }
   ],
   "posted": [
@@ -2491,7 +2491,17 @@
       "at": 1793580719652,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/383752327645623?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.",
+      "final": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.\n\n#Solana $SOL",
+      "images": [
+        "https://pbs.twimg.com/media/HWFOKnFWgAIzlPe.png",
+        "https://pbs.twimg.com/media/HWFOK8UXcAA1qpL.png"
+      ],
+      "at": 1793582537599,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793580719652
+  "lastPostAt": 1793582537599
 }
