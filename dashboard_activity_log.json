@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793395380443-swzouv",
-    "source": "x",
-    "ts": "2026-10-30T21:23:00.443Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T21:16:00.000Z",
-    "reason": "Potential security breach in crypto wallets.",
-    "text": "Trezor warns CryptoBilis buyers after a reported spy chip in one of its wallets\n\n@Trezor said a customer in Indonesia found an extra circuit board inside a Trezor Safe 5 bought from the reseller CryptoBilis in August. According to the report, the board can capture the wallet",
-    "url": "https://x.com/BSCNews/status/2116277965873205654",
-    "images": [
-      "https://pbs.twimg.com/media/HV53pM6WsAAK7_r.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793395992489-lu6m54",
     "source": "x",
     "ts": "2026-10-30T21:33:12.489Z",
@@ -7790,5 +7772,23 @@
     "reason": "No notable move in crypto prices or events mentioned.",
     "text": "Sam Altman says your idle RAM belongs in data centers. ASI Alliance CEO Ben Goertzel has another idea\n\nOpenAI CEO @sama said on the Cheeky Pint podcast, in an episode released Thursday, that it is “quite terrible” for the world’s scarce memory chips to sit in home PCs. He",
     "url": "https://x.com/BSCNews/status/2117349778694783185"
+  },
+  {
+    "id": "x-1793650943461-t846mp",
+    "source": "x",
+    "ts": "2026-11-02T20:22:23.461Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T20:20:29.000Z",
+    "reason": "Binance's outflows well outside their recent range, indicating a significant liquidity event.",
+    "text": "🚨 BIG: Binance saw $14.1B in net outflows over the past week, including $3.5B in the last 24 hours, following its $6.3B hack, while rival OKX drew $499M in inflows.",
+    "url": "https://x.com/Cointelegraph/status/2117351157274206345",
+    "images": [
+      "https://pbs.twimg.com/media/HWJXp95XUAEpCI0.jpg"
+    ],
+    "video": null
   }
 ]
