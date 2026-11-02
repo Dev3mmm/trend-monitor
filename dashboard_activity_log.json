@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793366525417-ox3tt7",
-    "source": "x",
-    "ts": "2026-10-30T13:22:05.417Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-30T13:12:02.000Z",
-    "reason": "Malicious extension incident with potential security risks",
-    "text": "Malicious Claude Code Extension Hit Up to 5,000 Cursor Users.\n\nA tampered version of the extension, not made by Anthropic, sat in Cursor's marketplace for about 11 hours Thursday and tried to install an SSH backdoor. Cursor says it pulled it, rebuilt the marketplace and helped",
-    "url": "https://x.com/DecryptMedia/status/2116156171400741152",
-    "images": [
-      "https://pbs.twimg.com/media/HV4YZMSXAAAHvAZ.png",
-      "https://pbs.twimg.com/media/HV4YxUMXIAAhQw3.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793367333234-2tc3yq",
-    "source": "x",
-    "ts": "2026-10-30T13:35:33.234Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 33,
-    "originTimestamp": "2026-10-30T13:02:12.000Z",
-    "reason": "No factual claim or specific event mentioned.",
-    "text": "@elonmusk Everybody needs to read this to understand the democrats plan. We are two elections away from democrats total take over. This would be game over for our constitutional republic as we know it. I don’t want to live in a one party state for the rest of my life, do you? \n\nVote",
-    "url": "https://x.com/elonmusk/status/2116161558833246694"
-  },
-  {
     "id": "x-1793367337982-qc9r6b",
     "source": "x",
     "ts": "2026-10-30T13:35:37.982Z",
@@ -7812,6 +7780,40 @@
     "images": [
       "https://pbs.twimg.com/media/HWHJJUDW8AAftvb.png",
       "https://pbs.twimg.com/media/HWHJygrW0AAfamD.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793616130006-b11die",
+    "source": "x",
+    "ts": "2026-11-02T10:42:10.006Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-02T10:37:30.000Z",
+    "reason": "Notable regulatory move involving a major cryptocurrency exchange and cybersecurity incident.",
+    "text": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+    "url": "https://x.com/DecryptMedia/status/2117204445343740051",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793616134414-umgku5",
+    "source": "x",
+    "ts": "2026-11-02T10:42:14.414Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-02T10:36:01.000Z",
+    "reason": "The tweet provides specific details about a significant hack event.",
+    "text": "🚨 ICYMI: Binance got hacked for $6.3B last week, the largest theft in crypto history.\n\nHere’s how it unfolded:\n\n&gt; suspicious wallet transfers flagged on Oct. 29\n&gt; Tether and Circle freeze over $2.36B\n&gt; Binance pauses withdrawals, pledges to cover all losses\n&gt; Aave freezes",
+    "url": "https://x.com/Cointelegraph/status/2117204075129298997",
+    "images": [
+      "https://pbs.twimg.com/media/HWHRwN4aEAEqdcd.jpg"
     ],
     "video": null
   }
