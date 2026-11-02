@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793364718672-c32kqz",
-    "source": "x",
-    "ts": "2026-10-30T12:51:58.672Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 66,
-    "originTimestamp": "2026-10-30T11:45:24.000Z",
-    "reason": "The tweet mentions specific partnerships and speaker lineups, indicating a notable event.",
-    "text": "ChangeNOW's TOKEN2049 Singapore program ran four panel discussions with speakers from @MetaMask, @Trezor and WalletConnect, plus interviews with representatives of @injective ($INJ).\n\nChief strategy officer Pauline Shangett used her keynote to argue that people should be able to",
-    "url": "https://x.com/BSCNews/status/2116149621198332186",
-    "images": [
-      "https://pbs.twimg.com/media/HV4E_ULXgAAp87W.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793364723187-f5slp2",
     "source": "x",
     "ts": "2026-10-30T12:52:03.187Z",
@@ -7806,5 +7788,26 @@
       "https://pbs.twimg.com/media/HWGtdneaIAA60dd.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793611956242-i50c1k",
+    "source": "x",
+    "ts": "2026-11-02T09:32:36.242Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-02T09:30:54.000Z",
+    "reason": "Quantum computing threat to Bitcoin questioned by Bitpanda CEO.",
+    "text": "⚡  INSIGHT: Bitpanda (@Bitpanda_global) CEO Christian Trummer said on #CHAINREACTION he isn't concerned that quantum computing will have an impact on Bitcoin.\n\n\"I don't believe that quantum computing is a big threat for Bitcoin or for other crypto assets.\"",
+    "url": "https://x.com/Cointelegraph/status/2117187685106246117",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2117187599647301634/vid/avc1/1280x720/e7ZpnHKK5g_NYgST.mp4?tag=16",
+      "duration": 152,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117187599647301634/img/gi99ZZGDrVptW9TU.jpg"
+    }
   }
 ]
