@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793385316325-6qqzqc",
-    "source": "x",
-    "ts": "2026-10-30T18:35:16.325Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-10-30T18:28:14.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Claude's $200 Max 20x Plan Becomes Ultra, Drops 5-Hour Limit for Verified Accounts.\n\nClaude's pricing page says Ultra gives 10x Pro's weekly usage and $200 a month in API credits, while the renamed $100 Max plan offers 5x Pro usage and $100 in monthly credits.",
-    "url": "https://x.com/DecryptMedia/status/2116235747292332060"
-  },
-  {
-    "id": "x-1793385869848-u9gr8o",
-    "source": "x",
-    "ts": "2026-10-30T18:44:29.849Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-30T18:42:43.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": "Afrikan hut.",
-    "url": "https://x.com/amerix/status/2116239391647760565"
-  },
-  {
     "id": "x-1793386421035-nn8hk2",
     "source": "x",
     "ts": "2026-10-30T18:53:41.035Z",
@@ -7818,6 +7792,37 @@
     "text": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
     "url": "https://x.com/DecryptMedia/status/2117302907276021906",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793640195001-dq5ytm",
+    "source": "x",
+    "ts": "2026-11-02T17:23:15.001Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-02T17:20:30.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "🔥 BIG: Strategy says its Bitcoin holdings are up 6x since January 2023 while net leverage falls.",
+    "url": "https://x.com/Cointelegraph/status/2117305865363448180"
+  },
+  {
+    "id": "x-1793640200651-k9hlc6",
+    "source": "x",
+    "ts": "2026-11-02T17:23:20.651Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-02T17:16:47.000Z",
+    "reason": "Notable internal management disclosure about a hack.",
+    "text": "CZ says Binance covered its $6.3B hack from the balance sheet\n\nFormer Binance CEO @cz_binance said today that the exchange did not borrow, sell assets, or raise new money to pay for the losses. He added that all the funds are set aside, with the last 5% still being converted into",
+    "url": "https://x.com/BSCNews/status/2117304931006734360",
+    "images": [
+      "https://pbs.twimg.com/media/HWItCy2WkAA9DZg.jpg"
+    ],
     "video": null
   }
 ]
