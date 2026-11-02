@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1793380382649-qw6oub",
-    "source": "x",
-    "ts": "2026-10-30T17:13:02.649Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-30T17:05:16.000Z",
-    "reason": "Noise: generic statement with no real content.",
-    "text": "Cool",
-    "url": "https://x.com/elonmusk/status/2116215659214561518"
-  },
-  {
-    "id": "x-1793380385086-nd2n75",
-    "source": "x",
-    "ts": "2026-10-30T17:13:05.086Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-30T17:04:15.000Z",
-    "reason": "Multiple significant institutional developments in XRP.",
-    "text": "October in review: The BIGGEST news events to hit $XRP:\n\n1) @BNYglobal names XRP in its corporate payments roadmap \n2) @StanChart launches custody \n3) @Ripple gets final US approval for Ripple Bank\n4) @coinbase launches Ripple USD",
-    "url": "https://x.com/BSCNews/status/2116214613704380652",
-    "images": [
-      "https://pbs.twimg.com/media/HV5NKcPWEAA65hA.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793381000441-18exyc",
-    "source": "x",
-    "ts": "2026-10-30T17:23:20.441Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-30T17:21:02.000Z",
-    "reason": "Notable institutional investment in Bitcoin ETFs",
-    "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs have seen $440.8 million in net inflows over the past 4 trading sessions! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2116218836349268406",
-    "images": [
-      "https://pbs.twimg.com/media/HV5R0OCWQAATaHK.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793381006324-l05l50",
     "source": "x",
     "ts": "2026-10-30T17:23:26.324Z",
@@ -7821,5 +7772,54 @@
     "url": "https://x.com/Cointelegraph/status/2117274395366326592",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793634231685-sr6zii",
+    "source": "x",
+    "ts": "2026-11-02T15:43:51.685Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-02T15:43:00.000Z",
+    "reason": "Innovative ETF combining crypto and tech launches a new token.",
+    "text": "Ondo Merges Big Tech and Crypto ETFs Into One 24/7 Token\n\n@Ondo Finance has launched MAG7X index. This index combines the world's seven largest tech companies with @BlackRock's Bitcoin ETF (IBIT) and Ethereum ETF (ETHA).\n\nThe token can be created, redeemed, and traded 24/7 on",
+    "url": "https://x.com/BSCNews/status/2117281327485419843",
+    "images": [
+      "https://pbs.twimg.com/media/HWITtFMWkAAFA_G.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793634235585-e5mso0",
+    "source": "x",
+    "ts": "2026-11-02T15:43:55.585Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-02T15:40:28.000Z",
+    "reason": "Tether significant USDT burn on Ethereum.",
+    "text": "⚡️ JUST IN: Tether has burned $2 billion worth of USDT on Ethereum.",
+    "url": "https://x.com/Cointelegraph/status/2117280692333609327",
+    "images": [
+      "https://pbs.twimg.com/media/HWIXkXVXkAAdTN-.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793634239604-1vm1k5",
+    "source": "x",
+    "ts": "2026-11-02T15:43:59.604Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-02T15:38:28.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "🚨 NEW:  restored its GitBook documentation following unauthorized activity but warned users to avoid clicking links while the investigation continues.",
+    "url": "https://x.com/Cointelegraph/status/2117280187284848950"
   }
 ]
