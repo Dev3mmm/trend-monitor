@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1793364729026-vnet31",
-    "source": "x",
-    "ts": "2026-10-30T12:52:09.026Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 35,
-    "originTimestamp": "2026-10-30T12:16:47.000Z",
-    "reason": "Specific, verified news with substantial financial impact and security concerns.",
-    "text": "The Morning Minute (10.30)\n\n⏰Top News:\n-Crypto majors rebound fall 1-2% alongside stocks; BTC at $80k\n-Binance hacked for $6.3B by NK, roughly half frozen; Binance to cover losses out of SAFU fund\n-AAVE forced to freeze v3 and v4 markets on Ethereum after attacker used them",
-    "url": "https://x.com/DecryptMedia/status/2116149190921531897",
-    "images": [
-      "https://pbs.twimg.com/media/HV4L3zjWkAAgh4D.png",
-      "https://pbs.twimg.com/media/HV4L7ORXcAA9dl1.png",
-      "https://pbs.twimg.com/media/HV4L_I7WYAAuBzs.png",
-      "https://pbs.twimg.com/media/HV4MLHjXwAA4haP.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793364733473-wbjo9x",
     "source": "x",
     "ts": "2026-10-30T12:52:13.473Z",
@@ -7807,6 +7786,25 @@
     "url": "https://x.com/BSCNews/status/2117188426311291074",
     "images": [
       "https://pbs.twimg.com/media/HWG2l_2aoAAr3Y5.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793613765839-yyj8ml",
+    "source": "x",
+    "ts": "2026-11-02T10:02:45.839Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-02T09:57:27.000Z",
+    "reason": "Specific exploit targeting older BTCPay Server versions",
+    "text": "BTCPay Server Says Attack Targeted Older Versions After Hot Wallet Sweep Reports.\n\nThe open-source Bitcoin payment processor said the attack vector it identified targeted instances running version 2.4.1 or older, adding it has no credible reports of hot wallet drains on the",
+    "url": "https://x.com/DecryptMedia/status/2117194365890146583",
+    "images": [
+      "https://pbs.twimg.com/media/HWHIkEDWEAATF0Q.png",
+      "https://pbs.twimg.com/media/HWHI8HsWsAAsMAg.jpg"
     ],
     "video": null
   }
