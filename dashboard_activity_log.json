@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793575319976-m2dgek",
-    "source": "x",
-    "ts": "2026-11-01T23:21:59.976Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 48,
-    "originTimestamp": "2026-11-01T22:33:32.000Z",
-    "reason": "Wallet linked to Binance hacker activities detected on Uniswap.",
-    "text": "A wallet linked to the @binance hacker sold 908,793 $PROM tokens worth about $5 million into a nearly empty @Uniswap V2 pool and received 0.0316 $ETH, about $71.\n\nMore here:",
-    "url": "https://x.com/BSCNews/status/2117033789776110078",
-    "images": [
-      "https://pbs.twimg.com/media/HWEshDPXgAI2Pk7.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793575322882-lmfjdb",
     "source": "x",
     "ts": "2026-11-01T23:22:02.882Z",
@@ -7812,6 +7794,24 @@
     "text": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
     "url": "https://x.com/DecryptMedia/status/2117717766006259984",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793739133935-rzmpag",
+    "source": "x",
+    "ts": "2026-11-03T20:52:13.935Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-03T20:45:00.000Z",
+    "reason": "Notable institutional adoption of a private blockchain solution for financial transactions.",
+    "text": "Monad Private Settlement aims to keep bank deals private on a public chain\n\n@category_xyz has published the white paper for Monad Private Settlement, which gives banks and companies private spaces on @monad ($MON). Transactions are encrypted and put in order on the public Monad",
+    "url": "https://x.com/BSCNews/status/2117719715955319241",
+    "images": [
+      "https://pbs.twimg.com/media/HWOcOHnXMAAdpOT.jpg"
+    ],
     "video": null
   }
 ]
