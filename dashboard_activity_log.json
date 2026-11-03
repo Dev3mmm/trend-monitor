@@ -1,81 +1,5 @@
 [
   {
-    "id": "x-1793549531930-3hmbf5",
-    "source": "x",
-    "ts": "2026-11-01T16:12:11.930Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-01T15:57:39.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Face uniqueness checks are now live in PiVerify, and @PiCoreTeam has also attached price charts to its BlockExplorer, two usability upgrades landing on the same day.\n\nBSCN keeps every $PI story it has published in one place, from KYC migration to ecosystem apps and wallet",
-    "url": "https://x.com/BSCNews/status/2116923923883594221"
-  },
-  {
-    "id": "x-1793550107365-hfb2ak",
-    "source": "x",
-    "ts": "2026-11-01T16:21:47.365Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-01T16:19:07.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Hyperliquid's $PURR Memecoin Leads Major Memecoins With 23% Weekly Gain\n\nFind us on Reddit:",
-    "url": "https://x.com/BSCNews/status/2116928190199353835"
-  },
-  {
-    "id": "x-1793550113004-u5d41b",
-    "source": "x",
-    "ts": "2026-11-01T16:21:53.004Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-01T16:12:16.000Z",
-    "reason": "Binance initiating withdrawal restoration after a disruption.",
-    "text": "Binance began restoring withdrawals in phases at 06:00 UTC on November 1, 2026. By 12:36 UTC, withdrawals had resumed for all 15 networks and assets in the initial phase. After an initial spike, withdrawal volumes have declined and are stabilising as expected, while deposit",
-    "url": "https://x.com/binance/status/2116926305254133892",
-    "images": [
-      "https://pbs.twimg.com/media/HWDVPwMaIAADXLQ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793550730688-rxnu02",
-    "source": "x",
-    "ts": "2026-11-01T16:32:10.689Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T16:31:01.000Z",
-    "reason": "No notable move or new information provided.",
-    "text": "🚨 INSIGHT: Bitcoin closed October at $77,430, with its RSI holding above 50 for a third consecutive month.\n\nCould this signal the start of a new bull market?",
-    "url": "https://x.com/Cointelegraph/status/2116931022998622599"
-  },
-  {
-    "id": "x-1793550736331-lxqxkg",
-    "source": "x",
-    "ts": "2026-11-01T16:32:16.331Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-01T16:24:08.000Z",
-    "reason": "Notable institutional objection to tokenized shares.",
-    "text": "Nvidia and Nike Among 50 Companies Objecting to Tokenized Shares on OKX-ICE Venue.\n\nA notice dated October 30 lists 50 issuers objecting to tokenized versions of their stock on OKXICE, the 50-50 venture between OKX and NYSE owner Intercontinental Exchange, up from 38 two days",
-    "url": "https://x.com/DecryptMedia/status/2116929290549727431",
-    "images": [
-      "https://pbs.twimg.com/media/HWDXzzqXIAAsOy5.png",
-      "https://pbs.twimg.com/media/HWDX2P7W0AANG9Y.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793550740987-6zwn3q",
     "source": "x",
     "ts": "2026-11-01T16:32:20.987Z",
@@ -7744,5 +7668,88 @@
     "url": "https://x.com/DecryptMedia/status/2117671209055776787",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793728341258-45yqwh",
+    "source": "x",
+    "ts": "2026-11-03T17:52:21.258Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T17:50:29.000Z",
+    "reason": "Notable exploit and potential money laundering incident.",
+    "text": "🚨 ALERT: According to Onchain Lens, an address linked to the Binance hacker deposited 8,567 $SOL worth approximately $798,000 into privacy mixer Privacy Cash to launder stolen funds.",
+    "url": "https://x.com/Cointelegraph/status/2117675799004184695",
+    "images": [
+      "https://pbs.twimg.com/media/HWN-6eFW4AAhmRI.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793728345255-eukm0a",
+    "source": "x",
+    "ts": "2026-11-03T17:52:25.255Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-03T17:48:37.000Z",
+    "reason": "Notable regulatory action involving crypto platform blocking assets.",
+    "text": "🚨 ALERT: Mercado Bitcoin has blocked $12.9M in affected crypto assets and paused its platform during the investigation.",
+    "url": "https://x.com/Cointelegraph/status/2117675329477124571",
+    "images": [
+      "https://pbs.twimg.com/media/HWN-fNYXAAAxLwm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793728349376-8awbrp",
+    "source": "x",
+    "ts": "2026-11-03T17:52:29.376Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-03T17:47:30.000Z",
+    "reason": "Notable institutional action by high-profile companies into tokenized venues.",
+    "text": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+    "url": "https://x.com/DecryptMedia/status/2117675046848147693",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793728354991-qps6up",
+    "source": "x",
+    "ts": "2026-11-03T17:52:34.991Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-03T17:46:00.000Z",
+    "reason": "New use of a token/coin with AI mining mechanism",
+    "text": "NEAR Protocol opens its doors to Pearl, a coin mined with AI math\n\n@NEARProtocol has added $PEARL to @near_intents and the near.​com app. Users can swap into PEARL from any supported chain and pay others with it; swaps are confidential by default, and wallets and apps on the NEAR",
+    "url": "https://x.com/BSCNews/status/2117674669172236767",
+    "images": [
+      "https://pbs.twimg.com/media/HWN5salX0AAnh76.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793728358905-rs07zn",
+    "source": "x",
+    "ts": "2026-11-03T17:52:38.905Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-03T17:45:13.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Speaking at the @OxfordUnion shortly. Scheduled a while back. Based on recent events, I don't think I am qualified or smart enough for this. 🤣",
+    "url": "https://x.com/cz_binance/status/2117674473763860599"
   }
 ]
