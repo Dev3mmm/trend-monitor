@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793572325724-obg5u5",
-    "source": "x",
-    "ts": "2026-11-01T22:32:05.724Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T22:30:32.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "🇺🇸 TODAY: Peter Schiff accused Kevin Warsh of dodging a question about why the Fed did not raise interest rates in October despite its economic and inflation outlook.",
-    "url": "https://x.com/Cointelegraph/status/2117021500200857978"
-  },
-  {
-    "id": "x-1793574715719-j0l24u",
-    "source": "x",
-    "ts": "2026-11-01T23:11:55.719Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T23:10:00.000Z",
-    "reason": "Arbitrum generated $79.6 billion in perps DEX volume in the past 30 days.",
-    "text": "Arbitrum is the #2 chain for perps trading.\n\n@arbitrum has generated $79.6 BILLION in perps DEX volume in the past 30-days per DefiLlama data.\n\nWith over $1 billion in open interest, that makes $ARB the #2 chain for perps, after @HyperliquidX itself.\n\nThe vast majority of this",
-    "url": "https://x.com/BSCNews/status/2117031431071207428",
-    "images": [
-      "https://pbs.twimg.com/media/HWCPN6PW4AAZ8wi.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793575319976-m2dgek",
     "source": "x",
     "ts": "2026-11-01T23:21:59.976Z",
@@ -7809,5 +7778,40 @@
     "reason": "No notable move, price is well within the recent trading range.",
     "text": "Anthropic's FlashProve Uses Zero-Knowledge Proofs to Verify Which AI Model Answered You.\n\nThe open-source research prototype uses zkSNARKs, a cryptographic technique widely used in blockchain scaling, to prove a response came from a committed model without revealing the model's",
     "url": "https://x.com/DecryptMedia/status/2117715943170486340"
+  },
+  {
+    "id": "x-1793738599133-vnjbow",
+    "source": "x",
+    "ts": "2026-11-03T20:43:19.133Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-03T20:40:30.000Z",
+    "reason": "Notable institutional trading in a crypto platform related to political betting.",
+    "text": "🇺🇸 BIG: Kalshi sees more than $1.4B in midterm trading as traders wager on Democrats sweeping Congress.",
+    "url": "https://x.com/Cointelegraph/status/2117718583258087501",
+    "images": [
+      "https://pbs.twimg.com/media/HWOl0weWgAAxNdO.jpg",
+      "https://pbs.twimg.com/media/HWOl0_lXYAAnk5m.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793738602828-rvloin",
+    "source": "x",
+    "ts": "2026-11-03T20:43:22.828Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-03T20:37:15.000Z",
+    "reason": "Crypto influencer attacks political figure on social media",
+    "text": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+    "url": "https://x.com/DecryptMedia/status/2117717766006259984",
+    "images": [],
+    "video": null
   }
 ]
