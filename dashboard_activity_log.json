@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793562113706-38d8is",
-    "source": "x",
-    "ts": "2026-11-01T19:41:53.706Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-01T19:37:54.000Z",
-    "reason": "Notable regulatory move by a major company affecting AI development.",
-    "text": "🚨 JUST IN: Anthropic bans users from recreating existing video games with Claude Code amid a viral AI reverse-engineering trend.",
-    "url": "https://x.com/Cointelegraph/status/2116978053469331884",
-    "images": [
-      "https://pbs.twimg.com/media/HWEEURrXEAA3Q2D.jpg",
-      "https://pbs.twimg.com/media/HWEEUfuXYAAFA_n.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793562117565-1cegm5",
-    "source": "x",
-    "ts": "2026-11-01T19:41:57.565Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 90,
-    "originTimestamp": "2026-11-01T18:11:08.000Z",
-    "reason": "No notable move in cryptocurrency price or events.",
-    "text": "Thank you, @SecretService, and all the agencies and industry partners involved. You acted within minutes to help track and freeze stolen funds, and the work continues.\n\nYour speed, expertise, and dedication helped contain the damage and reduce the risk of potential ripple effects",
-    "url": "https://x.com/cz_binance/status/2116977683393618404"
-  },
-  {
     "id": "x-1793562122816-2yxlbc",
     "source": "x",
     "ts": "2026-11-01T19:42:02.816Z",
@@ -7765,5 +7733,44 @@
     "reason": "No notable move in crypto markets mentioned.",
     "text": "Google Will Switch Off Gemini and Search for K-12 Students Unless Schools Opt In.\n\nGoogle said Tuesday that Gemini, Gemini Notebook, Gemini in Classroom and Google Search will be entirely off for K-12 student accounts until school administrators explicitly turn them on.",
     "url": "https://x.com/DecryptMedia/status/2117693295178686474"
+  },
+  {
+    "id": "x-1793733197441-rubrno",
+    "source": "x",
+    "ts": "2026-11-03T19:13:17.441Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T19:12:18.000Z",
+    "reason": "High-profile hack affecting one of the largest crypto exchanges.",
+    "text": "Hackers took $6.3B from Binance on Thursday, most of it in about 20 minutes, and on Saturday the FBI confirmed that North Korea’s TraderTraitor group was behind it. Binance reopened withdrawals on Sunday and says it has replaced 95% of the stolen coins with its own money, but",
+    "url": "https://x.com/Cointelegraph/status/2117696387986936107",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2117696313970044928/vid/avc1/720x1280/7UHAG_Oi-Rvdm9fj.mp4?tag=16",
+      "duration": 79,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117696313970044928/img/TP5_RsQlFmGAXxVq.jpg"
+    }
+  },
+  {
+    "id": "x-1793733204643-d7umlj",
+    "source": "x",
+    "ts": "2026-11-03T19:13:24.643Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 22,
+    "originTimestamp": "2026-11-03T18:50:29.000Z",
+    "reason": "Noteworthy Binance action on North Korea and $BNB hack, with detailed financial data.",
+    "text": "Today's BSCN Debrief: @cz_binance urges the US and China to press North Korea over the $6.3B @binance ($BNB) hack.\n\nAlso inside: $702M in ETF wallet moves, 1,000 days without a chain halt, 49% odds on $BTC below $70K.\n\nFull article:",
+    "url": "https://x.com/BSCNews/status/2117696007857185172",
+    "images": [
+      "https://pbs.twimg.com/media/HWOMpKSWwAAHLLY.jpg"
+    ],
+    "video": null
   }
 ]
