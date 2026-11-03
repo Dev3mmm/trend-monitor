@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1793557954239-my0ulx",
-    "source": "x",
-    "ts": "2026-11-01T18:32:34.239Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T18:30:59.000Z",
-    "reason": "No notable move or concrete news event identified.",
-    "text": "🚨 TODAY: Elon Musk says “anyone with a brain is on X.”",
-    "url": "https://x.com/Cointelegraph/status/2116961214999699861"
-  },
-  {
-    "id": "x-1793557957618-jqg7im",
-    "source": "x",
-    "ts": "2026-11-01T18:32:37.618Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-01T18:30:00.000Z",
-    "reason": "Regulatory crackdown on crypto-linked corruption",
-    "text": "China's Communist Party Vows Crackdown on Crypto-Linked Corruption.\n\nA resolution the party's Central Committee adopted on October 29 calls for resolutely cracking down on corruption carried out using virtual currencies, blockchain, cross-border funds and the internet.",
-    "url": "https://x.com/DecryptMedia/status/2116960966357188944",
-    "images": [
-      "https://pbs.twimg.com/media/HWDl8f5WkAAC1aa.jpg",
-      "https://pbs.twimg.com/media/HWDl9k3WoAE1KXQ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793557960984-h7owor",
-    "source": "x",
-    "ts": "2026-11-01T18:32:40.984Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-01T18:23:00.000Z",
-    "reason": "No notable move in LayerZero's token price.",
-    "text": "LayerZero wasn't playing around this week.\n\n@LayerZero_Core's $ZRO is one of few crypto majors to see price increases this week.\n\nThe performance comes alongside some significant announcements - This includes @LoonFinance's decision to use LayerZero tech to power its",
-    "url": "https://x.com/BSCNews/status/2116959204623765519",
-    "images": [
-      "https://pbs.twimg.com/media/HWBqPhvWMAALVHn.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793558530940-gquo2p",
-    "source": "x",
-    "ts": "2026-11-01T18:42:10.940Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 39,
-    "originTimestamp": "2026-11-01T18:03:07.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "Democrat Haley Stevens after endorsing Republican Mike Rogers over Abdul El-Sayed: “My vote for Senate will be for Mike Rogers because we have to stand with country. We can't stand with hate, we can't stand with Hasan Piker... I stood with my party and I was booed off the stage.”",
-    "url": "https://x.com/elonmusk/status/2116963658559627604"
-  },
-  {
     "id": "x-1793558535994-nc0nj1",
     "source": "x",
     "ts": "2026-11-01T18:42:15.994Z",
@@ -7754,5 +7691,73 @@
       "https://pbs.twimg.com/media/HWOIse4aQAAXuzM.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793732201994-1bpgvw",
+    "source": "x",
+    "ts": "2026-11-03T18:56:41.994Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-03T18:49:03.000Z",
+    "reason": "The tweet contains a serious security breach related to an infrastructure credential attack.",
+    "text": "🚨ALERT: GitBook says an attack using AI agents compromised infrastructure credentials on Nov 2.\n\nGitBook is a platform teams use to create and publish documentation and knowledge bases.\n\nThe attacker may have accessed integration tokens, Git Sync secrets, API tokens and",
+    "url": "https://x.com/coinbureau/status/2117690535209206015",
+    "images": [
+      "https://pbs.twimg.com/media/HWOMIm1agAA7CB-.png",
+      "https://pbs.twimg.com/media/HWOMLLpasAAO7mA.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793732207760-c0txjs",
+    "source": "x",
+    "ts": "2026-11-03T18:56:47.760Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 56,
+    "originTimestamp": "2026-11-03T18:00:01.000Z",
+    "reason": "New use of a token for payment in AI services.",
+    "text": "NEAR Protocol (@NEARProtocol) lets users pay for confidential AI and agents by staking $NEAR instead of using a card.\n\nThe stake becomes monthly compute credits across all 43 NEAR AI models, and the tokens return on unstaking.\n\nHow the credits work:",
+    "url": "https://x.com/BSCNews/status/2117690506109206531",
+    "images": [
+      "https://pbs.twimg.com/media/HWIZOP6XEAE1g2q.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793732214014-86c2x2",
+    "source": "x",
+    "ts": "2026-11-03T18:56:54.014Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-03T18:48:00.000Z",
+    "reason": "Notable institution (Societe Generale) adopting crypto for collateral.",
+    "text": "Societe Generale puts tokenized Treasuries to work on Canton Network\n\n@SocieteGenerale has accepted $10M in tokenized US Treasuries as collateral on @CantonNetwork ($CC) through its Prime Services &amp; Clearing division. The Treasuries were tokenized during the soft launch of",
+    "url": "https://x.com/BSCNews/status/2117690271978930449",
+    "images": [
+      "https://pbs.twimg.com/media/HWOHhdhWQAAMzn0.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793732218238-e9jwvs",
+    "source": "x",
+    "ts": "2026-11-03T18:56:58.238Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-03T18:42:42.000Z",
+    "reason": "Memes and opinions with no factual claim.",
+    "text": "Last year, when I went hard on Somali Men here on X, this man went, sat down and made a decision to UNFAT.\n\nShiny things by men.",
+    "url": "https://x.com/amerix/status/2117688939775422953"
   }
 ]
