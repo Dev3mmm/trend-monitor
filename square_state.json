@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792261933061-045nu5",
     "x-1792261938055-owtv6m",
     "x-1792266751975-fijoty",
     "x-1792269142922-tynoaw",
@@ -1999,18 +1998,10 @@
     "x-1793678559168-rv3bfx",
     "x-1793679114736-rm05e7",
     "x-1793679738622-alfo21",
-    "x-1793679742656-pr72p2"
+    "x-1793679742656-pr72p2",
+    "x-1793680322564-45zzyk"
   ],
   "queue": [
-    {
-      "text": "#PeckShieldAlert The #BlueMove hacker-labeled address bridged 115K $USDC from #Ethereum to #Hyperliquid and bought 188.25 $XMR at $608.43.\n\nOn July 11, 2026, BlueMove DEX, an AMM on the #Sui &amp; #Aptos, fell victim to an exploit in which an attacker drained 710,670 $SUI (valued at",
-      "url": "https://x.com/PeckShieldAlert/status/2117459362176196627",
-      "images": [
-        "https://pbs.twimg.com/media/HWK6CnYbIAAGvlB.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793676694125
-    },
     {
       "text": "Solana Wallet Solflare Goes on High Security Alert Amid Recent Crypto Attacks\n\nSolflare co-founder Vidor said the Solana-based crypto wallet has entered a heightened state of security alert following a series of recent security incidents across the crypto industry. The team has",
       "url": "https://x.com/WuBlockchain/status/2117471188192768163",
@@ -2019,6 +2010,15 @@
       ],
       "video": null,
       "enqueuedAt": 1793679743367
+    },
+    {
+      "text": "🚨 UPDATE: NEAR Protocol says its proposal to cut NEAR’s max annual issuance from 2.5% to 1.6% has passed, with the change to be phased in over 24 months.",
+      "url": "https://x.com/Cointelegraph/status/2117474349099917479",
+      "images": [
+        "https://pbs.twimg.com/media/HWKz__6aYAAjxcZ.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793680323069
     }
   ],
   "posted": [
@@ -2627,7 +2627,16 @@
       "at": 1793678564919,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384153113581525?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "#PeckShieldAlert The #BlueMove hacker-labeled address bridged 115K $USDC from #Ethereum to #Hyperliquid and bought 188.25 $XMR at $608.43.\n\nOn July 11, 2026, BlueMove DEX, an AMM on the #Sui &amp; #Aptos, fell victim to an exploit in which an attacker drained 710,670 $SUI (valued at",
+      "final": "#PeckShieldAlert The #BlueMove hacker-labeled address bridged 115K $USDC from #Ethereum to #Hyperliquid and bought 188.25 $XMR at $608.43.\n\nOn July 11, 2026, BlueMove DEX, an AMM on the #Sui &amp; #Aptos, fell victim to an exploit in which an attacker drained 710,670 $SUI (valued at\n\n#Ethereum $ETH #Sui $SUI #Hyperliquid $HYPE #Stablecoin #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HWK6CnYbIAAGvlB.jpg"
+      ],
+      "at": 1793680323069,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793678564919
+  "lastPostAt": 1793680323069
 }
