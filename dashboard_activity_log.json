@@ -1,61 +1,5 @@
 [
   {
-    "id": "x-1793444569961-gb51lk",
-    "source": "x",
-    "ts": "2026-10-31T11:02:49.961Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-31T11:00:03.000Z",
-    "reason": "Significant outflow from Bitcoin ETFs",
-    "text": "Bitcoin ETFs Lose $643M, Biggest Daily Outflow Since June.\n\nUS spot bitcoin ETFs saw $643.2 million in net outflows on Friday, led by BlackRock's IBIT at $233.7 million and Fidelity's FBTC at $201 million, according to Farside Investors data.",
-    "url": "https://x.com/DecryptMedia/status/2116485347194318889",
-    "images": [
-      "https://pbs.twimg.com/media/HV89smJW0AAqn8s.jpg",
-      "https://pbs.twimg.com/media/HV89twkWcAAoYDL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793445764277-aebr9d",
-    "source": "x",
-    "ts": "2026-10-31T11:22:44.277Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-31T11:18:00.000Z",
-    "reason": "Notable new use of a token/stablecoin for payment.",
-    "text": "LOBSTR Wallet the first to go live on Stellar through WalletConnect Pay.\n\n@StellarOrg and @XRP Ledger focused wallet, @lobstr, is now live through @WalletConnect Pay.\n\nUsers of the wallet can now pay merchants directly from their wallet.\n\nFor some time, both the Stellar and $XRP",
-    "url": "https://x.com/BSCNews/status/2116489862123819111",
-    "images": [
-      "https://pbs.twimg.com/media/HV4eg4nWcAAO4z-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793446423775-6qst97",
-    "source": "x",
-    "ts": "2026-10-31T11:33:43.775Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-10-31T11:30:01.000Z",
-    "reason": "Large withdrawal from Bitcoin ETFs linked to Binance hack.",
-    "text": "🚨BEARISH: Investors pull nearly $650 million from Bitcoin ETFs as a wave of exploits shakes the crypto industry.\n\nNet outflows reached -$643.2M on 30th Oct, the LARGEST daily withdrawal since June, as markets absorbed news of the Binance hack.",
-    "url": "https://x.com/coinbureau/status/2116492887944786026",
-    "images": [
-      "https://pbs.twimg.com/media/HV9Dtadb0AAz5_m.png",
-      "https://pbs.twimg.com/media/HV9DwtObcAA3RH8.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793446429244-clgusw",
     "source": "x",
     "ts": "2026-10-31T11:33:49.244Z",
@@ -7760,5 +7704,55 @@
     "reason": "No notable crypto-related event mentioned.",
     "text": "🇨🇳NOW: Another $237,000,000,000 wiped from Chinese stocks within the FIRST 15 MINUTES of trading.\n\nThe Shanghai Composite falls -1.5% as selling pressure intensified across the market.",
     "url": "https://x.com/coinbureau/status/2117454373135778065"
+  },
+  {
+    "id": "x-1793676688108-qf8pzn",
+    "source": "x",
+    "ts": "2026-11-03T03:31:28.108Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T03:30:32.000Z",
+    "reason": "New use of a token/stablecoin with potential AI applications.",
+    "text": "🔥 LATEST: China’s DeepSeek has launched a “creator mode” that lets users build custom AI plugins from plain-English prompts.",
+    "url": "https://x.com/Cointelegraph/status/2117459385832058888",
+    "images": [
+      "https://pbs.twimg.com/media/HWK6FaxXEAAt8zN.jpg",
+      "https://pbs.twimg.com/media/HWK6FuRWUAALqaQ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793676691108-g2exf9",
+    "source": "x",
+    "ts": "2026-11-03T03:31:31.108Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "PeckShieldAlert",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T03:30:27.000Z",
+    "reason": "Exploit involving a significant amount of funds transferred to a new blockchain.",
+    "text": "#PeckShieldAlert The #BlueMove hacker-labeled address bridged 115K $USDC from #Ethereum to #Hyperliquid and bought 188.25 $XMR at $608.43.\n\nOn July 11, 2026, BlueMove DEX, an AMM on the #Sui &amp; #Aptos, fell victim to an exploit in which an attacker drained 710,670 $SUI (valued at",
+    "url": "https://x.com/PeckShieldAlert/status/2117459362176196627",
+    "images": [
+      "https://pbs.twimg.com/media/HWK6CnYbIAAGvlB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793676693463-jyav7r",
+    "source": "x",
+    "ts": "2026-11-03T03:31:33.463Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T03:30:00.000Z",
+    "reason": "No notable move described, price is not outside the recent trading range.",
+    "text": "CFTC Chair: Binance Hack Once Again Shows Offshore Exchanges Need U.S. Regulation  \n\nOn December 30, 2026, CFTC Chair Michael Selig @ChairmanSelig said in an interview that the Binance hack highlighted the lack of safeguards at offshore crypto exchanges equivalent to those in",
+    "url": "https://x.com/WuBlockchain/status/2117459252650373166"
   }
 ]
