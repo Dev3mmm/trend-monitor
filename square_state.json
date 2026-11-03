@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792404147118-zsi5o7",
     "x-1792405337502-fu22me",
     "x-1792405342365-yji8ut",
     "x-1792406541398-55wmwu",
@@ -1999,18 +1998,10 @@
     "x-1793731346557-esum8e",
     "x-1793732201994-1bpgvw",
     "x-1793732207760-c0txjs",
-    "x-1793732214014-86c2x2"
+    "x-1793732214014-86c2x2",
+    "x-1793732603640-qd5ubz"
   ],
   "queue": [
-    {
-      "text": "🚨 ALERT: Mercado Bitcoin has blocked $12.9M in affected crypto assets and paused its platform during the investigation.",
-      "url": "https://x.com/Cointelegraph/status/2117675329477124571",
-      "images": [
-        "https://pbs.twimg.com/media/HWN-fNYXAAAxLwm.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793728359715
-    },
     {
       "text": "🚨 ALERT: GitBook says it was targeted by a sophisticated AI-agent-powered cyberattack that compromised infrastructure credentials and potentially exposed customer API tokens, integration secrets, and user queries.",
       "url": "https://x.com/Cointelegraph/status/2117678444351815889",
@@ -2050,6 +2041,16 @@
       ],
       "video": null,
       "enqueuedAt": 1793731347118
+    },
+    {
+      "text": "🔥 BIG: Robinhood Chain becomes the fastest chain ever to reach $100B in Uniswap volume.",
+      "url": "https://x.com/Cointelegraph/status/2117693498673471879",
+      "images": [
+        "https://pbs.twimg.com/media/HWOPAjoW0AAwCqo.jpg",
+        "https://pbs.twimg.com/media/HWOPAz1XYAEB62_.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793732608623
     }
   ],
   "posted": [
@@ -2742,7 +2743,16 @@
       "at": 1793730750242,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384366828162208?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Mercado Bitcoin has blocked $12.9M in affected crypto assets and paused its platform during the investigation.",
+      "final": "🚨 ALERT: Mercado Bitcoin has blocked $12.9M in affected crypto assets and paused its platform during the investigation.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWN-fNYXAAAxLwm.jpg"
+      ],
+      "at": 1793732608623,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793730750242
+  "lastPostAt": 1793732608623
 }
