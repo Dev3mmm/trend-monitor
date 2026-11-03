@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793556114601-2urwxw",
-    "source": "x",
-    "ts": "2026-11-01T18:01:54.601Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-01T18:00:00.000Z",
-    "reason": "The tweet appears to be speculative commentary without concrete claims or verified information.",
-    "text": "🔥 INSIGHT: North Korea won't get quantum first.\n\nThe first quantum computers will come out of US big tech like Google or Microsoft, says @Strive CEO @ColeMacro, and he doesn't see them draining $BTC or Satoshi's coins.\n\nQuantum would break the whole internet before it breaks",
-    "url": "https://x.com/Cointelegraph/status/2116953416350253308"
-  },
-  {
-    "id": "x-1793556725633-qruj5x",
-    "source": "x",
-    "ts": "2026-11-01T18:12:05.633Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CZ 🔶 BNB",
-    "ageMin": 120,
-    "originTimestamp": "2026-11-01T16:12:16.000Z",
-    "reason": "Trust-building message during challenging times.",
-    "text": "12 hours after withdrawals resumed: 2.1% net outflow, with most occurring in the first couple of hours. Over $1 billion in flow, too.\n\n98% choose to stay!\n\nTrust isn’t earned by what you say in good times. It’s earned by what you do in hard times.\n\nThank you for your trust!",
-    "url": "https://x.com/cz_binance/status/2116954044988354798",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793557954239-my0ulx",
     "source": "x",
     "ts": "2026-11-01T18:32:34.239Z",
@@ -7747,5 +7718,41 @@
     "reason": "No notable crypto-related content or move mentioned.",
     "text": "BOLD: $GOOG will cut student access to Search at schools that block AI entirely, per NYT.\n\nStarting early next year, schools cannot offer traditional Google Search without its AI features.\n\nThat means schools must choose between allowing AI-generated answers or losing student",
     "url": "https://x.com/coinbureau/status/2117683769977241764"
+  },
+  {
+    "id": "x-1793731339294-f5mzob",
+    "source": "x",
+    "ts": "2026-11-03T18:42:19.294Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T18:40:29.000Z",
+    "reason": "Ethereum supply decrease on exchanges following a hack incident.",
+    "text": "⚡️ INSIGHT: Ethereum supply on exchanges fell from 3.56% to 3.20% following the Binance hack, with roughly 313,000 $ETH leaving top exchange addresses on November 1–2 after withdrawals resumed, according to Santiment.",
+    "url": "https://x.com/Cointelegraph/status/2117688380741787752",
+    "images": [
+      "https://pbs.twimg.com/media/HWOKW_TWoAAaUp7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793731346557-esum8e",
+    "source": "x",
+    "ts": "2026-11-03T18:42:26.557Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-03T18:33:14.000Z",
+    "reason": "Suspected hacker movement of funds through crypto platforms is a notable exploit.",
+    "text": "Analyst: Suspected North Korean Hackers Moved $1.46M via Jupiter Lend and Circle Bridge; Jupiter Says Funds Remain Traceable\n\nOn-chain analyst @FabianoSolana reported that suspected North Korean hackers moved approximately $1.46 million through Jupiter Lend and Circle’s",
+    "url": "https://x.com/WuBlockchain/status/2117686556525998266",
+    "images": [
+      "https://pbs.twimg.com/media/HWOIse4aQAAXuzM.jpg"
+    ],
+    "video": null
   }
 ]
