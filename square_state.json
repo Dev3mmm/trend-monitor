@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792395149764-4gw6p0",
-    "x-1792396321699-os9k1o",
     "x-1792396325364-obi9hw",
     "x-1792396919693-nif9d8",
     "x-1792397546952-8r7abg",
@@ -1999,21 +1997,11 @@
     "x-1793728341258-45yqwh",
     "x-1793728345255-eukm0a",
     "x-1793728349376-8awbrp",
-    "x-1793728354991-qps6up"
+    "x-1793728354991-qps6up",
+    "x-1793728929451-ge9ckc",
+    "x-1793728934879-crat0w"
   ],
   "queue": [
-    {
-      "text": "🚨TODAY: Vitalik Buterin calls for trustworthy hardware and stronger privacy protections at Devcon 8: \n“Not your silicon, not your life.”\n\n“We really need to treat data as toxic waste by default.”\n\nOpening the conference, Buterin framed security around one question: whom do we",
-      "url": "https://x.com/coinbureau/status/2117670643432919209",
-      "images": [],
-      "video": {
-        "url": "https://video.twimg.com/amplify_video/2117607600342839296/vid/avc1/1280x720/w-rgeJZlXv9y_HfP.mp4?tag=29",
-        "duration": 147,
-        "gif": false,
-        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117607600342839296/img/89aF2MITxGIhifbR.jpg"
-      },
-      "enqueuedAt": 1793727125416
-    },
     {
       "text": "🚨 ALERT: According to Onchain Lens, an address linked to the Binance hacker deposited 8,567 $SOL worth approximately $798,000 into privacy mixer Privacy Cash to launder stolen funds.",
       "url": "https://x.com/Cointelegraph/status/2117675799004184695",
@@ -2031,6 +2019,25 @@
       ],
       "video": null,
       "enqueuedAt": 1793728359715
+    },
+    {
+      "text": "🚨 ALERT: GitBook says it was targeted by a sophisticated AI-agent-powered cyberattack that compromised infrastructure credentials and potentially exposed customer API tokens, integration secrets, and user queries.",
+      "url": "https://x.com/Cointelegraph/status/2117678444351815889",
+      "images": [
+        "https://pbs.twimg.com/media/HWOBUlWW0AAhLdE.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793728940611
+    },
+    {
+      "text": "Aave Labs Submits Legal Framework for DeFi Lending to the SEC.\n\nAave Labs, Kamino and Veda submitted a confidential version of their framework for decentralized lending protocols and non-custodial vaults to the SEC's Crypto Task Force on October 26, asking to meet staff.",
+      "url": "https://x.com/DecryptMedia/status/2117678193868181970",
+      "images": [
+        "https://pbs.twimg.com/media/HWNtYAGWkAAoAid.png",
+        "https://pbs.twimg.com/media/HWNuURgXQAAEsXO.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793728940611
     }
   ],
   "posted": [
@@ -2705,7 +2712,14 @@
       "at": 1793727125416,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384352000820523?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨TODAY: Vitalik Buterin calls for trustworthy hardware and stronger privacy protections at Devcon 8: \n“Not your silicon, not your life.”\n\n“We really need to treat data as toxic waste by default.”\n\nOpening the conference, Buterin framed security around one question: whom do we",
+      "final": "🚨TODAY: Vitalik Buterin calls for trustworthy hardware and stronger privacy protections at Devcon 8: \n“Not your silicon, not your life.”\n\n“We really need to treat data as toxic waste by default.”\n\nOpening the conference, Buterin framed security around one question: whom do we\n\n#Crypto",
+      "images": [],
+      "at": 1793728940611,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793727125416
+  "lastPostAt": 1793728940611
 }
