@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793464339089-esczi1",
-    "source": "x",
-    "ts": "2026-10-31T16:32:19.089Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-31T16:28:06.000Z",
-    "reason": "No notable move in price, $8.43M is likely a transaction amount rather than a price.",
-    "text": "+$8.43M into $XRP ETF’s 🔥",
-    "url": "https://x.com/BSCNews/status/2116568020399079717"
-  },
-  {
     "id": "x-1793464342497-adggdw",
     "source": "x",
     "ts": "2026-10-31T16:32:22.497Z",
@@ -7770,6 +7757,24 @@
     "url": "https://x.com/BSCNews/status/2117536257089982904",
     "images": [
       "https://pbs.twimg.com/media/HWLoZc4a8AAczpZ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793695943951-gxnzs8",
+    "source": "x",
+    "ts": "2026-11-03T08:52:23.952Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-03T08:42:20.000Z",
+    "reason": "Suspected hack with significant financial impact and potential security breach.",
+    "text": "🚨 UPDATE: ZachXBT flags another $27M in suspicious withdrawals linked to a suspected hack of a European entity, bringing the total to over $133M.",
+    "url": "https://x.com/Cointelegraph/status/2117537853810847839",
+    "images": [
+      "https://pbs.twimg.com/media/HWMBdK2XkAATZiC.jpg"
     ],
     "video": null
   }
