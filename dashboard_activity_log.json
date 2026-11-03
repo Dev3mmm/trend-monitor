@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793475721225-t26yoo",
-    "source": "x",
-    "ts": "2026-10-31T19:42:01.225Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 117,
-    "originTimestamp": "2026-10-31T17:44:22.000Z",
-    "reason": "Noise: Generic hype with no real content.",
-    "text": "Neuralink deep dive",
-    "url": "https://x.com/elonmusk/status/2116614579136635120"
-  },
-  {
     "id": "x-1793475725704-gsn89d",
     "source": "x",
     "ts": "2026-10-31T19:42:05.704Z",
@@ -7763,6 +7750,24 @@
     "text": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
     "url": "https://x.com/DecryptMedia/status/2117578409681301694",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793706124072-p1bgvm",
+    "source": "x",
+    "ts": "2026-11-03T11:42:04.072Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-03T11:37:00.000Z",
+    "reason": "TON's perps trading volume has seen a significant uptick.",
+    "text": "Storm Trade is Powering TON's Perps Explosion\n\nStorm Trade (@storm_trade_ton) has experienced remarkable growth on the TON Blockchain  (@ton_blockchain). \n\nAccording to DeFillama, TON has seen a massive uptick in perps trading volume over the past week, driven primarily by the",
+    "url": "https://x.com/BSCNews/status/2117581807348785217",
+    "images": [
+      "https://pbs.twimg.com/media/HWMmS-jX0AA9JAY.jpg"
+    ],
     "video": null
   }
 ]
