@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793581362586-o3lacr",
-    "source": "x",
-    "ts": "2026-11-02T01:02:42.586Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T01:00:33.000Z",
-    "reason": "Exploit involving user seed phrases on dApp Store.",
-    "text": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.",
-    "url": "https://x.com/Cointelegraph/status/2117059253131170035",
-    "images": [
-      "https://pbs.twimg.com/media/HWFOKnFWgAIzlPe.png",
-      "https://pbs.twimg.com/media/HWFOK8UXcAA1qpL.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793582529045-yb7tej",
-    "source": "x",
-    "ts": "2026-11-02T01:22:09.045Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 107,
-    "originTimestamp": "2026-11-01T23:35:02.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "INSIGHT: MAG 7 free cash flow is forecast to SURGE above $600 BILLION by 2030, per Bloomberg.\n\nThat’s over SIX TIMES the roughly $90 BILLION in 2024, with growth accelerating from 2027.\n\nThe bet is that massive AI spending starts delivering stronger cash returns.\n\nIf those",
-    "url": "https://x.com/coinbureau/status/2117062887852401108"
-  },
-  {
     "id": "x-1793582537153-ff2tsb",
     "source": "x",
     "ts": "2026-11-02T01:22:17.153Z",
@@ -7791,5 +7759,36 @@
     "reason": "No noteworthy news or significant price movement is indicated.",
     "text": "Aster DEX starts shutting down ApolloX for good\n\n@Aster_DEX began winding down the legacy APX contract of ApolloX, its original exchange, today at 10:00 UTC and expects to finish within 48 hours. Protocol-owned funds are moving over to Aster through its bridge.\n\nUsers with",
     "url": "https://x.com/BSCNews/status/2117727266364883165"
+  },
+  {
+    "id": "x-1793741511169-67ox63",
+    "source": "x",
+    "ts": "2026-11-03T21:31:51.169Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T21:30:30.000Z",
+    "reason": "No notable move in Bitcoin's short-dated options price.",
+    "text": "⚡️ MARKET: Bitcoin’s short-dated options price elevated volatility ahead of US midterm elections, with front-end implied volatility at 48.08%.",
+    "url": "https://x.com/Cointelegraph/status/2117731167889715405",
+    "images": [
+      "https://pbs.twimg.com/media/HWOxRTgXQAA7hMa.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793741516877-kkjl25",
+    "source": "x",
+    "ts": "2026-11-03T21:31:56.877Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-03T21:23:05.000Z",
+    "reason": "No notable move, prices are speculative and not verifiable.",
+    "text": "JUST IN: AMD $AMD and Super Micro $SMCI just added over $50 BILLION in market value after hours.\n\nAMD posted RECORD Q3 sales of $13.4 BILLION and now expects about $17 BILLION next quarter, up 66% from a year ago.\n\nSuper Micro made $19.9 BILLION in ONE quarter, almost its ENTIRE",
+    "url": "https://x.com/coinbureau/status/2117729299851858289"
   }
 ]
