@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793469768185-wllnmn",
-    "source": "x",
-    "ts": "2026-10-31T18:02:48.185Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-31T17:58:32.000Z",
-    "reason": "Ethereum Reorganization causes THORChain emergency pause.",
-    "text": "Chainalysis: Ethereum Reorg Triggers THORChain Emergency Pause, Delaying Laundering of Binance Hack Funds\n\nBlockchain analytics firm Chainalysis said an Ethereum chain reorganization on the morning of October 31 (EDT) caused THORChain to mistakenly issue a double refund to a user",
-    "url": "https://x.com/WuBlockchain/status/2116590659788517766",
-    "images": [
-      "https://pbs.twimg.com/media/HV-j-8xbYAAj_CV.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793469770232-m0gsw8",
-    "source": "x",
-    "ts": "2026-10-31T18:02:50.232Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-31T17:52:51.000Z",
-    "reason": "Noise: Generic statement without factual claim.",
-    "text": "Yes",
-    "url": "https://x.com/elonmusk/status/2116590025135829425"
-  },
-  {
     "id": "x-1793470347759-rtfb89",
     "source": "x",
     "ts": "2026-10-31T18:12:27.759Z",
@@ -7774,5 +7743,34 @@
     "reason": "No notable move or specific event reported.",
     "text": "Vitalik Buterin Warns AI Could Put The World Under One Powerful Player\n\nEthereum (@ethereum) $ETH co-founder Vitalik Buterin (@VitalikButerin) says the world is heading toward a dangerous model of AI security.\n\nHe believes slowing AI development is no longer a realistic option.",
     "url": "https://x.com/BSCNews/status/2117557440321610052"
+  },
+  {
+    "id": "x-1793701332362-l0zuul",
+    "source": "x",
+    "ts": "2026-11-03T10:22:12.362Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-03T10:21:31.000Z",
+    "reason": "No notable move in price or significant news event.",
+    "text": "🔥 LATEST: Hyperliquid generated $713M in revenue over the past year, per Bloomberg.\n\nFounder Jeff Yan sees tokenized assets as a potential next opportunity.",
+    "url": "https://x.com/Cointelegraph/status/2117562811500921260"
+  },
+  {
+    "id": "x-1793701335485-mkk50z",
+    "source": "x",
+    "ts": "2026-11-03T10:22:15.485Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T10:20:00.000Z",
+    "reason": "Notable regulatory response from a controversial entity.",
+    "text": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+    "url": "https://x.com/DecryptMedia/status/2117562431677354415",
+    "images": [],
+    "video": null
   }
 ]
