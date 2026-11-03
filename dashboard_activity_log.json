@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793595134742-4zust8",
-    "source": "x",
-    "ts": "2026-11-02T04:52:14.742Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-02T04:43:06.000Z",
-    "reason": "Unprecedented scale of outflows suggesting significant market stress.",
-    "text": "🚨UPDATE: Binance processes $6.145 BILLION in net outflows as withdrawal pressure eases.\n\nAccording to DefiLlama’s 24-hour snapshot:\n\n- Net outflows exceeded the tracked assets of Gate, Bitget, Gemini, Bitstamp or MEXC individually.\n\n- Binance still holds $128.87 BILLION in",
-    "url": "https://x.com/coinbureau/status/2117115260469698774",
-    "images": [
-      "https://pbs.twimg.com/media/HWGAxGHaQAAwzNQ.jpg",
-      "https://pbs.twimg.com/media/HWGA0ueaAAAiEcp.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793595711345-76jbd8",
-    "source": "x",
-    "ts": "2026-11-02T05:01:51.345Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T05:00:32.000Z",
-    "reason": "Binance absorbing massive theft through revenue, not disclosing details.",
-    "text": "🚨  Binance says it has covered about 95% of the $6.3 billion stolen in last week's record hack, using its own treasury, its SAFU fund and its futures insurance fund. Withdrawals reopened on Nov. 1.\n\nHow does one exchange absorb a loss that size? Revenue.\n\nBinance doesn't publish",
-    "url": "https://x.com/Cointelegraph/status/2117119645018652948",
-    "images": [
-      "https://pbs.twimg.com/media/HWGFGF1XUAAdWqq.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793595716613-wgi74h",
-    "source": "x",
-    "ts": "2026-11-02T05:01:56.613Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-02T04:57:29.000Z",
-    "reason": "No notable exploit or institution-related action is provided.",
-    "text": "Cardano Servers Could Be Exposed to a Critical Linux Exploit\n\nIntersect has urged Cardano (@Cardano) $ADA stake pool operators to patch and reboot their servers. \n\nThe warning concerns CVE-2026-98432, a critical Linux kernel flaw with a CVSS score of 9.8. \n\nRed Hat warns that",
-    "url": "https://x.com/BSCNews/status/2117118877184176216"
-  },
-  {
     "id": "x-1793596962339-iy8u9w",
     "source": "x",
     "ts": "2026-11-02T05:22:42.339Z",
@@ -7821,5 +7771,54 @@
       "https://pbs.twimg.com/media/HWOt9k5WsAA3OlA.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793748212682-23w8yv",
+    "source": "x",
+    "ts": "2026-11-03T23:23:32.682Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T23:20:44.000Z",
+    "reason": "Provides regulatory clarity for decentralized finance governance.",
+    "text": "🇺🇸 LATEST: SEC staff clarify that independent token holders participating in decentralized governance generally do not constitute a “central party,” according to updated crypto FAQs.\n\nThe guidance provides regulatory clarity for DeFi governance but carries no legal force.",
+    "url": "https://x.com/Cointelegraph/status/2117758906889797681",
+    "images": [
+      "https://pbs.twimg.com/media/HWPKgJlWwAAhExa.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793748219246-4g2834",
+    "source": "x",
+    "ts": "2026-11-03T23:23:39.246Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-03T23:19:00.000Z",
+    "reason": "The tweet mentions a significant price jump for a stablecoin, which is noteworthy.",
+    "text": "Ripple's stablecoin grew +$150M in the space of five minutes.\n\nBetween 9:00am and 9:05am UTC on November 2, the market cap of @Ripple's $RLUSD stablecoin jumped from a market cap of $2.411B to as much as $2.561B.\n\nThe sudden jump is the result of Ripple's own issuance and minting",
+    "url": "https://x.com/BSCNews/status/2117758471563100468",
+    "images": [
+      "https://pbs.twimg.com/media/HWM7xxwXcAAWIZi.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793748223596-1k3rmp",
+    "source": "x",
+    "ts": "2026-11-03T23:23:43.596Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 69,
+    "originTimestamp": "2026-11-03T22:13:42.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Oh, and we brought back a pair of cowboy boots signed by @alo_oficial and @lance_stroll. \n\nThink you could rock them? Tell us why ↓",
+    "url": "https://x.com/coinbase/status/2117758399270257053"
   }
 ]
