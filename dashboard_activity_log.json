@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793449939161-7yu08m",
-    "source": "x",
-    "ts": "2026-10-31T12:32:19.161Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 8,
-    "originTimestamp": "2026-10-31T12:23:55.000Z",
-    "reason": "Noise: Generic hype with no real content.",
-    "text": "Scary memories.",
-    "url": "https://x.com/coinbase/status/2116506449694359872"
-  },
-  {
     "id": "x-1793451152049-fiuk5a",
     "source": "x",
     "ts": "2026-10-31T12:52:32.049Z",
@@ -7764,6 +7751,24 @@
     "url": "https://x.com/Cointelegraph/status/2117474349099917479",
     "images": [
       "https://pbs.twimg.com/media/HWKz__6aYAAjxcZ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793680918246-jll50d",
+    "source": "x",
+    "ts": "2026-11-03T04:41:58.246Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-03T04:41:15.000Z",
+    "reason": "Notable increase in XRP wallet addresses.",
+    "text": "XRP Sees One of its Biggest Wallet Surges This Year\n\nXRP Ledger (@XRP) $XRP recorded 7,934 new wallets on November 1, according to Santiment. This ranks as the sixth-largest number of new addresses added within one day in 2026.\n\nThe increase comes as XRP trades near $1.25,",
+    "url": "https://x.com/BSCNews/status/2117477180611645457",
+    "images": [
+      "https://pbs.twimg.com/media/HWLGj8KaMAADlIx.png"
     ],
     "video": null
   }
