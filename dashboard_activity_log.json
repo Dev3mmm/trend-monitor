@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793455373619-mke3fz",
-    "source": "x",
-    "ts": "2026-10-31T14:02:53.619Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 91,
-    "originTimestamp": "2026-10-31T12:31:16.000Z",
-    "reason": "Vague and non-specific statement without actionable information.",
-    "text": "You are not living in a time of peace. You are already at war, whether you recognize it or not.\nTime is running out, and there is nowhere left to retreat.",
-    "url": "https://x.com/elonmusk/status/2116530948514926934"
-  },
-  {
-    "id": "x-1793455379166-ihlsv9",
-    "source": "x",
-    "ts": "2026-10-31T14:02:59.166Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 18,
-    "originTimestamp": "2026-10-31T13:44:25.000Z",
-    "reason": "Tokenized securities planned, indicating institutional interest in blockchain technology.",
-    "text": "Canton Strategic Holdings ($CNTN) plans to issue tokenized shares as early as November 2, days after the DTCC brought its Tokenization Service live on Canton Network with 20 firms.\n\nRead more:",
-    "url": "https://x.com/BSCNews/status/2116530752053743937",
-    "images": [
-      "https://pbs.twimg.com/media/HV9pxk8WQAAlOPA.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793455385171-6waj5e",
     "source": "x",
     "ts": "2026-10-31T14:03:05.171Z",
@@ -7763,5 +7732,36 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "You are waking up to more shiny things from the Amerix Community.\n\nAs we approach the end of the year, we celebrate our goals, wins and gains.",
     "url": "https://x.com/amerix/status/2117490639298244833"
+  },
+  {
+    "id": "x-1793685141419-naf5hv",
+    "source": "x",
+    "ts": "2026-11-03T05:52:21.419Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T05:51:14.000Z",
+    "reason": "No notable move in deposits versus withdrawals.",
+    "text": "Withdrawal data update\n\nBy 03:00 UTC, we are seeing hourly deposits exceed withdrawals, reflecting improving user activity and stabilizing flows.",
+    "url": "https://x.com/binance/status/2117494793446298084"
+  },
+  {
+    "id": "x-1793685146791-qigtf1",
+    "source": "x",
+    "ts": "2026-11-03T05:52:26.791Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-03T05:43:52.000Z",
+    "reason": "Notable institutional ETH movements by BlackRock.",
+    "text": "BlackRock's Ethereum Movements Are Getting Hard to Ignore\n\nBlackRock (@BlackRock)-linked wallets transferred 580,145 $ETH worth approximately $1.32 billion over the past month, Lookonchain reports. \n\nThe transfers went from Coinbase Prime deposit addresses to its hot wallets.",
+    "url": "https://x.com/BSCNews/status/2117492938301399476",
+    "images": [
+      "https://pbs.twimg.com/media/HWLIzx5a4AAgP70.png"
+    ],
+    "video": null
   }
 ]
