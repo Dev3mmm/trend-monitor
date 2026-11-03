@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1793575322882-lmfjdb",
-    "source": "x",
-    "ts": "2026-11-01T23:22:02.882Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-01T23:14:23.000Z",
-    "reason": "Price and event are significant with potential security implications.",
-    "text": "🚨 JUST IN: BTCPay Server urges users to shut down their instances after reports that attackers swept hot wallets on its servers.",
-    "url": "https://x.com/Cointelegraph/status/2117032533938549058",
-    "images": [
-      "https://pbs.twimg.com/media/HWE100IbUAAniFb.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793575932041-mtinel",
-    "source": "x",
-    "ts": "2026-11-01T23:32:12.041Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T23:30:28.000Z",
-    "reason": "Vague and speculative prediction without factual backing.",
-    "text": "Crypto Novembers:\n\n2022: FTX collapses\n2023: Binance pays $4.3B, CZ steps down\n2024: Trump wins, BTC runs to $99K\n2025: Balancer drained for $128M, BTC’s biggest monthly drop since 2021\n2026: Binance hacked for $6.3B… and November hasn’t even started\n\nWhat’s next? 👇",
-    "url": "https://x.com/Cointelegraph/status/2117036582704201983"
-  },
-  {
-    "id": "x-1793575937851-vy0ctg",
-    "source": "x",
-    "ts": "2026-11-01T23:32:17.851Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-01T23:21:41.000Z",
-    "reason": "The tweet is noise as it is vague and lacks specific, concrete information.",
-    "text": "BIG: Bybit has secured a VARA licence for spot trading in Dubai through Bybit Fintech FZE.\n\nThe approval strengthens its presence in the emirate, where it established its international headquarters in 2022.\n\nBybit also hopes to expand into derivatives, subject to further",
-    "url": "https://x.com/coinbureau/status/2117034371983216716",
-    "images": [
-      "https://pbs.twimg.com/media/HWE3MbqawAAZaip.png",
-      "https://pbs.twimg.com/media/HWE3OSJboAAGO1P.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793576507986-y6bl5z",
-    "source": "x",
-    "ts": "2026-11-01T23:41:47.986Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-01T23:35:02.000Z",
-    "reason": "No notable market move or news specific enough to qualify as noteworthy.",
-    "text": "🚨October shook AI stocks. The broader market held up.\n\nSince October 6, 47 AI and chip stocks shed about $5 TRILLION.\n\nMeanwhile, 625 other large U.S. stocks gained $1.3 TRILLION, per Yahoo Finance.\n\nStock Trader’s Almanac editor Jeff Hirsch calls it “Octoberphobia” and remains",
-    "url": "https://x.com/coinbureau/status/2117037733504041011"
-  },
-  {
     "id": "x-1793577702823-x96zzk",
     "source": "x",
     "ts": "2026-11-02T00:01:42.823Z",
@@ -7813,5 +7750,57 @@
       "https://pbs.twimg.com/media/HWOcOHnXMAAdpOT.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793739742868-fiwxom",
+    "source": "x",
+    "ts": "2026-11-03T21:02:22.868Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T21:00:37.000Z",
+    "reason": "No notable crypto-related event or movement mentioned.",
+    "text": "🇪🇺 ALERT: The European Commission is urging EU citizens to prepare emergency kits with enough essential supplies to survive at least 72 hours during a crisis.",
+    "url": "https://x.com/Cointelegraph/status/2117723646001095117"
+  },
+  {
+    "id": "x-1793739748020-hj87f1",
+    "source": "x",
+    "ts": "2026-11-03T21:02:28.020Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T21:00:01.000Z",
+    "reason": "No notable move in the crypto markets.",
+    "text": "Robinhood Adds Extended-Hours Options Trading for Nvidia, Tesla and Apple.\n\nRobinhood users can now trade options from 7:30 to 9:25 AM EST (12:30 to 14:25 UTC), tapping the extended sessions Cboe launched October 19 for 24 single stocks and five ETFs.",
+    "url": "https://x.com/DecryptMedia/status/2117723496599994486"
+  },
+  {
+    "id": "x-1793739751342-1wpxoa",
+    "source": "x",
+    "ts": "2026-11-03T21:02:31.342Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 104,
+    "originTimestamp": "2026-11-03T19:17:42.000Z",
+    "reason": "No factual claim or notable event mentioned.",
+    "text": "Try asking Grok @Bot to make calls!",
+    "url": "https://x.com/elonmusk/status/2117722703738310713"
+  },
+  {
+    "id": "x-1793739755121-dddb2f",
+    "source": "x",
+    "ts": "2026-11-03T21:02:35.121Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-03T20:48:47.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud\nMaking 13GW in 1.5 Years A Reality",
+    "url": "https://x.com/elonmusk/status/2117722468257529958"
   }
 ]
