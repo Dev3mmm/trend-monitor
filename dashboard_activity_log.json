@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793565718753-pt6cvv",
-    "source": "x",
-    "ts": "2026-11-01T20:41:58.753Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-01T20:35:43.000Z",
-    "reason": "Noise: Generic tweet without substantive information.",
-    "text": "@elonmusk",
-    "url": "https://x.com/elonmusk/status/2116993181405606125"
-  },
-  {
-    "id": "x-1793565722112-0ricnl",
-    "source": "x",
-    "ts": "2026-11-01T20:42:02.112Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 42,
-    "originTimestamp": "2026-11-01T20:00:00.000Z",
-    "reason": "No notable move or breaking news.",
-    "text": "Hedera (@hedera) is governed by a council of up to 39 organizations, each with one equal vote regardless of how much $HBAR it holds.\n\nMembers serve up to two three-year terms, except Swirlds, which holds a permanent seat.\n\nCouncil vs token voting:",
-    "url": "https://x.com/BSCNews/status/2116992880153653609"
-  },
-  {
-    "id": "x-1793565725033-80b9cc",
-    "source": "x",
-    "ts": "2026-11-01T20:42:05.033Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 107,
-    "originTimestamp": "2026-11-01T18:54:34.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours",
-    "url": "https://x.com/elonmusk/status/2116991729660575998"
-  },
-  {
     "id": "x-1793566333739-a8rl8o",
     "source": "x",
     "ts": "2026-11-01T20:52:13.739Z",
@@ -7783,5 +7744,64 @@
     "reason": "No notable crypto-related news in the tweet provided.",
     "text": "Major Developer Documentation Platform GitBook Hit by AI Agent-Driven Attack, Crypto Projects' Docs Affected\n\nGitBook reported that attackers used AI agents to gain unauthorized access to some of its infrastructure credentials at 1:00 p.m. EST on November 2. The company detected",
     "url": "https://x.com/WuBlockchain/status/2117704492699603335"
+  },
+  {
+    "id": "x-1793736115615-7mnet3",
+    "source": "x",
+    "ts": "2026-11-03T20:01:55.615Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T20:00:01.000Z",
+    "reason": "Notable security incident involving API tokens and credentials.",
+    "text": "GitBook Says Attacker Used AI Agents to Access Some of Its Infrastructure Credentials.\n\nThe documentation platform said the attacker gained access at 1 PM EST (18:00 UTC) Monday and may have reached API tokens, Git Sync secrets and integration tokens, urging users to rotate them.",
+    "url": "https://x.com/DecryptMedia/status/2117708397269102606",
+    "images": [
+      "https://pbs.twimg.com/media/HWOHorkXwAANCLy.png",
+      "https://pbs.twimg.com/media/HWOH1K2WoAA2j5o.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793736117810-bxyutb",
+    "source": "x",
+    "ts": "2026-11-03T20:01:57.810Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T19:59:29.000Z",
+    "reason": "Meta seeking significant institutional funding for AI development.",
+    "text": "⚡️ LATEST: Meta seeks to raise up to $25 billion in a bond sale to fund its growing AI spending.",
+    "url": "https://x.com/Cointelegraph/status/2117708263168815108",
+    "images": [
+      "https://pbs.twimg.com/media/HWOccApWoAA8HMb.jpg",
+      "https://pbs.twimg.com/media/HWOccOXXcAEl_Om.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793736120217-8jc3ij",
+    "source": "x",
+    "ts": "2026-11-03T20:02:00.217Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-03T19:53:14.000Z",
+    "reason": "Bitcoin experiencing a shallow bear market in its history.",
+    "text": "NEW: Bitcoin is experiencing its shallowest bear market in its history 👀\n\nBMTV Analyst Sean Hagan says \"As we enter the end of this month, there's also a strong argument that we have served our time in terms of time-based capitulation\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2117706689004671415",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2117703773464240128/vid/avc1/1280x720/RT-yNkqEP1xscKoN.mp4?tag=29",
+      "duration": 430,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HWObFSsXEAAp8Jf.jpg"
+    }
   }
 ]
