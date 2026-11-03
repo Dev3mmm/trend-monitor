@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793569933275-xctb43",
-    "source": "x",
-    "ts": "2026-11-01T21:52:13.275Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 57,
-    "originTimestamp": "2026-11-01T20:54:46.000Z",
-    "reason": "No notable crypto-related content or event.",
-    "text": "Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:\n\n\"THAT'S A WORTHY GOAL.\"\n\nCharlie Rose: \"Just simply giving it to Elon Musk, because you had confidence that he would change the future.\"\n\nLarry Page: \"He wants to go to Mars to back up",
-    "url": "https://x.com/elonmusk/status/2117010740502782014"
-  },
-  {
-    "id": "x-1793570525721-2hmjhm",
-    "source": "x",
-    "ts": "2026-11-01T22:02:05.721Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-01T21:58:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "The @Starknet ecosystem has dominated headlines in October, with a potential pivot to its own L1 chain sending the $STRK token soaring.\n\nHere's what Starknet actually is, and what makes it stand out ⬇️",
-    "url": "https://x.com/BSCNews/status/2117013311094960618",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793572325724-obg5u5",
     "source": "x",
     "ts": "2026-11-01T22:32:05.724Z",
@@ -7809,5 +7780,34 @@
       "https://pbs.twimg.com/media/HWOX-mGW0AAZpbZ.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793737930045-75jzxd",
+    "source": "x",
+    "ts": "2026-11-03T20:32:10.045Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T20:30:29.000Z",
+    "reason": "Concerns over Binance hack and US midterm elections led to significant outflows.",
+    "text": "🚨 JUST IN: US spot Bitcoin ETFs saw $1.04 billion in net outflows over two trading sessions amid concerns over the Binance hack and US midterm elections.",
+    "url": "https://x.com/Cointelegraph/status/2117716063940956441",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793737932378-ibs3b5",
+    "source": "x",
+    "ts": "2026-11-03T20:32:12.378Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T20:30:00.000Z",
+    "reason": "No notable move, price is well within the recent trading range.",
+    "text": "Anthropic's FlashProve Uses Zero-Knowledge Proofs to Verify Which AI Model Answered You.\n\nThe open-source research prototype uses zkSNARKs, a cryptographic technique widely used in blockchain scaling, to prove a response came from a committed model without revealing the model's",
+    "url": "https://x.com/DecryptMedia/status/2117715943170486340"
   }
 ]
