@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793583140043-umbpjn",
-    "source": "x",
-    "ts": "2026-11-02T01:32:20.043Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T01:30:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Avalanche a go-to chain for institutional RWAs.\n\nAccording to The @RWAFoundation_, the average wallet holdings RWAs on @Avax holds a staggering $149,739 worth of assets.\n\nThat's the AVERAGE.\n\nThe high average holding is driven by $AVAX' focus on institutions when it comes to",
-    "url": "https://x.com/BSCNews/status/2117066665028665469",
-    "images": [
-      "https://pbs.twimg.com/media/HWCRkX_XAAE-BoL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793584331191-uktdgm",
-    "source": "x",
-    "ts": "2026-11-02T01:52:11.191Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 97,
-    "originTimestamp": "2026-11-02T00:15:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "It's true. \n\nEvery single person I've told to try Grok Bot:\n\n- \"Holy fk it's really THAT GOOD\"\n- Starts telling other people to try Grok Bot",
-    "url": "https://x.com/elonmusk/status/2117070572433875075"
-  },
-  {
-    "id": "x-1793584333427-a1rdgm",
-    "source": "x",
-    "ts": "2026-11-02T01:52:13.427Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 112,
-    "originTimestamp": "2026-11-01T23:59:39.000Z",
-    "reason": "No notable crypto-related event or data point.",
-    "text": "California is trying to buy a Texas Senate seat.\n\nTalarico is getting 53% of his itemized money from outside the state. \n\nCalifornia alone dropped $7.8 million on him, more than Paxton raised from every other state combined. \n\nNew York added $3 million. \n\nMassachusetts another",
-    "url": "https://x.com/elonmusk/status/2117070283077292148"
-  },
-  {
     "id": "x-1793584951669-kq92aq",
     "source": "x",
     "ts": "2026-11-02T02:02:31.669Z",
@@ -7787,6 +7743,59 @@
     "url": "https://x.com/Cointelegraph/status/2117733677023056074",
     "images": [
       "https://pbs.twimg.com/media/HWOzjaGXMAAk8Mm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793742822128-tctvfj",
+    "source": "x",
+    "ts": "2026-11-03T21:53:42.128Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T21:51:30.000Z",
+    "reason": "AI costs reduction could impact Anthropic's revenue model.",
+    "text": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+    "url": "https://x.com/DecryptMedia/status/2117736451571851303",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793742826205-4h9yyq",
+    "source": "x",
+    "ts": "2026-11-03T21:53:46.206Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T21:51:28.000Z",
+    "reason": "Specific partnership between major players in the crypto ecosystem.",
+    "text": "🔥 NEW: Shopify works with Coinbase to build the Commerce Payments Protocol on Base for stablecoin payments.",
+    "url": "https://x.com/Cointelegraph/status/2117736445724999768",
+    "images": [
+      "https://pbs.twimg.com/media/HWO2ElBXEAAuCpF.jpg",
+      "https://pbs.twimg.com/media/HWO2EwlXYAANJ8c.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793742832294-t56umq",
+    "source": "x",
+    "ts": "2026-11-03T21:53:52.294Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-03T21:44:00.000Z",
+    "reason": "Notable upgrade for Zcash's block time reduction.",
+    "text": "Zcash blocks get three times faster this week\n\n@Zcash is set to switch on its NU7 upgrade at block 3,543,405, expected around Thursday, November 5. The target time between blocks drops from 75 seconds to 25, cutting the wait for a first confirmation to a third, while the reward",
+    "url": "https://x.com/BSCNews/status/2117734563829149824",
+    "images": [
+      "https://pbs.twimg.com/media/HWOjdGqWcAAIn_n.jpg"
     ],
     "video": null
   }
