@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793531545086-7o85pl",
-    "source": "x",
-    "ts": "2026-11-01T11:12:25.086Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 93,
-    "originTimestamp": "2026-11-01T09:39:25.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "My father would not let anyone service his plane except himself. This photo was taken in Australia. My parents were the only people to fly in a single propeller plane from South Africa, up Africa, over Asia and across the ocean to Australia, and back. Nerve-racking!!!",
-    "url": "https://x.com/elonmusk/status/2116848640102998096"
-  },
-  {
     "id": "x-1793532124531-8hqn5s",
     "source": "x",
     "ts": "2026-11-01T11:22:04.531Z",
@@ -7769,6 +7756,25 @@
     "url": "https://x.com/BSCNews/status/2117648746167316915",
     "images": [
       "https://pbs.twimg.com/media/HWNU52RW4AAWYan.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793722957684-ef9xvj",
+    "source": "x",
+    "ts": "2026-11-03T16:22:37.684Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T16:20:30.000Z",
+    "reason": "Notable security exploit involving Binance and AI.",
+    "text": "🚨 ALERT: Binance is increasing investment in AI-enabled detection after an attacker uses a compromised computer and internal AI tool to gain control over wallets.",
+    "url": "https://x.com/Cointelegraph/status/2117653151822061749",
+    "images": [
+      "https://pbs.twimg.com/media/HWNqUK6WUAADkI5.jpg",
+      "https://pbs.twimg.com/media/HWNqUYvWEAAUIuI.jpg"
     ],
     "video": null
   }
