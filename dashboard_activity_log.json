@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793524272302-8dlogx",
-    "source": "x",
-    "ts": "2026-11-01T09:11:12.302Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-01T09:07:25.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨HUGE: Goldman data shows hedge funds wiped out ALL their AI buying since 2025 in just 5 days.\n\nThe bank's prime brokerage desk saw them net sell global AI stocks for five straight sessions, reversing all their AI buying since the start of 2025.\n\nThey also sold about $20 BILLION",
-    "url": "https://x.com/coinbureau/status/2116819387856666950",
-    "images": [
-      "https://pbs.twimg.com/media/HWBz7NLaYAAeZ6k.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793524446870-y3m81c",
-    "source": "x",
-    "ts": "2026-11-01T09:14:06.870Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-01T09:07:25.000Z",
-    "reason": "No notable move or regulatory action, price is not significant based on the given range.",
-    "text": "🚨HUGE: Goldman data shows hedge funds wiped out ALL their AI buying since 2025 in just 5 days.\n\nThe bank's prime brokerage desk saw them net sell global AI stocks for five straight sessions, reversing all their AI buying since the start of 2025.\n\nThey also sold about $20 BILLION",
-    "url": "https://x.com/coinbureau/status/2116819387856666950"
-  },
-  {
-    "id": "x-1793525538635-som9cu",
-    "source": "x",
-    "ts": "2026-11-01T09:32:18.635Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T09:30:41.000Z",
-    "reason": "No notable crypto-related move or news in the tweet.",
-    "text": "🇺🇸 UPDATE: Kalshi traders put Democrats’ chances of controlling the Senate at 72%, compared with 28% for Republicans.",
-    "url": "https://x.com/Cointelegraph/status/2116825245894037691"
-  },
-  {
     "id": "x-1793525541435-wufi30",
     "source": "x",
     "ts": "2026-11-01T09:32:21.435Z",
@@ -7760,5 +7716,54 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "RowfinTools is positioning its trading platform around market analytics, multi-asset access and trade management tools. The platform supports both traditional financial instruments and cryptocurrencies, with a customisable interface for different trading strategies.",
     "url": "https://x.com/BSCNews/status/2117641326812393797"
+  },
+  {
+    "id": "x-1793721184380-ct3psw",
+    "source": "x",
+    "ts": "2026-11-03T15:53:04.380Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-03T15:49:00.000Z",
+    "reason": "New use of a token/stablecoin by a notable project.",
+    "text": "Kaspa Miners could soon power a new kind of stablecoin\n\nThe developers have revealed the technical specs of the first native proof-of-work-based digital dollar, @KaspaDollar.\n\nA decentralized oracle supported by @Kaspaunchained $KAS miners and driven by KIP-21 sequencing",
+    "url": "https://x.com/BSCNews/status/2117645225334022156",
+    "images": [
+      "https://pbs.twimg.com/media/HWNQORTW8AAvuyQ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793721188232-d4vj93",
+    "source": "x",
+    "ts": "2026-11-03T15:53:08.232Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-03T15:46:28.000Z",
+    "reason": "Notable institution responds to security concerns",
+    "text": "🚨 UPDATE: Binance says prior to recent hack, it had prevented 57 suspected North Korea-linked cyber threats in 2026 alone",
+    "url": "https://x.com/Cointelegraph/status/2117644589272043952",
+    "images": [
+      "https://pbs.twimg.com/media/HWNih-4W4AAZBVd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793721193487-ori3oe",
+    "source": "x",
+    "ts": "2026-11-03T15:53:13.487Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 54,
+    "originTimestamp": "2026-11-03T14:58:56.000Z",
+    "reason": "Noise: vague and unverifiable speculative event.",
+    "text": "吃饭的时候听说公布了，大家八卦了半天，本来以为是一个科幻动作大片，结果没想到还是连续剧，不得不佩服朝鲜黑客，竟然提前这么久就在布局。\n\n类似这样的当我以为上过，2022年被盗了十几枚 ethereum:native ，然后就一直在小心，有钱包和登陆交易所的电脑绝对不打开未知页面，甚至都不打开邮箱。",
+    "url": "https://x.com/PhyrexNi/status/2117643802232144352"
   }
 ]
