@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793568109834-sxjrlr",
-    "source": "x",
-    "ts": "2026-11-01T21:21:49.834Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-01T21:17:53.000Z",
-    "reason": "Significant fund movement and institutional response to the hack.",
-    "text": "⚡️ Binance reopened withdrawals after the $6.3B hack. Where did the money go?\n\nBinance: -$4.5B in 24h\n\nNext 10 exchanges combined: ~+$368M (OKX took most of it)\n\n₿ Coinbase +984 $BTC, Kraken +1,422 $BTC\n\nNearly 9 in 10 dollars leaving Binance didn’t land on a rival exchange.",
-    "url": "https://x.com/Cointelegraph/status/2117003215367537077",
-    "images": [
-      "https://pbs.twimg.com/media/HWEbNGOXwAAKzAX.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793568754135-swmisv",
-    "source": "x",
-    "ts": "2026-11-01T21:32:34.135Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T21:30:58.000Z",
-    "reason": "No notable move in gold price prediction.",
-    "text": "🚨 INSIGHT: Bloomberg Intelligence strategist Mike McGlone says gold may have peaked in 2026, warning that a stock market downturn could put further pressure on commodity prices.",
-    "url": "https://x.com/Cointelegraph/status/2117006507808075788"
-  },
-  {
     "id": "x-1793569933275-xctb43",
     "source": "x",
     "ts": "2026-11-01T21:52:13.275Z",
@@ -7803,5 +7772,42 @@
     "reason": "No notable move, announcement of a redeployed mobile experience.",
     "text": "We  builders are very pleased to announce deployment of our mobile native experience: every screen, every chart, every table, every function redeployed for our mobile audience.  Check it out! (Be sure to tilt your mobile device sideways for an expanded",
     "url": "https://x.com/BSCNews/status/2117709666046079307"
+  },
+  {
+    "id": "x-1793737390877-fqio41",
+    "source": "x",
+    "ts": "2026-11-03T20:23:10.877Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T20:20:29.000Z",
+    "reason": "Specific institutional action regarding crypto investments.",
+    "text": "🇺🇸 UPDATE: SK Hynix’s planned $45 billion chip investment in New York faces delays as US restrictions on China hold up export licenses.",
+    "url": "https://x.com/Cointelegraph/status/2117713549086646512",
+    "images": [
+      "https://pbs.twimg.com/media/HWOhPwyWIAAqnmj.jpg",
+      "https://pbs.twimg.com/media/HWOhP85WAAAbaan.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793737396634-oiekxw",
+    "source": "x",
+    "ts": "2026-11-03T20:23:16.634Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-03T20:16:00.000Z",
+    "reason": "Notable institutional partnership and use case for a new tokenized stock solution.",
+    "text": "Bullish picks Aptos for its tokenized stock rollout\n\n@Bullish will bring @Aptos ($APT) and @ethereum into its equity tokenization service, which already runs on @solana. Companies will be able to choose which chain their tokenized shares sit on, while the transfer agent keeps the",
+    "url": "https://x.com/BSCNews/status/2117712417903784018",
+    "images": [
+      "https://pbs.twimg.com/media/HWOX-mGW0AAZpbZ.jpg"
+    ],
+    "video": null
   }
 ]
