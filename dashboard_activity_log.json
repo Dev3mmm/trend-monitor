@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1793507551338-g314b4",
-    "source": "x",
-    "ts": "2026-11-01T04:32:31.338Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T04:30:42.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 INSIGHT: Bloomberg strategist Mike McGlone warns Bitcoin staying below $80,000 could signal further weakness against US Treasury bonds.",
-    "url": "https://x.com/Cointelegraph/status/2116749751349620779"
-  },
-  {
-    "id": "x-1793508141974-xx5pol",
-    "source": "x",
-    "ts": "2026-11-01T04:42:21.974Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-01T04:34:02.000Z",
-    "reason": "Resumption of withdrawals expected today, potentially significant for crypto users.",
-    "text": "⚡️JUST OUT: Binance announced to RESUME withdrawals in phases TODAY, starting between 06:00 and 09:00 UTC.\n\nAccess will reopen progressively as each asset and network completes security checks. Temporary delays are expected.\n\n\"PHASE ONE\" covers 15 networks, including Bitcoin,",
-    "url": "https://x.com/coinbureau/status/2116750588730077231",
-    "images": [
-      "https://pbs.twimg.com/media/HWA1V9facAAH5yv.jpg",
-      "https://pbs.twimg.com/media/HWA1Ws4aMAAiz-I.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793508712795-ubmnxk",
-    "source": "x",
-    "ts": "2026-11-01T04:51:52.795Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "PeckShieldAlert",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T04:50:42.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "#PeckShieldAlert In October 2026, the crypto industry experienced 56 major hacks, resulting in total losses of $6.48B, a ~745% month-over-month increase from September’s $766.49M.\n\nThe #Binance incident (~$6.3B, with $3B already frozen) has jumped to #1 among the largest crypto",
-    "url": "https://x.com/PeckShieldAlert/status/2116754784330072346"
-  },
-  {
     "id": "x-1793509358806-72utc8",
     "source": "x",
     "ts": "2026-11-01T05:02:38.806Z",
@@ -7767,5 +7722,49 @@
       "https://pbs.twimg.com/media/HWNM142XkAAN5F8.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793716323828-aupx14",
+    "source": "x",
+    "ts": "2026-11-03T14:32:03.829Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-03T14:31:09.000Z",
+    "reason": "New use of a token for post-launch economics analysis simulation.",
+    "text": "🔥 INSIGHT: What happens when a token’s economics fail after launch?\n\n@KenomicAI aims to identify weaknesses before deployment through simulation, connecting four modules: Design, Validate, Launch and Manage.\n\nThe platform is live on testnet, including Arbitrum.",
+    "url": "https://x.com/Cointelegraph/status/2117625634696651121",
+    "images": [
+      "https://pbs.twimg.com/media/HWNQGhVbQAENAq9.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793716327544-trwh3v",
+    "source": "x",
+    "ts": "2026-11-03T14:32:07.544Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 71,
+    "originTimestamp": "2026-11-03T13:20:55.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Get paid for every calendar day you hold $STRC.",
+    "url": "https://x.com/saylor/status/2117623917225636285"
+  },
+  {
+    "id": "x-1793716331901-3ahwbg",
+    "source": "x",
+    "ts": "2026-11-03T14:32:11.901Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 63,
+    "originTimestamp": "2026-11-03T13:28:25.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "The AI investment cycle is massive. So is the Bitcoin capital cycle.\n\nStrategy was the #1 U.S. equity issuer in 2025 and is #4 in 2026 YTD, behind only SpaceX, Alphabet, and Intel.",
+    "url": "https://x.com/saylor/status/2117623821226430848"
   }
 ]
