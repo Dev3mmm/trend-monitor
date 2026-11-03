@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793586744058-hgf4tg",
-    "source": "x",
-    "ts": "2026-11-02T02:32:24.058Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T02:30:32.000Z",
-    "reason": "No notable move or specific event is reported.",
-    "text": "🚨 NEW: Jim Cramer says market bears want to derail the Anthropic IPO. \n\nBullish or bearish sign? 👀",
-    "url": "https://x.com/Cointelegraph/status/2117081896840495183"
-  },
-  {
-    "id": "x-1793586749309-fql16n",
-    "source": "x",
-    "ts": "2026-11-02T02:32:29.309Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-02T02:23:28.000Z",
-    "reason": "Significant amount stolen and moved within a short time",
-    "text": "Binance Attacker Moved About $242 Million via Tron Within Two Days; Over $3 Billion in Stolen Assets Remain Largely Untouched\n\nAccording to on-chain analyst SomaXBT, about two days after the Binance attack, the attacker transferred approximately $242 million through Tron-related",
-    "url": "https://x.com/WuBlockchain/status/2117080117881282964",
-    "images": [
-      "https://pbs.twimg.com/media/HWFhH76bQAAIRI-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793587316252-igsd2i",
-    "source": "x",
-    "ts": "2026-11-02T02:41:56.252Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T02:39:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Here's everything you need to know about the single biggest upgrade in @SeiNetwork's history.\n\nMeet Giga ⬇️",
-    "url": "https://x.com/BSCNews/status/2117084026842599638"
-  },
-  {
     "id": "x-1793588517185-rmkice",
     "source": "x",
     "ts": "2026-11-02T03:01:57.185Z",
@@ -7807,6 +7763,56 @@
     "url": "https://x.com/Cointelegraph/status/2117738456432414861",
     "images": [
       "https://pbs.twimg.com/media/HWO35wtWcAADubl.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793744517037-45af9h",
+    "source": "x",
+    "ts": "2026-11-03T22:21:57.037Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T22:20:29.000Z",
+    "reason": "Regulatory challenge to CFTC's approval of perpetual futures on US stocks.",
+    "text": "🚨 JUST IN: A Cboe and Citadel Securities-backed group has sued the CFTC to block perpetual futures on US stocks, the same day their approval was announced.\n\nThe group argues they’re security-based swaps that fall under SEC jurisdiction, per a court filing.",
+    "url": "https://x.com/Cointelegraph/status/2117743745651101768",
+    "images": [
+      "https://pbs.twimg.com/media/HWO8tYpWgAANzBP.jpg",
+      "https://pbs.twimg.com/media/HWO8tmiXEAE80f_.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793744521314-j48bbv",
+    "source": "x",
+    "ts": "2026-11-03T22:22:01.314Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-03T22:13:42.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "We took an @AstonMartinF1 superfan to COTA and let the comments run his week in Texas.\n\nIt went exactly as you'd expect.",
+    "url": "https://x.com/coinbase/status/2117742038443794518"
+  },
+  {
+    "id": "x-1793744528517-ae7u64",
+    "source": "x",
+    "ts": "2026-11-03T22:22:08.517Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-03T22:12:00.000Z",
+    "reason": "Notable on-chain data point with specific and verifiable token burn amount.",
+    "text": "PancakeSwap’s weekly CAKE burn jumps 27%\n\n@PancakeSwap burned 365,000 $CAKE worth about $690K over the past week. The burns outpaced new tokens, for a net 214,000 CAKE removed from supply.\n\nIts v2 and v3 trading pools did most of the work, burning 154,000 and 171,000 CAKE, while",
+    "url": "https://x.com/BSCNews/status/2117741610419081533",
+    "images": [
+      "https://pbs.twimg.com/media/HWOnBxVW4AAfUOT.jpg"
     ],
     "video": null
   }
