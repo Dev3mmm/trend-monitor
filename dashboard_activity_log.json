@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1793596967476-f0uz46",
-    "source": "x",
-    "ts": "2026-11-02T05:22:47.476Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-02T05:15:37.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 INSIGHT: Bitcoin to end the year below $100,000? 👀\n\nMarkus Thielen (@markus10x), founder of 10x Research, reveals on #TRADESECRETS where he thinks $BTC will close 2026.",
-    "url": "https://x.com/Cointelegraph/status/2117123443707547699"
-  },
-  {
-    "id": "x-1793597577107-a1q7m2",
-    "source": "x",
-    "ts": "2026-11-02T05:32:57.107Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T05:30:32.000Z",
-    "reason": "The tweet contains no specific factual claim or event.",
-    "text": "🇦🇪 JUST IN: UAE and OpenAI sign four deals across government, energy and investment, as Abu Dhabi aims to become the world’s first fully AI-native government.",
-    "url": "https://x.com/Cointelegraph/status/2117127196103856323",
-    "images": [
-      "https://pbs.twimg.com/media/HWGL9LDWIAAjLKP.png",
-      "https://pbs.twimg.com/media/HWGL9vgXIAATwZd.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793597579129-0itknn",
-    "source": "x",
-    "ts": "2026-11-02T05:32:59.130Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-02T05:30:00.000Z",
-    "reason": "No notable move in crypto related to the tweet's content.",
-    "text": "🚨LATEST: Oil prices fall more than -2% as Iran &amp; Qatar talks raise hopes of an end to the U.S.- Iran war.\n\nIran held a third consecutive day of talks with Qatari mediators, easing concerns over conflict-related supply disruptions.",
-    "url": "https://x.com/coinbureau/status/2117127061236330680"
-  },
-  {
     "id": "x-1793597581768-796ko5",
     "source": "x",
     "ts": "2026-11-02T05:33:01.768Z",
@@ -7825,5 +7780,54 @@
       "https://pbs.twimg.com/media/HWPPFBFWcAAMR0g.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793749934519-gjvf9x",
+    "source": "x",
+    "ts": "2026-11-03T23:52:14.519Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T23:51:00.000Z",
+    "reason": "Holder milestone with specific data reference.",
+    "text": "PEPE just crossed 600,000 holders.\n\nAccording to data from @etherscan, the $PEPE army has just hit a major holder milestone on $ETH.\n\n@pepecoineth's total holders now stands at exactly 600,013, having grown by nearly 5,000 over the past two weeks.\n\n700,000 next...",
+    "url": "https://x.com/BSCNews/status/2117766524207501818",
+    "images": [
+      "https://pbs.twimg.com/media/HWM77S1XkAAimwW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793749941859-gcid5y",
+    "source": "x",
+    "ts": "2026-11-03T23:52:21.859Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T23:50:00.000Z",
+    "reason": "Price movement far outside recent range indicates a significant price breakout.",
+    "text": "🔥BULLISH: 7 Bitcoin mining stocks just added nearly $5 BILLION in a single day as $BTC climbs back near $78,000.\n\n1. Riot: +18.4%\n\n2. Cipher: +18.4%\n\n3. Hut 8: +15.9%\n\n4. TeraWulf: +14.5%\n\n5. CleanSpark: +14.0%\n\n6. MARA: +11.4%\n\n7. IREN: +11.1%\n\nRiot and Hut 8 both report",
+    "url": "https://x.com/coinbureau/status/2117766272855269624",
+    "images": [
+      "https://pbs.twimg.com/media/HWPB8ivbYAAKrsN.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793749945851-xuxk4w",
+    "source": "x",
+    "ts": "2026-11-03T23:52:25.851Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T23:49:45.000Z",
+    "reason": "No notable move or specific event related to crypto or blockchain technology.",
+    "text": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+    "url": "https://x.com/DecryptMedia/status/2117766209726816752"
   }
 ]
