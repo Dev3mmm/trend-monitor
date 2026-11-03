@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1793452347968-6yu5d5",
-    "source": "x",
-    "ts": "2026-10-31T13:12:27.968Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-31T13:08:06.000Z",
-    "reason": "No notable move or new information provided.",
-    "text": "Historical Bitcoin prices on Halloween 🎃\n\n2013: $200  \n2014: $340  \n2015: $314\n2016: $700 \n2017: $6,200  \n2018: $6,320  \n2019: $9,170\n2020: $13,750 \n2021: $61,840 \n2022: $20,620    \n2023: $34,500   \n2024: $72,102  \n2025: $109,604 \n2026: $77,400 \n\nHODL 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2116517571990102170"
-  },
-  {
-    "id": "x-1793452351316-etd9pd",
-    "source": "x",
-    "ts": "2026-10-31T13:12:31.316Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-10-31T13:04:39.000Z",
-    "reason": "No concrete or specific event described.",
-    "text": "Why AI Models Cheat: Reward Hacking, Explained",
-    "url": "https://x.com/DecryptMedia/status/2116516701181301207"
-  },
-  {
-    "id": "x-1793453520095-9dxtnj",
-    "source": "x",
-    "ts": "2026-10-31T13:32:00.095Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-31T13:30:49.000Z",
-    "reason": "Security incident involving a major crypto security firm.",
-    "text": "🚨 JUST IN: Chainalysis, the firm that tracks crypto hackers, just got hit by a cybersecurity incident of its own, but says it's unrelated to the Binance hack.",
-    "url": "https://x.com/Cointelegraph/status/2116523286410518832",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793453523488-0hkib0",
     "source": "x",
     "ts": "2026-10-31T13:32:03.488Z",
@@ -7760,5 +7718,49 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is impossible.\n\nAll they’ve really guaranteed is that they’ll never get a job at SpaceX.\n\nIt used to be:\n\n“You can’t build an EV that performs as well as an",
     "url": "https://x.com/elonmusk/status/2117480528618397848"
+  },
+  {
+    "id": "x-1793682701664-5ekxxb",
+    "source": "x",
+    "ts": "2026-11-03T05:11:41.664Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-03T05:11:19.000Z",
+    "reason": "New trading platform for Cardano tokens, enabling leveraged trading.",
+    "text": "Cardano Gets a New Perpetuals Trading Platform\n\nAtlas (@ATLAS_DEFI_) has opened its Beta Public Mainnet, after months of development and testing,\n\nThe launch brings leveraged trading to Cardano (@Cardano) $ADA, allowing users to take long or short positions on supported crypto",
+    "url": "https://x.com/BSCNews/status/2117484749531099430",
+    "images": [
+      "https://pbs.twimg.com/media/HWLKPjMagAEeuGU.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793682703928-x2tsyj",
+    "source": "x",
+    "ts": "2026-11-03T05:11:43.928Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T05:10:00.000Z",
+    "reason": "No notable move in crypto assets mentioned.",
+    "text": "🚨LATEST: Fundstrat’s Tom Lee says stocks are at the BOTTOM, reaffirming his year-end S&amp;P 500 target of 8,200+.\n\n“I think we are at the bottom.”\n\n“Bottoms are dangerous because you don’t know how much more downside you have at the bottom.”\n\nOn AI, Lee argues capacity constraints",
+    "url": "https://x.com/coinbureau/status/2117484415320510864"
+  },
+  {
+    "id": "x-1793682705526-ogm7aq",
+    "source": "x",
+    "ts": "2026-11-03T05:11:45.526Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 78,
+    "originTimestamp": "2026-11-03T03:53:19.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Space datacenters actually make sense",
+    "url": "https://x.com/elonmusk/status/2117482570757656836"
   }
 ]
