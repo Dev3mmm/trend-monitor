@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 LATEST: Binance has raised rebates for smaller market makers to boost liquidity after last week’s record $6.3B hack, per Bloomberg.",
-      "url": "https://x.com/Cointelegraph/status/2117406540575485972",
-      "images": [
-        "https://pbs.twimg.com/media/HWKKBvYX0AATUHF.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793664189163
-    },
-    {
       "text": "🚨 TODAY: NYSE adds Broadridge, Computershare, Equiniti and Superstate as transfer agent partners for its new tokenized securities venue, joining Securitize and tZERO.",
       "url": "https://x.com/Cointelegraph/status/2117421654603169802",
       "images": [
@@ -2616,7 +2607,16 @@
       "at": 1793671367655,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384123613461645?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 LATEST: Binance has raised rebates for smaller market makers to boost liquidity after last week’s record $6.3B hack, per Bloomberg.",
+      "final": "🚨 LATEST: Binance has raised rebates for smaller market makers to boost liquidity after last week’s record $6.3B hack, per Bloomberg.\n\n#Crypto #Binance #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HWKKBvYX0AATUHF.jpg"
+      ],
+      "at": 1793672912837,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793671367655
+  "lastPostAt": 1793672912837
 }
