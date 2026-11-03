@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793463700923-n0wn38",
-    "source": "x",
-    "ts": "2026-10-31T16:21:40.923Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Binance",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-31T14:30:04.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Update: SAFU fund transfer is complete - this was the large 7,499 $BTC transfer visible here:",
-    "url": "https://x.com/binance/status/2116564794094559407",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793464335830-cbx7gi",
-    "source": "x",
-    "ts": "2026-10-31T16:32:15.830Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-31T16:30:50.000Z",
-    "reason": "Specific and notable information about a high-level statement from CZ regarding Binance SpaceX shares.",
-    "text": "🔥 LATEST: CZ says he never said Binance would sell its SpaceX shares and only mentioned it as a proof of funds.",
-    "url": "https://x.com/Cointelegraph/status/2116568589863952590",
-    "images": [
-      "https://pbs.twimg.com/media/HV-P6k_WQAAdz6I.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793464339089-esczi1",
     "source": "x",
     "ts": "2026-10-31T16:32:19.089Z",
@@ -7773,6 +7739,37 @@
     "url": "https://x.com/BSCNews/status/2117530355267940645",
     "images": [
       "https://pbs.twimg.com/media/HWL4PtNaIAAxR_K.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793695333413-dak11s",
+    "source": "x",
+    "ts": "2026-11-03T08:42:13.413Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-03T08:38:55.000Z",
+    "reason": "No notable move in price.",
+    "text": "Top-100 crypto tokens outperformed by $KAS ?!\n\nWe analysed the performance of the $KAS token using @ElanInsights' professional analysis tool.\n\nTry now: \n\nWe mapped the performance of $KAS against crypto's largest 100 tokens over the past three months.\n\nWe",
+    "url": "https://x.com/BSCNews/status/2117536993622057241"
+  },
+  {
+    "id": "x-1793695339156-dm1idl",
+    "source": "x",
+    "ts": "2026-11-03T08:42:19.156Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-03T08:36:00.000Z",
+    "reason": "Milestone in network reliability and stability for Solana.",
+    "text": "Solana Hit 1,000 Days Without a Network Outage\n\nSolana (@solana) $SOL has reached 1,000 days without a network-wide outage. It’s a milestone for Solana, which used to experience downtime frequently.\n\nIts most recent outage was experienced in February 2023 following abnormal block",
+    "url": "https://x.com/BSCNews/status/2117536257089982904",
+    "images": [
+      "https://pbs.twimg.com/media/HWLoZc4a8AAczpZ.png"
     ],
     "video": null
   }
