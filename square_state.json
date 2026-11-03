@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792233141537-5ecaeh",
-    "x-1792236718642-5sl3kb",
     "x-1792237302467-5j399i",
     "x-1792239204343-kgk8vx",
     "x-1792241686606-2157wv",
@@ -1999,19 +1997,11 @@
     "x-1793659946576-gbm083",
     "x-1793661139437-gglyf8",
     "x-1793661804121-5p1v6o",
-    "x-1793663533536-pahzx7"
+    "x-1793663533536-pahzx7",
+    "x-1793664185456-tcgpmp",
+    "x-1793664188478-oceolk"
   ],
   "queue": [
-    {
-      "text": "🇳🇿 NEW: Revolut secures a New Zealand banking licence, fueling its global expansion and market disruption.",
-      "url": "https://x.com/Cointelegraph/status/2117366260111454677",
-      "images": [
-        "https://pbs.twimg.com/media/HWJlY4zWIAAhHP_.jpg",
-        "https://pbs.twimg.com/media/HWJlZFZWgAAaG7a.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793655078002
-    },
     {
       "text": "🔥 BIG: Coinbase is now the second-largest tokenized stock issuer by weekly DEX volume, with a 26.7% share just behind Robinhood’s 27.3%.",
       "url": "https://x.com/Cointelegraph/status/2117376354240938431",
@@ -2049,6 +2039,15 @@
       ],
       "video": null,
       "enqueuedAt": 1793663533957
+    },
+    {
+      "text": "🚨 LATEST: Binance has raised rebates for smaller market makers to boost liquidity after last week’s record $6.3B hack, per Bloomberg.",
+      "url": "https://x.com/Cointelegraph/status/2117406540575485972",
+      "images": [
+        "https://pbs.twimg.com/media/HWKKBvYX0AATUHF.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793664189163
     }
   ],
   "posted": [
@@ -2593,7 +2592,17 @@
       "at": 1793656955929,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384064583442860?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇳🇿 NEW: Revolut secures a New Zealand banking licence, fueling its global expansion and market disruption.",
+      "final": "🇳🇿 NEW: Revolut secures a New Zealand banking licence, fueling its global expansion and market disruption.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWJlY4zWIAAhHP_.jpg",
+        "https://pbs.twimg.com/media/HWJlZFZWgAAaG7a.jpg"
+      ],
+      "at": 1793664189163,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793656955929
+  "lastPostAt": 1793664189163
 }
