@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793478761706-osl87b",
-    "source": "x",
-    "ts": "2026-10-31T20:32:41.706Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-31T20:30:00.000Z",
-    "reason": "No notable move or breaking news is reported.",
-    "text": "Reddit just showed what AI is doing to the internet.\n\nIt lost over $7 BILLION in a day after warning Google's AI is cutting its traffic.\n\nIts stock closed down 29.2% on Friday, its worst day ever, and is now down 41% in eight straight sessions.\n\nThe reason came out on its",
-    "url": "https://x.com/coinbureau/status/2116628778189238665"
-  },
-  {
-    "id": "x-1793479941725-cydh6k",
-    "source": "x",
-    "ts": "2026-10-31T20:52:21.725Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 45,
-    "originTimestamp": "2026-10-31T20:07:06.000Z",
-    "reason": "No relation to cryptocurrencies or blockchain technology.",
-    "text": "BREAKING: Today, my office arrested convicted felons for voting illegally in Texas.",
-    "url": "https://x.com/elonmusk/status/2116633840525463630"
-  },
-  {
-    "id": "x-1793479947295-tndfec",
-    "source": "x",
-    "ts": "2026-10-31T20:52:27.295Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-10-31T20:43:00.000Z",
-    "reason": "Notable institutional adoption by a major player.",
-    "text": "Ondo just launched three Blackrock funds on Solana.\n\n@Ondo has announced some 7 of its Intelligent Portfolio products have now launched on the @Solana blockchain.\n\nNotably, the list includes no fewer than three such products curated by financial giant @Blackrock. \n\n$ONDO has also",
-    "url": "https://x.com/BSCNews/status/2116632049113248083",
-    "images": [
-      "https://pbs.twimg.com/media/HV4fLnTXgAARj3n.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793481717375-yh8cqu",
     "source": "x",
     "ts": "2026-10-31T21:21:57.375Z",
@@ -7776,6 +7732,51 @@
       "https://pbs.twimg.com/media/HWMbiPOWkAABavy.png",
       "https://pbs.twimg.com/media/HWMb9BAWAAAi39u.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793708523363-9ig4dl",
+    "source": "x",
+    "ts": "2026-11-03T12:22:03.363Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T12:19:17.000Z",
+    "reason": "No notable move in the recent price range.",
+    "text": "Shiny things from my followers.\n\nA win is a win.",
+    "url": "https://x.com/amerix/status/2117592448985661572"
+  },
+  {
+    "id": "x-1793708528400-ph4xz5",
+    "source": "x",
+    "ts": "2026-11-03T12:22:08.400Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-03T12:17:42.000Z",
+    "reason": "Kraken restricted accounts after reports of suspected EU crypto theft.",
+    "text": "🇪🇺 JUST IN: Kraken says it has restricted accounts while investigating reports that assets from a suspected $133M EU crypto theft passed through its platform.\n\nIt told Cointelegraph that its systems and customer accounts were not compromised.",
+    "url": "https://x.com/Cointelegraph/status/2117592050287739025",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793708532319-b1vuqr",
+    "source": "x",
+    "ts": "2026-11-03T12:22:12.319Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-03T12:16:45.000Z",
+    "reason": "Notable regulatory oversight of a significant DeFi event.",
+    "text": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+    "url": "https://x.com/DecryptMedia/status/2117591810318958772",
+    "images": [],
     "video": null
   }
 ]
