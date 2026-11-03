@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793565149694-is896l",
-    "source": "x",
-    "ts": "2026-11-01T20:32:29.694Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-01T20:30:00.000Z",
-    "reason": "No notable move in the crypto market mentioned.",
-    "text": "Aramco Closes Deal for 49% Stake in Saudi AI Company HUMAIN.\n\nAramco will put about $2.6 billion in cash into HUMAIN this year plus AI, compute and digital assets, while the Public Investment Fund keeps 51%; HUMAIN plans 3 gigawatts of AI data center capacity by 2030.",
-    "url": "https://x.com/DecryptMedia/status/2116991166508089427"
-  },
-  {
-    "id": "x-1793565153031-hgfnkz",
-    "source": "x",
-    "ts": "2026-11-01T20:32:33.031Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-01T20:29:04.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "This is what they stole from us",
-    "url": "https://x.com/elonmusk/status/2116990933103509723"
-  },
-  {
-    "id": "x-1793565156212-6r78un",
-    "source": "x",
-    "ts": "2026-11-01T20:32:36.212Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-01T20:23:37.000Z",
-    "reason": "Noise: Generic statement without actionable information.",
-    "text": "It is",
-    "url": "https://x.com/elonmusk/status/2116990378536755218"
-  },
-  {
     "id": "x-1793565718753-pt6cvv",
     "source": "x",
     "ts": "2026-11-01T20:41:58.753Z",
@@ -7775,5 +7736,52 @@
     "reason": "No notable move or concrete news event.",
     "text": "The @bitcoinconfams 🇳🇱 2026 Art Gallery is now LIVE for preview, including auction lots and fixed-price listings 👀\n\nBidding opens Thurs Nov 5 &amp; concludes Nov 7 ⏳👇",
     "url": "https://x.com/BitcoinMagazine/status/2117701994710499812"
+  },
+  {
+    "id": "x-1793735550377-1iu3ox",
+    "source": "x",
+    "ts": "2026-11-03T19:52:30.377Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-03T19:47:15.000Z",
+    "reason": "Potential security breach impacting a crypto documentation platform.",
+    "text": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+    "url": "https://x.com/DecryptMedia/status/2117705183937405438",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793735556436-yy9b15",
+    "source": "x",
+    "ts": "2026-11-03T19:52:36.436Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-03T19:47:00.000Z",
+    "reason": "New use of a token/stablecoin (smart contracts deployment on Midnight Network)",
+    "text": "Midnight Network has had a busy few weeks since opening its mainnet to developers.\n\n@MidnightNtwrk, the privacy chain backed by @IOGroup, has stacked up several milestones over the last 30 days.\n\nHere are some key developments:\n\n[Oct 5] Anyone can now deploy smart contracts on",
+    "url": "https://x.com/BSCNews/status/2117705119835824310",
+    "images": [
+      "https://pbs.twimg.com/media/HWOR1fwW0AA-kgn.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793735561254-nvj0v9",
+    "source": "x",
+    "ts": "2026-11-03T19:52:41.254Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-03T19:44:30.000Z",
+    "reason": "No notable crypto-related news in the tweet provided.",
+    "text": "Major Developer Documentation Platform GitBook Hit by AI Agent-Driven Attack, Crypto Projects' Docs Affected\n\nGitBook reported that attackers used AI agents to gain unauthorized access to some of its infrastructure credentials at 1:00 p.m. EST on November 2. The company detected",
+    "url": "https://x.com/WuBlockchain/status/2117704492699603335"
   }
 ]
