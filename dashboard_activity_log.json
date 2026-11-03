@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793582537153-ff2tsb",
-    "source": "x",
-    "ts": "2026-11-02T01:22:17.153Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-02T01:15:00.000Z",
-    "reason": "Exploit involving THORChain and Ethereum native token payout.",
-    "text": "🚨 NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.",
-    "url": "https://x.com/Cointelegraph/status/2117062887735009532",
-    "images": [
-      "https://pbs.twimg.com/media/HWFLsk8a0AAhI_n.png",
-      "https://pbs.twimg.com/media/HWFLsq0bYAAgAC-.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793583140043-umbpjn",
     "source": "x",
     "ts": "2026-11-02T01:32:20.043Z",
@@ -7790,5 +7771,23 @@
     "reason": "No notable move, prices are speculative and not verifiable.",
     "text": "JUST IN: AMD $AMD and Super Micro $SMCI just added over $50 BILLION in market value after hours.\n\nAMD posted RECORD Q3 sales of $13.4 BILLION and now expects about $17 BILLION next quarter, up 66% from a year ago.\n\nSuper Micro made $19.9 BILLION in ONE quarter, almost its ENTIRE",
     "url": "https://x.com/coinbureau/status/2117729299851858289"
+  },
+  {
+    "id": "x-1793742154663-fy4m4a",
+    "source": "x",
+    "ts": "2026-11-03T21:42:34.663Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T21:40:28.000Z",
+    "reason": "The tweet provides insights but no new, verifiable data.",
+    "text": "🇺🇸 INSIGHT: Bitcoin has gained an average median return of 63% in the 12 months following every US midterm election since 2010, according to CryptoQuant.\n\nBTC rose 36.8% after the 2014 midterms, 45.8% after 2018, and 80.8% after 2022.\n\nHowever, CryptoQuant warns the pattern may",
+    "url": "https://x.com/Cointelegraph/status/2117733677023056074",
+    "images": [
+      "https://pbs.twimg.com/media/HWOzjaGXMAAk8Mm.jpg"
+    ],
+    "video": null
   }
 ]
