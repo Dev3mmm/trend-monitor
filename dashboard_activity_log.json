@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793455385171-6waj5e",
-    "source": "x",
-    "ts": "2026-10-31T14:03:05.171Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-10-31T14:00:01.000Z",
-    "reason": "Foundation announcement of burning a significant portion of a token's supply.",
-    "text": "Recall Foundation Winds Down, Will Burn About 358.6 Million RECALL Tokens.\n\nThe foundation said continued development \"is not commercially viable\" and that it will burn about 35.86% of total supply, with no buyback, redemption or distribution for holders.",
-    "url": "https://x.com/DecryptMedia/status/2116530636492013938",
-    "images": [
-      "https://pbs.twimg.com/media/HV83OHlXIAA8p9a.png",
-      "https://pbs.twimg.com/media/HV833HkXoAAZblc.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793455389554-93qt2a",
-    "source": "x",
-    "ts": "2026-10-31T14:03:09.554Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 28,
-    "originTimestamp": "2026-10-31T13:34:00.000Z",
-    "reason": "The tweet contains irrelevant and nonsensical content.",
-    "text": "Talarico wants to open the borders and legalize everyone to gain a permanent majority to end democracy in America",
-    "url": "https://x.com/elonmusk/status/2116530550831780131"
-  },
-  {
     "id": "x-1793455393435-3clnyt",
     "source": "x",
     "ts": "2026-10-31T14:03:13.435Z",
@@ -7761,6 +7729,44 @@
     "url": "https://x.com/BSCNews/status/2117492938301399476",
     "images": [
       "https://pbs.twimg.com/media/HWLIzx5a4AAgP70.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793685791515-9xu3fv",
+    "source": "x",
+    "ts": "2026-11-03T06:03:11.515Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-03T06:00:00.000Z",
+    "reason": "The tweet is vague and lacks specific details, not a notable news event.",
+    "text": "🇬🇧 NEW: UK’s National Cyber Security Centre warns the country should expect an AI-powered cyberattack on its critical infrastructure within two years, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2117496998475739570",
+    "images": [
+      "https://pbs.twimg.com/media/HWLB_-5asAA1jAX.jpg",
+      "https://pbs.twimg.com/media/HWLCAAFakAAOxYE.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793685797775-bg6or7",
+    "source": "x",
+    "ts": "2026-11-03T06:03:17.775Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-03T05:55:41.000Z",
+    "reason": "North Korean hackers' estimated laundering timeline and remaining funds are noteworthy newsworthy information.",
+    "text": "🚨 NEW: North Korean hackers behind last week’s $6.3B Binance heist could need months to launder the stolen crypto, with about $3.3B still under their control, per FT.",
+    "url": "https://x.com/Cointelegraph/status/2117495914000695555",
+    "images": [
+      "https://pbs.twimg.com/media/HWLbB9jbIAAZV4V.jpg",
+      "https://pbs.twimg.com/media/HWLbB7PbUAAqP5j.jpg"
     ],
     "video": null
   }
