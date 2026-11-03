@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793463697401-kq3wqr",
-    "source": "x",
-    "ts": "2026-10-31T16:21:37.401Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-31T16:20:00.000Z",
-    "reason": "Noteworthy institutional backing and partnership in financial derivatives.",
-    "text": "🚨MASSIVE: Wall Street legend Stan Druckenmiller backs the company bringing Hyperliquid-powered futures to the U.S\n\nIn his first-ever X post, he disclosed an investment in trade[XYZ], which is partnering with NYSE owner ICE to bring Hyperliquid-powered, 24/7 perpetual futures to",
-    "url": "https://x.com/coinbureau/status/2116565862937498057",
-    "images": [
-      "https://pbs.twimg.com/media/HV93tU9bcAArSNR.jpg",
-      "https://pbs.twimg.com/media/HV93tUuaoAABPfH.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793463698805-gddr1j",
-    "source": "x",
-    "ts": "2026-10-31T16:21:38.805Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 111,
-    "originTimestamp": "2026-10-31T14:30:04.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Detailed FAQ 👇",
-    "url": "https://x.com/cz_binance/status/2116565758058885138"
-  },
-  {
     "id": "x-1793463700923-n0wn38",
     "source": "x",
     "ts": "2026-10-31T16:21:40.923Z",
@@ -7773,5 +7741,39 @@
     "reason": "No notable move or specific event.",
     "text": "🚨 VITALIK: “We really need to treat data as toxic waste by default.” \n\nAt Devcon Mumbai, he calls for open-source tech and zero-knowledge proofs to protect privacy and reduce reliance on trust.",
     "url": "https://x.com/Cointelegraph/status/2117529066668765284"
+  },
+  {
+    "id": "x-1793694218850-pqyvbp",
+    "source": "x",
+    "ts": "2026-11-03T08:23:38.850Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 98,
+    "originTimestamp": "2026-11-03T06:45:07.000Z",
+    "reason": "Binance liquidity imbalance suggests potential risk in high DEX trading volumes.",
+    "text": "Binance hourly deposits EXCEED withdrawals. 👀\n\nAccording to public reports, only 6-10% of withdrawals went to other CEX. Majority went to self-custody wallets, and have not interacted with a DEX yet. Stay safe. 🙏",
+    "url": "https://x.com/cz_binance/status/2117532388641136767",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793694224525-1ywqpu",
+    "source": "x",
+    "ts": "2026-11-03T08:23:44.525Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-03T08:12:33.000Z",
+    "reason": "Significant network burn rate exceeding expectations.",
+    "text": "Aptos is Burning APT Faster Than Many Expected\n\nAptos (@Aptos) $APT has permanently burned 2 million APT since its mainnet launch. \n\nThe network burned another 170,100 APT over the past 30 days. Its annualized burn rate currently stands at 2 million APT. \n\nAptos also reports",
+    "url": "https://x.com/BSCNews/status/2117530355267940645",
+    "images": [
+      "https://pbs.twimg.com/media/HWL4PtNaIAAxR_K.png"
+    ],
+    "video": null
   }
 ]
