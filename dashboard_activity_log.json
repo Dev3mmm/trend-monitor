@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793475135660-civ1cs",
-    "source": "x",
-    "ts": "2026-10-31T19:32:15.660Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-31T19:30:43.000Z",
-    "reason": "Notable exploit involving BTC holders dumping coins at a loss.",
-    "text": "🚨 REKT: Short-term $BTC holders dumped over 36,600 BTC onto exchanges at a loss in 24 hours after Bitcoin tested $76K, per CryptoQuant analyst Darkfost.",
-    "url": "https://x.com/Cointelegraph/status/2116613859192537399",
-    "images": [
-      "https://pbs.twimg.com/media/HV-5FZ0XYAAtDpV.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793475717893-kqpvgv",
-    "source": "x",
-    "ts": "2026-10-31T19:41:57.893Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 22,
-    "originTimestamp": "2026-10-31T19:19:17.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Grok Bot is the most useful app on my phone right now.",
-    "url": "https://x.com/elonmusk/status/2116615575791116356"
-  },
-  {
     "id": "x-1793475721225-t26yoo",
     "source": "x",
     "ts": "2026-10-31T19:42:01.225Z",
@@ -7766,5 +7735,34 @@
     "reason": "No concrete financial or crypto-related news.",
     "text": "Trump LOSING the midterm is the WORST for US stocks.\n\nHere's what JPMorgan sees happening to the S&amp;P 500:\n\n- Dem win both (73% odds): -0.25% to +0.50%\n\n- GOP win both (7% odds): +1.00% to +1.25%\n\n- Dem House / GOP Senate (22% odds): +0.50% to +1.00%\n\n- GOP House / Dem Senate (1%",
     "url": "https://x.com/coinbureau/status/2117574469871112442"
+  },
+  {
+    "id": "x-1793705489553-gx14y1",
+    "source": "x",
+    "ts": "2026-11-03T11:31:29.553Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T11:30:00.000Z",
+    "reason": "No notable move in the crypto market.",
+    "text": "OpenAI Hires Former Army Secretary Dan Driscoll for National Security Role.\n\nOpenAI has appointed former US Army Secretary Dan Driscoll to a newly created role of Senior Counselor for National Security Modernization, advising on how AI can strengthen national and cyber security",
+    "url": "https://x.com/DecryptMedia/status/2117580046047330765"
+  },
+  {
+    "id": "x-1793705491983-ewkndk",
+    "source": "x",
+    "ts": "2026-11-03T11:31:31.983Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-03T11:23:30.000Z",
+    "reason": "Notable exploit recovery event with real-world impact on crypto infrastructure.",
+    "text": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+    "url": "https://x.com/DecryptMedia/status/2117578409681301694",
+    "images": [],
+    "video": null
   }
 ]
