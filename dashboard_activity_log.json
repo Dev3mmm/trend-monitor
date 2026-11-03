@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793563923193-9627bl",
-    "source": "x",
-    "ts": "2026-11-01T20:12:03.193Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-01T20:09:06.000Z",
-    "reason": "No factual claim or specific event mentioned.",
-    "text": "The people deserve to have their RAM too!",
-    "url": "https://x.com/elonmusk/status/2116985908268572975"
-  },
-  {
-    "id": "x-1793565144800-2bowej",
-    "source": "x",
-    "ts": "2026-11-01T20:32:24.800Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-01T20:30:59.000Z",
-    "reason": "No notable crypto-related event or movement.",
-    "text": "🚨 BIG: Social Security retirement benefits could fall by roughly $500 a month on average in 2032 if Congress fails to act, according to projections cited by CNBC.",
-    "url": "https://x.com/Cointelegraph/status/2116991412122038465"
-  },
-  {
     "id": "x-1793565149694-is896l",
     "source": "x",
     "ts": "2026-11-01T20:32:29.694Z",
@@ -7769,5 +7743,37 @@
     "url": "https://x.com/DecryptMedia/status/2117697633166696676",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793734960933-tw2xjn",
+    "source": "x",
+    "ts": "2026-11-03T19:42:40.933Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T19:40:29.000Z",
+    "reason": "Notable growth in TRON's stablecoin network.",
+    "text": "🔥 BIG: trondao reports TRON leads stablecoin growth with $256.5M added over seven days, more than double the next closest network.",
+    "url": "https://x.com/Cointelegraph/status/2117703482413113783",
+    "images": [
+      "https://pbs.twimg.com/media/HWOYFwkWQAEDOYE.jpg",
+      "https://pbs.twimg.com/media/HWOYF-uXYAAERGa.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793734965250-yh1ix3",
+    "source": "x",
+    "ts": "2026-11-03T19:42:45.250Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 112,
+    "originTimestamp": "2026-11-03T17:50:16.000Z",
+    "reason": "No notable move or concrete news event.",
+    "text": "The @bitcoinconfams 🇳🇱 2026 Art Gallery is now LIVE for preview, including auction lots and fixed-price listings 👀\n\nBidding opens Thurs Nov 5 &amp; concludes Nov 7 ⏳👇",
+    "url": "https://x.com/BitcoinMagazine/status/2117701994710499812"
   }
 ]
