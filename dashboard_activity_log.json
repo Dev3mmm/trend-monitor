@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793514724767-t1rav2",
-    "source": "x",
-    "ts": "2026-11-01T06:32:04.767Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-01T06:20:36.000Z",
-    "reason": "No notable move detected; withdrawal announcement is common and not newsworthy.",
-    "text": "BTC withdrawal is live.",
-    "url": "https://x.com/cz_binance/status/2116778339918877033"
-  },
-  {
-    "id": "x-1793515955299-7vfvo2",
-    "source": "x",
-    "ts": "2026-11-01T06:52:35.299Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-01T06:44:31.000Z",
-    "reason": "No notable crypto-related news or event.",
-    "text": "⚠️ALARMING: Using an OLD iPhone as a cold wallet may not be as safe as you think, OneKey founder Yishi Wang warns.\n\nFollowing several public iPhone jailbreak demos over the past two weeks, he highlighted a risk for crypto holders.\n\nWiping the device and enabling airplane mode",
-    "url": "https://x.com/coinbureau/status/2116783425893855614"
-  },
-  {
-    "id": "x-1793517739575-x3zvn5",
-    "source": "x",
-    "ts": "2026-11-01T07:22:19.575Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-01T07:18:07.000Z",
-    "reason": "No notable move or event described.",
-    "text": "Things are currently running fairly smoothly. If there are many withdrawal requests, congestion cannot be ruled out, after which it will smooth out again. Before withdrawing, please carefully check the address and confirm the security of any new device and environment. Safety",
-    "url": "https://x.com/cz_binance/status/2116792667929780456"
-  },
-  {
     "id": "x-1793518374637-fvkhev",
     "source": "x",
     "ts": "2026-11-01T07:32:54.637Z",
@@ -7754,6 +7715,51 @@
     "url": "https://x.com/BSCNews/status/2117628363900854555",
     "images": [
       "https://pbs.twimg.com/media/HWNSqfpXsAABW89.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793718151325-oo4oon",
+    "source": "x",
+    "ts": "2026-11-03T15:02:31.325Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T15:00:34.000Z",
+    "reason": "Prediction/price call with no basis given",
+    "text": "⚡️ INSIGHT: Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
+    "url": "https://x.com/Cointelegraph/status/2117633037584187643"
+  },
+  {
+    "id": "x-1793718157132-jmb3th",
+    "source": "x",
+    "ts": "2026-11-03T15:02:37.132Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T15:00:03.000Z",
+    "reason": "No notable move or newsworthy event is indicated.",
+    "text": "19 MIDTERMS. Stocks gained a year later EVERY TIME.\n\nFrom 1950 through 2022, the S&amp;P 500 averaged +16.6% over BNY’s post-midterm measurement window, starting October 31st.\n\n- The weakest gain was +3.0% after 2014\n- The strongest gain was +33.6% after 1954\n\nMidterms also beat",
+    "url": "https://x.com/coinbureau/status/2117632905690173656"
+  },
+  {
+    "id": "x-1793718162282-3cggik",
+    "source": "x",
+    "ts": "2026-11-03T15:02:42.282Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-03T15:00:02.000Z",
+    "reason": "Notable change in token issuance policy.",
+    "text": "NEAR Token Holders Vote to Cut Maximum Annual Issuance to 1.6%.\n\nNEAR's House of Stake governance body voted to lower maximum annual issuance from 2.5% to 1.6% over 24 months, pending Security Council review, a 90-day grace period and a validator protocol upgrade.",
+    "url": "https://x.com/DecryptMedia/status/2117632902704025819",
+    "images": [
+      "https://pbs.twimg.com/media/HWMewWBWAAAYTeq.png",
+      "https://pbs.twimg.com/media/HWMe43LXQAAJqID.png"
     ],
     "video": null
   }
