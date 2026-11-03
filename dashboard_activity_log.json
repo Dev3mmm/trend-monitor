@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1793482324862-3ed8s1",
-    "source": "x",
-    "ts": "2026-10-31T21:32:04.862Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-10-31T21:30:39.000Z",
-    "reason": "Crypto groups investing heavily in political campaigns.",
-    "text": "🚨🇺🇸 BIG: Crypto groups have put over $200M into the 2026 midterms, the largest wave of single-issue super PAC money in US history.",
-    "url": "https://x.com/Cointelegraph/status/2116644042943455658",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793482925614-gvvq5a",
-    "source": "x",
-    "ts": "2026-10-31T21:42:05.614Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-10-31T21:37:59.000Z",
-    "reason": "No factual claim or concrete evidence provided.",
-    "text": "🚨BREAKING: FBI officially confirms North Korea was behind the $6.3 BILLION attack on Binance.\n\nThe FBI says North Korea was responsible for stealing more than $6 BILLION in crypto from Binance on or around October 29.\n\nIt blames the same hacking group it calls TraderTraitor,",
-    "url": "https://x.com/coinbureau/status/2116645886403223892"
-  },
-  {
-    "id": "x-1793483550617-xlvyjx",
-    "source": "x",
-    "ts": "2026-10-31T21:52:30.617Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-10-31T21:41:40.000Z",
-    "reason": "Specific attribution of a significant hack to a nation-state actor.",
-    "text": "🇰🇵 HUGE: The FBI has attributed the $6 billion-plus Binance hack to North Korea’s TraderTraitor group.",
-    "url": "https://x.com/Cointelegraph/status/2116646812283027655",
-    "images": [
-      "https://pbs.twimg.com/media/HV_XDgHXkAA73SC.jpg",
-      "https://pbs.twimg.com/media/HV_XDq-XwAArF_Z.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793484128304-xsqn00",
     "source": "x",
     "ts": "2026-10-31T22:02:08.304Z",
@@ -7777,6 +7729,62 @@
     "images": [
       "https://pbs.twimg.com/media/HWMu66sakAA-zwQ.jpg",
       "https://pbs.twimg.com/media/HWMu7FvbEAAm5MZ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793709779091-h4ke5a",
+    "source": "x",
+    "ts": "2026-11-03T12:42:59.091Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-03T12:41:45.000Z",
+    "reason": "South Korea considering stricter cold storage requirements for crypto exchanges",
+    "text": "South Korea Considers Raising Crypto Exchanges' Cold Wallet Requirement to 99% Following Binance Hack\n\nAccording to News1, South Korea’s Financial Services Commission is considering raising the minimum cold wallet storage requirement for crypto exchanges from 80% to around 99%",
+    "url": "https://x.com/WuBlockchain/status/2117598104707088672",
+    "images": [
+      "https://pbs.twimg.com/media/HWM4IurbUAA4LRq.jpg",
+      "https://pbs.twimg.com/media/HWM4JfEagAAfaGM.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793709784646-stfbny",
+    "source": "x",
+    "ts": "2026-11-03T12:43:04.646Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-03T12:35:28.000Z",
+    "reason": "Notable institutional adoption and payment test for a new feature.",
+    "text": "InterLink’s Merchant App Clears Its ITLG Payment Test Ahead of Mainnet\n\nThe Linkers Map app (@LinkersMap) has passed the $ITLG payment test-phase validation. This is the last phase before its mainnet launch.\n\nThis new feature includes a dual-asset checkout, in addition to",
+    "url": "https://x.com/BSCNews/status/2117596520102908135",
+    "images": [
+      "https://pbs.twimg.com/media/HWM2xywWsAAegkB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793709790710-u8k722",
+    "source": "x",
+    "ts": "2026-11-03T12:43:10.710Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-03T12:35:09.000Z",
+    "reason": "Tether holding significant amount of BTC worth billions",
+    "text": "🔥BIG: Tether holds about 150,000 BTC worth $11.5 BILLION, CEO Paolo Ardoino reveals.\n\nThat tops every public company on BitcoinTreasuries’ list except Strategy, which holds 849,327 BTC, about 5.7 times as much.\n\nPrivately held Tether sits outside the ranking.\n\nThe figure is",
+    "url": "https://x.com/coinbureau/status/2117596440436588986",
+    "images": [
+      "https://pbs.twimg.com/media/HWM2k1MaYAAhQ-r.jpg",
+      "https://pbs.twimg.com/media/HWM2qQSa4AAl5nj.png"
     ],
     "video": null
   }
