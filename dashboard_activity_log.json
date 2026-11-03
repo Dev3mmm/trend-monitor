@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793428927334-a31yol",
-    "source": "x",
-    "ts": "2026-10-31T06:42:07.334Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 88,
-    "originTimestamp": "2026-10-31T05:13:48.000Z",
-    "reason": "Noise: meme without factual content.",
-    "text": "Bone voyage",
-    "url": "https://x.com/elonmusk/status/2116417736012071264"
-  },
-  {
     "id": "x-1793429527897-ale91r",
     "source": "x",
     "ts": "2026-10-31T06:52:07.897Z",
@@ -7754,5 +7741,24 @@
     "reason": "No notable move or specific event described.",
     "text": "₿on appétit.",
     "url": "https://x.com/saylor/status/2117420029037940825"
+  },
+  {
+    "id": "x-1793668330160-sz19xv",
+    "source": "x",
+    "ts": "2026-11-03T01:12:10.160Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-03T01:08:26.000Z",
+    "reason": "Specific information about Tether's Bitcoin holdings.",
+    "text": "Tether CEO Says Company Owns Approximately 150,000 Bitcoin\n\nTether CEO Paolo Ardoino said during his keynote at the Plan ₿ Forum in Lugano that the company owns approximately 150,000 BTC. He also claimed that Tether serves more than 730 million users globally, adding around 30",
+    "url": "https://x.com/WuBlockchain/status/2117423625661976942",
+    "images": [
+      "https://pbs.twimg.com/media/HWKZjZ4bEAAXO_X.jpg",
+      "https://pbs.twimg.com/media/HWKZjm8bsAAz-Qn.jpg"
+    ],
+    "video": null
   }
 ]
