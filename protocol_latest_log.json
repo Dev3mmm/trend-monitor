@@ -2682,5 +2682,19 @@
     "fetchedAt": "2026-11-03T03:22:28.900Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-3b46b4811e8dec35",
+    "title": "Super Cardano, a token terminal and explorer on its own node (feedback welcome)",
+    "url": "https://forum.cardano.org/t/super-cardano-a-token-terminal-and-explorer-on-its-own-node-feedback-welcome/157680",
+    "description": "Hi all, I’ve been building Super Cardano, a token terminal and chain explorer that runs on its own cardano-node and indexer. Project introduction Name: Super Cardano Description: A token screener with our own charts, holders grouped by stake key, risk checks per token, a wallet lookup (Analyze) that doesn’t ask you to connect a wallet, governance pages and a block visualiser. It’s free and in 13 l",
+    "publishedAt": "2026-11-03T06:16:28.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-03T06:22:18.241Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
