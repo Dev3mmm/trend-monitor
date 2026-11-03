@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 ALERT: According to Onchain Lens, an address linked to the Binance hacker deposited 8,567 $SOL worth approximately $798,000 into privacy mixer Privacy Cash to launder stolen funds.",
-      "url": "https://x.com/Cointelegraph/status/2117675799004184695",
-      "images": [
-        "https://pbs.twimg.com/media/HWN-6eFW4AAhmRI.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793728359715
-    },
-    {
       "text": "🚨 ALERT: Mercado Bitcoin has blocked $12.9M in affected crypto assets and paused its platform during the investigation.",
       "url": "https://x.com/Cointelegraph/status/2117675329477124571",
       "images": [
@@ -2732,7 +2723,16 @@
       "at": 1793728940611,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384359459813160?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: According to Onchain Lens, an address linked to the Binance hacker deposited 8,567 $SOL worth approximately $798,000 into privacy mixer Privacy Cash to launder stolen funds.",
+      "final": "🚨 ALERT: According to Onchain Lens, an address linked to the Binance hacker deposited 8,567 $SOL worth approximately $798,000 into privacy mixer Privacy Cash to launder stolen funds.\n\n#Solana $SOL #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HWN-6eFW4AAhmRI.jpg"
+      ],
+      "at": 1793730750242,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793728940611
+  "lastPostAt": 1793730750242
 }
