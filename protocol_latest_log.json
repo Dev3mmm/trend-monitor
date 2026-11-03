@@ -2654,5 +2654,19 @@
     "fetchedAt": "2026-11-02T19:52:53.814Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-5078d16196c4b885",
+    "title": "How ZK voting on Cardano works: what the contracts guarantee, and where it stops",
+    "url": "https://forum.cardano.org/t/how-zk-voting-on-cardano-works-what-the-contracts-guarantee-and-where-it-stops/157678",
+    "description": "We built an open-source zero-knowledge voting protocol on Cardano L1: a port of Semaphore to BLS12-381 with Plutus v3 validators written in Aiken, plus a hosted app on Mainnet and Preprod. This post walks through the mechanism and says precisely what is enforced by the chain, what is enforced by the application, and what is not enforced at all. Identity On registration, the voter’s browser draws t",
+    "publishedAt": "2026-11-03T02:46:03.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-03T02:53:09.337Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
