@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793667760672-aavykq",
-    "source": "x",
-    "ts": "2026-11-03T01:02:40.672Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-03T00:58:41.000Z",
-    "reason": "Noise: generic hype without real content.",
-    "text": "Nothing like an awesome Steak 🥩 after three Oranges 🍊",
-    "url": "https://x.com/saylor/status/2117421482116792613"
-  },
-  {
     "id": "x-1793667763543-bt391j",
     "source": "x",
     "ts": "2026-11-03T01:02:43.543Z",
@@ -7860,6 +7847,22 @@
     "images": [
       "https://pbs.twimg.com/media/HWTZJ7gXkAABFix.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793822563441-046l64",
+    "source": "x",
+    "ts": "2026-11-04T20:02:43.441Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-04T19:58:30.000Z",
+    "reason": "No notable move; likely a generic regulatory update.",
+    "text": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+    "url": "https://x.com/DecryptMedia/status/2118070401855070502",
+    "images": [],
     "video": null
   }
 ]
