@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793633771624-nubfel",
-    "source": "x",
-    "ts": "2026-11-02T15:36:11.624Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-02T15:25:53.000Z",
-    "reason": "Tether's response to a security incident involving USDT.",
-    "text": "Tether Freezes Over 4.5M USDT Tied to Mercado Bitcoin Security Incident.\n\nTether CEO Paolo Ardoino announced the freeze after the Brazilian exchange said it had contained an overnight security incident with no customer losses or data leak and temporarily suspended deposits and",
-    "url": "https://x.com/DecryptMedia/status/2117277018962223375",
-    "images": [
-      "https://pbs.twimg.com/media/HWIT0MGWMAAvLvp.png",
-      "https://pbs.twimg.com/media/HWIT2RGXIAAXnxs.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793633775158-h03wnx",
-    "source": "x",
-    "ts": "2026-11-02T15:36:15.158Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 17,
-    "originTimestamp": "2026-11-02T15:18:37.000Z",
-    "reason": "Notable institutional adoption by Wall Street in the DeFi space.",
-    "text": "Injective Gives Wall Street Its Own Fast Lane\n\n@Injective has announced the launch of the Injective Institutional Rail, giving financial firms, prime brokers, and institutional trading desks API access to validator block production.\n\nThe platform leverages enterprise validators",
-    "url": "https://x.com/BSCNews/status/2117275193961828827",
-    "images": [
-      "https://pbs.twimg.com/media/HWISjFcXwAAO-aR.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793633778512-2qon79",
     "source": "x",
     "ts": "2026-11-02T15:36:18.512Z",
@@ -7884,6 +7847,35 @@
     "images": [
       "https://pbs.twimg.com/media/HWR-x2HWwAA4-DC.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793796762667-rkokzv",
+    "source": "x",
+    "ts": "2026-11-04T12:52:42.667Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T12:51:38.000Z",
+    "reason": "No crypto-related content.",
+    "text": "Trump Says \"Iran Was a Piece of It\" in Explaining Republican Midterm Losses.\n\nExplaining the Republican losses, President Trump told The Wall Street Journal on Tuesday night that \"Iran was a piece of it\" and \"the biggest issue is that I wasn't on the ballot.\"",
+    "url": "https://x.com/DecryptMedia/status/2117962977966186804"
+  },
+  {
+    "id": "x-1793796766138-42ks8o",
+    "source": "x",
+    "ts": "2026-11-04T12:52:46.138Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T12:45:15.000Z",
+    "reason": "Notable move involving a major USDC issuer affecting token stability and management.",
+    "text": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
+    "url": "https://x.com/DecryptMedia/status/2117961370431857023",
+    "images": [],
     "video": null
   }
 ]
