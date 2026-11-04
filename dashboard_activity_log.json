@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793599337632-klddul",
-    "source": "x",
-    "ts": "2026-11-02T06:02:17.632Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T06:00:28.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "🚨  INSIGHT: Billions fled Binance after it reopened withdrawals but “98% chose to stay,” said CZ. THORChain co-founder strongly opposes halting the protocol to comply with FBI demands. \n\nThis week in Hodler's Digest.",
-    "url": "https://x.com/Cointelegraph/status/2117134729996644424"
-  },
-  {
-    "id": "x-1793599342106-9ddjbr",
-    "source": "x",
-    "ts": "2026-11-02T06:02:22.106Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-02T05:55:45.000Z",
-    "reason": "Arbitrum's stablecoin transfer volume shows a significant increase.",
-    "text": "Arbitrum is Pulling Ahead in The Stablecoin Race\n\nArbitrum (@arbitrum) $ARB recorded a $5.1 billion increase in stablecoin transfer volume over the past seven days, according to Token Terminal data dated November 1.\n\nThe growth comes as more stablecoin activity reaches the",
-    "url": "https://x.com/BSCNews/status/2117133543692460309",
-    "images": [
-      "https://pbs.twimg.com/media/HWGRjMRbUAAdGKZ.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793601186371-3n6txv",
     "source": "x",
     "ts": "2026-11-02T06:33:06.371Z",
@@ -7824,5 +7793,42 @@
     "reason": "No notable crypto-related news.",
     "text": "🇺🇸🇮🇷 JUST IN: Trump says the US has no immediate plans to strike Iran and appears content with the current stand-off, per FT.",
     "url": "https://x.com/Cointelegraph/status/2117769431921082867"
+  },
+  {
+    "id": "x-1793752305011-dkc6ro",
+    "source": "x",
+    "ts": "2026-11-04T00:31:45.011Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T00:30:46.000Z",
+    "reason": "Elon Musk's company blocks tokenized shares on crypto exchange, raising regulatory concerns.",
+    "text": "🚨 LATEST: Elon Musk’s SpaceX blocks tokenized versions of its shares on OKXICE, as it becomes one of 56 companies to object alongside Tesla and Amazon.",
+    "url": "https://x.com/Cointelegraph/status/2117776531980210233",
+    "images": [
+      "https://pbs.twimg.com/media/HWPahktXYAAozo7.jpg",
+      "https://pbs.twimg.com/media/HWPaiEqW8AAhe1k.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793752307565-gky3kd",
+    "source": "x",
+    "ts": "2026-11-04T00:31:47.565Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T00:24:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Stellar adds $127M in tokenised funds in a single day.\n\nWhat a way to start the week for @StellarOrg.\n\nAccording to The @RWAFoundation_, Stellar's blockchain added an outrageous $126.5M worth of tokenised fund assets in a single 24-hour period.\n\nThis works out to some 2.6x more",
+    "url": "https://x.com/BSCNews/status/2117774828971180116",
+    "images": [
+      "https://pbs.twimg.com/media/HWM7_MYXAAEGehc.jpg"
+    ],
+    "video": null
   }
 ]
