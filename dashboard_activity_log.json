@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793625138466-hc55c2",
-    "source": "x",
-    "ts": "2026-11-02T13:12:18.466Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 46,
-    "originTimestamp": "2026-11-02T12:25:53.000Z",
-    "reason": "Noise: Generic statement with no real content.",
-    "text": "👀",
-    "url": "https://x.com/cz_binance/status/2117241088054616201"
-  },
-  {
-    "id": "x-1793625700081-mzifwl",
-    "source": "x",
-    "ts": "2026-11-02T13:21:40.081Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T13:20:45.000Z",
-    "reason": "Specific institutional move in Bitcoin purchases.",
-    "text": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-    "url": "https://x.com/DecryptMedia/status/2117245528471740719",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793625702771-9jhsxt",
     "source": "x",
     "ts": "2026-11-02T13:21:42.771Z",
@@ -7864,5 +7835,36 @@
       "https://pbs.twimg.com/media/HWQ4vabWsAEClve.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793778123316-s8nhlh",
+    "source": "x",
+    "ts": "2026-11-04T07:42:03.316Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T07:40:54.000Z",
+    "reason": "Noteworthy ETF outflows signaling potential market sentiment.",
+    "text": "According to SoSoValue data, U.S. Bitcoin spot ETFs recorded a total net outflow of $116 million on November 3 EST, marking 3 consecutive days of net outflows. Meanwhile, Ethereum spot ETFs saw a total net outflow of $85.3462 million yesterday, extending their net outflow streak",
+    "url": "https://x.com/WuBlockchain/status/2117884777646993476",
+    "images": [
+      "https://pbs.twimg.com/media/HWQ8fdFboAAcmns.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793778127723-rrw5ug",
+    "source": "x",
+    "ts": "2026-11-04T07:42:07.723Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T07:40:43.000Z",
+    "reason": "No notable move or specific event related to crypto.",
+    "text": "🇺🇸 INSIGHT: US national debt sits at $40.5 trillion, up 75% from $23.2 trillion at the start of 2020, per Treasury data.",
+    "url": "https://x.com/Cointelegraph/status/2117884733430403350"
   }
 ]
