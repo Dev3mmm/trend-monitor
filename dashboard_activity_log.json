@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793629342867-6wkuyg",
-    "source": "x",
-    "ts": "2026-11-02T14:22:22.867Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T14:20:19.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨ALERT: U.S. oil plunges 7% below $98 a barrel and Brent falls 5% as hopes for a U.S.–Iran deal grow.\n\nIran’s President Pezeshkian says, “We will attempt to resolve the issue through dialogue.” \n\nThe Supreme Leader has granted the government specific powers for negotiations.",
-    "url": "https://x.com/coinbureau/status/2117260518729961521"
-  },
-  {
-    "id": "x-1793629346162-bse5xq",
-    "source": "x",
-    "ts": "2026-11-02T14:22:26.162Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T14:20:17.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Exchange Hacks, Quantum Threats &amp; Self-Custody: Is Your Bitcoin Safe? [Ft. Cory Klippsten]",
-    "url": "https://x.com/Cointelegraph/status/2117260513197351284"
-  },
-  {
     "id": "x-1793629349367-hegrcb",
     "source": "x",
     "ts": "2026-11-02T14:22:29.367Z",
@@ -7846,5 +7820,42 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "📌 Cointelegraph’s tracking the 2026 US midterms live, covering key results, crypto-backed candidates and what it all means for crypto.\n\nStay up to date with our live coverage:",
     "url": "https://x.com/Cointelegraph/status/2117911724674220326"
+  },
+  {
+    "id": "x-1793785903453-hmroer",
+    "source": "x",
+    "ts": "2026-11-04T09:51:43.453Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T09:45:15.000Z",
+    "reason": "Specific and notable bank using tokenization service for US equities and Treasuries.",
+    "text": "🔥 JUST IN: $10T Morgan Stanley is among the first banks to tokenize US equities and Treasuries through DTCC’s Tokenization Service.",
+    "url": "https://x.com/Cointelegraph/status/2117916073521455364",
+    "images": [
+      "https://pbs.twimg.com/media/HWRZcRJXQAAQO2U.png",
+      "https://pbs.twimg.com/media/HWRZceiXIAAP7jK.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793785906811-6g3qts",
+    "source": "x",
+    "ts": "2026-11-04T09:51:46.811Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 19,
+    "originTimestamp": "2026-11-04T09:32:00.000Z",
+    "reason": "Notable institutional investment in blockchain technology.",
+    "text": "XDC Network Takes Another Step Into Everyday Payments\n\nXDC Ventures (@XDCVentures) has made a strategic investment in Scallop (@Scallopcom) to expand blockchain-powered financial services.\n\nScallop has expanded its payment services using native xdce-crowd-sale:native and $USDC on",
+    "url": "https://x.com/BSCNews/status/2117912737842188627",
+    "images": [
+      "https://pbs.twimg.com/media/HWRQtqeboAAPvfv.png"
+    ],
+    "video": null
   }
 ]
