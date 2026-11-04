@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793682126581-68uk78",
-    "source": "x",
-    "ts": "2026-11-03T05:02:06.581Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T05:00:00.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "🚨 LATEST: Oil prices edge higher, with Brent crude futures up 0.5% to about $105 a barrel, after reports of a US strike on Iran’s Qeshm Island, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2117481899920883936"
-  },
-  {
-    "id": "x-1793682131663-3dw6c9",
-    "source": "x",
-    "ts": "2026-11-03T05:02:11.663Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 45,
-    "originTimestamp": "2026-11-03T04:17:05.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is impossible.\n\nAll they’ve really guaranteed is that they’ll never get a job at SpaceX.\n\nIt used to be:\n\n“You can’t build an EV that performs as well as an",
-    "url": "https://x.com/elonmusk/status/2117480528618397848"
-  },
-  {
-    "id": "x-1793682701664-5ekxxb",
-    "source": "x",
-    "ts": "2026-11-03T05:11:41.664Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-03T05:11:19.000Z",
-    "reason": "New trading platform for Cardano tokens, enabling leveraged trading.",
-    "text": "Cardano Gets a New Perpetuals Trading Platform\n\nAtlas (@ATLAS_DEFI_) has opened its Beta Public Mainnet, after months of development and testing,\n\nThe launch brings leveraged trading to Cardano (@Cardano) $ADA, allowing users to take long or short positions on supported crypto",
-    "url": "https://x.com/BSCNews/status/2117484749531099430",
-    "images": [
-      "https://pbs.twimg.com/media/HWLKPjMagAEeuGU.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793682703928-x2tsyj",
     "source": "x",
     "ts": "2026-11-03T05:11:43.928Z",
@@ -7855,6 +7811,53 @@
     "ageMin": 10,
     "originTimestamp": "2026-11-04T22:43:00.000Z",
     "reason": "Notable institutional adoption and compliance alignment.",
+    "text": "Chainlink tech backs a Swift-aligned onchain bond test\n\n@ApexGlobalGroup, which services more than $3.5T in assets, demonstrated an onchain bond setup with @trex_network and @ERC3643Org that applies one set of compliance rules on every chain the bond moves to. The rules follow",
+    "url": "https://x.com/BSCNews/status/2118111799354478927",
+    "images": [
+      "https://pbs.twimg.com/media/HWT7kluWAAAGsIm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793833144539-85yhto",
+    "source": "x",
+    "ts": "2026-11-04T22:59:04.539Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-04T22:50:14.000Z",
+    "reason": "No notable move or specific event beyond a vague prediction.",
+    "text": "🚨 INSIGHT: Peter Schiff warns that the US election results are bearish for Bitcoin, predicting increased congressional scrutiny of Trump could trigger a sell-off.",
+    "url": "https://x.com/Cointelegraph/status/2118113620982743112"
+  },
+  {
+    "id": "x-1793833146765-1mb5bu",
+    "source": "x",
+    "ts": "2026-11-04T22:59:06.765Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-04T22:47:15.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+    "url": "https://x.com/DecryptMedia/status/2118112869174673413",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793833149169-4n0xcy",
+    "source": "x",
+    "ts": "2026-11-04T22:59:09.169Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 16,
+    "originTimestamp": "2026-11-04T22:43:00.000Z",
+    "reason": "Notable use of blockchain technology for regulatory compliance.",
     "text": "Chainlink tech backs a Swift-aligned onchain bond test\n\n@ApexGlobalGroup, which services more than $3.5T in assets, demonstrated an onchain bond setup with @trex_network and @ERC3643Org that applies one set of compliance rules on every chain the bond moves to. The rules follow",
     "url": "https://x.com/BSCNews/status/2118111799354478927",
     "images": [
