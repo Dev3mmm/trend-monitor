@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793615586659-9q60c8",
-    "source": "x",
-    "ts": "2026-11-02T10:33:06.659Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-02T10:30:00.000Z",
-    "reason": "Ethereum reorg led to ETH payouts and halted chains.",
-    "text": "THORChain Says Ethereum Reorg Caused 10 ETH Payout, 10 Chains Remain Halted.\n\nA one-block Ethereum reorg on October 31 led a vault to pay out 10 ETH it never received, THORChain said, adding the user has returned the funds and nodes will re-enable chains once deemed safe.",
-    "url": "https://x.com/DecryptMedia/status/2117202557927887294",
-    "images": [
-      "https://pbs.twimg.com/media/HWHJJUDW8AAftvb.png",
-      "https://pbs.twimg.com/media/HWHJygrW0AAfamD.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793616130006-b11die",
-    "source": "x",
-    "ts": "2026-11-02T10:42:10.006Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-02T10:37:30.000Z",
-    "reason": "Notable regulatory move involving a major cryptocurrency exchange and cybersecurity incident.",
-    "text": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-    "url": "https://x.com/DecryptMedia/status/2117204445343740051",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793616134414-umgku5",
     "source": "x",
     "ts": "2026-11-02T10:42:14.414Z",
@@ -7856,5 +7821,43 @@
     "reason": "No notable move in token or price indicated.",
     "text": "昨天还在和小伙伴们聊这个事情，以举国之力培养的黑客团队就像是在千日防贼，每次事件其实都是给整个行业做提醒。",
     "url": "https://x.com/PhyrexNi/status/2117832983621357745"
+  },
+  {
+    "id": "x-1793766733141-f1mwz2",
+    "source": "x",
+    "ts": "2026-11-04T04:32:13.141Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T04:30:48.000Z",
+    "reason": "Notable institutional shift advice from a prominent figure in the space.",
+    "text": "⚡️ JUST IN: Solana co-founder Anatoly Yakovenko says, “If you are in data centers, pivot to crypto.”",
+    "url": "https://x.com/Cointelegraph/status/2117836939587993806",
+    "images": [
+      "https://pbs.twimg.com/media/HWQRdiZXkAAd8pQ.jpg",
+      "https://pbs.twimg.com/media/HWQReGAXUAADXSB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793766738159-pc6rzv",
+    "source": "x",
+    "ts": "2026-11-04T04:32:18.159Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T04:25:34.000Z",
+    "reason": "Important political shift influenced by crypto funding.",
+    "text": "🇺🇸 NOW: Democrat Sherrod Brown, a longtime crypto critic, wins Ohio’s US Senate race over Republican incumbent Jon Husted. \n\nThe win comes despite about $63 million in crypto industry funds, $56 million of it from Fairshake, aimed at his defeat.",
+    "url": "https://x.com/Cointelegraph/status/2117835622043812229",
+    "images": [
+      "https://pbs.twimg.com/media/HWQQRZhWgAAYaeX.jpg",
+      "https://pbs.twimg.com/media/HWQQRkUXAAAnRuD.jpg"
+    ],
+    "video": null
   }
 ]
