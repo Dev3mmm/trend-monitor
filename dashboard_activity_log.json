@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793632377912-o0z9bu",
-    "source": "x",
-    "ts": "2026-11-02T15:12:57.912Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-02T15:08:54.000Z",
-    "reason": "Vague prediction with no basis given.",
-    "text": "@shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space. \n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this.",
-    "url": "https://x.com/elonmusk/status/2117272824830210391"
-  },
-  {
-    "id": "x-1793632381467-a24ubg",
-    "source": "x",
-    "ts": "2026-11-02T15:13:01.467Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-02T15:02:55.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "Shiny things in Bungoma. \n\nCongratulations.",
-    "url": "https://x.com/amerix/status/2117271688165380329"
-  },
-  {
     "id": "x-1793633573119-ukkr5u",
     "source": "x",
     "ts": "2026-11-02T15:32:53.119Z",
@@ -7884,6 +7858,40 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🔥 WATCH: Trillions of dollars in traditional financial assets could move onchain by 2030. But is the infrastructure ready?\n\n@renesisfi founder Thomas Pratter discusses the challenges of bridging TradFi and DeFi.",
     "url": "https://x.com/Cointelegraph/status/2117942437372932294",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793792528130-oxzjfd",
+    "source": "x",
+    "ts": "2026-11-04T11:42:08.130Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T11:34:43.000Z",
+    "reason": "Price reduction of network costs to an all-time low is notable.",
+    "text": "Algorand Is So Cheap... \n\nNetwork costs on the @Algorand network are at their lowest per week, according to a report from @Chainspect. \n\nJust $1 can now facilitate over 5,400 transactions.\n\nThis is a good deal, as it enables transaction settlement without cost spikes.\n\nAlso, this",
+    "url": "https://x.com/BSCNews/status/2117943622968525093",
+    "images": [
+      "https://pbs.twimg.com/media/HWRyderXAAA90LS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793792532781-agushp",
+    "source": "x",
+    "ts": "2026-11-04T11:42:12.781Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Michael Saylor",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-04T11:33:06.000Z",
+    "reason": "Political support for Bitcoin reserve crosses party lines",
+    "text": "Florida elected a Republican governor who backed a U.S. Bitcoin reserve. Texas elected a Democratic senator who voted to create one for his state. The case for holding Bitcoin crosses party lines.",
+    "url": "https://x.com/saylor/status/2117943215949038003",
     "images": [],
     "video": null
   }
