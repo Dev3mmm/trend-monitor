@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793631112079-koms17",
-    "source": "x",
-    "ts": "2026-11-02T14:51:52.079Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-02T14:44:08.000Z",
-    "reason": "The tweet is unrelated to cryptocurrency and lacks specific, concrete information.",
-    "text": "Anthropic Reveals $17 Billion Quarter in Updated IPO Filing.\n\nAnthropic's revenue grew 1,127% year over year to $17.0 billion in the three months ended September 30, up from $197 million in the final quarter of 2024, according to an amended S-1 filed with the SEC on Monday.",
-    "url": "https://x.com/DecryptMedia/status/2117266512188686344"
-  },
-  {
-    "id": "x-1793631744899-oqhsif",
-    "source": "x",
-    "ts": "2026-11-02T15:02:24.899Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T15:01:16.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Crypto Rebounds in Binance Hack Aftermath, Markets and News.",
-    "url": "https://x.com/DecryptMedia/status/2117270826881777729"
-  },
-  {
-    "id": "x-1793631749381-ef4x2e",
-    "source": "x",
-    "ts": "2026-11-02T15:02:29.381Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T15:00:29.000Z",
-    "reason": "No notable crypto-related event or specific price movement mentioned.",
-    "text": "⚡ INSIGHT: Who better to judge a dispute between AI agents than a jury of different AI models? That’s the idea behind GenLayer and the Internet Court — which is already issuing thousands of judgements each day.",
-    "url": "https://x.com/Cointelegraph/status/2117270628684214573"
-  },
-  {
     "id": "x-1793631753607-nq26oi",
     "source": "x",
     "ts": "2026-11-02T15:02:33.607Z",
@@ -7861,5 +7822,57 @@
     "reason": "No notable crypto-related news.",
     "text": "🔥 JUST IN: China confirms talks with the US and Russia on a potential first-ever meeting between Trump, Xi and Putin at this month’s APEC summit.",
     "url": "https://x.com/Cointelegraph/status/2117923297702597108"
+  },
+  {
+    "id": "x-1793788952330-ytth90",
+    "source": "x",
+    "ts": "2026-11-04T10:42:32.330Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T10:40:43.000Z",
+    "reason": "Community pushback led to Zcash Community Grants abandoning plans to redirect ZEC.",
+    "text": "⚡️ UPDATE: Zcash Community Grants drops its plan to redirect about 98,000 ZEC toward future mining rewards following community pushback.",
+    "url": "https://x.com/Cointelegraph/status/2117930032618172770",
+    "images": [
+      "https://pbs.twimg.com/media/HWRmI-DXYAEP_Vz.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793788957896-rnp743",
+    "source": "x",
+    "ts": "2026-11-04T10:42:37.896Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-04T10:38:30.000Z",
+    "reason": "Price drop below all-time low is noteworthy.",
+    "text": "Pi Coin is in dangerous territory... \n\nPi Network's (@PiCoreTeam) $PI coin is in the news again today. \n\nThe asset is gaining ground again after a sharp dump, dropping from $0.075 to $0.073 in one hour. \n\nAccording to Coingecko, PI is now only 6.7% above its all-time low of",
+    "url": "https://x.com/BSCNews/status/2117929474935210363",
+    "images": [
+      "https://pbs.twimg.com/media/HWRloP_XEAA1RFK.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793788961494-9dz3bd",
+    "source": "x",
+    "ts": "2026-11-04T10:42:41.494Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T10:36:15.000Z",
+    "reason": "Notable court order involving cryptocurrency",
+    "text": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
+    "url": "https://x.com/DecryptMedia/status/2117928906707620180",
+    "images": [],
+    "video": null
   }
 ]
