@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793653945055-nu8bbv",
-    "source": "x",
-    "ts": "2026-11-02T21:12:25.055Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-02T21:05:28.000Z",
-    "reason": "No notable move in oil prices, price changes are typically in small increments.",
-    "text": "🇺🇸 NOW: Trump says oil prices are “DROPPING LIKE A ROCK,” down almost $10 a barrel, “A RECORD”.",
-    "url": "https://x.com/Cointelegraph/status/2117362478514315294"
-  },
-  {
-    "id": "x-1793653949888-e9n71i",
-    "source": "x",
-    "ts": "2026-11-02T21:12:29.888Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-02T21:04:14.000Z",
-    "reason": "Specific prediction with a basis (Polymarket prediction)",
-    "text": "JUST IN: There's now a 71% chance Bitcoin will be above $80,000 this month, according to Polymarket⁠.com 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2117362167444115833",
-    "images": [
-      "https://pbs.twimg.com/media/HWJhq0rXEAEEZC1.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793655058311-4fvafw",
     "source": "x",
     "ts": "2026-11-02T21:30:58.311Z",
@@ -7850,5 +7819,41 @@
     "reason": "No notable crypto-related news in the tweet.",
     "text": "Tencent Releases Hy4, Adding Vision and Computer Use to Its Flagship AI Model.\n\nTencent said Wednesday that Hy4 is now available on Tencent Cloud and OpenRouter at $0.834 per million input tokens and $2.501 per million output tokens, and that it plans to open-source the model's",
     "url": "https://x.com/DecryptMedia/status/2118026236069044658"
+  },
+  {
+    "id": "x-1793812947431-6n8et9",
+    "source": "x",
+    "ts": "2026-11-04T17:22:27.431Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T17:21:21.000Z",
+    "reason": "New use of a token for staking a native asset.",
+    "text": "Fresh in today, @CoinGecko have published a deep dive on Bitcoin Staking via @Stacks and why $STX sits at the center as the staking capacity for Bitcoin.\n\nThe asset being staked is $BTC. $STX is the capacity that unlocks it. To earn ~3% APY in native $BTC (while coins stay on L1",
+    "url": "https://x.com/BSCNews/status/2118030856266645571",
+    "images": [
+      "https://pbs.twimg.com/media/HWTBt4-XYAAJbCE.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793812953484-ntjt89",
+    "source": "x",
+    "ts": "2026-11-04T17:22:33.484Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-04T17:18:09.000Z",
+    "reason": "Osmosis project burns a significant portion of its community pool.",
+    "text": "Osmosis burns nearly half its community pool OSMO\n\nToday, @osmosis governance passed Prop 1057 with 91.1% voting yes and moved 55.5M $OSMO from the community pool to the burn address. The project puts the burn at about 7% of OSMO supply.\n\nThe transfer ran on-chain automatically",
+    "url": "https://x.com/BSCNews/status/2118030049437942220",
+    "images": [
+      "https://pbs.twimg.com/media/HWS-GajW8AABIAp.jpg"
+    ],
+    "video": null
   }
 ]
