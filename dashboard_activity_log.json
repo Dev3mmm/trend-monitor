@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1793602955950-kvsmzk",
-    "source": "x",
-    "ts": "2026-11-02T07:02:35.950Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T07:00:48.000Z",
-    "reason": "The ETF flows indicate significant outflows from BTC, ETH, and SOL spot ETFs.",
-    "text": "🇺🇸 ETF FLOWS: XRP spot ETFs saw net inflows last week, while BTC, ETH and SOL spot ETFs saw net outflows.\n\nBTC: -$202.59M\nETH: -$431.53M\nSOL: -$71.47M\nXRP: $4.32M",
-    "url": "https://x.com/Cointelegraph/status/2117149913419018506",
-    "images": [
-      "https://pbs.twimg.com/media/HWGgnpUW0AAI16Q.jpg",
-      "https://pbs.twimg.com/media/HWGgn3rWEAEZ-OE.jpg",
-      "https://pbs.twimg.com/media/HWGgoDTWgAAKJfm.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793602960942-k93q7l",
-    "source": "x",
-    "ts": "2026-11-02T07:02:40.942Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T07:00:01.000Z",
-    "reason": "No notable move in Bitcoin's price.",
-    "text": "🔥 INSIGHT: Bitcoin is the cleanest dirty shirt.\n\nFor @Strive CEO @ColeMacro, institutional investors are stuck, with income investing in rough shape and AI set to churn half the S&amp;P 500 within a decade.\n\nNext to that, he sees $BTC's true scarcity and upgradeable protocol making",
-    "url": "https://x.com/Cointelegraph/status/2117149713946575129"
-  },
-  {
-    "id": "x-1793602967965-n5e7pz",
-    "source": "x",
-    "ts": "2026-11-02T07:02:47.965Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "PeckShieldAlert",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-02T06:57:56.000Z",
-    "reason": "Ethereum exploit involving USDT and Aave repayment and ETH swap detected",
-    "text": "#PeckShieldAlert The address labeled as #PandoRings Exploiter supplied 16.8M $USDT to Aave, borrowed 5K ETH, repaid the debt, and withdrew the collateral on October 30. It then swapped 16.7M $DAI for 7,548 $ETH and deposited 4K ETH into #TornadoCash.\n\nOn November 5, 2022, the",
-    "url": "https://x.com/PeckShieldAlert/status/2117149190904270969",
-    "images": [
-      "https://pbs.twimg.com/media/HWGf7X1bcAEfi_V.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793603505533-bsv9bq",
     "source": "x",
     "ts": "2026-11-02T07:11:45.533Z",
@@ -7836,6 +7785,56 @@
     "url": "https://x.com/Cointelegraph/status/2117791632242225498",
     "images": [
       "https://pbs.twimg.com/media/HWPoQy1WoAApn34.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793756569594-7o8fed",
+    "source": "x",
+    "ts": "2026-11-04T01:42:49.594Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T01:41:46.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇺🇸 LATEST: Prediction markets Kalshi and Polymarket now give Democrats 99% odds to win the House and 98% to take the Senate.\n\nSo far, Democrats and allied independents hold 42 Senate seats to Republicans’ 31.",
+    "url": "https://x.com/Cointelegraph/status/2117794399166066689"
+  },
+  {
+    "id": "x-1793756573079-5uyar9",
+    "source": "x",
+    "ts": "2026-11-04T01:42:53.079Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-04T01:34:33.000Z",
+    "reason": "Bitcoin price drop over 1% to $76,800 is a notable move given the recent range.",
+    "text": "🚨 MARKET: Stock futures slip as investors await US midterm results, with S&amp;P 500 futures down 0.5% and Nasdaq futures down 0.9%.\n\nBitcoin drops more than 1% to around $76,800 as traders grow confident Democrats will retake the Senate, with Ether and other major coins close",
+    "url": "https://x.com/Cointelegraph/status/2117792585850954010",
+    "images": [
+      "https://pbs.twimg.com/media/HWPo-T8a8AAwBrU.jpg",
+      "https://pbs.twimg.com/media/HWPpEMHbYAASsYU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793756575707-tt80bi",
+    "source": "x",
+    "ts": "2026-11-04T01:42:55.707Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-04T01:34:00.000Z",
+    "reason": "Notable ranking and fee generation by a crypto launchpad platform.",
+    "text": "BONK[.]Fun a major player among token launchpads.\n\n@bonk_inu's own token launch platform, Bonk[.]Fun has generated $2.65M worth of fees in the past month\n\nThis places it 7th among all crypto launchpads on DefiLlama's launchpad page, which contains some 342 different platforms.",
+    "url": "https://x.com/BSCNews/status/2117792445278855544",
+    "images": [
+      "https://pbs.twimg.com/media/HWM9CfpXUAAta7i.jpg"
     ],
     "video": null
   }
