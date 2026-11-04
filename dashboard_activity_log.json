@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1793613930602-p0xyai",
-    "source": "x",
-    "ts": "2026-11-02T10:05:30.602Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-02T09:57:27.000Z",
-    "reason": "Specific exploit targeting Bitcoin payment processor version 2.4.1 or older.",
-    "text": "BTCPay Server Says Attack Targeted Older Versions After Hot Wallet Sweep Reports.\n\nThe open-source Bitcoin payment processor said the attack vector it identified targeted instances running version 2.4.1 or older, adding it has no credible reports of hot wallet drains on the",
-    "url": "https://x.com/DecryptMedia/status/2117194365890146583",
-    "images": [
-      "https://pbs.twimg.com/media/HWHIkEDWEAATF0Q.png",
-      "https://pbs.twimg.com/media/HWHI8HsWsAAsMAg.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793614644905-ys02jp",
-    "source": "x",
-    "ts": "2026-11-02T10:17:24.905Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-02T10:13:35.000Z",
-    "reason": "Ethereum's adoption of tokenized stocks shows growth and integration with financial markets.",
-    "text": "📊 LATEST: Tokenized stocks on Ethereum grew 170% YoY to $827M, per Token Terminal.\n\nIs Ethereum becoming Wall Street’s next home?",
-    "url": "https://x.com/Cointelegraph/status/2117198429226992122",
-    "images": [
-      "https://pbs.twimg.com/media/HWHMv67WEAA9fea.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793614650690-5x38os",
-    "source": "x",
-    "ts": "2026-11-02T10:17:30.690Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-02T10:07:27.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Binance Hack Brings CLARITY Act Back Into Focus\n\nSen. Cynthia Lummis (@SenLummis) says the $6.3 billion Binance (@binance) hack shows why the CLARITY Act matters. \n\nShe argues the bill could give crypto firms legal protection to freeze suspicious transactions when law enforcement",
-    "url": "https://x.com/BSCNews/status/2117196884544749653",
-    "images": [
-      "https://pbs.twimg.com/media/HWHLH0ZaAAA9tAX.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793615003532-iosmim",
     "source": "x",
     "ts": "2026-11-02T10:23:23.532Z",
@@ -7848,5 +7793,58 @@
     "reason": "No notable crypto-related news or move mentioned.",
     "text": "JPMorgan says BUY THE DIP in AI stocks if Democrats sweep the midterms.\n\nThe bank expects AI spending to stay strong through 2028 regardless of the election outcome, arguing Trump is unlikely to sign legislation restricting the sector.\n\nJPMorgan sees any election-driven selloff",
     "url": "https://x.com/coinbureau/status/2117822272551743934"
+  },
+  {
+    "id": "x-1793764924339-vqzq67",
+    "source": "x",
+    "ts": "2026-11-04T04:02:04.339Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T04:00:45.000Z",
+    "reason": "No crypto-related content.",
+    "text": "🇺🇸 TRUMP: “I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE!”",
+    "url": "https://x.com/Cointelegraph/status/2117829378990084604"
+  },
+  {
+    "id": "x-1793764929970-3wg4ef",
+    "source": "x",
+    "ts": "2026-11-04T04:02:09.970Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T04:00:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Bitfinex Hacker on Binance Hack: North Korean Hackers Target the Weakest Links\n\nBitfinex hacker Ilya Lichtenstein @cipherstein  told CNN on November 1 that the Binance hack resembled North Korean tactics targeting weak links. Attackers may phish employees into downloading malware",
+    "url": "https://x.com/WuBlockchain/status/2117829187205763183",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2117796575326220288/vid/avc1/1280x720/_CXvKSuB09BH-Jkz.mp4?tag=29",
+      "duration": 160,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117796575326220288/img/NjEmw2jEYdQT1DBP.jpg"
+    }
+  },
+  {
+    "id": "x-1793764935293-uqi3ty",
+    "source": "x",
+    "ts": "2026-11-04T04:02:15.293Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-04T03:57:39.000Z",
+    "reason": "THORChain exploit highlights ongoing illicit activity.",
+    "text": "Binance Hacker Pivots to THORChain to Launder Stolen SOL into BTC\n\nAccording to Lookonchain, the hacker behind the $6.3 billion Binance exploit is continuing to convert stolen SOL into BTC. The illicit funds were first dispersed across multiple wallets, where SOL was sold for",
+    "url": "https://x.com/WuBlockchain/status/2117828598069706862",
+    "images": [
+      "https://pbs.twimg.com/media/HWQJ1vUbQAA_Usp.jpg",
+      "https://pbs.twimg.com/media/HWQJ3DsacAAkIN1.jpg"
+    ],
+    "video": null
   }
 ]
