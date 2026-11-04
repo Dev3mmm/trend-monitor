@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793619725220-fjvzxs",
-    "source": "x",
-    "ts": "2026-11-02T11:42:05.220Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-02T11:30:38.000Z",
-    "reason": "Regulatory action in response to crypto hack.",
-    "text": "🇰🇷 NEW: South Korea orders crypto exchanges to increase cold wallet holdings and bolster reserves following Binance’s $6.3B hack, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2117217818114470050",
-    "images": [
-      "https://pbs.twimg.com/media/HWHeXxtXoAA-1XK.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793619728515-ntbjuj",
-    "source": "x",
-    "ts": "2026-11-02T11:42:08.515Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-02T11:30:38.000Z",
-    "reason": "Noise: generic meme without factual claim.",
-    "text": "16 years of orange.",
-    "url": "https://x.com/coinbase/status/2117217817573380331"
-  },
-  {
-    "id": "x-1793619734045-8axtrk",
-    "source": "x",
-    "ts": "2026-11-02T11:42:14.045Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-02T11:30:15.000Z",
-    "reason": "No notable crypto-specific news or use of crypto mentioned.",
-    "text": "AI will keep booming while AI stocks keep collapsing.\n\nPalantir reports TODAY, and the results could explain why.\n\nA boom in AI usage doesn’t mean a boom in AI profits. And stocks trade on profits.\n\nOctober showed it. The Nasdaq 100 fell 5.8%+, wiping out over $2T. Chip stocks",
-    "url": "https://x.com/coinbureau/status/2117217720538386699"
-  },
-  {
     "id": "x-1793620927625-iyzve5",
     "source": "x",
     "ts": "2026-11-02T12:02:07.625Z",
@@ -7858,6 +7814,53 @@
     "images": [
       "https://pbs.twimg.com/media/HWQX57ja4AAjEii.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793769737701-k0zbvf",
+    "source": "x",
+    "ts": "2026-11-04T05:22:17.701Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T05:15:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨BREAKING: Bitcoin plunges BELOW $76,000 for the first time since September 16.\n\nNearly $250 MILLION in leveraged crypto positions have been liquidated over the past four hours as the selloff intensifies.",
+    "url": "https://x.com/coinbureau/status/2117848061309596127",
+    "images": [
+      "https://pbs.twimg.com/media/HWQQwREboAARTKU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793769743032-gzbp6w",
+    "source": "x",
+    "ts": "2026-11-04T05:22:23.032Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T05:14:40.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Polymarket Shows Democratic Sweep of Both Chambers, Market Bets on Trump Facing \"Crushing Defeat\" in Midterms\n\nAccording to the latest trading data from onchain prediction market Polymarket as of November 3, 2026, the market-implied probability of a \"Democrats Sweep\"in the 2026",
+    "url": "https://x.com/WuBlockchain/status/2117847976798527699"
+  },
+  {
+    "id": "x-1793769748228-qij6xc",
+    "source": "x",
+    "ts": "2026-11-04T05:22:28.228Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 99,
+    "originTimestamp": "2026-11-04T03:42:23.000Z",
+    "reason": "No specific significant change provided, price movement within recent range.",
+    "text": "$2.8 billion net inflow over the last 24hrs, according to public data.",
+    "url": "https://x.com/cz_binance/status/2117847381253435873",
+    "images": [],
     "video": null
   }
 ]
