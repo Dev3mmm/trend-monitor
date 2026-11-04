@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793667765132-qtzucn",
-    "source": "x",
-    "ts": "2026-11-03T01:02:45.132Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-03T00:54:09.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "₿on appétit.",
-    "url": "https://x.com/saylor/status/2117420029037940825"
-  },
-  {
     "id": "x-1793668330160-sz19xv",
     "source": "x",
     "ts": "2026-11-03T01:12:10.160Z",
@@ -7863,6 +7850,24 @@
     "images": [
       "https://pbs.twimg.com/media/HWTnV5dW8AIsiQu.jpg",
       "https://pbs.twimg.com/media/HWTnWNZW8AA7Npl.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793823752811-3o7xz3",
+    "source": "x",
+    "ts": "2026-11-04T20:22:32.811Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T20:15:00.000Z",
+    "reason": "Notable new use of a stablecoin for leveraged borrowing.",
+    "text": "Fosun-backed FinChain brings leveraged Treasury yield to Plume\n\n@FinChain_EN, a crypto finance firm incubated by Fosun Wealth Holdings, has launched FLEX &amp; FINO with @plumenetwork, the chain behind $PLUME. Users deposit FinChain’s FUSD as collateral and borrow USDC against it,",
+    "url": "https://x.com/BSCNews/status/2118074554480316854",
+    "images": [
+      "https://pbs.twimg.com/media/HWTdOLDW8AAjr3G.jpg"
     ],
     "video": null
   }
