@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793665976667-mcdncd",
-    "source": "x",
-    "ts": "2026-11-03T00:32:56.667Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-03T00:23:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Aptos' top perps platform nears $9 BILLION total volume.\n\nThe @Aptos based perps and spot engine @DecibelTrade has now seen an impressive $8.854B in cumulative volume, according to DefiLlama data.\n\nSome $1.217B was generated in the past 30 days alone, meaning Decibel should",
-    "url": "https://x.com/BSCNews/status/2117412189438984574"
-  },
-  {
-    "id": "x-1793667758923-hbfn8h",
-    "source": "x",
-    "ts": "2026-11-03T01:02:38.923Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T01:00:36.000Z",
-    "reason": "Notable institutional partnership in the crypto securities space.",
-    "text": "🚨 TODAY: NYSE adds Broadridge, Computershare, Equiniti and Superstate as transfer agent partners for its new tokenized securities venue, joining Securitize and tZERO.",
-    "url": "https://x.com/Cointelegraph/status/2117421654603169802",
-    "images": [
-      "https://pbs.twimg.com/media/HWKXwd2XkAAzB8u.jpg",
-      "https://pbs.twimg.com/media/HWKXw_GWEAAOcXh.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793667760672-aavykq",
     "source": "x",
     "ts": "2026-11-03T01:02:40.672Z",
@@ -7859,5 +7827,39 @@
     "reason": "No notable move or specific event described.",
     "text": "BPI's Zack Cohen on why Bitcoin developers are still protected after the midterms:\n\n\"This is a new technology, it doesn't work that way anymore.\"\n\n\"We are still in the clear for the next two years.\"",
     "url": "https://x.com/BitcoinMagazine/status/2118063832296046879"
+  },
+  {
+    "id": "x-1793821939533-1vhj5k",
+    "source": "x",
+    "ts": "2026-11-04T19:52:19.533Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T19:51:11.000Z",
+    "reason": "Circle reported significant revenue growth and surpassed earnings expectations.",
+    "text": "🚨 LATEST: Circle reported Q3 revenue of $865 million, up 17% year-over-year, boosted by $182 million from its ARC token presale.\n\nEarnings per share reached $0.84, doubling analysts’ expectations of $0.42, while USDC reserve income fell 8% to $657.6 million.\n\nCircle also",
+    "url": "https://x.com/Cointelegraph/status/2118068563239915610",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793821941979-ukogcr",
+    "source": "x",
+    "ts": "2026-11-04T19:52:21.979Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T19:45:00.000Z",
+    "reason": "Notable institutional use case for a new AI platform.",
+    "text": "Canton Network hands ChatGPT and Claude a wallet\n\n@FTPwhatsoever, an infrastructure firm that runs Canton validators, now offers a hosted MCP server that plugs ChatGPT and Claude into its agent wallet on @CantonNetwork. Users can ask the chatbot to research a tokenized asset and",
+    "url": "https://x.com/BSCNews/status/2118067004519149644",
+    "images": [
+      "https://pbs.twimg.com/media/HWTZJ7gXkAABFix.jpg"
+    ],
+    "video": null
   }
 ]
