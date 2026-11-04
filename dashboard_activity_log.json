@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793608408447-vm5h2p",
-    "source": "x",
-    "ts": "2026-11-02T08:33:28.447Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-02T08:30:34.000Z",
-    "reason": "No notable move in cryptocurrency specific to BTC, ETH, or SOL.",
-    "text": "🇪🇺 UPDATE: SpaceXSI will add a watermark to all text outputs from its Grok API models by default from Nov. 7 to comply with EU AI Act rules.",
-    "url": "https://x.com/Cointelegraph/status/2117172502371741955"
-  },
-  {
     "id": "x-1793608945139-svheff",
     "source": "x",
     "ts": "2026-11-02T08:42:25.139Z",
@@ -7862,6 +7849,24 @@
     "images": [
       "https://pbs.twimg.com/media/HWP48LFXAAAsQFL.jpg",
       "https://pbs.twimg.com/media/HWP48VzWQAEX4E1.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793761346153-1hnhp7",
+    "source": "x",
+    "ts": "2026-11-04T03:02:26.153Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T03:00:46.000Z",
+    "reason": "Suspected exploit involving a French bank",
+    "text": "🚨 UPDATE: ZachXBT says the EU financial institution hit in a $133M+ exploit is allegedly French bank Crédit Mutuel Arkéa. \n\nHe suspects the true losses run higher once OTC activity is counted.",
+    "url": "https://x.com/Cointelegraph/status/2117814281177604572",
+    "images": [
+      "https://pbs.twimg.com/media/HWP83GuXcAAAdYM.png"
     ],
     "video": null
   }
