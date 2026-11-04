@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1793638354811-95l6yj",
-    "source": "x",
-    "ts": "2026-11-02T16:52:34.811Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-02T16:47:15.000Z",
-    "reason": "Notable hack affecting a major cryptocurrency exchange.",
-    "text": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-    "url": "https://x.com/DecryptMedia/status/2117297496510570918",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793638358581-ghxkys",
-    "source": "x",
-    "ts": "2026-11-02T16:52:38.581Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-02T16:45:00.000Z",
-    "reason": "Exploit involving large-scale crypto theft reported.",
-    "text": "🚨NEW: Over $106 MILLION reportedly drained from an EU entity’s accounts across multiple crypto exchanges, according to ZachXBT.\n\nThe suspected attacker withdrew USDC and USDT, then swapped funds into ETH, routed them through instant exchanges, converted to Monero and bridged",
-    "url": "https://x.com/coinbureau/status/2117296930045006053",
-    "images": [
-      "https://pbs.twimg.com/media/HWILQ5gawAAHTc7.png",
-      "https://pbs.twimg.com/media/HWILjAMbIAEdeNk.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793638362441-tremhh",
-    "source": "x",
-    "ts": "2026-11-02T16:52:42.441Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-02T16:43:00.000Z",
-    "reason": "Whale withdrawal of a significant amount of XRP",
-    "text": "Whale withdraws 50,000,000 $XRP from Binance.\n\nAccording to reports from @whale_alert, an unknown whale holder has withdrawn some 50 million @XRP tokens.\n\nThe tokens were withdrawn from the @Binance exchange and were worth more than $62.4 million at the time of the transfer.\n\nIs",
-    "url": "https://x.com/BSCNews/status/2117296426770108873",
-    "images": [
-      "https://pbs.twimg.com/media/HWG-zHKXAAAXKmI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793638934823-nq4hf1",
     "source": "x",
     "ts": "2026-11-02T17:02:14.823Z",
@@ -7860,6 +7807,60 @@
     "images": [
       "https://pbs.twimg.com/media/HWSUF81X0AE85RL.jpg",
       "https://pbs.twimg.com/media/HWSUGWTXgAALG1a.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793802132410-d0aa3z",
+    "source": "x",
+    "ts": "2026-11-04T14:22:12.410Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T14:21:12.000Z",
+    "reason": "Coinbase confirms the vast majority of customer assets are secure.",
+    "text": "🔥 JUST IN: Coinbase reports no impact from Binance’s hot wallet incident, adding that over 99% of customer assets are held in cold storage.",
+    "url": "https://x.com/Cointelegraph/status/2117985519787204950",
+    "images": [
+      "https://pbs.twimg.com/media/HWSYmvbWMAAtf1I.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793802136211-lnvnhv",
+    "source": "x",
+    "ts": "2026-11-04T14:22:16.211Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coinbase 🛡️",
+    "ageMin": 22,
+    "originTimestamp": "2026-11-04T13:59:42.000Z",
+    "reason": "US Perps service now available on Coinbase without the need for a Virtual Private Network.",
+    "text": "US Perps are on Coinbase, no VPNs required.",
+    "url": "https://x.com/coinbase/status/2117985082086416687",
+    "images": [
+      "https://pbs.twimg.com/media/HWSTaJZawAE4swr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793802141278-p60e16",
+    "source": "x",
+    "ts": "2026-11-04T14:22:21.278Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 29,
+    "originTimestamp": "2026-11-04T13:52:26.000Z",
+    "reason": "Pi Network is announcing a significant user base for its AI-focused platform.",
+    "text": "Pi Network (@PiCoreTeam) is pitching its own user base as the answer to the distribution problem app developers face in the AI era.\n\nIn October the $PI team put the scale at 60 million Engaged Pioneers and 300 apps already live on Mainnet.\n\nRead the full pitch ⬇️\n\nRead more:",
+    "url": "https://x.com/BSCNews/status/2117983668484350311",
+    "images": [
+      "https://pbs.twimg.com/media/HWSSBCVWAAAgApY.jpg"
     ],
     "video": null
   }
