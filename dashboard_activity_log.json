@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793682705526-ogm7aq",
-    "source": "x",
-    "ts": "2026-11-03T05:11:45.526Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 78,
-    "originTimestamp": "2026-11-03T03:53:19.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Space datacenters actually make sense",
-    "url": "https://x.com/elonmusk/status/2117482570757656836"
-  },
-  {
-    "id": "x-1793683967537-y71ujb",
-    "source": "x",
-    "ts": "2026-11-03T05:32:47.537Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T05:30:00.000Z",
-    "reason": "Noteworthy institutional investment in Ethereum.",
-    "text": "🔥 TODAY: Tom Lee’s Bitmine bought another 5,000 ethereum:native worth $11.2M and now holds 6.065M ethereum:native , about 5% of the total supply.",
-    "url": "https://x.com/Cointelegraph/status/2117489449315480041",
-    "images": [
-      "https://pbs.twimg.com/media/HWK3IV5asAAoG6x.jpg",
-      "https://pbs.twimg.com/media/HWK3IWjasAAT4TD.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793684534948-fkhd26",
     "source": "x",
     "ts": "2026-11-03T05:42:14.948Z",
@@ -7864,5 +7832,42 @@
     "reason": "Vague opinion with no factual claim",
     "text": "🔥 INSIGHT: Swan Bitcoin CEO @CorySwan says it’s time to put the knife in this bear market. He’s ready to see $100K and a new all-time high.",
     "url": "https://x.com/Cointelegraph/status/2118116418981904565"
+  },
+  {
+    "id": "x-1793833941304-jp73v2",
+    "source": "x",
+    "ts": "2026-11-04T23:12:21.304Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T23:10:14.000Z",
+    "reason": "Emerging trend in DeFi industry with significant potential growth.",
+    "text": "⚡️ INSIGHT: Platforms bringing tokenized equities and high-quality businesses onchain are emerging as key growth drivers for DeFi and the broader crypto industry.",
+    "url": "https://x.com/Cointelegraph/status/2118118653715472418",
+    "images": [
+      "https://pbs.twimg.com/media/HWURsHPXkAAoCdr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793833946744-w14s9l",
+    "source": "x",
+    "ts": "2026-11-04T23:12:26.744Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-04T23:07:36.000Z",
+    "reason": "Specific, verifiable innovation in gold tokenization.",
+    "text": "🇭🇰 BIG: Hong Kong plans to tokenize 400-ounce gold bars in a push to become a global gold trading hub.\n\nHong Kong’s government says an interbank gold tokenization project is coming “very soon,” with each token representing one standard 400-ounce bar.\n\nHSBC’s retail gold token has",
+    "url": "https://x.com/coinbureau/status/2118117990453715395",
+    "images": [
+      "https://pbs.twimg.com/media/HWURE2LasAA-A0S.png",
+      "https://pbs.twimg.com/media/HWURE2KbcAAMRsn.png"
+    ],
+    "video": null
   }
 ]
