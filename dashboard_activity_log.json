@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1793637104353-khhiml",
-    "source": "x",
-    "ts": "2026-11-02T16:31:44.353Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-02T16:24:30.000Z",
-    "reason": "Specific institutional action with a notable price point mentioned",
-    "text": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-    "url": "https://x.com/DecryptMedia/status/2117291771340185629",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793637715515-bq9sdt",
-    "source": "x",
-    "ts": "2026-11-02T16:41:55.516Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T16:40:29.000Z",
-    "reason": "Bitcoin's loss streak is not considered newsworthy as it's within its recent price range.",
-    "text": "🚨 ALERT: Bitcoin recorded its longest streak of daily net realized losses since mid-August last week as sellers exited below $80,000, according to Glassnode.",
-    "url": "https://x.com/Cointelegraph/status/2117295796378828958",
-    "images": [
-      "https://pbs.twimg.com/media/HWIlTYAXAAEcm66.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793638351287-s9u5er",
-    "source": "x",
-    "ts": "2026-11-02T16:52:31.287Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T16:50:34.000Z",
-    "reason": "New token tracking feature available in the blockchain explorer.",
-    "text": "Pi Block Explorer Now Tracks Token Prices, and Anyone Can Use It\n\nThe @PiCoreTeam official Block Explorer lets anyone monitor real-time and historical on-chain activity on Testnet, Testnet2, and Mainnet without a $Pi account or Pi Browser.\n\nIn late October, it also enabled",
-    "url": "https://x.com/BSCNews/status/2117298331626152122",
-    "images": [
-      "https://pbs.twimg.com/media/HWInlnGWkAAHNAM.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793638354811-95l6yj",
     "source": "x",
     "ts": "2026-11-02T16:52:34.811Z",
@@ -7867,6 +7815,51 @@
     "url": "https://x.com/BSCNews/status/2117978196255576432",
     "images": [
       "https://pbs.twimg.com/media/HWSRZ3_W0AAlo3C.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793801546345-u7nucz",
+    "source": "x",
+    "ts": "2026-11-04T14:12:26.345Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-04T14:06:57.000Z",
+    "reason": "No notable move or specific event is highlighted.",
+    "text": "Polygon and Zcash are stealing the altcoin spotlight\n\n@0xPolygon $POL and @Zcash $ZEC are the two most sought-after altcoins currently ruling the crypto space.\n\nWhile POL is up 9%, ZEC is up almost 8% in the last 24 hours.\n\nBoth assets remain highly trending, suggesting investors",
+    "url": "https://x.com/BSCNews/status/2117981932025676048"
+  },
+  {
+    "id": "x-1793801551853-vap6xf",
+    "source": "x",
+    "ts": "2026-11-04T14:12:31.853Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T14:05:48.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Users come to Coinbase to keep their money secure. We make sure that stays true.\n\nSecure custody is daily work for us, not a one-time achievement.\n\nThat means 1:1 backing, &gt;99% of funds in offline cold storage today, audited financials, key splits, no single points of failure and",
+    "url": "https://x.com/coinbase/status/2117981643247952021"
+  },
+  {
+    "id": "x-1793801556698-k88gdy",
+    "source": "x",
+    "ts": "2026-11-04T14:12:36.698Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-04T14:01:32.000Z",
+    "reason": "Notable institutional Bitcoin mining company activity.",
+    "text": "🚨 BIG: Riot Platforms, the second-largest publicly listed Bitcoin mining company, sells 10,599 Bitcoin in Q3.",
+    "url": "https://x.com/Cointelegraph/status/2117980567631192432",
+    "images": [
+      "https://pbs.twimg.com/media/HWSUF81X0AE85RL.jpg",
+      "https://pbs.twimg.com/media/HWSUGWTXgAALG1a.jpg"
     ],
     "video": null
   }
