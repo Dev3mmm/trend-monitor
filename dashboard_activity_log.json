@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1793680322564-45zzyk",
-    "source": "x",
-    "ts": "2026-11-03T04:32:02.564Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T04:30:00.000Z",
-    "reason": "Specific institutional action with potential long-term impact on the token.",
-    "text": "🚨 UPDATE: NEAR Protocol says its proposal to cut NEAR’s max annual issuance from 2.5% to 1.6% has passed, with the change to be phased in over 24 months.",
-    "url": "https://x.com/Cointelegraph/status/2117474349099917479",
-    "images": [
-      "https://pbs.twimg.com/media/HWKz__6aYAAjxcZ.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793680918246-jll50d",
-    "source": "x",
-    "ts": "2026-11-03T04:41:58.246Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-03T04:41:15.000Z",
-    "reason": "Notable increase in XRP wallet addresses.",
-    "text": "XRP Sees One of its Biggest Wallet Surges This Year\n\nXRP Ledger (@XRP) $XRP recorded 7,934 new wallets on November 1, according to Santiment. This ranks as the sixth-largest number of new addresses added within one day in 2026.\n\nThe increase comes as XRP trades near $1.25,",
-    "url": "https://x.com/BSCNews/status/2117477180611645457",
-    "images": [
-      "https://pbs.twimg.com/media/HWLGj8KaMAADlIx.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793681527972-4vdmy4",
-    "source": "x",
-    "ts": "2026-11-03T04:52:07.972Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 55,
-    "originTimestamp": "2026-11-03T03:56:39.000Z",
-    "reason": "No relevant information about crypto or financial market is provided.",
-    "text": "Starlink saves lives",
-    "url": "https://x.com/elonmusk/status/2117479668768981376"
-  },
-  {
     "id": "x-1793682126581-68uk78",
     "source": "x",
     "ts": "2026-11-03T05:02:06.581Z",
@@ -7856,6 +7807,59 @@
     "text": "🇺🇸 LATEST: Trump-linked tokens led crypto losses after Democrats swept the US midterm elections.\n\n$TRUMP plunged 17% to $1.33, $WLFI fell over 7% to $0.047, and $MELANIA dropped nearly 13%, while Bitcoin gained 4% and Ethereum rose 6%.\n\nThe Democratic takeover of Congress raises",
     "url": "https://x.com/Cointelegraph/status/2118109840241213661",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793832811994-h5dnvh",
+    "source": "x",
+    "ts": "2026-11-04T22:53:31.994Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-04T22:50:14.000Z",
+    "reason": "No concrete evidence of a US election result affecting Bitcoin, price predictions are not news.",
+    "text": "🚨 INSIGHT: Peter Schiff warns that the US election results are bearish for Bitcoin, predicting increased congressional scrutiny of Trump could trigger a sell-off.",
+    "url": "https://x.com/Cointelegraph/status/2118113620982743112",
+    "images": [
+      "https://pbs.twimg.com/media/HWUNHD3WIAAKxTC.jpg",
+      "https://pbs.twimg.com/media/HWUNHP5XYAA_LXx.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793832814670-s06bz7",
+    "source": "x",
+    "ts": "2026-11-04T22:53:34.670Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T22:47:15.000Z",
+    "reason": "Bitcoin's next soft fork could signal important changes in the network.",
+    "text": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+    "url": "https://x.com/DecryptMedia/status/2118112869174673413",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793832817994-hurfhr",
+    "source": "x",
+    "ts": "2026-11-04T22:53:37.994Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-04T22:43:00.000Z",
+    "reason": "Notable institutional adoption and compliance alignment.",
+    "text": "Chainlink tech backs a Swift-aligned onchain bond test\n\n@ApexGlobalGroup, which services more than $3.5T in assets, demonstrated an onchain bond setup with @trex_network and @ERC3643Org that applies one set of compliance rules on every chain the bond moves to. The rules follow",
+    "url": "https://x.com/BSCNews/status/2118111799354478927",
+    "images": [
+      "https://pbs.twimg.com/media/HWT7kluWAAAGsIm.jpg"
+    ],
     "video": null
   }
 ]
