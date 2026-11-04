@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793646725401-45o3gk",
-    "source": "x",
-    "ts": "2026-11-02T19:12:05.401Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-02T19:00:38.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "New since September:\n\n→ Trade stock options with zero commissions\n→ Get up to $5K for running a @base community\n→ Recoup up to 50% of your swap fees on @coinbasewallet\n→ Have your agent trade perps, or buy a domain with stablecoins (among other things)\n\nOctober @Coinbase ↓",
-    "url": "https://x.com/coinbase/status/2117332285288784054"
-  },
-  {
     "id": "x-1793646730656-2blq7a",
     "source": "x",
     "ts": "2026-11-02T19:12:10.656Z",
@@ -7856,5 +7843,23 @@
     "reason": "No notable move in crypto markets.",
     "text": "🇺🇸 HUGE: The US stock market added $900 billion in market capitalization at the opening bell.",
     "url": "https://x.com/Cointelegraph/status/2118003644079468967"
+  },
+  {
+    "id": "x-1793807541532-h9wzjx",
+    "source": "x",
+    "ts": "2026-11-04T15:52:21.532Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-04T15:48:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "KForge Brings the Pump(.)fun-Style Launchpad Experience to Kaspa\n\n@KForge_xyz launchpad has launched on the @kaspaunchained mainnet. \n\nThis provides non-custodial bonding curves through Toccata smart covenants, which enable users to launch tokens within 60 seconds.\n\nThe protocol",
+    "url": "https://x.com/BSCNews/status/2118007361767895127",
+    "images": [
+      "https://pbs.twimg.com/media/HWShWcdWUAAwuMI.jpg"
+    ],
+    "video": null
   }
 ]
