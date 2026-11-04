@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793676691108-g2exf9",
-    "source": "x",
-    "ts": "2026-11-03T03:31:31.108Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "PeckShieldAlert",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-03T03:30:27.000Z",
-    "reason": "Exploit involving a significant amount of funds transferred to a new blockchain.",
-    "text": "#PeckShieldAlert The #BlueMove hacker-labeled address bridged 115K $USDC from #Ethereum to #Hyperliquid and bought 188.25 $XMR at $608.43.\n\nOn July 11, 2026, BlueMove DEX, an AMM on the #Sui &amp; #Aptos, fell victim to an exploit in which an attacker drained 710,670 $SUI (valued at",
-    "url": "https://x.com/PeckShieldAlert/status/2117459362176196627",
-    "images": [
-      "https://pbs.twimg.com/media/HWK6CnYbIAAGvlB.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793676693463-jyav7r",
-    "source": "x",
-    "ts": "2026-11-03T03:31:33.463Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-03T03:30:00.000Z",
-    "reason": "No notable move described, price is not outside the recent trading range.",
-    "text": "CFTC Chair: Binance Hack Once Again Shows Offshore Exchanges Need U.S. Regulation  \n\nOn December 30, 2026, CFTC Chair Michael Selig @ChairmanSelig said in an interview that the Binance hack highlighted the lack of safeguards at offshore crypto exchanges equivalent to those in",
-    "url": "https://x.com/WuBlockchain/status/2117459252650373166"
-  },
-  {
     "id": "x-1793678553630-bxmhqy",
     "source": "x",
     "ts": "2026-11-03T04:02:33.630Z",
@@ -7861,5 +7830,36 @@
     "url": "https://x.com/Cointelegraph/status/2118093483672043551",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793828887828-qkab9b",
+    "source": "x",
+    "ts": "2026-11-04T21:48:07.828Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T21:46:00.000Z",
+    "reason": "Notable move for a top 100 coin with a significant 8.66% gain.",
+    "text": "Injective leads the top 100 gainers as the market bounces\n\n$INJ, the token behind @injective, climbed nearly 8.66% over the last 24 hours to $7.93, the biggest gain among CoinGecko’s top 100 coins. It traded between $7.01 and $7.96 today on about $90M in volume, lifting its",
+    "url": "https://x.com/BSCNews/status/2118097454835138584",
+    "images": [
+      "https://pbs.twimg.com/media/HWT4w31XQAAQQBJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793828892253-ytot2h",
+    "source": "x",
+    "ts": "2026-11-04T21:48:12.253Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-04T21:44:36.000Z",
+    "reason": "No notable move or specific, verifiable event.",
+    "text": "JUST IN: 68.2% of 2026 midterm winners have been pro-crypto, according to Stand With Crypto 🇺🇸\n\n245 pro-crypto candidates have been elected so far! 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2118097102374924372"
   }
 ]
