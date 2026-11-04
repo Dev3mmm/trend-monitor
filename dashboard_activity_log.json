@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793626927820-mfmzec",
-    "source": "x",
-    "ts": "2026-11-02T13:42:07.820Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 60,
-    "originTimestamp": "2026-11-02T12:41:26.000Z",
-    "reason": "Generic financial comparison without crypto specifics or on-chain data.",
-    "text": "参加币安这个活动存 20 天\n相当于在银行里边存定期，存 8 个月\n\n100 万人民币存银行定期\n一年利息 9500 块\n\n同样 100 万换成 U 放进币安\n20 天拿 6300 块，钱还随时能提\n\nUSDC 年化 11.5%，是活期，不是定期\n\nVIP 4 以上，前 30 万 U 都是 11.5%\nVIP 1 到 3 是 11%\n普通用户 10.5%，不到 5 万的 10%",
-    "url": "https://x.com/cz_binance/status/2117250693010743754"
-  },
-  {
-    "id": "x-1793626931386-vlfadf",
-    "source": "x",
-    "ts": "2026-11-02T13:42:11.386Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-02T13:35:15.000Z",
-    "reason": "The tweet mentions a specific and notable event (the Binance Hack) and its implications.",
-    "text": "Morning Minute: The Binance Hack Leads to Mass Outflows while FBI Opens Probe",
-    "url": "https://x.com/DecryptMedia/status/2117249177662984200",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793627539935-a1izq3",
     "source": "x",
     "ts": "2026-11-02T13:52:19.935Z",
@@ -7850,5 +7821,41 @@
     "reason": "Diwali is not a cryptocurrency-related event.",
     "text": "I think this Friday is a Diwali Holiday.",
     "url": "https://x.com/amerix/status/2117891623942004849"
+  },
+  {
+    "id": "x-1793780589848-93eq6m",
+    "source": "x",
+    "ts": "2026-11-04T08:23:09.848Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T08:21:20.000Z",
+    "reason": "Political shift impacting crypto advocacy.",
+    "text": "Trump's Crypto Agenda Just Lost its Biggest Advantage  \n\nDonald Trump (@realDonaldTrump) now faces a Democratic-controlled House and Senate for his final two years in office.  \n\nDemocrats have taken control of both chambers of Congress in the 2026 midterm elections, securing 54",
+    "url": "https://x.com/BSCNews/status/2117894956128084100",
+    "images": [
+      "https://pbs.twimg.com/media/HWRFP1LbQAAHGvZ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793780594616-gsmdrz",
+    "source": "x",
+    "ts": "2026-11-04T08:23:14.616Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T08:20:43.000Z",
+    "reason": "Notable short opening by a whale in a high-profile crypto project pre-IPO.",
+    "text": "⚡️ NEW: A whale has opened about $30.1M in shorts on Anthropic pre-IPO perps on Hyperliquid, with 6x leverage across two markets.",
+    "url": "https://x.com/Cointelegraph/status/2117894799772549624",
+    "images": [
+      "https://pbs.twimg.com/media/HWRGGIeXsAA-0Qs.jpg"
+    ],
+    "video": null
   }
 ]
