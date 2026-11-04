@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793655386065-6lka01",
-    "source": "x",
-    "ts": "2026-11-02T21:36:26.065Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 24,
-    "originTimestamp": "2026-11-02T21:12:00.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "BREAKING: 🇺🇸 The Nasdaq 100 wipes out more than $1,000,000,000,000 in 5 hours, turning a 1.3% morning gain into a 1.3% loss.\n\nChip and storage stocks are leading the drop:\n\n$MRVL 🔻13.0%\n$INTC 🔻8.9%\n$STX 🔻8.1%\n$AMD 🔻7.4%\n$WDC 🔻7.4%\n$SNDK 🔻7.3%\n$MU 🔻5.6%\n$LRCX 🔻5.2%\n$MSFT",
-    "url": "https://x.com/coinbureau/status/2117364122761265338"
-  },
-  {
-    "id": "x-1793655719814-c1pn5a",
-    "source": "x",
-    "ts": "2026-11-02T21:41:59.814Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T21:40:30.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇺🇸 LATEST: US Treasury Secretary Scott Bessent said equipment investment hit a record high, growing at a 16.6% annualized pace in Q1–Q3 2026, the fastest in 16 years.",
-    "url": "https://x.com/Cointelegraph/status/2117371295344001404"
-  },
-  {
-    "id": "x-1793655725494-r2ih0l",
-    "source": "x",
-    "ts": "2026-11-02T21:42:05.494Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T21:40:12.000Z",
-    "reason": "No notable move, price is well within recent range.",
-    "text": "🚨BREAKING: Apple keeps falling despite posting a RECORD $114.5 BILLION Q4, with HALF its earnings beat from tariff REFUNDS.\n\nApple earned $2.10 per share vs the $2.00 expected, and $0.05 of that came from tariff refunds.\n\niPhone sales hit a Q4 RECORD of $57.6 BILLION, above the",
-    "url": "https://x.com/coinbureau/status/2117371222501757338"
-  },
-  {
-    "id": "x-1793656315237-ol68qq",
-    "source": "x",
-    "ts": "2026-11-02T21:51:55.237Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-02T21:44:00.000Z",
-    "reason": "New use of a token (SEI) in a unique blockchain design.",
-    "text": "Sei Labs maps out how blockchains could let many validators build each block at once\n\nResearchers from @Sei_Labs, the team behind @SeiNetwork ($SEI), and Solana developer @anza_xyz published a paper comparing 39 designs where several validators add transactions to the same block",
-    "url": "https://x.com/BSCNews/status/2117372175971680549",
-    "images": [
-      "https://pbs.twimg.com/media/HWJgrBQWsAAfvIO.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793656320661-qpk2b9",
     "source": "x",
     "ts": "2026-11-02T21:52:00.661Z",
@@ -7841,6 +7784,66 @@
     "reason": "$STRC is hitting a significant price milestone.",
     "text": "$STRC has hit $100.00.",
     "url": "https://x.com/saylor/status/2118040426078990467",
+    "images": [
+      "https://pbs.twimg.com/media/HWTGaJpXEAAtRQi.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793815906217-xl9hie",
+    "source": "x",
+    "ts": "2026-11-04T18:11:46.217Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T18:10:20.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "BREAKING: Michael Saylor's STRC has returned to par for the first time since May! 👀\n\nThey will start buying more bitcoin as soon as it goes above $100 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2118043181866430919"
+  },
+  {
+    "id": "x-1793815910391-4m2al9",
+    "source": "x",
+    "ts": "2026-11-04T18:11:50.391Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T18:10:14.000Z",
+    "reason": "No notable move in the highlighted assets.",
+    "text": "⚡️ LATEST: Bitwise CIO Matt Hougan says crypto is showing signs of maturity as election-linked tokens like $TRUMP and $WLFI plunge while $BTC, $ETH, and $SOL remain resilient.",
+    "url": "https://x.com/Cointelegraph/status/2118043156495139007"
+  },
+  {
+    "id": "x-1793815914008-6hu2s1",
+    "source": "x",
+    "ts": "2026-11-04T18:11:54.008Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-04T18:06:11.000Z",
+    "reason": "New use of a token/stablecoin",
+    "text": "What Is x402? How AI Agents Pay With Crypto",
+    "url": "https://x.com/DecryptMedia/status/2118042136398491948",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793815917604-4liz6w",
+    "source": "x",
+    "ts": "2026-11-04T18:11:57.604Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Michael Saylor",
+    "ageMin": 29,
+    "originTimestamp": "2026-11-04T17:42:45.000Z",
+    "reason": "Specific price movement well outside the recent range for STRC.",
+    "text": "$STRC has hit $100.00.",
+    "url": "https://x.com/saylor/status/2118041431579168792",
     "images": [
       "https://pbs.twimg.com/media/HWTGaJpXEAAtRQi.png"
     ],
