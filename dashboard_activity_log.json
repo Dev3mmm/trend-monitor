@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793616134414-umgku5",
-    "source": "x",
-    "ts": "2026-11-02T10:42:14.414Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-02T10:36:01.000Z",
-    "reason": "The tweet provides specific details about a significant hack event.",
-    "text": "🚨 ICYMI: Binance got hacked for $6.3B last week, the largest theft in crypto history.\n\nHere’s how it unfolded:\n\n&gt; suspicious wallet transfers flagged on Oct. 29\n&gt; Tether and Circle freeze over $2.36B\n&gt; Binance pauses withdrawals, pledges to cover all losses\n&gt; Aave freezes",
-    "url": "https://x.com/Cointelegraph/status/2117204075129298997",
-    "images": [
-      "https://pbs.twimg.com/media/HWHRwN4aEAEqdcd.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793617335611-9jyeih",
-    "source": "x",
-    "ts": "2026-11-02T11:02:15.611Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T11:00:02.000Z",
-    "reason": "No notable crypto-related event or movement mentioned.",
-    "text": "OpenAI Signs Four Agreements With Abu Dhabi Entities Including ADNOC and Mubadala.\n\nADNOC becomes the first energy company to deploy OpenAI's frontier technology under the deals, which also launch an AI-native \"Machine-Readable Government\" initiative, the Abu Dhabi Media Office",
-    "url": "https://x.com/DecryptMedia/status/2117210116185526727"
-  },
-  {
     "id": "x-1793617339519-afz63b",
     "source": "x",
     "ts": "2026-11-02T11:02:19.519Z",
@@ -7857,6 +7826,37 @@
     "images": [
       "https://pbs.twimg.com/media/HWQQRZhWgAAYaeX.jpg",
       "https://pbs.twimg.com/media/HWQQRkUXAAAnRuD.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793767310448-120zlc",
+    "source": "x",
+    "ts": "2026-11-04T04:41:50.448Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T04:35:06.000Z",
+    "reason": "The tweet is a political update, not related to cryptocurrencies.",
+    "text": "🇺🇸 It's Official. \n\nDemocrats win both the US House and Senate, seizing control from Republicans.\n\nJames Talarico has defeated Ken Paxton in Texas, delivering Democrats their first U.S. Senate election victory in the state since 1988.\n\nIn Ohio, Sherrod Brown defeated Jon Husted,",
+    "url": "https://x.com/coinbureau/status/2117838023308304446"
+  },
+  {
+    "id": "x-1793767313462-ld97l5",
+    "source": "x",
+    "ts": "2026-11-04T04:41:53.462Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-04T04:32:31.000Z",
+    "reason": "Noteworthy institutional move with impact on the near protocol ecosystem.",
+    "text": "NEAR Plans to Take Millions of Tokens Out of Future Issuance\n\nNEAR Protocol's (@NEARProtocol) $NEAR House of Stake has approved a proposal to reduce maximum annual token issuance from 2.5% to 1.6%.\n\nThe change will roll out gradually over 24 months, reducing the issuance ceiling",
+    "url": "https://x.com/BSCNews/status/2117837371400159729",
+    "images": [
+      "https://pbs.twimg.com/media/HWQPVZjbgAAF4KD.png"
     ],
     "video": null
   }
