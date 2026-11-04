@@ -1,9 +1,5 @@
 {
   "seen": [
-    "x-1792436034687-xslgry",
-    "x-1792436038152-4q08xo",
-    "x-1792436666947-if4v03",
-    "x-1792437769259-fhs5bn",
     "x-1792437772899-nwl8ar",
     "x-1792439546413-md1cyw",
     "x-1792439549945-rmca8u",
@@ -1999,18 +1995,13 @@
     "x-1793772116963-gw6jgk",
     "x-1793772119331-rxpncc",
     "x-1793773913675-yj9jc9",
-    "x-1793773915978-p1sj5s"
+    "x-1793773915978-p1sj5s",
+    "x-1793775742451-f4dw1l",
+    "x-1793775748214-eoxtay",
+    "x-1793775753085-t7lw4i",
+    "x-1793775759087-rk99hl"
   ],
   "queue": [
-    {
-      "text": "🚨BREAKING: Bitcoin plunges BELOW $76,000 for the first time since September 16.\n\nNearly $250 MILLION in leveraged crypto positions have been liquidated over the past four hours as the selloff intensifies.",
-      "url": "https://x.com/coinbureau/status/2117848061309596127",
-      "images": [
-        "https://pbs.twimg.com/media/HWQQwREboAARTKU.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793769749951
-    },
     {
       "text": "🚨 NEW: BNB treasury company, BNB Standard Corporation, appoints SkyBridge Capital founder Anthony Scaramucci to its board as an independent director.",
       "url": "https://x.com/Cointelegraph/status/2117859635436626147",
@@ -2030,17 +2021,18 @@
       ],
       "video": null,
       "enqueuedAt": 1793773916517
+    },
+    {
+      "text": "🚨 NEW: Grayscale Head of Research Zach Pandl says the $6B Binance hack will ultimately lead to stronger exchange security and highlights the value of institutional custody via US crypto ETPs.",
+      "url": "https://x.com/Cointelegraph/status/2117874726248808504",
+      "images": [
+        "https://pbs.twimg.com/media/HWQz1tsXgAAqZYV.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793775759849
     }
   ],
   "posted": [
-    {
-      "text": "🚨 INSIGHT: Is quantum risk capping Bitcoin’s price? \n\nMarkus Thielen (@markus10x), founder of 10x Research, says on #TRADESECRETS there is “certainly” a ceiling on BTC right now as quantum fears persist.",
-      "final": "🚨 INSIGHT: Is quantum risk capping Bitcoin’s price? \n\nMarkus Thielen (@markus10x), founder of 10x Research, says on #TRADESECRETS there is “certainly” a ceiling on BTC right now as quantum fears persist.\n\n#Bitcoin $BTC",
-      "images": [],
-      "at": 1793602340783,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/383840896450525?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🇺🇸 ETF FLOWS: XRP spot ETFs saw net inflows last week, while BTC, ETH and SOL spot ETFs saw net outflows.\n\nBTC: -$202.59M\nETH: -$431.53M\nSOL: -$71.47M\nXRP: $4.32M",
       "final": "🇺🇸 ETF FLOWS: XRP spot ETFs saw net inflows last week, while BTC, ETH and SOL spot ETFs saw net outflows.\n\nBTC: -$202.59M\nETH: -$431.53M\nSOL: -$71.47M\nXRP: $4.32M\n\n#Bitcoin $BTC #Ethereum $ETH #Solana $SOL #ETF",
@@ -2760,7 +2752,16 @@
       "at": 1793773916517,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384543664487086?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨BREAKING: Bitcoin plunges BELOW $76,000 for the first time since September 16.\n\nNearly $250 MILLION in leveraged crypto positions have been liquidated over the past four hours as the selloff intensifies.",
+      "final": "🚨BREAKING: Bitcoin plunges BELOW $76,000 for the first time since September 16.\n\nNearly $250 MILLION in leveraged crypto positions have been liquidated over the past four hours as the selloff intensifies.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWQQwREboAARTKU.jpg"
+      ],
+      "at": 1793775759849,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793773916517
+  "lastPostAt": 1793775759849
 }
