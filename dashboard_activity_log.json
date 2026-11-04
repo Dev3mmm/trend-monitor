@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793668330160-sz19xv",
-    "source": "x",
-    "ts": "2026-11-03T01:12:10.160Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-03T01:08:26.000Z",
-    "reason": "Specific information about Tether's Bitcoin holdings.",
-    "text": "Tether CEO Says Company Owns Approximately 150,000 Bitcoin\n\nTether CEO Paolo Ardoino said during his keynote at the Plan ₿ Forum in Lugano that the company owns approximately 150,000 BTC. He also claimed that Tether serves more than 730 million users globally, adding around 30",
-    "url": "https://x.com/WuBlockchain/status/2117423625661976942",
-    "images": [
-      "https://pbs.twimg.com/media/HWKZjZ4bEAAXO_X.jpg",
-      "https://pbs.twimg.com/media/HWKZjm8bsAAz-Qn.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793669533440-rtwz9g",
-    "source": "x",
-    "ts": "2026-11-03T01:32:13.440Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-03T01:30:33.000Z",
-    "reason": "Security incident affecting Mercado Bitcoin with asset protection measures initiated.",
-    "text": "🚨 UPDATE: Mercado Bitcoin says about $38M was affected in today’s security incident, with $11M already blocked with help from Tether, Circle and others.\n\nThe exchange says users will not lose any assets.",
-    "url": "https://x.com/Cointelegraph/status/2117429188009316624",
-    "images": [
-      "https://pbs.twimg.com/media/HWKenfoXcAANmGH.jpg",
-      "https://pbs.twimg.com/media/HWKenzoWgAAdx7L.jpg",
-      "https://pbs.twimg.com/media/HWKen_1XIAAgRfy.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793669537562-9ag5sa",
-    "source": "x",
-    "ts": "2026-11-03T01:32:17.562Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-03T01:27:00.000Z",
-    "reason": "Large-scale selling of SOL tokens by an unknown entity detected.",
-    "text": "Mysterious whale is dumping vast amounts of $SOL ...\n\nAccording to @lookonchain data, an unknown whale is viciously selling off @Solana tokens.\n\nIn the past 10 days alone, they sent a staggering 1.49M $SOL, worth $148.77M, to various centralised exchanges.\n\nSomeone is very",
-    "url": "https://x.com/BSCNews/status/2117428295536951733",
-    "images": [
-      "https://pbs.twimg.com/media/HWG_P_NWwAAFvFk.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793671351894-uwf1nx",
     "source": "x",
     "ts": "2026-11-03T02:02:31.894Z",
@@ -7870,5 +7813,49 @@
       "https://pbs.twimg.com/media/HWTdOLDW8AAjr3G.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793824343848-2q4o7v",
+    "source": "x",
+    "ts": "2026-11-04T20:32:23.848Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T20:30:16.000Z",
+    "reason": "Nasdaq listing of a crypto ETF is notable institutional adoption.",
+    "text": "⚡️ JUST IN: Nasdaq has approved the listing of Canary Capital’s Injective ETF featuring staking rewards.",
+    "url": "https://x.com/Cointelegraph/status/2118078397075079187",
+    "images": [
+      "https://pbs.twimg.com/media/HWTtEqhWsAA162c.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793824346975-517iad",
+    "source": "x",
+    "ts": "2026-11-04T20:32:26.975Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T20:25:31.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Bitcoin is resilient.",
+    "url": "https://x.com/cz_binance/status/2118077202764013695"
+  },
+  {
+    "id": "x-1793824351860-yyfiua",
+    "source": "x",
+    "ts": "2026-11-04T20:32:31.860Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 20,
+    "originTimestamp": "2026-11-04T20:11:28.000Z",
+    "reason": "No notable crypto-related news or move is mentioned.",
+    "text": "Anthropic Says Claude Helped Map the First 3D Structure of a Vault Particle From Bacterial Life.\n\nAnthropic said a vault purification that conventionally takes three days took its team about 90 minutes, a first structural model was ready 34 hours later, and results are in a",
+    "url": "https://x.com/DecryptMedia/status/2118076966033113436"
   }
 ]
