@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792422729369-obqy0r",
-    "x-1792422734129-oadop6",
     "x-1792423336571-bj1gm1",
     "x-1792423341022-m0nr14",
     "x-1792423928576-xlxpvu",
@@ -1999,29 +1997,11 @@
     "x-1793749934519-gjvf9x",
     "x-1793749941859-gcid5y",
     "x-1793752305011-dkc6ro",
-    "x-1793752307565-gky3kd"
+    "x-1793752307565-gky3kd",
+    "x-1793754141986-jswfho",
+    "x-1793754147798-zbu3xs"
   ],
   "queue": [
-    {
-      "text": "🔥 NEW: Shopify works with Coinbase to build the Commerce Payments Protocol on Base for stablecoin payments.",
-      "url": "https://x.com/Cointelegraph/status/2117736445724999768",
-      "images": [
-        "https://pbs.twimg.com/media/HWO2ElBXEAAuCpF.jpg",
-        "https://pbs.twimg.com/media/HWO2EwlXYAANJ8c.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793742832936
-    },
-    {
-      "text": "🔥 LATEST: Coinbase ($COIN) shares climb 5.7% in a single trading day.",
-      "url": "https://x.com/Cointelegraph/status/2117738743079608489",
-      "images": [
-        "https://pbs.twimg.com/media/HWO4KQlWgAAg-n8.jpg",
-        "https://pbs.twimg.com/media/HWO4KdWWMAA0omd.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793743410773
-    },
     {
       "text": "JUST IN: 🇺🇸 US Treasury Department to buy back up to $6 billion in longer-term debt AGAIN tomorrow 👀    \n\nBuy Bitcoin 🚀",
       "url": "https://x.com/BitcoinMagazine/status/2117744680079372429",
@@ -2086,19 +2066,19 @@
       ],
       "video": null,
       "enqueuedAt": 1793752308247
+    },
+    {
+      "text": "🇺🇸 TODAY: Canton Network’s Canton Coin wins an SEC no-action letter that deems it a “digital commodity,” with no securities registration required.",
+      "url": "https://x.com/Cointelegraph/status/2117784104284393484",
+      "images": [
+        "https://pbs.twimg.com/media/HWPhaV1X0AAiMxQ.png",
+        "https://pbs.twimg.com/media/HWPhaw6WkAAy5XS.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793754154146
     }
   ],
   "posted": [
-    {
-      "text": "🇺🇸 BIG: Crypto has poured $176 million into the 2026 US midterms, per Reuters.\n\nFairshake and its affiliates alone have spent ~$154M, including ~56M to stop Sherrod Brown's Senate comeback in Ohio.\n\nElection Day is tomorrow.",
-      "final": "🇺🇸 BIG: Crypto has poured $176 million into the 2026 US midterms, per Reuters.\n\nFairshake and its affiliates alone have spent ~$154M, including ~56M to stop Sherrod Brown's Senate comeback in Ohio.\n\nElection Day is tomorrow.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HWFKt-6XkAEoE_A.jpg"
-      ],
-      "at": 1793580719652,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/383752327645623?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.",
       "final": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.\n\n#Solana $SOL",
@@ -2765,7 +2745,17 @@
       "at": 1793752308247,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384455126999985?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 LATEST: Coinbase ($COIN) shares climb 5.7% in a single trading day.",
+      "final": "🔥 LATEST: Coinbase ($COIN) shares climb 5.7% in a single trading day.\n\n#Crypto #Coinbase",
+      "images": [
+        "https://pbs.twimg.com/media/HWO4KQlWgAAg-n8.jpg",
+        "https://pbs.twimg.com/media/HWO4KdWWMAA0omd.jpg"
+      ],
+      "at": 1793754154146,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793752308247
+  "lastPostAt": 1793754154146
 }
