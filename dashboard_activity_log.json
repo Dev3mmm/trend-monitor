@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1793623337908-itixv8",
-    "source": "x",
-    "ts": "2026-11-02T12:42:17.908Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-02T12:34:16.000Z",
-    "reason": "Generic market commentary without specific factual claims or data.",
-    "text": "🔥Tom Lee says investors are waiting for the midterms before BUYING the dip.\n\n“There still is PLENTY of money sloshing around.”\n\n“Our institutional investors just don’t have CONVICTION until after midterm.”",
-    "url": "https://x.com/coinbureau/status/2117233831103365448"
-  },
-  {
-    "id": "x-1793624533568-q137wh",
-    "source": "x",
-    "ts": "2026-11-02T13:02:13.568Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-02T12:49:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "New update, seems mostly PoR (proof-of-reserve) related.",
-    "url": "https://x.com/cz_binance/status/2117240423576162481"
-  },
-  {
-    "id": "x-1793624538160-l6v0q5",
-    "source": "x",
-    "ts": "2026-11-02T13:02:18.160Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T13:00:01.000Z",
-    "reason": "Binance HACKED is a notable event that could impact crypto markets.",
-    "text": "Bitcoin Below $80K, Binance HACKED &amp; Tech Stocks CRASH",
-    "url": "https://x.com/coinbureau/status/2117240312649162993",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793624543440-592aro",
     "source": "x",
     "ts": "2026-11-02T13:02:23.440Z",
@@ -7848,5 +7806,55 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Data centers in space looking pretty appealing right now",
     "url": "https://x.com/elonmusk/status/2117862462976594112"
+  },
+  {
+    "id": "x-1793773910903-o3vkg5",
+    "source": "x",
+    "ts": "2026-11-04T06:31:50.903Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T06:30:47.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇰🇵 LATEST: North Korea says it sees no need for talks with Washington for now, as Kim Yo Jong says the FBI’s $6B Binance hack accusation shows the US “hostile policy.”",
+    "url": "https://x.com/Cointelegraph/status/2117867132910260600"
+  },
+  {
+    "id": "x-1793773913675-yj9jc9",
+    "source": "x",
+    "ts": "2026-11-04T06:31:53.675Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T06:30:05.000Z",
+    "reason": "Stellar introduces major changes for developers and network infrastructure with Protocol 30.",
+    "text": "Stellar's Latest Upgrade Brings Quantum Safe Smart Contracts\n\nStellar (@StellarOrg) stellar:native has launched Protocol 30, known as Bell, on testnet ahead of a November 23 mainnet vote.\n\nThe upgrade introduces three major changes for developers and network infrastructure.",
+    "url": "https://x.com/BSCNews/status/2117866958494585289",
+    "images": [
+      "https://pbs.twimg.com/media/HWQjydsaMAAKp1D.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793773915978-p1sj5s",
+    "source": "x",
+    "ts": "2026-11-04T06:31:55.978Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T06:30:00.000Z",
+    "reason": "AI project generating significant earnings and growth.",
+    "text": "Targon, the AI cloud on Bittensor's Subnet 4, made $1,204,723.71 in October, its first $1M month and almost double its previous best, August's $605,139.32.\n\nIt now brings in more than $40,000 a day.\n\n@opentensor",
+    "url": "https://x.com/coinbureau/status/2117866937354961134",
+    "images": [
+      "https://pbs.twimg.com/media/HWQlSxUaAAAEXuY.png",
+      "https://pbs.twimg.com/media/HWQlSxLboAALKiW.png"
+    ],
+    "video": null
   }
 ]
