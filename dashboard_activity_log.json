@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793622107042-a2ic4o",
-    "source": "x",
-    "ts": "2026-11-02T12:21:47.042Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T12:19:43.000Z",
-    "reason": "Exploit recovery and asset salvage from a crypto attack.",
-    "text": "Core’s Hard Fork Recovers Funds From the Attackers\n\n@b14g_network reported that the @Coredao_Org network hard-fork on November 2, recovered 68,146,177 $CORE from three attacker-controlled addresses. \n\nThe assets were saved from an October 31 event involving nearly 97.05M CORE.",
-    "url": "https://x.com/BSCNews/status/2117230170327204129",
-    "images": [
-      "https://pbs.twimg.com/media/HWHpHAPWgAA1chD.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793622782708-sm8djn",
-    "source": "x",
-    "ts": "2026-11-02T12:33:02.708Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-02T12:30:39.000Z",
-    "reason": "Notable institutional investment and share repurchase by Metaplanet",
-    "text": "🇯🇵 LATEST: Metaplanet bought back 96.45M shares for ¥25.27B between Oct. 14 and 31.",
-    "url": "https://x.com/Cointelegraph/status/2117232921756979610",
-    "images": [
-      "https://pbs.twimg.com/media/HWHsGytWEAA396c.jpg",
-      "https://pbs.twimg.com/media/HWHsHmKWIAA39sR.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793622786135-6mzr3h",
-    "source": "x",
-    "ts": "2026-11-02T12:33:06.135Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-02T12:30:01.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "Goldman Sachs Raises December Brent Forecast to $105 From $90.\n\nThe bank also lifted its 2027 average Brent forecast to $88 a barrel from $80, citing high supply disruption risk from the Middle East and Russia-Ukraine conflicts, according to a note led by strategist Daan",
-    "url": "https://x.com/DecryptMedia/status/2117232762188910707"
-  },
-  {
     "id": "x-1793622789365-3v27vb",
     "source": "x",
     "ts": "2026-11-02T12:33:09.365Z",
@@ -7857,5 +7807,55 @@
     "reason": "No notable move in crypto related to the tweet.",
     "text": "🇺🇸 NOW: President Trump says the Iran war is partly to blame for Republican losses in the midterms, though he still has no regrets about the decision to start it, per WSJ.",
     "url": "https://x.com/Cointelegraph/status/2117854378124284307"
+  },
+  {
+    "id": "x-1793772116963-gw6jgk",
+    "source": "x",
+    "ts": "2026-11-04T06:01:56.963Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T06:00:59.000Z",
+    "reason": "Notable board appointment involving a significant cryptocurrency company.",
+    "text": "🚨 NEW: BNB treasury company, BNB Standard Corporation, appoints SkyBridge Capital founder Anthony Scaramucci to its board as an independent director.",
+    "url": "https://x.com/Cointelegraph/status/2117859635436626147",
+    "images": [
+      "https://pbs.twimg.com/media/HWQmGiMXUAAsfza.jpg",
+      "https://pbs.twimg.com/media/HWQmGzHXUAAqiD-.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793772119331-rxpncc",
+    "source": "x",
+    "ts": "2026-11-04T06:01:59.331Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-04T05:58:56.000Z",
+    "reason": "Serious security concerns highlighted by Binance co-founder CZ",
+    "text": "CZ Says Binance Hack Exposed 'Serious Security Failures'\n\nBinance co-founder (@cz_binance) says the exchange cannot use the fact that no platform is unhackable to excuse its security failures.\n\nThe October 29 attack was not a simple breach. It reportedly followed a prolonged",
+    "url": "https://x.com/BSCNews/status/2117859119474614321",
+    "images": [
+      "https://pbs.twimg.com/media/HWQhak9acAArfq5.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793772121200-vie4g3",
+    "source": "x",
+    "ts": "2026-11-04T06:02:01.200Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-04T05:51:52.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇺🇸 JUST IN: President Trump says he will accept the midterm results and is open to work with Democrats, per NYT.\n\n“We’ll probably work something out.”",
+    "url": "https://x.com/Cointelegraph/status/2117857341416910848"
   }
 ]
