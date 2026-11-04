@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1793610113454-7w2p0r",
-    "source": "x",
-    "ts": "2026-11-02T09:01:53.454Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T09:00:49.000Z",
-    "reason": "Notable institutional adoption of a stablecoin.",
-    "text": "🇭🇰 UPDATE: HSBC’s Hong Kong dollar-backed RedCoin stablecoin attracted 50,000 users in just over a week.",
-    "url": "https://x.com/Cointelegraph/status/2117180114240778482",
-    "images": [
-      "https://pbs.twimg.com/media/HWG8FruWYAAnboZ.png",
-      "https://pbs.twimg.com/media/HWG8F7zWMAAxpQ4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793610765518-xwmiue",
-    "source": "x",
-    "ts": "2026-11-02T09:12:45.518Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-02T09:04:00.000Z",
-    "reason": "Starknet claims a potential edge in quantum-resistant cryptography for Ethereum.",
-    "text": "Starknet Claims a Major Edge in The Quantum Security Race\n\nStarknet (@Starknet) ethereum:0xca14007eff0db1f8135f4c25b34de49ab0d42766 says its account abstraction design could make the transition to quantum-resistant cryptography easier.\n\nUnlike Bitcoin $BTC and Ethereum $ETH,",
-    "url": "https://x.com/BSCNews/status/2117180916359627215",
-    "images": [
-      "https://pbs.twimg.com/media/HWGtdneaIAA60dd.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793611956242-i50c1k",
-    "source": "x",
-    "ts": "2026-11-02T09:32:36.242Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T09:30:54.000Z",
-    "reason": "Quantum computing threat to Bitcoin questioned by Bitpanda CEO.",
-    "text": "⚡  INSIGHT: Bitpanda (@Bitpanda_global) CEO Christian Trummer said on #CHAINREACTION he isn't concerned that quantum computing will have an impact on Bitcoin.\n\n\"I don't believe that quantum computing is a big threat for Bitcoin or for other crypto assets.\"",
-    "url": "https://x.com/Cointelegraph/status/2117187685106246117",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2117187599647301634/vid/avc1/1280x720/e7ZpnHKK5g_NYgST.mp4?tag=16",
-      "duration": 152,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117187599647301634/img/gi99ZZGDrVptW9TU.jpg"
-    }
-  },
-  {
     "id": "x-1793612585644-l885ud",
     "source": "x",
     "ts": "2026-11-02T09:43:05.644Z",
@@ -7869,6 +7811,48 @@
       "https://pbs.twimg.com/media/HWQBQ5JWYAA3u-y.jpg",
       "https://pbs.twimg.com/media/HWQBRFAXQAACwKQ.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793763167616-uztywo",
+    "source": "x",
+    "ts": "2026-11-04T03:32:47.616Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T03:30:46.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 Jack Dorsey’s Block beats Q3 estimates with $3.2 billion in gross profit, lifts its 2026 outlook and flags a bigger potential DOJ settlement.\n\n🔹 Prediction markets Kalshi and Polymarket now give Democrats 99%",
+    "url": "https://x.com/Cointelegraph/status/2117821832233419131"
+  },
+  {
+    "id": "x-1793763172057-dmv9nf",
+    "source": "x",
+    "ts": "2026-11-04T03:32:52.057Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-04T03:27:19.000Z",
+    "reason": "No notable crypto-related event described.",
+    "text": "🇺🇸 UPDATE: Democrats and allied independents now hold 45 Senate seats, six short of the 51 needed for a majority. \n\nAfter a pickup in North Carolina, they still need to hold Oregon, Michigan and Minnesota and flip three more Republican seats.",
+    "url": "https://x.com/Cointelegraph/status/2117820963857256849"
+  },
+  {
+    "id": "x-1793763177323-a9s8wz",
+    "source": "x",
+    "ts": "2026-11-04T03:32:57.323Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Phyrex",
+    "ageMin": 52,
+    "originTimestamp": "2026-11-04T02:39:57.000Z",
+    "reason": "Potential regulatory changes in crypto markets due to political shifts.",
+    "text": "美国中期选举的结果虽然还没有出来，但按照 NBC 和 CNBC 决策台的判断，民主党已经拿下众议院控制权，参议院的归属虽然还没有判定，但目前民主党拿下两院的机会已经非常大。",
+    "url": "https://x.com/PhyrexNi/status/2117820584788902344",
+    "images": [],
     "video": null
   }
 ]
