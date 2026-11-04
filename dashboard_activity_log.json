@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793671351894-uwf1nx",
-    "source": "x",
-    "ts": "2026-11-03T02:02:31.894Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T02:00:34.000Z",
-    "reason": "No notable move in ETH price provided.",
-    "text": "🔥 BIG: Anthropic discloses nearly $900B in AI infrastructure commitments ahead of its IPO, as Q3 compute costs jumped 77% and outpaced revenue growth, per FT.",
-    "url": "https://x.com/Cointelegraph/status/2117436743909519439"
-  },
-  {
-    "id": "x-1793671356511-tskz39",
-    "source": "x",
-    "ts": "2026-11-03T02:02:36.511Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-03T01:59:00.000Z",
-    "reason": "Perps platform generated $20.95B in volume within four months, a significant milestone.",
-    "text": "Ondo Perps hits $21B in four months.\n\n@Ondo's @OndoPerps might have seen the fastest adoption of any perps venue in crypto history.\n\nThe platform has now generated a total of $20.95B in perps volume, having launches less than four months ago, in early July 2026.\n\nThe platform has",
-    "url": "https://x.com/BSCNews/status/2117436348604780787",
-    "images": [
-      "https://pbs.twimg.com/media/HWG_V3WXoAAFH-P.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793671359379-nca1zu",
     "source": "x",
     "ts": "2026-11-03T02:02:39.379Z",
@@ -7857,5 +7826,39 @@
     "reason": "No notable crypto-related news or move is mentioned.",
     "text": "Anthropic Says Claude Helped Map the First 3D Structure of a Vault Particle From Bacterial Life.\n\nAnthropic said a vault purification that conventionally takes three days took its team about 90 minutes, a first structural model was ready 34 hours later, and results are in a",
     "url": "https://x.com/DecryptMedia/status/2118076966033113436"
+  },
+  {
+    "id": "x-1793824927380-780o4s",
+    "source": "x",
+    "ts": "2026-11-04T20:42:07.380Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-04T20:37:50.000Z",
+    "reason": "No concrete news related to crypto or tokens.",
+    "text": "The S&amp;P 500 rose 17.5% on average in the 6 months after midterms that left a Republican president facing a Democratic Congress.\n\nTuesday’s midterms just handed Trump that same setup from January.\n\nIt’s happened 7 times since 1950, and stocks were higher 6 months later EVERY time,",
+    "url": "https://x.com/coinbureau/status/2118080299460620522"
+  },
+  {
+    "id": "x-1793824931386-exfbf3",
+    "source": "x",
+    "ts": "2026-11-04T20:42:11.386Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T20:34:55.000Z",
+    "reason": "Specific, verifiable institutional adoption event.",
+    "text": "JUST IN: 🇷🇺 Russia's largest stock exchange, the Moscow Exchange, will start trading Bitcoin on December 1 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2118079565230944391",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2118079528937340928/vid/avc1/1280x720/1GpfkFqbY-R_iQPV.mp4?tag=29",
+      "duration": 22,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HWTuK_EXQAAk0N7.jpg"
+    }
   }
 ]
