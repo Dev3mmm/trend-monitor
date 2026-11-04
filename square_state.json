@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792423336571-bj1gm1",
     "x-1792423341022-m0nr14",
     "x-1792423928576-xlxpvu",
     "x-1792423938836-5wudfj",
@@ -1999,27 +1998,10 @@
     "x-1793752305011-dkc6ro",
     "x-1793752307565-gky3kd",
     "x-1793754141986-jswfho",
-    "x-1793754147798-zbu3xs"
+    "x-1793754147798-zbu3xs",
+    "x-1793755938727-vnvyj5"
   ],
   "queue": [
-    {
-      "text": "JUST IN: 🇺🇸 US Treasury Department to buy back up to $6 billion in longer-term debt AGAIN tomorrow 👀    \n\nBuy Bitcoin 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2117744680079372429",
-      "images": [
-        "https://pbs.twimg.com/media/HWO9WbAXcAAUdki.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793744852015
-    },
-    {
-      "text": "🇺🇸 BIG: The US Treasury will buy back up to $6B of 10–20 year bonds on Nov 4 to support market liquidity, per Treasury’s announcement.",
-      "url": "https://x.com/Cointelegraph/status/2117748837875859954",
-      "images": [
-        "https://pbs.twimg.com/media/HWPBV80XQAAplXM.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793745734152
-    },
     {
       "text": "⚡️ NEW: BitGo launches Bitcoin staking through Stacks, allowing eligible institutional custody clients to earn $BTC rewards while keeping their Bitcoin in BitGo Bank &amp; Trust custody.",
       "url": "https://x.com/Cointelegraph/status/2117753906268717065",
@@ -2076,20 +2058,18 @@
       ],
       "video": null,
       "enqueuedAt": 1793754154146
+    },
+    {
+      "text": "⚡️ NEW: Anthropic unveils FlashProve, a zkSNARK system built with Claude that lets AI providers cryptographically prove which model produced each response.",
+      "url": "https://x.com/Cointelegraph/status/2117791632242225498",
+      "images": [
+        "https://pbs.twimg.com/media/HWPoQy1WoAApn34.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793755939827
     }
   ],
   "posted": [
-    {
-      "text": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.",
-      "final": "🚨 LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.\n\n#Solana $SOL",
-      "images": [
-        "https://pbs.twimg.com/media/HWFOKnFWgAIzlPe.png",
-        "https://pbs.twimg.com/media/HWFOK8UXcAA1qpL.png"
-      ],
-      "at": 1793582537599,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/383759820779512?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨 NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.",
       "final": "🚨 NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.\n\n#Ethereum $ETH",
@@ -2756,7 +2736,16 @@
       "at": 1793754154146,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384462702825436?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇺🇸 BIG: The US Treasury will buy back up to $6B of 10–20 year bonds on Nov 4 to support market liquidity, per Treasury’s announcement.",
+      "final": "🇺🇸 BIG: The US Treasury will buy back up to $6B of 10–20 year bonds on Nov 4 to support market liquidity, per Treasury’s announcement.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWPBV80XQAAplXM.jpg"
+      ],
+      "at": 1793755939827,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793754154146
+  "lastPostAt": 1793755939827
 }
