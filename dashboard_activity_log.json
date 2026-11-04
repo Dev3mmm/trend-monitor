@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793606510146-xipno2",
-    "source": "x",
-    "ts": "2026-11-02T08:01:50.146Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T08:00:38.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Fiat Withdrawal Update\n\nFiat withdrawals are now available for the following currencies: \nNew\n✅ USD \n✅ AED\n✅ VND\n✅ PHP\n✅ IDR\n\nCurrent:\nJPY, VES, BRL, MXN, ARS, BHD, KZT, EUR, CHF, CZK, HUF, KWD, PLN, RON, SEK, CDF, KES, SLE, UGX, XAF, XOF, ZMW, and KGS.\n\nWe will continue to",
-    "url": "https://x.com/binance/status/2117164969582330063"
-  },
-  {
     "id": "x-1793607129175-i2rhpn",
     "source": "x",
     "ts": "2026-11-02T08:12:09.175Z",
@@ -7838,6 +7825,22 @@
     "images": [
       "https://pbs.twimg.com/media/HWPz4m5bkAAevqi.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793760143196-ctcq26",
+    "source": "x",
+    "ts": "2026-11-04T02:42:23.196Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CertiK Alert",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-04T02:33:34.000Z",
+    "reason": "Exploit involving a significant loss and recovery of funds.",
+    "text": "#CertiKAlert 🚨\n\nA flash-loan-funded oracle attack inflated a CoreVault redemption ~33×, depleting InsurancePool and leaving the attacker with 160.26 BNB (~$112.2K) after reversing the trade.\n\n\nCertiK Report Security Dashboard 👇",
+    "url": "https://x.com/CertiKAlert/status/2117807437357183374",
+    "images": [],
     "video": null
   }
 ]
