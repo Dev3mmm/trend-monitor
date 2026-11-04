@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793665335010-049hhc",
-    "source": "x",
-    "ts": "2026-11-03T00:22:15.010Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T00:20:00.000Z",
-    "reason": "No notable move or specific crypto-related news.",
-    "text": "JUST IN: 🇺🇸 OpenAI hires former Army Secretary Dan Driscoll, the latest Trump official to join the AI giant.\n\nDriscoll ran the US Army until 2 months ago and joins OpenAI to work on national security modernization, per the FT.\n\nOpenAI has hired at least 3 other former Trump",
-    "url": "https://x.com/coinbureau/status/2117411434770632767"
-  },
-  {
-    "id": "x-1793665971122-2aptu3",
-    "source": "x",
-    "ts": "2026-11-03T00:32:51.122Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T00:30:31.000Z",
-    "reason": "No notable move in crypto related to the tweet.",
-    "text": "🚨 NOW: OpenAI has hired former US Army Secretary Dan Driscoll as senior counselor for national security modernization, as the military looks to expand its use of AI.",
-    "url": "https://x.com/Cointelegraph/status/2117414083314032987"
-  },
-  {
     "id": "x-1793665976667-mcdncd",
     "source": "x",
     "ts": "2026-11-03T00:32:56.667Z",
@@ -7854,5 +7828,36 @@
       "https://pbs.twimg.com/media/HWTfWodWYAAxQ9J.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793821297387-jzja7u",
+    "source": "x",
+    "ts": "2026-11-04T19:41:37.387Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-04T19:24:28.000Z",
+    "reason": "Notable move in the validator incentives proposal.",
+    "text": "Introducing BackX Proposal for Validators.\n\nBXP-1, our first BackX Proposal, is live. Calling for all validators, agents &amp; humans:\n\nShould BackX open issuing to the Robinhood Trenchers before launch?",
+    "url": "https://x.com/BSCNews/status/2118066042857472178",
+    "images": [
+      "https://pbs.twimg.com/media/HWTc3tzXAAAgTOc.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793821299309-7oi3pi",
+    "source": "x",
+    "ts": "2026-11-04T19:41:39.309Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 18,
+    "originTimestamp": "2026-11-04T19:23:51.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "BPI's Zack Cohen on why Bitcoin developers are still protected after the midterms:\n\n\"This is a new technology, it doesn't work that way anymore.\"\n\n\"We are still in the clear for the next two years.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2118063832296046879"
   }
 ]
