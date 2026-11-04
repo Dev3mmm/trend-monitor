@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793633578455-tmwqva",
-    "source": "x",
-    "ts": "2026-11-02T15:32:58.455Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-02T15:25:53.000Z",
-    "reason": "Tether's response to a security incident involving USDT.",
-    "text": "Tether Freezes Over 4.5M USDT Tied to Mercado Bitcoin Security Incident.\n\nTether CEO Paolo Ardoino announced the freeze after the Brazilian exchange said it had contained an overnight security incident with no customer losses or data leak and temporarily suspended deposits and",
-    "url": "https://x.com/DecryptMedia/status/2117277018962223375",
-    "images": [
-      "https://pbs.twimg.com/media/HWIT0MGWMAAvLvp.png",
-      "https://pbs.twimg.com/media/HWIT2RGXIAAXnxs.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793633583352-h0rvlk",
-    "source": "x",
-    "ts": "2026-11-02T15:33:03.352Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-02T15:18:37.000Z",
-    "reason": "Notable institutional adoption by Wall Street.",
-    "text": "Injective Gives Wall Street Its Own Fast Lane\n\n@Injective has announced the launch of the Injective Institutional Rail, giving financial firms, prime brokers, and institutional trading desks API access to validator block production.\n\nThe platform leverages enterprise validators",
-    "url": "https://x.com/BSCNews/status/2117275193961828827",
-    "images": [
-      "https://pbs.twimg.com/media/HWISjFcXwAAO-aR.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793633588521-msvnic",
     "source": "x",
     "ts": "2026-11-02T15:33:08.521Z",
@@ -7896,6 +7859,37 @@
     "text": "Midterms Blue Wave Makes $917K for One Polymarket Trader, If Alaska Doesn’t Flip",
     "url": "https://x.com/DecryptMedia/status/2117947469703024875",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793793740069-5rusdm",
+    "source": "x",
+    "ts": "2026-11-04T12:02:20.069Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T12:00:46.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "🔥 INSIGHT: Justin Drake hopes Ethereum can complete its post-quantum and post-AI transition by December 2028, speaking at Devcon 8.\n\nThe official roadmap still targets 2029.",
+    "url": "https://x.com/Cointelegraph/status/2117950177310834806"
+  },
+  {
+    "id": "x-1793793746631-c430ak",
+    "source": "x",
+    "ts": "2026-11-04T12:02:26.631Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T11:55:57.000Z",
+    "reason": "Notable yield on a stablecoin and institutional adoption.",
+    "text": "RealFi on Cardano Is Outperforming Almost Everything Onchain\n\n$sUSDrf of @RealFi_co has managed to become the sixth-highest-yielding asset in the world on @tokenterminal. \n\nThe fund is earning an annual return of 12.17% after just 30 days since its launch on the @Cardano mainnet.",
+    "url": "https://x.com/BSCNews/status/2117948966440501640",
+    "images": [
+      "https://pbs.twimg.com/media/HWR3SloWEAAFjn0.jpg"
+    ],
     "video": null
   }
 ]
