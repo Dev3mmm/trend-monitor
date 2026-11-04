@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793634235585-e5mso0",
-    "source": "x",
-    "ts": "2026-11-02T15:43:55.585Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-02T15:40:28.000Z",
-    "reason": "Tether significant USDT burn on Ethereum.",
-    "text": "⚡️ JUST IN: Tether has burned $2 billion worth of USDT on Ethereum.",
-    "url": "https://x.com/Cointelegraph/status/2117280692333609327",
-    "images": [
-      "https://pbs.twimg.com/media/HWIXkXVXkAAdTN-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793634239604-1vm1k5",
-    "source": "x",
-    "ts": "2026-11-02T15:43:59.604Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-02T15:38:28.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "🚨 NEW:  restored its GitBook documentation following unauthorized activity but warned users to avoid clicking links while the investigation continues.",
-    "url": "https://x.com/Cointelegraph/status/2117280187284848950"
-  },
-  {
-    "id": "x-1793634769155-1acbky",
-    "source": "x",
-    "ts": "2026-11-02T15:52:49.155Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 37,
-    "originTimestamp": "2026-11-02T15:15:34.000Z",
-    "reason": "No notable move in price or significant news.",
-    "text": "\"Bitcoin as a better source of storing the equity value of the property\"\n\nBattery Finance CEO Andrew Hohns on where Bitcoin fits in commercial real estate lending\n\n\"For us adding Bitcoin makes sense to the highest quality properties\"",
-    "url": "https://x.com/BitcoinMagazine/status/2117283313266094170"
-  },
-  {
     "id": "x-1793634775334-yxrdvi",
     "source": "x",
     "ts": "2026-11-02T15:52:55.334Z",
@@ -7872,5 +7828,47 @@
     "reason": "Prediction with no basis given",
     "text": "Swan Bitcoin CEO @CorySwan tells @itsciaranlyons there is a \"two-thirds chance\" that Bitcoin will set a new all-time high by June 30, 2027.\n\nCory also talks about the Binance hack, quantum computing threats to Bitcoin and broader adoption in the latest episode of #CHAINREACTION.",
     "url": "https://x.com/Cointelegraph/status/2117966763279143085"
+  },
+  {
+    "id": "x-1793798526442-oqalr0",
+    "source": "x",
+    "ts": "2026-11-04T13:22:06.442Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T13:21:04.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Dfinity Founder wants Exchanges to use ICP... \n\n@Dfinity Founder Dominic Williams (@dominic_w) is unhappy about the current attacks on exchanges. \n\n$ICP is trying to provide a tamper-proof custody service for institutions using its threshold cryptography technology built on the",
+    "url": "https://x.com/BSCNews/status/2117970385077448735"
+  },
+  {
+    "id": "x-1793798529177-bfpaop",
+    "source": "x",
+    "ts": "2026-11-04T13:22:09.177Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T13:20:45.000Z",
+    "reason": "No notable regulatory move or adoption event mentioned.",
+    "text": "🔥 JUST IN: The US Office of the Comptroller of the Currency has issued a regulatory framework for banks’ use of Super Intelligence.",
+    "url": "https://x.com/Cointelegraph/status/2117970306400666026"
+  },
+  {
+    "id": "x-1793798532367-3w619k",
+    "source": "x",
+    "ts": "2026-11-04T13:22:12.367Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T13:14:30.000Z",
+    "reason": "Bitcoin price is reacting to midterms and priced in expert analysis.",
+    "text": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
+    "url": "https://x.com/DecryptMedia/status/2117968732186140850",
+    "images": [],
+    "video": null
   }
 ]
