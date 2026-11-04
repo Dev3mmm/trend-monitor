@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793627539935-a1izq3",
-    "source": "x",
-    "ts": "2026-11-02T13:52:19.935Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-02T13:45:00.000Z",
-    "reason": "Exploit targeting outdated BTCPay Server software.",
-    "text": "🚨ALERT: BTCPay Server warns attackers are draining HOT WALLETS on outdated software.\n\nThe attack targets version 2.4.1 or earlier. Operators are urged to update to version 2.4.7.\n\nNo credible wallet-drain reports have been received for the latest release.\n\nAn August attack also",
-    "url": "https://x.com/coinbureau/status/2117251632291262699",
-    "images": [
-      "https://pbs.twimg.com/media/HWH0CA0aUAA3xvx.png",
-      "https://pbs.twimg.com/media/HWH0CAgbwAA9SAl.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793628125766-3drjlb",
-    "source": "x",
-    "ts": "2026-11-02T14:02:05.766Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-02T14:01:07.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Hype and Pepe lead weekly gains as market cools... \n\nThe price of @HyperliquidX's $HYPE token and $PEPE appear to be moving at the same pace. \n\nAccording to CoinGecko, both assets have surged 10% over the past week after a correction.",
-    "url": "https://x.com/BSCNews/status/2117255689848418350"
-  },
-  {
     "id": "x-1793628130623-30wy5w",
     "source": "x",
     "ts": "2026-11-02T14:02:10.623Z",
@@ -7856,6 +7824,35 @@
     "images": [
       "https://pbs.twimg.com/media/HWRGGIeXsAA-0Qs.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1793782330942-psmuov",
+    "source": "x",
+    "ts": "2026-11-04T08:52:10.942Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-04T08:48:54.000Z",
+    "reason": "No notable financial data or news is typically reported in such a tweet without further context.",
+    "text": "🗳️ How did candidates fare in the 2026 midterm races where crypto and AI PACs spent? \n\nHere's who they backed or opposed, how much they spent and the results so far.",
+    "url": "https://x.com/Cointelegraph/status/2117901893145895334"
+  },
+  {
+    "id": "x-1793782336702-htkwuk",
+    "source": "x",
+    "ts": "2026-11-04T08:52:16.702Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-04T08:46:02.000Z",
+    "reason": "New stablecoin ecosystem partnership and adoption.",
+    "text": "Aptos (@Aptos) $APT is becoming a serious player in stablecoin payments.\n\nWith $USDT, $USDC and major payment firms like Yellow Card, and Bitso using the network, Aptos is helping move money across borders at low costs.\n\nHere's how its payment ecosystem works 👇",
+    "url": "https://x.com/BSCNews/status/2117901171361022178",
+    "images": [],
     "video": null
   }
 ]
