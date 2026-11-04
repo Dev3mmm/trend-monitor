@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793685141419-naf5hv",
-    "source": "x",
-    "ts": "2026-11-03T05:52:21.419Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-03T05:51:14.000Z",
-    "reason": "No notable move in deposits versus withdrawals.",
-    "text": "Withdrawal data update\n\nBy 03:00 UTC, we are seeing hourly deposits exceed withdrawals, reflecting improving user activity and stabilizing flows.",
-    "url": "https://x.com/binance/status/2117494793446298084"
-  },
-  {
     "id": "x-1793685146791-qigtf1",
     "source": "x",
     "ts": "2026-11-03T05:52:26.791Z",
@@ -7869,5 +7856,18 @@
     "reason": "No notable move in token price, within recent range.",
     "text": "The blockchain oracle sector is dominated by a small number of key players.\n\nWe compare two of the biggest in @chainlink $LINK and @PythNetwork solana:HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3 ⬇️",
     "url": "https://x.com/BSCNews/status/2118120355717841165"
+  },
+  {
+    "id": "x-1793835110893-7plny7",
+    "source": "x",
+    "ts": "2026-11-04T23:31:50.893Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T23:30:17.000Z",
+    "reason": "Generic statement with no specific action or price to verify.",
+    "text": "⚡️ CZ: “Bitcoin is resilient.”",
+    "url": "https://x.com/Cointelegraph/status/2118123698985095570"
   }
 ]
