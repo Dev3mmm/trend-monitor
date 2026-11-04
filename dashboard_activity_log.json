@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793615003532-iosmim",
-    "source": "x",
-    "ts": "2026-11-02T10:23:23.532Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-02T10:19:49.000Z",
-    "reason": "No notable crypto-related news mentioned.",
-    "text": "BREAKING: European supermarkets hit by CYBERATTACKS that caused freezers to overheat up to 55°C.\n\nThe latest incidents hit stores in Sweden and Belgium, forcing retailers to throw away food.\n\nICA and Coop, which account for 67.3% of Sweden’s grocery retail market, reported",
-    "url": "https://x.com/coinbureau/status/2117199996193996855"
-  },
-  {
     "id": "x-1793615008767-ajuqcz",
     "source": "x",
     "ts": "2026-11-02T10:23:28.767Z",
@@ -7844,6 +7831,24 @@
     "images": [
       "https://pbs.twimg.com/media/HWQJ1vUbQAA_Usp.jpg",
       "https://pbs.twimg.com/media/HWQJ3DsacAAkIN1.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793765507673-3hwveh",
+    "source": "x",
+    "ts": "2026-11-04T04:11:47.673Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-04T04:01:31.000Z",
+    "reason": "Blockchain security exploit and attack on Binance revealed",
+    "text": "Binance Reveals How Hackers Stole BTC, XRP And Other Assets\n\nBinance (@binance) says its investigation uncovered a multi-stage campaign behind the $6.3 billion Oct. 29 attack.\n\nThe attackers used fake recruitment interviews and malicious software to compromise an engineer's work",
+    "url": "https://x.com/BSCNews/status/2117829571785662603",
+    "images": [
+      "https://pbs.twimg.com/media/HWQKQlQaUAArwtv.png"
     ],
     "video": null
   }
