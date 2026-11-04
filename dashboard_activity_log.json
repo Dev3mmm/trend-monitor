@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1793678564133-cqzjgy",
-    "source": "x",
-    "ts": "2026-11-03T04:02:44.133Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 19,
-    "originTimestamp": "2026-11-03T03:43:14.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "@shaunmmaguire @broudsov Yeah, much easier to cool in space. \n\n~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero!\n\nSolar panels generate ~250 W/m^2, so you should expect them to",
-    "url": "https://x.com/elonmusk/status/2117464990579892594"
-  },
-  {
-    "id": "x-1793679111066-h9gizn",
-    "source": "x",
-    "ts": "2026-11-03T04:11:51.066Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T04:10:00.000Z",
-    "reason": "No concrete news event or price movement is reported.",
-    "text": "The midterms could spark an S&amp;P 500 RALLY.\n\nPresident Trump could lose both the House and Senate with the probability of Democrats winning both chambers rising to 73%, per Axios.\n\nThat would leave Trump facing an opposition-controlled Congress.\n\nHistory offers a bullish backdrop,",
-    "url": "https://x.com/coinbureau/status/2117469315930665349"
-  },
-  {
-    "id": "x-1793679114736-rm05e7",
-    "source": "x",
-    "ts": "2026-11-03T04:11:54.736Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 101,
-    "originTimestamp": "2026-11-03T02:30:07.000Z",
-    "reason": "Price outside the recent range for ETH.",
-    "text": "Withdrawal Update  \n\nWithdrawals have now been restored for the following assets and networks:  \n\nETH: RLUSD, USD1, TUSD, FDUSD, XUSD\n\nWe will continue to restore additional assets and networks in phases following the completion of our security checks. Further updates will be",
-    "url": "https://x.com/binance/status/2117468922647818652",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793679738622-alfo21",
     "source": "x",
     "ts": "2026-11-03T04:22:18.622Z",
@@ -7850,5 +7808,55 @@
     "reason": "No notable move, price is well within its recent range.",
     "text": "🚨 JUST IN: Trump Media ($DJT) has fallen 97% from its peak to an all-time low of $4.64, according to Charlie Bilello.",
     "url": "https://x.com/Cointelegraph/status/2118103549145964903"
+  },
+  {
+    "id": "x-1793830955239-9xb2uk",
+    "source": "x",
+    "ts": "2026-11-04T22:22:35.239Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-04T22:20:25.000Z",
+    "reason": "Notable tax regulation affecting French crypto holders.",
+    "text": "🇫🇷 French crypto holders may soon have to declare self-custodied crypto worth €100,000 or more.\n\nUnder the new rule, French taxpayers would have to report crypto held in their own wallets, rather than on exchanges.\n\nIt would apply if those holdings total €100,000 or more on",
+    "url": "https://x.com/coinbureau/status/2118106115359793278",
+    "images": [
+      "https://pbs.twimg.com/media/HWUFAFUbEAAEEek.png",
+      "https://pbs.twimg.com/media/HWUFM9xawAAdJXT.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793830959130-cmu2kr",
+    "source": "x",
+    "ts": "2026-11-04T22:22:39.130Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-04T22:17:15.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+    "url": "https://x.com/DecryptMedia/status/2118105319280640164"
+  },
+  {
+    "id": "x-1793830965151-uwprn3",
+    "source": "x",
+    "ts": "2026-11-04T22:22:45.151Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T22:15:00.000Z",
+    "reason": "InterLink's KYC campaign for transferable ITLG is a notable institutional move.",
+    "text": "InterLink opens the door to transferable ITLG\n\n@inter_link has opened a 30-day KYC campaign for $ITLG, the step users must complete before their app balance becomes transferable tokens in their own wallet. Each user gets one submission for the whole campaign, so InterLink is",
+    "url": "https://x.com/BSCNews/status/2118104752999510201",
+    "images": [
+      "https://pbs.twimg.com/media/HWT4up4WQAAN-6G.jpg"
+    ],
+    "video": null
   }
 ]
