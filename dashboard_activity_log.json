@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1793601191527-grogzf",
-    "source": "x",
-    "ts": "2026-11-02T06:33:11.527Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-02T06:23:53.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Aero is Getting Aggressive With its Token Burns\n\nAero (@aeroxyz) has carried out another $AERO buyback and burn, removing 233,000 tokens.\n\nIt was the second such operation last week. The AeroFoundation says its Momentum Fund adjusts purchases according to market conditions rather",
-    "url": "https://x.com/BSCNews/status/2117140621081370851"
-  },
-  {
-    "id": "x-1793602336269-xfg5ex",
-    "source": "x",
-    "ts": "2026-11-02T06:52:16.269Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-02T06:51:00.000Z",
-    "reason": "No notable move in Binance's user behavior.",
-    "text": "CZ Says 98% Of Binance Users Choose to Stay\n\nBinance (@binance) co-founder Changpeng Zhao (@cz_binance) says the exchange recorded a 2.1% net outflow after withdrawals resumed.\n\nHe said most withdrawals happened during the first few hours.\n\n“98% choose to stay,” CZ noted. \"Trust",
-    "url": "https://x.com/BSCNews/status/2117147444924522579"
-  },
-  {
-    "id": "x-1793602340303-d92mkq",
-    "source": "x",
-    "ts": "2026-11-02T06:52:20.303Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-02T06:45:47.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 INSIGHT: Is quantum risk capping Bitcoin’s price? \n\nMarkus Thielen (@markus10x), founder of 10x Research, says on #TRADESECRETS there is “certainly” a ceiling on BTC right now as quantum fears persist.",
-    "url": "https://x.com/Cointelegraph/status/2117146133105344671",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2117146051035516928/vid/avc1/1280x720/uxRqeAxtoH7BwzRH.mp4?tag=16",
-      "duration": 64,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117146051035516928/img/zop2ULNUezTN9V6K.jpg"
-    }
-  },
-  {
     "id": "x-1793602949321-b6fvsu",
     "source": "x",
     "ts": "2026-11-02T07:02:29.321Z",
@@ -7830,5 +7783,55 @@
     "reason": "No notable crypto-related event or use of crypto is mentioned.",
     "text": "🇺🇸 NOW: Senator Warner wins re-election in Virginia over Republican Bert Mizusawa. \n\nHe backs federal rules for digital assets but voted against the CLARITY Act in September over ethics concerns tied to Trump.",
     "url": "https://x.com/Cointelegraph/status/2117781221358870553"
+  },
+  {
+    "id": "x-1793754141986-jswfho",
+    "source": "x",
+    "ts": "2026-11-04T01:02:21.986Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-04T01:00:51.000Z",
+    "reason": "Notable SEC ruling on a digital commodity.",
+    "text": "🇺🇸 TODAY: Canton Network’s Canton Coin wins an SEC no-action letter that deems it a “digital commodity,” with no securities registration required.",
+    "url": "https://x.com/Cointelegraph/status/2117784104284393484",
+    "images": [
+      "https://pbs.twimg.com/media/HWPhaV1X0AAiMxQ.png",
+      "https://pbs.twimg.com/media/HWPhaw6WkAAy5XS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793754147798-zbu3xs",
+    "source": "x",
+    "ts": "2026-11-04T01:02:27.798Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-04T00:57:00.000Z",
+    "reason": "StarkNet mentioned by AI research report from Anthropic AI.",
+    "text": "StarkNet &amp; Mantle mentioned in Anthropic's new research report!\n\nAs highlighted by the @StarknetFndn's @krinza, @Starknet received a direct mention from AI giant @AnthropicAI in its new report - \"Progress on provable inference for large language models\".\n\nThe report highlighted",
+    "url": "https://x.com/BSCNews/status/2117783133739475185",
+    "images": [
+      "https://pbs.twimg.com/media/HWM894eWIAAqgIj.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793754153593-xp7nwn",
+    "source": "x",
+    "ts": "2026-11-04T01:02:33.593Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-04T00:57:00.000Z",
+    "reason": "No notable crypto-related event or news in the tweet.",
+    "text": "BREAKING: Freezer CYBERATTACKS have now hit France's national BLOOD service, setting units to 110°C.\n\nHackers reprogrammed freezers holding donor blood samples from -30°C to 110°C, a jump of 140 degrees, per Le Canard Enchaîné.\n\nThey broke in through Coolworld, which maintains",
+    "url": "https://x.com/coinbureau/status/2117783133617877419"
   }
 ]
