@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793697128712-7vsmtz",
-    "source": "x",
-    "ts": "2026-11-03T09:12:08.712Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-03T09:10:27.000Z",
-    "reason": "No notable crypto-related move or event mentioned.",
-    "text": "🇦🇺 TODAY: Australia raises interest rates by 25 basis points to 4.85%, an 18-year high, as AI investment and higher energy costs fuel inflation.",
-    "url": "https://x.com/Cointelegraph/status/2117544927357808723"
-  },
-  {
     "id": "x-1793697131538-md5el8",
     "source": "x",
     "ts": "2026-11-03T09:12:11.538Z",
@@ -7862,5 +7849,23 @@
     "reason": "No notable move in Chainlink's transaction value.",
     "text": "Chainlink crosses $37 TRILLION in transactions enabled.\n\n@chainlink's oracle solutions have now enabled $37.02 trillion in transaction value, according to its metrics dashboard.\n\nAt the same time, $LINK's CCIP (the industry most popular and well-respected cross-chain protocol),",
     "url": "https://x.com/BSCNews/status/2118178992289353851"
+  },
+  {
+    "id": "x-1793848944527-ecjonl",
+    "source": "x",
+    "ts": "2026-11-05T03:22:24.527Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-05T03:15:00.000Z",
+    "reason": "Notable institutional transaction involving a major political figure.",
+    "text": "🚨 JUST IN: Trump Media moved 4,259 bitcoin:native , worth about $343.7M to Crypto(.)com.",
+    "url": "https://x.com/Cointelegraph/status/2118180251268415522",
+    "images": [
+      "https://pbs.twimg.com/media/HWVH2YyaQAA9LWD.jpg"
+    ],
+    "video": null
   }
 ]
