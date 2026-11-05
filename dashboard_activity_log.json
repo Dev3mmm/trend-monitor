@@ -1,78 +1,5 @@
 [
   {
-    "id": "x-1793724253724-qzbc4m",
-    "source": "x",
-    "ts": "2026-11-03T16:44:13.724Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-03T16:40:29.000Z",
-    "reason": "Tokenized stocks with significant market cap reaching over $1.7 billion",
-    "text": "🚨 BIG: Tokenized stocks issued by Binance bStocks, Robinhood and Coinbase have reached a combined market cap of $1.7 billion, with Binance leading at $1.4 billion.",
-    "url": "https://x.com/Cointelegraph/status/2117658181585289586",
-    "images": [
-      "https://pbs.twimg.com/media/HWNu5KaXoAE1j6h.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793724257342-qboc38",
-    "source": "x",
-    "ts": "2026-11-03T16:44:17.342Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 56,
-    "originTimestamp": "2026-11-03T15:47:41.000Z",
-    "reason": "No notable move or concrete news.",
-    "text": "GO OUT AND VOTE‼️🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
-    "url": "https://x.com/elonmusk/status/2117657562057191874"
-  },
-  {
-    "id": "x-1793724262173-kpx31s",
-    "source": "x",
-    "ts": "2026-11-03T16:44:22.173Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 34,
-    "originTimestamp": "2026-11-03T16:09:09.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "If it's on an exchange, it isn't really yours.\n\nSwan CEO Cory Klippsten on why more Bitcoiners are moving to self-custody:\n\n\"There's just a lot of people that want to have a backup.\"\n\n\"I completely own and control my Bitcoin.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2117657484995297455"
-  },
-  {
-    "id": "x-1793724265545-pjq3ie",
-    "source": "x",
-    "ts": "2026-11-03T16:44:25.545Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-03T16:35:53.000Z",
-    "reason": "Generic tweet without any concrete information or notable action.",
-    "text": "Earlier this afternoon, OMAD.\n\nBone Broth.",
-    "url": "https://x.com/amerix/status/2117657024829813024"
-  },
-  {
-    "id": "x-1793724269412-x23kk9",
-    "source": "x",
-    "ts": "2026-11-03T16:44:29.412Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Coinbase 🛡️",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-03T16:33:28.000Z",
-    "reason": "Potential significant institutional offering for US customers.",
-    "text": "When we say the everything exchange, we mean everything.\n\nGetting equity perps ready for US customers.",
-    "url": "https://x.com/coinbase/status/2117656893359305001",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793724737442-dcin8t",
     "source": "x",
     "ts": "2026-11-03T16:52:17.442Z",
@@ -7939,6 +7866,87 @@
     "ageMin": 18,
     "originTimestamp": "2026-11-05T13:53:00.000Z",
     "reason": "Notable institutional adoption of stablecoins by a major tech conglomerate.",
+    "text": "Samsung just made stablecoins mainstream...\n\nSamsung Tech conglomerate has officially launched stablecoin wallets in its Samsung Wallet app. \n\nThis lets Galaxy phone users in the USA buy, store, send, and receive Circle's $USDC directly on @Solana.\n\nThis wallet lets users make",
+    "url": "https://x.com/BSCNews/status/2118340808483172741",
+    "images": [
+      "https://pbs.twimg.com/media/HWXYvdTWkAAeW0O.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793888144779-tcaxrm",
+    "source": "x",
+    "ts": "2026-11-05T14:15:44.779Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-05T14:09:12.000Z",
+    "reason": "No notable move or specific event, just a statement of rates.",
+    "text": "Bank of England Raises Rates to 4% in First Hike Since August 2023.\n\nThe Monetary Policy Committee voted 8–1 for the quarter-point hike, with Catherine Mann backing a half-point move, as the BoE expects UK inflation, 3.5% in September, to reach about 5% by mid-2027.",
+    "url": "https://x.com/DecryptMedia/status/2118344888240742827"
+  },
+  {
+    "id": "x-1793888148695-jtyf39",
+    "source": "x",
+    "ts": "2026-11-05T14:15:48.695Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-05T14:05:54.000Z",
+    "reason": "Notable institutional integration and multi-chain capability in the DeFi space.",
+    "text": "Hyperliquid’s No. 2 Perps Venue Is Going Multichain With LayerZero\n\n@BasedOneX, which is the second-largest trading venue on @HyperliquidX, is integrating with @LayerZero_Core's ATLAS engine.\n\nThis marks the platform's first multi-chain integration, with its mainnet launch",
+    "url": "https://x.com/BSCNews/status/2118344057009156578",
+    "images": [
+      "https://pbs.twimg.com/media/HWXeTANWAAA_gyg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793888152001-w3ihlb",
+    "source": "x",
+    "ts": "2026-11-05T14:15:52.001Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-05T14:01:01.000Z",
+    "reason": "Crypto-related financial institution failure affecting a significant portion of a country's population.",
+    "text": "🚨 ALERT: Paraguay’s Ueno Bank, shut down over a solvency crisis, freezing access to deposits and sparking protests. \n\nAn estimated 60% of the country’s adult population banks with Ueno.",
+    "url": "https://x.com/Cointelegraph/status/2118342826148639006",
+    "images": [
+      "https://pbs.twimg.com/media/HWXdkaTWgAIbpvG.png",
+      "https://pbs.twimg.com/media/HWXdkq2WUAEjkIq.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793888155642-wcisiy",
+    "source": "x",
+    "ts": "2026-11-05T14:15:55.642Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 39,
+    "originTimestamp": "2026-11-05T13:36:21.000Z",
+    "reason": "No notable crypto-related event or move mentioned.",
+    "text": "🚨BREAKING: US jobless claims fell to 189,000 last week, matching the lowest level since 1969.\n\nInitial claims dropped 6,000 from the prior week and came in below the 196,000 forecast. The reading ties the mid-July low.\n\nContinuing claims rose 23,000 to 1.718 million, keeping the",
+    "url": "https://x.com/coinbureau/status/2118342348832907672"
+  },
+  {
+    "id": "x-1793888159362-bjxdmv",
+    "source": "x",
+    "ts": "2026-11-05T14:15:59.362Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 22,
+    "originTimestamp": "2026-11-05T13:53:00.000Z",
+    "reason": "This tweet mentions a significant institutional adoption of stablecoins.",
     "text": "Samsung just made stablecoins mainstream...\n\nSamsung Tech conglomerate has officially launched stablecoin wallets in its Samsung Wallet app. \n\nThis lets Galaxy phone users in the USA buy, store, send, and receive Circle's $USDC directly on @Solana.\n\nThis wallet lets users make",
     "url": "https://x.com/BSCNews/status/2118340808483172741",
     "images": [
