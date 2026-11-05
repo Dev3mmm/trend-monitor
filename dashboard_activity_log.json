@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793757790649-ixyqrm",
-    "source": "x",
-    "ts": "2026-11-04T02:03:10.649Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T02:00:50.000Z",
-    "reason": "No notable move in crypto related to AI CEO comments.",
-    "text": "⚡️ NOW: OpenAI CEO Sam Altman says humans should never cede control of the future to superintelligence, even if that limits AI progress.\n\n“People should always be in control of the future.”",
-    "url": "https://x.com/Cointelegraph/status/2117799201035690299"
-  },
-  {
-    "id": "x-1793758311084-icnmrc",
-    "source": "x",
-    "ts": "2026-11-04T02:11:51.084Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-04T02:07:00.000Z",
-    "reason": "Significant institutional volume and market share on a new blockchain network.",
-    "text": "Cetus dominates DEX volumes on Sui Network.\n\n@CetusProtocol, the $SUI ecosystem's leading DEX platform, has accounted for ~42% of all DEX volume on @SuiNetwork in the past 30-days.\n\nOf a total $913.16M, Cetus drove a staggering $383.22M.\n\nThe platform has seen $64.24M worth of",
-    "url": "https://x.com/BSCNews/status/2117800749833105440",
-    "images": [
-      "https://pbs.twimg.com/media/HWM9F-3XgAAb-a1.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793758315551-wmo73r",
     "source": "x",
     "ts": "2026-11-04T02:11:55.551Z",
@@ -7863,5 +7832,34 @@
     "reason": "No notable crypto-related event mentioned.",
     "text": "🇺🇸🚨 JUST IN: The Nasdaq 100 is on track to lose $1.8 trillion today as investors bet the Democratic sweep could stall the AI data center buildout, per Reuters.",
     "url": "https://x.com/Cointelegraph/status/2118455886771261585"
+  },
+  {
+    "id": "x-1793914922892-5ogjpe",
+    "source": "x",
+    "ts": "2026-11-05T21:42:02.892Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-05T21:37:15.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+    "url": "https://x.com/DecryptMedia/status/2118457640690893223"
+  },
+  {
+    "id": "x-1793914925797-bhtfwb",
+    "source": "x",
+    "ts": "2026-11-05T21:42:05.797Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-05T21:34:06.000Z",
+    "reason": "Notable market correlation with crypto, indicating potential influence or interplay between traditional and crypto markets.",
+    "text": "Today was a 4σ day for equities. The S&amp;P 500 fell 4.4% and the Nasdaq fell 5.5%, a decline seen roughly once every 19 months. Bitcoin fell about 5%. $STRC closed at $99.56, just 44 cents below par.",
+    "url": "https://x.com/saylor/status/2118456848252891379",
+    "images": [],
+    "video": null
   }
 ]
