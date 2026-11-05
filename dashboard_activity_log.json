@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793712126669-42a1mq",
-    "source": "x",
-    "ts": "2026-11-03T13:22:06.669Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T13:19:48.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Cointelegraph’s @itsciaranlyons sits down with former CFTC Chairman Chris Giancarlo at @SALTConference in London.\n\nStay tuned for the full interview.",
-    "url": "https://x.com/Cointelegraph/status/2117607680328261884"
-  },
-  {
-    "id": "x-1793712130485-o31cjx",
-    "source": "x",
-    "ts": "2026-11-03T13:22:10.485Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-03T13:13:02.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
-    "url": "https://x.com/DecryptMedia/status/2117605976371073187"
-  },
-  {
     "id": "x-1793712734835-bynkj7",
     "source": "x",
     "ts": "2026-11-03T13:32:14.836Z",
@@ -7920,6 +7894,43 @@
     "images": [
       "https://pbs.twimg.com/media/HWWbIrmWgAEsGxe.jpg",
       "https://pbs.twimg.com/media/HWWcTXrXMAA6cD9.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793871125761-ses4kb",
+    "source": "x",
+    "ts": "2026-11-05T09:32:05.761Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-05T09:30:18.000Z",
+    "reason": "Potential security issue with token minting vulnerability revealed",
+    "text": "🚨 UPDATE: XRP Ledger activates a fix for a bug that could have allowed unauthorized minting of issued tokens.",
+    "url": "https://x.com/Cointelegraph/status/2118274700434342012",
+    "images": [
+      "https://pbs.twimg.com/media/HWWfnFBXgAAqMwu.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793871130709-eg532z",
+    "source": "x",
+    "ts": "2026-11-05T09:32:10.709Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-05T09:22:37.000Z",
+    "reason": "Noteworthy regulatory move regarding crypto tax compliance.",
+    "text": "🇭🇰BREAKING: Hong Kong passes LAW requiring crypto firms to collect customer transactions for tax purposes from 2027.\n\nThis includes buying and selling crypto, token swaps, and transfers to external wallets.",
+    "url": "https://x.com/coinbureau/status/2118272766159765779",
+    "images": [
+      "https://pbs.twimg.com/media/HWWahpHbsAERoN0.jpg",
+      "https://pbs.twimg.com/media/HWWdjCza4AAdnya.jpg"
     ],
     "video": null
   }
