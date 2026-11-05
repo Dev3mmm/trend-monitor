@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793710924197-8mg7et",
-    "source": "x",
-    "ts": "2026-11-03T13:02:04.197Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 90,
-    "originTimestamp": "2026-11-03T11:31:30.000Z",
-    "reason": "No factual claim or notable move.",
-    "text": "Largest car brands in Norway 2026",
-    "url": "https://x.com/elonmusk/status/2117602869578715158"
-  },
-  {
-    "id": "x-1793710929107-vu4cka",
-    "source": "x",
-    "ts": "2026-11-03T13:02:09.107Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T13:00:02.000Z",
-    "reason": "No concrete, specific event or news item provided.",
-    "text": "UK Cyber Agency Says AI-Powered Ransomware Attack on Critical Infrastructure Likely by 2028.\n\nBritain's National Cyber Security Centre says AI-powered malware is highly likely to be used in a ransomware attack on UK critical national infrastructure by 2028, urging organizations",
-    "url": "https://x.com/DecryptMedia/status/2117602702863523856"
-  },
-  {
     "id": "x-1793710933942-1rqu56",
     "source": "x",
     "ts": "2026-11-03T13:02:13.942Z",
@@ -7905,5 +7879,42 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "\"Ooh yeaaaaah!\"\n\nWhat a low-IQ, emasculated, panty-waist.",
     "url": "https://x.com/amerix/status/2118251313746116836"
+  },
+  {
+    "id": "x-1793866918804-w88ftu",
+    "source": "x",
+    "ts": "2026-11-05T08:21:58.804Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-05T08:20:14.000Z",
+    "reason": "Regulatory delay on crypto taxation.",
+    "text": "🇰🇷 UPDATE: South Korea proposes delaying its 22% crypto gains tax from 2027 to 2029, and let investors carry losses forward for 3 years. \n\nThis is the fourth delay since 2020.",
+    "url": "https://x.com/Cointelegraph/status/2118257067219652679",
+    "images": [
+      "https://pbs.twimg.com/media/HWWPko4WAAAOdMm.png",
+      "https://pbs.twimg.com/media/HWWPk4GWQAAYoSI.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793866924545-txn87n",
+    "source": "x",
+    "ts": "2026-11-05T08:22:04.545Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-05T08:16:27.000Z",
+    "reason": "New AI-powered investing platform launch in Sui ecosystem.",
+    "text": "Sui Gets a New AI Powered Investing Platform Through Beep\n\nBeep (@0xbeepit) has brought its Mosh social indexing product to the Sui (@SuiNetwork) $SUI ecosystem.\n\nIt is built around a simple idea: tell it what you think will happen in the market. The platform turns that opinion",
+    "url": "https://x.com/BSCNews/status/2118256112449511752",
+    "images": [
+      "https://pbs.twimg.com/media/HWVgizBa8AEmKae.png"
+    ],
+    "video": null
   }
 ]
