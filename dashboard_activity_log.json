@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793720547276-socluk",
-    "source": "x",
-    "ts": "2026-11-03T15:42:27.276Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-03T15:33:30.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "RowfinTools is positioning its trading platform around market analytics, multi-asset access and trade management tools. The platform supports both traditional financial instruments and cryptocurrencies, with a customisable interface for different trading strategies.",
-    "url": "https://x.com/BSCNews/status/2117641326812393797"
-  },
-  {
-    "id": "x-1793721184380-ct3psw",
-    "source": "x",
-    "ts": "2026-11-03T15:53:04.380Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-03T15:49:00.000Z",
-    "reason": "New use of a token/stablecoin by a notable project.",
-    "text": "Kaspa Miners could soon power a new kind of stablecoin\n\nThe developers have revealed the technical specs of the first native proof-of-work-based digital dollar, @KaspaDollar.\n\nA decentralized oracle supported by @Kaspaunchained $KAS miners and driven by KIP-21 sequencing",
-    "url": "https://x.com/BSCNews/status/2117645225334022156",
-    "images": [
-      "https://pbs.twimg.com/media/HWNQORTW8AAvuyQ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793721188232-d4vj93",
     "source": "x",
     "ts": "2026-11-03T15:53:08.232Z",
@@ -7938,5 +7907,39 @@
     "reason": "No notable move, no specific price or event mentioned.",
     "text": "One day post-election, Digital Capital $BTC, Digital Equity $MSTR, and Digital Credit $STRC are all up. The markets have spoken.",
     "url": "https://x.com/saylor/status/2118318308634026473"
+  },
+  {
+    "id": "x-1793883731708-ni2uik",
+    "source": "x",
+    "ts": "2026-11-05T13:02:11.708Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-05T12:58:13.000Z",
+    "reason": "EXCLUSIVE: U.S. and China showing increased intervention in AI and tech deals",
+    "text": "The calm in the U.S.–China AI race is misleading.\n\nThe tariff truce runs until January, but BOTH governments are seen intervening to more AI and tech deals.\n\n1. Meta x Manus AI ($2 BILLION)\n\nIn April, Beijing ordered Meta to unwind its Manus acquisition amid reported national",
+    "url": "https://x.com/coinbureau/status/2118327024502935767",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793883735231-25ebze",
+    "source": "x",
+    "ts": "2026-11-05T13:02:15.231Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-05T12:58:05.000Z",
+    "reason": "Potential security vulnerability in Sei Network's blockchain",
+    "text": "Sei’s Storage Layer Is Safe... For 130 Million Years\n\nA collision attack has been proposed against LtHash, the lattice-based hash function @SeiNetwork uses to generate its blockchain's state fingerprints, in the ePrint paper 2026/2083.\n\nThe attack requires computing 2^81",
+    "url": "https://x.com/BSCNews/status/2118326987475263730",
+    "images": [
+      "https://pbs.twimg.com/media/HWXPJWHXAAA6tts.jpg"
+    ],
+    "video": null
   }
 ]
