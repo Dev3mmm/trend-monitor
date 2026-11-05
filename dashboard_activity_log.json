@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793689968736-wujghe",
-    "source": "x",
-    "ts": "2026-11-03T07:12:48.736Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-03T07:03:14.000Z",
-    "reason": "Aave deposits on Avalanche hit a new record.",
-    "text": "Avalanche's Aave Deposits Hit a New Record\n\nAave (@aave) $AAVE V4 deposits on Avalanche (@avax) $AVAX have climbed past $125 million, reaching an all-time high.\n\nAvalanche credits part of the growth to Ethena (@ethena) solana:72QvBVwpxqmheEPfaCwWSWqEFsUy3rhWt6JhQBMNTwD1 Pay's new",
-    "url": "https://x.com/BSCNews/status/2117512913917530269",
-    "images": [
-      "https://pbs.twimg.com/media/HWLRxyfa0AApti5.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793690515933-etclxp",
-    "source": "x",
-    "ts": "2026-11-03T07:21:55.933Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 24,
-    "originTimestamp": "2026-11-03T06:57:12.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "We call them EDUCATED FOOLS.",
-    "url": "https://x.com/amerix/status/2117515389047300100"
-  },
-  {
     "id": "x-1793691200831-jpfs3n",
     "source": "x",
     "ts": "2026-11-03T07:33:20.831Z",
@@ -7870,6 +7839,45 @@
     "url": "https://x.com/coinbureau/status/2118150204893646930",
     "images": [
       "https://pbs.twimg.com/media/HWUuYS-aYAAXJB5.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793842324316-sokugf",
+    "source": "x",
+    "ts": "2026-11-05T01:32:04.316Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T01:30:00.000Z",
+    "reason": "Notable institutional crypto product launch by Coinbase.",
+    "text": "🇺🇸 TODAY: Coinbase launches regulated global options and perps on Coinbase Prime for institutions in the US and other eligible regions.\n\nUS and global traders will share a single liquidity pool.",
+    "url": "https://x.com/Cointelegraph/status/2118153827815727492",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2118007897032433664/vid/avc1/1280x720/vK_YmDy7bX2NrLyD.mp4?tag=29",
+      "duration": 31,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118007897032433664/img/_4QYfLqoz2J9hNXX.jpg"
+    }
+  },
+  {
+    "id": "x-1793842329839-4vutmn",
+    "source": "x",
+    "ts": "2026-11-05T01:32:09.839Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-05T01:29:00.000Z",
+    "reason": "Exploit detected, significant token withdrawal.",
+    "text": "This trader is still seriously bullish on $PONS ...\n\nAccording to data from Lookonchain, an unidentified whale has withdrawn $13.97M worth of @ponsdotfamily tokens from the @OKX exchange.\n\nIt also withdrew some 5,887 $ETH, worth $13.45M, from the exchange.\n\nMaybe @RobinhoodCrypto",
+    "url": "https://x.com/BSCNews/status/2118153574488170680",
+    "images": [
+      "https://pbs.twimg.com/media/HWRQkk7WgAAbq2V.jpg"
     ],
     "video": null
   }
