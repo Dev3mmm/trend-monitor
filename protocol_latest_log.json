@@ -3004,5 +3004,33 @@
     "fetchedAt": "2026-11-05T02:02:45.677Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-3211442eb8ffadeb",
+    "title": "Pay-per-call APIs for AI agents, settled on Cardano (x402). Early, looking for feedback",
+    "url": "https://forum.cardano.org/t/pay-per-call-apis-for-ai-agents-settled-on-cardano-x402-early-looking-for-feedback/157758",
+    "description": "I’m working on midday.day. An API owner pastes an endpoint and sets a price per call. AI agents pay per request using x402 (HTTP 402 Payment Required) and get the response once payment clears. A non-custodial wallet is created for the seller, with settlement on Cardano first and USDC on Base too. It’s pre-launch, just a waitlist for now: midday — get paid when AI agents call your API Questions for",
+    "publishedAt": "2026-11-05T07:18:17.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-05T07:23:02.724Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-a310965c4e6a8a80",
+    "title": "What If Your Business Could See Market Changes Before They Affect Your Decisions?",
+    "url": "https://forum.cardano.org/t/what-if-your-business-could-see-market-changes-before-they-affect-your-decisions/157760",
+    "description": "Every business decision becomes more valuable when it is supported by the right information at the right time. Understanding market trends, customer interests, and future possibilities can help businesses stay one step ahead of their competitors. With growing market demands, many entrepreneurs are looking for smarter ways to study information and make better decisions. Investing in AI Prediction A",
+    "publishedAt": "2026-11-05T07:20:59.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-05T07:23:02.724Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
