@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1793769743032-gzbp6w",
-    "source": "x",
-    "ts": "2026-11-04T05:22:23.032Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T05:14:40.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Polymarket Shows Democratic Sweep of Both Chambers, Market Bets on Trump Facing \"Crushing Defeat\" in Midterms\n\nAccording to the latest trading data from onchain prediction market Polymarket as of November 3, 2026, the market-implied probability of a \"Democrats Sweep\"in the 2026",
-    "url": "https://x.com/WuBlockchain/status/2117847976798527699"
-  },
-  {
-    "id": "x-1793769748228-qij6xc",
-    "source": "x",
-    "ts": "2026-11-04T05:22:28.228Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "CZ 🔶 BNB",
-    "ageMin": 99,
-    "originTimestamp": "2026-11-04T03:42:23.000Z",
-    "reason": "No specific significant change provided, price movement within recent range.",
-    "text": "$2.8 billion net inflow over the last 24hrs, according to public data.",
-    "url": "https://x.com/cz_binance/status/2117847381253435873",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793770347745-ngvq8x",
-    "source": "x",
-    "ts": "2026-11-04T05:32:27.745Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T05:30:49.000Z",
-    "reason": "Significant increase in XRP wallets with high tokens.",
-    "text": "🔥 BULLISH: XRP wallets with at least 1M tokens climb to 2,147, the highest count of 2026, after 28 new additions in just 10 days, per Santiment.",
-    "url": "https://x.com/Cointelegraph/status/2117852042232283551",
-    "images": [
-      "https://pbs.twimg.com/media/HWQfM-VWAAAtNBc.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793770352480-ndg2wt",
     "source": "x",
     "ts": "2026-11-04T05:32:32.480Z",
@@ -7845,5 +7798,54 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "🇺🇸 NOW: President Trump says the stock market had one of its worst days in history because of the election results.\n\n “Do not fear, however, we will soon, one way or the other, be BIGGER AND STRONGER THAN EVER BEFORE.”",
     "url": "https://x.com/Cointelegraph/status/2118488708605182109"
+  },
+  {
+    "id": "x-1793769737701-k0zbvf",
+    "source": "x",
+    "ts": "2026-11-04T05:22:17.701Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-04T05:15:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨BREAKING: Bitcoin plunges BELOW $76,000 for the first time since September 16.\n\nNearly $250 MILLION in leveraged crypto positions have been liquidated over the past four hours as the selloff intensifies.",
+    "url": "https://x.com/coinbureau/status/2117848061309596127",
+    "images": [
+      "https://pbs.twimg.com/media/HWQQwREboAARTKU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793923167213-7ynsaz",
+    "source": "x",
+    "ts": "2026-11-05T23:59:27.213Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-05T23:55:00.000Z",
+    "reason": "A new significant development in DeFi ecosystem with a notable swap of active DEX.",
+    "text": "Can Aero flip Uniswap to become Arbitrum's #1 DEX?\n\nIt took less than two weeks for @aeroxyz to become the second most active DEX on @arbitrum, the protocol having launched on the chain as recently as October 21.\n\nIn the past week, $AERO has seen $165.11M in $ARB based volume,",
+    "url": "https://x.com/BSCNews/status/2118492306781126662",
+    "images": [
+      "https://pbs.twimg.com/media/HWXz1zHWwAAufdF.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793923169270-t8kyqc",
+    "source": "x",
+    "ts": "2026-11-05T23:59:29.270Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-05T23:45:00.000Z",
+    "reason": "No notable move in crypto or related to it.",
+    "text": "Google Bets $17 Billion on Its First Wyoming Data Center.\n\nGoogle said Thursday it is building its first data center in Wyoming, a $17 billion investment in Laramie County, and pledged to pay for 100% of the power it uses.",
+    "url": "https://x.com/DecryptMedia/status/2118489790068748488"
   }
 ]
