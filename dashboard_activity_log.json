@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1793731339294-f5mzob",
-    "source": "x",
-    "ts": "2026-11-03T18:42:19.294Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-03T18:40:29.000Z",
-    "reason": "Ethereum supply decrease on exchanges following a hack incident.",
-    "text": "⚡️ INSIGHT: Ethereum supply on exchanges fell from 3.56% to 3.20% following the Binance hack, with roughly 313,000 $ETH leaving top exchange addresses on November 1–2 after withdrawals resumed, according to Santiment.",
-    "url": "https://x.com/Cointelegraph/status/2117688380741787752",
-    "images": [
-      "https://pbs.twimg.com/media/HWOKW_TWoAAaUp7.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793731346557-esum8e",
-    "source": "x",
-    "ts": "2026-11-03T18:42:26.557Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-03T18:33:14.000Z",
-    "reason": "Suspected hacker movement of funds through crypto platforms is a notable exploit.",
-    "text": "Analyst: Suspected North Korean Hackers Moved $1.46M via Jupiter Lend and Circle Bridge; Jupiter Says Funds Remain Traceable\n\nOn-chain analyst @FabianoSolana reported that suspected North Korean hackers moved approximately $1.46 million through Jupiter Lend and Circle’s",
-    "url": "https://x.com/WuBlockchain/status/2117686556525998266",
-    "images": [
-      "https://pbs.twimg.com/media/HWOIse4aQAAXuzM.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793732201994-1bpgvw",
-    "source": "x",
-    "ts": "2026-11-03T18:56:41.994Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-03T18:49:03.000Z",
-    "reason": "The tweet contains a serious security breach related to an infrastructure credential attack.",
-    "text": "🚨ALERT: GitBook says an attack using AI agents compromised infrastructure credentials on Nov 2.\n\nGitBook is a platform teams use to create and publish documentation and knowledge bases.\n\nThe attacker may have accessed integration tokens, Git Sync secrets, API tokens and",
-    "url": "https://x.com/coinbureau/status/2117690535209206015",
-    "images": [
-      "https://pbs.twimg.com/media/HWOMIm1agAA7CB-.png",
-      "https://pbs.twimg.com/media/HWOMLLpasAAO7mA.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793732207760-c0txjs",
     "source": "x",
     "ts": "2026-11-03T18:56:47.760Z",
@@ -7943,5 +7888,56 @@
     "url": "https://x.com/BSCNews/status/2118383841840869858",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793898143113-ogv89m",
+    "source": "x",
+    "ts": "2026-11-05T17:02:23.113Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-05T17:01:08.000Z",
+    "reason": "Noteworthy regulatory change affecting crypto taxation",
+    "text": "🇬🇷 JUST IN: Greece just passed a 10% tax on crypto gains, but your first €500 a year stays tax-free.",
+    "url": "https://x.com/Cointelegraph/status/2118388154142957704",
+    "images": [
+      "https://pbs.twimg.com/media/HWYGy4DXYAAyo9v.jpg",
+      "https://pbs.twimg.com/media/HWYGzIwXoAACeFA.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793898146641-j1a96i",
+    "source": "x",
+    "ts": "2026-11-05T17:02:26.641Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T17:00:02.000Z",
+    "reason": "Notable change in Zilliqa's blockchain model.",
+    "text": "Zilliqa Pivots From Standalone Layer 1 to an Ethereum Layer 2.\n\nAfter nine years running its own chain, Zilliqa said it is becoming the Zilliqa Institutional Layer for regulated institutions, with Ethereum settlement, vLEI identity checks and Liechtenstein's LTIN operating the",
+    "url": "https://x.com/DecryptMedia/status/2118387876350066822",
+    "images": [
+      "https://pbs.twimg.com/media/HWXosZ_XEAAZbwO.png",
+      "https://pbs.twimg.com/media/HWXo4mqXAAAiv9T.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793898149970-9mclk0",
+    "source": "x",
+    "ts": "2026-11-05T17:02:29.970Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T17:00:00.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "NO one is safe from CYBERATTACKS.\n\nIn 2026 alone:\n\n- 25+ countries hit\n- 220+ MILLION records exposed\n- MILLIONS of people affected\n- 30+ banks and financial firms breached\n- THOUSANDS of govt websites taken offline\n- MILLIONS of attempts to hack\n- 90 MILLION websites still",
+    "url": "https://x.com/coinbureau/status/2118387868846395551"
   }
 ]
