@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793755938727-vnvyj5",
-    "source": "x",
-    "ts": "2026-11-04T01:32:18.727Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T01:30:46.000Z",
-    "reason": "New AI system for cryptographic proof announced.",
-    "text": "⚡️ NEW: Anthropic unveils FlashProve, a zkSNARK system built with Claude that lets AI providers cryptographically prove which model produced each response.",
-    "url": "https://x.com/Cointelegraph/status/2117791632242225498",
-    "images": [
-      "https://pbs.twimg.com/media/HWPoQy1WoAApn34.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793756569594-7o8fed",
-    "source": "x",
-    "ts": "2026-11-04T01:42:49.594Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T01:41:46.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇺🇸 LATEST: Prediction markets Kalshi and Polymarket now give Democrats 99% odds to win the House and 98% to take the Senate.\n\nSo far, Democrats and allied independents hold 42 Senate seats to Republicans’ 31.",
-    "url": "https://x.com/Cointelegraph/status/2117794399166066689"
-  },
-  {
     "id": "x-1793756573079-5uyar9",
     "source": "x",
     "ts": "2026-11-04T01:42:53.079Z",
@@ -7869,5 +7838,36 @@
     "reason": "No notable crypto-related event or use of crypto is mentioned.",
     "text": "⚡ UPDATE: Elon Musk's net worth was down roughly $70B in a day.\n\nAnd yet, he still has more than double the second richest man on Forbes' list.",
     "url": "https://x.com/Cointelegraph/status/2118450839442391411"
+  },
+  {
+    "id": "x-1793913742925-o68las",
+    "source": "x",
+    "ts": "2026-11-05T21:22:22.925Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-05T21:16:00.000Z",
+    "reason": "Notable tokenized stock platform launch on Solana",
+    "text": "Ondo Stocks go live on JTX, Jito’s Solana trading platform\n\n@Ondo has brought its tokenized US and international equities to @jtx_trade, the trading app Jito Labs built on @solana. Prices come straight from Ondo as the issuer, so trades tap liquidity from the actual stock market",
+    "url": "https://x.com/BSCNews/status/2118452293066424390",
+    "images": [
+      "https://pbs.twimg.com/media/HWY7J0tWkAA9zUd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793913746922-5umohf",
+    "source": "x",
+    "ts": "2026-11-05T21:22:26.922Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-05T21:15:15.000Z",
+    "reason": "No concrete, specific event or news item provided.",
+    "text": "🇺🇸🚨 REKT: $3 trillion just got wiped from the US stock market in one day, the worst session since the April 2025 tariff crash.",
+    "url": "https://x.com/Cointelegraph/status/2118452103467147534"
   }
 ]
