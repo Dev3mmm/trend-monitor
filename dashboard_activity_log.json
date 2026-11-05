@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793761346153-1hnhp7",
-    "source": "x",
-    "ts": "2026-11-04T03:02:26.153Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T03:00:46.000Z",
-    "reason": "Suspected exploit involving a French bank",
-    "text": "🚨 UPDATE: ZachXBT says the EU financial institution hit in a $133M+ exploit is allegedly French bank Crédit Mutuel Arkéa. \n\nHe suspects the true losses run higher once OTC activity is counted.",
-    "url": "https://x.com/Cointelegraph/status/2117814281177604572",
-    "images": [
-      "https://pbs.twimg.com/media/HWP83GuXcAAAdYM.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793762524524-6o6ipf",
-    "source": "x",
-    "ts": "2026-11-04T03:22:04.524Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T03:20:00.000Z",
-    "reason": "Notable political figure supporting crypto.",
-    "text": "🇺🇸 NOW: Pro-crypto Republican Byron Donalds wins Florida’s governor race over Democrat David Jolly, set to become the state’s first Black governor. \n\nIn Congress, he introduced the Reserve and Stockpile Act to write Trump’s Strategic Bitcoin Reserve order into law.",
-    "url": "https://x.com/Cointelegraph/status/2117819120745918645",
-    "images": [
-      "https://pbs.twimg.com/media/HWQBQ5JWYAA3u-y.jpg",
-      "https://pbs.twimg.com/media/HWQBRFAXQAACwKQ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793763167616-uztywo",
-    "source": "x",
-    "ts": "2026-11-04T03:32:47.616Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T03:30:46.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 Jack Dorsey’s Block beats Q3 estimates with $3.2 billion in gross profit, lifts its 2026 outlook and flags a bigger potential DOJ settlement.\n\n🔹 Prediction markets Kalshi and Polymarket now give Democrats 99%",
-    "url": "https://x.com/Cointelegraph/status/2117821832233419131"
-  },
-  {
     "id": "x-1793763172057-dmv9nf",
     "source": "x",
     "ts": "2026-11-04T03:32:52.057Z",
@@ -7848,5 +7798,55 @@
     "reason": "No notable move in ETH price.",
     "text": "Largest HYPE Treasury Firm Hyperliquid Strategies Seeks US Futures Commission Merchant Registration, Reports $620.6M Quarterly Profit\n\nHyperliquid Strategies (NASDAQ: PURR), the largest publicly traded HYPE treasury company, announced that a subsidiary has applied for",
     "url": "https://x.com/WuBlockchain/status/2118464261232230434"
+  },
+  {
+    "id": "x-1793917869938-0nadlh",
+    "source": "x",
+    "ts": "2026-11-05T22:31:09.938Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-05T22:17:15.000Z",
+    "reason": "Crypto news but not relevant to Bitcoin or crypto market.",
+    "text": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+    "url": "https://x.com/DecryptMedia/status/2118467708224209065",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793917874111-kncaje",
+    "source": "x",
+    "ts": "2026-11-05T22:31:14.111Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 16,
+    "originTimestamp": "2026-11-05T22:15:00.000Z",
+    "reason": "Potential regulatory response to a significant hack event.",
+    "text": "🇺🇸 TODAY: The Fed and OCC are reportedly calling US banks to check for \"unusual activity\" after the $6.3B Binance hack.",
+    "url": "https://x.com/Cointelegraph/status/2118467141393428756",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793917880343-4220eh",
+    "source": "x",
+    "ts": "2026-11-05T22:31:20.343Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-05T22:14:00.000Z",
+    "reason": "Canton Network's token launchpad is a notable move in the context of institutional adoption and innovation in the crypto space.",
+    "text": "Canton Network gets its own token launchpad, and says it’s a real chain now\n\n@supanova_app has switched on token creation for @CantonNetwork, the privacy-focused chain behind $CC that is best known for big-bank finance and tokenized assets. The launchpad comes with its own",
+    "url": "https://x.com/BSCNews/status/2118466889332752666",
+    "images": [
+      "https://pbs.twimg.com/media/HWZGp7LXQAAm1C3.jpg"
+    ],
+    "video": null
   }
 ]
