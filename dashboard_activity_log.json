@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793716946411-wial3h",
-    "source": "x",
-    "ts": "2026-11-03T14:42:26.411Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 84,
-    "originTimestamp": "2026-11-03T13:18:07.000Z",
-    "reason": "The tweet is about a political endorsement and not related to crypto or blockchain.",
-    "text": "Texas,\n\nI ask for your votes for Ken Paxton for the US Senate. \n\n@KenPaxtonTX",
-    "url": "https://x.com/elonmusk/status/2117626690062942516"
-  },
-  {
     "id": "x-1793716950283-bve2q3",
     "source": "x",
     "ts": "2026-11-03T14:42:30.283Z",
@@ -7931,6 +7918,25 @@
     "text": "If you use SignalPlus for any other exchange platform, it's time to revoke all your API keys. \n\nIt is generally recommend that you do not store your API keys with any 3rd party platform. 🙏 \n\n(Deribit also/first reported this.)",
     "url": "https://x.com/cz_binance/status/2118298620797812955",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793877735760-luglem",
+    "source": "x",
+    "ts": "2026-11-05T11:22:15.760Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T11:20:15.000Z",
+    "reason": "Potential security incident leading to Binance's action.",
+    "text": "🚨 JUST IN: Binance removes all API keys linked to SignalPlus after a potential security issue, saying its systems are unaffected.",
+    "url": "https://x.com/Cointelegraph/status/2118302370266251749",
+    "images": [
+      "https://pbs.twimg.com/media/HWW4xmHWgAEDuli.jpg",
+      "https://pbs.twimg.com/media/HWW4x5bXUAAzNH3.png"
+    ],
     "video": null
   }
 ]
