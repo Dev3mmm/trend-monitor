@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793735561254-nvj0v9",
-    "source": "x",
-    "ts": "2026-11-03T19:52:41.254Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-03T19:44:30.000Z",
-    "reason": "No notable crypto-related news in the tweet provided.",
-    "text": "Major Developer Documentation Platform GitBook Hit by AI Agent-Driven Attack, Crypto Projects' Docs Affected\n\nGitBook reported that attackers used AI agents to gain unauthorized access to some of its infrastructure credentials at 1:00 p.m. EST on November 2. The company detected",
-    "url": "https://x.com/WuBlockchain/status/2117704492699603335"
-  },
-  {
-    "id": "x-1793736115615-7mnet3",
-    "source": "x",
-    "ts": "2026-11-03T20:01:55.615Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T20:00:01.000Z",
-    "reason": "Notable security incident involving API tokens and credentials.",
-    "text": "GitBook Says Attacker Used AI Agents to Access Some of Its Infrastructure Credentials.\n\nThe documentation platform said the attacker gained access at 1 PM EST (18:00 UTC) Monday and may have reached API tokens, Git Sync secrets and integration tokens, urging users to rotate them.",
-    "url": "https://x.com/DecryptMedia/status/2117708397269102606",
-    "images": [
-      "https://pbs.twimg.com/media/HWOHorkXwAANCLy.png",
-      "https://pbs.twimg.com/media/HWOH1K2WoAA2j5o.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793736117810-bxyutb",
     "source": "x",
     "ts": "2026-11-03T20:01:57.810Z",
@@ -7925,6 +7893,38 @@
     "ageMin": 4,
     "originTimestamp": "2026-11-05T17:59:29.000Z",
     "reason": "No notable move or specific event described.",
+    "text": "Maybe the McRib meant something else this time.",
+    "url": "https://x.com/coinbase/status/2118402972782940549"
+  },
+  {
+    "id": "x-1793902037392-29feom",
+    "source": "x",
+    "ts": "2026-11-05T18:07:17.393Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-05T18:00:50.000Z",
+    "reason": "Notable exploit involving cryptocurrency laundering",
+    "text": "⚡ NEW: The FATF traced over $100M in victim money to one crypto wallet cluster tied to a single scam compound.",
+    "url": "https://x.com/Cointelegraph/status/2118403179754791204",
+    "images": [
+      "https://pbs.twimg.com/media/HWYUdaTXQAAE8WF.jpg",
+      "https://pbs.twimg.com/media/HWYUdneW8AAq86K.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793902040654-qvu49u",
+    "source": "x",
+    "ts": "2026-11-05T18:07:20.654Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-05T17:59:29.000Z",
+    "reason": "No notable move or specific event mentioned.",
     "text": "Maybe the McRib meant something else this time.",
     "url": "https://x.com/coinbase/status/2118402972782940549"
   }
