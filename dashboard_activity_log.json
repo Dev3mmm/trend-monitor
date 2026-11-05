@@ -1,43 +1,5 @@
 [
   {
-    "id": "x-1793685791515-9xu3fv",
-    "source": "x",
-    "ts": "2026-11-03T06:03:11.515Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-03T06:00:00.000Z",
-    "reason": "The tweet is vague and lacks specific details, not a notable news event.",
-    "text": "🇬🇧 NEW: UK’s National Cyber Security Centre warns the country should expect an AI-powered cyberattack on its critical infrastructure within two years, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2117496998475739570",
-    "images": [
-      "https://pbs.twimg.com/media/HWLB_-5asAA1jAX.jpg",
-      "https://pbs.twimg.com/media/HWLCAAFakAAOxYE.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793685797775-bg6or7",
-    "source": "x",
-    "ts": "2026-11-03T06:03:17.775Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-03T05:55:41.000Z",
-    "reason": "North Korean hackers' estimated laundering timeline and remaining funds are noteworthy newsworthy information.",
-    "text": "🚨 NEW: North Korean hackers behind last week’s $6.3B Binance heist could need months to launder the stolen crypto, with about $3.3B still under their control, per FT.",
-    "url": "https://x.com/Cointelegraph/status/2117495914000695555",
-    "images": [
-      "https://pbs.twimg.com/media/HWLbB9jbIAAZV4V.jpg",
-      "https://pbs.twimg.com/media/HWLbB7PbUAAqP5j.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793686355991-d91qh7",
     "source": "x",
     "ts": "2026-11-03T06:12:35.991Z",
@@ -7867,6 +7829,38 @@
     "url": "https://x.com/BSCNews/status/2118128660523684012",
     "images": [
       "https://pbs.twimg.com/media/HWRQZKGWQAATjnk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793836970537-7yqd51",
+    "source": "x",
+    "ts": "2026-11-05T00:02:50.537Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-05T00:02:09.000Z",
+    "reason": "No notable crypto-related news or price movement mentioned.",
+    "text": "BREAKING: 🇺🇸 Democrats face a push for a “day 1” ban on AI superintelligence, with up to 20 YEARS in prison for violators.\n\nArizona Rep. Yassamin Ansari says a pause on advanced AI and a ban on artificial superintelligence must be “top of the Democratic agenda on day 1.”\n\nA bill",
+    "url": "https://x.com/coinbureau/status/2118131721145389562"
+  },
+  {
+    "id": "x-1793836975926-6y2pxe",
+    "source": "x",
+    "ts": "2026-11-05T00:02:55.926Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T00:00:24.000Z",
+    "reason": "First U.S. stock tokenization under SEC's Innovation Exemption.",
+    "text": "🔥  TODAY: Canton Strategic Holdings’ $CNTN becomes the first tokenized U.S. stock to trade under the SEC’s Innovation Exemption. \n\nThe trades ran on TSV LLC, with DRW Cumberland and Flowdesk among the first counterparties.",
+    "url": "https://x.com/Cointelegraph/status/2118131280051056884",
+    "images": [
+      "https://pbs.twimg.com/media/HWUdK9yXYAAbdnh.jpg",
+      "https://pbs.twimg.com/media/HWUdLIrXMAAKX7p.jpg"
     ],
     "video": null
   }
