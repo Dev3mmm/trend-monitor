@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793754141986-jswfho",
-    "source": "x",
-    "ts": "2026-11-04T01:02:21.986Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T01:00:51.000Z",
-    "reason": "Notable SEC ruling on a digital commodity.",
-    "text": "🇺🇸 TODAY: Canton Network’s Canton Coin wins an SEC no-action letter that deems it a “digital commodity,” with no securities registration required.",
-    "url": "https://x.com/Cointelegraph/status/2117784104284393484",
-    "images": [
-      "https://pbs.twimg.com/media/HWPhaV1X0AAiMxQ.png",
-      "https://pbs.twimg.com/media/HWPhaw6WkAAy5XS.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793754147798-zbu3xs",
     "source": "x",
     "ts": "2026-11-04T01:02:27.798Z",
@@ -7880,5 +7861,18 @@
     "reason": "No notable move in AI model contest without further specific details or verification.",
     "text": "NEAR co-founder Illia Polosukhin opens a public contest to improve AI models\n\nDelta League, launched today by @ilblackdragon, lets anyone submit edits to an open AI model’s weights, the numbers inside it that shape its answers. Each edit is scored on a hidden test set, and every",
     "url": "https://x.com/BSCNews/status/2118444743193424177"
+  },
+  {
+    "id": "x-1793912578857-p4bkw2",
+    "source": "x",
+    "ts": "2026-11-05T21:02:58.857Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-05T21:00:00.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Anthropic Lets Claude Read Your Bank Accounts, but Not Touch the Money.\n\nAnthropic's Personal Finance in Claude starts rolling out in a US beta this week on Pro, Max and Ultra plans, linking bank and card accounts via Plaid with read-only access, so it can't move or invest money.",
+    "url": "https://x.com/DecryptMedia/status/2118448268426236206"
   }
 ]
