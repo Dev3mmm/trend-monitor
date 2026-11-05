@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793740976476-svan2b",
-    "source": "x",
-    "ts": "2026-11-03T21:22:56.476Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-03T21:17:15.000Z",
-    "reason": "CrowdfStrike's AI agent 'Kill Switch' and acquisition of Fiddler AI are notable moves in the cybersecurity space.",
-    "text": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
-    "url": "https://x.com/DecryptMedia/status/2117727832247832916",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793740981655-86o36u",
-    "source": "x",
-    "ts": "2026-11-03T21:23:01.655Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-03T21:15:00.000Z",
-    "reason": "No noteworthy news or significant price movement is indicated.",
-    "text": "Aster DEX starts shutting down ApolloX for good\n\n@Aster_DEX began winding down the legacy APX contract of ApolloX, its original exchange, today at 10:00 UTC and expects to finish within 48 hours. Protocol-owned funds are moving over to Aster through its bridge.\n\nUsers with",
-    "url": "https://x.com/BSCNews/status/2117727266364883165"
-  },
-  {
     "id": "x-1793741511169-67ox63",
     "source": "x",
     "ts": "2026-11-03T21:31:51.169Z",
@@ -7918,5 +7889,36 @@
     "url": "https://x.com/DecryptMedia/status/2118409701876466053",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793904828839-zwkh9v",
+    "source": "x",
+    "ts": "2026-11-05T18:53:48.840Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-05T18:46:00.000Z",
+    "reason": "Kaspa's block reward cut is a notable move affecting the cryptocurrency ecosystem.",
+    "text": "Kaspa miners stay put after the latest block reward cut\n\nKaspa’s block reward dropped from 2.06 to 1.94 $KAS on Wednesday, a 5.6% cut. The network trims rewards a little each month, halving them over a year, and the next step to 1.84 KAS comes in about 29 days.\n\nHashrate, the",
+    "url": "https://x.com/BSCNews/status/2118414544359825505",
+    "images": [
+      "https://pbs.twimg.com/media/HWYcLfNW0AA4mI-.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793904832032-4tb3n5",
+    "source": "x",
+    "ts": "2026-11-05T18:53:52.032Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 15,
+    "originTimestamp": "2026-11-05T18:38:09.000Z",
+    "reason": "No notable move or newsworthy event described.",
+    "text": "Coinbase One is the everything membership.\n\nTrading perks, staking boosts, USDC benefits, and card rewards in one membership. Plenty of value, even when you’re giving the charts a break, and all on a platform with layered safeguards to help protect your assets.\n\nOne thing you may",
+    "url": "https://x.com/coinbase/status/2118413394705256889"
   }
 ]
