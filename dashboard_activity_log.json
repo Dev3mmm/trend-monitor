@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793715741732-5b51f0",
-    "source": "x",
-    "ts": "2026-11-03T14:22:21.732Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-03T14:13:59.000Z",
-    "reason": "Notable institutional adoption and regulatory compliance endorsement.",
-    "text": "Celo's native stablecoin gas support is spreading across the industry.\n\nLeading hardware wallet provider @Ledger has just gone live with support for $USAT on the @Celo blockchain. \n\n@usat is the fully-US regulated USD stablecoin issued by @Anchorage and supported by @Tether",
-    "url": "https://x.com/BSCNews/status/2117621312948510934",
-    "images": [
-      "https://pbs.twimg.com/media/HWNNXAUXAAAKGUo.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793715747301-9co70b",
     "source": "x",
     "ts": "2026-11-03T14:22:27.301Z",
@@ -7923,6 +7905,24 @@
     "url": "https://x.com/BSCNews/status/2118293245000372678",
     "images": [
       "https://pbs.twimg.com/media/HWWvCW4WsAAjIDD.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793875909190-noqp9y",
+    "source": "x",
+    "ts": "2026-11-05T10:51:49.190Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-05T10:51:26.000Z",
+    "reason": "Potential security issue with SignalPlus API keys.",
+    "text": "Following a potential security issue reported by third-party platform SignalPlus, we have proactively removed all API keys linked to SignalPlus as an immediate precautionary measure.\n\nBinance's own systems are unaffected. User funds remain safe. \n\nIf you used SignalPlus, please",
+    "url": "https://x.com/binance/status/2118295116716589383",
+    "images": [
+      "https://pbs.twimg.com/media/HWWyHYnbgAE_HvB.jpg"
     ],
     "video": null
   }
