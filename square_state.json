@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 NEW: Apple cuts internal AI budgets for employees, with some engineers’ daily caps lowered from $300 to $200 and further cuts to as little as $100 under consideration, per Bloomberg.",
-      "url": "https://x.com/Cointelegraph/status/2118176549501284632",
-      "images": [
-        "https://pbs.twimg.com/media/HWVGV0qWIAAujUb.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793847923549
-    },
-    {
       "text": "🚨 JUST IN: Trump Media moved 4,259 bitcoin:native , worth about $343.7M to Crypto(.)com.",
       "url": "https://x.com/Cointelegraph/status/2118180251268415522",
       "images": [
@@ -2041,16 +2032,6 @@
     }
   ],
   "posted": [
-    {
-      "text": "#PeckShieldAlert The #BlueMove hacker-labeled address bridged 115K $USDC from #Ethereum to #Hyperliquid and bought 188.25 $XMR at $608.43.\n\nOn July 11, 2026, BlueMove DEX, an AMM on the #Sui &amp; #Aptos, fell victim to an exploit in which an attacker drained 710,670 $SUI (valued at",
-      "final": "#PeckShieldAlert The #BlueMove hacker-labeled address bridged 115K $USDC from #Ethereum to #Hyperliquid and bought 188.25 $XMR at $608.43.\n\nOn July 11, 2026, BlueMove DEX, an AMM on the #Sui &amp; #Aptos, fell victim to an exploit in which an attacker drained 710,670 $SUI (valued at\n\n#Ethereum $ETH #Sui $SUI #Hyperliquid $HYPE #Stablecoin #Hack",
-      "images": [
-        "https://pbs.twimg.com/media/HWK6CnYbIAAGvlB.jpg"
-      ],
-      "at": 1793680323069,
-      "status": "failed",
-      "error": "Uploading: sq_1793680323069_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261103/ee36602289ec4c5c8ce8a9c412ce838c.jpg\nPublishing...\n\n\nFailed: API error [220094]: Hashtag count exceeds the allowed limit"
-    },
     {
       "text": "Solana Wallet Solflare Goes on High Security Alert Amid Recent Crypto Attacks\n\nSolflare co-founder Vidor said the Solana-based crypto wallet has entered a heightened state of security alert following a series of recent security incidents across the crypto industry. The team has",
       "final": "Solana Wallet Solflare Goes on High Security Alert Amid Recent Crypto Attacks\n\nSolflare co-founder Vidor said the Solana-based crypto wallet has entered a heightened state of security alert following a series of recent security incidents across the crypto industry. The team has\n\n#Solana $SOL",
@@ -2669,7 +2650,16 @@
       "at": 1793851348181,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384860801145545?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NEW: Apple cuts internal AI budgets for employees, with some engineers’ daily caps lowered from $300 to $200 and further cuts to as little as $100 under consideration, per Bloomberg.",
+      "final": "🚨 NEW: Apple cuts internal AI budgets for employees, with some engineers’ daily caps lowered from $300 to $200 and further cuts to as little as $100 under consideration, per Bloomberg.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWVGV0qWIAAujUb.jpg"
+      ],
+      "at": 1793853163171,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793851348181
+  "lastPostAt": 1793853163171
 }
