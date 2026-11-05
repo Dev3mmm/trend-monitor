@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793709128896-9z7snu",
-    "source": "x",
-    "ts": "2026-11-03T12:32:08.896Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T12:30:01.000Z",
-    "reason": "No notable move in the crypto market mentioned.",
-    "text": "Reserve Bank of Australia Raises Cash Rate to 4.85%.\n\nAustralia's central bank lifted its cash rate by 25 basis points to 4.85% at 10:30 PM EST Monday (03:30 UTC Tuesday) on a 6–3 board vote, citing AI-related investment and higher fuel prices.",
-    "url": "https://x.com/DecryptMedia/status/2117595149928673377"
-  },
-  {
-    "id": "x-1793709136314-mslgwa",
-    "source": "x",
-    "ts": "2026-11-03T12:32:16.314Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T12:30:00.000Z",
-    "reason": "The tweet mentions a significant amount of Bitcoin held by Tether, but no concrete details or verification are provided.",
-    "text": "MASSIVE: Tether hold $11.5 BILLION worth of Bitcoin, CEO Paolo Ardoino reveals.\n\nThat tops every public company on BitcoinTreasuries’ list except Strategy, which holds 849,327 BTC, about 5.7 times as much. \n\nPrivately held Tether sits outside the ranking.\n\nThe figure is roughly",
-    "url": "https://x.com/coinbureau/status/2117595146040819766",
-    "images": [
-      "https://pbs.twimg.com/media/HWMu66sakAA-zwQ.jpg",
-      "https://pbs.twimg.com/media/HWMu7FvbEAAm5MZ.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793709779091-h4ke5a",
     "source": "x",
     "ts": "2026-11-03T12:42:59.091Z",
@@ -7914,5 +7882,37 @@
       "https://pbs.twimg.com/media/HWWCG3SbYAAZV9Z.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793864525926-7wh7w1",
+    "source": "x",
+    "ts": "2026-11-05T07:42:05.926Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T07:40:14.000Z",
+    "reason": "VanEck analysis of Bitcoin miner sentiment and recent stock performance.",
+    "text": "🚨 NEW: VanEck says Bitcoin miners that pivoted to AI look oversold after a ~35% October drop, as funding fears hit the stocks while no signed leases were cancelled.",
+    "url": "https://x.com/Cointelegraph/status/2118247000713957417",
+    "images": [
+      "https://pbs.twimg.com/media/HWWGaxMWAAA6xcs.jpg",
+      "https://pbs.twimg.com/media/HWWGa9AWkAASs_i.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793864527510-od157g",
+    "source": "x",
+    "ts": "2026-11-05T07:42:07.510Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T07:40:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "The S&amp;P 500 over 100 years and 18 presidents.\nRed or blue, the full picture.",
+    "url": "https://x.com/coinbureau/status/2118246939724742688"
   }
 ]
