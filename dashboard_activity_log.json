@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793758315551-wmo73r",
-    "source": "x",
-    "ts": "2026-11-04T02:11:55.551Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T02:04:00.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "Proof-of-stake has become a standard when it comes to blockchain consensus mechanisms.\n\nHere's why $KAS chose a different path altogether and why it makes sense for its ecosystem ⬇️",
-    "url": "https://x.com/BSCNews/status/2117799994929328521"
-  },
-  {
-    "id": "x-1793759539732-so27fe",
-    "source": "x",
-    "ts": "2026-11-04T02:32:19.732Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T02:30:46.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🔥 NEW: Jack Dorsey’s Block beats Q3 estimates with $3.2 billion in gross profit, lifts its 2026 outlook and flags a bigger potential DOJ settlement.",
-    "url": "https://x.com/Cointelegraph/status/2117806730688016545",
-    "images": [
-      "https://pbs.twimg.com/media/HWP1_acXUAAnaGR.jpg",
-      "https://pbs.twimg.com/media/HWP1_0wW4AAdfhG.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793759545078-noi5lc",
-    "source": "x",
-    "ts": "2026-11-04T02:32:25.078Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-04T02:21:55.000Z",
-    "reason": "Specific institutional critique of a major crypto platform.",
-    "text": "CoinEx Founder: Binance Incident Exposed Three Entirely Avoidable Security and Operational Flaws\n\nHaipo Yang, Founder of CoinEx, stated that the recent Binance security breach exposed at least three critical mistakes that were entirely avoidable, underscoring a failure of",
-    "url": "https://x.com/WuBlockchain/status/2117804505903640840",
-    "images": [
-      "https://pbs.twimg.com/media/HWPz4m5bkAAevqi.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793760143196-ctcq26",
     "source": "x",
     "ts": "2026-11-04T02:42:23.196Z",
@@ -7860,6 +7810,56 @@
     "text": "Today was a 4σ day for equities. The S&amp;P 500 fell 4.4% and the Nasdaq fell 5.5%, a decline seen roughly once every 19 months. Bitcoin fell about 5%. $STRC closed at $99.56, just 44 cents below par.",
     "url": "https://x.com/saylor/status/2118456848252891379",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793915560296-6dlcad",
+    "source": "x",
+    "ts": "2026-11-05T21:52:40.296Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-05T21:43:56.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "$STRC reshapes $BTC exposure for investors seeking income and lower volatility. $MSTR",
+    "url": "https://x.com/saylor/status/2118460022921277932"
+  },
+  {
+    "id": "x-1793915565127-3xvtlf",
+    "source": "x",
+    "ts": "2026-11-05T21:52:45.127Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-05T21:45:00.000Z",
+    "reason": "Notable institutional adoption by a major fintech.",
+    "text": "Cosmos Hub’s community-funded Paxos listing for ATOM goes live\n\n@Paxos has added $ATOM to its crypto brokerage, so fintechs and brokerages built on Paxos can now offer it to customers through the setup they already run. @cosmoshub governance approved the deal in September through",
+    "url": "https://x.com/BSCNews/status/2118459591394541674",
+    "images": [
+      "https://pbs.twimg.com/media/HWZDfEcXYAAoXZc.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793915570384-bsccju",
+    "source": "x",
+    "ts": "2026-11-05T21:52:50.385Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-05T21:45:00.000Z",
+    "reason": "Notable institutional adoption with the launch of a U.S. ETF for INJ.",
+    "text": "First U.S. Staked Injective ETF Begins Trading on Nasdaq as INJC.\n\nCanary Capital's Canary Staked INJ ETF started trading Thursday under ticker INJC, and Injective called it the first U.S. ETF for INJ with staking built in.",
+    "url": "https://x.com/DecryptMedia/status/2118459591092813994",
+    "images": [
+      "https://pbs.twimg.com/media/HWYuY3uXQAAFIV4.png",
+      "https://pbs.twimg.com/media/HWYvgYFWEAEKr9y.jpg"
+    ],
     "video": null
   }
 ]
