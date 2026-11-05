@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793730158690-2am806",
-    "source": "x",
-    "ts": "2026-11-03T18:22:38.690Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-03T18:17:00.000Z",
-    "reason": "Polygon's transaction and active address metrics highlight a significant on-chain activity.",
-    "text": "Polygon is on a roll this week\n\nThe @0xPolygon PoS chain has now processed a total of over 8.3 billion transactions and had around 340,000 active addresses in the last 24 hours. A big share of that action runs through @Polymarket, the prediction market holding more than half of",
-    "url": "https://x.com/BSCNews/status/2117682470552281215",
-    "images": [
-      "https://pbs.twimg.com/media/HWOBEM9XUAA_SSx.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793730749504-n7is1p",
-    "source": "x",
-    "ts": "2026-11-03T18:32:29.504Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-03T18:22:10.000Z",
-    "reason": "No notable crypto-related content or move mentioned.",
-    "text": "BOLD: $GOOG will cut student access to Search at schools that block AI entirely, per NYT.\n\nStarting early next year, schools cannot offer traditional Google Search without its AI features.\n\nThat means schools must choose between allowing AI-generated answers or losing student",
-    "url": "https://x.com/coinbureau/status/2117683769977241764"
-  },
-  {
     "id": "x-1793731339294-f5mzob",
     "source": "x",
     "ts": "2026-11-03T18:42:19.294Z",
@@ -7940,5 +7909,39 @@
     "reason": "Noise: generic hype with no real content.",
     "text": "Interesting",
     "url": "https://x.com/elonmusk/status/2118380771853705309"
+  },
+  {
+    "id": "x-1793897633705-9qj5kx",
+    "source": "x",
+    "ts": "2026-11-05T16:53:53.705Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-05T16:45:00.000Z",
+    "reason": "Price far outside the recent range indicates a significant event.",
+    "text": "🔥 PAIN: Another day, another $1,000,000,000 in liquidations.",
+    "url": "https://x.com/Cointelegraph/status/2118384093972877663",
+    "images": [
+      "https://pbs.twimg.com/media/HWYBqh_aQAAsbWB.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793897636926-cvkz8u",
+    "source": "x",
+    "ts": "2026-11-05T16:53:56.926Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-05T16:44:00.000Z",
+    "reason": "Expansion beyond pure DeFi suggests significant new use cases.",
+    "text": "Use cases on the @Aptos L1 have expanded well beyond pure DeFi.\n\nWe take a closer look at $APT's burgeoning stablecoin and payments ecosystem. How it works, and where it's headed ⬇️",
+    "url": "https://x.com/BSCNews/status/2118383841840869858",
+    "images": [],
+    "video": null
   }
 ]
