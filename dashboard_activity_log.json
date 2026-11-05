@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793767310448-120zlc",
-    "source": "x",
-    "ts": "2026-11-04T04:41:50.448Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-04T04:35:06.000Z",
-    "reason": "The tweet is a political update, not related to cryptocurrencies.",
-    "text": "🇺🇸 It's Official. \n\nDemocrats win both the US House and Senate, seizing control from Republicans.\n\nJames Talarico has defeated Ken Paxton in Texas, delivering Democrats their first U.S. Senate election victory in the state since 1988.\n\nIn Ohio, Sherrod Brown defeated Jon Husted,",
-    "url": "https://x.com/coinbureau/status/2117838023308304446"
-  },
-  {
-    "id": "x-1793767313462-ld97l5",
-    "source": "x",
-    "ts": "2026-11-04T04:41:53.462Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-04T04:32:31.000Z",
-    "reason": "Noteworthy institutional move with impact on the near protocol ecosystem.",
-    "text": "NEAR Plans to Take Millions of Tokens Out of Future Issuance\n\nNEAR Protocol's (@NEARProtocol) $NEAR House of Stake has approved a proposal to reduce maximum annual token issuance from 2.5% to 1.6%.\n\nThe change will roll out gradually over 24 months, reducing the issuance ceiling",
-    "url": "https://x.com/BSCNews/status/2117837371400159729",
-    "images": [
-      "https://pbs.twimg.com/media/HWQPVZjbgAAF4KD.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793767917824-h62zn2",
     "source": "x",
     "ts": "2026-11-04T04:51:57.824Z",
@@ -7843,5 +7812,36 @@
     "reason": "No notable move in Telcoin Network's mainnet launch schedule.",
     "text": "Telcoin Network locks in December for its mainnet launch\n\n@telcoin has set out the final steps: a code freeze on November 16, genesis on December 2, and a public launch in mid-December, starting with the first set of validators.\n\nOnly mobile phone carriers that belong to the",
     "url": "https://x.com/BSCNews/status/2118474187304227015"
+  },
+  {
+    "id": "x-1793921504345-5mnqcu",
+    "source": "x",
+    "ts": "2026-11-05T23:31:44.345Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-05T23:30:43.000Z",
+    "reason": "No notable or verifiable financial information provided.",
+    "text": "🔥 JUST IN: Hyperliquid Strategies booked $620M in Q3 profit, mostly paper gains on $HYPE, and has applied for a license to bring Hyperliquid perps to US traders.",
+    "url": "https://x.com/Cointelegraph/status/2118486198024901052"
+  },
+  {
+    "id": "x-1793921508616-jd2hcr",
+    "source": "x",
+    "ts": "2026-11-05T23:31:48.616Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-05T23:19:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Spot HBAR ETF sees best day since January!\n\nInvestors poured capital into Canary's spot @Hedera ETF on November 4, resulting in a net inflow of +$2.73M.\n\nThis marks the largest single-day inflow the HBAR ETF has seen since January 21, when it gained +$3.31M.\n\nShould we be",
+    "url": "https://x.com/BSCNews/status/2118483246845727162",
+    "images": [
+      "https://pbs.twimg.com/media/HWXzzvHXQAA_azy.jpg"
+    ],
+    "video": null
   }
 ]
