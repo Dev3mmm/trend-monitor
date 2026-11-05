@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793735550377-1iu3ox",
-    "source": "x",
-    "ts": "2026-11-03T19:52:30.377Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-03T19:47:15.000Z",
-    "reason": "Potential security breach impacting a crypto documentation platform.",
-    "text": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-    "url": "https://x.com/DecryptMedia/status/2117705183937405438",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793735556436-yy9b15",
-    "source": "x",
-    "ts": "2026-11-03T19:52:36.436Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-03T19:47:00.000Z",
-    "reason": "New use of a token/stablecoin (smart contracts deployment on Midnight Network)",
-    "text": "Midnight Network has had a busy few weeks since opening its mainnet to developers.\n\n@MidnightNtwrk, the privacy chain backed by @IOGroup, has stacked up several milestones over the last 30 days.\n\nHere are some key developments:\n\n[Oct 5] Anyone can now deploy smart contracts on",
-    "url": "https://x.com/BSCNews/status/2117705119835824310",
-    "images": [
-      "https://pbs.twimg.com/media/HWOR1fwW0AA-kgn.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793735561254-nvj0v9",
     "source": "x",
     "ts": "2026-11-03T19:52:41.254Z",
@@ -7929,5 +7895,37 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🔥 INSIGHT: Anthony Scaramucci thinks Bitcoin should already be at $200,000.\n\n@SkyBridge founder @scaramucci told @itsciaranlyons he's shocked $BTC hasn't hit that level yet.\n\nHear why he thinks the market is lagging in the full chat on #CHAINREACTION.",
     "url": "https://x.com/Cointelegraph/status/2118395868831162748"
+  },
+  {
+    "id": "x-1793901825336-s92bkl",
+    "source": "x",
+    "ts": "2026-11-05T18:03:45.336Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T18:00:50.000Z",
+    "reason": "Notable financial trace involving crypto",
+    "text": "⚡ NEW: The FATF traced over $100M in victim money to one crypto wallet cluster tied to a single scam compound.",
+    "url": "https://x.com/Cointelegraph/status/2118403179754791204",
+    "images": [
+      "https://pbs.twimg.com/media/HWYUdaTXQAAE8WF.jpg",
+      "https://pbs.twimg.com/media/HWYUdneW8AAq86K.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793901828605-adkf94",
+    "source": "x",
+    "ts": "2026-11-05T18:03:48.605Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-05T17:59:29.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Maybe the McRib meant something else this time.",
+    "url": "https://x.com/coinbase/status/2118402972782940549"
   }
 ]
