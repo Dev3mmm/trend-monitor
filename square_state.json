@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792516971418-dpvjkg",
-    "x-1792517546634-t2m9i1",
     "x-1792517557488-mwvs8h",
     "x-1792518113855-limtr5",
     "x-1792518756184-1pwlx4",
@@ -1999,20 +1997,11 @@
     "x-1793857328618-tlvzcx",
     "x-1793858520785-j3w4jr",
     "x-1793858526306-71ayni",
-    "x-1793859740152-qsr1o6"
+    "x-1793859740152-qsr1o6",
+    "x-1793860321764-stf6t0",
+    "x-1793860323950-gm49ds"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Three more issuers, Nebius, Boeing, and ServiceNow, have objected to OKX and ICE’s plan to tokenize their shares, which lifts the total to 62, per Eleanor Terrett.",
-      "url": "https://x.com/Cointelegraph/status/2118201703883247961",
-      "images": [
-        "https://pbs.twimg.com/media/HWVdN-5XAAALQ00.jpg",
-        "https://pbs.twimg.com/media/HWVdOJzXEAAdJBl.png",
-        "https://pbs.twimg.com/media/HWVdOWWW4AAfp9V.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793853746226
-    },
     {
       "text": "⚡️ LATEST: Crypto giants Tron, Tether, and Binance have quietly shut down their T3 Financial Crime Unit over slow response times and poor coordination, per Bloomberg.",
       "url": "https://x.com/Cointelegraph/status/2118214318789398766",
@@ -2032,20 +2021,32 @@
       ],
       "video": null,
       "enqueuedAt": 1793857329093
+    },
+    {
+      "text": "🚨Turmoil erupts in Paraguay as one bank’s collapse spirals into a NATIONAL CRISIS.\n\nUeno Bank, the country’s largest digital bank, has been seized by the Central bank after its solvency ratio plunged below half the legal minimum, leaving nearly 3 MILLION customers unable to",
+      "url": "https://x.com/coinbureau/status/2118229446557848056",
+      "images": [
+        "https://pbs.twimg.com/media/HWVzo6UbcAAgg2e.jpg"
+      ],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2118226968663797760/vid/avc1/1280x720/eTVHvVRuG4lrt61t.mp4?tag=29",
+        "duration": 9,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118226968663797760/img/UgA3ePcQcCoHsUqw.jpg"
+      },
+      "enqueuedAt": 1793860324363
+    },
+    {
+      "text": "🇺🇸 NOW: Bitwise Head of Research Ryan Rasmussen says 51 senators across 31 states are pro-crypto after the midterms, with 19 states now home to two pro-crypto senators.\n\nWill this Senate finally push major crypto bills through?",
+      "url": "https://x.com/Cointelegraph/status/2118229432900944261",
+      "images": [
+        "https://pbs.twimg.com/media/HWV2cOtXQAAmeRI.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793860324363
     }
   ],
   "posted": [
-    {
-      "text": "🚨 LATEST: Goldman Sachs CEO David Solomon says demand for AI deals remains “very robust,” with a tech supercycle set to dominate capital markets, per Bloomberg.",
-      "final": "🚨 LATEST: Goldman Sachs CEO David Solomon says demand for AI deals remains “very robust,” with a tech supercycle set to dominate capital markets, per Bloomberg.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HWLDXEeasAA012F.jpg",
-        "https://pbs.twimg.com/media/HWLDXE9a4AExlu0.jpg"
-      ],
-      "at": 1793687516868,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/384189756889025?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🇭🇰 BIG: Hong Kong plans to launch a gold token that represents a standard 400-ounce gold bar, part of a push to become a global gold hub, per SCMP.",
       "final": "🇭🇰 BIG: Hong Kong plans to launch a gold token that represents a standard 400-ounce gold bar, part of a push to become a global gold hub, per SCMP.\n\n#Crypto",
@@ -2663,7 +2664,18 @@
       "at": 1793858526844,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384890199800237?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Three more issuers, Nebius, Boeing, and ServiceNow, have objected to OKX and ICE’s plan to tokenize their shares, which lifts the total to 62, per Eleanor Terrett.",
+      "final": "🚨 UPDATE: Three more issuers, Nebius, Boeing, and ServiceNow, have objected to OKX and ICE’s plan to tokenize their shares, which lifts the total to 62, per Eleanor Terrett.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWVdN-5XAAALQ00.jpg",
+        "https://pbs.twimg.com/media/HWVdOJzXEAAdJBl.png",
+        "https://pbs.twimg.com/media/HWVdOWWW4AAfp9V.png"
+      ],
+      "at": 1793860324363,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793858526844
+  "lastPostAt": 1793860324363
 }
