@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1793727720942-7k7uze",
-    "source": "x",
-    "ts": "2026-11-03T17:42:00.942Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-03T17:32:15.000Z",
-    "reason": "Specific institutional adoption and hacking incident related to crypto.",
-    "text": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
-    "url": "https://x.com/DecryptMedia/status/2117671209055776787",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793728341258-45yqwh",
-    "source": "x",
-    "ts": "2026-11-03T17:52:21.258Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-03T17:50:29.000Z",
-    "reason": "Notable exploit and potential money laundering incident.",
-    "text": "🚨 ALERT: According to Onchain Lens, an address linked to the Binance hacker deposited 8,567 $SOL worth approximately $798,000 into privacy mixer Privacy Cash to launder stolen funds.",
-    "url": "https://x.com/Cointelegraph/status/2117675799004184695",
-    "images": [
-      "https://pbs.twimg.com/media/HWN-6eFW4AAhmRI.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793728345255-eukm0a",
-    "source": "x",
-    "ts": "2026-11-03T17:52:25.255Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-03T17:48:37.000Z",
-    "reason": "Notable regulatory action involving crypto platform blocking assets.",
-    "text": "🚨 ALERT: Mercado Bitcoin has blocked $12.9M in affected crypto assets and paused its platform during the investigation.",
-    "url": "https://x.com/Cointelegraph/status/2117675329477124571",
-    "images": [
-      "https://pbs.twimg.com/media/HWN-fNYXAAAxLwm.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793728349376-8awbrp",
     "source": "x",
     "ts": "2026-11-03T17:52:29.376Z",
@@ -7961,5 +7909,54 @@
     "reason": "No notable move in ETH prices mentioned.",
     "text": "Figma Raises 2026 Revenue Outlook as Q3 Sales Grow 43%.\n\nFigma said third-quarter revenue rose 43% year over year to $391.4 million, $16.4 million above the top of its own guidance, and lifted full-year revenue guidance to $1.497 billion to $1.499 billion.",
     "url": "https://x.com/DecryptMedia/status/2118372771637932308"
+  },
+  {
+    "id": "x-1793895194675-kejebv",
+    "source": "x",
+    "ts": "2026-11-05T16:13:14.675Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-05T16:12:00.000Z",
+    "reason": "No notable move; price is within the recent range.",
+    "text": "It happened... The first $INJ ETF is now live.\n\nAs announced by @injective itself, Canary's $INJ staking ETF is now live on @Nasdaq with ticker $INJC. \n\nThe protocol announced only yesterday that Nasdaq had approved the listing.\n\nToday is perhaps the biggest day in Injective's",
+    "url": "https://x.com/BSCNews/status/2118375788840091954",
+    "images": [
+      "https://pbs.twimg.com/media/HWXztH5WEAAp7Yt.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793895198738-sj77e1",
+    "source": "x",
+    "ts": "2026-11-05T16:13:18.739Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Phyrex",
+    "ageMin": 102,
+    "originTimestamp": "2026-11-05T14:30:51.000Z",
+    "reason": "Bitcoin price movement of over 6% within a short period.",
+    "text": "为啥周四美股开盘后大跌了？不是中期大选利好吗？为啥 Bitcoin 也跌了？？\n\n😂我晚上开始码字到现在还没有一个小时就出现大跌了，Bitcoin 都已经跌了超过 6% 了，这种情况下原罪大概率是出在美股身上，果然英伟达、AMD 和数据中心相关股票都在下跌，也就是科技股和 AI 都在下跌。",
+    "url": "https://x.com/PhyrexNi/status/2118375632623325465",
+    "images": [
+      "https://pbs.twimg.com/media/HWX58ucbMAA-Vtu.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793895201796-mqx1tx",
+    "source": "x",
+    "ts": "2026-11-05T16:13:21.796Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-05T16:03:00.000Z",
+    "reason": "No notable move in Bitcoin price, within recent range.",
+    "text": "🚨BREAKING: Bitcoin PLUNGES below $76,000.\n\nOver $500,000,000 in crypto longs wiped out in just the past 1 hour.",
+    "url": "https://x.com/coinbureau/status/2118373527019757734"
   }
 ]
