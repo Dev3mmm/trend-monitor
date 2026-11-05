@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1793760143196-ctcq26",
-    "source": "x",
-    "ts": "2026-11-04T02:42:23.196Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CertiK Alert",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-04T02:33:34.000Z",
-    "reason": "Exploit involving a significant loss and recovery of funds.",
-    "text": "#CertiKAlert 🚨\n\nA flash-loan-funded oracle attack inflated a CoreVault redemption ~33×, depleting InsurancePool and leaving the attacker with 160.26 BNB (~$112.2K) after reversing the trade.\n\n\nCertiK Report Security Dashboard 👇",
-    "url": "https://x.com/CertiKAlert/status/2117807437357183374",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793760773871-phtzdg",
-    "source": "x",
-    "ts": "2026-11-04T02:52:53.871Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-04T02:48:05.000Z",
-    "reason": "On-chain evidence of significant crypto theft involving a major bank.",
-    "text": "ZachXBT: French Bank Crédit Mutuel Arkéa Allegedly Lost Over $133M in Crypto Theft\n\nOn-chain investigator ZachXBT disclosed on November 4 that the financial institution allegedly affected by a crypto theft exceeding $133 million is Crédit Mutuel Arkéa, a French banking group with",
-    "url": "https://x.com/WuBlockchain/status/2117811089060872559",
-    "images": [
-      "https://pbs.twimg.com/media/HWP56xLasAAcd6c.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793760778936-gkz5wh",
-    "source": "x",
-    "ts": "2026-11-04T02:52:58.936Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-04T02:48:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "One of few blockchains taking the issue seriously, here's how @SuiNetwork is preparing the $SUI ecosystem for the rise of quantum threats ⬇️",
-    "url": "https://x.com/BSCNews/status/2117811067791515938",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793760785262-2cckgh",
     "source": "x",
     "ts": "2026-11-04T02:53:05.262Z",
@@ -7861,5 +7811,50 @@
       "https://pbs.twimg.com/media/HWYvgYFWEAEKr9y.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793916146768-q1kefl",
+    "source": "x",
+    "ts": "2026-11-05T22:02:26.768Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T22:00:26.000Z",
+    "reason": "Potential significant on-chain security incident and response.",
+    "text": "🚨 JUST IN: Binance is asking ArbitrumDAO to unfreeze the 8,425 $ETH and 74.56M $ARB frozen after its hot wallet exploit, and the vote could take 7+ weeks.",
+    "url": "https://x.com/Cointelegraph/status/2118463474242076913",
+    "images": [
+      "https://pbs.twimg.com/media/HWZLTBdXEAAww7C.jpg",
+      "https://pbs.twimg.com/media/HWZLTT2XUAA-jUh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793916151689-7c8cyh",
+    "source": "x",
+    "ts": "2026-11-05T22:02:31.689Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-05T21:55:57.000Z",
+    "reason": "No crypto-related content.",
+    "text": "🇺🇸🇮🇷 Trump warns he may have to destroy the rest of Iran.\n\n“I would rather not destroy the rest of the country if possible, but maybe I’ll have to,” Trump said.\n\n“I think it’ll take them 25 years to rebuild the country”\n\n“Now we’ll make a decision: do we want to go further”",
+    "url": "https://x.com/coinbureau/status/2118462348533060020"
+  },
+  {
+    "id": "x-1793916156740-bg496d",
+    "source": "x",
+    "ts": "2026-11-05T22:02:36.740Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 39,
+    "originTimestamp": "2026-11-05T21:23:16.000Z",
+    "reason": "No notable move described, only headline summary without specific details.",
+    "text": "Today was a big day for financial markets.\n\nHere are the 8 headlines you need to know ↓\n\n1. Nasdaq officially enters correction territory after falling 11% from its October high.\n\n2. Europe's largest asset manager Amundi launches a tokenized equity index fund on Ethereum.\n\n3.",
+    "url": "https://x.com/coinbase/status/2118461733077708862"
   }
 ]
