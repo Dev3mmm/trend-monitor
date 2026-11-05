@@ -1,88 +1,5 @@
 [
   {
-    "id": "x-1793723527119-j6rp81",
-    "source": "x",
-    "ts": "2026-11-03T16:32:07.119Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 28,
-    "originTimestamp": "2026-11-03T16:03:10.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Over any four years since 2014, $BTC has outpaced our current 2.3% BTC Breakeven ARR. $MSTR $STRC",
-    "url": "https://x.com/saylor/status/2117655553669513592"
-  },
-  {
-    "id": "x-1793723532109-6776w3",
-    "source": "x",
-    "ts": "2026-11-03T16:32:12.109Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-03T16:28:38.000Z",
-    "reason": "No notable move in token/asset prices.",
-    "text": "Shopify Shares Slide After Merchandise Volume Misses Estimates.\n\nShopify's third-quarter revenue rose 32% to $3.74 billion, but gross merchandise volume of $119.15 billion trailed the $120.08 billion analysts expected, and subscription revenue of $836 million also missed",
-    "url": "https://x.com/DecryptMedia/status/2117655201729421601"
-  },
-  {
-    "id": "x-1793723537214-4pcz29",
-    "source": "x",
-    "ts": "2026-11-03T16:32:17.214Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-03T16:22:50.000Z",
-    "reason": "Notable crypto hack with substantial financial impact.",
-    "text": "JUST IN: 🇧🇷 Brazil's largest crypto exchange Mercado Bitcoin experienced a hack worth about $40 million. 👀\n\nThey report no customer losses and have already frozen $11 million in funds with help from Tether, Circle, and Chainalysis. 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2117653739171409954",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2117653701221330944/vid/avc1/1280x720/p0Jf3QDY3zJDdObd.mp4?tag=29",
-      "duration": 21,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HWNrAizWAAA4D_m.jpg"
-    }
-  },
-  {
-    "id": "x-1793724243890-55uqn7",
-    "source": "x",
-    "ts": "2026-11-03T16:44:03.890Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T16:42:00.000Z",
-    "reason": "No notable move for spot XRP ETFs within the recent price range.",
-    "text": "Back-to-back losses for spot $XRP ETFs.\n\nAfter ending last week with -$496K in net outflows, the start of this week has proved no better for spot @Ripple ETFs.\n\nOn November 2, they lost a combined -$530K to net outflows, but they still hold an impressive 1.8% of @XRP's current",
-    "url": "https://x.com/BSCNews/status/2117658562868449438",
-    "images": [
-      "https://pbs.twimg.com/media/HWMDrYWWcAA4lHr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793724248781-8mxmg0",
-    "source": "x",
-    "ts": "2026-11-03T16:44:08.781Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T16:41:10.000Z",
-    "reason": "Notable institutional collaboration and custody announcement.",
-    "text": "Stacks just announced a massive collaboration with BitGo.\n\n@BitGo is letting eligible institutional clients stake $BTC with @Stacks from their existing accounts.\n\nThe relevant Bitcoin stays in BitGo’s qualified custody and on the Bitcoin network itself. No wrapping, no bridging,",
-    "url": "https://x.com/BSCNews/status/2117658355158151584",
-    "images": [
-      "https://pbs.twimg.com/media/HWNu_82XoAAqpOk.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793724253724-qzbc4m",
     "source": "x",
     "ts": "2026-11-03T16:44:13.724Z",
@@ -7945,6 +7862,87 @@
     "images": [
       "https://pbs.twimg.com/media/HWXXx7NbsAIPDDS.png",
       "https://pbs.twimg.com/media/HWXXx_cbgAAZobI.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793887893915-45xcrg",
+    "source": "x",
+    "ts": "2026-11-05T14:11:33.915Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T14:09:12.000Z",
+    "reason": "No notable move or institutional event.",
+    "text": "Bank of England Raises Rates to 4% in First Hike Since August 2023.\n\nThe Monetary Policy Committee voted 8–1 for the quarter-point hike, with Catherine Mann backing a half-point move, as the BoE expects UK inflation, 3.5% in September, to reach about 5% by mid-2027.",
+    "url": "https://x.com/DecryptMedia/status/2118344888240742827"
+  },
+  {
+    "id": "x-1793887897980-1ht8te",
+    "source": "x",
+    "ts": "2026-11-05T14:11:37.980Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-05T14:05:54.000Z",
+    "reason": "Notable institutional adoption and integration into a new blockchain layer.",
+    "text": "Hyperliquid’s No. 2 Perps Venue Is Going Multichain With LayerZero\n\n@BasedOneX, which is the second-largest trading venue on @HyperliquidX, is integrating with @LayerZero_Core's ATLAS engine.\n\nThis marks the platform's first multi-chain integration, with its mainnet launch",
+    "url": "https://x.com/BSCNews/status/2118344057009156578",
+    "images": [
+      "https://pbs.twimg.com/media/HWXeTANWAAA_gyg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793887901368-6jf05s",
+    "source": "x",
+    "ts": "2026-11-05T14:11:41.368Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-05T14:01:01.000Z",
+    "reason": "Crypto-related news but not directly related to token or blockchain technology.",
+    "text": "🚨 ALERT: Paraguay’s Ueno Bank, shut down over a solvency crisis, freezing access to deposits and sparking protests. \n\nAn estimated 60% of the country’s adult population banks with Ueno.",
+    "url": "https://x.com/Cointelegraph/status/2118342826148639006",
+    "images": [
+      "https://pbs.twimg.com/media/HWXdkaTWgAIbpvG.png",
+      "https://pbs.twimg.com/media/HWXdkq2WUAEjkIq.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793887904897-aj7mla",
+    "source": "x",
+    "ts": "2026-11-05T14:11:44.897Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 35,
+    "originTimestamp": "2026-11-05T13:36:21.000Z",
+    "reason": "No notable crypto-related event.",
+    "text": "🚨BREAKING: US jobless claims fell to 189,000 last week, matching the lowest level since 1969.\n\nInitial claims dropped 6,000 from the prior week and came in below the 196,000 forecast. The reading ties the mid-July low.\n\nContinuing claims rose 23,000 to 1.718 million, keeping the",
+    "url": "https://x.com/coinbureau/status/2118342348832907672"
+  },
+  {
+    "id": "x-1793887908952-brgrmv",
+    "source": "x",
+    "ts": "2026-11-05T14:11:48.952Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 18,
+    "originTimestamp": "2026-11-05T13:53:00.000Z",
+    "reason": "Notable institutional adoption of stablecoins by a major tech conglomerate.",
+    "text": "Samsung just made stablecoins mainstream...\n\nSamsung Tech conglomerate has officially launched stablecoin wallets in its Samsung Wallet app. \n\nThis lets Galaxy phone users in the USA buy, store, send, and receive Circle's $USDC directly on @Solana.\n\nThis wallet lets users make",
+    "url": "https://x.com/BSCNews/status/2118340808483172741",
+    "images": [
+      "https://pbs.twimg.com/media/HWXYvdTWkAAeW0O.jpg"
     ],
     "video": null
   }
