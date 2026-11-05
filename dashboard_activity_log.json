@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793716950283-bve2q3",
-    "source": "x",
-    "ts": "2026-11-03T14:42:30.283Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 59,
-    "originTimestamp": "2026-11-03T13:42:35.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "The replies to this post are amazing. This guy doesn’t even understand how much Elon Musk has saved the taxpayer with SpaceX alone.",
-    "url": "https://x.com/elonmusk/status/2117626660610585069"
-  },
-  {
     "id": "x-1793716955001-3owilm",
     "source": "x",
     "ts": "2026-11-03T14:42:35.001Z",
@@ -7936,6 +7923,24 @@
     "images": [
       "https://pbs.twimg.com/media/HWW4xmHWgAEDuli.jpg",
       "https://pbs.twimg.com/media/HWW4x5bXUAAzNH3.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793878920123-ju99yr",
+    "source": "x",
+    "ts": "2026-11-05T11:42:00.123Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-05T11:31:55.000Z",
+    "reason": "CZ warns about security breach risks.",
+    "text": "CZ warns traders after another Binance security breach\n\nCZ (@cz_binance), the former @Binance CEO, has strongly advised all traders to invalidate their @SignalPlus_Web3 API keys immediately on any exchange they trade with.\n\n\"If you use SignalPlus for any other exchange platform,",
+    "url": "https://x.com/BSCNews/status/2118305304077103336",
+    "images": [
+      "https://pbs.twimg.com/media/HWW6-lNXcAAsD5l.jpg"
     ],
     "video": null
   }
