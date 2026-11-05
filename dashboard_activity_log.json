@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793689299102-qna6x3",
-    "source": "x",
-    "ts": "2026-11-03T07:01:39.102Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-03T07:00:01.000Z",
-    "reason": "Notable regulatory and technological innovation in the crypto and gold sectors.",
-    "text": "🇭🇰 BIG: Hong Kong plans to launch a gold token that represents a standard 400-ounce gold bar, part of a push to become a global gold hub, per SCMP.",
-    "url": "https://x.com/Cointelegraph/status/2117512105091895418",
-    "images": [
-      "https://pbs.twimg.com/media/HWLch-hbYAATWsb.jpg",
-      "https://pbs.twimg.com/media/HWLch_PbcAAh5nu.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793689300756-gnb345",
-    "source": "x",
-    "ts": "2026-11-03T07:01:40.756Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-03T06:57:25.000Z",
-    "reason": "No notable financial news in stock markets mentioned.",
-    "text": "BREAKING: Asian stock markets lost over $550,000,000,000 across 6 major indexes today.",
-    "url": "https://x.com/coinbureau/status/2117511448368984424"
-  },
-  {
     "id": "x-1793689302658-h74nxr",
     "source": "x",
     "ts": "2026-11-03T07:01:42.658Z",
@@ -7860,6 +7828,43 @@
     "url": "https://x.com/coinbureau/status/2118143004988866838",
     "images": [
       "https://pbs.twimg.com/media/HWUi15AakAA8T-S.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793840746804-sxmxwa",
+    "source": "x",
+    "ts": "2026-11-05T01:05:46.804Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-05T01:00:20.000Z",
+    "reason": "New funding and partnerships in crypto security highlight the evolving landscape of digital assets.",
+    "text": "🚨 JUST IN: Binance’s $6.3B hack drives new money into crypto security, as onchain threat-prevention platform Blockaid secures $40M in commitments, per Axios.",
+    "url": "https://x.com/Cointelegraph/status/2118146361031848396",
+    "images": [
+      "https://pbs.twimg.com/media/HWUq4v1W8AAmiq4.jpg",
+      "https://pbs.twimg.com/media/HWUq47-XMAAv9ny.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793840752403-a1nzjs",
+    "source": "x",
+    "ts": "2026-11-05T01:05:52.403Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-05T00:56:00.000Z",
+    "reason": "Noteworthy institutional announcement about a new cryptocurrency project.",
+    "text": "Monad now has clear privacy plans...\n\n@category_xyz has just unveiled its official technical whitepaper for Private Settlement on the @Monad blockchain.\n\nThe new paper covers several key areas including...\n\n- private execution domains\n- shared sequencing\n- cross-domain messaging",
+    "url": "https://x.com/BSCNews/status/2118145269871321109",
+    "images": [
+      "https://pbs.twimg.com/media/HWRQg0KWEAAvnU8.jpg"
     ],
     "video": null
   }
