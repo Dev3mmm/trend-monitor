@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793712734835-bynkj7",
-    "source": "x",
-    "ts": "2026-11-03T13:32:14.836Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T13:30:01.000Z",
-    "reason": "Notable institutional adoption in crypto securities.",
-    "text": "NYSE Adds Four Transfer Agents to Planned Tokenized Securities Venue.\n\nNYSE has added Broadridge, Computershare, Equiniti and Superstate as transfer agents for its planned tokenized securities venue, joining Securitize and tZERO, as the platform awaits regulatory approval.",
-    "url": "https://x.com/DecryptMedia/status/2117610248660029649",
-    "images": [
-      "https://pbs.twimg.com/media/HWMgBLjXUAAwuWT.png",
-      "https://pbs.twimg.com/media/HWMgUGNWQAAXvTN.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793712737527-51fqo5",
     "source": "x",
     "ts": "2026-11-03T13:32:17.527Z",
@@ -7931,6 +7912,24 @@
     "images": [
       "https://pbs.twimg.com/media/HWWahpHbsAERoN0.jpg",
       "https://pbs.twimg.com/media/HWWdjCza4AAdnya.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793871754652-l1i2m7",
+    "source": "x",
+    "ts": "2026-11-05T09:42:34.652Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-05T09:32:00.000Z",
+    "reason": "Potential token exploit addressed in XRP Ledger update.",
+    "text": "XRP Ledger's Latest Update Targets a Potential Token Exploit\n\nA new XRP Ledger (@XRP) $XRP amendment has closed a potential weakness in its token issuance system.\n\nThe flaw involved delegated accounts permitted to burn tokens but not issue them. Under certain conditions, a",
+    "url": "https://x.com/BSCNews/status/2118275125862699027",
+    "images": [
+      "https://pbs.twimg.com/media/HWV5f3IawAEP1za.png"
     ],
     "video": null
   }
