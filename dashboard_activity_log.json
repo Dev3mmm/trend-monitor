@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1793695339156-dm1idl",
-    "source": "x",
-    "ts": "2026-11-03T08:42:19.156Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-03T08:36:00.000Z",
-    "reason": "Milestone in network reliability and stability for Solana.",
-    "text": "Solana Hit 1,000 Days Without a Network Outage\n\nSolana (@solana) $SOL has reached 1,000 days without a network-wide outage. It’s a milestone for Solana, which used to experience downtime frequently.\n\nIts most recent outage was experienced in February 2023 following abnormal block",
-    "url": "https://x.com/BSCNews/status/2117536257089982904",
-    "images": [
-      "https://pbs.twimg.com/media/HWLoZc4a8AAczpZ.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793695943951-gxnzs8",
-    "source": "x",
-    "ts": "2026-11-03T08:52:23.952Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-03T08:42:20.000Z",
-    "reason": "Suspected hack with significant financial impact and potential security breach.",
-    "text": "🚨 UPDATE: ZachXBT flags another $27M in suspicious withdrawals linked to a suspected hack of a European entity, bringing the total to over $133M.",
-    "url": "https://x.com/Cointelegraph/status/2117537853810847839",
-    "images": [
-      "https://pbs.twimg.com/media/HWMBdK2XkAATZiC.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793697128712-7vsmtz",
     "source": "x",
     "ts": "2026-11-03T09:12:08.712Z",
@@ -7872,5 +7836,31 @@
       "https://pbs.twimg.com/media/HWVGV0qWIAAujUb.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793848521661-77d8w3",
+    "source": "x",
+    "ts": "2026-11-05T03:15:21.661Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-05T03:12:31.000Z",
+    "reason": "No notable crypto move or event mentioned.",
+    "text": "这次在 @binancezh 学习营的宏观讲课是真的不错，不枉睡了两个小时就爬起来听课。",
+    "url": "https://x.com/PhyrexNi/status/2118179628548563069"
+  },
+  {
+    "id": "x-1793848524772-mvz89d",
+    "source": "x",
+    "ts": "2026-11-05T03:15:24.772Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-05T03:10:00.000Z",
+    "reason": "No notable move in Chainlink's transaction value.",
+    "text": "Chainlink crosses $37 TRILLION in transactions enabled.\n\n@chainlink's oracle solutions have now enabled $37.02 trillion in transaction value, according to its metrics dashboard.\n\nAt the same time, $LINK's CCIP (the industry most popular and well-respected cross-chain protocol),",
+    "url": "https://x.com/BSCNews/status/2118178992289353851"
   }
 ]
