@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793716331901-3ahwbg",
-    "source": "x",
-    "ts": "2026-11-03T14:32:11.901Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 63,
-    "originTimestamp": "2026-11-03T13:28:25.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "The AI investment cycle is massive. So is the Bitcoin capital cycle.\n\nStrategy was the #1 U.S. equity issuer in 2025 and is #4 in 2026 YTD, behind only SpaceX, Alphabet, and Intel.",
-    "url": "https://x.com/saylor/status/2117623821226430848"
-  },
-  {
-    "id": "x-1793716938945-l0oqr1",
-    "source": "x",
-    "ts": "2026-11-03T14:42:18.945Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-03T14:35:52.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "LIVE: Bitcoin and Election Day 2026 | BMTV Nov. 3, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2117626821109772587"
-  },
-  {
-    "id": "x-1793716942039-aiakvi",
-    "source": "x",
-    "ts": "2026-11-03T14:42:22.039Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-03T14:35:34.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Vote red today!",
-    "url": "https://x.com/elonmusk/status/2117626744668905487"
-  },
-  {
     "id": "x-1793716946411-wial3h",
     "source": "x",
     "ts": "2026-11-03T14:42:26.411Z",
@@ -7923,5 +7884,53 @@
     "reason": "No notable move in DOT yield landscape.",
     "text": "Hydration dominates the yield landscape on $DOT.\n\nWe used @ElanInsights' Income Dashboard to run a full analysis on the @Polkadot yield landscape.\n\nAccess now: \n\nOf the top 10 highest yield opportunities on Polkadot, 9 are from @hydration_net.\n\nAt the very",
     "url": "https://x.com/BSCNews/status/2118297210219569479"
+  },
+  {
+    "id": "x-1793877134394-2vyvn8",
+    "source": "x",
+    "ts": "2026-11-05T11:12:14.394Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T11:10:08.000Z",
+    "reason": "No notable crypto-related news or use of crypto technology mentioned.",
+    "text": "Could Democrats BURST the AI bubble?\n\nBig Tech’s $730B AI infrastructure spend for 2026 now faces a new hurdle: a Democratic Congress.  \n\nDems also flipped key governorships, many on promises to STOP data center construction.\n\nIn the states, the new Dem govs want to stop/pause",
+    "url": "https://x.com/coinbureau/status/2118299824441491615"
+  },
+  {
+    "id": "x-1793877138379-1wlfny",
+    "source": "x",
+    "ts": "2026-11-05T11:12:18.379Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-05T11:06:18.000Z",
+    "reason": "Potential security issue affecting API keys linked to a crypto trading platform.",
+    "text": "Binance and Deribit Revoke SignalPlus-Linked API Keys Over Potential Security Issue\n\nBinance announced that it has proactively revoked all API keys linked to third-party crypto trading platform SignalPlus following a potential security issue reported by the platform. Binance said",
+    "url": "https://x.com/WuBlockchain/status/2118298856681271351",
+    "images": [
+      "https://pbs.twimg.com/media/HWW1alZaoAAjBP9.png",
+      "https://pbs.twimg.com/media/HWW1kJ0bcAAwowp.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793877141980-d91sz1",
+    "source": "x",
+    "ts": "2026-11-05T11:12:21.980Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 20,
+    "originTimestamp": "2026-11-05T10:51:26.000Z",
+    "reason": "Regulator warning about API key security risks.",
+    "text": "If you use SignalPlus for any other exchange platform, it's time to revoke all your API keys. \n\nIt is generally recommend that you do not store your API keys with any 3rd party platform. 🙏 \n\n(Deribit also/first reported this.)",
+    "url": "https://x.com/cz_binance/status/2118298620797812955",
+    "images": [],
+    "video": null
   }
 ]
