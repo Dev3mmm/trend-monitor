@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793722382673-5e9x8f",
-    "source": "x",
-    "ts": "2026-11-03T16:13:02.673Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 85,
-    "originTimestamp": "2026-11-03T14:46:58.000Z",
-    "reason": "Security breach affecting a major crypto exchange with significant financial loss.",
-    "text": "Brazil's largest crypto exchange, Mercado Bitcoin, lost an estimated $46 million in a security breach, and the attacker still holds 372.99 billion $PEPE.\n\nMore than $9 million of the stolen funds have been frozen.\n\nRead the full story:",
-    "url": "https://x.com/BSCNews/status/2117648746167316915",
-    "images": [
-      "https://pbs.twimg.com/media/HWNU52RW4AAWYan.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793722957684-ef9xvj",
-    "source": "x",
-    "ts": "2026-11-03T16:22:37.684Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T16:20:30.000Z",
-    "reason": "Notable security exploit involving Binance and AI.",
-    "text": "🚨 ALERT: Binance is increasing investment in AI-enabled detection after an attacker uses a compromised computer and internal AI tool to gain control over wallets.",
-    "url": "https://x.com/Cointelegraph/status/2117653151822061749",
-    "images": [
-      "https://pbs.twimg.com/media/HWNqUK6WUAADkI5.jpg",
-      "https://pbs.twimg.com/media/HWNqUYvWEAAUIuI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793723527119-j6rp81",
     "source": "x",
     "ts": "2026-11-03T16:32:07.119Z",
@@ -7942,6 +7905,46 @@
     "url": "https://x.com/BitcoinMagazine/status/2118336155791867934",
     "images": [
       "https://pbs.twimg.com/media/HWXXf9eWwAATYAt.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793886759171-npp216",
+    "source": "x",
+    "ts": "2026-11-05T13:52:39.171Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T13:49:42.000Z",
+    "reason": "Potential regulatory and technological impact on crypto markets.",
+    "text": "🎙️ @vechainofficial CEO @sunshinelu24 tells @itsciaranlyons that potential IPOs from Anthropic and OpenAI could have a short-term impact on crypto markets.  \n\n\"The new industrial revolution is going to be completed by the AI and the blockchain, and there will be clear use case.\"",
+    "url": "https://x.com/Cointelegraph/status/2118339977385848853",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2118339499260612608/vid/avc1/1280x720/iwGK6B3QNe64U15p.mp4?tag=29",
+      "duration": 2111,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118339499260612608/img/FpYASKTaaPAcNAFy.jpg"
+    }
+  },
+  {
+    "id": "x-1793886765176-h8fkrm",
+    "source": "x",
+    "ts": "2026-11-05T13:52:45.176Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-05T13:45:00.000Z",
+    "reason": "Potential security issue and API key revocation from major crypto exchanges.",
+    "text": "⚠️ALERT: Binance and Deribit revoked all API keys linked to SignalPlus after the crypto options trading platform flagged a potential security issue, Reuters reports.\n\nBinance said user funds are SAFE. Deribit also found no signs where its systems or data were affected.\n\nBinance",
+    "url": "https://x.com/coinbureau/status/2118338795087200628",
+    "images": [
+      "https://pbs.twimg.com/media/HWXXx7NbsAIPDDS.png",
+      "https://pbs.twimg.com/media/HWXXx_cbgAAZobI.png"
     ],
     "video": null
   }
