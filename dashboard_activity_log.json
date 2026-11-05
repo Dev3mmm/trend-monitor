@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1793733765780-c6127x",
-    "source": "x",
-    "ts": "2026-11-03T19:22:45.780Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-03T19:18:00.000Z",
-    "reason": "Notable governance proposal with a potential protocol upgrade.",
-    "text": "Sei Network puts its Giga speed upgrade to a holder vote\n\n$SEI holders are voting on SIP-6, a proposal to move @SeiNetwork to Autobahn, the new consensus system behind its Giga upgrade. Every vote cast so far is a yes, and turnout has already cleared the bar needed to pass.",
-    "url": "https://x.com/BSCNews/status/2117697822367912047",
-    "images": [
-      "https://pbs.twimg.com/media/HWOLH8TXUAALNJy.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793733769921-udg38f",
-    "source": "x",
-    "ts": "2026-11-03T19:22:49.921Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-03T19:17:15.000Z",
-    "reason": "New regulatory approval for crypto derivatives trading.",
-    "text": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
-    "url": "https://x.com/DecryptMedia/status/2117697633166696676",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793734960933-tw2xjn",
-    "source": "x",
-    "ts": "2026-11-03T19:42:40.933Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-03T19:40:29.000Z",
-    "reason": "Notable growth in TRON's stablecoin network.",
-    "text": "🔥 BIG: trondao reports TRON leads stablecoin growth with $256.5M added over seven days, more than double the next closest network.",
-    "url": "https://x.com/Cointelegraph/status/2117703482413113783",
-    "images": [
-      "https://pbs.twimg.com/media/HWOYFwkWQAEDOYE.jpg",
-      "https://pbs.twimg.com/media/HWOYF-uXYAAERGa.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793734965250-yh1ix3",
-    "source": "x",
-    "ts": "2026-11-03T19:42:45.250Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 112,
-    "originTimestamp": "2026-11-03T17:50:16.000Z",
-    "reason": "No notable move or concrete news event.",
-    "text": "The @bitcoinconfams 🇳🇱 2026 Art Gallery is now LIVE for preview, including auction lots and fixed-price listings 👀\n\nBidding opens Thurs Nov 5 &amp; concludes Nov 7 ⏳👇",
-    "url": "https://x.com/BitcoinMagazine/status/2117701994710499812"
-  },
-  {
     "id": "x-1793735550377-1iu3ox",
     "source": "x",
     "ts": "2026-11-03T19:52:30.377Z",
@@ -7929,5 +7863,71 @@
       "https://pbs.twimg.com/media/HWYLlCTW4AAh7vk.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793900929966-xexuge",
+    "source": "x",
+    "ts": "2026-11-05T17:48:49.966Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-05T17:46:53.000Z",
+    "reason": "New liquidity features for LPs, with major exchanges like Robinhood adopting.",
+    "text": "PancakeSwap’s Flip goes live, giving LPs a bigger cut of fees\n\n@PancakeSwap has started the rollout on @RobinhoodCrypto Chain, the first network in line, after holders backed the plan with about 71% of the vote. Liquidity providers in every v3 and Infinity pool there now keep 88%",
+    "url": "https://x.com/BSCNews/status/2118399669793341942",
+    "images": [
+      "https://pbs.twimg.com/media/HWYRHHKXYAAB5-0.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793900934840-xu4dnk",
+    "source": "x",
+    "ts": "2026-11-05T17:48:54.840Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-05T17:45:00.000Z",
+    "reason": "Binance hackers' stolen crypto detected in Chinese laundering networks",
+    "text": "🇨🇳 UPDATE: The $6.3B Binance hackers are bouncing stolen crypto through thousands of wallets and multiple chains, and Chainalysis says some of it has already hit Chinese laundering networks.",
+    "url": "https://x.com/Cointelegraph/status/2118399193081430284",
+    "images": [
+      "https://pbs.twimg.com/media/HWYN9lhbUAAY_5t.jpg",
+      "https://pbs.twimg.com/media/HWYN9lXaIAAEG2_.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793900938545-yn5yln",
+    "source": "x",
+    "ts": "2026-11-05T17:48:58.545Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 16,
+    "originTimestamp": "2026-11-05T17:32:30.000Z",
+    "reason": "Notable institutional ban on crypto betting.",
+    "text": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
+    "url": "https://x.com/DecryptMedia/status/2118396047646965921",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793900943814-91wvuo",
+    "source": "x",
+    "ts": "2026-11-05T17:49:03.814Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-05T17:31:47.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 INSIGHT: Anthony Scaramucci thinks Bitcoin should already be at $200,000.\n\n@SkyBridge founder @scaramucci told @itsciaranlyons he's shocked $BTC hasn't hit that level yet.\n\nHear why he thinks the market is lagging in the full chat on #CHAINREACTION.",
+    "url": "https://x.com/Cointelegraph/status/2118395868831162748"
   }
 ]
