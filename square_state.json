@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 UPDATE: XRP Ledger activates a fix for a bug that could have allowed unauthorized minting of issued tokens.",
-      "url": "https://x.com/Cointelegraph/status/2118274700434342012",
-      "images": [
-        "https://pbs.twimg.com/media/HWWfnFBXgAAqMwu.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793871131253
-    },
-    {
       "text": "🇭🇰BREAKING: Hong Kong passes LAW requiring crypto firms to collect customer transactions for tax purposes from 2027.\n\nThis includes buying and selling crypto, token swaps, and transfers to external wallets.",
       "url": "https://x.com/coinbureau/status/2118272766159765779",
       "images": [
@@ -2736,7 +2727,16 @@
       "at": 1793876577109,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384964160401878?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: XRP Ledger activates a fix for a bug that could have allowed unauthorized minting of issued tokens.",
+      "final": "🚨 UPDATE: XRP Ledger activates a fix for a bug that could have allowed unauthorized minting of issued tokens.\n\n#XRP $XRP",
+      "images": [
+        "https://pbs.twimg.com/media/HWWfnFBXgAAqMwu.png"
+      ],
+      "at": 1793878301935,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793876577109
+  "lastPostAt": 1793878301935
 }
