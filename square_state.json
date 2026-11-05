@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1792529533175-ba8z74",
-    "x-1792530161865-28gzs4",
-    "x-1792530807872-0qmlbz",
     "x-1792530810388-qbrnwl",
     "x-1792531356849-0nw5kh",
     "x-1792531360451-udovtz",
@@ -1999,29 +1996,12 @@
     "x-1793871130709-eg532z",
     "x-1793871754652-l1i2m7",
     "x-1793873216277-ty2492",
-    "x-1793874136479-1ynlbs"
+    "x-1793874136479-1ynlbs",
+    "x-1793874771539-vblthv",
+    "x-1793874776399-k7qhc0",
+    "x-1793874782377-u2u4x0"
   ],
   "queue": [
-    {
-      "text": "#CertiKAlert 🚨\n\n$TENDRIL's sell hook let sellers debit pair's token balance and sync reserves before remaining sell input arrived. \n\nThe delayed input then withdrew near all USDT, causing ~$555K net loss. \n\n\nSecurity Dashboard 👇",
-      "url": "https://x.com/CertiKAlert/status/2118242639212658985",
-      "images": [
-        "https://pbs.twimg.com/media/HWWCE8bbIAArISs.jpg",
-        "https://pbs.twimg.com/media/HWWCG3SbYAAZV9Z.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793863968727
-    },
-    {
-      "text": "🚨 NEW: VanEck says Bitcoin miners that pivoted to AI look oversold after a ~35% October drop, as funding fears hit the stocks while no signed leases were cancelled.",
-      "url": "https://x.com/Cointelegraph/status/2118247000713957417",
-      "images": [
-        "https://pbs.twimg.com/media/HWWGaxMWAAA6xcs.jpg",
-        "https://pbs.twimg.com/media/HWWGa9AWkAASs_i.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793864530272
-    },
     {
       "text": "🇰🇷 UPDATE: South Korea proposes delaying its 22% crypto gains tax from 2027 to 2029, and let investors carry losses forward for 3 years. \n\nThis is the fourth delay since 2020.",
       "url": "https://x.com/Cointelegraph/status/2118257067219652679",
@@ -2725,7 +2705,17 @@
       "at": 1793873222480,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384950411145887?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NEW: VanEck says Bitcoin miners that pivoted to AI look oversold after a ~35% October drop, as funding fears hit the stocks while no signed leases were cancelled.",
+      "final": "🚨 NEW: VanEck says Bitcoin miners that pivoted to AI look oversold after a ~35% October drop, as funding fears hit the stocks while no signed leases were cancelled.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWWGaxMWAAA6xcs.jpg",
+        "https://pbs.twimg.com/media/HWWGa9AWkAASs_i.jpg"
+      ],
+      "at": 1793874785014,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793873222480
+  "lastPostAt": 1793874785014
 }
