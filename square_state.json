@@ -1,9 +1,5 @@
 {
   "seen": [
-    "x-1792537339068-r0i4ea",
-    "x-1792539125053-swe638",
-    "x-1792540960248-nwnekc",
-    "x-1792541530452-qtp2ke",
     "x-1792542781804-66ovu5",
     "x-1792542784379-wkmq4k",
     "x-1792544540447-6hylee",
@@ -1999,19 +1995,13 @@
     "x-1793877138379-1wlfny",
     "x-1793877141980-d91sz1",
     "x-1793877735760-luglem",
-    "x-1793878920123-ju99yr"
+    "x-1793878920123-ju99yr",
+    "x-1793880168714-63czxe",
+    "x-1793880173284-yg89pr",
+    "x-1793880179304-rlnsvu",
+    "x-1793880185687-gd7f42"
   ],
   "queue": [
-    {
-      "text": "🇭🇰BREAKING: Hong Kong passes LAW requiring crypto firms to collect customer transactions for tax purposes from 2027.\n\nThis includes buying and selling crypto, token swaps, and transfers to external wallets.",
-      "url": "https://x.com/coinbureau/status/2118272766159765779",
-      "images": [
-        "https://pbs.twimg.com/media/HWWahpHbsAERoN0.jpg",
-        "https://pbs.twimg.com/media/HWWdjCza4AAdnya.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793871131253
-    },
     {
       "text": "Following a potential security issue reported by third-party platform SignalPlus, we have proactively removed all API keys linked to SignalPlus as an immediate precautionary measure.\n\nBinance's own systems are unaffected. User funds remain safe. \n\nIf you used SignalPlus, please",
       "url": "https://x.com/binance/status/2118295116716589383",
@@ -2030,6 +2020,26 @@
       ],
       "video": null,
       "enqueuedAt": 1793876577109
+    },
+    {
+      "text": "LATEST: Bybit reports $17.3 BILLION in reserves across 50 assets, exceeding customer balances for all 50 assets covered in its 41st proof-of-reserves report.\n\nBlockchain security firm Hacken independently verified the recent data, Bybit said.",
+      "url": "https://x.com/coinbureau/status/2118312377401979313",
+      "images": [
+        "https://pbs.twimg.com/media/HWXAq2vbIAA793s.png",
+        "https://pbs.twimg.com/media/HWXAq29bEAA8lFI.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1793880191020
+    },
+    {
+      "text": "ZetaChain Proposes Halting Layer 1 Block Production on Dec 9, Migrating ZETA 1:1 to Solana\n\nZetaChain has initiated an onchain governance vote proposing to permanently halt block production on its Layer 1 network on December 9 and migrate native ZETA 1:1 to Solana as an SPL",
+      "url": "https://x.com/WuBlockchain/status/2118311822118019383",
+      "images": [
+        "https://pbs.twimg.com/media/HWXBW1Rb0AAyyQs.jpg",
+        "https://pbs.twimg.com/media/HWXBXoTaIAADrwf.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793880191020
     }
   ],
   "posted": [
@@ -2727,7 +2737,17 @@
       "at": 1793878301935,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/384971195864903?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇭🇰BREAKING: Hong Kong passes LAW requiring crypto firms to collect customer transactions for tax purposes from 2027.\n\nThis includes buying and selling crypto, token swaps, and transfers to external wallets.",
+      "final": "🇭🇰BREAKING: Hong Kong passes LAW requiring crypto firms to collect customer transactions for tax purposes from 2027.\n\nThis includes buying and selling crypto, token swaps, and transfers to external wallets.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWWahpHbsAERoN0.jpg",
+        "https://pbs.twimg.com/media/HWWdjCza4AAdnya.jpg"
+      ],
+      "at": 1793880191020,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793878301935
+  "lastPostAt": 1793880191020
 }
