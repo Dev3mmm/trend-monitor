@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793754147798-zbu3xs",
-    "source": "x",
-    "ts": "2026-11-04T01:02:27.798Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-04T00:57:00.000Z",
-    "reason": "StarkNet mentioned by AI research report from Anthropic AI.",
-    "text": "StarkNet &amp; Mantle mentioned in Anthropic's new research report!\n\nAs highlighted by the @StarknetFndn's @krinza, @Starknet received a direct mention from AI giant @AnthropicAI in its new report - \"Progress on provable inference for large language models\".\n\nThe report highlighted",
-    "url": "https://x.com/BSCNews/status/2117783133739475185",
-    "images": [
-      "https://pbs.twimg.com/media/HWM894eWIAAqgIj.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793754153593-xp7nwn",
-    "source": "x",
-    "ts": "2026-11-04T01:02:33.593Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-04T00:57:00.000Z",
-    "reason": "No notable crypto-related event or news in the tweet.",
-    "text": "BREAKING: Freezer CYBERATTACKS have now hit France's national BLOOD service, setting units to 110°C.\n\nHackers reprogrammed freezers holding donor blood samples from -30°C to 110°C, a jump of 140 degrees, per Le Canard Enchaîné.\n\nThey broke in through Coolworld, which maintains",
-    "url": "https://x.com/coinbureau/status/2117783133617877419"
-  },
-  {
     "id": "x-1793755938727-vnvyj5",
     "source": "x",
     "ts": "2026-11-04T01:32:18.727Z",
@@ -7874,5 +7843,31 @@
     "reason": "No notable move in ETH price.",
     "text": "Anthropic Lets Claude Read Your Bank Accounts, but Not Touch the Money.\n\nAnthropic's Personal Finance in Claude starts rolling out in a US beta this week on Pro, Max and Ultra plans, linking bank and card accounts via Plaid with read-only access, so it can't move or invest money.",
     "url": "https://x.com/DecryptMedia/status/2118448268426236206"
+  },
+  {
+    "id": "x-1793913156242-vtvlvc",
+    "source": "x",
+    "ts": "2026-11-05T21:12:36.242Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-05T21:11:28.000Z",
+    "reason": "Generic financial news not specific to cryptocurrencies or blockchain technology.",
+    "text": "🚨 Tech just had its WORST day since COVID.\n\n🇺🇸 The AI crackdown fears behind today’s $3.5 TRILLION selloff face two hurdles: January and Trump’s veto.\n\nUS stocks lost over $3,500,000,000,000 today, as the Nasdaq 100 posted its worst day since March 2020.\n\nChipmakers sank on",
+    "url": "https://x.com/coinbureau/status/2118451155147911196"
+  },
+  {
+    "id": "x-1793913159170-a1un0r",
+    "source": "x",
+    "ts": "2026-11-05T21:12:39.170Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-05T21:10:13.000Z",
+    "reason": "No notable crypto-related event or use of crypto is mentioned.",
+    "text": "⚡ UPDATE: Elon Musk's net worth was down roughly $70B in a day.\n\nAnd yet, he still has more than double the second richest man on Forbes' list.",
+    "url": "https://x.com/Cointelegraph/status/2118450839442391411"
   }
 ]
