@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793786086903-gqiml0",
-    "source": "x",
-    "ts": "2026-11-04T09:54:46.903Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-04T09:45:15.000Z",
-    "reason": "Specific bank adoption into tokenization service.",
-    "text": "🔥 JUST IN: $10T Morgan Stanley is among the first banks to tokenize US equities and Treasuries through DTCC’s Tokenization Service.",
-    "url": "https://x.com/Cointelegraph/status/2117916073521455364",
-    "images": [
-      "https://pbs.twimg.com/media/HWRZcRJXQAAQO2U.png",
-      "https://pbs.twimg.com/media/HWRZceiXIAAP7jK.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793786092673-9364zk",
-    "source": "x",
-    "ts": "2026-11-04T09:54:52.673Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 22,
-    "originTimestamp": "2026-11-04T09:32:00.000Z",
-    "reason": "Notable investment and expansion in blockchain financial services.",
-    "text": "XDC Network Takes Another Step Into Everyday Payments\n\nXDC Ventures (@XDCVentures) has made a strategic investment in Scallop (@Scallopcom) to expand blockchain-powered financial services.\n\nScallop has expanded its payment services using native xdce-crowd-sale:native and $USDC on",
-    "url": "https://x.com/BSCNews/status/2117912737842188627",
-    "images": [
-      "https://pbs.twimg.com/media/HWRQtqeboAAPvfv.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793786534456-3iujmb",
     "source": "x",
     "ts": "2026-11-04T10:02:14.456Z",
@@ -7828,5 +7791,44 @@
     "reason": "No notable move in ETH price.",
     "text": "⚡️ ELON MUSK: \"Data centers in space looking pretty appealing right now.\"",
     "url": "https://x.com/Cointelegraph/status/2117904972935242012"
+  },
+  {
+    "id": "x-1793937811600-bj9dwm",
+    "source": "x",
+    "ts": "2026-11-06T04:03:31.600Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-06T04:00:46.000Z",
+    "reason": "Security flaw affecting BNB Chain but no immediate impact on users.",
+    "text": "🚨 ALERT: BNB Chain says a security flaw in the Reth client has limited impact on BSC-Reth and leaves opBNB unaffected.\n\nA hotfix is underway and no action needed from users.",
+    "url": "https://x.com/Cointelegraph/status/2118554157032350029",
+    "images": [
+      "https://pbs.twimg.com/media/HWadxykWMAA-txW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793937818415-vn7esh",
+    "source": "x",
+    "ts": "2026-11-06T04:03:38.415Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-06T04:00:02.000Z",
+    "reason": "Tether CEO reveals holding significant amount of BTC and expanding mining operations.",
+    "text": "Tether CEO: Company Holds 150,000 BTC, Mining Hashrate Tops 50 EH/s\n\nAt Plan ₿ Forum 2026 in Lugano on October 23–24, Tether CEO Paolo Ardoino @paoloardoino said the company holds 150,000 bitcoin. He said Tether has built one of the world's largest mining operations with",
+    "url": "https://x.com/WuBlockchain/status/2118553971170189385",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2118277286646743040/vid/avc1/1280x720/a4KS_dfkMQyyCHG5.mp4?tag=29",
+      "duration": 100,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118277286646743040/img/SA_f6fLsBGayO96N.jpg"
+    }
   }
 ]
