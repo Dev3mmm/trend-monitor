@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793827505337-6rw94p",
-    "source": "x",
-    "ts": "2026-11-04T21:25:05.337Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T21:17:15.000Z",
-    "reason": "No direct relation to cryptocurrencies or significant market events.",
-    "text": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
-    "url": "https://x.com/DecryptMedia/status/2118090220256051614"
-  },
-  {
-    "id": "x-1793827510611-k69xzh",
-    "source": "x",
-    "ts": "2026-11-04T21:25:10.611Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-04T21:17:00.000Z",
-    "reason": "Generic market summary with no specific crypto-related information.",
-    "text": "JUST IN: 🇺🇸 US stocks added over $1.1 TRILLION today, but Nvidia LOST $158 BILLION.\n\nMost of the market rallied on the first trading day after the midterms, but Nvidia fell 3.2% as chip stocks dropped.\n\nMicrosoft and Apple alone added about $515 BILLION, nearly half the day’s",
-    "url": "https://x.com/coinbureau/status/2118090156808839436"
-  },
-  {
-    "id": "x-1793827515994-q3upm5",
-    "source": "x",
-    "ts": "2026-11-04T21:25:15.994Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-04T21:16:00.000Z",
-    "reason": "Notable institutional adoption and regulatory test for LayerZero.",
-    "text": "LayerZero’s Zero chain passes a regulated trading test\n\n@tradeon21x, the first EU venue licensed to trade and settle tokenized securities on a blockchain, spent a month running its order book on a private version of Zero, LayerZero’s new chain. The pilot traded US stock tokens,",
-    "url": "https://x.com/BSCNews/status/2118089905134047498",
-    "images": [
-      "https://pbs.twimg.com/media/HWTs7vxXEAAiL9Z.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793827519020-gr9qgv",
-    "source": "x",
-    "ts": "2026-11-04T21:25:19.020Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-04T21:13:32.000Z",
-    "reason": "Noise: Generic statement without factual claim.",
-    "text": "@grok is this true?",
-    "url": "https://x.com/coinbase/status/2118089286658707716"
-  },
-  {
     "id": "x-1793827969804-hv07iu",
     "source": "x",
     "ts": "2026-11-04T21:32:49.804Z",
@@ -7786,5 +7729,60 @@
     "url": "https://x.com/BSCNews/status/2118741012914803067",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793983343526-kr6qqm",
+    "source": "x",
+    "ts": "2026-11-06T16:42:23.526Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T16:41:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Understanding $ADA means understanding more than just its chain.\n\nHere's what you need to know about the various organisations that play a key role in @Cardano's development and progress ⬇️",
+    "url": "https://x.com/BSCNews/status/2118745474580758851"
+  },
+  {
+    "id": "x-1793983346878-a891u2",
+    "source": "x",
+    "ts": "2026-11-06T16:42:26.878Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-06T16:38:52.000Z",
+    "reason": "Noise: Generic hype without factual claim.",
+    "text": "You can’t print another day.",
+    "url": "https://x.com/saylor/status/2118744937210548649"
+  },
+  {
+    "id": "x-1793983351893-1g99qz",
+    "source": "x",
+    "ts": "2026-11-06T16:42:31.893Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-06T16:35:15.000Z",
+    "reason": "Crypto liquidations reaching significant levels as Bitcoin tests a 11-week low.",
+    "text": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+    "url": "https://x.com/DecryptMedia/status/2118744027801551203",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793983355530-han9s7",
+    "source": "x",
+    "ts": "2026-11-06T16:42:35.530Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-06T16:32:04.000Z",
+    "reason": "No factual claim or specific event.",
+    "text": "Anthropic IPO Valuation Could Fall to $1 Trillion After AI Stock Rout: Report",
+    "url": "https://x.com/DecryptMedia/status/2118743226983096547"
   }
 ]
