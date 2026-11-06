@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792610545109-jq3mw7",
     "x-1792611128132-038zii",
     "x-1792611133922-k6m8t0",
     "x-1792611825471-8ylmhc",
@@ -1999,19 +1998,10 @@
     "x-1793923352099-4oqbyg",
     "x-1793925134407-ophvz2",
     "x-1793926292997-w43rc4",
-    "x-1793926573270-1n55v4"
+    "x-1793926573270-1n55v4",
+    "x-1793928737380-mr3kgp"
   ],
   "queue": [
-    {
-      "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻  \n\nThey now own 7827 BTC worth $593.4 million! 👏",
-      "url": "https://x.com/BitcoinMagazine/status/2118473663477686331",
-      "images": [
-        "https://pbs.twimg.com/media/HWZTXJ7XcAADj6v.png",
-        "https://pbs.twimg.com/media/HWZTXfxWoAAsbc6.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793918519936
-    },
     {
       "text": "🔥 TODAY: Kalshi users now give Anthropic less than a 60% chance of going public this year, down from nearly 90% on the eve of the midterms.",
       "url": "https://x.com/Cointelegraph/status/2118478667982458912",
@@ -2062,6 +2052,15 @@
       ],
       "video": null,
       "enqueuedAt": 1793925135108
+    },
+    {
+      "text": "🚨 LATEST: Anthropic’s investors doubt the AI giant can reach its expected $1.5 trillion IPO valuation after a deep AI-related market selloff, per WSJ.",
+      "url": "https://x.com/Cointelegraph/status/2118516393494659217",
+      "images": [
+        "https://pbs.twimg.com/media/HWZ7brCXIAANCN8.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793928737993
     }
   ],
   "posted": [
@@ -2693,7 +2692,17 @@
       "at": 1793926895406,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/385170251148748?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻  \n\nThey now own 7827 BTC worth $593.4 million! 👏",
+      "final": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻 \n\nThey now own 7827 BTC worth $593.4 million! 👏\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWZTXJ7XcAADj6v.png",
+        "https://pbs.twimg.com/media/HWZTXfxWoAAsbc6.jpg"
+      ],
+      "at": 1793928737993,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793926895406
+  "lastPostAt": 1793928737993
 }
