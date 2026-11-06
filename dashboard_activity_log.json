@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793811165890-4ro2ax",
-    "source": "x",
-    "ts": "2026-11-04T16:52:45.890Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T16:50:45.000Z",
-    "reason": "Bitcoin price rebounds after midterm results, signaling potential crypto regulatory changes.",
-    "text": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
-    "url": "https://x.com/DecryptMedia/status/2118023152852730072",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793811171797-6mo9o8",
-    "source": "x",
-    "ts": "2026-11-04T16:52:51.797Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T16:45:00.000Z",
-    "reason": "Notable institutional Bitcoin sale leading to share price surge.",
-    "text": "🚨LATEST: Riot platforms surges +15% after selling 1.5BILLION worth of Bitcoin \n\nThe second largest bitcoin miner’s shares jumped nearly 15% after revealing it sold 20,264 BTC worth approximately $1.5 billion over the first nine months of 2026 to fund its AI data center",
-    "url": "https://x.com/coinbureau/status/2118021706421842007",
-    "images": [
-      "https://pbs.twimg.com/media/HWSojFAaAAAn2jF.jpg",
-      "https://pbs.twimg.com/media/HWSojFIboAAWqVC.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793811177523-9m070v",
     "source": "x",
     "ts": "2026-11-04T16:52:57.523Z",
@@ -7813,5 +7778,39 @@
       "https://pbs.twimg.com/media/HWcIUc_XsAAViv0.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793967831566-5tuz0l",
+    "source": "x",
+    "ts": "2026-11-06T12:23:51.566Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-06T12:14:18.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "13 years. Four market cycles. Millions of readers. \n\nOne mission: To tell crypto’s ever-evolving story.  \n\nWe’ve grown from a single news site into a global media network spanning research, events, video and beyond. \n\nExplore our history 👇",
+    "url": "https://x.com/Cointelegraph/status/2118678358603301107"
+  },
+  {
+    "id": "x-1793967835598-mv56vd",
+    "source": "x",
+    "ts": "2026-11-06T12:23:55.598Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 62,
+    "originTimestamp": "2026-11-06T11:21:07.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥HOT TAKE: Global macro analyst Rich Bernstein breaks down the WORST tech SELL-OFF since the March 2020 COVID crash.\n\n1. Investors had loaded up on high-risk stocks and leveraged products.\n\n2. The midterms added uncertainty over regulation, including rules for AI data centers.",
+    "url": "https://x.com/coinbureau/status/2118677276132819208",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2118677115759722497/vid/avc1/1280x720/F3rdBuZ_65Ns9nKX.mp4?tag=29",
+      "duration": 154,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118677115759722497/img/vkyEefBE2hKNTO-I.jpg"
+    }
   }
 ]
