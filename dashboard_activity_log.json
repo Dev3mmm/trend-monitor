@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793790778590-x9s9lj",
-    "source": "x",
-    "ts": "2026-11-04T11:12:58.590Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-04T11:03:20.000Z",
-    "reason": "Argus model for token launches is different from Pumpfun and could affect token performance.",
-    "text": "How is Argus (@Arguspad) $ARGUS challenging the Pumpfun (@Pumpfun) $PUMP launchpad model?\n\nUnlike Pumpfun, Argus launches tokens directly into Uniswap v4 pools.\n\nBut has this different model actually improved token launches? Find out 👇",
-    "url": "https://x.com/BSCNews/status/2117935722221257134",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793791350502-k2knkw",
-    "source": "x",
-    "ts": "2026-11-04T11:22:30.502Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-04T11:21:45.000Z",
-    "reason": "Noteworthy news about a crypto theft involving a major bank.",
-    "text": "ZachXBT Names French Bank Crédit Mutuel Arkéa as Alleged Victim of $133M Crypto Theft",
-    "url": "https://x.com/DecryptMedia/status/2117940357052719141",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793791354177-6ol5cu",
     "source": "x",
     "ts": "2026-11-04T11:22:34.177Z",
@@ -7829,5 +7797,34 @@
       "https://pbs.twimg.com/media/HWau3_obMAAEV5t.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793943682536-75owxv",
+    "source": "x",
+    "ts": "2026-11-06T05:41:22.536Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T05:40:00.000Z",
+    "reason": "Crypto exchanges reveal cold storage ratios following Binance hack",
+    "text": "🚨 NOW: Crypto exchanges reveal their cold storage ratios after the $6.36 billion Binance hack.",
+    "url": "https://x.com/Cointelegraph/status/2118579128526090435",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793943686683-5oilsc",
+    "source": "x",
+    "ts": "2026-11-06T05:41:26.683Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-06T05:30:46.000Z",
+    "reason": "No notable move in ETH price within the recent range.",
+    "text": "⚡️ NEW: CZ speaking at the Oxford Union says, “AI is actually making our systems safer. By uncovering all of these security issues, we can now fix them.”",
+    "url": "https://x.com/Cointelegraph/status/2118576804378137016"
   }
 ]
