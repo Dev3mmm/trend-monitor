@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1793819517731-oofd86",
-    "source": "x",
-    "ts": "2026-11-04T19:11:57.731Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T19:10:14.000Z",
-    "reason": "No notable crypto-related event or use of crypto mentioned.",
-    "text": "🚨 LATEST: Peter Schiff warns that the US stock market rally could be short-lived, predicting rising inflation and budget deficits under Trump.\n\nHe says worsening affordability could help Democrats win the White House in 2028 and potentially secure 60 Senate seats.",
-    "url": "https://x.com/Cointelegraph/status/2118058254634783225"
-  },
-  {
-    "id": "x-1793820142521-9cpna4",
-    "source": "x",
-    "ts": "2026-11-04T19:22:22.521Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-04T19:18:13.000Z",
-    "reason": "Specific and notable regulatory move related to crypto.",
-    "text": "JUST IN: 🇺🇸 House Democrats reportedly want to revive their Clarity Act provisions in a broader crypto market structure bill next Congress, Eleanor Terrett reports. 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2118060264939516047",
-    "images": [
-      "https://pbs.twimg.com/media/HWTcY6vW8AAfKMk.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793820148648-xf7upr",
-    "source": "x",
-    "ts": "2026-11-04T19:22:28.648Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T19:15:00.000Z",
-    "reason": "Notable institutional engagement with a token through a buyback and staking mechanism.",
-    "text": "Aero’s latest buyback skips the burn\n\nThe Momentum Fund, the Aero Foundation’s flagship program for @aeroxyz, bought 243K $AERO this week and staked all of it. Like any other staker, the fund can now use those tokens to steer rewards to trading markets and earn a share of",
-    "url": "https://x.com/BSCNews/status/2118059454466039920",
-    "images": [
-      "https://pbs.twimg.com/media/HWTSljCX0AATY_D.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793820734124-oerpyy",
     "source": "x",
     "ts": "2026-11-04T19:32:14.124Z",
@@ -7811,5 +7762,52 @@
     "reason": "No notable move or specific event is mentioned.",
     "text": "Crypto Crash, AI Trade Selloff, $ZEC and $XMR Strength, and News.",
     "url": "https://x.com/DecryptMedia/status/2118721286838825187"
+  },
+  {
+    "id": "x-1793978543232-e03eat",
+    "source": "x",
+    "ts": "2026-11-06T15:22:23.232Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-06T15:19:37.000Z",
+    "reason": "No notable move in cryptocurrency prices or significant events.",
+    "text": "Protesters Enter Microsoft Data Center Construction Site in Amsterdam.\n\nAbout 100 protesters entered a Microsoft data center construction site near Amsterdam's Sloterdijk on Friday, a Reuters witness said, as police made arrests during a demonstration against the project.",
+    "url": "https://x.com/DecryptMedia/status/2118724996684300704"
+  },
+  {
+    "id": "x-1793978548779-htrrjw",
+    "source": "x",
+    "ts": "2026-11-06T15:22:28.779Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-06T15:15:40.000Z",
+    "reason": "Notable opinion piece on the future of crypto influenced by AI.",
+    "text": "🚨 INSIGHT: “AI killed crypto.” claims Bitcoin Opportunity Fund partner Mark Moss.\n\nInvestor and Bitcoin Opportunity Fund partner @1MarkMoss explains to @itsciaranlyons what he means, and why he believes Bitcoin is different.\n\nWatch the latest #TRADESECRETS episode:",
+    "url": "https://x.com/Cointelegraph/status/2118723998989107459",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793978554145-12a3z6",
+    "source": "x",
+    "ts": "2026-11-06T15:22:34.145Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-06T15:13:00.000Z",
+    "reason": "Noteworthy regulatory move affecting stablecoin issuance.",
+    "text": "Nigeria Now Requires Licenses for Stablecoin Issuers\n\nThe Central Bank of Nigeria has formulated a national-level regulation on virtual assets. \n\nIt mandates licenses for stablecoin issuers that use a fiat currency and prohibits algorithmic stablecoins from November 5.\n\nThe",
+    "url": "https://x.com/BSCNews/status/2118723329443967474",
+    "images": [
+      "https://pbs.twimg.com/media/HWcuNkBXcAEoBJA.jpg"
+    ],
+    "video": null
   }
 ]
