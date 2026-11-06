@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1793863968213-9slotm",
-    "source": "x",
-    "ts": "2026-11-05T07:32:48.213Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CertiK Alert",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-05T07:22:54.000Z",
-    "reason": "Security exploit involving a stablecoin token.",
-    "text": "#CertiKAlert 🚨\n\n$TENDRIL's sell hook let sellers debit pair's token balance and sync reserves before remaining sell input arrived. \n\nThe delayed input then withdrew near all USDT, causing ~$555K net loss. \n\n\nSecurity Dashboard 👇",
-    "url": "https://x.com/CertiKAlert/status/2118242639212658985",
-    "images": [
-      "https://pbs.twimg.com/media/HWWCE8bbIAArISs.jpg",
-      "https://pbs.twimg.com/media/HWWCG3SbYAAZV9Z.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793864525926-7wh7w1",
     "source": "x",
     "ts": "2026-11-05T07:42:05.926Z",
@@ -7717,5 +7698,24 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "InterLink lays out what ITLG could be used for once it goes fully onchain\n\n@inter_link shared five possible uses for $ITLG once the token moves beyond app mining and becomes transferable on mainnet. The list covers payments and apps across its network, staking rewards funded by",
     "url": "https://x.com/BSCNews/status/2118814932510876039"
+  },
+  {
+    "id": "x-1794000730694-cpimhu",
+    "source": "x",
+    "ts": "2026-11-06T21:32:10.694Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T21:30:45.000Z",
+    "reason": "The tweet is about a specific event but lacks concrete, specific details that would allow readers to verify the claim.",
+    "text": "🇹🇼 JUST IN: Arthur Hayes says \"Let the AI bailouts begin!\" after Taiwan rolls out a NT$500B stock rescue fund and curbs short selling from Nov 9.\n\nThe Taiex just had its worst week since 2001.",
+    "url": "https://x.com/Cointelegraph/status/2118818393478328671",
+    "images": [
+      "https://pbs.twimg.com/media/HWeOGFaWIAAu5qb.jpg",
+      "https://pbs.twimg.com/media/HWeOGUdXkAEIKxr.jpg"
+    ],
+    "video": null
   }
 ]
