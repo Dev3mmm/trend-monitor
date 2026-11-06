@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793834529798-wpqfc9",
-    "source": "x",
-    "ts": "2026-11-04T23:22:09.798Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-04T23:17:00.000Z",
-    "reason": "No notable move in token price, within recent range.",
-    "text": "The blockchain oracle sector is dominated by a small number of key players.\n\nWe compare two of the biggest in @chainlink $LINK and @PythNetwork solana:HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3 ⬇️",
-    "url": "https://x.com/BSCNews/status/2118120355717841165"
-  },
-  {
-    "id": "x-1793835110893-7plny7",
-    "source": "x",
-    "ts": "2026-11-04T23:31:50.893Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T23:30:17.000Z",
-    "reason": "Generic statement with no specific action or price to verify.",
-    "text": "⚡️ CZ: “Bitcoin is resilient.”",
-    "url": "https://x.com/Cointelegraph/status/2118123698985095570"
-  },
-  {
-    "id": "x-1793836348905-hj3nty",
-    "source": "x",
-    "ts": "2026-11-04T23:52:28.905Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T23:50:00.000Z",
-    "reason": "ETFs showing significant inflows followed by outflows, indicating volatility in ZEC investments.",
-    "text": "So $ZEC investors don't deal in half measures...\n\nAn eight day streak of net inflows has been followed by three straight days of net outflows for spot @Zcash ETFs.\n\nThe products lost -$3.58M on November 3 and are now down -$7.21M on the week already.\n\nDespite the lapse, the ETFs",
-    "url": "https://x.com/BSCNews/status/2118128660523684012",
-    "images": [
-      "https://pbs.twimg.com/media/HWRQZKGWQAATjnk.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793836970537-7yqd51",
     "source": "x",
     "ts": "2026-11-05T00:02:50.537Z",
@@ -7763,5 +7719,52 @@
     "reason": "Memes and not related to crypto.",
     "text": "How I stood with a man at the point of his lowest. \n\nRead his story:\n\nGood afternoon Doc.\n\nI want to take a moment to sincerely appreciate you for the guidance you gave me regarding my wife's delivery.\n\nI had not updated you earlier about her pregnancy, but I feel I owe you this",
     "url": "https://x.com/amerix/status/2118765273557700931"
+  },
+  {
+    "id": "x-1793989379558-b50obs",
+    "source": "x",
+    "ts": "2026-11-06T18:22:59.558Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 37,
+    "originTimestamp": "2026-11-06T17:45:50.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "JACK MALLERS SAYS “MONEY + TIME + ENERGY + INFORMATION = BITCOIN!” ⚡️\n\n“IF YOU TAKE ONE OUT YOU GET BROKEN MONEY, YOU MIGHT AS WELL USE THE EURO.” 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2118770084944732654"
+  },
+  {
+    "id": "x-1793989383597-rkjz11",
+    "source": "x",
+    "ts": "2026-11-06T18:23:03.597Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-06T18:17:00.000Z",
+    "reason": "Notable change in blockchain infrastructure and potential impact on Immutable's ecosystem.",
+    "text": "Immutable is rebuilding its gaming chain on Optimism’s tech\n\n@Immutable ($IMX) will move Immutable Chain from its own custom setup to the OP Stack, the open-source chain framework from @Optimism ($OP), with the switch aimed at mid-2027. Blocks will then come every second instead",
+    "url": "https://x.com/BSCNews/status/2118769634023551419",
+    "images": [
+      "https://pbs.twimg.com/media/HWdY7RTWsAAgrPY.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793989387172-v2oi2q",
+    "source": "x",
+    "ts": "2026-11-06T18:23:07.172Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-06T18:15:00.000Z",
+    "reason": "Binance's response to the hack raises regulatory and transparency concerns.",
+    "text": "🔥 LATEST: How much was Binance actually keeping in its hot wallets?\n\nEight days after the $6.3B hack, Binance still hasn't said, while rivals like Coinbase, Gate and Upbit are rushing to publish their cold storage ratios.\n\nShould every exchange be forced to disclose this?",
+    "url": "https://x.com/Cointelegraph/status/2118769130732236913",
+    "images": [],
+    "video": null
   }
 ]
