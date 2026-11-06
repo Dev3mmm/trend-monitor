@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793772121200-vie4g3",
-    "source": "x",
-    "ts": "2026-11-04T06:02:01.200Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-04T05:51:52.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇺🇸 JUST IN: President Trump says he will accept the midterm results and is open to work with Democrats, per NYT.\n\n“We’ll probably work something out.”",
-    "url": "https://x.com/Cointelegraph/status/2117857341416910848"
-  },
-  {
     "id": "x-1793772717576-cliaso",
     "source": "x",
     "ts": "2026-11-04T06:11:57.576Z",
@@ -7850,5 +7837,24 @@
     "reason": "No notable crypto-related event or token price movement mentioned.",
     "text": "🇰🇷 JUST IN: South Korea’s KOSPI hits a circuit breaker after a sharp market plunge and sinks below 5,000.",
     "url": "https://x.com/Cointelegraph/status/2118496056656757062"
+  },
+  {
+    "id": "x-1793925134407-ophvz2",
+    "source": "x",
+    "ts": "2026-11-06T00:32:14.407Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T00:30:44.000Z",
+    "reason": "Michael Saylor's statement about Bitcoin and the specific STRC price drop are concrete and verifiable events.",
+    "text": "⚡️ TODAY: Michael Saylor calls it a rare 4σ day as the S&amp;P 500 drops 4.4% and Bitcoin falls about 5%.\n\n “$STRC closed at $99.56, just 44 cents below par.”",
+    "url": "https://x.com/Cointelegraph/status/2118501300883075255",
+    "images": [
+      "https://pbs.twimg.com/media/HWZts1xWAAAaSAP.jpg",
+      "https://pbs.twimg.com/media/HWZttIvWsAAGEov.jpg"
+    ],
+    "video": null
   }
 ]
