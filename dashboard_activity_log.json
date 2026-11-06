@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793833146765-1mb5bu",
-    "source": "x",
-    "ts": "2026-11-04T22:59:06.765Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-04T22:47:15.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
-    "url": "https://x.com/DecryptMedia/status/2118112869174673413",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793833149169-4n0xcy",
-    "source": "x",
-    "ts": "2026-11-04T22:59:09.169Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-04T22:43:00.000Z",
-    "reason": "Notable use of blockchain technology for regulatory compliance.",
-    "text": "Chainlink tech backs a Swift-aligned onchain bond test\n\n@ApexGlobalGroup, which services more than $3.5T in assets, demonstrated an onchain bond setup with @trex_network and @ERC3643Org that applies one set of compliance rules on every chain the bond moves to. The rules follow",
-    "url": "https://x.com/BSCNews/status/2118111799354478927",
-    "images": [
-      "https://pbs.twimg.com/media/HWT7kluWAAAGsIm.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793833368719-yulas8",
     "source": "x",
     "ts": "2026-11-04T23:02:48.719Z",
@@ -7772,5 +7738,41 @@
     "reason": "Vague opinion with no factual claim",
     "text": "The things happening across the world are so complex for ordinary people to decipher, discern and understand.\n\nPeople only see superficial and cosmetic events.\n\nBut one day you will see it, and it will be too late to reverse it.",
     "url": "https://x.com/amerix/status/2118761060060606816"
+  },
+  {
+    "id": "x-1793987521321-56ch1p",
+    "source": "x",
+    "ts": "2026-11-06T17:52:01.321Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-06T17:49:44.000Z",
+    "reason": "Oracle shares' significant drop due to a potential Microsoft deal termination.",
+    "text": "🚨BREAKING: Oracle $ORCL shares fall over 6% as Microsoft $MSFT reportedly winds down a deal to rent AI cloud capacity.",
+    "url": "https://x.com/coinbureau/status/2118762773865980251",
+    "images": [
+      "https://pbs.twimg.com/media/HWdbKwNbgAA5a0v.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793987524110-b9jpl3",
+    "source": "x",
+    "ts": "2026-11-06T17:52:04.110Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-06T17:48:00.000Z",
+    "reason": "Significant code cleanup in Sei Network's history.",
+    "text": "Sei is cutting its code down hard on the road to Giga\n\n@Sei_Labs says the next $SEI network release, v6.8, will shrink the core code by about 165,000 lines, which it calls the biggest cleanup in @SeiNetwork's history. The update adds 239,000 lines and removes 404,000, with",
+    "url": "https://x.com/BSCNews/status/2118762335938437362",
+    "images": [
+      "https://pbs.twimg.com/media/HWdWNnKXwAAa-pp.jpg"
+    ],
+    "video": null
   }
 ]
