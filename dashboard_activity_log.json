@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793812463837-3vd7zy",
-    "source": "x",
-    "ts": "2026-11-04T17:14:23.837Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-04T17:09:09.000Z",
-    "reason": "The tweet does not provide specific crypto-related news.",
-    "text": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
-    "url": "https://x.com/DecryptMedia/status/2118027785952231730"
-  },
-  {
     "id": "x-1793812467755-g5q6te",
     "source": "x",
     "ts": "2026-11-04T17:14:27.755Z",
@@ -7801,5 +7788,23 @@
     "reason": "No notable crypto-related news in the tweet.",
     "text": "🚨 UPDATE: CZ warns of a decade-old OpenSSH vulnerability in Alpine Linux and urges users to apply the security patch.",
     "url": "https://x.com/Cointelegraph/status/2118682510624260529"
+  },
+  {
+    "id": "x-1793968968871-8olkfu",
+    "source": "x",
+    "ts": "2026-11-06T12:42:48.871Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-06T12:40:25.000Z",
+    "reason": "Nasdaq-100 futures showing significant early rebound.",
+    "text": "🚨ALERT: Nasdaq-100 futures ROSE about 1.5% as U.S. chip stocks surge before the U.S market opening bell.\n\nIt's an early sign of a rebound after the Nasdaq-100 plunged 6.4% Thursday.  \n\nWall Street stocks are set to stabilize on Friday, per FT.  \n\nMicron $MU leads the move, up",
+    "url": "https://x.com/coinbureau/status/2118684930628882930",
+    "images": [
+      "https://pbs.twimg.com/media/HWcUkM8aQAAuhQW.jpg"
+    ],
+    "video": null
   }
 ]
