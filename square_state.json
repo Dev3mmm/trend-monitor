@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792607529241-vcb9pn",
-    "x-1792608222187-n2u5ji",
     "x-1792608742312-z6aply",
     "x-1792609358469-8cjc7r",
     "x-1792610539099-q7yia9",
@@ -1999,18 +1997,11 @@
     "x-1793921666877-2djjh6",
     "x-1793921672717-0o6lki",
     "x-1793922941491-cba1e3",
-    "x-1793923167213-7ynsaz"
+    "x-1793923167213-7ynsaz",
+    "x-1793923346193-jbbt4e",
+    "x-1793923352099-4oqbyg"
   ],
   "queue": [
-    {
-      "text": "NEW: Fidelity Digital Assets says spot Bitcoin ETPs and perpetual preferred stocks have accumulated over 1 million BTC in their first year. 👀\n\n\"This illustrates the vast, largely untapped potential for further investment in bitcoin-adjacent products\" 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2118456405996765347",
-      "images": [
-        "https://pbs.twimg.com/media/HWZE38TXEAA6KFr.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793914403732
-    },
     {
       "text": "First U.S. Staked Injective ETF Begins Trading on Nasdaq as INJC.\n\nCanary Capital's Canary Staked INJ ETF started trading Thursday under ticker INJC, and Injective called it the first U.S. ETF for INJ with staking built in.",
       "url": "https://x.com/DecryptMedia/status/2118459591092813994",
@@ -2069,19 +2060,31 @@
       ],
       "video": null,
       "enqueuedAt": 1793919914808
+    },
+    {
+      "text": "🇺🇸 JUST IN: The White House is reviewing an SEC proposal to change how brokers can handle crypto assets.",
+      "url": "https://x.com/Cointelegraph/status/2118493775819358508",
+      "images": [
+        "https://pbs.twimg.com/media/HWZm22HXQAACNje.png",
+        "https://pbs.twimg.com/media/HWZm3I1XMAALGoc.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793923355804
+    },
+    {
+      "text": "Michael Saylor: Bitcoin Is Entering a Bull Market That Could Last 2–3 Years\n\nStrategy founder Michael Saylor @saylor said during the company's Q3 2026 earnings call on October 30 that Bitcoin has endured roughly a year-long bear market and is rebounding from its 200-week moving",
+      "url": "https://x.com/WuBlockchain/status/2118493574450831498",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2118271578706526208/vid/avc1/1280x720/AuFPXa3M-CAhkqFB.mp4?tag=29",
+        "duration": 124,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118271578706526208/img/eEq_YQskcIGcJRqp.jpg"
+      },
+      "enqueuedAt": 1793923355804
     }
   ],
   "posted": [
-    {
-      "text": "⚡️ NEW: Ethereum advances toward quantum resistance across all three layers as its leanVM tool achieves end-to-end formal verification.",
-      "final": "⚡️ NEW: Ethereum advances toward quantum resistance across all three layers as its leanVM tool achieves end-to-end formal verification.\n\n#Ethereum $ETH",
-      "images": [
-        "https://pbs.twimg.com/media/HWOu-mNWAAALVJR.jpg"
-      ],
-      "at": 1793750550340,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/384447926212711?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "⚡️ MARKET: Bitcoin’s short-dated options price elevated volatility ahead of US midterm elections, with front-end implied volatility at 48.08%.",
       "final": "⚡️ MARKET: Bitcoin’s short-dated options price elevated volatility ahead of US midterm elections, with front-end implied volatility at 48.08%.\n\n#Bitcoin $BTC",
@@ -2699,7 +2702,16 @@
       "at": 1793890446617,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/385020972103433?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "NEW: Fidelity Digital Assets says spot Bitcoin ETPs and perpetual preferred stocks have accumulated over 1 million BTC in their first year. 👀\n\n\"This illustrates the vast, largely untapped potential for further investment in bitcoin-adjacent products\" 🚀",
+      "final": "NEW: Fidelity Digital Assets says spot Bitcoin ETPs and perpetual preferred stocks have accumulated over 1 million BTC in their first year. 👀\n\n\"This illustrates the vast, largely untapped potential for further investment in bitcoin-adjacent products\" 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWZE38TXEAA6KFr.jpg"
+      ],
+      "at": 1793923355804,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793890446617
+  "lastPostAt": 1793923355804
 }
