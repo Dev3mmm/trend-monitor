@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793809955676-jlz1lg",
-    "source": "x",
-    "ts": "2026-11-04T16:32:35.676Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T16:31:17.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "Your money should do more than look expensive. $STRC",
-    "url": "https://x.com/saylor/status/2118018255780741613"
-  },
-  {
-    "id": "x-1793809960608-sn37cs",
-    "source": "x",
-    "ts": "2026-11-04T16:32:40.608Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T16:30:01.000Z",
-    "reason": "No notable crypto-related content or move described.",
-    "text": "Mistral Demos Large 4 Finding and Patching a Recent Django Vulnerability With 133 Agents.\n\nMistral, which released Large 4's open weights last week, says the model refuses 96.6% of malicious cyber requests on average but warned it sees potential for uplift to conduct real",
-    "url": "https://x.com/DecryptMedia/status/2118017935407235086"
-  },
-  {
-    "id": "x-1793810548197-jkgb52",
-    "source": "x",
-    "ts": "2026-11-04T16:42:28.197Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T16:40:14.000Z",
-    "reason": "No relevant crypto content.",
-    "text": "🇺🇸 JUST IN: Vice President JD Vance blames Republican election losses on the Iran war, cost of living, failure to put America first, and US relations with Israel.",
-    "url": "https://x.com/Cointelegraph/status/2118020506683052150"
-  },
-  {
     "id": "x-1793811165890-4ro2ax",
     "source": "x",
     "ts": "2026-11-04T16:52:45.890Z",
@@ -7801,6 +7762,55 @@
     "url": "https://x.com/Cointelegraph/status/2118667434806641004",
     "images": [
       "https://pbs.twimg.com/media/HWcEzOAWsAAv2Iy.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793966565205-cubsr6",
+    "source": "x",
+    "ts": "2026-11-06T12:02:45.205Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-06T12:02:01.000Z",
+    "reason": "Generic hype with no factual claim.",
+    "text": "JUST IN: C$400M fund manager Willem Middelkoop says they've added Bitcoin to their portfolio because it's \"the fastest horse in the race\" 👀\n\n\"Bitcoin is probably the best money ever created\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2118675266319065314"
+  },
+  {
+    "id": "x-1793966569906-vtbblt",
+    "source": "x",
+    "ts": "2026-11-06T12:02:49.906Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T12:01:13.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 UPDATE: Gate introduces PoSEC, a proposed exchange security standard, reporting 104.58% cold-wallet coverage of user balances.",
+    "url": "https://x.com/Cointelegraph/status/2118675066850333159",
+    "images": [
+      "https://pbs.twimg.com/media/HWcLvjjWMAI3y8B.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793966575890-kbmovl",
+    "source": "x",
+    "ts": "2026-11-06T12:02:55.890Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-06T11:53:00.000Z",
+    "reason": "Buyback milestone with quantifiable amount of $SUI tokens bought back.",
+    "text": "Sui buybacks just hit a record-breaking milestone\n\nSui Network (@SuiNetwork) buybacks have hit a new milestone in the total amount of $SUI the Sui Foundation has acquired. \n\nThe total amount of tokens bought back daily with stablecoin yield has crossed 1.1 M. \n\nIn other news,",
+    "url": "https://x.com/BSCNews/status/2118672997321990218",
+    "images": [
+      "https://pbs.twimg.com/media/HWcIUc_XsAAViv0.jpg"
     ],
     "video": null
   }
