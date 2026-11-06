@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793770352480-ndg2wt",
-    "source": "x",
-    "ts": "2026-11-04T05:32:32.480Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-04T05:28:00.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Andy Barr's Midterm Breakthrough Could Matter For The CLARITY Act\n\nRepublican Andy Barr (@barrforsenate) has won Kentucky's open Senate seat after defeating Democrat Charles Booker in the 2026 US midterm elections.\n\nHis victory brings a vocal supporter of crypto legislation",
-    "url": "https://x.com/BSCNews/status/2117851332988354830"
-  },
-  {
-    "id": "x-1793770937391-ywqh1l",
-    "source": "x",
-    "ts": "2026-11-04T05:42:17.391Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T05:40:06.000Z",
-    "reason": "No notable move in crypto related to the tweet.",
-    "text": "🇺🇸 NOW: President Trump says the Iran war is partly to blame for Republican losses in the midterms, though he still has no regrets about the decision to start it, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2117854378124284307"
-  },
-  {
     "id": "x-1793772116963-gw6jgk",
     "source": "x",
     "ts": "2026-11-04T06:01:56.963Z",
@@ -7847,5 +7821,45 @@
     "reason": "No notable move in crypto or related to it.",
     "text": "Google Bets $17 Billion on Its First Wyoming Data Center.\n\nGoogle said Thursday it is building its first data center in Wyoming, a $17 billion investment in Laramie County, and pledged to pay for 100% of the power it uses.",
     "url": "https://x.com/DecryptMedia/status/2118489790068748488"
+  },
+  {
+    "id": "x-1793923346193-jbbt4e",
+    "source": "x",
+    "ts": "2026-11-06T00:02:26.193Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T00:00:50.000Z",
+    "reason": "Potential regulatory change affecting crypto trading.",
+    "text": "🇺🇸 JUST IN: The White House is reviewing an SEC proposal to change how brokers can handle crypto assets.",
+    "url": "https://x.com/Cointelegraph/status/2118493775819358508",
+    "images": [
+      "https://pbs.twimg.com/media/HWZm22HXQAACNje.png",
+      "https://pbs.twimg.com/media/HWZm3I1XMAALGoc.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793923352099-4oqbyg",
+    "source": "x",
+    "ts": "2026-11-06T00:02:32.099Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-06T00:00:02.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Michael Saylor: Bitcoin Is Entering a Bull Market That Could Last 2–3 Years\n\nStrategy founder Michael Saylor @saylor said during the company's Q3 2026 earnings call on October 30 that Bitcoin has endured roughly a year-long bear market and is rebounding from its 200-week moving",
+    "url": "https://x.com/WuBlockchain/status/2118493574450831498",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2118271578706526208/vid/avc1/1280x720/AuFPXa3M-CAhkqFB.mp4?tag=29",
+      "duration": 124,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118271578706526208/img/eEq_YQskcIGcJRqp.jpg"
+    }
   }
 ]
