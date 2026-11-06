@@ -1,91 +1,5 @@
 [
   {
-    "id": "x-1793871125761-ses4kb",
-    "source": "x",
-    "ts": "2026-11-05T09:32:05.761Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-05T09:30:18.000Z",
-    "reason": "Potential security issue with token minting vulnerability revealed",
-    "text": "🚨 UPDATE: XRP Ledger activates a fix for a bug that could have allowed unauthorized minting of issued tokens.",
-    "url": "https://x.com/Cointelegraph/status/2118274700434342012",
-    "images": [
-      "https://pbs.twimg.com/media/HWWfnFBXgAAqMwu.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793871130709-eg532z",
-    "source": "x",
-    "ts": "2026-11-05T09:32:10.709Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-05T09:22:37.000Z",
-    "reason": "Noteworthy regulatory move regarding crypto tax compliance.",
-    "text": "🇭🇰BREAKING: Hong Kong passes LAW requiring crypto firms to collect customer transactions for tax purposes from 2027.\n\nThis includes buying and selling crypto, token swaps, and transfers to external wallets.",
-    "url": "https://x.com/coinbureau/status/2118272766159765779",
-    "images": [
-      "https://pbs.twimg.com/media/HWWahpHbsAERoN0.jpg",
-      "https://pbs.twimg.com/media/HWWdjCza4AAdnya.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793871754652-l1i2m7",
-    "source": "x",
-    "ts": "2026-11-05T09:42:34.652Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-05T09:32:00.000Z",
-    "reason": "Potential token exploit addressed in XRP Ledger update.",
-    "text": "XRP Ledger's Latest Update Targets a Potential Token Exploit\n\nA new XRP Ledger (@XRP) $XRP amendment has closed a potential weakness in its token issuance system.\n\nThe flaw involved delegated accounts permitted to burn tokens but not issue them. Under certain conditions, a",
-    "url": "https://x.com/BSCNews/status/2118275125862699027",
-    "images": [
-      "https://pbs.twimg.com/media/HWV5f3IawAEP1za.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793872329063-d7skrk",
-    "source": "x",
-    "ts": "2026-11-05T09:52:09.063Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-05T09:49:04.000Z",
-    "reason": "No notable crypto-related content mentioned.",
-    "text": "Snap Shares Fall More Than 10% After Hours on Q3 Revenue Miss.\n\nSnap said third-quarter revenue rose 14% year over year to $1.72 billion, short of the $1.73 billion analysts expected according to LSEG, while net income came in at $56 million.",
-    "url": "https://x.com/DecryptMedia/status/2118279421820076525"
-  },
-  {
-    "id": "x-1793873216277-ty2492",
-    "source": "x",
-    "ts": "2026-11-05T10:06:56.277Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-05T10:03:00.000Z",
-    "reason": "Notable institutional adoption with access to a significant market.",
-    "text": "Chainlink Gave Sei Access to Asia's $40T Stock Market\n\nSei (@SeiNetwork) $SEI -based Monaco (@MonacoTrading) has integrated Chainlink (@chainlink) $LINK data feeds for Asia-Pacific equities.\n\nThe integration covers markets in China, Japan, South Korea, Taiwan, and Hong Kong.",
-    "url": "https://x.com/BSCNews/status/2118282927373169143",
-    "images": [
-      "https://pbs.twimg.com/media/HWVwIh9bsAASAyE.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793873218707-poaqdv",
     "source": "x",
     "ts": "2026-11-05T10:06:58.707Z",
@@ -7726,5 +7640,81 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "On-chain governance that actually runs the network! 🏛️\n\nThe NNS lets $ICP holders vote on upgrades that execute automatically, and the way @dfinity's neurons earn rewards is the key part.\n\nGet the details:",
     "url": "https://x.com/BSCNews/status/2118825579546066997"
+  },
+  {
+    "id": "x-1793868276266-m7af4g",
+    "source": "x",
+    "ts": "2026-11-05T08:44:36.266Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-05T08:44:00.000Z",
+    "reason": "Notable institutional adoption of a US stock through a crypto platform.",
+    "text": "Canton Opened a New Chapter For Stocks Under SEC Rules\n\nCanton (@CantonNetwork) $CC Strategic Holdings has completed the first tokenized US stock trade under the SEC's Innovation Exemption.\n\nFive North sold approximately 14,461 CNTN shares to DRW Cumberland. Flowdesk facilitated",
+    "url": "https://x.com/BSCNews/status/2118263046023897092",
+    "images": [
+      "https://pbs.twimg.com/media/HWV1SLGbMAAPR4B.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793868278261-iuundp",
+    "source": "x",
+    "ts": "2026-11-05T08:44:38.261Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-05T08:40:15.000Z",
+    "reason": "No notable news or movement is described.",
+    "text": "⚡️ TODAY: Solana co-founder Anatoly Yakovenko calls memecoins and NFTs “digital slop” like mobile game loot boxes.\n\nHe says they’re still economically neutral since they cost almost nothing to create.",
+    "url": "https://x.com/Cointelegraph/status/2118262101407916439"
+  },
+  {
+    "id": "x-1793869409718-ygjj97",
+    "source": "x",
+    "ts": "2026-11-05T09:03:29.718Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-05T08:59:55.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "LIVE: Bitcoin Amsterdam 2026 | Day 1 Livestream",
+    "url": "https://x.com/BitcoinMagazine/status/2118267053337624634"
+  },
+  {
+    "id": "x-1793869923802-kj1sjj",
+    "source": "x",
+    "ts": "2026-11-05T09:12:03.802Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-05T09:06:00.000Z",
+    "reason": "No notable move or specific event is clearly articulated.",
+    "text": "xdce-crowd-sale:native is down about 7% over the past 30 days, but it’s been anything but quiet for XDC Network (@XDCNetwork).\n\nMoneyGram and Taurus moved into the validator set, Robinhood opened the door to US retail users, and SBI’s Japan push picked up pace.\n\nHere’s what",
+    "url": "https://x.com/BSCNews/status/2118268582501224671"
+  },
+  {
+    "id": "x-1793870530294-kup8dp",
+    "source": "x",
+    "ts": "2026-11-05T09:22:10.294Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-05T09:15:57.000Z",
+    "reason": "South Korea's crypto tax delay could have significant regulatory and market implications.",
+    "text": "South Korea Moves to Delay Crypto Gains Tax to 2029.\n\nFinance Minister Lee Hyoung-il said Seoul will seek a two-year delay to its planned 22% tax on annual crypto gains above 2.5 million won, which would be the fourth postponement if finalized.",
+    "url": "https://x.com/DecryptMedia/status/2118271087918432339",
+    "images": [
+      "https://pbs.twimg.com/media/HWWbIrmWgAEsGxe.jpg",
+      "https://pbs.twimg.com/media/HWWcTXrXMAA6cD9.jpg"
+    ],
+    "video": null
   }
 ]
