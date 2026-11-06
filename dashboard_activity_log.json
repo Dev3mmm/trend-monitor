@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793775753085-t7lw4i",
-    "source": "x",
-    "ts": "2026-11-04T07:02:33.085Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-04T06:56:29.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "⚡️JUST IN: CZ says the Binance hack reveals serious security failures.\n\nAs a shareholder, he expects the exchange to stay transparent, take responsibility and make real improvements.",
-    "url": "https://x.com/Cointelegraph/status/2117873602750267499",
-    "images": [
-      "https://pbs.twimg.com/media/HWQyz6LasAAy7JR.jpg",
-      "https://pbs.twimg.com/media/HWQyz6DboAAV6jc.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793775759087-rk99hl",
-    "source": "x",
-    "ts": "2026-11-04T07:02:39.087Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-04T06:56:00.000Z",
-    "reason": "Large-scale staking issue with a significant number of ADA holders potentially affected.",
-    "text": "Cardano Has a 131M ADA Staking Problem\n\nThousands of Cardano (@Cardano) holders may need to check where their $ADA is delegated.\n\nCexplorer reports that 59,025 delegators still have funds assigned to retired stake pools. The total comes to 131.63 million ADA.\n\nThe explorer",
-    "url": "https://x.com/BSCNews/status/2117873479122825382",
-    "images": [
-      "https://pbs.twimg.com/media/HWQsqb0bsAAFe0W.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793776916229-ezpz0q",
     "source": "x",
     "ts": "2026-11-04T07:21:56.229Z",
@@ -7847,6 +7810,37 @@
     "url": "https://x.com/Cointelegraph/status/2118516393494659217",
     "images": [
       "https://pbs.twimg.com/media/HWZ7brCXIAANCN8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793929949053-z0cbjf",
+    "source": "x",
+    "ts": "2026-11-06T01:52:29.053Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 52,
+    "originTimestamp": "2026-11-06T01:00:01.000Z",
+    "reason": "No notable move, the tweet is promotional for a wallet.",
+    "text": "Every Pioneer needs this one! 📲\n\nPi Wallet puts you fully in control of your $PI, and the @PiCoreTeam setup comes with a few common issues worth knowing before you start.\n\nFull breakdown ⬇️",
+    "url": "https://x.com/BSCNews/status/2118520283984470419"
+  },
+  {
+    "id": "x-1793929955642-tde4ba",
+    "source": "x",
+    "ts": "2026-11-06T01:52:35.642Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-06T01:44:00.000Z",
+    "reason": "Notable decrease in Ethereum staking demand and number of tokens waiting to be staked.",
+    "text": "Ethereum staking demand continues to fall.\n\nAt time of writing, there is 1,036,882 $ETH, worth over $2.3B, waiting to be staked on @Ethereum mainnet.\n\nThe number is large, but just six months ago, it stood at 3,737,802 $ETH, the figure having fallen consistently ever since.\n\nWith",
+    "url": "https://x.com/BSCNews/status/2118519737298702405",
+    "images": [
+      "https://pbs.twimg.com/media/HWXz-RXWAAEGPGO.jpg"
     ],
     "video": null
   }
