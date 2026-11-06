@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792608742312-z6aply",
     "x-1792609358469-8cjc7r",
     "x-1792610539099-q7yia9",
     "x-1792610545109-jq3mw7",
@@ -1999,19 +1998,10 @@
     "x-1793922941491-cba1e3",
     "x-1793923167213-7ynsaz",
     "x-1793923346193-jbbt4e",
-    "x-1793923352099-4oqbyg"
+    "x-1793923352099-4oqbyg",
+    "x-1793925134407-ophvz2"
   ],
   "queue": [
-    {
-      "text": "First U.S. Staked Injective ETF Begins Trading on Nasdaq as INJC.\n\nCanary Capital's Canary Staked INJ ETF started trading Thursday under ticker INJC, and Injective called it the first U.S. ETF for INJ with staking built in.",
-      "url": "https://x.com/DecryptMedia/status/2118459591092813994",
-      "images": [
-        "https://pbs.twimg.com/media/HWYuY3uXQAAFIV4.png",
-        "https://pbs.twimg.com/media/HWYvgYFWEAEKr9y.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793915571147
-    },
     {
       "text": "🚨 JUST IN: Binance is asking ArbitrumDAO to unfreeze the 8,425 $ETH and 74.56M $ARB frozen after its hot wallet exploit, and the vote could take 7+ weeks.",
       "url": "https://x.com/Cointelegraph/status/2118463474242076913",
@@ -2082,19 +2072,19 @@
         "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118271578706526208/img/eEq_YQskcIGcJRqp.jpg"
       },
       "enqueuedAt": 1793923355804
+    },
+    {
+      "text": "⚡️ TODAY: Michael Saylor calls it a rare 4σ day as the S&amp;P 500 drops 4.4% and Bitcoin falls about 5%.\n\n “$STRC closed at $99.56, just 44 cents below par.”",
+      "url": "https://x.com/Cointelegraph/status/2118501300883075255",
+      "images": [
+        "https://pbs.twimg.com/media/HWZts1xWAAAaSAP.jpg",
+        "https://pbs.twimg.com/media/HWZttIvWsAAGEov.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793925135108
     }
   ],
   "posted": [
-    {
-      "text": "⚡️ MARKET: Bitcoin’s short-dated options price elevated volatility ahead of US midterm elections, with front-end implied volatility at 48.08%.",
-      "final": "⚡️ MARKET: Bitcoin’s short-dated options price elevated volatility ahead of US midterm elections, with front-end implied volatility at 48.08%.\n\n#Bitcoin $BTC",
-      "images": [
-        "https://pbs.twimg.com/media/HWOxRTgXQAA7hMa.jpg"
-      ],
-      "at": 1793752308247,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/384455126999985?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🔥 LATEST: Coinbase ($COIN) shares climb 5.7% in a single trading day.",
       "final": "🔥 LATEST: Coinbase ($COIN) shares climb 5.7% in a single trading day.\n\n#Crypto #Coinbase",
@@ -2712,7 +2702,17 @@
       "at": 1793923355804,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/385155861522635?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "First U.S. Staked Injective ETF Begins Trading on Nasdaq as INJC.\n\nCanary Capital's Canary Staked INJ ETF started trading Thursday under ticker INJC, and Injective called it the first U.S. ETF for INJ with staking built in.",
+      "final": "First U.S. Staked Injective ETF Begins Trading on Nasdaq as INJC.\n\nCanary Capital's Canary Staked INJ ETF started trading Thursday under ticker INJC, and Injective called it the first U.S. ETF for INJ with staking built in.\n\n#Crypto #ETF",
+      "images": [
+        "https://pbs.twimg.com/media/HWYuY3uXQAAFIV4.png",
+        "https://pbs.twimg.com/media/HWYvgYFWEAEKr9y.jpg"
+      ],
+      "at": 1793925135108,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793923355804
+  "lastPostAt": 1793925135108
 }
