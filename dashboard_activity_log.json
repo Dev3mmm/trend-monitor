@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793877138379-1wlfny",
-    "source": "x",
-    "ts": "2026-11-05T11:12:18.379Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-05T11:06:18.000Z",
-    "reason": "Potential security issue affecting API keys linked to a crypto trading platform.",
-    "text": "Binance and Deribit Revoke SignalPlus-Linked API Keys Over Potential Security Issue\n\nBinance announced that it has proactively revoked all API keys linked to third-party crypto trading platform SignalPlus following a potential security issue reported by the platform. Binance said",
-    "url": "https://x.com/WuBlockchain/status/2118298856681271351",
-    "images": [
-      "https://pbs.twimg.com/media/HWW1alZaoAAjBP9.png",
-      "https://pbs.twimg.com/media/HWW1kJ0bcAAwowp.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793877141980-d91sz1",
-    "source": "x",
-    "ts": "2026-11-05T11:12:21.980Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "CZ 🔶 BNB",
-    "ageMin": 20,
-    "originTimestamp": "2026-11-05T10:51:26.000Z",
-    "reason": "Regulator warning about API key security risks.",
-    "text": "If you use SignalPlus for any other exchange platform, it's time to revoke all your API keys. \n\nIt is generally recommend that you do not store your API keys with any 3rd party platform. 🙏 \n\n(Deribit also/first reported this.)",
-    "url": "https://x.com/cz_binance/status/2118298620797812955",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793877735760-luglem",
     "source": "x",
     "ts": "2026-11-05T11:22:15.760Z",
@@ -7732,5 +7697,36 @@
       "https://pbs.twimg.com/media/HWcFoLgWIAAvhrr.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794007907259-m4wy1l",
+    "source": "x",
+    "ts": "2026-11-06T23:31:47.259Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T23:30:42.000Z",
+    "reason": "Price below global Coinbase price for an extended period is noteworthy.",
+    "text": "⚡️ UPDATE: $BTC has traded below the global price on Coinbase for 61 straight days.",
+    "url": "https://x.com/Cointelegraph/status/2118848579431280673",
+    "images": [
+      "https://pbs.twimg.com/media/HWepjb4XsAEDa1k.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794007910526-zpa7rl",
+    "source": "x",
+    "ts": "2026-11-06T23:31:50.526Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T23:30:00.000Z",
+    "reason": "No notable crypto-related event or move is reported.",
+    "text": "🔥 LATEST: TRM Labs says it's time to hack North Korea back. \n\nThe $6.3B Binance theft was roughly a third of North Korea's GDP, and TRM's Ari Redbord says the Lazarus-style raids won't stop as long as they keep paying off. \n\n\"This is cyber war.\"",
+    "url": "https://x.com/Cointelegraph/status/2118848404965277736"
   }
 ]
