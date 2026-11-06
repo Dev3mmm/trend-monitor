@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793817123625-ka6uxk",
-    "source": "x",
-    "ts": "2026-11-04T18:32:03.625Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-04T18:26:15.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 BIG: President Trump says impeaching him would ‘destroy’ Democrats.",
-    "url": "https://x.com/Cointelegraph/status/2118047188659953833"
-  },
-  {
-    "id": "x-1793817128690-4iy507",
-    "source": "x",
-    "ts": "2026-11-04T18:32:08.690Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 30,
-    "originTimestamp": "2026-11-04T18:01:54.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Librería de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One Million Bitcoin Developers \n\n via @bitcoinmagazine @ISMOSxyz",
-    "url": "https://x.com/BitcoinMagazine/status/2118046423639888081",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793818182806-2phjj4",
     "source": "x",
     "ts": "2026-11-04T18:49:42.806Z",
@@ -7815,5 +7786,36 @@
     "url": "https://x.com/DecryptMedia/status/2118706342655316470",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1793974928933-933l0m",
+    "source": "x",
+    "ts": "2026-11-06T14:22:08.933Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-06T14:20:08.000Z",
+    "reason": "Notable institutional adoption of crypto in a mainstream application.",
+    "text": "MoonPay Powers a New Euro Yield App...\n\nMilan-based Unflat has integrated @MoonPay Enterprise, letting EU savers fund non-custodial yield accounts instantly with Apple Pay, debit cards, or SEPA virtual IBAN transfers.\n\nThe app routes euros into onchain DeFi money markets, with",
+    "url": "https://x.com/BSCNews/status/2118710027171008957",
+    "images": [
+      "https://pbs.twimg.com/media/HWcrFDXWcAAsAm7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793974933492-nnjnfh",
+    "source": "x",
+    "ts": "2026-11-06T14:22:13.492Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-06T14:17:53.000Z",
+    "reason": "Memes and political commentary, no verifiable crypto content.",
+    "text": "Hospital departments have monthly revenue targets.\n\nThat is why meaningless surgeries, including unjustified Caesarean Sections, are rampant in these hospitals.\n\nIf you remain ignorant, hospitals will turn you into their cash cow.",
+    "url": "https://x.com/amerix/status/2118709460659012067"
   }
 ]
