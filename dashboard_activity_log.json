@@ -1,85 +1,5 @@
 [
   {
-    "id": "x-1793803946821-dl2uh8",
-    "source": "x",
-    "ts": "2026-11-04T14:52:26.821Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 29,
-    "originTimestamp": "2026-11-04T14:23:29.000Z",
-    "reason": "No notable crypto-related event or move.",
-    "text": "Excited to build Starlink Mobile with @Qualcomm !",
-    "url": "https://x.com/elonmusk/status/2117992786725363742"
-  },
-  {
-    "id": "x-1793803951134-vwbtdw",
-    "source": "x",
-    "ts": "2026-11-04T14:52:31.134Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-04T14:47:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Starknet Just Unlocked a New Layer of Privacy for Developers\n\n@Starknet's developer suite, Starkzap, now supports STRK20 and Shadow Accounts. \n\nApps can now include programmatic privacy with one line of code. The SDK now boasts over 10,000 downloads.\n\nEngineers can incorporate",
-    "url": "https://x.com/BSCNews/status/2117992010770452576",
-    "images": [
-      "https://pbs.twimg.com/media/HWSZmXbXsAAaPbw.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793803954720-0afyd5",
-    "source": "x",
-    "ts": "2026-11-04T14:52:34.720Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T14:45:25.000Z",
-    "reason": "Price well outside the recent trading range, a genuine breakout.",
-    "text": "⚡️JUST NOW: Bitcoin surges above $79,000, reaching its highest level this November and a price level last seen on October 29th.",
-    "url": "https://x.com/coinbureau/status/2117991610885750812",
-    "images": [
-      "https://pbs.twimg.com/media/HWSeC-KbUAAUkxC.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793803957893-8q3xx0",
-    "source": "x",
-    "ts": "2026-11-04T14:52:37.893Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-04T14:44:10.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "LIVE: Election Recap, Franklin Crypto &amp; Miners Pivoting to AI | BMTV Nov. 4, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2117991300154732888"
-  },
-  {
-    "id": "x-1793804560038-fp6ngf",
-    "source": "x",
-    "ts": "2026-11-04T15:02:40.038Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T15:01:28.000Z",
-    "reason": "Price well outside recent range, could be a significant breakout.",
-    "text": "$BTC just crossed $79,000",
-    "url": "https://x.com/BSCNews/status/2117995651547963744",
-    "images": [
-      "https://pbs.twimg.com/media/HWShxb9WQAAnP-S.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793804563354-r07sa9",
     "source": "x",
     "ts": "2026-11-04T15:02:43.354Z",
@@ -7787,6 +7707,88 @@
     "ageMin": 15,
     "originTimestamp": "2026-11-06T09:16:37.000Z",
     "reason": "Noteworthy tax law on crypto in Greece.",
+    "text": "BREAKING: Greece passes law imposing 10% crypto gains tax and 15% levy on DeFi income starting Jan 1, 2027.\n\nDetails:\n\n- annual net profits above €500 taxed at 10%\n\n- spending crypto on goods or services triggers tax\n\n- crypto-to-crypto swaps do not trigger tax\n\n- annual losses",
+    "url": "https://x.com/coinbureau/status/2118633643778457667",
+    "images": [
+      "https://pbs.twimg.com/media/HWbhfa3acAA771G.png",
+      "https://pbs.twimg.com/media/HWbhjn6akAE54tC.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793957673395-sg8zaf",
+    "source": "x",
+    "ts": "2026-11-06T09:34:33.395Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 25,
+    "originTimestamp": "2026-11-06T09:09:04.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Starlink enables education in remote areas",
+    "url": "https://x.com/elonmusk/status/2118637614068912548"
+  },
+  {
+    "id": "x-1793957677892-8wklo2",
+    "source": "x",
+    "ts": "2026-11-06T09:34:37.892Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-06T09:32:00.000Z",
+    "reason": "Notable user adoption with over 1 million unique wallet addresses trading on PancakeSwap.",
+    "text": "Tokenised Stocks on PancakeSwap hit 1,000,000 users.\n\nMore than 1 million unique wallet addresses have now traded tokenised stock tokens on the @PancakeSwap $CAKE platform. \n\nPancakeSwap remains a major force in the DeFi landscape, both on @BNBChain and beyond, its total DEX",
+    "url": "https://x.com/BSCNews/status/2118637513665360109",
+    "images": [
+      "https://pbs.twimg.com/media/HWX0lx8WsAARkCm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793957680896-t07f6w",
+    "source": "x",
+    "ts": "2026-11-06T09:34:40.896Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-06T09:30:47.000Z",
+    "reason": "Security warning about potential crypto wallet risks",
+    "text": "🚨 SECURITY: Felix Fan warns that DarkSword puts crypto wallets at risk through iOS vulnerabilities, urging users to update to the latest version.",
+    "url": "https://x.com/Cointelegraph/status/2118637210425528499",
+    "images": [
+      "https://pbs.twimg.com/media/HWbpTy4WkAABeP3.png",
+      "https://pbs.twimg.com/media/HWbpUEEWQAAcTcD.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793957684301-pugtjn",
+    "source": "x",
+    "ts": "2026-11-06T09:34:44.301Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-06T09:20:32.000Z",
+    "reason": "Tweet unrelated to crypto or blockchain technology.",
+    "text": "This is Warburgia ugandensis.\n\nCommonly known as the East African greenheart.\n\nThe bark is medicinal.\n\nChew the bark. It is bitter.\n\nIt treats chronic coughs, colds and a blocked chest.\n\nThe leaves heal too.\n\nKikuyu call it Muthiga. Maasai call it Osokonoi.\n\n#FoodFriday",
+    "url": "https://x.com/amerix/status/2118634630416871503"
+  },
+  {
+    "id": "x-1793957688140-islreq",
+    "source": "x",
+    "ts": "2026-11-06T09:34:48.140Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 18,
+    "originTimestamp": "2026-11-06T09:16:37.000Z",
+    "reason": "Notable tax law imposing crypto taxes in Europe",
     "text": "BREAKING: Greece passes law imposing 10% crypto gains tax and 15% levy on DeFi income starting Jan 1, 2027.\n\nDetails:\n\n- annual net profits above €500 taxed at 10%\n\n- spending crypto on goods or services triggers tax\n\n- crypto-to-crypto swaps do not trigger tax\n\n- annual losses",
     "url": "https://x.com/coinbureau/status/2118633643778457667",
     "images": [
