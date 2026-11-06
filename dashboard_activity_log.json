@@ -1,78 +1,5 @@
 [
   {
-    "id": "x-1793801556698-k88gdy",
-    "source": "x",
-    "ts": "2026-11-04T14:12:36.698Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-04T14:01:32.000Z",
-    "reason": "Notable institutional Bitcoin mining company activity.",
-    "text": "🚨 BIG: Riot Platforms, the second-largest publicly listed Bitcoin mining company, sells 10,599 Bitcoin in Q3.",
-    "url": "https://x.com/Cointelegraph/status/2117980567631192432",
-    "images": [
-      "https://pbs.twimg.com/media/HWSUF81X0AE85RL.jpg",
-      "https://pbs.twimg.com/media/HWSUGWTXgAALG1a.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793802132410-d0aa3z",
-    "source": "x",
-    "ts": "2026-11-04T14:22:12.410Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T14:21:12.000Z",
-    "reason": "Coinbase confirms the vast majority of customer assets are secure.",
-    "text": "🔥 JUST IN: Coinbase reports no impact from Binance’s hot wallet incident, adding that over 99% of customer assets are held in cold storage.",
-    "url": "https://x.com/Cointelegraph/status/2117985519787204950",
-    "images": [
-      "https://pbs.twimg.com/media/HWSYmvbWMAAtf1I.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793802136211-lnvnhv",
-    "source": "x",
-    "ts": "2026-11-04T14:22:16.211Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coinbase 🛡️",
-    "ageMin": 22,
-    "originTimestamp": "2026-11-04T13:59:42.000Z",
-    "reason": "US Perps service now available on Coinbase without the need for a Virtual Private Network.",
-    "text": "US Perps are on Coinbase, no VPNs required.",
-    "url": "https://x.com/coinbase/status/2117985082086416687",
-    "images": [
-      "https://pbs.twimg.com/media/HWSTaJZawAE4swr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793802141278-p60e16",
-    "source": "x",
-    "ts": "2026-11-04T14:22:21.278Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 29,
-    "originTimestamp": "2026-11-04T13:52:26.000Z",
-    "reason": "Pi Network is announcing a significant user base for its AI-focused platform.",
-    "text": "Pi Network (@PiCoreTeam) is pitching its own user base as the answer to the distribution problem app developers face in the AI era.\n\nIn October the $PI team put the scale at 60 million Engaged Pioneers and 300 apps already live on Mainnet.\n\nRead the full pitch ⬇️\n\nRead more:",
-    "url": "https://x.com/BSCNews/status/2117983668484350311",
-    "images": [
-      "https://pbs.twimg.com/media/HWSSBCVWAAAgApY.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793802754778-k5ifen",
     "source": "x",
     "ts": "2026-11-04T14:32:34.778Z",
@@ -7798,5 +7725,62 @@
     "reason": "Meme tweet with no factual claim.",
     "text": "What is love?\n\n(Baby don’t hurt me)",
     "url": "https://x.com/elonmusk/status/2118628232002158682"
+  },
+  {
+    "id": "x-1793955747455-ae9gxz",
+    "source": "x",
+    "ts": "2026-11-06T09:02:27.455Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T09:01:08.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "🚨 INSIGHT: Post-quantum security is not the same as post-AI security, says Eli Ben-Sasson, urging crypto projects to prepare for both.",
+    "url": "https://x.com/Cointelegraph/status/2118629745034170438"
+  },
+  {
+    "id": "x-1793955752044-enaziq",
+    "source": "x",
+    "ts": "2026-11-06T09:02:32.044Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 117,
+    "originTimestamp": "2026-11-06T07:05:20.000Z",
+    "reason": "Memes and in-text references are not newsworthy.",
+    "text": "The most special product that ever got to exist.\n\nChanged my life in so many ways. \n\nI love you @cybertruck, forever. \n\nPS: chihiro is destined to meet her Haku",
+    "url": "https://x.com/elonmusk/status/2118629210462036466"
+  },
+  {
+    "id": "x-1793955755410-4p1tpf",
+    "source": "x",
+    "ts": "2026-11-06T09:02:35.410Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-06T08:48:00.000Z",
+    "reason": "Meme without context or price/price move.",
+    "text": "Seldon, Psychohistory",
+    "url": "https://x.com/elonmusk/status/2118629153390158000"
+  },
+  {
+    "id": "x-1793955760792-ag669g",
+    "source": "x",
+    "ts": "2026-11-06T09:02:40.792Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-06T08:56:00.000Z",
+    "reason": "Notable institutional and cross-chain adoption event.",
+    "text": "Cetus improves stablecoin flows on Sui Network.\n\n@CetusProtocol has announced that its cross-chain swaps engine now supports @Circle's CCTP v2 on @SuiNetwork.\n\nThe announcement sounds dry, but it matters more than you think.\n\nUsers can now seamlessly swap $USDC between $SUI and a",
+    "url": "https://x.com/BSCNews/status/2118628453792550934",
+    "images": [
+      "https://pbs.twimg.com/media/HWX0omkXQAEY-6k.jpg"
+    ],
+    "video": null
   }
 ]
