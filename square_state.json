@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792619558532-l2lig4",
     "x-1792620726420-wh2fjh",
     "x-1792621342126-7coc0y",
     "x-1792621346962-133fxd",
@@ -1999,18 +1998,10 @@
     "x-1793940769737-fe0asj",
     "x-1793941326711-qsbjuf",
     "x-1793942516610-ym5yb5",
-    "x-1793942518896-po7ijj"
+    "x-1793942518896-po7ijj",
+    "x-1793943682536-75owxv"
   ],
   "queue": [
-    {
-      "text": "🚨 ALERT: BNB Chain says a security flaw in the Reth client has limited impact on BSC-Reth and leaves opBNB unaffected.\n\nA hotfix is underway and no action needed from users.",
-      "url": "https://x.com/Cointelegraph/status/2118554157032350029",
-      "images": [
-        "https://pbs.twimg.com/media/HWadxykWMAA-txW.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793937818952
-    },
     {
       "text": "Tether CEO: Company Holds 150,000 BTC, Mining Hashrate Tops 50 EH/s\n\nAt Plan ₿ Forum 2026 in Lugano on October 23–24, Tether CEO Paolo Ardoino @paoloardoino said the company holds 150,000 bitcoin. He said Tether has built one of the world's largest mining operations with",
       "url": "https://x.com/WuBlockchain/status/2118553971170189385",
@@ -2047,14 +2038,6 @@
     }
   ],
   "posted": [
-    {
-      "text": "🚨 CZ urges crypto firms to fight hacks with AI as attacks now hit \"every single day.\"\n\nThe Binance founder says firms must \"use AI very heavily to defend themselves now.\"\n\nHacks used to come \"once every half a year,\" but now there are \"multiple of them on a single day.\"\n\nCZ",
-      "final": "🚨 CZ urges crypto firms to fight hacks with AI as attacks now hit \"every single day.\"\n\nThe Binance founder says firms must \"use AI very heavily to defend themselves now.\"\n\nHacks used to come \"once every half a year,\" but now there are \"multiple of them on a single day.\"\n\nCZ\n\n#Crypto #Binance #Hack",
-      "images": [],
-      "at": 1793770356126,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/384529104556382?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨 TODAY: The Binance hacker continues to swap stolen SOL for BTC, per Lookonchain.\n\nThe new route sells SOL for USDC, bridges it to Ethereum for ETH, then converts to BTC through THORChain.",
       "final": "🚨 TODAY: The Binance hacker continues to swap stolen SOL for BTC, per Lookonchain.\n\nThe new route sells SOL for USDC, bridges it to Ethereum for ETH, then converts to BTC through THORChain.\n\n#Bitcoin $BTC #Ethereum $ETH #Solana $SOL #Stablecoin #Binance",
@@ -2673,7 +2656,16 @@
       "at": 1793941905340,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/385231734727319?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: BNB Chain says a security flaw in the Reth client has limited impact on BSC-Reth and leaves opBNB unaffected.\n\nA hotfix is underway and no action needed from users.",
+      "final": "🚨 ALERT: BNB Chain says a security flaw in the Reth client has limited impact on BSC-Reth and leaves opBNB unaffected.\n\nA hotfix is underway and no action needed from users.\n\n#BNB $BNB",
+      "images": [
+        "https://pbs.twimg.com/media/HWadxykWMAA-txW.jpg"
+      ],
+      "at": 1793943687256,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793941905340
+  "lastPostAt": 1793943687256
 }
