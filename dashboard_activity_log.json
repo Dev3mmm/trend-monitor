@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793826725842-hvjevf",
-    "source": "x",
-    "ts": "2026-11-04T21:12:05.842Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T21:09:24.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "We're ₿ack.",
-    "url": "https://x.com/saylor/status/2118088247171559860"
-  },
-  {
-    "id": "x-1793827501889-eryb7r",
-    "source": "x",
-    "ts": "2026-11-04T21:25:01.889Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-04T21:20:13.000Z",
-    "reason": "Crypto theft and fraud allegation by a former FBI agent",
-    "text": "🚨 JUST IN: A former FBI agent accused of stealing $1 million in crypto and using AI to plan a move to Portugal is set to plead guilty.",
-    "url": "https://x.com/Cointelegraph/status/2118090965885796768",
-    "images": [
-      "https://pbs.twimg.com/media/HWT4gf2WwAAzdeb.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793827505337-6rw94p",
     "source": "x",
     "ts": "2026-11-04T21:25:05.337Z",
@@ -7782,5 +7751,40 @@
     "reason": "No notable move in Ethereum price.",
     "text": "Tesla self-driving gives mobility to seniors",
     "url": "https://x.com/elonmusk/status/2118739371939803498"
+  },
+  {
+    "id": "x-1793982724192-n72cgr",
+    "source": "x",
+    "ts": "2026-11-06T16:32:04.192Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T16:30:54.000Z",
+    "reason": "Coinbase's DeFi integration with tokenized gold is a notable move.",
+    "text": "🔥 NEW: Coinbase now lets you borrow $USDC against tokenized gold.\n\nPut up PAX Gold, get instant liquidity without selling, all running on Morpho and Base.\n\nPeter Schiff using DeFi when?",
+    "url": "https://x.com/Cointelegraph/status/2118742933142651090",
+    "images": [
+      "https://pbs.twimg.com/media/HWdJduRWsAA3jI_.jpg",
+      "https://pbs.twimg.com/media/HWdJd8oXsAA8HNQ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793982727003-65shg3",
+    "source": "x",
+    "ts": "2026-11-06T16:32:07.003Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-06T16:23:16.000Z",
+    "reason": "Token listing on a popular exchange could attract new investors and increase JCT's market capitalization.",
+    "text": "It's about to be a BIG few days for one of Japan's biggest crypto projects.\n\n@ElanInsights' Crypto Calendar tool flagged what could be one of @JANCTION_Global's biggest ever developments...\n\nAccess now: \n\nOn November 10, Janction's $JCT token will list on",
+    "url": "https://x.com/BSCNews/status/2118741012914803067",
+    "images": [],
+    "video": null
   }
 ]
