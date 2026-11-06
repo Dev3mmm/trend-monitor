@@ -2001,17 +2001,7 @@
     "x-1793966575890-kbmovl",
     "x-1793967835598-mv56vd"
   ],
-  "queue": [
-    {
-      "text": "🔥 UPDATE: Gate introduces PoSEC, a proposed exchange security standard, reporting 104.58% cold-wallet coverage of user balances.",
-      "url": "https://x.com/Cointelegraph/status/2118675066850333159",
-      "images": [
-        "https://pbs.twimg.com/media/HWcLvjjWMAI3y8B.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793966576459
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "⚡️ JUST IN: Circle cut ~5% of staff as Q3 EPS hit $0.84, over double estimates.",
@@ -2615,7 +2605,16 @@
       "at": 1793966576459,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/385332820096368?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 UPDATE: Gate introduces PoSEC, a proposed exchange security standard, reporting 104.58% cold-wallet coverage of user balances.",
+      "final": "🔥 UPDATE: Gate introduces PoSEC, a proposed exchange security standard, reporting 104.58% cold-wallet coverage of user balances.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWcLvjjWMAI3y8B.jpg"
+      ],
+      "at": 1793968326487,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793966576459
+  "lastPostAt": 1793968326487
 }
