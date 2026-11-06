@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793874136479-1ynlbs",
-    "source": "x",
-    "ts": "2026-11-05T10:22:16.479Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T10:20:00.000Z",
-    "reason": "Price and institutional attention are significant developments.",
-    "text": "Who really controls Canton (@CantonNetwork), and why are major financial institutions getting involved?\n\nWith DTCC's tokenization service now live and SEC staff viewing Canton Coin ($CC) as a digital commodity, Canton is gaining serious institutional attention.\n\nBut growing",
-    "url": "https://x.com/BSCNews/status/2118287205663904117",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793874142370-oi0vzn",
-    "source": "x",
-    "ts": "2026-11-05T10:22:22.370Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-05T10:16:46.000Z",
-    "reason": "No notable move or specific event, Vitalik's opinion piece does not contain a verified event or price movement.",
-    "text": "Vitalik: Crypto Exchanges Must Prioritize Survival Over Competition in the Next Two Years\n\nEthereum co-founder Vitalik Buterin told Moneycontrol that amid a wave of major exchange hacks, the crypto industry's priority over the next two years should be survival rather than",
-    "url": "https://x.com/WuBlockchain/status/2118286393575358628"
-  },
-  {
     "id": "x-1793874145987-s7882l",
     "source": "x",
     "ts": "2026-11-05T10:22:25.987Z",
@@ -7719,6 +7690,43 @@
     "url": "https://x.com/BSCNews/status/2118829529254764982",
     "images": [
       "https://pbs.twimg.com/media/HWeOvCMXUAArchN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794004321332-91vbq2",
+    "source": "x",
+    "ts": "2026-11-06T22:32:01.332Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T22:30:43.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🚨 NEW: A Bitcoin Core dev wants to booby-trap coins against quantum hackers. \n\nCory Fields floated \"quantum landmines\" on the Bitcoin dev mailing list, where hidden decoy outputs would let owners claw back stolen coins and take the attacker's collateral.",
+    "url": "https://x.com/Cointelegraph/status/2118833484185641167",
+    "images": [
+      "https://pbs.twimg.com/media/HWeb0uMW0AADQWe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794004323549-byjldd",
+    "source": "x",
+    "ts": "2026-11-06T22:32:03.549Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-06T22:30:00.000Z",
+    "reason": "Noteworthy institutional adoption of gold-backed stablecoin",
+    "text": "Coinbase Adds USDC Borrowing Against Tokenized Gold.\n\nCoinbase users can now borrow USDC against Paxos-issued PAX Gold through a Morpho lending market on Base, bringing gold-backed collateral into the exchange’s existing in-app borrowing service.",
+    "url": "https://x.com/DecryptMedia/status/2118833305844117896",
+    "images": [
+      "https://pbs.twimg.com/media/HWeRVNEW8AAPwrw.png",
+      "https://pbs.twimg.com/media/HWeRYL-XMAAPz6a.png"
     ],
     "video": null
   }
