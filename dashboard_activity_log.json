@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793778722588-yao8l1",
-    "source": "x",
-    "ts": "2026-11-04T07:52:02.588Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 86,
-    "originTimestamp": "2026-11-04T06:25:36.000Z",
-    "reason": "No notable move in cryptocurrency prices or events.",
-    "text": "Georgia results by group (NBC exit poll):\n\n🔴 White men: +42 Republican\n🔴 White women: +29 Republican\n🔵 Black men: +78 Democrat\n🔵 Black women: +85 Democrat\n🔵 Latino men: +20 Democrat\n🔵 Latino women: +26 Democrat\n🔵 All others: +24 Democrat\n\nWhites became a minority in",
-    "url": "https://x.com/elonmusk/status/2117886924560245033"
-  },
-  {
-    "id": "x-1793779315667-toq6sv",
-    "source": "x",
-    "ts": "2026-11-04T08:01:55.667Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-04T08:01:03.000Z",
-    "reason": "No notable crypto-specific news in the tweet.",
-    "text": "🚨 JUST IN: US Dollar slides to its worst day in a month as midterm results hand Democrats both the House and Senate.\n\nWill a weaker dollar push more capital into Bitcoin?",
-    "url": "https://x.com/Cointelegraph/status/2117889850456121501"
-  },
-  {
     "id": "x-1793779319951-b53nmp",
     "source": "x",
     "ts": "2026-11-04T08:01:59.951Z",
@@ -7834,5 +7808,42 @@
     "reason": "No notable crypto-related news.",
     "text": "🏡 Mountain View Apartments earns 7.2% APR on ASX Capital, a monthly payout from a property in Fayetteville, AR.\n\n$250 in MVA earns about $1.50 a month at that rate.\n\nBuy MVA:",
     "url": "https://x.com/BSCNews/status/2118535191111315909"
+  },
+  {
+    "id": "x-1793934100402-xf35u7",
+    "source": "x",
+    "ts": "2026-11-06T03:01:40.402Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-06T03:00:46.000Z",
+    "reason": "Trump-backed company unveils a new token buyback program.",
+    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 Trump-backed World Liberty Financial unveils a new $WLFI token buyback program, possibly funded by USD1 reserve fees.\n\n🔹 Iran sent the US a nuclear proposal via Qatar, but talks on it will only start once",
+    "url": "https://x.com/Cointelegraph/status/2118539056736776357",
+    "images": [
+      "https://pbs.twimg.com/media/HWaQCgjXUAADaEW.jpg",
+      "https://pbs.twimg.com/media/HWaQCw2W0AAwicf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793934105583-yv4wy3",
+    "source": "x",
+    "ts": "2026-11-06T03:01:45.583Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-06T02:58:00.000Z",
+    "reason": "DeFi builders collaborating on new protocol integration.",
+    "text": "DeFi builders on Sui Network teaming up.\n\n@HaedalProtocol, a leading @SuiNetwork staking protocol, has integrated the @Scallop_io platform and its money market infrastructure.\n\nUsers can now connect Scallop on Haedal and begin staking $SUI and deposit into its lending vaults.",
+    "url": "https://x.com/BSCNews/status/2118538360113291331",
+    "images": [
+      "https://pbs.twimg.com/media/HWX0D4KWUAEmU0s.jpg"
+    ],
+    "video": null
   }
 ]
