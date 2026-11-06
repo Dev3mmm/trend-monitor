@@ -2001,17 +2001,7 @@
     "x-1793951528034-kw6u4z",
     "x-1793953921619-un5kp9"
   ],
-  "queue": [
-    {
-      "text": "🐋 ALERT: A whale moves $98M in $BTC off Binance after depositing 5,699 $BTC at an average $89,291 over a year ago.",
-      "url": "https://x.com/Cointelegraph/status/2118622101053509700",
-      "images": [
-        "https://pbs.twimg.com/media/HWbbkgtXEAAo0XX.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1793953926311
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "Render Network has rendered 82,560,402 frames since counting began, passing 80 million in September.\n\nThey include Sunspark, a solo filmmaker's 4K animated short rendered entirely on the network and now in 50 film festivals.\n\n@rendernetwork",
@@ -2625,7 +2615,16 @@
       "at": 1793952803734,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/385276359684388?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🐋 ALERT: A whale moves $98M in $BTC off Binance after depositing 5,699 $BTC at an average $89,291 over a year ago.",
+      "final": "🐋 ALERT: A whale moves $98M in $BTC off Binance after depositing 5,699 $BTC at an average $89,291 over a year ago.\n\n#Bitcoin $BTC #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HWbbkgtXEAAo0XX.jpg"
+      ],
+      "at": 1793955173540,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793952803734
+  "lastPostAt": 1793955173540
 }
