@@ -1282,5 +1282,19 @@
     "fetchedAt": "2026-11-06T04:40:49.632Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-ac0e7c39ef2e330f",
+    "title": "EIP-8037/EIP-8038 Glamsterdam",
+    "url": "https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038",
+    "description": "In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants are broken by EIP-8037 and EIP-8038 which rework how much gas is charged for certain operations and how gas is charged for state. You can...",
+    "publishedAt": "2026-11-06T00:00:00.000Z",
+    "source": "Ethereum",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-11-06T10:31:52.581Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
