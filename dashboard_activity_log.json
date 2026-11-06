@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1793874782377-u2u4x0",
-    "source": "x",
-    "ts": "2026-11-05T10:33:02.377Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T10:30:01.000Z",
-    "reason": "Bitcoin mining company posting substantial profits and BTC holdings.",
-    "text": "American Bitcoin Posts $126M Q3 Profit as Holdings Reach 8,427 BTC.\n\nThe Nasdaq-listed miner said it mined about 891 bitcoin in the third quarter, booked roughly $63.4 million in mining revenue, and added about 425 BTC to holdings that include 3,090 BTC pledged to Bitmain.",
-    "url": "https://x.com/DecryptMedia/status/2118289725979021740",
-    "images": [
-      "https://pbs.twimg.com/media/HWWkGnJXAAA6Omo.png",
-      "https://pbs.twimg.com/media/HWWkX6mWQAAIUj3.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793875568547-g3icmf",
-    "source": "x",
-    "ts": "2026-11-05T10:46:08.547Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T10:44:00.000Z",
-    "reason": "Injective ETF approval is a notable regulatory move.",
-    "text": "TRUMP and Injective are trending but for contrasting reasons... \n\n@Injective $INJ and the memecoin $TRUMP are making headlines today for very different reasons.\n\nINJ has gained more than 11% in the last 24 hours after Nasdaq approved the Injective ETF (INJC), an important",
-    "url": "https://x.com/BSCNews/status/2118293245000372678",
-    "images": [
-      "https://pbs.twimg.com/media/HWWvCW4WsAAjIDD.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793875909190-noqp9y",
-    "source": "x",
-    "ts": "2026-11-05T10:51:49.190Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-05T10:51:26.000Z",
-    "reason": "Potential security issue with SignalPlus API keys.",
-    "text": "Following a potential security issue reported by third-party platform SignalPlus, we have proactively removed all API keys linked to SignalPlus as an immediate precautionary measure.\n\nBinance's own systems are unaffected. User funds remain safe. \n\nIf you used SignalPlus, please",
-    "url": "https://x.com/binance/status/2118295116716589383",
-    "images": [
-      "https://pbs.twimg.com/media/HWWyHYnbgAE_HvB.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793876571962-4w9w1a",
     "source": "x",
     "ts": "2026-11-05T11:02:51.962Z",
@@ -7729,6 +7674,56 @@
     "ageMin": 13,
     "originTimestamp": "2026-11-06T22:38:00.000Z",
     "reason": "No notable crypto-related news in the tweet.",
+    "text": "⚠️ALERT: Hackers are now targeting WordPress, the software behind 39.5% of all websites online.\n\nA critical flaw lets attackers take over a WordPress site in the seconds it spends updating, without needing to log in.\n\nDuring a full update, WordPress briefly stages its installer",
+    "url": "https://x.com/coinbureau/status/2118835316933235067"
+  },
+  {
+    "id": "x-1794005626888-0lqm7n",
+    "source": "x",
+    "ts": "2026-11-06T22:53:46.888Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-06T22:45:42.000Z",
+    "reason": "Notable financial move for a high-profile crypto-related company.",
+    "text": "🚨 LATEST: Anthropic investors are questioning its $1.5 trillion IPO valuation, with some expecting it to fall to $1 trillion following the tech sell-off, per CNBC.",
+    "url": "https://x.com/Cointelegraph/status/2118837255271793005",
+    "images": [
+      "https://pbs.twimg.com/media/HWefQDAWUAAZWna.jpg",
+      "https://pbs.twimg.com/media/HWefQPeXsAEILsR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794005629955-7pl23x",
+    "source": "x",
+    "ts": "2026-11-06T22:53:49.955Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-06T22:44:00.000Z",
+    "reason": "This tweet mentions a significant financial amount ($320B) but lacks context to verify its accuracy or impact.",
+    "text": "Canton tops every chain with $320B in tokenized assets\n\n@CantonNetwork ($CC) accounts for about $320.7B of the $366B in “represented” assets on rwa.​xyz, meaning assets recorded on a network but not freely traded onchain. Almost all of it comes from Broadridge’s repo platform,",
+    "url": "https://x.com/BSCNews/status/2118836826681090458",
+    "images": [
+      "https://pbs.twimg.com/media/HWeWL6GWAAEZIec.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794005631819-grfb3j",
+    "source": "x",
+    "ts": "2026-11-06T22:53:51.819Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 16,
+    "originTimestamp": "2026-11-06T22:38:00.000Z",
+    "reason": "No notable crypto-related news mentioned.",
     "text": "⚠️ALERT: Hackers are now targeting WordPress, the software behind 39.5% of all websites online.\n\nA critical flaw lets attackers take over a WordPress site in the seconds it spends updating, without needing to log in.\n\nDuring a full update, WordPress briefly stages its installer",
     "url": "https://x.com/coinbureau/status/2118835316933235067"
   }
