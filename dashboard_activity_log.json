@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1793857328618-tlvzcx",
-    "source": "x",
-    "ts": "2026-11-05T05:42:08.618Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T05:39:23.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "If you are a businessman, \n\nThere is a product on the shelf that has sat there for months.\n\nNobody picks it up.\n\nCustomers just come, look at it, palpate it, press it, squeeze it, sniff it and leave it there.\n\nBut the expiry date approaches.\n\nThen you decide to print a new expiry",
-    "url": "https://x.com/amerix/status/2118216588423737770",
-    "images": [
-      "https://pbs.twimg.com/media/HWVqwZYXEAAZkKW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793858520785-j3w4jr",
-    "source": "x",
-    "ts": "2026-11-05T06:02:00.785Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-05T06:00:23.000Z",
-    "reason": "Pledges to cover customer losses after a hack highlights regulatory and customer protection concerns.",
-    "text": "🚨 UPDATE: Mercado Bitcoin will start to restore account access Monday after its $46M hack and pledges to cover customer losses with company funds.\n\nWithdrawals and trades return in later phases.",
-    "url": "https://x.com/Cointelegraph/status/2118221873624306068",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793858526306-71ayni",
-    "source": "x",
-    "ts": "2026-11-05T06:02:06.306Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-05T05:52:36.000Z",
-    "reason": "Notable institutional transaction involving a major political figure.",
-    "text": "Trump Media Selling Bitcoin?\n\nA wallet linked to Trump Media transferred 4,259 $BTC, worth roughly $434 million, to Crypto(.)com (@cryptocom), per Arkham data. \n\nAccording to Arkham, there were two separate transactions in this process. These transactions were made through",
-    "url": "https://x.com/BSCNews/status/2118219913471103180",
-    "images": [
-      "https://pbs.twimg.com/media/HWVsn7cbEAAPBGS.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793859740152-qsr1o6",
     "source": "x",
     "ts": "2026-11-05T06:22:20.152Z",
@@ -7743,5 +7691,55 @@
     "reason": "No concrete or specific event mentioned.",
     "text": "🇺🇸 JUST IN: MEXC just got cut off from the US financial system. \n\nFinCEN is accusing the exchange of helping Iran, North Korea and Russia evade sanctions. \n\nWhich exchange is next?",
     "url": "https://x.com/Cointelegraph/status/2118798949708595633"
+  },
+  {
+    "id": "x-1793997157383-oaeji3",
+    "source": "x",
+    "ts": "2026-11-06T20:32:37.383Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T20:30:44.000Z",
+    "reason": "Fixed-rate lending could attract more institutional investors to DeFi.",
+    "text": "🔥 NEW: Aave Labs has acquired the team and technology behind Avon, one of the leading fixed-rate lending teams onchain.\n\nThe deal brings fixed-rate lending to Aave, which holds more than $33B in deposits.\n\nCould fixed rates bring more institutions to DeFi?",
+    "url": "https://x.com/Cointelegraph/status/2118803289835774014",
+    "images": [
+      "https://pbs.twimg.com/media/HWeAXP0W4AEvczC.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793997161971-0cneen",
+    "source": "x",
+    "ts": "2026-11-06T20:32:41.971Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-06T20:28:28.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: The Bitcoin Fear &amp; Greed Index is now at 28, \"Fear\", while its price holds above $75,000 👀      \n\nHODL! ✊",
+    "url": "https://x.com/BitcoinMagazine/status/2118802720325005640"
+  },
+  {
+    "id": "x-1793997167136-wi8zuf",
+    "source": "x",
+    "ts": "2026-11-06T20:32:47.136Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-06T20:23:38.000Z",
+    "reason": "Notable regulatory action impacting a major crypto exchange.",
+    "text": "US Treasury Moves to Cut MEXC Global Off From US Financial System Over $16B in Illicit Transactions\n\nThe US Treasury's Financial Crimes Enforcement Network (FinCEN) has issued an order prohibiting US financial institutions from processing funds transfers to or from crypto",
+    "url": "https://x.com/WuBlockchain/status/2118801504803123659",
+    "images": [
+      "https://pbs.twimg.com/media/HWd-utmbEAAszdM.jpg",
+      "https://pbs.twimg.com/media/HWd-vA2bIAAttx2.jpg"
+    ],
+    "video": null
   }
 ]
