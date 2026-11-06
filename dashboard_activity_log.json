@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1793864525926-7wh7w1",
-    "source": "x",
-    "ts": "2026-11-05T07:42:05.926Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T07:40:14.000Z",
-    "reason": "VanEck analysis of Bitcoin miner sentiment and recent stock performance.",
-    "text": "🚨 NEW: VanEck says Bitcoin miners that pivoted to AI look oversold after a ~35% October drop, as funding fears hit the stocks while no signed leases were cancelled.",
-    "url": "https://x.com/Cointelegraph/status/2118247000713957417",
-    "images": [
-      "https://pbs.twimg.com/media/HWWGaxMWAAA6xcs.jpg",
-      "https://pbs.twimg.com/media/HWWGa9AWkAASs_i.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793864527510-od157g",
-    "source": "x",
-    "ts": "2026-11-05T07:42:07.510Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T07:40:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "The S&amp;P 500 over 100 years and 18 presidents.\nRed or blue, the full picture.",
-    "url": "https://x.com/coinbureau/status/2118246939724742688"
-  },
-  {
     "id": "x-1793865127424-uofcj1",
     "source": "x",
     "ts": "2026-11-05T07:52:07.424Z",
@@ -7715,6 +7683,38 @@
     "images": [
       "https://pbs.twimg.com/media/HWeOGFaWIAAu5qb.jpg",
       "https://pbs.twimg.com/media/HWeOGUdXkAEIKxr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794002165922-frnugc",
+    "source": "x",
+    "ts": "2026-11-06T21:56:05.922Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-06T21:46:00.000Z",
+    "reason": "No notable move in ICP, no newsworthy information provided.",
+    "text": "Caffeine now lets builders pick where their Internet Computer apps run\n\n@caffeineai, the AI app builder made by @dfinity for the Internet Computer $ICP, added a cloud picker on Wednesday. IC Mainnet stays the recommended default for most apps.\n\nEuropean Cloud keeps an app’s",
+    "url": "https://x.com/BSCNews/status/2118822230696010150"
+  },
+  {
+    "id": "x-1794002169261-fzdh8k",
+    "source": "x",
+    "ts": "2026-11-06T21:56:09.261Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-06T21:43:21.000Z",
+    "reason": "Notable regulatory move by the Bank of Russia allowing Bitcoin, Ether, and USDT for retail investors.",
+    "text": "Bank of Russia Approves Bitcoin, Ether and USDT for Retail Investors.\n\nRussia’s central bank said Friday that Bitcoin, Ether and USDT will become eligible for non-qualified investors from Nov. 17, with annual purchases limited to 300,000 rubles per intermediary.",
+    "url": "https://x.com/DecryptMedia/status/2118821564636692985",
+    "images": [
+      "https://pbs.twimg.com/media/HWeQXuDWYAAOBTI.jpg",
+      "https://pbs.twimg.com/media/HWeQ68XWoAASl1h.jpg"
     ],
     "video": null
   }
