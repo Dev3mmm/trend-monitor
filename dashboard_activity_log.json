@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793829114452-ja3x8e",
-    "source": "x",
-    "ts": "2026-11-04T21:51:54.452Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T21:50:13.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 INTERESTING: Kalshi says its favored candidates won 479 of 487 US midterm races so far, achieving a 98% accuracy rate based on predictions made before votes were counted.",
-    "url": "https://x.com/Cointelegraph/status/2118098515435893023"
-  },
-  {
-    "id": "x-1793830350111-6u9cc8",
-    "source": "x",
-    "ts": "2026-11-04T22:12:30.111Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T22:10:13.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🚨 JUST IN: Trump Media ($DJT) has fallen 97% from its peak to an all-time low of $4.64, according to Charlie Bilello.",
-    "url": "https://x.com/Cointelegraph/status/2118103549145964903"
-  },
-  {
     "id": "x-1793830955239-9xb2uk",
     "source": "x",
     "ts": "2026-11-04T22:22:35.239Z",
@@ -7777,6 +7751,40 @@
     "reason": "Hackers accessed customer data from Crypto Card Provider Gnosis Pay.",
     "text": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
     "url": "https://x.com/DecryptMedia/status/2118745915284476214",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793984555158-uvav3r",
+    "source": "x",
+    "ts": "2026-11-06T17:02:35.158Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-06T17:01:48.000Z",
+    "reason": "El Salvador's government continues to acquire Bitcoin despite a market drop.",
+    "text": "🇸🇻 HUGE: $BTC dumps 6% and El Salvador just keeps buying.\n\nThe country now holds 7,827 BTC worth about $588.7M.\n\nWould your government have the guts?",
+    "url": "https://x.com/Cointelegraph/status/2118750711227838810",
+    "images": [
+      "https://pbs.twimg.com/media/HWdQiNTXMAApMmw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793984560204-ketuvf",
+    "source": "x",
+    "ts": "2026-11-06T17:02:40.204Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 113,
+    "originTimestamp": "2026-11-06T15:09:28.000Z",
+    "reason": "Notable institutional acquisition with new lending capabilities.",
+    "text": "Aave Labs Acquires Avon for Fixed-Rate Onchain Lending.\n\nAave Labs said Friday it acquired Avon's team and technology, including fixed- and floating-rate lending protocols and an onchain order book, with Avon founder Prince Sinha joining its engineering team.",
+    "url": "https://x.com/DecryptMedia/status/2118750259249611168",
     "images": [],
     "video": null
   }
