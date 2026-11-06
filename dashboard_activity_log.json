@@ -1,38 +1,5 @@
 [
   {
-    "id": "x-1793853162410-oghlfl",
-    "source": "x",
-    "ts": "2026-11-05T04:32:42.410Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T04:30:17.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🚨 LATEST: OpenAI says an unreleased cyber model found, validated, and patched 948 Linux kernel privilege escalation flaws in one autonomous run, at a total API cost of $1.2M.",
-    "url": "https://x.com/Cointelegraph/status/2118199196872286673"
-  },
-  {
-    "id": "x-1793853738011-wet08w",
-    "source": "x",
-    "ts": "2026-11-05T04:42:18.011Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T04:40:15.000Z",
-    "reason": "Multiple issuers objecting to share tokenization plans lifts the total to 62, indicating significant regulatory and market uncertainty.",
-    "text": "🚨 UPDATE: Three more issuers, Nebius, Boeing, and ServiceNow, have objected to OKX and ICE’s plan to tokenize their shares, which lifts the total to 62, per Eleanor Terrett.",
-    "url": "https://x.com/Cointelegraph/status/2118201703883247961",
-    "images": [
-      "https://pbs.twimg.com/media/HWVdN-5XAAALQ00.jpg",
-      "https://pbs.twimg.com/media/HWVdOJzXEAAdJBl.png",
-      "https://pbs.twimg.com/media/HWVdOWWW4AAfp9V.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793853742976-rczaos",
     "source": "x",
     "ts": "2026-11-05T04:42:22.976Z",
@@ -7744,5 +7711,39 @@
     "reason": "No notable move, tweet is unrelated to cryptocurrency.",
     "text": "Pulling massive power cables is a great workout and far more productive than lifting weights 🏋️‍♀️",
     "url": "https://x.com/elonmusk/status/2118786343958675697"
+  },
+  {
+    "id": "x-1793994750705-l6rdp7",
+    "source": "x",
+    "ts": "2026-11-06T19:52:30.705Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-06T19:47:15.000Z",
+    "reason": "Notable move involving a financial firm and futures market.",
+    "text": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+    "url": "https://x.com/DecryptMedia/status/2118792346171003253",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793994754579-pszplq",
+    "source": "x",
+    "ts": "2026-11-06T19:52:34.579Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-06T19:46:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Arbitrum has had a busy few weeks since early October.\n\n@arbitrum ($ARB) is an Ethereum layer-2 network, and its tech also powers other chains such as Robinhood Chain.\n\nHere are some key developments:\n\n[Oct 6] Paxos-issued USDG went live on Arbitrum One, with Uniswap, GMX and",
+    "url": "https://x.com/BSCNews/status/2118792031690739884",
+    "images": [
+      "https://pbs.twimg.com/media/HWduGLXXUAAKAkf.jpg"
+    ],
+    "video": null
   }
 ]
