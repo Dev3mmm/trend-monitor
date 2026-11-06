@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793798529177-bfpaop",
-    "source": "x",
-    "ts": "2026-11-04T13:22:09.177Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T13:20:45.000Z",
-    "reason": "No notable regulatory move or adoption event mentioned.",
-    "text": "🔥 JUST IN: The US Office of the Comptroller of the Currency has issued a regulatory framework for banks’ use of Super Intelligence.",
-    "url": "https://x.com/Cointelegraph/status/2117970306400666026"
-  },
-  {
-    "id": "x-1793798532367-3w619k",
-    "source": "x",
-    "ts": "2026-11-04T13:22:12.367Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T13:14:30.000Z",
-    "reason": "Bitcoin price is reacting to midterms and priced in expert analysis.",
-    "text": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
-    "url": "https://x.com/DecryptMedia/status/2117968732186140850",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793799187718-k96qdd",
     "source": "x",
     "ts": "2026-11-04T13:33:07.718Z",
@@ -7794,5 +7765,36 @@
       "https://pbs.twimg.com/media/HWbDJcQWIAAwAHg.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1793948529469-lvz3sc",
+    "source": "x",
+    "ts": "2026-11-06T07:02:09.469Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T07:00:59.000Z",
+    "reason": "New feature upgrade for Zcash blockchain.",
+    "text": "🔥 TODAY: Zcash has activated its NU7 upgrade on mainnet, bringing the Network Sustainability Mechanism. \n\nThe new mechanism pulls 60% of transaction fees from circulation for later reissue through future block rewards.",
+    "url": "https://x.com/Cointelegraph/status/2118599510641217904",
+    "images": [
+      "https://pbs.twimg.com/media/HWbHBvPXgAA7Y4W.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793948531867-xlow2c",
+    "source": "x",
+    "ts": "2026-11-06T07:02:11.867Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-06T06:52:16.000Z",
+    "reason": "Elon Musk's appearance on Star Wars: The Mandalorian is unrelated to crypto or blockchain technology.",
+    "text": "Elon Musk on the set of Star Wars: The Mandalorian in 2019.",
+    "url": "https://x.com/elonmusk/status/2118598613781856340"
   }
 ]
