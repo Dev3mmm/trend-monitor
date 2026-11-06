@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792684462559-4yizrh",
-    "x-1792684479645-wmtxy6",
     "x-1792685030302-b76vut",
     "x-1792685034214-a7x64s",
     "x-1792685532066-fuydvr",
@@ -1999,7 +1997,9 @@
     "x-1794002875999-2fdy3i",
     "x-1794003042318-udt4rj",
     "x-1794003044571-zktxkl",
-    "x-1794003742725-vdslvs"
+    "x-1794003742725-vdslvs",
+    "x-1794004321332-91vbq2",
+    "x-1794004323549-byjldd"
   ],
   "queue": [
     {
@@ -2089,6 +2089,25 @@
       ],
       "video": null,
       "enqueuedAt": 1794002876635
+    },
+    {
+      "text": "🚨 NEW: A Bitcoin Core dev wants to booby-trap coins against quantum hackers. \n\nCory Fields floated \"quantum landmines\" on the Bitcoin dev mailing list, where hidden decoy outputs would let owners claw back stolen coins and take the attacker's collateral.",
+      "url": "https://x.com/Cointelegraph/status/2118833484185641167",
+      "images": [
+        "https://pbs.twimg.com/media/HWeb0uMW0AADQWe.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794004324126
+    },
+    {
+      "text": "Coinbase Adds USDC Borrowing Against Tokenized Gold.\n\nCoinbase users can now borrow USDC against Paxos-issued PAX Gold through a Morpho lending market on Base, bringing gold-backed collateral into the exchange’s existing in-app borrowing service.",
+      "url": "https://x.com/DecryptMedia/status/2118833305844117896",
+      "images": [
+        "https://pbs.twimg.com/media/HWeRVNEW8AAPwrw.png",
+        "https://pbs.twimg.com/media/HWeRYL-XMAAPz6a.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1794004324126
     }
   ],
   "posted": [
