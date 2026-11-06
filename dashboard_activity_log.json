@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1793874145987-s7882l",
-    "source": "x",
-    "ts": "2026-11-05T10:22:25.987Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-05T10:12:06.000Z",
-    "reason": "No notable move; price well within recent range.",
-    "text": "Day 18 of 40 in Phase II.\n\nThree tracks.",
-    "url": "https://x.com/amerix/status/2118285216267604434"
-  },
-  {
-    "id": "x-1793874771539-vblthv",
-    "source": "x",
-    "ts": "2026-11-05T10:32:51.539Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T10:30:46.000Z",
-    "reason": "A notable regulatory move involving state intervention in crypto markets.",
-    "text": "Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets",
-    "url": "https://x.com/DecryptMedia/status/2118289914554896755",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793874776399-k7qhc0",
-    "source": "x",
-    "ts": "2026-11-05T10:32:56.399Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T10:30:20.000Z",
-    "reason": "Notable institutional adoption of Solana by a major asset manager.",
-    "text": "🔥 NEW: $1.1T asset manager Schroders put an emerging-markets bond strategy on Solana with Centrifuge.",
-    "url": "https://x.com/Cointelegraph/status/2118289807147192408",
-    "images": [
-      "https://pbs.twimg.com/media/HWWtWX3XMAADx00.jpg",
-      "https://pbs.twimg.com/media/HWWtWl4WEAAcsUZ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793874782377-u2u4x0",
     "source": "x",
     "ts": "2026-11-05T10:33:02.377Z",
@@ -7729,5 +7681,55 @@
       "https://pbs.twimg.com/media/HWeRYL-XMAAPz6a.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794005469129-ids07v",
+    "source": "x",
+    "ts": "2026-11-06T22:51:09.129Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-06T22:45:42.000Z",
+    "reason": "Anthropic's valuation questioned due to tech sell-off.",
+    "text": "🚨 LATEST: Anthropic investors are questioning its $1.5 trillion IPO valuation, with some expecting it to fall to $1 trillion following the tech sell-off, per CNBC.",
+    "url": "https://x.com/Cointelegraph/status/2118837255271793005",
+    "images": [
+      "https://pbs.twimg.com/media/HWefQDAWUAAZWna.jpg",
+      "https://pbs.twimg.com/media/HWefQPeXsAEILsR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794005472822-ubvi4y",
+    "source": "x",
+    "ts": "2026-11-06T22:51:12.822Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-06T22:44:00.000Z",
+    "reason": "Notable institutional activity and tokenization of assets.",
+    "text": "Canton tops every chain with $320B in tokenized assets\n\n@CantonNetwork ($CC) accounts for about $320.7B of the $366B in “represented” assets on rwa.​xyz, meaning assets recorded on a network but not freely traded onchain. Almost all of it comes from Broadridge’s repo platform,",
+    "url": "https://x.com/BSCNews/status/2118836826681090458",
+    "images": [
+      "https://pbs.twimg.com/media/HWeWL6GWAAEZIec.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794005476005-830l9s",
+    "source": "x",
+    "ts": "2026-11-06T22:51:16.005Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-06T22:38:00.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "⚠️ALERT: Hackers are now targeting WordPress, the software behind 39.5% of all websites online.\n\nA critical flaw lets attackers take over a WordPress site in the seconds it spends updating, without needing to log in.\n\nDuring a full update, WordPress briefly stages its installer",
+    "url": "https://x.com/coinbureau/status/2118835316933235067"
   }
 ]
