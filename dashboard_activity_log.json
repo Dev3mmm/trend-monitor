@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793842324316-sokugf",
-    "source": "x",
-    "ts": "2026-11-05T01:32:04.316Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T01:30:00.000Z",
-    "reason": "Notable institutional crypto product launch by Coinbase.",
-    "text": "🇺🇸 TODAY: Coinbase launches regulated global options and perps on Coinbase Prime for institutions in the US and other eligible regions.\n\nUS and global traders will share a single liquidity pool.",
-    "url": "https://x.com/Cointelegraph/status/2118153827815727492",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2118007897032433664/vid/avc1/1280x720/vK_YmDy7bX2NrLyD.mp4?tag=29",
-      "duration": 31,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118007897032433664/img/_4QYfLqoz2J9hNXX.jpg"
-    }
-  },
-  {
-    "id": "x-1793842329839-4vutmn",
-    "source": "x",
-    "ts": "2026-11-05T01:32:09.839Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-05T01:29:00.000Z",
-    "reason": "Exploit detected, significant token withdrawal.",
-    "text": "This trader is still seriously bullish on $PONS ...\n\nAccording to data from Lookonchain, an unidentified whale has withdrawn $13.97M worth of @ponsdotfamily tokens from the @OKX exchange.\n\nIt also withdrew some 5,887 $ETH, worth $13.45M, from the exchange.\n\nMaybe @RobinhoodCrypto",
-    "url": "https://x.com/BSCNews/status/2118153574488170680",
-    "images": [
-      "https://pbs.twimg.com/media/HWRQkk7WgAAbq2V.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793842923131-etaiuh",
     "source": "x",
     "ts": "2026-11-05T01:42:03.131Z",
@@ -7761,6 +7722,43 @@
     "text": "Illia Polosukhin, co-founder of NEAR Protocol (@NEARProtocol), has launched Delta League, a public contest built to improve open AI models.\n\nAnyone tracking $NEAR further will find BSCN's reporting collected on a single page, covering chain abstraction, AI infrastructure, staking",
     "url": "https://x.com/BSCNews/status/2118773447027470481",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793991132273-kgzy7k",
+    "source": "x",
+    "ts": "2026-11-06T18:52:12.273Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-06T18:48:00.000Z",
+    "reason": "Algorand's plans for supply cap and transaction fees are significantly altered.",
+    "text": "Algorand drops plans to lift the ALGO supply cap\n\n@AlgoFoundation has paused Project King Safety indefinitely, its planned overhaul of algorand:native fees and rewards. Ideas to raise the supply cap, increase the minimum transaction fee, or capture MEV are now off the table,",
+    "url": "https://x.com/BSCNews/status/2118777435416109406",
+    "images": [
+      "https://pbs.twimg.com/media/HWdgcKfWYAAvB1w.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793991136952-1zzv79",
+    "source": "x",
+    "ts": "2026-11-06T18:52:16.952Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-06T18:42:58.000Z",
+    "reason": "Notable proposal for enhancing Bitcoin security against quantum computing threats by Bitcoin Core developers.",
+    "text": "Bitcoin Core Developer Proposes Collateral and Auction Mechanisms to Deter Quantum Theft\n\nBitcoin Core developer Cory Fields has outlined three proposed mechanisms, Quantum Landmines, Staked Auction, and Sats Auction, to deter future quantum-enabled Bitcoin theft. Under the",
+    "url": "https://x.com/WuBlockchain/status/2118776167801188375",
+    "images": [
+      "https://pbs.twimg.com/media/HWdnrFFbgAA7yUx.jpg",
+      "https://pbs.twimg.com/media/HWdnsEJa4AADUhn.png"
+    ],
     "video": null
   }
 ]
