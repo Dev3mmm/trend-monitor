@@ -1,67 +1,5 @@
 [
   {
-    "id": "x-1793794332051-t0jsbf",
-    "source": "x",
-    "ts": "2026-11-04T12:12:12.051Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-04T12:08:28.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🚨JUST OUT: $CRCL’s Q3 revenue rose 17%, adjusted EBITDA surged 85%, and USDC onchain volume jumped 49% to $13.9 TRILLION.\n\nBinance also announced a $100 MILLION equity investment and expanded its USDC partnership.\n\nCircle didn’t just post STRONG earnings. It also landed MAJOR",
-    "url": "https://x.com/coinbureau/status/2117952115960369297"
-  },
-  {
-    "id": "x-1793794931585-5ku28v",
-    "source": "x",
-    "ts": "2026-11-04T12:22:11.585Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T12:21:02.000Z",
-    "reason": "No notable financial or on-chain data point provided.",
-    "text": "🚨JUST OUT: $CRCL’s Q3 revenue rose 17%, adjusted EBITDA surged 85%, and USDC onchain volume jumped 49% to $13.9 TRILLION.\n\nBut, despite a profitable quarter Circle cuts about 5% of its staff in Q3, costing $9.1 MILLION, mostly in employee payouts.\n\nThe cuts come as interest",
-    "url": "https://x.com/coinbureau/status/2117955276447813928"
-  },
-  {
-    "id": "x-1793794936355-9um5cc",
-    "source": "x",
-    "ts": "2026-11-04T12:22:16.355Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-04T12:12:24.000Z",
-    "reason": "Specific company cut in staff due to financial results.",
-    "text": "⚡️ JUST IN: Circle cut ~5% of staff as Q3 EPS hit $0.84, over double estimates.",
-    "url": "https://x.com/Cointelegraph/status/2117953106617020823",
-    "images": [
-      "https://pbs.twimg.com/media/HWR7IBLXAAAM3Q-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793795584429-c8kofz",
-    "source": "x",
-    "ts": "2026-11-04T12:33:04.429Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-04T12:28:28.000Z",
-    "reason": "SUI has seen a notable increase in the perps market.",
-    "text": "Aftermath is transforming Sui's Perps market\n\nThe @SuiNetwork ecosystem is buzzing with protocols, and @AftermathFi is standing out.\n\nAccording to DeFillama, $SUI has seen a notable surge in the perps market. \n\nThe blockchain has seen a 30+% increase in the past 7 days, with",
-    "url": "https://x.com/BSCNews/status/2117957146679607425",
-    "images": [
-      "https://pbs.twimg.com/media/HWR-x2HWwAA4-DC.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793796762667-rkokzv",
     "source": "x",
     "ts": "2026-11-04T12:52:42.667Z",
@@ -7805,5 +7743,65 @@
     "reason": "No notable move in ETH price.",
     "text": "This is exactly in line with how I've always thought.  In fact, I hate the em-dash (even before AI over-use), and I've always used the single-dash with spaces instead of it.",
     "url": "https://x.com/elonmusk/status/2118589166967730463"
+  },
+  {
+    "id": "x-1793946722133-ny0zyq",
+    "source": "x",
+    "ts": "2026-11-06T06:32:02.133Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T06:31:00.000Z",
+    "reason": "New feature launch for staking tokens.",
+    "text": "Lido Finance launches Swaps feature.\n\nOn November 5, 2026, @Ethereum staking OG @LidoFinance officially went live with its own tokens swaps feature.\n\nThe feature is powered by @CoWSwap, with pricing powered by @Chainlink Price Feeds.",
+    "url": "https://x.com/BSCNews/status/2118591963200971092",
+    "images": [
+      "https://pbs.twimg.com/media/HWX0WgMXoAAQPmD.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1793946726659-njtkim",
+    "source": "x",
+    "ts": "2026-11-06T06:32:06.659Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T06:30:46.000Z",
+    "reason": "The tweet does not mention any crypto-related content.",
+    "text": "🚨 NEW: A man sues OpenAI and alleges ChatGPT helped his wife draft a plan to poison him. \n\nHe says he found her handwritten note with substances, dosages and a reminder to “log out of chat GPT.”",
+    "url": "https://x.com/Cointelegraph/status/2118591905768325223"
+  },
+  {
+    "id": "x-1793946731689-vita69",
+    "source": "x",
+    "ts": "2026-11-06T06:32:11.689Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Elon Musk",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-06T06:30:18.000Z",
+    "reason": "Tesla's Cybertruck production plans could impact battery demand and indirectly affect cryptocurrencies related to battery production.",
+    "text": "Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production",
+    "url": "https://x.com/elonmusk/status/2118591788701421573",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793946735474-8whgyf",
+    "source": "x",
+    "ts": "2026-11-06T06:32:15.474Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-06T06:23:18.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "@tweetfollllower @MrMikeInvesting I just can’t help thinking of topiaries whenever someone mentions “hedge” fund 😂",
+    "url": "https://x.com/elonmusk/status/2118590274452758688"
   }
 ]
