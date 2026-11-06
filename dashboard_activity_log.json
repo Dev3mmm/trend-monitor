@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793788952330-ytth90",
-    "source": "x",
-    "ts": "2026-11-04T10:42:32.330Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-04T10:40:43.000Z",
-    "reason": "Community pushback led to Zcash Community Grants abandoning plans to redirect ZEC.",
-    "text": "⚡️ UPDATE: Zcash Community Grants drops its plan to redirect about 98,000 ZEC toward future mining rewards following community pushback.",
-    "url": "https://x.com/Cointelegraph/status/2117930032618172770",
-    "images": [
-      "https://pbs.twimg.com/media/HWRmI-DXYAEP_Vz.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793788957896-rnp743",
     "source": "x",
     "ts": "2026-11-04T10:42:37.896Z",
@@ -7824,5 +7806,23 @@
     "reason": "No notable move in the given price range.",
     "text": "@yunta_tsai (The rules of English need to change to put spaces between the em dashes, as they presently too much resemble a hyphenated word, rather than a parenthetical phrase. Also, “—“ is an unpleasantly long a line. The en dash, “–“, is a better length.)",
     "url": "https://x.com/elonmusk/status/2118561136580939885"
+  },
+  {
+    "id": "x-1793940769737-fe0asj",
+    "source": "x",
+    "ts": "2026-11-06T04:52:49.737Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-06T04:46:00.000Z",
+    "reason": "Notable project shutdown announcement.",
+    "text": "It's official... Blast L2 is gone.\n\nBacked by @paradigm, @blast completed its official shut down on November 4, after announcing it was giving up on the project in early October.\n\nUsers still have the chance to withdraw assets they held on the chain until November 4, 2027.",
+    "url": "https://x.com/BSCNews/status/2118565539027341317",
+    "images": [
+      "https://pbs.twimg.com/media/HWX0LwNXQAAgmUl.jpg"
+    ],
+    "video": null
   }
 ]
