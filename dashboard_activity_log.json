@@ -1,89 +1,5 @@
 [
   {
-    "id": "x-1793822563441-046l64",
-    "source": "x",
-    "ts": "2026-11-04T20:02:43.441Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-04T19:58:30.000Z",
-    "reason": "No notable move; likely a generic regulatory update.",
-    "text": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
-    "url": "https://x.com/DecryptMedia/status/2118070401855070502",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793823115823-gpoepc",
-    "source": "x",
-    "ts": "2026-11-04T20:11:55.823Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-04T20:05:14.000Z",
-    "reason": "Specific, verifiable institutional adoption event.",
-    "text": "🇺🇸 NEW: Stripe now allows US businesses to send stablecoin payouts in OUSD or USDC to crypto wallets across 160+ markets, with transfers typically arriving in minutes.",
-    "url": "https://x.com/Cointelegraph/status/2118072097452769588",
-    "images": [
-      "https://pbs.twimg.com/media/HWTnV5dW8AIsiQu.jpg",
-      "https://pbs.twimg.com/media/HWTnWNZW8AA7Npl.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793823752811-3o7xz3",
-    "source": "x",
-    "ts": "2026-11-04T20:22:32.811Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T20:15:00.000Z",
-    "reason": "Notable new use of a stablecoin for leveraged borrowing.",
-    "text": "Fosun-backed FinChain brings leveraged Treasury yield to Plume\n\n@FinChain_EN, a crypto finance firm incubated by Fosun Wealth Holdings, has launched FLEX &amp; FINO with @plumenetwork, the chain behind $PLUME. Users deposit FinChain’s FUSD as collateral and borrow USDC against it,",
-    "url": "https://x.com/BSCNews/status/2118074554480316854",
-    "images": [
-      "https://pbs.twimg.com/media/HWTdOLDW8AAjr3G.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793824343848-2q4o7v",
-    "source": "x",
-    "ts": "2026-11-04T20:32:23.848Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-04T20:30:16.000Z",
-    "reason": "Nasdaq listing of a crypto ETF is notable institutional adoption.",
-    "text": "⚡️ JUST IN: Nasdaq has approved the listing of Canary Capital’s Injective ETF featuring staking rewards.",
-    "url": "https://x.com/Cointelegraph/status/2118078397075079187",
-    "images": [
-      "https://pbs.twimg.com/media/HWTtEqhWsAA162c.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793824346975-517iad",
-    "source": "x",
-    "ts": "2026-11-04T20:32:26.975Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-04T20:25:31.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Bitcoin is resilient.",
-    "url": "https://x.com/cz_binance/status/2118077202764013695"
-  },
-  {
     "id": "x-1793824351860-yyfiua",
     "source": "x",
     "ts": "2026-11-04T20:32:31.860Z",
@@ -7803,5 +7719,78 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118724689053057024/img/BqQzSmPPxeGKsChM.jpg"
     }
+  },
+  {
+    "id": "x-1793980333190-n9xxkv",
+    "source": "x",
+    "ts": "2026-11-06T15:52:13.190Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 55,
+    "originTimestamp": "2026-11-06T14:56:55.000Z",
+    "reason": "No notable crypto-related move or event described.",
+    "text": "More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, all come down to this: the first orbital Starship launch carrying advanced Starlink satellites bound for space. \n\nWatch “Go For Orbit” and experience the",
+    "url": "https://x.com/elonmusk/status/2118732400176083271"
+  },
+  {
+    "id": "x-1793980338626-jg025y",
+    "source": "x",
+    "ts": "2026-11-06T15:52:18.626Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coinbase 🛡️",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-06T15:46:43.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Lots of focus on attacker using AI.\n\nWhat doesn't get as much attention is how much AI is helping with defense.\n\n@coinbase has put it at the forefront of our security work: early access to frontier models with leading developers, agents testing our code, and a lower cost to find",
+    "url": "https://x.com/coinbase/status/2118732345557623140",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1793980341646-xm31yr",
+    "source": "x",
+    "ts": "2026-11-06T15:52:21.646Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 72,
+    "originTimestamp": "2026-11-06T14:40:11.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Ron Baron understands",
+    "url": "https://x.com/elonmusk/status/2118732296446673209"
+  },
+  {
+    "id": "x-1793980346508-87jdo5",
+    "source": "x",
+    "ts": "2026-11-06T15:52:26.508Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 55,
+    "originTimestamp": "2026-11-06T14:56:55.000Z",
+    "reason": "No notable move in crypto related to the tweet's content.",
+    "text": "SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. \n\nIf both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. \n\nThis is the critical breakthrough needed to make life multiplanetary.",
+    "url": "https://x.com/elonmusk/status/2118732082843435305"
+  },
+  {
+    "id": "x-1793980352433-35f656",
+    "source": "x",
+    "ts": "2026-11-06T15:52:32.433Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-06T15:46:00.000Z",
+    "reason": "Noteworthy decentralized launchpad activity with successful token launches.",
+    "text": "Kaspa’s KForge Is Off to a Solid Start\n\nDecentralized launchpad @KForge_xyz has successfully launched 24 live token launches on @Kaspaunchained Layer-1.\n\nThe community-driven $KASUSD token has completed its bonding curve, creating an ownerless liquidity pool at a 103,353 $KAS",
+    "url": "https://x.com/BSCNews/status/2118731634065260771",
+    "images": [
+      "https://pbs.twimg.com/media/HWcxTggXYAAhkQv.jpg"
+    ],
+    "video": null
   }
 ]
