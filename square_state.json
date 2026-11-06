@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1792659734128-3chr9u",
-    "x-1792659740827-1ftx43",
-    "x-1792660303519-t5om4s",
     "x-1792661581380-zmaumi",
     "x-1792662141309-fh2apr",
     "x-1792662740144-l2ck58",
@@ -1999,18 +1996,12 @@
     "x-1793969573337-1umeaq",
     "x-1793970145062-a6t4cl",
     "x-1793970148430-ha9303",
-    "x-1793970745718-sxpuqg"
+    "x-1793970745718-sxpuqg",
+    "x-1793971938299-71x1or",
+    "x-1793971943652-1uifnf",
+    "x-1793971948865-f717vo"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Binance says 98% of affected funds have been replenished and its latest Proof of Reserves covers 44 tokens, up from 10.",
-      "url": "https://x.com/Cointelegraph/status/2118690165262573585",
-      "images": [
-        "https://pbs.twimg.com/media/HWcZee_XgAANu1Z.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1793970156185
-    },
     {
       "text": "🚨NFP WATCH: The midterms shook the AI trade. Now stock and crypto investors are watching today’s U.S. jobs report for clues on a December Fed hike.\n\nThe report drops SOON at 8:30 AM ET.\n\nThe Nasdaq fell 5.52% Thursday, and Bitcoin slipped below $77,000. Treasury yields hit their",
       "url": "https://x.com/coinbureau/status/2118692061536985450",
@@ -2020,6 +2011,16 @@
       ],
       "video": null,
       "enqueuedAt": 1793970751661
+    },
+    {
+      "text": "Chainalysis Begins Restoring Services After All Users' Password Hashes and Tokens Were Exposed.\n\nChainalysis began restoring KYT and Address Screening access Friday after disclosing that names, usernames, password hashes and live tokens for all users were exposed to a malicious",
+      "url": "https://x.com/DecryptMedia/status/2118697408225816878",
+      "images": [
+        "https://pbs.twimg.com/media/HWcEwKXXwAAL79e.png",
+        "https://pbs.twimg.com/media/HWcFAE4WwAA6Y91.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1793971952797
     }
   ],
   "posted": [
@@ -2624,7 +2625,16 @@
       "at": 1793970156185,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/385347469776860?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Binance says 98% of affected funds have been replenished and its latest Proof of Reserves covers 44 tokens, up from 10.",
+      "final": "🚨 UPDATE: Binance says 98% of affected funds have been replenished and its latest Proof of Reserves covers 44 tokens, up from 10.\n\n#Crypto #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HWcZee_XgAANu1Z.png"
+      ],
+      "at": 1793971952797,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1793970156185
+  "lastPostAt": 1793971952797
 }
