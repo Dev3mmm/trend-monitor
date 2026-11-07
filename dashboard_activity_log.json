@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793908334325-vtvjv6",
-    "source": "x",
-    "ts": "2026-11-05T19:52:14.325Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 44,
-    "originTimestamp": "2026-11-05T19:07:51.000Z",
-    "reason": "Noise: generic hype without real content.",
-    "text": "Interesting",
-    "url": "https://x.com/elonmusk/status/2118431051253239889"
-  },
-  {
     "id": "x-1793908338462-526dry",
     "source": "x",
     "ts": "2026-11-05T19:52:18.462Z",
@@ -7652,5 +7639,24 @@
     "reason": "No notable move in ETH price, remains within its recent range.",
     "text": "Berkshire Reports $9.6 Billion in Buybacks as Operating Earnings Fall.\n\nBerkshire Hathaway said Saturday it repurchased $9.6 billion of its shares in the third quarter, while operating earnings fell 5.8% from a year earlier to $12.705 billion.",
     "url": "https://x.com/DecryptMedia/status/2119173051564908806"
+  },
+  {
+    "id": "x-1794085932556-1rwyeo",
+    "source": "x",
+    "ts": "2026-11-07T21:12:12.556Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-07T21:05:06.000Z",
+    "reason": "Notable regulatory action affecting a major crypto exchange.",
+    "text": "⚠️ ALERT: Binance France to close ALL customer accounts by December 31 as the EU’s MiCA licensing requirement forces a wind-down.\n\nThe world’s largest crypto exchange told customers its French entity must close their accounts as the EU’s MiCA transition period ended before it",
+    "url": "https://x.com/coinbureau/status/2119174326125781485",
+    "images": [
+      "https://pbs.twimg.com/media/HWjRnI5aIAA_Vw6.png",
+      "https://pbs.twimg.com/media/HWjRpM3bsAIVprU.jpg"
+    ],
+    "video": null
   }
 ]
