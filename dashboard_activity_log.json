@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793907375416-os7iki",
-    "source": "x",
-    "ts": "2026-11-05T19:36:15.416Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-05T19:18:00.000Z",
-    "reason": "The tweet discusses a security breach affecting the cross-chain bridge, which is noteworthy.",
-    "text": "BabyDoge pauses its bridge after a security breach\n\n@BabyDoge says the attack was limited to its cross-chain bridge and didn't affect the $BABYDOGE token or its smart contract. The team says it contained the incident and has already bought back all affected funds, so the bridge",
-    "url": "https://x.com/BSCNews/status/2118422597352431783",
-    "images": [
-      "https://pbs.twimg.com/media/HWYjAPYWAAAfvgg.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793907381340-zldyr1",
-    "source": "x",
-    "ts": "2026-11-05T19:36:21.340Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-05T19:17:15.000Z",
-    "reason": "OpenAI's discovery of Linux security flaws could impact the security of popular crypto infrastructure.",
-    "text": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-    "url": "https://x.com/DecryptMedia/status/2118422408759546232",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793908334325-vtvjv6",
     "source": "x",
     "ts": "2026-11-05T19:52:14.325Z",
@@ -7655,5 +7621,36 @@
     "reason": "The tweet discusses AI stock market value losses but does not provide a concrete, specific price or event related to cryptocurrencies.",
     "text": "This selloff has been DEVASTATING.\n\nThe AI stocks have erased $13.2 TRILLION in market value from stocks’ 2026 highs.\n\nOnly U.S and China have an annual GDP larger than that loss.\n\nMarket value erased at six AI giants:\n\n- Alphabet: $1.62 trillion lost (−32%)\n- Nvidia: $1.49",
     "url": "https://x.com/coinbureau/status/2119165493269647363"
+  },
+  {
+    "id": "x-1794085323742-idfslb",
+    "source": "x",
+    "ts": "2026-11-07T21:02:03.742Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-07T21:00:52.000Z",
+    "reason": "Specific and notable change in a crypto sentiment indicator.",
+    "text": "🚨 ALERT: The Crypto Fear &amp; Greed Index has dropped to 25, signaling Extreme Fear, down from 64 (Greed) just one month ago.",
+    "url": "https://x.com/Cointelegraph/status/2119173260377997570",
+    "images": [
+      "https://pbs.twimg.com/media/HWjQ2OVWQAAmCq0.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794085328856-xv8csz",
+    "source": "x",
+    "ts": "2026-11-07T21:02:08.856Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-07T21:00:02.000Z",
+    "reason": "No notable move in ETH price, remains within its recent range.",
+    "text": "Berkshire Reports $9.6 Billion in Buybacks as Operating Earnings Fall.\n\nBerkshire Hathaway said Saturday it repurchased $9.6 billion of its shares in the third quarter, while operating earnings fell 5.8% from a year earlier to $12.705 billion.",
+    "url": "https://x.com/DecryptMedia/status/2119173051564908806"
   }
 ]
