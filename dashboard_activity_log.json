@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793907209906-k4sry8",
-    "source": "x",
-    "ts": "2026-11-05T19:33:29.906Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-05T19:17:15.000Z",
-    "reason": "OpenAI's exploit news could impact security markets and blockchain technologies.",
-    "text": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-    "url": "https://x.com/DecryptMedia/status/2118422408759546232",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793907358446-p4lajx",
-    "source": "x",
-    "ts": "2026-11-05T19:35:58.446Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-05T19:30:18.000Z",
-    "reason": "No notable move or specific event.",
-    "text": "🇺🇸 LUMMIS: \"Democrats voted against putting a regulated professional between Main Street and the market.\"",
-    "url": "https://x.com/Cointelegraph/status/2118425693931335748"
-  },
-  {
     "id": "x-1793907363855-gj3g6f",
     "source": "x",
     "ts": "2026-11-05T19:36:03.855Z",
@@ -7658,5 +7629,36 @@
     "reason": "No notable crypto-related event or data point.",
     "text": "🇬🇧 The UK is planning for a \"Black Sky\" blackout affecting nearly 70 MILLION people.\n\nA Black Sky is when the power goes out for days and takes water, shops and communications with it.\n\nA recent UK resilience summit focused on withstanding one for at least 72 hours, per the BBC.",
     "url": "https://x.com/coinbureau/status/2119154168145326306"
+  },
+  {
+    "id": "x-1794081731630-be84ir",
+    "source": "x",
+    "ts": "2026-11-07T20:02:11.630Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-07T20:00:01.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "OpenAI Introduces Benchmark for AI Laboratory Analysis.\n\nOpenAI introduced BioBasicsBench on Friday, a 100-task benchmark built with biotech company Ligo to test whether AI agents can interpret raw lab data, spot errors and recognize unsupported conclusions.",
+    "url": "https://x.com/DecryptMedia/status/2119157948522057824"
+  },
+  {
+    "id": "x-1794081734905-3ex0l1",
+    "source": "x",
+    "ts": "2026-11-07T20:02:14.905Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-07T19:59:40.000Z",
+    "reason": "AI backlash affecting Anthropic's IPO plans.",
+    "text": "🚨 UPDATE: Anthropic’s IPO faces AI backlash as midterm results show a stinging rebuke of data centers.",
+    "url": "https://x.com/Cointelegraph/status/2119157860688969879",
+    "images": [
+      "https://pbs.twimg.com/media/HWjC1_yW4AAh_Y1.jpg"
+    ],
+    "video": null
   }
 ]
