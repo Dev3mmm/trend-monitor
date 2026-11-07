@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793898786367-8msirg",
-    "source": "x",
-    "ts": "2026-11-05T17:13:06.367Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-05T17:12:21.000Z",
-    "reason": "Exploit mentioned, potential security issue for users.",
-    "text": "Floki takes its trading bot offline while it investigates an exploit\n\n@FLOKI is working to protect remaining user funds and to confirm exactly which @flokitradingbot users were affected. Those users will be moved to new, secure wallets, and any remaining funds will be sent to",
-    "url": "https://x.com/BSCNews/status/2118390978167923163",
-    "images": [
-      "https://pbs.twimg.com/media/HWYIwCAWEAA6u6Y.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793898789275-3fkebw",
     "source": "x",
     "ts": "2026-11-05T17:13:09.275Z",
@@ -7666,5 +7648,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119031880591020032/img/5jHscik8zXEX01ms.jpg"
     }
+  },
+  {
+    "id": "x-1794066108703-jwrgl6",
+    "source": "x",
+    "ts": "2026-11-07T15:41:48.703Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-07T15:34:00.000Z",
+    "reason": "Specific crypto-related announcement from Robinhood.",
+    "text": "Robinhood Legend adds support for XDC and VIRTUAL.\n\n@RobinhoodApp's 'Legend' platform has announced official trading support for the native tokens behind both @XDCNetwork and @virtuals_io.\n\nRobinhood Legend is a free, browser-based desktop trading and analysis platform built by",
+    "url": "https://x.com/BSCNews/status/2119091002577162506",
+    "images": [
+      "https://pbs.twimg.com/media/HWcGglhXMAALlvp.jpg"
+    ],
+    "video": null
   }
 ]
