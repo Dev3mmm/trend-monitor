@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793897633705-9qj5kx",
-    "source": "x",
-    "ts": "2026-11-05T16:53:53.705Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-05T16:45:00.000Z",
-    "reason": "Price far outside the recent range indicates a significant event.",
-    "text": "🔥 PAIN: Another day, another $1,000,000,000 in liquidations.",
-    "url": "https://x.com/Cointelegraph/status/2118384093972877663",
-    "images": [
-      "https://pbs.twimg.com/media/HWYBqh_aQAAsbWB.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793897636926-cvkz8u",
     "source": "x",
     "ts": "2026-11-05T16:53:56.926Z",
@@ -7669,5 +7651,18 @@
       "https://pbs.twimg.com/media/HWh2ByvasAAJ5Vq.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794063732539-43r987",
+    "source": "x",
+    "ts": "2026-11-07T15:02:12.539Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-07T15:00:01.000Z",
+    "reason": "No crypto-related content.",
+    "text": "China Adds 830,000 Ounces of Gold to Reserves.\n\nChina's official gold reserves rose by 830,000 ounces in October to 78.30 million ounces, according to figures published Saturday, while the dollar value of those holdings declined.",
+    "url": "https://x.com/DecryptMedia/status/2119082448667791753"
   }
 ]
