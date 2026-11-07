@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1793881944577-i41pvj",
-    "source": "x",
-    "ts": "2026-11-05T12:32:24.577Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-05T12:25:12.000Z",
-    "reason": "Aquarius DeFi protocol driving significant growth in Stellar's decentralized exchange volumes.",
-    "text": "Aquarius is handling Stellar’s DEX boom...\n\n@AquariusDeFi, a decentralized liquidity management protocol on the @StellarOrg blockchain, is in the news today. \n\nThe protocol has driven nearly 100% of the recent explosion in DEX volumes on the Stellar network, per DeFiLlama data.",
-    "url": "https://x.com/BSCNews/status/2118318714537816552",
-    "images": [
-      "https://pbs.twimg.com/media/HWXHc3nWoAA9Jt4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793881949325-03iyyk",
-    "source": "x",
-    "ts": "2026-11-05T12:32:29.325Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-05T12:24:50.000Z",
-    "reason": "Bank of England's interest rate hike is notable regulatory news.",
-    "text": "🇬🇧 JUST IN: Bank of England raises interest rates by 25 basis points to 4%, its first hike since August 2023.",
-    "url": "https://x.com/Cointelegraph/status/2118318622627987736",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793881954173-ouu8un",
     "source": "x",
     "ts": "2026-11-05T12:32:34.173Z",
@@ -7699,5 +7665,36 @@
     "reason": "No actionable information provided.",
     "text": "5 years ago",
     "url": "https://x.com/elonmusk/status/2118876612544561449"
+  },
+  {
+    "id": "x-1794015814348-dust27",
+    "source": "x",
+    "ts": "2026-11-07T01:43:34.348Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-07T01:39:15.000Z",
+    "reason": "Meme without crypto or blockchain context",
+    "text": "It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster",
+    "url": "https://x.com/elonmusk/status/2118880932014997910"
+  },
+  {
+    "id": "x-1794015820203-g8a57p",
+    "source": "x",
+    "ts": "2026-11-07T01:43:40.203Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-07T01:37:00.000Z",
+    "reason": "ETF loss is notable and indicative of changing investor sentiment.",
+    "text": "NEAR ETF demand dries up after impressive run.\n\n@Bitwise's spot @NEARProtocol ETF launched in late September 2026, and saw more than +$88M in net inflows in its first four weeks alone.\n\nHowever, the tide has since turned...\n\nLast week the $NEAR ETF lost -$3.43M and it's on track",
+    "url": "https://x.com/BSCNews/status/2118880363577831545",
+    "images": [
+      "https://pbs.twimg.com/media/HWcFt01XcAAYH_n.jpg"
+    ],
+    "video": null
   }
 ]
