@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793899341910-2539gu",
-    "source": "x",
-    "ts": "2026-11-05T17:22:21.910Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 64,
-    "originTimestamp": "2026-11-05T16:18:05.000Z",
-    "reason": "Noise: vague statement without context or price.",
-    "text": "True",
-    "url": "https://x.com/elonmusk/status/2118392015226544617"
-  },
-  {
     "id": "x-1793899917272-iv0s7u",
     "source": "x",
     "ts": "2026-11-05T17:31:57.272Z",
@@ -7680,5 +7667,18 @@
       "https://pbs.twimg.com/media/HWiKFQCXAAA5ahn.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794067949553-tpu635",
+    "source": "x",
+    "ts": "2026-11-07T16:12:29.553Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-07T16:04:14.000Z",
+    "reason": "No specific event or move mentioned is clearly newsworthy based on the given context.",
+    "text": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+    "url": "https://x.com/DecryptMedia/status/2119098612806246550"
   }
 ]
