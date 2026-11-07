@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793903231513-2i8i8m",
-    "source": "x",
-    "ts": "2026-11-05T18:27:11.513Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-05T18:17:00.000Z",
-    "reason": "Notable institutional adoption with a major on-chain update.",
-    "text": "OlympusDAO makes Chainlink the official bridge for OHM\n\n@OlympusDAO has moved all $OHM bridging from LayerZero to @chainlink's CCIP, after holders approved the change in an onchain vote. OHM on Arbitrum, Base, Berachain, and Optimism now joins Solana on CCIP, and Robinhood Chain",
-    "url": "https://x.com/BSCNews/status/2118407246254383175",
-    "images": [
-      "https://pbs.twimg.com/media/HWYVe_NWEAArBRr.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793903236863-nvdd8v",
     "source": "x",
     "ts": "2026-11-05T18:27:16.863Z",
@@ -7668,5 +7650,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119032515029803008/img/0Bb20bb8rYAaBaG7.jpg"
     }
+  },
+  {
+    "id": "x-1794073950886-0tg4fh",
+    "source": "x",
+    "ts": "2026-11-07T17:52:30.886Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 52,
+    "originTimestamp": "2026-11-07T17:00:02.000Z",
+    "reason": "Noteworthy institutional partnership with potential game-changing implications for the Sui ecosystem.",
+    "text": "Stripe's stablecoin is live on Sui! 💵\n\nThe Sui Dollar comes from Bridge, a Stripe company, and the plan for its Treasury yield could be a game-changer for the $SUI ecosystem and @SuiNetwork builders.\n\nGet the details:",
+    "url": "https://x.com/BSCNews/status/2119124675305320604",
+    "images": [
+      "https://pbs.twimg.com/media/HWde1nsWkAAh2pt.jpg"
+    ],
+    "video": null
   }
 ]
