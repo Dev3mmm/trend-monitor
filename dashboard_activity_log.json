@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1793902973435-lbud1n",
-    "source": "x",
-    "ts": "2026-11-05T18:22:53.435Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-05T18:17:00.000Z",
-    "reason": "Notable institutional adoption and governance change.",
-    "text": "OlympusDAO makes Chainlink the official bridge for OHM\n\n@OlympusDAO has moved all $OHM bridging from LayerZero to @chainlink's CCIP, after holders approved the change in an onchain vote. OHM on Arbitrum, Base, Berachain, and Optimism now joins Solana on CCIP, and Robinhood Chain",
-    "url": "https://x.com/BSCNews/status/2118407246254383175",
-    "images": [
-      "https://pbs.twimg.com/media/HWYVe_NWEAArBRr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793902978721-59iae4",
-    "source": "x",
-    "ts": "2026-11-05T18:22:58.721Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-05T18:15:01.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "JUST IN: Michael Saylor's Strategy is estimated to have raised enough capital to buy 279 BTC via STRC after hitting par yesterday 🚀\n\nThat's more than half of daily mined Bitcoin! 🤯",
-    "url": "https://x.com/BitcoinMagazine/status/2118406746850927034",
-    "images": [
-      "https://pbs.twimg.com/media/HWYXtWiXIAAIqYZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793902984512-i95aer",
-    "source": "x",
-    "ts": "2026-11-05T18:23:04.513Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-05T18:15:00.000Z",
-    "reason": "No notable move or specific event, only a financial analyst's statement without concrete data.",
-    "text": "⚡️JUST IN: Goldman Sachs says SHORT USD/JPY to hedge the AI SELLOFF.\n\nThe yen stood out in Goldman’s review of the 20 biggest episodes since 2000 when stocks and bond yields fell together.\n\nThe bank says a sharp AI selloff could push U.S. Treasury yields lower and lift the yen",
-    "url": "https://x.com/coinbureau/status/2118406743046652044"
-  },
-  {
     "id": "x-1793902989831-7mlrpm",
     "source": "x",
     "ts": "2026-11-05T18:23:09.831Z",
@@ -7666,5 +7617,47 @@
     "reason": "Noise: meme without factual claim.",
     "text": "Catching a giant rocket falling from space",
     "url": "https://x.com/elonmusk/status/2119111269718364631"
+  },
+  {
+    "id": "x-1794071515164-78gqvx",
+    "source": "x",
+    "ts": "2026-11-07T17:11:55.164Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-07T17:08:38.000Z",
+    "reason": "No notable move or concrete price information provided.",
+    "text": "Starship flight maneuvers",
+    "url": "https://x.com/elonmusk/status/2119114815931039992"
+  },
+  {
+    "id": "x-1794071517461-goe4hl",
+    "source": "x",
+    "ts": "2026-11-07T17:11:57.461Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 80,
+    "originTimestamp": "2026-11-07T15:51:22.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "SpaceX has officially announced that it is currently targeting November 13th at 5:45 PM ET for Starship's 15th flight.\n\nFlight info: \n\"This flight is planned to be the first to return both Starship and Super Heavy to the launch site for catch. If successful, this will mark the",
+    "url": "https://x.com/elonmusk/status/2119114275189039262"
+  },
+  {
+    "id": "x-1794071519824-n2y3sn",
+    "source": "x",
+    "ts": "2026-11-07T17:11:59.824Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-07T17:05:40.000Z",
+    "reason": "Notable institutional action impacting major crypto exchange venues.",
+    "text": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+    "url": "https://x.com/DecryptMedia/status/2119114069600776635",
+    "images": [],
+    "video": null
   }
 ]
