@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1793896953994-atutk2",
-    "source": "x",
-    "ts": "2026-11-05T16:42:33.994Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 31,
-    "originTimestamp": "2026-11-05T16:11:22.000Z",
-    "reason": "Tweet is in Chinese and lacks any concrete, specific crypto-related information or price movement.",
-    "text": "因为一天都在学习营上课，所以完全没时间发帖，没有第一时间和小伙伴聊，但还是要说说这次追空和平空的逻辑，首先图中的第一个开空点是在 101 美元，主要就是油价太高了，拉高一些我之前的油价。",
-    "url": "https://x.com/PhyrexNi/status/2118381939082317958"
-  },
-  {
-    "id": "x-1793896957210-w8s07e",
-    "source": "x",
-    "ts": "2026-11-05T16:42:37.210Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 40,
-    "originTimestamp": "2026-11-05T16:02:11.000Z",
-    "reason": "No factual claim or verification possible.",
-    "text": "Sleazy and slimy Ngilu.",
-    "url": "https://x.com/amerix/status/2118381938746458276"
-  },
-  {
-    "id": "x-1793896961841-buakx8",
-    "source": "x",
-    "ts": "2026-11-05T16:42:41.841Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-05T16:31:56.000Z",
-    "reason": "Bitcoin price erasing previous gains due to broader market factors",
-    "text": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
-    "url": "https://x.com/DecryptMedia/status/2118380804954849613",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793896964914-9vckm8",
     "source": "x",
     "ts": "2026-11-05T16:42:44.914Z",
@@ -7658,5 +7616,52 @@
     "url": "https://x.com/Cointelegraph/status/2119071501307802043",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794061916148-478zyv",
+    "source": "x",
+    "ts": "2026-11-07T14:31:56.149Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-07T14:30:01.000Z",
+    "reason": "No notable move in government contracts or revenue.",
+    "text": "🇺🇸LATEST: Elon Musk says he is “happy to cancel” any SpaceX contracts the U.S. government criticizes.\n\nMusk claims government contracts account for less than 10% of SpaceX’s revenue this quarter and less than 5% a year from now and is willing to cancel any contract the government",
+    "url": "https://x.com/coinbureau/status/2119074899503570976"
+  },
+  {
+    "id": "x-1794061922418-g9dhm9",
+    "source": "x",
+    "ts": "2026-11-07T14:32:02.418Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-07T14:30:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥INSIGHT: How fast is crypto moving in the Middle East?\n\nAccording to @AndreyLazorenko, CEO of @ADI_Foundation, the \"numbers speak for themselves.\"\n\nHe walked @itsciaranlyons through the region's momentum on this week's #CHAINREACTION.",
+    "url": "https://x.com/Cointelegraph/status/2119074895556755693",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2119031478306938880/vid/avc1/1280x720/3NELU8Aeu00jjr9I.mp4?tag=29",
+      "duration": 168,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119031478306938880/img/deIs-urAN_OJr5MW.jpg"
+    }
+  },
+  {
+    "id": "x-1794061927150-vvhwft",
+    "source": "x",
+    "ts": "2026-11-07T14:32:07.151Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-07T14:24:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Here's what you need to know about the anonymous creator behind the memecoin phenomenon that is @Shibtoken $SHIB ⬇️",
+    "url": "https://x.com/BSCNews/status/2119073385569509783"
   }
 ]
