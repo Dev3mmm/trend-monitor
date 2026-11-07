@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793907206625-6nuwwy",
-    "source": "x",
-    "ts": "2026-11-05T19:33:26.625Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-05T19:18:00.000Z",
-    "reason": "Security breach affecting BabyDoge token.",
-    "text": "BabyDoge pauses its bridge after a security breach\n\n@BabyDoge says the attack was limited to its cross-chain bridge and didn't affect the $BABYDOGE token or its smart contract. The team says it contained the incident and has already bought back all affected funds, so the bridge",
-    "url": "https://x.com/BSCNews/status/2118422597352431783",
-    "images": [
-      "https://pbs.twimg.com/media/HWYjAPYWAAAfvgg.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793907209906-k4sry8",
     "source": "x",
     "ts": "2026-11-05T19:33:29.906Z",
@@ -7661,6 +7643,19 @@
     "ageMin": 6,
     "originTimestamp": "2026-11-07T19:45:00.000Z",
     "reason": "No notable crypto-related event or move mentioned.",
+    "text": "🇬🇧 The UK is planning for a \"Black Sky\" blackout affecting nearly 70 MILLION people.\n\nA Black Sky is when the power goes out for days and takes water, shops and communications with it.\n\nA recent UK resilience summit focused on withstanding one for at least 72 hours, per the BBC.",
+    "url": "https://x.com/coinbureau/status/2119154168145326306"
+  },
+  {
+    "id": "x-1794081301293-ok6ioh",
+    "source": "x",
+    "ts": "2026-11-07T19:55:01.293Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-07T19:45:00.000Z",
+    "reason": "No notable crypto-related event or data point.",
     "text": "🇬🇧 The UK is planning for a \"Black Sky\" blackout affecting nearly 70 MILLION people.\n\nA Black Sky is when the power goes out for days and takes water, shops and communications with it.\n\nA recent UK resilience summit focused on withstanding one for at least 72 hours, per the BBC.",
     "url": "https://x.com/coinbureau/status/2119154168145326306"
   }
