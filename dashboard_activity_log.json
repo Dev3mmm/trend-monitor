@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793891493741-ri0bck",
-    "source": "x",
-    "ts": "2026-11-05T15:11:33.741Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-05T15:02:31.000Z",
-    "reason": "No notable move in price or significant news, price is within the recent range.",
-    "text": "Due to ROC status, the tax-equivalent yields on our Digital Credit instruments are ~15-22% for investors in a 37% tax bracket. $MSTR $STRC",
-    "url": "https://x.com/saylor/status/2118359437106921974"
-  },
-  {
-    "id": "x-1793891497719-0wkcwu",
-    "source": "x",
-    "ts": "2026-11-05T15:11:37.719Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-05T15:05:34.000Z",
-    "reason": "No notable crypto-related news mentioned.",
-    "text": "TODAY: About $1,200,000,000,000 in market value was erased across the U.S. stock market as investors continue rotating out of AI stocks after the midterms.\n\n🔻 Nasdaq 100 down 3%\n🔻 S&amp;P 500 down 1.3%\n📈 Dow up 0.4%\n\nAI chip and data center stocks fell for a second day on fears of",
-    "url": "https://x.com/coinbureau/status/2118359071636250899"
-  },
-  {
     "id": "x-1793891501458-gip8tv",
     "source": "x",
     "ts": "2026-11-05T15:11:41.458Z",
@@ -7666,6 +7640,41 @@
     "url": "https://x.com/BSCNews/status/2119020788921569479",
     "images": [
       "https://pbs.twimg.com/media/HWcGPz6XcAAecW3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794050529244-eatefr",
+    "source": "x",
+    "ts": "2026-11-07T11:22:09.244Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-07T11:20:39.000Z",
+    "reason": "Noteworthy regulatory move regarding crypto and sanctions.",
+    "text": "🚨 JUST IN: The US Treasury sanctioned 8 Canadian money-service firms over alleged crypto transactions linked to Iran and offered up to $20 million for information on Iran’s nuclear program.",
+    "url": "https://x.com/Cointelegraph/status/2119027246274957621",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794050532732-ravhun",
+    "source": "x",
+    "ts": "2026-11-07T11:22:12.732Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-07T11:13:39.000Z",
+    "reason": "Potential regulatory pressure on Nvidia from US lawmakers.",
+    "text": "🚨 LATEST: Nvidia could face more pressure from Washington after the elections, with lawmakers pushing for tougher chip export rules and questioning its China sales.",
+    "url": "https://x.com/Cointelegraph/status/2119025482830155787",
+    "images": [
+      "https://pbs.twimg.com/media/HWhKcFSXsAANJX_.jpg",
+      "https://pbs.twimg.com/media/HWhKcZ_XwAAmhxw.jpg"
     ],
     "video": null
   }
