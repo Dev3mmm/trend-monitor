@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793898792351-3mdjf6",
-    "source": "x",
-    "ts": "2026-11-05T17:13:12.351Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-05T17:06:58.000Z",
-    "reason": "No concrete factual claim or specific event, just an opinion.",
-    "text": "NEW: Rich Dad, Poor Dad author Robert Kiyosaki says, \"People panicked when gold, silver, Bitcoin crash. I bought more.\" 👏\n\n\"Can't wait for the next crash of gold, silver, Bitcoin\"",
-    "url": "https://x.com/BitcoinMagazine/status/2118389623529574758"
-  },
-  {
-    "id": "x-1793898794661-0jz9em",
-    "source": "x",
-    "ts": "2026-11-05T17:13:14.661Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 72,
-    "originTimestamp": "2026-11-05T16:00:22.000Z",
-    "reason": "No notable move; price is well within the recent range.",
-    "text": "True",
-    "url": "https://x.com/elonmusk/status/2118388941267317134"
-  },
-  {
-    "id": "x-1793899339754-hs1xce",
-    "source": "x",
-    "ts": "2026-11-05T17:22:19.754Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-05T17:17:44.000Z",
-    "reason": "No notable event or price movement mentioned.",
-    "text": "Stay orange, my friends.",
-    "url": "https://x.com/saylor/status/2118392330407330056"
-  },
-  {
     "id": "x-1793899341910-2539gu",
     "source": "x",
     "ts": "2026-11-05T17:22:21.910Z",
@@ -7663,5 +7624,61 @@
     "reason": "No notable moves or events described are outside their recent ranges.",
     "text": "Today's top crypto stories 👇\n\n1. $XRP ETFs: $530K weekly outflow\n2. @worldlibertyfi $WLFI buyback via $USD1 fees\n3. @CantonNetwork holds $320.7B of $366B assets\n4. @SuiNetwork stablecoins top $500M\n5. Bitwise $NEAR ETF sees outflows",
     "url": "https://x.com/BSCNews/status/2119093280260706754"
+  },
+  {
+    "id": "x-1794067341163-n7u2b6",
+    "source": "x",
+    "ts": "2026-11-07T16:02:21.163Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-07T16:00:01.000Z",
+    "reason": "Unauthorized transactions affecting crypto wallets via Google or Apple logins.",
+    "text": "⚠️ALERT: Crypto wallets created with Google or Apple logins are being hit by unauthorized transactions.\n\nKeplr, the main wallet of the Cosmos ecosystem, paused both login options after users reported the thefts.\n\nThe incident originated at Web3Auth, the login service owned by",
+    "url": "https://x.com/coinbureau/status/2119097550808764482",
+    "images": [
+      "https://pbs.twimg.com/media/HWh_-91bQAAza4f.png",
+      "https://pbs.twimg.com/media/HWh_9UbbIAA7Qr1.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794067345835-jy4lr7",
+    "source": "x",
+    "ts": "2026-11-07T16:02:25.835Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-07T16:00:00.000Z",
+    "reason": "Federal Reserve policy outlook influencing crypto markets.",
+    "text": "Fed's Daly Says More Rate Hikes Are Likely Needed.\n\nSan Francisco Fed President Mary Daly said Friday that further interest-rate increases will likely be needed to curb inflation, while stressing that their timing and size remain undecided.",
+    "url": "https://x.com/DecryptMedia/status/2119097544969994510",
+    "images": [
+      "https://pbs.twimg.com/media/HWhFS2IXEAA1VuU.jpg",
+      "https://pbs.twimg.com/media/HWhFT5eX0AAyGd2.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794067351414-1ile10",
+    "source": "x",
+    "ts": "2026-11-07T16:02:31.414Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-07T15:51:42.000Z",
+    "reason": "Notable price movement and significant partnerships in the crypto space.",
+    "text": "BIG: Pearl ($PEARL) just led the entire crypto top 100 over the past day.\n\nThe run followed a @coinbase roadmap addition and a new integration with NEAR Intents from @NEARProtocol ($NEAR).\n\nSee the numbers ⬇️\nRead the full story:",
+    "url": "https://x.com/BSCNews/status/2119097047458668756",
+    "images": [
+      "https://pbs.twimg.com/media/HWiKFQCXAAA5ahn.jpg"
+    ],
+    "video": null
   }
 ]
