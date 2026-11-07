@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1793897636926-cvkz8u",
-    "source": "x",
-    "ts": "2026-11-05T16:53:56.926Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-05T16:44:00.000Z",
-    "reason": "Expansion beyond pure DeFi suggests significant new use cases.",
-    "text": "Use cases on the @Aptos L1 have expanded well beyond pure DeFi.\n\nWe take a closer look at $APT's burgeoning stablecoin and payments ecosystem. How it works, and where it's headed ⬇️",
-    "url": "https://x.com/BSCNews/status/2118383841840869858",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793898143113-ogv89m",
-    "source": "x",
-    "ts": "2026-11-05T17:02:23.113Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-05T17:01:08.000Z",
-    "reason": "Noteworthy regulatory change affecting crypto taxation",
-    "text": "🇬🇷 JUST IN: Greece just passed a 10% tax on crypto gains, but your first €500 a year stays tax-free.",
-    "url": "https://x.com/Cointelegraph/status/2118388154142957704",
-    "images": [
-      "https://pbs.twimg.com/media/HWYGy4DXYAAyo9v.jpg",
-      "https://pbs.twimg.com/media/HWYGzIwXoAACeFA.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793898146641-j1a96i",
-    "source": "x",
-    "ts": "2026-11-05T17:02:26.641Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T17:00:02.000Z",
-    "reason": "Notable change in Zilliqa's blockchain model.",
-    "text": "Zilliqa Pivots From Standalone Layer 1 to an Ethereum Layer 2.\n\nAfter nine years running its own chain, Zilliqa said it is becoming the Zilliqa Institutional Layer for regulated institutions, with Ethereum settlement, vLEI identity checks and Liechtenstein's LTIN operating the",
-    "url": "https://x.com/DecryptMedia/status/2118387876350066822",
-    "images": [
-      "https://pbs.twimg.com/media/HWXosZ_XEAAZbwO.png",
-      "https://pbs.twimg.com/media/HWXo4mqXAAAiv9T.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793898149970-9mclk0",
     "source": "x",
     "ts": "2026-11-05T17:02:29.970Z",
@@ -7664,5 +7610,53 @@
     "reason": "No crypto-related content.",
     "text": "China Adds 830,000 Ounces of Gold to Reserves.\n\nChina's official gold reserves rose by 830,000 ounces in October to 78.30 million ounces, according to figures published Saturday, while the dollar value of those holdings declined.",
     "url": "https://x.com/DecryptMedia/status/2119082448667791753"
+  },
+  {
+    "id": "x-1794064945305-m7uacc",
+    "source": "x",
+    "ts": "2026-11-07T15:22:25.305Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-07T15:20:43.000Z",
+    "reason": "Coinbase CEO supports tokenizing stock for broader ownership.",
+    "text": "🔥 INSIGHT: Coinbase CEO Brian Armstrong says he supports tokenizing Coinbase stock to attract more shareholders and make ownership accessible to more people.",
+    "url": "https://x.com/Cointelegraph/status/2119087658072744099",
+    "images": [
+      "https://pbs.twimg.com/media/HWiC_UCXEAAP87G.jpg",
+      "https://pbs.twimg.com/media/HWiC_qYW4AAXZQI.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794064950561-w09t80",
+    "source": "x",
+    "ts": "2026-11-07T15:22:30.561Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-07T15:17:05.000Z",
+    "reason": "DOT has experienced a notable price drop below its usual range.",
+    "text": "BREAKING: $DOT falls below $0.9, down 4.2% in 24 hours. (via CoinGecko)",
+    "url": "https://x.com/BSCNews/status/2119086889965846718",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794064954351-yj4nfc",
+    "source": "x",
+    "ts": "2026-11-07T15:22:34.351Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-07T15:16:40.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🇺🇸🇮🇷 BIG: The U.S. expands its naval blockade with a task force to disrupt Iran’s ground transport.",
+    "url": "https://x.com/Cointelegraph/status/2119086638626116074"
   }
 ]
