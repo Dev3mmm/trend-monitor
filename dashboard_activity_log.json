@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793902999197-ygo9sg",
-    "source": "x",
-    "ts": "2026-11-05T18:23:19.197Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-05T18:07:40.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "S&amp;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
-    "url": "https://x.com/DecryptMedia/status/2118404900015013898"
-  },
-  {
-    "id": "x-1793903225809-v5n35n",
-    "source": "x",
-    "ts": "2026-11-05T18:27:05.809Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 112,
-    "originTimestamp": "2026-11-05T16:34:41.000Z",
-    "reason": "No notable move or specific action/event is mentioned.",
-    "text": "DAN HELD AT BITCOIN AMSTERDAM: \"SOUND MONEY IS AN INCREDIBLE THING\" ⚡️\n\nHE ARGUES THAT SOUND MONEY CAN LIMIT GOVERNMENT MONETARY POWER AND GIVE MORE CONTROL BACK TO THE PEOPLE ✊",
-    "url": "https://x.com/BitcoinMagazine/status/2118409594493874532"
-  },
-  {
     "id": "x-1793903231513-2i8i8m",
     "source": "x",
     "ts": "2026-11-05T18:27:11.513Z",
@@ -7660,5 +7634,39 @@
       "https://pbs.twimg.com/media/HWicKLnacAA8q_F.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794072746080-tbmzft",
+    "source": "x",
+    "ts": "2026-11-07T17:32:26.080Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-07T17:30:00.000Z",
+    "reason": "No notable crypto-related news or movement mentioned.",
+    "text": "🚨Sam Altman says there are two ways AI \"goes really wrong.\" \n\n \"One is that there's like a loss of control to AI,\" the OpenAI CEO said, where \"we can't get it back.\" \n\n \"The other is like one person or company or country gets way too powerful relative to everybody else.\"",
+    "url": "https://x.com/coinbureau/status/2119120196845912393"
+  },
+  {
+    "id": "x-1794072751510-tkz63r",
+    "source": "x",
+    "ts": "2026-11-07T17:32:31.510Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-07T17:30:00.000Z",
+    "reason": "Stablecoin adoption and beneficiary analysis could be noteworthy.",
+    "text": "🔥INSIGHT: Stablecoin adoption is booming, but who is actually cashing in?\n\n@AndreyLazorenko, CEO of @ADI_Foundation, gave @itsciaranlyons his answer on who benefits most from stablecoins right now.\n\nFind out who tops his list on #CHAINREACTION.",
+    "url": "https://x.com/Cointelegraph/status/2119120193775612338",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2119032515029803008/vid/avc1/1280x720/zFdJXCZ66PRduOb1.mp4?tag=29",
+      "duration": 110,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119032515029803008/img/0Bb20bb8rYAaBaG7.jpg"
+    }
   }
 ]
