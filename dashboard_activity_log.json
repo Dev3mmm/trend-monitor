@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793881954173-ouu8un",
-    "source": "x",
-    "ts": "2026-11-05T12:32:34.173Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-05T12:24:30.000Z",
-    "reason": "Binance's action highlights potential security issues in the SignalPlus API.",
-    "text": "Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform",
-    "url": "https://x.com/DecryptMedia/status/2118318536497987626",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793881958287-4hfnb6",
-    "source": "x",
-    "ts": "2026-11-05T12:32:38.287Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 40,
-    "originTimestamp": "2026-11-05T11:52:16.000Z",
-    "reason": "No notable move, no specific price or event mentioned.",
-    "text": "One day post-election, Digital Capital $BTC, Digital Equity $MSTR, and Digital Credit $STRC are all up. The markets have spoken.",
-    "url": "https://x.com/saylor/status/2118318308634026473"
-  },
-  {
     "id": "x-1793883731708-ni2uik",
     "source": "x",
     "ts": "2026-11-05T13:02:11.708Z",
@@ -7696,5 +7667,36 @@
       "https://pbs.twimg.com/media/HWcFt01XcAAYH_n.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794016908655-rdabla",
+    "source": "x",
+    "ts": "2026-11-07T02:01:48.655Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-07T02:00:45.000Z",
+    "reason": "Potential regulatory or legal developments in the crypto space.",
+    "text": "🚨 ALERT: An ex-OpenAI employee accused of spying pleads not guilty to the allegations.",
+    "url": "https://x.com/Cointelegraph/status/2118886341660336253",
+    "images": [
+      "https://pbs.twimg.com/media/HWfL5gVWUAAPzXu.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794016912085-dmcmai",
+    "source": "x",
+    "ts": "2026-11-07T02:01:52.085Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 19,
+    "originTimestamp": "2026-11-07T01:42:15.000Z",
+    "reason": "Not related to cryptocurrencies or blockchain technology.",
+    "text": "In the coming years, @Neuralink will enable people to walk and use their hands again",
+    "url": "https://x.com/elonmusk/status/2118884500201787770"
   }
 ]
