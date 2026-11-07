@@ -2001,17 +2001,7 @@
     "x-1794041542515-spg01b",
     "x-1794042144020-5qnupj"
   ],
-  "queue": [
-    {
-      "text": "🚨 ALERT: Keplr Wallet reports unauthorized transactions affecting some accounts created through Google or Apple login, as it investigates a Web3Auth security issue.",
-      "url": "https://x.com/Cointelegraph/status/2118992093418868959",
-      "images": [
-        "https://pbs.twimg.com/media/HWgsFDOW0AELVUJ.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794042144567
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🇺🇸 JUST IN: Arkansas Attorney General Tim Griffin sues Kalshi and VGW, alleging the firms offer unlicensed bets in the state and mislead users about their legality.",
@@ -2527,7 +2517,16 @@
       "at": 1794041543279,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/385639848249690?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Keplr Wallet reports unauthorized transactions affecting some accounts created through Google or Apple login, as it investigates a Web3Auth security issue.",
+      "final": "🚨 ALERT: Keplr Wallet reports unauthorized transactions affecting some accounts created through Google or Apple login, as it investigates a Web3Auth security issue.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWgsFDOW0AELVUJ.jpg"
+      ],
+      "at": 1794043293718,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794041543279
+  "lastPostAt": 1794043293718
 }
