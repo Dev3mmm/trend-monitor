@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793891270567-ub78aa",
-    "source": "x",
-    "ts": "2026-11-05T15:07:50.567Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 19,
-    "originTimestamp": "2026-11-05T14:48:36.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "If $2M isn’t enough, I’ll throw in one extra thing: I’ll host a dinner with some of the top traders at the end of this competition. We’ll pay for your travel. \n\nGood luck!",
-    "url": "https://x.com/coinbase/status/2118358528276443620"
-  },
-  {
     "id": "x-1793891273079-tzfz8y",
     "source": "x",
     "ts": "2026-11-05T15:07:53.079Z",
@@ -7659,6 +7646,24 @@
     "url": "https://x.com/elonmusk/status/2118987688732926120",
     "images": [
       "https://pbs.twimg.com/media/HWgnsFUbYAIcYQu.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794042144020-5qnupj",
+    "source": "x",
+    "ts": "2026-11-07T09:02:24.020Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-07T09:00:58.000Z",
+    "reason": "Potential security issue affecting cryptocurrency accounts.",
+    "text": "🚨 ALERT: Keplr Wallet reports unauthorized transactions affecting some accounts created through Google or Apple login, as it investigates a Web3Auth security issue.",
+    "url": "https://x.com/Cointelegraph/status/2118992093418868959",
+    "images": [
+      "https://pbs.twimg.com/media/HWgsFDOW0AELVUJ.jpg"
     ],
     "video": null
   }
