@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793896328902-tljx0u",
-    "source": "x",
-    "ts": "2026-11-05T16:32:08.902Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-05T16:23:48.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "True",
-    "url": "https://x.com/elonmusk/status/2118379126004535334"
-  },
-  {
-    "id": "x-1793896948429-z5d6pj",
-    "source": "x",
-    "ts": "2026-11-05T16:42:28.429Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-05T16:38:30.000Z",
-    "reason": "Possible regulatory changes in the crypto market.",
-    "text": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
-    "url": "https://x.com/DecryptMedia/status/2118382457875554559",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793896953994-atutk2",
     "source": "x",
     "ts": "2026-11-05T16:42:33.994Z",
@@ -7658,5 +7629,34 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🔥INSIGHT: Bitcoin has hit escape velocity, according to @1markmoss.\n\nThe Market Disruptors founder told @itsciaranlyons that as long as Bitcoin stays decentralized and secure, he sees nothing that would derail it, government regulation included.\n\nWith BlackRock and JPMorgan",
     "url": "https://x.com/Cointelegraph/status/2119068127350702484"
+  },
+  {
+    "id": "x-1794061328973-uamcqy",
+    "source": "x",
+    "ts": "2026-11-07T14:22:08.973Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-07T14:20:41.000Z",
+    "reason": "No notable move in crypto related to the tweet's content.",
+    "text": "⚡️ UPDATE: Google clarified that schools can disable its AI tools individually without losing access to Google Search, following reports that schools would have to choose between the two.",
+    "url": "https://x.com/Cointelegraph/status/2119072553452843384"
+  },
+  {
+    "id": "x-1794061333825-wtq34z",
+    "source": "x",
+    "ts": "2026-11-07T14:22:13.825Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-07T14:16:31.000Z",
+    "reason": "Free tokens for hodlers is a notable use of a token.",
+    "text": "⚡️ INSIGHT: The eCash hard fork has given Bitcoin hodlers free ECX tokens.\n\nHere’s how to access, trade and use them, and what developers hope to build.",
+    "url": "https://x.com/Cointelegraph/status/2119071501307802043",
+    "images": [],
+    "video": null
   }
 ]
