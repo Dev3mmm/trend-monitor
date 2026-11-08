@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793923167213-7ynsaz",
-    "source": "x",
-    "ts": "2026-11-05T23:59:27.213Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-05T23:55:00.000Z",
-    "reason": "A new significant development in DeFi ecosystem with a notable swap of active DEX.",
-    "text": "Can Aero flip Uniswap to become Arbitrum's #1 DEX?\n\nIt took less than two weeks for @aeroxyz to become the second most active DEX on @arbitrum, the protocol having launched on the chain as recently as October 21.\n\nIn the past week, $AERO has seen $165.11M in $ARB based volume,",
-    "url": "https://x.com/BSCNews/status/2118492306781126662",
-    "images": [
-      "https://pbs.twimg.com/media/HWXz1zHWwAAufdF.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793923169270-t8kyqc",
     "source": "x",
     "ts": "2026-11-05T23:59:29.270Z",
@@ -7647,5 +7629,24 @@
     "reason": "No notable move in token price or behavior.",
     "text": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
     "url": "https://x.com/elonmusk/status/2119419126045454531"
+  },
+  {
+    "id": "x-1794144721233-zzmf94",
+    "source": "x",
+    "ts": "2026-11-08T13:32:01.233Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-08T13:25:28.000Z",
+    "reason": "Web3Auth debunks major theft report revealing verified recovery wallets.",
+    "text": "⚠️UPDATE: Web3Auth debunks the circulating $6.01 MILLION Keplr theft reports, saying the addresses Bitquery traced are VERIFIED recovery wallets.\n\nBitquery initially flagged the transfers as suspected theft after a Web3Auth breach exposed private keys for some Keplr wallets.",
+    "url": "https://x.com/coinbureau/status/2119421044348076302",
+    "images": [
+      "https://pbs.twimg.com/media/HWmxLAnbsAA5Zhs.png",
+      "https://pbs.twimg.com/media/HWmxMVQbAAA2Bqf.jpg"
+    ],
+    "video": null
   }
 ]
