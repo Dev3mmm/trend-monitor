@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793920083584-vp1nqu",
-    "source": "x",
-    "ts": "2026-11-05T23:08:03.584Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-05T23:00:48.000Z",
-    "reason": "Notable change in price/expectations for a crypto project.",
-    "text": "🔥 TODAY: Kalshi users now give Anthropic less than a 60% chance of going public this year, down from nearly 90% on the eve of the midterms.",
-    "url": "https://x.com/Cointelegraph/status/2118478667982458912",
-    "images": [
-      "https://pbs.twimg.com/media/HWZZHw5WcAAJpGl.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793920085663-lr59qb",
     "source": "x",
     "ts": "2026-11-05T23:08:05.663Z",
@@ -7657,5 +7639,24 @@
     "reason": "No notable crypto-related information.",
     "text": "🇺🇸 LATEST: Texas leads the US in planned data center capacity at over 60 gigawatts, with first-time developers accounting for a large share of the pipeline.",
     "url": "https://x.com/Cointelegraph/status/2119384670647287928"
+  },
+  {
+    "id": "x-1794137628620-hgfxx1",
+    "source": "x",
+    "ts": "2026-11-08T11:33:48.620Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-08T11:25:09.000Z",
+    "reason": "Exploit involving user private keys and potential theft of millions",
+    "text": "⚠️WARNING: Bitquery traced $6.01 MILLION in suspected theft after a Web3Auth breach exposed private keys for some Keplr wallets.\n\nKeplr paused Google and Apple logins and says some wallets created using either sign-in may be affected.\n\nWallets created with a recovery phrase or",
+    "url": "https://x.com/coinbureau/status/2119390765952712747",
+    "images": [
+      "https://pbs.twimg.com/media/HWmU17cbEAAJi2u.png",
+      "https://pbs.twimg.com/media/HWmWmbVboAA-hWB.png"
+    ],
+    "video": null
   }
 ]
