@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793947354808-jdrxrb",
-    "source": "x",
-    "ts": "2026-11-06T06:42:34.808Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-06T06:36:47.000Z",
-    "reason": "No notable crypto-related news in the tweet provided.",
-    "text": "🚨 ALERT: Iran-linked ships spotted loitering over critical undersea internet cables after Tehran threatened to target digital infrastructure, per FT.\n\nMaritime intelligence firm Windward identified unusual movements by at least four vessels in the Gulf of Oman, including three",
-    "url": "https://x.com/coinbureau/status/2118593417924215223"
-  },
-  {
-    "id": "x-1793947964391-n94j8f",
-    "source": "x",
-    "ts": "2026-11-06T06:52:44.391Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-06T06:44:41.000Z",
-    "reason": "No factual claim or event mentioned.",
-    "text": "@tetsuoai It troubles me greatly that we do not yet see any sign of aliens",
-    "url": "https://x.com/elonmusk/status/2118596945312960849"
-  },
-  {
     "id": "x-1793947967431-t4wnbj",
     "source": "x",
     "ts": "2026-11-06T06:52:47.431Z",
@@ -7626,5 +7600,34 @@
     "url": "https://x.com/Rarma_/status/2119552633761681461",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794176527775-9aiglh",
+    "source": "x",
+    "ts": "2026-11-08T22:22:07.775Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 19,
+    "originTimestamp": "2026-11-08T22:02:40.000Z",
+    "reason": "Price below a significant threshold with notable percentage drop.",
+    "text": "BREAKING: $NEAR falls below $3.50, down 4.6% in 24 hours.",
+    "url": "https://x.com/BSCNews/status/2119554986346471922",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794176530580-1uydsg",
+    "source": "x",
+    "ts": "2026-11-08T22:22:10.580Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-08T22:14:00.000Z",
+    "reason": "No notable move or event described, just an explanation.",
+    "text": "Masternode Validators are one of the most important components of the entire @XDCNetwork ecosystem. We explain what they actually are, and why they matter ⬇️",
+    "url": "https://x.com/BSCNews/status/2119554052690268332"
   }
 ]
