@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793913156242-vtvlvc",
-    "source": "x",
-    "ts": "2026-11-05T21:12:36.242Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-05T21:11:28.000Z",
-    "reason": "Generic financial news not specific to cryptocurrencies or blockchain technology.",
-    "text": "🚨 Tech just had its WORST day since COVID.\n\n🇺🇸 The AI crackdown fears behind today’s $3.5 TRILLION selloff face two hurdles: January and Trump’s veto.\n\nUS stocks lost over $3,500,000,000,000 today, as the Nasdaq 100 posted its worst day since March 2020.\n\nChipmakers sank on",
-    "url": "https://x.com/coinbureau/status/2118451155147911196"
-  },
-  {
-    "id": "x-1793913159170-a1un0r",
-    "source": "x",
-    "ts": "2026-11-05T21:12:39.170Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-05T21:10:13.000Z",
-    "reason": "No notable crypto-related event or use of crypto is mentioned.",
-    "text": "⚡ UPDATE: Elon Musk's net worth was down roughly $70B in a day.\n\nAnd yet, he still has more than double the second richest man on Forbes' list.",
-    "url": "https://x.com/Cointelegraph/status/2118450839442391411"
-  },
-  {
     "id": "x-1793913742925-o68las",
     "source": "x",
     "ts": "2026-11-05T21:22:22.925Z",
@@ -7662,6 +7636,37 @@
     "url": "https://x.com/BSCNews/status/2119249798515875978",
     "images": [
       "https://pbs.twimg.com/media/HWcYKHxXoAA6gOv.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794106988826-pykyg1",
+    "source": "x",
+    "ts": "2026-11-08T03:03:08.826Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-08T03:00:46.000Z",
+    "reason": "The tweet is about company spending cuts and does not pertain to crypto or blockchain technology.",
+    "text": "🚨 JUST IN: Meta and Microsoft are working to reduce employees’ reliance on Anthropic’s Claude, with Microsoft cutting internal Claude spending by a third, according to The Information.",
+    "url": "https://x.com/Cointelegraph/status/2119263833772396822"
+  },
+  {
+    "id": "x-1794106993778-0uo1qv",
+    "source": "x",
+    "ts": "2026-11-08T03:03:13.778Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-08T02:59:35.000Z",
+    "reason": "Noteworthy institutional outflow from BlackRock's Bitcoin ETF.",
+    "text": "🚨ALERT: Investors pulled $1.44 BILLION from BlackRock’s Bitcoin ETF $IBIT alone over six straight trading days.\n\nU.S. spot Bitcoin ETFs saw $1.92B in net outflows from Oct. 30 through Nov. 6. \n\nOn Friday, IBIT accounted for $403M of the $411.9 million in net outflows.",
+    "url": "https://x.com/coinbureau/status/2119263536191058090",
+    "images": [
+      "https://pbs.twimg.com/media/HWki8plbYAATvbE.jpg"
     ],
     "video": null
   }
