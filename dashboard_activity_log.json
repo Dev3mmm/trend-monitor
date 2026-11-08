@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793921504345-5mnqcu",
-    "source": "x",
-    "ts": "2026-11-05T23:31:44.345Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-05T23:30:43.000Z",
-    "reason": "No notable or verifiable financial information provided.",
-    "text": "🔥 JUST IN: Hyperliquid Strategies booked $620M in Q3 profit, mostly paper gains on $HYPE, and has applied for a license to bring Hyperliquid perps to US traders.",
-    "url": "https://x.com/Cointelegraph/status/2118486198024901052"
-  },
-  {
-    "id": "x-1793921508616-jd2hcr",
-    "source": "x",
-    "ts": "2026-11-05T23:31:48.616Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-05T23:19:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Spot HBAR ETF sees best day since January!\n\nInvestors poured capital into Canary's spot @Hedera ETF on November 4, resulting in a net inflow of +$2.73M.\n\nThis marks the largest single-day inflow the HBAR ETF has seen since January 21, when it gained +$3.31M.\n\nShould we be",
-    "url": "https://x.com/BSCNews/status/2118483246845727162",
-    "images": [
-      "https://pbs.twimg.com/media/HWXzzvHXQAA_azy.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793921666877-2djjh6",
     "source": "x",
     "ts": "2026-11-05T23:34:26.877Z",
@@ -7657,5 +7626,37 @@
     "reason": "No notable crypto-related event.",
     "text": "🇸🇬 JUST IN: Apple saved $2.7 billion in taxes in 2026 by shifting profits to Singapore, surpassing Ireland as its largest offshore tax shelter, according to the Financial Times.",
     "url": "https://x.com/Cointelegraph/status/2119399790530195873"
+  },
+  {
+    "id": "x-1794140524017-cfp1ch",
+    "source": "x",
+    "ts": "2026-11-08T12:22:04.017Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-08T12:10:05.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Fucked around and learnt the hard way.",
+    "url": "https://x.com/amerix/status/2119403224859881769"
+  },
+  {
+    "id": "x-1794140527442-p8dhnd",
+    "source": "x",
+    "ts": "2026-11-08T12:22:07.442Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-08T12:10:12.000Z",
+    "reason": "Regulatory alert from a prominent exchange CEO.",
+    "text": "OKX Founder Warns Against Direct Transfers From MEXC.\n\nOKX founder Star Xu warned Saturday against transferring funds directly from MEXC to OKX, saying affected funds may be frozen and associated accounts investigated under strengthened compliance controls.",
+    "url": "https://x.com/DecryptMedia/status/2119402101671415951",
+    "images": [
+      "https://pbs.twimg.com/media/HWmg7hfWAAAdpQk.png",
+      "https://pbs.twimg.com/media/HWmg8mpXsAEQZh1.png"
+    ],
+    "video": null
   }
 ]
