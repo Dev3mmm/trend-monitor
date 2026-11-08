@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793937811600-bj9dwm",
-    "source": "x",
-    "ts": "2026-11-06T04:03:31.600Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-06T04:00:46.000Z",
-    "reason": "Security flaw affecting BNB Chain but no immediate impact on users.",
-    "text": "🚨 ALERT: BNB Chain says a security flaw in the Reth client has limited impact on BSC-Reth and leaves opBNB unaffected.\n\nA hotfix is underway and no action needed from users.",
-    "url": "https://x.com/Cointelegraph/status/2118554157032350029",
-    "images": [
-      "https://pbs.twimg.com/media/HWadxykWMAA-txW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793937818415-vn7esh",
-    "source": "x",
-    "ts": "2026-11-06T04:03:38.415Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-06T04:00:02.000Z",
-    "reason": "Tether CEO reveals holding significant amount of BTC and expanding mining operations.",
-    "text": "Tether CEO: Company Holds 150,000 BTC, Mining Hashrate Tops 50 EH/s\n\nAt Plan ₿ Forum 2026 in Lugano on October 23–24, Tether CEO Paolo Ardoino @paoloardoino said the company holds 150,000 bitcoin. He said Tether has built one of the world's largest mining operations with",
-    "url": "https://x.com/WuBlockchain/status/2118553971170189385",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2118277286646743040/vid/avc1/1280x720/a4KS_dfkMQyyCHG5.mp4?tag=29",
-      "duration": 100,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118277286646743040/img/SA_f6fLsBGayO96N.jpg"
-    }
-  },
-  {
-    "id": "x-1793938329051-dfvpp4",
-    "source": "x",
-    "ts": "2026-11-06T04:12:09.051Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-06T04:11:00.000Z",
-    "reason": "Polygon generating significant revenue, potentially disrupting traditional blockchain funding models.",
-    "text": "Polygon one of few chains making real money.\n\nIn the month of October, @0xPolygon's chain itself generated some $2.17M in revenue, from activity on the network, averaging around $70,000 per day.\n\nThough this seems small, it is greater than some major blockchains, including",
-    "url": "https://x.com/BSCNews/status/2118556731185955267",
-    "images": [
-      "https://pbs.twimg.com/media/HWX0Il4WEAAu6lf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793940021609-ofm9td",
     "source": "x",
     "ts": "2026-11-06T04:40:21.609Z",
@@ -7643,5 +7586,49 @@
     "reason": "No notable move or news value.",
     "text": "If an X-gener from Westie, Lavy, Kile and those areas does not finish a conversation with\n\n\"Dude, cheers man.\"\n\nHe will make sure he calls you on phone just to say,\n\n\"Dude, cheers man!\"\n\nThat signature is cultural.",
     "url": "https://x.com/amerix/status/2119483069073600572"
+  },
+  {
+    "id": "x-1794160921467-ydrpl0",
+    "source": "x",
+    "ts": "2026-11-08T18:02:01.467Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-08T18:01:07.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨 BIG: Anthropic has struck a $3.4 billion deal to secure 1.7 gigawatts of gas-fired power generators for its AI data centers, according to the Financial Times. \n\nThe deal marks the largest known single purchase of power-generation equipment by an AI lab as demand for",
+    "url": "https://x.com/Cointelegraph/status/2119490413941698701",
+    "images": [
+      "https://pbs.twimg.com/media/HWnxTBBWUAAJuc8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794160925179-bmi40u",
+    "source": "x",
+    "ts": "2026-11-08T18:02:05.179Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-08T18:00:01.000Z",
+    "reason": "No notable move in Tether's user count.",
+    "text": "Tether CEO: 300 Lines of USDT Code, Used by 700 Million People  \n\nPaolo Ardoino @paoloardoino, CEO of Tether, said at Plan ₿ Forum 2026 in Lugano that USDT is essentially a smart contract that changed people's lives. \n\nTether now has more than 730 million users and adds 30",
+    "url": "https://x.com/WuBlockchain/status/2119490135234347222"
+  },
+  {
+    "id": "x-1794160927569-3lvq78",
+    "source": "x",
+    "ts": "2026-11-08T18:02:07.569Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-08T17:54:09.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "AI can make me rap. It can’t print Bitcoin.",
+    "url": "https://x.com/saylor/status/2119488660428988740"
   }
 ]
