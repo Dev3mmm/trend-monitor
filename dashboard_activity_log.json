@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793769737701-k0zbvf",
-    "source": "x",
-    "ts": "2026-11-04T05:22:17.701Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-04T05:15:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨BREAKING: Bitcoin plunges BELOW $76,000 for the first time since September 16.\n\nNearly $250 MILLION in leveraged crypto positions have been liquidated over the past four hours as the selloff intensifies.",
-    "url": "https://x.com/coinbureau/status/2117848061309596127",
-    "images": [
-      "https://pbs.twimg.com/media/HWQQwREboAARTKU.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793923167213-7ynsaz",
     "source": "x",
     "ts": "2026-11-05T23:59:27.213Z",
@@ -7652,5 +7634,18 @@
       "https://pbs.twimg.com/media/HWmqq49aYAAX38j.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794144139393-8bmw4v",
+    "source": "x",
+    "ts": "2026-11-08T13:22:19.393Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-08T13:17:51.000Z",
+    "reason": "No notable move in token price or behavior.",
+    "text": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
+    "url": "https://x.com/elonmusk/status/2119419126045454531"
   }
 ]
