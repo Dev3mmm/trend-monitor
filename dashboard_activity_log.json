@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793922950893-jl3cez",
-    "source": "x",
-    "ts": "2026-11-05T23:55:50.893Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-05T23:40:42.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "🇺🇸 NOW: President Trump says the stock market had one of its worst days in history because of the election results.\n\n “Do not fear, however, we will soon, one way or the other, be BIGGER AND STRONGER THAN EVER BEFORE.”",
-    "url": "https://x.com/Cointelegraph/status/2118488708605182109"
-  },
-  {
     "id": "x-1793769737701-k0zbvf",
     "source": "x",
     "ts": "2026-11-04T05:22:17.701Z",
@@ -7646,5 +7633,24 @@
     "reason": "Noise: Generic statement without a concrete price or event.",
     "text": "Connecting the dots.",
     "url": "https://x.com/saylor/status/2119414787134083540"
+  },
+  {
+    "id": "x-1794143509675-jupkvp",
+    "source": "x",
+    "ts": "2026-11-08T13:11:49.675Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-08T13:09:08.000Z",
+    "reason": "Notable theft debunking and asset protection by an institution.",
+    "text": "⚠️UPDATE: Web3Auth DEBUNKS the circulating $6.01 MILLION Keplr wallet theft estimate, saying the addresses behind it are VERIFIED recovery wallets.\n\nWeb3Auth says it moved funds to those wallets with Keplr’s help to protect users’ assets. \n\nThose transfers were MISTAKEN for",
+    "url": "https://x.com/coinbureau/status/2119416934257353174",
+    "images": [
+      "https://pbs.twimg.com/media/HWmqdAfa0AAHEjG.png",
+      "https://pbs.twimg.com/media/HWmqq49aYAAX38j.png"
+    ],
+    "video": null
   }
 ]
