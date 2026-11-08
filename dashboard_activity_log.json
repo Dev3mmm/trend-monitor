@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793947969515-a4zsck",
-    "source": "x",
-    "ts": "2026-11-06T06:52:49.515Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-06T06:48:39.000Z",
-    "reason": "Noise: vague and lacks context.",
-    "text": "14 years ago",
-    "url": "https://x.com/elonmusk/status/2118596405862478175"
-  },
-  {
-    "id": "x-1793947971628-2x6no0",
-    "source": "x",
-    "ts": "2026-11-06T06:52:51.628Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-06T06:45:45.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Banger",
-    "url": "https://x.com/elonmusk/status/2118595675374109154"
-  },
-  {
     "id": "x-1793947975001-ft3baj",
     "source": "x",
     "ts": "2026-11-06T06:52:55.001Z",
@@ -7634,5 +7608,31 @@
       "https://pbs.twimg.com/media/HWovAAyWYAAXRla.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794178919388-xlk339",
+    "source": "x",
+    "ts": "2026-11-08T23:01:59.388Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-08T23:00:46.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "When was the last time you bought a new altcoin or memecoin for the first time? 👇",
+    "url": "https://x.com/Cointelegraph/status/2119565821361963290"
+  },
+  {
+    "id": "x-1794178925204-63xgzl",
+    "source": "x",
+    "ts": "2026-11-08T23:02:05.204Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-08T23:00:00.000Z",
+    "reason": "No notable move or event described.",
+    "text": "🚨Key events to watch this week.\n\nMONDAY, Nov. 9\n- China CPI and PPI\n- Japan current account and trade data\n- Take-Two (TTWO) earnings, with GTA VI updates\n\nTUESDAY, Nov. 10\n- U.S. CPI and real earnings\n- CoreWeave (CRWV) earnings call\n\nWEDNESDAY, Nov. 11\n- Veterans Day: U.S.",
+    "url": "https://x.com/coinbureau/status/2119565632073236897"
   }
 ]
