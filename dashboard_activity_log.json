@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793944969309-t4xj89",
-    "source": "x",
-    "ts": "2026-11-06T06:02:49.309Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-06T05:55:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "It's been roughly a year since $PI Ventures made an investment into @PlayCiDi - Is @PiCoreTeam still bullish on gaming...? ⬇️",
-    "url": "https://x.com/BSCNews/status/2118582903412080783"
-  },
-  {
     "id": "x-1793946122362-yy1t7l",
     "source": "x",
     "ts": "2026-11-06T06:22:02.362Z",
@@ -7615,5 +7602,24 @@
     "reason": "No notable crypto-related content.",
     "text": "🚨 UPDATE: NVIDIA CEO Jensen Huang admitted he was “unfaithful to my wife” following reports of a relationship with a woman suspected of being a Chinese intelligence asset. \n\nNVIDIA’s board has launched an independent investigation into whether he was targeted by foreign",
     "url": "https://x.com/Cointelegraph/status/2119531325887570039"
+  },
+  {
+    "id": "x-1794171713721-pcfr91",
+    "source": "x",
+    "ts": "2026-11-08T21:01:53.721Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-08T21:00:50.000Z",
+    "reason": "Sei Network reports significant on-chain data points.",
+    "text": "🔥 UPDATE: Sei Network reports surpassing 101 million EVM addresses, 5.2 billion transactions, 3.5 million deployed contracts and $16 billion in cumulative DEX trading volume since its 2023 launch.",
+    "url": "https://x.com/Cointelegraph/status/2119535639997624680",
+    "images": [
+      "https://pbs.twimg.com/media/HWoabPkW4AA1s9q.jpg",
+      "https://pbs.twimg.com/media/HWoabkVXIAA-O-k.jpg"
+    ],
+    "video": null
   }
 ]
