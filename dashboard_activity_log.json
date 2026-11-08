@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793929955642-tde4ba",
-    "source": "x",
-    "ts": "2026-11-06T01:52:35.642Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-06T01:44:00.000Z",
-    "reason": "Notable decrease in Ethereum staking demand and number of tokens waiting to be staked.",
-    "text": "Ethereum staking demand continues to fall.\n\nAt time of writing, there is 1,036,882 $ETH, worth over $2.3B, waiting to be staked on @Ethereum mainnet.\n\nThe number is large, but just six months ago, it stood at 3,737,802 $ETH, the figure having fallen consistently ever since.\n\nWith",
-    "url": "https://x.com/BSCNews/status/2118519737298702405",
-    "images": [
-      "https://pbs.twimg.com/media/HWXz-RXWAAEGPGO.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793930542105-ot4e0z",
-    "source": "x",
-    "ts": "2026-11-06T02:02:22.105Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-06T02:00:50.000Z",
-    "reason": "No notable crypto-related event or use mentioned.",
-    "text": "🇺🇸 JUST IN: Iran sent the US a nuclear proposal via Qatar, but talks on it will only start once Washington meets Tehran’s seven demands, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2118523972723556847"
-  },
-  {
     "id": "x-1793931120424-9j3bj1",
     "source": "x",
     "ts": "2026-11-06T02:12:00.424Z",
@@ -7643,5 +7612,42 @@
     "reason": "No notable crypto-related news in the given tweet.",
     "text": "China Inflation Data Lead a Week of US Price Reports.\n\nChina's October inflation data are due Sunday at 8:30 PM EST [01:30 UTC Monday], ahead of US consumer prices on Tuesday, Nov. 10, and producer prices on Friday, Nov. 13.",
     "url": "https://x.com/DecryptMedia/status/2119444835375497501"
+  },
+  {
+    "id": "x-1794150731556-1b7wph",
+    "source": "x",
+    "ts": "2026-11-08T15:12:11.556Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-08T15:11:00.000Z",
+    "reason": "Significant increase in XDC Network's stablecoin supply and market cap.",
+    "text": "XDC Network's stablecoin supply EXPLODES +82%.\n\nThe stablecoin market cap on @XDCNetwork is up nearly +82% on the week at time of writing, outpacing growth by every other major blockchain.\n\nThere are now $110M worth of stablecoins on xdce-crowd-sale:native, making it the #27",
+    "url": "https://x.com/BSCNews/status/2119447601296839148",
+    "images": [
+      "https://pbs.twimg.com/media/HWl3j2FXcAA9sD4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794150734978-6wtn6m",
+    "source": "x",
+    "ts": "2026-11-08T15:12:14.978Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-08T15:09:17.000Z",
+    "reason": "Notable AI company deal involving significant capital and power.",
+    "text": "AI spending isn’t SLOWING DOWN. 🔥\n\nThe Claude maker struck a massive $3.4 BILLION deal to power its data centers, FT reports.\n\nAnthropic took over existing orders for 1.7 GW of gas-fired generators, bypassing traditional power providers as surging demand makes the equipment",
+    "url": "https://x.com/coinbureau/status/2119447171426926776",
+    "images": [
+      "https://pbs.twimg.com/media/HWnGvcEbIAEBTYs.jpg",
+      "https://pbs.twimg.com/media/HWnJzrybkAA328S.png"
+    ],
+    "video": null
   }
 ]
