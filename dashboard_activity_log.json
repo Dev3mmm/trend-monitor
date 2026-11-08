@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793946124366-xpqanc",
-    "source": "x",
-    "ts": "2026-11-06T06:22:04.366Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-06T06:09:59.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "This is exactly in line with how I've always thought.  In fact, I hate the em-dash (even before AI over-use), and I've always used the single-dash with spaces instead of it.",
-    "url": "https://x.com/elonmusk/status/2118589166967730463"
-  },
-  {
     "id": "x-1793946722133-ny0zyq",
     "source": "x",
     "ts": "2026-11-06T06:32:02.133Z",
@@ -7624,6 +7611,24 @@
     "url": "https://x.com/BSCNews/status/2119536437313905107",
     "images": [
       "https://pbs.twimg.com/media/HWl36g6W0AA_t3Z.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794172940905-vqozij",
+    "source": "x",
+    "ts": "2026-11-08T21:22:20.905Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 22,
+    "originTimestamp": "2026-11-08T21:00:02.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Huge payments story! 💳\n\n$LTC is the most consistently used crypto for real-world payments, and @litecoin's on-chain data keeps getting stronger. What merchants are saying is the surprising part.\n\nGet the details:",
+    "url": "https://x.com/BSCNews/status/2119539065309544616",
+    "images": [
+      "https://pbs.twimg.com/media/HWiqlO7XUAA59fC.jpg"
     ],
     "video": null
   }
