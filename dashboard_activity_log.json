@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793940222288-fkhff6",
-    "source": "x",
-    "ts": "2026-11-06T04:43:42.288Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-06T04:30:43.000Z",
-    "reason": "No notable market move or specific news event.",
-    "text": "🚨 LATEST: Jim Cramer says the AI selloff likely has further to go but is no repeat of the dot-com crash, since most of today’s hardest-hit companies still turn a profit.\n\nBullish or bearish signal?",
-    "url": "https://x.com/Cointelegraph/status/2118561694246990127"
-  },
-  {
-    "id": "x-1793940227239-a0ql81",
-    "source": "x",
-    "ts": "2026-11-06T04:43:47.239Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-06T04:27:54.000Z",
-    "reason": "No notable move in the given price range.",
-    "text": "@yunta_tsai (The rules of English need to change to put spaces between the em dashes, as they presently too much resemble a hyphenated word, rather than a parenthetical phrase. Also, “—“ is an unpleasantly long a line. The en dash, “–“, is a better length.)",
-    "url": "https://x.com/elonmusk/status/2118561136580939885"
-  },
-  {
     "id": "x-1793940769737-fe0asj",
     "source": "x",
     "ts": "2026-11-06T04:52:49.737Z",
@@ -7630,5 +7604,36 @@
     "reason": "No notable move or specific event described.",
     "text": "\"You guy, my guy, a ka deal has just gone through like this, nini nini, they just chapad me a depo\"",
     "url": "https://x.com/amerix/status/2119494668908155304"
+  },
+  {
+    "id": "x-1794162777517-g0jzma",
+    "source": "x",
+    "ts": "2026-11-08T18:32:57.517Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-08T18:30:45.000Z",
+    "reason": "Potential security issue affecting crypto wallet users",
+    "text": "🚨 ALERT: CZ warns crypto wallet users about a Web3Auth security issue affecting those who used social logins.",
+    "url": "https://x.com/Cointelegraph/status/2119497869933654260",
+    "images": [
+      "https://pbs.twimg.com/media/HWn4FGZWgAAPFei.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794162782166-brtg6f",
+    "source": "x",
+    "ts": "2026-11-08T18:33:02.166Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 86,
+    "originTimestamp": "2026-11-08T17:06:21.000Z",
+    "reason": "No notable crypto-related event or price movement mentioned.",
+    "text": "如果美伊达成协议，美国对伊朗继续打击的可能性很低\n\n就在刚才川普在接受 CNN 电话采访时表示，如果美国和伊朗的谈判继续取得进展，双方能够签署一项有力的协议，那么美国极不可能需要恢复对伊朗的打击。",
+    "url": "https://x.com/PhyrexNi/status/2119497582733132061"
   }
 ]
