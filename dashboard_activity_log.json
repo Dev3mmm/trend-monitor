@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793946122362-yy1t7l",
-    "source": "x",
-    "ts": "2026-11-06T06:22:02.362Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 85,
-    "originTimestamp": "2026-11-06T04:56:34.000Z",
-    "reason": "No substantive information or action described.",
-    "text": "Yup",
-    "url": "https://x.com/elonmusk/status/2118589343061491737"
-  },
-  {
     "id": "x-1793946124366-xpqanc",
     "source": "x",
     "ts": "2026-11-06T06:22:04.366Z",
@@ -7619,6 +7606,24 @@
     "images": [
       "https://pbs.twimg.com/media/HWoabPkW4AA1s9q.jpg",
       "https://pbs.twimg.com/media/HWoabkVXIAA-O-k.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794172337804-nxkvq4",
+    "source": "x",
+    "ts": "2026-11-08T21:12:17.804Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-08T21:04:00.000Z",
+    "reason": "Kaspa ecosystem reaching significant transaction milestones.",
+    "text": "Kaspa ecosystem celebrates 5th anniversary.\n\nThe $KAS blockchain launched on November 7, 2021 - Now one of few blockchains to have survived a difficult few years for the crypto market.\n\nIn that five-year period, @kaspaunchained has reached...\n\n- 2.443 billion transactions.\n- 587",
+    "url": "https://x.com/BSCNews/status/2119536437313905107",
+    "images": [
+      "https://pbs.twimg.com/media/HWl36g6W0AA_t3Z.jpg"
     ],
     "video": null
   }
