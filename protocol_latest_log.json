@@ -1758,5 +1758,19 @@
     "fetchedAt": "2026-11-09T15:22:23.545Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-37e4edff7451f8d0",
+    "title": "Peras Weekly Update : 6 November 2026",
+    "url": "https://forum.cardano.org/t/peras-weekly-update-6-november-2026/157896",
+    "description": "This week, the team demoed two months of Peras development, worked on certificate storage and voting rules, and ran more testnet experiments. You can watch the latest Peras demo . Consensus Identified the need to persist volatile certificates to disk to reduce the possibility of ever forgetting a certificate. Explored how the volatile and immutable certificate databases could overlap. Worked on Pe",
+    "publishedAt": "2026-11-09T16:37:32.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-09T16:42:38.395Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
