@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1793987229036-l82pta",
-    "source": "x",
-    "ts": "2026-11-06T17:47:09.036Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-06T17:42:56.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "The things happening across the world are so complex for ordinary people to decipher, discern and understand.\n\nPeople only see superficial and cosmetic events.\n\nBut one day you will see it, and it will be too late to reverse it.",
-    "url": "https://x.com/amerix/status/2118761060060606816"
-  },
-  {
-    "id": "x-1793987521321-56ch1p",
-    "source": "x",
-    "ts": "2026-11-06T17:52:01.321Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-06T17:49:44.000Z",
-    "reason": "Oracle shares' significant drop due to a potential Microsoft deal termination.",
-    "text": "🚨BREAKING: Oracle $ORCL shares fall over 6% as Microsoft $MSFT reportedly winds down a deal to rent AI cloud capacity.",
-    "url": "https://x.com/coinbureau/status/2118762773865980251",
-    "images": [
-      "https://pbs.twimg.com/media/HWdbKwNbgAA5a0v.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793987524110-b9jpl3",
-    "source": "x",
-    "ts": "2026-11-06T17:52:04.110Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-06T17:48:00.000Z",
-    "reason": "Significant code cleanup in Sei Network's history.",
-    "text": "Sei is cutting its code down hard on the road to Giga\n\n@Sei_Labs says the next $SEI network release, v6.8, will shrink the core code by about 165,000 lines, which it calls the biggest cleanup in @SeiNetwork's history. The update adds 239,000 lines and removes 404,000, with",
-    "url": "https://x.com/BSCNews/status/2118762335938437362",
-    "images": [
-      "https://pbs.twimg.com/media/HWdWNnKXwAAa-pp.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793988159080-gmybvz",
     "source": "x",
     "ts": "2026-11-06T18:02:39.080Z",
@@ -7677,5 +7628,61 @@
     "reason": "No notable move or specific event is described.",
     "text": "Midnight Just Got a Major Upgrade\n\nPrivacy network @MidnightNtwrk has released the Ledger 9 mainnet update. \n\nThe release facilitates confidential transactions and contract executions between contracts, along with Ethereum cryptographic algorithms.\n\nThe hard fork has facilitated",
     "url": "https://x.com/BSCNews/status/2119809234321723559"
+  },
+  {
+    "id": "x-1794237714418-8b31nr",
+    "source": "x",
+    "ts": "2026-11-09T15:21:54.418Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-09T15:21:06.000Z",
+    "reason": "Specific crypto purchase by a public company.",
+    "text": "JUST IN: 🇺🇸 Public company Strive bought 29 Bitcoin worth $2.2 million.\n\nThis brings their treasury to 43,153 BTC 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2119812533653553525",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2119812480838905856/vid/avc1/1280x720/kdkVPLuIrrS2DpJi.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HWsWQuDWQAAEGx9.jpg"
+    }
+  },
+  {
+    "id": "x-1794237718413-hpkb87",
+    "source": "x",
+    "ts": "2026-11-09T15:21:58.413Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-09T15:20:42.000Z",
+    "reason": "Notable exploit involving stolen funds.",
+    "text": "🚨 UPDATE: Binance hacker moves $430,000 in stolen funds through six self-created $NEAR meme coins in just three days, per Elliptic.",
+    "url": "https://x.com/Cointelegraph/status/2119812430620397924",
+    "images": [
+      "https://pbs.twimg.com/media/HWsWKrSWMAAHYTU.jpg",
+      "https://pbs.twimg.com/media/HWsWK6BWgAAKf37.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794237722852-6oov3u",
+    "source": "x",
+    "ts": "2026-11-09T15:22:02.852Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coinbase 🛡️",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-09T15:07:00.000Z",
+    "reason": "Notable bank's adoption of USDC for corporate payments.",
+    "text": "USDC received. Dollars deposited.\n\nEligible PNC corporate clients can now receive USDC payments that land as dollars in their PNC account.",
+    "url": "https://x.com/coinbase/status/2119810717591519256",
+    "images": [],
+    "video": null
   }
 ]
