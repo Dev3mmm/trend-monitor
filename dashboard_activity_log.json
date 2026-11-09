@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1793987223089-ynl6ud",
-    "source": "x",
-    "ts": "2026-11-06T17:47:03.089Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 46,
-    "originTimestamp": "2026-11-06T17:00:27.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "For the terminally online. \n\nWe have something for you soon.",
-    "url": "https://x.com/coinbase/status/2118761715689226280"
-  },
-  {
-    "id": "x-1793987226350-u3m8dh",
-    "source": "x",
-    "ts": "2026-11-06T17:47:06.350Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-06T17:43:45.000Z",
-    "reason": "US Sanctions on additional targets linked to a crypto scam empire group.",
-    "text": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-    "url": "https://x.com/DecryptMedia/status/2118761266936185175",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1793987229036-l82pta",
     "source": "x",
     "ts": "2026-11-06T17:47:09.036Z",
@@ -7674,5 +7645,37 @@
       "https://pbs.twimg.com/media/HWrgrPlXQAAjgCy.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794237115001-6x91df",
+    "source": "x",
+    "ts": "2026-11-09T15:11:55.001Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T15:09:22.000Z",
+    "reason": "North Korea-linked hackers using memecoins to launder Binance hack funds.",
+    "text": "🚨BREAKING: North Korea-linked hackers are using MEMECOINS to launder funds from the $6.4 BILLION Binance hack, Elliptic reports.\n\nBetween Nov. 5 and 7, the hackers created at least six memecoins on NEAR, spending about $90 per token to launch them.\n\nThey then moved 117,000 NEAR",
+    "url": "https://x.com/coinbureau/status/2119809577944498377",
+    "images": [
+      "https://pbs.twimg.com/media/HWsTTHNboAE4a6u.jpg",
+      "https://pbs.twimg.com/media/HWsTguDbEAAO_eQ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794237117950-1i6ai5",
+    "source": "x",
+    "ts": "2026-11-09T15:11:57.950Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-09T15:08:00.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Midnight Just Got a Major Upgrade\n\nPrivacy network @MidnightNtwrk has released the Ledger 9 mainnet update. \n\nThe release facilitates confidential transactions and contract executions between contracts, along with Ethereum cryptographic algorithms.\n\nThe hard fork has facilitated",
+    "url": "https://x.com/BSCNews/status/2119809234321723559"
   }
 ]
