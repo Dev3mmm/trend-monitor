@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793994335811-jcnxae",
-    "source": "x",
-    "ts": "2026-11-06T19:45:35.811Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 54,
-    "originTimestamp": "2026-11-06T18:50:51.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Armies that win have the general at the front lines. Nobody wants to bleed for the prince in the palace.",
-    "url": "https://x.com/elonmusk/status/2118789067571954105"
-  },
-  {
-    "id": "x-1793994337910-kikb6i",
-    "source": "x",
-    "ts": "2026-11-06T19:45:37.910Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 35,
-    "originTimestamp": "2026-11-06T19:10:32.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "~100 lasers per satellite, each operating above 10 Tb/s, with over 100k satellites should be able to outcompete undersea cables. \n\nSpeed of light in space is ~40% faster than cable and the path is direct, instead of following the outline of land masses.",
-    "url": "https://x.com/elonmusk/status/2118788513365954734"
-  },
-  {
-    "id": "x-1793994340269-i20b96",
-    "source": "x",
-    "ts": "2026-11-06T19:45:40.269Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-06T19:30:45.000Z",
-    "reason": "Real warning on potential significant price movement.",
-    "text": "🚨 LATEST: Bloomberg's Mike McGlone says Bitcoin losing $80K could trigger a selling cascade into year-end.\n\n$BTC is already down to $75.6K after a 6% dump.\n\nReal warning or the bottom signal?",
-    "url": "https://x.com/Cointelegraph/status/2118788193373827510",
-    "images": [
-      "https://pbs.twimg.com/media/HWdyoTIWAAAQwpf.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793994342151-gtmuyb",
-    "source": "x",
-    "ts": "2026-11-06T19:45:42.151Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 45,
-    "originTimestamp": "2026-11-06T18:59:59.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "Elon today on @SpaceX's upcoming Starship Flight 15, which will attempt to catch both the Super Heavy Booster and Starship's upper stage:\n\n\"You really want to watch this one. This one's cool. It's the largest flying object ever made. And then the giant thing comes back.",
-    "url": "https://x.com/elonmusk/status/2118786432471015511"
-  },
-  {
     "id": "x-1793994343930-bfd98l",
     "source": "x",
     "ts": "2026-11-06T19:45:43.930Z",
@@ -7676,5 +7619,65 @@
       "https://pbs.twimg.com/media/HWstSDCWEAE8d1b.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794244937000-2k2bu0",
+    "source": "x",
+    "ts": "2026-11-09T17:22:17.000Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-09T17:20:42.000Z",
+    "reason": "Significant amount of crypto positions liquidated in 24 hours.",
+    "text": "🚨 ALERT: Over $1.2 BILLION in crypto positions were liquidated in the past 24 hours, including $1.07 billion in longs.",
+    "url": "https://x.com/Cointelegraph/status/2119842628468433360",
+    "images": [
+      "https://pbs.twimg.com/media/HWsxonuWMAAysKJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794244940960-8bj8fa",
+    "source": "x",
+    "ts": "2026-11-09T17:22:20.961Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-09T17:10:48.000Z",
+    "reason": "No notable move, statement is vague and subjective.",
+    "text": "This thread was a bit painful to read. I know the pain. Read it if you want to avoid it.",
+    "url": "https://x.com/cz_binance/status/2119841907140673816"
+  },
+  {
+    "id": "x-1794244946237-1nxe83",
+    "source": "x",
+    "ts": "2026-11-09T17:22:26.237Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-09T17:15:30.000Z",
+    "reason": "Vitalik's statement about ETH's value being stability is a noteworthy opinion in the crypto space.",
+    "text": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
+    "url": "https://x.com/DecryptMedia/status/2119841320856416549",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794244950197-osdqbi",
+    "source": "x",
+    "ts": "2026-11-09T17:22:30.197Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 31,
+    "originTimestamp": "2026-11-09T16:50:31.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "$STRC is income-generating, tax-deferred, and designed to trade at $100. $MSTR",
+    "url": "https://x.com/saylor/status/2119840700519047577"
   }
 ]
