@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794005626888-0lqm7n",
-    "source": "x",
-    "ts": "2026-11-06T22:53:46.888Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-06T22:45:42.000Z",
-    "reason": "Notable financial move for a high-profile crypto-related company.",
-    "text": "🚨 LATEST: Anthropic investors are questioning its $1.5 trillion IPO valuation, with some expecting it to fall to $1 trillion following the tech sell-off, per CNBC.",
-    "url": "https://x.com/Cointelegraph/status/2118837255271793005",
-    "images": [
-      "https://pbs.twimg.com/media/HWefQDAWUAAZWna.jpg",
-      "https://pbs.twimg.com/media/HWefQPeXsAEILsR.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794005629955-7pl23x",
-    "source": "x",
-    "ts": "2026-11-06T22:53:49.955Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-06T22:44:00.000Z",
-    "reason": "This tweet mentions a significant financial amount ($320B) but lacks context to verify its accuracy or impact.",
-    "text": "Canton tops every chain with $320B in tokenized assets\n\n@CantonNetwork ($CC) accounts for about $320.7B of the $366B in “represented” assets on rwa.​xyz, meaning assets recorded on a network but not freely traded onchain. Almost all of it comes from Broadridge’s repo platform,",
-    "url": "https://x.com/BSCNews/status/2118836826681090458",
-    "images": [
-      "https://pbs.twimg.com/media/HWeWL6GWAAEZIec.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794005631819-grfb3j",
-    "source": "x",
-    "ts": "2026-11-06T22:53:51.819Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-06T22:38:00.000Z",
-    "reason": "No notable crypto-related news mentioned.",
-    "text": "⚠️ALERT: Hackers are now targeting WordPress, the software behind 39.5% of all websites online.\n\nA critical flaw lets attackers take over a WordPress site in the seconds it spends updating, without needing to log in.\n\nDuring a full update, WordPress briefly stages its installer",
-    "url": "https://x.com/coinbureau/status/2118835316933235067"
-  },
-  {
     "id": "x-1794006126914-jna3ng",
     "source": "x",
     "ts": "2026-11-06T23:02:06.914Z",
@@ -7665,5 +7615,52 @@
     "reason": "No notable move, price is well inside the recent trading range.",
     "text": "🔥 NEW: Anthropic plans to begin marketing its Nasdaq IPO on Tuesday.",
     "url": "https://x.com/Cointelegraph/status/2119890691216011571"
+  },
+  {
+    "id": "x-1794257551439-riob10",
+    "source": "x",
+    "ts": "2026-11-09T20:52:31.439Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-09T20:39:22.000Z",
+    "reason": "PI has set a new all-time low, indicating a significant price drop.",
+    "text": "$PI falls 6.2% in 24 hours to $0.0670, after setting a new all-time low of $0.0626 today.\n\nPI price and news:",
+    "url": "https://x.com/BSCNews/status/2119895676532469775",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794257555925-jemre6",
+    "source": "x",
+    "ts": "2026-11-09T20:52:35.925Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-09T20:50:41.000Z",
+    "reason": "No notable move in crypto market mentioned.",
+    "text": "🇺🇸 LATEST: Sen. Elizabeth Warren is set to take over the Senate Banking Committee in January, with plans to tighten AI chip export controls to China and regulate prediction markets. \n\nHer agenda also includes capping credit card interest rates, expanding affordable housing and",
+    "url": "https://x.com/Cointelegraph/status/2119895475486617868"
+  },
+  {
+    "id": "x-1794257562258-el28j8",
+    "source": "x",
+    "ts": "2026-11-09T20:52:42.258Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-09T20:47:00.000Z",
+    "reason": "Significant increase in perp trading volume.",
+    "text": "Half of US stock perp trading now happens after the bell, Pyth Network data shows\n\nTrading in real-world asset perps hit a record $829B in October, up 29% from September, according to a new report from @PythNetwork (solana:HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3). Across the",
+    "url": "https://x.com/BSCNews/status/2119894546465059006",
+    "images": [
+      "https://pbs.twimg.com/media/HWtcrNYWAAAjuXP.jpg"
+    ],
+    "video": null
   }
 ]
