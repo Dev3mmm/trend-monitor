@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794017566455-iroz2n",
-    "source": "x",
-    "ts": "2026-11-07T02:12:46.455Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-07T02:04:44.000Z",
-    "reason": "No notable move in Bitcoin's price or significant new developments.",
-    "text": "Blockstream: Bitcoin Can Add New Signature Schemes to Counter Quantum Threats\n\nBlockstream said Bitcoin could add new signature schemes to address future quantum computing threats, with its research team evaluating lattice-based alternatives. After comparing Dilithium, Falcon and",
-    "url": "https://x.com/WuBlockchain/status/2118887342878707800"
-  },
-  {
     "id": "x-1794017571758-gzzpkz",
     "source": "x",
     "ts": "2026-11-07T02:12:51.758Z",
@@ -7694,5 +7681,24 @@
     "reason": "No notable move; price is well within the recent range.",
     "text": "🚨 INSIGHT: Peter Schiff warns $BTC could face a crash after falling below $75K while stocks, gold and silver rally.",
     "url": "https://x.com/Cointelegraph/status/2119915858793226442"
+  },
+  {
+    "id": "x-1794263514413-x2oe5g",
+    "source": "x",
+    "ts": "2026-11-09T22:31:54.413Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T22:30:00.000Z",
+    "reason": "The tweet mentions a security incident affecting sensitive customer data, which is noteworthy.",
+    "text": "Fireworks AI Says October Security Incident Reached Some Customer Datasets and Model Weights.\n\nThe AI inference platform said Monday that, beyond the stored secrets it first disclosed, the incident affected account and billing information and, for a limited set of accounts,",
+    "url": "https://x.com/DecryptMedia/status/2119920467536654589",
+    "images": [
+      "https://pbs.twimg.com/media/HWtp2HiWwAAuSnF.png",
+      "https://pbs.twimg.com/media/HWtrSaFX0AAr3bj.jpg"
+    ],
+    "video": null
   }
 ]
