@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1793981539146-mcbzjv",
-    "source": "x",
-    "ts": "2026-11-06T16:12:19.146Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-06T16:11:00.000Z",
-    "reason": "Zcash major upgrade with improved transaction times and new features.",
-    "text": "BOOM... Zcash' major NU7 upgrade is live.\n\n@Zcash has announced the successful implementation of NU7 on $ZEC mainnet.\n\nThe long-awaited upgrade comes with several improvements, including a reduction in block times from 75 seconds to 25 seconds.\n\nIt also directs 60% of transaction",
-    "url": "https://x.com/BSCNews/status/2118737925328310662",
-    "images": [
-      "https://pbs.twimg.com/media/HWb8YqqWkAAeG_E.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793981543626-ac1vjq",
     "source": "x",
     "ts": "2026-11-06T16:12:23.626Z",
@@ -7642,5 +7624,18 @@
     "url": "https://x.com/DecryptMedia/status/2119778166747148465",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794230530019-7khp7a",
+    "source": "x",
+    "ts": "2026-11-09T13:22:10.019Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-09T13:20:42.000Z",
+    "reason": "No notable crypto-related event or movement mentioned.",
+    "text": "🔥 JUST IN: More than 700,000 self-custodial wallets were created on Telegram in 48 hours, says Pavel Durov.",
+    "url": "https://x.com/Cointelegraph/status/2119782233686863938"
   }
 ]
