@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794019941838-x61cwg",
-    "source": "x",
-    "ts": "2026-11-07T02:52:21.838Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-07T02:38:56.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🏡 Greens at Alvamar in Lawrence, KS earns 5.4% APR on ASX Capital.\n\nThe property is a residential community, and holders are paid every month.\n\nBuy GAA:",
-    "url": "https://x.com/BSCNews/status/2118897094052266287"
-  },
-  {
-    "id": "x-1794019944191-pa4h12",
-    "source": "x",
-    "ts": "2026-11-07T02:52:24.191Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 20,
-    "originTimestamp": "2026-11-07T02:31:56.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "It’s a good weekend to check out Coinbase for Agents.",
-    "url": "https://x.com/coinbase/status/2118897015337705726"
-  },
-  {
-    "id": "x-1794020483983-drb1mb",
-    "source": "x",
-    "ts": "2026-11-07T03:01:23.983Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-07T03:00:48.000Z",
-    "reason": "No notable crypto-related content",
-    "text": "🇨🇳 JUST IN: US Treasury Secretary Scott Bessent urged China to immediately honor its trade commitments, raising concerns over recent Chinese actions following talks with Vice Premier He Lifeng.",
-    "url": "https://x.com/Cointelegraph/status/2118901454043807909"
-  },
-  {
     "id": "x-1794020651539-i2ugbe",
     "source": "x",
     "ts": "2026-11-07T03:04:11.539Z",
@@ -7685,5 +7646,56 @@
     "reason": "No notable move or significant information provided.",
     "text": "Trump on Nvidia CEO Jensen Huang:\n\nTrump: \"I believe he's suffering greatly… More so because of his family, his wife who he loves.\"\n\nReporter: \"When were you first told of these potential issues?\"\n\nTrump: \"I've been hearing about it… but not too long ago.\"\n\nTrump: \"I know the",
     "url": "https://x.com/coinbureau/status/2119924739749843109"
+  },
+  {
+    "id": "x-1794265334410-26porf",
+    "source": "x",
+    "ts": "2026-11-09T23:02:14.410Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-09T23:00:49.000Z",
+    "reason": "Specific institutional action with token buybacks on a decentralized exchange.",
+    "text": "⚡️ LATEST: World Liberty Financial’s $WLFI token buybacks will be executed on Aster, with timing and size dependent on available resources and ecosystem activity.",
+    "url": "https://x.com/Cointelegraph/status/2119928222599041081",
+    "images": [
+      "https://pbs.twimg.com/media/HWt_ezOW4AAiTxa.jpg",
+      "https://pbs.twimg.com/media/HWt_e-BWQAAK3WS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794265339377-tcrlom",
+    "source": "x",
+    "ts": "2026-11-09T23:02:19.377Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T23:00:02.000Z",
+    "reason": "Notable institutional support for blockchain technology.",
+    "text": "Cosmos Contributes IBC Protocol to the Linux Foundation.\n\nIBC, which Cosmos says has processed more than $50 billion in volume since 2021, will be hosted as an LF Decentralized Trust project, backed by Google Cloud and individuals from Wells Fargo and Figure.",
+    "url": "https://x.com/DecryptMedia/status/2119928024615252468",
+    "images": [
+      "https://pbs.twimg.com/media/HWtA09zWMAAeUc0.png",
+      "https://pbs.twimg.com/media/HWtA8eiWgAAwdGp.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794265343589-wlbkbk",
+    "source": "x",
+    "ts": "2026-11-09T23:02:23.589Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 54,
+    "originTimestamp": "2026-11-09T22:08:03.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Our USD Assets cover 3.4 years of annual interest and dividends, up from 0.5 years at the end of May. $MSTR $STRC",
+    "url": "https://x.com/saylor/status/2119927814858133619"
   }
 ]
