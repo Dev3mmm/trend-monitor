@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794006126914-jna3ng",
-    "source": "x",
-    "ts": "2026-11-06T23:02:06.914Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-06T23:00:49.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "⚡QUESTION: Does this market scare you?",
-    "url": "https://x.com/Cointelegraph/status/2118841058004025614"
-  },
-  {
-    "id": "x-1794006727898-730zkr",
-    "source": "x",
-    "ts": "2026-11-06T23:12:07.898Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Elon Musk",
-    "ageMin": 86,
-    "originTimestamp": "2026-11-06T21:46:07.000Z",
-    "reason": "Significant institutional adoption of Starlink in the rail industry.",
-    "text": "BREAKING: Starlink now helps connect 500+ locomotives and railcars for Rumo, Brazil’s largest freight rail operator. 🇧🇷\n\nAutotrac’s system switches between 4G and Starlink so trains can stay in touch with the control center in real time, even where there’s no cell signal.",
-    "url": "https://x.com/elonmusk/status/2118842366748749904",
-    "images": [
-      "https://pbs.twimg.com/media/HWeRnQdaoAAIzdS.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794007320283-i63h28",
-    "source": "x",
-    "ts": "2026-11-06T23:22:00.283Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-06T23:19:00.000Z",
-    "reason": "No notable newsworthy development, just a continuation of existing market conditions.",
-    "text": "A difficult week for spot $XRP ETFs...\n\nDespite an incredible run for most of the year, demand for spot @Ripple ETFs has certainly cooled off.\n\nThis week, the products have not seen a single day of net inflows, instead recording three days of zero activity, and one day of net",
-    "url": "https://x.com/BSCNews/status/2118845634723865035",
-    "images": [
-      "https://pbs.twimg.com/media/HWcFoLgWIAAvhrr.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794007496361-1f8fkn",
     "source": "x",
     "ts": "2026-11-06T23:24:56.361Z",
@@ -7661,6 +7612,59 @@
     "images": [
       "https://pbs.twimg.com/media/HWtcrNYWAAAjuXP.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794258114316-6sy08o",
+    "source": "x",
+    "ts": "2026-11-09T21:01:54.316Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-09T21:00:53.000Z",
+    "reason": "No notable market move, focus on a specific incident.",
+    "text": "🚨 UPDATE: Analysts say Binance’s $6.3 billion hack has not triggered broader crypto market contagion, as the exchange pledged to cover all user losses. \n\nDaily net outflows have fallen from $6.1 billion to $458 million, while Bitcoin declined as much as 5.7% in the five days",
+    "url": "https://x.com/Cointelegraph/status/2119898040823648261",
+    "images": [
+      "https://pbs.twimg.com/media/HWtkBLOXIAAtgfN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794258116872-eg0k6v",
+    "source": "x",
+    "ts": "2026-11-09T21:01:56.872Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T21:00:02.000Z",
+    "reason": "Notable use of crypto to launder funds.",
+    "text": "North Korean Launderers Are Minting Their Own Memecoins to Move Stolen Binance Funds, Elliptic Says.\n\nElliptic said North Korean launderers created at least six throwaway NEAR tokens from Nov. 5 to 7, cycling about 117,000 stolen NEAR, around $430,000, through liquidity pools to",
+    "url": "https://x.com/DecryptMedia/status/2119897829468524793",
+    "images": [
+      "https://pbs.twimg.com/media/HWs_taVXkAAV1tJ.jpg",
+      "https://pbs.twimg.com/media/HWtAgUNXQAACKQP.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794258119153-jxihzc",
+    "source": "x",
+    "ts": "2026-11-09T21:01:59.153Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T21:00:02.000Z",
+    "reason": "Notable institutional engagement with Web3 technology and regulation.",
+    "text": "Not every Web3 project needs its own MiCA license. Watch our full AMA with @BlockBen and @ViktorBodnar_BB to learn how their regulatory infrastructure supports external brands, fiat ramps and a token launchpad:",
+    "url": "https://x.com/Cointelegraph/status/2119897828625617001",
+    "images": [],
     "video": null
   }
 ]
