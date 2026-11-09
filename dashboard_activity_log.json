@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1793980346508-87jdo5",
-    "source": "x",
-    "ts": "2026-11-06T15:52:26.508Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 55,
-    "originTimestamp": "2026-11-06T14:56:55.000Z",
-    "reason": "No notable move in crypto related to the tweet's content.",
-    "text": "SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. \n\nIf both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. \n\nThis is the critical breakthrough needed to make life multiplanetary.",
-    "url": "https://x.com/elonmusk/status/2118732082843435305"
-  },
-  {
-    "id": "x-1793980352433-35f656",
-    "source": "x",
-    "ts": "2026-11-06T15:52:32.433Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-06T15:46:00.000Z",
-    "reason": "Noteworthy decentralized launchpad activity with successful token launches.",
-    "text": "Kaspa’s KForge Is Off to a Solid Start\n\nDecentralized launchpad @KForge_xyz has successfully launched 24 live token launches on @Kaspaunchained Layer-1.\n\nThe community-driven $KASUSD token has completed its bonding curve, creating an ownerless liquidity pool at a 103,353 $KAS",
-    "url": "https://x.com/BSCNews/status/2118731634065260771",
-    "images": [
-      "https://pbs.twimg.com/media/HWcxTggXYAAhkQv.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793981019121-ey9caf",
-    "source": "x",
-    "ts": "2026-11-06T16:03:39.121Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-06T16:00:02.000Z",
-    "reason": "No notable move in jobs numbers.",
-    "text": "US Adds 165,000 Jobs in October, Beating Expectations.\n\nUS nonfarm payrolls rose by 165,000 in October, beating the Dow Jones consensus forecast of 59,000, while unemployment stood at 4.1%, the Bureau of Labor Statistics reported Friday.",
-    "url": "https://x.com/DecryptMedia/status/2118735164650160418"
-  },
-  {
     "id": "x-1793981539146-mcbzjv",
     "source": "x",
     "ts": "2026-11-06T16:12:19.146Z",
@@ -7639,5 +7595,52 @@
     "reason": "No notable crypto-related content.",
     "text": "Nvidia, SK Telecom and Rebellions Team Up on Korean Sovereign AI.\n\nNvidia, SK Telecom and chip startup Rebellions announced a collaboration to connect Korean-designed R200 processors to Nvidia's NVLink Fusion platform, with systems expected to be ready for deployment in 2028.",
     "url": "https://x.com/DecryptMedia/status/2119777030132937024"
+  },
+  {
+    "id": "x-1794229944679-5h0h68",
+    "source": "x",
+    "ts": "2026-11-09T13:12:24.679Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T13:10:00.000Z",
+    "reason": "No notable move or breaking news event described.",
+    "text": "Polkadot's top DeFi platform wants to call it quits... \n\n@Polkadot DeFi platforms @AcalaNetwork and its sister chain on Kusama, @KaruraNetwork, have announced they will terminate their services on February 10, 2027. \n\nThis decision is contingent on successful votes in Referendums",
+    "url": "https://x.com/BSCNews/status/2119779538754207793"
+  },
+  {
+    "id": "x-1794229948343-xid6cy",
+    "source": "x",
+    "ts": "2026-11-09T13:12:28.343Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-09T13:05:33.000Z",
+    "reason": "Michael Saylor, CEO of MicroStrategy, makes a significant crypto investment",
+    "text": "BREAKING: Michael Saylor's Strategy buys 1,036 BTC worth $77 million 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2119778420259201326",
+    "images": [
+      "https://pbs.twimg.com/media/HWr3NrmWIAAJHdW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794229951215-2rnu90",
+    "source": "x",
+    "ts": "2026-11-09T13:12:31.215Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-09T13:04:33.000Z",
+    "reason": "Microsoft-backed project introduces new use case for AI and data verification.",
+    "text": "Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data",
+    "url": "https://x.com/DecryptMedia/status/2119778166747148465",
+    "images": [],
+    "video": null
   }
 ]
