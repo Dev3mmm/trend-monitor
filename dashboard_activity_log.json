@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1793957677892-8wklo2",
-    "source": "x",
-    "ts": "2026-11-06T09:34:37.892Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-06T09:32:00.000Z",
-    "reason": "Notable user adoption with over 1 million unique wallet addresses trading on PancakeSwap.",
-    "text": "Tokenised Stocks on PancakeSwap hit 1,000,000 users.\n\nMore than 1 million unique wallet addresses have now traded tokenised stock tokens on the @PancakeSwap $CAKE platform. \n\nPancakeSwap remains a major force in the DeFi landscape, both on @BNBChain and beyond, its total DEX",
-    "url": "https://x.com/BSCNews/status/2118637513665360109",
-    "images": [
-      "https://pbs.twimg.com/media/HWX0lx8WsAARkCm.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793957680896-t07f6w",
-    "source": "x",
-    "ts": "2026-11-06T09:34:40.896Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-06T09:30:47.000Z",
-    "reason": "Security warning about potential crypto wallet risks",
-    "text": "🚨 SECURITY: Felix Fan warns that DarkSword puts crypto wallets at risk through iOS vulnerabilities, urging users to update to the latest version.",
-    "url": "https://x.com/Cointelegraph/status/2118637210425528499",
-    "images": [
-      "https://pbs.twimg.com/media/HWbpTy4WkAABeP3.png",
-      "https://pbs.twimg.com/media/HWbpUEEWQAAcTcD.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793957684301-pugtjn",
     "source": "x",
     "ts": "2026-11-06T09:34:44.301Z",
@@ -7639,5 +7602,36 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Understanding $DOT's treasury model is key to understanding the @Polkadot ecosystem itself. Here's what you need to know ⬇️",
     "url": "https://x.com/BSCNews/status/2119624768622322056"
+  },
+  {
+    "id": "x-1794193921512-rnatd8",
+    "source": "x",
+    "ts": "2026-11-09T03:12:01.512Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 24,
+    "originTimestamp": "2026-11-09T02:47:14.000Z",
+    "reason": "No substantive information or action described.",
+    "text": "Yeah",
+    "url": "https://x.com/elonmusk/status/2119628426571338063"
+  },
+  {
+    "id": "x-1794193926223-3x8ii8",
+    "source": "x",
+    "ts": "2026-11-09T03:12:06.223Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-09T03:08:45.000Z",
+    "reason": "Significant liquidation event with substantial financial impact",
+    "text": "🚨 REKT: Over $1 billion in crypto positions were liquidated in the past 24 hours, with longs hit for $913M and shorts for $102M.",
+    "url": "https://x.com/Cointelegraph/status/2119628231280054688",
+    "images": [
+      "https://pbs.twimg.com/media/HWpupKkW8AAi-iX.png"
+    ],
+    "video": null
   }
 ]
