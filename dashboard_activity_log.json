@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1793994343930-bfd98l",
-    "source": "x",
-    "ts": "2026-11-06T19:45:43.930Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 76,
-    "originTimestamp": "2026-11-06T18:28:52.000Z",
-    "reason": "No notable move, tweet is unrelated to cryptocurrency.",
-    "text": "Pulling massive power cables is a great workout and far more productive than lifting weights 🏋️‍♀️",
-    "url": "https://x.com/elonmusk/status/2118786343958675697"
-  },
-  {
-    "id": "x-1793994750705-l6rdp7",
-    "source": "x",
-    "ts": "2026-11-06T19:52:30.705Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-06T19:47:15.000Z",
-    "reason": "Notable move involving a financial firm and futures market.",
-    "text": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
-    "url": "https://x.com/DecryptMedia/status/2118792346171003253",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793994754579-pszplq",
-    "source": "x",
-    "ts": "2026-11-06T19:52:34.579Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-06T19:46:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Arbitrum has had a busy few weeks since early October.\n\n@arbitrum ($ARB) is an Ethereum layer-2 network, and its tech also powers other chains such as Robinhood Chain.\n\nHere are some key developments:\n\n[Oct 6] Paxos-issued USDG went live on Arbitrum One, with Uniswap, GMX and",
-    "url": "https://x.com/BSCNews/status/2118792031690739884",
-    "images": [
-      "https://pbs.twimg.com/media/HWduGLXXUAAKAkf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793995375058-n83tin",
     "source": "x",
     "ts": "2026-11-06T20:02:55.058Z",
@@ -7679,5 +7632,49 @@
     "reason": "Vague opinion with no factual claim.",
     "text": "$STRC is income-generating, tax-deferred, and designed to trade at $100. $MSTR",
     "url": "https://x.com/saylor/status/2119840700519047577"
+  },
+  {
+    "id": "x-1794246104798-0appvq",
+    "source": "x",
+    "ts": "2026-11-09T17:41:44.798Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-09T17:40:40.000Z",
+    "reason": "No notable crypto-related move or adoption event mentioned.",
+    "text": "🚨 NEW: NVIDIA plans to run Korea’s own Rebellions AI chips on its platform by 2028.",
+    "url": "https://x.com/Cointelegraph/status/2119847656419680507"
+  },
+  {
+    "id": "x-1794246108104-ktt7mb",
+    "source": "x",
+    "ts": "2026-11-09T17:41:48.104Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-09T17:30:00.000Z",
+    "reason": "No notable move in the cryptocurrency markets mentioned.",
+    "text": "AMD Tops $500 After Oppenheimer Upgrade and $600 Target.\n\nAMD shares rose 11.9% to $502.67 at 12:24 PM EST Monday after Oppenheimer analyst Rick Schafer upgraded the chipmaker to Outperform from Perform with a $600 price target.",
+    "url": "https://x.com/DecryptMedia/status/2119844969548820792"
+  },
+  {
+    "id": "x-1794246111840-hxusui",
+    "source": "x",
+    "ts": "2026-11-09T17:41:51.840Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 18,
+    "originTimestamp": "2026-11-09T17:23:01.000Z",
+    "reason": "Notable institutional adoption and move to a Layer 2 platform.",
+    "text": "Whitechain lands on Optimism\n\n@Whitechain_io, the blockchain of W Group and sister to the WhiteBIT exchange, is switching to an Ethereum Layer 2 on the OP Stack, built with @Optimism. Its developer mainnet went live today, and the public launch is planned for later in November.",
+    "url": "https://x.com/BSCNews/status/2119843215083733370",
+    "images": [
+      "https://pbs.twimg.com/media/HWsxY7NW8AAPAZ8.jpg"
+    ],
+    "video": null
   }
 ]
