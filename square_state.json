@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792764145020-w0f3r4",
-    "x-1792764753727-7v6w6w",
     "x-1792765343213-m2bgzn",
     "x-1792765937833-gfxepi",
     "x-1792770151861-4bcojy",
@@ -1999,9 +1997,22 @@
     "x-1794216710751-srw478",
     "x-1794216712844-5iz7zj",
     "x-1794217300606-2kcdt3",
-    "x-1794217925402-tgeojb"
+    "x-1794217925402-tgeojb",
+    "x-1794218509271-1njpem",
+    "x-1794218511326-riqn91"
   ],
-  "queue": [],
+  "queue": [
+    {
+      "text": "🚨 UPDATE: Binance says it found no evidence of a breach and called ShinyHunters’ claim of 335M stolen user records a likely scam.",
+      "url": "https://x.com/Cointelegraph/status/2119729705016262662",
+      "images": [
+        "https://pbs.twimg.com/media/HWrK7ZoW8AAAkNz.jpg",
+        "https://pbs.twimg.com/media/HWrK7o2WQAA2Ha8.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794218511909
+    }
+  ],
   "posted": [
     {
       "text": "🇺🇸 LATEST: Former FBI agent pleads guilty to stealing $2.47 MILLION in crypto using wallet credentials the bureau collected in 35 investigations.\n\nU.S DoJ confirms that Patrick Steven Yaroch used his access to FBI systems to make roughly 100 unauthorized transfers, taking crypto",
@@ -2518,7 +2529,16 @@
       "at": 1794216715608,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386357340035787?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "#PeckShieldAlert @ankr has been exploited, resulting in a loss of ~$286K. The exploiter drained 5,372 $aMATICb, 515.2K $ankrPOL (~$56K), ~8M ethereum:0x8290333cef9e6d528dd5618fb97a76f268f3edd4 (~$30.7K), and 83 $ankrETH (~$192K). \n\nMost of the stolen funds have been swapped for",
+      "final": "#PeckShieldAlert @ankr has been exploited, resulting in a loss of ~$286K. The exploiter drained 5,372 $aMATICb, 515.2K $ankrPOL (~$56K), ~8M ethereum:0x8290333cef9e6d528dd5618fb97a76f268f3edd4 (~$30.7K), and 83 $ankrETH (~$192K). \n\nMost of the stolen funds have been swapped for\n\n#Ethereum $ETH #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HWrLohhaMAAyJZL.jpg"
+      ],
+      "at": 1794218511909,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794216715608
+  "lastPostAt": 1794218511909
 }
