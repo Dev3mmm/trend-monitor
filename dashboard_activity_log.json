@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793986329005-drqe7b",
-    "source": "x",
-    "ts": "2026-11-06T17:32:09.005Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-06T17:30:49.000Z",
-    "reason": "No notable crypto-related news or move is mentioned.",
-    "text": "JUST IN: 🇯🇵Japan’s underlying inflation has hit 2%, but BOJ Governor Kazuo Ueda says it’s UNCLEAR how long it will stay there.\n\n“Underlying inflation is 2%. Our goal is to keep it there,” Ueda said.\n\nJapan’s underlying inflation has reached roughly 2% for the first time since it",
-    "url": "https://x.com/coinbureau/status/2118758012383117636"
-  },
-  {
-    "id": "x-1793987220776-87ti3m",
-    "source": "x",
-    "ts": "2026-11-06T17:47:00.776Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 44,
-    "originTimestamp": "2026-11-06T17:02:18.000Z",
-    "reason": "No factual claim or basis given.",
-    "text": "SpaceX revenue this quarter alone will be substantially higher than NASA’s entire annual budget!",
-    "url": "https://x.com/elonmusk/status/2118761981037723848"
-  },
-  {
     "id": "x-1793987223089-ynl6ud",
     "source": "x",
     "ts": "2026-11-06T17:47:03.089Z",
@@ -7662,5 +7636,43 @@
     "reason": "No notable move in cryptocurrency prices.",
     "text": "🚨BIG MOVE: Alphabet’s $GOOG shares SURGED over 3% to $294 at U.S. market open as Google takes on Nvidia with two NEW AI chips.\n\n$GOOG is up $9.22 from Friday’s close of $284.78 and a level last seen on Nov. 4.\n\nThe TPU 8tx and 8i Max target secure computing and advanced AI",
     "url": "https://x.com/coinbureau/status/2119802719640895799"
+  },
+  {
+    "id": "x-1794236634068-6gtdyf",
+    "source": "x",
+    "ts": "2026-11-09T15:03:54.068Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T15:01:52.000Z",
+    "reason": "PNC Bank partnership with Coinbase is a notable institutional move in the crypto industry.",
+    "text": "🔥 NEW: $627B PNC Bank is partnering with Coinbase to pilot USDC payments for select corporate and institutional clients.",
+    "url": "https://x.com/Cointelegraph/status/2119807692801786252",
+    "images": [
+      "https://pbs.twimg.com/media/HWsR2plWMAAG-N_.jpg",
+      "https://pbs.twimg.com/media/HWsR3ApXMAE-J9m.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794236640223-xs8cnv",
+    "source": "x",
+    "ts": "2026-11-09T15:04:00.224Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-09T15:00:02.000Z",
+    "reason": "Binance dismisses user data leak as a scam.",
+    "text": "Binance Says Alleged 335 Million-Line User Data Leak Is Likely a Scam.\n\nBinance said Sunday it found no evidence its systems, KYC data, account credentials or wallet private keys were compromised, after a hacking-forum listing attributed to ShinyHunters claimed 335.9 million",
+    "url": "https://x.com/DecryptMedia/status/2119807231571161175",
+    "images": [
+      "https://pbs.twimg.com/media/HWrfTkZWwAA_BIk.png",
+      "https://pbs.twimg.com/media/HWrgrPlXQAAjgCy.jpg"
+    ],
+    "video": null
   }
 ]
