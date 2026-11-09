@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792760165977-yrxs1r",
     "x-1792760463520-udcv0e",
     "x-1792760658218-aq0ock",
     "x-1792760664659-yrzdti",
@@ -1999,19 +1998,10 @@
     "x-1794193368296-6nukvt",
     "x-1794193926223-3x8ii8",
     "x-1794195738801-0ky90x",
-    "x-1794196325224-l1aepe"
+    "x-1794196325224-l1aepe",
+    "x-1794196967233-w6xlvr"
   ],
-  "queue": [
-    {
-      "text": "🔥 NOW: Circle mints another 250,000,000 $USDC on Solana.",
-      "url": "https://x.com/Cointelegraph/status/2119634046959432107",
-      "images": [
-        "https://pbs.twimg.com/media/HWpz7pTXAAAiqO5.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794195739759
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨 LATEST: $BTC open interest rose by nearly $1.5 billion during the recent selloff, suggesting traders are adding leveraged positions despite falling prices, per Glassnode.",
@@ -2484,7 +2474,16 @@
       "at": 1794195097933,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386268792486452?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 NOW: Circle mints another 250,000,000 $USDC on Solana.",
+      "final": "🔥 NOW: Circle mints another 250,000,000 $USDC on Solana.\n\n#Solana $SOL #Stablecoin",
+      "images": [
+        "https://pbs.twimg.com/media/HWpz7pTXAAAiqO5.jpg"
+      ],
+      "at": 1794196969618,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794195097933
+  "lastPostAt": 1794196969618
 }
