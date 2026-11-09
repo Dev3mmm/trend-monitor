@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1792765937833-gfxepi",
-    "x-1792770151861-4bcojy",
     "x-1792770155850-na0bb5",
     "x-1792771633974-y3d5no",
     "x-1792771636588-hryhr9",
@@ -1999,19 +1997,11 @@
     "x-1794217925402-tgeojb",
     "x-1794218509271-1njpem",
     "x-1794218511326-riqn91",
-    "x-1794219117480-hc7vf1"
+    "x-1794219117480-hc7vf1",
+    "x-1794220416746-0dj6yr",
+    "x-1794220420569-wafz56"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Binance says it found no evidence of a breach and called ShinyHunters’ claim of 335M stolen user records a likely scam.",
-      "url": "https://x.com/Cointelegraph/status/2119729705016262662",
-      "images": [
-        "https://pbs.twimg.com/media/HWrK7ZoW8AAAkNz.jpg",
-        "https://pbs.twimg.com/media/HWrK7o2WQAA2Ha8.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794218511909
-    },
     {
       "text": "🇺🇸 JUST IN: Coinbase has secured a full national trust bank charter from the U.S. Office of the Comptroller of the Currency.",
       "url": "https://x.com/Cointelegraph/status/2119734382877368681",
@@ -2538,7 +2528,17 @@
       "at": 1794218511909,
       "status": "failed",
       "error": "Uploading: sq_1794218511909_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261109/9b6194871502474d86a8fa425e3a90d0.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
+    },
+    {
+      "text": "🚨 UPDATE: Binance says it found no evidence of a breach and called ShinyHunters’ claim of 335M stolen user records a likely scam.",
+      "final": "🚨 UPDATE: Binance says it found no evidence of a breach and called ShinyHunters’ claim of 335M stolen user records a likely scam.\n\n#Crypto #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HWrK7ZoW8AAAkNz.jpg",
+        "https://pbs.twimg.com/media/HWrK7o2WQAA2Ha8.jpg"
+      ],
+      "at": 1794220421139,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794218511909
+  "lastPostAt": 1794220421139
 }
