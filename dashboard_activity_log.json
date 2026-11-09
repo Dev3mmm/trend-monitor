@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793955353594-y5lyy0",
-    "source": "x",
-    "ts": "2026-11-06T08:55:53.594Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-06T08:55:07.000Z",
-    "reason": "Meme tweet with no factual claim.",
-    "text": "What is love?\n\n(Baby don’t hurt me)",
-    "url": "https://x.com/elonmusk/status/2118628232002158682"
-  },
-  {
     "id": "x-1793955747455-ae9gxz",
     "source": "x",
     "ts": "2026-11-06T09:02:27.455Z",
@@ -7636,5 +7623,23 @@
     "reason": "No notable use of a token/stablecoin.",
     "text": "🇨🇳  LATEST: China’s DeepSeek says its open-source AI agent app, DeepSeek Harness, hit 1.54 million daily users less than three months after launch, up from about 271,000 in late September.",
     "url": "https://x.com/Cointelegraph/status/2119596031339851857"
+  },
+  {
+    "id": "x-1794186744248-rmrzr2",
+    "source": "x",
+    "ts": "2026-11-09T01:12:24.248Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-09T01:00:00.000Z",
+    "reason": "New developer library simplifies app development for Pi token payments",
+    "text": "Huge shortcut for Pi builders! ⚡\n\nA new @PiCoreTeam developer library makes adding $PI payments to an app far simpler. The setup time is the real surprise.\n\nLearn now:",
+    "url": "https://x.com/BSCNews/status/2119596976685584762",
+    "images": [
+      "https://pbs.twimg.com/media/HWm5o02WwAA4J5i.jpg"
+    ],
+    "video": null
   }
 ]
