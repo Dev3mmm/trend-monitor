@@ -2001,17 +2001,7 @@
     "x-1794193368296-6nukvt",
     "x-1794193926223-3x8ii8"
   ],
-  "queue": [
-    {
-      "text": "🚨 REKT: Over $1 billion in crypto positions were liquidated in the past 24 hours, with longs hit for $913M and shorts for $102M.",
-      "url": "https://x.com/Cointelegraph/status/2119628231280054688",
-      "images": [
-        "https://pbs.twimg.com/media/HWpupKkW8AAi-iX.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1794193926731
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨 LATEST: $BTC open interest rose by nearly $1.5 billion during the recent selloff, suggesting traders are adding leveraged positions despite falling prices, per Glassnode.",
@@ -2474,7 +2464,16 @@
       "at": 1794193372997,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386261796808890?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 REKT: Over $1 billion in crypto positions were liquidated in the past 24 hours, with longs hit for $913M and shorts for $102M.",
+      "final": "🚨 REKT: Over $1 billion in crypto positions were liquidated in the past 24 hours, with longs hit for $913M and shorts for $102M.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWpupKkW8AAi-iX.png"
+      ],
+      "at": 1794195097933,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794193372997
+  "lastPostAt": 1794195097933
 }
