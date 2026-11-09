@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792778525087-ev52zr",
     "x-1792779705861-ldsutq",
     "x-1792780978706-u6lg2i",
     "x-1792782043773-d3pijv",
@@ -1999,19 +1998,10 @@
     "x-1794234120789-x7nlr2",
     "x-1794234123379-3gwpvu",
     "x-1794234126325-1u9lnp",
-    "x-1794234128955-fec4s8"
+    "x-1794234128955-fec4s8",
+    "x-1794234737994-5l6zv4"
   ],
   "queue": [
-    {
-      "text": "🔥 UPDATE: Bitmine bought 9,587 ETH last week and now holds 4.97% of Ethereum’s supply.",
-      "url": "https://x.com/Cointelegraph/status/2119788535410532530",
-      "images": [
-        "https://pbs.twimg.com/media/HWsAbqKWEAAORgk.png",
-        "https://pbs.twimg.com/media/HWsAcECWoAESAUb.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1794232319299
-    },
     {
       "text": "🚨 INSIGHT: Gary Gensler says Nvidia's board faces \"tough choices\" as the stock is already reflecting the fallout from CEO Huang's affair.",
       "url": "https://x.com/Cointelegraph/status/2119792124304543922",
@@ -2045,6 +2035,16 @@
       ],
       "video": null,
       "enqueuedAt": 1794234129587
+    },
+    {
+      "text": "🔥 JUST IN: $13T Charles Schwab adds trading for Solana $SOL, Avalanche $AVAX and Chainlink $LINK.",
+      "url": "https://x.com/Cointelegraph/status/2119797896635703580",
+      "images": [
+        "https://pbs.twimg.com/media/HWsI8shWQAAs72N.jpg",
+        "https://pbs.twimg.com/media/HWsI88RWUAAkXDG.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794234738806
     }
   ],
   "posted": [
@@ -2619,7 +2619,17 @@
       "at": 1794232953121,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386423914010277?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 UPDATE: Bitmine bought 9,587 ETH last week and now holds 4.97% of Ethereum’s supply.",
+      "final": "🔥 UPDATE: Bitmine bought 9,587 ETH last week and now holds 4.97% of Ethereum’s supply.\n\n#Ethereum $ETH",
+      "images": [
+        "https://pbs.twimg.com/media/HWsAbqKWEAAORgk.png",
+        "https://pbs.twimg.com/media/HWsAcECWoAESAUb.png"
+      ],
+      "at": 1794234738806,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794232953121
+  "lastPostAt": 1794234738806
 }
