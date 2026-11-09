@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1793955755410-4p1tpf",
-    "source": "x",
-    "ts": "2026-11-06T09:02:35.410Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-06T08:48:00.000Z",
-    "reason": "Meme without context or price/price move.",
-    "text": "Seldon, Psychohistory",
-    "url": "https://x.com/elonmusk/status/2118629153390158000"
-  },
-  {
     "id": "x-1793955760792-ag669g",
     "source": "x",
     "ts": "2026-11-06T09:02:40.792Z",
@@ -7648,5 +7635,18 @@
       "https://pbs.twimg.com/media/HWpYNgnXkAAz14y.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794189153527-26x227",
+    "source": "x",
+    "ts": "2026-11-09T01:52:33.527Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-09T01:44:00.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Pudgy Penguins launches new product for its community.\n\n@pudgypenguins has just dropped the 'Flake Finder' tool, designed to let its community rediscover forgotten crypto.\n\nBy entering their wallet addresses, participants can use the tool to identify idle and forgotten crypto",
+    "url": "https://x.com/BSCNews/status/2119606900820177401"
   }
 ]
