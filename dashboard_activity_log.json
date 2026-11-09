@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1793994123109-qx10nb",
-    "source": "x",
-    "ts": "2026-11-06T19:42:03.109Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 42,
-    "originTimestamp": "2026-11-06T18:59:59.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Elon today on @SpaceX's upcoming Starship Flight 15, which will attempt to catch both the Super Heavy Booster and Starship's upper stage:\n\n\"You really want to watch this one. This one's cool. It's the largest flying object ever made. And then the giant thing comes back.",
-    "url": "https://x.com/elonmusk/status/2118786432471015511"
-  },
-  {
-    "id": "x-1793994125758-1vib1a",
-    "source": "x",
-    "ts": "2026-11-06T19:42:05.758Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 73,
-    "originTimestamp": "2026-11-06T18:28:52.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": "Pulling massive power cables is a great workout and far more productive than lifting weights 🏋️‍♀️",
-    "url": "https://x.com/elonmusk/status/2118786343958675697"
-  },
-  {
-    "id": "x-1793994331925-c95dbi",
-    "source": "x",
-    "ts": "2026-11-06T19:45:31.925Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 45,
-    "originTimestamp": "2026-11-06T19:00:02.000Z",
-    "reason": "New use of a token with regulatory and supply implications.",
-    "text": "A token burn that targets inactive holders! 🔥\n\nInterLink's $ITLG burn removes tokens from unverified accounts, and how @inter_link uses it to control supply over time is worth knowing.\n\nRead it here:",
-    "url": "https://x.com/BSCNews/status/2118791140589633809",
-    "images": [
-      "https://pbs.twimg.com/media/HWY0xBAWIAAFGJy.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793994334113-3gzwxx",
-    "source": "x",
-    "ts": "2026-11-06T19:45:34.113Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 33,
-    "originTimestamp": "2026-11-06T19:12:35.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Elon Musk just revealed an absolutely insane revenue trajectory for SpaceX: on track to exceed $100 billion annualized in December, a best guess of over $500 billion by December next year, and a trillion is no longer out of the question\n\n\"I think, just to comment on a few of",
-    "url": "https://x.com/elonmusk/status/2118789262393090314"
-  },
-  {
     "id": "x-1793994335811-jcnxae",
     "source": "x",
     "ts": "2026-11-06T19:45:35.811Z",
@@ -7670,6 +7613,67 @@
     "images": [
       "https://pbs.twimg.com/media/HWssCrwaUAAxbwx.jpg",
       "https://pbs.twimg.com/media/HWssC8IbAAAOlcM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794244325947-5obdt7",
+    "source": "x",
+    "ts": "2026-11-09T17:12:05.947Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T17:09:47.000Z",
+    "reason": "Noise: generic hype without real content",
+    "text": ".",
+    "url": "https://x.com/amerix/status/2119839884441686434"
+  },
+  {
+    "id": "x-1794244332639-boooy5",
+    "source": "x",
+    "ts": "2026-11-09T17:12:12.639Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-09T17:09:30.000Z",
+    "reason": "Vitalik Buterin's declaration about ETH being money is seized upon by a major crypto fund.",
+    "text": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
+    "url": "https://x.com/DecryptMedia/status/2119839810491650121",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794244336782-bpjl7p",
+    "source": "x",
+    "ts": "2026-11-09T17:12:16.782Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-09T17:01:41.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "What's on the market's radar this week? \n\nU.S. CPI, PPI, jobless claims, and earnings from major companies.\n\nHere's your weekly rundown of the events worth watching.",
+    "url": "https://x.com/binance/status/2119837844500005175"
+  },
+  {
+    "id": "x-1794244342197-ddtgd0",
+    "source": "x",
+    "ts": "2026-11-09T17:12:22.197Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-09T17:01:40.000Z",
+    "reason": "Exploit/Supply record for Euro-pegged stablecoin",
+    "text": "⚡️ BIG: Euro-pegged stablecoin supply has hit a record €751 million, surpassing its February 2022 peak of €637 million, with Circle's EURC and Société Générale's EURCV accounting for 83% of the market.",
+    "url": "https://x.com/Cointelegraph/status/2119837841349881872",
+    "images": [
+      "https://pbs.twimg.com/media/HWstR1MXkAA2RWy.jpg",
+      "https://pbs.twimg.com/media/HWstSDCWEAE8d1b.jpg"
     ],
     "video": null
   }
