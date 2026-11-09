@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1793868278261-iuundp",
-    "source": "x",
-    "ts": "2026-11-05T08:44:38.261Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-05T08:40:15.000Z",
-    "reason": "No notable news or movement is described.",
-    "text": "⚡️ TODAY: Solana co-founder Anatoly Yakovenko calls memecoins and NFTs “digital slop” like mobile game loot boxes.\n\nHe says they’re still economically neutral since they cost almost nothing to create.",
-    "url": "https://x.com/Cointelegraph/status/2118262101407916439"
-  },
-  {
-    "id": "x-1793869409718-ygjj97",
-    "source": "x",
-    "ts": "2026-11-05T09:03:29.718Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-05T08:59:55.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "LIVE: Bitcoin Amsterdam 2026 | Day 1 Livestream",
-    "url": "https://x.com/BitcoinMagazine/status/2118267053337624634"
-  },
-  {
     "id": "x-1793869923802-kj1sjj",
     "source": "x",
     "ts": "2026-11-05T09:12:03.802Z",
@@ -7680,5 +7654,36 @@
       "https://pbs.twimg.com/media/HWtQTLEWgAEjBhd.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794253929824-a2h33g",
+    "source": "x",
+    "ts": "2026-11-09T19:52:09.824Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-09T19:45:00.000Z",
+    "reason": "New institutional chain launch with high-speed capabilities.",
+    "text": "Hyperliquid gets a high-speed Arbitrum chain as Elysium goes live\n\n@Kinetiq_xyz launched the mainnet of @Enter_Elysium today, a chain built on @arbitrum tech that settles to HyperEVM, the smart contract layer of @HyperliquidX. It targets blocks as fast as 100ms and uses $HYPE to",
+    "url": "https://x.com/BSCNews/status/2119878944010690665",
+    "images": [
+      "https://pbs.twimg.com/media/HWtLSBZWEAAJDJ4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794253933100-53nw68",
+    "source": "x",
+    "ts": "2026-11-09T19:52:13.100Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 85,
+    "originTimestamp": "2026-11-09T18:26:25.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Bitcoin's Biggest \"Bond\" Yet Just Sold Out - What Do Institutions Know? | @muneeb \n\n00:00 Binance Hack, AI-Assisted Attacks and Crypto Security\n02:08 Why Open-Source Systems Could Become More Secure\n03:41 Could AI Find a Critical Bug in Bitcoin?\n05:28 The Quantum Threat to",
+    "url": "https://x.com/BSCNews/status/2119878914793156798"
   }
 ]
