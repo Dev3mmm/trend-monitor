@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794002865922-m7yfkk",
-    "source": "x",
-    "ts": "2026-11-06T22:07:45.922Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-06T22:00:53.000Z",
-    "reason": "Public company disclosed significant BTC holdings.",
-    "text": "NEW: 🇺🇸 Public company Strive disclosed a net income of $509 million and the addition of 28,000 BTC in Q3. 👀\n\nThis brought their Bitcoin treasury to 43,124 BTC worth $3.26 billion! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2118825975723200590",
-    "images": [
-      "https://pbs.twimg.com/media/HWeSSKoWkAAC4yC.jpg",
-      "https://pbs.twimg.com/media/HWeSSm1XwAEDYSp.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794002869006-hmqj8q",
-    "source": "x",
-    "ts": "2026-11-06T22:07:49.006Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 67,
-    "originTimestamp": "2026-11-06T21:00:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "On-chain governance that actually runs the network! 🏛️\n\nThe NNS lets $ICP holders vote on upgrades that execute automatically, and the way @dfinity's neurons earn rewards is the key part.\n\nGet the details:",
-    "url": "https://x.com/BSCNews/status/2118825579546066997"
-  },
-  {
-    "id": "x-1794002872071-mu0776",
-    "source": "x",
-    "ts": "2026-11-06T22:07:52.071Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 21,
-    "originTimestamp": "2026-11-06T21:46:00.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "Caffeine now lets builders pick where their Internet Computer apps run\n\n@caffeineai, the AI app builder made by @dfinity for the Internet Computer $ICP, added a cloud picker on Wednesday. IC Mainnet stays the recommended default for most apps.\n\nEuropean Cloud keeps an app’s",
-    "url": "https://x.com/BSCNews/status/2118822230696010150"
-  },
-  {
     "id": "x-1794002875999-2fdy3i",
     "source": "x",
     "ts": "2026-11-06T22:07:55.999Z",
@@ -7687,5 +7642,50 @@
       "https://pbs.twimg.com/media/HWs-xT_WEAAP3qo.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794251538618-ptdve6",
+    "source": "x",
+    "ts": "2026-11-09T19:12:18.618Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-09T19:10:40.000Z",
+    "reason": "Notable bank partnership for Ethereum payments.",
+    "text": "🚨 NEW: PNC Bank has launched a pilot allowing corporate and institutional clients to receive $USDC payments on Ethereum through Coinbase, automatically converting them into US dollars for deposit.",
+    "url": "https://x.com/Cointelegraph/status/2119870304595927378",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794251540549-io2eli",
+    "source": "x",
+    "ts": "2026-11-09T19:12:20.549Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-09T19:07:15.000Z",
+    "reason": "Bitcoin price in limbo due to market sentiment shift.",
+    "text": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+    "url": "https://x.com/DecryptMedia/status/2119869443543056450",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794251542348-8qtq77",
+    "source": "x",
+    "ts": "2026-11-09T19:12:22.348Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-09T19:03:00.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "🔥 LONGITUDE: “Tokens are a worse asset to invest in than equity right now,”  @kain Warwick says.\n\nCould growing institutional adoption change that?\n\nJoin us for the 11th LONGITUDE:",
+    "url": "https://x.com/Cointelegraph/status/2119868373819392455"
   }
 ]
