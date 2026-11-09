@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 BIG: Solana's tokenized equities supply reaches a new all-time record high of $1.28B.",
-      "url": "https://x.com/Cointelegraph/status/2119827353878630801",
-      "images": [
-        "https://pbs.twimg.com/media/HWsFvV1aYAArZ5i.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794241335657
-    },
-    {
       "text": "JUST IN: 🇺🇸 Public company Super League Enterprise bought 16 BTC for worth $1.2 million for its treasury during this dip! 🚀",
       "url": "https://x.com/BitcoinMagazine/status/2119830120852758844",
       "images": [
@@ -2664,7 +2655,16 @@
       "at": 1794247924270,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386485186197950?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 BIG: Solana's tokenized equities supply reaches a new all-time record high of $1.28B.",
+      "final": "🚨 BIG: Solana's tokenized equities supply reaches a new all-time record high of $1.28B.\n\n#Solana $SOL",
+      "images": [
+        "https://pbs.twimg.com/media/HWsFvV1aYAArZ5i.jpg"
+      ],
+      "at": 1794249714614,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794247924270
+  "lastPostAt": 1794249714614
 }
