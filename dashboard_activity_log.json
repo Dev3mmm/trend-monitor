@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1793977320306-row1fw",
-    "source": "x",
-    "ts": "2026-11-06T15:02:00.306Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-06T14:59:48.000Z",
-    "reason": "Data breach affecting customer information, but no mention of affected funds.",
-    "text": "🚨 ALERT: Gnosis Pay disclosed a data breach affecting its legacy card system, exposing certain customer information. \n\nThe company said customer funds were not affected.",
-    "url": "https://x.com/Cointelegraph/status/2118720009534837005",
-    "images": [
-      "https://pbs.twimg.com/media/HWc0nseW0AEgUHA.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1793977323006-s65nj3",
-    "source": "x",
-    "ts": "2026-11-06T15:02:03.006Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-06T14:56:25.000Z",
-    "reason": "No notable crypto-related event or movement is mentioned.",
-    "text": "🚨TODAY: Chip stocks added $600,000,000,000 in market value at the open as the Nasdaq-100 extended its gain to 2.4%.\n\nThe S&amp;P 500 is up 0.8%, while the Dow opened 0.86% lower.\n\nChip stocks leading the REBOUND:\n🟢 AMD (AMD) +11.79%\n🟢 Lam Research (LRCX) +11.47%\n🟢 SanDisk (SNDK)",
-    "url": "https://x.com/coinbureau/status/2118719157797867838"
-  },
-  {
     "id": "x-1793977325149-pv936n",
     "source": "x",
     "ts": "2026-11-06T15:02:05.149Z",
@@ -7614,6 +7583,40 @@
     "text": "Trump Says He Knows 'Nothing' About World Liberty Financial as He Defends UAE Ties",
     "url": "https://x.com/DecryptMedia/status/2119753806279840238",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794225131721-v17i67",
+    "source": "x",
+    "ts": "2026-11-09T11:52:11.721Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-09T11:51:45.000Z",
+    "reason": "Coinbase's partnership with Circle and Ripple is notable in the crypto ecosystem.",
+    "text": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+    "url": "https://x.com/DecryptMedia/status/2119759846119506251",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794225134498-eyg9im",
+    "source": "x",
+    "ts": "2026-11-09T11:52:14.498Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-09T11:47:00.000Z",
+    "reason": "$PI coin has broken its all-time low, indicating a significant price movement.",
+    "text": "PI now has a new All-Time Low... \n\nWith the Ecosystem Summit, prize pool, and other upcoming updates, one would expect @PiCoreTeam to gather some much-needed momentum.\n\nThat hasn't been the case, as the protocol's native $PI coin has continued to slump... \n\nThe asset has broken",
+    "url": "https://x.com/BSCNews/status/2119758651090989496",
+    "images": [
+      "https://pbs.twimg.com/media/HWrW8MRXoAAD_hY.jpg"
+    ],
     "video": null
   }
 ]
