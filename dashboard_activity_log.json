@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1793972128950-1nutr1",
-    "source": "x",
-    "ts": "2026-11-06T13:35:28.950Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-06T13:30:53.000Z",
-    "reason": "Bitcoin price erasing previous rally indicates a potential downturn.",
-    "text": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
-    "url": "https://x.com/DecryptMedia/status/2118697633522885025",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1793972134278-lds74q",
-    "source": "x",
-    "ts": "2026-11-06T13:35:34.278Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-06T13:30:00.000Z",
-    "reason": "Exploit of user data and tokens exposed",
-    "text": "Chainalysis Begins Restoring Services After All Users' Password Hashes and Tokens Were Exposed.\n\nChainalysis began restoring KYT and Address Screening access Friday after disclosing that names, usernames, password hashes and live tokens for all users were exposed to a malicious",
-    "url": "https://x.com/DecryptMedia/status/2118697408225816878",
-    "images": [
-      "https://pbs.twimg.com/media/HWcEwKXXwAAL79e.png",
-      "https://pbs.twimg.com/media/HWcFAE4WwAA6Y91.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1793972137797-jqf2go",
     "source": "x",
     "ts": "2026-11-06T13:35:37.797Z",
@@ -7605,6 +7570,43 @@
     "text": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
     "url": "https://x.com/DecryptMedia/status/2119729584241332545",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794218509271-1njpem",
+    "source": "x",
+    "ts": "2026-11-09T10:01:49.271Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "PeckShieldAlert",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-09T09:55:38.000Z",
+    "reason": "Exploit involving loss of funds and theft of cryptocurrency.",
+    "text": "#PeckShieldAlert @ankr has been exploited, resulting in a loss of ~$286K. The exploiter drained 5,372 $aMATICb, 515.2K $ankrPOL (~$56K), ~8M ethereum:0x8290333cef9e6d528dd5618fb97a76f268f3edd4 (~$30.7K), and 83 $ankrETH (~$192K). \n\nMost of the stolen funds have been swapped for",
+    "url": "https://x.com/PeckShieldAlert/status/2119730625695662322",
+    "images": [
+      "https://pbs.twimg.com/media/HWrLohhaMAAyJZL.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794218511326-riqn91",
+    "source": "x",
+    "ts": "2026-11-09T10:01:51.326Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-09T09:51:59.000Z",
+    "reason": "Binance's statement addresses a specific security concern.",
+    "text": "🚨 UPDATE: Binance says it found no evidence of a breach and called ShinyHunters’ claim of 335M stolen user records a likely scam.",
+    "url": "https://x.com/Cointelegraph/status/2119729705016262662",
+    "images": [
+      "https://pbs.twimg.com/media/HWrK7ZoW8AAAkNz.jpg",
+      "https://pbs.twimg.com/media/HWrK7o2WQAA2Ha8.jpg"
+    ],
     "video": null
   }
 ]
