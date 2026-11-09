@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1793959340664-4po0bw",
-    "source": "x",
-    "ts": "2026-11-06T10:02:20.664Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-06T10:01:08.000Z",
-    "reason": "Tweet is vague and doesn't provide specific information about a notable event.",
-    "text": "🚨 UPDATE: Brent crude rises above $100 as Middle East supply risks persist.",
-    "url": "https://x.com/Cointelegraph/status/2118644845828813174"
-  },
-  {
-    "id": "x-1793959343982-s4g39f",
-    "source": "x",
-    "ts": "2026-11-06T10:02:23.982Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-06T09:55:17.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "📢 Speaker Announcement!\n\nWe are excited to announce that @IvanOnTech will take the main stage at #BlockDownDubai 🇦🇪 for a keynote session!\n\nIvan on Tech is the founder of @Bullmania and one of crypto's most recognised voices, with 1M+ followers across YouTube and X. \n\nHe is also",
-    "url": "https://x.com/BSCNews/status/2118644654165963189"
-  },
-  {
-    "id": "x-1793959346413-1dhgx6",
-    "source": "x",
-    "ts": "2026-11-06T10:02:26.413Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-06T09:56:20.000Z",
-    "reason": "No factual claim or price movement mentioned.",
-    "text": "LIVE: Bitcoin Amsterdam 2026 | Day 2 Livestream",
-    "url": "https://x.com/BitcoinMagazine/status/2118643640192970964"
-  },
-  {
     "id": "x-1793961080715-s0mnue",
     "source": "x",
     "ts": "2026-11-06T10:31:20.715Z",
@@ -7632,5 +7593,49 @@
       "https://pbs.twimg.com/media/HWpz7pTXAAAiqO5.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794196325224-l1aepe",
+    "source": "x",
+    "ts": "2026-11-09T03:52:05.224Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-09T03:45:33.000Z",
+    "reason": "US Senate investigation into cryptocurrency activity.",
+    "text": "Binance and World LibertyFi Face January Deadline After US Midterms\n\nSenator Richard Blumenthal has requested records from Binance (@binance), Tether (@tether) and Trump-linked crypto companies as part of a Senate investigation.\n\nThe requests cover illicit cryptocurrency activity",
+    "url": "https://x.com/BSCNews/status/2119637491607277835",
+    "images": [
+      "https://pbs.twimg.com/media/HWp29o-bEAAP98C.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794196327100-lhx0wc",
+    "source": "x",
+    "ts": "2026-11-09T03:52:07.100Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 60,
+    "originTimestamp": "2026-11-09T02:51:41.000Z",
+    "reason": "No concrete information provided.",
+    "text": "I care",
+    "url": "https://x.com/elonmusk/status/2119637191504581036"
+  },
+  {
+    "id": "x-1794196329620-o8ro2r",
+    "source": "x",
+    "ts": "2026-11-09T03:52:09.620Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 74,
+    "originTimestamp": "2026-11-09T02:37:43.000Z",
+    "reason": "Noise: generic opinion without factual claim.",
+    "text": "Chappelle is just not funny anymore",
+    "url": "https://x.com/elonmusk/status/2119636611633721811"
   }
 ]
