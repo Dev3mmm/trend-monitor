@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 UPDATE: Hyperscale Data sells its entire Bitcoin reserve, cashing out its final 211.56 $BTC for $16 million.",
-      "url": "https://x.com/Cointelegraph/status/2120137068181336476",
-      "images": [
-        "https://pbs.twimg.com/media/HWw9bGWX0AAMlNh.jpg",
-        "https://pbs.twimg.com/media/HWw9bWVWMAAoAFe.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794315170882
-    },
-    {
       "text": "🚨 NOW: $178M in crypto longs were liquidated in one hour as October US CPI came in hotter than expected.",
       "url": "https://x.com/Cointelegraph/status/2120150174152393061",
       "images": [
@@ -2760,7 +2750,17 @@
       "at": 1794321126083,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386785035600161?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Hyperscale Data sells its entire Bitcoin reserve, cashing out its final 211.56 $BTC for $16 million.",
+      "final": "🚨 UPDATE: Hyperscale Data sells its entire Bitcoin reserve, cashing out its final 211.56 $BTC for $16 million.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWw9bGWX0AAMlNh.jpg",
+        "https://pbs.twimg.com/media/HWw9bWVWMAAoAFe.jpg"
+      ],
+      "at": 1794323105472,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794321126083
+  "lastPostAt": 1794323105472
 }
