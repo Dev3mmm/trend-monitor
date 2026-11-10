@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 JUST IN: Nvidia’s general counsel stepped into a US probe of alleged chip smuggling by Megaspeed, the firm tied to the Jensen Huang scandal, per Bloomberg.",
-      "url": "https://x.com/Cointelegraph/status/2119992363506405886",
-      "images": [
-        "https://pbs.twimg.com/media/HWu50PvXcAAy_R0.jpg",
-        "https://pbs.twimg.com/media/HWu50agW4AAclsJ.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794280940773
-    },
-    {
       "text": "🚨 ALERT: NEAR AI says it has shut off unauthorized access to its internal systems, though NEAR AI Cloud stays paused while it wraps up an investigation.\n\nIt confirms NEAR Protocol and other NEAR services are unaffected.",
       "url": "https://x.com/Cointelegraph/status/2119999909759770742",
       "images": [
@@ -2606,7 +2596,17 @@
       "at": 1794281563347,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386622973463470?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 JUST IN: Nvidia’s general counsel stepped into a US probe of alleged chip smuggling by Megaspeed, the firm tied to the Jensen Huang scandal, per Bloomberg.",
+      "final": "🚨 JUST IN: Nvidia’s general counsel stepped into a US probe of alleged chip smuggling by Megaspeed, the firm tied to the Jensen Huang scandal, per Bloomberg.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWu50PvXcAAy_R0.jpg",
+        "https://pbs.twimg.com/media/HWu50agW4AAclsJ.jpg"
+      ],
+      "at": 1794283475180,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794281563347
+  "lastPostAt": 1794283475180
 }
