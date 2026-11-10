@@ -1,73 +1,5 @@
 [
   {
-    "id": "x-1794111109909-l5f6pm",
-    "source": "x",
-    "ts": "2026-11-08T04:11:49.909Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Rarma",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-08T04:08:28.000Z",
-    "reason": "Potential exploit or security incident on the Ethereum network.",
-    "text": "Keplr / Web3Auth social-login drain: what the chain shows so far\n\nTwo different sweepers moved funds out of the affected Keplr social-login accounts. They behave very differently. Labels below are likelihoods drawn from behaviour, not proof of who controls an address. Data to",
-    "url": "https://x.com/Rarma_/status/2119280869840175341",
-    "images": [
-      "https://pbs.twimg.com/media/HWkxwGKasAA6YYd.jpg",
-      "https://pbs.twimg.com/media/HWkxwF6acAAFU13.jpg",
-      "https://pbs.twimg.com/media/HWkxwF-bUAAQMCO.jpg",
-      "https://pbs.twimg.com/media/HWkxwF5bUAAwyoq.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794112313076-qvfkfj",
-    "source": "x",
-    "ts": "2026-11-08T04:31:53.076Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-08T04:24:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "It's happening... @litecoin is coming to @CantonNetwork.\n\nHere's what you need to know about one lesser known company, working to bring the @LTCFoundation's OG asset onto $CC rails ⬇️",
-    "url": "https://x.com/BSCNews/status/2119284778230853988",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794114153939-82uvxs",
-    "source": "x",
-    "ts": "2026-11-08T05:02:33.939Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T05:00:45.000Z",
-    "reason": "Notable market capitalization loss and significant price movement.",
-    "text": "🚨 UPDATE: Altcoins have lost roughly $200 billion in market capitalization, with 70% of Binance-listed altcoins now trading below their 200-day moving average, according to CryptoQuant analyst.",
-    "url": "https://x.com/Cointelegraph/status/2119294026910183792",
-    "images": [
-      "https://pbs.twimg.com/media/HWk-r3BXwAAN8GZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794116519916-wx6elj",
-    "source": "x",
-    "ts": "2026-11-08T05:41:59.916Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 44,
-    "originTimestamp": "2026-11-08T04:57:45.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "BREAKING: The local government of La Serena, Chile, is bringing @Starlink to rural clinics to help them stay connected during emergencies. 🇨🇱\n\nMedical teams can use Starlink to access patient records, arrange referrals through Chile’s Digital Hospital and stay in touch with",
-    "url": "https://x.com/elonmusk/status/2119302996224082049"
-  },
-  {
     "id": "x-1794116523455-awom0y",
     "source": "x",
     "ts": "2026-11-08T05:42:03.455Z",
@@ -7792,5 +7724,63 @@
     "reason": "No notable move in a specific token price.",
     "text": "PEPE is outrunning the memecoin Pack \n\nCoinGecko shows that $PEPE rose by approximately 33% over the last month. This coin is among the few big memecoins rising even as peers like $SHIB fall.\n\nSome reasons include wallets linked to Justin Sun accumulating about $51 million in",
     "url": "https://x.com/BSCNews/status/2120152747765113008"
+  },
+  {
+    "id": "x-1794319999998-eyalxc",
+    "source": "x",
+    "ts": "2026-11-10T14:13:19.998Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T14:11:31.000Z",
+    "reason": "No notable news or move is described in the tweet.",
+    "text": "Telegram Turns Every Message Into a Mini-App Powered by TON\n\nPavel Durov (@durov) confirmed that every @Telegram message will become an interactive application from now on. \n\nPrograms under 4 kilobytes will automatically execute within personal chats and channels.\n\nIt uses native",
+    "url": "https://x.com/BSCNews/status/2120157407305212058"
+  },
+  {
+    "id": "x-1794320003343-mshfgr",
+    "source": "x",
+    "ts": "2026-11-10T14:13:23.343Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T14:07:15.000Z",
+    "reason": "Notable institutional move with a potential high valuation.",
+    "text": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
+    "url": "https://x.com/DecryptMedia/status/2120156333823389698",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794320006601-ngsj56",
+    "source": "x",
+    "ts": "2026-11-10T14:13:26.601Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-10T14:04:48.000Z",
+    "reason": "Moody's partnership with Chainlink for cross-chain credit ratings is significant in the interoperability space.",
+    "text": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
+    "url": "https://x.com/DecryptMedia/status/2120155717134876768",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794320009335-cm3v1y",
+    "source": "x",
+    "ts": "2026-11-10T14:13:29.335Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-10T14:04:31.000Z",
+    "reason": "No notable move in crypto market.",
+    "text": "PCOS, aka Polycystic Ovary Syndrome, aka Polyendocrine Metabolic Ovarian Syndrome (PMOS)\n\nAs I have said since 2019, it is wholly a metabolic problem. \n\nFix your nutrition.",
+    "url": "https://x.com/amerix/status/2120155648679637242"
   }
 ]
