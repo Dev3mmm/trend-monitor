@@ -1,87 +1,5 @@
 [
   {
-    "id": "x-1794137628620-hgfxx1",
-    "source": "x",
-    "ts": "2026-11-08T11:33:48.620Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-08T11:25:09.000Z",
-    "reason": "Exploit involving user private keys and potential theft of millions",
-    "text": "⚠️WARNING: Bitquery traced $6.01 MILLION in suspected theft after a Web3Auth breach exposed private keys for some Keplr wallets.\n\nKeplr paused Google and Apple logins and says some wallets created using either sign-in may be affected.\n\nWallets created with a recovery phrase or",
-    "url": "https://x.com/coinbureau/status/2119390765952712747",
-    "images": [
-      "https://pbs.twimg.com/media/HWmU17cbEAAJi2u.png",
-      "https://pbs.twimg.com/media/HWmWmbVboAA-hWB.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794138110792-czd6yx",
-    "source": "x",
-    "ts": "2026-11-08T11:41:50.792Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T11:40:00.000Z",
-    "reason": "Price outside recent range suggests significant market sentiment change.",
-    "text": "Spot $NEAR ETF sees worst week since launch.\n\nBitwise's spot @NEARProtocol ETF launched in style at the start of October, quickly racking up four straight weeks of major net inflows.\n\nThat momentum, however, appears to have stalled, the product seeing two straight weeks of net",
-    "url": "https://x.com/BSCNews/status/2119394501454127267",
-    "images": [
-      "https://pbs.twimg.com/media/HWl3ZI-WoAAw1BX.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794139348418-w2nq77",
-    "source": "x",
-    "ts": "2026-11-08T12:02:28.418Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T12:01:01.000Z",
-    "reason": "No notable crypto-related event.",
-    "text": "🇸🇬 JUST IN: Apple saved $2.7 billion in taxes in 2026 by shifting profits to Singapore, surpassing Ireland as its largest offshore tax shelter, according to the Financial Times.",
-    "url": "https://x.com/Cointelegraph/status/2119399790530195873"
-  },
-  {
-    "id": "x-1794140524017-cfp1ch",
-    "source": "x",
-    "ts": "2026-11-08T12:22:04.017Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-08T12:10:05.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Fucked around and learnt the hard way.",
-    "url": "https://x.com/amerix/status/2119403224859881769"
-  },
-  {
-    "id": "x-1794140527442-p8dhnd",
-    "source": "x",
-    "ts": "2026-11-08T12:22:07.442Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-08T12:10:12.000Z",
-    "reason": "Regulatory alert from a prominent exchange CEO.",
-    "text": "OKX Founder Warns Against Direct Transfers From MEXC.\n\nOKX founder Star Xu warned Saturday against transferring funds directly from MEXC to OKX, saying affected funds may be frozen and associated accounts investigated under strengthened compliance controls.",
-    "url": "https://x.com/DecryptMedia/status/2119402101671415951",
-    "images": [
-      "https://pbs.twimg.com/media/HWmg7hfWAAAdpQk.png",
-      "https://pbs.twimg.com/media/HWmg8mpXsAEQZh1.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794141107959-u6bw1d",
     "source": "x",
     "ts": "2026-11-08T12:31:47.959Z",
@@ -7792,6 +7710,86 @@
     "images": [
       "https://pbs.twimg.com/media/HWxeDhqWAAAi5vI.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794324874751-z35x5l",
+    "source": "x",
+    "ts": "2026-11-10T15:34:34.751Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T15:32:12.000Z",
+    "reason": "No notable move, statement lacks concrete information and action.",
+    "text": "FRAME is everything. Control it.",
+    "url": "https://x.com/amerix/status/2120177712597753994"
+  },
+  {
+    "id": "x-1794324878177-rizdqz",
+    "source": "x",
+    "ts": "2026-11-10T15:34:38.177Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-10T15:30:58.000Z",
+    "reason": "Bitcoin institutional backing announcement by a new network.",
+    "text": "🔶 @Cashen_cc has announced cashBTC, a Bitcoin-backed asset coming to the Canton Network in Q1 2027. Each token will be backed 1:1 by BTC held in segregated cold storage by licensed trustee BitGo Bank &amp; Trust.",
+    "url": "https://x.com/BSCNews/status/2120177400898003309",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794324881768-mubn4r",
+    "source": "x",
+    "ts": "2026-11-10T15:34:41.768Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 27,
+    "originTimestamp": "2026-11-10T15:07:40.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Dominic Williams, founder of @dfinity, has framed Internet Computer as the last project still chasing the world computer idea, setting $ICP against a field that has largely moved on from that goal.\n\nFurther $ICP reporting is gathered in one spot on BSCN, drawing together",
+    "url": "https://x.com/BSCNews/status/2120177386088198337",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794324884504-0xl3z3",
+    "source": "x",
+    "ts": "2026-11-10T15:34:44.504Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-10T15:30:50.000Z",
+    "reason": "New use of a token with a notable platform integration",
+    "text": "🔥 NEW: Solana tokens can now be traded through X Cashtags using Fomo’s trading platform.",
+    "url": "https://x.com/Cointelegraph/status/2120177371156291985",
+    "images": [
+      "https://pbs.twimg.com/media/HWxiEXKWUAArIn_.jpg",
+      "https://pbs.twimg.com/media/HWxiE7YW4AAsJ3F.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794324887516-crtqc7",
+    "source": "x",
+    "ts": "2026-11-10T15:34:47.516Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T15:30:00.000Z",
+    "reason": "Notable new use of a token leading to diversification of products.",
+    "text": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+    "url": "https://x.com/DecryptMedia/status/2120177160077926757",
+    "images": [],
     "video": null
   }
 ]
