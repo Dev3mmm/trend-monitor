@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794087169318-oqwy14",
-    "source": "x",
-    "ts": "2026-11-07T21:32:49.318Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-07T21:26:00.000Z",
-    "reason": "No notable move or specific event is reported.",
-    "text": "US House could investigate Trump's pardoning of Binance founder CZ!\n\nAccording to Wu Blockchain, Representative Robert Garcia (who is expected to become Chair the House Oversight Committee)...\n\n... has said the Committee would investigate both:\n\n(i) The Trump Family's",
-    "url": "https://x.com/BSCNews/status/2119179585732415495"
-  },
-  {
-    "id": "x-1794088308869-var33d",
-    "source": "x",
-    "ts": "2026-11-07T21:51:48.869Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-07T21:45:00.000Z",
-    "reason": "No notable crypto-related news or move.",
-    "text": "⚠️Remember Microsoft Paint?\n\nThe app now has a critical flaw rated 8.1 out of 10 that could let hackers use it to run their own code on your computer.\n\nMicrosoft says it can be exploited over the network, and \"No authentication or user interaction is required.\"\n\nThe company",
-    "url": "https://x.com/coinbureau/status/2119184367062765635"
-  },
-  {
-    "id": "x-1794089520578-0y74q6",
-    "source": "x",
-    "ts": "2026-11-07T22:12:00.578Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-07T22:01:44.000Z",
-    "reason": "No notable move; price is within the recent range.",
-    "text": "🔥INSIGHT: Is $1M Bitcoin by 2030 too optimistic? Not for @1markmoss.\n\nAsked by @itsciaranlyons, the Market Disruptors founder called the target \"totally doable,\" though he said it could land closer to 2032 given how volatile BTC is.\n\nHe expects a run to $1M could still see",
-    "url": "https://x.com/Cointelegraph/status/2119188580304118080"
-  },
-  {
     "id": "x-1794090729740-n0fccr",
     "source": "x",
     "ts": "2026-11-07T22:32:09.740Z",
@@ -7767,5 +7728,58 @@
     "reason": "No relation to cryptocurrencies or blockchain technology.",
     "text": "BREAKING: Nvidia CEO Jensen Huang’s ties to an alleged Chinese spy helped facilitate at least $7.5 BILLION in chip sales to China, The Information reports.\n\nThe relationship dates back to at least 2023, when Alice Huang was a managing director at Singapore-based Megaspeed. \n\nThe",
     "url": "https://x.com/coinbureau/status/2120135635453280309"
+  },
+  {
+    "id": "x-1794315163148-jwe137",
+    "source": "x",
+    "ts": "2026-11-10T12:52:43.148Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T12:50:41.000Z",
+    "reason": "Specific institutional action with real financial outcome.",
+    "text": "🚨 UPDATE: Hyperscale Data sells its entire Bitcoin reserve, cashing out its final 211.56 $BTC for $16 million.",
+    "url": "https://x.com/Cointelegraph/status/2120137068181336476",
+    "images": [
+      "https://pbs.twimg.com/media/HWw9bGWX0AAMlNh.jpg",
+      "https://pbs.twimg.com/media/HWw9bWVWMAAoAFe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794315167472-zmahm4",
+    "source": "x",
+    "ts": "2026-11-10T12:52:47.472Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-10T12:47:41.000Z",
+    "reason": "Notable institutional move by BlackRock into Coinbase Prime.",
+    "text": "BlackRock Shuffles Another $151M of Ethereum into Coinbase Prime\n\n@BlackRock moved 72,212 $ETH, valued at about $151.4 million, from its ETF deposit wallets to @Coinbase Prime in four installments over the past hour, Arkham Intel says.\n\nThese included the following amounts:\n-",
+    "url": "https://x.com/BSCNews/status/2120136311486976153",
+    "images": [
+      "https://pbs.twimg.com/media/HWw8tbeW8AAuN0g.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794315170386-x991z8",
+    "source": "x",
+    "ts": "2026-11-10T12:52:50.386Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T12:46:45.000Z",
+    "reason": "Binance warns of potential security threat affecting iPhone users' private keys.",
+    "text": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+    "url": "https://x.com/DecryptMedia/status/2120136075389604060",
+    "images": [],
+    "video": null
   }
 ]
