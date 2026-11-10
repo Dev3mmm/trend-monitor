@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1794046488550-x9jspe",
-    "source": "x",
-    "ts": "2026-11-07T10:14:48.550Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-07T10:10:01.000Z",
-    "reason": "High-profile crypto theft confirmed by U.S. DoJ",
-    "text": "🇺🇸 LATEST: Former FBI agent pleads guilty to stealing $2.47 MILLION in crypto using wallet credentials the bureau collected in 35 investigations.\n\nU.S DoJ confirms that Patrick Steven Yaroch used his access to FBI systems to make roughly 100 unauthorized transfers, taking crypto",
-    "url": "https://x.com/coinbureau/status/2119009470479044819",
-    "images": [
-      "https://pbs.twimg.com/media/HWg7BQebMAABeIv.png",
-      "https://pbs.twimg.com/media/HWg7CP7b0AA0saC.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794046493983-r687vm",
     "source": "x",
     "ts": "2026-11-07T10:14:53.983Z",
@@ -7716,5 +7697,23 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🚨 NOW: OpenAI launches Control Room, a central system that tracks model workloads across its research infrastructure and can halt them within 35 seconds if safety or security concerns arise.",
     "url": "https://x.com/Cointelegraph/status/2119981041255416029"
+  },
+  {
+    "id": "x-1794278540197-jzipj1",
+    "source": "x",
+    "ts": "2026-11-10T02:42:20.197Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T02:36:00.000Z",
+    "reason": "Notable partnership and technology integration in the blockchain space.",
+    "text": "Midnight Network to leverage both Celestia and FIlecoin.\n\nAccording to @MSBIntel, @Cardano founder @IOHK_Charles has promised that @MidnightNtwrk will leverage the technology of both @celestia and @Filecoin.\n\nIn particular, Midnight will leverage TIA and \"a data availability",
+    "url": "https://x.com/BSCNews/status/2119982375207669900",
+    "images": [
+      "https://pbs.twimg.com/media/HWq_oFyXgAA3YcR.jpg"
+    ],
+    "video": null
   }
 ]
