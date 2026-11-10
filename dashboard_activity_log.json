@@ -1,69 +1,5 @@
 [
   {
-    "id": "x-1794142916527-igx3z7",
-    "source": "x",
-    "ts": "2026-11-08T13:01:56.527Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T13:00:36.000Z",
-    "reason": "Noise: Generic statement without a concrete price or event.",
-    "text": "Connecting the dots.",
-    "url": "https://x.com/saylor/status/2119414787134083540"
-  },
-  {
-    "id": "x-1794143509675-jupkvp",
-    "source": "x",
-    "ts": "2026-11-08T13:11:49.675Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T13:09:08.000Z",
-    "reason": "Notable theft debunking and asset protection by an institution.",
-    "text": "⚠️UPDATE: Web3Auth DEBUNKS the circulating $6.01 MILLION Keplr wallet theft estimate, saying the addresses behind it are VERIFIED recovery wallets.\n\nWeb3Auth says it moved funds to those wallets with Keplr’s help to protect users’ assets. \n\nThose transfers were MISTAKEN for",
-    "url": "https://x.com/coinbureau/status/2119416934257353174",
-    "images": [
-      "https://pbs.twimg.com/media/HWmqdAfa0AAHEjG.png",
-      "https://pbs.twimg.com/media/HWmqq49aYAAX38j.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794144139393-8bmw4v",
-    "source": "x",
-    "ts": "2026-11-08T13:22:19.393Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-08T13:17:51.000Z",
-    "reason": "No notable move in token price or behavior.",
-    "text": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
-    "url": "https://x.com/elonmusk/status/2119419126045454531"
-  },
-  {
-    "id": "x-1794144721233-zzmf94",
-    "source": "x",
-    "ts": "2026-11-08T13:32:01.233Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-08T13:25:28.000Z",
-    "reason": "Web3Auth debunks major theft report revealing verified recovery wallets.",
-    "text": "⚠️UPDATE: Web3Auth debunks the circulating $6.01 MILLION Keplr theft reports, saying the addresses Bitquery traced are VERIFIED recovery wallets.\n\nBitquery initially flagged the transfers as suspected theft after a Web3Auth breach exposed private keys for some Keplr wallets.",
-    "url": "https://x.com/coinbureau/status/2119421044348076302",
-    "images": [
-      "https://pbs.twimg.com/media/HWmxLAnbsAA5Zhs.png",
-      "https://pbs.twimg.com/media/HWmxMVQbAAA2Bqf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794145901667-q63mkl",
     "source": "x",
     "ts": "2026-11-08T13:51:41.667Z",
@@ -7798,5 +7734,77 @@
       "https://pbs.twimg.com/media/HWxhJD7WYAAywoC.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794326556752-fyebds",
+    "source": "x",
+    "ts": "2026-11-10T16:02:36.752Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T16:01:32.000Z",
+    "reason": "Notable institution Moody's testing blockchain integration with Chainlink.",
+    "text": "⚡️ JUST IN: Moody’s Ratings has completed a Chainlink-powered testnet pilot demonstrating the deployment of credit ratings data across multiple blockchains.",
+    "url": "https://x.com/Cointelegraph/status/2120185093884932342",
+    "images": [
+      "https://pbs.twimg.com/media/HWxpGewWoAA-jz1.jpg",
+      "https://pbs.twimg.com/media/HWxpGxfWMAAsHc8.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794326562349-8lhivh",
+    "source": "x",
+    "ts": "2026-11-10T16:02:42.349Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T16:00:00.000Z",
+    "reason": "Exploit of a critical vulnerability in the infrastructure.",
+    "text": "NEAR AI Says Attacker Used SGLang Flaw to Access Part of Its Infrastructure.\n\nNEAR AI said an attacker exploited a vulnerability in SGLang, the inference engine it runs, on Nov. 8 to access part of its infrastructure, adding that the access is closed and affected users have been",
+    "url": "https://x.com/DecryptMedia/status/2120184709934354440",
+    "images": [
+      "https://pbs.twimg.com/media/HWwyRVSXwAAQ7m4.png",
+      "https://pbs.twimg.com/media/HWwy9U3XcAAQ2sm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794326567410-7aeo2g",
+    "source": "x",
+    "ts": "2026-11-10T16:02:47.410Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Binance",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T15:55:38.000Z",
+    "reason": "Notable institutional move in the crypto-asset-backed securities market.",
+    "text": "Tokenized equities AUM is at an all-time high.\n\nWithin that growing market, bStocks stands at $1.5B in AUM, ranking first by that measure.",
+    "url": "https://x.com/binance/status/2120183611798544617",
+    "images": [
+      "https://pbs.twimg.com/media/HWxneU-acAE8EkO.jpg",
+      "https://pbs.twimg.com/media/HWxneVAbUAAh1PI.jpg",
+      "https://pbs.twimg.com/media/HWxnrXdbEAARWU-.jpg",
+      "https://pbs.twimg.com/media/HWxnrXdbcAAkm-0.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794326571697-sk9xtc",
+    "source": "x",
+    "ts": "2026-11-10T16:02:51.697Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-10T15:45:03.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Thank you @amerix for the inspiration. At least by 2026 something tangible has happened. Shining things! Truly grateful 🙏🤝",
+    "url": "https://x.com/amerix/status/2120182919494844821"
   }
 ]
