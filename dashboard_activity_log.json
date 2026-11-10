@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794124929720-0reafe",
-    "source": "x",
-    "ts": "2026-11-08T08:02:09.720Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T07:59:41.000Z",
-    "reason": "No notable crypto-related event or use of crypto mentioned.",
-    "text": "🇺🇸 INSIGHT: Sen. Bernie Sanders says 79% of Americans support a 10% credit card interest rate cap, 73% want to ban super PACs, and 66% back Medicare for All, urging Democrats to deliver on these demands.",
-    "url": "https://x.com/Cointelegraph/status/2119339056630771718"
-  },
-  {
-    "id": "x-1794124932533-kqpdo1",
-    "source": "x",
-    "ts": "2026-11-08T08:02:12.533Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-08T07:57:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Meet the wide suite of products that now make up the @FLOKI $FLOKI ecosystem, some five years on... ⬇️",
-    "url": "https://x.com/BSCNews/status/2119338381587214435"
-  },
-  {
-    "id": "x-1794134587725-eplrvs",
-    "source": "x",
-    "ts": "2026-11-08T10:43:07.725Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-08T10:29:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "The $INJ token soars as first ETF goes live. \n\nIt's been a massive week for the @injective ecosystem, with Canary launching the very first $INJ staking ETF on November 6, now live on @Nasdaq.\n\nThe questions now arise - Can Injective maintain the momentum it is currently seeing,",
-    "url": "https://x.com/BSCNews/status/2119376633769640446",
-    "images": [
-      "https://pbs.twimg.com/media/HWlvO1xWAAADcLz.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794134590297-sdwz7l",
     "source": "x",
     "ts": "2026-11-08T10:43:10.297Z",
@@ -7782,5 +7738,49 @@
     "reason": "No notable move or specific event described.",
     "text": "Do you know that @Injective Network runs on the @Cosmos SDK? \n\nFind out how many chains run on Cosmos...",
     "url": "https://x.com/BSCNews/status/2120162562432221603"
+  },
+  {
+    "id": "x-1794322448825-8s6y4j",
+    "source": "x",
+    "ts": "2026-11-10T14:54:08.825Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T14:52:00.000Z",
+    "reason": "Notable security development with AI agents and automated market makers.",
+    "text": "Ledger Wants AI Agents to Propose, Not Sign\n\n@Ledger is implementing its Ledger Agent Intent model, a hardware-isolated security layer that ensures autonomous AI agents can't access signer keys.\n\nAI agents and automated market makers can perform onchain surveillance and manage",
+    "url": "https://x.com/BSCNews/status/2120167596234313754",
+    "images": [
+      "https://pbs.twimg.com/media/HWxTvNYXcAAmZuz.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794322452310-f6id3x",
+    "source": "x",
+    "ts": "2026-11-10T14:54:12.310Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-10T14:44:12.000Z",
+    "reason": "Meme without any relevant crypto content.",
+    "text": "自从玩 AI 开始，花钱如流水一样 😂😂😂",
+    "url": "https://x.com/PhyrexNi/status/2120166370218533287"
+  },
+  {
+    "id": "x-1794322456872-rsmvyx",
+    "source": "x",
+    "ts": "2026-11-10T14:54:16.872Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 47,
+    "originTimestamp": "2026-11-10T14:06:56.000Z",
+    "reason": "No notable crypto-related move or event.",
+    "text": "😂最后版本还没合呢，两个 Ultra 的额度都用完了，然后我又充了 20 美元，瞬间就没了。\n\n明天白天是不能上线了，目前预期是11月11日23点开始吧。",
+    "url": "https://x.com/PhyrexNi/status/2120165632515944646"
   }
 ]
