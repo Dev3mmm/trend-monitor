@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794186129265-b3uevy",
-    "source": "x",
-    "ts": "2026-11-09T01:02:09.265Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T01:00:48.000Z",
-    "reason": "No notable use of a token/stablecoin.",
-    "text": "🇨🇳  LATEST: China’s DeepSeek says its open-source AI agent app, DeepSeek Harness, hit 1.54 million daily users less than three months after launch, up from about 271,000 in late September.",
-    "url": "https://x.com/Cointelegraph/status/2119596031339851857"
-  },
-  {
-    "id": "x-1794186744248-rmrzr2",
-    "source": "x",
-    "ts": "2026-11-09T01:12:24.248Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-09T01:00:00.000Z",
-    "reason": "New developer library simplifies app development for Pi token payments",
-    "text": "Huge shortcut for Pi builders! ⚡\n\nA new @PiCoreTeam developer library makes adding $PI payments to an app far simpler. The setup time is the real surprise.\n\nLearn now:",
-    "url": "https://x.com/BSCNews/status/2119596976685584762",
-    "images": [
-      "https://pbs.twimg.com/media/HWm5o02WwAA4J5i.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794187323241-ueqwbi",
-    "source": "x",
-    "ts": "2026-11-09T01:22:03.241Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T01:18:57.000Z",
-    "reason": "No concrete or specific event or move in the crypto market.",
-    "text": "🇺🇸 TRUMP on Super Intelligence: “If we don’t have it, China is gonna have it... I think the risk can be managed.”",
-    "url": "https://x.com/Cointelegraph/status/2119600596084994521"
-  },
-  {
     "id": "x-1794187915749-hbrazr",
     "source": "x",
     "ts": "2026-11-09T01:31:55.749Z",
@@ -7907,5 +7863,58 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "PEPE has had a busy few weeks since mid-October.\n\nThe appetite for memecoins hasn’t faded, as @pepecoineth ($PEPE), the frog-themed memecoin on Ethereum, has been on the rise for most of the past 30 days.\n\nHere are some key developments:\n\n[Oct 18] PEPE rose 4.7% after 7.2T tokens",
     "url": "https://x.com/BSCNews/status/2120264232503857291"
+  },
+  {
+    "id": "x-1794346330324-ld3r6m",
+    "source": "x",
+    "ts": "2026-11-10T21:32:10.324Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T21:30:45.000Z",
+    "reason": "Noteworthy warning about crypto security.",
+    "text": "🚨 INSIGHT: Ledger CEO Pascal Gauthier warned that “everybody will be hacked at some point” following Binance’s $6.3 billion hack.",
+    "url": "https://x.com/Cointelegraph/status/2120267944756175190",
+    "images": [
+      "https://pbs.twimg.com/media/HWy0dAeXEAAR3Jb.jpg",
+      "https://pbs.twimg.com/media/HWy0dRJX0AMzF7R.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794346335476-4vx1is",
+    "source": "x",
+    "ts": "2026-11-10T21:32:15.476Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T21:30:00.000Z",
+    "reason": "No notable move in token pricing or institutional adoption.",
+    "text": "Google Rolls Out Gemini 4 Carbon, Calling It Its Strongest Model.\n\nGoogle said Tuesday Gemini 4 Carbon, its \"strongest model,\" is available via the Gemini API, Gemini for business and to Ultra subscribers, priced at $2 and $10 per million input and output tokens until Nov. 30.",
+    "url": "https://x.com/DecryptMedia/status/2120267755618513313"
+  },
+  {
+    "id": "x-1794346340738-qxqchr",
+    "source": "x",
+    "ts": "2026-11-10T21:32:20.738Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 23,
+    "originTimestamp": "2026-11-10T21:09:03.000Z",
+    "reason": "Proposed quantum-resistant updates for the XRP Ledger.",
+    "text": "News update: the XRP Ledger could be going quantum-resistant 🛡️\n\nThe XRP Ledger Foundation has proposed new $XRP accounts built to survive quantum computers, with no higher base fees. Here's how it would work ⬇️\n\nFull story:",
+    "url": "https://x.com/BSCNews/status/2120265933394489544",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2120262391480954880/vid/avc1/1280x720/piV_rzCVVXFAPd2c.mp4?tag=29",
+      "duration": 194,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120262391480954880/img/Uj-QIvhwUT2uHEAm.jpg"
+    }
   }
 ]
