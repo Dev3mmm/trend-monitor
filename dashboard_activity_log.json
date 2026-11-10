@@ -1,67 +1,5 @@
 [
   {
-    "id": "x-1794032559119-xhqej1",
-    "source": "x",
-    "ts": "2026-11-07T06:22:39.119Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-07T06:15:00.000Z",
-    "reason": "On-chain data showing significant speed improvement for ICP compared to Solana.",
-    "text": "Internet Computer now 3x faster than Solana ?!?\n\n@Dfinity's Internet Computer is by far the fastest blockchain in terms of TPS.\n\nOver the past week, $ICP has averaged a staggering 5,358 tx/s.\n\nMore than 5x that of @Solana's 1,738 tx/s in the period. \n\nData: @chainspect_app",
-    "url": "https://x.com/BSCNews/status/2118950324543393866",
-    "images": [
-      "https://pbs.twimg.com/media/HWcGCCjWAAApowi.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794033810752-64olnk",
-    "source": "x",
-    "ts": "2026-11-07T06:43:30.752Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 17,
-    "originTimestamp": "2026-11-07T06:26:03.000Z",
-    "reason": "Noise: Generic tweet without specific content or action.",
-    "text": "True",
-    "url": "https://x.com/elonmusk/status/2118956856978653374"
-  },
-  {
-    "id": "x-1794034934115-o7bwmv",
-    "source": "x",
-    "ts": "2026-11-07T07:02:14.115Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-07T07:00:49.000Z",
-    "reason": "Tokenized stocks on X Layer gained significant market capitalization.",
-    "text": "🔥 JUST IN: Tokenized stocks on X Layer gained $79.6M in market cap over 7 days, leading Arbitrum ($14.3M) and Robinhood Chain ($7.1M).",
-    "url": "https://x.com/Cointelegraph/status/2118961853950836797",
-    "images": [
-      "https://pbs.twimg.com/media/HWgQk3iWAAAEg_e.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794035527526-530kf8",
-    "source": "x",
-    "ts": "2026-11-07T07:12:07.526Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-07T07:03:32.000Z",
-    "reason": "No notable move in the price or market data provided.",
-    "text": "AI BOOM vs. Dot-com BUBBLE, on the same clock.\n\nThe Nasdaq-100 has climbed to 2.2x its level since ChatGPT’s launch. \n\nHowever by July 1999, the same amount of time after Netscape’s IPO, the index had already reached 4.2x its starting level.\n\nOn valuation, the gap is much",
-    "url": "https://x.com/coinbureau/status/2118962540537336230"
-  },
-  {
     "id": "x-1794036733374-qsdrci",
     "source": "x",
     "ts": "2026-11-07T07:32:13.374Z",
@@ -7714,5 +7652,63 @@
       "https://pbs.twimg.com/media/HWq_KHPWAAA8mcT.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794272536413-u29z51",
+    "source": "x",
+    "ts": "2026-11-10T01:02:16.414Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T01:00:42.000Z",
+    "reason": "Potential tax avoidance strategy by Australian crypto investors.",
+    "text": "🇦🇺 INSIGHT: Some Australian crypto investors, including Finder’s Fred Schebesta are moving overseas to avoid 2027’s big CGT hike. Should you join them, or choose a less dramatic strategy?",
+    "url": "https://x.com/Cointelegraph/status/2119958393934708783",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794272542060-jg5wpr",
+    "source": "x",
+    "ts": "2026-11-10T01:02:22.060Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T01:00:02.000Z",
+    "reason": "The tweet focuses on stock movement and potential leadership changes without mentioning any direct impact on cryptocurrencies.",
+    "text": "Nvidia shares slid as much as 8% amid spy allegations. The stock was already weakening, and investors now face a bigger question: Who replaces Jensen Huang if he suddenly leaves?",
+    "url": "https://x.com/DecryptMedia/status/2119958225722446047",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794272547775-vlxfw4",
+    "source": "x",
+    "ts": "2026-11-10T01:02:27.775Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-10T00:57:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "1.1 million $SUI tokens bought back in 2026.\n\n@SuiNetwork has now bought back a total of 1.1 million $SUI tokens in 2026, worth roughly $900,000 based on current prices.\n\nThe purchases are facilitated by converting the yield and operating returns generated from its stablecoin",
+    "url": "https://x.com/BSCNews/status/2119957460882727353"
+  },
+  {
+    "id": "x-1794272552869-juug3a",
+    "source": "x",
+    "ts": "2026-11-10T01:02:32.869Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-10T00:55:05.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "🇰🇷🇯🇵 BREAKING: South Korea and Japan are ripping, with the KOSPI surging over 5% so fast that buying was paused.\n\nThe Korea Exchange triggered a “buy-side sidecar,” pausing computer-driven buy orders for 5 minutes, per Yonhap.\n\nThe tech-heavy KOSDAQ triggered one too.\n\nChip",
+    "url": "https://x.com/coinbureau/status/2119956981058523397"
   }
 ]
