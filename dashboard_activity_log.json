@@ -1,78 +1,5 @@
 [
   {
-    "id": "x-1794176527775-9aiglh",
-    "source": "x",
-    "ts": "2026-11-08T22:22:07.775Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 19,
-    "originTimestamp": "2026-11-08T22:02:40.000Z",
-    "reason": "Price below a significant threshold with notable percentage drop.",
-    "text": "BREAKING: $NEAR falls below $3.50, down 4.6% in 24 hours.",
-    "url": "https://x.com/BSCNews/status/2119554986346471922",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794176530580-1uydsg",
-    "source": "x",
-    "ts": "2026-11-08T22:22:10.580Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-08T22:14:00.000Z",
-    "reason": "No notable move or event described, just an explanation.",
-    "text": "Masternode Validators are one of the most important components of the entire @XDCNetwork ecosystem. We explain what they actually are, and why they matter ⬇️",
-    "url": "https://x.com/BSCNews/status/2119554052690268332"
-  },
-  {
-    "id": "x-1794177141695-5k5kia",
-    "source": "x",
-    "ts": "2026-11-08T22:32:21.695Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T22:30:42.000Z",
-    "reason": "Goldman Sachs' investment performance related to AI stocks is significant and noteworthy.",
-    "text": "🚨 UPDATE: Goldman Sachs’ basket of AI memory-related stocks has plunged 51% from its June peak, marking its deepest drawdown since ChatGPT launched, according to Bloomberg.",
-    "url": "https://x.com/Cointelegraph/status/2119558255202451710",
-    "images": [
-      "https://pbs.twimg.com/media/HWovAAyWYAAXRla.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794178919388-xlk339",
-    "source": "x",
-    "ts": "2026-11-08T23:01:59.388Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T23:00:46.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "When was the last time you bought a new altcoin or memecoin for the first time? 👇",
-    "url": "https://x.com/Cointelegraph/status/2119565821361963290"
-  },
-  {
-    "id": "x-1794178925204-63xgzl",
-    "source": "x",
-    "ts": "2026-11-08T23:02:05.204Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T23:00:00.000Z",
-    "reason": "No notable move or event described.",
-    "text": "🚨Key events to watch this week.\n\nMONDAY, Nov. 9\n- China CPI and PPI\n- Japan current account and trade data\n- Take-Two (TTWO) earnings, with GTA VI updates\n\nTUESDAY, Nov. 10\n- U.S. CPI and real earnings\n- CoreWeave (CRWV) earnings call\n\nWEDNESDAY, Nov. 11\n- Veterans Day: U.S.",
-    "url": "https://x.com/coinbureau/status/2119565632073236897"
-  },
-  {
     "id": "x-1794180716103-qc1sbl",
     "source": "x",
     "ts": "2026-11-08T23:31:56.103Z",
@@ -7908,6 +7835,84 @@
     "images": [
       "https://pbs.twimg.com/media/HWyfnNPWkAAZZEg.png",
       "https://pbs.twimg.com/media/HWyfnm2WwAA_rUR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794342143726-zxjnvb",
+    "source": "x",
+    "ts": "2026-11-10T20:22:23.726Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T20:20:42.000Z",
+    "reason": "No notable crypto-related event.",
+    "text": "🚨 ALERT: NVIDIA shares plunge 7.06%, hitting a new session low.",
+    "url": "https://x.com/Cointelegraph/status/2120250318294253713"
+  },
+  {
+    "id": "x-1794342148212-xxzflv",
+    "source": "x",
+    "ts": "2026-11-10T20:22:28.212Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-10T20:17:15.000Z",
+    "reason": "Exposes sensitive user data and AI agent details.",
+    "text": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+    "url": "https://x.com/DecryptMedia/status/2120249448018112807",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794342152868-2hpxkk",
+    "source": "x",
+    "ts": "2026-11-10T20:22:32.868Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 42,
+    "originTimestamp": "2026-11-10T19:40:13.000Z",
+    "reason": "Vague opinion without factual claim",
+    "text": "JACK MALLERS: \"Gold is stuck in the ground. Bitcoin is stuck in the future.\" ⚡\n\nJack took the stage in Amsterdam to rediscover Bitcoin through Satoshi's white paper, and he breaks down how money, time, energy, and information combine to create the hardest money ever made.",
+    "url": "https://x.com/BitcoinMagazine/status/2120249314597580908"
+  },
+  {
+    "id": "x-1794342158742-i6sqta",
+    "source": "x",
+    "ts": "2026-11-10T20:22:38.742Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-10T20:16:38.000Z",
+    "reason": "Across Protocol warns users due to an investigation issue with its domain.",
+    "text": "⚠️ALERT: Across Protocol warns users NOT to connect their wallets to its app.\n\nUsers are being told not to visit the app or sign any transaction or approval there “until further notice.”\n\nAcross says it is investigating an issue with its domain.\n\nIt has not said whether any funds",
+    "url": "https://x.com/coinbureau/status/2120249293047218346",
+    "images": [
+      "https://pbs.twimg.com/media/HWyjenYbcAAVr7r.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794342164574-q9v78e",
+    "source": "x",
+    "ts": "2026-11-10T20:22:44.574Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T20:16:00.000Z",
+    "reason": "Notable institutional partnership and potential integration into a major DeFi platform.",
+    "text": "Progmat brings Japan’s state debt a step closer to Canton Network\n\nProgmat (@progmat_en) has signed an MOU with Digital Asset (@digitalasset), the company behind @CantonNetwork ($CC). The two plan to connect Progmat’s platform to Canton as trading and settlement rails for",
+    "url": "https://x.com/BSCNews/status/2120249132942254533",
+    "images": [
+      "https://pbs.twimg.com/media/HWyXPBcXYAAwBWv.jpg"
     ],
     "video": null
   }
