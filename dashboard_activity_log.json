@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794195738801-0ky90x",
-    "source": "x",
-    "ts": "2026-11-09T03:42:18.801Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-09T03:31:52.000Z",
-    "reason": "New $USDC supply on Solana on the horizon.",
-    "text": "🔥 NOW: Circle mints another 250,000,000 $USDC on Solana.",
-    "url": "https://x.com/Cointelegraph/status/2119634046959432107",
-    "images": [
-      "https://pbs.twimg.com/media/HWpz7pTXAAAiqO5.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794196325224-l1aepe",
     "source": "x",
     "ts": "2026-11-09T03:52:05.224Z",
@@ -7941,5 +7923,18 @@
       "https://pbs.twimg.com/media/HWyS08WWsAA9ofv.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794350525055-95pexh",
+    "source": "x",
+    "ts": "2026-11-10T22:42:05.055Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T22:40:39.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "🇺🇸 LATEST: US 10-year Treasury yields climbed above 5% as hotter-than-expected inflation data pressured bond markets, while the Treasury held a $42 billion auction of 10-year notes.",
+    "url": "https://x.com/Cointelegraph/status/2120285537437208606"
   }
 ]
