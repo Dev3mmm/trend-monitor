@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794078137015-d9bkxm",
-    "source": "x",
-    "ts": "2026-11-07T19:02:17.015Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-07T19:00:54.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🔥 BIG: Google plans a $17B Wyoming data center that will run on fuel-cell power.",
-    "url": "https://x.com/Cointelegraph/status/2119143071874982094",
-    "images": [
-      "https://pbs.twimg.com/media/HWi1YzbXsAACcNQ.jpg",
-      "https://pbs.twimg.com/media/HWi1ZBLW0AELJyX.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794078140208-wuqc8s",
-    "source": "x",
-    "ts": "2026-11-07T19:02:20.208Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-07T19:00:01.000Z",
-    "reason": "No notable or specific event is provided.",
-    "text": "THIS WEEK: 130 banks across Paraguay, Japan and France had a collapse, an outage or a hack.\n\nThe scale of damage ranged from frozen bank cards to a fallen president:\n\n1. 🇵🇾 Paraguay's ueno bank collapsed, cutting nearly 3 MILLION people off from their savings and costing",
-    "url": "https://x.com/coinbureau/status/2119142848868044954"
-  },
-  {
     "id": "x-1794078710171-617jw9",
     "source": "x",
     "ts": "2026-11-07T19:11:50.171Z",
@@ -7749,5 +7717,37 @@
     "url": "https://x.com/DecryptMedia/status/2120116319966142861",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794310992637-8bvee6",
+    "source": "x",
+    "ts": "2026-11-10T11:43:12.637Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T11:40:43.000Z",
+    "reason": "It mentions specific crypto holdings and changes in value.",
+    "text": "🔥 LATEST: Trump Media held 15,649 $BTC worth $1.31B at Q3 2026 end, up 35.4% from Q2. It pledged 73% as collateral for options trades.\n\nIts 756.1M $CRO holdings stayed flat.",
+    "url": "https://x.com/Cointelegraph/status/2120119458966511623",
+    "images": [
+      "https://pbs.twimg.com/media/HWwtZ8RWcAE07OC.jpg",
+      "https://pbs.twimg.com/media/HWwtaMlX0AAWIGz.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794310997826-x00gsc",
+    "source": "x",
+    "ts": "2026-11-10T11:43:17.826Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-10T11:34:55.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "ZachXBT Questions FinCEN’s $16B MEXC Allegation, Raises Concerns Over Regulatory Overreach\n\nOnchain investigator ZachXBT argued that hundreds of millions or even billions of dollars in illicit activity could also be identified at other major exchanges, raising concerns about",
+    "url": "https://x.com/WuBlockchain/status/2120117997541187750"
   }
 ]
