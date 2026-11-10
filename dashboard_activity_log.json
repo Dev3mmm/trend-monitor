@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794196329620-o8ro2r",
-    "source": "x",
-    "ts": "2026-11-09T03:52:09.620Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 74,
-    "originTimestamp": "2026-11-09T02:37:43.000Z",
-    "reason": "Noise: generic opinion without factual claim.",
-    "text": "Chappelle is just not funny anymore",
-    "url": "https://x.com/elonmusk/status/2119636611633721811"
-  },
-  {
-    "id": "x-1794196967233-w6xlvr",
-    "source": "x",
-    "ts": "2026-11-09T04:02:47.233Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-09T04:00:41.000Z",
-    "reason": "Notable institution shutting down operations and charging fees.",
-    "text": "🇫🇷 UPDATE: Binance France will close all user accounts on December 31 and charge monthly fees on any assets left on the exchange from November 29.",
-    "url": "https://x.com/Cointelegraph/status/2119641298013401400",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794198136911-h49uow",
     "source": "x",
     "ts": "2026-11-09T04:22:16.911Z",
@@ -7939,5 +7910,31 @@
       "https://pbs.twimg.com/media/HWy_VAbXcAMP6qF.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794351727710-2o7i7p",
+    "source": "x",
+    "ts": "2026-11-10T23:02:07.710Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T23:00:51.000Z",
+    "reason": "No notable move or specific event is reported.",
+    "text": "🤖 INTERESTING: Elon Musk calls Anthropic’s Claude Opus 5.5 a “masterpiece,” admitting Grok 4.8 won’t match it but predicting Grok 5 could surpass it within 2–3 months.",
+    "url": "https://x.com/Cointelegraph/status/2120290620249944172"
+  },
+  {
+    "id": "x-1794351730821-zczt0h",
+    "source": "x",
+    "ts": "2026-11-10T23:02:10.821Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T23:00:03.000Z",
+    "reason": "No notable crypto-related news or move mentioned.",
+    "text": "Alibaba's T-Head Confidentially Files for Hong Kong Listing.\n\nAlibaba said Tuesday its wholly owned chip unit T-Head confidentially submitted a listing application to the Hong Kong Stock Exchange on Sept. 11, though the offering's size and structure have not been finalized.",
+    "url": "https://x.com/DecryptMedia/status/2120290417140806088"
   }
 ]
