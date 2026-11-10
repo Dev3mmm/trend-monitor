@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794083547488-lbegdv",
-    "source": "x",
-    "ts": "2026-11-07T20:32:27.488Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-07T20:30:00.000Z",
-    "reason": "The tweet discusses AI stock market value losses but does not provide a concrete, specific price or event related to cryptocurrencies.",
-    "text": "This selloff has been DEVASTATING.\n\nThe AI stocks have erased $13.2 TRILLION in market value from stocks’ 2026 highs.\n\nOnly U.S and China have an annual GDP larger than that loss.\n\nMarket value erased at six AI giants:\n\n- Alphabet: $1.62 trillion lost (−32%)\n- Nvidia: $1.49",
-    "url": "https://x.com/coinbureau/status/2119165493269647363"
-  },
-  {
-    "id": "x-1794085323742-idfslb",
-    "source": "x",
-    "ts": "2026-11-07T21:02:03.742Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-07T21:00:52.000Z",
-    "reason": "Specific and notable change in a crypto sentiment indicator.",
-    "text": "🚨 ALERT: The Crypto Fear &amp; Greed Index has dropped to 25, signaling Extreme Fear, down from 64 (Greed) just one month ago.",
-    "url": "https://x.com/Cointelegraph/status/2119173260377997570",
-    "images": [
-      "https://pbs.twimg.com/media/HWjQ2OVWQAAmCq0.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794085328856-xv8csz",
-    "source": "x",
-    "ts": "2026-11-07T21:02:08.856Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-07T21:00:02.000Z",
-    "reason": "No notable move in ETH price, remains within its recent range.",
-    "text": "Berkshire Reports $9.6 Billion in Buybacks as Operating Earnings Fall.\n\nBerkshire Hathaway said Saturday it repurchased $9.6 billion of its shares in the third quarter, while operating earnings fell 5.8% from a year earlier to $12.705 billion.",
-    "url": "https://x.com/DecryptMedia/status/2119173051564908806"
-  },
-  {
     "id": "x-1794085932556-1rwyeo",
     "source": "x",
     "ts": "2026-11-07T21:12:12.556Z",
@@ -7767,6 +7723,55 @@
     "text": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
     "url": "https://x.com/DecryptMedia/status/2120128022158225791",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794314192345-5ozbgu",
+    "source": "x",
+    "ts": "2026-11-10T12:36:32.345Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T12:32:20.000Z",
+    "reason": "Bitcoin miners' role in the crypto ecosystem is shifting.",
+    "text": "Bitcoin miners led the way as public companies recorded $8.08B in $BTC sales and estimated outflows in 2026.\n\nAre miners becoming AI infrastructure companies first and Bitcoin miners second?",
+    "url": "https://x.com/Cointelegraph/status/2120132449711579254",
+    "images": [
+      "https://pbs.twimg.com/media/HWw5OYWWgAA2Vhp.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794314196652-dybb6n",
+    "source": "x",
+    "ts": "2026-11-10T12:36:36.652Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T12:31:35.000Z",
+    "reason": "Noise: generic, vague opinion without factual claim.",
+    "text": "GOOD. \n\nWhen I tell you that women in positions of power are more narcissistic, psychopathic and heartless than men, you say \"Gender Equality.\"\n\nEnjoy the serpent you domesticated.",
+    "url": "https://x.com/amerix/status/2120132258879135878"
+  },
+  {
+    "id": "x-1794314201900-157ios",
+    "source": "x",
+    "ts": "2026-11-10T12:36:41.900Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T12:29:33.000Z",
+    "reason": "Notable institutional release of a new crypto product.",
+    "text": "ICP’s Cloud Engines Land This Week \n\n@Dfinity founder Dominic Williams (@dominic_w) has confirmed the commercial release of Cloud Engines this week. \n\nHe positions the Internet Computer as a fully operational sovereign “world computer” that can replace centralized cloud",
+    "url": "https://x.com/BSCNews/status/2120131749782941763",
+    "images": [
+      "https://pbs.twimg.com/media/HWw4d4VWEAA8w7w.jpg"
+    ],
     "video": null
   }
 ]
