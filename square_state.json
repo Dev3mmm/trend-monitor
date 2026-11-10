@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1792910553237-q0vovg",
     "x-1792913618501-badu7f",
     "x-1792914742968-l3wz7x",
     "x-1792915326603-c97dep",
@@ -1999,18 +1998,10 @@
     "x-1794286916997-9pakeo",
     "x-1794288779954-85qto1",
     "x-1794289448046-xdbezm",
-    "x-1794289987828-a5v2uy"
+    "x-1794289987828-a5v2uy",
+    "x-1794290560806-rqaifp"
   ],
   "queue": [
-    {
-      "text": "🔥 UPDATE: Altcoin volume has cooled back to normal levels after it surged to 4x Bitcoin’s in September, a speculative spike that lined up with BTC’s local top near $87K, per @glassnode.",
-      "url": "https://x.com/Cointelegraph/status/2120026350161441072",
-      "images": [
-        "https://pbs.twimg.com/media/HWvYukzWgAA6T1R.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794288784731
-    },
     {
       "text": "🇺🇸 TODAY: Coinbase, Kalshi, Payward, DRW, Jump Trading and Paradigm filed to submit an amicus brief that backs the CFTC’s authority to regulate single-stock perpetual futures in the US.",
       "url": "https://x.com/Cointelegraph/status/2120028162956406973",
@@ -2020,6 +2011,16 @@
       ],
       "video": null,
       "enqueuedAt": 1794289448571
+    },
+    {
+      "text": "🚨 LATEST: Trump Media &amp; Technology Group posts a $409.7 million Q3 profit, driven largely by gains on digital assets, per WSJ.",
+      "url": "https://x.com/Cointelegraph/status/2120033925892309063",
+      "images": [
+        "https://pbs.twimg.com/media/HWvfneyXIAAcR66.jpg",
+        "https://pbs.twimg.com/media/HWvfnseXMAARMq8.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794290561442
     }
   ],
   "posted": [
@@ -2639,7 +2640,16 @@
       "at": 1794288629161,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386651915799687?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 UPDATE: Altcoin volume has cooled back to normal levels after it surged to 4x Bitcoin’s in September, a speculative spike that lined up with BTC’s local top near $87K, per @glassnode.",
+      "final": "🔥 UPDATE: Altcoin volume has cooled back to normal levels after it surged to 4x Bitcoin’s in September, a speculative spike that lined up with BTC’s local top near $87K, per @glassnode.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HWvYukzWgAA6T1R.jpg"
+      ],
+      "at": 1794290561442,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794288629161
+  "lastPostAt": 1794290561442
 }
