@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794134607754-xwm8yw",
-    "source": "x",
-    "ts": "2026-11-08T10:43:27.754Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 6,
-    "author": "Cointelegraph",
-    "ageMin": 102,
-    "originTimestamp": "2026-11-08T09:00:42.000Z",
-    "reason": "Binance CFO departure is notable institutional news.",
-    "text": "🚨 NEW: Binance CFO Kaiser Ng is reportedly leaving the company after more than five years and will be replaced by former Airwallex executive Justin Yek.",
-    "url": "https://x.com/Cointelegraph/status/2119354414842429770",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794136914292-sdsqia",
-    "source": "x",
-    "ts": "2026-11-08T11:21:54.292Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 21,
-    "originTimestamp": "2026-11-08T11:00:56.000Z",
-    "reason": "No notable crypto-related information.",
-    "text": "🇺🇸 LATEST: Texas leads the US in planned data center capacity at over 60 gigawatts, with first-time developers accounting for a large share of the pipeline.",
-    "url": "https://x.com/Cointelegraph/status/2119384670647287928"
-  },
-  {
     "id": "x-1794137628620-hgfxx1",
     "source": "x",
     "ts": "2026-11-08T11:33:48.620Z",
@@ -7786,5 +7757,41 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120170668700381184/img/7LJHaLMYhmvro4MH.jpg"
     }
+  },
+  {
+    "id": "x-1794324240306-a2j4fq",
+    "source": "x",
+    "ts": "2026-11-10T15:24:00.306Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-10T15:20:42.000Z",
+    "reason": "Notable revenue milestone with specific and significant dollar figure.",
+    "text": "🔥 UPDATE: Polymarket reports $1.8B in annualized revenue as it gains momentum following the FIFA World Cup and NFL season.",
+    "url": "https://x.com/Cointelegraph/status/2120174817852670357",
+    "images": [
+      "https://pbs.twimg.com/media/HWxfwi7WIAAoGKn.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794324246298-s89wfy",
+    "source": "x",
+    "ts": "2026-11-10T15:24:06.298Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-10T15:13:35.000Z",
+    "reason": "Moody's, a major credit rating agency, is utilizing Chainlink for real-time blockchain integration.",
+    "text": "Wall Street’s Biggest Credit Rater Is Utilizing Chainlink\n\nMoody’s Ratings (@Moodysratings) has launched a pilot with @Chainlink that broadcasts credit risk scores in real time to several public and private blockchains through Chainlink’s CCIP.\n\nIn the pilot, Moody’s Token",
+    "url": "https://x.com/BSCNews/status/2120173029984502001",
+    "images": [
+      "https://pbs.twimg.com/media/HWxeDhqWAAAi5vI.jpg"
+    ],
+    "video": null
   }
 ]
