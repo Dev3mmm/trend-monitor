@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794190942493-ntiq66",
-    "source": "x",
-    "ts": "2026-11-09T02:22:22.493Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-09T02:10:45.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "NEW: China's October producer prices rise 5.7% from a year earlier, a more than four-year high and above the 5.3% economists expected. Consumer inflation reportedly slows.",
-    "url": "https://x.com/BSCNews/status/2119615868879667200"
-  },
-  {
-    "id": "x-1794191525509-1ibiag",
-    "source": "x",
-    "ts": "2026-11-09T02:32:05.509Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T02:30:44.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🇺🇸🇮🇷 LATEST: Oil extends its biggest weekly loss since 2020 as Brent futures fall below $98 a barrel, Bloomberg reports. \n\nTraders weigh US-Iran peace talks against new flare-ups in the Middle East.",
-    "url": "https://x.com/Cointelegraph/status/2119618661778370792"
-  },
-  {
     "id": "x-1794191527608-avo0k6",
     "source": "x",
     "ts": "2026-11-09T02:32:07.608Z",
@@ -7916,6 +7890,43 @@
     "text": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
     "url": "https://x.com/DecryptMedia/status/2120269580056543605",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794347587917-zgd89s",
+    "source": "x",
+    "ts": "2026-11-10T21:53:07.917Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T21:50:42.000Z",
+    "reason": "Regulatory enforcement against a major prediction market platform",
+    "text": "🚨 NEW: The CFTC is reportedly preparing charges against prediction market platform Kalshi over alleged failures to notify regulators about new contracts, according to POLITICO. \n\nKalshi says the issue was a procedural error that it is already addressing.",
+    "url": "https://x.com/Cointelegraph/status/2120272964146843874",
+    "images": [
+      "https://pbs.twimg.com/media/HWy5BTTWYAAMRDZ.jpg",
+      "https://pbs.twimg.com/media/HWy5BiQWgAEICjx.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794347593310-0ulh5j",
+    "source": "x",
+    "ts": "2026-11-10T21:53:13.310Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-10T21:44:00.000Z",
+    "reason": "Notable institution partnership with Robinhood for crypto giveaway.",
+    "text": "Injective lands a spot in Robinhood’s crypto giveaway\n\ninjective-protocol:native is now part of the crypto trading sweepstakes from @RobinhoodApp, which runs through November 22. Eligible US users can enter in the app for a chance to win INJ.\n\nINJ has been listed on Robinhood",
+    "url": "https://x.com/BSCNews/status/2120271278720643170",
+    "images": [
+      "https://pbs.twimg.com/media/HWyrLNTXgAAqMrK.jpg"
+    ],
     "video": null
   }
 ]
