@@ -1,9 +1,5 @@
 {
   "seen": [
-    "x-1793010297649-n9do0k",
-    "x-1793010482878-dg2hae",
-    "x-1793010488016-79ojzn",
-    "x-1793010494739-yo3qpj",
     "x-1793010498497-wdejqc",
     "x-1793010845973-9c857y",
     "x-1793012820749-l4x3a1",
@@ -1999,19 +1995,13 @@
     "x-1794323551050-pxmbit",
     "x-1794323557381-j6xhvo",
     "x-1794324240306-a2j4fq",
-    "x-1794324246298-s89wfy"
+    "x-1794324246298-s89wfy",
+    "x-1794324878177-rizdqz",
+    "x-1794324881768-mubn4r",
+    "x-1794324884504-0xl3z3",
+    "x-1794324887516-crtqc7"
   ],
   "queue": [
-    {
-      "text": "🚨 NOW: $178M in crypto longs were liquidated in one hour as October US CPI came in hotter than expected.",
-      "url": "https://x.com/Cointelegraph/status/2120150174152393061",
-      "images": [
-        "https://pbs.twimg.com/media/HWxJV_7XMAAV2wF.jpg",
-        "https://pbs.twimg.com/media/HWxJWMqXcAA3f13.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794318239799
-    },
     {
       "text": "JUST IN: U.S. CPI inflation comes in at 0.4% MoM, higher than expectations 👀\n\nBitcoin falls below $74,000 on the news.",
       "url": "https://x.com/BitcoinMagazine/status/2120148113553822164",
@@ -2074,6 +2064,16 @@
       ],
       "video": null,
       "enqueuedAt": 1794324246817
+    },
+    {
+      "text": "🔥 NEW: Solana tokens can now be traded through X Cashtags using Fomo’s trading platform.",
+      "url": "https://x.com/Cointelegraph/status/2120177371156291985",
+      "images": [
+        "https://pbs.twimg.com/media/HWxiEXKWUAArIn_.jpg",
+        "https://pbs.twimg.com/media/HWxiE7YW4AAsJ3F.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794324888184
     }
   ],
   "posted": [
@@ -2783,7 +2783,17 @@
       "at": 1794323105472,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386793128235414?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NOW: $178M in crypto longs were liquidated in one hour as October US CPI came in hotter than expected.",
+      "final": "🚨 NOW: $178M in crypto longs were liquidated in one hour as October US CPI came in hotter than expected.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWxJV_7XMAAV2wF.jpg",
+        "https://pbs.twimg.com/media/HWxJWMqXcAA3f13.jpg"
+      ],
+      "at": 1794324888184,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794323105472
+  "lastPostAt": 1794324888184
 }
