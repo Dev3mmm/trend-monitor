@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1794108148487-m2s33k",
-    "source": "x",
-    "ts": "2026-11-08T03:22:28.487Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-08T03:16:00.000Z",
-    "reason": "On-chain data point with a significant transaction milestone.",
-    "text": "Avalanche crosses 1,600,000,000 transactions.\n\nAccording to data on @chainspect_app's dashboard, the @Avax chain has now processed over 1.6 billion transactions on mainnet.\n\nThe milestone has taken roughly six years to achieve, $AVAX having launched as far back as September 2020.",
-    "url": "https://x.com/BSCNews/status/2119267665806045525",
-    "images": [
-      "https://pbs.twimg.com/media/HWcYOSDXsAA1FAc.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794108770259-8be9z7",
-    "source": "x",
-    "ts": "2026-11-08T03:32:50.259Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-08T03:24:41.000Z",
-    "reason": "Notable CFO transition following a major hack.",
-    "text": "🔥LATEST: Binance names Justin Yek as its next CFO nine days after the record $6.34 BILLION hack. \n\nCo-CEO Yi He says the transition had been underway for six months.\n\nOutgoing CFO Kaiser Ng is leaving to “pursue a new venture” after more than five years at Binance.",
-    "url": "https://x.com/coinbureau/status/2119269851135164739",
-    "images": [
-      "https://pbs.twimg.com/media/HWkoBbFa8AADVU8.jpg",
-      "https://pbs.twimg.com/media/HWkofV3aIAAo09q.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794110564489-18qtmc",
-    "source": "x",
-    "ts": "2026-11-08T04:02:44.489Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T04:00:48.000Z",
-    "reason": "Generic opinion without factual support or specific event.",
-    "text": "🇺🇸 INSIGHT: Peter Schiff says Trump kept his promise to impose tariffs but failed to make China pay for them, arguing that the costs borne by Americans helped drive the Democrats’ midterm landslide.",
-    "url": "https://x.com/Cointelegraph/status/2119278942557249740"
-  },
-  {
-    "id": "x-1794110569061-1fdqg4",
-    "source": "x",
-    "ts": "2026-11-08T04:02:49.061Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T04:00:01.000Z",
-    "reason": "No notable move or newsworthy event.",
-    "text": "Michael Dempsey: Young People Fall Into Speculation Before Understanding Compounding\n\nCompound managing partner Michael Dempsey @mhdempsey said in an October 19 interview with Empire that gambling should be restricted to those aged 26 and older, arguing that young people get",
-    "url": "https://x.com/WuBlockchain/status/2119278745030631557"
-  },
-  {
     "id": "x-1794111109909-l5f6pm",
     "source": "x",
     "ts": "2026-11-08T04:11:49.909Z",
@@ -7790,5 +7727,70 @@
     "reason": "No notable move or specific event, just generic praise.",
     "text": "HUGE SHOUTOUT TO OUR AMAZING TEAM!\n\nThank you for your hard work 👏🧡",
     "url": "https://x.com/BitcoinMagazine/status/2120152237666168974"
+  },
+  {
+    "id": "x-1794319487631-hkljbv",
+    "source": "x",
+    "ts": "2026-11-10T14:04:47.631Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T14:03:03.000Z",
+    "reason": "Innovative approach to secure cryptocurrency access even if a phone is lost.",
+    "text": "🚨 LATEST: If you lost your phone today, could you still access your crypto?\n\n@ngrave_official ZERO keeps private keys offline and signs transactions on the device. It transfers transaction data via QR codes without USB, Bluetooth or Wi-Fi.",
+    "url": "https://x.com/Cointelegraph/status/2120155275957285195",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2120155175390441472/vid/avc1/1280x720/tn2euhWHobcSfSAM.mp4?tag=29",
+      "duration": 40,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120155175390441472/img/3MMqSZZjc1Vd1xq9.jpg"
+    }
+  },
+  {
+    "id": "x-1794319490952-5h6a5d",
+    "source": "x",
+    "ts": "2026-11-10T14:04:50.952Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T14:02:39.000Z",
+    "reason": "US inflation expected higher leads to market falls",
+    "text": "BREAKING: Markets fall after US inflation comes in higher than expected.\n\nBitcoin -2.32%\nNasdaq 100 futures -1.5%\nS&amp;P 500 futures -0.8%\nGold -2.44%",
+    "url": "https://x.com/coinbureau/status/2120155179131756943",
+    "images": [
+      "https://pbs.twimg.com/media/HWxN49zaMAA1UVU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794319494818-1o1ou3",
+    "source": "x",
+    "ts": "2026-11-10T14:04:54.818Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T14:00:03.000Z",
+    "reason": "The tweet is about a security vulnerability in Chrome, not a notable move in cryptocurrencies.",
+    "text": "Google Patches Chrome Zero-Day Already Exploited in the Wild.\n\nGoogle said Monday it is aware an exploit exists in the wild for CVE-2026-125350, a high-severity use-after-free bug in Chrome's XML component, fixed in a Chrome 157 desktop update with nine security fixes.",
+    "url": "https://x.com/DecryptMedia/status/2120154522592870509"
+  },
+  {
+    "id": "x-1794319498081-t2amkr",
+    "source": "x",
+    "ts": "2026-11-10T14:04:58.081Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-10T13:53:00.000Z",
+    "reason": "No notable move in a specific token price.",
+    "text": "PEPE is outrunning the memecoin Pack \n\nCoinGecko shows that $PEPE rose by approximately 33% over the last month. This coin is among the few big memecoins rising even as peers like $SHIB fall.\n\nSome reasons include wallets linked to Justin Sun accumulating about $51 million in",
+    "url": "https://x.com/BSCNews/status/2120152747765113008"
   }
 ]
