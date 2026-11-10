@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794036733374-qsdrci",
-    "source": "x",
-    "ts": "2026-11-07T07:32:13.374Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-07T07:26:00.000Z",
-    "reason": "The tweet provides specific on-chain data that is noteworthy and verifiable.",
-    "text": "XRP Ledger's stablecoin supply is falling.\n\nThe stablecoin market cap on @Ripple's @XRP Ledger is down -8.84% at time of writing, pushing the total to below $1 billion.\n\nOf all the stablecoins on $XRP Ledger, a staggering 92% are Ripple's own $RLUSD, meaning that there are very",
-    "url": "https://x.com/BSCNews/status/2118968192387174440",
-    "images": [
-      "https://pbs.twimg.com/media/HWcX946XQAAWdjk.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794038522181-o8p7ev",
-    "source": "x",
-    "ts": "2026-11-07T08:02:02.181Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-07T08:00:55.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇺🇸 JUST IN: J.D. Vance leads Kalshi’s 2028 Republican nomination odds at 33%, followed by Marco Rubio (20%) and Ron DeSantis (17%).\n\nJon Ossoff leads Democrats at 25%, ahead of Alexandria Ocasio-Cortez (13%) and Gavin Newsom (12%).",
-    "url": "https://x.com/Cointelegraph/status/2118976979693101244"
-  },
-  {
     "id": "x-1794040943089-ccvmlc",
     "source": "x",
     "ts": "2026-11-07T08:42:23.089Z",
@@ -7710,5 +7679,36 @@
     "reason": "No notable move or specific event is mentioned.",
     "text": "🇰🇷🇯🇵 BREAKING: South Korea and Japan are ripping, with the KOSPI surging over 5% so fast that buying was paused.\n\nThe Korea Exchange triggered a “buy-side sidecar,” pausing computer-driven buy orders for 5 minutes, per Yonhap.\n\nThe tech-heavy KOSDAQ triggered one too.\n\nChip",
     "url": "https://x.com/coinbureau/status/2119956981058523397"
+  },
+  {
+    "id": "x-1794274348272-1a7hy9",
+    "source": "x",
+    "ts": "2026-11-10T01:32:28.272Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T01:30:46.000Z",
+    "reason": "No notable crypto-related event or movement mentioned.",
+    "text": "🇺🇸 TODAY: President Trump says the FBI is “looking into” Nvidia CEO Jensen Huang after he admitted to an affair with a woman the US believes is a Chinese spy, per FT.",
+    "url": "https://x.com/Cointelegraph/status/2119965961134489800"
+  },
+  {
+    "id": "x-1794274354639-cwdgjl",
+    "source": "x",
+    "ts": "2026-11-10T01:32:34.639Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T01:30:00.000Z",
+    "reason": "On-chain data point with significant user participation in staking.",
+    "text": "More than half of all $ADA tokens now staked.\n\nAccording to @Coinbase data, a staggering 57% of $ADA tokens are now staked on the @Cardano network.\n\nWith a current market cap of $6.4B, that means users have staked more than $3.6B worth of $ADA.\n\nThe Cardano community doesn't lack",
+    "url": "https://x.com/BSCNews/status/2119965766703591430",
+    "images": [
+      "https://pbs.twimg.com/media/HWq_SnoWEAAS-zq.jpg"
+    ],
+    "video": null
   }
 ]
