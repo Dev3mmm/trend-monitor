@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794166383216-h9omd0",
-    "source": "x",
-    "ts": "2026-11-08T19:33:03.216Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T19:30:46.000Z",
-    "reason": "No notable news or move, as the tweet is a speculation without specific price or event details.",
-    "text": "🚨 INSIGHT: Bloomberg Intelligence’s Mike McGlone warns that a 2026 commodity pump-and-dump could spread to stocks, with US natural gas futures already down roughly 20% this year.",
-    "url": "https://x.com/Cointelegraph/status/2119512974851248239",
-    "images": [
-      "https://pbs.twimg.com/media/HWoF0OGWYAAEBsn.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794168119251-ks9v9i",
-    "source": "x",
-    "ts": "2026-11-08T20:01:59.251Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T19:59:41.000Z",
-    "reason": "No notable move in crypto-related news.",
-    "text": "🇮🇷 JUST IN: President Donald Trump says it is “highly unlikely” he will order the US back into war with Iran if diplomatic talks continue to progress.",
-    "url": "https://x.com/Cointelegraph/status/2119520252228689927"
-  },
-  {
-    "id": "x-1794168122433-nrzgi3",
-    "source": "x",
-    "ts": "2026-11-08T20:02:02.433Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-08T19:54:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "A very busy week indeed for the Solana ecosystem.\n\nOne of the biggest winners this week was the @Solana ecosystem, which saw major progress in its RWA ecosystem, was chosen by @Bullish as an initial chain for it equity tokenisation services, and saw a major integration with",
-    "url": "https://x.com/BSCNews/status/2119518820616503502"
-  },
-  {
     "id": "x-1794169929798-iecbcs",
     "source": "x",
     "ts": "2026-11-08T20:32:09.798Z",
@@ -7872,5 +7828,58 @@
     "reason": "No notable crypto-related news mentioned.",
     "text": "🇺🇸 JUST IN: House Democratic leader Hakeem Jeffries called for a full congressional briefing on Nvidia CEO Jensen Huang’s reported ties to a Chinese businesswoman allegedly linked to Beijing and urged tighter restrictions on US chip sales to China.",
     "url": "https://x.com/Cointelegraph/status/2120232942370730243"
+  },
+  {
+    "id": "x-1794338538242-meebdw",
+    "source": "x",
+    "ts": "2026-11-10T19:22:18.242Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T19:20:42.000Z",
+    "reason": "BitGo's strategic position in APT indicates a notable move in the institutional space.",
+    "text": "⚡️ LATEST: BitGo has acquired a strategic position in APT and added custody, staking and Decibel DEX access for eligible institutional clients.",
+    "url": "https://x.com/Cointelegraph/status/2120235216623055095",
+    "images": [
+      "https://pbs.twimg.com/media/HWyWsJ8XAAA47t7.png",
+      "https://pbs.twimg.com/media/HWyWsXKWAAAutK6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794338542386-4ejp5y",
+    "source": "x",
+    "ts": "2026-11-10T19:22:22.386Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T19:18:00.000Z",
+    "reason": "Notable new use of a token (tokenized stocks) by a major crypto firm.",
+    "text": "Spicenet opens its tokenized stock app with Aero as the trading engine\n\n@spicenet has launched Spice Stocks, its first consumer app, bringing trading, leverage, borrowing, and yield on tokenized stocks into one place. Trades route through @aeroxyz, while @aave handles loans,",
+    "url": "https://x.com/BSCNews/status/2120234536634400798",
+    "images": [
+      "https://pbs.twimg.com/media/HWyMtrRXEAAOJqi.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794338545584-0v49si",
+    "source": "x",
+    "ts": "2026-11-10T19:22:25.584Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-10T19:17:15.000Z",
+    "reason": "Grayscale's bet highlights Zcash's continued relevance as a privacy coin.",
+    "text": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+    "url": "https://x.com/DecryptMedia/status/2120234349018718363",
+    "images": [],
+    "video": null
   }
 ]
