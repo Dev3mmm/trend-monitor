@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794151932080-6c9l6h",
-    "source": "x",
-    "ts": "2026-11-08T15:32:12.080Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 53,
-    "originTimestamp": "2026-11-08T14:38:40.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": "Shame, shame, shame on Chappelle",
-    "url": "https://x.com/elonmusk/status/2119450646143537211"
-  },
-  {
-    "id": "x-1794153714501-i8oixy",
-    "source": "x",
-    "ts": "2026-11-08T16:01:54.501Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T16:01:03.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "🇺🇸 LATEST: Democrats are preparing legislation to roll back President Donald Trump’s tariffs after winning control of Congress, with tariffs on Canada among their first targets. \n\nThey also plan investigations into tariff exemptions and efforts to restore congressional authority",
-    "url": "https://x.com/Cointelegraph/status/2119460196279833026"
-  },
-  {
-    "id": "x-1794153716272-f6suww",
-    "source": "x",
-    "ts": "2026-11-08T16:01:56.272Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T16:00:02.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Google Cloud Sets Monday AI Infrastructure Showcase.\n\nGoogle Cloud is scheduled to unveil AI infrastructure, TPU and software updates Monday, Nov. 9, at noon EST, with Amin Vahdat and Mark Lohmeyer presenting the announcements.",
-    "url": "https://x.com/DecryptMedia/status/2119459942965150155"
-  },
-  {
     "id": "x-1794154281335-0rrv71",
     "source": "x",
     "ts": "2026-11-08T16:11:21.335Z",
@@ -7830,6 +7791,56 @@
     "url": "https://x.com/Cointelegraph/status/2120198796554764453",
     "images": [
       "https://pbs.twimg.com/media/HWx1j_1a0AID5QH.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794331342657-yanti4",
+    "source": "x",
+    "ts": "2026-11-10T17:22:22.657Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T17:20:43.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 UPDATE: Microsoft’s market capitalization has surpassed Nvidia’s for the first time since June 2025.",
+    "url": "https://x.com/Cointelegraph/status/2120205020712890571"
+  },
+  {
+    "id": "x-1794331347461-jsf7g9",
+    "source": "x",
+    "ts": "2026-11-10T17:22:27.461Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T17:17:57.000Z",
+    "reason": "Noteworthy institutional action with BTC deployment.",
+    "text": "JUSTIN: 🇨🇦 Publicly traded HIVE Digital Technologies added 79 BTC worth $5.77 million to their treasury through mining operations in Q3 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2120204326228410782",
+    "images": [
+      "https://pbs.twimg.com/media/HWx6mOiWsAAUdMf.jpg",
+      "https://pbs.twimg.com/media/HWx6mOJXsAAVEfm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794331353040-auun5o",
+    "source": "x",
+    "ts": "2026-11-10T17:22:33.040Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-10T17:16:38.000Z",
+    "reason": "Notable institutional move with FINRA and SEC approval.",
+    "text": "Plume now has a licensed US broker-dealer in the family\n\nKimber Digital Securities, the broker-dealer affiliated with @plumenetwork ($PLUME), has been approved for FINRA membership and registered with the SEC. \n\nThe firm plans to deliver tokenized stocks, ETFs, and bonds with",
+    "url": "https://x.com/BSCNews/status/2120203994354024775",
+    "images": [
+      "https://pbs.twimg.com/media/HWx3iX1W0AEtnZL.jpg"
     ],
     "video": null
   }
