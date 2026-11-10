@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794068585873-u0tcwi",
-    "source": "x",
-    "ts": "2026-11-07T16:23:05.873Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-07T16:20:41.000Z",
-    "reason": "Ethereum significant in Grayscale's metrics of crypto ecosystem maturity.",
-    "text": "⚡️ UPDATE: Ethereum leads all smart contract platforms in stablecoin supply, tokenized assets, applications, developers, and investment products, per Grayscale.",
-    "url": "https://x.com/Cointelegraph/status/2119102752919875732",
-    "images": [
-      "https://pbs.twimg.com/media/HWiQuIgWoAEzu9I.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794069164559-jf54p7",
     "source": "x",
     "ts": "2026-11-07T16:32:44.559Z",
@@ -7724,5 +7706,24 @@
     "reason": "Gas prices are not a crypto-related event.",
     "text": "BREAKING: US average retail gas price drops below $4 to $3.97/gal for the first time in 4 months.",
     "url": "https://x.com/coinbureau/status/2120078189116727359"
+  },
+  {
+    "id": "x-1794302000996-jiluht",
+    "source": "x",
+    "ts": "2026-11-10T09:13:20.996Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-10T09:02:46.000Z",
+    "reason": "Notifiable FinCEN designation impacting crypto exchanges",
+    "text": "🚨 JUST IN: Binance will block transfers to MEXC following a designation by US FinCEN.",
+    "url": "https://x.com/Cointelegraph/status/2120079710352707993",
+    "images": [
+      "https://pbs.twimg.com/media/HWwJQebWgAAgDOK.jpg",
+      "https://pbs.twimg.com/media/HWwJQqCWwAAR-6F.jpg"
+    ],
+    "video": null
   }
 ]
