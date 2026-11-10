@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794169929798-iecbcs",
-    "source": "x",
-    "ts": "2026-11-08T20:32:09.798Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T20:30:45.000Z",
-    "reason": "No notable move in crypto prices or specific events related to crypto mentioned.",
-    "text": "🇺🇸 LATEST: US private data-center construction has surged to nearly $100 billion, driven by the AI boom, as the issue becomes a factor in congressional voting decisions.",
-    "url": "https://x.com/Cointelegraph/status/2119528070717571353"
-  },
-  {
     "id": "x-1794169934160-ogpin8",
     "source": "x",
     "ts": "2026-11-08T20:32:14.160Z",
@@ -7880,6 +7867,25 @@
     "text": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
     "url": "https://x.com/DecryptMedia/status/2120234349018718363",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794339179227-6fnh60",
+    "source": "x",
+    "ts": "2026-11-10T19:32:59.227Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-10T19:30:00.000Z",
+    "reason": "Cryptocurrency exchange hack leads to significant funds loss.",
+    "text": "Initia Halts Layer 1 After Attacker Moves About $3.27 Million.\n\nInitia halted its L1 at 1:18 AM EST Tuesday after an attacker used a compromised GCP key to forge IBC withdrawals, moving about $3.27 million, and said it intends to restore backing in full.",
+    "url": "https://x.com/DecryptMedia/status/2120237557501894758",
+    "images": [
+      "https://pbs.twimg.com/media/HWyPR3hWsAE5Q9e.png",
+      "https://pbs.twimg.com/media/HWyQ4TQWcAA0P7f.jpg"
+    ],
     "video": null
   }
 ]
