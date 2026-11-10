@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794052423143-1yhf89",
-    "source": "x",
-    "ts": "2026-11-07T11:53:43.143Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-07T11:49:29.000Z",
-    "reason": "No notable move or specific event is highlighted.",
-    "text": "Weekly Project Updates: Aave Rolls Out Fixed-Rate Lending, WLFI Plans Token Buyback, Base Deploys Denim Upgrade, ZetaChain to Halt Layer1 Blocks, etc",
-    "url": "https://x.com/WuBlockchain/status/2119034502274228346"
-  },
-  {
     "id": "x-1794052943270-jrd5a4",
     "source": "x",
     "ts": "2026-11-07T12:02:23.270Z",
@@ -7701,5 +7688,23 @@
     "reason": "No concrete, verifiable event or news is reported.",
     "text": "🚨 LATEST: Elon Musk’s SpaceX plans to build a gas-fired power plant and supercomputer facility in Starbase, Texas, with the first phase alone estimated at $24 billion.",
     "url": "https://x.com/Cointelegraph/status/2119996150111469937"
+  },
+  {
+    "id": "x-1794282722680-58hbcr",
+    "source": "x",
+    "ts": "2026-11-10T03:52:02.680Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T03:45:40.000Z",
+    "reason": "Unauthorized access shut down highlights potential security issues.",
+    "text": "🚨 ALERT: NEAR AI says it has shut off unauthorized access to its internal systems, though NEAR AI Cloud stays paused while it wraps up an investigation.\n\nIt confirms NEAR Protocol and other NEAR services are unaffected.",
+    "url": "https://x.com/Cointelegraph/status/2119999909759770742",
+    "images": [
+      "https://pbs.twimg.com/media/HWvArqKX0AABeWB.png"
+    ],
+    "video": null
   }
 ]
