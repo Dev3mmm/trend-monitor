@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1794145903672-1qeqz4",
-    "source": "x",
-    "ts": "2026-11-08T13:51:43.672Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 91,
-    "originTimestamp": "2026-11-08T12:20:09.000Z",
-    "reason": "Price milestone with significant percentage increase.",
-    "text": "BREAKING: $QNT breaks above $200.00, up 1.5% in 24 hours.",
-    "url": "https://x.com/BSCNews/status/2119425600582537444",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794146538573-mgcjxs",
-    "source": "x",
-    "ts": "2026-11-08T14:02:18.573Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T14:01:03.000Z",
-    "reason": "No notable crypto-related event or use of crypto mentioned.",
-    "text": "⚡️ LATEST: Elon Musk says Tesla’s Cybertruck order backlog exceeds production capacity ahead of plans to repurpose the line for Cybercab expansion around June or July 2027, prompting the company to add an extra shift.",
-    "url": "https://x.com/Cointelegraph/status/2119429997010031016"
-  },
-  {
-    "id": "x-1794146542939-hsmefq",
-    "source": "x",
-    "ts": "2026-11-08T14:02:22.939Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T14:01:00.000Z",
-    "reason": "Unusual and significant withdrawal of LINK from exchanges.",
-    "text": "Whale withdraws vast sums of $ETH and $LINK from CEXs.\n\nAccording to data from @OnchainLens, an unknown whale has spent the last three days pulling vast sums of @Ethereum and @chainlink from the @Binance exchange.\n\nAcross the brief period, the whale has withdrawn 787.5K $LINK,",
-    "url": "https://x.com/BSCNews/status/2119429986067132866",
-    "images": [
-      "https://pbs.twimg.com/media/HWl3efZXsAAw4wD.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794146546882-w2kp2u",
     "source": "x",
     "ts": "2026-11-08T14:02:26.882Z",
@@ -7804,6 +7757,64 @@
     "url": "https://x.com/BSCNews/status/2120187476622835854",
     "images": [
       "https://pbs.twimg.com/media/HWxb0yhXwAAOkPa.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794327724951-1oc8n0",
+    "source": "x",
+    "ts": "2026-11-10T16:22:04.951Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T16:20:42.000Z",
+    "reason": "Noteworthy partnership involving a major stablecoin and a social impact organization.",
+    "text": "⚡️ NEW: Circle partners with Global Citizen to expand $USDC payments across Africa, starting with vendors at Move Afrika concerts in Rwanda in 2027.",
+    "url": "https://x.com/Cointelegraph/status/2120189918458580993",
+    "images": [
+      "https://pbs.twimg.com/media/HWxtfYoXQAAg5xd.jpg",
+      "https://pbs.twimg.com/media/HWxtflyX0AA8z8p.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794327727237-kugnmb",
+    "source": "x",
+    "ts": "2026-11-10T16:22:07.237Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-10T16:13:29.000Z",
+    "reason": "Notable central bank investment in cryptocurrency and Bitcoin ETFs.",
+    "text": "JUST IN: 🇰🇿 Kazakhstan Central Bank has invested ~$100 million in cryptocurrency funds 👀 \n\nIn addition, $90 million was invested in Bitcoin ETFs 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2120188101481861408",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2120184278382239744/vid/avc1/1280x720/vQ3VrFkSwvV4X3hy.mp4?tag=29",
+      "duration": 19,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HWxr42CWYAE1c8Y.jpg"
+    }
+  },
+  {
+    "id": "x-1794327729706-oscvtl",
+    "source": "x",
+    "ts": "2026-11-10T16:22:09.706Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-10T16:13:00.000Z",
+    "reason": "ETFs lost significant amounts compared to recent performance.",
+    "text": "Spot XRP ETFs see biggest daily loss since March.\n\nSpot @Ripple $XRP ETFs lost over -$10M to net outflows on November 9...\n\n... the worst performing day the products have seen since March 9, when they lost over -$18M. \n\nThe ETFs are on track for two weeks of net outflows, but",
+    "url": "https://x.com/BSCNews/status/2120187979968991617",
+    "images": [
+      "https://pbs.twimg.com/media/HWwvN3sXkAA3LPY.jpg"
     ],
     "video": null
   }
