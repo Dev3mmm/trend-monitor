@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794067949553-tpu635",
-    "source": "x",
-    "ts": "2026-11-07T16:12:29.553Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-07T16:04:14.000Z",
-    "reason": "No specific event or move mentioned is clearly newsworthy based on the given context.",
-    "text": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
-    "url": "https://x.com/DecryptMedia/status/2119098612806246550"
-  },
-  {
     "id": "x-1794068585873-u0tcwi",
     "source": "x",
     "ts": "2026-11-07T16:23:05.873Z",
@@ -7724,5 +7711,18 @@
       "https://pbs.twimg.com/media/HWwEcYwboAAmuue.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794301319997-n78pzz",
+    "source": "x",
+    "ts": "2026-11-10T09:01:59.997Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 40,
+    "originTimestamp": "2026-11-10T08:21:25.000Z",
+    "reason": "Gas prices are not a crypto-related event.",
+    "text": "BREAKING: US average retail gas price drops below $4 to $3.97/gal for the first time in 4 months.",
+    "url": "https://x.com/coinbureau/status/2120078189116727359"
   }
 ]
