@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794196325224-l1aepe",
-    "source": "x",
-    "ts": "2026-11-09T03:52:05.224Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-09T03:45:33.000Z",
-    "reason": "US Senate investigation into cryptocurrency activity.",
-    "text": "Binance and World LibertyFi Face January Deadline After US Midterms\n\nSenator Richard Blumenthal has requested records from Binance (@binance), Tether (@tether) and Trump-linked crypto companies as part of a Senate investigation.\n\nThe requests cover illicit cryptocurrency activity",
-    "url": "https://x.com/BSCNews/status/2119637491607277835",
-    "images": [
-      "https://pbs.twimg.com/media/HWp29o-bEAAP98C.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794196327100-lhx0wc",
-    "source": "x",
-    "ts": "2026-11-09T03:52:07.100Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 60,
-    "originTimestamp": "2026-11-09T02:51:41.000Z",
-    "reason": "No concrete information provided.",
-    "text": "I care",
-    "url": "https://x.com/elonmusk/status/2119637191504581036"
-  },
-  {
     "id": "x-1794196329620-o8ro2r",
     "source": "x",
     "ts": "2026-11-09T03:52:09.620Z",
@@ -7936,5 +7905,39 @@
     "reason": "No notable move in ETH price.",
     "text": "🇺🇸 LATEST: US 10-year Treasury yields climbed above 5% as hotter-than-expected inflation data pressured bond markets, while the Treasury held a $42 billion auction of 10-year notes.",
     "url": "https://x.com/Cointelegraph/status/2120285537437208606"
+  },
+  {
+    "id": "x-1794351117118-qtsj3c",
+    "source": "x",
+    "ts": "2026-11-10T22:51:57.118Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T22:47:15.000Z",
+    "reason": "Bitcoin miner HIVE is aiming for a significant revenue stream from an AI deal.",
+    "text": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+    "url": "https://x.com/DecryptMedia/status/2120287196154409437",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794351119561-ip50h1",
+    "source": "x",
+    "ts": "2026-11-10T22:51:59.561Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-10T22:43:00.000Z",
+    "reason": "Security exploit attempt leads to immediate software patch release.",
+    "text": "Flare fast-tracks a security fix after an exploit attempt\n\n@FlareNetworks ($FLR) is rolling out go-flare v1.15.1, a hard fork that patches a weakness in the upstream code its nodes run on. The fix was planned for later this month, but Flare moved it up after its monitoring caught",
+    "url": "https://x.com/BSCNews/status/2120286126757892373",
+    "images": [
+      "https://pbs.twimg.com/media/HWy_VAbXcAMP6qF.jpg"
+    ],
+    "video": null
   }
 ]
