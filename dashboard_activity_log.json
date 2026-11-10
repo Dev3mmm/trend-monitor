@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794180716103-qc1sbl",
-    "source": "x",
-    "ts": "2026-11-08T23:31:56.103Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-08T23:25:00.000Z",
-    "reason": "Major outflow of spot Chainlink ETFs ending the week with -$1.06M in net outflows.",
-    "text": "Spot $LINK ETFs end the week with major outflow.\n\nOn November 6, the suite of spot @Chainlink ETFs lost -$1.06M in net outflows...\n\n... ending a week which, until Friday, had seen no inflow or outflow activity whatsoever.\n\nThe ETFs have still not seen a day of net positive flows",
-    "url": "https://x.com/BSCNews/status/2119571920479813778",
-    "images": [
-      "https://pbs.twimg.com/media/HWl4DUHW0AAbLmq.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794181331766-26umzh",
-    "source": "x",
-    "ts": "2026-11-08T23:42:11.767Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-08T23:34:15.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸🇮🇷 TODAY: President Trump says, “Task Force Iron Gate is in full force” in Iran, and with a historic naval blockade, “very little gets into, or out of” the country.",
-    "url": "https://x.com/Cointelegraph/status/2119574249346048216"
-  },
-  {
     "id": "x-1794181907533-w0h7sr",
     "source": "x",
     "ts": "2026-11-08T23:51:47.533Z",
@@ -7915,5 +7884,36 @@
       "https://pbs.twimg.com/media/HWyXPBcXYAAwBWv.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794342749391-ds92m1",
+    "source": "x",
+    "ts": "2026-11-10T20:32:29.391Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T20:29:42.000Z",
+    "reason": "Potential money laundering following a significant crypto hack",
+    "text": "Onchain Lens: $891M Potentially Moved or Laundered Following $6.34B Binance Hack\n\nAccording to Onchain Lens, approximately $891 million in assets from the previous $6.34 billion Binance hack may have been transferred or used for money laundering. Onchain Lens estimates that",
+    "url": "https://x.com/WuBlockchain/status/2120252582136537259",
+    "images": [
+      "https://pbs.twimg.com/media/HWyme4bbAAAAtby.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794342754682-opg8bt",
+    "source": "x",
+    "ts": "2026-11-10T20:32:34.682Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 77,
+    "originTimestamp": "2026-11-10T19:14:45.000Z",
+    "reason": "No notable move in the price or any specific event is mentioned.",
+    "text": "SpaceX is making moves to become the first AI carrier $SPCX \n\n• Current cell towers are still mostly “dumb” radios. The Qualcomm deal is about making them AI-native.\n• Edge inference at the tower, like an updated Akamai for AI\n• Starlink Direct-to-Cell and V3 satellites",
+    "url": "https://x.com/elonmusk/status/2120252018799563074"
   }
 ]
