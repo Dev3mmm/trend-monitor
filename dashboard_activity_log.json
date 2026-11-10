@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794099737449-drfy89",
-    "source": "x",
-    "ts": "2026-11-08T01:02:17.449Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-08T00:55:27.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "ALERT: 🇹🇼Taiwan will impose emergency short-selling curbs starting MONDAY, and stands ready to deploy a $15 BILLION fund after the TAIEX’s worst week since 2001.\n\nThe TAIEX, Taiwan’s market-cap-weighted benchmark dominated by TSMC, plunged a record 3,737.67 points (9%) intraday",
-    "url": "https://x.com/coinbureau/status/2119232295857160555",
-    "images": [
-      "https://pbs.twimg.com/media/HWkGUglakAAQfWR.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794099742417-599hf1",
-    "source": "x",
-    "ts": "2026-11-08T01:02:22.417Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-08T00:54:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "EtherFi offers holders better yield on their USD.\n\nLaunched in partnership with @CapApp and @MidasRWA, @ether_fi has just introduced \"Liquid Bold USD\".\n\nThe new vault offers investors higher-reward opportunities than typical vault products.\n\nHowever, the vault does come with",
-    "url": "https://x.com/BSCNews/status/2119231930466222306"
-  },
-  {
     "id": "x-1794103305009-4y1o52",
     "source": "x",
     "ts": "2026-11-08T02:01:45.009Z",
@@ -7794,5 +7763,37 @@
       "https://pbs.twimg.com/media/HWxB0XgWoAAoI5U.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794317581992-tobi1x",
+    "source": "x",
+    "ts": "2026-11-10T13:33:01.992Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-10T13:30:00.000Z",
+    "reason": "Fed considering a potentially larger interest rate hike.",
+    "text": "Fed's Waller Floats 50 Basis Point December Hike if Inflation Runs Hot.\n\nFed Governor Christopher Waller said Tuesday he leans toward a 25 basis point hike in December, but a 50 basis point move should be considered if October core CPI comes in around 0.3% or higher.",
+    "url": "https://x.com/DecryptMedia/status/2120146959759442212",
+    "images": [
+      "https://pbs.twimg.com/media/HWwx__TWQAAloJn.png",
+      "https://pbs.twimg.com/media/HWwyFh4WkAEF8QZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794317584333-db0c76",
+    "source": "x",
+    "ts": "2026-11-10T13:33:04.333Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-10T13:26:01.000Z",
+    "reason": "No notable move in ETH price is mentioned.",
+    "text": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
+    "url": "https://x.com/DecryptMedia/status/2120145957270454451"
   }
 ]
