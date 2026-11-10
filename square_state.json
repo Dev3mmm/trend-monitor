@@ -2001,17 +2001,7 @@
     "x-1794282722680-58hbcr",
     "x-1794284694486-yzfoff"
   ],
-  "queue": [
-    {
-      "text": "🚨 ALERT: NEAR AI says it has shut off unauthorized access to its internal systems, though NEAR AI Cloud stays paused while it wraps up an investigation.\n\nIt confirms NEAR Protocol and other NEAR services are unaffected.",
-      "url": "https://x.com/Cointelegraph/status/2119999909759770742",
-      "images": [
-        "https://pbs.twimg.com/media/HWvArqKX0AABeWB.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1794282723241
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨 UPDATE: Altcoins have lost roughly $200 billion in market capitalization, with 70% of Binance-listed altcoins now trading below their 200-day moving average, according to CryptoQuant analyst.",
@@ -2607,7 +2597,16 @@
       "at": 1794283475180,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386630801850752?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: NEAR AI says it has shut off unauthorized access to its internal systems, though NEAR AI Cloud stays paused while it wraps up an investigation.\n\nIt confirms NEAR Protocol and other NEAR services are unaffected.",
+      "final": "🚨 ALERT: NEAR AI says it has shut off unauthorized access to its internal systems, though NEAR AI Cloud stays paused while it wraps up an investigation.\n\nIt confirms NEAR Protocol and other NEAR services are unaffected.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWvArqKX0AABeWB.png"
+      ],
+      "at": 1794285222364,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794283475180
+  "lastPostAt": 1794285222364
 }
