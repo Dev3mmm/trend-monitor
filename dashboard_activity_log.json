@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1794047548682-2sy1yh",
-    "source": "x",
-    "ts": "2026-11-07T10:32:28.682Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-07T10:31:43.000Z",
-    "reason": "Unauthorized transactions reported affecting Keplr users.",
-    "text": "Keplr Pauses Google and Apple Logins After Unauthorized Transactions.\n\nKeplr said Saturday it paused Google and Apple logins after reports of unauthorized transactions, advising potentially affected account holders not to add funds while it investigates with Web3Auth.",
-    "url": "https://x.com/DecryptMedia/status/2119014929261043993",
-    "images": [
-      "https://pbs.twimg.com/media/HWhAzMpXwAAmpHE.png",
-      "https://pbs.twimg.com/media/HWhA19MW4AA0f_X.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794047554139-1fbvq5",
-    "source": "x",
-    "ts": "2026-11-07T10:32:34.139Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-07T10:30:39.000Z",
-    "reason": "Insider trading concerns raised after a significant profit from an election poll bet.",
-    "text": "🚨 ALERT: A Polymarket trader reportedly bet nearly $200,000 shortly before a NYT/Siena election poll was released, raising insider trading concerns after earning over $77,000, per NYT.",
-    "url": "https://x.com/Cointelegraph/status/2119014663945916597",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794049352149-a00gdl",
     "source": "x",
     "ts": "2026-11-07T11:02:32.149Z",
@@ -7715,5 +7680,34 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Shiba Inu (@Shibtoken) is gaining holders even as its price endures a steep correction, reportedly. $SHIB\n\nMore Memecoin news:",
     "url": "https://x.com/BSCNews/status/2119985452673576999"
+  },
+  {
+    "id": "x-1794279764099-j0sea2",
+    "source": "x",
+    "ts": "2026-11-10T03:02:44.099Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T03:00:47.000Z",
+    "reason": "Generic news about a political affair, no specific crypto-related event.",
+    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 President Trump says the FBI is “looking into” Nvidia CEO Jensen Huang after he admitted to an affair with a woman the US believes is a Chinese spy, per FT.\n\n🔹 Securitize acquires River One, its first buy as a",
+    "url": "https://x.com/Cointelegraph/status/2119988614775869492"
+  },
+  {
+    "id": "x-1794279767378-263ima",
+    "source": "x",
+    "ts": "2026-11-10T03:02:47.378Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T03:00:01.000Z",
+    "reason": "Suspicious token creation and potential money laundering attempt",
+    "text": "Elliptic says the hackers are minting their own worthless tokens, complete with cartoon animal and Elon Musk logos, and routing stolen funds through liquidity pools to break the trail.",
+    "url": "https://x.com/DecryptMedia/status/2119988421070561492",
+    "images": [],
+    "video": null
   }
 ]
