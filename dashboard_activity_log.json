@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1794155549774-sf0eiv",
-    "source": "x",
-    "ts": "2026-11-08T16:32:29.774Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-08T16:22:00.000Z",
-    "reason": "On-chain data point with a significant transaction volume.",
-    "text": "314 BILLION transactions and counting...\n\nCurrently the single most scalable blockchain by real TPS, @dfinity's Internet Computer has now processed an insane 314B total transactions according to @chainspect_app data.\n\nAll those transactions have been processed in the space of ~5",
-    "url": "https://x.com/BSCNews/status/2119465469027787178",
-    "images": [
-      "https://pbs.twimg.com/media/HWl3pceWwAAjDqp.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794156144890-aat8ap",
-    "source": "x",
-    "ts": "2026-11-08T16:42:24.890Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CryptoNewsLive",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T16:41:25.000Z",
-    "reason": "Notable price movement on a Binance futures contract.",
-    "text": "Posts on X said Binance lists Janction on 10 November. Binance's own notice for that date was published on 8 November 2025. ethereum:0xc477b6dfd26ec2460b3b92de18837fd476ea7549 still rose 320% in under four hours on Sunday, from 0.00354 to 0.01489 on Binance futures.",
-    "url": "https://x.com/CryptoNwsOrg/status/2119470356381798877",
-    "images": [
-      "https://pbs.twimg.com/media/HWnfDLxXIAE8WUo.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794157938969-0z24jb",
     "source": "x",
     "ts": "2026-11-08T17:12:18.969Z",
@@ -7851,5 +7815,42 @@
     "reason": "No notable move or breaking news, the tweet is a critique of LBank Exchange.",
     "text": "@LBank_Exchange At least make it less obvious having your KOLs quote the post with the same script. \n\nLBank is just another offshore bucket shop CEX no serious trader should ever touch.",
     "url": "https://x.com/zachxbt/status/2120208404753023438"
+  },
+  {
+    "id": "x-1794333143280-je84f1",
+    "source": "x",
+    "ts": "2026-11-10T17:52:23.280Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T17:48:00.000Z",
+    "reason": "Noteworthy partnership and investment in AI technology.",
+    "text": "The team behind MegaETH is moving into AI\n\nThe MegaETH Foundation has rebranded as MEGA (@mega_holdings) and committed $30M to build new products on @megaeth. First up is Purified Intelligence, a market for running AI models, set to launch in December. MEGA says it has no company",
+    "url": "https://x.com/BSCNews/status/2120211887585624190",
+    "images": [
+      "https://pbs.twimg.com/media/HWx9jsNXwAAputF.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794333148475-k1sok0",
+    "source": "x",
+    "ts": "2026-11-10T17:52:28.475Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T17:45:44.000Z",
+    "reason": "The tweet is about credit card debt but does not relate to crypto.",
+    "text": "🇺🇸 BIG: The New York Fed finds credit card debt has climbed to a record $1.29 trillion.",
+    "url": "https://x.com/Cointelegraph/status/2120211316543541291",
+    "images": [
+      "https://pbs.twimg.com/media/HWyA8lkWkAAgEev.jpg",
+      "https://pbs.twimg.com/media/HWyA9IoXIAAW5Vs.jpg"
+    ],
+    "video": null
   }
 ]
