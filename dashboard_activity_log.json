@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794092535512-5xpyam",
-    "source": "x",
-    "ts": "2026-11-07T23:02:15.512Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-07T23:00:02.000Z",
-    "reason": "The Treasury buyback announcement could impact interest rates and Treasury yields.",
-    "text": "🇺🇸BREAKING: U.S. Treasury to buy back up to $95 BILLION of its own debt over the next 3 months.\n\n- Up to $70 billion for older Treasuries to improve trading liquidity.\n\n- Up to $25 billion for short-term Treasuries to manage cash balances.\n\nSmoother Treasury trading could help",
-    "url": "https://x.com/coinbureau/status/2119203250620530704",
-    "images": [
-      "https://pbs.twimg.com/media/HWjYOnCbsAARWgL.png",
-      "https://pbs.twimg.com/media/HWjYPm4acAAgkLA.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794095518548-027kjr",
-    "source": "x",
-    "ts": "2026-11-07T23:51:58.548Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-07T23:44:00.000Z",
-    "reason": "No notable move in the token's price or value, just a nostalgic mention.",
-    "text": "Though 2026 has certainly been cold for the memecoin sector, @BabyDoge's story is still one worth knowing.\n\nHere's how a @BNBChain OG meme has survived longer than most ⬇️",
-    "url": "https://x.com/BSCNews/status/2119214314062074011"
-  },
-  {
     "id": "x-1794096125409-q0k7zl",
     "source": "x",
     "ts": "2026-11-08T00:02:05.409Z",
@@ -7790,5 +7758,37 @@
     "url": "https://x.com/DecryptMedia/status/2120136075389604060",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794315715353-pxp61u",
+    "source": "x",
+    "ts": "2026-11-10T13:01:55.353Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T13:00:00.000Z",
+    "reason": "Specific security warning about potential exposure of crypto seed phrases.",
+    "text": "Binance Warns iOS Flaw Could Expose Crypto Seed Phrases.\n\nBinance said Tuesday an iOS vulnerability dubbed worse_query lets malicious apps read other apps' local files, putting seed phrases and private keys at risk, and urged users to delete sideloaded apps and update.",
+    "url": "https://x.com/DecryptMedia/status/2120139412218707987",
+    "images": [
+      "https://pbs.twimg.com/media/HWwuhuEXoAA2eeZ.png",
+      "https://pbs.twimg.com/media/HWwuzGkWgAATSfx.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794315717343-6ahtvp",
+    "source": "x",
+    "ts": "2026-11-10T13:01:57.343Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T12:57:56.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: Bitcoin has fallen below the 'Fire Sale!' zone on the Rainbow Price Chart 👀\n\nHistorically, this is an incredible opportunity to buy BTC 💥",
+    "url": "https://x.com/BitcoinMagazine/status/2120138892645220559"
   }
 ]
