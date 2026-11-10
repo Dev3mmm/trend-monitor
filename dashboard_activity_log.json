@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794160921467-ydrpl0",
-    "source": "x",
-    "ts": "2026-11-08T18:02:01.467Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-08T18:01:07.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 BIG: Anthropic has struck a $3.4 billion deal to secure 1.7 gigawatts of gas-fired power generators for its AI data centers, according to the Financial Times. \n\nThe deal marks the largest known single purchase of power-generation equipment by an AI lab as demand for",
-    "url": "https://x.com/Cointelegraph/status/2119490413941698701",
-    "images": [
-      "https://pbs.twimg.com/media/HWnxTBBWUAAJuc8.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794160925179-bmi40u",
-    "source": "x",
-    "ts": "2026-11-08T18:02:05.179Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T18:00:01.000Z",
-    "reason": "No notable move in Tether's user count.",
-    "text": "Tether CEO: 300 Lines of USDT Code, Used by 700 Million People  \n\nPaolo Ardoino @paoloardoino, CEO of Tether, said at Plan ₿ Forum 2026 in Lugano that USDT is essentially a smart contract that changed people's lives. \n\nTether now has more than 730 million users and adds 30",
-    "url": "https://x.com/WuBlockchain/status/2119490135234347222"
-  },
-  {
-    "id": "x-1794160927569-3lvq78",
-    "source": "x",
-    "ts": "2026-11-08T18:02:07.569Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-08T17:54:09.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "AI can make me rap. It can’t print Bitcoin.",
-    "url": "https://x.com/saylor/status/2119488660428988740"
-  },
-  {
     "id": "x-1794161494390-tk5oq1",
     "source": "x",
     "ts": "2026-11-08T18:11:34.390Z",
@@ -7853,5 +7809,50 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/media/HWyK0ouXgAApXUN.jpg"
     }
+  },
+  {
+    "id": "x-1794336105649-pml6vf",
+    "source": "x",
+    "ts": "2026-11-10T18:41:45.650Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T18:40:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🤖 NEW: Google has launched Gemini 4 Carbon, its most powerful frontier AI model, designed for complex reasoning, coding, cybersecurity and scientific research tasks.",
+    "url": "https://x.com/Cointelegraph/status/2120224973398970762"
+  },
+  {
+    "id": "x-1794336108224-if6rm1",
+    "source": "x",
+    "ts": "2026-11-10T18:41:48.224Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-10T18:35:40.000Z",
+    "reason": "Controversial interview linking Trump's crypto to regulatory failure.",
+    "text": "🇺🇸 Did Trump's crypto dealings undermine his own administration's agenda?\n\nFormer CFTC Chairman Chris Giancarlo believes Trump's memecoins contributed to the Clarity Act's failure.\n\nBut here's the twist: he says crypto may not need the bill after all.\n\nWatch the full interview:",
+    "url": "https://x.com/Cointelegraph/status/2120223882141467114",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794336110164-gi1vzr",
+    "source": "x",
+    "ts": "2026-11-10T18:41:50.164Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-10T18:34:45.000Z",
+    "reason": "Notable institutional investment in crypto stabilization.",
+    "text": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
+    "url": "https://x.com/DecryptMedia/status/2120223652163534892",
+    "images": [],
+    "video": null
   }
 ]
