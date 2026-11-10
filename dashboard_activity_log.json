@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794193363096-y34lmy",
-    "source": "x",
-    "ts": "2026-11-09T03:02:43.096Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T03:00:46.000Z",
-    "reason": "US money supply reaching record high",
-    "text": "🔥 BIG: US M2 money supply rose $113 billion in August to a record $23.41 trillion.",
-    "url": "https://x.com/Cointelegraph/status/2119626221772243289",
-    "images": [
-      "https://pbs.twimg.com/media/HWpsz-ZWoAAXmGP.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794193368296-6nukvt",
-    "source": "x",
-    "ts": "2026-11-09T03:02:48.296Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-09T02:56:58.000Z",
-    "reason": "Senate investigation into Tether and related firms.",
-    "text": "🇺🇸 BREAKING: U.S. Senator Richard Blumenthal sends letter to Tether, Binance, and two Trump-linked crypto firms demanding records in the ongoing Senate investigations before January 4, 2027.\n\nThe incoming chair of the Senate Permanent Subcommittee on Investigations is examining",
-    "url": "https://x.com/coinbureau/status/2119625262744953343",
-    "images": [
-      "https://pbs.twimg.com/media/HWprPzuacAAyyZ_.png",
-      "https://pbs.twimg.com/media/HWprSg3acAAe3s2.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794193372526-csvte3",
-    "source": "x",
-    "ts": "2026-11-09T03:02:52.526Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-09T02:55:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Understanding $DOT's treasury model is key to understanding the @Polkadot ecosystem itself. Here's what you need to know ⬇️",
-    "url": "https://x.com/BSCNews/status/2119624768622322056"
-  },
-  {
     "id": "x-1794193921512-rnatd8",
     "source": "x",
     "ts": "2026-11-09T03:12:01.512Z",
@@ -7932,6 +7882,62 @@
     "images": [
       "https://pbs.twimg.com/media/HWy6i8SbkAAFtiw.png",
       "https://pbs.twimg.com/media/HWy6jIRaIAAP310.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794348718567-mbo5jd",
+    "source": "x",
+    "ts": "2026-11-10T22:11:58.567Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Elon Musk",
+    "ageMin": 56,
+    "originTimestamp": "2026-11-10T21:15:56.000Z",
+    "reason": "FCC acceptance of SpaceX's nationwide spectrum deal is significant regulatory news in the crypto and technology space.",
+    "text": "🚨 BREAKING: The FCC accepts SpaceX's application to acquire nationwide 800 MHz spectrum\n\nVerizon, AT&amp;T and T-Mobile all told SpaceX \"NO\" when it asked to use their networks. SpaceX is building its own:\n\nThis deal with Grain Management secures 546 paired licenses covering ~100%",
+    "url": "https://x.com/elonmusk/status/2120278105051042195",
+    "images": [
+      "https://pbs.twimg.com/media/HWywUisWEAAA9sq.jpg",
+      "https://pbs.twimg.com/media/HWyw8yEWgAAJHIR.jpg",
+      "https://pbs.twimg.com/media/HWyw93-W0AELWXv.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794348721859-9ys67z",
+    "source": "x",
+    "ts": "2026-11-10T22:12:01.859Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T22:10:40.000Z",
+    "reason": "LlamaRisk proposal involves significant collateral movement in the Aave protocol.",
+    "text": "⚡️ NEW: LlamaRisk proposes moving $1.52 billion in collateral backing $1.17 billion in debt out of Aave V3 Core to prioritize blue-chip assets.",
+    "url": "https://x.com/Cointelegraph/status/2120277991326392370",
+    "images": [
+      "https://pbs.twimg.com/media/HWy9mK7XUAABURW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794348725242-lszd30",
+    "source": "x",
+    "ts": "2026-11-10T22:12:05.242Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-10T22:03:42.000Z",
+    "reason": "Specific warning on potential price movement based on technical analysis.",
+    "text": "🚨 ALERT: CryptoQuant warns Bitcoin could face a deeper correction as its Bull Score Index drops to 20, with $BTC trading below its 365-day moving average of $76,400 and the next key support at $73,200.",
+    "url": "https://x.com/Cointelegraph/status/2120276237591445727",
+    "images": [
+      "https://pbs.twimg.com/media/HWy8AC8WgAEFtQd.jpg"
     ],
     "video": null
   }
