@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794141107959-u6bw1d",
-    "source": "x",
-    "ts": "2026-11-08T12:31:47.959Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 105,
-    "originTimestamp": "2026-11-08T10:46:36.000Z",
-    "reason": "No notable move in crypto, purely a gaming related tweet.",
-    "text": "We rebuilt .\n\nNew look. StockSlot Casino first.\n90 slots in all-new cabinets.\nLive chat with real people.\nA VIP Club with 8 levels.\n\nOne GUSD balance for all of it. 18+.",
-    "url": "https://x.com/BSCNews/status/2119405742008496173"
-  },
-  {
-    "id": "x-1794142327425-i9ukma",
-    "source": "x",
-    "ts": "2026-11-08T12:52:07.425Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-08T12:50:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Is Stellar changing the world for the better...? Here's how @StellarOrg's blockchain rails are helping people without access to robust banking infrastructure ⬇️",
-    "url": "https://x.com/BSCNews/status/2119412117803553203",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794142330864-myt8rk",
-    "source": "x",
-    "ts": "2026-11-08T12:52:10.864Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-08T12:44:27.000Z",
-    "reason": "No notable move, statement about Ethereum's potential use case.",
-    "text": "Vitalik: ETH Should Focus on Store of Value, Not Fee Burning  \n\n@VitalikButerin said Ethereum should focus more on ETH as a store of value rather than as a “fee-burning token,” arguing that fee burn was never as strong a valuation floor as it appeared and that maximizing fees",
-    "url": "https://x.com/WuBlockchain/status/2119410722828648858"
-  },
-  {
     "id": "x-1794142914216-58nc3p",
     "source": "x",
     "ts": "2026-11-08T13:01:54.216Z",
@@ -7790,6 +7748,50 @@
     "text": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
     "url": "https://x.com/DecryptMedia/status/2120177160077926757",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794325319179-52nsq3",
+    "source": "x",
+    "ts": "2026-11-10T15:41:59.179Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-10T15:41:23.000Z",
+    "reason": "Generic promotional content without a significant move or news value.",
+    "text": "New to Coinbase?\n\nGood news. You can earn 10% APY rewards.\n\nWe made you a list to get started:\n\nStep 1: Deposit as little as $1 in USDC before December 3\nStep 2: Start your free 30-day Coinbase One trial\nStep 3: Earn 10% APY rewards on up to $100K for the first month\n\nEasy.",
+    "url": "https://x.com/coinbase/status/2120180023692873819"
+  },
+  {
+    "id": "x-1794325320933-ikaqw8",
+    "source": "x",
+    "ts": "2026-11-10T15:42:00.933Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T15:40:42.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🔥 BULLISH: Goldman Sachs expects Anthropic’s revenue to exceed $600 billion by 2030, according to the Financial Times.",
+    "url": "https://x.com/Cointelegraph/status/2120179853118914837"
+  },
+  {
+    "id": "x-1794325323703-73m2ju",
+    "source": "x",
+    "ts": "2026-11-10T15:42:03.703Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-10T15:38:24.000Z",
+    "reason": "Notable institutional adoption of Bitcoin through a new asset.",
+    "text": "Cashen just announced cashBTC, the first Bitcoin asset on the @CantonNetwork with reserves held by a licensed trustee rather than a company.\n\n@Cashen_cc’s cashBTC is backed 1:1 by $BTC in segregated cold storage at BitGo Bank &amp; Trust, N.A., with reserves verifiable onchain. It is",
+    "url": "https://x.com/BSCNews/status/2120179275185754551",
+    "images": [
+      "https://pbs.twimg.com/media/HWxjz_YWUAAt6kX.jpg"
+    ],
     "video": null
   }
 ]
