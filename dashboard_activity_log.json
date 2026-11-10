@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794075766235-nzxkzz",
-    "source": "x",
-    "ts": "2026-11-07T18:22:46.235Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 45,
-    "originTimestamp": "2026-11-07T17:37:39.000Z",
-    "reason": "No factual claim or on-chain data point provided.",
-    "text": "Starlink saves lives",
-    "url": "https://x.com/elonmusk/status/2119131060806074732"
-  },
-  {
-    "id": "x-1794075767924-j46b8q",
-    "source": "x",
-    "ts": "2026-11-07T18:22:47.924Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-07T18:12:44.000Z",
-    "reason": "No notable crypto-related information",
-    "text": "The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year. \n\nWe will add an extra shift to try to get all orders done in time.",
-    "url": "https://x.com/elonmusk/status/2119130949434888330"
-  },
-  {
     "id": "x-1794078137015-d9bkxm",
     "source": "x",
     "ts": "2026-11-07T19:02:17.015Z",
@@ -7739,6 +7713,41 @@
       "https://pbs.twimg.com/media/HWwnrxkW0AA3VOJ.jpg",
       "https://pbs.twimg.com/media/HWwnsSCXYAAU20x.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794310329997-pu0r0g",
+    "source": "x",
+    "ts": "2026-11-10T11:32:09.997Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-10T11:30:01.000Z",
+    "reason": "Notable CPI release impacting market expectations.",
+    "text": "One LAST CPI to cue a year-end RALLY or a SELL OFF.\n\nAnd this time, the MONTHLY numbers carry the weight.\n\nU.S. CPI drops today at 8:30 AM ET with no official YoY reading.\n\nThe 2025 shutdown prevented the BLS from collecting last October’s prices, leaving a gap in the annual",
+    "url": "https://x.com/coinbureau/status/2120116764570747248",
+    "images": [
+      "https://pbs.twimg.com/media/HWwl-JaaEAAkCXM.png",
+      "https://pbs.twimg.com/media/HWwl-JbaEAAxr8C.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794310333175-5mcj32",
+    "source": "x",
+    "ts": "2026-11-10T11:32:13.175Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-10T11:28:15.000Z",
+    "reason": "Potential regulatory scrutiny affecting a major player in the crypto ecosystem.",
+    "text": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
+    "url": "https://x.com/DecryptMedia/status/2120116319966142861",
+    "images": [],
     "video": null
   }
 ]
