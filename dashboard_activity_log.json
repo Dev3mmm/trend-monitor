@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794074543547-1lnl6r",
-    "source": "x",
-    "ts": "2026-11-07T18:02:23.547Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-07T18:01:00.000Z",
-    "reason": "No notable move in crypto prices or events mentioned.",
-    "text": "🇺🇸 LATEST: Senator Elizabeth Warren says Democrats can still pass legislation under President Trump, citing her housing affordability law and pledging to fight to lower costs.",
-    "url": "https://x.com/Cointelegraph/status/2119127998142074986"
-  },
-  {
-    "id": "x-1794074548333-05cn6r",
-    "source": "x",
-    "ts": "2026-11-07T18:02:28.333Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-07T18:00:01.000Z",
-    "reason": "Coinbase CEO supports tokenizing company shares.",
-    "text": "Coinbase CEO Backs Tokenizing the Company's Shares.\n\nCoinbase CEO Brian Armstrong said Friday he supports tokenizing the company's shares to broaden ownership, arguing that turning away a potential new group of shareholders would be bad business.",
-    "url": "https://x.com/DecryptMedia/status/2119127746974466153",
-    "images": [
-      "https://pbs.twimg.com/media/HWhFptdWwAA4bje.jpg",
-      "https://pbs.twimg.com/media/HWhFrHzWQAAw0ki.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794074553681-6v0vj0",
     "source": "x",
     "ts": "2026-11-07T18:02:33.681Z",
@@ -7726,5 +7694,39 @@
     "reason": "No notable crypto-related content or move mentioned.",
     "text": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to training super intelligence",
     "url": "https://x.com/elonmusk/status/2120102767624880364"
+  },
+  {
+    "id": "x-1794307920362-vrbxv3",
+    "source": "x",
+    "ts": "2026-11-10T10:52:00.362Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T10:50:27.000Z",
+    "reason": "New use of a token for physical robotics hardware.",
+    "text": "Floki and Rice AI Want You to Own a Robot On-Chain\n\n@Floki is working with @realRiceAI, an AI robotics developer, to tokenize physical robotics hardware using the @TokenFi platform.\n\nThis partnership is starting the “FLOKI Minibot M1” project. Its goal is to develop a framework",
+    "url": "https://x.com/BSCNews/status/2120106809981648967",
+    "images": [
+      "https://pbs.twimg.com/media/HWwh1_RXwAAs7JO.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794307922511-wgibad",
+    "source": "x",
+    "ts": "2026-11-10T10:52:02.511Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-10T10:42:15.000Z",
+    "reason": "Warren Buffett targets crypto and prediction markets as part of his banking chair tenure.",
+    "text": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
+    "url": "https://x.com/DecryptMedia/status/2120104744261747008",
+    "images": [],
+    "video": null
   }
 ]
