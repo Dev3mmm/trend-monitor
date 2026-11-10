@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794073950886-0tg4fh",
-    "source": "x",
-    "ts": "2026-11-07T17:52:30.886Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 52,
-    "originTimestamp": "2026-11-07T17:00:02.000Z",
-    "reason": "Noteworthy institutional partnership with potential game-changing implications for the Sui ecosystem.",
-    "text": "Stripe's stablecoin is live on Sui! 💵\n\nThe Sui Dollar comes from Bridge, a Stripe company, and the plan for its Treasury yield could be a game-changer for the $SUI ecosystem and @SuiNetwork builders.\n\nGet the details:",
-    "url": "https://x.com/BSCNews/status/2119124675305320604",
-    "images": [
-      "https://pbs.twimg.com/media/HWde1nsWkAAh2pt.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794074539508-v7wra1",
-    "source": "x",
-    "ts": "2026-11-07T18:02:19.508Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 52,
-    "originTimestamp": "2026-11-07T17:10:16.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "The past 2 $BTC cycles saw draw downs around 1.8σ followed by up trends around 4σ. \n\nWe saw yet another drawdown of roughly 1.73σ this time. \n\nHas the pattern held since the bottom? \nWhat does this imply about the future?",
-    "url": "https://x.com/BitcoinMagazine/status/2119128023685374407"
-  },
-  {
     "id": "x-1794074543547-1lnl6r",
     "source": "x",
     "ts": "2026-11-07T18:02:23.547Z",
@@ -7731,5 +7700,31 @@
       "https://pbs.twimg.com/media/HWwbVIMaQAAVxR1.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794307341386-41a7hf",
+    "source": "x",
+    "ts": "2026-11-10T10:42:21.386Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 41,
+    "originTimestamp": "2026-11-10T10:01:28.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Elon Musk just revealed a massive update on Grok 4.8, and SpaceXSI has completely rebuilt its reinforcement learning and inference infrastructure from scratch\n\nThe engineering team has abandoned JAX and SGLang, rewriting the entire RL and inference stack in C/C++\n\nHere’s where",
+    "url": "https://x.com/elonmusk/status/2120102894817173862"
+  },
+  {
+    "id": "x-1794307344062-enoagq",
+    "source": "x",
+    "ts": "2026-11-10T10:42:24.062Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-10T10:34:24.000Z",
+    "reason": "No notable crypto-related content or move mentioned.",
+    "text": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to training super intelligence",
+    "url": "https://x.com/elonmusk/status/2120102767624880364"
   }
 ]
