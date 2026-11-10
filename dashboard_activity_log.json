@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794061328973-uamcqy",
-    "source": "x",
-    "ts": "2026-11-07T14:22:08.973Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-07T14:20:41.000Z",
-    "reason": "No notable move in crypto related to the tweet's content.",
-    "text": "⚡️ UPDATE: Google clarified that schools can disable its AI tools individually without losing access to Google Search, following reports that schools would have to choose between the two.",
-    "url": "https://x.com/Cointelegraph/status/2119072553452843384"
-  },
-  {
-    "id": "x-1794061333825-wtq34z",
-    "source": "x",
-    "ts": "2026-11-07T14:22:13.825Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-07T14:16:31.000Z",
-    "reason": "Free tokens for hodlers is a notable use of a token.",
-    "text": "⚡️ INSIGHT: The eCash hard fork has given Bitcoin hodlers free ECX tokens.\n\nHere’s how to access, trade and use them, and what developers hope to build.",
-    "url": "https://x.com/Cointelegraph/status/2119071501307802043",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794061916148-478zyv",
     "source": "x",
     "ts": "2026-11-07T14:31:56.149Z",
@@ -7732,5 +7703,39 @@
     "reason": "No notable move or event described.",
     "text": "ICYMI, @IvanOnTech is coming to #BlockDownDubai 🇦🇪 \n\nSee you there!\n\n📅 January 26–27, 2027\n🎟️ Secure your spot now:",
     "url": "https://x.com/BSCNews/status/2120038676768116968"
+  },
+  {
+    "id": "x-1794292360659-1pdywg",
+    "source": "x",
+    "ts": "2026-11-10T06:32:40.659Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-10T06:30:40.000Z",
+    "reason": "On-chain data point with concrete cryptocurrency performance details.",
+    "text": "⚡️ NEW: HIVE and MARA produced more Bitcoin in the September quarter, but their Bitcoin revenue fell as lower prices and higher power costs ate into the gains.",
+    "url": "https://x.com/Cointelegraph/status/2120041429875437625",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794292365862-7fi6zc",
+    "source": "x",
+    "ts": "2026-11-10T06:32:45.862Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-10T06:23:22.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Democrats Want to Rewrite the CLARITY Act and Crypto Could Pay the Price\n\nDemocrats are reportedly preparing a major rewrite of the CLARITY Act after their midterm victory.\n\nThe proposed changes could give the SEC greater oversight of crypto markets. The language, highlighted by",
+    "url": "https://x.com/BSCNews/status/2120039594997727392",
+    "images": [
+      "https://pbs.twimg.com/media/HWvj2I0bQAErqSQ.png"
+    ],
+    "video": null
   }
 ]
