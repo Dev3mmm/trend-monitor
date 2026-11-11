@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794231117895-cdacbm",
-    "source": "x",
-    "ts": "2026-11-09T13:31:57.895Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-09T13:25:45.000Z",
-    "reason": "Specific mention of a significant buy/sell action in Bitcoin and a stablecoin.",
-    "text": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
-    "url": "https://x.com/DecryptMedia/status/2119783502111515012",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794231739627-dn2ob6",
-    "source": "x",
-    "ts": "2026-11-09T13:42:19.627Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-09T13:35:00.000Z",
-    "reason": "No notable financial event or crypto-related move mentioned.",
-    "text": "America is about to face a $125 BILLION test.\n\nAnd the outcome could hit YOUR stocks, Bitcoin and borrowing costs.\n\nHere’s what Wall Street is watching.\n\nStarting TODAY, Washington is holding three major Treasury auctions while America’s national debt stands at $40.56 TRILLION.",
-    "url": "https://x.com/coinbureau/status/2119785830483173519"
-  },
-  {
     "id": "x-1794232316931-pnluxi",
     "source": "x",
     "ts": "2026-11-09T13:51:56.931Z",
@@ -7992,5 +7963,36 @@
     "reason": "No notable move in Ethereum price.",
     "text": "🎙 One of the most insightful interview of 2026...\n\nDon't miss @ErhanKOfficial speaking with the legend that is @CryptoHayes about the Agentic Economy, as well as @flop_labs and its potential ⬇️",
     "url": "https://x.com/BSCNews/status/2120469887793410452"
+  },
+  {
+    "id": "x-1794395513328-1pdpdg",
+    "source": "x",
+    "ts": "2026-11-11T11:11:53.328Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-11T11:11:12.000Z",
+    "reason": "No notable move in token price or relevant event.",
+    "text": "I came back and went straight to the patients.\n\nA couple of new patients were waiting for my return.\n\nIt is my duty to help them regain what they lost. — a healthy life.",
+    "url": "https://x.com/amerix/status/2120474418082189655"
+  },
+  {
+    "id": "x-1794395518293-3zv30q",
+    "source": "x",
+    "ts": "2026-11-11T11:11:58.293Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-11T11:06:55.000Z",
+    "reason": "How safe is your Bitcoin in a quantum future?",
+    "text": "🚨 INSIGHT: 35.4% of Bitcoin’s supply has visible public keys that future quantum computers could target, per @glassnode.\n\nHow safe is your Bitcoin in a quantum future?",
+    "url": "https://x.com/Cointelegraph/status/2120473339433300006",
+    "images": [
+      "https://pbs.twimg.com/media/HWxFkjUWgAAF6WA.jpg"
+    ],
+    "video": null
   }
 ]
