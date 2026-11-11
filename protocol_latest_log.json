@@ -1940,5 +1940,21 @@
     "fetchedAt": "2026-11-10T23:22:07.897Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-9a90f5e183efd34e",
+    "title": "Linux Kernel Vulnerability CVE-2026-98432 and Cardano Stake Pool",
+    "url": "https://forum.cardano.org/t/cve-2026-98432/157985",
+    "description": "A warning from below: Those who have confirmed Linux kernel vulnerability CVE-2026-98432 and run a Cardano stake pool will understand how easy it is to procrastinate after updating the kernel. On October 30, Intersect (Intersect) urgently requested the aforementioned task to the stake pool operators (SPO). The problem was in the Linux kernel that nodes were sitting on. From the perspective of a delegate, there is no direct risk to the ADA in the wallet. However, if the pool server shakes, the rewards might also be affected. Therefore, there are some checks a delegate can do. On October 30, Intersect shared the content from the weekly update #",
+    "publishedAt": "2026-11-11T03:35:11.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": true,
+    "originalTitle": "리눅스 커널 취약점 CVE-2026-98432와 카르다노 스테이크 풀",
+    "originalDescription": "아래층에서 온 경고: 위임자와 운영자가 확인할 것들 리눅스 커널 취약점 CVE-2026-98432와 카르다노 스테이크 풀 서버를 운영해 본 분이라면 \"커널 업데이트 뒤에는 재부팅\"이라는 말이 얼마나 미루기 쉬운 숙제인지 아실 겁니다. 10월 30일, 인터섹트(Intersect)가 스테이크 풀 운영자(SPO)들에게 바로 그 숙제를 서둘러 하라고 요청했습니다. 문제가 생긴 곳은 노드가 올라앉은 리눅스 커널이었습니다. 위임자 입장의 결론부터 말씀드리면, 지갑에 있는 에이다(ADA)가 이번 일로 직접 위험해지지는 않습니다. 다만 풀 서버가 흔들리면 보상이 흔들릴 수 있고, 그래서 위임자에게도 해볼 만한 확인이 몇 가지 있습니다. 1. 10월 30일, 인터섹트가 전한 내용 인터섹트는 10월 30일자 주간 업데이트 #",
+    "fetchedAt": "2026-11-11T03:42:08.094Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
