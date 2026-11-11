@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794204264630-v42i21",
-    "source": "x",
-    "ts": "2026-11-09T06:04:24.630Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-09T06:02:18.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🚨BREAKING:Iran warns White house has 2 days to accept its latest peace proposal and warns its forces will “rain down hell” if the White House chooses war.\n\nForeign Minister Abbas Araghchi said Iran would reopen the Strait of Hormuz within two days if Washington meets Tehran’s",
-    "url": "https://x.com/coinbureau/status/2119671904349159795"
-  },
-  {
-    "id": "x-1794204268756-hqrwq1",
-    "source": "x",
-    "ts": "2026-11-09T06:04:28.756Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T06:00:51.000Z",
-    "reason": "No notable crypto-related move or use mentioned.",
-    "text": "🇺🇸 LATEST: Democrats plan to probe Elon Musk, White House chief of staff Stephen Miller and some major companies once they take control of Congress in January, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2119671539322831058"
-  },
-  {
     "id": "x-1794204272365-d02u7b",
     "source": "x",
     "ts": "2026-11-09T06:04:32.365Z",
@@ -7948,6 +7922,38 @@
     "images": [
       "https://pbs.twimg.com/media/HWzWzCkXIAIpdcF.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794355910620-36pk69",
+    "source": "x",
+    "ts": "2026-11-11T00:11:50.620Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-11T00:07:00.000Z",
+    "reason": "No notable move in ETH, price is within its recent range.",
+    "text": "Widely considered among the most quantum-ready blockchain networks, we examine how @Algorand is getting ready for a post-quantum future ⬇️",
+    "url": "https://x.com/BSCNews/status/2120307265655718214",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794355912861-hqu4ro",
+    "source": "x",
+    "ts": "2026-11-11T00:11:52.861Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 118,
+    "originTimestamp": "2026-11-10T22:13:54.000Z",
+    "reason": "Domain security incident and attack response.",
+    "text": "The Across domain is currently down while we secure it against an attack from earlier today.\n\nAt ~18:45 UTC, a social engineering attack on @Namecheap (our domain registrar) gave a bad actor control of the Across domain. \n\nWithin 15 minutes of this attack, we were alerted and",
+    "url": "https://x.com/cz_binance/status/2120306289117122888",
+    "images": [],
     "video": null
   }
 ]
