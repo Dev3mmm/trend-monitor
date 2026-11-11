@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794252123858-c95rke",
-    "source": "x",
-    "ts": "2026-11-09T19:22:03.858Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-09T19:20:00.000Z",
-    "reason": "Ethereum's stablecoin and tokenized fund market cap has shown a significant drop due to the KelpDAO exploit.",
-    "text": "🚨 LATEST: Ethereum’s stablecoin and tokenized fund market cap has fallen 19% from $206.7 billion to $168.3 billion since the KelpDAO exploit on April 18.",
-    "url": "https://x.com/Cointelegraph/status/2119872652047470681",
-    "images": [
-      "https://pbs.twimg.com/media/HWrydMeaUAA1GE5.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794252126140-j435cz",
     "source": "x",
     "ts": "2026-11-09T19:22:06.140Z",
@@ -8028,5 +8010,18 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "Meanwhile's Danny Baer (@dbaer7) on why families should protect themselves in Bitcoin:\n\n\"A dollar is going to be worth less in the future than it is today.\"\n\n\"The purchasing power of the dollar is down about 25% in the last six years.\"",
     "url": "https://x.com/BitcoinMagazine/status/2120538788149469476"
+  },
+  {
+    "id": "x-1794418343722-d5a85l",
+    "source": "x",
+    "ts": "2026-11-11T17:32:23.722Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T17:30:01.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Tether Releases Open-Weight AI Agent Model Small Enough to Run on Personal Devices.\n\nTether's 0.8-billion-parameter QVAC BotPsy is built on Alibaba's open-source Qwen3.5. In Tether's own testing, it roughly doubled its base model's tool-use scores and beat Qwen3.5-2B-Think, a",
+    "url": "https://x.com/DecryptMedia/status/2120569749071688050"
   }
 ]
