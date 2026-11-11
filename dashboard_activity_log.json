@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794226956315-u0gf0v",
-    "source": "x",
-    "ts": "2026-11-09T12:22:36.315Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-09T12:14:00.000Z",
-    "reason": "PancakeSwap is pausing a critical security update.",
-    "text": "PancakeSwap Pauses Its Weekly CAKE Burn for a Security Overhaul\n\n@PancakeSwap is delaying its weekly automatic buyback and burn of trading fees until Monday, November 16. \n\nThe delay is to implement necessary infrastructure and contract security improvements.\n\nThis is due to an",
-    "url": "https://x.com/BSCNews/status/2119765445834416383",
-    "images": [
-      "https://pbs.twimg.com/media/HWrZzRiWoAA1ALM.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794227545277-0iqbyn",
-    "source": "x",
-    "ts": "2026-11-09T12:32:25.277Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T12:31:04.000Z",
-    "reason": "Permanent shutdown announcement for DeFi networks.",
-    "text": "Polkadot DeFi Networks Acala and Karura Plan Permanent Shutdown on February 10, 2027  \n\nAcala announced plans to permanently shut down both its Polkadot-based network and sister network Karura on Kusama on February 10, 2027, pending approval of Acala Referendum #195 and Karura",
-    "url": "https://x.com/WuBlockchain/status/2119769742492013045",
-    "images": [
-      "https://pbs.twimg.com/media/HWrvShLbsAEAGP5.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794227548401-j5h4o7",
-    "source": "x",
-    "ts": "2026-11-09T12:32:28.401Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-09T12:30:01.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Robinhood Opens US IPO Access to UK Customers.\n\nRobinhood said Monday UK customers can now request shares in new US listings at the official offer price before public trading begins, with zero commission, through its IPO Access feature.",
-    "url": "https://x.com/DecryptMedia/status/2119769477877203018"
-  },
-  {
     "id": "x-1794227551788-3b2wl2",
     "source": "x",
     "ts": "2026-11-09T12:32:31.788Z",
@@ -7983,5 +7934,55 @@
     "reason": "Memes and inspirational quotes are not news.",
     "text": "Never leave a charcoal jiko burning in a closed room.\n\nBurning charcoal produces carbon monoxide, a gas you cannot see or smell. In a room with closed windows, it can poison a sleeping child or adult, and it kills families every year.\n\nCook outside or near an open door. Put the",
     "url": "https://x.com/amerix/status/2120440336497451177"
+  },
+  {
+    "id": "x-1794388353275-vlobte",
+    "source": "x",
+    "ts": "2026-11-11T09:12:33.275Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-11T09:06:36.000Z",
+    "reason": "No notable news, just a closure announcement.",
+    "text": "Sui Hardware Wallet Shuts Down After Years of Development &amp; Expectations\n\nSuiball (@suiballO) is shutting down despite completing development and preparing its first hardware wallet batch.\n\nThe team says the Sui Foundation (@SuiFoundation) $SUI considered backing the project too",
+    "url": "https://x.com/BSCNews/status/2120443059892850773",
+    "images": [
+      "https://pbs.twimg.com/media/HW1TmwRbgAEIGUf.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794388356163-ql16ue",
+    "source": "x",
+    "ts": "2026-11-11T09:12:36.163Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-11T09:05:25.000Z",
+    "reason": "No notable move or concrete information provided.",
+    "text": "I am back in my office after a month of gallivanting around the world.",
+    "url": "https://x.com/amerix/status/2120442764911370733"
+  },
+  {
+    "id": "x-1794388359778-8ljbxn",
+    "source": "x",
+    "ts": "2026-11-11T09:12:39.778Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-11T09:01:07.000Z",
+    "reason": "Notable institutional move with potential for wide adoption.",
+    "text": "🔥 NEW: Kraken parent Payward will launch tokenized versions of 200+ UK and European stocks, per WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2120441681333948468",
+    "images": [
+      "https://pbs.twimg.com/media/HW1SdlHWAAAmx3b.jpg",
+      "https://pbs.twimg.com/media/HW1Sd9ZW4AEJ82_.jpg"
+    ],
+    "video": null
   }
 ]
