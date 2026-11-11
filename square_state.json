@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793044921563-sgc2cl",
     "x-1793046250494-i0itsx",
     "x-1793046261167-2r7j92",
     "x-1793046432839-kkbuia",
@@ -1999,20 +1998,24 @@
     "x-1794388359778-8ljbxn",
     "x-1794390148109-u6cjyz",
     "x-1794390152012-vhpw93",
-    "x-1794390155533-gz9pss"
+    "x-1794390155533-gz9pss",
+    "x-1794391359192-pl4d38"
   ],
-  "queue": [],
-  "posted": [
+  "queue": [
     {
-      "text": "#PeckShieldAlert @ankr has been exploited, resulting in a loss of ~$286K. The exploiter drained 5,372 $aMATICb, 515.2K $ankrPOL (~$56K), ~8M ethereum:0x8290333cef9e6d528dd5618fb97a76f268f3edd4 (~$30.7K), and 83 $ankrETH (~$192K). \n\nMost of the stolen funds have been swapped for",
-      "final": "#PeckShieldAlert @ankr has been exploited, resulting in a loss of ~$286K. The exploiter drained 5,372 $aMATICb, 515.2K $ankrPOL (~$56K), ~8M ethereum:0x8290333cef9e6d528dd5618fb97a76f268f3edd4 (~$30.7K), and 83 $ankrETH (~$192K). \n\nMost of the stolen funds have been swapped for\n\n#Ethereum $ETH #Hack",
-      "images": [
-        "https://pbs.twimg.com/media/HWrLohhaMAAyJZL.jpg"
-      ],
-      "at": 1794218511909,
-      "status": "failed",
-      "error": "Uploading: sq_1794218511909_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261109/9b6194871502474d86a8fa425e3a90d0.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
-    },
+      "text": "Is crypto actually BETTER OFF without the Clarity Act? \n\nFormer CFTC Chairman @giancarloMKTS tells @itsciaranlyons why he's glad the bill failed and why he believes the US crypto industry can thrive without it.\n\n#CHAINREACTION",
+      "url": "https://x.com/Cointelegraph/status/2120456516771721322",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2120453626208649216/vid/avc1/1280x720/oI5JDKyExc9cQ6ly.mp4?tag=29",
+        "duration": 701,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120453626208649216/img/0QoxrpUadF3l15S3.jpg"
+      },
+      "enqueuedAt": 1794391359691
+    }
+  ],
+  "posted": [
     {
       "text": "🚨 UPDATE: Binance says it found no evidence of a breach and called ShinyHunters’ claim of 335M stolen user records a likely scam.",
       "final": "🚨 UPDATE: Binance says it found no evidence of a breach and called ShinyHunters’ claim of 335M stolen user records a likely scam.\n\n#Crypto #Binance",
