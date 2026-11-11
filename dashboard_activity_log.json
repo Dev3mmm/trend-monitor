@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1794229951215-2rnu90",
-    "source": "x",
-    "ts": "2026-11-09T13:12:31.215Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-09T13:04:33.000Z",
-    "reason": "Microsoft-backed project introduces new use case for AI and data verification.",
-    "text": "Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data",
-    "url": "https://x.com/DecryptMedia/status/2119778166747148465",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794230530019-7khp7a",
-    "source": "x",
-    "ts": "2026-11-09T13:22:10.019Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T13:20:42.000Z",
-    "reason": "No notable crypto-related event or movement mentioned.",
-    "text": "🔥 JUST IN: More than 700,000 self-custodial wallets were created on Telegram in 48 hours, says Pavel Durov.",
-    "url": "https://x.com/Cointelegraph/status/2119782233686863938"
-  },
-  {
-    "id": "x-1794231114568-ml3pnh",
-    "source": "x",
-    "ts": "2026-11-09T13:31:54.568Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T13:30:50.000Z",
-    "reason": "Specific institutional adoption of a new technology.",
-    "text": "🔥 BREAKING: NYSE will use Avalanche to settle tokenized stock trades exclusively on its planned 24/7 trading platform, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2119784783139963388",
-    "images": [
-      "https://pbs.twimg.com/media/HWr9BLvW0AAhg-K.jpg",
-      "https://pbs.twimg.com/media/HWr9Bj-WwAEQo0T.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794231117895-cdacbm",
     "source": "x",
     "ts": "2026-11-09T13:31:57.895Z",
@@ -7993,5 +7945,52 @@
     "url": "https://x.com/Cointelegraph/status/2120466732976411040",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794394923801-2782s9",
+    "source": "x",
+    "ts": "2026-11-11T11:02:03.801Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-11T10:54:30.000Z",
+    "reason": "Notable adoption of Avalanche by NYSE competitor NYSE.",
+    "text": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
+    "url": "https://x.com/DecryptMedia/status/2120470214542303637",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794394929160-cr2mif",
+    "source": "x",
+    "ts": "2026-11-11T11:02:09.160Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-11T10:53:26.000Z",
+    "reason": "Notable regulatory and governance update affecting token allocations.",
+    "text": "InterLink Sets Deadline to Lock In ITLG Allocations\n\n@inter_link has set November 25, 2026, as the strict deadline for capturing KYC performance metrics for Level 1 and referral performance. \n\nUser allocations for the current $ITLG distribution cycle will be frozen permanently.",
+    "url": "https://x.com/BSCNews/status/2120469946715030005",
+    "images": [
+      "https://pbs.twimg.com/media/HW1r10YW4AAvPYR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794394933644-dbpwff",
+    "source": "x",
+    "ts": "2026-11-11T11:02:13.644Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 37,
+    "originTimestamp": "2026-11-11T10:24:15.000Z",
+    "reason": "No notable move in Ethereum price.",
+    "text": "🎙 One of the most insightful interview of 2026...\n\nDon't miss @ErhanKOfficial speaking with the legend that is @CryptoHayes about the Agentic Economy, as well as @flop_labs and its potential ⬇️",
+    "url": "https://x.com/BSCNews/status/2120469887793410452"
   }
 ]
