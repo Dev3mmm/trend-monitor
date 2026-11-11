@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1794237714418-8b31nr",
-    "source": "x",
-    "ts": "2026-11-09T15:21:54.418Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-09T15:21:06.000Z",
-    "reason": "Specific crypto purchase by a public company.",
-    "text": "JUST IN: 🇺🇸 Public company Strive bought 29 Bitcoin worth $2.2 million.\n\nThis brings their treasury to 43,153 BTC 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2119812533653553525",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2119812480838905856/vid/avc1/1280x720/kdkVPLuIrrS2DpJi.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HWsWQuDWQAAEGx9.jpg"
-    }
-  },
-  {
-    "id": "x-1794237718413-hpkb87",
-    "source": "x",
-    "ts": "2026-11-09T15:21:58.413Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T15:20:42.000Z",
-    "reason": "Notable exploit involving stolen funds.",
-    "text": "🚨 UPDATE: Binance hacker moves $430,000 in stolen funds through six self-created $NEAR meme coins in just three days, per Elliptic.",
-    "url": "https://x.com/Cointelegraph/status/2119812430620397924",
-    "images": [
-      "https://pbs.twimg.com/media/HWsWKrSWMAAHYTU.jpg",
-      "https://pbs.twimg.com/media/HWsWK6BWgAAKf37.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794237722852-6oov3u",
     "source": "x",
     "ts": "2026-11-09T15:22:02.852Z",
@@ -7963,6 +7923,44 @@
     "images": [
       "https://pbs.twimg.com/media/HW2JhFVWsAAx-qw.png",
       "https://pbs.twimg.com/media/HW2JhshWcAEIVDL.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794403336389-mhgavx",
+    "source": "x",
+    "ts": "2026-11-11T13:22:16.389Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-11T13:17:53.000Z",
+    "reason": "Specific and notable partnership with major financial institutions.",
+    "text": "⚡️JUST IN: OKX and NYSE parent ICE will launch 24/7 tokenized U.S. securities trading on November 23 through their joint venture, OKXICE.\n\nMore than 70 assets are expected, including Coinbase, Circle, Robinhood, and Strategy securities, plus 59 Direxion ETFs.\n\nThe platform will",
+    "url": "https://x.com/coinbureau/status/2120506298441830490",
+    "images": [
+      "https://pbs.twimg.com/media/HW2MZPKaEAA1XQD.png",
+      "https://pbs.twimg.com/media/HW2McBKbYAEKy9b.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794403342103-0kiarr",
+    "source": "x",
+    "ts": "2026-11-11T13:22:22.103Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-11T13:16:37.000Z",
+    "reason": "Notable quote from a high-profile figure in crypto regarding a presidential interest in Bitcoin.",
+    "text": "NEW: 🇺🇸 Former White House Crypto Chief Patrick Witt says President Trump is still interested in buying bitcoin for the US Strategic Bitcoin Reserve 👀\n\nHe told the What Bitcoin Did podcast that \"the president's interested in it.\" 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2120505979435368719",
+    "images": [
+      "https://pbs.twimg.com/media/HW2Evz4XwAAyJXq.jpg",
+      "https://pbs.twimg.com/media/HW2EurjXsAEBtZw.png"
     ],
     "video": null
   }
