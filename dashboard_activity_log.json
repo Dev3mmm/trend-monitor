@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794220416746-0dj6yr",
-    "source": "x",
-    "ts": "2026-11-09T10:33:36.746Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T10:29:48.000Z",
-    "reason": "Potential exploit with significant ETH holdings.",
-    "text": "#PeckShieldAlert Seems a #UXLink exploiter-linked address holds a $45.3M $ETH long on Hyperliquid.\nThe address 0xDE8d9...d9524 holds 21.55K ETH at an average entry of $2,134.45, using 15x cross margin.\nIt received 11M $USDC from 0x35Eb7...5D43, which interacted with an address",
-    "url": "https://x.com/PeckShieldAlert/status/2119739225553932621",
-    "images": [
-      "https://pbs.twimg.com/media/HWrTePHbMAAjRun.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794220420569-wafz56",
     "source": "x",
     "ts": "2026-11-09T10:33:40.569Z",
@@ -7991,6 +7973,25 @@
     "url": "https://x.com/BSCNews/status/2120405664224940263",
     "images": [
       "https://pbs.twimg.com/media/HW0PFBDakAAHhlk.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794380607245-ie73wz",
+    "source": "x",
+    "ts": "2026-11-11T07:03:27.245Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T07:01:00.000Z",
+    "reason": "Fed official warns of potential stock market correction due to AI investment performance fears",
+    "text": "🚨 NEW: Fed’s Michelle Bowman warns stocks could face a sharp correction if returns on AI investments fall short of expectations.",
+    "url": "https://x.com/Cointelegraph/status/2120411454503317878",
+    "images": [
+      "https://pbs.twimg.com/media/HW02-SpW8AAeur3.jpg",
+      "https://pbs.twimg.com/media/HW02-kvWAAA9xKL.png"
     ],
     "video": null
   }
