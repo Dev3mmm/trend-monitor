@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794220947169-noqfks",
-    "source": "x",
-    "ts": "2026-11-09T10:42:27.169Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 23,
-    "originTimestamp": "2026-11-09T10:19:03.000Z",
-    "reason": "Nothing specific or concrete.",
-    "text": "Insightful",
-    "url": "https://x.com/elonmusk/status/2119742268265640376"
-  },
-  {
-    "id": "x-1794220949706-krj8fx",
-    "source": "x",
-    "ts": "2026-11-09T10:42:29.706Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T10:39:09.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "How @Blockben Helps Crypto Projects Access the EU Market [Ft. AMA With @ViktorBodnar_BB] \n\n#CHAINREACTION",
-    "url": "https://x.com/Cointelegraph/status/2119741578306859154"
-  },
-  {
     "id": "x-1794221540499-oemx7k",
     "source": "x",
     "ts": "2026-11-09T10:52:20.499Z",
@@ -7994,6 +7968,41 @@
     "url": "https://x.com/BSCNews/status/2120412459341398306",
     "images": [
       "https://pbs.twimg.com/media/HW0PJbpasAAughU.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794381144998-db0osq",
+    "source": "x",
+    "ts": "2026-11-11T07:12:24.998Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-11T07:11:46.000Z",
+    "reason": "Amazon's lending to Anthropic highlights the institutional interest in AI startups.",
+    "text": "The biggest story in the Anthropic IPO isn’t its $1 TRILLION valuation...\n\nit’s Amazon.\n\nSince 2023, Amazon has lent Anthropic $8 billion through convertible notes, a type of loan that can be swapped for shares instead of being repaid in cash.\n\nSome of those notes were already",
+    "url": "https://x.com/coinbureau/status/2120414164283961372",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794381148668-v8gg9p",
+    "source": "x",
+    "ts": "2026-11-11T07:12:28.668Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-11T07:07:27.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Former Ripple CTO Discloses Selling Most Crypto Holdings Due to Extreme Risk Aversion\n\nFormer Ripple Chief Technology Officer David Schwartz revealed that he has sold off the vast majority of his crypto portfolio due to an extreme aversion to risk, trimming his peak holdings from",
+    "url": "https://x.com/WuBlockchain/status/2120413076222537952",
+    "images": [
+      "https://pbs.twimg.com/media/HW04bgzbQAAHNHJ.jpg",
+      "https://pbs.twimg.com/media/HW04cdPbMAAeU3b.jpg"
     ],
     "video": null
   }
