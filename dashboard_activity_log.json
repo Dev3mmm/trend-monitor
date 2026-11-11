@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794279764099-j0sea2",
-    "source": "x",
-    "ts": "2026-11-10T03:02:44.099Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T03:00:47.000Z",
-    "reason": "Generic news about a political affair, no specific crypto-related event.",
-    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 President Trump says the FBI is “looking into” Nvidia CEO Jensen Huang after he admitted to an affair with a woman the US believes is a Chinese spy, per FT.\n\n🔹 Securitize acquires River One, its first buy as a",
-    "url": "https://x.com/Cointelegraph/status/2119988614775869492"
-  },
-  {
-    "id": "x-1794279767378-263ima",
-    "source": "x",
-    "ts": "2026-11-10T03:02:47.378Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T03:00:01.000Z",
-    "reason": "Suspicious token creation and potential money laundering attempt",
-    "text": "Elliptic says the hackers are minting their own worthless tokens, complete with cartoon animal and Elon Musk logos, and routing stolen funds through liquidity pools to break the trail.",
-    "url": "https://x.com/DecryptMedia/status/2119988421070561492",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794280327165-7v2lco",
     "source": "x",
     "ts": "2026-11-10T03:12:07.165Z",
@@ -8049,6 +8020,41 @@
     "images": [
       "https://pbs.twimg.com/media/HW4WhYfXgAADwH6.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794440523205-fqyj56",
+    "source": "x",
+    "ts": "2026-11-11T23:42:03.205Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T23:39:40.000Z",
+    "reason": "Potential impact on Metaplanet's MSTR token.",
+    "text": "MSCI to Remove Strategy and Metaplanet From Indexes, Potential MSTR Outflows Could Reach $8.8B\n\nAccording to Reuters, MSCI will remove Strategy (MSTR), Japan's Bitcoin treasury firm Metaplanet, and UK-based uranium investment company Yellow Cake from its global indexes, effective",
+    "url": "https://x.com/WuBlockchain/status/2120662777895514401",
+    "images": [
+      "https://pbs.twimg.com/media/HW4bibEbUAE9LS3.jpg",
+      "https://pbs.twimg.com/media/HW4bjKeaoAEB1lZ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794440528217-yz9dw6",
+    "source": "x",
+    "ts": "2026-11-11T23:42:08.217Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 84,
+    "originTimestamp": "2026-11-11T22:17:24.000Z",
+    "reason": "A high-profile CEO's departure could have significant impacts on the AI chip market.",
+    "text": "What happens if Jensen Huang gets FIRED as Nvidia CEO?\n\nNvidia's board is reportedly preparing to remove him, with NO named successor.\n\nA lot more than one job is on the line.\n\n1. Nvidia is the engine of the AI boom.\n\nIt controls an estimated 80% of the AI chip market.\n\nIts data",
+    "url": "https://x.com/coinbureau/status/2120662264567251136",
+    "images": [],
     "video": null
   }
 ]
