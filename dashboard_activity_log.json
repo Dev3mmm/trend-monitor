@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794237722852-6oov3u",
-    "source": "x",
-    "ts": "2026-11-09T15:22:02.852Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coinbase 🛡️",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-09T15:07:00.000Z",
-    "reason": "Notable bank's adoption of USDC for corporate payments.",
-    "text": "USDC received. Dollars deposited.\n\nEligible PNC corporate clients can now receive USDC payments that land as dollars in their PNC account.",
-    "url": "https://x.com/coinbase/status/2119810717591519256",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794238371582-o04w9p",
-    "source": "x",
-    "ts": "2026-11-09T15:32:51.582Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T15:29:28.000Z",
-    "reason": "Notable institutional adoption of Bitcoin by a public company.",
-    "text": "JUST IN: 🇺🇸 Public company Strive bought 29 Bitcoin worth $2.2 million.\n\nThis brings their treasury to 43,153 BTC 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2119814636111380654",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2119814533887688704/vid/avc1/1280x720/RqW29QQ1Z17A45X8.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HWsYLMoWgAAd3GO.jpg"
-    }
-  },
-  {
     "id": "x-1794238376025-unyaqe",
     "source": "x",
     "ts": "2026-11-09T15:32:56.025Z",
@@ -7961,6 +7924,43 @@
     "images": [
       "https://pbs.twimg.com/media/HW2Evz4XwAAyJXq.jpg",
       "https://pbs.twimg.com/media/HW2EurjXsAEBtZw.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794403964385-e2pabp",
+    "source": "x",
+    "ts": "2026-11-11T13:32:44.385Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T13:30:01.000Z",
+    "reason": "Sui Foundation decision to shut down hardware wallet project and refund pre-orders.",
+    "text": "Suiball Shuts Down Before Shipping, Refunds Pre-Orders in USDC.\n\nThe Sui hardware wallet said the Sui Foundation decided backing a hardware wallet project was too risky after a wave of industry attacks, with onchain pre-orders refunded in USDC within the next week.",
+    "url": "https://x.com/DecryptMedia/status/2120509351245009121",
+    "images": [
+      "https://pbs.twimg.com/media/HW14PkaXAAA2i3N.png",
+      "https://pbs.twimg.com/media/HW14W6iX0AAH6aW.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794403969874-o350t5",
+    "source": "x",
+    "ts": "2026-11-11T13:32:49.874Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-11T13:27:00.000Z",
+    "reason": "Noteworthy institutional partnership bringing traditional markets to blockchain.",
+    "text": "OKX and ICE Are Bringing US Stocks Onchain\n\nCryptocurrency exchange OKX (@OKX) and Intercontinental Exchange (@ICE_Markets) will launch the OKXICE Tokenized Securities Venue on November 23.\n\nThe platform aims to bring traditional US capital markets onto blockchain rails and",
+    "url": "https://x.com/BSCNews/status/2120508592960766027",
+    "images": [
+      "https://pbs.twimg.com/media/HW2Of_aW4AAD9DE.jpg"
     ],
     "video": null
   }
