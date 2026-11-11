@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794268928435-ccu0qp",
-    "source": "x",
-    "ts": "2026-11-10T00:02:08.435Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T23:59:00.000Z",
-    "reason": "No notable move in Ethereum price or significant institutional news.",
-    "text": "Meta Launches Muse Ember, Matching Claude Haiku 5.5 at a Third of the Cost.\n\nMeta's new efficient AI model scored 36 on the Artificial Analysis Intelligence Index, level with Claude Haiku 5.5, and costs $0.10 per million input tokens and $0.50 per million output tokens via the",
-    "url": "https://x.com/DecryptMedia/status/2119942864989729024"
-  },
-  {
-    "id": "x-1794269581929-x7thnc",
-    "source": "x",
-    "ts": "2026-11-10T00:13:01.929Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-10T00:08:00.000Z",
-    "reason": "No notable move, no real news.",
-    "text": "How does @Filecoin actually store data for the long-haul...?\n\nFIL has become the gold-standard in blockchain-based storage, with even @IOHK_Charles' @MidnightNtwrk exploring its use.\n\nHere's what you need to understand... ⬇️",
-    "url": "https://x.com/BSCNews/status/2119945129566019984"
-  },
-  {
     "id": "x-1794270141008-guzjc7",
     "source": "x",
     "ts": "2026-11-10T00:22:21.008Z",
@@ -8053,6 +8027,38 @@
     "text": "Japanese government bonds on @CantonNetwork ($CC)? The plan now has a signed MOU and a test group of 68+ institutions. Here is what @progmat_en and @digitalasset agreed to ⬇️",
     "url": "https://x.com/BSCNews/status/2120637817323712956",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794435237005-ftjnk8",
+    "source": "x",
+    "ts": "2026-11-11T22:13:57.005Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 93,
+    "originTimestamp": "2026-11-11T20:40:30.000Z",
+    "reason": "No notable crypto-related event or move mentioned.",
+    "text": "Thanks to @elonmusk &amp; @SpaceX, the City of Memphis finished its Fiscal Year ahead of budget for the first time in a long time. \n\nThe City is tracking roughly $5.6 million ahead for the current year. \n\nMemphis Mayor Paul Young said this week that SpaceX generated $54 million in",
+    "url": "https://x.com/elonmusk/status/2120638269994263035"
+  },
+  {
+    "id": "x-1794435240134-d8ks43",
+    "source": "x",
+    "ts": "2026-11-11T22:14:00.134Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-11T22:02:08.000Z",
+    "reason": "MSCI removing Bitcoin from global indexes is significant regulatory news.",
+    "text": "BREAKING: MSCI has officially decided to remove Strategy from its global indexes.\n\nIndices are supposed to be neutral. Bitcoin is being singled out. 👎",
+    "url": "https://x.com/BitcoinMagazine/status/2120638233059201394",
+    "images": [
+      "https://pbs.twimg.com/media/HW36C83WsAAHZEP.jpg",
+      "https://pbs.twimg.com/media/HW36C8-XEAA9O2s.png"
+    ],
     "video": null
   }
 ]
