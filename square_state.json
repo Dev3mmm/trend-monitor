@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793032006837-9c61yd",
     "x-1793032015587-6bl094",
     "x-1793033156153-fm9eqc",
     "x-1793033166133-ow4ni8",
@@ -1999,19 +1998,10 @@
     "x-1794355345639-08muyh",
     "x-1794355910620-36pk69",
     "x-1794355912861-hqu4ro",
-    "x-1794356535456-tfpdc9"
+    "x-1794356535456-tfpdc9",
+    "x-1794357129633-8ckavf"
   ],
   "queue": [
-    {
-      "text": "🚨 INSIGHT: Ledger CEO Pascal Gauthier warned that “everybody will be hacked at some point” following Binance’s $6.3 billion hack.",
-      "url": "https://x.com/Cointelegraph/status/2120267944756175190",
-      "images": [
-        "https://pbs.twimg.com/media/HWy0dAeXEAAR3Jb.jpg",
-        "https://pbs.twimg.com/media/HWy0dRJX0AMzF7R.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794346341307
-    },
     {
       "text": "🚨 ALERT: Glassnode reports that 35.4% of Bitcoin’s supply, or 7.12 million BTC, has exposed public keys that could be vulnerable to future quantum computing attacks.",
       "url": "https://x.com/Cointelegraph/status/2120270272007913538",
@@ -2078,6 +2068,16 @@
       ],
       "video": null,
       "enqueuedAt": 1794355346331
+    },
+    {
+      "text": "🚨 NOW: Nvidia’s independent board members tap former acting SDNY U.S. Attorney Joon Kim and law firm Wachtell Lipton to lead the probe announced Sunday.",
+      "url": "https://x.com/Cointelegraph/status/2120313246615785887",
+      "images": [
+        "https://pbs.twimg.com/media/HWzdp1CWEAAcqlZ.jpg",
+        "https://pbs.twimg.com/media/HWzdqNqWoAA6rqD.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794357134179
     }
   ],
   "posted": [
@@ -2725,7 +2725,17 @@
       "at": 1794355346331,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386925169968539?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 INSIGHT: Ledger CEO Pascal Gauthier warned that “everybody will be hacked at some point” following Binance’s $6.3 billion hack.",
+      "final": "🚨 INSIGHT: Ledger CEO Pascal Gauthier warned that “everybody will be hacked at some point” following Binance’s $6.3 billion hack.\n\n#Crypto #Binance #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HWy0dAeXEAAR3Jb.jpg",
+        "https://pbs.twimg.com/media/HWy0dRJX0AMzF7R.jpg"
+      ],
+      "at": 1794357134179,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794355346331
+  "lastPostAt": 1794357134179
 }
