@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794204272365-d02u7b",
-    "source": "x",
-    "ts": "2026-11-09T06:04:32.365Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T06:00:38.000Z",
-    "reason": "The tweet is in Chinese and lacks concrete information.",
-    "text": "2026年11月11日",
-    "url": "https://x.com/PhyrexNi/status/2119671484746760270"
-  },
-  {
-    "id": "x-1794204277408-f3dyxx",
-    "source": "x",
-    "ts": "2026-11-09T06:04:37.408Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 24,
-    "originTimestamp": "2026-11-09T05:40:20.000Z",
-    "reason": "No notable move or specific action is mentioned.",
-    "text": "Flare CEO Wants XRP to Break Free From Ripple's Shadow\n\nFlare (@FlareNetworks) flare-networks:native CEO Hugo Philion (@HugoPhilion) has pushed back against recent FUD surrounding $XRP. \n\nHe argues the token's future should not depend entirely on Ripple's decisions. Instead,",
-    "url": "https://x.com/BSCNews/status/2119666376671433106"
-  },
-  {
     "id": "x-1794204282765-eqlxvq",
     "source": "x",
     "ts": "2026-11-09T06:04:42.765Z",
@@ -7955,5 +7929,36 @@
     "url": "https://x.com/cz_binance/status/2120306289117122888",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794356535456-tfpdc9",
+    "source": "x",
+    "ts": "2026-11-11T00:22:15.456Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-11T00:21:00.000Z",
+    "reason": "Announcement of blockchain shutdown and migration to a different network.",
+    "text": "Mark your calendars for December 9...\n\nOn December 9, in just one month, @ZetaChain will shut down its Layer 1 blockchain to migrate its native $ZETA token to @Solana and launch ZetaLabs directly on the $SOL network.\n\nZetaLabs is much like a ChatGPT designed specifically for",
+    "url": "https://x.com/BSCNews/status/2120310789055947071",
+    "images": [
+      "https://pbs.twimg.com/media/HWwvb63XwAARpY1.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794356538220-mta7rz",
+    "source": "x",
+    "ts": "2026-11-11T00:22:18.220Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-11T00:14:09.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "$ICP rises 6.4% in 24 hours to $2.55.\n\nICP price and news:",
+    "url": "https://x.com/BSCNews/status/2120309355467940144"
   }
 ]
