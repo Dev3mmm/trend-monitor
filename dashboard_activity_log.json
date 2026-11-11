@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794252126140-j435cz",
-    "source": "x",
-    "ts": "2026-11-09T19:22:06.140Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-09T19:16:00.000Z",
-    "reason": "No notable move or newsworthy event is indicated.",
-    "text": "What a month it’s been for Worldcoin\n\nWorldcoin has had a bumpy few weeks since mid-October, with a new World ID push into banking followed by heavy selling tied to the Binance hack.\n\n@worldnetwork runs World ID, an iris-scan check that proves someone is a real person, along with",
-    "url": "https://x.com/BSCNews/status/2119871645401948197"
-  },
-  {
-    "id": "x-1794252736231-bx25mv",
-    "source": "x",
-    "ts": "2026-11-09T19:32:16.231Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 34,
-    "originTimestamp": "2026-11-09T18:57:59.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "Anthropic Launches Claude Fable 5.2, Says It Formalized Fermat's Last Theorem in 30 Hours.\n\nAnthropic said a team of 1,000 Fable 5.2 agents formalized the proof with minimal human help, versus 11 days for its first attempt, and priced the model at $8 per million input tokens.",
-    "url": "https://x.com/DecryptMedia/status/2119875169300914394"
-  },
-  {
-    "id": "x-1794253342281-ek4bfk",
-    "source": "x",
-    "ts": "2026-11-09T19:42:22.281Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T19:40:41.000Z",
-    "reason": "New use of stablecoin in payment card launch.",
-    "text": "⚡️ NEW: Stripe Crypto says miPlata launched a Visa prepaid card that lets users spend stablecoins directly without cashing out to a bank account.",
-    "url": "https://x.com/Cointelegraph/status/2119877858134774128",
-    "images": [
-      "https://pbs.twimg.com/media/HWtRrTsWMAA8EPr.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794253345220-vtycy4",
     "source": "x",
     "ts": "2026-11-09T19:42:25.220Z",
@@ -8023,5 +7979,55 @@
     "reason": "No notable move or specific event is described.",
     "text": "Tether Releases Open-Weight AI Agent Model Small Enough to Run on Personal Devices.\n\nTether's 0.8-billion-parameter QVAC BotPsy is built on Alibaba's open-source Qwen3.5. In Tether's own testing, it roughly doubled its base model's tool-use scores and beat Qwen3.5-2B-Think, a",
     "url": "https://x.com/DecryptMedia/status/2120569749071688050"
+  },
+  {
+    "id": "x-1794419180097-lwjgez",
+    "source": "x",
+    "ts": "2026-11-11T17:46:20.097Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-11T17:40:39.000Z",
+    "reason": "No notable move in ETH price as the tweet mentions a research series without a specific price point.",
+    "text": "⚡️ NEW: Cointelegraph Research breaks down MATT and OP_CCV; a Bitcoin covenant proposal that would let contracts carry state across transactions.\n\nPart 5 of our Bitcoin covenants series 👇",
+    "url": "https://x.com/Cointelegraph/status/2120572428514382106"
+  },
+  {
+    "id": "x-1794419184001-oxfdjf",
+    "source": "x",
+    "ts": "2026-11-11T17:46:24.001Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-11T17:40:21.000Z",
+    "reason": "Specific, verifiable institutional adoption event.",
+    "text": "JUST IN: 🇮🇱 $150 billion Israel Discount Bank will become the 1st bank in Israel to let customers buy, hold and sell Bitcoin 👀\n\nAdoption! 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2120572350936539229",
+    "images": [
+      "https://pbs.twimg.com/media/HW3JQcGXMAAokzc.jpg",
+      "https://pbs.twimg.com/media/HW3JQcFW8AAexcE.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794419189534-r14b7x",
+    "source": "x",
+    "ts": "2026-11-11T17:46:29.534Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-11T17:32:58.000Z",
+    "reason": "Centrifuge's announcement about new on-chain funds toolkit is a notable move in the DeFi space.",
+    "text": "Centrifuge unveils a ready-made vault toolkit for onchain funds, with LayerZero inside\n\n@centrifuge ($CFG) unveiled the Vault Development Kit today, a set of building blocks for onchain funds. Developers will choose the rules a product needs, like instant redemptions for a",
+    "url": "https://x.com/BSCNews/status/2120570492591493613",
+    "images": [
+      "https://pbs.twimg.com/media/HW3HY9zXkAAjNhW.jpg"
+    ],
+    "video": null
   }
 ]
