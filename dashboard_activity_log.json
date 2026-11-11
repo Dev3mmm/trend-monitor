@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794213125408-batmiv",
-    "source": "x",
-    "ts": "2026-11-09T08:32:05.408Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T08:30:45.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "⚡️ Key Economic Events This Week:\n\nTuesday - October CPI inflation data\nWednesday - OPEC Monthly Report\nThursday - Initial Jobless Claims and October Existing Home Sales data\nFriday - October PPI inflation data\nPlus a total of 17 Fed speaker events this week.\n\nWhich will hit",
-    "url": "https://x.com/Cointelegraph/status/2119709265120121310"
-  },
-  {
-    "id": "x-1794213740395-by6do0",
-    "source": "x",
-    "ts": "2026-11-09T08:42:20.395Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-09T08:36:08.000Z",
-    "reason": "Zcash developers propose faster transaction times post-NU7 upgrade.",
-    "text": "Zcash Developers Want Faster Transactions After NU7 Upgrade\n\nZcash (@Zcash) $ZEC developers have proposed cutting the target block interval from 25 seconds to 20 seconds.\n\nThe proposal follows the activation of the NU7 upgrade.\n\nDevelopers ValarDragon and Evan Forbes submitted a",
-    "url": "https://x.com/BSCNews/status/2119710617074581818",
-    "images": [
-      "https://pbs.twimg.com/media/HWqxVRVbcAAc5Yi.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794214945664-dzu5n6",
-    "source": "x",
-    "ts": "2026-11-09T09:02:25.664Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T09:01:02.000Z",
-    "reason": "Notable leadership change in the crypto industry.",
-    "text": "🔥 NEW: Yat Siu will become Animoca Brands CEO on Dec. 1, remain executive chairman and expand its AI agent platform.",
-    "url": "https://x.com/Cointelegraph/status/2119716884710871251",
-    "images": [
-      "https://pbs.twimg.com/media/HWq_Q-NWsAA7Yro.jpg",
-      "https://pbs.twimg.com/media/HWq_RYHXUAANY-r.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794215518748-jx8g6d",
     "source": "x",
     "ts": "2026-11-09T09:11:58.748Z",
@@ -7984,5 +7934,56 @@
       "https://pbs.twimg.com/media/HWxb6AGakAA4iGq.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794369754710-ysd6ze",
+    "source": "x",
+    "ts": "2026-11-11T04:02:34.710Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-11T04:01:30.000Z",
+    "reason": "Exploit involving millions drained from a cryptocurrency exchange.",
+    "text": "⚠️ ALERT: $2.23 MILLION drained from Arcus DEX after accounting bug allows exploiter to inflate account balance\n\nArcus DEX suffered a $2.23 million exploit on November 9 after an accounting bug allowed a newly created account to record a balance far larger than its actual",
+    "url": "https://x.com/coinbureau/status/2120366282147353075",
+    "images": [
+      "https://pbs.twimg.com/media/HW0NWUwbAAAcwIV.jpg",
+      "https://pbs.twimg.com/media/HW0NWUoboAE9EwU.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794369758092-yf67p9",
+    "source": "x",
+    "ts": "2026-11-11T04:02:38.092Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-11T04:00:47.000Z",
+    "reason": "Notable institutional figure selling crypto assets.",
+    "text": "⚡️ NOW: Ripple CTO Emeritus David Schwartz says he has sold nearly all his crypto due to his low risk tolerance.\n\nHis holdings are down from about 26M XRP, 1,500 BTC and 40,000 ETH to roughly 3M XRP, 1 BTC and 6 ETH.",
+    "url": "https://x.com/Cointelegraph/status/2120366098948280454",
+    "images": [
+      "https://pbs.twimg.com/media/HW0NuexXkAEB7ae.jpg",
+      "https://pbs.twimg.com/media/HW0NurSXIAAk_PH.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794369761592-m9n5ph",
+    "source": "x",
+    "ts": "2026-11-11T04:02:41.592Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T04:00:00.000Z",
+    "reason": "No notable move in the crypto holdings ratio mentioned.",
+    "text": "Qiao Wang: My Only Crypto Holdings Are BTC and ZEC, at a Roughly 2:1 Ratio\n\nAlliance co-founder Qiao Wang @QwQiao told threadguy on October 26 that his only crypto holdings are BTC and ZEC, at roughly 2:1 versus 5:1 previously, mainly because ZEC surged. He prefers holding to",
+    "url": "https://x.com/WuBlockchain/status/2120365903044845891"
   }
 ]
