@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1794208361743-81h07x",
-    "source": "x",
-    "ts": "2026-11-09T07:12:41.743Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T07:08:58.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "How did Argus (@Arguspad) $ARGUS become the busiest token launchpad on Arc (@arc)?\n\nFrom capturing nearly half of Arc’s day-one DEX volume to handling roughly 90% of its first-month token launches, here's how Argus built its early lead 👇",
-    "url": "https://x.com/BSCNews/status/2119688683939102808",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794208365088-sriahm",
     "source": "x",
     "ts": "2026-11-09T07:12:45.088Z",
@@ -7976,6 +7960,24 @@
     "images": [
       "https://pbs.twimg.com/media/HWz5HkLXsAAdPto.jpg",
       "https://pbs.twimg.com/media/HWz5H15WQAAZgTf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794364913560-lfk0uo",
+    "source": "x",
+    "ts": "2026-11-11T02:41:53.560Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-11T02:33:00.000Z",
+    "reason": "Notable transaction volume and network usage highlight for Polygon.",
+    "text": "29 million transactions...\n\nThat's what the @0xPolygon network has processed in the past seven days.\n\nSince launch, however, Polygon has processed some 8.35 billion transactions, making it one of the most widely used networks of all time.\n\nAt the same time, Polygon is now the 8th",
+    "url": "https://x.com/BSCNews/status/2120344008337551595",
+    "images": [
+      "https://pbs.twimg.com/media/HWwvrgbWoAAi6RQ.jpg"
     ],
     "video": null
   }
