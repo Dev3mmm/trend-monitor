@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1794261105409-4pi5rv",
-    "source": "x",
-    "ts": "2026-11-09T21:51:45.409Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-09T21:41:47.000Z",
-    "reason": "Bitcoin closing below the 50-Week Moving Average is a significant technical indicator.",
-    "text": "NEW: Bitcoin closed below the 50-Week Moving Average, ending a 7 week run of consecutive closes above the average 👀\n\nBMTV Analyst Sean Hagan says \"right now is an excellent buying opportunity if you're bullish on Bitcoin as a technology and as money\" 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2119908332899360807",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2119904304278511616/vid/avc1/1280x720/USmLzH3odt7y504o.mp4?tag=29",
-      "duration": 329,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119904304278511616/img/RemgjSw1zfjfVW3W.jpg"
-    }
-  },
-  {
     "id": "x-1794261723423-f3r6cc",
     "source": "x",
     "ts": "2026-11-09T22:02:03.423Z",
@@ -8020,6 +7999,25 @@
     "url": "https://x.com/BSCNews/status/2120596924755783942",
     "images": [
       "https://pbs.twimg.com/media/HW3Yy9-WYAAhKFC.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794425550805-ne75nc",
+    "source": "x",
+    "ts": "2026-11-11T19:32:30.805Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T19:30:00.000Z",
+    "reason": "Notable regulatory move affecting crypto trading platforms.",
+    "text": "Coinbase Rolls Out Trade Limits and Auto-Stop Controls for AI Agents.\n\nNew Agent Controls in Coinbase for Agents let users cap per-trade size and 24-hour volume and halt an agent after a set portfolio loss, and run on Coinbase's servers so agents can't bypass them.",
+    "url": "https://x.com/DecryptMedia/status/2120599946634391653",
+    "images": [
+      "https://pbs.twimg.com/media/HW23L_rXoAAkhxs.png",
+      "https://pbs.twimg.com/media/HW23phkXIAAKVvo.jpg"
     ],
     "video": null
   }
