@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794276168038-93z2bz",
-    "source": "x",
-    "ts": "2026-11-10T02:02:48.038Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-10T02:00:49.000Z",
-    "reason": "Notable legal dispute involving Vitalik Buterin and Ethereum Foundation.",
-    "text": "⚡️ NEW: Vitalik Buterin and Ethereum Foundation hit with lawsuit by former employee Kayleen Fulton.\n\nShe alleges she was fired 13 days after she disclosed a cancer diagnosis and co-organized a staff letter against a forced pledge to the foundation’s Mandate.",
-    "url": "https://x.com/Cointelegraph/status/2119973520750874718",
-    "images": [
-      "https://pbs.twimg.com/media/HWuorTbWUAAZ5u3.jpg",
-      "https://pbs.twimg.com/media/HWuorkjWcAAHqUP.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794276755335-93q1vo",
-    "source": "x",
-    "ts": "2026-11-10T02:12:35.335Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-10T02:03:00.000Z",
-    "reason": "Noteworthy token staking for governance and rewards.",
-    "text": "113,000,000 $WLFI tokens now staked!\n\n@worldlibertyfi has announced that some 113M $WLFI tokens, worth around $5.2M at time of writing, have now been voluntarily locked by holders.\n\nUsers can stake $WLFI in order to participate in protocol governance and to earn rewards paid in",
-    "url": "https://x.com/BSCNews/status/2119974070565646374",
-    "images": [
-      "https://pbs.twimg.com/media/HWq_Wc5XcAACb2_.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794278007315-hev0j4",
-    "source": "x",
-    "ts": "2026-11-10T02:33:27.315Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T02:30:42.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 NOW: OpenAI launches Control Room, a central system that tracks model workloads across its research infrastructure and can halt them within 35 seconds if safety or security concerns arise.",
-    "url": "https://x.com/Cointelegraph/status/2119981041255416029"
-  },
-  {
     "id": "x-1794278540197-jzipj1",
     "source": "x",
     "ts": "2026-11-10T02:42:20.197Z",
@@ -8050,5 +8000,55 @@
       "https://pbs.twimg.com/media/HW4SrWlXIAInM8v.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794438727446-xnzwt5",
+    "source": "x",
+    "ts": "2026-11-11T23:12:07.446Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 110,
+    "originTimestamp": "2026-11-11T21:21:23.000Z",
+    "reason": "Telegram's wallet creation and price movement indicate significant user engagement and market activity.",
+    "text": "News update: Telegram's wallet rush is wild 🚀\n\nMore than 700,000 self-custodial Gram wallets were created in 48 hours, and $GRAM rose about 12% to $1.24. But what do those numbers really tell us? The video explains what they do and don't show.\n\nHere's the breakdown ⬇️\n\nFull",
+    "url": "https://x.com/BSCNews/status/2120655157784646016",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2120627830459404288/vid/avc1/1280x720/wq-CH6iN1gkusCD8.mp4?tag=29",
+      "duration": 201,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120627830459404288/img/71FFWJn8CR__2nLs.jpg"
+    }
+  },
+  {
+    "id": "x-1794438729797-i63e6p",
+    "source": "x",
+    "ts": "2026-11-11T23:12:09.797Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 77,
+    "originTimestamp": "2026-11-11T21:54:59.000Z",
+    "reason": "No notable regulatory or financial news is typically reported without more context or evidence.",
+    "text": "$XRP has reportedly lost $13.87 billion in market cap between November 3 and November 10, a notable drop in value over the week.\n\nMore Ripple news:",
+    "url": "https://x.com/BSCNews/status/2120655116818931995",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794438731814-6o765n",
+    "source": "x",
+    "ts": "2026-11-11T23:12:11.814Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-11T23:08:50.000Z",
+    "reason": "No notable crypto-related news or movement mentioned.",
+    "text": "Nvidia Board Preparing to Oust CEO Jensen Huang, Shares Fall as Much as 8% After Hours\n\nAccording to The Wall Street Journal, Nvidia's board is preparing to remove co-founder and CEO Jensen Huang, with directors potentially meeting as early as November 11 to decide his future.",
+    "url": "https://x.com/WuBlockchain/status/2120655017720135938"
   }
 ]
