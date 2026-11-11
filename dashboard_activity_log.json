@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794218509271-1njpem",
-    "source": "x",
-    "ts": "2026-11-09T10:01:49.271Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-09T09:55:38.000Z",
-    "reason": "Exploit involving loss of funds and theft of cryptocurrency.",
-    "text": "#PeckShieldAlert @ankr has been exploited, resulting in a loss of ~$286K. The exploiter drained 5,372 $aMATICb, 515.2K $ankrPOL (~$56K), ~8M ethereum:0x8290333cef9e6d528dd5618fb97a76f268f3edd4 (~$30.7K), and 83 $ankrETH (~$192K). \n\nMost of the stolen funds have been swapped for",
-    "url": "https://x.com/PeckShieldAlert/status/2119730625695662322",
-    "images": [
-      "https://pbs.twimg.com/media/HWrLohhaMAAyJZL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794218511326-riqn91",
-    "source": "x",
-    "ts": "2026-11-09T10:01:51.326Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-09T09:51:59.000Z",
-    "reason": "Binance's statement addresses a specific security concern.",
-    "text": "🚨 UPDATE: Binance says it found no evidence of a breach and called ShinyHunters’ claim of 335M stolen user records a likely scam.",
-    "url": "https://x.com/Cointelegraph/status/2119729705016262662",
-    "images": [
-      "https://pbs.twimg.com/media/HWrK7ZoW8AAAkNz.jpg",
-      "https://pbs.twimg.com/media/HWrK7o2WQAA2Ha8.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794219117480-hc7vf1",
     "source": "x",
     "ts": "2026-11-09T10:11:57.480Z",
@@ -7986,5 +7949,40 @@
     "reason": "No notable move in on-chain leadership changes.",
     "text": "Algorand (@Algorand) algorand:native has had a busy month. Here's what happened:\n\n1. Leadership shake-up\n\nChief Strategy and Marketing Officer Marc Vanlerberghe resigned on Oct 14, days after CTO Bruno Martins left. New CEO William Herkelrath is reviewing the Foundation's",
     "url": "https://x.com/BSCNews/status/2120389558634496460"
+  },
+  {
+    "id": "x-1794376931583-wpuhts",
+    "source": "x",
+    "ts": "2026-11-11T06:02:11.583Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-11T06:00:53.000Z",
+    "reason": "Realized loss reported from ETH holdings loss.",
+    "text": "⚡️ NOW: Tom Lee’s Bitmine reports a $6.3B net loss for the fiscal year ended Aug. 31, driven by unrealized losses on its ETH holdings as the price fell.\n\nThe firm holds about 5.9M ETH, roughly 4.9% of the circulating supply.",
+    "url": "https://x.com/Cointelegraph/status/2120396325422342566",
+    "images": [
+      "https://pbs.twimg.com/media/HW0pN4XXwAAlVS9.jpg",
+      "https://pbs.twimg.com/media/HW0pOIMWUAA5Na-.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794376934724-tfwm2g",
+    "source": "x",
+    "ts": "2026-11-11T06:02:14.724Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T06:00:01.000Z",
+    "reason": "Notable institutional investment in crypto competition.",
+    "text": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants\n\nThe funding, backing a U.S.-incorporated issuer codenamed “Project Faro,” covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
+    "url": "https://x.com/DecryptMedia/status/2120396107666673758",
+    "images": [],
+    "video": null
   }
 ]
