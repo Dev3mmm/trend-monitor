@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1794258116872-eg0k6v",
-    "source": "x",
-    "ts": "2026-11-09T21:01:56.872Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-09T21:00:02.000Z",
-    "reason": "Notable use of crypto to launder funds.",
-    "text": "North Korean Launderers Are Minting Their Own Memecoins to Move Stolen Binance Funds, Elliptic Says.\n\nElliptic said North Korean launderers created at least six throwaway NEAR tokens from Nov. 5 to 7, cycling about 117,000 stolen NEAR, around $430,000, through liquidity pools to",
-    "url": "https://x.com/DecryptMedia/status/2119897829468524793",
-    "images": [
-      "https://pbs.twimg.com/media/HWs_taVXkAAV1tJ.jpg",
-      "https://pbs.twimg.com/media/HWtAgUNXQAACKQP.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794258119153-jxihzc",
-    "source": "x",
-    "ts": "2026-11-09T21:01:59.153Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-09T21:00:02.000Z",
-    "reason": "Notable institutional engagement with Web3 technology and regulation.",
-    "text": "Not every Web3 project needs its own MiCA license. Watch our full AMA with @BlockBen and @ViktorBodnar_BB to learn how their regulatory infrastructure supports external brands, fiat ramps and a token launchpad:",
-    "url": "https://x.com/Cointelegraph/status/2119897828625617001",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794258734485-embn5f",
     "source": "x",
     "ts": "2026-11-09T21:12:14.485Z",
@@ -8033,5 +7998,36 @@
     "reason": "No notable move, price is well within the recent range.",
     "text": "$ADA breaks above $0.18, up 4.3% in 24 hours.\n\nADA price and news:",
     "url": "https://x.com/BSCNews/status/2120586662212182508"
+  },
+  {
+    "id": "x-1794423108562-hl04xx",
+    "source": "x",
+    "ts": "2026-11-11T18:51:48.562Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-11T18:49:00.000Z",
+    "reason": "USDC regulatory supervision by EU regulator",
+    "text": "USDC answers to a new EU regulator from tomorrow\n\nThe European Banking Authority will start directly supervising @circle’s $USDC in the EU on Thursday, November 12. It takes over checks on the stablecoin’s reserves, capital, liquidity, and redemption plans from France’s regulator",
+    "url": "https://x.com/BSCNews/status/2120589626742030684",
+    "images": [
+      "https://pbs.twimg.com/media/HW3WxQ_W0AA93ZO.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794423110542-i4311n",
+    "source": "x",
+    "ts": "2026-11-11T18:51:50.542Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 101,
+    "originTimestamp": "2026-11-11T17:10:56.000Z",
+    "reason": "Vague opinion without factual claim or basis.",
+    "text": "Azuria Capital's Tavi Costa on Bitcoin's capitulation setup:\n\n\"I think Bitcoin looks very undervalued right now.\"\n\n\"A lot of [former] big supporters have completely given up. That's usually the time to be stepping in.\" 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2120589593766474067"
   }
 ]
