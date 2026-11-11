@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794256929836-u572db",
-    "source": "x",
-    "ts": "2026-11-09T20:42:09.836Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-09T20:40:41.000Z",
-    "reason": "Generic prediction with no basis given",
-    "text": "🚨️️ UPDATE: Kalshi traders now price in a 44% chance that Nvidia CEO Jensen Huang will step down before January 1, 2028.",
-    "url": "https://x.com/Cointelegraph/status/2119892956710641684"
-  },
-  {
-    "id": "x-1794256933319-6z5zln",
-    "source": "x",
-    "ts": "2026-11-09T20:42:13.319Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 41,
-    "originTimestamp": "2026-11-09T20:00:32.000Z",
-    "reason": "Noise: generic news without specific crypto content.",
-    "text": "川普在与卡塔尔领导人会谈后对路透社表示，卡塔尔希望以和平方式解决与伊朗的冲突，但华盛顿仍准备在必要时发动军事打击。  \n\n川普补充说，沙特阿拉伯也赞成通过外交途径解决冲突。\n\n川普并未表现出于半岛电视台同样的信息，油价开始小幅回升，但仍然低于半岛电视台公布信息前。",
-    "url": "https://x.com/PhyrexNi/status/2119892186997395596"
-  },
-  {
-    "id": "x-1794256936525-vtbi5f",
-    "source": "x",
-    "ts": "2026-11-09T20:42:16.525Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-09T20:31:41.000Z",
-    "reason": "No notable move, price is well inside the recent trading range.",
-    "text": "🔥 NEW: Anthropic plans to begin marketing its Nasdaq IPO on Tuesday.",
-    "url": "https://x.com/Cointelegraph/status/2119890691216011571"
-  },
-  {
     "id": "x-1794257551439-riob10",
     "source": "x",
     "ts": "2026-11-09T20:52:31.439Z",
@@ -8030,5 +7991,55 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Digital Credit is built for everyone. $MSTR $STRC",
     "url": "https://x.com/saylor/status/2120580771928842563"
+  },
+  {
+    "id": "x-1794421935175-i2yl24",
+    "source": "x",
+    "ts": "2026-11-11T18:32:15.175Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T18:30:01.000Z",
+    "reason": "Central Bank of Russia allowing crypto exchanges to operate.",
+    "text": "Russia's Central Bank Lets Exchanges Launch Crypto Trading From Nov. 22.\n\nThe Bank of Russia said exchanges may start cryptocurrency trading from Nov. 22 once their trading rules are agreed with it, days after Bitcoin, Ether and USDT open to retail investors on Nov. 17.",
+    "url": "https://x.com/DecryptMedia/status/2120584848108658999",
+    "images": [
+      "https://pbs.twimg.com/media/HW21o5nXQAEC3QB.jpg",
+      "https://pbs.twimg.com/media/HW21rBlWcAAgX6x.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794421937533-66qf30",
+    "source": "x",
+    "ts": "2026-11-11T18:32:17.533Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-11T18:22:30.000Z",
+    "reason": "No notable move or action described.",
+    "text": "Hire Grok @Bot as a colleague and give it your hardest tasks!",
+    "url": "https://x.com/elonmusk/status/2120584535423565889"
+  },
+  {
+    "id": "x-1794421941603-3vzacn",
+    "source": "x",
+    "ts": "2026-11-11T18:32:21.603Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-11T18:22:33.000Z",
+    "reason": "Notable institutional investment and staking event",
+    "text": "Aero’s Momentum Fund scoops up 294K AERO \n\n@aeroxyz's Momentum Fund bought and staked 294K $AERO this week, worth about $164K at today’s price. The fund is the Aero Foundation’s flagship program, built to grow key pools, steady AERO through buybacks, and share staking benefits",
+    "url": "https://x.com/BSCNews/status/2120582972621361317",
+    "images": [
+      "https://pbs.twimg.com/media/HW3RptuWQAANGB9.jpg"
+    ],
+    "video": null
   }
 ]
