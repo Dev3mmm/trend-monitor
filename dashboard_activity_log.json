@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794205987321-w1x259",
-    "source": "x",
-    "ts": "2026-11-09T06:33:07.321Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "CZ 🔶 BNB",
-    "ageMin": 79,
-    "originTimestamp": "2026-11-09T05:14:09.000Z",
-    "reason": "New use of a token for 24/7 market access.",
-    "text": "Tokenized stocks trade 24/7, giving you an edge on news over the weekend.",
-    "url": "https://x.com/cz_binance/status/2119677727855013948",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794205990528-miufa3",
-    "source": "x",
-    "ts": "2026-11-09T06:33:10.528Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 24,
-    "originTimestamp": "2026-11-09T06:08:40.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Pi Network's First Ecosystem Summit Comes With a Prize Pool\n\nPi Network (@PiCoreTeam) $PI will host its first Ecosystem Summit on YouTube on November 17 and 18.\n\nThe event will feature technical demonstrations, product announcements and developer discussions.\n\nFounders Chengdiao",
-    "url": "https://x.com/BSCNews/status/2119673507164680428"
-  },
-  {
     "id": "x-1794207118765-w0xh3r",
     "source": "x",
     "ts": "2026-11-09T06:51:58.765Z",
@@ -7960,6 +7931,37 @@
     "images": [
       "https://pbs.twimg.com/media/HWzg1mcX0AAhGbC.jpg",
       "https://pbs.twimg.com/media/HWzg1zNX0AAo2VT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794358922886-7zj6r0",
+    "source": "x",
+    "ts": "2026-11-11T01:02:02.886Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-11T01:00:48.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "⚡️ BRIAN ARMSTRONG: “The way to combat AI cybersecurity attacks is to use more AI on defense.”",
+    "url": "https://x.com/Cointelegraph/status/2120320807792468075"
+  },
+  {
+    "id": "x-1794358928688-dqnmya",
+    "source": "x",
+    "ts": "2026-11-11T01:02:08.688Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-11T00:54:00.000Z",
+    "reason": "Notable increase in developer commits for NEAR Protocol.",
+    "text": "NEAR Protocol development is growing...\n\nAccording to data from @chainspect_app, @NEARProtocol has seen some 675 developer commits in the past 30 days - up +3.85% in the period.\n\nIt ranks as the #6 most developed network in the period by number of developers, outpaced on that",
+    "url": "https://x.com/BSCNews/status/2120319093836583208",
+    "images": [
+      "https://pbs.twimg.com/media/HWwvf9UWcAAvjuc.jpg"
     ],
     "video": null
   }
