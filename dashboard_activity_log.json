@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1794204282765-eqlxvq",
-    "source": "x",
-    "ts": "2026-11-09T06:04:42.765Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 33,
-    "originTimestamp": "2026-11-09T05:30:45.000Z",
-    "reason": "Notable financial news involving a crypto exchange and a high-value short position.",
-    "text": "🚨 TODAY: A whale opened a 10x short on 30,000 $NVDA, worth about $5.4M, on Hyperliquid after Nvidia CEO Jensen Huang admitted to an affair.",
-    "url": "https://x.com/Cointelegraph/status/2119663964992815195",
-    "images": [
-      "https://pbs.twimg.com/media/HWqPIsIXEAAXpcp.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794205980149-qujuyh",
-    "source": "x",
-    "ts": "2026-11-09T06:33:00.149Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-09T06:30:46.000Z",
-    "reason": "Galaxy’s Alex Thorn mentions a significant technical indicator for Bitcoin, which could be noteworthy.",
-    "text": "🚨 LATEST: Galaxy’s Alex Thorn says Bitcoin has slipped back below its 50-week average, but the last two times this happened after a bear bottom, prices never set a new low.",
-    "url": "https://x.com/Cointelegraph/status/2119679067376988498",
-    "images": [
-      "https://pbs.twimg.com/media/HWqc38MXEAAwOHH.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794205983329-h8royo",
     "source": "x",
     "ts": "2026-11-09T06:33:03.329Z",
@@ -7960,5 +7924,37 @@
     "reason": "No notable move, price is well within the recent range.",
     "text": "$ICP rises 6.4% in 24 hours to $2.55.\n\nICP price and news:",
     "url": "https://x.com/BSCNews/status/2120309355467940144"
+  },
+  {
+    "id": "x-1794357129633-8ckavf",
+    "source": "x",
+    "ts": "2026-11-11T00:32:09.633Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-11T00:30:46.000Z",
+    "reason": "Notable regulatory move involving a major tech company.",
+    "text": "🚨 NOW: Nvidia’s independent board members tap former acting SDNY U.S. Attorney Joon Kim and law firm Wachtell Lipton to lead the probe announced Sunday.",
+    "url": "https://x.com/Cointelegraph/status/2120313246615785887",
+    "images": [
+      "https://pbs.twimg.com/media/HWzdp1CWEAAcqlZ.jpg",
+      "https://pbs.twimg.com/media/HWzdqNqWoAA6rqD.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794357133488-7koipn",
+    "source": "x",
+    "ts": "2026-11-11T00:32:13.488Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T00:30:00.000Z",
+    "reason": "No notable crypto-related news in the provided tweet.",
+    "text": "US Household Debt Rises $334 Billion to $19.1 Trillion in Third Quarter.\n\nThe New York Fed said Tuesday household debt rose 1.8% in the third quarter, with mortgages up $257 billion, 5.0% of debt delinquent, and the HELOC increase the largest since 2005.",
+    "url": "https://x.com/DecryptMedia/status/2120313055238393952"
   }
 ]
