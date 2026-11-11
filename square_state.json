@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793089968755-mpwz9f",
     "x-1793091131371-e9acdn",
     "x-1793091722420-2bb2ml",
     "x-1793092332024-h9s86n",
@@ -1999,19 +1998,10 @@
     "x-1794420190144-ucoa7g",
     "x-1794420709874-2n70n3",
     "x-1794421935175-i2yl24",
-    "x-1794421941603-3vzacn"
+    "x-1794421941603-3vzacn",
+    "x-1794422552364-jzq208"
   ],
   "queue": [
-    {
-      "text": "🔥 BIG: Strategy holds more Bitcoin than any ETF or government, with 850,364 $BTC, or 4.2% of circulating supply.",
-      "url": "https://x.com/Cointelegraph/status/2120557357339951512",
-      "images": [
-        "https://pbs.twimg.com/media/HW27rFLWEAAU-P_.jpg",
-        "https://pbs.twimg.com/media/HW27rZWXsAAfCWE.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794417533313
-    },
     {
       "text": "🔥 NEW: Pyth Network has added real-time NYSE stock and ETF data to its marketplace, giving applications access to live market data from both NYSE and Nasdaq.",
       "url": "https://x.com/Cointelegraph/status/2120554893106630708",
@@ -2072,19 +2062,18 @@
       ],
       "video": null,
       "enqueuedAt": 1794421943022
+    },
+    {
+      "text": "🔥 BIG: Base hits $5B in DEX volume for tokenized stocks and says the tally keeps counting.",
+      "url": "https://x.com/Cointelegraph/status/2120587534891630894",
+      "images": [
+        "https://pbs.twimg.com/media/HW3XH8rWYAE9OSw.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794422561595
     }
   ],
   "posted": [
-    {
-      "text": "🚨 BIG: Solana's tokenized equities supply reaches a new all-time record high of $1.28B.",
-      "final": "🚨 BIG: Solana's tokenized equities supply reaches a new all-time record high of $1.28B.\n\n#Solana $SOL",
-      "images": [
-        "https://pbs.twimg.com/media/HWsFvV1aYAArZ5i.jpg"
-      ],
-      "at": 1794249714614,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/386492502746234?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "JUST IN: 🇺🇸 Public company Super League Enterprise bought 16 BTC for worth $1.2 million for its treasury during this dip! 🚀",
       "final": "JUST IN: 🇺🇸 Public company Super League Enterprise bought 16 BTC for worth $1.2 million for its treasury during this dip! 🚀\n\n#Bitcoin $BTC",
@@ -2712,7 +2701,17 @@
       "at": 1794420710459,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/387192918392076?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 BIG: Strategy holds more Bitcoin than any ETF or government, with 850,364 $BTC, or 4.2% of circulating supply.",
+      "final": "🔥 BIG: Strategy holds more Bitcoin than any ETF or government, with 850,364 $BTC, or 4.2% of circulating supply.\n\n#Bitcoin $BTC #ETF",
+      "images": [
+        "https://pbs.twimg.com/media/HW27rFLWEAAU-P_.jpg",
+        "https://pbs.twimg.com/media/HW27rZWXsAAfCWE.jpg"
+      ],
+      "at": 1794422561595,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794420710459
+  "lastPostAt": 1794422561595
 }
