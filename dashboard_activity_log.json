@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1794253345220-vtycy4",
-    "source": "x",
-    "ts": "2026-11-09T19:42:25.220Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-09T19:37:15.000Z",
-    "reason": "Notable hack involving high-profile crypto assets and celebrities.",
-    "text": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-    "url": "https://x.com/DecryptMedia/status/2119876993730720018",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794253348538-56yd7a",
     "source": "x",
     "ts": "2026-11-09T19:42:28.538Z",
@@ -8029,5 +8013,26 @@
       "https://pbs.twimg.com/media/HW3HY9zXkAAjNhW.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794419728810-7t11r4",
+    "source": "x",
+    "ts": "2026-11-11T17:55:28.810Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T17:53:11.000Z",
+    "reason": "Specific institutional adoption and new trading feature launch.",
+    "text": "Read the news, trade the news: Decrypt is now the first news publisher with perps trading, powered by @PhoenixTrade on @solana.\n\nWe sat down with Phoenix's @ethtwit to talk on-chain perps, Decrypt's new Information Exchange, and why he's shorting Anthropic.\n\n01:14 - Trading on",
+    "url": "https://x.com/DecryptMedia/status/2120575580026663084",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2120574342245363712/vid/avc1/1280x720/ZX0jNn4FjxQp0RAM.mp4?tag=29",
+      "duration": 687,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120574342245363712/img/-wjmH4ulIdNfL5xH.jpg"
+    }
   }
 ]
