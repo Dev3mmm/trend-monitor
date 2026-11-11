@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794228124006-depbwn",
-    "source": "x",
-    "ts": "2026-11-09T12:42:04.006Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 102,
-    "originTimestamp": "2026-11-09T11:00:03.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Big year for the digital silver! ⚡\n\n$LTC hit a historic transaction milestone, and @litecoin kept stacking records after it.\n\nRead it here:",
-    "url": "https://x.com/BSCNews/status/2119771055988334818",
-    "images": [
-      "https://pbs.twimg.com/media/HWm6lloWQAENsx5.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794228442127-nezgsq",
-    "source": "x",
-    "ts": "2026-11-09T12:47:22.127Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T12:43:38.000Z",
-    "reason": "Tweet appears to be in a language other than English and contains a Kisii proverb without additional relevant information.",
-    "text": "Binto mbiang'ora, nsagasaga biangete.\n\n— Kisii proverb.",
-    "url": "https://x.com/amerix/status/2119772904753606799"
-  },
-  {
-    "id": "x-1794228446368-r5rvc0",
-    "source": "x",
-    "ts": "2026-11-09T12:47:26.368Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-09T12:43:00.000Z",
-    "reason": "Notable DeFi DEX adoption on a new blockchain protocol.",
-    "text": "ICPSwap is driving DeFi on the Internet Computer Protocol \n\n@ICPSwap is still the major DEX on the Internet Computer Protocol (@dfinity). \n\nAs reported by DeFiLlama, the protocol accounts for about $3.2m to $3.3m of the blockchain's total $7.5m to $7.7m in DeFi TVL and captures",
-    "url": "https://x.com/BSCNews/status/2119772743961092386",
-    "images": [
-      "https://pbs.twimg.com/media/HWrvri2WAAAGm-A.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794228763048-adjyjg",
     "source": "x",
     "ts": "2026-11-09T12:52:43.048Z",
@@ -7978,5 +7929,61 @@
     "reason": "No notable move or specific event, price is within the recent range.",
     "text": "🔥 BULLISH: Trump is still interested in buying Bitcoin for the US Strategic Bitcoin Reserve, ex-White House crypto adviser Patrick Witt told What Bitcoin Did.\n\nHow much BTC do you think it’ll add to the reserve?",
     "url": "https://x.com/Cointelegraph/status/2120446613382480242"
+  },
+  {
+    "id": "x-1794390148109-u6cjyz",
+    "source": "x",
+    "ts": "2026-11-11T09:42:28.109Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-11T09:40:43.000Z",
+    "reason": "Notable price movement and institutional involvement.",
+    "text": "🚨 LATEST: FTX’s former Anthropic stake would be worth over $30B at the AI company’s proposed IPO price.\n\nFTX’s bankruptcy estate sold the stake for $1.34B in 2024.",
+    "url": "https://x.com/Cointelegraph/status/2120451647541309649",
+    "images": [
+      "https://pbs.twimg.com/media/HW1biARXoAAlXta.jpg",
+      "https://pbs.twimg.com/media/HW1biSvXQAAkAN2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794390152012-vhpw93",
+    "source": "x",
+    "ts": "2026-11-11T09:42:32.012Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T09:40:00.000Z",
+    "reason": "Notable insider trading news involving a major crypto figure.",
+    "text": "JUST IN: Ripple ex-CTO David Schwartz says he SOLD nearly ALL his crypto because he is uncomfortable with risk.\n\nHis holdings fell from:\n\n- 26M to 3M $XRP\n- 1,500 to 1 $BTC\n- 40,000 to 6 ethereum:native \n\nWhen he sold and how much he made remain unclear, with only select sale",
+    "url": "https://x.com/coinbureau/status/2120451466561548547",
+    "images": [
+      "https://pbs.twimg.com/media/HW1WegHaYAA9TE-.jpg",
+      "https://pbs.twimg.com/media/HW1Wjn2boAA3XFe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794390155533-gz9pss",
+    "source": "x",
+    "ts": "2026-11-11T09:42:35.533Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-11T09:37:08.000Z",
+    "reason": "Stablecoin demand expected to rise due to banking disruptions.",
+    "text": "Japan's Banking Troubles Could Give Yen Stablecoin a Boost\n\nJPYC CEO Noritaka Okabe (@noritaka_okabe) expects demand for the yen-pegged stablecoin to rise as banks face service disruptions.\n\nHis comments follow GMO Aozora Net Bank's suspension of certain banking API services. The",
+    "url": "https://x.com/BSCNews/status/2120450747775201432",
+    "images": [
+      "https://pbs.twimg.com/media/HW1RkwvbgAAZcYy.png"
+    ],
+    "video": null
   }
 ]
