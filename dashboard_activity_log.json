@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794255765877-ra6nv0",
-    "source": "x",
-    "ts": "2026-11-09T20:22:45.877Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-09T20:17:15.000Z",
-    "reason": "Tweet is unrelated to cryptocurrencies and blockchain technology.",
-    "text": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
-    "url": "https://x.com/DecryptMedia/status/2119887059364000198"
-  },
-  {
-    "id": "x-1794255770425-9et3az",
-    "source": "x",
-    "ts": "2026-11-09T20:22:50.425Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-09T20:16:00.000Z",
-    "reason": "Notable institutional adoption and tokenization of dividend stocks.",
-    "text": "Japan’s dividend stocks reach Bybit users through Plume\n\nSBI Asset Management’s high-dividend equity strategy for Japan went live today on @Bybit_Official as JPE, tokenized by @DigiFTTech and running on @plumenetwork. \n\nUsers subscribe in USDC through Bybit RWA Earn, which opened",
-    "url": "https://x.com/BSCNews/status/2119886745089237225",
-    "images": [
-      "https://pbs.twimg.com/media/HWtQoMHXEAAUn3Q.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794256929836-u572db",
     "source": "x",
     "ts": "2026-11-09T20:42:09.836Z",
@@ -8035,5 +8004,31 @@
       "https://pbs.twimg.com/media/HW3QBxFXoAEfImq.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794421324013-tjofb9",
+    "source": "x",
+    "ts": "2026-11-11T18:22:04.013Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-11T18:20:42.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "⚡️ UPDATE: Elon Musk says Tesla will extend Cybertruck production through the end of summer 2027 to work through its order backlog.",
+    "url": "https://x.com/Cointelegraph/status/2120582505514381732"
+  },
+  {
+    "id": "x-1794421327973-h3y733",
+    "source": "x",
+    "ts": "2026-11-11T18:22:07.973Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 16,
+    "originTimestamp": "2026-11-11T18:05:25.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Digital Credit is built for everyone. $MSTR $STRC",
+    "url": "https://x.com/saylor/status/2120580771928842563"
   }
 ]
