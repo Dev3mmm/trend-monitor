@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794261737656-ur9nwt",
-    "source": "x",
-    "ts": "2026-11-09T22:02:17.656Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-09T21:58:39.000Z",
-    "reason": "No notable crypto-related content or move mentioned.",
-    "text": "美国众议院少数党领袖哈基姆·杰弗里斯对记者表示，民主党“无论如何都会结束在伊朗的战争”。\n\n杰弗里斯有望在 1 月成为下一任众议院议长。\n\n一个 @Gate ，交易更多市场",
-    "url": "https://x.com/PhyrexNi/status/2119912898739028174"
-  },
-  {
-    "id": "x-1794261743072-hplbci",
-    "source": "x",
-    "ts": "2026-11-09T22:02:23.072Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-09T21:52:18.000Z",
-    "reason": "Noise: generic opinion without factual claim.",
-    "text": "川普的回应也稍微软化了一些，美国和伊朗都在开始找台阶下了，但目前美国对伊朗的封锁还在进行，想来美国是希望伊朗先服软，可能并不是很容易，但目前能明显看到美国和伊朗的关系在逐渐缓解。\n\n短期来说打仗的概率不大了，但只要美国一天还在封锁，霍尔木兹可能还是不会 100% 太平。",
-    "url": "https://x.com/PhyrexNi/status/2119912580059889813"
-  },
-  {
-    "id": "x-1794261747769-wbmiyg",
-    "source": "x",
-    "ts": "2026-11-09T22:02:27.769Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 109,
-    "originTimestamp": "2026-11-09T20:12:07.000Z",
-    "reason": "No notable move in ETH price within its recent range.",
-    "text": "Tesla VP of Vehicle Engineering Lars Moravy just put Tesla's extraordinary manufacturing scale into perspective during his conversation with Jay Leno\n\n“You know, a lot of people don't realize that Tesla is the largest selling luxury vehicle in the world now”\n\nAnd the numbers",
-    "url": "https://x.com/elonmusk/status/2119912356377694591"
-  },
-  {
     "id": "x-1794261752253-clpjy9",
     "source": "x",
     "ts": "2026-11-09T22:02:32.253Z",
@@ -8019,5 +7980,58 @@
       "https://pbs.twimg.com/media/HW3hOh7WQAE5wJZ.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794427362464-93l6zb",
+    "source": "x",
+    "ts": "2026-11-11T20:02:42.464Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-11T20:00:00.000Z",
+    "reason": "CFTC probe into Kalshi's contract filings is noteworthy regulatory news.",
+    "text": "Kalshi Confirms CFTC Probe Into Its Contract Filings, Calls It a \"Procedural Error.\"\n\nKalshi told CNBC the regulator is investigating whether it properly notified the agency of proposed event contracts and flagged weather-related ones, after Politico reported Tuesday that charges",
+    "url": "https://x.com/DecryptMedia/status/2120607494124773845",
+    "images": [
+      "https://pbs.twimg.com/media/HW3NMouXwAA-vfT.png",
+      "https://pbs.twimg.com/media/HW3NPUMWQAEysO2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794427366606-x0b6fy",
+    "source": "x",
+    "ts": "2026-11-11T20:02:46.606Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-11T19:59:40.000Z",
+    "reason": "Meme without crypto or blockchain relevance.",
+    "text": "🤖 INTERESTING: AI agents now account for the majority of web traffic, write over half of online articles, and generate most production code, according to a16z.",
+    "url": "https://x.com/Cointelegraph/status/2120607413355028747"
+  },
+  {
+    "id": "x-1794427372952-hvhcrg",
+    "source": "x",
+    "ts": "2026-11-11T20:02:52.952Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 45,
+    "originTimestamp": "2026-11-11T19:17:17.000Z",
+    "reason": "Breakthrough news on tokenized securities, with regulatory and industry reactions.",
+    "text": "News update: Wall Street never sleeps now 🚨\n\nOKX (@okx) and ICE plan a 24/7 onchain venue for tokenised US stocks and ETFs, but 67 issuers are pushing back. The video explains who is in and who is objecting.\n\nHere's the breakdown ⬇️\n\nFull story:",
+    "url": "https://x.com/BSCNews/status/2120607179006943295",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2120596693141831680/vid/avc1/1280x720/ApvxWsuD18RneVc8.mp4?tag=29",
+      "duration": 191,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120596693141831680/img/x4zIvZdFU-GIyfGq.jpg"
+    }
   }
 ]
