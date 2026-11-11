@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793029941672-nchqs4",
     "x-1793030540218-2nnqzx",
     "x-1793031807331-e5fw11",
     "x-1793031816409-aq8k63",
@@ -1999,27 +1998,10 @@
     "x-1794351119561-ip50h1",
     "x-1794352911664-t7zkeo",
     "x-1794353521457-1xvkjk",
-    "x-1794354767603-ftatu4"
+    "x-1794354767603-ftatu4",
+    "x-1794355345639-08muyh"
   ],
   "queue": [
-    {
-      "text": "🇧🇷 UPDATE: Brazilian crypto exchange Mercado Bitcoin plans to resume fiat deposits and withdrawals via Pix next week following a $49 million hack, while crypto transfers remain suspended.",
-      "url": "https://x.com/Cointelegraph/status/2120260416265699515",
-      "images": [
-        "https://pbs.twimg.com/media/HWytnK3W8AAhR3k.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794344537341
-    },
-    {
-      "text": "🚨 BIG: SoftBank reported a $7.1 billion quarterly loss, including $3.7 billion in charges related to AI data-center power equipment. \n\nIts stock has fallen more than 50% from its June peak.",
-      "url": "https://x.com/Cointelegraph/status/2120265410587066617",
-      "images": [
-        "https://pbs.twimg.com/media/HWyyJ4dWsAA7evS.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794345713326
-    },
     {
       "text": "🚨 INSIGHT: Ledger CEO Pascal Gauthier warned that “everybody will be hacked at some point” following Binance’s $6.3 billion hack.",
       "url": "https://x.com/Cointelegraph/status/2120267944756175190",
@@ -2087,6 +2069,15 @@
       ],
       "video": null,
       "enqueuedAt": 1794349931094
+    },
+    {
+      "text": "🚨 LATEST: Robinhood offers $16.5M to settle a class action over claims it paid customers too little interest on uninvested cash, per Bloomberg.",
+      "url": "https://x.com/Cointelegraph/status/2120305700274360497",
+      "images": [
+        "https://pbs.twimg.com/media/HWzWzCkXIAIpdcF.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794355346331
     }
   ],
   "posted": [
@@ -2735,7 +2726,16 @@
       "at": 1794324888184,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/386800459957000?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 BIG: SoftBank reported a $7.1 billion quarterly loss, including $3.7 billion in charges related to AI data-center power equipment. \n\nIts stock has fallen more than 50% from its June peak.",
+      "final": "🚨 BIG: SoftBank reported a $7.1 billion quarterly loss, including $3.7 billion in charges related to AI data-center power equipment. \n\nIts stock has fallen more than 50% from its June peak.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HWyyJ4dWsAA7evS.jpg"
+      ],
+      "at": 1794355346331,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794324888184
+  "lastPostAt": 1794355346331
 }
