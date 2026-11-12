@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1794320506440-xy8g6r",
-    "source": "x",
-    "ts": "2026-11-10T14:21:46.440Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-10T14:16:38.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "₿aby Bear gets it.",
-    "url": "https://x.com/saylor/status/2120158698278682752"
-  },
-  {
-    "id": "x-1794321120937-d51khi",
-    "source": "x",
-    "ts": "2026-11-10T14:32:00.937Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-10T14:25:47.000Z",
-    "reason": "Explicit mention of price movement in crypto markets.",
-    "text": "BREAKING: Markets fall after US inflation comes in HIGHER than expected.\n\nBitcoin -2.3%\nNasdaq 100 futures -1.52%\nS&amp;P 500 futures -0.86%\nGold -2.4%",
-    "url": "https://x.com/coinbureau/status/2120160999403893009",
-    "images": [
-      "https://pbs.twimg.com/media/HWxR-5xbAAI-bdd.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794321123032-wogij3",
-    "source": "x",
-    "ts": "2026-11-10T14:32:03.032Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-10T14:24:29.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Most crypto projects are competing for attention. $FLIP is focused on solving a real problem for millions of crypto users.\n\nTheir vision goes beyond simple conversions, aiming to bridge crypto and traditional finance through seamless money movement.\n\nReal-world utility. Expanding",
-    "url": "https://x.com/BSCNews/status/2120160671706878036"
-  },
-  {
-    "id": "x-1794321125438-6vufsc",
-    "source": "x",
-    "ts": "2026-11-10T14:32:05.438Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 49,
-    "originTimestamp": "2026-11-10T13:42:33.000Z",
-    "reason": "Tweet appears to be unrelated crypto content and seems to be in a different language.",
-    "text": "@amerix Today few minutes before I logged out, I  went  to the washroom to ease  myself and this is what I saw . Alaf huyu ndie mtu utaoa",
-    "url": "https://x.com/amerix/status/2120159999942877635"
-  },
-  {
     "id": "x-1794321749268-lyxhnr",
     "source": "x",
     "ts": "2026-11-10T14:42:29.268Z",
@@ -8061,5 +8004,74 @@
       "https://pbs.twimg.com/media/HW7eqW6boAAIxhG.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794492729797-ubi4yb",
+    "source": "x",
+    "ts": "2026-11-12T14:12:09.797Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-12T14:08:38.000Z",
+    "reason": "Notable price move for a high-profile company (NVIDIA) in crypto-focused premarket trading.",
+    "text": "🚨 JUST IN: NVIDIA shares plunge 10.57% to $155.37 in premarket trading following CEO Jensen Huang's resignation.",
+    "url": "https://x.com/Cointelegraph/status/2120881458248069224",
+    "images": [
+      "https://pbs.twimg.com/media/HW7icRRXAAAtOzc.png",
+      "https://pbs.twimg.com/media/HW7icfOWAAAqa-X.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794492733094-9tki3f",
+    "source": "x",
+    "ts": "2026-11-12T14:12:13.094Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-12T14:05:29.000Z",
+    "reason": "Specific institutional adoption of a stablecoin.",
+    "text": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+    "url": "https://x.com/DecryptMedia/status/2120880665470075269",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794492737995-bly49y",
+    "source": "x",
+    "ts": "2026-11-12T14:12:17.995Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-12T14:04:25.000Z",
+    "reason": "Tokenization concept explained by expert, potential disruption in financial intermediaries.",
+    "text": "🔥 LONGITUDE: Tokenization could cut out some financial intermediaries and give users 24/7 trading and instant stablecoin settlement. But some incumbents will fight to keep their role.\n\n@sgoldfed of @Offchain Labs explains.\n\nJoin us on the next LONGITUDE:",
+    "url": "https://x.com/Cointelegraph/status/2120880395977699640",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2120880317439389696/vid/avc1/1280x720/WzLxK05o0vIrv0Zy.mp4?tag=16",
+      "duration": 69,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120880317439389696/img/VaKwJc4V6FM-Ye9H.jpg"
+    }
+  },
+  {
+    "id": "x-1794492741303-3xt43e",
+    "source": "x",
+    "ts": "2026-11-12T14:12:21.303Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-12T14:04:16.000Z",
+    "reason": "No notable move or event described.",
+    "text": "From idea to execution with Binance AI Pro:\n\n→ Describe your strategy in plain language\n→ Backtest it and try it on paper\n→ Approve it and let it run 24/7\n\nYou decide when it goes live. \n\nMore info 👉",
+    "url": "https://x.com/binance/status/2120880359277478161"
   }
 ]
