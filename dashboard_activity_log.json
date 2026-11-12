@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794310997826-x00gsc",
-    "source": "x",
-    "ts": "2026-11-10T11:43:17.826Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-10T11:34:55.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "ZachXBT Questions FinCEN’s $16B MEXC Allegation, Raises Concerns Over Regulatory Overreach\n\nOnchain investigator ZachXBT argued that hundreds of millions or even billions of dollars in illicit activity could also be identified at other major exchanges, raising concerns about",
-    "url": "https://x.com/WuBlockchain/status/2120117997541187750"
-  },
-  {
-    "id": "x-1794311525931-zsvf2q",
-    "source": "x",
-    "ts": "2026-11-10T11:52:05.931Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-10T11:44:38.000Z",
-    "reason": "Inflation data release is generally expected news and not a breaking event.",
-    "text": "TODAY: One LAST CPI to cue a year-end RALLY or a SELL OFF.\n\nThe last CPI report before the Fed’s December meeting will be out in a few hours.\n\nThere will be no official YoY reading, as the 2025 shutdown left a gap in last October’s data.\n\nSo all eyes are on the MONTHLY numbers.",
-    "url": "https://x.com/coinbureau/status/2120120442669375642"
-  },
-  {
-    "id": "x-1794311527960-ws2dbw",
-    "source": "x",
-    "ts": "2026-11-10T11:52:07.960Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-10T11:44:32.000Z",
-    "reason": "No notable move in the given context.",
-    "text": "Aster Grid Now Lets Traders Open Positions Instantly\n\nAster DEX (@Aster_DEX) has rolled out instant position opening as part of the Aster Grid trading engine. \n\nThis works alongside order accumulation for passive trading on both desktop and mobile platforms.\n\nTraders can now",
-    "url": "https://x.com/BSCNews/status/2120120420430971384"
-  },
-  {
     "id": "x-1794312280069-ucwvuq",
     "source": "x",
     "ts": "2026-11-10T12:04:40.069Z",
@@ -8055,5 +8016,58 @@
     "reason": "No notable move in crypto markets mentioned.",
     "text": "🇮🇳 🇹🇼 UPDATE: India overtakes Taiwan to reclaim its spot as the world’s fifth-largest stock market.",
     "url": "https://x.com/Cointelegraph/status/2120834314686308403"
+  },
+  {
+    "id": "x-1794483165148-x4tv5w",
+    "source": "x",
+    "ts": "2026-11-12T11:32:45.148Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-12T11:25:30.000Z",
+    "reason": "Specific and significant fund flow related to Bitcoin ETFs",
+    "text": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+    "url": "https://x.com/DecryptMedia/status/2120840404601885141",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794483170686-fbt367",
+    "source": "x",
+    "ts": "2026-11-12T11:32:50.686Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-12T11:23:48.000Z",
+    "reason": "On-chain data point with significant transaction volume increase.",
+    "text": "ICP Just Processed 5 Billion Transactions in Under Two Weeks!\n\nThe Internet Computer (@dfinity) reported a 13-day record, processing more than 400 million transactions per day.\n\nThis brought its total transaction count to over 5.2 billion transactions during the period.",
+    "url": "https://x.com/BSCNews/status/2120839978804548004",
+    "images": [
+      "https://pbs.twimg.com/media/HW68qJDWUAAWpWa.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794483175614-j5rq2g",
+    "source": "x",
+    "ts": "2026-11-12T11:32:55.614Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-12T11:21:58.000Z",
+    "reason": "Data leak involving employee records linked to cryptocurrency",
+    "text": "🇹🇼 LATEST: Chipmaker giant TSMC confirmed an employee data leak linked to a cloud provider. A seller reportedly asked 3 BTC for 46,000 alleged employee records.\n\nTSMC found no evidence of an internal breach.",
+    "url": "https://x.com/Cointelegraph/status/2120839515887550684",
+    "images": [
+      "https://pbs.twimg.com/media/HW68S7cW4AAAJ9a.jpg",
+      "https://pbs.twimg.com/media/HW68TImXQAAgeyj.jpg"
+    ],
+    "video": null
   }
 ]
