@@ -1,66 +1,5 @@
 [
   {
-    "id": "x-1794341782198-axkgqj",
-    "source": "x",
-    "ts": "2026-11-10T20:16:22.198Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-10T20:03:14.000Z",
-    "reason": "Notable institutional adoption of Bitcoin by a major financial institution.",
-    "text": "JUST IN: 🇺🇸 Jack Dorsey's Square has officially enabled Bitcoin payment acceptance for ~4 million merchants across the United States! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2120245921128628521",
-    "images": [
-      "https://pbs.twimg.com/media/HWyfnNPWkAAZZEg.png",
-      "https://pbs.twimg.com/media/HWyfnm2WwAA_rUR.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794342143726-zxjnvb",
-    "source": "x",
-    "ts": "2026-11-10T20:22:23.726Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-10T20:20:42.000Z",
-    "reason": "No notable crypto-related event.",
-    "text": "🚨 ALERT: NVIDIA shares plunge 7.06%, hitting a new session low.",
-    "url": "https://x.com/Cointelegraph/status/2120250318294253713"
-  },
-  {
-    "id": "x-1794342148212-xxzflv",
-    "source": "x",
-    "ts": "2026-11-10T20:22:28.212Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-10T20:17:15.000Z",
-    "reason": "Exposes sensitive user data and AI agent details.",
-    "text": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-    "url": "https://x.com/DecryptMedia/status/2120249448018112807",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794342152868-2hpxkk",
-    "source": "x",
-    "ts": "2026-11-10T20:22:32.868Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 42,
-    "originTimestamp": "2026-11-10T19:40:13.000Z",
-    "reason": "Vague opinion without factual claim",
-    "text": "JACK MALLERS: \"Gold is stuck in the ground. Bitcoin is stuck in the future.\" ⚡\n\nJack took the stage in Amsterdam to rediscover Bitcoin through Satoshi's white paper, and he breaks down how money, time, energy, and information combine to create the hardest money ever made.",
-    "url": "https://x.com/BitcoinMagazine/status/2120249314597580908"
-  },
-  {
     "id": "x-1794342158742-i6sqta",
     "source": "x",
     "ts": "2026-11-10T20:22:38.742Z",
@@ -8024,5 +7963,57 @@
     "url": "https://x.com/BSCNews/status/2120948379220083039",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794509508859-9rh73y",
+    "source": "x",
+    "ts": "2026-11-12T18:51:48.859Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T18:50:41.000Z",
+    "reason": "No notable move in cryptocurrency prices as the tweet only mentions mortgage rates.",
+    "text": "🇺🇸 MARKET: US 30-year fixed mortgage rates fall to 7.11% for a fourth straight week.",
+    "url": "https://x.com/Cointelegraph/status/2120952436898594887"
+  },
+  {
+    "id": "x-1794509511060-loxjdn",
+    "source": "x",
+    "ts": "2026-11-12T18:51:51.060Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-12T18:49:00.000Z",
+    "reason": "No notable crypto-related news or significant price movement mentioned.",
+    "text": "Jensen Huang quits Nvidia, but Warren says Congress still wants answers\n\nJensen Huang resigned as CEO of @nvidia $NVDA today amid reports linking him to a suspected Chinese spy, and finance chief Colette Kress takes over for now. Senator @SenWarren said the exit “does not absolve",
+    "url": "https://x.com/BSCNews/status/2120952014557385170"
+  },
+  {
+    "id": "x-1794509513058-r0619p",
+    "source": "x",
+    "ts": "2026-11-12T18:51:53.058Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 36,
+    "originTimestamp": "2026-11-12T18:15:57.000Z",
+    "reason": "No notable move in crypto prices or events.",
+    "text": "Trump Also Threatened to Immediately Double Tariffs on Mexico.\n\nWriting on Truth Social at 7:04 AM EST (12:04 UTC), President Trump said Mexico must stop migrant caravans \"NOW,\" or \"the Tariffs on Mexico will be IMMEDIATELY DOUBLED.\"",
+    "url": "https://x.com/DecryptMedia/status/2120951007525953822"
+  },
+  {
+    "id": "x-1794509514554-q8pvp4",
+    "source": "x",
+    "ts": "2026-11-12T18:51:54.554Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-12T18:42:28.000Z",
+    "reason": "Memes and irrelevant content.",
+    "text": "Beautiful.\n\nA productive and responsible son is the pride of his parents.\n\nWell done.",
+    "url": "https://x.com/amerix/status/2120950372508295434"
   }
 ]
