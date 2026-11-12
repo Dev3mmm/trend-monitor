@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794325319179-52nsq3",
-    "source": "x",
-    "ts": "2026-11-10T15:41:59.179Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-10T15:41:23.000Z",
-    "reason": "Generic promotional content without a significant move or news value.",
-    "text": "New to Coinbase?\n\nGood news. You can earn 10% APY rewards.\n\nWe made you a list to get started:\n\nStep 1: Deposit as little as $1 in USDC before December 3\nStep 2: Start your free 30-day Coinbase One trial\nStep 3: Earn 10% APY rewards on up to $100K for the first month\n\nEasy.",
-    "url": "https://x.com/coinbase/status/2120180023692873819"
-  },
-  {
-    "id": "x-1794325320933-ikaqw8",
-    "source": "x",
-    "ts": "2026-11-10T15:42:00.933Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-10T15:40:42.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🔥 BULLISH: Goldman Sachs expects Anthropic’s revenue to exceed $600 billion by 2030, according to the Financial Times.",
-    "url": "https://x.com/Cointelegraph/status/2120179853118914837"
-  },
-  {
     "id": "x-1794325323703-73m2ju",
     "source": "x",
     "ts": "2026-11-10T15:42:03.703Z",
@@ -8058,5 +8032,39 @@
     "reason": "No notable crypto-related event, mostly a general finance news about Nvidia.",
     "text": "🚨MASSIVE: Roughly $930,000,000,000 got erased from Nvidia’s market value since Friday’s close, after Jensen Huang's affair scandal broke on Saturday.\n\nThat’s almost $1 TRILLION in just FOUR trading days.\n\nRoughly $310 BILLION was lost Monday through Wednesday. \n\nAnother",
     "url": "https://x.com/coinbureau/status/2120890267641475326"
+  },
+  {
+    "id": "x-1794495828908-1saicx",
+    "source": "x",
+    "ts": "2026-11-12T15:03:48.908Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-12T15:02:54.000Z",
+    "reason": "MSCI's actions can have ripple effects on crypto investments.",
+    "text": "Jensen’s Out, MSCI Kicks Out Saylor, Crypto Slides and Trenches",
+    "url": "https://x.com/DecryptMedia/status/2120895116256682233",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794495834404-9gus6f",
+    "source": "x",
+    "ts": "2026-11-12T15:03:54.404Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-12T15:00:02.000Z",
+    "reason": "New use of a token/launches investing platform without requiring existing brokerage account.",
+    "text": "🔥 LATEST: @glider__ launches its new investing platform on November 12.\n\nThe platform combines tokenized US equities, professional investment strategies, and automated portfolios in a brokerage-like experience, without requiring users to connect an existing brokerage account.",
+    "url": "https://x.com/Cointelegraph/status/2120894394811261155",
+    "images": [
+      "https://pbs.twimg.com/media/HW7qr--bcAE3iqK.jpg"
+    ],
+    "video": null
   }
 ]
