@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794319487631-hkljbv",
-    "source": "x",
-    "ts": "2026-11-10T14:04:47.631Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-10T14:03:03.000Z",
-    "reason": "Innovative approach to secure cryptocurrency access even if a phone is lost.",
-    "text": "🚨 LATEST: If you lost your phone today, could you still access your crypto?\n\n@ngrave_official ZERO keeps private keys offline and signs transactions on the device. It transfers transaction data via QR codes without USB, Bluetooth or Wi-Fi.",
-    "url": "https://x.com/Cointelegraph/status/2120155275957285195",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120155175390441472/vid/avc1/1280x720/tn2euhWHobcSfSAM.mp4?tag=29",
-      "duration": 40,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120155175390441472/img/3MMqSZZjc1Vd1xq9.jpg"
-    }
-  },
-  {
-    "id": "x-1794319490952-5h6a5d",
-    "source": "x",
-    "ts": "2026-11-10T14:04:50.952Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T14:02:39.000Z",
-    "reason": "US inflation expected higher leads to market falls",
-    "text": "BREAKING: Markets fall after US inflation comes in higher than expected.\n\nBitcoin -2.32%\nNasdaq 100 futures -1.5%\nS&amp;P 500 futures -0.8%\nGold -2.44%",
-    "url": "https://x.com/coinbureau/status/2120155179131756943",
-    "images": [
-      "https://pbs.twimg.com/media/HWxN49zaMAA1UVU.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794319494818-1o1ou3",
     "source": "x",
     "ts": "2026-11-10T14:04:54.818Z",
@@ -8061,5 +8022,31 @@
     "url": "https://x.com/DecryptMedia/status/2120870983384928649",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794490925344-rt2uuu",
+    "source": "x",
+    "ts": "2026-11-12T13:42:05.344Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T13:41:01.000Z",
+    "reason": "No notable move, price is well outside the recent trading range.",
+    "text": "🔥 JUST IN: $114T+ custodian DTCC to bring its tokenization service to Solana in the second half of 2027.",
+    "url": "https://x.com/Cointelegraph/status/2120874509376848363"
+  },
+  {
+    "id": "x-1794490929262-efs7su",
+    "source": "x",
+    "ts": "2026-11-12T13:42:09.262Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-12T13:36:05.000Z",
+    "reason": "No notable crypto news related to the tweet content.",
+    "text": "ALERT: Oil futures JUMPED up to 3% in the past hour as Trump says, “We don’t need a deal with Iran.”\n\n🔺WTI: +2.85% to $87.70\n🔺Brent:  +3% to $94.40\n\n“Those days have long since passed. We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait!” he",
+    "url": "https://x.com/coinbureau/status/2120873265241657549"
   }
 ]
