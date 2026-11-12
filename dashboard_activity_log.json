@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1794315397139-eqdrhs",
-    "source": "x",
-    "ts": "2026-11-10T12:56:37.139Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-10T12:46:45.000Z",
-    "reason": "Specific and notable security warning related to crypto wallets.",
-    "text": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-    "url": "https://x.com/DecryptMedia/status/2120136075389604060",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794315715353-pxp61u",
-    "source": "x",
-    "ts": "2026-11-10T13:01:55.353Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T13:00:00.000Z",
-    "reason": "Specific security warning about potential exposure of crypto seed phrases.",
-    "text": "Binance Warns iOS Flaw Could Expose Crypto Seed Phrases.\n\nBinance said Tuesday an iOS vulnerability dubbed worse_query lets malicious apps read other apps' local files, putting seed phrases and private keys at risk, and urged users to delete sideloaded apps and update.",
-    "url": "https://x.com/DecryptMedia/status/2120139412218707987",
-    "images": [
-      "https://pbs.twimg.com/media/HWwuhuEXoAA2eeZ.png",
-      "https://pbs.twimg.com/media/HWwuzGkWgAATSfx.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794315717343-6ahtvp",
-    "source": "x",
-    "ts": "2026-11-10T13:01:57.343Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-10T12:57:56.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "JUST IN: Bitcoin has fallen below the 'Fire Sale!' zone on the Rainbow Price Chart 👀\n\nHistorically, this is an incredible opportunity to buy BTC 💥",
-    "url": "https://x.com/BitcoinMagazine/status/2120138892645220559"
-  },
-  {
     "id": "x-1794316338743-r312xw",
     "source": "x",
     "ts": "2026-11-10T13:12:18.743Z",
@@ -8056,5 +8008,49 @@
     "reason": "No notable move in the recent price range.",
     "text": "Looks like $XRP scams are trending on X... The number is mind-blowing, and this research shows it. 🔽",
     "url": "https://x.com/BSCNews/status/2120858579708289534"
+  },
+  {
+    "id": "x-1794488014220-7t52co",
+    "source": "x",
+    "ts": "2026-11-12T12:53:34.220Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-12T12:48:02.000Z",
+    "reason": "Noise: Generic news with no direct crypto or blockchain implications.",
+    "text": "🚨BREAKING: Trump threatens to 'IMMEDIATELY DOUBLE' tariffs on Mexico unless it stops migrant caravans heading toward the U.S.\n\nThe threat follows a caravan that left Tapachula in southern Mexico on Tuesday.\n\nSome migrants said they hoped Democrats’ midterm wins would make it",
+    "url": "https://x.com/coinbureau/status/2120861173717582118"
+  },
+  {
+    "id": "x-1794488019757-03l3jw",
+    "source": "x",
+    "ts": "2026-11-12T12:53:39.757Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-12T12:47:00.000Z",
+    "reason": "Polkadot's revenue is unusually low",
+    "text": "Polkadot's revenue is reading in cents...\n\n@Polkadot's income over the last week is $1.52, a seven-day high according to @chainspect_app data.\n\nWhile this is a positive record, it translates to about $0.22 in fee capture per day on the network's relay chain.\n\nThe low cost of",
+    "url": "https://x.com/BSCNews/status/2120860914048184457",
+    "images": [
+      "https://pbs.twimg.com/media/HW7M111XEAAITcJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794488023017-yajcwu",
+    "source": "x",
+    "ts": "2026-11-12T12:53:43.017Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-12T12:45:28.000Z",
+    "reason": "No notable move or concrete information provided.",
+    "text": "Let $STRC do the heavy lifting.",
+    "url": "https://x.com/saylor/status/2120860530986336551"
   }
 ]
