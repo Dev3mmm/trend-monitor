@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794337351289-haezfh",
-    "source": "x",
-    "ts": "2026-11-10T19:02:31.289Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-10T18:43:28.000Z",
-    "reason": "No concrete news event or move, just an opinion.",
-    "text": "BPI's Sam Lyman on why bitcoin is bigger than any one government:\n\n\"A government could ban Bitcoin... because it's a decentralized network, it will continue to operate.\"\n\n\"Bitcoin doesn't need America. America needs Bitcoin.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2120229320648262106"
-  },
-  {
-    "id": "x-1794337356290-uxav3b",
-    "source": "x",
-    "ts": "2026-11-10T19:02:36.290Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-10T18:56:18.000Z",
-    "reason": "New application of a token in robotics simulation",
-    "text": "Can a robot learn better from less? @axisrobotics, a Pi Network Ventures-backed startup (@PiCoreTeam), picked the right half of its simulation data and saw real-robot success hit 86%, up from 26% ⬇️",
-    "url": "https://x.com/BSCNews/status/2120229078523662710",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794337941298-z31w87",
-    "source": "x",
-    "ts": "2026-11-10T19:12:21.298Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-10T19:11:40.000Z",
-    "reason": "No notable crypto-related news mentioned.",
-    "text": "🇺🇸 JUST IN: House Democratic leader Hakeem Jeffries called for a full congressional briefing on Nvidia CEO Jensen Huang’s reported ties to a Chinese businesswoman allegedly linked to Beijing and urged tighter restrictions on US chip sales to China.",
-    "url": "https://x.com/Cointelegraph/status/2120232942370730243"
-  },
-  {
     "id": "x-1794338538242-meebdw",
     "source": "x",
     "ts": "2026-11-10T19:22:18.242Z",
@@ -8034,5 +7992,52 @@
     "reason": "No notable move or specific event is described.",
     "text": "Accountable wants lenders to see hidden risk before it spreads\n\n@AccountableData lets crypto firms prove what they hold and owe without exposing private data. More than 60 institutions use it, and CEO @WojtekP laid out Chapter 2 today.\n\nThe new phase links those firms in a",
     "url": "https://x.com/BSCNews/status/2120930221272518837"
+  },
+  {
+    "id": "x-1794505961680-z4rxny",
+    "source": "x",
+    "ts": "2026-11-12T17:52:41.680Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T17:50:41.000Z",
+    "reason": "Tokenized stocks saw significant growth with a $3.91 billion market cap.",
+    "text": "🚨️️ JUST IN: Tokenized stocks surged 842% year-over-year to a $3.91 billion market cap as of September 2026, according to a CoinShares and Token Terminal report.",
+    "url": "https://x.com/Cointelegraph/status/2120937341107806660",
+    "images": [
+      "https://pbs.twimg.com/media/HW8VRWVXQAE9RvB.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794505966001-y3kutp",
+    "source": "x",
+    "ts": "2026-11-12T17:52:46.001Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 36,
+    "originTimestamp": "2026-11-12T17:16:03.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "\"Losing one of the best CEOs of the world does seem like it's going to hurt future growth to a degree.\" @Tyler_Did_It on Jensen Huang resigning as Nvidia CEO, a decision he calls the wrong one.",
+    "url": "https://x.com/DecryptMedia/status/2120936685743554875"
+  },
+  {
+    "id": "x-1794505970442-shl7a7",
+    "source": "x",
+    "ts": "2026-11-12T17:52:50.442Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-12T17:47:15.000Z",
+    "reason": "Illinois Crypto Tax brings together unexpected partners in the crypto industry.",
+    "text": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+    "url": "https://x.com/DecryptMedia/status/2120936475931955463",
+    "images": [],
+    "video": null
   }
 ]
