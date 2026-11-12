@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794356538220-mta7rz",
-    "source": "x",
-    "ts": "2026-11-11T00:22:18.220Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-11T00:14:09.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "$ICP rises 6.4% in 24 hours to $2.55.\n\nICP price and news:",
-    "url": "https://x.com/BSCNews/status/2120309355467940144"
-  },
-  {
-    "id": "x-1794357129633-8ckavf",
-    "source": "x",
-    "ts": "2026-11-11T00:32:09.633Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-11T00:30:46.000Z",
-    "reason": "Notable regulatory move involving a major tech company.",
-    "text": "🚨 NOW: Nvidia’s independent board members tap former acting SDNY U.S. Attorney Joon Kim and law firm Wachtell Lipton to lead the probe announced Sunday.",
-    "url": "https://x.com/Cointelegraph/status/2120313246615785887",
-    "images": [
-      "https://pbs.twimg.com/media/HWzdp1CWEAAcqlZ.jpg",
-      "https://pbs.twimg.com/media/HWzdqNqWoAA6rqD.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794357133488-7koipn",
     "source": "x",
     "ts": "2026-11-11T00:32:13.488Z",
@@ -7996,6 +7964,45 @@
     "url": "https://x.com/BSCNews/status/2121003101192593697",
     "images": [
       "https://pbs.twimg.com/media/HW9J4TJWAAAavsN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794522816352-rtt18k",
+    "source": "x",
+    "ts": "2026-11-12T22:33:36.352Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T22:30:45.000Z",
+    "reason": "Notable move involving a high-profile figure in the crypto space.",
+    "text": "🚨 LATEST: Kalshi has ended Donald Trump Jr.’s advisory contract after his venture capital firm, 1789 Capital, increased its investment in rival prediction market Polymarket.",
+    "url": "https://x.com/Cointelegraph/status/2121007819872719310",
+    "images": [
+      "https://pbs.twimg.com/media/HW9VXQ2WoAAyvpW.jpg",
+      "https://pbs.twimg.com/media/HW9VXgMXcAApNbv.jpg",
+      "https://pbs.twimg.com/media/HW9VXvFXEAAVy2E.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794522821385-3ac398",
+    "source": "x",
+    "ts": "2026-11-12T22:33:41.385Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-12T22:21:43.000Z",
+    "reason": "El Salvador's Bitcoin purchase is significant institutional crypto news.",
+    "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻    \n\nThey now own 7833 BTC worth $559 million! 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2121005546388021577",
+    "images": [
+      "https://pbs.twimg.com/media/HW9TEU0WEAAGeW5.png",
+      "https://pbs.twimg.com/media/HW9TErTWoAAJskN.jpg"
     ],
     "video": null
   }
