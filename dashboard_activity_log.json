@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794301319997-n78pzz",
-    "source": "x",
-    "ts": "2026-11-10T09:01:59.997Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 40,
-    "originTimestamp": "2026-11-10T08:21:25.000Z",
-    "reason": "Gas prices are not a crypto-related event.",
-    "text": "BREAKING: US average retail gas price drops below $4 to $3.97/gal for the first time in 4 months.",
-    "url": "https://x.com/coinbureau/status/2120078189116727359"
-  },
-  {
     "id": "x-1794302000996-jiluht",
     "source": "x",
     "ts": "2026-11-10T09:13:20.996Z",
@@ -8064,5 +8051,23 @@
     "reason": "No notable move or breaking news, the wallet closure is a soft news item.",
     "text": "Sui Ecosystem Loses Yet Another Wallet...\n\nSuiet (@suiet_wallet), a self-custodial wallet built for Sui (@SuiNetwork) $SUI, is shutting down.\n\nThe wallet will stop receiving updates and support, while its API services end after November 14.\n\nSuiet’s closure follows Suiball’s",
     "url": "https://x.com/BSCNews/status/2120758489924444605"
+  },
+  {
+    "id": "x-1794464579504-rgb7fc",
+    "source": "x",
+    "ts": "2026-11-12T06:22:59.504Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-12T06:12:00.000Z",
+    "reason": "Nomura Holdings considering sale of its crypto subsidiary.",
+    "text": "Japan's Biggest Broker May Be Ready to Walk Away From Crypto\n\nNomura Holdings is exploring a potential sale of its crypto subsidiary, Laser Digital, Bloomberg reports.\n\nThe Zurich-based firm offers crypto trading, asset management and on-chain credit services. Its losses last",
+    "url": "https://x.com/BSCNews/status/2120761508988690920",
+    "images": [
+      "https://pbs.twimg.com/media/HW50FJPacAA4boe.png"
+    ],
+    "video": null
   }
 ]
