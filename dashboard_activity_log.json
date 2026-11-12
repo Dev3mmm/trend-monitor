@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1794306744003-1gjmav",
-    "source": "x",
-    "ts": "2026-11-10T10:32:24.003Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "ZachXBT",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-10T10:25:50.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "@usithetalk Does it concern anyone else about how all of these other offshore CEXs with little to no US presence rush to immediately cut off MEXC users from transferring assets? \n\nWho is actually being protected by it…\n\nWhat % of MEXCs total volume was illicit? \n\nI can go to any large CEX",
-    "url": "https://x.com/zachxbt/status/2120101207520002408",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794306750624-wbrzh8",
-    "source": "x",
-    "ts": "2026-11-10T10:32:30.624Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Wu Blockchain",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-10T10:23:02.000Z",
-    "reason": "Sale of $8.08 billion in Bitcoin by public companies",
-    "text": "14 Public Companies Sold an Estimated $8.08 Billion in Bitcoin in 2026, Led by MARA and Riot\n\nAccording to Lookonchain, 14 publicly traded companies have sold approximately 108,247 BTC worth $8.08 billion so far in 2026. MARA led with 40,581 BTC sold, followed by Riot Platforms",
-    "url": "https://x.com/WuBlockchain/status/2120099908103614784",
-    "images": [
-      "https://pbs.twimg.com/media/HWwbVGGakAAn_Z_.jpg",
-      "https://pbs.twimg.com/media/HWwbVIMaQAAVxR1.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794307341386-41a7hf",
     "source": "x",
     "ts": "2026-11-10T10:42:21.386Z",
@@ -8069,5 +8034,36 @@
     "reason": "No notable crypto-related event mentioned.",
     "text": "🇬🇧 NEW: UK GDP grew 0.7% in Q3, its fastest quarterly pace in two and a half years.",
     "url": "https://x.com/Cointelegraph/status/2120796560694886737"
+  },
+  {
+    "id": "x-1794473532885-gotqdb",
+    "source": "x",
+    "ts": "2026-11-12T08:52:12.885Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T08:51:12.000Z",
+    "reason": "No notable move or newsworthy event described.",
+    "text": "Write to Earn on Binance Square has been upgraded. \n\nLive streams are ranked separately. Each week, the top 100 live creators by basic commission earn an extra bonus, and the higher you rank, the higher your rate.\n\nExplore more 👉",
+    "url": "https://x.com/binance/status/2120801575530807789"
+  },
+  {
+    "id": "x-1794473538412-7t7p74",
+    "source": "x",
+    "ts": "2026-11-12T08:52:18.412Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-12T08:47:18.000Z",
+    "reason": "New quantum-resistant wallet technology in mobile users' accounts.",
+    "text": "Near Ecosystem Brings Quantum Resistant Wallets to Mobile Users\n\nNEAR Mobile's (@NEARMobile_app) latest update brings post-quantum vaults to users' phones.\n\nThese accounts use ML-DSA to sign transactions, the NIST-standardized cryptographic scheme NEAR (@NEARProtocol) $NEAR added",
+    "url": "https://x.com/BSCNews/status/2120800594046967833",
+    "images": [
+      "https://pbs.twimg.com/media/HW6WmLybwAA24ia.png"
+    ],
+    "video": null
   }
 ]
