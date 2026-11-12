@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1794309750344-6fi07q",
-    "source": "x",
-    "ts": "2026-11-10T11:22:30.344Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-10T11:15:44.000Z",
-    "reason": "Security alert about potential wallet exposure.",
-    "text": "🚨 ALERT: Binance warns an iOS flaw could expose wallet seed phrases, private keys and logins stored in app files.\n\nThe flaw \"worse_query\" lets malicious apps read other apps’ files on iOS 26.7.1, 27.0.1 and 27.2.\n\nStay safe: Update iOS and remove apps from untrusted sources.",
-    "url": "https://x.com/Cointelegraph/status/2120113171465724267",
-    "images": [
-      "https://pbs.twimg.com/media/HWwnrxkW0AA3VOJ.jpg",
-      "https://pbs.twimg.com/media/HWwnsSCXYAAU20x.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794310329997-pu0r0g",
     "source": "x",
     "ts": "2026-11-10T11:32:09.997Z",
@@ -8066,5 +8047,18 @@
     "url": "https://x.com/BSCNews/status/2120820327928504349",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794478962552-z244y1",
+    "source": "x",
+    "ts": "2026-11-12T10:22:42.552Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T10:20:00.000Z",
+    "reason": "No notable move or event described.",
+    "text": "Who should be Nvidia’s next CEO?",
+    "url": "https://x.com/Cointelegraph/status/2120823920454443501"
   }
 ]
