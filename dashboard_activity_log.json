@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794315386105-jw2uc1",
-    "source": "x",
-    "ts": "2026-11-10T12:56:26.105Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-10T12:50:41.000Z",
-    "reason": "Specific, verifiable action with real-world impact on Bitcoin holdings.",
-    "text": "🚨 UPDATE: Hyperscale Data sells its entire Bitcoin reserve, cashing out its final 211.56 $BTC for $16 million.",
-    "url": "https://x.com/Cointelegraph/status/2120137068181336476",
-    "images": [
-      "https://pbs.twimg.com/media/HWw9bGWX0AAMlNh.jpg",
-      "https://pbs.twimg.com/media/HWw9bWVWMAAoAFe.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794315392314-zoz4wq",
-    "source": "x",
-    "ts": "2026-11-10T12:56:32.314Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-10T12:47:41.000Z",
-    "reason": "Notable institutional move by BlackRock into Coinbase Prime.",
-    "text": "BlackRock Shuffles Another $151M of Ethereum into Coinbase Prime\n\n@BlackRock moved 72,212 $ETH, valued at about $151.4 million, from its ETF deposit wallets to @Coinbase Prime in four installments over the past hour, Arkham Intel says.\n\nThese included the following amounts:\n-",
-    "url": "https://x.com/BSCNews/status/2120136311486976153",
-    "images": [
-      "https://pbs.twimg.com/media/HWw8tbeW8AAuN0g.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794315397139-eqdrhs",
     "source": "x",
     "ts": "2026-11-10T12:56:37.139Z",
@@ -8061,5 +8024,37 @@
       "https://pbs.twimg.com/media/HW7LX6KaUAAA2cU.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794487341254-abotu6",
+    "source": "x",
+    "ts": "2026-11-12T12:42:21.254Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T12:40:44.000Z",
+    "reason": "Notable price movement and regulatory impact on a major cryptocurrency.",
+    "text": "🚨 TODAY: Strategy $MSTR fell nearly 6% premarket after MSCI confirmed its removal from global indexes.",
+    "url": "https://x.com/Cointelegraph/status/2120859337383931937",
+    "images": [
+      "https://pbs.twimg.com/media/HW7OUQKWoAA4U7q.jpg",
+      "https://pbs.twimg.com/media/HW7OUwwXEAAWL9m.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794487344020-vzhev2",
+    "source": "x",
+    "ts": "2026-11-12T12:42:24.020Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-12T12:37:43.000Z",
+    "reason": "No notable move in the recent price range.",
+    "text": "Looks like $XRP scams are trending on X... The number is mind-blowing, and this research shows it. 🔽",
+    "url": "https://x.com/BSCNews/status/2120858579708289534"
   }
 ]
