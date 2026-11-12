@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794362583661-alg7k8",
-    "source": "x",
-    "ts": "2026-11-11T02:03:03.661Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-11T02:00:00.000Z",
-    "reason": "Algorand achieving a new all-time high for USDC transactions and growing stablecoin supply.",
-    "text": "Algorand becoming a go-to payments chain.\n\n@Algorand has reported a new all-time high for $USDC transactions on its network, clocking more than 34M transactions in 2026 already.\n\nAt the same time, algorand:native's total stablecoin supply has grown to nearly $117M at time of",
-    "url": "https://x.com/BSCNews/status/2120335705914425492",
-    "images": [
-      "https://pbs.twimg.com/media/HWwvn5ZWMAAlwow.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794362589751-hjgsh1",
-    "source": "x",
-    "ts": "2026-11-11T02:03:09.751Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 62,
-    "originTimestamp": "2026-11-11T01:00:00.000Z",
-    "reason": "No notable move or breaking news is indicated in the tweet.",
-    "text": "Most of the top 10 by market cap are down over the past week. Zcash is the exception.\n\n7-day change, top 10 (stablecoins excluded):\n\nZEC +0.86%\nTRX -0.18%\nBNB -1.41%\n$BTC -2.74%\n$ETH -5.50%\n$SOL -6.07%\n\nSort the full table:",
-    "url": "https://x.com/BSCNews/status/2120334662837182675"
-  },
-  {
     "id": "x-1794362596167-h76scg",
     "source": "x",
     "ts": "2026-11-11T02:03:16.167Z",
@@ -8004,5 +7973,44 @@
       "https://pbs.twimg.com/media/HW9fD5qa0AEOsEE.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794526303313-4ljwys",
+    "source": "x",
+    "ts": "2026-11-12T23:31:43.313Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T23:30:44.000Z",
+    "reason": "US Bitcoin demand remains weak according to Glassnode.",
+    "text": "🇺🇸 INSIGHT: US Bitcoin demand remains weak as the Coinbase premium’s 30-day average falls to its lowest level since February, per Glassnode.",
+    "url": "https://x.com/Cointelegraph/status/2121022914363310161",
+    "images": [
+      "https://pbs.twimg.com/media/HW9jGXdWQAAAxII.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794526305685-sgkcsy",
+    "source": "x",
+    "ts": "2026-11-12T23:31:45.686Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 29,
+    "originTimestamp": "2026-11-12T23:02:48.000Z",
+    "reason": "Significant transaction milestone on a new blockchain platform.",
+    "text": "Internet Computer (@dfinity) $ICP hits 5.2 billion transactions in 13 days 🚀 DFINITY record tops 400 million a day\n\nWe break down canister calls and the 6.5 billion vs 2.9 billion gap with $SOL. Watch the full deep dive 🎥",
+    "url": "https://x.com/BSCNews/status/2121022607533428812",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2121015794985316352/vid/avc1/1280x720/CQfoaI8rK3uSccHi.mp4?tag=29",
+      "duration": 201,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121015794985316352/img/6ckAllxziBUcecqU.jpg"
+    }
   }
 ]
