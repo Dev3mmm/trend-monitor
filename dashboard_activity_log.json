@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1794304958087-zi1evn",
-    "source": "x",
-    "ts": "2026-11-10T10:02:38.087Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-10T09:56:34.000Z",
-    "reason": "Potential security risk affecting multiple iOS versions and users' private keys.",
-    "text": "A vulnerability (worse_query) affecting iOS 26.7.1, 27.0.1, and 27.2 allows malicious apps to read local files from other apps, putting seed phrases, private keys, and login credentials at risk across the entire ecosystem. This is an iOS-level issue, not unique to Binance.",
-    "url": "https://x.com/binance/status/2120093246399430770",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794305629032-4ufm60",
     "source": "x",
     "ts": "2026-11-10T10:13:49.032Z",
@@ -8073,5 +8057,24 @@
     "reason": "Noise: generic hype without real content.",
     "text": "BREAKING: Jensen Huang’s alleged Chinese spy lover was introduced to him by her own husband, who appeared to “accept her romantic relationship” with the Nvidia CEO for 2 years, per WSJ.\n\nAlice Huang’s husband, a Chinese businessman named Kang Wei, had known Jensen for a decade,",
     "url": "https://x.com/coinbureau/status/2120785066490224789"
+  },
+  {
+    "id": "x-1794470543813-5s6a66",
+    "source": "x",
+    "ts": "2026-11-12T08:02:23.813Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T08:01:06.000Z",
+    "reason": "Outflows from BTC, ETH, and SOL spot ETFs are significant given their inflows are typically positive.",
+    "text": "🇺🇸 ETF FLOWS: BTC, ETH and SOL spot ETFs saw net outflows on Nov. 11.\n\nBTC: -$299.9M\nETH: -$144.81M\nSOL: -$5.85M",
+    "url": "https://x.com/Cointelegraph/status/2120788964466389085",
+    "images": [
+      "https://pbs.twimg.com/media/HW6OUa8WgAAgjpa.jpg",
+      "https://pbs.twimg.com/media/HW6OUsRXAAAX5x2.jpg"
+    ],
+    "video": null
   }
 ]
