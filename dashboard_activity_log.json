@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794303765324-3p0pjs",
-    "source": "x",
-    "ts": "2026-11-10T09:42:45.324Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-10T09:38:38.000Z",
-    "reason": "No notable move in the Fed's stance on rates.",
-    "text": "BREAKING: Fed’s Christopher Waller backs a December rate HIKE up to 50 basis points.\n\nWaller says he leans toward a 25bp rate hike even if October inflation comes in LOWER than expected.\n\nIf inflation is HIGHER than forecasts, he says a 50bps hike “should be considered.”\n\nCore",
-    "url": "https://x.com/coinbureau/status/2120088735182442771"
-  },
-  {
-    "id": "x-1794304351367-65k40q",
-    "source": "x",
-    "ts": "2026-11-10T09:52:31.368Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-10T09:51:52.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "XRP Holders Could Get Quantum Protection Without Paying More\n\nThe XRP Ledger (@XRP) $XRP Foundation has outlined a plan for quantum-resistant accounts.\n\nThe design lets users add a NIST-approved ML-DSA-44 signing key and disable their old key. This would help protect accounts",
-    "url": "https://x.com/BSCNews/status/2120092065090396282",
-    "images": [
-      "https://pbs.twimg.com/media/HWwA2KHbsAAs7Jf.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794304354679-g334dl",
     "source": "x",
     "ts": "2026-11-10T09:52:34.679Z",
@@ -8076,5 +8045,34 @@
     "reason": "Tweet is unrelated to cryptocurrencies or crypto-related events.",
     "text": "Why is The Anglican Church, Mombasa, having a woman who forged her late father's will, and unlawfully sold his properties, preach at the Mombasa Cathedral Pulpit?",
     "url": "https://x.com/amerix/status/2120776767359140018"
+  },
+  {
+    "id": "x-1794468727361-9mf202",
+    "source": "x",
+    "ts": "2026-11-12T07:32:07.361Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T07:30:40.000Z",
+    "reason": "Regulatory move affecting crypto exchanges and security measures.",
+    "text": "🇰🇷 NEW: South Korea’s financial regulator will let crypto exchanges freeze deposits and withdrawals when a hack is suspected, rather than wait for a confirmed breach.",
+    "url": "https://x.com/Cointelegraph/status/2120781308431405250",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794468729500-olc12o",
+    "source": "x",
+    "ts": "2026-11-12T07:32:09.500Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-12T07:25:43.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "New to Monad (@monad)? Don't jump into DeFi blindly.\n\nFrom swapping tokens and liquid staking $MON to lending, borrowing and trading tokenized stocks, here's a practical guide to navigating Monad's growing app ecosystem👇",
+    "url": "https://x.com/BSCNews/status/2120780062098366889"
   }
 ]
