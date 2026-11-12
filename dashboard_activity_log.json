@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794333751168-gcbzdv",
-    "source": "x",
-    "ts": "2026-11-10T18:02:31.168Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-10T18:01:14.000Z",
-    "reason": "Visa's addition of a new blockchain to its list of supported blockchains for stablecoin settlements is notable.",
-    "text": "🔥 NEW: Visa has added Monad to its list of supported blockchains for stablecoin settlements.",
-    "url": "https://x.com/Cointelegraph/status/2120215220769501650",
-    "images": [
-      "https://pbs.twimg.com/media/HWyEgNFW0AA0-mb.jpg",
-      "https://pbs.twimg.com/media/HWyEgalWsAAKua0.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794333756269-ddnk85",
-    "source": "x",
-    "ts": "2026-11-10T18:02:36.269Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T18:00:02.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "CZ: From a Financial Hub, It's Hard to Imagine Life Without a Bank Account\n\nOn November 3, Binance co-founder Changpeng Zhao (CZ) @cz_binance spoke at the Oxford Union @OxfordUnion. In discussing the freedom of money, he started with a simple example: paying a bill. He said that",
-    "url": "https://x.com/WuBlockchain/status/2120214916200026564"
-  },
-  {
-    "id": "x-1794333760821-etny4i",
-    "source": "x",
-    "ts": "2026-11-10T18:02:40.821Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T18:00:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "OpenAI's New Control Room Can Cut Off Research Model Output Within 35 Seconds.\n\nOpenAI said Monday the system, already deployed across its research infrastructure, connects every research inference workload and is built to stop model output if Control Room itself goes down.",
-    "url": "https://x.com/DecryptMedia/status/2120214907069124895"
-  },
-  {
     "id": "x-1794333766216-r2lle5",
     "source": "x",
     "ts": "2026-11-10T18:02:46.216Z",
@@ -8032,5 +7987,55 @@
     "url": "https://x.com/DecryptMedia/status/2120918858517057809",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794502338777-ejsq2v",
+    "source": "x",
+    "ts": "2026-11-12T16:52:18.777Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T16:50:42.000Z",
+    "reason": "No notable move in crypto market prices or news.",
+    "text": "🚨 UPDATE : USPS plans to keep stamp prices unchanged in early 2027 while raising domestic shipping rates by 5.9%, international rates by 7.9%, and introducing an 11% domestic fuel surcharge.",
+    "url": "https://x.com/Cointelegraph/status/2120922244687823233"
+  },
+  {
+    "id": "x-1794502344421-8ny1m4",
+    "source": "x",
+    "ts": "2026-11-12T16:52:24.421Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T16:49:39.000Z",
+    "reason": "Provides transparency and verification in a security incident.",
+    "text": "Binance has completed coverage of assets impacted in the security incident and we have published a new Proof of Reserves snapshot. Once the zero-knowledge proof is generated, users can independently verify that their assets are backed at a minimum of 1:1 -",
+    "url": "https://x.com/binance/status/2120921979226329504",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794502350532-kyqtzt",
+    "source": "x",
+    "ts": "2026-11-12T16:52:30.532Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-12T16:46:39.000Z",
+    "reason": "Notable regulatory/publicity move regarding crypto's political support.",
+    "text": "JUST IN: 🇺🇸 Stand With Crypto's Executive Director says \"crypto voices made their voices heard\" in mid-term races 👀\n\n\"In 2023 there were around 96 pro-crypto Stand with Crypto rated Congress people...this Congress should have over 300 pro-crypto Congress people\" 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2120921225090543732",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2120921122543714304/vid/avc1/1280x720/2bisNlbDB34UyhMh.mp4?tag=29",
+      "duration": 131,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120921122543714304/img/5MPn1kHJCvJ_kkNw.jpg"
+    }
   }
 ]
