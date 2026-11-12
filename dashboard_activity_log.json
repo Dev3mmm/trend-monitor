@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1794346905423-r4yny6",
-    "source": "x",
-    "ts": "2026-11-10T21:41:45.423Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T21:40:00.000Z",
-    "reason": "On-chain data point with potential security implications.",
-    "text": "🚨 ALERT: Glassnode reports that 35.4% of Bitcoin’s supply, or 7.12 million BTC, has exposed public keys that could be vulnerable to future quantum computing attacks.",
-    "url": "https://x.com/Cointelegraph/status/2120270272007913538",
-    "images": [
-      "https://pbs.twimg.com/media/HWxFkjUWgAAF6WA.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794346907568-100acq",
-    "source": "x",
-    "ts": "2026-11-10T21:41:47.568Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T21:39:34.000Z",
-    "reason": "Prediction with no basis given",
-    "text": "JUST IN: Bitcoin Opportunity Fund Co-Founder James Lavish says according to the Power Law, the base case for Bitcoin is $400,000—$500,000 by 2029 👀\n\n\"Bitcoin typically stays within one standard deviation of the mean...one standard deviation over that mean in 2029 is $400K—$500K\"",
-    "url": "https://x.com/BitcoinMagazine/status/2120270163987599511"
-  },
-  {
-    "id": "x-1794346909489-pfxdq5",
-    "source": "x",
-    "ts": "2026-11-10T21:41:49.489Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-10T21:37:15.000Z",
-    "reason": "No notable move in Bitcoin's price.",
-    "text": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-    "url": "https://x.com/DecryptMedia/status/2120269580056543605",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794347587917-zgd89s",
-    "source": "x",
-    "ts": "2026-11-10T21:53:07.917Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T21:50:42.000Z",
-    "reason": "Regulatory enforcement against a major prediction market platform",
-    "text": "🚨 NEW: The CFTC is reportedly preparing charges against prediction market platform Kalshi over alleged failures to notify regulators about new contracts, according to POLITICO. \n\nKalshi says the issue was a procedural error that it is already addressing.",
-    "url": "https://x.com/Cointelegraph/status/2120272964146843874",
-    "images": [
-      "https://pbs.twimg.com/media/HWy5BTTWYAAMRDZ.jpg",
-      "https://pbs.twimg.com/media/HWy5BiQWgAEICjx.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794347593310-0ulh5j",
     "source": "x",
     "ts": "2026-11-10T21:53:13.310Z",
@@ -8010,5 +7944,62 @@
     "url": "https://x.com/BSCNews/status/2120971645846200482",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794514917804-tkmt4n",
+    "source": "x",
+    "ts": "2026-11-12T20:21:57.804Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 96,
+    "originTimestamp": "2026-11-12T18:45:24.000Z",
+    "reason": "No notable crypto-related event or movement.",
+    "text": "就在刚才，伊朗国家通讯社 IRNA 报道称敌对势力袭击了霍尔木兹甘省的南部港口城市。\n\n新闻报道后油价出现了大幅上涨，我这郁闷的，刚刚赚了点小钱，全部都吐回去了，现在处于浮亏得状态。",
+    "url": "https://x.com/PhyrexNi/status/2120975047007568035"
+  },
+  {
+    "id": "x-1794514921258-bm2tro",
+    "source": "x",
+    "ts": "2026-11-12T20:22:01.258Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T20:19:41.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "🚨 UPDATE: SpaceX and Tesla merger discussions are reportedly progressing.",
+    "url": "https://x.com/Cointelegraph/status/2120974837623542258"
+  },
+  {
+    "id": "x-1794514928034-ucjqvk",
+    "source": "x",
+    "ts": "2026-11-12T20:22:08.034Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T20:19:00.000Z",
+    "reason": "New EVM-compatible network established on a non-EVM chain",
+    "text": "Rome Protocol brings the EVM to Canton’s DevNet\n\n@RomeProtocol built Ostia, a chain that runs Ethereum-style smart contracts and settles on @CantonNetwork. Each block comes with a zero-knowledge proof, and Canton records the block and the proof in a single transaction.",
+    "url": "https://x.com/BSCNews/status/2120974663488864536",
+    "images": [
+      "https://pbs.twimg.com/media/HW8yQDHXgAAx4on.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794514933055-6ihzb3",
+    "source": "x",
+    "ts": "2026-11-12T20:22:13.055Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-12T20:17:17.000Z",
+    "reason": "No notable financial impact on Nvidia or cryptocurrency markets mentioned.",
+    "text": "🚨One of the most EXPENSIVE affairs of the decade: Jensen Huang’s 3rd reported affair surfaces with Nvidia down $450 BILLION.\n\nThe former Nvidia CEO reportedly had an intimate relationship with a SECOND employee, Reuters says.\n\nHuang resigned on Thursday after reports of affairs",
+    "url": "https://x.com/coinbureau/status/2120974233232929260"
   }
 ]
