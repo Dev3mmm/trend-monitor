@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794342749391-ds92m1",
-    "source": "x",
-    "ts": "2026-11-10T20:32:29.391Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T20:29:42.000Z",
-    "reason": "Potential money laundering following a significant crypto hack",
-    "text": "Onchain Lens: $891M Potentially Moved or Laundered Following $6.34B Binance Hack\n\nAccording to Onchain Lens, approximately $891 million in assets from the previous $6.34 billion Binance hack may have been transferred or used for money laundering. Onchain Lens estimates that",
-    "url": "https://x.com/WuBlockchain/status/2120252582136537259",
-    "images": [
-      "https://pbs.twimg.com/media/HWyme4bbAAAAtby.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794342754682-opg8bt",
-    "source": "x",
-    "ts": "2026-11-10T20:32:34.682Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 77,
-    "originTimestamp": "2026-11-10T19:14:45.000Z",
-    "reason": "No notable move in the price or any specific event is mentioned.",
-    "text": "SpaceX is making moves to become the first AI carrier $SPCX \n\n• Current cell towers are still mostly “dumb” radios. The Qualcomm deal is about making them AI-native.\n• Edge inference at the tower, like an updated Akamai for AI\n• Starlink Direct-to-Cell and V3 satellites",
-    "url": "https://x.com/elonmusk/status/2120252018799563074"
-  },
-  {
     "id": "x-1794343347129-4x2t67",
     "source": "x",
     "ts": "2026-11-10T20:42:27.129Z",
@@ -8005,5 +7974,36 @@
     "reason": "No notable crypto-related event or move described.",
     "text": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
     "url": "https://x.com/DecryptMedia/status/2120953839062774120"
+  },
+  {
+    "id": "x-1794510733300-oy9sdy",
+    "source": "x",
+    "ts": "2026-11-12T19:12:13.300Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T19:10:41.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🇺🇸 NEW: The Fed announces pricing for payment services to banks and credit unions, effective January 1, 2027, and adjusts its check services.",
+    "url": "https://x.com/Cointelegraph/status/2120957471032254645",
+    "images": [
+      "https://pbs.twimg.com/media/HW8nk_zXMAARRxK.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794510736170-tornvs",
+    "source": "x",
+    "ts": "2026-11-12T19:12:16.170Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-12T19:02:00.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "WILD: Amazon unveils flying home security drone and autonomous security robot.\n\n Amazon's Ring Robotics is launching two new devices:\n\nRing Drone Cam: An indoor drone that follows preset routes, automatically investigates triggered alarms, and records 2K video.\n\nRing Rover Cam:",
+    "url": "https://x.com/coinbureau/status/2120955286190248129"
   }
 ]

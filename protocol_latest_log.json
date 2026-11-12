@@ -2166,5 +2166,19 @@
     "fetchedAt": "2026-11-12T13:52:10.405Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-572cfe8bf46e711e",
+    "title": "RF-DETR Segmentation: Real-Time Masks, Boxes, and Class Scores",
+    "url": "https://aioz.network/blog/rf-detr-segmentation-real-time-masks-boxes-and-class-scores",
+    "description": "TL;DR RF-DETR Segmentation, now listed on AIOZ AI, is an end-to-end instance segmentation model that combines ideas from LW-DETR and Deformable DETR. It uses a DINOv2-with-registers style Vision Transformer backbone, multi-scale feature fusion, and a Deformable DETR-style decoder extended with an instance-segmentation head. What the Model Is RF-DETR Segmentation combines object detection and insta",
+    "publishedAt": "2026-11-12T19:08:32.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-11-12T19:12:41.805Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
