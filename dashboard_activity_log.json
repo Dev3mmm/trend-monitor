@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794300768262-z5gjux",
-    "source": "x",
-    "ts": "2026-11-10T08:52:48.262Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-10T08:45:14.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Ethereum Foundation-Linked Wallet is Selling ETH Again\n\nA wallet linked to the Ethereum Foundation (@ethereumfndn) has sold another 1,000 $ETH worth $2.13 million, per Lookonchain.\n\nThe sale comes after a two-week pause. The wallet previously sold 2,785 ETH on October 26.\n\nETH",
-    "url": "https://x.com/BSCNews/status/2120075297542246844",
-    "images": [
-      "https://pbs.twimg.com/media/HWv93AFbkAEUra9.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794300773514-s3i9fd",
-    "source": "x",
-    "ts": "2026-11-10T08:52:53.514Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-10T08:41:58.000Z",
-    "reason": "Regulatory action on crypto exchange transactions.",
-    "text": "Binance Halts Transactions Involving MEXC and Its Affiliates Following FinCEN Designation\n\nBinance announced on November 10 that it will no longer process transactions involving MEXC and its affiliated entities following FinCEN's recent designation of MEXC as a primary money",
-    "url": "https://x.com/WuBlockchain/status/2120074475794554960",
-    "images": [
-      "https://pbs.twimg.com/media/HWwEavNaMAAXTE4.jpg",
-      "https://pbs.twimg.com/media/HWwEcYwboAAmuue.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794301319997-n78pzz",
     "source": "x",
     "ts": "2026-11-10T09:01:59.997Z",
@@ -8072,5 +8035,34 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Telcoin's Mainnet Launch is Now Just Weeks Away\n\nTelcoin (@telcoin) $TEL has set December 2 for its network's genesis launch.\n\nThe public launch is expected to follow in mid-December. Before that, the team plans to freeze the code on November 16.\n\nTelcoin Association founder",
     "url": "https://x.com/BSCNews/status/2120752270799176057"
+  },
+  {
+    "id": "x-1794463340509-3m756x",
+    "source": "x",
+    "ts": "2026-11-12T06:02:20.509Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T06:00:40.000Z",
+    "reason": "Sui wallet shutdown and DeFi TVL drop值得关注",
+    "text": "⚡ UPDATE: Suiet, a self-custodial wallet for the Sui blockchain, will shut down with API services set to end after Nov. 14, as Sui’s DeFi TVL drops over 22% in a month.",
+    "url": "https://x.com/Cointelegraph/status/2120758658120159446",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794463344386-aexxct",
+    "source": "x",
+    "ts": "2026-11-12T06:02:24.386Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T06:00:00.000Z",
+    "reason": "No notable move or breaking news, the wallet closure is a soft news item.",
+    "text": "Sui Ecosystem Loses Yet Another Wallet...\n\nSuiet (@suiet_wallet), a self-custodial wallet built for Sui (@SuiNetwork) $SUI, is shutting down.\n\nThe wallet will stop receiving updates and support, while its API services end after November 14.\n\nSuiet’s closure follows Suiball’s",
+    "url": "https://x.com/BSCNews/status/2120758489924444605"
   }
 ]
