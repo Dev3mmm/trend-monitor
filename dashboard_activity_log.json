@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1794322452310-f6id3x",
-    "source": "x",
-    "ts": "2026-11-10T14:54:12.310Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-10T14:44:12.000Z",
-    "reason": "Meme without any relevant crypto content.",
-    "text": "自从玩 AI 开始，花钱如流水一样 😂😂😂",
-    "url": "https://x.com/PhyrexNi/status/2120166370218533287"
-  },
-  {
-    "id": "x-1794322456872-rsmvyx",
-    "source": "x",
-    "ts": "2026-11-10T14:54:16.872Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 47,
-    "originTimestamp": "2026-11-10T14:06:56.000Z",
-    "reason": "No notable crypto-related move or event.",
-    "text": "😂最后版本还没合呢，两个 Ultra 的额度都用完了，然后我又充了 20 美元，瞬间就没了。\n\n明天白天是不能上线了，目前预期是11月11日23点开始吧。",
-    "url": "https://x.com/PhyrexNi/status/2120165632515944646"
-  },
-  {
-    "id": "x-1794323104917-6pf264",
-    "source": "x",
-    "ts": "2026-11-10T15:05:04.917Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 58,
-    "originTimestamp": "2026-11-10T14:06:56.000Z",
-    "reason": "Noise: vague and unverifiable crypto news claim.",
-    "text": "本来我想明天白天就上线的，现在看来还需要增加不少的工作，想要明天同时间上片头的可能性几乎不存在了，片头的脚本已经改了一周多了，三个 AI 配合修改，到现在还仅仅是完成了分镜。\n\n图像渲染到成片还需要一点时间，仅仅是这个片头就用了我最少 1/3 的额度。\n\n西游X",
-    "url": "https://x.com/PhyrexNi/status/2120169684003950698"
-  },
-  {
-    "id": "x-1794323540704-7cb0l3",
-    "source": "x",
-    "ts": "2026-11-10T15:12:20.704Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-10T15:08:54.000Z",
-    "reason": "Announcement of a new crypto-backed asset with institutional backing",
-    "text": "🔶 @Cashen_cc has announced cashBTC, a Bitcoin-backed asset coming to the Canton Network in Q1 2027. Each token will be backed 1:1 by BTC held in segregated cold storage by licensed trustee BitGo Bank &amp; Trust.",
-    "url": "https://x.com/BSCNews/status/2120171850537807943",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794323545297-kpyfy5",
     "source": "x",
     "ts": "2026-11-10T15:12:25.297Z",
@@ -8076,6 +8021,66 @@
     "url": "https://x.com/BSCNews/status/2120882808352899509",
     "images": [
       "https://pbs.twimg.com/media/HW7eiDjWkAAbkUe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794493930208-dfi50q",
+    "source": "x",
+    "ts": "2026-11-12T14:32:10.208Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-12T14:31:31.000Z",
+    "reason": "Prediction/price call with no basis given",
+    "text": "LIVE: MSCI &amp; Strategy, Post-Midterm Crypto Politics, The $40T Debt Trap | BMTV Nov. 12, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2120887219044892697"
+  },
+  {
+    "id": "x-1794493934435-s877u0",
+    "source": "x",
+    "ts": "2026-11-12T14:32:14.435Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T14:30:00.000Z",
+    "reason": "No notable move in the crypto market relevant to ETH, BTC, or SOL.",
+    "text": "Tesla's Robotaxi Now Runs 24/7 in Every City It Serves.\n\nTesla's Robotaxi account said the ride-hailing service now operates around the clock in every city where it's available, and CEO @elonmusk added that Robotaxi \"works 168 hours a week.\"",
+    "url": "https://x.com/DecryptMedia/status/2120886837418062194"
+  },
+  {
+    "id": "x-1794493938635-ndjpco",
+    "source": "x",
+    "ts": "2026-11-12T14:32:18.635Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-12T14:24:26.000Z",
+    "reason": "New use of a token to incentivize user engagement in DeFi.",
+    "text": "Solana-based @xash is using tokenized gold rewards to tackle a familiar problem in DeFi: keeping users active after promotional incentives end. The platform lets users compare opportunities and earn gold through stablecoin activities.",
+    "url": "https://x.com/BSCNews/status/2120885435492864182",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794493942344-xv82aq",
+    "source": "x",
+    "ts": "2026-11-12T14:32:22.344Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-12T14:24:14.000Z",
+    "reason": "Notable move in AI and GPU market with potential regulatory and technological implications.",
+    "text": "🚨 JUST IN: Jensen Huang's NVIDIA exit sends Polymarket odds soaring toward 100% following his resignation.",
+    "url": "https://x.com/Cointelegraph/status/2120885383672275292",
+    "images": [
+      "https://pbs.twimg.com/media/HW7k1lYbcAATVHI.jpg"
     ],
     "video": null
   }
