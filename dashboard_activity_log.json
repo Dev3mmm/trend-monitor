@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1794352911664-t7zkeo",
-    "source": "x",
-    "ts": "2026-11-10T23:21:51.664Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-10T23:18:00.000Z",
-    "reason": "Unremarkable ETF holding percentage within expected range.",
-    "text": "Spot ETF holds 1 in every 50 HBAR tokens.\n\nThere is only one spot @Hedera ETF product live in the US, operated by Canary Funds.\n\nHowever, that spot ETF now holds 1.9% of HBAR's current supply - equivalent to nearly 1 in every 50 HBAR tokens.\n\nPerhaps more impressively, the ETF",
-    "url": "https://x.com/BSCNews/status/2120294934737744105",
-    "images": [
-      "https://pbs.twimg.com/media/HWwvU3bWwAEpUZa.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794353521457-1xvkjk",
-    "source": "x",
-    "ts": "2026-11-10T23:32:01.457Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T23:30:00.000Z",
-    "reason": "Innovative use of a stablecoin in Telegram's messaging platform.",
-    "text": "Telegram messages are becoming interactive apps\n\nPavel Durov (@durov) says programs under 4 KB will run inside @Telegram chats, with $TON payments built in. Rollout timing hasn't been confirmed.\n\nFull story:",
-    "url": "https://x.com/BSCNews/status/2120297956415037651",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120289064754556928/vid/avc1/1280x720/_8X3KPlP1KfPQsyQ.mp4?tag=29",
-      "duration": 197,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120289064754556928/img/ZEk_0IZLR3ON2IUg.jpg"
-    }
-  },
-  {
-    "id": "x-1794354137801-f7rgrd",
-    "source": "x",
-    "ts": "2026-11-10T23:42:17.801Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-10T23:40:41.000Z",
-    "reason": "The tweet is unrelated to cryptocurrencies and does not contain a specific crypto-related event or data point.",
-    "text": "🇺🇸 UPDATE: U.S. home-sale prices fell 0.4% year-over-year in October, marking their first annual decline in over three years.",
-    "url": "https://x.com/Cointelegraph/status/2120300642472247738"
-  },
-  {
     "id": "x-1794354767603-ftatu4",
     "source": "x",
     "ts": "2026-11-10T23:52:47.603Z",
@@ -7998,5 +7946,61 @@
     "reason": "Tweet is in a language other than English and does not contain a concrete, specific crypto-related event.",
     "text": "近日众议院民主党领袖接受采访时表示，美国对以色列提供援助的方式需要重大调整。希望一个安全的以色列与独立的巴勒斯坦国和平共处，让巴勒斯坦人享有尊严和自决的权利。",
     "url": "https://x.com/PhyrexNi/status/2120993624888676700"
+  },
+  {
+    "id": "x-1794520315804-zpkw5i",
+    "source": "x",
+    "ts": "2026-11-12T21:51:55.804Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-12T21:46:41.000Z",
+    "reason": "Notable regulatory action against crypto-related criminal activities.",
+    "text": "🚨 BIG: The US Department of Justice seized infrastructure linked to North Korea’s $400 million FaceStealer crypto theft scheme and froze more than $1.2 billion in cryptocurrency stolen from Binance.",
+    "url": "https://x.com/Cointelegraph/status/2120996730472681732",
+    "images": [
+      "https://pbs.twimg.com/media/HW9LSG2W0AA0W7A.jpg",
+      "https://pbs.twimg.com/media/HW9LSSIX0AAKlRO.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794520319198-kwjiqg",
+    "source": "x",
+    "ts": "2026-11-12T21:51:59.198Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-12T21:44:11.000Z",
+    "reason": "US Justice Department seizure of North Korea's crypto theft",
+    "text": "🚨BREAKING: US Justice Department officially seizes more than $1.2 BILLION of the crypto North Korea’s military stole from Binance.\n\nAbout HALF of the $6 BILLION theft is now frozen, the Justice Department says.\n\nThe FBI also disrupted “FaceStealer”, a North Korean scheme using",
+    "url": "https://x.com/coinbureau/status/2120996100706652512",
+    "images": [
+      "https://pbs.twimg.com/media/HW9JdmGa4AAOAJA.png",
+      "https://pbs.twimg.com/media/HW9JgqtbQAAkNq2.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794520323016-jhsv0r",
+    "source": "x",
+    "ts": "2026-11-12T21:52:03.016Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-12T21:44:00.000Z",
+    "reason": "Notable liquidity mining burn event on a stablecoin.",
+    "text": "Terra Classic has burned over a billion LUNC in 11 days\n\nTerra Classic $LUNC burned close to 100 million tokens a day from November 1 to 11, for a total of 1.06 billion. Four of those days topped 100 million, with November 5 the biggest at 162 million.\n\nThe running total since",
+    "url": "https://x.com/BSCNews/status/2120996054456033457",
+    "images": [
+      "https://pbs.twimg.com/media/HW9GUZFW8AEpPpB.jpg"
+    ],
+    "video": null
   }
 ]
