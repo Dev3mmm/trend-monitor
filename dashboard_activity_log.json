@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794346335476-4vx1is",
-    "source": "x",
-    "ts": "2026-11-10T21:32:15.476Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T21:30:00.000Z",
-    "reason": "No notable move in token pricing or institutional adoption.",
-    "text": "Google Rolls Out Gemini 4 Carbon, Calling It Its Strongest Model.\n\nGoogle said Tuesday Gemini 4 Carbon, its \"strongest model,\" is available via the Gemini API, Gemini for business and to Ultra subscribers, priced at $2 and $10 per million input and output tokens until Nov. 30.",
-    "url": "https://x.com/DecryptMedia/status/2120267755618513313"
-  },
-  {
-    "id": "x-1794346340738-qxqchr",
-    "source": "x",
-    "ts": "2026-11-10T21:32:20.738Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 23,
-    "originTimestamp": "2026-11-10T21:09:03.000Z",
-    "reason": "Proposed quantum-resistant updates for the XRP Ledger.",
-    "text": "News update: the XRP Ledger could be going quantum-resistant 🛡️\n\nThe XRP Ledger Foundation has proposed new $XRP accounts built to survive quantum computers, with no higher base fees. Here's how it would work ⬇️\n\nFull story:",
-    "url": "https://x.com/BSCNews/status/2120265933394489544",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120262391480954880/vid/avc1/1280x720/piV_rzCVVXFAPd2c.mp4?tag=29",
-      "duration": 194,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120262391480954880/img/Uj-QIvhwUT2uHEAm.jpg"
-    }
-  },
-  {
     "id": "x-1794346905423-r4yny6",
     "source": "x",
     "ts": "2026-11-10T21:41:45.423Z",
@@ -8009,5 +7975,40 @@
     "reason": "No notable move in Ethereum price.",
     "text": "IBM bStock (IBMB) dividends are now in your Spot Wallet ✅\n\nIf you were holding tokens before 10 Nov 2026, your dividend should now be available.\n\n→ $1.69 USD dividend per share\n→ Distributed as additional IBMB\n\nThank you for being part of Binance bStocks. 🫡",
     "url": "https://x.com/binance/status/2120969517409198371"
+  },
+  {
+    "id": "x-1794514332113-2qbaly",
+    "source": "x",
+    "ts": "2026-11-12T20:12:12.113Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T20:10:42.000Z",
+    "reason": "Potential regulatory and legal implications for crypto companies.",
+    "text": "🇺🇸 NEW: The Justice Department investigates whether companies tied to Alice Huang helped smuggle Super Micro products into China, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2120972576956600721",
+    "images": [
+      "https://pbs.twimg.com/media/HW81UJLWUAAliTe.jpg",
+      "https://pbs.twimg.com/media/HW81UYLW0AAhBy7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794514337673-clod81",
+    "source": "x",
+    "ts": "2026-11-12T20:12:17.673Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-12T20:07:00.000Z",
+    "reason": "Notable use case growth for a stablecoin within a protocol.",
+    "text": "RWA vaults on @plumenetwork tripled in one quarter, from $73M to over $220M. What’s driving plume:native’s growth, and what’s planned for Q4? ⬇️",
+    "url": "https://x.com/BSCNews/status/2120971645846200482",
+    "images": [],
+    "video": null
   }
 ]
