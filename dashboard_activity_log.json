@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794351119561-ip50h1",
-    "source": "x",
-    "ts": "2026-11-10T22:51:59.561Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-10T22:43:00.000Z",
-    "reason": "Security exploit attempt leads to immediate software patch release.",
-    "text": "Flare fast-tracks a security fix after an exploit attempt\n\n@FlareNetworks ($FLR) is rolling out go-flare v1.15.1, a hard fork that patches a weakness in the upstream code its nodes run on. The fix was planned for later this month, but Flare moved it up after its monitoring caught",
-    "url": "https://x.com/BSCNews/status/2120286126757892373",
-    "images": [
-      "https://pbs.twimg.com/media/HWy_VAbXcAMP6qF.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794351727710-2o7i7p",
-    "source": "x",
-    "ts": "2026-11-10T23:02:07.710Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-10T23:00:51.000Z",
-    "reason": "No notable move or specific event is reported.",
-    "text": "🤖 INTERESTING: Elon Musk calls Anthropic’s Claude Opus 5.5 a “masterpiece,” admitting Grok 4.8 won’t match it but predicting Grok 5 could surpass it within 2–3 months.",
-    "url": "https://x.com/Cointelegraph/status/2120290620249944172"
-  },
-  {
-    "id": "x-1794351730821-zczt0h",
-    "source": "x",
-    "ts": "2026-11-10T23:02:10.821Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T23:00:03.000Z",
-    "reason": "No notable crypto-related news or move mentioned.",
-    "text": "Alibaba's T-Head Confidentially Files for Hong Kong Listing.\n\nAlibaba said Tuesday its wholly owned chip unit T-Head confidentially submitted a listing application to the Hong Kong Stock Exchange on Sept. 11, though the offering's size and structure have not been finalized.",
-    "url": "https://x.com/DecryptMedia/status/2120290417140806088"
-  },
-  {
     "id": "x-1794352908857-b26oec",
     "source": "x",
     "ts": "2026-11-10T23:21:48.857Z",
@@ -7993,6 +7949,54 @@
     "images": [
       "https://pbs.twimg.com/media/HW9AR0WWcAAOgUi.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794519133447-etgnpu",
+    "source": "x",
+    "ts": "2026-11-12T21:32:13.447Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T21:30:47.000Z",
+    "reason": "US government spending surge affecting crypto markets indirectly.",
+    "text": "🚨 BIG: The US budget deficit hit a record $404 billion in October, up 42% year-over-year, as government spending surged to $773 billion while revenues declined to $369 billion.",
+    "url": "https://x.com/Cointelegraph/status/2120992727747752316",
+    "images": [
+      "https://pbs.twimg.com/media/HW9Ho2LWoAAV3_F.jpg",
+      "https://pbs.twimg.com/media/HW9HpRzXYAAzU66.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794519137545-2ka86n",
+    "source": "x",
+    "ts": "2026-11-12T21:32:17.545Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T21:30:00.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Jack Dorsey's Square Launches Squaremates AI Agent for US Sellers.\n\nSquare said Thursday the agent, an evolution of Managerbot, is generally available to US sellers at no additional cost, alongside a new Square CLI and an improved Square MCP for sellers' own AI tools.",
+    "url": "https://x.com/DecryptMedia/status/2120992533031322036"
+  },
+  {
+    "id": "x-1794519141799-t3c19d",
+    "source": "x",
+    "ts": "2026-11-12T21:32:21.799Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-12T21:27:15.000Z",
+    "reason": "Potential regulatory impact on a major investment strategy.",
+    "text": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+    "url": "https://x.com/DecryptMedia/status/2120991839222223091",
+    "images": [],
     "video": null
   }
 ]
