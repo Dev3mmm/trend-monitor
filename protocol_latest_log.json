@@ -2082,5 +2082,19 @@
     "fetchedAt": "2026-11-11T18:32:40.004Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-e9ec0124630032bc",
+    "title": "Trustless ADA ↔ shielded ZEC atomic swaps: open-source research, looking for someone to pick it up",
+    "url": "https://forum.cardano.org/t/trustless-ada-shielded-zec-atomic-swaps-open-source-research-looking-for-someone-to-pick-it-up/158054",
+    "description": "Open for pickup: an Aiken escrow (v0.7) for trustless ADA ↔ shielded ZEC swaps (simulator-tested, never tested on chain) Hi Cardano devs, I’ve been researching zeUTXO , a trustless atomic swap between ADA and shielded Zcash. I’m stepping back now and opening the repo for anyone who wants to continue it or reuse parts. Repo: GitHub - maybejb200/zeUTXO-zcash-cardano-atomic-swap: Research prototype: ",
+    "publishedAt": "2026-11-12T02:30:48.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-12T02:32:48.830Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
