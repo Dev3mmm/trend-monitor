@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794358325000-f7gw0n",
-    "source": "x",
-    "ts": "2026-11-11T00:52:05.000Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-11T00:44:39.000Z",
-    "reason": "Specific institutional move with potential significant financial impact.",
-    "text": "🚨 JUST IN: Anthropic’s bankers may raise the IPO price above the $70–$78 range after heavy investor demand, which could lift its valuation to $1.5T or more, FT reports.",
-    "url": "https://x.com/Cointelegraph/status/2120316743017021785",
-    "images": [
-      "https://pbs.twimg.com/media/HWzg1mcX0AAhGbC.jpg",
-      "https://pbs.twimg.com/media/HWzg1zNX0AAo2VT.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794358922886-7zj6r0",
-    "source": "x",
-    "ts": "2026-11-11T01:02:02.886Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-11T01:00:48.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "⚡️ BRIAN ARMSTRONG: “The way to combat AI cybersecurity attacks is to use more AI on defense.”",
-    "url": "https://x.com/Cointelegraph/status/2120320807792468075"
-  },
-  {
-    "id": "x-1794358928688-dqnmya",
-    "source": "x",
-    "ts": "2026-11-11T01:02:08.688Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-11T00:54:00.000Z",
-    "reason": "Notable increase in developer commits for NEAR Protocol.",
-    "text": "NEAR Protocol development is growing...\n\nAccording to data from @chainspect_app, @NEARProtocol has seen some 675 developer commits in the past 30 days - up +3.85% in the period.\n\nIt ranks as the #6 most developed network in the period by number of developers, outpaced on that",
-    "url": "https://x.com/BSCNews/status/2120319093836583208",
-    "images": [
-      "https://pbs.twimg.com/media/HWwvf9UWcAAvjuc.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794359519747-fv3lns",
     "source": "x",
     "ts": "2026-11-11T01:11:59.747Z",
@@ -8007,6 +7957,55 @@
     "text": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
     "url": "https://x.com/DecryptMedia/status/2121009455357710342",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794523960557-8aa3ai",
+    "source": "x",
+    "ts": "2026-11-12T22:52:40.557Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T22:50:40.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 INSIGHT: Grayscale says crypto assets are becoming less correlated with Bitcoin, with currencies showing 49% annualized volatility.",
+    "url": "https://x.com/Cointelegraph/status/2121012834729345220",
+    "images": [
+      "https://pbs.twimg.com/media/HW9Z7smXcAAprs8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794523962025-qvpqpb",
+    "source": "x",
+    "ts": "2026-11-12T22:52:42.025Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-12T22:42:11.000Z",
+    "reason": "Generic announcement with no notable event.",
+    "text": "Apparently you can post 20 pictures on X now.\n\nLet’s try it out.",
+    "url": "https://x.com/coinbase/status/2121010698603954428"
+  },
+  {
+    "id": "x-1794523964266-r5qsum",
+    "source": "x",
+    "ts": "2026-11-12T22:52:44.266Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-12T22:42:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Quant says five lines of code can put a company’s idle cash to work\n\n@quantnetwork ($QNT) published an article today arguing that banks should stop treating payments as a cost and start selling them as products. Its example is an automatic investment sweep written in Quant’s",
+    "url": "https://x.com/BSCNews/status/2121010650759516171",
+    "images": [
+      "https://pbs.twimg.com/media/HW9PGQcWMAA_P9B.jpg"
+    ],
     "video": null
   }
 ]
