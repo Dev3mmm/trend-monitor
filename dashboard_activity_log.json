@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794307341386-41a7hf",
-    "source": "x",
-    "ts": "2026-11-10T10:42:21.386Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 41,
-    "originTimestamp": "2026-11-10T10:01:28.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Elon Musk just revealed a massive update on Grok 4.8, and SpaceXSI has completely rebuilt its reinforcement learning and inference infrastructure from scratch\n\nThe engineering team has abandoned JAX and SGLang, rewriting the entire RL and inference stack in C/C++\n\nHere’s where",
-    "url": "https://x.com/elonmusk/status/2120102894817173862"
-  },
-  {
     "id": "x-1794307344062-enoagq",
     "source": "x",
     "ts": "2026-11-10T10:42:24.062Z",
@@ -8063,6 +8050,25 @@
     "url": "https://x.com/BSCNews/status/2120800594046967833",
     "images": [
       "https://pbs.twimg.com/media/HW6WmLybwAA24ia.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794474140928-lphj01",
+    "source": "x",
+    "ts": "2026-11-12T09:02:20.928Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T09:01:07.000Z",
+    "reason": "New CFTC approval for regulated derivatives exchange.",
+    "text": "🇺🇸 NEW: The CFTC has approved a tZERO subsidiary to operate a regulated derivatives exchange.",
+    "url": "https://x.com/Cointelegraph/status/2120804068234825734",
+    "images": [
+      "https://pbs.twimg.com/media/HW6cDmdWoAART47.jpg",
+      "https://pbs.twimg.com/media/HW6cDziWMAABN5h.jpg"
     ],
     "video": null
   }
