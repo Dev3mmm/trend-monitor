@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794318237533-bz6s47",
-    "source": "x",
-    "ts": "2026-11-10T13:43:57.533Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-10T13:32:55.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇺🇸 JUST IN: US CPI rises 0.4% month over month in October, above the 0.3% estimate.\n\nCore CPI rises 0.3%, above the 0.2% estimate and matching September’s pace.",
-    "url": "https://x.com/Cointelegraph/status/2120147694035579262"
-  },
-  {
-    "id": "x-1794318779599-68ib1x",
-    "source": "x",
-    "ts": "2026-11-10T13:52:59.599Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T13:50:29.000Z",
-    "reason": "No notable move or specific event, just generic praise.",
-    "text": "HUGE SHOUTOUT TO OUR AMAZING TEAM!\n\nThank you for your hard work 👏🧡",
-    "url": "https://x.com/BitcoinMagazine/status/2120152237666168974"
-  },
-  {
     "id": "x-1794319487631-hkljbv",
     "source": "x",
     "ts": "2026-11-10T14:04:47.631Z",
@@ -8051,6 +8025,41 @@
     "images": [
       "https://pbs.twimg.com/media/HW7MZKxWIAEDVet.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794490377467-v8qtwc",
+    "source": "x",
+    "ts": "2026-11-12T13:32:57.467Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-12T13:30:00.000Z",
+    "reason": "Significant adjustment in mining difficulty affecting Bitcoin supply and price.",
+    "text": "Bitcoin Mining Difficulty on Track for Biggest Cut Since June.\n\nBitcoin's next difficulty adjustment, expected around 6:30 PM EST Friday (23:30 UTC), is on track to cut mining difficulty by roughly 7% to 8% from 148.36T, according to mempoolspace and CoinWarz estimates.",
+    "url": "https://x.com/DecryptMedia/status/2120871736266866922",
+    "images": [
+      "https://pbs.twimg.com/media/HW7VFOdXsAAPVyY.jpg",
+      "https://pbs.twimg.com/media/HW7VaRLWEAAsUB3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794490379771-2rpnj3",
+    "source": "x",
+    "ts": "2026-11-12T13:32:59.771Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-12T13:27:00.000Z",
+    "reason": "Notable institutional move with potential for widespread impact on the crypto market.",
+    "text": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+    "url": "https://x.com/DecryptMedia/status/2120870983384928649",
+    "images": [],
     "video": null
   }
 ]
