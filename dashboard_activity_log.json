@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1794321749268-lyxhnr",
-    "source": "x",
-    "ts": "2026-11-10T14:42:29.268Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-10T14:40:40.000Z",
-    "reason": "No notable move, price is well within the recent trading range.",
-    "text": "⚡ INSIGHT: Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs widening access to Bitcoin he expects a new record high in 2027.",
-    "url": "https://x.com/Cointelegraph/status/2120164742677286992"
-  },
-  {
-    "id": "x-1794321753489-oe146b",
-    "source": "x",
-    "ts": "2026-11-10T14:42:33.490Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-10T14:32:51.000Z",
-    "reason": "No notable move, tweet is vague and promotional.",
-    "text": "LIVE: Debasement Trade, Bitcoin Policy, Gold &amp; Macro | BMTV Nov. 10, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2120162778375761963"
-  },
-  {
-    "id": "x-1794321757514-i6hhf1",
-    "source": "x",
-    "ts": "2026-11-10T14:42:37.514Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-10T14:32:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Do you know that @Injective Network runs on the @Cosmos SDK? \n\nFind out how many chains run on Cosmos...",
-    "url": "https://x.com/BSCNews/status/2120162562432221603"
-  },
-  {
-    "id": "x-1794322448825-8s6y4j",
-    "source": "x",
-    "ts": "2026-11-10T14:54:08.825Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T14:52:00.000Z",
-    "reason": "Notable security development with AI agents and automated market makers.",
-    "text": "Ledger Wants AI Agents to Propose, Not Sign\n\n@Ledger is implementing its Ledger Agent Intent model, a hardware-isolated security layer that ensures autonomous AI agents can't access signer keys.\n\nAI agents and automated market makers can perform onchain surveillance and manage",
-    "url": "https://x.com/BSCNews/status/2120167596234313754",
-    "images": [
-      "https://pbs.twimg.com/media/HWxTvNYXcAAmZuz.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794322452310-f6id3x",
     "source": "x",
     "ts": "2026-11-10T14:54:12.310Z",
@@ -8073,5 +8016,67 @@
     "reason": "No notable move or event described.",
     "text": "From idea to execution with Binance AI Pro:\n\n→ Describe your strategy in plain language\n→ Backtest it and try it on paper\n→ Approve it and let it run 24/7\n\nYou decide when it goes live. \n\nMore info 👉",
     "url": "https://x.com/binance/status/2120880359277478161"
+  },
+  {
+    "id": "x-1794493334339-x5copp",
+    "source": "x",
+    "ts": "2026-11-12T14:22:14.339Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-12T14:18:54.000Z",
+    "reason": "New use of a token/stablecoin on a specific blockchain.",
+    "text": "Xash launches at Solana Breakpoint with gold rewards for stablecoin activity.\n\nThe @Solana app pays users in tokenized gold for lending, trading, and providing liquidity with stablecoins on established DeFi platforms. Instead of short-term token incentives that fade after a few",
+    "url": "https://x.com/BSCNews/status/2120884041926726086",
+    "images": [
+      "https://pbs.twimg.com/media/HW7kyrCX0AAabbf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794493337235-gfladb",
+    "source": "x",
+    "ts": "2026-11-12T14:22:17.235Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-12T14:18:15.000Z",
+    "reason": "No notable move or specific event related to crypto.",
+    "text": "Elon Musk said hiring Jensen Huang \"would be an honor.\"\n\nNow Huang is out at Nvidia.\n\nWill Musk actually make the offer? \n\nAnd if Huang joins Musk, could the man who built Nvidia end up building its biggest rival?",
+    "url": "https://x.com/Cointelegraph/status/2120883877254468031"
+  },
+  {
+    "id": "x-1794493340277-txk8yn",
+    "source": "x",
+    "ts": "2026-11-12T14:22:20.277Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 25,
+    "originTimestamp": "2026-11-12T13:56:26.000Z",
+    "reason": "No notable move in the tweet provided.",
+    "text": "🚨HOT TAKE: Recently resigned Nvidia CEO Jensen Huang is “VERY, VERY difficult to replace,” says Bernstein’s Stacy Rasgon.\n\nRasgon says $NVDA is where it is today because Huang saw the AI opportunity and made key decisions 10 YEARS ago.\n\nFor him, running Nvidia is one thing.",
+    "url": "https://x.com/coinbureau/status/2120883800884547770"
+  },
+  {
+    "id": "x-1794493344217-be61qq",
+    "source": "x",
+    "ts": "2026-11-12T14:22:24.217Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-12T14:14:00.000Z",
+    "reason": "Notable institutional adoption with a major crypto clearing house integrating with Solana blockchain.",
+    "text": "Wall Street's Clearing Giant Is Bringing Tokenized Assets to Solana\n\n@The_DTCC, the Depository Trust &amp; Clearing Corporation, said its DTCC Tokenization Service will soon integrate with the @Solana blockchain.\n\nOnce done, eligible assets stored with the DTC will be able to be",
+    "url": "https://x.com/BSCNews/status/2120882808352899509",
+    "images": [
+      "https://pbs.twimg.com/media/HW7eiDjWkAAbkUe.jpg"
+    ],
+    "video": null
   }
 ]
