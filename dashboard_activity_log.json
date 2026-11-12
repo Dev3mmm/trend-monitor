@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794348725242-lszd30",
-    "source": "x",
-    "ts": "2026-11-10T22:12:05.242Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-10T22:03:42.000Z",
-    "reason": "Specific warning on potential price movement based on technical analysis.",
-    "text": "🚨 ALERT: CryptoQuant warns Bitcoin could face a deeper correction as its Bull Score Index drops to 20, with $BTC trading below its 365-day moving average of $76,400 and the next key support at $73,200.",
-    "url": "https://x.com/Cointelegraph/status/2120276237591445727",
-    "images": [
-      "https://pbs.twimg.com/media/HWy8AC8WgAEFtQd.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794349366554-9cy6dg",
-    "source": "x",
-    "ts": "2026-11-10T22:22:46.554Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T22:20:40.000Z",
-    "reason": "No notable move, sentiment analysis not a concrete event.",
-    "text": "🚨 INSIGHT: Crypto sentiment plunges into bearish territory as Bitcoin, Ethereum, and $XRP face growing retail pessimism, potentially setting the stage for a market rebound, according to Santiment.",
-    "url": "https://x.com/Cointelegraph/status/2120280509376839988"
-  },
-  {
     "id": "x-1794349371711-ra6ms7",
     "source": "x",
     "ts": "2026-11-10T22:22:51.711Z",
@@ -7987,5 +7956,42 @@
     "reason": "No notable move in the price or event details.",
     "text": "⚡️️️️️️️ LATEST: XRP Ledger marks 15 years since David Schwartz wrote his first code for the blockchain’s core on November 11, 2011.",
     "url": "https://x.com/Cointelegraph/status/2120978941619892426"
+  },
+  {
+    "id": "x-1794516788074-uzd5qo",
+    "source": "x",
+    "ts": "2026-11-12T20:53:08.074Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T20:50:41.000Z",
+    "reason": "Notable token buyback executed by a financial institution.",
+    "text": "⚡️ NEW: World Liberty Financial (WLFI) has executed its first $1 million in token buybacks in less than 72 hours, with transactions verifiable onchain.",
+    "url": "https://x.com/Cointelegraph/status/2120982639737741742",
+    "images": [
+      "https://pbs.twimg.com/media/HW8-d2oXsAAERUd.jpg",
+      "https://pbs.twimg.com/media/HW8-eFQXQAEeFwK.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794516793915-b6aukp",
+    "source": "x",
+    "ts": "2026-11-12T20:53:13.915Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-12T20:46:00.000Z",
+    "reason": "New decentralized order book on a layer 1 blockchain token.",
+    "text": "KOB opens its testnet with limit orders straight on Kaspa\n\nDeveloper @crono_walker launched the testnet for KOB today, a decentralized order book that runs directly on Kaspa $KAS layer 1. Traders buy and sell Kaspa tokens at prices they set, and no central server holds their keys",
+    "url": "https://x.com/BSCNews/status/2120981458336600301",
+    "images": [
+      "https://pbs.twimg.com/media/HW86ndQWAAAAHLc.jpg"
+    ],
+    "video": null
   }
 ]
