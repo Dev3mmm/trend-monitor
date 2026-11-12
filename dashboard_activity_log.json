@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794286387459-ozj1wj",
-    "source": "x",
-    "ts": "2026-11-10T04:53:07.459Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 23,
-    "originTimestamp": "2026-11-10T04:29:40.000Z",
-    "reason": "Pieverse hit a fresh all-time high and has a market cap of around $550 million.",
-    "text": "A crypto project building payment rails for AI agents just broke into the top 100 🚨\n\nPieverse (ethereum:0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9) hit a fresh all-time high this week, and its market cap is now around $550 million.\n\nAll the details ⬇️\nThe full story:",
-    "url": "https://x.com/BSCNews/status/2120015533684715898",
-    "images": [
-      "https://pbs.twimg.com/media/HWvKs4yXMAE-cyy.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794286914478-i3k2nx",
-    "source": "x",
-    "ts": "2026-11-10T05:01:54.478Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-10T05:00:02.000Z",
-    "reason": "No notable move or new information provided.",
-    "text": "Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.",
-    "url": "https://x.com/DecryptMedia/status/2120018621581631999"
-  },
-  {
     "id": "x-1794286916997-9pakeo",
     "source": "x",
     "ts": "2026-11-10T05:01:56.997Z",
@@ -8056,5 +8025,36 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🔥 TODAY: Elon Musk says SpaceX aims for 1 TW of solar capacity per year on Earth and over 1 PW per year from the Moon, which he claims would make the company worth more than Earth itself.",
     "url": "https://x.com/Cointelegraph/status/2120690734692975097"
+  },
+  {
+    "id": "x-1794447738196-0thjp9",
+    "source": "x",
+    "ts": "2026-11-12T01:42:18.196Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-12T01:40:41.000Z",
+    "reason": "No notable move or specific event is clearly reported.",
+    "text": "⚡️ JUST IN: Elon Musk says it “would be an honor” to hire Nvidia CEO Jensen Huang.",
+    "url": "https://x.com/Cointelegraph/status/2120693232275206188"
+  },
+  {
+    "id": "x-1794447742350-bzj2pc",
+    "source": "x",
+    "ts": "2026-11-12T01:42:22.350Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-12T01:39:39.000Z",
+    "reason": "Exposes significant portion of Bitcoin supply to quantum computing risk.",
+    "text": "JUST IN: More than 1 in 3 Bitcoin, worth over $500 BILLION, is now exposed to future quantum computers.\n\nGlassnode data shows 7.12 MILLION $BTC, or 35.4% of supply, has public keys already visible on the blockchain.\n\nMost Bitcoin addresses reveal their public key the first time",
+    "url": "https://x.com/coinbureau/status/2120692972736188479",
+    "images": [
+      "https://pbs.twimg.com/media/HW43Ax2aEAAyp2e.jpg"
+    ],
+    "video": null
   }
 ]
