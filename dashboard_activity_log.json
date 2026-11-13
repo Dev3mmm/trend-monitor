@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794417389603-va60h1",
-    "source": "x",
-    "ts": "2026-11-11T17:16:29.604Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 43,
-    "originTimestamp": "2026-11-11T16:33:00.000Z",
-    "reason": "No concrete newsworthy information, speculative tweet without verified facts.",
-    "text": "JUST IN: Donald Trump is still looking to buy $BTC for the Strategic Bitcoin Reserve, his former crypto adviser says 🚨\n\nPatrick Witt, who held the White House crypto job, says something is still standing between that plan and an actual purchase.\n\nWhat it means ⬇️\nDetails here:",
-    "url": "https://x.com/BSCNews/status/2120564620171624460"
-  },
-  {
     "id": "x-1794417395390-zde69w",
     "source": "x",
     "ts": "2026-11-11T17:16:35.390Z",
@@ -8003,6 +7990,25 @@
     "text": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
     "url": "https://x.com/DecryptMedia/status/2121201912041144558",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794570126125-lrltw2",
+    "source": "x",
+    "ts": "2026-11-13T11:42:06.125Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T11:40:43.000Z",
+    "reason": "Mantra announces an emergency pause following a wallet exploit.",
+    "text": "🚨 ALERT: MANTRA says hackers are unstaking users' tokens following a Web3Auth-Keplr wallet exploit.\n\nMANTRA announces emergency seven-day unbonding pause.",
+    "url": "https://x.com/Cointelegraph/status/2121206622324224058",
+    "images": [
+      "https://pbs.twimg.com/media/HXAKLFzWwAAn4bb.png",
+      "https://pbs.twimg.com/media/HXAKLdbWcAAJB3j.png"
+    ],
     "video": null
   }
 ]
