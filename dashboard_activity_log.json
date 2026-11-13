@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794383510607-jo669q",
-    "source": "x",
-    "ts": "2026-11-11T07:51:50.607Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-11T07:45:49.000Z",
-    "reason": "No notable or specific news event.",
-    "text": "The BEST bet on Anthropic’s IPO might just be an $AMZN buy.\n\nAmazon’s $18 BILLION strategic investment in Anthropic would be worth nearly $272 BILLION at the expected IPO price. \n\nThat’s about 15× its original investment.\n\nAnthropic is also a MAJOR customers of AWS. \nIt has",
-    "url": "https://x.com/coinbureau/status/2120422730717925658"
-  },
-  {
-    "id": "x-1794384119053-lhbrks",
-    "source": "x",
-    "ts": "2026-11-11T08:01:59.053Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-11T08:01:10.000Z",
-    "reason": "Notable ETF outflows for BTC, ETH, and XRP on Nov. 10.",
-    "text": "🇺🇸 ETF FLOWS: Spot BTC, ETH, and XRP ETFs saw net outflows on Nov. 10.\n\nBTC: -$95.00M\nETH: -$1.32M\nXRP: -$7.62M",
-    "url": "https://x.com/Cointelegraph/status/2120426593327649122",
-    "images": [
-      "https://pbs.twimg.com/media/HW1EvkLWEAAdXBC.png",
-      "https://pbs.twimg.com/media/HW1Ev4FWMAEFbAY.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794384125081-9wha30",
     "source": "x",
     "ts": "2026-11-11T08:02:05.081Z",
@@ -7998,6 +7966,40 @@
     "url": "https://x.com/Cointelegraph/status/2121095794258481471",
     "images": [
       "https://pbs.twimg.com/media/HW-lXqxbsAIMbcc.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794544325123-20dftg",
+    "source": "x",
+    "ts": "2026-11-13T04:32:05.123Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T04:30:40.000Z",
+    "reason": "Specific and verifiable institutional data showing a significant drop in retail volume.",
+    "text": "⚡️ NEW: Gemini’s Q3 retail volume dropped 14% to $600M, its lowest in three years, even as total spot volume rose 18% to $4.5B.",
+    "url": "https://x.com/Cointelegraph/status/2121098397155295305",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794544328584-qubt08",
+    "source": "x",
+    "ts": "2026-11-13T04:32:08.584Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-13T04:24:15.000Z",
+    "reason": "Coinbase warns MiCA could negatively impact DeFi users.",
+    "text": "Coinbase Warns MiCA Could Backfire on DeFi Users\n\nCoinbase's (@coinbase) EU policy chief, Roeland Van der Stappen, warns that stricter MiCA rules could hurt DeFi access.\n\nStappen says lending, liquidity provision and onchain swaps could face tighter scrutiny. Some providers may",
+    "url": "https://x.com/BSCNews/status/2121096780750454888",
+    "images": [
+      "https://pbs.twimg.com/media/HW-ikHLa4AAZhX7.png"
     ],
     "video": null
   }
