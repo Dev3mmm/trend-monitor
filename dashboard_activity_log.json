@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794427918185-vpxyhb",
-    "source": "x",
-    "ts": "2026-11-11T20:11:58.185Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-11T20:10:53.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "The vote is won, but the upgrade isn’t on yet. What stands between @SeiNetwork ($SEI) and Autobahn on mainnet? ⬇️",
-    "url": "https://x.com/BSCNews/status/2120610235320823964"
-  },
-  {
-    "id": "x-1794431515778-u4k2lg",
-    "source": "x",
-    "ts": "2026-11-11T21:11:55.778Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-11T21:00:56.000Z",
-    "reason": "New developer activity data on a minor crypto asset.",
-    "text": "🔥 INSIGHT: Grayscale says active Zcash developers have doubled in two years, outpacing the rest of crypto.",
-    "url": "https://x.com/Cointelegraph/status/2120622828714123398",
-    "images": [
-      "https://pbs.twimg.com/media/HW33OS1X0AAc9G_.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794431518383-d6kpv1",
-    "source": "x",
-    "ts": "2026-11-11T21:11:58.383Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 25,
-    "originTimestamp": "2026-11-11T20:47:00.000Z",
-    "reason": "Specific institutional action with quantifiable financial details.",
-    "text": "NEAR has nearly matched last quarter’s buybacks with half of Q4 still to go\n\nRevenue from NEAR Intents (@near_intents) has funded about $2.7M in $NEAR buybacks so far this quarter, against $3.07M for all of Q3, per DefiLlama. The swap product has kept $2.82M of the $8.68M in fees",
-    "url": "https://x.com/BSCNews/status/2120619322284667228",
-    "images": [
-      "https://pbs.twimg.com/media/HW3wvduWQAAj8wo.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794431520451-j0mvcz",
     "source": "x",
     "ts": "2026-11-11T21:12:00.451Z",
@@ -7954,5 +7905,49 @@
       "https://pbs.twimg.com/media/HXBkkZoaEAAFm63.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794596512885-8q2qlx",
+    "source": "x",
+    "ts": "2026-11-13T19:01:52.885Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-13T19:01:09.000Z",
+    "reason": "Microsoft outage suggests potential issues in its systems.",
+    "text": "🚨 ALERT: Microsoft says its attempts to fix a global outage are not going as expected.",
+    "url": "https://x.com/Cointelegraph/status/2121317459999314400",
+    "images": [
+      "https://pbs.twimg.com/media/HXBu_JNWcAATAuU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794596514902-iknouz",
+    "source": "x",
+    "ts": "2026-11-13T19:01:54.902Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T19:00:00.000Z",
+    "reason": "No notable move in crypto market mentioned.",
+    "text": "Michael Dempsey: Crypto VC Has Been Nearly Dead for Two Years as AI Draws Away Talent\n\nCompound managing partner Michael Dempsey @mhdempsey said in an October 13 Empire interview that crypto venture capital has been nearly dead for two years. In 2021, tech entrepreneurs flocked",
+    "url": "https://x.com/WuBlockchain/status/2121317170747433254"
+  },
+  {
+    "id": "x-1794596516459-70mndu",
+    "source": "x",
+    "ts": "2026-11-13T19:01:56.459Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-13T18:56:32.000Z",
+    "reason": "Noise: Unclear crypto-related content.",
+    "text": "About 4 hours to Flight 15",
+    "url": "https://x.com/elonmusk/status/2121316611974185273"
   }
 ]
