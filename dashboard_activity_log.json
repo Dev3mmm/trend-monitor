@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794419180097-lwjgez",
-    "source": "x",
-    "ts": "2026-11-11T17:46:20.097Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-11T17:40:39.000Z",
-    "reason": "No notable move in ETH price as the tweet mentions a research series without a specific price point.",
-    "text": "⚡️ NEW: Cointelegraph Research breaks down MATT and OP_CCV; a Bitcoin covenant proposal that would let contracts carry state across transactions.\n\nPart 5 of our Bitcoin covenants series 👇",
-    "url": "https://x.com/Cointelegraph/status/2120572428514382106"
-  },
-  {
-    "id": "x-1794419184001-oxfdjf",
-    "source": "x",
-    "ts": "2026-11-11T17:46:24.001Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-11T17:40:21.000Z",
-    "reason": "Specific, verifiable institutional adoption event.",
-    "text": "JUST IN: 🇮🇱 $150 billion Israel Discount Bank will become the 1st bank in Israel to let customers buy, hold and sell Bitcoin 👀\n\nAdoption! 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2120572350936539229",
-    "images": [
-      "https://pbs.twimg.com/media/HW3JQcGXMAAokzc.jpg",
-      "https://pbs.twimg.com/media/HW3JQcFW8AAexcE.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794419189534-r14b7x",
     "source": "x",
     "ts": "2026-11-11T17:46:29.534Z",
@@ -7935,5 +7903,42 @@
     "reason": "No notable move in the given context.",
     "text": "Your feed has plenty of market opinions. 🗣️ \n\nNow explore the numbers behind them. \n\nFind traders worth following on the Binance Square Leaderboard.\n\n👉",
     "url": "https://x.com/binance/status/2121272801017339942"
+  },
+  {
+    "id": "x-1794586919641-71d86x",
+    "source": "x",
+    "ts": "2026-11-13T16:21:59.642Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T16:20:42.000Z",
+    "reason": "Notable use of a stablecoin on a new blockchain platform.",
+    "text": "🔥 TODAY: Circle minted 500M $USDC on Solana.",
+    "url": "https://x.com/Cointelegraph/status/2121277081543737606",
+    "images": [
+      "https://pbs.twimg.com/media/HXBKQofWYAABE28.jpg",
+      "https://pbs.twimg.com/media/HXBKQ4UWYAAADiO.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794586923014-r2zb8q",
+    "source": "x",
+    "ts": "2026-11-13T16:22:03.014Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-13T16:13:00.000Z",
+    "reason": "ETF facing significant outflows and lack of activity.",
+    "text": "Bitwise's $NEAR ETF faces a difficult period.\n\n@Bitwise's spot @NEARProtocol ETF (which launched in late September) has now not seen a single day of net positive activity since October 26.\n\nSince then, it has seen four days of net outflows and nine days of $0 activity.",
+    "url": "https://x.com/BSCNews/status/2121275143481864440",
+    "images": [
+      "https://pbs.twimg.com/media/HXAnBfgWAAAx93X.jpg"
+    ],
+    "video": null
   }
 ]
