@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794419189534-r14b7x",
-    "source": "x",
-    "ts": "2026-11-11T17:46:29.534Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-11T17:32:58.000Z",
-    "reason": "Centrifuge's announcement about new on-chain funds toolkit is a notable move in the DeFi space.",
-    "text": "Centrifuge unveils a ready-made vault toolkit for onchain funds, with LayerZero inside\n\n@centrifuge ($CFG) unveiled the Vault Development Kit today, a set of building blocks for onchain funds. Developers will choose the rules a product needs, like instant redemptions for a",
-    "url": "https://x.com/BSCNews/status/2120570492591493613",
-    "images": [
-      "https://pbs.twimg.com/media/HW3HY9zXkAAjNhW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794419728810-7t11r4",
-    "source": "x",
-    "ts": "2026-11-11T17:55:28.810Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-11T17:53:11.000Z",
-    "reason": "Specific institutional adoption and new trading feature launch.",
-    "text": "Read the news, trade the news: Decrypt is now the first news publisher with perps trading, powered by @PhoenixTrade on @solana.\n\nWe sat down with Phoenix's @ethtwit to talk on-chain perps, Decrypt's new Information Exchange, and why he's shorting Anthropic.\n\n01:14 - Trading on",
-    "url": "https://x.com/DecryptMedia/status/2120575580026663084",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120574342245363712/vid/avc1/1280x720/ZX0jNn4FjxQp0RAM.mp4?tag=29",
-      "duration": 687,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120574342245363712/img/-wjmH4ulIdNfL5xH.jpg"
-    }
-  },
-  {
     "id": "x-1794420179102-ifiqr6",
     "source": "x",
     "ts": "2026-11-11T18:02:59.102Z",
@@ -7938,6 +7899,42 @@
     "url": "https://x.com/BSCNews/status/2121275143481864440",
     "images": [
       "https://pbs.twimg.com/media/HXAnBfgWAAAx93X.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794587556701-686510",
+    "source": "x",
+    "ts": "2026-11-13T16:32:36.701Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-13T16:31:47.000Z",
+    "reason": "Exploit of secure wallet software raises security concerns.",
+    "text": "🚨ALARMING: Trezor found HIDDEN hardware implants in three Safe 5 wallets sold by CryptoBilis that can STEAL recovery phrases.\n\nThe implants copy phrases from the wallet’s screen and send them to attackers over a mobile network. \n\nFortunately, NONE of the three owners has",
+    "url": "https://x.com/coinbureau/status/2121279872534544638",
+    "images": [
+      "https://pbs.twimg.com/media/HXBLpXRbgAEUQci.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794587562122-43hhmk",
+    "source": "x",
+    "ts": "2026-11-13T16:32:42.122Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T16:30:20.000Z",
+    "reason": "Security advisory warning users about a Telegram Android vulnerability.",
+    "text": "Bybit Warns of Telegram Android Vulnerability, Urges Users to Update Immediately\n\nBybit issued a security advisory on November 13 following reports of a vulnerability in Telegram for Android, warning that a compromised device could also put other applications at risk. Bybit urged",
+    "url": "https://x.com/WuBlockchain/status/2121279504639459651",
+    "images": [
+      "https://pbs.twimg.com/media/HXBMYZxbgAgW0dw.jpg"
     ],
     "video": null
   }
