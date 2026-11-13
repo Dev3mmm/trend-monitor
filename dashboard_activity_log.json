@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794417395390-zde69w",
-    "source": "x",
-    "ts": "2026-11-11T17:16:35.390Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-11T17:04:45.000Z",
-    "reason": "Launch of new cross-chain swap functionality.",
-    "text": "Chainflip launches native swaps on BNB Chain.\n\n@Chainflip now lets users swap $BNB and $USDT on @BNBChain directly for $BTC, $ETH, $SOL, $DOT on @Polkadot, $ARB on @Arbitrum, $TRX on @Trondao and other assets.\n\nUsers send native assets directly from their own wallets and receive",
-    "url": "https://x.com/BSCNews/status/2120563391253102802",
-    "images": [
-      "https://pbs.twimg.com/media/HW3BIBZXwAAz3rs.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794417401006-27c8t1",
-    "source": "x",
-    "ts": "2026-11-11T17:16:41.006Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Bitcoin Magazine",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-11T17:04:45.000Z",
-    "reason": "Not a concrete event that can be verified or substantiated.",
-    "text": "JUST IN: 🇺🇸 Former CFTC Chairman Chris Giancarlo says \"the genie is out of the bottle\" on crypto, and it’s going to consume the entire financial system 👀\n\n\"Wall Street itself is now adopting digital network technology as its very architecture.\" 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2120563390712258926",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120561878753546240/vid/avc1/1280x720/34UDr_dKvsoA-GOF.mp4?tag=29",
-      "duration": 32,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120561878753546240/img/0APRzsCLB6rAjWnN.jpg"
-    }
-  },
-  {
     "id": "x-1794417405569-akb3gf",
     "source": "x",
     "ts": "2026-11-11T17:16:45.569Z",
@@ -8008,6 +7969,37 @@
     "images": [
       "https://pbs.twimg.com/media/HXAKLFzWwAAn4bb.png",
       "https://pbs.twimg.com/media/HXAKLdbWcAAJB3j.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794570753390-62b35o",
+    "source": "x",
+    "ts": "2026-11-13T11:52:33.390Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T11:50:26.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "BREAKING: $NVDA rebounds above $170, up +15% from the low reached after Jensen Huang resigned, as investors keep buying the dip.",
+    "url": "https://x.com/coinbureau/status/2121209068933263443"
+  },
+  {
+    "id": "x-1794570757570-fu66ay",
+    "source": "x",
+    "ts": "2026-11-13T11:52:37.570Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-13T11:46:00.000Z",
+    "reason": "Noteworthy institutional growth and increase in TVL.",
+    "text": "EVEDEX on Arbitrum has had a tremendous year!\n\nThe total value locked (TVL) of @EVEDEX has increased by 418% over the last 12 months.\n\nThe protocol's liquidity is deployed natively on @Arbitrum, driving additional capital into derivatives markets on Ethereum Layer-2 solutions.",
+    "url": "https://x.com/BSCNews/status/2121207950748647886",
+    "images": [
+      "https://pbs.twimg.com/media/HXAGWIUWUAAbs1X.jpg"
     ],
     "video": null
   }
