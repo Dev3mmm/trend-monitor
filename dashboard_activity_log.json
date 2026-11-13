@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1794417431138-webw9m",
-    "source": "x",
-    "ts": "2026-11-11T17:17:11.138Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 8,
-    "author": "Cointelegraph",
-    "ageMin": 35,
-    "originTimestamp": "2026-11-11T16:40:46.000Z",
-    "reason": "The tweet appears to be exaggerating the holdings, no concrete data provided.",
-    "text": "🔥 BIG: Strategy holds more Bitcoin than any ETF or government, with 850,364 $BTC, or 4.2% of circulating supply.",
-    "url": "https://x.com/Cointelegraph/status/2120557357339951512",
-    "images": [
-      "https://pbs.twimg.com/media/HW27rFLWEAAU-P_.jpg",
-      "https://pbs.twimg.com/media/HW27rZWXsAAfCWE.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794417436376-k4y3og",
     "source": "x",
     "ts": "2026-11-11T17:17:16.376Z",
@@ -8001,5 +7982,18 @@
     "url": "https://x.com/BSCNews/status/2121215991237505512",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794573121019-rsa6t1",
+    "source": "x",
+    "ts": "2026-11-13T12:32:01.019Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T12:30:52.000Z",
+    "reason": "No direct relation to crypto or blockchain technology.",
+    "text": "🔥 LATEST: Amazon has explored cataloging nearly every product for sale in the world to compete with rival AI shopping agents, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2121219244666847584"
   }
 ]
