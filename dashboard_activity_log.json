@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1794417891421-vi630d",
-    "source": "x",
-    "ts": "2026-11-11T17:24:51.421Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 15,
-    "author": "BSCN",
-    "ageMin": 68,
-    "originTimestamp": "2026-11-11T16:15:00.000Z",
-    "reason": "Hedera's ETF saw significant outflows, marking a historically notable day.",
-    "text": "Hedera's fourth ever day of ETF outflows in history...\n\nYesterday, Canary's spot @Hedera ETF bled -$178.97K in net outflows.\n\nThough only small by institutional standards, this marks the fourth day of net outflows the product has seen in over a year.\n\nHowever, 3 out of those 4",
-    "url": "https://x.com/BSCNews/status/2120550871196909809",
-    "images": [
-      "https://pbs.twimg.com/media/HW12SoxWgAEi_2K.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794417897010-80ifj1",
-    "source": "x",
-    "ts": "2026-11-11T17:24:57.010Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 16,
-    "author": "BSCN",
-    "ageMin": 74,
-    "originTimestamp": "2026-11-11T16:08:58.000Z",
-    "reason": "Notable use of a new cryptographic technology in a stablecoin transfer.",
-    "text": "Stacks is well ahead of the post-quantum game.\n\nStacks Labs just completed the first post-quantum $sBTC transfer on Stacks mainnet.\n\n@Stacks used a Lamport one-time signature verified in Clarity, showing the network can already check hash-based post-quantum signatures through",
-    "url": "https://x.com/BSCNews/status/2120549352267543008",
-    "images": [
-      "https://pbs.twimg.com/media/HW20WgwXcAI9C7_.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794417901527-svwj9u",
     "source": "x",
     "ts": "2026-11-11T17:25:01.527Z",
@@ -7945,5 +7909,31 @@
     "reason": "No notable move in crypto related to the US stock market.",
     "text": "🇺🇸 ALERT: The US stock market lost $650 billion in market capitalization within the first 25 minutes of trading.",
     "url": "https://x.com/Cointelegraph/status/2121264529833136571"
+  },
+  {
+    "id": "x-1794584664612-740e6m",
+    "source": "x",
+    "ts": "2026-11-13T15:44:24.613Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 78,
+    "originTimestamp": "2026-11-13T14:25:39.000Z",
+    "reason": "Noise: meme or internet slang without context or price/movement.",
+    "text": "Starlink",
+    "url": "https://x.com/elonmusk/status/2121267716023546027"
+  },
+  {
+    "id": "x-1794584668571-y79w08",
+    "source": "x",
+    "ts": "2026-11-13T15:44:28.571Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-13T15:31:53.000Z",
+    "reason": "No notable move or news event described.",
+    "text": "We regularly perform system maintenance to ensure the reliability and performance of our platform.\n\nDuring this time, some users may experience temporary degraded performance. Your funds are safe.",
+    "url": "https://x.com/coinbase/status/2121265190108836061"
   }
 ]
