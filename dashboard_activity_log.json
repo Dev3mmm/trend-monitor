@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794443594314-ib9hsz",
-    "source": "x",
-    "ts": "2026-11-12T00:33:14.314Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T00:30:45.000Z",
-    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
-    "text": "🇺🇸 LATEST: Vice President JD Vance weighs direct talks with a top Iranian security official as he takes the lead in efforts to end the war, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2120675630744240544"
-  },
-  {
-    "id": "x-1794443598831-q896ej",
-    "source": "x",
-    "ts": "2026-11-12T00:33:18.831Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-12T00:25:00.000Z",
-    "reason": "No notable move or specific event reported.",
-    "text": "Chainlink founder praises Blackrock for driving blockchain adoption.\n\n@Chainlink founder @SergeyNazarov has publicly praised financial giant @Blackrock in driving blockchain adoption across several key areas, including...\n\n- On-chain asset management\n- Fund tokenization\n- The",
-    "url": "https://x.com/BSCNews/status/2120674183680032910"
-  },
-  {
-    "id": "x-1794445336794-udqc07",
-    "source": "x",
-    "ts": "2026-11-12T01:02:16.794Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-12T01:00:48.000Z",
-    "reason": "No factual claim or verified event.",
-    "text": "🚨 UPDATE: Nvidia has shed around $700 billion in market cap since CEO Jensen Huang’s two affairs came to light.",
-    "url": "https://x.com/Cointelegraph/status/2120683193661620432"
-  },
-  {
     "id": "x-1794445341268-rm8ni2",
     "source": "x",
     "ts": "2026-11-12T01:02:21.268Z",
@@ -7923,5 +7884,57 @@
     "reason": "The tweet is unrelated to cryptocurrency and blockchain technology.",
     "text": "🚨 TODAY: Around 3,100 aircraft were reportedly airborne en route to US airports as the FAA’s nationwide ground stop halted further departures, according to flight-tracking rep",
     "url": "https://x.com/Cointelegraph/status/2121363394125058201"
+  },
+  {
+    "id": "x-1794608538269-gx34pg",
+    "source": "x",
+    "ts": "2026-11-13T22:22:18.269Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T22:20:41.000Z",
+    "reason": "Potential security vulnerability for a significant portion of Bitcoin supply.",
+    "text": "⚡️️ UPDATE: Around 35.4% of Bitcoin’s supply, or 7.12 million $BTC, has publicly exposed keys that could be vulnerable to future quantum attacks, including exposure linked to address reuse and exchange holdings.",
+    "url": "https://x.com/Cointelegraph/status/2121367673153986760",
+    "images": [
+      "https://pbs.twimg.com/media/HXCcp8mWkAESRDc.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794608542808-5ft008",
+    "source": "x",
+    "ts": "2026-11-13T22:22:22.808Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-13T22:17:15.000Z",
+    "reason": "No notable move for ETH, price is within its recent range.",
+    "text": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+    "url": "https://x.com/DecryptMedia/status/2121366810276552907",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794608547842-qivhjl",
+    "source": "x",
+    "ts": "2026-11-13T22:22:27.842Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-13T22:15:00.000Z",
+    "reason": "New use of a token for liquidity providers.",
+    "text": "Aero explains how liquidity providers can earn more than trading fees\n\n@aeroxyz, the exchange formed by the Aerodrome and Velodrome merger, published a breakdown of how it pays liquidity providers. They can choose to earn $AERO, a stream of token rewards targeted to be worth more",
+    "url": "https://x.com/BSCNews/status/2121366244171420011",
+    "images": [
+      "https://pbs.twimg.com/media/HXCX4zhXkAAm_cn.jpg"
+    ],
+    "video": null
   }
 ]
