@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794431522478-993zfs",
-    "source": "x",
-    "ts": "2026-11-11T21:12:02.478Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Cointelegraph",
-    "ageMin": 41,
-    "originTimestamp": "2026-11-11T20:30:44.000Z",
-    "reason": "Potential regulatory change impacting AI in the crypto or finance sector.",
-    "text": "🚨 JUST IN: United Airlines is banning third-party AI agents from booking flights on behalf of travelers, citing security risks and potential violations of federal regulations.",
-    "url": "https://x.com/Cointelegraph/status/2120615228425552340",
-    "images": [
-      "https://pbs.twimg.com/media/HW3wT4lW4AApZ_F.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794431524871-u3xnty",
-    "source": "x",
-    "ts": "2026-11-11T21:12:04.871Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 5,
-    "author": "Coin Bureau",
-    "ageMin": 47,
-    "originTimestamp": "2026-11-11T20:24:56.000Z",
-    "reason": "Notable and specific financial data point.",
-    "text": "Crypto’s cash pile is shrinking.\n\nStablecoins just had their fastest drop since 2022, losing $14.5 BILLION in 30 days.\n\nGlassnode says holders are redeeming stablecoins for dollars and taking that cash out of the market.\n\nTether alone shrank by $8.4 BILLION, more than half the",
-    "url": "https://x.com/coinbureau/status/2120613769160315129",
-    "images": [
-      "https://pbs.twimg.com/media/HW3u-01aAAAOKaL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794431526809-clzeyn",
-    "source": "x",
-    "ts": "2026-11-11T21:12:06.809Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 49,
-    "originTimestamp": "2026-11-11T20:22:50.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "@TheFlintFace @IterIntellectus 100GW in space is roughly equal to 800GW on Earth. \n\nMoreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter. \n\nThese are not the same at all.",
-    "url": "https://x.com/elonmusk/status/2120613346596761630"
-  },
-  {
     "id": "x-1794431528516-b89cv9",
     "source": "x",
     "ts": "2026-11-11T21:12:08.516Z",
@@ -7946,6 +7897,56 @@
     "text": "Cross-chain EVM transfers, RFQ tools, and the first groundwork for privacy. What else is in Veyra, the @injective upgrade that injective-protocol:native stakers are voting on right now? ⬇️",
     "url": "https://x.com/BSCNews/status/2121318550581444910",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794597875640-lxliqy",
+    "source": "x",
+    "ts": "2026-11-13T19:24:35.641Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-13T19:16:07.000Z",
+    "reason": "Vague opinion without factual claim.",
+    "text": "Within a couple of quarters, it will be normal for work meetings to be with Bots.\n\nThis early beta gives a very rough glimpse. It will be great soon.",
+    "url": "https://x.com/elonmusk/status/2121323141347914196"
+  },
+  {
+    "id": "x-1794597879317-irdb9v",
+    "source": "x",
+    "ts": "2026-11-13T19:24:39.317Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-13T19:20:42.000Z",
+    "reason": "Potential change in US Treasury leadership could affect crypto regulations.",
+    "text": "🇺🇸 NEW: White House economic adviser Kevin Hassett is expected to leave his role, with Treasury Secretary Scott Bessent being considered as his replacement, according to Semafor.",
+    "url": "https://x.com/Cointelegraph/status/2121322381155148157",
+    "images": [
+      "https://pbs.twimg.com/media/HXBzdQxW0AAQ6ki.jpg",
+      "https://pbs.twimg.com/media/HXBzdoZWsAAZu6b.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794597882841-rw9l4t",
+    "source": "x",
+    "ts": "2026-11-13T19:24:42.841Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-13T19:16:00.000Z",
+    "reason": "New institutional vault on Solana leveraging multiple crypto projects.",
+    "text": "Plume’s real-world yield is now inside Jupiter’s new vaults on Solana\n\n@JupiterExchange has launched Jupiter Vaults in beta on @solana, where outside managers run yield strategies for depositors. One of those strategies runs on @plumenetwork.\n\nIt is managed by @Re7Labs and earns",
+    "url": "https://x.com/BSCNews/status/2121321196847534190",
+    "images": [
+      "https://pbs.twimg.com/media/HXBvGEKW8AAjp2J.jpg"
+    ],
     "video": null
   }
 ]
