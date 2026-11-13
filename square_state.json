@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793233953409-jehaoq",
     "x-1793233957473-os888a",
     "x-1793235907221-yp4yyw",
     "x-1793235913946-jtpwv3",
@@ -1999,20 +1998,10 @@
     "x-1794569739948-7xa87g",
     "x-1794569746825-dpa43d",
     "x-1794570126125-lrltw2",
-    "x-1794570757570-fu66ay"
+    "x-1794570757570-fu66ay",
+    "x-1794571395126-3txur1"
   ],
-  "queue": [
-    {
-      "text": "🚨 ALERT: MANTRA says hackers are unstaking users' tokens following a Web3Auth-Keplr wallet exploit.\n\nMANTRA announces emergency seven-day unbonding pause.",
-      "url": "https://x.com/Cointelegraph/status/2121206622324224058",
-      "images": [
-        "https://pbs.twimg.com/media/HXAKLFzWwAAn4bb.png",
-        "https://pbs.twimg.com/media/HXAKLdbWcAAJB3j.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1794570126913
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🔥 UPDATE: Telegram founder Pavel Durov says over 1M self-custodial Gram wallets were activated on Telegram in 48 hours.",
@@ -2628,7 +2617,17 @@
       "at": 1794569747545,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/387803416969496?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: MANTRA says hackers are unstaking users' tokens following a Web3Auth-Keplr wallet exploit.\n\nMANTRA announces emergency seven-day unbonding pause.",
+      "final": "🚨 ALERT: MANTRA says hackers are unstaking users' tokens following a Web3Auth-Keplr wallet exploit.\n\nMANTRA announces emergency seven-day unbonding pause.\n\n#Crypto #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HXAKLFzWwAAn4bb.png",
+        "https://pbs.twimg.com/media/HXAKLdbWcAAJB3j.png"
+      ],
+      "at": 1794571397618,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794569747545
+  "lastPostAt": 1794571397618
 }
