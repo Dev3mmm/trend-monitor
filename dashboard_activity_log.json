@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794382323432-uyx0nh",
-    "source": "x",
-    "ts": "2026-11-11T07:32:03.432Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-11T07:30:52.000Z",
-    "reason": "No notable crypto-related news provided.",
-    "text": "🚨 LATEST: Senate Banking Republican Kevin Cramer has called on Nvidia CEO Jensen Huang to resign, per Politico.\n\nHe says Huang’s reported affair with an alleged Chinese spy poses a national security risk.",
-    "url": "https://x.com/Cointelegraph/status/2120418968187928659"
-  },
-  {
     "id": "x-1794382328246-b8mg0q",
     "source": "x",
     "ts": "2026-11-11T07:32:08.246Z",
@@ -7990,5 +7977,23 @@
     "reason": "No notable move, price is well within the recent trading range.",
     "text": "JUST IN: Bitcoin falls to $68,656, as $297 million in BTC longs get liquidated in 60 minutes\n\nWe’re HODLing! ✊",
     "url": "https://x.com/BitcoinMagazine/status/2121089466953584770"
+  },
+  {
+    "id": "x-1794543154470-zylj15",
+    "source": "x",
+    "ts": "2026-11-13T04:12:34.470Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T04:11:19.000Z",
+    "reason": "The tweet mentions a significant technical issue affecting multiple AI and Microsoft services.",
+    "text": "🚨 UPDATE: Microsoft 365, Outlook and Teams stayed down for thousands of users for over five hours, and the outage also disrupted connectors for OpenAI and Anthropic’s AI services.",
+    "url": "https://x.com/Cointelegraph/status/2121093525483749636",
+    "images": [
+      "https://pbs.twimg.com/media/HW-jUg3WMAAsVBD.jpg"
+    ],
+    "video": null
   }
 ]
