@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794422560855-66unfp",
-    "source": "x",
-    "ts": "2026-11-11T18:42:40.855Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 57,
-    "originTimestamp": "2026-11-11T17:45:10.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "$ADA breaks above $0.18, up 4.3% in 24 hours.\n\nADA price and news:",
-    "url": "https://x.com/BSCNews/status/2120586662212182508"
-  },
-  {
-    "id": "x-1794423108562-hl04xx",
-    "source": "x",
-    "ts": "2026-11-11T18:51:48.562Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-11T18:49:00.000Z",
-    "reason": "USDC regulatory supervision by EU regulator",
-    "text": "USDC answers to a new EU regulator from tomorrow\n\nThe European Banking Authority will start directly supervising @circle’s $USDC in the EU on Thursday, November 12. It takes over checks on the stablecoin’s reserves, capital, liquidity, and redemption plans from France’s regulator",
-    "url": "https://x.com/BSCNews/status/2120589626742030684",
-    "images": [
-      "https://pbs.twimg.com/media/HW3WxQ_W0AA93ZO.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794423110542-i4311n",
-    "source": "x",
-    "ts": "2026-11-11T18:51:50.542Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 101,
-    "originTimestamp": "2026-11-11T17:10:56.000Z",
-    "reason": "Vague opinion without factual claim or basis.",
-    "text": "Azuria Capital's Tavi Costa on Bitcoin's capitulation setup:\n\n\"I think Bitcoin looks very undervalued right now.\"\n\n\"A lot of [former] big supporters have completely given up. That's usually the time to be stepping in.\" 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2120589593766474067"
-  },
-  {
     "id": "x-1794423739333-1vgb8f",
     "source": "x",
     "ts": "2026-11-11T19:02:19.333Z",
@@ -7946,6 +7902,57 @@
     "images": [
       "https://pbs.twimg.com/media/HXBck3FWYAIVXWq.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794592946203-cgovxo",
+    "source": "x",
+    "ts": "2026-11-13T18:02:26.203Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T18:01:13.000Z",
+    "reason": "Crypto firm Metaplanet downgrades its revenue forecast and reports significant financial loss.",
+    "text": "🔥 LATEST: Metaplanet cuts its 2026 revenue forecast by 59% to about $41M. \n\nThe Bitcoin treasury firm reported a net loss of about $170M for the first nine months of 2026.",
+    "url": "https://x.com/Cointelegraph/status/2121302379295351284",
+    "images": [
+      "https://pbs.twimg.com/media/HXBhRGGWsAAyXrs.jpg",
+      "https://pbs.twimg.com/media/HXBhRUgWMAAMUuH.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794592950883-vr3gvv",
+    "source": "x",
+    "ts": "2026-11-13T18:02:30.883Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-13T17:44:50.000Z",
+    "reason": "Potential change in leadership for a significant chip designer company.",
+    "text": "Nvidia has reportedly approached Arm CEO Rene Haas about its vacant chief executive job. Haas runs the SoftBank-owned UK chip designer.",
+    "url": "https://x.com/BSCNews/status/2121301398910280092",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794592955025-ccg51r",
+    "source": "x",
+    "ts": "2026-11-13T18:02:35.025Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-13T17:57:15.000Z",
+    "reason": "Potential regulatory changes could reshape the crypto landscape.",
+    "text": "Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators",
+    "url": "https://x.com/DecryptMedia/status/2121301379377434672",
+    "images": [],
     "video": null
   }
 ]
