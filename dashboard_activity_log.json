@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794369758092-yf67p9",
-    "source": "x",
-    "ts": "2026-11-11T04:02:38.092Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-11T04:00:47.000Z",
-    "reason": "Notable institutional figure selling crypto assets.",
-    "text": "⚡️ NOW: Ripple CTO Emeritus David Schwartz says he has sold nearly all his crypto due to his low risk tolerance.\n\nHis holdings are down from about 26M XRP, 1,500 BTC and 40,000 ETH to roughly 3M XRP, 1 BTC and 6 ETH.",
-    "url": "https://x.com/Cointelegraph/status/2120366098948280454",
-    "images": [
-      "https://pbs.twimg.com/media/HW0NuexXkAEB7ae.jpg",
-      "https://pbs.twimg.com/media/HW0NurSXIAAk_PH.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794369761592-m9n5ph",
-    "source": "x",
-    "ts": "2026-11-11T04:02:41.592Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-11T04:00:00.000Z",
-    "reason": "No notable move in the crypto holdings ratio mentioned.",
-    "text": "Qiao Wang: My Only Crypto Holdings Are BTC and ZEC, at a Roughly 2:1 Ratio\n\nAlliance co-founder Qiao Wang @QwQiao told threadguy on October 26 that his only crypto holdings are BTC and ZEC, at roughly 2:1 versus 5:1 previously, mainly because ZEC surged. He prefers holding to",
-    "url": "https://x.com/WuBlockchain/status/2120365903044845891"
-  },
-  {
-    "id": "x-1794370327381-138cac",
-    "source": "x",
-    "ts": "2026-11-11T04:12:07.381Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-11T04:08:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Zodl is Making Zcash Wallet Activity Harder to Trace\n\nZcash (@Zcash) $ZEC wallet, Zodl's (@zodl_app) latest update tackles a privacy risk that shielded transactions alone cannot solve.\n\nZodl is bringing two major internet infrastructure providers into its latest Zcash privacy",
-    "url": "https://x.com/BSCNews/status/2120367915522310583"
-  },
-  {
     "id": "x-1794371566051-jxuhwk",
     "source": "x",
     "ts": "2026-11-11T04:32:46.051Z",
@@ -8013,6 +7968,62 @@
     "images": [
       "https://pbs.twimg.com/media/HW91uaaasAAOCXq.jpg",
       "https://pbs.twimg.com/media/HW91z4zboAAt8YS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794533614214-ubedae",
+    "source": "x",
+    "ts": "2026-11-13T01:33:34.214Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T01:30:44.000Z",
+    "reason": "No notable move in Nvidia's stock as the tweet is about a meeting and does not mention any price or financial move.",
+    "text": "🚨 LATEST: Nvidia’s new interim CEO, Colette Kress, will meet with staff next Wednesday, the morning after the chip giant posts its quarterly results.",
+    "url": "https://x.com/Cointelegraph/status/2121053116728558011",
+    "images": [
+      "https://pbs.twimg.com/media/HW9-kHIXkAAV8hl.jpg",
+      "https://pbs.twimg.com/media/HW9-kYxW8AApBJY.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794533620193-pz2b81",
+    "source": "x",
+    "ts": "2026-11-13T01:33:40.193Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-13T01:28:00.000Z",
+    "reason": "Perps trading on Avalanche showing significant growth with increased volume.",
+    "text": "Perps trading on Avalanche seeing real growth.\n\nThe @Avax network has seen $749M in perps trading volume in the past month, up +20% on the period.\n\nThough only the 21st largest chain by perps activity, the charge is being led by @primitforall, which has seen $654M in volume in",
+    "url": "https://x.com/BSCNews/status/2121052425817883014",
+    "images": [
+      "https://pbs.twimg.com/media/HW7Pc_-XUAAxW7C.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794533626120-1ubm0s",
+    "source": "x",
+    "ts": "2026-11-13T01:33:46.120Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-13T01:24:58.000Z",
+    "reason": "Price moves well outside the recent range for both BTC and ETH.",
+    "text": "🚨BREAKING: Bitcoin drops below $71,000 and Ethereum loses $2,000 as the crypto selloff deepens.\n\n$BTC is at its lowest since August 20, down about 15% in a month.\n\n$ETH touched $1,999 this morning.",
+    "url": "https://x.com/coinbureau/status/2121051664950194361",
+    "images": [
+      "https://pbs.twimg.com/media/HW98cKraQAAXaqW.png",
+      "https://pbs.twimg.com/media/HW99PHVbQAA-3KD.png"
     ],
     "video": null
   }
