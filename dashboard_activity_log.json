@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794417841886-vcb0mk",
-    "source": "x",
-    "ts": "2026-11-11T17:24:01.886Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 39,
-    "originTimestamp": "2026-11-11T16:44:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Pi Day is one of the most important milestones in the @PiCoreTeam $PI calendar...\n\nHere's everything you need to know about it ⬇️",
-    "url": "https://x.com/BSCNews/status/2120558169092943937"
-  },
-  {
     "id": "x-1794417847076-ev5zyr",
     "source": "x",
     "ts": "2026-11-11T17:24:07.076Z",
@@ -7943,6 +7930,24 @@
     "url": "https://x.com/BSCNews/status/2121248660730052692",
     "images": [
       "https://pbs.twimg.com/media/HXAwLLHWEAAAER1.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794581606190-gy502l",
+    "source": "x",
+    "ts": "2026-11-13T14:53:26.190Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T14:51:00.000Z",
+    "reason": "Notable increase in Aave v4 deposits on Avalanche.",
+    "text": "Aave v4 Deposits on Avalanche Explode!\n\nDeposits on Aave v4 (@aave) on Avalanche (@Avax) have now exceeded $225 million, up 295% since late October.\n\nThe amount of active outstanding borrowings from the deployment is currently also over $100M, per protocol data.\n\nAvalanche was",
+    "url": "https://x.com/BSCNews/status/2121254507837259838",
+    "images": [
+      "https://pbs.twimg.com/media/HXAxFszXsAAHw8D.jpg"
     ],
     "video": null
   }
