@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1794373319241-uaasx0",
-    "source": "x",
-    "ts": "2026-11-11T05:01:59.241Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-11T05:00:02.000Z",
-    "reason": "Bitcoin price below $74,000 due to inflation fears.",
-    "text": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike\n\nBitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.",
-    "url": "https://x.com/DecryptMedia/status/2120381009631813852",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794373961203-y7if4b",
     "source": "x",
     "ts": "2026-11-11T05:12:41.203Z",
@@ -8014,5 +7998,18 @@
     "reason": "No notable move as price is within the recent range.",
     "text": "$XRP falls 2.6% in 24 hours to $1.02.\n\nXRP price and news:",
     "url": "https://x.com/BSCNews/status/2121065553435742550"
+  },
+  {
+    "id": "x-1794537213870-4wy3b5",
+    "source": "x",
+    "ts": "2026-11-13T02:33:33.870Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T02:30:48.000Z",
+    "reason": "No notable crypto-related move or use mentioned.",
+    "text": "🚨 TODAY: OpenAI, Anthropic, Google, Meta and SpaceX’s AI unit face a lawsuit from a group of nonprofits that seeks to block further work on frontier AI over fears it could threaten humanity.",
+    "url": "https://x.com/Cointelegraph/status/2121068229372117474"
   }
 ]
