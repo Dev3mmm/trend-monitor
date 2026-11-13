@@ -2001,18 +2001,7 @@
     "x-1794559931410-riwryj",
     "x-1794559941850-af6l6a"
   ],
-  "queue": [
-    {
-      "text": "🚨 ALERT: Unocoin suspects BitGo's multisig backup was exploited, allowing onchain transfers despite its account freeze.",
-      "url": "https://x.com/Cointelegraph/status/2121163832420708683",
-      "images": [
-        "https://pbs.twimg.com/media/HW_jQtIXgAAIaLT.png",
-        "https://pbs.twimg.com/media/HW_jQ5ZWYAA6_xp.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794559942399
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🔥 NEW: Kraken parent Payward will launch tokenized versions of 200+ UK and European stocks, per WSJ.",
@@ -2634,7 +2623,17 @@
       "at": 1794558796634,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/387758545467489?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Unocoin suspects BitGo's multisig backup was exploited, allowing onchain transfers despite its account freeze.",
+      "final": "🚨 ALERT: Unocoin suspects BitGo's multisig backup was exploited, allowing onchain transfers despite its account freeze.\n\n#Crypto #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HW_jQtIXgAAIaLT.png",
+        "https://pbs.twimg.com/media/HW_jQ5ZWYAA6_xp.jpg"
+      ],
+      "at": 1794560513721,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794558796634
+  "lastPostAt": 1794560513721
 }
