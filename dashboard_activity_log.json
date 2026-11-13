@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794432133170-7ddr5l",
-    "source": "x",
-    "ts": "2026-11-11T21:22:13.170Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-11T21:20:41.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇺🇸 BIG: Commerce Secretary Howard Lutnick has reportedly stalled efforts to restrict companies suspected of diverting Nvidia AI chips to China, per Axios.\n\nTrump authorized a crackdown for the third time this year after consulting Elon Musk, according to the report.",
-    "url": "https://x.com/Cointelegraph/status/2120627798230343997"
-  },
-  {
-    "id": "x-1794432138729-nod3cm",
-    "source": "x",
-    "ts": "2026-11-11T21:22:18.729Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-11T21:18:25.000Z",
-    "reason": "Political commentary unlikely to have concrete, verifiable crypto-specific news value.",
-    "text": "JUST IN: 🇺🇸 Former CFTC Chair Chris Giancarlo says Democrats could pass their own CLARITY Act and dare Trump to veto it 👀\n\n\"If you wanna be the anti-crypto president, knock yourself out.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2120627229432676691",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120627174130515969/vid/avc1/1280x720/Q3CwFnzJpxH__sy7.mp4?tag=29",
-      "duration": 34,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120627174130515969/img/iJsp9liMCpQnqKu2.jpg"
-    }
-  },
-  {
     "id": "x-1794432142718-if1utp",
     "source": "x",
     "ts": "2026-11-11T21:22:22.718Z",
@@ -7951,6 +7917,43 @@
     "text": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
     "url": "https://x.com/DecryptMedia/status/2121326544584892502",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794599551414-xo3469",
+    "source": "x",
+    "ts": "2026-11-13T19:52:31.414Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-13T19:45:00.000Z",
+    "reason": "Notable development in blockchain developer ecosystem.",
+    "text": "Monad tells Stellar “you’re next” in the developer race\n\n@monad ($MON) shared a ranking today that puts Monad third among all chains with over 3,000 monthly active developers, ahead of Solana and Bitcoin. Only Ethereum (about 8,750) and Stellar (about 4,300) rank higher for the",
+    "url": "https://x.com/BSCNews/status/2121328495116882376",
+    "images": [
+      "https://pbs.twimg.com/media/HXBzuHDWQAAVgjh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794599556986-k5aw8k",
+    "source": "x",
+    "ts": "2026-11-13T19:52:36.986Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-13T19:45:00.000Z",
+    "reason": "SEC proposal affecting executive perks and pay disclosure",
+    "text": "SEC Proposes Raising the Executive Perks Disclosure Threshold 15-Fold, to $150,000.\n\nThe proposal would also cut named executive officers to two in most cases, limit median-employee pay-ratio counts to US full-time staff every five years, and is open for comment for 60 days.",
+    "url": "https://x.com/DecryptMedia/status/2121328494848221518",
+    "images": [
+      "https://pbs.twimg.com/media/HXBuj4bW4AA6WUn.png",
+      "https://pbs.twimg.com/media/HXBuoAfWcAAi2Ak.jpg"
+    ],
     "video": null
   }
 ]
