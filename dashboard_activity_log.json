@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794399740779-0mibih",
-    "source": "x",
-    "ts": "2026-11-11T12:22:20.779Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-11T12:17:01.000Z",
-    "reason": "The tweet is about Nvidia and not specifically about any crypto-related news.",
-    "text": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
-    "url": "https://x.com/DecryptMedia/status/2120490982546305245"
-  },
-  {
     "id": "x-1794399742940-f78jjw",
     "source": "x",
     "ts": "2026-11-11T12:22:22.940Z",
@@ -8009,5 +7996,18 @@
       "https://pbs.twimg.com/media/HW_fFShakAAJHje.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794563551166-uxep7w",
+    "source": "x",
+    "ts": "2026-11-13T09:52:31.166Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T09:50:42.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🇺🇸 UPDATE: US lawmakers give Jensen Huang until 8 PM ET today to accept a congressional interview or face a subpoena.",
+    "url": "https://x.com/Cointelegraph/status/2121178933504663910"
   }
 ]
