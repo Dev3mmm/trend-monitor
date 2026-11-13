@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1794388353275-vlobte",
-    "source": "x",
-    "ts": "2026-11-11T09:12:33.275Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-11T09:06:36.000Z",
-    "reason": "No notable news, just a closure announcement.",
-    "text": "Sui Hardware Wallet Shuts Down After Years of Development &amp; Expectations\n\nSuiball (@suiballO) is shutting down despite completing development and preparing its first hardware wallet batch.\n\nThe team says the Sui Foundation (@SuiFoundation) $SUI considered backing the project too",
-    "url": "https://x.com/BSCNews/status/2120443059892850773",
-    "images": [
-      "https://pbs.twimg.com/media/HW1TmwRbgAEIGUf.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794388356163-ql16ue",
-    "source": "x",
-    "ts": "2026-11-11T09:12:36.163Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-11T09:05:25.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "I am back in my office after a month of gallivanting around the world.",
-    "url": "https://x.com/amerix/status/2120442764911370733"
-  },
-  {
-    "id": "x-1794388359778-8ljbxn",
-    "source": "x",
-    "ts": "2026-11-11T09:12:39.778Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-11T09:01:07.000Z",
-    "reason": "Notable institutional move with potential for wide adoption.",
-    "text": "🔥 NEW: Kraken parent Payward will launch tokenized versions of 200+ UK and European stocks, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2120441681333948468",
-    "images": [
-      "https://pbs.twimg.com/media/HW1SdlHWAAAmx3b.jpg",
-      "https://pbs.twimg.com/media/HW1Sd9ZW4AEJ82_.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794388953030-pj1x29",
-    "source": "x",
-    "ts": "2026-11-11T09:22:33.030Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-11T09:20:43.000Z",
-    "reason": "No notable move or specific event, price is within the recent range.",
-    "text": "🔥 BULLISH: Trump is still interested in buying Bitcoin for the US Strategic Bitcoin Reserve, ex-White House crypto adviser Patrick Witt told What Bitcoin Did.\n\nHow much BTC do you think it’ll add to the reserve?",
-    "url": "https://x.com/Cointelegraph/status/2120446613382480242"
-  },
-  {
     "id": "x-1794390148109-u6cjyz",
     "source": "x",
     "ts": "2026-11-11T09:42:28.109Z",
@@ -8006,5 +7943,68 @@
       "https://pbs.twimg.com/media/HW-y5VeaUAAhp2m.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794549818685-ms8y4y",
+    "source": "x",
+    "ts": "2026-11-13T06:03:38.685Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-13T06:00:42.000Z",
+    "reason": "New regulatory measures and cyber threat related to cryptocurrencies.",
+    "text": "🚨 NEW: North Korean hackers have launched memecoins on NEAR to launder stolen funds but no one is buying them. Thailand plans to cap stablecoin transfers at $148,000 per day. \n\nThe region’s top crypto news in Asia Express:",
+    "url": "https://x.com/Cointelegraph/status/2121121052625432939",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794549822214-14w66b",
+    "source": "x",
+    "ts": "2026-11-13T06:03:42.214Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-13T06:00:00.000Z",
+    "reason": "No notable news, as it's vague and lacks concrete data.",
+    "text": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch\n\nBitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
+    "url": "https://x.com/DecryptMedia/status/2121120878054473961",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794549826135-joqwmf",
+    "source": "x",
+    "ts": "2026-11-13T06:03:46.135Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-13T05:59:47.000Z",
+    "reason": "Transfer activity drop despite user count increase suggests a potential issue.",
+    "text": "Arbitrum's RWA Boom Comes With a Big Catch\n\nArbitrum (@arbitrum) $ARB is attracting more real-world asset users, but transfer activity has dropped sharply. \n\nRWA(.)xyz data shows user count climbed 12.3% over the past 30 days to 13,905. However, transfer volume declined 80% to",
+    "url": "https://x.com/BSCNews/status/2121120824040239109",
+    "images": [
+      "https://pbs.twimg.com/media/HW-8Cl9bsAAV8GQ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794549829121-g5zd36",
+    "source": "x",
+    "ts": "2026-11-13T06:03:49.121Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-13T05:50:28.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "SpaceX is building a supercomputer near Brownsville, Texas.\n\nThe first job on site was cleaning up sixty years of other people's trash.\n\nScrap metal, rusting tanks, old appliances and thousands of illegal tires, hauled out of the mud.\n\nThink about that for a second.\n\nThis site",
+    "url": "https://x.com/elonmusk/status/2121119443698979136"
   }
 ]
