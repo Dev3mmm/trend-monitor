@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794366177347-bhimtt",
-    "source": "x",
-    "ts": "2026-11-11T03:02:57.347Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-11T03:00:05.000Z",
-    "reason": "Binance warns about potential security flaw affecting iPhone users' private keys.",
-    "text": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys\n\nApple has not publicly confirmed the \"worse_query\" bug, which a researcher published days before its latest iOS security update.",
-    "url": "https://x.com/DecryptMedia/status/2120350823511142738",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794366723937-ijobt4",
-    "source": "x",
-    "ts": "2026-11-11T03:12:03.937Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-11T03:08:46.000Z",
-    "reason": "No notable crypto-related event.",
-    "text": "🚨BREAKING: Apple confirms widespread outages across multiple iCloud services, including Mail, Photos and Find My\n\nApple has confirmed iCloud service disruptions affecting users since around 5:49 PM ET, with outages impacting Mail, Calendar, Contacts, Photos, iWork and Game",
-    "url": "https://x.com/coinbureau/status/2120353008643080587"
-  },
-  {
-    "id": "x-1794366726625-o74isn",
-    "source": "x",
-    "ts": "2026-11-11T03:12:06.625Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-11T03:08:00.000Z",
-    "reason": "No notable move or newsworthy development mentioned.",
-    "text": "Which chains actually use the @Cosmos SDK...?\n\nWe explore some of the most impressive blockchain networks that make up the cosmos:native ecosystem ⬇️",
-    "url": "https://x.com/BSCNews/status/2120352816145240190"
-  },
-  {
     "id": "x-1794367908035-0x2yvo",
     "source": "x",
     "ts": "2026-11-11T03:31:48.035Z",
@@ -8001,5 +7959,61 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Patrick Witt: The U.S. Government Once Kept Cold Wallets in Drawers, and Its Security Practices Were Unbelievable  \n\nOn November 10, 2026, Patrick Witt @patrickjwitt, former executive director of the White House Crypto Council, said in an interview with What Bitcoin Did",
     "url": "https://x.com/WuBlockchain/status/2121030280588779819"
+  },
+  {
+    "id": "x-1794529958474-ckz57u",
+    "source": "x",
+    "ts": "2026-11-13T00:32:38.474Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T00:30:44.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🔥  BIG: Anthropic’s IPO is reportedly about 6x oversubscribed as the AI firm seeks to raise up to $64.4B in what could be the biggest first-time share sale ever.",
+    "url": "https://x.com/Cointelegraph/status/2121038016877629948",
+    "images": [
+      "https://pbs.twimg.com/media/HW9w1IgWoAAnZoG.jpg",
+      "https://pbs.twimg.com/media/HW9w1emXQAAJulq.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794529963052-agao3h",
+    "source": "x",
+    "ts": "2026-11-13T00:32:43.052Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-13T00:23:19.000Z",
+    "reason": "Potential regulatory changes in the crypto sector.",
+    "text": "🇺🇸 JUST IN: US Senate Banking Committee Chairman Tim Scott calls on former Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify over national security concerns tied to sensitive US tech.",
+    "url": "https://x.com/Cointelegraph/status/2121036150533967876",
+    "images": [
+      "https://pbs.twimg.com/media/HW9vIi0WQAAL5xV.jpg",
+      "https://pbs.twimg.com/media/HW9vIx4WYAAUC4Q.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794529968942-2mpg8j",
+    "source": "x",
+    "ts": "2026-11-13T00:32:48.942Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-13T00:22:00.000Z",
+    "reason": "Notable increase in stablecoin supply and market cap.",
+    "text": "Over $100M in stablecoin now on XDC Network.\n\nThe stablecoin supply on @XDCNetwork is up +77.0% in the past week, surging to more than $100M.\n\nAt time of writing, XDC's stablecoin market cap stands at $107.5M, making it now the 27th largest blockchain network by such metric.",
+    "url": "https://x.com/BSCNews/status/2121035816604442688",
+    "images": [
+      "https://pbs.twimg.com/media/HW7PX8fWEAAPwjH.jpg"
+    ],
+    "video": null
   }
 ]
