@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794394929160-cr2mif",
-    "source": "x",
-    "ts": "2026-11-11T11:02:09.160Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-11T10:53:26.000Z",
-    "reason": "Notable regulatory and governance update affecting token allocations.",
-    "text": "InterLink Sets Deadline to Lock In ITLG Allocations\n\n@inter_link has set November 25, 2026, as the strict deadline for capturing KYC performance metrics for Level 1 and referral performance. \n\nUser allocations for the current $ITLG distribution cycle will be frozen permanently.",
-    "url": "https://x.com/BSCNews/status/2120469946715030005",
-    "images": [
-      "https://pbs.twimg.com/media/HW1r10YW4AAvPYR.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794394933644-dbpwff",
     "source": "x",
     "ts": "2026-11-11T11:02:13.644Z",
@@ -8001,5 +7983,18 @@
       "https://pbs.twimg.com/media/HW_ViA8WUAA92sQ.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794556941486-f36aon",
+    "source": "x",
+    "ts": "2026-11-13T08:02:21.486Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T08:00:01.000Z",
+    "reason": "No notable move in TRX, address growth is within the recent range.",
+    "text": "Tron's User Base is Growing at a Remarkable Pace\n\nTRON (@trondao) $TRX recorded an average of 178,641 new addresses every day during Q3. \n\nThe network's total accounts have climbed to nearly 414 million. That represents an increase of approximately 52 million accounts year to",
+    "url": "https://x.com/BSCNews/status/2121151082093048266"
   }
 ]
