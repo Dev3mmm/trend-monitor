@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794432142718-if1utp",
-    "source": "x",
-    "ts": "2026-11-11T21:22:22.718Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-11T21:17:15.000Z",
-    "reason": "Specific institutional action with significant value transfer.",
-    "text": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-    "url": "https://x.com/DecryptMedia/status/2120626935122259968",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794432148785-kuqepu",
-    "source": "x",
-    "ts": "2026-11-11T21:22:28.785Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-11T21:16:00.000Z",
-    "reason": "Notable use case for stablecoin BabyDoge in AI file sharing.",
-    "text": "BabyDoge-owned LimeWire is building file sharing for AI agents\n\n@limewire, bought by @BabyDoge ($BABYDOGE) in September, announced the LimeWire MCP Connector today. It is built to let AI agents such as Claude, ChatGPT, and Cursor upload, share, and reuse files in one shared",
-    "url": "https://x.com/BSCNews/status/2120626620230676955",
-    "images": [
-      "https://pbs.twimg.com/media/HW326InXUAMsVj9.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794433025812-ujrlbi",
     "source": "x",
     "ts": "2026-11-11T21:37:05.812Z",
@@ -7953,6 +7919,42 @@
     "images": [
       "https://pbs.twimg.com/media/HXBuj4bW4AA6WUn.png",
       "https://pbs.twimg.com/media/HXBuoAfWcAAi2Ak.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794600161793-15gbqs",
+    "source": "x",
+    "ts": "2026-11-13T20:02:41.793Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T20:00:02.000Z",
+    "reason": "Producer inflation hitting a high annual rate highlights economic trends.",
+    "text": "🇺🇸 U.S. producer inflation just hit its HIGHEST annual rate since November 2022.\n\nBut the headline hides an important detail.\n\nProducer prices rose 6.5% over the past year, up from 6.3% in September.\n\nThe monthly increase slowed sharply, from 1.4% to 0.3%, below the 0.4%",
+    "url": "https://x.com/coinbureau/status/2121332279280804004",
+    "images": [
+      "https://pbs.twimg.com/media/HXBtJr6a0AA0sJr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794600165742-iw99b1",
+    "source": "x",
+    "ts": "2026-11-13T20:02:45.742Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-13T19:59:42.000Z",
+    "reason": "Notable move in the tokenized stock market with significant issuance amounts.",
+    "text": "🇦🇪 LATEST: UAE-based issuers lead the tokenized stock market with $1.6 billion, followed by the British Virgin Islands at $1.4 billion and Jersey at $1.3 billion, according to Token Terminal.",
+    "url": "https://x.com/Cointelegraph/status/2121332195071553629",
+    "images": [
+      "https://pbs.twimg.com/media/HXB8YscWYAAG3ds.jpg"
     ],
     "video": null
   }
