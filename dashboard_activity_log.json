@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794439315257-5ekm6c",
-    "source": "x",
-    "ts": "2026-11-11T23:21:55.257Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-11T23:19:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Sible Network drops official whitepaper.\n\nEmerging blockchain-based AI operating system @SibleNetworkAI, led by @chrisP_sible, has revealed its Sible Network Whitepaper.\n\n\"This Whitepaper represents more than just our plans on paper. It provides a clearer picture of what we're",
-    "url": "https://x.com/BSCNews/status/2120657574152556846"
-  },
-  {
-    "id": "x-1794439318853-h45mdj",
-    "source": "x",
-    "ts": "2026-11-11T23:21:58.853Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-11T23:17:40.000Z",
-    "reason": "On-chain data point with significant wallet growth.",
-    "text": "⚡️ UPDATE: $XRP wallets holding at least 10,000 tokens have climbed to about 343,500, up 5.15% in nine months, even as XRP has dropped roughly 30% over seven weeks toward $1.05, per Santiment.",
-    "url": "https://x.com/Cointelegraph/status/2120657240205951429",
-    "images": [
-      "https://pbs.twimg.com/media/HW4WhYfXgAADwH6.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794440523205-fqyj56",
     "source": "x",
     "ts": "2026-11-11T23:42:03.205Z",
@@ -7940,5 +7909,40 @@
     "reason": "No notable crypto-related news or use of crypto in the tweet.",
     "text": "Elon Musk Backs Petition to Reinstate Jensen Huang as Nvidia Logs Its Worst Week Since April 2025.\n\nMusk said Friday he's \"signing it too,\" as Nvidia closed at $162.85, down about 12.7% on the week and its steepest weekly drop since early April 2025.",
     "url": "https://x.com/DecryptMedia/status/2121353078079160519"
+  },
+  {
+    "id": "x-1794606197689-fx5qu3",
+    "source": "x",
+    "ts": "2026-11-13T21:43:17.689Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T21:40:42.000Z",
+    "reason": "Unusual inactivity followed by a large Bitcoin transfer.",
+    "text": "⚡️ LATEST: Two Bitcoin wallets dormant since 2010 transferred a combined 100 $BTC worth approximately $6.9 million after more than 16 years of inactivity.",
+    "url": "https://x.com/Cointelegraph/status/2121357611282911528",
+    "images": [
+      "https://pbs.twimg.com/media/HXCTgHEXMAEdMII.jpg",
+      "https://pbs.twimg.com/media/HXCTgWIWoAAyrii.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794606200267-bsyxui",
+    "source": "x",
+    "ts": "2026-11-13T21:43:20.267Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-13T21:37:15.000Z",
+    "reason": "Notable regulatory discussion about cryptocurrency oversight.",
+    "text": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+    "url": "https://x.com/DecryptMedia/status/2121356743812767949",
+    "images": [],
+    "video": null
   }
 ]
