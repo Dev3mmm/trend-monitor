@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794431531299-e29u4f",
-    "source": "x",
-    "ts": "2026-11-11T21:12:11.299Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 6,
-    "author": "BSCN",
-    "ageMin": 53,
-    "originTimestamp": "2026-11-11T20:19:00.000Z",
-    "reason": "Notable financial institution Canton Network announces plans to tokenize US stocks.",
-    "text": "Stocks first, then repo and derivatives: Yuval Rooz maps out Canton’s next steps\n\nYuval Rooz (@YuvalRooz), CEO of Canton builder Digital Asset, used a Saturday X Space to lay out where @CantonNetwork ($CC) goes next. Stocks lead the list: a Canton venue ran the first tokenized US",
-    "url": "https://x.com/BSCNews/status/2120612275748769944",
-    "images": [
-      "https://pbs.twimg.com/media/HW3qQysWYAAV-5Q.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794431533089-mrzl3w",
-    "source": "x",
-    "ts": "2026-11-11T21:12:13.089Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 54,
-    "originTimestamp": "2026-11-11T20:17:15.000Z",
-    "reason": "No notable crypto-related move or news in the tweet.",
-    "text": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-    "url": "https://x.com/DecryptMedia/status/2120611835900555732"
-  },
-  {
     "id": "x-1794432133170-7ddr5l",
     "source": "x",
     "ts": "2026-11-11T21:22:13.170Z",
@@ -7948,5 +7917,40 @@
     "reason": "No notable crypto-related news.",
     "text": "🚨SCOOP: Kevin Hassett could LEAVE the White House as National Economic Council director in the coming weeks, Semafor reports, citing three sources.\n\nTwo potential replacements are being considered:\n- Treasury Secretary Scott Bessent, who could hold both jobs.\n\n- David Zervos, a",
     "url": "https://x.com/coinbureau/status/2121323483108094382"
+  },
+  {
+    "id": "x-1794598939953-i8qgby",
+    "source": "x",
+    "ts": "2026-11-13T19:42:19.953Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T19:40:41.000Z",
+    "reason": "Security warning and potential risk to other apps on compromised devices.",
+    "text": "🚨 ALERT: Bybit has issued a security warning over a reported Telegram vulnerability on Android that could put other apps on compromised devices at risk.",
+    "url": "https://x.com/Cointelegraph/status/2121327409894916302",
+    "images": [
+      "https://pbs.twimg.com/media/HXB4CLCWQAAn29I.jpg",
+      "https://pbs.twimg.com/media/HXB4CYaXkAAoNDP.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794598943955-kgrguz",
+    "source": "x",
+    "ts": "2026-11-13T19:42:23.955Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-13T19:37:15.000Z",
+    "reason": "On-chain data point with significant funds movement.",
+    "text": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+    "url": "https://x.com/DecryptMedia/status/2121326544584892502",
+    "images": [],
+    "video": null
   }
 ]
