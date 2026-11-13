@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794400311590-5l913p",
-    "source": "x",
-    "ts": "2026-11-11T12:31:51.590Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-11T12:30:31.000Z",
-    "reason": "Analytics platform outage lasting over two months indicates a significant operational issue.",
-    "text": "What happened to the PiScan analytics platform on Pi Network?   \n\nPiScan has been down since September 7, 2026. As of this writing, the independent blockchain explorer for the @PiCoreTeam network remains down.   \n\nThis means the analytics dashboard has been down for over two",
-    "url": "https://x.com/BSCNews/status/2120494380490326448",
-    "images": [
-      "https://pbs.twimg.com/media/HW2CNLAXgAAdN7x.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794400313783-mb42ir",
     "source": "x",
     "ts": "2026-11-11T12:31:53.783Z",
@@ -8015,5 +7997,24 @@
     "reason": "No notable crypto-related news in the tweet provided.",
     "text": "UPDATE: Microsoft Sees \"Early Stabilization\" in Outage, Extends Email Timeout to 48 Hours.\n\nMicrosoft said at 4:24 AM EST it is seeing early stabilization and capacity improvements, and it extended the email timeout to 48 hours to help preserve delayed mail.",
     "url": "https://x.com/DecryptMedia/status/2121184400297893921"
+  },
+  {
+    "id": "x-1794565991900-wkz4eo",
+    "source": "x",
+    "ts": "2026-11-13T10:33:11.900Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T10:31:05.000Z",
+    "reason": "Notable institutional action with a major crypto exchange fund manager.",
+    "text": "🔥 NEW: Jane Street increased its Fidelity Bitcoin ETF share count nearly 8x in Q3 while cutting IBIT shares by 19%.",
+    "url": "https://x.com/Cointelegraph/status/2121189098920567233",
+    "images": [
+      "https://pbs.twimg.com/media/HW_6PRrXYAAXgGE.png",
+      "https://pbs.twimg.com/media/HW_6Pg3WEAAMZY6.jpg"
+    ],
+    "video": null
   }
 ]
