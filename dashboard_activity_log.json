@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794421327973-h3y733",
-    "source": "x",
-    "ts": "2026-11-11T18:22:07.973Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-11T18:05:25.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Digital Credit is built for everyone. $MSTR $STRC",
-    "url": "https://x.com/saylor/status/2120580771928842563"
-  },
-  {
-    "id": "x-1794421935175-i2yl24",
-    "source": "x",
-    "ts": "2026-11-11T18:32:15.175Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-11T18:30:01.000Z",
-    "reason": "Central Bank of Russia allowing crypto exchanges to operate.",
-    "text": "Russia's Central Bank Lets Exchanges Launch Crypto Trading From Nov. 22.\n\nThe Bank of Russia said exchanges may start cryptocurrency trading from Nov. 22 once their trading rules are agreed with it, days after Bitcoin, Ether and USDT open to retail investors on Nov. 17.",
-    "url": "https://x.com/DecryptMedia/status/2120584848108658999",
-    "images": [
-      "https://pbs.twimg.com/media/HW21o5nXQAEC3QB.jpg",
-      "https://pbs.twimg.com/media/HW21rBlWcAAgX6x.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794421937533-66qf30",
-    "source": "x",
-    "ts": "2026-11-11T18:32:17.533Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-11T18:22:30.000Z",
-    "reason": "No notable move or action described.",
-    "text": "Hire Grok @Bot as a colleague and give it your hardest tasks!",
-    "url": "https://x.com/elonmusk/status/2120584535423565889"
-  },
-  {
     "id": "x-1794421941603-3vzacn",
     "source": "x",
     "ts": "2026-11-11T18:32:21.603Z",
@@ -7933,5 +7888,63 @@
     "reason": "No notable crypto-related move or news.",
     "text": "🇺🇸 JUST IN: Kalshi traders are pricing in a 44.2% chance of a US government shutdown on December 12, 2026.",
     "url": "https://x.com/Cointelegraph/status/2121287423782989870"
+  },
+  {
+    "id": "x-1794590528342-56obqr",
+    "source": "x",
+    "ts": "2026-11-13T17:22:08.342Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-13T17:20:44.000Z",
+    "reason": "An exploit or security vulnerability challenge could be noteworthy.",
+    "text": "🚨 TODAY: Telegram founder Pavel Durov challenged anyone to hack his account, claiming an alleged security vulnerability has been fully patched.",
+    "url": "https://x.com/Cointelegraph/status/2121292192094306485",
+    "images": [
+      "https://pbs.twimg.com/media/HXBX_mpXUAA_qTj.jpg",
+      "https://pbs.twimg.com/media/HXBYADUW8AArY_o.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794590534162-mijeq0",
+    "source": "x",
+    "ts": "2026-11-13T17:22:14.162Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-13T17:19:04.000Z",
+    "reason": "Notable ERC-20 token destruction event.",
+    "text": "One in three PONS tokens no longer exists\n\nLaunchpad @ponsdotfamily on Robinhood Chain (@RobinhoodCrypto) has now burned 330 million $PONS out of a fixed supply of 1 billion. At today’s price, those tokens would be worth about $47 million.\n\nAbout 224 million tokens came from",
+    "url": "https://x.com/BSCNews/status/2121291769476170047",
+    "images": [
+      "https://pbs.twimg.com/media/HXBW6gYW4AEPJ8n.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794590539112-537tqm",
+    "source": "x",
+    "ts": "2026-11-13T17:22:19.112Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-13T17:12:56.000Z",
+    "reason": "Bill Miller's valuation implies a significant price increase for Bitcoin.",
+    "text": "JUST IN: $383 million Miller Value Partners Chairman Bill Miller IV says the gold analogy \"would imply a value of $1.3 million for Bitcoin if the world properly contextualized the technology\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2121290228975780306",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2121286967010672640/vid/avc1/1280x720/l0kN-jsnIpoWgAxF.mp4?tag=29",
+      "duration": 124,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121286967010672640/img/rBGsayzivrsl_m6m.jpg"
+    }
   }
 ]
