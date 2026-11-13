@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1794445349325-kz5azo",
-    "source": "x",
-    "ts": "2026-11-12T01:02:29.325Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-12T00:54:00.000Z",
-    "reason": "Notable statistic on crypto hack losses.",
-    "text": "Crypto Hack Losses Equal 57 Cents for Every $1 in On-Chain Revenue Since 2017, ARK Analyst Says\n\nLorenzo Valente @LorenzoARK , director of digital asset research at ARK Invest, said the crypto industry has lost approximately $26.9 billion to hacks since 2017, equivalent to 57",
-    "url": "https://x.com/WuBlockchain/status/2120681483304325414",
-    "images": [
-      "https://pbs.twimg.com/media/HW4sj-cbYAAUJS5.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794447273327-nt4bpg",
-    "source": "x",
-    "ts": "2026-11-12T01:34:33.327Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-12T01:31:00.000Z",
-    "reason": "Notable institutional adoption of a crypto token through staking.",
-    "text": "Nearly half of all $SEI tokens now staked!\n\nAccording to data from @Coinbase, a full 41% of @SeiNetwork's native token is now staked on the network and earning rewards. \n\nThis works out to around 3.2B $SEI tokens, worth roughly $140M at time of writing.\n\nCould this figure rise as",
-    "url": "https://x.com/BSCNews/status/2120690793207804017",
-    "images": [
-      "https://pbs.twimg.com/media/HW11trlWEAAHZr3.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794447276392-fa00yv",
     "source": "x",
     "ts": "2026-11-12T01:34:36.392Z",
@@ -7936,5 +7900,34 @@
     "reason": "No notable crypto-related event mentioned.",
     "text": "🚨 NOW: DHS Secretary Markwayne Mullin said President Trump immediately took the lead in coordinating federal agencies and deploying resources to address the ongoing aviation disruption.",
     "url": "https://x.com/Cointelegraph/status/2121369682166845460"
+  },
+  {
+    "id": "x-1794609748514-77mm0x",
+    "source": "x",
+    "ts": "2026-11-13T22:42:28.514Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T22:40:41.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "🚨 ALERT: Peter Schiff warns Bitcoin’s 22% decline over the past seven weeks shows no signs of ending, urging investors to sell $BTC and buy gold instead.",
+    "url": "https://x.com/Cointelegraph/status/2121372710215233810"
+  },
+  {
+    "id": "x-1794609752350-396vbp",
+    "source": "x",
+    "ts": "2026-11-13T22:42:32.350Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-13T22:33:45.000Z",
+    "reason": "Potential institutional adoption of Solana by a major financial entity.",
+    "text": "Wall Street’s main securities depository is coming to Solana. What does @The_DTCC plan to tokenize on $SOL, and when? ⬇️",
+    "url": "https://x.com/BSCNews/status/2121370964399157373",
+    "images": [],
+    "video": null
   }
 ]
