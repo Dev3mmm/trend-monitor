@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1794417485704-h0j4ah",
-    "source": "x",
-    "ts": "2026-11-11T17:18:05.704Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 15,
-    "author": "Bitcoin Magazine",
-    "ageMin": 72,
-    "originTimestamp": "2026-11-11T16:03:55.000Z",
-    "reason": "Notable decision on inclusion/exclusion in MSCI indexes could impact token prices.",
-    "text": "JUST IN: MSCI decides this afternoon whether to keep Strategy and Metaplanet in its global indexes.\n\nJPMorgan estimates removal could trigger up to $2.8 billion in forced selling from passive funds 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2120548083628974081",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120533964578336768/vid/avc1/1280x720/6c-bLk_S-fW-7WJ2.mp4?tag=29",
-      "duration": 17,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120533964578336768/img/0-T4SH7rrGmXm-07.jpg"
-    }
-  },
-  {
-    "id": "x-1794417491395-v5svkx",
-    "source": "x",
-    "ts": "2026-11-11T17:18:11.395Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 16,
-    "author": "Cointelegraph",
-    "ageMin": 74,
-    "originTimestamp": "2026-11-11T16:01:42.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🔥 DAS LONDON: “Immutability is terrible,” Aave founder Stani Kulechov said of the risks institutions face in DeFi.\n\nHe argued that lending protocols need circuit breakers, warning that unwinding a pool after an oracle failure could take years.",
-    "url": "https://x.com/Cointelegraph/status/2120547525551644745",
-    "images": [
-      "https://pbs.twimg.com/media/HW2ytpBWEAAiuUN.jpg",
-      "https://pbs.twimg.com/media/HW2yu_JXgAAswO9.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794417496052-omr4ef",
-    "source": "x",
-    "ts": "2026-11-11T17:18:16.052Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 76,
-    "originTimestamp": "2026-11-11T16:00:02.000Z",
-    "reason": "No notable move or newsworthy event detected.",
-    "text": "Looks official. But is it? 🔍 \n\nNot every message that looks official is actually from Binance.\n\nThere’s an easy way to check: \nOpen Binance Verify → Enter the source → Review the result\n\nStay SAFU →",
-    "url": "https://x.com/binance/status/2120547106469314798"
-  },
-  {
     "id": "x-1794417501444-r9b6y7",
     "source": "x",
     "ts": "2026-11-11T17:18:21.444Z",
@@ -7982,5 +7929,49 @@
     "reason": "No notable move, crypto news focused.",
     "text": "JUST IN: Microsoft stock, $MSFT, drops amid a global outage disrupting services for 450 million users.",
     "url": "https://x.com/coinbureau/status/2121227053458751883"
+  },
+  {
+    "id": "x-1794576129323-wypbqa",
+    "source": "x",
+    "ts": "2026-11-13T13:22:09.323Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-13T13:19:15.000Z",
+    "reason": "No crypto-related content.",
+    "text": "Amerix is a misogynist.",
+    "url": "https://x.com/amerix/status/2121231420718711144"
+  },
+  {
+    "id": "x-1794576134186-e1dkf5",
+    "source": "x",
+    "ts": "2026-11-13T13:22:14.186Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-13T13:16:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Three Days That Could Define Pi Network’s Next Phase\n\nPi Network (@PiCoreTeam)'s first ecosystem summit, November 17-19, is centered on a Developer-Focused ecosystem. \n\n• The first day is dedicated to development platforms and apps. \n• The second day will focus on AI and the",
+    "url": "https://x.com/BSCNews/status/2121230600229286358"
+  },
+  {
+    "id": "x-1794576139155-91g2ve",
+    "source": "x",
+    "ts": "2026-11-13T13:22:19.155Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 98,
+    "originTimestamp": "2026-11-13T11:43:37.000Z",
+    "reason": "Institutions increasing private transactions through a new network.",
+    "text": "Institutions pushed a heavy week of private transactions through Canton Network ($CC) 📈\n\nDaily volume held above 800,000 across the whole week and peaked in early November.\n\nFull story ⬇️\nMore here:",
+    "url": "https://x.com/BSCNews/status/2121229503020372417",
+    "images": [
+      "https://pbs.twimg.com/media/HXAK15mWoAAESFo.jpg"
+    ],
+    "video": null
   }
 ]
