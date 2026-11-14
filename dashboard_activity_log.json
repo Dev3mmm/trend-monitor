@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1794498185410-y6f6wd",
-    "source": "x",
-    "ts": "2026-11-12T15:43:05.410Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-12T15:37:41.000Z",
-    "reason": "Generic news about a CEO change not tied to cryptocurrency or blockchain technology.",
-    "text": "🚨 NOW: President Donald Trump said Apple CEO Tim Cook should replace Jensen Huang as Nvidia CEO following Huang’s reported resignation.",
-    "url": "https://x.com/Cointelegraph/status/2120903867348988141"
-  },
-  {
-    "id": "x-1794498188130-z0ybql",
-    "source": "x",
-    "ts": "2026-11-12T15:43:08.130Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-12T15:35:00.000Z",
-    "reason": "No notable crypto-related news mentioned.",
-    "text": "United Airlines Restricts Access for Third-Party AI Agents.\n\nUnited said Wednesday it is restricting unauthorized third-party AI agents from its digital platforms, warning that sharing account credentials can expose data and that automated check-in could violate FAA and DOT",
-    "url": "https://x.com/DecryptMedia/status/2120903192942985462"
-  },
-  {
-    "id": "x-1794498772329-3s2lha",
-    "source": "x",
-    "ts": "2026-11-12T15:52:52.329Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-12T15:43:04.000Z",
-    "reason": "No factual claim or notable event described.",
-    "text": "🚨 NOW: President Trump suggest Tim Cook to become Nvidia's next CEO.",
-    "url": "https://x.com/Cointelegraph/status/2120905224173003180"
-  },
-  {
-    "id": "x-1794499309361-85nx05",
-    "source": "x",
-    "ts": "2026-11-12T16:01:49.362Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-12T16:01:01.000Z",
-    "reason": "No notable move in QNT; price is within recent range.",
-    "text": "NOW: $QNT is down nearly 10% over the past 24 hours. \n\nFor the latest price and news updates on $QNT, click here 👇",
-    "url": "https://x.com/BSCNews/status/2120909740637405279"
-  },
-  {
     "id": "x-1794499315304-fsrfhf",
     "source": "x",
     "ts": "2026-11-12T16:01:55.304Z",
@@ -7764,6 +7712,78 @@
     "url": "https://x.com/Cointelegraph/status/2121657123574579385",
     "images": [
       "https://pbs.twimg.com/media/HXGj6IiXoAEqExt.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794679325134-uyk0br",
+    "source": "x",
+    "ts": "2026-11-14T18:02:05.134Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-14T18:00:09.000Z",
+    "reason": "Noise: generic hype with no real content.",
+    "text": "Swag esentials.",
+    "url": "https://x.com/binance/status/2121664496989081644"
+  },
+  {
+    "id": "x-1794679328796-mkxkx3",
+    "source": "x",
+    "ts": "2026-11-14T18:02:08.796Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-14T18:00:01.000Z",
+    "reason": "Notable security incident involving Binance.",
+    "text": "Binance CSO: A Fake Interview and a Coding Assignment Breached an Engineer's Computer  \n\nOn November 9, 2026, Binance CSO Jimmy Su described a fake-recruitment attack in an X fireside chat. A Binance engineer was contacted on a legitimate job platform by a self-styled project",
+    "url": "https://x.com/WuBlockchain/status/2121664464860709152",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2121443263064518656/vid/avc1/1280x720/bPJMEYRg0b8quCai.mp4?tag=29",
+      "duration": 96,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121443263064518656/img/JZWLANADgO3D0_wh.jpg"
+    }
+  },
+  {
+    "id": "x-1794679333676-f2j1g5",
+    "source": "x",
+    "ts": "2026-11-14T18:02:13.676Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-14T18:00:00.000Z",
+    "reason": "Price movement outside the recent range represents a significant change in Bitcoin Mining Difficulty.",
+    "text": "UPDATE: Bitcoin Mining Difficulty Falls 9.13%, the Biggest Cut Since June.\n\nThe adjustment at block 975,744, at 12:02 AM EST (05:02 UTC) Saturday, took difficulty to about 134.82T from 148.36T, the deepest drop since a 10.09% cut on June 14, per mempool space.",
+    "url": "https://x.com/DecryptMedia/status/2121664461081592297",
+    "images": [
+      "https://pbs.twimg.com/media/HXExwS5XwAAOlJb.jpg",
+      "https://pbs.twimg.com/media/HXEyHC7WYAAKhV2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794679336999-w28978",
+    "source": "x",
+    "ts": "2026-11-14T18:02:16.999Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-14T17:56:34.000Z",
+    "reason": "Potential major regulatory and strategic shift at Nvidia.",
+    "text": "🔥 BIG: Two of Nvidia's biggest backers, Altimeter's Brad Gerstner and Atreides' Gavin Baker, want the board to slow down its CEO search and leave the door open for Jensen Huang's return.\n\nIs Wall Street about to un-resign Jensen?",
+    "url": "https://x.com/Cointelegraph/status/2121663595960324599",
+    "images": [
+      "https://pbs.twimg.com/media/HXGpytuXwAA5RM0.jpg",
+      "https://pbs.twimg.com/media/HXGpy8iXAAAK2vr.jpg"
     ],
     "video": null
   }
