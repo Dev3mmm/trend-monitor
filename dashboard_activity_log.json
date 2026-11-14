@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794502344421-8ny1m4",
-    "source": "x",
-    "ts": "2026-11-12T16:52:24.421Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T16:49:39.000Z",
-    "reason": "Provides transparency and verification in a security incident.",
-    "text": "Binance has completed coverage of assets impacted in the security incident and we have published a new Proof of Reserves snapshot. Once the zero-knowledge proof is generated, users can independently verify that their assets are backed at a minimum of 1:1 -",
-    "url": "https://x.com/binance/status/2120921979226329504",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794502350532-kyqtzt",
-    "source": "x",
-    "ts": "2026-11-12T16:52:30.532Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-12T16:46:39.000Z",
-    "reason": "Notable regulatory/publicity move regarding crypto's political support.",
-    "text": "JUST IN: 🇺🇸 Stand With Crypto's Executive Director says \"crypto voices made their voices heard\" in mid-term races 👀\n\n\"In 2023 there were around 96 pro-crypto Stand with Crypto rated Congress people...this Congress should have over 300 pro-crypto Congress people\" 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2120921225090543732",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120921122543714304/vid/avc1/1280x720/2bisNlbDB34UyhMh.mp4?tag=29",
-      "duration": 131,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120921122543714304/img/5MPn1kHJCvJ_kkNw.jpg"
-    }
-  },
-  {
     "id": "x-1794502926705-jrnj3r",
     "source": "x",
     "ts": "2026-11-12T17:02:06.705Z",
@@ -7761,5 +7724,31 @@
       "https://pbs.twimg.com/media/HXApPu0XwAAClB8.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794693719855-3c4nnv",
+    "source": "x",
+    "ts": "2026-11-14T22:01:59.855Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-14T22:00:04.000Z",
+    "reason": "No factual claim or notable event described.",
+    "text": "SAFU A1",
+    "url": "https://x.com/binance/status/2121724876423610517"
+  },
+  {
+    "id": "x-1794693722584-7fbey3",
+    "source": "x",
+    "ts": "2026-11-14T22:02:02.584Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-14T21:56:44.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "See you next ₿lock, Laura.",
+    "url": "https://x.com/saylor/status/2121724034715144572"
   }
 ]
