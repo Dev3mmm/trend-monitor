@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794492174642-vzcekg",
-    "source": "x",
-    "ts": "2026-11-12T14:02:54.642Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-12T14:00:01.000Z",
-    "reason": "Notable regulatory move affecting Bitcoin ETF access.",
-    "text": "MSCI Drops Bitcoin Treasury Firm Strategy From Its USA Index.\n\nMSCI's Nov. 11 review of its Global Standard Indexes lists Strategy among deletions from the MSCI USA Index, with the change effective as of the close of business on Nov. 30.",
-    "url": "https://x.com/DecryptMedia/status/2120879288664916057",
-    "images": [
-      "https://pbs.twimg.com/media/HW7V6OLWEAArj6r.png",
-      "https://pbs.twimg.com/media/HW7Wcf9XkAE-ZPe.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794492176392-zpgaut",
-    "source": "x",
-    "ts": "2026-11-12T14:02:56.392Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-12T13:58:43.000Z",
-    "reason": "No notable crypto-related news mentioned.",
-    "text": "🚨 JUST IN: Nvidia names CFO Colette Kress interim CEO. She will retain her CFO role, and Harvey Jones becomes the board’s first-ever chair.\n\nHuang co-founded Nvidia in 1993 and was its only CEO for 33 years.",
-    "url": "https://x.com/Cointelegraph/status/2120878964399022455"
-  },
-  {
-    "id": "x-1794492177850-qhmjo4",
-    "source": "x",
-    "ts": "2026-11-12T14:02:57.850Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-12T13:51:39.000Z",
-    "reason": "No factual claim or concrete information provided.",
-    "text": "Emasculation of NVIDIA. The bubble will burst.",
-    "url": "https://x.com/amerix/status/2120878761323135326"
-  },
-  {
     "id": "x-1794492180245-fuc1pn",
     "source": "x",
     "ts": "2026-11-12T14:03:00.245Z",
@@ -7804,5 +7759,58 @@
       "https://pbs.twimg.com/media/HXF5tOLa4AA3Fmr.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794667334284-kgy7qt",
+    "source": "x",
+    "ts": "2026-11-14T14:42:14.285Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-14T14:41:37.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "NEW: The Dollar Endgame's Roberto Rios says high rates are bullish for Bitcoin long-term 👀\n\n\"High interest expense means the government just has to borrow more...in that environment Bitcoin does exceptionally well in the long term.\" 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2121614536721789083",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2121596348994576384/vid/avc1/1280x720/J-3ETPLDK9hFckd-.mp4?tag=29",
+      "duration": 61,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121596348994576384/img/tLGEA3BLroBN7L7L.jpg"
+    }
+  },
+  {
+    "id": "x-1794667338208-4ar0r1",
+    "source": "x",
+    "ts": "2026-11-14T14:42:18.208Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-14T14:41:01.000Z",
+    "reason": "Genuine price and market value movement news with specific data.",
+    "text": "🚨BREAKING: Bitcoin falls to $66,000, now down 12% in seven days.\n\nBitcoin is trading nearly 48% below the record high it set in October last year.\n\nIts market value has fallen to $1.33 TRILLION.\n\n$40.8 BILLION sits in open perpetual futures positions.",
+    "url": "https://x.com/coinbureau/status/2121614382526566615",
+    "images": [
+      "https://pbs.twimg.com/media/HXF81joaoAAKjPg.png",
+      "https://pbs.twimg.com/media/HXF8-cDbgAAs9Hi.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794667341750-np76rz",
+    "source": "x",
+    "ts": "2026-11-14T14:42:21.750Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-14T14:40:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Kaspa is one of few major blockchains that rely on proof-of-stake.\n\nWe explore why $KAS's choice of consensus mechanism might just make sense... 🧠",
+    "url": "https://x.com/BSCNews/status/2121614127059943515"
   }
 ]
