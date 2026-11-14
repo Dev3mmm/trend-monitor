@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794459146584-n80fj8",
-    "source": "x",
-    "ts": "2026-11-12T04:52:26.584Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-12T04:51:24.000Z",
-    "reason": "New use of a token/stablecoin with major on-chain social graph features.",
-    "text": "Monad's Social Ecosystem Got a Major New Addition\n\nMonad (@monad) monad:native has announced the arrival of Lens (@LC), with a fully onchain social graph.\n\nThe idea is to give users control over their digital identities and connections. They won't be tied to one app or feed.",
-    "url": "https://x.com/BSCNews/status/2120741225557119385",
-    "images": [
-      "https://pbs.twimg.com/media/HW5igz6bsAAN4hv.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794459745472-wdoy5t",
     "source": "x",
     "ts": "2026-11-12T05:02:25.472Z",
@@ -7899,5 +7881,18 @@
       "https://pbs.twimg.com/media/HXAoPjKXMAAyIJy.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794623012571-gws37m",
+    "source": "x",
+    "ts": "2026-11-14T02:23:32.571Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 52,
+    "originTimestamp": "2026-11-14T01:31:07.000Z",
+    "reason": "No notable crypto-related event or price movement mentioned.",
+    "text": "🇺🇸 US Transportation Secretary reveals old, overloaded routers caused the nationwide FAA shutdown.\n\nSean Duffy said the routers started returning inconsistent data, so the FAA shut the system down.\n\nThe new switches he installed held, and it was the old hardware that went down.",
+    "url": "https://x.com/coinbureau/status/2121427396519727529"
   }
 ]
