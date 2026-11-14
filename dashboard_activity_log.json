@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794504721729-5tmdt2",
-    "source": "x",
-    "ts": "2026-11-12T17:32:01.729Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-12T17:27:52.000Z",
-    "reason": "Specific event involving a major crypto platform and a significant hack.",
-    "text": "JUST IN: Binance says it has completed coverage of all assets hit in the $6.34 billion hack by North Korea 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2120931597402960383",
-    "images": [
-      "https://pbs.twimg.com/media/HW8Pl91W4AAFDwJ.jpg",
-      "https://pbs.twimg.com/media/HW8Pq4rWcAAdfPZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794504723670-drq8g8",
-    "source": "x",
-    "ts": "2026-11-12T17:32:03.670Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-12T17:22:24.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "Accountable wants lenders to see hidden risk before it spreads\n\n@AccountableData lets crypto firms prove what they hold and owe without exposing private data. More than 60 institutions use it, and CEO @WojtekP laid out Chapter 2 today.\n\nThe new phase links those firms in a",
-    "url": "https://x.com/BSCNews/status/2120930221272518837"
-  },
-  {
     "id": "x-1794505961680-z4rxny",
     "source": "x",
     "ts": "2026-11-12T17:52:41.680Z",
@@ -7719,5 +7687,36 @@
     "reason": "No notable move or concrete information provided.",
     "text": "Ship 42 looks great!",
     "url": "https://x.com/elonmusk/status/2121746382402797892"
+  },
+  {
+    "id": "x-1794699752623-p3thh3",
+    "source": "x",
+    "ts": "2026-11-14T23:42:32.623Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 21,
+    "originTimestamp": "2026-11-14T23:21:18.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "“Physics is the law. Everything else is a recommendation.” @elonmusk told me that at DealBook in 2023. \n\nToday, SpaceX caught Starship after 14 orbits of Earth. Plenty doubted it was possible. Just extraordinary. @SpaceX.",
+    "url": "https://x.com/elonmusk/status/2121750118835671432"
+  },
+  {
+    "id": "x-1794699756651-zdzru0",
+    "source": "x",
+    "ts": "2026-11-14T23:42:36.651Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-14T23:35:44.000Z",
+    "reason": "Notable sale of ETH by the Ethereum Foundation.",
+    "text": "Ethereum Foundation Sold 7,500 ETH for 14.52M USDS Over Four Days\n\nAccording to Onchain Lens, the Ethereum Foundation sold another 2,500 ETH (worth approximately $4.71 million) for 4.597 million USDS via CoWSwap, bringing its total sales over the past four days to 7,500 ETH for",
+    "url": "https://x.com/WuBlockchain/status/2121748951393353733",
+    "images": [
+      "https://pbs.twimg.com/media/HXH3a93bAAAT_nw.jpg"
+    ],
+    "video": null
   }
 ]
