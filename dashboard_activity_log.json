@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794483170686-fbt367",
-    "source": "x",
-    "ts": "2026-11-12T11:32:50.686Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-12T11:23:48.000Z",
-    "reason": "On-chain data point with significant transaction volume increase.",
-    "text": "ICP Just Processed 5 Billion Transactions in Under Two Weeks!\n\nThe Internet Computer (@dfinity) reported a 13-day record, processing more than 400 million transactions per day.\n\nThis brought its total transaction count to over 5.2 billion transactions during the period.",
-    "url": "https://x.com/BSCNews/status/2120839978804548004",
-    "images": [
-      "https://pbs.twimg.com/media/HW68qJDWUAAWpWa.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794483175614-j5rq2g",
-    "source": "x",
-    "ts": "2026-11-12T11:32:55.614Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-12T11:21:58.000Z",
-    "reason": "Data leak involving employee records linked to cryptocurrency",
-    "text": "🇹🇼 LATEST: Chipmaker giant TSMC confirmed an employee data leak linked to a cloud provider. A seller reportedly asked 3 BTC for 46,000 alleged employee records.\n\nTSMC found no evidence of an internal breach.",
-    "url": "https://x.com/Cointelegraph/status/2120839515887550684",
-    "images": [
-      "https://pbs.twimg.com/media/HW68S7cW4AAAJ9a.jpg",
-      "https://pbs.twimg.com/media/HW68TImXQAAgeyj.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794483764735-zloqp7",
     "source": "x",
     "ts": "2026-11-12T11:42:44.735Z",
@@ -7849,5 +7812,34 @@
     "reason": "No notable move or specific event is described.",
     "text": "🚨BREAKING: OpenAI has disbanded its robotics team, just 5 months after relaunching it.\n\nThe company has moved its robotics researchers into its main AI lab, telling Fortune that GPT-6 Astra can already control robots across certain tasks.\n\nThe move comes after robotics chief",
     "url": "https://x.com/coinbureau/status/2121532338123513923"
+  },
+  {
+    "id": "x-1794648725135-nujck9",
+    "source": "x",
+    "ts": "2026-11-14T09:32:05.135Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-14T09:30:40.000Z",
+    "reason": "Notable statement about Bitcoin custody and new custody system from a respected figure.",
+    "text": "🔥 NEW: Adam Back says the fix for Bitcoin custody is \"just cold-store it,\" as Blockstream launches an offline custody system with Thales.\n\nBinance's $6.3B hack was his main example.",
+    "url": "https://x.com/Cointelegraph/status/2121536279925964963",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794648728050-xu8bjv",
+    "source": "x",
+    "ts": "2026-11-14T09:32:08.050Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-14T09:30:04.000Z",
+    "reason": "No notable crypto-related content or event.",
+    "text": "Men,\n\nA billionaire with 33 years at the top fell in one week.\n\nStop envying men whose lives you only see from the outside.\n\nBuild your own life step by step, and protect it.\n\nGUARD YOUR FRAME.\n\n#MasculinitySaturday",
+    "url": "https://x.com/amerix/status/2121536130969387396"
   }
 ]
