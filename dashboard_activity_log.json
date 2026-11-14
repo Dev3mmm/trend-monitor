@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794463340509-3m756x",
-    "source": "x",
-    "ts": "2026-11-12T06:02:20.509Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-12T06:00:40.000Z",
-    "reason": "Sui wallet shutdown and DeFi TVL drop值得关注",
-    "text": "⚡ UPDATE: Suiet, a self-custodial wallet for the Sui blockchain, will shut down with API services set to end after Nov. 14, as Sui’s DeFi TVL drops over 22% in a month.",
-    "url": "https://x.com/Cointelegraph/status/2120758658120159446",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794463344386-aexxct",
-    "source": "x",
-    "ts": "2026-11-12T06:02:24.386Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T06:00:00.000Z",
-    "reason": "No notable move or breaking news, the wallet closure is a soft news item.",
-    "text": "Sui Ecosystem Loses Yet Another Wallet...\n\nSuiet (@suiet_wallet), a self-custodial wallet built for Sui (@SuiNetwork) $SUI, is shutting down.\n\nThe wallet will stop receiving updates and support, while its API services end after November 14.\n\nSuiet’s closure follows Suiball’s",
-    "url": "https://x.com/BSCNews/status/2120758489924444605"
-  },
-  {
     "id": "x-1794464579504-rgb7fc",
     "source": "x",
     "ts": "2026-11-12T06:22:59.504Z",
@@ -7901,5 +7872,42 @@
     "reason": "No notable move or specific event is reported.",
     "text": "🚨JUST IN: Mark Zuckerberg’s prediction market app has Meta staff wagering $0 on Tim Cook becoming Nvidia CEO.\n\nThe app, called “Takes”, is reportedly being tested inside Meta with points called “cred” and NO real money.\n\nPresident Trump has pushed former Apple CEO Tim Cook to",
     "url": "https://x.com/coinbureau/status/2121451807520284997"
+  },
+  {
+    "id": "x-1794629524305-nksivs",
+    "source": "x",
+    "ts": "2026-11-14T04:12:04.305Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-14T04:08:39.000Z",
+    "reason": "The tweet cites specific and significant financial numbers related to the crypto market.",
+    "text": "🚨BREAKING: Bitcoin plunges below $67,000 as crypto liquidations reportedly top $300 MILLION in just three hours.\n\nSince October 1, the crypto market has wiped $700 BILLION in value.",
+    "url": "https://x.com/coinbureau/status/2121455242944618879",
+    "images": [
+      "https://pbs.twimg.com/media/HXDsFURbIAAEHgl.jpg",
+      "https://pbs.twimg.com/media/HXDsHl4aIAAtQ9m.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794629527028-ypkp9r",
+    "source": "x",
+    "ts": "2026-11-14T04:12:07.028Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-14T04:05:00.000Z",
+    "reason": "On-chain data point showing significant change in Stellar's TVL.",
+    "text": "Stellar's TVL drops -$74M in just over a month.\n\nOn October 1, TVL on @StellarOrg hit an all-time high of $272.84M.\n\nSince then, however, the figure has fallen by $73.97M (-27%) to a still impressive $198.87M at time of writing on November 13.\n\nIn brighter news, however,",
+    "url": "https://x.com/BSCNews/status/2121454324392018085",
+    "images": [
+      "https://pbs.twimg.com/media/HXAoXOvWEAATMJS.jpg"
+    ],
+    "video": null
   }
 ]
