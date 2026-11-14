@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794493344217-be61qq",
-    "source": "x",
-    "ts": "2026-11-12T14:22:24.217Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-12T14:14:00.000Z",
-    "reason": "Notable institutional adoption with a major crypto clearing house integrating with Solana blockchain.",
-    "text": "Wall Street's Clearing Giant Is Bringing Tokenized Assets to Solana\n\n@The_DTCC, the Depository Trust &amp; Clearing Corporation, said its DTCC Tokenization Service will soon integrate with the @Solana blockchain.\n\nOnce done, eligible assets stored with the DTC will be able to be",
-    "url": "https://x.com/BSCNews/status/2120882808352899509",
-    "images": [
-      "https://pbs.twimg.com/media/HW7eiDjWkAAbkUe.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794493930208-dfi50q",
-    "source": "x",
-    "ts": "2026-11-12T14:32:10.208Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-12T14:31:31.000Z",
-    "reason": "Prediction/price call with no basis given",
-    "text": "LIVE: MSCI &amp; Strategy, Post-Midterm Crypto Politics, The $40T Debt Trap | BMTV Nov. 12, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2120887219044892697"
-  },
-  {
     "id": "x-1794493934435-s877u0",
     "source": "x",
     "ts": "2026-11-12T14:32:14.435Z",
@@ -7775,5 +7744,31 @@
     "reason": "Noise: No factual claim or specific event mentioned.",
     "text": "Update on Starship",
     "url": "https://x.com/elonmusk/status/2121627776881230121"
+  },
+  {
+    "id": "x-1794671512947-dec67p",
+    "source": "x",
+    "ts": "2026-11-14T15:51:52.947Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-14T15:51:00.000Z",
+    "reason": "No notable move in alt chain development metrics provided.",
+    "text": "Development on these alt chains is surging...\n\nSeveral smaller blockchain ecosystems have seen a dramatic surge in the number of commits their networks have received in the past 30 days.\n\n@etherlink [+38.10%]\n@BSVAssociation [+16.99%]\n@eCash [+8.26%]\n@tezos [+6.74%]\n\nIs this a",
+    "url": "https://x.com/BSCNews/status/2121631995260194858"
+  },
+  {
+    "id": "x-1794671514742-dwyoie",
+    "source": "x",
+    "ts": "2026-11-14T15:51:54.742Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-14T15:41:42.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "Flight 15 Update: Starship coasting in orbit, still looking good for return to launch site today. Pad and tower systems are go for catch.",
+    "url": "https://x.com/elonmusk/status/2121630693747024071"
   }
 ]
