@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794459745472-wdoy5t",
-    "source": "x",
-    "ts": "2026-11-12T05:02:25.472Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-12T05:00:49.000Z",
-    "reason": "No notable move in crypto or blockchain technology mentioned.",
-    "text": "🇺🇸 NOW: Senators Elizabeth Warren and Chris Coons want the Trump administration to preserve all records tied to Nvidia’s China chip sales and CEO Jensen Huang’s affair, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2120743595619521019"
-  },
-  {
-    "id": "x-1794459748848-my7sdm",
-    "source": "x",
-    "ts": "2026-11-12T05:02:28.848Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T05:00:00.000Z",
-    "reason": "Prisoner jailed over significant crypto theft plot",
-    "text": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell\n\nRobert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.",
-    "url": "https://x.com/DecryptMedia/status/2120743389746393111",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794460333682-vayq0x",
-    "source": "x",
-    "ts": "2026-11-12T05:12:13.682Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-12T05:11:16.000Z",
-    "reason": "No notable crypto-related news or movement mentioned.",
-    "text": "Nvidia CEO Jensen Huang's Exit Odds Hit 88% on Polymarket Amid Reports of Second Affair\n\nNvidia's board was meeting to consider removing CEO Jensen Huang after The New York Times reported allegations of an extramarital affair with Kimberly Powell, the company's vice president of",
-    "url": "https://x.com/WuBlockchain/status/2120746227172352351"
-  },
-  {
     "id": "x-1794460339559-no3v72",
     "source": "x",
     "ts": "2026-11-12T05:12:19.559Z",
@@ -7894,5 +7852,53 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "🇺🇸 US Transportation Secretary reveals old, overloaded routers caused the nationwide FAA shutdown.\n\nSean Duffy said the routers started returning inconsistent data, so the FAA shut the system down.\n\nThe new switches he installed held, and it was the old hardware that went down.",
     "url": "https://x.com/coinbureau/status/2121427396519727529"
+  },
+  {
+    "id": "x-1794623599391-eg62ka",
+    "source": "x",
+    "ts": "2026-11-14T02:33:19.391Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-14T02:30:42.000Z",
+    "reason": "Vague opinion without factual claim",
+    "text": "⚡️ QUESTION: The year is 2024, what would you do differently?",
+    "url": "https://x.com/Cointelegraph/status/2121430593401413681"
+  },
+  {
+    "id": "x-1794623603304-duczjl",
+    "source": "x",
+    "ts": "2026-11-14T02:33:23.304Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-14T02:30:00.000Z",
+    "reason": "Notable bank adoption of a crypto product.",
+    "text": "Google Opens Gemini's Wallet Connection to All US Gemini App Users, With Optional Plaid Links.\n\nThe connection is opt-in and read-only, so Gemini \"can't move, manage, or invest your money,\" and it is rolling out Nov. 13 on the web and in the Gemini app for Android and iOS.",
+    "url": "https://x.com/DecryptMedia/status/2121430418130173959",
+    "images": [
+      "https://pbs.twimg.com/media/HXByhXlXUAA2UQU.png",
+      "https://pbs.twimg.com/media/HXByjCXXEAArUoU.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794623606848-t3mu44",
+    "source": "x",
+    "ts": "2026-11-14T02:33:26.848Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Elon Musk",
+    "ageMin": 74,
+    "originTimestamp": "2026-11-14T01:19:31.000Z",
+    "reason": "Not a crypto-related event.",
+    "text": "Altimeter and Atreides together hold more than $25B in assets.\n\nElon and the founders of Uber, Shopify, Replit, and Vercel have all posted in support of Jensen’s reinstatement at @nvidia.\n\nSo, this has only begun. Anti-Jensen board members will likely face escalating pressure",
+    "url": "https://x.com/elonmusk/status/2121430250877788286",
+    "images": [],
+    "video": null
   }
 ]
