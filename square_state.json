@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "⚡️️ UPDATE: Around 35.4% of Bitcoin’s supply, or 7.12 million $BTC, has publicly exposed keys that could be vulnerable to future quantum attacks, including exposure linked to address reuse and exchange holdings.",
-      "url": "https://x.com/Cointelegraph/status/2121367673153986760",
-      "images": [
-        "https://pbs.twimg.com/media/HXCcp8mWkAESRDc.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794608548467
-    },
-    {
       "text": "🚨 UPDATE: Dash ($DASH), Chainlink ($LINK), and HOPR ($HOPR) lead Santiment’s latest ranking of privacy-focused crypto projects by development activity over the past 30 days.",
       "url": "https://x.com/Cointelegraph/status/2121377784048107524",
       "images": [
@@ -2671,7 +2662,16 @@
       "at": 1794616369202,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/387994380964320?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "⚡️️ UPDATE: Around 35.4% of Bitcoin’s supply, or 7.12 million $BTC, has publicly exposed keys that could be vulnerable to future quantum attacks, including exposure linked to address reuse and exchange holdings.",
+      "final": "⚡️️ UPDATE: Around 35.4% of Bitcoin’s supply, or 7.12 million $BTC, has publicly exposed keys that could be vulnerable to future quantum attacks, including exposure linked to address reuse and exchange holdings.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HXCcp8mWkAESRDc.jpg"
+      ],
+      "at": 1794618106614,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794616369202
+  "lastPostAt": 1794618106614
 }
