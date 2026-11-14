@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1794499330041-scdb5x",
-    "source": "x",
-    "ts": "2026-11-12T16:02:10.041Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-12T15:56:45.000Z",
-    "reason": "Notable bank audit confirming physical gold backing for Tether Gold.",
-    "text": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
-    "url": "https://x.com/DecryptMedia/status/2120908665792196790",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794499335447-2i0jk8",
-    "source": "x",
-    "ts": "2026-11-12T16:02:15.447Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 5,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-12T15:52:49.000Z",
-    "reason": "New use of a token/stablecoin in a decentralized ecosystem.",
-    "text": "Ondo Stocks on Just Unlocked Instant Borrowing...\n\n@Ondo Finance has launched a new feature that allows on-chain borrowing for its tokenized stocks within the @solana ecosystem.\n\nThe initiative is being enabled via @SpoutFi, a decentralized liquidity protocol, along with the",
-    "url": "https://x.com/BSCNews/status/2120907677698048395",
-    "images": [
-      "https://pbs.twimg.com/media/HW76SPUXwAAiQ3n.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794499923530-aalnqh",
-    "source": "x",
-    "ts": "2026-11-12T16:12:03.530Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-12T16:08:24.000Z",
-    "reason": "Noise: Generic hype with no real content.",
-    "text": "SpaceX community benefits",
-    "url": "https://x.com/elonmusk/status/2120912138772369758"
-  },
-  {
     "id": "x-1794499927750-un28sg",
     "source": "x",
     "ts": "2026-11-12T16:12:07.750Z",
@@ -7769,5 +7722,49 @@
     "reason": "No notable move or specific event related to AI tokens mentioned.",
     "text": "AI tokens a good crypto diversifier...?!\n\nAccording to @Grayscale, volatility on AI token performance is only 35% driven by the performance of $BTC itself.\n\nConsumer tokens and smart contract platforms, however, have figures of 46% and 38% respectively.\n\nProminent AI tokens",
     "url": "https://x.com/BSCNews/status/2121667730549993732"
+  },
+  {
+    "id": "x-1794681162655-lyloyo",
+    "source": "x",
+    "ts": "2026-11-14T18:32:42.655Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-14T18:32:00.000Z",
+    "reason": "Microsoft outage alert with fake emails spreading fear",
+    "text": "⚠️ALERT: Scammers are sending FAKE Microsoft outage EMAILS that give you 24 HOURS to save your messages.\n\nMicrosoft 365 and Exchange Online really did go down on November 12, with Downdetector reports from 74 countries and territories inside an hour.\n\nThe fake emails copy the",
+    "url": "https://x.com/coinbureau/status/2121672511977066712",
+    "images": [
+      "https://pbs.twimg.com/media/HXGupqJaUAAI2bM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794681165623-ow8dr6",
+    "source": "x",
+    "ts": "2026-11-14T18:32:45.623Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-14T18:29:40.000Z",
+    "reason": "No notable crypto-related news or move mentioned.",
+    "text": "🚨 BIG: The \"Stand with Jensen\" petition says it's removing fake signatures after passing 64K, the petition has already surpassed 100,000 signatures.\n\nEven Bitmine's Tom Lee is among the signers.\n\nWould you sign?",
+    "url": "https://x.com/Cointelegraph/status/2121671925877326173"
+  },
+  {
+    "id": "x-1794681167835-vhajk0",
+    "source": "x",
+    "ts": "2026-11-14T18:32:47.835Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 91,
+    "originTimestamp": "2026-11-14T17:01:32.000Z",
+    "reason": "No notable move or concrete information.",
+    "text": "Intelligence is getting abundant. $BTC is not. $MSTR",
+    "url": "https://x.com/saylor/status/2121669994777878864"
   }
 ]
