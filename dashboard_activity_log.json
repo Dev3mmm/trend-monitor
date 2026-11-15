@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1794511366868-e8ggq8",
-    "source": "x",
-    "ts": "2026-11-12T19:22:46.868Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-12T19:13:49.000Z",
-    "reason": "Not provided enough specific information to verify, needs more details.",
-    "text": "News update: BlackRock's BUIDL is dominating Aptos (@Aptos) 👀\n\nOne fund holds 157.37 million dollars of the 191.11 million distributed on the network. We explain who else is in the mix and what backs it.\n\nHere's the breakdown ⬇️\n\nFull story:",
-    "url": "https://x.com/BSCNews/status/2120960367514038640",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2120958118234386432/vid/avc1/1280x720/Z5bCyT7OicpBsESD.mp4?tag=29",
-      "duration": 207,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120958118234386432/img/6wrVqn8Ef9mS32Xn.jpg"
-    }
-  },
-  {
     "id": "x-1794511370077-w1xgg2",
     "source": "x",
     "ts": "2026-11-12T19:22:50.077Z",
@@ -7710,5 +7689,23 @@
     "reason": "Generic statement with no concrete details or move.",
     "text": "Everything has changed.",
     "url": "https://x.com/elonmusk/status/2121791280208581035"
+  },
+  {
+    "id": "x-1794713527017-0tixx3",
+    "source": "x",
+    "ts": "2026-11-15T03:32:07.017Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-15T03:30:43.000Z",
+    "reason": "No notable move within recent range.",
+    "text": "🚨 PAIN: Bitcoin has lost over $10,000 in a week.\n\n$BTC just hit a four-month low, sliding as far as $62,112 as leveraged longs got wiped out over the weekend.\n\nWe've already bounced back above $74K.",
+    "url": "https://x.com/Cointelegraph/status/2121808085354188967",
+    "images": [
+      "https://pbs.twimg.com/media/HXItNLlWUAAJQli.png"
+    ],
+    "video": null
   }
 ]
