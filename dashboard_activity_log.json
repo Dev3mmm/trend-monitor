@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1794551515701-3hjsqf",
-    "source": "x",
-    "ts": "2026-11-13T06:31:55.701Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T06:30:46.000Z",
-    "reason": "Price outside recent range with significant market cap drop.",
-    "text": "🚨 JUST IN: $BTC slips toward $68K as its market cap drops over $60B in a day to $1.37T, its lowest level in nearly 3 months.\n\nOver the past six weeks, about $370B has been wiped out, a 21% decline from early October.",
-    "url": "https://x.com/Cointelegraph/status/2121128620403937732",
-    "images": [
-      "https://pbs.twimg.com/media/HW_DPHNXUAAcc6w.jpg",
-      "https://pbs.twimg.com/media/HW_DPSUXcAArHAC.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794552088606-sqmmn3",
     "source": "x",
     "ts": "2026-11-13T06:41:28.606Z",
@@ -7706,5 +7687,18 @@
       "https://pbs.twimg.com/media/HXNCJgsXEAAIUTQ.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794786739171-glitkl",
+    "source": "x",
+    "ts": "2026-11-15T23:52:19.171Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-15T23:47:27.000Z",
+    "reason": "No notable crypto-related news or move.",
+    "text": "@dhh @wholemars @matthewstoller Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth",
+    "url": "https://x.com/elonmusk/status/2122114501554086197"
   }
 ]
