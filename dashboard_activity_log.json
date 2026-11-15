@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794509508859-9rh73y",
-    "source": "x",
-    "ts": "2026-11-12T18:51:48.859Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-12T18:50:41.000Z",
-    "reason": "No notable move in cryptocurrency prices as the tweet only mentions mortgage rates.",
-    "text": "🇺🇸 MARKET: US 30-year fixed mortgage rates fall to 7.11% for a fourth straight week.",
-    "url": "https://x.com/Cointelegraph/status/2120952436898594887"
-  },
-  {
-    "id": "x-1794509511060-loxjdn",
-    "source": "x",
-    "ts": "2026-11-12T18:51:51.060Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-12T18:49:00.000Z",
-    "reason": "No notable crypto-related news or significant price movement mentioned.",
-    "text": "Jensen Huang quits Nvidia, but Warren says Congress still wants answers\n\nJensen Huang resigned as CEO of @nvidia $NVDA today amid reports linking him to a suspected Chinese spy, and finance chief Colette Kress takes over for now. Senator @SenWarren said the exit “does not absolve",
-    "url": "https://x.com/BSCNews/status/2120952014557385170"
-  },
-  {
     "id": "x-1794509513058-r0619p",
     "source": "x",
     "ts": "2026-11-12T18:51:53.058Z",
@@ -7695,6 +7669,40 @@
     "url": "https://x.com/coinbureau/status/2121775804560634146",
     "images": [
       "https://pbs.twimg.com/media/HXIOWvHbcAAXol4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794708133065-ru3na0",
+    "source": "x",
+    "ts": "2026-11-15T02:02:13.065Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-15T02:00:01.000Z",
+    "reason": "Cardano founder's statement about the roadmap completion could indicate significant changes in the project's direction.",
+    "text": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says\n\nCardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
+    "url": "https://x.com/DecryptMedia/status/2121785259817586980",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794708137335-gwz9jt",
+    "source": "x",
+    "ts": "2026-11-15T02:02:17.335Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 39,
+    "originTimestamp": "2026-11-15T01:22:27.000Z",
+    "reason": "Notable recent price movement and significant prior week rally.",
+    "text": "A QUARTER of Bitcoin gains ERASED. 🔥\n\nLast August, Bitcoin added $14,775 in ONE week -- its largest weekly dollar gain ever.\n\nBTC rallied 23.5% from $62,818 to $77,593 in seven days.\n\nNow, Bitcoin is back below $63,000. That entire advance is gone.\n\nWhat powered that rally?\n\n-",
+    "url": "https://x.com/coinbureau/status/2121785258316022106",
+    "images": [
+      "https://pbs.twimg.com/media/HXIXd2SbgAARxCD.jpg"
     ],
     "video": null
   }
