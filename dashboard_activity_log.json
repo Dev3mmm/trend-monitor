@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794519133447-etgnpu",
-    "source": "x",
-    "ts": "2026-11-12T21:32:13.447Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-12T21:30:47.000Z",
-    "reason": "US government spending surge affecting crypto markets indirectly.",
-    "text": "🚨 BIG: The US budget deficit hit a record $404 billion in October, up 42% year-over-year, as government spending surged to $773 billion while revenues declined to $369 billion.",
-    "url": "https://x.com/Cointelegraph/status/2120992727747752316",
-    "images": [
-      "https://pbs.twimg.com/media/HW9Ho2LWoAAV3_F.jpg",
-      "https://pbs.twimg.com/media/HW9HpRzXYAAzU66.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794519137545-2ka86n",
-    "source": "x",
-    "ts": "2026-11-12T21:32:17.545Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T21:30:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Jack Dorsey's Square Launches Squaremates AI Agent for US Sellers.\n\nSquare said Thursday the agent, an evolution of Managerbot, is generally available to US sellers at no additional cost, alongside a new Square CLI and an improved Square MCP for sellers' own AI tools.",
-    "url": "https://x.com/DecryptMedia/status/2120992533031322036"
-  },
-  {
     "id": "x-1794519141799-t3c19d",
     "source": "x",
     "ts": "2026-11-12T21:32:21.799Z",
@@ -7712,5 +7680,36 @@
       "https://pbs.twimg.com/media/HXKEYcobsAACq7Q.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794741718978-0mtcng",
+    "source": "x",
+    "ts": "2026-11-15T11:21:58.978Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-15T11:17:00.000Z",
+    "reason": "Notable price and market cap drop for the token.",
+    "text": "Can the price of $PI recover?!\n\nAccording to data from CMC at time of writing, @PiCoreTeam's native token is down -71.5% in the last year, and down -23% in the past 30 days alone.\n\nFor context, in February 2025, $PI's market cap stood above $18B, and is now closer to the $700M",
+    "url": "https://x.com/BSCNews/status/2121925428449579187",
+    "images": [
+      "https://pbs.twimg.com/media/HXKDtPkXwAAJe6a.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794741722660-5dhtsb",
+    "source": "x",
+    "ts": "2026-11-15T11:22:02.660Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-15T11:15:00.000Z",
+    "reason": "No notable move or specific factual claim in the tweet.",
+    "text": "HUGE: OpenAI, Anthropic, Google and SpaceX sued to FREEZE their AI, 2 months after being sued for allegedly SLOWING it.\n\nThe latest, filed on Thursday, wants a ban on any AI more capable than what each company had on November 12.\n\nLawsuit 1: Sued for SLOWING AI\n\nPaying ChatGPT,",
+    "url": "https://x.com/coinbureau/status/2121924925837451491"
   }
 ]
