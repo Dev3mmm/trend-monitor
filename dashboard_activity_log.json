@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794546140278-iqdw3v",
-    "source": "x",
-    "ts": "2026-11-13T05:02:20.278Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-13T05:00:00.000Z",
-    "reason": "No notable crypto-related news in the tweet provided.",
-    "text": "⚡️ NEW: Anthropic’s Claude unveils Claude Meetings, a beta tool that joins team video calls and builds docs, whiteboards and other artifacts in real time, now available to Team and Enterprise users.",
-    "url": "https://x.com/Cointelegraph/status/2121105779910680818"
-  },
-  {
     "id": "x-1794546745213-y6ltqk",
     "source": "x",
     "ts": "2026-11-13T05:12:25.213Z",
@@ -7690,5 +7677,26 @@
       "https://pbs.twimg.com/media/HXMieamXcAAgwsZ.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794778941047-7v5yu4",
+    "source": "x",
+    "ts": "2026-11-15T21:42:21.047Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-15T21:33:20.000Z",
+    "reason": "Inflation outlook could impact crypto markets.",
+    "text": "🔥LATEST: Treasury Secretary Scott Bessent expects a “big drop in inflation next month” and is urging the Fed to look ahead as energy prices fall.\n\nBessent says last month’s inflation reflected sky-high energy prices. \n\nSince then, oil has fallen $20, gasoline is around $3.85 a",
+    "url": "https://x.com/coinbureau/status/2122080534969106778",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122073121650089984/vid/avc1/1280x720/AOaKtcSGucWd7T4r.mp4?tag=29",
+      "duration": 63,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122073121650089984/img/OVlXKGjbhfZipZMR.jpg"
+    }
   }
 ]
