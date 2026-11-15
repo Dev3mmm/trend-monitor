@@ -1,56 +1,5 @@
 [
   {
-    "id": "x-1794519718682-lbjbtm",
-    "source": "x",
-    "ts": "2026-11-12T21:41:58.682Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 81,
-    "originTimestamp": "2026-11-12T20:20:31.000Z",
-    "reason": "Tweet is in a language other than English and does not contain a concrete, specific crypto-related event.",
-    "text": "近日众议院民主党领袖接受采访时表示，美国对以色列提供援助的方式需要重大调整。希望一个安全的以色列与独立的巴勒斯坦国和平共处，让巴勒斯坦人享有尊严和自决的权利。",
-    "url": "https://x.com/PhyrexNi/status/2120993624888676700"
-  },
-  {
-    "id": "x-1794520315804-zpkw5i",
-    "source": "x",
-    "ts": "2026-11-12T21:51:55.804Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-12T21:46:41.000Z",
-    "reason": "Notable regulatory action against crypto-related criminal activities.",
-    "text": "🚨 BIG: The US Department of Justice seized infrastructure linked to North Korea’s $400 million FaceStealer crypto theft scheme and froze more than $1.2 billion in cryptocurrency stolen from Binance.",
-    "url": "https://x.com/Cointelegraph/status/2120996730472681732",
-    "images": [
-      "https://pbs.twimg.com/media/HW9LSG2W0AA0W7A.jpg",
-      "https://pbs.twimg.com/media/HW9LSSIX0AAKlRO.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794520319198-kwjiqg",
-    "source": "x",
-    "ts": "2026-11-12T21:51:59.198Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-12T21:44:11.000Z",
-    "reason": "US Justice Department seizure of North Korea's crypto theft",
-    "text": "🚨BREAKING: US Justice Department officially seizes more than $1.2 BILLION of the crypto North Korea’s military stole from Binance.\n\nAbout HALF of the $6 BILLION theft is now frozen, the Justice Department says.\n\nThe FBI also disrupted “FaceStealer”, a North Korean scheme using",
-    "url": "https://x.com/coinbureau/status/2120996100706652512",
-    "images": [
-      "https://pbs.twimg.com/media/HW9JdmGa4AAOAJA.png",
-      "https://pbs.twimg.com/media/HW9JgqtbQAAkNq2.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794520323016-jhsv0r",
     "source": "x",
     "ts": "2026-11-12T21:52:03.016Z",
@@ -7711,5 +7660,49 @@
     "url": "https://x.com/Cointelegraph/status/2121929117671002121",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794745911623-xd7pru",
+    "source": "x",
+    "ts": "2026-11-15T12:31:51.623Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-15T12:30:48.000Z",
+    "reason": "No notable crypto-related news is mentioned.",
+    "text": "🇺🇸 BREAKING: After the Nvidia scandal, Congress moves to pass 4 bills, one letting it BLOCK chip sales to China that Trump approved.\n\nThat means lawmakers could stop chip deals with China even after the White House signs off.\n\nBoth parties back the bills, which could ride on a",
+    "url": "https://x.com/coinbureau/status/2121943999988605028"
+  },
+  {
+    "id": "x-1794745914945-1l0zrp",
+    "source": "x",
+    "ts": "2026-11-15T12:31:54.945Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-15T12:30:00.000Z",
+    "reason": "Crypto Fear &amp; Greed Index indicates extreme fear with altcoins hitting multi-month lows.",
+    "text": "Crypto Fear &amp; Greed Index Slides Deeper Into 'Extreme Fear' as Altcoins Sink to Multi-Month Lows.\n\nThe @coingecko gauge fell to 21 from 39 a week ago, as ETH touched $1,709 and XRP dropped to $0.8922, its lowest since November 2024.",
+    "url": "https://x.com/DecryptMedia/status/2121943801594061036",
+    "images": [
+      "https://pbs.twimg.com/media/HXKjhFBXAAAyio7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794745916701-x20ow8",
+    "source": "x",
+    "ts": "2026-11-15T12:31:56.701Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-15T12:27:00.000Z",
+    "reason": "No notable move in ETH price indicated.",
+    "text": "Now one of the world's biggest networks by TVL, we explore the @monad $MON ecosystem, and some of the best places to start... ⬇️",
+    "url": "https://x.com/BSCNews/status/2121943044434047034"
   }
 ]
