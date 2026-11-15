@@ -1,65 +1,5 @@
 [
   {
-    "id": "x-1794539014429-gc5mdz",
-    "source": "x",
-    "ts": "2026-11-13T03:03:34.429Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-13T03:00:01.000Z",
-    "reason": "Specific institutional risk event reported in crypto markets.",
-    "text": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk\n\nU.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets.",
-    "url": "https://x.com/DecryptMedia/status/2121075583614587156",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794539017949-24pnht",
-    "source": "x",
-    "ts": "2026-11-13T03:03:37.949Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-13T02:52:40.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "The only limit is you.\n\nWAKE UP!\n\nGood Morning.",
-    "url": "https://x.com/amerix/status/2121073735369150498"
-  },
-  {
-    "id": "x-1794539625080-7e87sm",
-    "source": "x",
-    "ts": "2026-11-13T03:13:45.080Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-13T03:13:01.000Z",
-    "reason": "No notable move, price is well inside the recent trading range.",
-    "text": "JUST IN: Bitcoin falls below $70,000 👀\n\nHODL!",
-    "url": "https://x.com/BitcoinMagazine/status/2121078855536689530"
-  },
-  {
-    "id": "x-1794539630039-1evfs7",
-    "source": "x",
-    "ts": "2026-11-13T03:13:50.039Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-13T03:08:21.000Z",
-    "reason": "Large-scale liquidations indicate significant market volatility.",
-    "text": "🚨 NOW: Over $225M in crypto positions liquidated in the past 60 minutes, $176.6M of it in longs and $49.3M in shorts.",
-    "url": "https://x.com/Cointelegraph/status/2121077678904397855",
-    "images": [
-      "https://pbs.twimg.com/media/HW-U4x9bUAAdRgv.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794539634025-ieuuv4",
     "source": "x",
     "ts": "2026-11-13T03:13:54.025Z",
@@ -7688,5 +7628,57 @@
       "https://pbs.twimg.com/media/HXL7N9cWEAAgDK4.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794769991367-uqmgfw",
+    "source": "x",
+    "ts": "2026-11-15T19:13:11.367Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-15T19:07:43.000Z",
+    "reason": "Noise: vague opinion without factual claim.",
+    "text": "🚨BREAKING: Jensen Huang is discussing a RETURN as Nvidia CEO with allies just days after resigning, per FT.\n\nOne ally says Silicon Valley executives are organising a “war room” to lobby Nvidia’s board and seek White House support, with Huang’s backing.\n\nElon Musk and Epic Games",
+    "url": "https://x.com/coinbureau/status/2122043890752799027"
+  },
+  {
+    "id": "x-1794769994323-aeysjm",
+    "source": "x",
+    "ts": "2026-11-15T19:13:14.323Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 46,
+    "originTimestamp": "2026-11-15T18:26:32.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "You work your ass off solving really hard problems day after day for decades, and this is what you get: anyone could have done it.\n\nAs an investor, I can tell you the limiting factor isn't investment. It's founder ability.",
+    "url": "https://x.com/elonmusk/status/2122043340044587303"
+  },
+  {
+    "id": "x-1794769997560-hcn6n6",
+    "source": "x",
+    "ts": "2026-11-15T19:13:17.560Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-15T19:04:36.000Z",
+    "reason": "No notable crypto-related news or movement mentioned.",
+    "text": "INSIGHT: 🇬🇧Britons are stocking up, with bottled water and hand sanitisers HIGH on their shopping lists.\n\nA video circulating online appears to show shoppers rushing and arguing over bottled water at Costco.\n\nThe government’s “Be Ready” campaign urged households to keep 3 DAYS of",
+    "url": "https://x.com/coinbureau/status/2122043106350776750"
+  },
+  {
+    "id": "x-1794770000766-dhnu6x",
+    "source": "x",
+    "ts": "2026-11-15T19:13:20.766Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 114,
+    "originTimestamp": "2026-11-15T17:18:54.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Our business centers on the capital we hold and our ability to create credit. $MSTR $STRC",
+    "url": "https://x.com/saylor/status/2122042793862508663"
   }
 ]
