@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1794511926405-npuv2x",
-    "source": "x",
-    "ts": "2026-11-12T19:32:06.405Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 57,
-    "originTimestamp": "2026-11-12T18:34:40.000Z",
-    "reason": "Solana's price is well outside its recent trading range, indicating a notable drop.",
-    "text": "Solana slides to $81.72 and the screen's red 🔻\n\n$SOL $81.72 · -4.1% in 24h\n\nLive data: \nData only, not financial advice.",
-    "url": "https://x.com/BSCNews/status/2120960431741427909",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794512561580-usrqse",
     "source": "x",
     "ts": "2026-11-12T19:42:41.580Z",
@@ -7707,5 +7691,23 @@
     "reason": "No notable move in cryptocurrency prices or significant events related to cryptocurrency mentioned.",
     "text": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It\n\nElon Musk says the incoming Grok 4.8 will trail Anthropic’s Claude Opus 5.5, praising his rival’s model while predicting Grok 5 could surpass it in two or three months.",
     "url": "https://x.com/DecryptMedia/status/2121815455640035691"
+  },
+  {
+    "id": "x-1794717150602-nbtcpd",
+    "source": "x",
+    "ts": "2026-11-15T04:32:30.602Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-15T04:30:45.000Z",
+    "reason": "Bitcoin briefly dropped out of the top 15 assets.",
+    "text": "⚡️ LATEST: $BTC was briefly knocked out of the top 15 assets in the world.",
+    "url": "https://x.com/Cointelegraph/status/2121823191811195231",
+    "images": [
+      "https://pbs.twimg.com/media/HXI68oCXAAAuPXV.png"
+    ],
+    "video": null
   }
 ]
