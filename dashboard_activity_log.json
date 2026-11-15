@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794523964266-r5qsum",
-    "source": "x",
-    "ts": "2026-11-12T22:52:44.266Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-12T22:42:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Quant says five lines of code can put a company’s idle cash to work\n\n@quantnetwork ($QNT) published an article today arguing that banks should stop treating payments as a cost and start selling them as products. Its example is an automatic investment sweep written in Quant’s",
-    "url": "https://x.com/BSCNews/status/2121010650759516171",
-    "images": [
-      "https://pbs.twimg.com/media/HW9PGQcWMAA_P9B.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794524537050-kdad5r",
-    "source": "x",
-    "ts": "2026-11-12T23:02:17.050Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T23:00:01.000Z",
-    "reason": "No notable crypto-related event or use of crypto mentioned.",
-    "text": "US Government Racks Up $404 Billion Deficit in October, Up 42% From a Year Ago.\n\nTreasury data released Thursday showed October outlays of $773 billion against receipts of $369 billion, opening fiscal 2027 with a deficit about $120 billion wider than October 2025's $284 billion.",
-    "url": "https://x.com/DecryptMedia/status/2121015185741864997"
-  },
-  {
     "id": "x-1794525146298-ssjm2b",
     "source": "x",
     "ts": "2026-11-12T23:12:26.298Z",
@@ -7694,6 +7663,43 @@
     "url": "https://x.com/BitcoinMagazine/status/2121970089947750785",
     "images": [
       "https://pbs.twimg.com/media/HXLAjNLXUAAe5iy.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794753153402-b59xe3",
+    "source": "x",
+    "ts": "2026-11-15T14:32:33.402Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-15T14:30:44.000Z",
+    "reason": "Significant change in BTC wallet distribution.",
+    "text": "🔥 INTERESTING: The number of wallets with over 100 $BTC increased by 890 just in 2026.",
+    "url": "https://x.com/Cointelegraph/status/2121974185211658363",
+    "images": [
+      "https://pbs.twimg.com/media/HXLERePWwAAwTui.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794753157101-q2ncry",
+    "source": "x",
+    "ts": "2026-11-15T14:32:37.101Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-15T14:30:35.000Z",
+    "reason": "Significant hashrate loss affecting Bitcoin security.",
+    "text": "64,000 Bitcoin Mining Machines Hijacked, Redirecting 13 EH/s to OCEAN Pool  \n\nBitcoin News reported that approximately 64,000 Bitcoin mining machines, representing about 13 EH/s of hashrate, were hijacked around 20:00 U.S. Central Time on November 14. The attackers redirected the",
+    "url": "https://x.com/WuBlockchain/status/2121974145588379665",
+    "images": [
+      "https://pbs.twimg.com/media/HXLEKnUboAESFcj.jpg",
+      "https://pbs.twimg.com/media/HXLEO1DaoAAPATC.jpg"
     ],
     "video": null
   }
