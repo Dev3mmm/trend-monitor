@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794539634025-ieuuv4",
-    "source": "x",
-    "ts": "2026-11-13T03:13:54.025Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-13T03:08:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "What is the ZBCN token actually used for...?\n\nWe dive into the tokenomics behind @Zebec_HQ's native token ⬇️",
-    "url": "https://x.com/BSCNews/status/2121077591763542473"
-  },
-  {
-    "id": "x-1794540764522-avwea8",
-    "source": "x",
-    "ts": "2026-11-13T03:32:44.522Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T03:30:46.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🚨 LATEST: Trump called Jensen Huang on Tuesday and urged him to fight for his job before he stepped down as Nvidia CEO amid the spy scandal, per NYT.",
-    "url": "https://x.com/Cointelegraph/status/2121083321132200022"
-  },
-  {
     "id": "x-1794541434152-206nf1",
     "source": "x",
     "ts": "2026-11-13T03:43:54.152Z",
@@ -7680,5 +7654,36 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Our business centers on the capital we hold and our ability to create credit. $MSTR $STRC",
     "url": "https://x.com/saylor/status/2122042793862508663"
+  },
+  {
+    "id": "x-1794771154003-8t3ddm",
+    "source": "x",
+    "ts": "2026-11-15T19:32:34.003Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-15T19:32:00.000Z",
+    "reason": "Notable sale of Ethereum by the Ethereum Foundation.",
+    "text": "The Ethereum Foundation is dumping $ETH ?!\n\nAccording to a report from @OnchainLens, the @Ethereum Foundation has sold a staggering 7,500 $ETH in the space of just four days.\n\nThe assets were sold for a total of around $14.52M in $USDS, Through the Cowswap platform.\n\nIs all hope",
+    "url": "https://x.com/BSCNews/status/2122049999202574345",
+    "images": [
+      "https://pbs.twimg.com/media/HXKEEWeXwAAXLA6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794771157161-07fhb4",
+    "source": "x",
+    "ts": "2026-11-15T19:32:37.161Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-15T19:30:43.000Z",
+    "reason": "No notable move in the recent price range.",
+    "text": "🔥 BIG: AI data center \"picks and shovels\" stocks have lost $4.2T since June, almost half the $9.4T they gained the year before, per the FT.",
+    "url": "https://x.com/Cointelegraph/status/2122049675821756466"
   }
 ]
