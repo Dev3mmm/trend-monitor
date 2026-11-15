@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794533620193-pz2b81",
-    "source": "x",
-    "ts": "2026-11-13T01:33:40.193Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-13T01:28:00.000Z",
-    "reason": "Perps trading on Avalanche showing significant growth with increased volume.",
-    "text": "Perps trading on Avalanche seeing real growth.\n\nThe @Avax network has seen $749M in perps trading volume in the past month, up +20% on the period.\n\nThough only the 21st largest chain by perps activity, the charge is being led by @primitforall, which has seen $654M in volume in",
-    "url": "https://x.com/BSCNews/status/2121052425817883014",
-    "images": [
-      "https://pbs.twimg.com/media/HW7Pc_-XUAAxW7C.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794533626120-1ubm0s",
-    "source": "x",
-    "ts": "2026-11-13T01:33:46.120Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-13T01:24:58.000Z",
-    "reason": "Price moves well outside the recent range for both BTC and ETH.",
-    "text": "🚨BREAKING: Bitcoin drops below $71,000 and Ethereum loses $2,000 as the crypto selloff deepens.\n\n$BTC is at its lowest since August 20, down about 15% in a month.\n\n$ETH touched $1,999 this morning.",
-    "url": "https://x.com/coinbureau/status/2121051664950194361",
-    "images": [
-      "https://pbs.twimg.com/media/HW98cKraQAAXaqW.png",
-      "https://pbs.twimg.com/media/HW99PHVbQAA-3KD.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794535408945-0zb6bg",
     "source": "x",
     "ts": "2026-11-13T02:03:28.945Z",
@@ -7668,5 +7631,36 @@
     "reason": "No notable move, price is well within the recent range.",
     "text": "CZ: Binance Did Not Sell Crypto, I Bought Crypto Recently and Expect Continued Growth Over the Medium to Long Term\n\nBinance founder CZ said the exact reasons for the recent crypto market decline remain unclear, citing several potential factors: capital shifting toward Anthropic’s",
     "url": "https://x.com/WuBlockchain/status/2122015083169812750"
+  },
+  {
+    "id": "x-1794763944261-b8oz2p",
+    "source": "x",
+    "ts": "2026-11-15T17:32:24.261Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-15T17:30:53.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "🔥 BIG: The \"Stand with Jensen\" letter just passed 153,264 signatures, with 7,418 people claiming to be current Nvidia employees.",
+    "url": "https://x.com/Cointelegraph/status/2122019521045160071"
+  },
+  {
+    "id": "x-1794763947692-sn37ka",
+    "source": "x",
+    "ts": "2026-11-15T17:32:27.692Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-15T17:25:15.000Z",
+    "reason": "REKT event with significant trading activity highlighted",
+    "text": "🚨 REKT: We just saw another $1.23B in long liquidations in just 24 hours.",
+    "url": "https://x.com/Cointelegraph/status/2122018102707904683",
+    "images": [
+      "https://pbs.twimg.com/media/HXLkwvsWMAAcBCQ.png"
+    ],
+    "video": null
   }
 ]
