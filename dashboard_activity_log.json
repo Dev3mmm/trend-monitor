@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794514928034-ucjqvk",
-    "source": "x",
-    "ts": "2026-11-12T20:22:08.034Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T20:19:00.000Z",
-    "reason": "New EVM-compatible network established on a non-EVM chain",
-    "text": "Rome Protocol brings the EVM to Canton’s DevNet\n\n@RomeProtocol built Ostia, a chain that runs Ethereum-style smart contracts and settles on @CantonNetwork. Each block comes with a zero-knowledge proof, and Canton records the block and the proof in a single transaction.",
-    "url": "https://x.com/BSCNews/status/2120974663488864536",
-    "images": [
-      "https://pbs.twimg.com/media/HW8yQDHXgAAx4on.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794514933055-6ihzb3",
     "source": "x",
     "ts": "2026-11-12T20:22:13.055Z",
@@ -7711,5 +7693,18 @@
     "url": "https://x.com/BSCNews/status/2121863268671332636",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794727947598-kv4ajz",
+    "source": "x",
+    "ts": "2026-11-15T07:32:27.598Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-15T07:30:49.000Z",
+    "reason": "No concrete, specific claim with verifiable details.",
+    "text": "🔥 NEW: Tom Lee blames the crypto dump on Nvidia margin calls, pre-Anthropic IPO selling, released hack funds, AI fear and US chip-export scrutiny.\n\nHis verdict is that this is a supercycle and the headwinds will pass.\n\nWhat do you say?",
+    "url": "https://x.com/Cointelegraph/status/2121868508854169938"
   }
 ]
