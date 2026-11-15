@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1794508374231-pnlq3h",
-    "source": "x",
-    "ts": "2026-11-12T18:32:54.231Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T18:30:41.000Z",
-    "reason": "The tweet is noise as it lacks verification and is speculative.",
-    "text": "JUST IN: $5.3 billion Cardone Capital bought 20 BTC, worth $1.4 million this dip! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2120947407898980429",
-    "images": [
-      "https://pbs.twimg.com/media/HW8ebPXWsAAcuIs.jpg",
-      "https://pbs.twimg.com/media/HW8ebPbWoAAINuc.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794508378187-hbay14",
     "source": "x",
     "ts": "2026-11-12T18:32:58.187Z",
@@ -7702,5 +7683,23 @@
     "reason": "No notable move or specific event described.",
     "text": "Dazzled.",
     "url": "https://x.com/elonmusk/status/2121766670834471176"
+  },
+  {
+    "id": "x-1794705562335-t322st",
+    "source": "x",
+    "ts": "2026-11-15T01:19:22.335Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-15T01:17:00.000Z",
+    "reason": "No notable news provided, only announcement without a clear event or price movement.",
+    "text": "Arthur Hayes announces Flop Labs' official airdrop date...\n\n@flop_labs, a new AI-focused blockchain platform founded by @CryptoHayes, will commence its airdrop and testnet phase as soon as November 24 (tentative).\n\nThe platform announced updated FLOP tokenomics in September, with",
+    "url": "https://x.com/BSCNews/status/2121774433878811059",
+    "images": [
+      "https://pbs.twimg.com/media/HXAprm5XMAAO6je.jpg"
+    ],
+    "video": null
   }
 ]
