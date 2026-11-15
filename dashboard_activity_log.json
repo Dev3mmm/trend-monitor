@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794506770992-1ladnh",
-    "source": "x",
-    "ts": "2026-11-12T18:06:10.992Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-12T17:52:00.000Z",
-    "reason": "Notable upgrade proposal for Injective network with voting mechanism.",
-    "text": "Injective puts its last big upgrade of 2026 to a vote\n\n@injective opened voting today on Veyra, a mainnet upgrade filed as proposal IIP-717. $INJ stakers have until Monday to decide, and a yes would set the switch for a target date of November 24.\n\nVeyra would let assets move",
-    "url": "https://x.com/BSCNews/status/2120937670184497228",
-    "images": [
-      "https://pbs.twimg.com/media/HW8T8s7XYAAqdTH.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794507998891-11a8wc",
-    "source": "x",
-    "ts": "2026-11-12T18:26:38.891Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-12T18:20:00.000Z",
-    "reason": "Notable institutional buyback and transparency on token buybacks.",
-    "text": "World Liberty Financial puts its first $1M buyback on-chain\n\n@worldlibertyfi bought about 21 million $WLFI on @Aster_DEX in less than 72 hours. The tokens landed in its public @BNBCHAIN buyback wallet on Wednesday.\n\nThe same wallet sent $10M in $USD1 to Aster last week, ten times",
-    "url": "https://x.com/BSCNews/status/2120944716170891480",
-    "images": [
-      "https://pbs.twimg.com/media/HW8ZzOuXoAEDpTQ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794508001455-gpuwps",
-    "source": "x",
-    "ts": "2026-11-12T18:26:41.455Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 97,
-    "originTimestamp": "2026-11-12T16:49:39.000Z",
-    "reason": "Vague statement with no specific claim or verification.",
-    "text": "100% 1:1 backing. Funds are SAFU!",
-    "url": "https://x.com/cz_binance/status/2120944565448548658"
-  },
-  {
     "id": "x-1794508005555-f6a9xw",
     "source": "x",
     "ts": "2026-11-12T18:26:45.555Z",
@@ -7718,5 +7669,49 @@
     "reason": "No notable move in ETH price.",
     "text": "Understanding $PI's tokenomics...\n\nWe dive into @PiCoreTeam's lock-up mechanisms and what they mean for Pi Network's tokenomics ⬇️",
     "url": "https://x.com/BSCNews/status/2121756565657268471"
+  },
+  {
+    "id": "x-1794702755356-rxzqda",
+    "source": "x",
+    "ts": "2026-11-15T00:32:35.356Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-15T00:29:40.000Z",
+    "reason": "Crypto scam involving real-world loss",
+    "text": "🇭🇰 REKT: A Hong Kong man in his 70s lost almost HK$18M in $USDT and $ETH after a YouTube ad led him into a fake WhatsApp \"investment group.\"\n\nPolice logged 40+ scams like it in a single week.",
+    "url": "https://x.com/Cointelegraph/status/2121762524215353633",
+    "images": [
+      "https://pbs.twimg.com/media/HXIDxTkWAAAA-ks.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794702758493-i7a36q",
+    "source": "x",
+    "ts": "2026-11-15T00:32:38.493Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 37,
+    "originTimestamp": "2026-11-14T23:55:27.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "大幅下跌很有可能是 bitcoin:native 和 ethereum:native 下跌带来的踩踏行为。踩踏带来的连环清算是小币种的噩梦，很多人用小币种去借贷或者是循环贷，一旦出现极端行情就会出现这种情况。",
+    "url": "https://x.com/PhyrexNi/status/2121761881421693197"
+  },
+  {
+    "id": "x-1794702761782-t9ysbx",
+    "source": "x",
+    "ts": "2026-11-15T00:32:41.782Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 100,
+    "originTimestamp": "2026-11-14T22:51:50.000Z",
+    "reason": "No notable move in Bitcoin prices.",
+    "text": "从最新的 GlassNode 的数据来看，伴随今天凌晨大跌的并不是长期持有者的抛售，持仓超过 1 年的 bitcoin:native 数据来看，最近不但没有下跌（抛售）的迹象，反而还在继续增持，也就是长期长期持有者不但没有卖出，反而还在继续增加持仓。",
+    "url": "https://x.com/PhyrexNi/status/2121761833740853624"
   }
 ]
