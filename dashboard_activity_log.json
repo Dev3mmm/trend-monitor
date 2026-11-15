@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794520955335-d3e64k",
-    "source": "x",
-    "ts": "2026-11-12T22:02:35.335Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T22:00:01.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "AMD's @LisaSu Named @YahooFinance \"CEO of the Year.\"\n\nYahoo Finance gave Su the award Thursday after a year in which AMD agreed to buy World Labs in an all-stock deal valued at about $8.2 billion and posted record Q3 revenue of $13.4 billion.",
-    "url": "https://x.com/DecryptMedia/status/2121000087124058151"
-  },
-  {
     "id": "x-1794520960163-z1o38r",
     "source": "x",
     "ts": "2026-11-12T22:02:40.163Z",
@@ -7701,6 +7688,24 @@
     "text": "🇰🇷 REKT: Hackers hit Coinone's outsourced support desk and may have walked off with users' passwords, ID numbers, bank accounts and wallet addresses.",
     "url": "https://x.com/Cointelegraph/status/2121944218285351351",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794747762042-vecuqt",
+    "source": "x",
+    "ts": "2026-11-15T13:02:42.042Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 101,
+    "originTimestamp": "2026-11-15T11:21:46.000Z",
+    "reason": "Concrete and specific event involving a large-scale crypto mining attack.",
+    "text": "🚨 64,000 BITCOIN MINERS HIJACKED IN MASSIVE ATTACK\n\nAn estimated 64,000 Bitcoin miners representing 13 EH/s of hashrate were reportedly hijacked overnight, with their mining power redirected to OCEAN mining pool and payouts assigned to an attacker-controlled Bitcoin address.",
+    "url": "https://x.com/cz_binance/status/2121950735554490705",
+    "images": [
+      "https://pbs.twimg.com/media/HXKZBiJXQAAGDeO.jpg"
+    ],
     "video": null
   }
 ]
