@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1794516788074-uzd5qo",
-    "source": "x",
-    "ts": "2026-11-12T20:53:08.074Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-12T20:50:41.000Z",
-    "reason": "Notable token buyback executed by a financial institution.",
-    "text": "⚡️ NEW: World Liberty Financial (WLFI) has executed its first $1 million in token buybacks in less than 72 hours, with transactions verifiable onchain.",
-    "url": "https://x.com/Cointelegraph/status/2120982639737741742",
-    "images": [
-      "https://pbs.twimg.com/media/HW8-d2oXsAAERUd.jpg",
-      "https://pbs.twimg.com/media/HW8-eFQXQAEeFwK.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794516793915-b6aukp",
     "source": "x",
     "ts": "2026-11-12T20:53:13.915Z",
@@ -7708,5 +7689,21 @@
     "reason": "The tweet contains vague speculation with no factual claim or concrete information.",
     "text": "🚨Bill Ackman says Nvidia \"will survive\" without Jensen Huang, just as Apple did without its iconic CEO.\n\nThe Pershing Square CEO says he is sad to see Huang leave but \"I'm sure the company will do great.\"\n\n\"Apple had an iconic CEO and company did pretty well after.\"",
     "url": "https://x.com/coinbureau/status/2121895984452293051"
+  },
+  {
+    "id": "x-1794735147178-gejsm7",
+    "source": "x",
+    "ts": "2026-11-15T09:32:27.178Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-15T09:30:40.000Z",
+    "reason": "Notable exploit involving a stablecoin protocol shutdown.",
+    "text": "⚡️ REKT: RWA protocol stUSDT is shutting down after its TVL crashed from a $2.3B peak in 2023 to just $8.6M, and holders have until May 14, 2027 to redeem.",
+    "url": "https://x.com/Cointelegraph/status/2121898668676534385",
+    "images": [],
+    "video": null
   }
 ]
