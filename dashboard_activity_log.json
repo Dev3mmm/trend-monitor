@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1794544328584-qubt08",
-    "source": "x",
-    "ts": "2026-11-13T04:32:08.584Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-13T04:24:15.000Z",
-    "reason": "Coinbase warns MiCA could negatively impact DeFi users.",
-    "text": "Coinbase Warns MiCA Could Backfire on DeFi Users\n\nCoinbase's (@coinbase) EU policy chief, Roeland Van der Stappen, warns that stricter MiCA rules could hurt DeFi access.\n\nStappen says lending, liquidity provision and onchain swaps could face tighter scrutiny. Some providers may",
-    "url": "https://x.com/BSCNews/status/2121096780750454888",
-    "images": [
-      "https://pbs.twimg.com/media/HW-ikHLa4AAZhX7.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794545600352-jsyxgq",
-    "source": "x",
-    "ts": "2026-11-13T04:53:20.352Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T04:52:00.000Z",
-    "reason": "Significant price drop of PI token below all-time high.",
-    "text": "PI Sinks Deeper Just Before Pi Network's Big Event\n\nPi Network's (@PiCoreTeam) $PI token has fallen another 8.5% over the past seven days. It is now down 70% over the last year.\n\nPI trades 97% below its all-time high of $2.99.\n\nThe decline comes days before Pi Network's",
-    "url": "https://x.com/BSCNews/status/2121103764107252080",
-    "images": [
-      "https://pbs.twimg.com/media/HW-msCXbYAAAZCq.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794546140278-iqdw3v",
     "source": "x",
     "ts": "2026-11-13T05:02:20.278Z",
@@ -7686,6 +7650,44 @@
     "images": [
       "https://pbs.twimg.com/media/HXMgJ3sX0AACZu8.jpg",
       "https://pbs.twimg.com/media/HXMgcFXXgAAG1Tk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794778368705-yh330w",
+    "source": "x",
+    "ts": "2026-11-15T21:32:48.705Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-15T21:30:46.000Z",
+    "reason": "Treasury Secretary recommends significant change at Nvidia CEO position.",
+    "text": "🇺🇸 JUST IN: Treasury Secretary Bessent says Nvidia needs \"significant change\" at the top and should bring in an outsider as CEO.\n\nHe's giving the board 10 days to respond on export compliance.",
+    "url": "https://x.com/Cointelegraph/status/2122079886969860495",
+    "images": [
+      "https://pbs.twimg.com/media/HXMkaBWXEAA1veD.jpg",
+      "https://pbs.twimg.com/media/HXMkaMgXwAEKT6w.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794778372042-adzsy2",
+    "source": "x",
+    "ts": "2026-11-15T21:32:52.042Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-15T21:30:00.000Z",
+    "reason": "Mining firm's hash redirection incident and response.",
+    "text": "Luxor Says Client Hashrate Was Redirected Without Authorization Through Its Commander Tool, Pledges Full Compensation.\n\nThe mining firm said the redirect hit \"just over a dozen client accounts\" and was patched within two hours, while its CEO blamed \"a sophisticated AI-enabled",
+    "url": "https://x.com/DecryptMedia/status/2122079695445295517",
+    "images": [
+      "https://pbs.twimg.com/media/HXMhrIQXQAEa8tV.png",
+      "https://pbs.twimg.com/media/HXMieamXcAAgwsZ.jpg"
     ],
     "video": null
   }
