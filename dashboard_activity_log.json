@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794529968942-2mpg8j",
-    "source": "x",
-    "ts": "2026-11-13T00:32:48.942Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-13T00:22:00.000Z",
-    "reason": "Notable increase in stablecoin supply and market cap.",
-    "text": "Over $100M in stablecoin now on XDC Network.\n\nThe stablecoin supply on @XDCNetwork is up +77.0% in the past week, surging to more than $100M.\n\nAt time of writing, XDC's stablecoin market cap stands at $107.5M, making it now the 27th largest blockchain network by such metric.",
-    "url": "https://x.com/BSCNews/status/2121035816604442688",
-    "images": [
-      "https://pbs.twimg.com/media/HW7PX8fWEAAPwjH.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794531773443-wkmr52",
-    "source": "x",
-    "ts": "2026-11-13T01:02:53.443Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-13T01:00:49.000Z",
-    "reason": "No notable crypto-related news in the tweet provided.",
-    "text": "🇺🇸 NEW: US Attorney General Todd Blanche says the DOJ hasn’t yet determined if Alice Huang, tied to former Nvidia CEO Jensen Huang, was a Chinese spy.",
-    "url": "https://x.com/Cointelegraph/status/2121045586832921038",
-    "images": [
-      "https://pbs.twimg.com/media/HW93tutW0AApX6w.jpg",
-      "https://pbs.twimg.com/media/HW93uARWcAAajl9.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794531776360-5rpv6a",
     "source": "x",
     "ts": "2026-11-13T01:02:56.360Z",
@@ -7678,6 +7641,37 @@
     "url": "https://x.com/CryptoNwsOrg/status/2122005798318694477",
     "images": [
       "https://pbs.twimg.com/media/HXLhBZDWYAEkUDX.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794762231652-5utdyp",
+    "source": "x",
+    "ts": "2026-11-15T17:03:51.652Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-15T17:00:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Tom Lee Says Nvidia Margin Calls and Anthropic IPO Selling May Be Weighing on Crypto.\n\nIn a post on Saturday, @fundstrat also pointed to funds released after a $6.3 billion hack and US scrutiny of chip sales to China, and said the headwinds will pass.",
+    "url": "https://x.com/DecryptMedia/status/2122011747133321233"
+  },
+  {
+    "id": "x-1794762234831-x7axk3",
+    "source": "x",
+    "ts": "2026-11-15T17:03:54.831Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-15T16:52:40.000Z",
+    "reason": "Exploit or significant loss event detected",
+    "text": "🚨 REKT: We just saw another $1.23B in long liquidated in just 24 hours.",
+    "url": "https://x.com/Cointelegraph/status/2122009904785269026",
+    "images": [
+      "https://pbs.twimg.com/media/HXLkwvsWMAAcBCQ.png"
     ],
     "video": null
   }
