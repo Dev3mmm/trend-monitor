@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794670910610-61ym1s",
-    "source": "x",
-    "ts": "2026-11-14T15:41:50.610Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-14T15:23:58.000Z",
-    "reason": "Noise: No factual claim or specific event mentioned.",
-    "text": "Update on Starship",
-    "url": "https://x.com/elonmusk/status/2121627776881230121"
-  },
-  {
     "id": "x-1794671512947-dec67p",
     "source": "x",
     "ts": "2026-11-14T15:51:52.947Z",
@@ -7882,5 +7869,18 @@
       "https://pbs.twimg.com/media/HXRejg5WoAEhU4Q.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794864807736-xmohm1",
+    "source": "x",
+    "ts": "2026-11-16T21:33:27.736Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T21:30:49.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "🤖 JUST IN: OpenAI has signed agreements with four independent evaluators, Apollo Research, METR, Transluce and Goodfire, to assess AI model safety and safeguards.",
+    "url": "https://x.com/Cointelegraph/status/2122442288706044022"
   }
 ]
