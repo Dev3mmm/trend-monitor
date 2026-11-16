@@ -2001,18 +2001,7 @@
     "x-1794815510272-wdah16",
     "x-1794816715605-h1bu29"
   ],
-  "queue": [
-    {
-      "text": "⚡️ NEW: Vitalik Buterin weighs in on EIP-8037 and warns that a 10x gas limit would push Ethereum’s state growth to about 1,100 GiB a year, roughly 10 times today’s rate.",
-      "url": "https://x.com/Cointelegraph/status/2122240933907280100",
-      "images": [
-        "https://pbs.twimg.com/media/HXO24R-WsAA-NKh.jpg",
-        "https://pbs.twimg.com/media/HXO24eMXEAA64wr.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794816716552
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨 JUST IN: Binance reopened withdrawals on 87 more networks this week and says everything else will be back by the end of next weekend.\n\nStill waiting on yours?",
@@ -2540,7 +2529,17 @@
       "at": 1794815510861,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/388810007319136?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "⚡️ NEW: Vitalik Buterin weighs in on EIP-8037 and warns that a 10x gas limit would push Ethereum’s state growth to about 1,100 GiB a year, roughly 10 times today’s rate.",
+      "final": "⚡️ NEW: Vitalik Buterin weighs in on EIP-8037 and warns that a 10x gas limit would push Ethereum’s state growth to about 1,100 GiB a year, roughly 10 times today’s rate.\n\n#Ethereum $ETH",
+      "images": [
+        "https://pbs.twimg.com/media/HXO24R-WsAA-NKh.jpg",
+        "https://pbs.twimg.com/media/HXO24eMXEAA64wr.jpg"
+      ],
+      "at": 1794817353750,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794815510861
+  "lastPostAt": 1794817353750
 }
