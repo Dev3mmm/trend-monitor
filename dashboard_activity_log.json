@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794677110100-4jh3gm",
-    "source": "x",
-    "ts": "2026-11-14T17:25:10.100Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 23,
-    "originTimestamp": "2026-11-14T17:01:29.000Z",
-    "reason": "No notable move or newsworthy action mentioned.",
-    "text": "Our scheduled system maintenance has been postponed due to market volatility. \n\nWe will announce a new date and time on @CoinbasePltfrm soon. Thank you for your patience.",
-    "url": "https://x.com/coinbase/status/2121650564031562094"
-  },
-  {
-    "id": "x-1794677114768-tdh5z9",
-    "source": "x",
-    "ts": "2026-11-14T17:25:14.768Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 22,
-    "originTimestamp": "2026-11-14T17:02:41.000Z",
-    "reason": "Large-scale liquidation event with significant financial impact.",
-    "text": "🚨JUST IN: $1,003,685,116 was liquidated in crypto over 24 hours, and 93% of it was longs.\n\n193,943 traders were wiped out, with $932,210,000 coming from bets that prices would rise.\n\nTwo days ago the figure was $1.62 BILLION.\n\nThe record is $19 BILLION in a single day, set on",
-    "url": "https://x.com/coinbureau/status/2121650034555199850",
-    "images": [
-      "https://pbs.twimg.com/media/HXGddNaaAAAaWEB.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794677119293-pk917l",
     "source": "x",
     "ts": "2026-11-14T17:25:19.293Z",
@@ -7908,6 +7877,44 @@
     "url": "https://x.com/BSCNews/status/2122469261876883601",
     "images": [
       "https://pbs.twimg.com/media/HXPmbKcWoAAL_MV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794872557741-9t583a",
+    "source": "x",
+    "ts": "2026-11-16T23:42:37.741Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T23:41:14.000Z",
+    "reason": "Regulatory move affecting stablecoin issuance and ownership.",
+    "text": "🇰🇷 LATEST: South Korea’s financial regulator says tech firms can be the top shareholder in a won stablecoin issuer, as long as banks hold a combined majority.",
+    "url": "https://x.com/Cointelegraph/status/2122475108249845876",
+    "images": [
+      "https://pbs.twimg.com/media/HXSL2_uXQAAQdYU.jpg",
+      "https://pbs.twimg.com/media/HXSL3OQWMAA39Q6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794872563294-qgh9dr",
+    "source": "x",
+    "ts": "2026-11-16T23:42:43.294Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T23:40:22.000Z",
+    "reason": "Exploit involving brand compromise and potential address swapping.",
+    "text": "🚨BREAKING: Zoom, BBC, HSBC and Ledger among 178 brands COMPROMISED by hackers targeting crypto.\n\nThe malicious code came through Optimizely, a website testing tool all 178 use.\n\nWith an infected site open in any tab, a crypto address you copied could have been swapped for one",
+    "url": "https://x.com/coinbureau/status/2122474891362578884",
+    "images": [
+      "https://pbs.twimg.com/media/HXSLD4yakAATLe-.jpg",
+      "https://pbs.twimg.com/media/HXSLTT1bwAAY_rC.png"
     ],
     "video": null
   }
