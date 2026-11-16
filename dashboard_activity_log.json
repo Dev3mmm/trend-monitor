@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794659546667-e3lg5d",
-    "source": "x",
-    "ts": "2026-11-14T12:32:26.667Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-14T12:30:49.000Z",
-    "reason": "Opinion without evidence or specific prediction verification.",
-    "text": "🚨 TODAY: Peter Schiff now says $BTC could fall below $16,500 by year-end if $50K breaks, and that $MSTR would be \"completely finished.\"\n\nIn February his target was $20K. Even his targets are crashing.",
-    "url": "https://x.com/Cointelegraph/status/2121581618745794633"
-  },
-  {
-    "id": "x-1794659551234-oubanf",
-    "source": "x",
-    "ts": "2026-11-14T12:32:31.234Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T12:30:23.000Z",
-    "reason": "Noise: meme-coin shill.",
-    "text": "Men,\n\nDo not explain yourself to people determined to misunderstand you.\n\nSay one clear sentence and then silence.\n\nEvery extra word you give an abuser or a troll, he will twist and use against you.\n\nGUARD YOUR FRAME.\n\n#MasculinitySaturday",
-    "url": "https://x.com/amerix/status/2121581507974173015"
-  },
-  {
     "id": "x-1794660734557-jazrgd",
     "source": "x",
     "ts": "2026-11-14T12:52:14.557Z",
@@ -7831,6 +7805,40 @@
     "images": [
       "https://pbs.twimg.com/media/HXRUYOiXUAASFA4.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794859967270-n4igq0",
+    "source": "x",
+    "ts": "2026-11-16T20:12:47.270Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T20:10:42.000Z",
+    "reason": "Notable data breach involving personal information.",
+    "text": "🚨️️ ALERT: Trezor says a data breach at its delivery partner Skladon exposed personal information linked to approximately 27,000 orders, including customer names, addresses, phone numbers, and emails, while Trezor’s systems and devices remained secure.",
+    "url": "https://x.com/Cointelegraph/status/2122422125206045142",
+    "images": [
+      "https://pbs.twimg.com/media/HXRbrILW0AAlAVy.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794859971312-170jj0",
+    "source": "x",
+    "ts": "2026-11-16T20:12:51.313Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-16T20:05:04.000Z",
+    "reason": "On-chain data suggesting Internet Computer outperforms Solana in transaction handling.",
+    "text": "Is Internet Computer (internet-computer:native) really handling three times as many transactions as Solana? @chainspect_app data puts @dfinity’s network at 5,260 transactions per second ⬇️",
+    "url": "https://x.com/BSCNews/status/2122420708332704196",
+    "images": [],
     "video": null
   }
 ]
