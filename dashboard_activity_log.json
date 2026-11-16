@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794667341750-np76rz",
-    "source": "x",
-    "ts": "2026-11-14T14:42:21.750Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T14:40:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Kaspa is one of few major blockchains that rely on proof-of-stake.\n\nWe explore why $KAS's choice of consensus mechanism might just make sense... 🧠",
-    "url": "https://x.com/BSCNews/status/2121614127059943515"
-  },
-  {
     "id": "x-1794667927854-nwe53q",
     "source": "x",
     "ts": "2026-11-14T14:52:07.854Z",
@@ -7849,5 +7836,18 @@
       "https://pbs.twimg.com/media/HXReRvkb0AEjfb2.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794862327091-71jyjm",
+    "source": "x",
+    "ts": "2026-11-16T20:52:07.091Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T20:46:00.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Midnight’s privacy proofs were too heavy for phones. The fix runs on Google Cloud\n\nPrivate transactions on @MidnightNtwrk ($NIGHT) need a zero-knowledge proof, and making one on a user’s device could take tens of seconds and drain the battery, per a @GoogleCloud case study.\n\nThe",
+    "url": "https://x.com/BSCNews/status/2122431009807331834"
   }
 ]
