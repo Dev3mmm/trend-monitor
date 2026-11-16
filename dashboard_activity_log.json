@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794642754363-aa1ijt",
-    "source": "x",
-    "ts": "2026-11-14T07:52:34.363Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T07:50:03.000Z",
-    "reason": "Generic, vague statement without real content.",
-    "text": "So funny",
-    "url": "https://x.com/elonmusk/status/2121510962901483584"
-  },
-  {
-    "id": "x-1794643371066-3l10c7",
-    "source": "x",
-    "ts": "2026-11-14T08:02:51.066Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-14T08:00:02.000Z",
-    "reason": "No notable move in cryptocurrency prices or significant institutional/crypto events.",
-    "text": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report\n\nAn internal post urging Nvidia's board to weigh staff sentiment has drawn more than 1,600 comments, including calls to reinstate Huang.",
-    "url": "https://x.com/DecryptMedia/status/2121513473092030636"
-  },
-  {
     "id": "x-1794643374243-ps25x6",
     "source": "x",
     "ts": "2026-11-14T08:02:54.243Z",
@@ -7813,5 +7787,41 @@
     "reason": "Noise: generic rant without factual claims or news value.",
     "text": "It is these individuals who joined this app post-maandamano 24/25/26 who abuse everyone here.\n\nWhy can't you style up?\n\nHave some basic etiquette.\n\nIf you don't like what someone has written, ignore, mute or block.\n\nStop insulting people, or go back to the forest you came from.",
     "url": "https://x.com/amerix/status/2122390371980517538"
+  },
+  {
+    "id": "x-1794853430817-rpunv8",
+    "source": "x",
+    "ts": "2026-11-16T18:23:50.817Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-16T18:17:00.000Z",
+    "reason": "DefinedFi adding LayerZero ATLAS perps, a notable institutional move in DeFi.",
+    "text": "Defined will offer perps on LayerZero ATLAS from day one\n\nTrading platform @definedfi will add perps powered by @LayerZero_Core ATLAS to its website and mobile app on November 30, when ATLAS and the Zero mainnet are due to go live.\n\nATLAS is an exchange engine with no app of its",
+    "url": "https://x.com/BSCNews/status/2122393512662692235",
+    "images": [
+      "https://pbs.twimg.com/media/HXQ83HhWMAETmlp.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794853434878-f7ukyd",
+    "source": "x",
+    "ts": "2026-11-16T18:23:54.878Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-16T18:16:33.000Z",
+    "reason": "Price comparison showing a significant change in GTA V price using BTC as a reference.",
+    "text": "GTA V vs. GTA VI prices at launch 🌴\n\nIn dollars, GTA got 33% more expensive.\n\nIn bitcoin, it got over 350x cheaper. 😎",
+    "url": "https://x.com/BitcoinMagazine/status/2122393399084925051",
+    "images": [
+      "https://pbs.twimg.com/media/HXRBjEwWoAARQN8.jpg"
+    ],
+    "video": null
   }
 ]
