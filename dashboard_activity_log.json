@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794603735372-t65v6m",
-    "source": "x",
-    "ts": "2026-11-13T21:02:15.372Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-13T21:00:03.000Z",
-    "reason": "Noise: no real content",
-    "text": "🫡",
-    "url": "https://x.com/binance/status/2121347381874639133"
-  },
-  {
     "id": "x-1794603738503-54jdc3",
     "source": "x",
     "ts": "2026-11-13T21:02:18.503Z",
@@ -7717,5 +7704,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122328887556505600/img/UlE6DhIjNOJzvHOI.jpg"
     }
+  },
+  {
+    "id": "x-1794838943915-gx8rop",
+    "source": "x",
+    "ts": "2026-11-16T14:22:23.915Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-16T14:17:00.000Z",
+    "reason": "Regulatory dispute involving CFTC and state challenges highlights potential conflicts in cryptocurrency regulation.",
+    "text": "Prediction Market Regulatory Dispute Deepens as Senators Challenge CFTC and Hyperliquid Policy Center Backs Federal Oversight  \n\nNine Democratic senators, including Adam Schiff, Amy Klobuchar and Elissa Slotkin, urged CFTC Chairman Michael Selig to halt efforts to challenge state",
+    "url": "https://x.com/WuBlockchain/status/2122333115334938817",
+    "images": [
+      "https://pbs.twimg.com/media/HXP8_c9a0AEq7xh.jpg"
+    ],
+    "video": null
   }
 ]
