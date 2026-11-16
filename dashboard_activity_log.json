@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1794600161793-15gbqs",
-    "source": "x",
-    "ts": "2026-11-13T20:02:41.793Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-13T20:00:02.000Z",
-    "reason": "Producer inflation hitting a high annual rate highlights economic trends.",
-    "text": "🇺🇸 U.S. producer inflation just hit its HIGHEST annual rate since November 2022.\n\nBut the headline hides an important detail.\n\nProducer prices rose 6.5% over the past year, up from 6.3% in September.\n\nThe monthly increase slowed sharply, from 1.4% to 0.3%, below the 0.4%",
-    "url": "https://x.com/coinbureau/status/2121332279280804004",
-    "images": [
-      "https://pbs.twimg.com/media/HXBtJr6a0AA0sJr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794600165742-iw99b1",
-    "source": "x",
-    "ts": "2026-11-13T20:02:45.742Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-13T19:59:42.000Z",
-    "reason": "Notable move in the tokenized stock market with significant issuance amounts.",
-    "text": "🇦🇪 LATEST: UAE-based issuers lead the tokenized stock market with $1.6 billion, followed by the British Virgin Islands at $1.4 billion and Jersey at $1.3 billion, according to Token Terminal.",
-    "url": "https://x.com/Cointelegraph/status/2121332195071553629",
-    "images": [
-      "https://pbs.twimg.com/media/HXB8YscWYAAG3ds.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794600737143-4smp0p",
     "source": "x",
     "ts": "2026-11-13T20:12:17.143Z",
@@ -7714,5 +7678,34 @@
     "reason": "No notable move or event is indicated.",
     "text": "$KAS falls 3.1% in 24 hours to $0.0264.\n\nKAS price and news:",
     "url": "https://x.com/BSCNews/status/2122314469284200798"
+  },
+  {
+    "id": "x-1794835323397-jfqpoz",
+    "source": "x",
+    "ts": "2026-11-16T13:22:03.397Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T13:15:14.000Z",
+    "reason": "No notable move in the Japanese economy reported.",
+    "text": "🇯🇵Japan’s economy shrinks. Is a rate hike still on?\n\nJapan’s economy unexpectedly stalled as rising prices squeezed household spending, Reuters report.\n\nJapan’s GDP fell 0.1% annualised in July–September (0.02% QoQ), versus 0.3% growth expected. \n\nPreliminary data showed the",
+    "url": "https://x.com/coinbureau/status/2122317571760513407"
+  },
+  {
+    "id": "x-1794835327862-a0eb8w",
+    "source": "x",
+    "ts": "2026-11-16T13:22:07.862Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-16T13:13:15.000Z",
+    "reason": "New use of a token/stablecoin",
+    "text": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
+    "url": "https://x.com/DecryptMedia/status/2122317071421759656",
+    "images": [],
+    "video": null
   }
 ]
