@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794558796073-vh59m1",
-    "source": "x",
-    "ts": "2026-11-13T08:33:16.073Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-13T08:28:02.000Z",
-    "reason": "Generic financial advice, no crypto-specific action or event.",
-    "text": "Always carry some cash on you. It will save you a lot.",
-    "url": "https://x.com/amerix/status/2121158130285281650"
-  },
-  {
-    "id": "x-1794559931410-riwryj",
-    "source": "x",
-    "ts": "2026-11-13T08:52:11.410Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T08:50:41.000Z",
-    "reason": "Exploit of a multisig backup leading to unauthorized transfers.",
-    "text": "🚨 ALERT: Unocoin suspects BitGo's multisig backup was exploited, allowing onchain transfers despite its account freeze.",
-    "url": "https://x.com/Cointelegraph/status/2121163832420708683",
-    "images": [
-      "https://pbs.twimg.com/media/HW_jQtIXgAAIaLT.png",
-      "https://pbs.twimg.com/media/HW_jQ5ZWYAA6_xp.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794559934704-p9ot9b",
     "source": "x",
     "ts": "2026-11-13T08:52:14.704Z",
@@ -7695,5 +7663,31 @@
       "https://pbs.twimg.com/media/HXKEaJvXsAA_ef1.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794793353228-844dvf",
+    "source": "x",
+    "ts": "2026-11-16T01:42:33.228Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 29,
+    "originTimestamp": "2026-11-16T01:13:32.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "That’s how it happened",
+    "url": "https://x.com/elonmusk/status/2122141959917842487"
+  },
+  {
+    "id": "x-1794793355682-ob273g",
+    "source": "x",
+    "ts": "2026-11-16T01:42:35.683Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 107,
+    "originTimestamp": "2026-11-15T23:55:21.000Z",
+    "reason": "No notable move; price well within the recent range.",
+    "text": "True",
+    "url": "https://x.com/elonmusk/status/2122141116195877155"
   }
 ]
