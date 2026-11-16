@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794675118660-np6zdb",
-    "source": "x",
-    "ts": "2026-11-14T16:51:58.660Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T16:49:34.000Z",
-    "reason": "No notable move, price is well inside the recent trading range.",
-    "text": "BREAKING: Bitcoin falls below $65,000 \n\nHODL! ✊",
-    "url": "https://x.com/BitcoinMagazine/status/2121646733650190650"
-  },
-  {
-    "id": "x-1794675725971-2n0ow5",
-    "source": "x",
-    "ts": "2026-11-14T17:02:05.971Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 24,
-    "originTimestamp": "2026-11-14T16:37:28.000Z",
-    "reason": "Noise: Generic tweet without substantive content.",
-    "text": "Starlink",
-    "url": "https://x.com/elonmusk/status/2121648757456662970"
-  },
-  {
     "id": "x-1794675728218-etr1gd",
     "source": "x",
     "ts": "2026-11-14T17:02:08.218Z",
@@ -7886,6 +7860,40 @@
     "text": "Will Cardano ($ADA) holders be happy next year? Founder @IOHK_Charles says yes. Here’s where the numbers stand today ⬇️",
     "url": "https://x.com/BSCNews/status/2122451462424854598",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794867788778-pnpyt8",
+    "source": "x",
+    "ts": "2026-11-16T22:23:08.778Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-16T22:19:15.000Z",
+    "reason": "Customer data exposure of a major Bitcoin wallet maker is a notable security and user trust issue.",
+    "text": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+    "url": "https://x.com/DecryptMedia/status/2122454477932306602",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794867792720-ayr3tn",
+    "source": "x",
+    "ts": "2026-11-16T22:23:12.720Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-16T22:16:00.000Z",
+    "reason": "New use of a token (points) for robot tasks.",
+    "text": "Axis Robotics drops points and now pays AXIS for every robot task\n\nThe points system at @axisrobotics is over. Since Saturday, every verified, signed trajectory (a recorded run of a user steering a robot through a task) earns base:0x5be75e3b0aff5d1a042a5363ae36acb1d6d755ea",
+    "url": "https://x.com/BSCNews/status/2122453659145343224",
+    "images": [
+      "https://pbs.twimg.com/media/HXRsy72W0AAke3U.jpg"
+    ],
     "video": null
   }
 ]
