@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1794603183946-syn4c7",
-    "source": "x",
-    "ts": "2026-11-13T20:53:03.946Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-13T20:50:39.000Z",
-    "reason": "It mentions a potential bear market for Bitcoin, which could affect its price.",
-    "text": "🎥 When the Fed is hiking rates, it’s a bad sign for all risk assets.\n\nBloomberg’s @mikemcglone11 explains why he believes the stock market bear market has just begun — and what it could mean for Bitcoin.\n\nWatch the full interview:",
-    "url": "https://x.com/Cointelegraph/status/2121345018019369170",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794603188835-yyvqll",
-    "source": "x",
-    "ts": "2026-11-13T20:53:08.835Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-13T20:48:00.000Z",
-    "reason": "Notable institutional development with a new wallet update for the ASI:Chain platform.",
-    "text": "ASI Alliance rolls out a rebuilt wallet for ASI:Chain and patches its Omega agent\n\n@ASI_Alliance published its latest two-week development update today, covering October 29 to November 11. \n\nThe update includes Web Wallet 0.2.0 for ASI:Chain, which adds multiple accounts from one",
-    "url": "https://x.com/BSCNews/status/2121344349506056247",
-    "images": [
-      "https://pbs.twimg.com/media/HXCDuJhXEAAtNbF.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794603191825-gwgxa0",
-    "source": "x",
-    "ts": "2026-11-13T20:53:11.825Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-13T20:46:15.000Z",
-    "reason": "No notable move or specific event is clearly articulated.",
-    "text": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
-    "url": "https://x.com/DecryptMedia/status/2121343909347348870"
-  },
-  {
-    "id": "x-1794603733423-4gz158",
-    "source": "x",
-    "ts": "2026-11-13T21:02:13.423Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T21:00:52.000Z",
-    "reason": "Bank of America's economic forecast for Fed interest rate hikes is a notable regulatory move.",
-    "text": "🇺🇸 JUST IN: Bank of America economists now expect the Federal Reserve to deliver three interest rate hikes by March 2027.",
-    "url": "https://x.com/Cointelegraph/status/2121347589190590838",
-    "images": [
-      "https://pbs.twimg.com/media/HXCKYt8WEAABceV.jpg",
-      "https://pbs.twimg.com/media/HXCKY7gWUAAB0Fd.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794603735372-t65v6m",
     "source": "x",
     "ts": "2026-11-13T21:02:15.372Z",
@@ -7718,5 +7652,70 @@
       "https://pbs.twimg.com/media/HXQGHhMWIAASk75.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794838371303-ugtbmy",
+    "source": "x",
+    "ts": "2026-11-16T14:12:51.303Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T14:11:00.000Z",
+    "reason": "No notable crypto-related news or move.",
+    "text": "This Pi Project Went Way Beyond Hotel Bookings\n\nAccording to BNPi's creators (@SK_devStudios), BoPi is BNPi's mascot. The project was developed for Pioneers on Pi Network (@PiCoreTeam) and is not affiliated with the core team. \n\nThe project started with $Pi accommodations and has",
+    "url": "https://x.com/BSCNews/status/2122331604945141908"
+  },
+  {
+    "id": "x-1794838374307-sq0zuz",
+    "source": "x",
+    "ts": "2026-11-16T14:12:54.307Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T14:10:40.000Z",
+    "reason": "No notable move in token price or specific event.",
+    "text": "🇨🇳 UPDATE: China's AI stocks tumble as Nvidia incident fuels fears of stricter US chip export controls.",
+    "url": "https://x.com/Cointelegraph/status/2122331523626000594"
+  },
+  {
+    "id": "x-1794838378480-wicl4g",
+    "source": "x",
+    "ts": "2026-11-16T14:12:58.480Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T14:10:11.000Z",
+    "reason": "New all-time highs for network transaction count on the Internet Computer.",
+    "text": "ICP keeps setting wild records!\n\nAccording to data from Chainspect (@chainspect_app), the Internet Computer (@dfinity) registered two new all-time network highs on Sunday, November 15.\n\nFirst, the blockchain hit a new all-time high for its monthly average transaction count, at",
+    "url": "https://x.com/BSCNews/status/2122331398371442700",
+    "images": [
+      "https://pbs.twimg.com/media/HXQGHhMWIAASk75.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794838382193-xr9hr8",
+    "source": "x",
+    "ts": "2026-11-16T14:13:02.193Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T14:06:08.000Z",
+    "reason": "ICE plans to become a Solana validator.",
+    "text": "🔥MASSIVE: ICE Clear Europe President Hester Serafini says NYSE parent ICE is already working with Solana and exploring becoming a validator.\n\n\"There's a number of things we're already working on, and we're quite keen to explore more things going forward,\" Serafini reveals.",
+    "url": "https://x.com/coinbureau/status/2122330380527178121",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122328887556505600/vid/avc1/1280x720/lNP2MtiVz_PT6q6h.mp4?tag=29",
+      "duration": 79,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122328887556505600/img/UlE6DhIjNOJzvHOI.jpg"
+    }
   }
 ]
