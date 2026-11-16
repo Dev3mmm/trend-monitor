@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1794568928784-dwepxz",
-    "source": "x",
-    "ts": "2026-11-13T11:22:08.784Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-13T11:15:09.000Z",
-    "reason": "New use of a token/stablecoin in a notable application.",
-    "text": "From a Solana Streaming App to a Payments Network, find out how Zebec Network (@Zebec_HQ) achieved this feat.",
-    "url": "https://x.com/BSCNews/status/2121200186072711358",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794569556124-n6oi48",
     "source": "x",
     "ts": "2026-11-13T11:32:36.124Z",
@@ -7684,5 +7668,18 @@
     "reason": "Noise: generic tweet without content.",
     "text": "@nbcsnl lol",
     "url": "https://x.com/elonmusk/status/2122179460435001423"
+  },
+  {
+    "id": "x-1794802936808-461wb4",
+    "source": "x",
+    "ts": "2026-11-16T04:22:16.808Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 36,
+    "originTimestamp": "2026-11-16T03:45:45.000Z",
+    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
+    "text": "The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.",
+    "url": "https://x.com/elonmusk/status/2122182607391920214"
   }
 ]
