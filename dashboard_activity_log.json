@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794595706861-by0rnu",
-    "source": "x",
-    "ts": "2026-11-13T18:48:26.861Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CryptoNewsLive",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-13T18:36:45.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Why a Nasdaq company's $64.1M Aave loan sits about 11% from a forced sale, in 50 seconds. $AAVE is down 15% in a week. Would your loan survive an 11% drop in ETH? Reply with your health factor floor.",
-    "url": "https://x.com/CryptoNwsOrg/status/2121311322138959935"
-  },
-  {
-    "id": "x-1794595711290-d0yme9",
-    "source": "x",
-    "ts": "2026-11-13T18:48:31.290Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Michael Saylor",
-    "ageMin": 32,
-    "originTimestamp": "2026-11-13T18:15:38.000Z",
-    "reason": "Notable growth in Digital Credit in DeFi with specific applications.",
-    "text": "Digital Credit in DeFi grew from $0 to $525M since January 2026.\n\nWith Saturn, $STRC now does what TradFi can’t:\n• 24/7 liquidity: @CurveFinance\n• Composable lending and leverage: @Morpho, @Lista_DAO\n• Tranching: @Strata_Markets\n• Fixed and variable rates: @Pendle_fi",
-    "url": "https://x.com/saylor/status/2121310835822006638",
-    "images": [
-      "https://pbs.twimg.com/media/HXBkkZoaEAAFm63.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794596512885-8q2qlx",
-    "source": "x",
-    "ts": "2026-11-13T19:01:52.885Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-13T19:01:09.000Z",
-    "reason": "Microsoft outage suggests potential issues in its systems.",
-    "text": "🚨 ALERT: Microsoft says its attempts to fix a global outage are not going as expected.",
-    "url": "https://x.com/Cointelegraph/status/2121317459999314400",
-    "images": [
-      "https://pbs.twimg.com/media/HXBu_JNWcAATAuU.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794596514902-iknouz",
     "source": "x",
     "ts": "2026-11-13T19:01:54.902Z",
@@ -7708,5 +7659,52 @@
       "https://pbs.twimg.com/media/HXPs3J9XkAAOwKD.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794832375672-rgnu8a",
+    "source": "x",
+    "ts": "2026-11-16T12:32:55.672Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T12:30:00.000Z",
+    "reason": "No notable crypto-related news or move described.",
+    "text": "US and Nine Partners Sign Declaration to Protect \"Super Intelligence\" Supply Chains.\n\nThe US, Australia, India, Israel, Japan, South Korea, Qatar, Singapore, the UAE and the UK signed the San Francisco Declaration on Nov. 15, declaring that safeguarding the technologies and",
+    "url": "https://x.com/DecryptMedia/status/2122306188847038498"
+  },
+  {
+    "id": "x-1794832380003-wcxhei",
+    "source": "x",
+    "ts": "2026-11-16T12:33:00.003Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T12:30:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🇬🇧 SOLANA BREAKPOINT: $1.2T TPV giant Zelle demonstrates its first confidential $1.25M Solana transfer.",
+    "url": "https://x.com/Cointelegraph/status/2122306187572224186",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122284465271480320/vid/avc1/1280x720/zmWWNL4Ff7BJ8CgH.mp4?tag=29",
+      "duration": 86,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122284465271480320/img/jml8jqpY0_DxVKQD.jpg"
+    }
+  },
+  {
+    "id": "x-1794832383654-ajfzqc",
+    "source": "x",
+    "ts": "2026-11-16T12:33:03.654Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T12:29:26.000Z",
+    "reason": "No notable move, price is well inside the recent trading range.",
+    "text": "Trade Futures &amp; Win Rewards.\n\nComplete eligible Futures tasks for a share of 200 BNB in rewards.\n\nOpen to new, returning, and active Futures users.\n\nDon't miss out 👉",
+    "url": "https://x.com/binance/status/2122306045758312597"
   }
 ]
