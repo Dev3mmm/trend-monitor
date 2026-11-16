@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1793387542929-kyq0if",
-    "x-1793388201625-u755zu",
-    "x-1793388880714-amk2xt",
     "x-1793389917388-x1ucbb",
     "x-1793389923047-t3ab3o",
     "x-1793390574762-jegy1o",
@@ -1999,29 +1996,12 @@
     "x-1794849817340-ooejeu",
     "x-1794849830150-gb823b",
     "x-1794850322051-l86jwm",
-    "x-1794850324589-q2d840"
+    "x-1794850324589-q2d840",
+    "x-1794851556233-kioaln",
+    "x-1794851560081-14k9ik",
+    "x-1794851563475-girnz3"
   ],
   "queue": [
-    {
-      "text": "#PeckShieldAlert Specter has reported that a Gnosis Safe may have been compromised, resulting in $6.45M being drained, including $4.3M in $USDC and $1.7M in $syrupUSDC. The hacker has spent ~$813K to buy $XMR on Hyperliquid.",
-      "url": "https://x.com/PeckShieldAlert/status/2122340442486571370",
-      "images": [
-        "https://pbs.twimg.com/media/HXQRWaObgAAuqY9.jpg",
-        "https://pbs.twimg.com/media/HXQRYFEbQAAHs5x.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794840747425
-    },
-    {
-      "text": "🇺🇸 NEW:  FED Governor Michael S. Barr raises financial stability concerns over AI financing risks.\n\nHe flags over $3T in potential AI-related off-balance-sheet obligations.",
-      "url": "https://x.com/Cointelegraph/status/2122346630254927962",
-      "images": [
-        "https://pbs.twimg.com/media/HXQXAcZXgAAaFoL.jpg",
-        "https://pbs.twimg.com/media/HXQXAulWYAAN2Cu.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1794842064611
-    },
     {
       "text": "JUST IN: 🇺🇸 Harvard University disclosed they did not sell any Bitcoin ETF shares in Q3. 👀\n\nTheir holdings rose 42% in value to $144 million! 🚀",
       "url": "https://x.com/BitcoinMagazine/status/2122344545262194748",
@@ -2096,19 +2076,19 @@
       ],
       "video": null,
       "enqueuedAt": 1794849124063
+    },
+    {
+      "text": "🔥 NEW: Sunrise has announced a new API to bring tokenized stock trading to Solana apps, with Jupiter, 1inch, OKX DEX, Titan, and 0x among the platforms working toward integration, and tokenized stocks issued by Backpack Securities.",
+      "url": "https://x.com/Cointelegraph/status/2122386895707480258",
+      "images": [
+        "https://pbs.twimg.com/media/HXQ7oR6XkAAX3Bg.jpg",
+        "https://pbs.twimg.com/media/HXQ7ojuWYAAF16W.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794851566813
     }
   ],
   "posted": [
-    {
-      "text": "🇰🇿 BIG: Kazakhstan wants tokenized government bonds out by Q1 2027, right after selling $22.3M of tokenized central bank notes.",
-      "final": "🇰🇿 BIG: Kazakhstan wants tokenized government bonds out by Q1 2027, right after selling $22.3M of tokenized central bank notes.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HXGj6IiXoAEqExt.jpg"
-      ],
-      "at": 1794678718632,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/388249717064958?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "Binance CSO: A Fake Interview and a Coding Assignment Breached an Engineer's Computer  \n\nOn November 9, 2026, Binance CSO Jimmy Su described a fake-recruitment attack in an X fireside chat. A Binance engineer was contacted on a legitimate job platform by a self-styled project",
       "final": "Binance CSO: A Fake Interview and a Coding Assignment Breached an Engineer's Computer \n\nOn November 9, 2026, Binance CSO Jimmy Su described a fake-recruitment attack in an X fireside chat. A Binance engineer was contacted on a legitimate job platform by a self-styled project\n\n#Crypto #Binance",
@@ -2723,7 +2703,17 @@
       "at": 1794849833392,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/388950590444559?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇺🇸 NEW:  FED Governor Michael S. Barr raises financial stability concerns over AI financing risks.\n\nHe flags over $3T in potential AI-related off-balance-sheet obligations.",
+      "final": "🇺🇸 NEW: FED Governor Michael S. Barr raises financial stability concerns over AI financing risks.\n\nHe flags over $3T in potential AI-related off-balance-sheet obligations.\n\n#Crypto #Fed",
+      "images": [
+        "https://pbs.twimg.com/media/HXQXAcZXgAAaFoL.jpg",
+        "https://pbs.twimg.com/media/HXQXAulWYAAN2Cu.png"
+      ],
+      "at": 1794851566813,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794849833392
+  "lastPostAt": 1794851566813
 }
