@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794595478043-anoeoo",
-    "source": "x",
-    "ts": "2026-11-13T18:44:38.044Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Michael Saylor",
-    "ageMin": 28,
-    "originTimestamp": "2026-11-13T18:15:38.000Z",
-    "reason": "Notable growth in digital credit within DeFi ecosystem.",
-    "text": "Digital Credit in DeFi grew from $0 to $525M since January 2026.\n\nWith Saturn, $STRC now does what TradFi can’t:\n• 24/7 liquidity: @CurveFinance\n• Composable lending and leverage: @Morpho, @Lista_DAO\n• Tranching: @Strata_Markets\n• Fixed and variable rates: @Pendle_fi",
-    "url": "https://x.com/saylor/status/2121310835822006638",
-    "images": [
-      "https://pbs.twimg.com/media/HXBkkZoaEAAFm63.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794595693156-yshejs",
-    "source": "x",
-    "ts": "2026-11-13T18:48:13.156Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-13T18:46:00.000Z",
-    "reason": "New proposal to reduce staking withdrawal period from 21 days to 7 days.",
-    "text": "Three weeks to get your staked Sei back? A new proposal wants to make it one\n\nSIP-7, a new proposal for @SeiNetwork, would cut the wait to withdraw staked $SEI from 21 days to 7. During that wait tokens earn nothing and can’t be sold, which the proposal calls a price risk for",
-    "url": "https://x.com/BSCNews/status/2121313647129477475",
-    "images": [
-      "https://pbs.twimg.com/media/HXBqWUuXgAAPwoB.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794595696062-67fhk6",
-    "source": "x",
-    "ts": "2026-11-13T18:48:16.062Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-13T18:40:42.000Z",
-    "reason": "No notable crypto-related event or move mentioned.",
-    "text": "🇺🇸 BIG: Bessent blames Lutnick’s Commerce Department for delaying Nvidia export controls.",
-    "url": "https://x.com/Cointelegraph/status/2121312312959041623"
-  },
-  {
     "id": "x-1794595699668-og22hw",
     "source": "x",
     "ts": "2026-11-13T18:48:19.668Z",
@@ -7710,6 +7661,51 @@
     "url": "https://x.com/BSCNews/status/2122295617854816377",
     "images": [
       "https://pbs.twimg.com/media/HXPiAHaWcAEb4eJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794830528811-06k6lg",
+    "source": "x",
+    "ts": "2026-11-16T12:02:08.811Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T12:00:01.000Z",
+    "reason": "No notable crypto news or move mentioned.",
+    "text": "Asian Chip Stocks Slide as Taiwan's TAIEX Drops 6% and Kospi Falls 3.6%.\n\nSK Hynix closed down 7.9% and Advantest 11.1% on Monday, while TSMC fell 5.7% and Japan's Nikkei 225 lost 2.4%, according to exchange data.",
+    "url": "https://x.com/DecryptMedia/status/2122298641788612968"
+  },
+  {
+    "id": "x-1794830532188-ee8kb9",
+    "source": "x",
+    "ts": "2026-11-16T12:02:12.188Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T11:59:57.000Z",
+    "reason": "Memes are not news.",
+    "text": "Man from Guyana.\n\nLegend.",
+    "url": "https://x.com/amerix/status/2122298627867513309"
+  },
+  {
+    "id": "x-1794830537986-hmisip",
+    "source": "x",
+    "ts": "2026-11-16T12:02:17.986Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "PeckShieldAlert",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T11:58:13.000Z",
+    "reason": "Exploit of a significant value with actual stolen funds and moved tokens.",
+    "text": "#PeckShieldAlert #Lighter has been exploited for ~$10M, the exploiter has bridged 640 $ETH (1.12M) to #Hyperliquid to buy 2,240 $XMR",
+    "url": "https://x.com/PeckShieldAlert/status/2122298188103344224",
+    "images": [
+      "https://pbs.twimg.com/media/HXPq1auaQAA-DgV.jpg",
+      "https://pbs.twimg.com/media/HXPq3Awa8AA4Ygc.jpg"
     ],
     "video": null
   }
