@@ -2003,18 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🇬🇧 SOLANA BREAKPOINT: $1.2T TPV giant Zelle demonstrates its first confidential $1.25M Solana transfer.",
-      "url": "https://x.com/Cointelegraph/status/2122306187572224186",
-      "images": [],
-      "video": {
-        "url": "https://video.twimg.com/amplify_video/2122284465271480320/vid/avc1/1280x720/zmWWNL4Ff7BJ8CgH.mp4?tag=29",
-        "duration": 86,
-        "gif": false,
-        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122284465271480320/img/jml8jqpY0_DxVKQD.jpg"
-      },
-      "enqueuedAt": 1794832387172
-    },
-    {
       "text": "⚠️ALERT: Lighter $LIT drops over 20% amid reports of a suspected $15.5M theft.\n\nEarly analysis points an attacker obtained API keys belonging to two market-maker accounts.\n\nHere's what the attacker allegedly did:\n\n- closed the victims’ positions and converted their balances to",
       "url": "https://x.com/coinbureau/status/2122306911152521608",
       "images": [
@@ -2724,7 +2712,14 @@
       "at": 1794840747425,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/388913406818757?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇬🇧 SOLANA BREAKPOINT: $1.2T TPV giant Zelle demonstrates its first confidential $1.25M Solana transfer.",
+      "final": "🇬🇧 SOLANA BREAKPOINT: $1.2T TPV giant Zelle demonstrates its first confidential $1.25M Solana transfer.\n\n#Solana $SOL",
+      "images": [],
+      "at": 1794842601833,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794840747425
+  "lastPostAt": 1794842601833
 }
