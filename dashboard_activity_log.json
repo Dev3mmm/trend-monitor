@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794650619170-8e95sf",
-    "source": "x",
-    "ts": "2026-11-14T10:03:39.170Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-14T10:00:07.000Z",
-    "reason": "Tweet contains vague and nonsensical advice, not a concrete or specific event in crypto.",
-    "text": "Men,\n\nDiscipline your children in private. Praise them in public.\n\nA father who lets his children insult him at home will be insulted by the world.\n\nRespect starts at the dinner table.\n\nGUARD YOUR FRAME.\n\n#MasculinitySaturday",
-    "url": "https://x.com/amerix/status/2121543691282092461"
-  },
-  {
-    "id": "x-1794650624290-msw58d",
-    "source": "x",
-    "ts": "2026-11-14T10:03:44.290Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-14T10:00:03.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "FAA Lifts Nationwide Ground Stop as Duffy Blames \"Decades-Old\" Air Traffic Equipment.\n\nDuffy said the stop lifted at 8:15 PM EST after telecom issues began at 3:36 PM EST; DHS Secretary Markwayne Mullin said nothing indicates a cyberattack but didn't rule one out.",
-    "url": "https://x.com/DecryptMedia/status/2121543676967219537"
-  },
-  {
-    "id": "x-1794650628551-gp2nsk",
-    "source": "x",
-    "ts": "2026-11-14T10:03:48.551Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-14T09:57:00.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "So what actually is @openmind_agi and why did @PiCoreTeam $PI choose to invest?\n\nWe've got you covered ⬇️",
-    "url": "https://x.com/BSCNews/status/2121542907601506632"
-  },
-  {
     "id": "x-1794652322039-2v3zid",
     "source": "x",
     "ts": "2026-11-14T10:32:02.039Z",
@@ -7834,5 +7795,47 @@
       "https://pbs.twimg.com/media/HXRJrTxbcAAboW_.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794856349049-qjxt2f",
+    "source": "x",
+    "ts": "2026-11-16T19:12:29.049Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Elon Musk",
+    "ageMin": 53,
+    "originTimestamp": "2026-11-16T18:18:58.000Z",
+    "reason": "New price point well outside recent SOL 30-day range suggests significant activity or adoption.",
+    "text": "Cool",
+    "url": "https://x.com/elonmusk/status/2122407149401964722",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794856352799-a0rpgt",
+    "source": "x",
+    "ts": "2026-11-16T19:12:32.800Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T19:10:41.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "⚡️ INSIGHT: Pavel Durov said AI is making patent trolls’ attacks cheaper than ever and called for new AI-powered legal tools to fight back.",
+    "url": "https://x.com/Cointelegraph/status/2122407022079406102"
+  },
+  {
+    "id": "x-1794856356372-pg0vn2",
+    "source": "x",
+    "ts": "2026-11-16T19:12:36.372Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T19:06:15.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
+    "url": "https://x.com/DecryptMedia/status/2122405907392807201"
   }
 ]
