@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794670406899-7okhbx",
-    "source": "x",
-    "ts": "2026-11-14T15:33:26.899Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-14T15:22:54.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "⚡️ LATEST: Microsoft 365 is finally back after a global outage of more than 24 hours that hit government email in the US, Japan and Singapore.",
-    "url": "https://x.com/Cointelegraph/status/2121624925748253018"
-  },
-  {
-    "id": "x-1794670909050-s8vq8r",
-    "source": "x",
-    "ts": "2026-11-14T15:41:49.050Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-14T15:38:35.000Z",
-    "reason": "Price well outside the recent trading range for Bitcoin.",
-    "text": "Bitcoin slides fast and lands at $65,339 🔻\n\n$BTC $65,339 · -2.2% in 1h · -4.2% in 24h\n\nLive data: \nData only, not financial advice.",
-    "url": "https://x.com/BSCNews/status/2121629140243615891",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794670910610-61ym1s",
     "source": "x",
     "ts": "2026-11-14T15:41:50.610Z",
@@ -7875,6 +7846,40 @@
     "url": "https://x.com/coinbureau/status/2122436294693499197",
     "images": [
       "https://pbs.twimg.com/media/HXRgrUobgAE48zG.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794864148654-ep0cey",
+    "source": "x",
+    "ts": "2026-11-16T21:22:28.654Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-16T21:17:15.000Z",
+    "reason": "Luxor CEO's statement about AI attack on Bitcoin miner rewards suggests a significant security or operational issue.",
+    "text": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+    "url": "https://x.com/DecryptMedia/status/2122438873955381482",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794864152686-5wp1ua",
+    "source": "x",
+    "ts": "2026-11-16T21:22:32.686Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-16T21:15:00.000Z",
+    "reason": "Tokenized government debt on Stellar represents a notable use case for stablecoins.",
+    "text": "A third of the world’s tokenized non-US government debt sits on Stellar\n\nTokenized government debt from outside the US on @StellarOrg stands at $246M out of a $746M market, per RWA.​xyz data from today.\n\nEthereum, Polygon, and Arbitrum follow, each between $150M and $160M.",
+    "url": "https://x.com/BSCNews/status/2122438308156551275",
+    "images": [
+      "https://pbs.twimg.com/media/HXRejg5WoAEhU4Q.jpg"
     ],
     "video": null
   }
