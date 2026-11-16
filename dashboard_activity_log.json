@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794671512947-dec67p",
-    "source": "x",
-    "ts": "2026-11-14T15:51:52.947Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-14T15:51:00.000Z",
-    "reason": "No notable move in alt chain development metrics provided.",
-    "text": "Development on these alt chains is surging...\n\nSeveral smaller blockchain ecosystems have seen a dramatic surge in the number of commits their networks have received in the past 30 days.\n\n@etherlink [+38.10%]\n@BSVAssociation [+16.99%]\n@eCash [+8.26%]\n@tezos [+6.74%]\n\nIs this a",
-    "url": "https://x.com/BSCNews/status/2121631995260194858"
-  },
-  {
-    "id": "x-1794671514742-dwyoie",
-    "source": "x",
-    "ts": "2026-11-14T15:51:54.742Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-14T15:41:42.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Flight 15 Update: Starship coasting in orbit, still looking good for return to launch site today. Pad and tower systems are go for catch.",
-    "url": "https://x.com/elonmusk/status/2121630693747024071"
-  },
-  {
-    "id": "x-1794672126791-dyq6ks",
-    "source": "x",
-    "ts": "2026-11-14T16:02:06.791Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-14T16:00:27.000Z",
-    "reason": "Memes and social media challenges are not news.",
-    "text": "Men,\n\nLastly, \n\nWhen you marry a woman, you sign a silent covenant with God.\n\nFather. Husband. Advisor. Provider. Penetrator. Protector. Leader.\n\nMasculine roles.\n\nDo not abdicate these roles.\n\nDo not abandon them.\n\nGUARD YOUR FRAME.\n\n#MasculinitySaturday",
-    "url": "https://x.com/amerix/status/2121634373850051069"
-  },
-  {
     "id": "x-1794672129948-ao6ym2",
     "source": "x",
     "ts": "2026-11-14T16:02:09.948Z",
@@ -7882,5 +7843,55 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "🤖 JUST IN: OpenAI has signed agreements with four independent evaluators, Apollo Research, METR, Transluce and Goodfire, to assess AI model safety and safeguards.",
     "url": "https://x.com/Cointelegraph/status/2122442288706044022"
+  },
+  {
+    "id": "x-1794865442119-9m77pj",
+    "source": "x",
+    "ts": "2026-11-16T21:44:02.119Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T21:41:27.000Z",
+    "reason": "Wells Fargo's holdings in BlackRock's Bitcoin ETF have increased significantly.",
+    "text": "JUST IN: 🇺🇸 Wells Fargo disclosed 49.6 million shares of BlackRock’s spot Bitcoin ETF currently worth $1.82 billion, making them the largest institutional BTC ETF holder. \n\nThat’s an ~200% increase from 24.4 million shares in Q2! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2122444965586542824",
+    "images": [
+      "https://pbs.twimg.com/media/HXRwSlDXcAAKQoe.png",
+      "https://pbs.twimg.com/media/HXRwSlGXMAArIKU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794865445150-xndeaz",
+    "source": "x",
+    "ts": "2026-11-16T21:44:05.150Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T21:40:41.000Z",
+    "reason": "Notable regulatory move affecting crypto trading.",
+    "text": "🇺🇸 NEW: The CFTC approves the first exchange and clearinghouse applications using blockchain technology for derivatives trading and settlement.",
+    "url": "https://x.com/Cointelegraph/status/2122444770307924309",
+    "images": [
+      "https://pbs.twimg.com/media/HXRwRUEWQAANym4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794865448095-sz86ld",
+    "source": "x",
+    "ts": "2026-11-16T21:44:08.095Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 45,
+    "originTimestamp": "2026-11-16T20:59:05.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "\"The founder ecosystem of Solana is the strongest founder ecosystem I've ever worked in, in crypto”\n\n– @farokh, President, @DecryptMedia",
+    "url": "https://x.com/DecryptMedia/status/2122443275089191163"
   }
 ]
