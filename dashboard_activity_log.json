@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1794569746825-dpa43d",
-    "source": "x",
-    "ts": "2026-11-13T11:35:46.825Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-13T11:22:00.000Z",
-    "reason": "No notable move, price is well within the recent trading range.",
-    "text": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-    "url": "https://x.com/DecryptMedia/status/2121201912041144558",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794570126125-lrltw2",
-    "source": "x",
-    "ts": "2026-11-13T11:42:06.125Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T11:40:43.000Z",
-    "reason": "Mantra announces an emergency pause following a wallet exploit.",
-    "text": "🚨 ALERT: MANTRA says hackers are unstaking users' tokens following a Web3Auth-Keplr wallet exploit.\n\nMANTRA announces emergency seven-day unbonding pause.",
-    "url": "https://x.com/Cointelegraph/status/2121206622324224058",
-    "images": [
-      "https://pbs.twimg.com/media/HXAKLFzWwAAn4bb.png",
-      "https://pbs.twimg.com/media/HXAKLdbWcAAJB3j.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794570753390-62b35o",
     "source": "x",
     "ts": "2026-11-13T11:52:33.390Z",
@@ -7670,6 +7635,38 @@
     "url": "https://x.com/BSCNews/status/2122199062166565226",
     "images": [
       "https://pbs.twimg.com/media/HXOQpU6acAAepz8.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794807745200-k2e571",
+    "source": "x",
+    "ts": "2026-11-16T05:42:25.200Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 38,
+    "originTimestamp": "2026-11-16T05:04:06.000Z",
+    "reason": "Noise: Generic statement with no real content.",
+    "text": "Yup",
+    "url": "https://x.com/elonmusk/status/2122203324460265943"
+  },
+  {
+    "id": "x-1794807749665-d9t1kd",
+    "source": "x",
+    "ts": "2026-11-16T05:42:29.665Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T05:36:10.000Z",
+    "reason": "Exploit involving real financial gain from on-chain data analysis.",
+    "text": "🚨WILD: Traders made $6 MILLION by spotting a PUBLIC code change and frontrunning a Robinhood listing.\n\nPseudonymous trader '3i' claims their group tracked BitGo's public GitHub repository and spotted a code change adding Cash Cat support to Robinhood Chain.\n\nThis was 10 days",
+    "url": "https://x.com/coinbureau/status/2122202044597707008",
+    "images": [
+      "https://pbs.twimg.com/media/HXOS8lQa4AEMpEC.png",
+      "https://pbs.twimg.com/media/HXOTBWSaAAAdC4n.png"
     ],
     "video": null
   }
