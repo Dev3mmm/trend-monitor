@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794569556124-n6oi48",
-    "source": "x",
-    "ts": "2026-11-13T11:32:36.124Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T11:30:51.000Z",
-    "reason": "Notable technical outage affecting a wide range of institutions.",
-    "text": "🚨 UPDATE: Microsoft outage surpasses 12 hours, disrupting banks, governments and courts across 74 countries.",
-    "url": "https://x.com/Cointelegraph/status/2121204138801283431",
-    "images": [
-      "https://pbs.twimg.com/media/HXAH64hXoAAiyFh.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794569562657-x63jfm",
-    "source": "x",
-    "ts": "2026-11-13T11:32:42.657Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-13T11:30:00.000Z",
-    "reason": "DOJ action against Binance theft highlights regulatory scrutiny in crypto.",
-    "text": "DOJ Moves to Seize $1.2B Stolen From Binance, Blames North Korean Military.\n\nThe Justice Department said Thursday it has court authorization to seize or restrain more than $1.2 billion of the $2.7 billion-plus frozen so far, out of more than $6 billion stolen from Binance on Oct.",
-    "url": "https://x.com/DecryptMedia/status/2121203924132577675",
-    "images": [
-      "https://pbs.twimg.com/media/HW_3MsuXsAAnVsb.png",
-      "https://pbs.twimg.com/media/HW_4deWXYAACR2W.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794569568175-ifbskb",
     "source": "x",
     "ts": "2026-11-13T11:32:48.175Z",
@@ -7681,5 +7644,36 @@
     "reason": "No notable crypto-related event or use of crypto technology mentioned.",
     "text": "The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.",
     "url": "https://x.com/elonmusk/status/2122182607391920214"
+  },
+  {
+    "id": "x-1794803560887-isml9n",
+    "source": "x",
+    "ts": "2026-11-16T04:32:40.887Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-16T04:27:41.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸  JUST IN: The Trump administration is set to name Nvidia, Amazon, Microsoft, OpenAI and Anthropic among its AI “national champions” to help US firms win business overseas, per WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2122184810672087464"
+  },
+  {
+    "id": "x-1794803566129-dymd0v",
+    "source": "x",
+    "ts": "2026-11-16T04:32:46.129Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T04:26:12.000Z",
+    "reason": "Binance co-founder denies claims of crypto sale, Bitcoin price at a recent low.",
+    "text": "CZ Shuts Down Binance Selling Rumors as Bitcoin Hits $62K\n\nBinance (@binance) co-founder, Changpeng Zhao (@cz_binance) has denied claims that the exchange sold crypto following its recent hack.\n\nHis comments came as Bitcoin $BTC fell to $62,006, its lowest level since July. The",
+    "url": "https://x.com/BSCNews/status/2122184437421019225",
+    "images": [
+      "https://pbs.twimg.com/media/HXOCPVybUAAIJu0.png"
+    ],
+    "video": null
   }
 ]
