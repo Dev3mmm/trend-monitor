@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794668535189-dezhwu",
-    "source": "x",
-    "ts": "2026-11-14T15:02:15.190Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 44,
-    "originTimestamp": "2026-11-14T14:18:21.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. \n\nCan you spot the moon?",
-    "url": "https://x.com/elonmusk/status/2121617733221818612"
-  },
-  {
-    "id": "x-1794669165342-mam8p1",
-    "source": "x",
-    "ts": "2026-11-14T15:12:45.342Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-14T15:04:56.000Z",
-    "reason": "Noise: meme without factual claim or verification.",
-    "text": "In 2020,\n\nThis man sent me this message (attached photo) pretending to be another man, while feigning his identity.\n\nI ignored him.\n\nToday he sent me this message copy-pasted below, and it appears he has learnt the hard way yet still he is not brave enough to end this chaotic",
-    "url": "https://x.com/amerix/status/2121620401868435561"
-  },
-  {
-    "id": "x-1794669717360-lb05wo",
-    "source": "x",
-    "ts": "2026-11-14T15:21:57.360Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T15:19:35.000Z",
-    "reason": "No notable crypto-related event or move is indicated.",
-    "text": "JUST IN: The @joobescrow $1 Escrow Challenge winners have been announced! 🎉\n\nEach winner will receive 20 USDT:\n\n🏆 @murakab_i\n🏆 @Cryptomast021\n🏆 @Niftyn0ds\n\nWinners have until November 18th, 23:59 UTC to claim their prizes by messaging the official JoobEscrow Telegram group:",
-    "url": "https://x.com/BSCNews/status/2121624088581963832"
-  },
-  {
     "id": "x-1794669719321-9wi84y",
     "source": "x",
     "ts": "2026-11-14T15:21:59.321Z",
@@ -7855,5 +7816,55 @@
       "https://pbs.twimg.com/media/HXRlOiFaYAAAVfG.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794863385396-sj8fll",
+    "source": "x",
+    "ts": "2026-11-16T21:09:45.396Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T21:07:00.000Z",
+    "reason": "Exploit involving Ethereum tokens is a notable security incident.",
+    "text": "🚨 JUST IN: MIT brothers Anton and James Peraire-Bueno are acquitted over the $25 MILLION Ethereum exploit that took 12 seconds.\n\nProsecutors said they lured crypto trading bots into a trap with a trade that \"looked like one thing from the outside, but was secretly something",
+    "url": "https://x.com/coinbureau/status/2122436294693499197",
+    "images": [
+      "https://pbs.twimg.com/media/HXRgrUobgAE48zG.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794863391497-79iyqs",
+    "source": "x",
+    "ts": "2026-11-16T21:09:51.497Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-16T20:52:26.000Z",
+    "reason": "The announcement of a quantum-classical computing platform collaboration is noteworthy as it involves major tech companies.",
+    "text": "⚡️️ NEW: IBM and NVIDIA announced plans to collaborate with Fermilab on a new quantum-classical computing platform at SC26 in Chicago.\n\nThe project will connect NVIDIA DGX B200 systems with IBM quantum computers to advance quantum research and scientific computing.\n\nThe",
+    "url": "https://x.com/Cointelegraph/status/2122432629542912440",
+    "images": [
+      "https://pbs.twimg.com/media/HXRlOh8bkAAB2Tt.jpg",
+      "https://pbs.twimg.com/media/HXRlOiFaYAAAVfG.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794863396626-d83pnw",
+    "source": "x",
+    "ts": "2026-11-16T21:09:56.626Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 23,
+    "originTimestamp": "2026-11-16T20:46:00.000Z",
+    "reason": "No notable move in the token's functionality or adoption.",
+    "text": "Midnight’s privacy proofs were too heavy for phones. The fix runs on Google Cloud\n\nPrivate transactions on @MidnightNtwrk ($NIGHT) need a zero-knowledge proof, and making one on a user’s device could take tens of seconds and drain the battery, per a @GoogleCloud case study.\n\nThe",
+    "url": "https://x.com/BSCNews/status/2122431009807331834"
   }
 ]
