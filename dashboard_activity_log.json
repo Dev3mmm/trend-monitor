@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794556336302-tk75tl",
-    "source": "x",
-    "ts": "2026-11-13T07:52:16.302Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T07:50:41.000Z",
-    "reason": "Specific regulatory proposal affecting stablecoins.",
-    "text": "🇹🇭 REGULATION: Thailand's SEC proposes $148K/day/customer stablecoin caps and third-party wallet restrictions.",
-    "url": "https://x.com/Cointelegraph/status/2121148732775293102",
-    "images": [
-      "https://pbs.twimg.com/media/HW_Vh0jXsAA8mUj.jpg",
-      "https://pbs.twimg.com/media/HW_ViA8WUAA92sQ.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794556941486-f36aon",
-    "source": "x",
-    "ts": "2026-11-13T08:02:21.486Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-13T08:00:01.000Z",
-    "reason": "No notable move in TRX, address growth is within the recent range.",
-    "text": "Tron's User Base is Growing at a Remarkable Pace\n\nTRON (@trondao) $TRX recorded an average of 178,641 new addresses every day during Q3. \n\nThe network's total accounts have climbed to nearly 414 million. That represents an increase of approximately 52 million accounts year to",
-    "url": "https://x.com/BSCNews/status/2121151082093048266"
-  },
-  {
     "id": "x-1794557513247-vybq9z",
     "source": "x",
     "ts": "2026-11-13T08:11:53.247Z",
@@ -7688,5 +7656,39 @@
     "reason": "No notable move in crypto related to the tweet.",
     "text": "Samsung will invest $1.9 billion to expand its chip plant in Austin, Texas, to produce semiconductors for @SpaceX's Starlink satellites.\n\nThe factory is expected to produce STM32V8 chips used in Starlink's laser communication systems, shifting production currently based in France",
     "url": "https://x.com/elonmusk/status/2122127355502071854"
+  },
+  {
+    "id": "x-1794790383593-4ozmt2",
+    "source": "x",
+    "ts": "2026-11-16T00:53:03.593Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 84,
+    "originTimestamp": "2026-11-15T23:28:42.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "Intel is reportedly being sued by shareholders after its stock plunged 29%.",
+    "url": "https://x.com/BSCNews/status/2122129067847622734",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794790387507-8umvm2",
+    "source": "x",
+    "ts": "2026-11-16T00:53:07.507Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-16T00:41:39.000Z",
+    "reason": "Notable underperformance highlighted for specific altcoins.",
+    "text": "Spot altcoin ETFs have just closed out a weak week, and @chainlink ($LINK) and @Polkadot ($DOT) funds ended up on the wrong side of it 📉\n\nOnly one altcoin ETF drew net inflows over the week, and it was neither of those two.\n\nSee the numbers ⬇️\nRead here:",
+    "url": "https://x.com/BSCNews/status/2122129029805609196",
+    "images": [
+      "https://pbs.twimg.com/media/HXNQGW2XwAAPyG3.jpg"
+    ],
+    "video": null
   }
 ]
