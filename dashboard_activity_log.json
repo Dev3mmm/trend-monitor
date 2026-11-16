@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794575551231-osazxl",
-    "source": "x",
-    "ts": "2026-11-13T13:12:31.231Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-13T13:01:54.000Z",
-    "reason": "No notable move, crypto news focused.",
-    "text": "JUST IN: Microsoft stock, $MSFT, drops amid a global outage disrupting services for 450 million users.",
-    "url": "https://x.com/coinbureau/status/2121227053458751883"
-  },
-  {
     "id": "x-1794576129323-wypbqa",
     "source": "x",
     "ts": "2026-11-13T13:22:09.323Z",
@@ -7648,5 +7635,24 @@
     "reason": "No notable move or specific event is described, just a vague sentiment statement.",
     "text": "Hoskinson Says Cardano Holders Will Be Happy Next Year\n\nCardano (@cardano) founder Charles Hoskinson (@IOHK_Charles) has offered a hopeful message to $ADA holders.\n\n\"It's all going to be ok. Everyone will be happy next year...,\" he said in response to a concerned investor on X.",
     "url": "https://x.com/BSCNews/status/2122237571631833341"
+  },
+  {
+    "id": "x-1794816715605-h1bu29",
+    "source": "x",
+    "ts": "2026-11-16T08:11:55.605Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T08:10:42.000Z",
+    "reason": "New insights from Vitalik Buterin on Ethereum's state growth concerns.",
+    "text": "⚡️ NEW: Vitalik Buterin weighs in on EIP-8037 and warns that a 10x gas limit would push Ethereum’s state growth to about 1,100 GiB a year, roughly 10 times today’s rate.",
+    "url": "https://x.com/Cointelegraph/status/2122240933907280100",
+    "images": [
+      "https://pbs.twimg.com/media/HXO24R-WsAA-NKh.jpg",
+      "https://pbs.twimg.com/media/HXO24eMXEAA64wr.jpg"
+    ],
+    "video": null
   }
 ]
