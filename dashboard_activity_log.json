@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794613953530-hrg2dr",
-    "source": "x",
-    "ts": "2026-11-13T23:52:33.530Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-13T23:43:30.000Z",
-    "reason": "Noise: meme or trend without factual content.",
-    "text": "Live Starship video from space",
-    "url": "https://x.com/elonmusk/status/2121388517540716839"
-  },
-  {
-    "id": "x-1794613955544-91hirw",
-    "source": "x",
-    "ts": "2026-11-13T23:52:35.544Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-13T23:42:24.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "Coinbase Institutional: Fed Rate Expectations, Not Binance Hack, Drive Bitcoin’s Recent Decline\n\nCoinbase Institutional said in its weekly report that Bitcoin’s recent decline was driven primarily by shifting Fed policy expectations rather than the Binance hack. October nonfarm",
-    "url": "https://x.com/WuBlockchain/status/2121388241521942820"
-  },
-  {
     "id": "x-1794614559102-zs4jfh",
     "source": "x",
     "ts": "2026-11-14T00:02:39.102Z",
@@ -7750,5 +7724,37 @@
     "reason": "No notable crypto-related news.",
     "text": "🚨BIG: President Trump says he “wouldn’t mind” if Jensen Huang returned as Nvidia CEO and revealed he may discuss Nvidia with China’s Xi Jinping.\n\nHe also says Huang did not put U.S. national security at risk and “nobody has proven Alice Huang is a spy.”\n\nTrump, Xi and Putin are",
     "url": "https://x.com/coinbureau/status/2122349119461372091"
+  },
+  {
+    "id": "x-1794843204344-yrme26",
+    "source": "x",
+    "ts": "2026-11-16T15:33:24.344Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T15:31:42.000Z",
+    "reason": "No notable move in Bitcoin Core's security policy update.",
+    "text": "AnchorWatch CEO Rob Hamilton on how Bitcoin Core is responding to AI:\n\n\"Bitcoin Core actually updated their security policy for the first time, really ever.\"\n\n\"What once took a team of dedicated security engineers and specialists can now be found with one person in their",
+    "url": "https://x.com/BitcoinMagazine/status/2122352045185548321"
+  },
+  {
+    "id": "x-1794843207355-ayi1vl",
+    "source": "x",
+    "ts": "2026-11-16T15:33:27.355Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T15:30:52.000Z",
+    "reason": "Notable regulatory move affecting cryptocurrency futures.",
+    "text": "🇺🇸 UPDATE: Hyperliquid Policy Center backs CFTC rules distinguishing event contracts from gambling.",
+    "url": "https://x.com/Cointelegraph/status/2122351703710212347",
+    "images": [
+      "https://pbs.twimg.com/media/HXQbn4nWgAAOXHV.png",
+      "https://pbs.twimg.com/media/HXQboF3X0AADmxM.png"
+    ],
+    "video": null
   }
 ]
