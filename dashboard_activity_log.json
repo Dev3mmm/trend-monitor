@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794566529957-09doeu",
-    "source": "x",
-    "ts": "2026-11-13T10:42:09.957Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-13T10:36:21.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Be like Pavel,\n\nBe the board.",
-    "url": "https://x.com/amerix/status/2121190423104217240"
-  },
-  {
-    "id": "x-1794567125486-0w4ijo",
-    "source": "x",
-    "ts": "2026-11-13T10:52:05.486Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T10:50:42.000Z",
-    "reason": "Potential regulatory or legal implications from high-profile crypto figure.",
-    "text": "🚨 JUST IN: Justin Sun calls Jensen Huang's NVIDIA resignation “a major setback for the AI industry.”",
-    "url": "https://x.com/Cointelegraph/status/2121194035461169340",
-    "images": [
-      "https://pbs.twimg.com/media/HW_-upNWAAAtr7c.jpg",
-      "https://pbs.twimg.com/media/HW_-u77WQAAQxMv.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794567751258-2mfygz",
     "source": "x",
     "ts": "2026-11-13T11:02:31.258Z",
@@ -7682,5 +7650,34 @@
     "reason": "No notable move or newsworthy action mentioned.",
     "text": "@elonmusk Great timeline 😂",
     "url": "https://x.com/elonmusk/status/2122164088726016388"
+  },
+  {
+    "id": "x-1794799960279-fqrlgc",
+    "source": "x",
+    "ts": "2026-11-16T03:32:40.279Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T03:30:40.000Z",
+    "reason": "Notable warning from a key figure in the crypto industry about a new security threat.",
+    "text": "⚡ TODAY: Luxor CEO Nick Hansen warns crypto firms of an AI-powered “dark forest” after attackers hijacked customer bitcoin hashrate via its Commander platform.",
+    "url": "https://x.com/Cointelegraph/status/2122170459567313124",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794799962408-uio89i",
+    "source": "x",
+    "ts": "2026-11-16T03:32:42.408Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-16T03:23:15.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "🚨NOW: South Korean Stocks DUMP on open\n\nThe KOSPI has plunged -2.68% since the opening bell, wiping out ₩104 TRILLION in market value.\n\nForeign investors have sold ₩722 BILLION worth of Korean shares, with the index now down nearly -10% over the past month.",
+    "url": "https://x.com/coinbureau/status/2122168594826158100"
   }
 ]
