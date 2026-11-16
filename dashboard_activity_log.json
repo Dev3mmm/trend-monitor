@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794601401001-kxsqow",
-    "source": "x",
-    "ts": "2026-11-13T20:23:21.001Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-13T20:17:15.000Z",
-    "reason": "JPMorgan's crypto holdings have reached a significant level.",
-    "text": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-    "url": "https://x.com/DecryptMedia/status/2121336611354927381",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794601405839-5fgbb4",
-    "source": "x",
-    "ts": "2026-11-13T20:23:25.839Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-13T20:15:49.000Z",
-    "reason": "Generic, vague opinion without factual claim or basis.",
-    "text": "JUST IN: Amundsen Davis' Joe Carlasare says \"This is a fantastic time to buy Bitcoin.\" 👀\n\n\"Don't be kicking yourself when Bitcoin is above $100K or $150K saying man I really wish I would have smashed the buy button\" 👏",
-    "url": "https://x.com/BitcoinMagazine/status/2121336251953672216"
-  },
-  {
-    "id": "x-1794601408933-sr0bst",
-    "source": "x",
-    "ts": "2026-11-13T20:23:28.933Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 71,
-    "originTimestamp": "2026-11-13T19:11:36.000Z",
-    "reason": "No notable move or specific information provided.",
-    "text": "Try Grok @Bot today!",
-    "url": "https://x.com/elonmusk/status/2121335897744372073"
-  },
-  {
     "id": "x-1794601948916-pwft5w",
     "source": "x",
     "ts": "2026-11-13T20:32:28.916Z",
@@ -7711,5 +7669,55 @@
     "reason": "No notable move or specific event is mentioned.",
     "text": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
     "url": "https://x.com/DecryptMedia/status/2122319902660845847"
+  },
+  {
+    "id": "x-1794837158344-mrlowx",
+    "source": "x",
+    "ts": "2026-11-16T13:52:38.344Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T13:50:41.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇺🇸🇨🇳 JUST IN: US moves toward tighter controls to block China's AI chip access through data centers in third countries.",
+    "url": "https://x.com/Cointelegraph/status/2122326494693204455"
+  },
+  {
+    "id": "x-1794837162140-xsfqq2",
+    "source": "x",
+    "ts": "2026-11-16T13:52:42.140Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T13:50:27.000Z",
+    "reason": "Notable institutional investment and holding announcements.",
+    "text": "Strategy Adds 485 BTC And Repurchases $228.1M Of STRC, Bitmine Adds 7,653 ETH.\n\nStrategy held 850,849 BTC as of Nov. 15, an SEC filing shows, while Bitmine said it held 6,077,745 ETH, 4.97% of supply.",
+    "url": "https://x.com/DecryptMedia/status/2122326432928133390",
+    "images": [
+      "https://pbs.twimg.com/media/HXQDiijXQAE83a1.jpg",
+      "https://pbs.twimg.com/media/HXQDh2yWcAAikyh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794837167012-mvafm6",
+    "source": "x",
+    "ts": "2026-11-16T13:52:47.012Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 19,
+    "originTimestamp": "2026-11-16T13:33:26.000Z",
+    "reason": "New use of a token/stablecoin (Solana) for wallet display in DeFi interactions",
+    "text": "Ledger hardware wallets now show Solana swaps in plain words... \n\n@Ledger has introduced Clear Signing on @Solana. Users can now read natural-language summaries of Jupiter swaps or other popular DeFi interactions right on their device before confirming.\n\nA Solana transaction",
+    "url": "https://x.com/BSCNews/status/2122322152418312685",
+    "images": [
+      "https://pbs.twimg.com/media/HXQAjapXEAAr7XE.jpg"
+    ],
+    "video": null
   }
 ]
