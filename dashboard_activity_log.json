@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794637942027-x39cnx",
-    "source": "x",
-    "ts": "2026-11-14T06:32:22.027Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-14T06:25:03.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "Starship is traveling around the world every ~90 minutes right now",
-    "url": "https://x.com/elonmusk/status/2121489571213168758"
-  },
-  {
-    "id": "x-1794637946546-zjarjt",
-    "source": "x",
-    "ts": "2026-11-14T06:32:26.546Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-14T06:25:00.000Z",
-    "reason": "New all-time high for Ripple's stablecoin with significant supply and hosting details.",
-    "text": "Ripple's own stablecoin hit a new all-time high.\n\n@Ripple's $RLUSD hit a new all-time high supply of $2.734B on November 11, 2026.\n\nThe vast majority of the stablecoin is currently hosted on @Ethereum. That said, there is some $818.57M hosted on Ripple's own @XRP Ledger chain.",
-    "url": "https://x.com/BSCNews/status/2121489556159844820",
-    "images": [
-      "https://pbs.twimg.com/media/HXAobydWkAA5GcI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794637949553-1utzpn",
     "source": "x",
     "ts": "2026-11-14T06:32:29.553Z",
@@ -7785,5 +7754,40 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122377064309280768/img/iLloMwBiFbzxvN5F.jpg"
     }
+  },
+  {
+    "id": "x-1794850322051-l86jwm",
+    "source": "x",
+    "ts": "2026-11-16T17:32:02.051Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T17:31:11.000Z",
+    "reason": "Specific regulatory move involving a crypto-related entity.",
+    "text": "🇹🇼 NEW: Taiwan has proposed new stablecoin rules requiring issuers to be banks or bank-controlled companies.",
+    "url": "https://x.com/Cointelegraph/status/2122381984370499798",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794850324589-q2d840",
+    "source": "x",
+    "ts": "2026-11-16T17:32:04.589Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T17:30:00.000Z",
+    "reason": "Aster token price swing reported due to alleged malicious liquidations.",
+    "text": "Aster CEO Says $ASTER Price Swing Came From \"Likely Malicious\" Liquidations.\n\nAster CEO Leonard said on Sunday that the team is investigating, with ASTER trading between $0.4805 and $0.7108 on Coinbase in the 24 hours to 6:02 AM EST.",
+    "url": "https://x.com/DecryptMedia/status/2122381684578632177",
+    "images": [
+      "https://pbs.twimg.com/media/HXPs8AJWcAAD9Bt.png",
+      "https://pbs.twimg.com/media/HXPs8zOWMAAGx2k.png"
+    ],
+    "video": null
   }
 ]
