@@ -1,70 +1,5 @@
 [
   {
-    "id": "x-1794607973806-6jpyub",
-    "source": "x",
-    "ts": "2026-11-13T22:12:53.806Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-13T22:03:40.000Z",
-    "reason": "The tweet is unrelated to cryptocurrency and blockchain technology.",
-    "text": "🚨 TODAY: Around 3,100 aircraft were reportedly airborne en route to US airports as the FAA’s nationwide ground stop halted further departures, according to flight-tracking rep",
-    "url": "https://x.com/Cointelegraph/status/2121363394125058201"
-  },
-  {
-    "id": "x-1794608538269-gx34pg",
-    "source": "x",
-    "ts": "2026-11-13T22:22:18.269Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T22:20:41.000Z",
-    "reason": "Potential security vulnerability for a significant portion of Bitcoin supply.",
-    "text": "⚡️️ UPDATE: Around 35.4% of Bitcoin’s supply, or 7.12 million $BTC, has publicly exposed keys that could be vulnerable to future quantum attacks, including exposure linked to address reuse and exchange holdings.",
-    "url": "https://x.com/Cointelegraph/status/2121367673153986760",
-    "images": [
-      "https://pbs.twimg.com/media/HXCcp8mWkAESRDc.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794608542808-5ft008",
-    "source": "x",
-    "ts": "2026-11-13T22:22:22.808Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-13T22:17:15.000Z",
-    "reason": "No notable move for ETH, price is within its recent range.",
-    "text": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
-    "url": "https://x.com/DecryptMedia/status/2121366810276552907",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794608547842-qivhjl",
-    "source": "x",
-    "ts": "2026-11-13T22:22:27.842Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-13T22:15:00.000Z",
-    "reason": "New use of a token for liquidity providers.",
-    "text": "Aero explains how liquidity providers can earn more than trading fees\n\n@aeroxyz, the exchange formed by the Aerodrome and Velodrome merger, published a breakdown of how it pays liquidity providers. They can choose to earn $AERO, a stream of token rewards targeted to be worth more",
-    "url": "https://x.com/BSCNews/status/2121366244171420011",
-    "images": [
-      "https://pbs.twimg.com/media/HXCX4zhXkAAm_cn.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794609137346-0od65n",
     "source": "x",
     "ts": "2026-11-13T22:32:17.347Z",
@@ -7740,5 +7675,71 @@
       "https://pbs.twimg.com/media/HXQPCAjakAAaqSC.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794840732916-kbqti3",
+    "source": "x",
+    "ts": "2026-11-16T14:52:12.916Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T14:50:00.000Z",
+    "reason": "Notable institutional support for Solana cryptocurrency.",
+    "text": "🇬🇧 SOLANA BREAKPOINT: ICE already supports Solana for Digital Trust and is considering becoming a validator, says Hester Serafini, President of ICE Clear Europe.",
+    "url": "https://x.com/Cointelegraph/status/2122341419679731973",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122317943891476480/vid/avc1/1280x720/TnEZHcrPuURrvsO8.mp4?tag=29",
+      "duration": 79,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122317943891476480/img/Axzs4WU4728VlnZq.jpg"
+    }
+  },
+  {
+    "id": "x-1794840738940-xcv7o7",
+    "source": "x",
+    "ts": "2026-11-16T14:52:18.940Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "PeckShieldAlert",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T14:46:07.000Z",
+    "reason": "Exploit of a decentralized finance (DeFi) protocol leading to significant funds loss.",
+    "text": "#PeckShieldAlert Specter has reported that a Gnosis Safe may have been compromised, resulting in $6.45M being drained, including $4.3M in $USDC and $1.7M in $syrupUSDC. The hacker has spent ~$813K to buy $XMR on Hyperliquid.",
+    "url": "https://x.com/PeckShieldAlert/status/2122340442486571370",
+    "images": [
+      "https://pbs.twimg.com/media/HXQRWaObgAAuqY9.jpg",
+      "https://pbs.twimg.com/media/HXQRYFEbQAAHs5x.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794840742886-g8l5bi",
+    "source": "x",
+    "ts": "2026-11-16T14:52:22.886Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T14:46:00.000Z",
+    "reason": "No notable move or specific action described.",
+    "text": "InterLink Sets the Final Countdown for $ITLG Rewards\n\nInterLink (@Inter_Link) has announced November 25, 2026, as the final cutoff date for capturing activity metrics and referral scores for the current $ITLG allocation cycle.\n\nThis snapshot will fix the performance scores for",
+    "url": "https://x.com/BSCNews/status/2122340412786610550"
+  },
+  {
+    "id": "x-1794840746502-0lez0w",
+    "source": "x",
+    "ts": "2026-11-16T14:52:26.502Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 20,
+    "originTimestamp": "2026-11-16T14:31:52.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "BREAKING: SpaceX is joining local law enforcement in Florida to help bring Christmas joy to children in need. \n\nBrevard County Sheriff Wayne Ivey announced that SpaceX will participate in the Reverse Christmas Parade on Monday, November 30.\n\nSpaceX helping the community. ♥️",
+    "url": "https://x.com/elonmusk/status/2122340022665797812"
   }
 ]
