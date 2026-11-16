@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1794654139240-h42b67",
-    "source": "x",
-    "ts": "2026-11-14T11:02:19.240Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T11:00:01.000Z",
-    "reason": "Noteworthy institutional project launch with blockchain and AI focus.",
-    "text": "SNAO’s public sale is now live on @BNBChain.\n\n@SNAOOFFICIAL is building an AI-powered blockchain intelligence platform focused on whale movements, smart money flows, market sentiment and on-chain activity. The project is also developing enterprise security tools for threat",
-    "url": "https://x.com/BSCNews/status/2121558768597307633",
-    "images": [
-      "https://pbs.twimg.com/media/HXCshnbWcAAkVUy.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794654737195-op38ar",
-    "source": "x",
-    "ts": "2026-11-14T11:12:17.195Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-14T11:08:00.000Z",
-    "reason": "Notable institutional announcement and reserve update for a Litecoin-focused mining company.",
-    "text": "Luxxfolio already holds 26,838 $LTC.\n\nThe @Litecoin-focused mining company @LuxxfolioH announced this week that its reserve now holds some 26,838 $LTC worth around $1.3M.\n\nThough the figure is small, Luxxfolio only started its Litecoin mining operations in Q1 of this year, and",
-    "url": "https://x.com/BSCNews/status/2121560775940767944",
-    "images": [
-      "https://pbs.twimg.com/media/HXAoteHW8AANazr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794655308424-kzky9u",
-    "source": "x",
-    "ts": "2026-11-14T11:21:48.424Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-14T11:17:55.000Z",
-    "reason": "No notable move; price is within its recent range.",
-    "text": "SNAO’s public sale is now live on @BNBChain.\n\n@SNAOOFFICIAL is building an AI-powered blockchain intelligence platform focused on whale movements, smart money flows, market sentiment and on-chain activity. The project is also developing enterprise security tools for threat",
-    "url": "https://x.com/BSCNews/status/2121563272939700412",
-    "images": [
-      "https://pbs.twimg.com/media/HXFOjWxWUAAcFGA.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794655960403-aip58w",
     "source": "x",
     "ts": "2026-11-14T11:32:40.403Z",
@@ -7840,6 +7786,50 @@
     "url": "https://x.com/BSCNews/status/2122407857337618586",
     "images": [
       "https://pbs.twimg.com/media/HXRJ04tWoAImDmi.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794857549330-bkzfps",
+    "source": "x",
+    "ts": "2026-11-16T19:32:29.330Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T19:30:47.000Z",
+    "reason": "No notable move in ETH within its recent range.",
+    "text": "🔥 INSIGHT: OpenAI says scientists report nearly doubling their productivity with AI in a study of more than 1,800 participants.",
+    "url": "https://x.com/Cointelegraph/status/2122412080393285656"
+  },
+  {
+    "id": "x-1794857552561-6v4lf4",
+    "source": "x",
+    "ts": "2026-11-16T19:32:32.561Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T19:30:00.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "Perplexity Launches Frontier Research Team, CEO Aravind Srinivas Says It Will Build An \"Automated Researcher.\"\n\nSrinivas said Perplexity is committing at least 10,000 GPUs to work on multi-agent orchestration and continual learning systems, and will publish evals, papers and",
+    "url": "https://x.com/DecryptMedia/status/2122411883571318824"
+  },
+  {
+    "id": "x-1794857556558-p6qhkc",
+    "source": "x",
+    "ts": "2026-11-16T19:32:36.558Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-16T19:27:22.000Z",
+    "reason": "Security incident involving return of USDC and resumption of withdrawals.",
+    "text": "Lighter Security Incident Update: Approximately 5M USDC Returned to Affected Trader, Withdrawals Resumed\n\nLighter said in its November 16 security incident report that an attacker exploited nonce reuse in unofficial signing code used by certain trading accounts to derive API",
+    "url": "https://x.com/WuBlockchain/status/2122411222125728203",
+    "images": [
+      "https://pbs.twimg.com/media/HXRRwLSaMAAP0ww.png"
     ],
     "video": null
   }
