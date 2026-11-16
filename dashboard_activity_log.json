@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794597131720-4c7esh",
-    "source": "x",
-    "ts": "2026-11-13T19:12:11.720Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-13T19:05:29.000Z",
-    "reason": "Potential new functionality and upgrades in the blockchain ecosystem.",
-    "text": "Cross-chain EVM transfers, RFQ tools, and the first groundwork for privacy. What else is in Veyra, the @injective upgrade that injective-protocol:native stakers are voting on right now? ⬇️",
-    "url": "https://x.com/BSCNews/status/2121318550581444910",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794597875640-lxliqy",
-    "source": "x",
-    "ts": "2026-11-13T19:24:35.641Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-13T19:16:07.000Z",
-    "reason": "Vague opinion without factual claim.",
-    "text": "Within a couple of quarters, it will be normal for work meetings to be with Bots.\n\nThis early beta gives a very rough glimpse. It will be great soon.",
-    "url": "https://x.com/elonmusk/status/2121323141347914196"
-  },
-  {
     "id": "x-1794597879317-irdb9v",
     "source": "x",
     "ts": "2026-11-13T19:24:39.317Z",
@@ -7717,6 +7688,43 @@
       "https://pbs.twimg.com/media/HXPoxXFbUAAUR6-.jpg",
       "https://pbs.twimg.com/media/HXPvMnEaUAAMeMj.png",
       "https://pbs.twimg.com/media/HXPvPQYa8AAAn4z.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794833538728-bip041",
+    "source": "x",
+    "ts": "2026-11-16T12:52:18.728Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T12:50:42.000Z",
+    "reason": "Specific institutional adoption and standardization in the crypto industry.",
+    "text": "🔥 JUST IN: Coinbase and Broadridge release open standard paving way for tokenized-stock voting.",
+    "url": "https://x.com/Cointelegraph/status/2122311398344568948",
+    "images": [
+      "https://pbs.twimg.com/media/HXP29xlW8AAKfxV.jpg",
+      "https://pbs.twimg.com/media/HXP2-AsXMAA9oDm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794833542436-qfq3ih",
+    "source": "x",
+    "ts": "2026-11-16T12:52:22.436Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-16T12:44:00.000Z",
+    "reason": "AI-powered token launches on a new blockchain layer.",
+    "text": "AI Agents Can Now Launch and Trade Tokens on Kaspa\n\nKForge (@KForge_xyz), a decentralized launchpad platform, has launched KForge 2.0 on the public testnet. It enables automated AI agents to launch and trade tokens natively on $KAS Layer-1.\n\nUsers can operate the agents via the",
+    "url": "https://x.com/BSCNews/status/2122309710561124494",
+    "images": [
+      "https://pbs.twimg.com/media/HXPnj4MWMAAMdxt.jpg"
     ],
     "video": null
   }
