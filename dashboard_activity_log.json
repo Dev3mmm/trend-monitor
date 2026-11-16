@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794557513247-vybq9z",
-    "source": "x",
-    "ts": "2026-11-13T08:11:53.247Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T08:10:41.000Z",
-    "reason": "No notable move, price is still within its recent range.",
-    "text": "🚨 UPDATE: Bitcoin slips to No. 14 among the world's largest assets as its market cap drops to $1.39T.\n\nIs more downside ahead?",
-    "url": "https://x.com/Cointelegraph/status/2121153765772255692"
-  },
-  {
     "id": "x-1794558131459-0an3f5",
     "source": "x",
     "ts": "2026-11-13T08:22:11.459Z",
@@ -7688,6 +7675,25 @@
     "url": "https://x.com/BSCNews/status/2122129029805609196",
     "images": [
       "https://pbs.twimg.com/media/HXNQGW2XwAAPyG3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794790901806-271a9g",
+    "source": "x",
+    "ts": "2026-11-16T01:01:41.806Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T01:00:50.000Z",
+    "reason": "Crypto exchange incident affecting client funds and token.",
+    "text": "🚨 UPDATE: Luxor says an AI-enabled attack on its Commander tool redirected bitcoin rigs from over a dozen client accounts to the OCEAN pool, and it will repay affected clients in full.",
+    "url": "https://x.com/Cointelegraph/status/2122132753499963697",
+    "images": [
+      "https://pbs.twimg.com/media/HXNUfKyXMAEra9c.png",
+      "https://pbs.twimg.com/media/HXNUfaAW4AAbzpV.jpg"
     ],
     "video": null
   }
