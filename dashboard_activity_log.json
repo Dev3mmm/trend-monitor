@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1794631922564-45aec5",
-    "source": "x",
-    "ts": "2026-11-14T04:52:02.564Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-14T04:45:00.000Z",
-    "reason": "The tweet refers to an event but no specific price or notable action is mentioned.",
-    "text": "AI Is the Top-Cited Risk to US Financial Stability, Fed Survey of Market Contacts Finds.\n\nThe Fed's November report, released Friday, says the 23 contacts polled by the New York Fed flagged elevated equity valuations, AI-enabled cyberattacks and complex AI-related financing,",
-    "url": "https://x.com/DecryptMedia/status/2121464390473933290",
-    "images": [
-      "https://pbs.twimg.com/media/HXCxeKwX0AAIdb9.png",
-      "https://pbs.twimg.com/media/HXCyo73WQAA8j1n.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794631925998-z8mzwe",
     "source": "x",
     "ts": "2026-11-14T04:52:05.998Z",
@@ -7767,5 +7748,23 @@
     "reason": "No notable move in ETH, price is within its recent range.",
     "text": "Though $ICP is certainly its own ecosystem, it doesn't live in a vacuum. Here's what you need to know about the relationship between @dfinity and @Ethereum... ⬇️",
     "url": "https://x.com/BSCNews/status/2122369856641376605"
+  },
+  {
+    "id": "x-1794848042705-jd81zh",
+    "source": "x",
+    "ts": "2026-11-16T16:54:02.705Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T16:50:41.000Z",
+    "reason": "Exploit involving stolen funds and potential laundering activity.",
+    "text": "🚨️️️️ ALERT: A Gnosis Safe wallet reportedly lost $6.45 million in a suspected exploit, including $4.3 million in $USDC and $1.7 million in $syrupUSDC, with the attacker spending approximately $813,000 on $XMR via Hyperliquid, according to PeckShieldAlert.",
+    "url": "https://x.com/Cointelegraph/status/2122371791809097734",
+    "images": [
+      "https://pbs.twimg.com/media/HXQt5XlXkAAa8hI.jpg"
+    ],
+    "video": null
   }
 ]
