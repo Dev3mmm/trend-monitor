@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794628935799-6htraj",
-    "source": "x",
-    "ts": "2026-11-14T04:02:15.799Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-14T03:55:00.000Z",
-    "reason": "No notable move or specific event is reported.",
-    "text": "🚨JUST IN: Mark Zuckerberg’s prediction market app has Meta staff wagering $0 on Tim Cook becoming Nvidia CEO.\n\nThe app, called “Takes”, is reportedly being tested inside Meta with points called “cred” and NO real money.\n\nPresident Trump has pushed former Apple CEO Tim Cook to",
-    "url": "https://x.com/coinbureau/status/2121451807520284997"
-  },
-  {
-    "id": "x-1794629524305-nksivs",
-    "source": "x",
-    "ts": "2026-11-14T04:12:04.305Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-14T04:08:39.000Z",
-    "reason": "The tweet cites specific and significant financial numbers related to the crypto market.",
-    "text": "🚨BREAKING: Bitcoin plunges below $67,000 as crypto liquidations reportedly top $300 MILLION in just three hours.\n\nSince October 1, the crypto market has wiped $700 BILLION in value.",
-    "url": "https://x.com/coinbureau/status/2121455242944618879",
-    "images": [
-      "https://pbs.twimg.com/media/HXDsFURbIAAEHgl.jpg",
-      "https://pbs.twimg.com/media/HXDsHl4aIAAtQ9m.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794629527028-ypkp9r",
-    "source": "x",
-    "ts": "2026-11-14T04:12:07.028Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-14T04:05:00.000Z",
-    "reason": "On-chain data point showing significant change in Stellar's TVL.",
-    "text": "Stellar's TVL drops -$74M in just over a month.\n\nOn October 1, TVL on @StellarOrg hit an all-time high of $272.84M.\n\nSince then, however, the figure has fallen by $73.97M (-27%) to a still impressive $198.87M at time of writing on November 13.\n\nIn brighter news, however,",
-    "url": "https://x.com/BSCNews/status/2121454324392018085",
-    "images": [
-      "https://pbs.twimg.com/media/HXAoXOvWEAATMJS.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794631350387-ttx9c1",
     "source": "x",
     "ts": "2026-11-14T04:42:30.387Z",
@@ -7770,5 +7720,52 @@
     "reason": "No notable move in Stellar TVL or stablecoin market cap is mentioned.",
     "text": "Stellar TVL slumps, but stablecoins keep growing.\n\n@StellarOrg's TVL is now around $80M down from all-time highs set in early October at around $273M.\n\nAt the same time higher, stablecoin supply on the chain has been steadily rising. \n\nThe stablecoin market cap of Stellar is up",
     "url": "https://x.com/BSCNews/status/2122362558862524752"
+  },
+  {
+    "id": "x-1794846815116-85lnx7",
+    "source": "x",
+    "ts": "2026-11-16T16:33:35.116Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T16:30:52.000Z",
+    "reason": "No notable move or specific action related to crypto.",
+    "text": "🚨️️️️ INSIGHT: Barclays has lowered its year-end 2027 target for the S&amp;P 500 to 8,700 from 8,800.",
+    "url": "https://x.com/Cointelegraph/status/2122366803905003599"
+  },
+  {
+    "id": "x-1794846819809-b7l2do",
+    "source": "x",
+    "ts": "2026-11-16T16:33:39.809Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 34,
+    "originTimestamp": "2026-11-16T15:59:14.000Z",
+    "reason": "Notable quote on Bitcoin's adoption in emerging markets by a respected institution.",
+    "text": "T. Rowe Price's (@TRowePrice_DA) Blue Macellari on Bitcoin in emerging markets:\n\n\"Those are economies and countries that very much embraced the idea of Bitcoin and the idea of a non-governmental hedge on money.\"\n\n\"It becomes a natural part of what for them is also a debasement",
+    "url": "https://x.com/BitcoinMagazine/status/2122366686888145200",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122358809670594561/vid/avc1/1280x720/nUoXMUBoA20QuhVp.mp4?tag=29",
+      "duration": 75,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122358809670594561/img/X1Okym7Ek32XKCYG.jpg"
+    }
+  },
+  {
+    "id": "x-1794846823419-66km0h",
+    "source": "x",
+    "ts": "2026-11-16T16:33:43.419Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T16:30:00.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": ".@Kinetiq_xyz co-founder @0xOmnia joins @Tyler_Did_It and @farokh to talk all things @Enter_Elysium and why he's shipping through the downturn.\n\n02:23 - Kinetiq, Markets and Elysium explained\n05:51 - Why a \"very, very underdeveloped\" HyperEVM inspired Elysium\n08:02 - Hyperliquid",
+    "url": "https://x.com/DecryptMedia/status/2122366587638587884"
   }
 ]
