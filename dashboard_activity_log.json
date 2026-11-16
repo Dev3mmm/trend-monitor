@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794597879317-irdb9v",
-    "source": "x",
-    "ts": "2026-11-13T19:24:39.317Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-13T19:20:42.000Z",
-    "reason": "Potential change in US Treasury leadership could affect crypto regulations.",
-    "text": "🇺🇸 NEW: White House economic adviser Kevin Hassett is expected to leave his role, with Treasury Secretary Scott Bessent being considered as his replacement, according to Semafor.",
-    "url": "https://x.com/Cointelegraph/status/2121322381155148157",
-    "images": [
-      "https://pbs.twimg.com/media/HXBzdQxW0AAQ6ki.jpg",
-      "https://pbs.twimg.com/media/HXBzdoZWsAAZu6b.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794597882841-rw9l4t",
-    "source": "x",
-    "ts": "2026-11-13T19:24:42.841Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-13T19:16:00.000Z",
-    "reason": "New institutional vault on Solana leveraging multiple crypto projects.",
-    "text": "Plume’s real-world yield is now inside Jupiter’s new vaults on Solana\n\n@JupiterExchange has launched Jupiter Vaults in beta on @solana, where outside managers run yield strategies for depositors. One of those strategies runs on @plumenetwork.\n\nIt is managed by @Re7Labs and earns",
-    "url": "https://x.com/BSCNews/status/2121321196847534190",
-    "images": [
-      "https://pbs.twimg.com/media/HXBvGEKW8AAjp2J.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794598335949-vyppvy",
-    "source": "x",
-    "ts": "2026-11-13T19:32:15.950Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-13T19:25:05.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🚨SCOOP: Kevin Hassett could LEAVE the White House as National Economic Council director in the coming weeks, Semafor reports, citing three sources.\n\nTwo potential replacements are being considered:\n- Treasury Secretary Scott Bessent, who could hold both jobs.\n\n- David Zervos, a",
-    "url": "https://x.com/coinbureau/status/2121323483108094382"
-  },
-  {
     "id": "x-1794598939953-i8qgby",
     "source": "x",
     "ts": "2026-11-13T19:42:19.953Z",
@@ -7727,5 +7677,50 @@
       "https://pbs.twimg.com/media/HXPnj4MWMAAMdxt.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794834188758-uamitn",
+    "source": "x",
+    "ts": "2026-11-16T13:03:08.758Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T13:00:00.000Z",
+    "reason": "No notable move in cryptocurrency prices or activity mentioned.",
+    "text": "China Says Xi Will Host Trump and Putin for a Three-Way Summit in Shenzhen on Nov. 19.\n\nChina's foreign ministry said at 8:22 PM EST (01:22 UTC) Sunday that President Xi Jinping will hold the China-Russia-US summit with Vladimir Putin and Donald Trump in the southern Chinese",
+    "url": "https://x.com/DecryptMedia/status/2122313738732843447"
+  },
+  {
+    "id": "x-1794834192645-wtblvt",
+    "source": "x",
+    "ts": "2026-11-16T13:03:12.645Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 111,
+    "originTimestamp": "2026-11-16T11:11:38.000Z",
+    "reason": "Security incident involving API key leak reported by Lighter.",
+    "text": "🚨 JUST IN: Lighter says its security incident stemmed from a trader's leaked API key, not a protocol breach. \n\nWithdrawals remain paused, with restoration targeted by end of today.",
+    "url": "https://x.com/Cointelegraph/status/2122313705463644631",
+    "images": [
+      "https://pbs.twimg.com/media/HXP5AvzbsAAcCAc.png",
+      "https://pbs.twimg.com/media/HXP5B1_aYAAZL8b.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794834195308-o90am5",
+    "source": "x",
+    "ts": "2026-11-16T13:03:15.308Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T12:59:47.000Z",
+    "reason": "No concrete price or event mentioned.",
+    "text": "Bitcoin CRASHES Below $63K, Nvidia CHAOS &amp; $1.3T AI IPO",
+    "url": "https://x.com/coinbureau/status/2122313682113703968"
   }
 ]
