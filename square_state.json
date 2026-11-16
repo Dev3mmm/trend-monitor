@@ -2560,7 +2560,8 @@
         "https://pbs.twimg.com/media/HXO7eS2WUAAZw88.png"
       ],
       "at": 1794819155040,
-      "status": "posting"
+      "status": "failed",
+      "error": "Uploading: sq_1794819155040_0.png\n\n\nFailed: S3 upload failed: 403 Forbidden"
     }
   ],
   "lastPostAt": 1794819155040
