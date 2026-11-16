@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794567756625-72gadb",
-    "source": "x",
-    "ts": "2026-11-13T11:02:36.625Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "CertiK Alert",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-13T10:53:25.000Z",
-    "reason": "Exploit leading to loss of USDG tokens.",
-    "text": "#CertiKInsight 🚨      \n\nOn 10 Nov, Arcus was exploited via an integer underflow, resulting in a loss of ~2.23M USDG.    \n\nRead our full analysis here👇  \n\n\nCertiK Report Security Dashboard 👇",
-    "url": "https://x.com/CertiKAlert/status/2121194717887217993",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794567761731-94djo7",
-    "source": "x",
-    "ts": "2026-11-13T11:02:41.731Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-13T10:52:39.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "This company predicted the Nvidia SCANDAL.\n\nAnd it’s BIGGER than the affair.\n\nSix months ago, Culper Research said it was SHORT $NVDA because Nvidia had a “China problem.”\n\nThat was a BOLD call against the world’s LARGEST company by market cap.\n\nNvidia actually ROSE that day,",
-    "url": "https://x.com/coinbureau/status/2121194526555447663"
-  },
-  {
     "id": "x-1794568371398-jeemck",
     "source": "x",
     "ts": "2026-11-13T11:12:51.398Z",
@@ -7681,5 +7652,37 @@
       "https://pbs.twimg.com/media/HXN6GTTbwAASLDp.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794801723812-545rpz",
+    "source": "x",
+    "ts": "2026-11-16T04:02:03.812Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T04:00:46.000Z",
+    "reason": "Nvidia shares mentioned as potentially rising due to a rumored comeback by Jensen Huang.",
+    "text": "🚨 NOW: Nvidia shares look set to bounce on reports of a possible Jensen Huang comeback, with its Hyperliquid perp up over 3% on Sunday, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2122178036434878547",
+    "images": [
+      "https://pbs.twimg.com/media/HXN9rAzWkAA3sF8.jpg",
+      "https://pbs.twimg.com/media/HXN9rVuXQAESMeT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794801726072-gk9jq1",
+    "source": "x",
+    "ts": "2026-11-16T04:02:06.072Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T04:00:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Murad Mahmudov: Only Two Types of Crypto Assets Have Value\n\nCrypto investor Murad Mahmudov @MustStopMurad  said at TOKEN2049 Singapore 2026 on October 16 that the market took eight years to embrace stores of value and revenue-generating tokens as crypto's only valuable assets. He",
+    "url": "https://x.com/WuBlockchain/status/2122177843719258234"
   }
 ]
