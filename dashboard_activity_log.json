@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794563551166-uxep7w",
-    "source": "x",
-    "ts": "2026-11-13T09:52:31.166Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T09:50:42.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "🇺🇸 UPDATE: US lawmakers give Jensen Huang until 8 PM ET today to accept a congressional interview or face a subpoena.",
-    "url": "https://x.com/Cointelegraph/status/2121178933504663910"
-  },
-  {
-    "id": "x-1794564169105-8q54s2",
-    "source": "x",
-    "ts": "2026-11-13T10:02:49.105Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-13T09:58:00.000Z",
-    "reason": "No notable move in the recent price range.",
-    "text": "Celestia (@celestia) hit several milestones over the past month...\n\nThe modular network moved into mid-November after major developments in data availability, AI agent payments, and market access.\n\nSome of the highlights include:\n\n[Oct 16] Celestia introduced Eden – a",
-    "url": "https://x.com/BSCNews/status/2121180771767779437"
-  },
-  {
-    "id": "x-1794564715500-mdpd41",
-    "source": "x",
-    "ts": "2026-11-13T10:11:55.500Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T10:10:42.000Z",
-    "reason": "Bitcoin hitting its 200-week moving average is considered a significant technical level and could signal a buying opportunity.",
-    "text": "🔥 UPDATE: Bitcoin hits its 200-week moving average near $68K, a historic buying opportunity, says Strive's Matt Cole.",
-    "url": "https://x.com/Cointelegraph/status/2121183970083619051",
-    "images": [
-      "https://pbs.twimg.com/media/HW_1k0CWQAASp9S.jpg",
-      "https://pbs.twimg.com/media/HW_1lCrWUAArKLq.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794565402531-c1r8bn",
     "source": "x",
     "ts": "2026-11-13T10:23:22.531Z",
@@ -7689,5 +7644,49 @@
       "https://pbs.twimg.com/media/HXNnoG2bgAAw6T1.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794796956754-3ckcn6",
+    "source": "x",
+    "ts": "2026-11-16T02:42:36.754Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 74,
+    "originTimestamp": "2026-11-16T01:28:45.000Z",
+    "reason": "Scammers targeting Pioneers with phishing sites.",
+    "text": "Dust transfers carrying fake price memos are landing in Pi Network (@PiCoreTeam) wallets, and the memos are bait 🚨\n\nScammers send tiny amounts of pi-network:native with a $314,159 price note attached, aiming to pull Pioneers onto phishing sites that steal their funds.\n\nDetails",
+    "url": "https://x.com/BSCNews/status/2122157095634039030",
+    "images": [
+      "https://pbs.twimg.com/media/HXNa4TzWUAAVQ6Q.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794796960301-r6ksok",
+    "source": "x",
+    "ts": "2026-11-16T02:42:40.301Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-16T02:35:00.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "Roughly 3.8 million POL tokens are now staked.\n\nWe dive into the most important elements about staking on @0xPolygon. The stuff you need to know ⬇️",
+    "url": "https://x.com/BSCNews/status/2122156450596434202"
+  },
+  {
+    "id": "x-1794796963971-dsv17v",
+    "source": "x",
+    "ts": "2026-11-16T02:42:43.971Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 31,
+    "originTimestamp": "2026-11-16T02:11:34.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15:\n\n“In our view, Flight 15 is a historic inflection moment for the company and spaceflight as a whole. SpaceX has recovered three Starship + many hundreds of Falcon 9 boosters in its history, and",
+    "url": "https://x.com/elonmusk/status/2122155781785346141"
   }
 ]
