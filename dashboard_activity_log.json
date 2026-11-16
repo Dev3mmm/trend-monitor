@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794559937695-71jtvg",
-    "source": "x",
-    "ts": "2026-11-13T08:52:17.695Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-13T08:45:41.000Z",
-    "reason": "No notable crypto-related content",
-    "text": "☕️\n\nAlways brew your coffee. \n\nDon't drink \"instant coffee\" sachets.\n\nBrew instead.\n\nIf coffee gives you palpitations, drink 2 glasses of water before coffee.\n\nDon't drink coffee after 1 PM.\n\nNo sugar. Drink it black. Hot. Smoky.",
-    "url": "https://x.com/amerix/status/2121162573751980499"
-  },
-  {
-    "id": "x-1794559941850-af6l6a",
-    "source": "x",
-    "ts": "2026-11-13T08:52:21.850Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-13T08:45:00.000Z",
-    "reason": "Nvidia stock tokenization on Uniswap and Monad.",
-    "text": "Monad And Uniswap Bring Nvidia Tokenized Stock Onchain\n\nTokenized equities are now live on Uniswap (@Uniswap) $UNI v4 on Monad (@monad) $MON. \n\nThe launch includes 10 markets from xStocks (@xStocksFi), covering NVDAx, TSLAx, SPYx and QQQx.\n\nThe development comes after Uniswap",
-    "url": "https://x.com/BSCNews/status/2121162400582033692",
-    "images": [
-      "https://pbs.twimg.com/media/HW_IM9Ca0AAdEMX.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794561123839-yq2g4z",
     "source": "x",
     "ts": "2026-11-13T09:12:03.839Z",
@@ -7689,5 +7658,37 @@
     "reason": "No factual claim or specific event mentioned.",
     "text": "I have a very wide distribution of training data",
     "url": "https://x.com/elonmusk/status/2122145276681220436"
+  },
+  {
+    "id": "x-1794794587767-xz5v04",
+    "source": "x",
+    "ts": "2026-11-16T02:03:07.767Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-16T02:00:49.000Z",
+    "reason": "Significant on-chain data point with notable price volatility.",
+    "text": "🚨 TODAY: $ASTER surged nearly 29% to $0.71 in under an hour, then crashed 32% to $0.48 in just 16 minutes.\n\nNow it sits near $0.50.",
+    "url": "https://x.com/Cointelegraph/status/2122147849697710486",
+    "images": [
+      "https://pbs.twimg.com/media/HXNiN65WEAENT9e.jpg",
+      "https://pbs.twimg.com/media/HXNiOLIWYAAFapY.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794794590550-h6grnd",
+    "source": "x",
+    "ts": "2026-11-16T02:03:10.550Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-16T01:54:53.000Z",
+    "reason": "Noise: generic hype without real content.",
+    "text": "Say no to crack",
+    "url": "https://x.com/elonmusk/status/2122146355074232469"
   }
 ]
