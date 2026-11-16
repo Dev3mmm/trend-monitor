@@ -1,90 +1,5 @@
 [
   {
-    "id": "x-1794623599391-eg62ka",
-    "source": "x",
-    "ts": "2026-11-14T02:33:19.391Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T02:30:42.000Z",
-    "reason": "Vague opinion without factual claim",
-    "text": "⚡️ QUESTION: The year is 2024, what would you do differently?",
-    "url": "https://x.com/Cointelegraph/status/2121430593401413681"
-  },
-  {
-    "id": "x-1794623603304-duczjl",
-    "source": "x",
-    "ts": "2026-11-14T02:33:23.304Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-14T02:30:00.000Z",
-    "reason": "Notable bank adoption of a crypto product.",
-    "text": "Google Opens Gemini's Wallet Connection to All US Gemini App Users, With Optional Plaid Links.\n\nThe connection is opt-in and read-only, so Gemini \"can't move, manage, or invest your money,\" and it is rolling out Nov. 13 on the web and in the Gemini app for Android and iOS.",
-    "url": "https://x.com/DecryptMedia/status/2121430418130173959",
-    "images": [
-      "https://pbs.twimg.com/media/HXByhXlXUAA2UQU.png",
-      "https://pbs.twimg.com/media/HXByjCXXEAArUoU.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794623606848-t3mu44",
-    "source": "x",
-    "ts": "2026-11-14T02:33:26.848Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Elon Musk",
-    "ageMin": 74,
-    "originTimestamp": "2026-11-14T01:19:31.000Z",
-    "reason": "Not a crypto-related event.",
-    "text": "Altimeter and Atreides together hold more than $25B in assets.\n\nElon and the founders of Uber, Shopify, Replit, and Vercel have all posted in support of Jensen’s reinstatement at @nvidia.\n\nSo, this has only begun. Anti-Jensen board members will likely face escalating pressure",
-    "url": "https://x.com/elonmusk/status/2121430250877788286",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794625365561-tdr7ph",
-    "source": "x",
-    "ts": "2026-11-14T03:02:45.562Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-14T02:54:00.000Z",
-    "reason": "New milestone in unique holder count for Shiba Inu token approaching 1.7 million wallets.",
-    "text": "1,000 holders to go...\n\nAccording to data from @etherscan, @Shibtoken is just inches from hitting 1.7M unique holder wallet addresses.\n\nAt time of writing, there are exactly 1,698,989 non-empty $SHIB wallets on @Ethereum, meaning the milestone is only 1,011 holders away.\n\nEven in",
-    "url": "https://x.com/BSCNews/status/2121436456371769595",
-    "images": [
-      "https://pbs.twimg.com/media/HXAoS9MW8AAbwFn.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794626578705-aw596r",
-    "source": "x",
-    "ts": "2026-11-14T03:22:58.705Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-14T03:12:51.000Z",
-    "reason": "Polkadot's focus shift to a stablecoin is notable institutional move.",
-    "text": "Polkadot Plans dotUSD, a DOT-Backed Stablecoin Pegged to the U.S. Dollar\n\nThe Polkadot Community Foundation (PCF) said its proposed strategy passed an onchain governance referendum on November 11 with 97% support. Polkadot will shift its focus from building infrastructure to",
-    "url": "https://x.com/WuBlockchain/status/2121441203237404854",
-    "images": [
-      "https://pbs.twimg.com/media/HXDfgPBaYAAlBu3.jpg",
-      "https://pbs.twimg.com/media/HXDfhQ4aMAAOFxL.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794627723666-tibst3",
     "source": "x",
     "ts": "2026-11-14T03:42:03.666Z",
@@ -7765,5 +7680,92 @@
     "url": "https://x.com/PhyrexNi/status/2122357774432768285",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794845635395-kmyaky",
+    "source": "x",
+    "ts": "2026-11-16T16:13:55.395Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-16T16:12:45.000Z",
+    "reason": "Notable institutional move with potential impact on crypto markets.",
+    "text": "DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral",
+    "url": "https://x.com/DecryptMedia/status/2122362244432310286",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794845638700-9ny5dv",
+    "source": "x",
+    "ts": "2026-11-16T16:13:58.700Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T16:10:43.000Z",
+    "reason": "BitMine significantly increased its Ethereum holdings.",
+    "text": "🔥 UPDATE: BitMine buys another 7,653 $ETH, pushing its holdings to 6,077,745 $ETH or 4.97% of Ethereum's supply.",
+    "url": "https://x.com/Cointelegraph/status/2122361732567830656",
+    "images": [
+      "https://pbs.twimg.com/media/HXQkveGXgAI8Lcf.jpg",
+      "https://pbs.twimg.com/media/HXQkv3ZXUAALAMY.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794845644083-loq2v7",
+    "source": "x",
+    "ts": "2026-11-16T16:14:04.083Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T16:10:31.000Z",
+    "reason": "Uniswap and Robinhood involvement suggests institutional interest, but no specific newsworthy action taken.",
+    "text": "🚀 $POOLZ is preparing for its November 17th debut, alongside the rollout of Poolz Pad 2.0!\n\n@PoolzPad is introducing a new chapter for its launchpad ecosystem, with the token scheduled to launch on @Uniswap v4 via @RobinhoodApp .\n\nThe announced launch structure:\n• $400K initial",
+    "url": "https://x.com/BSCNews/status/2122361682684985721",
+    "images": [
+      "https://pbs.twimg.com/media/HXQkb-sXkAE1VTG.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794845647274-mfpgwe",
+    "source": "x",
+    "ts": "2026-11-16T16:14:07.274Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-16T16:10:28.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Over the past two weeks, Canton Network (@CantonNetwork) has been busy, securing major tokenization wins for institutional partners, achieving regulatory clarity for Canton Coin, and launching developer tools.\n\nHere is the list of notable events:\n\n[Oct 13] Derivnex introduced the",
+    "url": "https://x.com/BSCNews/status/2122361668671832342"
+  },
+  {
+    "id": "x-1794845651587-rf03oo",
+    "source": "x",
+    "ts": "2026-11-16T16:14:11.587Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "Bitcoin Magazine",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-16T16:07:33.000Z",
+    "reason": "Morgan Stanley's significant increase in Bitcoin ETF holdings is notable regulatory and institutional activity.",
+    "text": "JUST IN: Morgan Stanley increased their IBIT Bitcoin ETF holdings by 18%, now totaling $924 million 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2122360937680351232",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122360900266913792/vid/avc1/1280x720/AviQKWGxf23dTUuF.mp4?tag=29",
+      "duration": 19,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HXQkF25XIAAdqNE.jpg"
+    }
   }
 ]
