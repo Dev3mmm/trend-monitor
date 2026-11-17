@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1793484128304-xsqn00",
-    "x-1793484130261-1x1u5n",
     "x-1793487886360-mij33l",
     "x-1793489536920-xfdorv",
     "x-1793493136305-oz1df0",
@@ -1999,18 +1997,11 @@
     "x-1794902765897-euexkh",
     "x-1794902773374-hw0glu",
     "x-1794904352042-6wd8e6",
-    "x-1794904943336-zud6wv"
+    "x-1794904943336-zud6wv",
+    "x-1794906174713-pxqutx",
+    "x-1794906178145-2gwqjy"
   ],
   "queue": [
-    {
-      "text": "Next up on the #BinanceBlockchainWeek speaker lineup: Shaun Tan.\n\nAdding his perspective to the conversation on blockchain, fintech, and the future of finance.\n\n📍 Bangkok | Nov 28–29",
-      "url": "https://x.com/binance/status/2122601482511917261",
-      "images": [
-        "https://pbs.twimg.com/media/HXT-yRpXYAAjGKH.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794902779327
-    },
     {
       "text": "🚨 UPDATE: Binance's He Yi says law enforcement, not Binance, controls account freezes. \n\nFrozen funds remain untouched unless courts authorize their transfer.",
       "url": "https://x.com/Cointelegraph/status/2122610921096818759",
@@ -2020,6 +2011,15 @@
       ],
       "video": null,
       "enqueuedAt": 1794904943849
+    },
+    {
+      "text": "🔥 UPDATE: Trust Wallet now labels exchange deposit addresses, helping users verify destinations before sending.",
+      "url": "https://x.com/Cointelegraph/status/2122616050193740211",
+      "images": [
+        "https://pbs.twimg.com/media/HXUMDGkWsAAnoqE.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1794906182332
     }
   ],
   "posted": [
@@ -2729,7 +2729,16 @@
       "at": 1794904354512,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389173922433981?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "Next up on the #BinanceBlockchainWeek speaker lineup: Shaun Tan.\n\nAdding his perspective to the conversation on blockchain, fintech, and the future of finance.\n\n📍 Bangkok | Nov 28–29",
+      "final": "Next up on the #BinanceBlockchainWeek speaker lineup: Shaun Tan.\n\nAdding his perspective to the conversation on blockchain, fintech, and the future of finance.\n\n📍 Bangkok | Nov 28–29\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HXT-yRpXYAAjGKH.jpg"
+      ],
+      "at": 1794906182332,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794904354512
+  "lastPostAt": 1794906182332
 }
