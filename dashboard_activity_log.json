@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1794827728569-n6xmc5",
-    "source": "x",
-    "ts": "2026-11-16T11:15:28.569Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-16T11:10:54.000Z",
-    "reason": "Suspected user account drain and temporary suspension of withdrawals and liquidity.",
-    "text": "Lighter Suspected of User Account Drains; Temporarily Suspends Withdrawals and Liquidity Pool Creation\n\nLighter said it is investigating a suspected security incident involving the compromise of a single external party and has temporarily suspended all withdrawals and liquidity",
-    "url": "https://x.com/WuBlockchain/status/2122286282734973246",
-    "images": [
-      "https://pbs.twimg.com/media/HXPfKFFaAAAxU8h.jpg",
-      "https://pbs.twimg.com/media/HXPfWjVaoAALgrG.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794827732233-qpvyuk",
-    "source": "x",
-    "ts": "2026-11-16T11:15:32.233Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 55,
-    "originTimestamp": "2026-11-16T10:20:00.000Z",
-    "reason": "Notable institutional adoption of a stablecoin and protocol upgrade announcement.",
-    "text": "Solana Drops \"Beta\" Label From Mainnet, Introduces Solana 1.0.\n\nSolana said Monday it is retiring the \"mainnet-beta\" label in favor of \"mainnet\" and adding a shared protocol version, Solana 1.0.",
-    "url": "https://x.com/DecryptMedia/status/2122285810024100288",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794827734758-3i1mug",
-    "source": "x",
-    "ts": "2026-11-16T11:15:34.758Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 17,
-    "originTimestamp": "2026-11-16T10:58:15.000Z",
-    "reason": "No notable move or news value presented.",
-    "text": "Safaricom agent can't even get my name right.\n\nSomething is fundamentally wrong at Safaricom.",
-    "url": "https://x.com/amerix/status/2122284783258554545"
-  },
-  {
     "id": "x-1794827738497-5myi6j",
     "source": "x",
     "ts": "2026-11-16T11:15:38.497Z",
@@ -7959,5 +7911,49 @@
     "url": "https://x.com/DecryptMedia/status/2122808812411232659",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794952996124-v15ida",
+    "source": "x",
+    "ts": "2026-11-17T22:03:16.125Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T22:02:00.000Z",
+    "reason": "Notable institutional investment into stablecoin ecosystem.",
+    "text": "Meet Tether's latest big investment play...\n\n@Tether has announced a strategic investment into @stables_money - a payments company focused on the institutional adoption of $USDT in markets like Asia and The Middle East.\n\nStables, through a single API, allows business to connect",
+    "url": "https://x.com/BSCNews/status/2122812524127195418",
+    "images": [
+      "https://pbs.twimg.com/media/HXWL0jsW8AAfbSj.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794952999875-92c3vw",
+    "source": "x",
+    "ts": "2026-11-17T22:03:19.875Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-17T21:58:05.000Z",
+    "reason": "No notable move in crypto related information.",
+    "text": "穆巴达拉作为阿布扎比政府的主权财富基金，2025 年底管理约 3,850 亿美元。\n\n9 月底和旗下的阿布扎比投资委员会各自持有的贝莱德 $IBIT 份额都和 6 月底一样，合计约 2,294 万份，两家的持仓市值从 7.64 亿美元升到了8.37 亿美元。",
+    "url": "https://x.com/PhyrexNi/status/2122811538197393648"
+  },
+  {
+    "id": "x-1794953002041-8becyy",
+    "source": "x",
+    "ts": "2026-11-17T22:03:22.041Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 83,
+    "originTimestamp": "2026-11-17T20:39:52.000Z",
+    "reason": "Noise: generic tweet without substantive content.",
+    "text": "🤦‍♂️",
+    "url": "https://x.com/elonmusk/status/2122810772967575759"
   }
 ]
