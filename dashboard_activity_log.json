@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794720764361-v9el0a",
-    "source": "x",
-    "ts": "2026-11-15T05:32:44.361Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-15T05:30:46.000Z",
-    "reason": "Notable regulatory and technological innovation by the Czech National Bank.",
-    "text": "🇨🇿 NEW: The Czech National Bank just issued its first bonds on a blockchain ledger, after already testing $BTC in its portfolio.",
-    "url": "https://x.com/Cointelegraph/status/2121838297794179191",
-    "images": [
-      "https://pbs.twimg.com/media/HXJIrq6XsAA9OqQ.jpg",
-      "https://pbs.twimg.com/media/HXJIr5_WYAAml-l.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794722583643-jrv50j",
-    "source": "x",
-    "ts": "2026-11-15T06:03:03.643Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-15T06:00:01.000Z",
-    "reason": "Notable financial move and transparency from Tether regarding fee generation.",
-    "text": "Want to know how much money Tether has made...?\n\nAccording to data from DefiLlama, @Tether has generated an insane $20.55 BILLION in cumulative fees - around $117 million in the past week alone.\n\nUnlike DeFi protocols, Tether derives its income from the yield on assets backing",
-    "url": "https://x.com/BSCNews/status/2121845657208037630",
-    "images": [
-      "https://pbs.twimg.com/media/HXAzSJEXsAA0aMf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794722585659-vy5ehp",
     "source": "x",
     "ts": "2026-11-15T06:03:05.659Z",
@@ -7969,6 +7932,43 @@
     "text": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
     "url": "https://x.com/DecryptMedia/status/2122616672494264805",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794907378678-sdqzfx",
+    "source": "x",
+    "ts": "2026-11-17T09:22:58.678Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T09:20:54.000Z",
+    "reason": "Ethereum attacker transfers significant funds, posing ongoing risk.",
+    "text": "🔥 UPDATE: Binance attacker transfers 74,881 $ETH ($137M) across addresses; $1.19B in $BTC and $1.16B in $ETH remain unlaundered.",
+    "url": "https://x.com/Cointelegraph/status/2122620988483350841",
+    "images": [
+      "https://pbs.twimg.com/media/HXUQiUpX0AAGa2V.jpg",
+      "https://pbs.twimg.com/media/HXUQikAXoAA2Gj1.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794907383874-k5am75",
+    "source": "x",
+    "ts": "2026-11-17T09:23:03.874Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-17T09:17:55.000Z",
+    "reason": "HardKAS Devs are developing a new security feature for Kaspa smart contracts.",
+    "text": "Kaspa Smart Contracts Might Soon Get a New Line of Defense Against Bugs\n\nHardKAS Devs (@HardKASOfficial) is building a local environment where Kaspa (@kaspaunchained) $KAS developers can test transactions and smart contracts with valueless coins.\n\nIts latest release, HardKAS",
+    "url": "https://x.com/BSCNews/status/2122620235580833976",
+    "images": [
+      "https://pbs.twimg.com/media/HXT2ZjVbwAAApdQ.png"
+    ],
     "video": null
   }
 ]
