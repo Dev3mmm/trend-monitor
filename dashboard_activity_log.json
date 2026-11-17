@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794752563084-ybaawy",
-    "source": "x",
-    "ts": "2026-11-15T14:22:43.084Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-15T14:14:28.000Z",
-    "reason": "Potential insider information or significant upcoming announcement hinted at by Saylor.",
-    "text": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀    \n\n\"This dip could use a little orange.\" 🟠",
-    "url": "https://x.com/BitcoinMagazine/status/2121970089947750785",
-    "images": [
-      "https://pbs.twimg.com/media/HXLAjNLXUAAe5iy.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794753153402-b59xe3",
     "source": "x",
     "ts": "2026-11-15T14:32:33.402Z",
@@ -7979,5 +7961,24 @@
     "reason": "No notable move or event described, only a general announcement.",
     "text": "So, what's happening at #BinanceBlockchainWeek?\n\nWe've got the agenda ready. Take a look at the sessions, speakers, and conversations coming your way.\n\nHere's what to expect 👇",
     "url": "https://x.com/binance/status/2122661821400207629"
+  },
+  {
+    "id": "x-1794918138236-9034pp",
+    "source": "x",
+    "ts": "2026-11-17T12:22:18.236Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T12:20:54.000Z",
+    "reason": "Asset compromise event with potential security risk",
+    "text": "🚨 UPDATE: Aster user loses assets after API wallet private key compromise; team investigates.\n\nAster urges users to delete compromised API wallets.",
+    "url": "https://x.com/Cointelegraph/status/2122666287239156191",
+    "images": [
+      "https://pbs.twimg.com/media/HXU5vAYXoAA5fC7.png",
+      "https://pbs.twimg.com/media/HXU5vPNXQAAje8l.png"
+    ],
+    "video": null
   }
 ]
