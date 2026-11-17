@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794586919641-71d86x",
-    "source": "x",
-    "ts": "2026-11-13T16:21:59.642Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-13T16:20:42.000Z",
-    "reason": "Notable use of a stablecoin on a new blockchain platform.",
-    "text": "🔥 TODAY: Circle minted 500M $USDC on Solana.",
-    "url": "https://x.com/Cointelegraph/status/2121277081543737606",
-    "images": [
-      "https://pbs.twimg.com/media/HXBKQofWYAABE28.jpg",
-      "https://pbs.twimg.com/media/HXBKQ4UWYAAADiO.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794586923014-r2zb8q",
-    "source": "x",
-    "ts": "2026-11-13T16:22:03.014Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-13T16:13:00.000Z",
-    "reason": "ETF facing significant outflows and lack of activity.",
-    "text": "Bitwise's $NEAR ETF faces a difficult period.\n\n@Bitwise's spot @NEARProtocol ETF (which launched in late September) has now not seen a single day of net positive activity since October 26.\n\nSince then, it has seen four days of net outflows and nine days of $0 activity.",
-    "url": "https://x.com/BSCNews/status/2121275143481864440",
-    "images": [
-      "https://pbs.twimg.com/media/HXAnBfgWAAAx93X.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794828375405-b5xa67",
     "source": "x",
     "ts": "2026-11-16T11:26:15.405Z",
@@ -7936,5 +7899,36 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "⚡️ INSIGHT: Bitcoin $BTC continued falling despite weeks of strong buy-side liquidity, but a reversal in aggressive selling could trigger a sharp rebound, per Glassnode.",
     "url": "https://x.com/Cointelegraph/status/2122829827933601841"
+  },
+  {
+    "id": "x-1794957775243-pvs0ww",
+    "source": "x",
+    "ts": "2026-11-17T23:22:55.243Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-17T23:17:15.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+    "url": "https://x.com/DecryptMedia/status/2122831460860063749"
+  },
+  {
+    "id": "x-1794957779213-3ku3w7",
+    "source": "x",
+    "ts": "2026-11-17T23:22:59.213Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-17T23:16:00.000Z",
+    "reason": "Notable ETH exploit or potential flash crash event.",
+    "text": "Is someone dumping $162 MILLION worth of $ETH ?!\n\nAccording to a data report from @whale_alert, one wallet address has just sent a crushing 90,500 $ETH, worth ~$162.5M to @Binance.\n\nThis is not looking good... \n\nMore Ethereum news:",
+    "url": "https://x.com/BSCNews/status/2122831146287317293",
+    "images": [
+      "https://pbs.twimg.com/media/HXVCeeVXYAADCNe.jpg"
+    ],
+    "video": null
   }
 ]
