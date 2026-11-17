@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794828197270-8paupb",
-    "source": "x",
-    "ts": "2026-11-16T11:23:17.270Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-16T11:22:41.000Z",
-    "reason": "Notable regulatory change affecting the global stablecoin market.",
-    "text": "Nigeria's New Crypto Rules Could Change The Global Stablecoin Market\n\nThe country now requires foreign stablecoin issuers to establish licensed local entities, with minimum capital of ₦15 billion.\n\nFind out more 👇",
-    "url": "https://x.com/BSCNews/status/2122289247361397011",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794828200236-3pegwu",
-    "source": "x",
-    "ts": "2026-11-16T11:23:20.236Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-16T11:11:38.000Z",
-    "reason": "Suspected hacker activity involving stolen funds.",
-    "text": "🚨 UPDATE: Suspected Lighter attacker reportedly moving stolen funds to Hyperliquid to buy monero:native.",
-    "url": "https://x.com/Cointelegraph/status/2122289158450512357",
-    "images": [
-      "https://pbs.twimg.com/media/HXPiAIhaEAAEt1S.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794828204869-7f44v4",
     "source": "x",
     "ts": "2026-11-16T11:23:24.869Z",
@@ -7940,6 +7906,41 @@
     "text": "🚨 UPDATE: Nvidia’s board will not reinstate Jensen Huang as CEO, according to the company’s chairman.",
     "url": "https://x.com/Cointelegraph/status/2122815762284876252",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794954970006-uxt9fw",
+    "source": "x",
+    "ts": "2026-11-17T22:36:10.006Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-17T22:30:35.000Z",
+    "reason": "Exploit of API keys leading to a significant loss of funds.",
+    "text": "🚨 ALERT: Over $10 million was siphoned from decentralized exchange Lighter using compromised API keys, exposing security risks beyond smart contract vulnerabilities and withdrawal controls.0",
+    "url": "https://x.com/Cointelegraph/status/2122819717836529816",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794955093228-joz8su",
+    "source": "x",
+    "ts": "2026-11-17T22:38:13.228Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-17T22:27:20.000Z",
+    "reason": "Notable institutional Bitcoin ETF holding increase",
+    "text": "NEW: 🇺🇸 Susquehanna International Group disclosed owning ~$622 million in Bitcoin ETFs in Q3. 👀\n\nThis triples their reported ~$200 million in the previous quarter 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2122818898126856594",
+    "images": [
+      "https://pbs.twimg.com/media/HXXEiV6W8AEvAzO.png",
+      "https://pbs.twimg.com/media/HXXEiWHX0AAp1zd.jpg"
+    ],
     "video": null
   }
 ]
