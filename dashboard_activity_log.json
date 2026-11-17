@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1794777716371-1g1kh3",
-    "source": "x",
-    "ts": "2026-11-15T21:21:56.371Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-15T21:13:32.000Z",
-    "reason": "The tweet mentions specific events that could influence crypto prices, but no new concrete information is provided.",
-    "text": "CZ Says Binance Didn't Sell Crypto and He Bought Some in the Past Few Days.\n\nIn a recent post, Binance's founder listed the Anthropic IPO, $1.9 billion in spot Bitcoin ETF outflows, security incidents, inflation and the midterms as potential reasons for falling crypto prices,",
-    "url": "https://x.com/DecryptMedia/status/2122075552974770215",
-    "images": [
-      "https://pbs.twimg.com/media/HXMgJ3sX0AACZu8.jpg",
-      "https://pbs.twimg.com/media/HXMgcFXXgAAG1Tk.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794778368705-yh330w",
-    "source": "x",
-    "ts": "2026-11-15T21:32:48.705Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-15T21:30:46.000Z",
-    "reason": "Treasury Secretary recommends significant change at Nvidia CEO position.",
-    "text": "🇺🇸 JUST IN: Treasury Secretary Bessent says Nvidia needs \"significant change\" at the top and should bring in an outsider as CEO.\n\nHe's giving the board 10 days to respond on export compliance.",
-    "url": "https://x.com/Cointelegraph/status/2122079886969860495",
-    "images": [
-      "https://pbs.twimg.com/media/HXMkaBWXEAA1veD.jpg",
-      "https://pbs.twimg.com/media/HXMkaMgXwAEKT6w.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794778372042-adzsy2",
-    "source": "x",
-    "ts": "2026-11-15T21:32:52.042Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-15T21:30:00.000Z",
-    "reason": "Mining firm's hash redirection incident and response.",
-    "text": "Luxor Says Client Hashrate Was Redirected Without Authorization Through Its Commander Tool, Pledges Full Compensation.\n\nThe mining firm said the redirect hit \"just over a dozen client accounts\" and was patched within two hours, while its CEO blamed \"a sophisticated AI-enabled",
-    "url": "https://x.com/DecryptMedia/status/2122079695445295517",
-    "images": [
-      "https://pbs.twimg.com/media/HXMhrIQXQAEa8tV.png",
-      "https://pbs.twimg.com/media/HXMieamXcAAgwsZ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794778941047-7v5yu4",
     "source": "x",
     "ts": "2026-11-15T21:42:21.047Z",
@@ -7987,5 +7930,57 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "NVDA Earnings, Anthropic IPO Preview, Cyber Attack Week &amp; State of Crypto",
     "url": "https://x.com/DecryptMedia/status/2122707634578956677"
+  },
+  {
+    "id": "x-1794928931918-lb13xy",
+    "source": "x",
+    "ts": "2026-11-17T15:22:11.918Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-17T15:15:00.000Z",
+    "reason": "Notable regulatory and technological advancement in crypto derivatives market.",
+    "text": "BIG: @Backpack just secured CFTC approval to run a US derivatives exchange and clearinghouse (DCM + DCO).\n\nIt's being billed as the first blockchain-based US derivatives platform to hold both licenses, with 24/7 perps on a single global order book.",
+    "url": "https://x.com/BSCNews/status/2122710099236147309",
+    "images": [
+      "https://pbs.twimg.com/media/HXVhXUXWwAAxekf.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794928936828-cgq00b",
+    "source": "x",
+    "ts": "2026-11-17T15:22:16.828Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-17T15:13:20.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🎥 The biggest threat to DeFi might not be smart contracts.\n\nAndrew O’Neill of S&amp;P Global Ratings explains why the people and systems behind DeFi can pose bigger security risks than the code itself.\n\nCan DeFi become safer without sacrificing decentralization?\n\nWatch the full",
+    "url": "https://x.com/Cointelegraph/status/2122709679168245790"
+  },
+  {
+    "id": "x-1794928942077-xbiezk",
+    "source": "x",
+    "ts": "2026-11-17T15:22:22.077Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-17T15:12:27.000Z",
+    "reason": "Noteworthy institutional investment in Bitcoin ETFs.",
+    "text": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs took in $7.9 million in net inflows yesterday, snapping a 7-day streak of outflows. 👀\n\nBlackRock's IBIT led the buying with $76.5 million in net inflows 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2122709459633934691",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122708663877959680/vid/avc1/1280x720/93D9iaJa5QnD4hNM.mp4?tag=29",
+      "duration": 25,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HXVhEFZWQAAEfQ4.jpg"
+    }
   }
 ]
