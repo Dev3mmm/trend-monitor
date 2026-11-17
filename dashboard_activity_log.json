@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1794753153402-b59xe3",
-    "source": "x",
-    "ts": "2026-11-15T14:32:33.402Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-15T14:30:44.000Z",
-    "reason": "Significant change in BTC wallet distribution.",
-    "text": "🔥 INTERESTING: The number of wallets with over 100 $BTC increased by 890 just in 2026.",
-    "url": "https://x.com/Cointelegraph/status/2121974185211658363",
-    "images": [
-      "https://pbs.twimg.com/media/HXLERePWwAAwTui.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794753157101-q2ncry",
-    "source": "x",
-    "ts": "2026-11-15T14:32:37.101Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-15T14:30:35.000Z",
-    "reason": "Significant hashrate loss affecting Bitcoin security.",
-    "text": "64,000 Bitcoin Mining Machines Hijacked, Redirecting 13 EH/s to OCEAN Pool  \n\nBitcoin News reported that approximately 64,000 Bitcoin mining machines, representing about 13 EH/s of hashrate, were hijacked around 20:00 U.S. Central Time on November 14. The attackers redirected the",
-    "url": "https://x.com/WuBlockchain/status/2121974145588379665",
-    "images": [
-      "https://pbs.twimg.com/media/HXLEKnUboAESFcj.jpg",
-      "https://pbs.twimg.com/media/HXLEO1DaoAAPATC.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794754331292-ms1oxr",
-    "source": "x",
-    "ts": "2026-11-15T14:52:11.292Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-15T14:49:00.000Z",
-    "reason": "CLARITY Act failure highlights potential regulatory obstacles for crypto.",
-    "text": "Is The CLARITY Act completely dead...? \n\nThe short answer is \"Yes, for now\".\n\nIn September, the bill failed a procedural cloture vote in the US Senate 49–50, falling short of the 60 votes required to advance.\n\nInitially, there was some hope that the bill could go again, but the",
-    "url": "https://x.com/BSCNews/status/2121978780323369030",
-    "images": [
-      "https://pbs.twimg.com/media/HXKD4nbWcAAj80o.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794754335024-pq2v6g",
     "source": "x",
     "ts": "2026-11-15T14:52:15.024Z",
@@ -7980,5 +7925,50 @@
       "https://pbs.twimg.com/media/HXU5vPNXQAAje8l.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794918730076-4wwmvv",
+    "source": "x",
+    "ts": "2026-11-17T12:32:10.076Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T12:30:01.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Google Says Hackers Used AI To Fully Automate Finding And Exploiting Software Flaws For The First Time.\n\nGoogle's Threat Intelligence Group said it found the framework, dubbed exploit_agent, on an exposed staging server.",
+    "url": "https://x.com/DecryptMedia/status/2122668579610849711"
+  },
+  {
+    "id": "x-1794918733351-4o098g",
+    "source": "x",
+    "ts": "2026-11-17T12:32:13.351Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-17T12:25:33.000Z",
+    "reason": "Jim Simons' Renaissance Technologies made a significant and notable move by drastically reducing its Nvidia stake.",
+    "text": "This is one of the BIGGEST Nvidia dumps of 2026.\n\nJim Simons' Renaissance Technologies just cut its Nvidia $NVDA stake by 99.7%, from 7.09 million shares to just 23,170.\n\nCompared to last quarter, when the fund nearly TRIPLED its $NVDA position and made it its #1 holding, this is",
+    "url": "https://x.com/coinbureau/status/2122667457521557872",
+    "images": [
+      "https://pbs.twimg.com/media/HXU3NSVawAASurt.jpg",
+      "https://pbs.twimg.com/media/HXU6B8vacAAKIRG.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794918735319-9nt79e",
+    "source": "x",
+    "ts": "2026-11-17T12:32:15.319Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-17T12:22:00.000Z",
+    "reason": "No notable move, price is likely within its recent range.",
+    "text": "Less than 3 hours before the Pi Network (@PiCoreTeam) first ecosystem summit, Pioneers expect key updates. \n\nFind out what the $PI ecosystem summit is. 🔽",
+    "url": "https://x.com/BSCNews/status/2122666561819349463"
   }
 ]
