@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794815510272-wdah16",
-    "source": "x",
-    "ts": "2026-11-16T07:51:50.272Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-16T07:51:20.000Z",
-    "reason": "Price mention outside recent range suggests a potential significant move.",
-    "text": "🚨 UPDATE: Binance's Yi He says the pullback is temporary; spot traders shouldn't worry.\n\nHer shared panel reveals shrinking positions of $97.32M.",
-    "url": "https://x.com/Cointelegraph/status/2122236059576676820",
-    "images": [
-      "https://pbs.twimg.com/media/HXOycvSWAAALEFk.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794816116031-d22ubm",
-    "source": "x",
-    "ts": "2026-11-16T08:01:56.031Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-16T07:57:21.000Z",
-    "reason": "No notable move or specific event is described, just a vague sentiment statement.",
-    "text": "Hoskinson Says Cardano Holders Will Be Happy Next Year\n\nCardano (@cardano) founder Charles Hoskinson (@IOHK_Charles) has offered a hopeful message to $ADA holders.\n\n\"It's all going to be ok. Everyone will be happy next year...,\" he said in response to a concerned investor on X.",
-    "url": "https://x.com/BSCNews/status/2122237571631833341"
-  },
-  {
     "id": "x-1794816715605-h1bu29",
     "source": "x",
     "ts": "2026-11-16T08:11:55.605Z",
@@ -7985,5 +7954,36 @@
       "https://pbs.twimg.com/media/HXWTdS8WAAAsXcm.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794942725775-vf5bfw",
+    "source": "x",
+    "ts": "2026-11-17T19:12:05.775Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T19:10:54.000Z",
+    "reason": "The tweet is noise as it lacks specific and actionable information.",
+    "text": "🚨 JUST IN: Charles Schwab’s website is reportedly down, with the U.S. brokerage managing approximately $13 trillion in client assets.",
+    "url": "https://x.com/Cointelegraph/status/2122769463963443580",
+    "images": [
+      "https://pbs.twimg.com/media/HXWXk5LW8AAXdRk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794942728781-79wtl1",
+    "source": "x",
+    "ts": "2026-11-17T19:12:08.781Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-17T19:05:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "The story of how @Zebec_HQ has grown and evolved over time is a fascinating one. A must-read for any $ZBCN bulls out there... ⬇️",
+    "url": "https://x.com/BSCNews/status/2122767981130248649"
   }
 ]
