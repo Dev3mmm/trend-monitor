@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794814341631-4ap438",
-    "source": "x",
-    "ts": "2026-11-16T07:32:21.631Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T07:30:45.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨 LATEST: Goldman Sachs expects a “sizeable surplus” of 2 million barrels a day in the oil market next year, per Bloomberg.\n\nBrent is set to average $88 and slide to $78 by the end of 2027.",
-    "url": "https://x.com/Cointelegraph/status/2122230881376952642"
-  },
-  {
-    "id": "x-1794814927150-562tbl",
-    "source": "x",
-    "ts": "2026-11-16T07:42:07.150Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T07:40:27.000Z",
-    "reason": "Major companies adopting Optimism's blockchain infrastructure",
-    "text": "Why are major companies choosing Optimism’s (@Optimism) $OP Stack to build their own blockchains?\n\nFrom Kraken (@krakenfx) and OKX (@okx) to Uniswap (@Uniswap) and Sony’s Soneium (@soneium), more firms are adopting its Ethereum-based infrastructure.\n\nFind out what makes the OP",
-    "url": "https://x.com/BSCNews/status/2122233320130113789",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794814932094-4fjlqy",
-    "source": "x",
-    "ts": "2026-11-16T07:42:12.094Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-16T07:33:00.000Z",
-    "reason": "Bitcoin is being excluded from major investment benchmarks, raising questions about its business qualifications and potential regulatory impact.",
-    "text": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?\n\nMichael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business-and whether the decision could slow its Bitcoin buying.",
-    "url": "https://x.com/DecryptMedia/status/2122231444923932717",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794815510272-wdah16",
     "source": "x",
     "ts": "2026-11-16T07:51:50.272Z",
@@ -7975,6 +7930,59 @@
     "images": [
       "https://pbs.twimg.com/media/HXWQT-7acAA9Fct.png",
       "https://pbs.twimg.com/media/HXWQVu4aMAAkE4n.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794942167073-k9rzk4",
+    "source": "x",
+    "ts": "2026-11-17T19:02:47.073Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T19:00:01.000Z",
+    "reason": "No notable move or newsworthy event described.",
+    "text": "CZ: A Founder's Ability to Adapt Matters More Than the Original Business Idea\n\nBinance founder Changpeng Zhao (CZ) @cz_binance   said during the closing fireside chat at Cantor Convergence on November 12 that he values a founder's adaptability and self-awareness more than the",
+    "url": "https://x.com/WuBlockchain/status/2122766726001807534"
+  },
+  {
+    "id": "x-1794942172998-23ltw5",
+    "source": "x",
+    "ts": "2026-11-17T19:02:52.998Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 100,
+    "originTimestamp": "2026-11-17T17:22:45.000Z",
+    "reason": "Regulatory focus on decentralized finance (DeFi) platforms rather than Bitcoin.",
+    "text": "Finney Foundation's Andrew Bailey (@resistancemoney) on where the scrutiny will land:\n\n\"A lot of the heat will come to crypto, not Bitcoin, things like World Liberty Financial.\"\n\n\"It doesn't live under the control of anyone and it's not affiliated with a famous politician...",
+    "url": "https://x.com/BitcoinMagazine/status/2122766584196604042",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122742224039432192/vid/avc1/1280x720/qq4Wlgoa-Qqm3CdU.mp4?tag=29",
+      "duration": 30,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122742224039432192/img/nnS4uCutUa3qNfez.jpg"
+    }
+  },
+  {
+    "id": "x-1794942178314-71e8j3",
+    "source": "x",
+    "ts": "2026-11-17T19:02:58.314Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-17T18:52:53.000Z",
+    "reason": "Coinbase expands USDC borrowing into new U.S. states powered by Morpho and Base",
+    "text": "🚨 NEW: Coinbase has expanded $USDC borrowing against $BTC, $ETH and $SOL to all 50 U.S. states, powered by Morpho and built on Base.",
+    "url": "https://x.com/Cointelegraph/status/2122764933939020013",
+    "images": [
+      "https://pbs.twimg.com/media/HXWTdHaXEAAbimX.jpg",
+      "https://pbs.twimg.com/media/HXWTdS8WAAAsXcm.jpg"
     ],
     "video": null
   }
