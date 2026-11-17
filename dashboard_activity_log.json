@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794698493310-uj271i",
-    "source": "x",
-    "ts": "2026-11-14T23:21:33.310Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-14T23:04:55.000Z",
-    "reason": "Meme content without real price information.",
-    "text": "😂63,666 美元小多一下，57,600 美元爆。仓位不大。",
-    "url": "https://x.com/PhyrexNi/status/2121745152561864804"
-  },
-  {
-    "id": "x-1794698495213-8e78ld",
-    "source": "x",
-    "ts": "2026-11-14T23:21:35.213Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 117,
-    "originTimestamp": "2026-11-14T21:23:56.000Z",
-    "reason": "No notable crypto-related move or event mentioned.",
-    "text": "Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸",
-    "url": "https://x.com/elonmusk/status/2121744536867066313"
-  },
-  {
-    "id": "x-1794698497004-fakpi3",
-    "source": "x",
-    "ts": "2026-11-14T23:21:37.004Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 60,
-    "originTimestamp": "2026-11-14T22:21:40.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "You can quote me on this. Sometimes it all works.",
-    "url": "https://x.com/elonmusk/status/2121744356944089225"
-  },
-  {
     "id": "x-1794699134331-m4h8p8",
     "source": "x",
     "ts": "2026-11-14T23:32:14.331Z",
@@ -7945,5 +7906,49 @@
     "reason": "No notable move or specific news event.",
     "text": "🇺🇸 JUST IN: US Commerce and Justice departments say they have probed Singapore firm Megaspeed over possible chip export violations since 2024. \n\nNvidia put the company on its “no sell” list in June 2025.",
     "url": "https://x.com/Cointelegraph/status/2122546359592964133"
+  },
+  {
+    "id": "x-1794890519404-73w38l",
+    "source": "x",
+    "ts": "2026-11-17T04:41:59.404Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T04:40:57.000Z",
+    "reason": "No notable crypto-related event.",
+    "text": "🇺🇸 BREAKING: Major delays reported at New York's Penn Station after 2 trains became stuck in an underwater tunnel.\n\nTwo NJ Transit trains lost power inside the Hudson River tunnel Monday night, leaving commuters stranded UNDERWATER in the dark.\n\nThis comes amid a wave of cyber",
+    "url": "https://x.com/coinbureau/status/2122550537405247938"
+  },
+  {
+    "id": "x-1794890522863-bp35no",
+    "source": "x",
+    "ts": "2026-11-17T04:42:02.863Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 85,
+    "originTimestamp": "2026-11-17T03:16:45.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "LEO BOZELL: “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nation on earth because of what it’s been able to do. … The government said, we want 30% of that company here, which of course is preposterous. And Elon",
+    "url": "https://x.com/elonmusk/status/2122550057346249196"
+  },
+  {
+    "id": "x-1794890526542-f0ybqh",
+    "source": "x",
+    "ts": "2026-11-17T04:42:06.542Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-17T04:34:02.000Z",
+    "reason": "XRP Ledger used Bitcoin's cryptography for a surprising reason.",
+    "text": "XRP Ledger Used Satoshi Nakamoto's Code For a Surprising Reason\n\nRipple (@Ripple) CTO emeritus David Schwartz (@JoelKatz) says early XRPL (@XRP) $XRP developers reused Bitcoin's cryptography to avoid security criticism. \n\nDevelopers borrowed helper functions from Bitcoin's",
+    "url": "https://x.com/BSCNews/status/2122548796026749248",
+    "images": [
+      "https://pbs.twimg.com/media/HXTIRPXbwAAdA2w.png"
+    ],
+    "video": null
   }
 ]
