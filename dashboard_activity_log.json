@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794802362582-9po5sp",
-    "source": "x",
-    "ts": "2026-11-16T04:12:42.582Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-16T04:09:40.000Z",
-    "reason": "No notable news, price is within recent range.",
-    "text": "Satoshi Era Bitcoin Wallet Woke Up After 15 Years\n\nA dormant Bitcoin wallet moved 75 $BTC worth roughly $5 million. The coins had remained untouched since 2011. \n\nThe wallet was named in a $247 billion lawsuit filed by a plaintiff known as Noah Doe, who is claiming ownership of",
-    "url": "https://x.com/BSCNews/status/2122180274553573799",
-    "images": [
-      "https://pbs.twimg.com/media/HXN-cuRa8AAOlrp.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794802365152-0n0he7",
     "source": "x",
     "ts": "2026-11-16T04:12:45.152Z",
@@ -7954,6 +7936,22 @@
       "https://pbs.twimg.com/media/HXV-gZ6WoAAfqH5.jpg",
       "https://pbs.twimg.com/media/HXV-hE9WoAEHCLT.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794937342628-mi7gre",
+    "source": "x",
+    "ts": "2026-11-17T17:42:22.628Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 26,
+    "originTimestamp": "2026-11-17T17:15:53.000Z",
+    "reason": "Notable blockchain performance milestone with specific transaction data.",
+    "text": "Chainspect data shows Internet Computer (@dfinity) hit a record monthly average of 4,200 TPS, setting a new throughput high for the $ICP network.\n\nBSCN keeps its $ICP file on a single page, where throughput milestones, canister smart contracts, Cloud Engines and application",
+    "url": "https://x.com/BSCNews/status/2122745790699634823",
+    "images": [],
     "video": null
   }
 ]
