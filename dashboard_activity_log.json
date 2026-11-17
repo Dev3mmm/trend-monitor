@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794699752623-p3thh3",
-    "source": "x",
-    "ts": "2026-11-14T23:42:32.623Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 21,
-    "originTimestamp": "2026-11-14T23:21:18.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "“Physics is the law. Everything else is a recommendation.” @elonmusk told me that at DealBook in 2023. \n\nToday, SpaceX caught Starship after 14 orbits of Earth. Plenty doubted it was possible. Just extraordinary. @SpaceX.",
-    "url": "https://x.com/elonmusk/status/2121750118835671432"
-  },
-  {
-    "id": "x-1794699756651-zdzru0",
-    "source": "x",
-    "ts": "2026-11-14T23:42:36.651Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-14T23:35:44.000Z",
-    "reason": "Notable sale of ETH by the Ethereum Foundation.",
-    "text": "Ethereum Foundation Sold 7,500 ETH for 14.52M USDS Over Four Days\n\nAccording to Onchain Lens, the Ethereum Foundation sold another 2,500 ETH (worth approximately $4.71 million) for 4.597 million USDS via CoWSwap, bringing its total sales over the past four days to 7,500 ETH for",
-    "url": "https://x.com/WuBlockchain/status/2121748951393353733",
-    "images": [
-      "https://pbs.twimg.com/media/HXH3a93bAAAT_nw.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794700386199-6px7rf",
     "source": "x",
     "ts": "2026-11-14T23:53:06.199Z",
@@ -7950,5 +7919,37 @@
     "reason": "No notable move or specific event is described.",
     "text": "Former Trump Adviser Sees Little Hope For CLARITY Act Revival\n\nPatrick Witt (@patrickjwitt) called the Senate's failure to pass the CLARITY Act a failure of American leadership. The former White House crypto adviser said political disputes over ethics derailed the bill.\n\nWitt",
     "url": "https://x.com/BSCNews/status/2122555581097517371"
+  },
+  {
+    "id": "x-1794893602482-srcg8h",
+    "source": "x",
+    "ts": "2026-11-17T05:33:22.482Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T05:32:04.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "ALERT: 178 Major Organizations, Including Zoom, CNN And HSBC, Hit By Massive Cyberattack\n\nA cyberattack injected malicious JavaScript into websites using Optimizely Web. \n\nZoom, BBC, CNN, HSBC, Ledger and IKEA were among 178 affected organizations.  This allowed the malware to",
+    "url": "https://x.com/BSCNews/status/2122563398991048960"
+  },
+  {
+    "id": "x-1794893606135-4hjdn4",
+    "source": "x",
+    "ts": "2026-11-17T05:33:26.135Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T05:30:57.000Z",
+    "reason": "Notable institutional move in Bitcoin ETF holdings.",
+    "text": "🔥 BULLISH: Wells Fargo doubles its IBIT stake in Q3 to 30,553 BTC and becomes the largest institutional Bitcoin ETF holder, per 13F data.",
+    "url": "https://x.com/Cointelegraph/status/2122563119633281480",
+    "images": [
+      "https://pbs.twimg.com/media/HXTb53nWYAA1TCe.png",
+      "https://pbs.twimg.com/media/HXTb6H8WMAAwohV.jpg"
+    ],
+    "video": null
   }
 ]
