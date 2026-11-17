@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794687110446-pv6u0a",
-    "source": "x",
-    "ts": "2026-11-14T20:11:50.446Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 54,
-    "originTimestamp": "2026-11-14T19:18:06.000Z",
-    "reason": "No notable crypto-related event or news.",
-    "text": "All systems green for the deorbit burn of Starship",
-    "url": "https://x.com/elonmusk/status/2121695381759144393"
-  },
-  {
     "id": "x-1794687773895-cbi0iz",
     "source": "x",
     "ts": "2026-11-14T20:22:53.895Z",
@@ -7930,5 +7917,21 @@
     "reason": "Vague predictions without factual claims or supporting evidence.",
     "text": "⚡️ NOW: Arthur Hayes says these four will pump, then usher in the end of the AI bubble:\n\nethereum:native: $2,800\nzcash:native: $1,800\nnear:native: $6\n$VVV: $40",
     "url": "https://x.com/Cointelegraph/status/2122505810467340578"
+  },
+  {
+    "id": "x-1794880926306-d5wizh",
+    "source": "x",
+    "ts": "2026-11-17T02:02:06.306Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T02:00:53.000Z",
+    "reason": "Exploit involving wallet address swapping and card details theft",
+    "text": "🚨 ALERT: Hackers slip malware that swaps crypto wallet addresses and steals card details into 178 major websites, among them Ledger, BBC and Salesforce, via compromised Optimizely scripts.",
+    "url": "https://x.com/Cointelegraph/status/2122510252683735230",
+    "images": [],
+    "video": null
   }
 ]
