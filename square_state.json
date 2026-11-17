@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1793455385171-6waj5e",
-    "x-1793455930960-da5sjn",
     "x-1793457147600-20ylza",
     "x-1793458327551-193vqb",
     "x-1793459527666-b6pcok",
@@ -1999,19 +1997,11 @@
     "x-1794875563228-ukqo6f",
     "x-1794877324143-d82xfd",
     "x-1794877335309-bohcrc",
-    "x-1794877964556-sis6xb"
+    "x-1794877964556-sis6xb",
+    "x-1794879119148-wyn41b",
+    "x-1794879123041-9z26mk"
   ],
   "queue": [
-    {
-      "text": "JUST IN: Twenty One Capital bought 154.3 BTC worth $10 million for their treasury. \n\nThey now hold 43,668 BTC worth $2.85 billion! 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2122456467391619197",
-      "images": [
-        "https://pbs.twimg.com/media/HXR66F9X0AAuNMe.jpg",
-        "https://pbs.twimg.com/media/HXR66FZW8AAtici.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794868359572
-    },
     {
       "text": "🤖️️️️️️ NEW: Perplexity launches Frontier Research to build autonomous research systems with 10,000+ GPUs.",
       "url": "https://x.com/Cointelegraph/status/2122462437630685313",
@@ -2050,6 +2040,15 @@
       ],
       "video": null,
       "enqueuedAt": 1794875568995
+    },
+    {
+      "text": "🚨 TODAY: Michael Saylor says Strategy added a new “USD Strength” metric to its dashboard. \n\nIts USD reserves can now cover 3.4 years of interest and dividends, or 41% of its Digital Credit duration.",
+      "url": "https://x.com/Cointelegraph/status/2122502711048323485",
+      "images": [
+        "https://pbs.twimg.com/media/HXSk9rRXIAASsZh.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794879124103
     }
   ],
   "posted": [
@@ -2660,7 +2659,17 @@
       "at": 1794877335751,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389063239267720?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: Twenty One Capital bought 154.3 BTC worth $10 million for their treasury. \n\nThey now hold 43,668 BTC worth $2.85 billion! 🚀",
+      "final": "JUST IN: Twenty One Capital bought 154.3 BTC worth $10 million for their treasury. \n\nThey now hold 43,668 BTC worth $2.85 billion! 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HXR66F9X0AAuNMe.jpg",
+        "https://pbs.twimg.com/media/HXR66FZW8AAtici.jpg"
+      ],
+      "at": 1794879124103,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794877335751
+  "lastPostAt": 1794879124103
 }
