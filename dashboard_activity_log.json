@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794684127170-ws48zv",
-    "source": "x",
-    "ts": "2026-11-14T19:22:07.170Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T19:20:00.000Z",
-    "reason": "No notable move in the given context.",
-    "text": "US wholesale inflation is now more than double what it was a year ago.\n\nProducer prices rose 6.5% over the year to October, up from 2.8% a year earlier.\n\nThat is the largest 12-month rise since November 2022, when it hit 7.4%.\n\nIn September, the last month both annual rates were",
-    "url": "https://x.com/coinbureau/status/2121684591383904569"
-  },
-  {
-    "id": "x-1794684741997-kfcnhp",
-    "source": "x",
-    "ts": "2026-11-14T19:32:21.997Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-14T19:30:43.000Z",
-    "reason": "No notable move in a well-defined price range.",
-    "text": "⚡ INTERESTING: There are just 888,090 $BTC left to mine.",
-    "url": "https://x.com/Cointelegraph/status/2121687290955075780"
-  },
-  {
     "id": "x-1794684744784-ovofkv",
     "source": "x",
     "ts": "2026-11-14T19:32:24.784Z",
@@ -7924,6 +7898,42 @@
     "images": [
       "https://pbs.twimg.com/media/HXSP4HKa4AEy_4m.png",
       "https://pbs.twimg.com/media/HXSP4HKaQAALqtI.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794879119148-wyn41b",
+    "source": "x",
+    "ts": "2026-11-17T01:31:59.148Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T01:30:55.000Z",
+    "reason": "Noteworthy move in Saylor's dashboard metrics.",
+    "text": "🚨 TODAY: Michael Saylor says Strategy added a new “USD Strength” metric to its dashboard. \n\nIts USD reserves can now cover 3.4 years of interest and dividends, or 41% of its Digital Credit duration.",
+    "url": "https://x.com/Cointelegraph/status/2122502711048323485",
+    "images": [
+      "https://pbs.twimg.com/media/HXSk9rRXIAASsZh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794879123041-9z26mk",
+    "source": "x",
+    "ts": "2026-11-17T01:32:03.041Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T01:30:00.000Z",
+    "reason": "Notable institutional and protocol collaboration supporting post-quantum cryptography.",
+    "text": "Folks Finance supports Algorand's post-quantum efforts.\n\nCross-chain decentralised finance (DeFi) protocol @FolksFinance has announced that it now supports @Algorand's post-quantum accounts.\n\nThe new support stems from a collaboration with @PeraAlgoWallet and is a sign that",
+    "url": "https://x.com/BSCNews/status/2122502483129852363",
+    "images": [
+      "https://pbs.twimg.com/media/HXPmpntW0AA8hOF.jpg"
     ],
     "video": null
   }
