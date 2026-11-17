@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794828204869-7f44v4",
-    "source": "x",
-    "ts": "2026-11-16T11:23:24.869Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-16T11:18:52.000Z",
-    "reason": "Security incident involving a single compromised external party, with service suspension.",
-    "text": "BREAKING: Lighter Temporarily Suspends All Withdrawals While Investigating Security Incident.\n\nLighter said Monday the security incident \"appears to involve a single compromised external party,\" and that it has also suspended pool creation as a precaution while it assesses \"the",
-    "url": "https://x.com/DecryptMedia/status/2122288287842763237",
-    "images": [
-      "https://pbs.twimg.com/media/HXPhN15WoAADxHz.png",
-      "https://pbs.twimg.com/media/HXPh1_NWgAAPnoU.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794828209012-4kgxme",
-    "source": "x",
-    "ts": "2026-11-16T11:23:29.012Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-16T11:15:00.000Z",
-    "reason": "Arbitrum's priority fees and transaction volume are noteworthy developments.",
-    "text": "Arbitrum Is Quietly Having One of Its Busiest Months Ever\n\n@Arbitrum is experiencing significant progress within its ecosystem. The protocol recently reported $400K in priority fees earned from 35 million transactions via Priority Gas Auctions (PGA).\n\n$USDG vaults from Morpho",
-    "url": "https://x.com/BSCNews/status/2122287313711726772",
-    "images": [
-      "https://pbs.twimg.com/media/HXPWcEjXQAAdpdA.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794586388053-cesklt",
     "source": "x",
     "ts": "2026-11-13T16:13:08.054Z",
@@ -7940,6 +7903,37 @@
     "images": [
       "https://pbs.twimg.com/media/HXXEiV6W8AEvAzO.png",
       "https://pbs.twimg.com/media/HXXEiWHX0AAp1zd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794955313571-maqjsy",
+    "source": "x",
+    "ts": "2026-11-17T22:41:53.571Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T22:41:00.000Z",
+    "reason": "No notable move in crypto or related sectors mentioned.",
+    "text": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
+    "url": "https://x.com/DecryptMedia/status/2122822339767242811"
+  },
+  {
+    "id": "x-1794955436663-kqdu0s",
+    "source": "x",
+    "ts": "2026-11-17T22:43:56.663Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-17T22:35:00.000Z",
+    "reason": "Arbitrum's stablecoin supply has reached a significant milestone of $4 billion.",
+    "text": "Arbitrum hits $4 BILLION stablecoin supply.\n\n@arbitrum's stablecoin supply is up +10.6% on the week at time of writing, sending it soaring past the $4B mark.\n\n$ARB is now the 7th largest chain by stablecoin market cap, now far bigger than #8 @0xPolygon, which hosts only ~$2.8B",
+    "url": "https://x.com/BSCNews/status/2122820828597301425",
+    "images": [
+      "https://pbs.twimg.com/media/HXWL498WsAAtAVN.jpg"
     ],
     "video": null
   }
