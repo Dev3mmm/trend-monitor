@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794781362680-482qmf",
-    "source": "x",
-    "ts": "2026-11-15T22:22:42.680Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-15T22:15:00.000Z",
-    "reason": "Potential security breach involving sensitive employee data.",
-    "text": "🚨ALERT: TSMC employee data has reportedly been offered for sale for 3 BTC, with the seller threatening to release it publicly if no buyer emerges.\n\nTSMC confirmed that some current and former employees’ personal information appeared online without permission.\n\nThe seller claims",
-    "url": "https://x.com/coinbureau/status/2122091019596599304",
-    "images": [
-      "https://pbs.twimg.com/media/HXMlpiOaUAAAZ5d.png",
-      "https://pbs.twimg.com/media/HXMlsgXbEAA620h.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794781951042-k0js00",
-    "source": "x",
-    "ts": "2026-11-15T22:32:31.042Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-15T22:30:42.000Z",
-    "reason": "Regulatory update with potential impact on token launches",
-    "text": "🇺🇸 REGULATION: Senator Lummis says Democrats got the token launch rules they asked for in the Clarity Act, then voted no anyway.",
-    "url": "https://x.com/Cointelegraph/status/2122094971712909388",
-    "images": [
-      "https://pbs.twimg.com/media/HXMyITcXgAAX12G.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794783709179-vt2ncz",
     "source": "x",
     "ts": "2026-11-15T23:01:49.179Z",
@@ -7988,5 +7951,34 @@
     "reason": "No notable crypto move or adoption event mentioned.",
     "text": "Nvidia, IBM And Fermilab Plan A Quantum-Classical Co-Design Platform.\n\nThe platform would co-locate Nvidia DGX B200 systems with IBM quantum computers, and Nvidia released a decoding algorithm it says delivers up to a 13,000x speedup.",
     "url": "https://x.com/DecryptMedia/status/2122713875837816923"
+  },
+  {
+    "id": "x-1794930212515-ibmalj",
+    "source": "x",
+    "ts": "2026-11-17T15:43:32.515Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-17T15:38:52.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "🇺🇸 ALERT: A highly classified network used by the National Security Agency (NSA) for internal communications is down, according to CNN.",
+    "url": "https://x.com/Cointelegraph/status/2122716106750062914"
+  },
+  {
+    "id": "x-1794930215585-1pax2b",
+    "source": "x",
+    "ts": "2026-11-17T15:43:35.585Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-17T15:31:45.000Z",
+    "reason": "Notable financial institution exploring new crypto use case",
+    "text": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
+    "url": "https://x.com/DecryptMedia/status/2122714316323397656",
+    "images": [],
+    "video": null
   }
 ]
