@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794762722948-8n5ap2",
-    "source": "x",
-    "ts": "2026-11-15T17:12:02.948Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-15T17:10:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "The @CantonNetwork ecosystem is one you probably don't understand but really should.\n\nIf you're serious about the institutional adoption of blockchain, then here's what you need to know ⬇️",
-    "url": "https://x.com/BSCNews/status/2122014263678320919"
-  },
-  {
-    "id": "x-1794762725906-gpecfc",
-    "source": "x",
-    "ts": "2026-11-15T17:12:05.906Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-15T17:08:43.000Z",
-    "reason": "Specific information about a Binance CEO's statement and potential factors for Bitcoin's low.",
-    "text": "🔥TODAY: CZ says “Binance did not sell crypto,” as Bitcoin hits $62K low.\n\nHe says no one knows for sure what’s driving the selloff, but lists FIVE possible factors:\n\n1. Money shifting toward Anthropic’s IPO.\n2. Bitcoin and Ether ETF outflows.\n3. Security fears from hacks and",
-    "url": "https://x.com/coinbureau/status/2122013940221894888",
-    "images": [
-      "https://pbs.twimg.com/media/HXLnphTbYAAVsWE.png",
-      "https://pbs.twimg.com/media/HXLnxd5bgAAjj0E.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794763307017-cpv8cv",
     "source": "x",
     "ts": "2026-11-15T17:21:47.017Z",
@@ -7981,6 +7949,40 @@
       "https://pbs.twimg.com/media/HXUlmpWXYAACZMe.png",
       "https://pbs.twimg.com/media/HXUlngwWoAA6iQz.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794922311443-blo8pq",
+    "source": "x",
+    "ts": "2026-11-17T13:31:51.443Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T13:29:42.000Z",
+    "reason": "Indian authorities wrongly frozen crypto account, potential regulatory or legal issue.",
+    "text": "🚨 UPDATE: ZachXBT says Indian authorities wrongly froze a Chinese investor's $3M Gate account after misidentifying a crypto bridge.",
+    "url": "https://x.com/Cointelegraph/status/2122683600860553465",
+    "images": [
+      "https://pbs.twimg.com/media/HXVJfBHW0AA8Muy.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794922313802-wmd6h1",
+    "source": "x",
+    "ts": "2026-11-17T13:31:53.802Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "ZachXBT",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-17T13:28:29.000Z",
+    "reason": "Potential regulatory and law enforcement oversight issue.",
+    "text": "@CBIHeadquarters @PMOIndia @HMOIndia @Cyberdost @DoPTGoI @mygovindia @GoI_MeitY @MIB_India @PIB_India Can CBI please explain why Indian law enforcement seems incapable of tracing basic crypto cases which have resulted in bad freezes and court orders of $3M due to its gross negligence?",
+    "url": "https://x.com/zachxbt/status/2122683319498559720",
+    "images": [],
     "video": null
   }
 ]
