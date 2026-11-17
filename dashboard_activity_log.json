@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1794766977810-a40ckm",
-    "source": "x",
-    "ts": "2026-11-15T18:22:57.810Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-15T18:21:00.000Z",
-    "reason": "Wider market collapse affecting specific crypto ETFs.",
-    "text": "Spot $LINK and $DOT ETFs see a difficult week.\n\nAmid a wider market collapse, spot ETFs for both @Chainlink and @Polkadot have seen negative weeks for inflows/outflows.\n\n$LINK [-$705.59K]\n$DOT [-$99.35K]\n\nThough the outflows are small, they seem to reflect a wider reduction in",
-    "url": "https://x.com/BSCNews/status/2122032131434246504",
-    "images": [
-      "https://pbs.twimg.com/media/HXKDNbKXcAA2-7J.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794767519318-ndz73h",
-    "source": "x",
-    "ts": "2026-11-15T18:31:59.318Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-15T18:30:47.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🔥 NEW: CZ says Binance didn't sell and that he bought crypto over the past few days.\n\nHe lists the Anthropic IPO, $1.9B in ETF outflows, hacks, hot inflation and the midterms as possible reasons for the dump.",
-    "url": "https://x.com/Cointelegraph/status/2122034596279730473",
-    "images": [
-      "https://pbs.twimg.com/media/HXL7N9cWEAAgDK4.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794769991367-uqmgfw",
     "source": "x",
     "ts": "2026-11-15T19:13:11.367Z",
@@ -7979,5 +7943,37 @@
     "reason": "No notable move in ETH price.",
     "text": "On most launchpads, a creator’s income ends after the first day of trading. Canton instead ties rewards to sustained activity, and OnePump adds trading competitions, leaderboards and KOL support to help tokens stay above the volume and holder requirements.",
     "url": "https://x.com/BSCNews/status/2122689516150386722"
+  },
+  {
+    "id": "x-1794924758568-olpmm1",
+    "source": "x",
+    "ts": "2026-11-17T14:12:38.569Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T14:10:56.000Z",
+    "reason": "Banks reportedly expanding Bitcoin access to clients",
+    "text": "🔥 JUST IN: “Banks are bringing Bitcoin to their clients,” says Saylor, highlighting Wells Fargo's 42M IBIT shares, up from 20M.",
+    "url": "https://x.com/Cointelegraph/status/2122693975941263780",
+    "images": [
+      "https://pbs.twimg.com/media/HXVS6ePX0AATa8C.jpg",
+      "https://pbs.twimg.com/media/HXVS6-zXMAArdYh.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794924761686-ep9ggb",
+    "source": "x",
+    "ts": "2026-11-17T14:12:41.686Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-17T14:01:54.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Join us in Bangkok as we welcome Gizzat Baitursynov to the #BinanceBlockchainWeek stage. \n\nHe’ll be sharing his vision on how Kazakhstan is embracing AI and Web3.\n\n🗓️ Nov 28–29\n🎟️",
+    "url": "https://x.com/binance/status/2122691703681282320"
   }
 ]
