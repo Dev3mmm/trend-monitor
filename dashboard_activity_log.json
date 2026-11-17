@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794751329012-10j0sp",
-    "source": "x",
-    "ts": "2026-11-15T14:02:09.012Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 33,
-    "originTimestamp": "2026-11-15T13:28:24.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Bitcoin's cheap, we want more.",
-    "url": "https://x.com/saylor/status/2121966803475915073"
-  },
-  {
-    "id": "x-1794751916503-g27orr",
-    "source": "x",
-    "ts": "2026-11-15T14:11:56.503Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-15T14:03:08.000Z",
-    "reason": "Bitcoin ETFs showing significant outflow for seven consecutive days.",
-    "text": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-    "url": "https://x.com/DecryptMedia/status/2121967238001397914",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794752558975-wrhcpo",
-    "source": "x",
-    "ts": "2026-11-15T14:22:38.975Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-15T14:21:00.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🚨 JUST IN: Jensen Huang reportedly misled Nvidia's top lawyer about his affair with Alice Huang, per Reuters.\n\nThe report reveals that in two messages last month, Huang told Nvidia leaders, including general counsel Tim Teter, that their dealings were standard business.\n\nThen on",
-    "url": "https://x.com/coinbureau/status/2121971733951295943"
-  },
-  {
     "id": "x-1794752563084-ybaawy",
     "source": "x",
     "ts": "2026-11-15T14:22:43.084Z",
@@ -7977,5 +7935,49 @@
       "https://pbs.twimg.com/media/HXUwCSHbEAANBnV.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794917520978-gh9jhx",
+    "source": "x",
+    "ts": "2026-11-17T12:12:00.978Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T12:11:00.000Z",
+    "reason": "No notable move or regulatory/news event.",
+    "text": "Polkadot now has a new look!\n\nPolkadot (@Polkadot) has redesigned its official website and is rebranding itself around digital privacy and consumer autonomy.\n\nThe newly designed website emphasizes peer-to-peer messaging, encrypted file transfer, and decentralized payment",
+    "url": "https://x.com/BSCNews/status/2122663793696051674"
+  },
+  {
+    "id": "x-1794917523940-hbjx4f",
+    "source": "x",
+    "ts": "2026-11-17T12:12:03.940Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 16,
+    "originTimestamp": "2026-11-17T11:55:25.000Z",
+    "reason": "Notable use of a new token for an event push.",
+    "text": "The Cardano Foundation is asking for a big slice of the $ADA treasury to fund a 2027 events push 🌍\n\nThe proposal covers a shared ecosystem presence at conferences next year, and DReps are voting on it through December 20.\n\nWhat it means ⬇️\nFull article:",
+    "url": "https://x.com/BSCNews/status/2122662490303570114",
+    "images": [
+      "https://pbs.twimg.com/media/HXUz5ftXgAAQTdP.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794917526016-7g77ok",
+    "source": "x",
+    "ts": "2026-11-17T12:12:06.016Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-17T12:03:10.000Z",
+    "reason": "No notable move or event described, only a general announcement.",
+    "text": "So, what's happening at #BinanceBlockchainWeek?\n\nWe've got the agenda ready. Take a look at the sessions, speakers, and conversations coming your way.\n\nHere's what to expect 👇",
+    "url": "https://x.com/binance/status/2122661821400207629"
   }
 ]
