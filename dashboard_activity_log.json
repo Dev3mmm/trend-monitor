@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1794688938596-wznlrb",
-    "source": "x",
-    "ts": "2026-11-14T20:42:18.596Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-14T20:34:00.000Z",
-    "reason": "Ondo Finance's investment signals a significant institutional endorsement of @SpoutFi's protocol.",
-    "text": "Ondo Finance just invested in this protocol.\n\n@SpoutFi, an equity-focused lending &amp; borrowing platform, has announced an investment from @Ondo Finance itself.\n\nAs part of the collaboration, users will be able to borrow $USDC against $ONDO Stocks from launch.\n\nSpout is already",
-    "url": "https://x.com/BSCNews/status/2121703214534054049",
-    "images": [
-      "https://pbs.twimg.com/media/HXApL8UXEAA-Qgk.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794691961688-brpj35",
-    "source": "x",
-    "ts": "2026-11-14T21:32:41.688Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-14T21:25:00.000Z",
-    "reason": "Hack on Uber's driver data, involving thousands of individuals.",
-    "text": "🚨SHOCKING: More than 7,800 Uber drivers had their licence data stolen by hackers chasing free AI computing power.\n\nSouth Carolina reported 3,430 affected, Massachusetts 2,567 and Rhode Island 1,873.\n\nUber has never disclosed a national total, and more states are covered by the",
-    "url": "https://x.com/coinbureau/status/2121716048684781890",
-    "images": [
-      "https://pbs.twimg.com/media/HXHNKHJaoAAtaOq.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794693133213-zak77u",
     "source": "x",
     "ts": "2026-11-14T21:52:13.214Z",
@@ -7942,6 +7906,41 @@
     "images": [
       "https://pbs.twimg.com/media/HXPmw0iXgAAkYnS.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794884518321-6y575f",
+    "source": "x",
+    "ts": "2026-11-17T03:01:58.321Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T03:01:00.000Z",
+    "reason": "Malware attack affecting major websites and cryptocurrency wallets",
+    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 Hackers slip malware that swaps crypto wallet addresses and steals card details into 178 major websites, among them Ledger, BBC and Salesforce, via compromised Optimizely scripts.\n\n🔹 A former Robinhood engineer",
+    "url": "https://x.com/Cointelegraph/status/2122525382574313670",
+    "images": [
+      "https://pbs.twimg.com/media/HXS5k5LXkAEdvzn.jpg",
+      "https://pbs.twimg.com/media/HXS5lQrWkAEw855.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794884520550-fzelb0",
+    "source": "x",
+    "ts": "2026-11-17T03:02:00.550Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T03:00:05.000Z",
+    "reason": "New signing feature on Solana apps ending 'blind' signing",
+    "text": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps\n\nThe hardware wallet manufacturer says users can now read what they're approving on nine @solana apps, as it pitches its Atom device.",
+    "url": "https://x.com/DecryptMedia/status/2122525150914457831",
+    "images": [],
     "video": null
   }
 ]
