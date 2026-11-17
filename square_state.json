@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793520747963-722dk8",
     "x-1793521949335-e06eu2",
     "x-1793522552253-04qi5k",
     "x-1793523728371-9niptl",
@@ -1999,18 +1998,10 @@
     "x-1794915183627-0s97zq",
     "x-1794915730851-tildm1",
     "x-1794915736793-i74yv4",
-    "x-1794916346470-ckfzm2"
+    "x-1794916346470-ckfzm2",
+    "x-1794916950208-kypvma"
   ],
   "queue": [
-    {
-      "text": "JUST IN: 🇷🇺 Starting today, Russian retail investors can now legally buy Bitcoin 👀",
-      "url": "https://x.com/BitcoinMagazine/status/2122653530339365310",
-      "images": [
-        "https://pbs.twimg.com/media/HXUuIsYXQAAGNET.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794915184550
-    },
     {
       "text": "🇨🇦 JUST IN: Vitalik opposes Canada's Bill C-22, urging Canadians to defend backdoor-free encrypted messaging.",
       "url": "https://x.com/Cointelegraph/status/2122656228346085614",
@@ -2030,6 +2021,15 @@
       ],
       "video": null,
       "enqueuedAt": 1794916347056
+    },
+    {
+      "text": "The traditional exchange token model is showing its age. \n\nOn November 18, we’re going live with @nic_web3 to look at how @Bitbase_Ex is structuring its new rewards initiative for active traders. \n\n🕜 5 pm UTC",
+      "url": "https://x.com/Cointelegraph/status/2122661033118687295",
+      "images": [
+        "https://pbs.twimg.com/media/HXUwCSHbEAANBnV.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794916950887
     }
   ],
   "posted": [
@@ -2771,7 +2771,16 @@
       "at": 1794915184550,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389218288284456?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: 🇷🇺 Starting today, Russian retail investors can now legally buy Bitcoin 👀",
+      "final": "JUST IN: 🇷🇺 Starting today, Russian retail investors can now legally buy Bitcoin 👀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HXUuIsYXQAAGNET.jpg"
+      ],
+      "at": 1794916950887,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794915184550
+  "lastPostAt": 1794916950887
 }
