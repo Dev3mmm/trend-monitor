@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794798738814-wiz32r",
-    "source": "x",
-    "ts": "2026-11-16T03:12:18.814Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 72,
-    "originTimestamp": "2026-11-16T02:00:09.000Z",
-    "reason": "No notable move or newsworthy action mentioned.",
-    "text": "@elonmusk Great timeline 😂",
-    "url": "https://x.com/elonmusk/status/2122164088726016388"
-  },
-  {
-    "id": "x-1794799960279-fqrlgc",
-    "source": "x",
-    "ts": "2026-11-16T03:32:40.279Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T03:30:40.000Z",
-    "reason": "Notable warning from a key figure in the crypto industry about a new security threat.",
-    "text": "⚡ TODAY: Luxor CEO Nick Hansen warns crypto firms of an AI-powered “dark forest” after attackers hijacked customer bitcoin hashrate via its Commander platform.",
-    "url": "https://x.com/Cointelegraph/status/2122170459567313124",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794799962408-uio89i",
-    "source": "x",
-    "ts": "2026-11-16T03:32:42.408Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-16T03:23:15.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🚨NOW: South Korean Stocks DUMP on open\n\nThe KOSPI has plunged -2.68% since the opening bell, wiping out ₩104 TRILLION in market value.\n\nForeign investors have sold ₩722 BILLION worth of Korean shares, with the index now down nearly -10% over the past month.",
-    "url": "https://x.com/coinbureau/status/2122168594826158100"
-  },
-  {
     "id": "x-1794801176135-rjgjj9",
     "source": "x",
     "ts": "2026-11-16T03:52:56.135Z",
@@ -7956,6 +7914,51 @@
     "text": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
     "url": "https://x.com/DecryptMedia/status/2122741594637947104",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794936759500-cd89j4",
+    "source": "x",
+    "ts": "2026-11-17T17:32:39.500Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T17:31:35.000Z",
+    "reason": "No notable move in crypto-related news.",
+    "text": "🇺🇸 JUST IN: U.S. homebuilder confidence fell to 25 in November, its lowest level since April 2012, with 46% of builders cutting prices.",
+    "url": "https://x.com/Cointelegraph/status/2122744473868181860"
+  },
+  {
+    "id": "x-1794936762106-pzs3c2",
+    "source": "x",
+    "ts": "2026-11-17T17:32:42.106Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-17T17:18:52.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "Trading agent skill portfolio:\n\n- Research: yes\n- Strategy: yes\n- Execution: yes\n- Moat: in progress\n\nHere’s what it takes to build something that lasts ↓",
+    "url": "https://x.com/coinbase/status/2122742703880540166"
+  },
+  {
+    "id": "x-1794936765696-e6qk2h",
+    "source": "x",
+    "ts": "2026-11-17T17:32:45.696Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-17T17:21:58.000Z",
+    "reason": "Notable institutional crypto investment by a public company",
+    "text": "JUST IN: 🇬🇧 Publicly traded The Smarter Web Company bought 55 Bitcoin worth $3.5 million 👀  \n\nThis brings their total holdings to 2,905 BTC! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2122742053507580388",
+    "images": [
+      "https://pbs.twimg.com/media/HXV-gZ6WoAAfqH5.jpg",
+      "https://pbs.twimg.com/media/HXV-hE9WoAEHCLT.jpg"
+    ],
     "video": null
   }
 ]
