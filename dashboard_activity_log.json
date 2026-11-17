@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794700390480-ism0e2",
-    "source": "x",
-    "ts": "2026-11-14T23:53:10.480Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 59,
-    "originTimestamp": "2026-11-14T22:53:37.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight. \n\nOn Saturday, November 14, Starship returned to Starbase, Texas, and changed everything →",
-    "url": "https://x.com/elonmusk/status/2121750673910075806"
-  },
-  {
-    "id": "x-1794700918007-sv5yz8",
-    "source": "x",
-    "ts": "2026-11-15T00:01:58.007Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-15T00:00:02.000Z",
-    "reason": "Notable partnership between an on-chain technology company and a financial institution.",
-    "text": "Plume CEO: If a Broker Can Already Buy Stocks and Treasuries, Why Bring Them On-Chain?  \n\nChris Yin @chriseyin, co-founder and CEO of Plume, told Wu Blockchain that RWA value is not just on-chain composability but access — letting people buy what they otherwise could not.",
-    "url": "https://x.com/WuBlockchain/status/2121755065018900711",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2121573442097156096/vid/avc1/1280x720/0gtU0ipn3vwRU67R.mp4?tag=29",
-      "duration": 109,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121573442097156096/img/Rh0kodmSRPuAF6Bp.jpg"
-    }
-  },
-  {
     "id": "x-1794700923975-llr5qn",
     "source": "x",
     "ts": "2026-11-15T00:02:03.975Z",
@@ -7956,6 +7922,41 @@
       "https://pbs.twimg.com/media/HXTdm-abwAA__gO.jpg",
       "https://pbs.twimg.com/media/HXTdm-TaMAAfurL.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794895349809-dkhh1k",
+    "source": "x",
+    "ts": "2026-11-17T06:02:29.809Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T06:01:00.000Z",
+    "reason": "Notable insider trading scandal affecting Nvidia stock prices.",
+    "text": "🚨 BIG: Nvidia short sellers sit on an estimated $24B in paper profits after the stock fell 35% from its Oct. 6 high, following the scandal behind Jensen Huang’s ouster, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2122570682726773087",
+    "images": [
+      "https://pbs.twimg.com/media/HXTiyGKWkAAI7Z6.jpg",
+      "https://pbs.twimg.com/media/HXTiyUwXYAAaQMz.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794895353325-qkfeyi",
+    "source": "x",
+    "ts": "2026-11-17T06:02:33.325Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T06:00:01.000Z",
+    "reason": "New lending and identity services launched on Solana platform.",
+    "text": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares\n\nThe @solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
+    "url": "https://x.com/DecryptMedia/status/2122570432750690684",
+    "images": [],
     "video": null
   }
 ]
