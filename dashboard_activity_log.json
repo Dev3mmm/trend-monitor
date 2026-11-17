@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794703337296-wl382d",
-    "source": "x",
-    "ts": "2026-11-15T00:42:17.296Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-15T00:35:27.000Z",
-    "reason": "No notable move or concrete information provided.",
-    "text": "I hugged ship 42 upon its return",
-    "url": "https://x.com/elonmusk/status/2121763977349013884"
-  },
-  {
-    "id": "x-1794703340595-c5bo1g",
-    "source": "x",
-    "ts": "2026-11-15T00:42:20.595Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-15T00:33:08.000Z",
-    "reason": "No information provided to verify or assess.",
-    "text": "Some phone videos I took from the tower",
-    "url": "https://x.com/elonmusk/status/2121763396190179414"
-  },
-  {
-    "id": "x-1794703934649-7b3ptb",
-    "source": "x",
-    "ts": "2026-11-15T00:52:14.649Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-15T00:44:14.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Dazzled.",
-    "url": "https://x.com/elonmusk/status/2121766670834471176"
-  },
-  {
     "id": "x-1794705562335-t322st",
     "source": "x",
     "ts": "2026-11-15T01:19:22.335Z",
@@ -7961,5 +7922,49 @@
     "reason": "No notable crypto-related news, mostly financial speculation and valuation.",
     "text": "🚨LATEST: Ashton Kutcher’s $435 Million Anthropic investment to be worth $7,000,000,000 at IPO, per Bloomberg.\n\nSound Ventures, VC fund co-founded by Kutcher and Guy Oseary, first invested in Anthropic back in 2023.\n\nAt a $1.4 TRILLION valuation, its current 0.5% stake would",
     "url": "https://x.com/coinbureau/status/2122579947546104267"
+  },
+  {
+    "id": "x-1794898945024-0e50gl",
+    "source": "x",
+    "ts": "2026-11-17T07:02:25.024Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T07:01:10.000Z",
+    "reason": "Net loss of Bitcoin holders is significant and unusual.",
+    "text": "🚨UPDATE: Bitcoin holders lock in a net loss of 25.8K $BTC, the largest since July 13, per CryptoQuant’s Head of Research Julio Moreno.",
+    "url": "https://x.com/Cointelegraph/status/2122585823396671622",
+    "images": [
+      "https://pbs.twimg.com/media/HXTwjrtWYAAAhuA.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794898948273-2d6cea",
+    "source": "x",
+    "ts": "2026-11-17T07:02:28.273Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-17T06:58:43.000Z",
+    "reason": "Noise, no factual claim or newsworthy detail provided.",
+    "text": "BREAKING: The US government reveals new details on Megaspeed, the Nvidia chip buyer tied to Jensen Huang's exit.\n\nThe Department of Commerce and Department of Justice confirm a criminal investigation into the firm once led by Alice Huang, the suspected Chinese spy whose reported",
+    "url": "https://x.com/coinbureau/status/2122585207534686569"
+  },
+  {
+    "id": "x-1794898952197-k7uhu6",
+    "source": "x",
+    "ts": "2026-11-17T07:02:32.197Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-17T06:54:42.000Z",
+    "reason": "No notable move or newsworthy action related to Ethereum's quantum-safe upgrade.",
+    "text": "Vitalik Buterin Finds a Faster Path to Quantum Safe Ethereum\n\nEthereum (@ethereum) $ETH co-founder Vitalik Buterin (@VitalikButerin) now favors leanPCS for Ethereum's quantum-safe upgrade. \n\nThe design could verify STARK proofs for just 20,000 to 40,000 gas. Buterin says it could",
+    "url": "https://x.com/BSCNews/status/2122584194920726616"
   }
 ]
