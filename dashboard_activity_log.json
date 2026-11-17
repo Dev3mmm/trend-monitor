@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794677542270-7ipixw",
-    "source": "x",
-    "ts": "2026-11-14T17:32:22.270Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-14T17:30:51.000Z",
-    "reason": "Specific and notable government initiative in crypto securities.",
-    "text": "🇰🇿 BIG: Kazakhstan wants tokenized government bonds out by Q1 2027, right after selling $22.3M of tokenized central bank notes.",
-    "url": "https://x.com/Cointelegraph/status/2121657123574579385",
-    "images": [
-      "https://pbs.twimg.com/media/HXGj6IiXoAEqExt.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794679325134-uyk0br",
-    "source": "x",
-    "ts": "2026-11-14T18:02:05.134Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-14T18:00:09.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": "Swag esentials.",
-    "url": "https://x.com/binance/status/2121664496989081644"
-  },
-  {
     "id": "x-1794679328796-mkxkx3",
     "source": "x",
     "ts": "2026-11-14T18:02:08.796Z",
@@ -7912,5 +7881,40 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Solana is going private...\n\nLeading @Solana wallet @solflare has introduced private balances and transactions to its platform, using @Helius' infrastructure.\n\n$SOL, which is fully public by default, stands to benefit a great deal from privacy functionality.\n\nIn particular, many",
     "url": "https://x.com/BSCNews/status/2122477566519030010"
+  },
+  {
+    "id": "x-1794873790691-jkbqiq",
+    "source": "x",
+    "ts": "2026-11-17T00:03:10.691Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T00:01:13.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 NOW: Backpack secures CFTC approval to launch a US derivatives exchange with leveraged perpetuals, crypto collateral and one global order book.",
+    "url": "https://x.com/Cointelegraph/status/2122480140416413800",
+    "images": [
+      "https://pbs.twimg.com/media/HXSQb7XWEAA3xxe.png",
+      "https://pbs.twimg.com/media/HXSQcHJXcAEfefU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794873793916-higw8s",
+    "source": "x",
+    "ts": "2026-11-17T00:03:13.916Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-16T23:59:00.000Z",
+    "reason": "Announcement of a new network version for Solana.",
+    "text": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About\n\n@solana's 1.0 designation gives developers a common way to track network rules. Here's what it means for users and builders.",
+    "url": "https://x.com/DecryptMedia/status/2122479579843747884",
+    "images": [],
+    "video": null
   }
 ]
