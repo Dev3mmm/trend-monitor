@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793459527666-b6pcok",
     "x-1793459531320-71xdft",
     "x-1793460100711-1edo89",
     "x-1793460797517-40eb4x",
@@ -1999,19 +1998,10 @@
     "x-1794879119148-wyn41b",
     "x-1794879123041-9z26mk",
     "x-1794880926306-d5wizh",
-    "x-1794881554925-7cvta1"
+    "x-1794881554925-7cvta1",
+    "x-1794882756700-5wh672"
   ],
   "queue": [
-    {
-      "text": "🚨BREAKING: Zoom, BBC, HSBC and Ledger among 178 brands COMPROMISED by hackers targeting crypto.\n\nThe malicious code came through Optimizely, a website testing tool all 178 use.\n\nWith an infected site open in any tab, a crypto address you copied could have been swapped for one",
-      "url": "https://x.com/coinbureau/status/2122474891362578884",
-      "images": [
-        "https://pbs.twimg.com/media/HXSLD4yakAATLe-.jpg",
-        "https://pbs.twimg.com/media/HXSLTT1bwAAY_rC.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1794872563985
-    },
     {
       "text": "🇺🇸 JUST IN: A former Robinhood engineer pleads guilty to wire fraud after he used confidential info on future token additions to trade Hyperliquid perps for a $125,523 profit, per the DOJ.",
       "url": "https://x.com/Cointelegraph/status/2122487617895731239",
@@ -2030,6 +2020,15 @@
       ],
       "video": null,
       "enqueuedAt": 1794879124103
+    },
+    {
+      "text": "🚨 BIG: Kalshi buys New York broker FB Securities and plans to offer stocks and ETFs within the next two months, WSJ reports.",
+      "url": "https://x.com/Cointelegraph/status/2122517814732849191",
+      "images": [
+        "https://pbs.twimg.com/media/HXSys4vXYAI1ZMV.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794882759280
     }
   ],
   "posted": [
@@ -2662,7 +2661,17 @@
       "at": 1794880926786,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389077964884328?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨BREAKING: Zoom, BBC, HSBC and Ledger among 178 brands COMPROMISED by hackers targeting crypto.\n\nThe malicious code came through Optimizely, a website testing tool all 178 use.\n\nWith an infected site open in any tab, a crypto address you copied could have been swapped for one",
+      "final": "🚨BREAKING: Zoom, BBC, HSBC and Ledger among 178 brands COMPROMISED by hackers targeting crypto.\n\nThe malicious code came through Optimizely, a website testing tool all 178 use.\n\nWith an infected site open in any tab, a crypto address you copied could have been swapped for one\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HXSLD4yakAATLe-.jpg",
+        "https://pbs.twimg.com/media/HXSLTT1bwAAY_rC.png"
+      ],
+      "at": 1794882759280,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794880926786
+  "lastPostAt": 1794882759280
 }
