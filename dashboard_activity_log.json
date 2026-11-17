@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794796963971-dsv17v",
-    "source": "x",
-    "ts": "2026-11-16T02:42:43.971Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 31,
-    "originTimestamp": "2026-11-16T02:11:34.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15:\n\n“In our view, Flight 15 is a historic inflection moment for the company and spaceflight as a whole. SpaceX has recovered three Starship + many hundreds of Falcon 9 boosters in its history, and",
-    "url": "https://x.com/elonmusk/status/2122155781785346141"
-  },
-  {
-    "id": "x-1794797600421-ui0efp",
-    "source": "x",
-    "ts": "2026-11-16T02:53:20.422Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-16T02:45:42.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇨🇳 JUST IN: China confirms Xi Jinping will host the first-ever trilateral summit with Trump and Putin in Shenzhen on Thursday.",
-    "url": "https://x.com/Cointelegraph/status/2122159143192600786"
-  },
-  {
     "id": "x-1794798149997-qrvhp3",
     "source": "x",
     "ts": "2026-11-16T03:02:29.997Z",
@@ -7949,5 +7923,41 @@
     "reason": "No notable move; price is within its recent range.",
     "text": "🌎 @UTXOmgmt's Dan Hillery (@hillery_dan) on how Strategy keeps STRC near par:\n\n\"If the reverse sort of market forces come in and STRC starts to trade off, they'll simply just retire what they just sold into the market... effectively mopping it up.\"\n\n\"It's going to be this kind",
     "url": "https://x.com/BitcoinMagazine/status/2122731021388882283"
+  },
+  {
+    "id": "x-1794935523142-vfyxni",
+    "source": "x",
+    "ts": "2026-11-17T17:12:03.142Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T17:10:54.000Z",
+    "reason": "New regulatory consideration at the intersection of payments and tokenized markets.",
+    "text": "🇺🇸 NEW: The Fed highlights considerations at the intersection of payments and tokenized markets.",
+    "url": "https://x.com/Cointelegraph/status/2122739266807623793",
+    "images": [
+      "https://pbs.twimg.com/media/HXV8HNhXMAAoZU6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794935526830-be1x33",
+    "source": "x",
+    "ts": "2026-11-17T17:12:06.830Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-17T17:09:00.000Z",
+    "reason": "PEPE memecoin has experienced significant losses.",
+    "text": "PEPE memecoin suffer's crypto's biggest losses.\n\n@pepecoineth is leading weekly losses among crypto's top-100 tokens, down -31% at time of writing.\n\nOther major assets like @pudgypenguins $PENGU [-27%] and @ethena's $ENA [-25%] have also suffered over the past seven days.",
+    "url": "https://x.com/BSCNews/status/2122738787805487502",
+    "images": [
+      "https://pbs.twimg.com/media/HXVwwZ0XQAA7GCc.jpg"
+    ],
+    "video": null
   }
 ]
