@@ -2574,5 +2574,19 @@
     "fetchedAt": "2026-11-17T16:23:49.737Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-07f6496b1d9587bd",
+    "title": "AIOZ Storage MCP Server: Tools, Credentials, and Limits",
+    "url": "https://aioz.network/blog/aioz-storage-mcp-server-tools-credentials-and-limits",
+    "description": "The AIOZ Storage MCP Server connects MCP-compatible agents with AIOZ Storage, allowing them to work with files, buckets, and vector data through natural-language requests. With one MCP connection, agents can perform common storage operations without requiring builders to create a separate integration for every action. What Agents Can Do The AIOZ Storage MCP Server currently provides 22 tools acros",
+    "publishedAt": "2026-11-17T17:21:02.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-11-17T17:22:27.492Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
