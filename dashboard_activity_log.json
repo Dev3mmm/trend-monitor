@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1794706329496-xhnqpu",
-    "source": "x",
-    "ts": "2026-11-15T01:32:09.496Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-15T01:22:27.000Z",
-    "reason": "Price below a significant historical low with substantial liquidations.",
-    "text": "🚨ALERT: Bitcoin dumps below $63,000, its LOWEST level since August 2026.\n\n$BTC is now trading roughly 50% below from its all-time high around $126,200.\n\nOver $2 BILLION in crypto positions were liquidated in the past 24 hours.",
-    "url": "https://x.com/coinbureau/status/2121775804560634146",
-    "images": [
-      "https://pbs.twimg.com/media/HXIOWvHbcAAXol4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794708133065-ru3na0",
-    "source": "x",
-    "ts": "2026-11-15T02:02:13.065Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-15T02:00:01.000Z",
-    "reason": "Cardano founder's statement about the roadmap completion could indicate significant changes in the project's direction.",
-    "text": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says\n\nCardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
-    "url": "https://x.com/DecryptMedia/status/2121785259817586980",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794708137335-gwz9jt",
-    "source": "x",
-    "ts": "2026-11-15T02:02:17.335Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 39,
-    "originTimestamp": "2026-11-15T01:22:27.000Z",
-    "reason": "Notable recent price movement and significant prior week rally.",
-    "text": "A QUARTER of Bitcoin gains ERASED. 🔥\n\nLast August, Bitcoin added $14,775 in ONE week -- its largest weekly dollar gain ever.\n\nBTC rallied 23.5% from $62,818 to $77,593 in seven days.\n\nNow, Bitcoin is back below $63,000. That entire advance is gone.\n\nWhat powered that rally?\n\n-",
-    "url": "https://x.com/coinbureau/status/2121785258316022106",
-    "images": [
-      "https://pbs.twimg.com/media/HXIXd2SbgAARxCD.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794708717809-e7vqn0",
     "source": "x",
     "ts": "2026-11-15T02:11:57.809Z",
@@ -7961,5 +7909,55 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Jensen was demanding of his executives, yet consistently kind and supportive to individual contributors like me. Too many companies coddle their executives and shield them from accountability when things go wrong. Jensen did the opposite.\n\nI didn’t mind that my boss was",
     "url": "https://x.com/elonmusk/status/2122588732742304147"
+  },
+  {
+    "id": "x-1794900736259-ijy6to",
+    "source": "x",
+    "ts": "2026-11-17T07:32:16.259Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-17T07:31:21.000Z",
+    "reason": "Noteworthy institutional liquidity issue.",
+    "text": "🚨 LATEST: Upbit and Bithumb customer deposits fall by ₩2.5 trillion ($1.87 billion) this year through Q3.\n\nThe value of crypto the exchanges own drops 11.4% and 26.7%, respectively, per Yonhap.",
+    "url": "https://x.com/Cointelegraph/status/2122593418203312339",
+    "images": [
+      "https://pbs.twimg.com/media/HXT3dlrXcAEZlg6.jpg",
+      "https://pbs.twimg.com/media/HXT3dwQWUAAWFiM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794900742522-98q2ld",
+    "source": "x",
+    "ts": "2026-11-17T07:32:22.522Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T07:30:31.000Z",
+    "reason": "The tweet does not provide specific, verifiable crypto-related information.",
+    "text": "BREAKING: 🇰🇷South Korea’s KOSPI closes below 5,000 for the FIRST time since Feb 2, wiping out -$2.5 trillion since its June peak.\n\nThe KOSPI fell -2.6% today and is now down -45.5% from its record close.\n\nSamsung and SK Hynix, which made up 57% of the index at the peak, are",
+    "url": "https://x.com/coinbureau/status/2122593210002551192"
+  },
+  {
+    "id": "x-1794900748172-nxucv1",
+    "source": "x",
+    "ts": "2026-11-17T07:32:28.172Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-17T07:25:19.000Z",
+    "reason": "University investment in Bitcoin highlights institutional interest.",
+    "text": "Harvard Refuses to Back Down From its BlackRock Bitcoin Investment\n\nOne of the Elite Universities, Harvard (@Harvard), held 3,044,612 shares of BlackRock's iShares Bitcoin $BTC Trust at the end of September. \n\nThe value of the position was around $144.1 million. The university",
+    "url": "https://x.com/BSCNews/status/2122591898225561657",
+    "images": [
+      "https://pbs.twimg.com/media/HXTm-iTbIAAw3Tc.png"
+    ],
+    "video": null
   }
 ]
