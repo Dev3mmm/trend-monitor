@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794820930410-nvokez",
-    "source": "x",
-    "ts": "2026-11-16T09:22:10.410Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T09:17:13.000Z",
-    "reason": "No notable developments or price movements are highlighted in the tweet.",
-    "text": "Filecoin (@Filecoin) moved into mid-November after major developments in network economics, onchain pricing, and node software.\n\nSome of the highlights include:\n\n[Oct 19] The Solstice upgrade (network version 29) went live – Filecoin Plus was deprecated, and block rewards are now",
-    "url": "https://x.com/BSCNews/status/2122257672800252064",
-    "images": [
-      "https://pbs.twimg.com/media/HXPFrPnacAEljQM.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794821514402-aeyxw9",
-    "source": "x",
-    "ts": "2026-11-16T09:31:54.402Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T09:30:46.000Z",
-    "reason": "Telegram's ban in Jordan highlights regulatory tensions with crypto platforms.",
-    "text": "🇯🇴 NEW: Telegram blocked across Jordan as authorities cite cybercrime, radicalization and national security threats.",
-    "url": "https://x.com/Cointelegraph/status/2122261084216180918",
-    "images": [
-      "https://pbs.twimg.com/media/HXPJM6cWoAAj9B0.png",
-      "https://pbs.twimg.com/media/HXPJNLMWgAAKRiD.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794821516264-u92cvu",
     "source": "x",
     "ts": "2026-11-16T09:31:56.264Z",
@@ -7983,5 +7946,45 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Aero hits $0.5 TRILLION in total volume\n\n@aeroxyz has now processed a staggering $513B in cumulative DEX volume, with some $22.3B arriving the past 30 days alone.\n\nThis massive traction has translated to some $616M in cumulative fees, and activity on the platform has been",
     "url": "https://x.com/BSCNews/status/2122782324937130110"
+  },
+  {
+    "id": "x-1794946408186-5y0vrn",
+    "source": "x",
+    "ts": "2026-11-17T20:13:28.186Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T20:10:55.000Z",
+    "reason": "Fed official warns about crypto security risks due to high-profile hacks.",
+    "text": "🚨 NEW: Fed Governor Christopher Waller cited the $6.3 billion Binance hack while warning about security, fraud and accountability risks in tokenized financial markets.",
+    "url": "https://x.com/Cointelegraph/status/2122784568021233877",
+    "images": [
+      "https://pbs.twimg.com/media/HXWlT7zWoAA6vXx.jpg",
+      "https://pbs.twimg.com/media/HXWlUJOW8AAIgpZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794946413647-oemey9",
+    "source": "x",
+    "ts": "2026-11-17T20:13:33.647Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-17T20:09:08.000Z",
+    "reason": "Noteworthy institutional investment in Bitcoin ETF by Abu Dhabi sovereign wealth fund.",
+    "text": "JUST IN: 🇦🇪 Abu Dhabi sovereign wealth fund Mubadala and the Abu Dhabi Investment Council disclosed holding ~$1.1 billion worth of BlackRock's Bitcoin ETF 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2122784121470763092",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122782580885848064/vid/avc1/1280x720/mzBFUPW95kSVaJK3.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122782580885848064/img/8LvFVsZXNxOcZISW.jpg"
+    }
   }
 ]
