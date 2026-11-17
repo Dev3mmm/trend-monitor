@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794688342395-yzdzgp",
-    "source": "x",
-    "ts": "2026-11-14T20:32:22.395Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-14T20:22:51.000Z",
-    "reason": "No notable crypto-related event or use of crypto indicated.",
-    "text": "Starship deorbit burn in 30 seconds",
-    "url": "https://x.com/elonmusk/status/2121700409173487768"
-  },
-  {
     "id": "x-1794688938596-wznlrb",
     "source": "x",
     "ts": "2026-11-14T20:42:18.596Z",
@@ -7936,6 +7923,24 @@
     "url": "https://x.com/Cointelegraph/status/2122517814732849191",
     "images": [
       "https://pbs.twimg.com/media/HXSys4vXYAI1ZMV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794883433347-cnrhnn",
+    "source": "x",
+    "ts": "2026-11-17T02:43:53.348Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-17T02:36:00.000Z",
+    "reason": "PancakeSwap hit a significant milestone in terms of total volume on a popular L2 network.",
+    "text": "PancakeSwap now the third largest DEX on Base.\n\n@PancakeSwap has hit $125B in total volume on @Coinbase's @Base L2 network, and is now the 3rd most used DEX on the chain.\n\nOutpaced only by @Uniswap $UNI and @aeroxyz $AERO, $CAKE's $3B 30-day volume on the chain makes it more",
+    "url": "https://x.com/BSCNews/status/2122519090124435827",
+    "images": [
+      "https://pbs.twimg.com/media/HXPmw0iXgAAkYnS.jpg"
     ],
     "video": null
   }
