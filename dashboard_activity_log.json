@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794775913334-bon09l",
-    "source": "x",
-    "ts": "2026-11-15T20:51:53.334Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 115,
-    "originTimestamp": "2026-11-15T18:56:44.000Z",
-    "reason": "No factual claim or verifiable event.",
-    "text": "IMO Grok is currently, the best tool for understanding what’s happening in the world.  Is Jensen being railroaded?",
-    "url": "https://x.com/elonmusk/status/2122068455415234856"
-  },
-  {
-    "id": "x-1794775916236-ulnics",
-    "source": "x",
-    "ts": "2026-11-15T20:51:56.236Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-15T20:43:00.000Z",
-    "reason": "Algorand adoption growth and network metrics highlight a notable use case for its token.",
-    "text": "Algorand adoption exploded in October.\n\nAccording to its Q3 Token Holder Report, @Algorand saw growth across multiple key metrics last month:\n\n- Active addresses surged +270% on the quarter, reaching 518,000.\n\n- A staggering 719,000 new assets were created on the network, up",
-    "url": "https://x.com/BSCNews/status/2122067867008995521",
-    "images": [
-      "https://pbs.twimg.com/media/HXKEJSNXAAAkLvs.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794776571844-kohe6h",
-    "source": "x",
-    "ts": "2026-11-15T21:02:51.844Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-15T21:00:00.000Z",
-    "reason": "Binance targets to restore withdrawals for all assets by the end of the week, with ongoing progress.",
-    "text": "🚨UPDATE: Binance targets to reopen withdrawals for ALL ASSETS by the end of this week.\n\nBinance announced it had restored withdrawals across 87 networks in the past week, with the rest targeted for this week.\n\nThe exchange has been restoring withdrawals in phases after covering",
-    "url": "https://x.com/coinbureau/status/2122072146876805379",
-    "images": [
-      "https://pbs.twimg.com/media/HXMcsmebsAAJahv.jpg",
-      "https://pbs.twimg.com/media/HXMcsoybEAAnd2V.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794777716371-1g1kh3",
     "source": "x",
     "ts": "2026-11-15T21:21:56.371Z",
@@ -7987,5 +7937,55 @@
       "https://pbs.twimg.com/media/HXVcopdbwAA33fm.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794928311365-d3h3ks",
+    "source": "x",
+    "ts": "2026-11-17T15:11:51.365Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-17T15:10:56.000Z",
+    "reason": "Coinbase integrates AI for trading plugins, potentially changing user experience.",
+    "text": "🔥 UPDATE: Coinbase launches a ChatGPT plugin for trading stocks, crypto and derivatives; user approval required for every order.",
+    "url": "https://x.com/Cointelegraph/status/2122709074433208688",
+    "images": [
+      "https://pbs.twimg.com/media/HXVgpbJWcAAxc0p.jpg",
+      "https://pbs.twimg.com/media/HXVgpx-XwAAN_Bk.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794928318330-fjw7fg",
+    "source": "x",
+    "ts": "2026-11-17T15:11:58.330Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T15:09:00.000Z",
+    "reason": "Tinyman's dominance in Algorand's DEX volume is a notable institutional use case.",
+    "text": "Tinyman is driving Algorand’s DEX Surge...\n\nTinyman (@tinymanorg accounts for approximately 85% of @Algorand’s 7-day DEX volume, according to DefiLlama. \n\nThis is around $2.15 million of Algorand’s total weekly volume of $2.53 million, an increase of 26.5% week over week.\n\nIn the",
+    "url": "https://x.com/BSCNews/status/2122708589252882558",
+    "images": [
+      "https://pbs.twimg.com/media/HXVVRXtWkAA4Yeg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794928322040-8iy331",
+    "source": "x",
+    "ts": "2026-11-17T15:12:02.040Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-17T15:05:12.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "NVDA Earnings, Anthropic IPO Preview, Cyber Attack Week &amp; State of Crypto",
+    "url": "https://x.com/DecryptMedia/status/2122707634578956677"
   }
 ]
