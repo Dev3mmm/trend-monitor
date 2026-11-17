@@ -1,75 +1,5 @@
 [
   {
-    "id": "x-1794802365152-0n0he7",
-    "source": "x",
-    "ts": "2026-11-16T04:12:45.152Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-16T04:03:25.000Z",
-    "reason": "Noise: generic tweet without content.",
-    "text": "@nbcsnl lol",
-    "url": "https://x.com/elonmusk/status/2122179460435001423"
-  },
-  {
-    "id": "x-1794802936808-461wb4",
-    "source": "x",
-    "ts": "2026-11-16T04:22:16.808Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 36,
-    "originTimestamp": "2026-11-16T03:45:45.000Z",
-    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
-    "text": "The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.",
-    "url": "https://x.com/elonmusk/status/2122182607391920214"
-  },
-  {
-    "id": "x-1794803560887-isml9n",
-    "source": "x",
-    "ts": "2026-11-16T04:32:40.887Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T04:27:41.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸  JUST IN: The Trump administration is set to name Nvidia, Amazon, Microsoft, OpenAI and Anthropic among its AI “national champions” to help US firms win business overseas, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2122184810672087464"
-  },
-  {
-    "id": "x-1794803566129-dymd0v",
-    "source": "x",
-    "ts": "2026-11-16T04:32:46.129Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-16T04:26:12.000Z",
-    "reason": "Binance co-founder denies claims of crypto sale, Bitcoin price at a recent low.",
-    "text": "CZ Shuts Down Binance Selling Rumors as Bitcoin Hits $62K\n\nBinance (@binance) co-founder, Changpeng Zhao (@cz_binance) has denied claims that the exchange sold crypto following its recent hack.\n\nHis comments came as Bitcoin $BTC fell to $62,006, its lowest level since July. The",
-    "url": "https://x.com/BSCNews/status/2122184437421019225",
-    "images": [
-      "https://pbs.twimg.com/media/HXOCPVybUAAIJu0.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794804149726-he13x2",
-    "source": "x",
-    "ts": "2026-11-16T04:42:29.726Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T04:37:30.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🚨BREAKING: Japan's economic CRISIS deepens as GDP contracts for the first time in a year.\n\nNearly ¥18.84 TRILLION ($120 BILLION) has been wiped from Japanese stocks today as the Nikkei falls -1.6% following a surprise economic contraction.\n\nJapan's GDP shrank at an annualized",
-    "url": "https://x.com/coinbureau/status/2122187279888425206"
-  },
-  {
     "id": "x-1794805317298-yfadvp",
     "source": "x",
     "ts": "2026-11-16T05:01:57.298Z",
@@ -7952,6 +7882,81 @@
     "text": "Chainspect data shows Internet Computer (@dfinity) hit a record monthly average of 4,200 TPS, setting a new throughput high for the $ICP network.\n\nBSCN keeps its $ICP file on a single page, where throughput milestones, canister smart contracts, Cloud Engines and application",
     "url": "https://x.com/BSCNews/status/2122745790699634823",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794937959296-5xpaa3",
+    "source": "x",
+    "ts": "2026-11-17T17:52:39.296Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T17:50:55.000Z",
+    "reason": "Regulatory body discussing critical aspects of crypto and derivatives trading",
+    "text": "🇺🇸 JUST IN: The CFTC will hold a roundtable on December 15 to discuss 24/7 derivatives trading, including tokenization, margin requirements, and market infrastructure.",
+    "url": "https://x.com/Cointelegraph/status/2122749336404541554",
+    "images": [
+      "https://pbs.twimg.com/media/HXWFRYmXEAA1Jl1.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794937964681-f63fv0",
+    "source": "x",
+    "ts": "2026-11-17T17:52:44.681Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 100,
+    "originTimestamp": "2026-11-17T16:11:53.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Tesla has officially unveiled its first-ever transformer called Powercore, enabling fully off-grid data centers.\n\n• Solid state medium voltage transformer, inverter &amp; breaker\n• Peak efficiency: 98.86%\n• Power: 9 MVA 7.4 MW. Grid-forming support for 10MVA of peak power.\n• AC",
+    "url": "https://x.com/elonmusk/status/2122748468644983172"
+  },
+  {
+    "id": "x-1794937970118-azmap7",
+    "source": "x",
+    "ts": "2026-11-17T17:52:50.118Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-17T17:45:00.000Z",
+    "reason": "No notable crypto-related news or move in the tweet.",
+    "text": "Leopold Aschenbrenner's Fund Reports $1.58B In 13F Holdings, Down From $20.2B.\n\nThe fund's Sept. 30 filing no longer lists Micron or Taiwan Semiconductor, and its largest reported position is $440.7 million of SharonAI shares, with most other entries listed as call options.",
+    "url": "https://x.com/DecryptMedia/status/2122747847661731940"
+  },
+  {
+    "id": "x-1794937972847-9oghmk",
+    "source": "x",
+    "ts": "2026-11-17T17:52:52.847Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 49,
+    "originTimestamp": "2026-11-17T17:03:33.000Z",
+    "reason": "No crypto-related content.",
+    "text": "Starlink saves lives",
+    "url": "https://x.com/elonmusk/status/2122747622662222010"
+  },
+  {
+    "id": "x-1794937977375-2kc06o",
+    "source": "x",
+    "ts": "2026-11-17T17:52:57.375Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-17T17:43:54.000Z",
+    "reason": "Potential widespread technical issues affecting Apple services could impact cryptocurrency transactions and user experience.",
+    "text": "🚨 ALERT: User reports indicate issues with Apple Support, iCloud and Apple Pay, according to Downdetector.",
+    "url": "https://x.com/Cointelegraph/status/2122747569889554809",
+    "images": [
+      "https://pbs.twimg.com/media/HXWDqhNWQAA60bm.jpg"
+    ],
     "video": null
   }
 ]
