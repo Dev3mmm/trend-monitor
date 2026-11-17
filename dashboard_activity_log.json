@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794817351374-zty3zv",
-    "source": "x",
-    "ts": "2026-11-16T08:22:31.375Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 37,
-    "originTimestamp": "2026-11-16T07:44:54.000Z",
-    "reason": "No notable crypto-related event or move mentioned.",
-    "text": "Now serving more of Miami 🌴",
-    "url": "https://x.com/elonmusk/status/2122241757207556360"
-  },
-  {
-    "id": "x-1794817963253-3hxh8g",
-    "source": "x",
-    "ts": "2026-11-16T08:32:43.253Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T08:30:46.000Z",
-    "reason": "Specific institutional decision involving a significant token.",
-    "text": "🚨 UPDATE: Cardano voters overwhelmingly reject spending 22M $ADA from treasury to buy and tokenize copper.",
-    "url": "https://x.com/Cointelegraph/status/2122245982616236428",
-    "images": [
-      "https://pbs.twimg.com/media/HXO7d9BW0AAi2jx.png",
-      "https://pbs.twimg.com/media/HXO7eS2WUAAZw88.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794817967915-kpf18s",
     "source": "x",
     "ts": "2026-11-16T08:32:47.915Z",
@@ -7983,6 +7951,41 @@
     "images": [
       "https://pbs.twimg.com/media/HXWYe1-boAEPXTR.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794943939923-yr2qen",
+    "source": "x",
+    "ts": "2026-11-17T19:32:19.923Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-17T19:30:58.000Z",
+    "reason": "Citi's warning on futures positions could affect crypto markets.",
+    "text": "🚨 NEW: Citi warns that 95% of S&amp;P 500 futures long positions are underwater, with $45.9 billion in long exposure at risk of liquidation if the market weakens further.",
+    "url": "https://x.com/Cointelegraph/status/2122774516778561591",
+    "images": [
+      "https://pbs.twimg.com/media/HXWcKVoW8AAdTYA.jpg",
+      "https://pbs.twimg.com/media/HXWcK2WW8AA4fWr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794943942987-7tdify",
+    "source": "x",
+    "ts": "2026-11-17T19:32:22.987Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-17T19:27:15.000Z",
+    "reason": "Ethereum developers considering a scaling upgrade that could potentially support thousands of apps.",
+    "text": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+    "url": "https://x.com/DecryptMedia/status/2122773579947299092",
+    "images": [],
     "video": null
   }
 ]
