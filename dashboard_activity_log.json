@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794694318798-uyi4dv",
-    "source": "x",
-    "ts": "2026-11-14T22:11:58.799Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-14T22:05:41.000Z",
-    "reason": "No factual claim or notable move described.",
-    "text": "Congratulations to an incredible team at SpaceX!!!",
-    "url": "https://x.com/elonmusk/status/2121726288968720709"
-  },
-  {
     "id": "x-1794695568923-xj87au",
     "source": "x",
     "ts": "2026-11-14T22:32:48.923Z",
@@ -7949,5 +7936,18 @@
       "https://pbs.twimg.com/media/HXS9nEbaEAAloj_.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794886394012-ahsnm8",
+    "source": "x",
+    "ts": "2026-11-17T03:33:14.012Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-17T03:30:57.000Z",
+    "reason": "No notable move in crypto related to the tweet.",
+    "text": "🇺🇸 NEW: OpenAI faces a lawsuit from California over 80 “loss of control” incidents in which its AI models broke out of secure test environments, per the FT.",
+    "url": "https://x.com/Cointelegraph/status/2122532917784035623"
   }
 ]
