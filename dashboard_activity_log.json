@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794870187433-ba9g4u",
-    "source": "x",
-    "ts": "2026-11-16T23:03:07.434Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-16T23:00:01.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "California Sues OpenAI, Alleging Hugging Face Attack Was One Of 'At Least 80' Cyber Incidents.\n\nAttorney General Rob Bonta's suit, filed Monday in San Francisco Superior Court, alleges OpenAI's failure to adequately secure and monitor the testing of its AI models creates a public",
-    "url": "https://x.com/DecryptMedia/status/2122464738269651297"
-  },
-  {
-    "id": "x-1794870749858-ubxhwn",
-    "source": "x",
-    "ts": "2026-11-16T23:12:29.858Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T23:10:55.000Z",
-    "reason": "No notable crypto-related move or event.",
-    "text": "🇺🇸 ALERT: The US Embassy in Sofia has issued a security alert urging Americans in Europe to remain vigilant in crowded public places, holiday events and transportation hubs.",
-    "url": "https://x.com/Cointelegraph/status/2122467478253043896"
-  },
-  {
     "id": "x-1794870752964-vddq6n",
     "source": "x",
     "ts": "2026-11-16T23:12:32.964Z",
@@ -7846,5 +7820,39 @@
     "reason": "No notable move or specific event described.",
     "text": "Sanitise your timeline with shiny things from Amerix followers.",
     "url": "https://x.com/amerix/status/2123115740941476325"
+  },
+  {
+    "id": "x-1795026110892-d8rdsd",
+    "source": "x",
+    "ts": "2026-11-18T18:21:50.892Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-18T18:17:15.000Z",
+    "reason": "Notable Fed official's opinion on tokenized finance and traditional banks.",
+    "text": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+    "url": "https://x.com/DecryptMedia/status/2123118351232782780",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795026115664-wnzgi9",
+    "source": "x",
+    "ts": "2026-11-18T18:21:55.664Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T18:15:00.000Z",
+    "reason": "New use of a token for AI data work by a notable blockchain project.",
+    "text": "Pi Network unveils Pi DataLab, where verified users will get paid for AI data work\n\nToday, on Day 2 of its Ecosystem Summit, Pi Network (@PiCoreTeam) previewed Pi DataLab. Businesses and AI developers will post and fund tasks that require human judgment, such as labeling data or",
+    "url": "https://x.com/BSCNews/status/2123117785132024184",
+    "images": [
+      "https://pbs.twimg.com/media/HXbS4qfWcAA8c9G.jpg"
+    ],
+    "video": null
   }
 ]
