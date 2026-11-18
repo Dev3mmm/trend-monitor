@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1794832942817-gdyomr",
-    "source": "x",
-    "ts": "2026-11-16T12:42:22.817Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-16T12:36:25.000Z",
-    "reason": "Notable government ban on Telegram affecting cryptocurrency-related activity.",
-    "text": "🚨JUST IN: Jordan and Iraq separately announced BANNING Telegram today, citing national security concerns, per i24NEWS.\n\nEach government publicly stated their reasons:\n\n🇯🇴 Jordan says the app is being misused for cybercrime, threats, extortion and extremist content.\n\nAuthorities",
-    "url": "https://x.com/coinbureau/status/2122307803796898232",
-    "images": [
-      "https://pbs.twimg.com/media/HXPy8CvbgAAjwry.png",
-      "https://pbs.twimg.com/media/HXPy8bAaMAAhTRG.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794832946391-qg207r",
-    "source": "x",
-    "ts": "2026-11-16T12:42:26.391Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-16T12:32:52.000Z",
-    "reason": "Exploit involving stolen API keys and potential theft of funds.",
-    "text": "⚠️ALERT: Lighter $LIT drops over 20% amid reports of a suspected $15.5M theft.\n\nEarly analysis points an attacker obtained API keys belonging to two market-maker accounts.\n\nHere's what the attacker allegedly did:\n\n- closed the victims’ positions and converted their balances to",
-    "url": "https://x.com/coinbureau/status/2122306911152521608",
-    "images": [
-      "https://pbs.twimg.com/media/HXPoxXFbUAAUR6-.jpg",
-      "https://pbs.twimg.com/media/HXPvMnEaUAAMeMj.png",
-      "https://pbs.twimg.com/media/HXPvPQYa8AAAn4z.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794833538728-bip041",
     "source": "x",
     "ts": "2026-11-16T12:52:18.728Z",
@@ -7934,5 +7895,37 @@
     "reason": "No notable crypto-related move or adoption.",
     "text": "🏢 400 Marquette in Oak Creek, WI earns 5.4% APR on ASX Capital, paid out monthly.\n\n$750 in MRQ earns about $3.40 a month at that rate.\n\nBuy MRQ:",
     "url": "https://x.com/BSCNews/status/2122886371329110356"
+  },
+  {
+    "id": "x-1794971538568-yvr5nz",
+    "source": "x",
+    "ts": "2026-11-18T03:12:18.568Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-18T03:09:00.000Z",
+    "reason": "No notable move or specific event, just a meme coin shill.",
+    "text": "The making of a memecoin legend...\n\nThe story of how @VitalikButerin turned @Shibtoken $SHIB into a memecoin phenomenon is one worth knowing ⬇️",
+    "url": "https://x.com/BSCNews/status/2122889782758150197"
+  },
+  {
+    "id": "x-1794971543968-y2zgwg",
+    "source": "x",
+    "ts": "2026-11-18T03:12:23.969Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T03:06:50.000Z",
+    "reason": "Coinbase protects customer funds with AI prevention agent.",
+    "text": "Coinbase: AI Scam Prevention Agent Blocks Deepfake Elon Musk Tesla Giveaway Scam, Protecting ~$4.7M in Customer Funds\n\nAccording to Coinbase blog, scammers spun up a fake YouTube livestream during Tesla’s \"flying car\" demo featuring an AI deepfake of Elon Musk promoting a",
+    "url": "https://x.com/WuBlockchain/status/2122889236982759826",
+    "images": [
+      "https://pbs.twimg.com/media/HXYEfLNbwAAbZ2E.jpg",
+      "https://pbs.twimg.com/media/HXYEf3rbAAAPmTk.jpg"
+    ],
+    "video": null
   }
 ]
