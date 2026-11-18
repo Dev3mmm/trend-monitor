@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794888176620-ga2ql0",
-    "source": "x",
-    "ts": "2026-11-17T04:02:56.620Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-17T03:59:35.000Z",
-    "reason": "Vague opinion with no factual claim",
-    "text": "The ROAD to success and greatness is narrow, windy and rough: \n\nThat ROAD is called ROD.\n\n• Routine\n\n• Order\n\n• Discipline\n\nFollow it and thank me later.",
-    "url": "https://x.com/amerix/status/2122540124365803916"
-  },
-  {
-    "id": "x-1794889935531-szxkhy",
-    "source": "x",
-    "ts": "2026-11-17T04:32:15.532Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T04:30:56.000Z",
-    "reason": "No notable crypto-related event or use of crypto mentioned.",
-    "text": "🚨 LATEST: Google Threat Intelligence says hackers now use multi-agent AI tools to find and exploit software flaws without any human input, a first.",
-    "url": "https://x.com/Cointelegraph/status/2122548013109248144"
-  },
-  {
     "id": "x-1794889938609-gifsvn",
     "source": "x",
     "ts": "2026-11-17T04:32:18.609Z",
@@ -7814,6 +7788,43 @@
     "url": "https://x.com/Cointelegraph/status/2123151938032177392",
     "images": [
       "https://pbs.twimg.com/media/HXbzbqFXUAA9iDr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795035183247-fadpqb",
+    "source": "x",
+    "ts": "2026-11-18T20:53:03.247Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T20:47:35.000Z",
+    "reason": "Notable regulatory move for crypto derivatives market.",
+    "text": "🇺🇸 NEW: Backpack secures NFA approval to offer CFTC-regulated perpetual futures trading in the US.",
+    "url": "https://x.com/Cointelegraph/status/2123156186165805314",
+    "images": [
+      "https://pbs.twimg.com/media/HXb3S8xXIAA6JVR.jpg",
+      "https://pbs.twimg.com/media/HXb3TLWWcAEWYcJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795035185772-u8ns3k",
+    "source": "x",
+    "ts": "2026-11-18T20:53:05.772Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-18T20:44:00.000Z",
+    "reason": "Notable institutional integration of LayerZero with a new data provider.",
+    "text": "Pyth Network will feed prices to LayerZero ATLAS from day one\n\n@PythNetwork will supply market data to ATLAS, the exchange engine from @LayerZero_Core, when it launches on November 30. Both projects confirmed it today.\n\nATLAS has no app of its own. Trading platforms build their",
+    "url": "https://x.com/BSCNews/status/2123155282083910026",
+    "images": [
+      "https://pbs.twimg.com/media/HXbnCBRXEAAic0y.jpg"
     ],
     "video": null
   }
