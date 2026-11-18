@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794858153969-dhm4ie",
-    "source": "x",
-    "ts": "2026-11-16T19:42:33.969Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T19:37:15.000Z",
-    "reason": "Trump's former crypto chief criticizes U.S. leadership in the crypto space.",
-    "text": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
-    "url": "https://x.com/DecryptMedia/status/2122413708395589667",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794859458814-6zop5x",
-    "source": "x",
-    "ts": "2026-11-16T20:04:18.814Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-16T19:49:13.000Z",
-    "reason": "Not relevant to crypto or blockchain.",
-    "text": "🚨 INTERESTING: Former Nvidia CEO Jensen Huang transferred over $10.5 billion in $NVDA shares to a family trust in March, ahead of his resignation.",
-    "url": "https://x.com/Cointelegraph/status/2122416720443031680",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794859461917-rk9hvd",
-    "source": "x",
-    "ts": "2026-11-16T20:04:21.918Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-16T19:46:00.000Z",
-    "reason": "No notable crypto-related news is mentioned.",
-    "text": "SEC and CFTC nominees face the Senate this week\n\nThe Senate Agriculture Committee hears two @CFTC nominees on Tuesday: Republican Nathan Anonick and Democrat Matthew Rowland.\n\nOn Thursday, the Senate Banking Committee takes up two @SECGov picks: Republican Steven Levine and",
-    "url": "https://x.com/BSCNews/status/2122415910216446316"
-  },
-  {
     "id": "x-1794859466215-kmwqt9",
     "source": "x",
     "ts": "2026-11-16T20:04:26.215Z",
@@ -7904,5 +7859,49 @@
     "url": "https://x.com/DecryptMedia/status/2123059164318487015",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795012973757-t9kc3c",
+    "source": "x",
+    "ts": "2026-11-18T14:42:53.757Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T14:42:00.000Z",
+    "reason": "Project Guardian collaboration adds regulatory traction to tokenization efforts.",
+    "text": "Ondo Just Got a Seat at Singapore’s Tokenization Table\n\nReal-world asset issuer Ondo Finance (@Ondo) has joined Project Guardian, an interjurisdictional tokenization effort led by the Monetary Authority of Singapore (MAS).\n\nProject Guardian is a collaboration between central",
+    "url": "https://x.com/BSCNews/status/2123064182287356171",
+    "images": [
+      "https://pbs.twimg.com/media/HXahycnWUAAa3VN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795012976776-zpxbt4",
+    "source": "x",
+    "ts": "2026-11-18T14:42:56.776Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-18T14:34:50.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Bitcoin has cleared our $BTC Breakeven ARR in every rolling four-year window over the past decade. $MSTR $STRC",
+    "url": "https://x.com/saylor/status/2123064128038121708"
+  },
+  {
+    "id": "x-1795012980106-7aabtc",
+    "source": "x",
+    "ts": "2026-11-18T14:43:00.106Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T14:37:56.000Z",
+    "reason": "The tweet lacks specific price or event information.",
+    "text": "LIVE: Wall Street's 13F Bitcoin Bets, BTC Selloff &amp; The Bitcoin Standard | BMTV Nov. 18, 2026",
+    "url": "https://x.com/BitcoinMagazine/status/2123063157673296048"
   }
 ]
