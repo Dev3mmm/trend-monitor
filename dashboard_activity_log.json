@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794861198042-zc4dxh",
-    "source": "x",
-    "ts": "2026-11-16T20:33:18.042Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 22,
-    "originTimestamp": "2026-11-16T20:10:42.000Z",
-    "reason": "Data breach exposing sensitive customer information.",
-    "text": "🚨️️ ALERT: Trezor says a data breach at its delivery partner Skladon exposed personal information linked to approximately 27,000 orders, including customer names, addresses, phone numbers, and emails, while Trezor’s systems and devices remained secure.",
-    "url": "https://x.com/Cointelegraph/status/2122422125206045142",
-    "images": [
-      "https://pbs.twimg.com/media/HXRbrILW0AAlAVy.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794861202077-v48hsp",
-    "source": "x",
-    "ts": "2026-11-16T20:33:22.077Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 28,
-    "originTimestamp": "2026-11-16T20:05:04.000Z",
-    "reason": "On-chain data suggesting Internet Computer handles more transactions than Solana.",
-    "text": "Is Internet Computer (internet-computer:native) really handling three times as many transactions as Solana? @chainspect_app data puts @dfinity’s network at 5,260 transactions per second ⬇️",
-    "url": "https://x.com/BSCNews/status/2122420708332704196",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794861205696-7zfo6c",
     "source": "x",
     "ts": "2026-11-16T20:33:25.696Z",
@@ -7911,5 +7877,37 @@
       "https://pbs.twimg.com/media/HXamXVHWcAAzB1R.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795015937112-4w3a9v",
+    "source": "x",
+    "ts": "2026-11-18T15:32:17.112Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T15:30:00.000Z",
+    "reason": "The tweet is about a data security breach, not a concrete and specific crypto-related news.",
+    "text": "🚨TODAY: Two data security breaches incidents hit MUFG Bank and Japan’s Ministry of Health, Labour and Welfare classified drug reporting system.\n\n1. MUFG Bank\nThe bank says a breach of PLAID’s KARTE platform exposed about 6.5 million customer records, including age, gender and",
+    "url": "https://x.com/coinbureau/status/2123076264072229338",
+    "images": [
+      "https://pbs.twimg.com/media/HXauWOtbsAA9zj2.jpg",
+      "https://pbs.twimg.com/media/HXauWO1bQAAUCqG.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795015941879-eftkbn",
+    "source": "x",
+    "ts": "2026-11-18T15:32:21.879Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T15:24:43.000Z",
+    "reason": "Tweet is a listicle about liver failure causes, not a news event.",
+    "text": "5 top causes of Liver Failure\n\n1. Paracetamol\n\n2. Alcohol\n\n3. Obesity: A fatty Liver\n\n4.  Diabetes\n\n5. Viruses - Hepatitis B",
+    "url": "https://x.com/amerix/status/2123074934167785474"
   }
 ]
