@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794829966917-o28o6n",
-    "source": "x",
-    "ts": "2026-11-16T11:52:46.917Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T11:50:41.000Z",
-    "reason": "Notable regulatory move expanding crypto licensing.",
-    "text": "🇭🇰 JUST IN: Hong Kong plans year-end bill expanding crypto licensing to dealers, advisers and custodians, per Financial Secretary Paul Chan.\n\nOnly 2 of 36 first-round stablecoin applicants licensed so far.",
-    "url": "https://x.com/Cointelegraph/status/2122296295826071597",
-    "images": [
-      "https://pbs.twimg.com/media/HXPpO5VXYAAK_sr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794829970955-xpe4nf",
-    "source": "x",
-    "ts": "2026-11-16T11:52:50.955Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T11:48:00.000Z",
-    "reason": "New use of a token/protocol incentivized by age.",
-    "text": "My Age Is Taking Over TON Before Its Token Even Lists\n\nMy Age (@appmyage), a @Telegram Mini App on TON (@ton_blockchain), promises to offer solana:5s5GwwaLh8Xq6s3SQYPDyhLH8eL6AN6zkiLQx8zepump token incentives based on how old your Telegram account is. \n\nAccording to the protocol,",
-    "url": "https://x.com/BSCNews/status/2122295617854816377",
-    "images": [
-      "https://pbs.twimg.com/media/HXPiAHaWcAEb4eJ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794830528811-06k6lg",
-    "source": "x",
-    "ts": "2026-11-16T12:02:08.811Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T12:00:01.000Z",
-    "reason": "No notable crypto news or move mentioned.",
-    "text": "Asian Chip Stocks Slide as Taiwan's TAIEX Drops 6% and Kospi Falls 3.6%.\n\nSK Hynix closed down 7.9% and Advantest 11.1% on Monday, while TSMC fell 5.7% and Japan's Nikkei 225 lost 2.4%, according to exchange data.",
-    "url": "https://x.com/DecryptMedia/status/2122298641788612968"
-  },
-  {
     "id": "x-1794830532188-ee8kb9",
     "source": "x",
     "ts": "2026-11-16T12:02:12.188Z",
@@ -7927,6 +7878,53 @@
       "https://pbs.twimg.com/media/HXXs_DuWEAEw-tU.jpg",
       "https://pbs.twimg.com/media/HXXs_OeWkAAHw-8.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794967353757-nngifx",
+    "source": "x",
+    "ts": "2026-11-18T02:02:33.757Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T02:01:00.000Z",
+    "reason": "New focus on AVAX token by Avalanche Foundation.",
+    "text": "The Avalanche Foundation is turning its attention to the $AVAX token!\n\n@Avax's @AvalancheFDN has announced its official Research Agenda.\n\nThough the overall agenda is wide-reaching and robust, we could not help noticing what appears to be a renewed focus on the $AVAX asset",
+    "url": "https://x.com/BSCNews/status/2122872670236930287",
+    "images": [
+      "https://pbs.twimg.com/media/HXVCy7rXIAAzXdm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794967359112-ca93a1",
+    "source": "x",
+    "ts": "2026-11-18T02:02:39.112Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T02:00:40.000Z",
+    "reason": "Noise: No concrete event or price movement mentioned.",
+    "text": "🚨 TIMELINE: A week of major outages and attacks.\n\nNov. 12: Microsoft 365 suffers a major outage.\n\nNov. 13: The FAA orders a nationwide ground stop and halts all US flights.\n\nNov. 16: Bank of America, JPMorgan Chase and Wells Fargo face widespread online banking outages.\n\nNov.",
+    "url": "https://x.com/Cointelegraph/status/2122872585209721132"
+  },
+  {
+    "id": "x-1794967363977-jidx6v",
+    "source": "x",
+    "ts": "2026-11-18T02:02:43.977Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T02:00:01.000Z",
+    "reason": "Exploit involving wallet address swap and card skimming",
+    "text": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses\n\nMalicious code served through the website testing platform replaced visitors' wallet addresses with the attacker's and skimmed cards.",
+    "url": "https://x.com/DecryptMedia/status/2122872424924655663",
+    "images": [],
     "video": null
   }
 ]
