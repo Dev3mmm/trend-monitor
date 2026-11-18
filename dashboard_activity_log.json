@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1794865952089-7b27ao",
-    "source": "x",
-    "ts": "2026-11-16T21:52:32.089Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T21:47:15.000Z",
-    "reason": "Bitcoin's price touching $60,000 during a significant event like a $2 billion liquidation is noteworthy.",
-    "text": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-    "url": "https://x.com/DecryptMedia/status/2122446423899730073",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794865957919-gl01dt",
-    "source": "x",
-    "ts": "2026-11-16T21:52:37.919Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T21:47:00.000Z",
-    "reason": "Notable regulatory and governance move in the NEAR Protocol.",
-    "text": "NEAR votes to cut its inflation for the second time in just over a year\n\nHouse of Stake, the governance body of @NEARProtocol, has approved cutting the maximum yearly issuance of $NEAR from 2.5% to 1.6%. The vote ended 99.96% in favor, and the final security review closed today",
-    "url": "https://x.com/BSCNews/status/2122446360922513879",
-    "images": [
-      "https://pbs.twimg.com/media/HXRmCfIXQAANsY4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794866536068-2ftj5x",
-    "source": "x",
-    "ts": "2026-11-16T22:02:16.068Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 63,
-    "originTimestamp": "2026-11-16T20:58:36.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "What was the significance of this weekend's SpaceX tower catch: \n\n\"Catching the second stage is substantially harder than catching the first stage because the Ship returns from orbit while the booster returns from a short suborbital hop. The booster separates minutes after",
-    "url": "https://x.com/elonmusk/status/2122448619915870208"
-  },
-  {
     "id": "x-1794867111048-x7xve0",
     "source": "x",
     "ts": "2026-11-16T22:11:51.048Z",
@@ -7874,5 +7827,52 @@
     "reason": "No factual claim or specific event mentioned.",
     "text": "Seller exhaustion will come long before Saylor exhaustion.",
     "url": "https://x.com/saylor/status/2123098624204710141"
+  },
+  {
+    "id": "x-1795021948289-s2ct7o",
+    "source": "x",
+    "ts": "2026-11-18T17:12:28.289Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T17:10:37.000Z",
+    "reason": "No direct relation to cryptocurrencies or blockchain technology.",
+    "text": "🇺🇸 ALERT: U.S. pending home sales plunged 4.7% in October, more than double the expected 2.0% decline, and fell 16.7% year over year, according to the National Association of Realtors.",
+    "url": "https://x.com/Cointelegraph/status/2123101585169416375"
+  },
+  {
+    "id": "x-1795021955258-mt45rb",
+    "source": "x",
+    "ts": "2026-11-18T17:12:35.258Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-18T17:03:25.000Z",
+    "reason": "Goldman Sachs increasing its XRP ETF holdings to $144M.",
+    "text": "Goldman Sachs XRP (@Ripple) ETF holdings jump to $144M across 5 spot funds 🚀\n\nWe break down how $XRP exposure grew from $87M and what Bank of America is doing instead. Watch the full deep dive 🎥",
+    "url": "https://x.com/BSCNews/status/2123100427571073418",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123099677239250944/vid/avc1/1280x720/tfte8rfUaf2aCD3y.mp4?tag=29",
+      "duration": 199,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123099677239250944/img/4SiX9Ky8WZHscxod.jpg"
+    }
+  },
+  {
+    "id": "x-1795021959076-dmnwmd",
+    "source": "x",
+    "ts": "2026-11-18T17:12:39.076Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-18T17:03:26.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "How To Evaluate A Points-To-Token Program [Ft. AMA With BITBASE]",
+    "url": "https://x.com/Cointelegraph/status/2123099773737611662"
   }
 ]
