@@ -2742,5 +2742,19 @@
     "fetchedAt": "2026-11-18T15:03:01.606Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-20cdd16fd870cf8d",
+    "title": "How do Cardano transactions actually work? Three examples using eUTxO",
+    "url": "https://forum.cardano.org/t/how-do-cardano-transactions-actually-work-three-examples-using-eutxo/158415",
+    "description": "Link to the video: https://youtu.be/mEzM8y-3u8U A transaction consumes existing UTxOs and creates new ones. But what happens when we introduce rules about how those UTxOs can be spent? In this third video, we walk through the build, sign, and submit process for three examples: A simple payment. A reward claim that can be made multiple times. The same reward claim, but now using a datum to remember",
+    "publishedAt": "2026-11-18T15:37:29.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-18T15:42:13.747Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
