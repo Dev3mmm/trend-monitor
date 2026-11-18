@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794839586490-m4xu13",
-    "source": "x",
-    "ts": "2026-11-16T14:33:06.490Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-16T14:30:01.000Z",
-    "reason": "No notable crypto-related news in the provided tweet.",
-    "text": "Japan's Economy Shrinks at a 0.1% Annualized Pace, Its First Contraction in Four Quarters.\n\nJapan's Cabinet Office said Monday that private consumption fell 0.3% in July to September, a second straight quarterly drop, while business investment rose 1.6%, its first increase in",
-    "url": "https://x.com/DecryptMedia/status/2122336391090565501"
-  },
-  {
     "id": "x-1794839590446-g509xq",
     "source": "x",
     "ts": "2026-11-16T14:33:10.446Z",
@@ -7905,6 +7892,24 @@
     "images": [
       "https://pbs.twimg.com/media/HXZA4xgXkAAbmru.jpg",
       "https://pbs.twimg.com/media/HXZA5G1XoAAwiRR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794987737278-vx4hmu",
+    "source": "x",
+    "ts": "2026-11-18T07:42:17.278Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T07:36:45.000Z",
+    "reason": "Notable transaction milestone on a non-fiat crypto network.",
+    "text": "Internet Computer Hit a Massive Transaction Milestone\n\nInternet Computer (@dfinity) $ICP has processed more than 5.6 billion transactions, according to Chainspect.\n\nThe network has maintained over 5,000 transactions per second for 13 consecutive days. That translates to more than",
+    "url": "https://x.com/BSCNews/status/2122957165774393616",
+    "images": [
+      "https://pbs.twimg.com/media/HXY_bglbMAAphv1.png"
     ],
     "video": null
   }
