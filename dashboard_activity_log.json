@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794896529906-4hdhmz",
-    "source": "x",
-    "ts": "2026-11-17T06:22:09.906Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-17T06:15:48.000Z",
-    "reason": "Price promotion with no factual claim.",
-    "text": "📍 Destination: Bangkok.\n\nYour pass to #BinanceBlockchainWeek is just $29. Book yours before the price goes up!\n\n🎟️",
-    "url": "https://x.com/binance/status/2122574407398756388"
-  },
-  {
-    "id": "x-1794897119705-uzb6p9",
-    "source": "x",
-    "ts": "2026-11-17T06:31:59.705Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T06:30:55.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨 LATEST: Microsoft’s global outage that hit Outlook, Teams and Copilot last week came from a bug that sat unnoticed in its data centers since July, Bloomberg reports.",
-    "url": "https://x.com/Cointelegraph/status/2122578210592280947",
-    "images": [
-      "https://pbs.twimg.com/media/HXTpodZXkAEpIoC.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794897126499-3xlvnt",
-    "source": "x",
-    "ts": "2026-11-17T06:32:06.499Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T06:30:21.000Z",
-    "reason": "Polygon reported significant growth in on-chain FX swaps.",
-    "text": "Polygon's Onchain FX Market is Growing Faster Than You Think\n\nPolygon (@0xPolygon) ethereum:0x455e53cbb86018ac2b8092fdcd39d8444affc3f6 recorded $102.2 million in onchain FX swaps during Q3 2026, up 28% from Q2. Yen to dollar swaps led activity, per Blockworks report. \n\nMento Labs",
-    "url": "https://x.com/BSCNews/status/2122578069403930631",
-    "images": [
-      "https://pbs.twimg.com/media/HXTGSc1aoAAoTOw.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794897129971-mjod4r",
     "source": "x",
     "ts": "2026-11-17T06:32:09.971Z",
@@ -7817,5 +7768,58 @@
     "reason": "No notable crypto-related content.",
     "text": "News update: Trump, Xi and Putin are heading into a rare trilateral showdown 🌍\n\nUkraine, the Iran war, trade, AI and nuclear weapons are all reportedly on the table in Shenzhen. We break down what could come out of it and why Trump's visit is a first.\n\nHere's the breakdown ⬇️",
     "url": "https://x.com/BSCNews/status/2123165636084068823"
+  },
+  {
+    "id": "x-1795038747922-mk5zpp",
+    "source": "x",
+    "ts": "2026-11-18T21:52:27.922Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T21:50:35.000Z",
+    "reason": "Specific institutional event with a significant financial figure.",
+    "text": "🚨 JUST IN: Anthropic $ANT has priced its IPO at $83 per share, with its total offering expected to exceed $94 billion, making it the largest IPO in stock market history, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2123172040509104571",
+    "images": [
+      "https://pbs.twimg.com/media/HXcFt1FWYAACCgn.jpg",
+      "https://pbs.twimg.com/media/HXcFuATXQAA5-aV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795038749964-ywm7mt",
+    "source": "x",
+    "ts": "2026-11-18T21:52:29.964Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T21:47:15.000Z",
+    "reason": "Potentially significant legal and security implications.",
+    "text": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
+    "url": "https://x.com/DecryptMedia/status/2123171199794434355",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795038753031-leiamg",
+    "source": "x",
+    "ts": "2026-11-18T21:52:33.031Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T21:45:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Midnight says six Canadian banks and one in Japan are working on tokenized deposits too\n\nFahmi Syed (@F_ZK_Now), president of the Midnight Foundation, said that six banks in Canada and a bank in Japan are looking to build similar products on @MidnightNtwrk (midnight-3:native). He",
+    "url": "https://x.com/BSCNews/status/2123170633970241952",
+    "images": [
+      "https://pbs.twimg.com/media/HXbwdWkWsAAPnHW.jpg"
+    ],
+    "video": null
   }
 ]
