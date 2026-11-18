@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794849809543-8smoym",
-    "source": "x",
-    "ts": "2026-11-16T17:23:29.543Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T17:21:45.000Z",
-    "reason": "Saylor's strategy of buying Bitcoin during dips is notable.",
-    "text": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
-    "url": "https://x.com/DecryptMedia/status/2122379608435589555",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794849812797-lh6knw",
-    "source": "x",
-    "ts": "2026-11-16T17:23:32.797Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-16T17:19:26.000Z",
-    "reason": "No notable move in the Fed Chair's statement.",
-    "text": "BREAKING: Fed Chair Warsh Says Staff Are Modeling Super Intelligence Scenarios, Including Broad Gains And Labor Market Disruption.\n\nSpeaking in San Francisco on Monday, Warsh called them \"illustrative scenarios, not forecasts,\" adding that super intelligence could also",
-    "url": "https://x.com/DecryptMedia/status/2122379027533135985"
-  },
-  {
     "id": "x-1794849817340-ooejeu",
     "source": "x",
     "ts": "2026-11-16T17:23:37.340Z",
@@ -7904,6 +7875,42 @@
     "url": "https://x.com/Cointelegraph/status/2123026085285634468",
     "images": [
       "https://pbs.twimg.com/media/HXaA-GvXIAAoKV7.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795004507559-x5nj6z",
+    "source": "x",
+    "ts": "2026-11-18T12:21:47.559Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "PeckShieldAlert",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T12:16:42.000Z",
+    "reason": "Exploit involving stolen ETH and re-distribution detected",
+    "text": "#PeckShieldAlert The address labeled #Binance Hot Wallet Exploiter 11, which received 75,475 $ETH ($135.6M), has distributed 6 batches of ~12K $ETH to 6 new addresses and 6,415.24 ETH to 0xDbA9FE...6FE0.",
+    "url": "https://x.com/PeckShieldAlert/status/2123027618358600058",
+    "images": [
+      "https://pbs.twimg.com/media/HXaCWngacAAmSPq.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795004510123-volbhj",
+    "source": "x",
+    "ts": "2026-11-18T12:21:50.123Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-18T12:16:00.000Z",
+    "reason": "New use of a token/stablecoin with social analytics enhancement.",
+    "text": "Cronos just unveiled a smart upgrade...\n\nCronos Launch (@CronosNetwork) has released a platform update that incorporates social analytics and risk assessment for all listed tokens.\n\nEach token now has a discussion feed where users can vote on whether they think it will go up or",
+    "url": "https://x.com/BSCNews/status/2123027440003854656",
+    "images": [
+      "https://pbs.twimg.com/media/HXZ7sI5W8AA7SaP.jpg"
     ],
     "video": null
   }
