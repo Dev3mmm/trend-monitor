@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1794856349049-qjxt2f",
-    "source": "x",
-    "ts": "2026-11-16T19:12:29.049Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Elon Musk",
-    "ageMin": 53,
-    "originTimestamp": "2026-11-16T18:18:58.000Z",
-    "reason": "New price point well outside recent SOL 30-day range suggests significant activity or adoption.",
-    "text": "Cool",
-    "url": "https://x.com/elonmusk/status/2122407149401964722",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794856352799-a0rpgt",
     "source": "x",
     "ts": "2026-11-16T19:12:32.800Z",
@@ -7910,5 +7894,24 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Hear perspectives from across the industry as leading voices take the stage at #BinanceBlockchainWeek.\n\n📍 Bangkok | 🗓️ Nov 28–29\n\n🎟️",
     "url": "https://x.com/binance/status/2123054591428173968"
+  },
+  {
+    "id": "x-1795011742339-oon918",
+    "source": "x",
+    "ts": "2026-11-18T14:22:22.339Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T14:15:00.000Z",
+    "reason": "Binance Wallet's announcement about their IPO campaign shows significant institutional activity.",
+    "text": "Binance Wallet's Anthropic IPO xStocks Campaign Hits 500 Million USDC Subscription Cap.\n\nBinance Wallet said \"subscriptions are no longer accepted\" and that eligible participants \"will receive their tokenized stocks,\" with details to follow in \"a separate post.\"",
+    "url": "https://x.com/DecryptMedia/status/2123057387062039025",
+    "images": [
+      "https://pbs.twimg.com/media/HXaK3ftXgAAwoTh.png",
+      "https://pbs.twimg.com/media/HXaK5OsXAAEAXiE.png"
+    ],
+    "video": null
   }
 ]
