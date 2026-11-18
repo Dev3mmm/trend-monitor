@@ -1,75 +1,5 @@
 [
   {
-    "id": "x-1794872557741-9t583a",
-    "source": "x",
-    "ts": "2026-11-16T23:42:37.741Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T23:41:14.000Z",
-    "reason": "Regulatory move affecting stablecoin issuance and ownership.",
-    "text": "🇰🇷 LATEST: South Korea’s financial regulator says tech firms can be the top shareholder in a won stablecoin issuer, as long as banks hold a combined majority.",
-    "url": "https://x.com/Cointelegraph/status/2122475108249845876",
-    "images": [
-      "https://pbs.twimg.com/media/HXSL2_uXQAAQdYU.jpg",
-      "https://pbs.twimg.com/media/HXSL3OQWMAA39Q6.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794872563294-qgh9dr",
-    "source": "x",
-    "ts": "2026-11-16T23:42:43.294Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T23:40:22.000Z",
-    "reason": "Exploit involving brand compromise and potential address swapping.",
-    "text": "🚨BREAKING: Zoom, BBC, HSBC and Ledger among 178 brands COMPROMISED by hackers targeting crypto.\n\nThe malicious code came through Optimizely, a website testing tool all 178 use.\n\nWith an infected site open in any tab, a crypto address you copied could have been swapped for one",
-    "url": "https://x.com/coinbureau/status/2122474891362578884",
-    "images": [
-      "https://pbs.twimg.com/media/HXSLD4yakAATLe-.jpg",
-      "https://pbs.twimg.com/media/HXSLTT1bwAAY_rC.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794873164679-t4zmhv",
-    "source": "x",
-    "ts": "2026-11-16T23:52:44.679Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T23:51:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Solana is going private...\n\nLeading @Solana wallet @solflare has introduced private balances and transactions to its platform, using @Helius' infrastructure.\n\n$SOL, which is fully public by default, stands to benefit a great deal from privacy functionality.\n\nIn particular, many",
-    "url": "https://x.com/BSCNews/status/2122477566519030010"
-  },
-  {
-    "id": "x-1794873790691-jkbqiq",
-    "source": "x",
-    "ts": "2026-11-17T00:03:10.691Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-17T00:01:13.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🔥 NOW: Backpack secures CFTC approval to launch a US derivatives exchange with leveraged perpetuals, crypto collateral and one global order book.",
-    "url": "https://x.com/Cointelegraph/status/2122480140416413800",
-    "images": [
-      "https://pbs.twimg.com/media/HXSQb7XWEAA3xxe.png",
-      "https://pbs.twimg.com/media/HXSQcHJXcAEfefU.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794873793916-higw8s",
     "source": "x",
     "ts": "2026-11-17T00:03:13.916Z",
@@ -7852,5 +7782,65 @@
       "https://pbs.twimg.com/media/HXbaO73XAAA865A.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795028041528-awec20",
+    "source": "x",
+    "ts": "2026-11-18T18:54:01.528Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-18T18:50:35.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "⚡️ UPDATE: Fidelity says Anthropic IPO investors must confirm share requests by tonight, with allocations expected tomorrow. \n\nThe SEC registration statement is not yet effective, preventing share sales.",
+    "url": "https://x.com/Cointelegraph/status/2123126741732336000"
+  },
+  {
+    "id": "x-1795028045478-1d0vb2",
+    "source": "x",
+    "ts": "2026-11-18T18:54:05.478Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-18T18:47:15.000Z",
+    "reason": "Specific and notable institutional/investor activity with crypto.",
+    "text": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+    "url": "https://x.com/DecryptMedia/status/2123125901521015005",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795028051119-o2uxp6",
+    "source": "x",
+    "ts": "2026-11-18T18:54:11.119Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-18T18:46:00.000Z",
+    "reason": "New use of a token with diversified holdings.",
+    "text": "Ondo Finance puts stocks, gold, Bitcoin, and Ethereum into one token\n\n@Ondo introduced BIG5on today, a single token holding five tokenized ETFs. It covers the S&amp;P 500, the Nasdaq-100, gold, and the iShares Bitcoin and Ethereum funds.\n\nThe mix is adjusted every quarter to keep",
+    "url": "https://x.com/BSCNews/status/2123125586415833455",
+    "images": [
+      "https://pbs.twimg.com/media/HXbRcuGWMAE3whU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795028056292-2ftx4i",
+    "source": "x",
+    "ts": "2026-11-18T18:54:16.292Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-18T18:41:18.000Z",
+    "reason": "No notable crypto-related news or move mentioned.",
+    "text": "⚡️ALERT: Billionaire investor Stanley Druckenmiller says he’s SHORT copper. \n\nCOPPER fell as much as 5.6% in London today, hitting its LOWEST level since April 2026.\n\nDruckenmiller says the Fed is raising rates and he can’t remember a time when he had LESS CLARITY about where the",
+    "url": "https://x.com/coinbureau/status/2123124404863598842"
   }
 ]
