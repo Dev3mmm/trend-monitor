@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794834752280-p17hp1",
-    "source": "x",
-    "ts": "2026-11-16T13:12:32.280Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T13:06:29.000Z",
-    "reason": "Notable institutional Bitcoin buying by public companies",
-    "text": "BREAKING: Public companies Strategy and Strive bought over $47 million worth of Bitcoin during this dip 💥\n\nStrategy: 485 BTC\nStrive: 251 BTC",
-    "url": "https://x.com/BitcoinMagazine/status/2122315369247388071",
-    "images": [
-      "https://pbs.twimg.com/media/HXP6g-YXUAAWXtV.jpg",
-      "https://pbs.twimg.com/media/HXP6g-YWwAAGSxK.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794834755975-hfzqyf",
-    "source": "x",
-    "ts": "2026-11-16T13:12:35.975Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 68,
-    "originTimestamp": "2026-11-16T12:04:07.000Z",
-    "reason": "No notable move or event is indicated.",
-    "text": "$KAS falls 3.1% in 24 hours to $0.0264.\n\nKAS price and news:",
-    "url": "https://x.com/BSCNews/status/2122314469284200798"
-  },
-  {
     "id": "x-1794835323397-jfqpoz",
     "source": "x",
     "ts": "2026-11-16T13:22:03.397Z",
@@ -7917,6 +7885,37 @@
     "text": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution\n\nA federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
     "url": "https://x.com/DecryptMedia/status/2122902618523468155",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1794975734601-5h6gtp",
+    "source": "x",
+    "ts": "2026-11-18T04:22:14.601Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T04:19:38.000Z",
+    "reason": "No notable move in ETH price given the recent range.",
+    "text": "⚡️ TODAY: Jim Cramer says he thinks Anthropic’s IPO will be “very successful.” \n\nBearish or bullish signal? 👀",
+    "url": "https://x.com/Cointelegraph/status/2122907557924663349"
+  },
+  {
+    "id": "x-1794975740008-64pm8r",
+    "source": "x",
+    "ts": "2026-11-18T04:22:20.008Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-18T04:14:00.000Z",
+    "reason": "New stablecoin market expected in Russia next year.",
+    "text": "Russia's Stablecoin Market Could be About to Take Off\n\nSberbank expects Russian-issued Ruble stablecoins to gain traction in foreign trade next year.\n\nThe new crypto law allows companies to issue them on public blockchains.\n\nRussian firms have mainly used Kyrgyzstan-issued A7A5.",
+    "url": "https://x.com/BSCNews/status/2122906140447002976",
+    "images": [
+      "https://pbs.twimg.com/media/HXXvb9mb0AAk10a.png"
+    ],
     "video": null
   }
 ]
