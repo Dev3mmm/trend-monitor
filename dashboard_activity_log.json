@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794867788778-pnpyt8",
-    "source": "x",
-    "ts": "2026-11-16T22:23:08.778Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-16T22:19:15.000Z",
-    "reason": "Customer data exposure of a major Bitcoin wallet maker is a notable security and user trust issue.",
-    "text": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-    "url": "https://x.com/DecryptMedia/status/2122454477932306602",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794867792720-ayr3tn",
-    "source": "x",
-    "ts": "2026-11-16T22:23:12.720Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-16T22:16:00.000Z",
-    "reason": "New use of a token (points) for robot tasks.",
-    "text": "Axis Robotics drops points and now pays AXIS for every robot task\n\nThe points system at @axisrobotics is over. Since Saturday, every verified, signed trajectory (a recorded run of a user steering a robot through a task) earns base:0x5be75e3b0aff5d1a042a5363ae36acb1d6d755ea",
-    "url": "https://x.com/BSCNews/status/2122453659145343224",
-    "images": [
-      "https://pbs.twimg.com/media/HXRsy72W0AAke3U.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794868348848-5vziki",
-    "source": "x",
-    "ts": "2026-11-16T22:32:28.848Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T22:30:52.000Z",
-    "reason": "Notable institutional adoption in crypto finance with a new standard for tokenized financial communications.",
-    "text": "⚡️ NEW: Coinbase and Broadridge have proposed a new standard to deliver tokenized stock disclosures, dividend notices and shareholder voting materials through digital wallets.",
-    "url": "https://x.com/Cointelegraph/status/2122457402654003368",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794868353940-dtdbzo",
     "source": "x",
     "ts": "2026-11-16T22:32:33.940Z",
@@ -7871,5 +7821,47 @@
       "https://pbs.twimg.com/media/HXbFVcpXMAA8M66.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795023155307-0zvscj",
+    "source": "x",
+    "ts": "2026-11-18T17:32:35.307Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T17:30:45.000Z",
+    "reason": "No direct impact on cryptocurrencies or crypto markets.",
+    "text": "🇺🇸 JUST IN: President Trump says he would prefer to use economic pressure to prevent Iran from obtaining nuclear weapons, according to Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2123106648252104795"
+  },
+  {
+    "id": "x-1795023158502-3hx1tj",
+    "source": "x",
+    "ts": "2026-11-18T17:32:38.502Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T17:30:00.000Z",
+    "reason": "The tweet is about a significant new trading product but lacks specific details to confirm its news value.",
+    "text": "🇪🇺 NEW: OKX is bringing pre-IPO Anthropic trading to Europe, giving eligible EEA traders 24/7 access to cash-settled X-Perps ahead of the AI company's planned Nasdaq debut.\n\nThe contracts offer up to 10x leverage, allowing traders to take positions on Anthropic’s implied",
+    "url": "https://x.com/Cointelegraph/status/2123106462402851139",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795023160535-zs76ko",
+    "source": "x",
+    "ts": "2026-11-18T17:32:40.535Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T17:27:18.000Z",
+    "reason": "No notable crypto-related event or news in the tweet provided.",
+    "text": "🇺🇸 BREAKING: Department of Homeland Security says Iran-linked hackers are targeting critical U.S. infrastructure, including energy, water and transportation systems.\n\nHomeland Security Secretary Markwayne Mullin warned the House Homeland Security Committee that Iranian government",
+    "url": "https://x.com/coinbureau/status/2123105780924846399"
   }
 ]
