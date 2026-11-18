@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1794863670915-pndgj6",
-    "source": "x",
-    "ts": "2026-11-16T21:14:30.915Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-16T21:10:42.000Z",
-    "reason": "Specific, verifiable institutional adoption event.",
-    "text": "🇯🇵 JUST IN: Standard Chartered says Japan’s plans to tokenize government bonds could help push the tokenized RWA market to $2 trillion by the end of 2028, up from around $45 billion today.",
-    "url": "https://x.com/Cointelegraph/status/2122437227451912273",
-    "images": [
-      "https://pbs.twimg.com/media/HXRpZ9TWkAAEdw-.jpg",
-      "https://pbs.twimg.com/media/HXRpaPFXQAAE8_Q.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794863675603-q5uxx7",
-    "source": "x",
-    "ts": "2026-11-16T21:14:35.603Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-16T21:07:00.000Z",
-    "reason": "Noteworthy exploit involving Ethereum and a high-profile MIT sibling duo.",
-    "text": "🚨 JUST IN: MIT brothers Anton and James Peraire-Bueno are acquitted over the $25 MILLION Ethereum exploit that took 12 seconds.\n\nProsecutors said they lured crypto trading bots into a trap with a trade that \"looked like one thing from the outside, but was secretly something",
-    "url": "https://x.com/coinbureau/status/2122436294693499197",
-    "images": [
-      "https://pbs.twimg.com/media/HXRgrUobgAE48zG.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794864148654-ep0cey",
-    "source": "x",
-    "ts": "2026-11-16T21:22:28.654Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T21:17:15.000Z",
-    "reason": "Luxor CEO's statement about AI attack on Bitcoin miner rewards suggests a significant security or operational issue.",
-    "text": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-    "url": "https://x.com/DecryptMedia/status/2122438873955381482",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794864152686-5wp1ua",
     "source": "x",
     "ts": "2026-11-16T21:22:32.686Z",
@@ -7895,6 +7842,51 @@
     "url": "https://x.com/BSCNews/status/2123087082784723370",
     "images": [
       "https://pbs.twimg.com/media/HXZ2DhiWkAAF_5n.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795019683525-dg047t",
+    "source": "x",
+    "ts": "2026-11-18T16:34:43.525Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T16:33:42.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "BREAKING: House Democrats have nominated @RepJeffries to be their leader. He voted NO on the CLARITY ACT, and he'll likely be the next Speaker of the House.\n\n@RepJeffries previously voted NO against the CLARITY Act, despite 78 Democrats supporting the act in July of 2025. Former",
+    "url": "https://x.com/BSCNews/status/2123092293854859526"
+  },
+  {
+    "id": "x-1795019686479-7s09mv",
+    "source": "x",
+    "ts": "2026-11-18T16:34:46.479Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-18T16:30:47.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🇺🇸 JUST IN: Costco is seeing a surge in emergency supply purchases amid recent tech outages, with U.S. comparable sales estimated to have jumped 11%–12% in the final week of October.",
+    "url": "https://x.com/Cointelegraph/status/2123091558731817320"
+  },
+  {
+    "id": "x-1795019690627-z7ve76",
+    "source": "x",
+    "ts": "2026-11-18T16:34:50.627Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-18T16:30:00.000Z",
+    "reason": "Exploit involving a stablecoin with significant funds stolen.",
+    "text": "K3 Capital Investigating \"Malicious Activity Involving sBOLD,\" Says \"Contracts Have Been Paused.\"\n\nBlockaid said it detected an ongoing exploit on K3 Capital's sBOLD vault on Ethereum, with about $3.43 million drained \"so far across ~34 txs\" as of 7:50 AM EST (12:50 UTC).",
+    "url": "https://x.com/DecryptMedia/status/2123091361260044430",
+    "images": [
+      "https://pbs.twimg.com/media/HXa0lQCWkAAf_2Y.png",
+      "https://pbs.twimg.com/media/HXa08-iWQAAkmel.png"
     ],
     "video": null
   }
