@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794830532188-ee8kb9",
-    "source": "x",
-    "ts": "2026-11-16T12:02:12.188Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T11:59:57.000Z",
-    "reason": "Memes are not news.",
-    "text": "Man from Guyana.\n\nLegend.",
-    "url": "https://x.com/amerix/status/2122298627867513309"
-  },
-  {
     "id": "x-1794830537986-hmisip",
     "source": "x",
     "ts": "2026-11-16T12:02:17.986Z",
@@ -7926,5 +7913,26 @@
     "url": "https://x.com/DecryptMedia/status/2122872424924655663",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1794967960626-umk7zn",
+    "source": "x",
+    "ts": "2026-11-18T02:12:40.626Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-18T02:04:37.000Z",
+    "reason": "Notable statement about US internet outages from a high-profile official.",
+    "text": "🇺🇸 NOW: Secretary of State Marco Rubio says there’s “zero evidence” that the recent US outages are linked to each other or to any malicious actor.",
+    "url": "https://x.com/Cointelegraph/status/2122873582657409296",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122860892840660993/vid/avc1/1280x720/F2DP1CQmIpE-xStB.mp4?tag=29",
+      "duration": 125,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122860892840660993/img/LkcVY-dgP5mCc2-p.jpg"
+    }
   }
 ]
