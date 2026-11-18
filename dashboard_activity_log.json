@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794862327091-71jyjm",
-    "source": "x",
-    "ts": "2026-11-16T20:52:07.091Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-16T20:46:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Midnight’s privacy proofs were too heavy for phones. The fix runs on Google Cloud\n\nPrivate transactions on @MidnightNtwrk ($NIGHT) need a zero-knowledge proof, and making one on a user’s device could take tens of seconds and drain the battery, per a @GoogleCloud case study.\n\nThe",
-    "url": "https://x.com/BSCNews/status/2122431009807331834"
-  },
-  {
-    "id": "x-1794862967194-f8yaif",
-    "source": "x",
-    "ts": "2026-11-16T21:02:47.194Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-16T20:52:26.000Z",
-    "reason": "Notable institutional collaboration in quantum computing and computing technology.",
-    "text": "⚡️️ NEW: IBM and NVIDIA announced plans to collaborate with Fermilab on a new quantum-classical computing platform at SC26 in Chicago.\n\nThe project will connect NVIDIA DGX B200 systems with IBM quantum computers to advance quantum research and scientific computing.\n\nThe",
-    "url": "https://x.com/Cointelegraph/status/2122432629542912440",
-    "images": [
-      "https://pbs.twimg.com/media/HXRlOh8bkAAB2Tt.jpg",
-      "https://pbs.twimg.com/media/HXRlOiFaYAAAVfG.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794863385396-sj8fll",
-    "source": "x",
-    "ts": "2026-11-16T21:09:45.396Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T21:07:00.000Z",
-    "reason": "Exploit involving Ethereum tokens is a notable security incident.",
-    "text": "🚨 JUST IN: MIT brothers Anton and James Peraire-Bueno are acquitted over the $25 MILLION Ethereum exploit that took 12 seconds.\n\nProsecutors said they lured crypto trading bots into a trap with a trade that \"looked like one thing from the outside, but was secretly something",
-    "url": "https://x.com/coinbureau/status/2122436294693499197",
-    "images": [
-      "https://pbs.twimg.com/media/HXRgrUobgAE48zG.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794863391497-79iyqs",
     "source": "x",
     "ts": "2026-11-16T21:09:51.497Z",
@@ -7890,5 +7840,55 @@
     "reason": "No notable move or specific event is highlighted in the tweet.",
     "text": "It has been an eventful month for @SuiNetwork, with protocol updates, ecosystem expansion, and more. \n\nAmong the notable updates, these stand out:\n\n[Oct 22] Protocol Version 139 launched on mainnet, reducing the gas fee of large Move package calls to approximately 99%.\n\n[Oct 29]",
     "url": "https://x.com/BSCNews/status/2123082049825407276"
+  },
+  {
+    "id": "x-1795018321976-sfhixq",
+    "source": "x",
+    "ts": "2026-11-18T16:12:01.976Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T16:10:36.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": "🔥 QUESTION: Eli Ben-Sasson questions why AI can uncover hidden security vulnerabilities but cannot reliably patch them.",
+    "url": "https://x.com/Cointelegraph/status/2123086478569791618"
+  },
+  {
+    "id": "x-1795018325609-oojh3l",
+    "source": "x",
+    "ts": "2026-11-18T16:12:05.609Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T16:05:03.000Z",
+    "reason": "Price well outside the recent trading range, potential significant move.",
+    "text": "🚨 ALERT: $BTC drops below $63,000.",
+    "url": "https://x.com/Cointelegraph/status/2123085081241686396",
+    "images": [
+      "https://pbs.twimg.com/media/HXa2n_TXwAEvRYU.jpg",
+      "https://pbs.twimg.com/media/HXa2oQ7WcAAMVTu.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795018329253-nfzznf",
+    "source": "x",
+    "ts": "2026-11-18T16:12:09.253Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-18T16:03:42.000Z",
+    "reason": "Notable partnership and institutional recognition for Celo.",
+    "text": "Taking the spotlight: @Celo ✨\n\nBringing the world's money onchain, Celo joins us as Title Sponsor of #BinanceBlockchainWeek.\n\nSee you in Bangkok, Nov 28–29.\n\nBook your tickets 🎟️",
+    "url": "https://x.com/binance/status/2123084742660694045",
+    "images": [
+      "https://pbs.twimg.com/media/HXa2UlRW0AIY-On.jpg"
+    ],
+    "video": null
   }
 ]
