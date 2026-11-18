@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1794829398123-sn137b",
-    "source": "x",
-    "ts": "2026-11-16T11:43:18.123Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-16T11:30:48.000Z",
-    "reason": "Specific institutional partnership involving a significant cryptocurrency.",
-    "text": "🔥 JUST IN: Bitcoin treasury firm H100, holding 3,506 $BTC, partners with Coinbase Prime for $BTC custody.",
-    "url": "https://x.com/Cointelegraph/status/2122291290922442931",
-    "images": [
-      "https://pbs.twimg.com/media/HXPkq0TXkAA-U6A.jpg",
-      "https://pbs.twimg.com/media/HXPkrPRWIAAv13y.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794829401609-9ea5fn",
-    "source": "x",
-    "ts": "2026-11-16T11:43:21.609Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-16T11:30:45.000Z",
-    "reason": "Notable institutional adoption and staking move.",
-    "text": "🔶 @Stacks has pulled roughly 1,740 BTC into its new Bitcoin staking system, with three bonding periods selling out between September and November. The move is the first piece of founder @muneeb’s plan to build full capital markets around Bitcoin.",
-    "url": "https://x.com/BSCNews/status/2122291277341265929",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794829405510-u10k0u",
-    "source": "x",
-    "ts": "2026-11-16T11:43:25.510Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-16T11:30:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Strategy Holds STRC's Dividend Rate at 12% as the Preferred Stock Trades Just Below $100 Par.\n\nMichael Saylor said Strategy's Stretch preferred stock, STRC, will keep its 12.00% dividend rate for December 2026, with the stock closing at $99.91 on Friday and within a dollar of its",
-    "url": "https://x.com/DecryptMedia/status/2122291089138942122"
-  },
-  {
     "id": "x-1794829966917-o28o6n",
     "source": "x",
     "ts": "2026-11-16T11:52:46.917Z",
@@ -7926,5 +7878,55 @@
     "reason": "No notable crypto-related news in the tweet.",
     "text": "Today was a huge day across financial markets\n\nHere are the 10 headlines you need to know ↓\n\n1. Nvidia posts record quarterly revenue of $115.8 billion and projects $130 billion for Q4. \n\n2. Circle partners with Citi Bank and World Bank Group to use $USDC for global payments.",
     "url": "https://x.com/coinbase/status/2122858722091536631"
+  },
+  {
+    "id": "x-1794965570911-u3el4x",
+    "source": "x",
+    "ts": "2026-11-18T01:32:50.911Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T01:30:38.000Z",
+    "reason": "Generic opinion without factual claim or evidence.",
+    "text": "⚡️ BRIAN ARMSTRONG: “To decentralize AI and preserve freedom, we need a coordination layer: a market economy where agents communicate and cooperate through prices.”",
+    "url": "https://x.com/Cointelegraph/status/2122865027774284166"
+  },
+  {
+    "id": "x-1794965574673-2r5j4w",
+    "source": "x",
+    "ts": "2026-11-18T01:32:54.673Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T01:28:00.000Z",
+    "reason": "Noteworthy burn event and institutional engagement.",
+    "text": "216,176,494 $ASTER tokens burned forever.\n\nFollowing its latest burn announcement, @Aster_DEX has now burned a total of $127M worth of $ASTER tokens, under its combined initiatives.\n\nThe perps platform's token burns have surged since implementing new tokenomic mechanisms in June,",
+    "url": "https://x.com/BSCNews/status/2122864365346992170",
+    "images": [
+      "https://pbs.twimg.com/media/HXVCvPfW8AEU2Jb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794965577908-dofmxm",
+    "source": "x",
+    "ts": "2026-11-18T01:32:57.908Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-18T01:24:03.000Z",
+    "reason": "Coinbase confirms significant AI-based security measures thwarted a major crypto scam",
+    "text": "🚨 NEW: Coinbase says its AI scam defenses stopped $4.7 million from leaving customer accounts during a fake Tesla crypto giveaway that used a deepfake of Elon Musk.",
+    "url": "https://x.com/Cointelegraph/status/2122863374119600365",
+    "images": [
+      "https://pbs.twimg.com/media/HXXs_DuWEAEw-tU.jpg",
+      "https://pbs.twimg.com/media/HXXs_OeWkAAHw-8.jpg"
+    ],
+    "video": null
   }
 ]
