@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794844372991-guwtgg",
-    "source": "x",
-    "ts": "2026-11-16T15:52:52.991Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T15:50:41.000Z",
-    "reason": "On-chain data indicating a significant change in the Bitcoin market.",
-    "text": "🚨 INSIGHT: Glassnode reports a sharp drop in profitable short-term Bitcoin holder supply.",
-    "url": "https://x.com/Cointelegraph/status/2122356691228398074",
-    "images": [
-      "https://pbs.twimg.com/media/HXQgKYWXsAA9k6A.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794844377905-erbi2m",
-    "source": "x",
-    "ts": "2026-11-16T15:52:57.905Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Phyrex",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-16T15:40:33.000Z",
-    "reason": "Noteworthy institutional activity with ETF data.",
-    "text": "最近一周的美国 bitcoin:native 现货 ETF 一共流出了 25,960 枚，占美国持仓总量的 2.07% ，目前美国 Bitcoin 现货 ETF 的总量仍为 1,251,133.44 枚，其中贝莱德 $IBIT 持仓 783448.3048 枚，占总量的 62.62% 。\n\n美国 BTC 现货 ETF 已经迎来了连续 7 个净流出日。\n\n一个 @Gate ，交易更多市场",
-    "url": "https://x.com/PhyrexNi/status/2122356271676621229",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794844381326-8y7sm9",
     "source": "x",
     "ts": "2026-11-16T15:53:01.326Z",
@@ -7899,6 +7865,38 @@
     "url": "https://x.com/Cointelegraph/status/2122990279825170568",
     "images": [
       "https://pbs.twimg.com/media/HXZgaISWcAAPvk8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794996134632-iivwid",
+    "source": "x",
+    "ts": "2026-11-18T10:02:14.632Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T10:01:06.000Z",
+    "reason": "No notable move or newsworthy event.",
+    "text": "Cardano is Not Done, Hoskinson Has a Message For Critics\n\nCharles Hoskinson (@IOHK_Charles) has pushed back against claims that Cardano (@Cardano) $ADA has reached the end of its road.\n\n“I never once said Cardano is finished,” he wrote on X.\n\nThe confusion followed his comments",
+    "url": "https://x.com/BSCNews/status/2122993493748720057"
+  },
+  {
+    "id": "x-1794996138012-0w41i5",
+    "source": "x",
+    "ts": "2026-11-18T10:02:18.012Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T10:00:02.000Z",
+    "reason": "Specific institutional partnership with USDC",
+    "text": "DBS And Circle Partner To Expand Institutional Access To USDC In Asia.\n\nEligible institutional clients \"can directly mint and redeem USDC through DBS,\" Southeast Asia's largest bank by assets, with 24/7 USD-USDC settlement when doing so.",
+    "url": "https://x.com/DecryptMedia/status/2122993223010275777",
+    "images": [
+      "https://pbs.twimg.com/media/HXZTzTFWEAAMkFY.png",
+      "https://pbs.twimg.com/media/HXZT-eiWYAAR48Y.jpg"
     ],
     "video": null
   }
