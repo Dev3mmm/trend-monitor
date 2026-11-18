@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1794828381991-y07hi2",
-    "source": "x",
-    "ts": "2026-11-16T11:26:21.991Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-16T11:18:52.000Z",
-    "reason": "Security incident involving a single compromised external party leading to withdrawal suspension.",
-    "text": "BREAKING: Lighter Temporarily Suspends All Withdrawals While Investigating Security Incident.\n\nLighter said Monday the security incident \"appears to involve a single compromised external party,\" and that it has also suspended pool creation as a precaution while it assesses \"the",
-    "url": "https://x.com/DecryptMedia/status/2122288287842763237",
-    "images": [
-      "https://pbs.twimg.com/media/HXPhN15WoAADxHz.png",
-      "https://pbs.twimg.com/media/HXPh1_NWgAAPnoU.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794828385736-souwas",
-    "source": "x",
-    "ts": "2026-11-16T11:26:25.736Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-16T11:15:00.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "Arbitrum Is Quietly Having One of Its Busiest Months Ever\n\n@Arbitrum is experiencing significant progress within its ecosystem. The protocol recently reported $400K in priority fees earned from 35 million transactions via Priority Gas Auctions (PGA).\n\n$USDG vaults from Morpho",
-    "url": "https://x.com/BSCNews/status/2122287313711726772",
-    "images": [
-      "https://pbs.twimg.com/media/HXPWcEjXQAAdpdA.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794828388790-xvdvkj",
-    "source": "x",
-    "ts": "2026-11-16T11:26:28.790Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 5,
-    "author": "Cointelegraph",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-16T11:11:38.000Z",
-    "reason": "Potential security incident leading to withdrawals suspension and pool creation halt.",
-    "text": "🚨  JUST IN: Lighter suspends withdrawals and pool creation after detecting a potential third-party security incident.",
-    "url": "https://x.com/Cointelegraph/status/2122286466122268896",
-    "images": [
-      "https://pbs.twimg.com/media/HXPgSyuWAAAjCEd.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794828392342-nr9whu",
     "source": "x",
     "ts": "2026-11-16T11:26:32.342Z",
@@ -7932,5 +7877,55 @@
       "https://pbs.twimg.com/media/HXVCh6XW0AA8Tti.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1794960158524-zekvyp",
+    "source": "x",
+    "ts": "2026-11-18T00:02:38.524Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T00:01:10.000Z",
+    "reason": "Notable exploit discovery impacting a broad industry.",
+    "text": "🚨 NOW: An AI model from OpenAI helped security startup Calif uncover a critical bug in Java, software used by about 90% of Fortune 500 companies, The New York Times reports.",
+    "url": "https://x.com/Cointelegraph/status/2122842512565940585",
+    "images": [
+      "https://pbs.twimg.com/media/HXXaAwMXsAA9Jro.jpg",
+      "https://pbs.twimg.com/media/HXXaA8EWsAEUU4Q.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794960162630-sbm85w",
+    "source": "x",
+    "ts": "2026-11-18T00:02:42.630Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T00:00:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "The ANT &amp; NVDA Perps Carnival is live on Binance Futures!\n\n• 175,000 USDC in leaderboard rewards\n• 25,000 USDC for new TradFi perps traders\n• 3.5x multiplier on ANTUSDT and NVDAUSDT, 3x on 9 other pairs\n\nJoin now →",
+    "url": "https://x.com/binance/status/2122842220919497087",
+    "images": [
+      "https://pbs.twimg.com/media/HXWdXOkaIAAwHwh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794960165823-n7l6is",
+    "source": "x",
+    "ts": "2026-11-18T00:02:45.823Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T00:00:00.000Z",
+    "reason": "No notable move or specific event.",
+    "text": "Dragonfly Partner Reflects on Missing Out on Solana’s 4-Cent Seed Round  \n\nIn the November 12, 2026 When Shift Happens @KevinWSHPod episode, Dragonfly managing partner Haseeb @hosseeb said he passed on Solana's seed round at four cents as a VC in 2017 and 2018. \n\nHe wrote a memo",
+    "url": "https://x.com/WuBlockchain/status/2122842219942195315"
   }
 ]
