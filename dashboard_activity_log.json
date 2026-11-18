@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1794830537986-hmisip",
-    "source": "x",
-    "ts": "2026-11-16T12:02:17.986Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-16T11:58:13.000Z",
-    "reason": "Exploit of a significant value with actual stolen funds and moved tokens.",
-    "text": "#PeckShieldAlert #Lighter has been exploited for ~$10M, the exploiter has bridged 640 $ETH (1.12M) to #Hyperliquid to buy 2,240 $XMR",
-    "url": "https://x.com/PeckShieldAlert/status/2122298188103344224",
-    "images": [
-      "https://pbs.twimg.com/media/HXPq1auaQAA-DgV.jpg",
-      "https://pbs.twimg.com/media/HXPq3Awa8AA4Ygc.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794831189669-f4e2so",
     "source": "x",
     "ts": "2026-11-16T12:13:09.669Z",
@@ -7934,5 +7915,18 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122860892840660993/img/LkcVY-dgP5mCc2-p.jpg"
     }
+  },
+  {
+    "id": "x-1794969149734-aptv6a",
+    "source": "x",
+    "ts": "2026-11-18T02:32:29.734Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-18T02:28:37.000Z",
+    "reason": "No notable move, price is well within the recent range.",
+    "text": "🚨 JUST IN: Gold falls below $3,800 for the first time since September 2025 and is now down more than 30% from its January all-time high.",
+    "url": "https://x.com/Cointelegraph/status/2122879623054639473"
   }
 ]
