@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794868358935-r6j621",
-    "source": "x",
-    "ts": "2026-11-16T22:32:38.935Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-16T22:23:56.000Z",
-    "reason": "No notable move or breaking news related to crypto.",
-    "text": "🚨 BREAKING: United Airlines $UAL, the world's largest airline by capacity, hit by a \"widespread system outage\" 3 days after the FAA's nationwide halt.\n\nThe outage left some United planes unable to get their \"takeoff numbers\" from dispatch, per NBC Chicago.\n\nThose numbers include",
-    "url": "https://x.com/coinbureau/status/2122455657660215330"
-  },
-  {
-    "id": "x-1794868929152-wys47o",
-    "source": "x",
-    "ts": "2026-11-16T22:42:09.152Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 77,
-    "originTimestamp": "2026-11-16T21:24:29.000Z",
-    "reason": "Specific institutional crypto purchase with verified price and amount.",
-    "text": "Twenty One acquired 154.32 $BTC for approximately $10 million at an average price of approximately $64,801.01 per bitcoin.\n\n$XXI funded the purchase with cash, bringing the company’s total holdings to approximately 43,668 bitcoin as of November 16, 2026.\n\nWe built Twenty One",
-    "url": "https://x.com/saylor/status/2122459949695484063",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794868933607-zfeglp",
-    "source": "x",
-    "ts": "2026-11-16T22:42:13.607Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-16T22:37:33.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "We’ve added USD Strength to the Strategy dashboard. At today’s rates, our USD assets can fund 3.4 years of interest and dividends. That’s 41% of the weighted duration of our Digital Credit.",
-    "url": "https://x.com/saylor/status/2122459084599197886"
-  },
-  {
     "id": "x-1794869560330-o38f49",
     "source": "x",
     "ts": "2026-11-16T22:52:40.330Z",
@@ -7857,5 +7815,50 @@
     "reason": "No notable move, it's a meme and prediction without factual claim.",
     "text": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
     "url": "https://x.com/DecryptMedia/status/2123107341125947780"
+  },
+  {
+    "id": "x-1795024329406-s3ab8c",
+    "source": "x",
+    "ts": "2026-11-18T17:52:09.406Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T17:50:34.000Z",
+    "reason": "No notable move or specific event.",
+    "text": "Bitcoin covenants without a soft fork?\n\nFE covenants would build Bitcoin's spending rules into the signing key itself, so nodes verify the signatures as they do today, with no protocol change.\n\nCointelegraph Research explains how, in Part 6 of its covenants series 👇",
+    "url": "https://x.com/Cointelegraph/status/2123111635501933032"
+  },
+  {
+    "id": "x-1795024334190-vc69ca",
+    "source": "x",
+    "ts": "2026-11-18T17:52:14.190Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T17:45:00.000Z",
+    "reason": "Notable institutional investment and regulatory/technical innovation in crypto markets.",
+    "text": "Variational Raises $110M Series B At $1.5B Valuation, Led By Bain Capital Crypto.\n\nDragonfly, HSG and Peak XV were among the other backers; Variational said the capital will lift Omni's open interest caps and \"unlock hundreds of new stock, index, commodity, and FX listings.\"",
+    "url": "https://x.com/DecryptMedia/status/2123110235212513753",
+    "images": [
+      "https://pbs.twimg.com/media/HXa3IlwWMAAiYfR.png",
+      "https://pbs.twimg.com/media/HXa-8KYXcAAhC7L.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795024338392-flq06g",
+    "source": "x",
+    "ts": "2026-11-18T17:52:18.392Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-18T17:43:00.000Z",
+    "reason": "No notable move in the price or significant action is mentioned.",
+    "text": "Axis Robotics maps 11,199 robot training tasks in its new Skills Atlas\n\nAxis Robotics (@axisrobotics) launched the Skills Atlas today, a searchable site that sorts 11,199 robot tasks into 13 skills, from picking to pressing, across six robot types, including a humanoid.\n\nThe 14.6",
+    "url": "https://x.com/BSCNews/status/2123109732026126509"
   }
 ]
