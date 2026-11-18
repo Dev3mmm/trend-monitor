@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794861189854-dwjydp",
-    "source": "x",
-    "ts": "2026-11-16T20:33:09.854Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-16T20:22:44.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨 JUST IN: Nvidia founder Jensen Huang passed 59 MILLION shares, worth $10.7 BILLION, to his heirs, per Barron's.\n\nThe shares moved into an irrevocable family trust in March, when 2 family trusts set up in 2016 ended, SEC filings show.\n\nAt today's price, those shares are worth",
-    "url": "https://x.com/coinbureau/status/2122425155792375909"
-  },
-  {
-    "id": "x-1794861194578-p7ytzi",
-    "source": "x",
-    "ts": "2026-11-16T20:33:14.578Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-16T20:17:00.000Z",
-    "reason": "Large burn of a circulating token indicates significant economic activity in the ecosystem.",
-    "text": "Canton Network passes 6 billion CC burned\n\nTotal $CC burned on @CantonNetwork has crossed 6 billion and stood at 6.13 billion as of Sunday, per Cantonscan. Around 40 billion CC are in circulation.\n\nFees on Canton are priced in dollars and paid by burning CC, while new coins are",
-    "url": "https://x.com/BSCNews/status/2122423711576035694",
-    "images": [
-      "https://pbs.twimg.com/media/HXRGFD9XAAAqmYJ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794861198042-zc4dxh",
     "source": "x",
     "ts": "2026-11-16T20:33:18.042Z",
@@ -7901,6 +7870,45 @@
     "url": "https://x.com/BSCNews/status/2123070725271519597",
     "images": [
       "https://pbs.twimg.com/media/HXah4UqW0AERxeH.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795015309161-1flunz",
+    "source": "x",
+    "ts": "2026-11-18T15:21:49.161Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-18T15:15:05.000Z",
+    "reason": "Noteworthy regulatory and institutional adoption in Russia's banking sector.",
+    "text": "JUST IN: 🇷🇺 Russia's largest private bank Alfa Bank was accepted as a registered crypto exchange by Russia's Central Bank. \n\nThey plan to launch their own crypto custody service 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2123072506667934187",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123072472245260288/vid/avc1/1280x720/UK2L757bb3CwZX7K.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HXarQbrW8AA2lEe.jpg"
+    }
+  },
+  {
+    "id": "x-1795015312509-9vsxxo",
+    "source": "x",
+    "ts": "2026-11-18T15:21:52.509Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 27,
+    "originTimestamp": "2026-11-18T14:54:00.000Z",
+    "reason": "Goldman Sachs increased its position in the XRP ETF.",
+    "text": "JUST IN: Goldman Sachs grew its $XRP ETF position sharply in the third quarter 🏦\n\nBank of America stayed put with 13,260 shares of the Volatility Shares XRP ETF, per 13F filings.\n\nSee the numbers ⬇️\nRead it here:",
+    "url": "https://x.com/BSCNews/status/2123072107584356599",
+    "images": [
+      "https://pbs.twimg.com/media/HXamXVHWcAAzB1R.png"
     ],
     "video": null
   }
