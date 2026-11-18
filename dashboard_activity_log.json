@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1794888170445-enggqt",
-    "source": "x",
-    "ts": "2026-11-17T04:02:50.445Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T04:01:56.000Z",
-    "reason": "No notable crypto-related news or move.",
-    "text": "Elon Musk Wants Jensen Huang Back But Nvidia Has Other Plans\n\nNvidia (@nvidia) $NVDA has reportedly ruled out bringing Jensen Huang (@JensenHuang) back, despite mounting pressure from supporters.\n\nThe company has lost around $800 billion in market value since reports of Huang's",
-    "url": "https://x.com/BSCNews/status/2122540717277118573"
-  },
-  {
-    "id": "x-1794888174034-e4oyaz",
-    "source": "x",
-    "ts": "2026-11-17T04:02:54.034Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-17T04:00:57.000Z",
-    "reason": "Acquittal of Ethereum exploit suspects is a notable legal development.",
-    "text": "🇺🇸 TODAY: Two MIT-educated brothers accused of a 12-second, $25M Ethereum exploit are acquitted after a US judge rules prosecutors failed to prove wire fraud, per Reuters.",
-    "url": "https://x.com/Cointelegraph/status/2122540468340740533",
-    "images": [
-      "https://pbs.twimg.com/media/HXTHTX-WkAAdPWw.png",
-      "https://pbs.twimg.com/media/HXTHTqzWQAARe3F.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794888176620-ga2ql0",
     "source": "x",
     "ts": "2026-11-17T04:02:56.620Z",
@@ -7812,5 +7780,41 @@
     "reason": "No notable move in crypto prices mentioned.",
     "text": "US oil sinks to its lowest price since late August\n\nUS crude (WTI) fell more than 3% today to about $83 a barrel, after dipping near $82 earlier in the session. Brent, the global benchmark, slipped 1.4% to about $92.\n\nThe drop followed data showing US crude and fuel stockpiles",
     "url": "https://x.com/BSCNews/status/2123148235707420826"
+  },
+  {
+    "id": "x-1795034293999-2aymnx",
+    "source": "x",
+    "ts": "2026-11-18T20:38:13.999Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T20:30:44.000Z",
+    "reason": "Regulatory move impacting AI investments.",
+    "text": "🇺🇸 LATEST: The Fed flags risks that the AI investment surge could prove excessive.",
+    "url": "https://x.com/Cointelegraph/status/2123151944805962018",
+    "images": [
+      "https://pbs.twimg.com/media/HXbzcBSX0AAVvj2.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795034297625-qhd1ms",
+    "source": "x",
+    "ts": "2026-11-18T20:38:17.625Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T20:30:42.000Z",
+    "reason": "Notable institutional adoption of a layer-1 blockchain.",
+    "text": "⚡️ NEW: XRP Ledger becomes the first public, permissionless layer-1 blockchain independently verified under the GL1 toolkit.",
+    "url": "https://x.com/Cointelegraph/status/2123151938032177392",
+    "images": [
+      "https://pbs.twimg.com/media/HXbzbqFXUAA9iDr.jpg"
+    ],
+    "video": null
   }
 ]
