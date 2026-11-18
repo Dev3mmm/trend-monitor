@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1793622789365-3v27vb",
-    "x-1793622796001-bsxrqw",
     "x-1793624538160-l6v0q5",
     "x-1793624548245-0l204d",
     "x-1793624557455-fa5ule",
@@ -1999,19 +1997,11 @@
     "x-1794956232003-rlnb2y",
     "x-1794957779213-3ku3w7",
     "x-1794959534756-5e59uv",
-    "x-1794959540533-ep00v8"
+    "x-1794959540533-ep00v8",
+    "x-1794960158524-zekvyp",
+    "x-1794960162630-sbm85w"
   ],
   "queue": [
-    {
-      "text": "🚨 NEW: Cathie Wood’s ARK Invest sold approximately $85 million in $NVDA shares while buying nearly $40 million in $COIN, $CRCL and $XYZ shares during Monday’s market selloff.",
-      "url": "https://x.com/Cointelegraph/status/2122799710863806666",
-      "images": [
-        "https://pbs.twimg.com/media/HXWzFVdXkAApZS5.jpg",
-        "https://pbs.twimg.com/media/HXWzFj1W0AEZgO7.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794950048995
-    },
     {
       "text": "NEW: 🇨🇭 The Swiss National Bank reported owning ~$120 million in Bitcoin miner stock, as well as ~$110 million in MSTR.  🚀",
       "url": "https://x.com/BitcoinMagazine/status/2122803284813770758",
@@ -2061,20 +2051,28 @@
       ],
       "video": null,
       "enqueuedAt": 1794959541115
+    },
+    {
+      "text": "🚨 NOW: An AI model from OpenAI helped security startup Calif uncover a critical bug in Java, software used by about 90% of Fortune 500 companies, The New York Times reports.",
+      "url": "https://x.com/Cointelegraph/status/2122842512565940585",
+      "images": [
+        "https://pbs.twimg.com/media/HXXaAwMXsAA9Jro.jpg",
+        "https://pbs.twimg.com/media/HXXaA8EWsAEUU4Q.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1794960167309
+    },
+    {
+      "text": "The ANT &amp; NVDA Perps Carnival is live on Binance Futures!\n\n• 175,000 USDC in leaderboard rewards\n• 25,000 USDC for new TradFi perps traders\n• 3.5x multiplier on ANTUSDT and NVDAUSDT, 3x on 9 other pairs\n\nJoin now →",
+      "url": "https://x.com/binance/status/2122842220919497087",
+      "images": [
+        "https://pbs.twimg.com/media/HXWdXOkaIAAwHwh.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1794960167309
     }
   ],
   "posted": [
-    {
-      "text": "🚨 TODAY: Coinbase CEO Brian Armstrong says the biggest benefit of tokenized equities isn’t 24/7 markets, but access for billions who can’t buy stocks today and better yield onchain.",
-      "final": "🚨 TODAY: Coinbase CEO Brian Armstrong says the biggest benefit of tokenized equities isn’t 24/7 markets, but access for billions who can’t buy stocks today and better yield onchain.\n\n#Crypto #Coinbase",
-      "images": [
-        "https://pbs.twimg.com/media/HXNCJRdXkAA5hIy.png",
-        "https://pbs.twimg.com/media/HXNCJgsXEAAIUTQ.jpg"
-      ],
-      "at": 1794787358741,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/388694713064844?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨 TODAY: $ASTER surged nearly 29% to $0.71 in under an hour, then crashed 32% to $0.48 in just 16 minutes.\n\nNow it sits near $0.50.",
       "final": "🚨 TODAY: $ASTER surged nearly 29% to $0.71 in under an hour, then crashed 32% to $0.48 in just 16 minutes.\n\nNow it sits near $0.50.\n\n#Crypto",
@@ -2704,7 +2702,17 @@
       "at": 1794926117557,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389263078910438?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NEW: Cathie Wood’s ARK Invest sold approximately $85 million in $NVDA shares while buying nearly $40 million in $COIN, $CRCL and $XYZ shares during Monday’s market selloff.",
+      "final": "🚨 NEW: Cathie Wood’s ARK Invest sold approximately $85 million in $NVDA shares while buying nearly $40 million in $COIN, $CRCL and $XYZ shares during Monday’s market selloff.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HXWzFVdXkAApZS5.jpg",
+        "https://pbs.twimg.com/media/HXWzFj1W0AEZgO7.jpg"
+      ],
+      "at": 1794960167309,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794926117557
+  "lastPostAt": 1794960167309
 }
