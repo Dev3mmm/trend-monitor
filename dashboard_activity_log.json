@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794897133102-edrbzv",
-    "source": "x",
-    "ts": "2026-11-17T06:32:13.102Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-17T06:23:01.000Z",
-    "reason": "Noise: generic meme without factual content",
-    "text": "Starship 42",
-    "url": "https://x.com/elonmusk/status/2122576221846253837"
-  },
-  {
-    "id": "x-1794897758218-n9q2s0",
-    "source": "x",
-    "ts": "2026-11-17T06:42:38.218Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-17T06:37:49.000Z",
-    "reason": "No notable crypto-related news, mostly financial speculation and valuation.",
-    "text": "🚨LATEST: Ashton Kutcher’s $435 Million Anthropic investment to be worth $7,000,000,000 at IPO, per Bloomberg.\n\nSound Ventures, VC fund co-founded by Kutcher and Guy Oseary, first invested in Anthropic back in 2023.\n\nAt a $1.4 TRILLION valuation, its current 0.5% stake would",
-    "url": "https://x.com/coinbureau/status/2122579947546104267"
-  },
-  {
     "id": "x-1794898945024-0e50gl",
     "source": "x",
     "ts": "2026-11-17T07:02:25.024Z",
@@ -7825,6 +7799,42 @@
     "images": [
       "https://pbs.twimg.com/media/HXbbTYLXkAAATt0.png",
       "https://pbs.twimg.com/media/HXbbWDDXIAAMb5v.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795039925144-w3ehmz",
+    "source": "x",
+    "ts": "2026-11-18T22:12:05.144Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-18T22:11:22.000Z",
+    "reason": "Notable institutional criticism of a crypto-related company ahead of its debut.",
+    "text": "BREAKING: Anthropic gets branded \"not a safe AI company\" by Nobel laureates and tech founders, hours ahead of its Nasdaq debut.\n\n89 names have signed a statement accusing the company of hypocrisy on AI safety.\n\nThe statement says Anthropic \"warns that recursively self-improving",
+    "url": "https://x.com/coinbureau/status/2123177269632090205",
+    "images": [
+      "https://pbs.twimg.com/media/HXcKeAmbUAAVvH8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795039927962-z3rh0w",
+    "source": "x",
+    "ts": "2026-11-18T22:12:07.962Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T22:10:34.000Z",
+    "reason": "Notable Fed rate hike prediction with a high probability.",
+    "text": "🇺🇸 LATEST: Kalshi traders now see a 91% chance of a 25-basis-point Fed rate hike in December.",
+    "url": "https://x.com/Cointelegraph/status/2123177070293307767",
+    "images": [
+      "https://pbs.twimg.com/media/HXcKSwTWgAEuJGb.jpg"
     ],
     "video": null
   }
