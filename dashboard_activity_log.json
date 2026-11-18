@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794842056191-jw5mlv",
-    "source": "x",
-    "ts": "2026-11-16T15:14:16.191Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-16T15:04:02.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "🇺🇸 BIG: President Trump on Nvidia reinstating Jensen Huang: \n\n“I would certainly not mind seeing that.”",
-    "url": "https://x.com/Cointelegraph/status/2122344951094632664"
-  },
-  {
-    "id": "x-1794842061367-s61vod",
-    "source": "x",
-    "ts": "2026-11-16T15:14:21.367Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Bitcoin Magazine",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-16T15:02:25.000Z",
-    "reason": "Harvard University's Bitcoin holdings increase is noteworthy but not breaking news as it's already known information.",
-    "text": "JUST IN: 🇺🇸 Harvard University disclosed they did not sell any Bitcoin ETF shares in Q3. 👀\n\nTheir holdings rose 42% in value to $144 million! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2122344545262194748",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2122344499103887360/vid/avc1/1280x720/UunsIjAaEE3dkW7R.mp4?tag=29",
-      "duration": 18,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HXQVKvIXYAApOab.jpg"
-    }
-  },
-  {
     "id": "x-1794842598312-19622u",
     "source": "x",
     "ts": "2026-11-16T15:23:18.312Z",
@@ -7902,5 +7868,42 @@
     "reason": "No notable crypto-related event mentioned.",
     "text": "BREAKING: 🇺🇸Outage reports spiked across five U.S. telecom providers, including Spectrum, T-Mobile and AT&amp;T.",
     "url": "https://x.com/coinbureau/status/2122979355941044440"
+  },
+  {
+    "id": "x-1794993763258-ilggrk",
+    "source": "x",
+    "ts": "2026-11-18T09:22:43.258Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T09:17:13.000Z",
+    "reason": "New use of token/stablecoin by a major project.",
+    "text": "InterLink is Preparing a New Way for ITLG Holders to Earn\n\nInterLink (@inter_link) has outlined plans for staking vaults on its ITLG Mainnet.\n\nHolders will be able to stake $ITLG through different vaults and earn rewards. Those rewards are expected to come from fees generated",
+    "url": "https://x.com/BSCNews/status/2122982447973318801",
+    "images": [
+      "https://pbs.twimg.com/media/HXZF835aAAAVMG5.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794993766951-fd8q48",
+    "source": "x",
+    "ts": "2026-11-18T09:22:46.951Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T09:15:00.000Z",
+    "reason": "Nvidia's ban on selling Hopper products to China is a significant regulatory move.",
+    "text": "Nvidia No Longer Shipping Licensed Hopper Data Center Products To China, Kress Says.\n\nThe interim CEO said Nvidia sold $2.4 billion of them to China in the third quarter, and that its guidance \"does not have any licensed Hopper data center products included.\"",
+    "url": "https://x.com/DecryptMedia/status/2122981889623343156",
+    "images": [
+      "https://pbs.twimg.com/media/HXZTi6zWYAAo3k7.png",
+      "https://pbs.twimg.com/media/HXZT5PqW0AAYOhs.jpg"
+    ],
+    "video": null
   }
 ]
