@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1794846815116-85lnx7",
-    "source": "x",
-    "ts": "2026-11-16T16:33:35.116Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-16T16:30:52.000Z",
-    "reason": "No notable move or specific action related to crypto.",
-    "text": "🚨️️️️ INSIGHT: Barclays has lowered its year-end 2027 target for the S&amp;P 500 to 8,700 from 8,800.",
-    "url": "https://x.com/Cointelegraph/status/2122366803905003599"
-  },
-  {
-    "id": "x-1794846819809-b7l2do",
-    "source": "x",
-    "ts": "2026-11-16T16:33:39.809Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 34,
-    "originTimestamp": "2026-11-16T15:59:14.000Z",
-    "reason": "Notable quote on Bitcoin's adoption in emerging markets by a respected institution.",
-    "text": "T. Rowe Price's (@TRowePrice_DA) Blue Macellari on Bitcoin in emerging markets:\n\n\"Those are economies and countries that very much embraced the idea of Bitcoin and the idea of a non-governmental hedge on money.\"\n\n\"It becomes a natural part of what for them is also a debasement",
-    "url": "https://x.com/BitcoinMagazine/status/2122366686888145200",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2122358809670594561/vid/avc1/1280x720/nUoXMUBoA20QuhVp.mp4?tag=29",
-      "duration": 75,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122358809670594561/img/X1Okym7Ek32XKCYG.jpg"
-    }
-  },
-  {
-    "id": "x-1794846823419-66km0h",
-    "source": "x",
-    "ts": "2026-11-16T16:33:43.419Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-16T16:30:00.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": ".@Kinetiq_xyz co-founder @0xOmnia joins @Tyler_Did_It and @farokh to talk all things @Enter_Elysium and why he's shipping through the downturn.\n\n02:23 - Kinetiq, Markets and Elysium explained\n05:51 - Why a \"very, very underdeveloped\" HyperEVM inspired Elysium\n08:02 - Hyperliquid",
-    "url": "https://x.com/DecryptMedia/status/2122366587638587884"
-  },
-  {
     "id": "x-1794847421199-jjrffm",
     "source": "x",
     "ts": "2026-11-16T16:43:41.199Z",
@@ -7909,5 +7862,53 @@
     "reason": "Noise: vague opinion without factual claim.",
     "text": "很多小伙伴问是不是 Claude 做的，确实是 Claude 做的，但说仔细点应该是 Grok Bot 做的基础，然后是 ChatGPT 做的优化和美术，最终的完成是有 Claude Fable 5.1 和 5.2 完成的，其中大部分工作是 Fable 5.1 中等处理的，但最后的验收和修改都是 Fable 5.2 高级做的。\n\n当然我能理解，在 X",
     "url": "https://x.com/PhyrexNi/status/2123011448221913267"
+  },
+  {
+    "id": "x-1795001537528-ubeiym",
+    "source": "x",
+    "ts": "2026-11-18T11:32:17.528Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T11:30:44.000Z",
+    "reason": "Binance Wallet's early IPO token sale closure is notable institutional activity.",
+    "text": "🔥 UPDATE: Binance Wallet closes its Anthropic IPO token sale early after reaching 500M USDC in subscriptions within four hours.",
+    "url": "https://x.com/Cointelegraph/status/2123016050966986998",
+    "images": [
+      "https://pbs.twimg.com/media/HXZ31f8WIAACIoM.jpg",
+      "https://pbs.twimg.com/media/HXZ32FtWoAAkWz2.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795001542646-hjxwbv",
+    "source": "x",
+    "ts": "2026-11-18T11:32:22.646Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-18T11:26:02.000Z",
+    "reason": "No notable move or specific event is clearly described.",
+    "text": "Some coincidences are hard to explain.\n\nThe official who controls Nvidia’s chip exports to China just saw his family firm dodge Nvidia’s crash.\n\nCommerce Secretary Lutnick’s Cantor Fitzgerald cut its $NVDA stake by -45% between July and September, per its latest 13F.\n\nIt also",
+    "url": "https://x.com/coinbureau/status/2123014864876818929"
+  },
+  {
+    "id": "x-1795001548023-x33u4h",
+    "source": "x",
+    "ts": "2026-11-18T11:32:28.023Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-18T11:23:57.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Nigeria’s new CBN crypto rules require issuers like Tether and Circle to obtain a local license. \n\nHere is what the rules say and why they matter globally. 🔽",
+    "url": "https://x.com/BSCNews/status/2123014339993195002",
+    "images": [],
+    "video": null
   }
 ]
