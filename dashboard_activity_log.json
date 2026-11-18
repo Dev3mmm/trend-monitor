@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794898945024-0e50gl",
-    "source": "x",
-    "ts": "2026-11-17T07:02:25.024Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T07:01:10.000Z",
-    "reason": "Net loss of Bitcoin holders is significant and unusual.",
-    "text": "🚨UPDATE: Bitcoin holders lock in a net loss of 25.8K $BTC, the largest since July 13, per CryptoQuant’s Head of Research Julio Moreno.",
-    "url": "https://x.com/Cointelegraph/status/2122585823396671622",
-    "images": [
-      "https://pbs.twimg.com/media/HXTwjrtWYAAAhuA.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794898948273-2d6cea",
-    "source": "x",
-    "ts": "2026-11-17T07:02:28.273Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-17T06:58:43.000Z",
-    "reason": "Noise, no factual claim or newsworthy detail provided.",
-    "text": "BREAKING: The US government reveals new details on Megaspeed, the Nvidia chip buyer tied to Jensen Huang's exit.\n\nThe Department of Commerce and Department of Justice confirm a criminal investigation into the firm once led by Alice Huang, the suspected Chinese spy whose reported",
-    "url": "https://x.com/coinbureau/status/2122585207534686569"
-  },
-  {
-    "id": "x-1794898952197-k7uhu6",
-    "source": "x",
-    "ts": "2026-11-17T07:02:32.197Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-17T06:54:42.000Z",
-    "reason": "No notable move or newsworthy action related to Ethereum's quantum-safe upgrade.",
-    "text": "Vitalik Buterin Finds a Faster Path to Quantum Safe Ethereum\n\nEthereum (@ethereum) $ETH co-founder Vitalik Buterin (@VitalikButerin) now favors leanPCS for Ethereum's quantum-safe upgrade. \n\nThe design could verify STARK proofs for just 20,000 to 40,000 gas. Buterin says it could",
-    "url": "https://x.com/BSCNews/status/2122584194920726616"
-  },
-  {
     "id": "x-1794900134756-6lzgr2",
     "source": "x",
     "ts": "2026-11-17T07:22:14.756Z",
@@ -7835,6 +7791,53 @@
     "url": "https://x.com/Cointelegraph/status/2123177070293307767",
     "images": [
       "https://pbs.twimg.com/media/HXcKSwTWgAEuJGb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795040395588-jb5zyx",
+    "source": "x",
+    "ts": "2026-11-18T22:19:55.588Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T22:17:45.000Z",
+    "reason": "Ledger confirms tampered wallets, potential spy implant probe expands beyond Asia.",
+    "text": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+    "url": "https://x.com/DecryptMedia/status/2123178876427788290",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795040400286-taku0t",
+    "source": "x",
+    "ts": "2026-11-18T22:20:00.286Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-18T22:16:42.000Z",
+    "reason": "No notable move, statement of interest rates but no specific action or price mentioned.",
+    "text": "美联储十月会议纪要，大概就以下五点：\n\n1. 10月 暂定是因为 9月 刚加息 25 个基点，多数与会者希望再看看9月加息如何影响市场，尤其是对 AI 投资需求能维持多久。\n\n2. 12月 的利率调整，10月 开会时，多数与会者已经认为 12月 甚至明年都应该继续加息。甚至有两位与会者支持 12月 加息 50 个基点。",
+    "url": "https://x.com/PhyrexNi/status/2123178611327062419"
+  },
+  {
+    "id": "x-1795040404915-yck21n",
+    "source": "x",
+    "ts": "2026-11-18T22:20:04.915Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-18T22:14:00.000Z",
+    "reason": "Whale's loss highlights the volatility and speculative nature of meme coins.",
+    "text": "Whale loses $2.93M on $TRUMP memecoin trade.\n\n1.5 years ago, one unknowing whale spent $3.19M to buy up 267,272 @GetTrumpMemes tokens.\n\nToday, their stacks are worth just $258K - a loss of some -92%.\n\nFor context, the $TRUMP token held a market cap of over $9B in January 2025 -",
+    "url": "https://x.com/BSCNews/status/2123177931312930966",
+    "images": [
+      "https://pbs.twimg.com/media/HXbxkI9WwAAPaYC.jpg"
     ],
     "video": null
   }
