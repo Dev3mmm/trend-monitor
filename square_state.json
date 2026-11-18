@@ -2003,28 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "NEW: 🇨🇭 The Swiss National Bank reported owning ~$120 million in Bitcoin miner stock, as well as ~$110 million in MSTR.  🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2122803284813770758",
-      "images": [],
-      "video": {
-        "url": "https://video.twimg.com/amplify_video/2122799680383823872/vid/avc1/1280x720/m2iGSPyd82j1JiW_.mp4?tag=29",
-        "duration": 14,
-        "gif": false,
-        "thumb": "https://pbs.twimg.com/media/HXW2ZeoWYAA4QWB.jpg"
-      },
-      "enqueuedAt": 1794951146386
-    },
-    {
-      "text": "NEW: 🇺🇸 Susquehanna International Group disclosed owning ~$622 million in Bitcoin ETFs in Q3. 👀\n\nThis triples their reported ~$200 million in the previous quarter 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2122818898126856594",
-      "images": [
-        "https://pbs.twimg.com/media/HXXEiV6W8AEvAzO.png",
-        "https://pbs.twimg.com/media/HXXEiWHX0AAp1zd.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1794955095473
-    },
-    {
       "text": "⚡️ NEW: Howard Lutnick agrees to testify over national security concerns involving Nvidia chips, per NBC News.",
       "url": "https://x.com/Cointelegraph/status/2122824751919890521",
       "images": [
@@ -2723,7 +2701,17 @@
       "at": 1794960167309,
       "status": "failed",
       "error": "98a4f6b8de1ef09e29529e8.jpg\nUploading: sq_1794960167309_1.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261118/3f2dee9b83c84809acd6584144f33a5c.jpg\nPublishing...\n\n\nFailed: API error [220095]: Coin pair count exceeds the allowed limit"
+    },
+    {
+      "text": "NEW: 🇺🇸 Susquehanna International Group disclosed owning ~$622 million in Bitcoin ETFs in Q3. 👀\n\nThis triples their reported ~$200 million in the previous quarter 🚀",
+      "final": "NEW: 🇺🇸 Susquehanna International Group disclosed owning ~$622 million in Bitcoin ETFs in Q3. 👀\n\nThis triples their reported ~$200 million in the previous quarter 🚀\n\n#Bitcoin $BTC #ETF",
+      "images": [
+        "https://pbs.twimg.com/media/HXXEiV6W8AEvAzO.png",
+        "https://pbs.twimg.com/media/HXXEiWHX0AAp1zd.jpg"
+      ],
+      "at": 1794961960559,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1794960167309
+  "lastPostAt": 1794961960559
 }
