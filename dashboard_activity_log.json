@@ -1,88 +1,5 @@
 [
   {
-    "id": "x-1794880926306-d5wizh",
-    "source": "x",
-    "ts": "2026-11-17T02:02:06.306Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T02:00:53.000Z",
-    "reason": "Exploit involving wallet address swapping and card details theft",
-    "text": "🚨 ALERT: Hackers slip malware that swaps crypto wallet addresses and steals card details into 178 major websites, among them Ledger, BBC and Salesforce, via compromised Optimizely scripts.",
-    "url": "https://x.com/Cointelegraph/status/2122510252683735230",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794881550965-1oewpl",
-    "source": "x",
-    "ts": "2026-11-17T02:12:30.965Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 88,
-    "originTimestamp": "2026-11-17T00:43:47.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "NASA chief Jared Isaacman after SpaceX’s Starship catch: “This really changes everything.” \n\n“They’re doing all of this for a reason, not for this one and done demonstration you’re seeing now, but to build a world where you have lots of Starships that are flying routinely, almost",
-    "url": "https://x.com/elonmusk/status/2122510968253264191"
-  },
-  {
-    "id": "x-1794881554925-7cvta1",
-    "source": "x",
-    "ts": "2026-11-17T02:12:34.925Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-17T02:03:00.000Z",
-    "reason": "Notable adoption and interest in a new crypto program.",
-    "text": "Supra reports serious appetite for its new developer program.\n\n@SUPRA_Labs' new 'Alpha Builder' program received more than 15 high quality applications in the first two days after its announcement, and is still looking for more.\n\nThe details of these projects and whether or not",
-    "url": "https://x.com/BSCNews/status/2122510785754931378",
-    "images": [
-      "https://pbs.twimg.com/media/HXPmtOAWYAAmStI.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794882756700-5wh672",
-    "source": "x",
-    "ts": "2026-11-17T02:32:36.700Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T02:30:56.000Z",
-    "reason": "Notable institutional crypto move and expansion of crypto offerings.",
-    "text": "🚨 BIG: Kalshi buys New York broker FB Securities and plans to offer stocks and ETFs within the next two months, WSJ reports.",
-    "url": "https://x.com/Cointelegraph/status/2122517814732849191",
-    "images": [
-      "https://pbs.twimg.com/media/HXSys4vXYAI1ZMV.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794883433347-cnrhnn",
-    "source": "x",
-    "ts": "2026-11-17T02:43:53.348Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-17T02:36:00.000Z",
-    "reason": "PancakeSwap hit a significant milestone in terms of total volume on a popular L2 network.",
-    "text": "PancakeSwap now the third largest DEX on Base.\n\n@PancakeSwap has hit $125B in total volume on @Coinbase's @Base L2 network, and is now the 3rd most used DEX on the chain.\n\nOutpaced only by @Uniswap $UNI and @aeroxyz $AERO, $CAKE's $3B 30-day volume on the chain makes it more",
-    "url": "https://x.com/BSCNews/status/2122519090124435827",
-    "images": [
-      "https://pbs.twimg.com/media/HXPmw0iXgAAkYnS.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794884518321-6y575f",
     "source": "x",
     "ts": "2026-11-17T03:01:58.321Z",
@@ -7827,5 +7744,89 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123135419613159426/img/2N5dncjxsNiOIJGO.jpg"
     }
+  },
+  {
+    "id": "x-1795031587328-3eg3d0",
+    "source": "x",
+    "ts": "2026-11-18T19:53:07.328Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T19:50:36.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "🔥 SAYLOR: “Seller exhaustion will come long before Saylor exhaustion.”",
+    "url": "https://x.com/Cointelegraph/status/2123141845739835639"
+  },
+  {
+    "id": "x-1795031592663-tijwlj",
+    "source": "x",
+    "ts": "2026-11-18T19:53:12.663Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T19:50:12.000Z",
+    "reason": "Notable innovation in cryptocurrency staking mechanism.",
+    "text": "Bitcoin staking is live on Stacks.\n\nMost holders have only been able to wait or sell when prices drop. Traditional assets earn a rate and can back loans without being sold. @Stacks is building the same tools for $BTC.\n\nBitcoin staking is already live. Holders stake $BTC with $STX",
+    "url": "https://x.com/BSCNews/status/2123141742010519752",
+    "images": [
+      "https://pbs.twimg.com/media/HXbqKTRWgAEIGTv.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795031597534-74sqys",
+    "source": "x",
+    "ts": "2026-11-18T19:53:17.534Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-18T19:49:07.000Z",
+    "reason": "Specific institutional crypto security update with potential global implications.",
+    "text": "Ledger Hardware Wallet Tampering Investigation Update: Affected Devices Found Beyond Southeast Asia in Germany and UAE\n\nLedger has released an update on its investigation into physically tampered hardware wallets, confirming that affected devices have been found beyond Southeast",
+    "url": "https://x.com/WuBlockchain/status/2123141470974787911",
+    "images": [
+      "https://pbs.twimg.com/media/HXbp5x-bAAAz6Vo.jpg",
+      "https://pbs.twimg.com/media/HXbp6Rwa8AATu4p.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795031601258-5skk15",
+    "source": "x",
+    "ts": "2026-11-18T19:53:21.258Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T19:47:15.000Z",
+    "reason": "CoinShares' actions suggest significant market movement or institutional activity.",
+    "text": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+    "url": "https://x.com/DecryptMedia/status/2123141003267674503",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795031609231-3h6zeh",
+    "source": "x",
+    "ts": "2026-11-18T19:53:29.231Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-18T19:47:00.000Z",
+    "reason": "Pieverse shows significant growth with a 107.4% seven-day gain.",
+    "text": "Pieverse doubles in a week while Bitcoin drops 15%\n\nethereum:0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9 gained about 60% in the past 24 hours to trade at $3.35, on $81.5M in volume. Its market cap now stands at $913M, good for #72 on CoinGecko.\n\nThe seven-day gain is 107.4%,",
+    "url": "https://x.com/BSCNews/status/2123140937593598239",
+    "images": [
+      "https://pbs.twimg.com/media/HXbk5JDXEAEy44W.jpg"
+    ],
+    "video": null
   }
 ]
