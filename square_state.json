@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793656315237-ol68qq",
     "x-1793656320661-qpk2b9",
     "x-1793656951837-7yq1qa",
     "x-1793658134198-fqxwxr",
@@ -1999,18 +1998,10 @@
     "x-1795006422862-d1zw6o",
     "x-1795006428652-kk20fz",
     "x-1795006433185-8vbuym",
-    "x-1795006443994-897o6s"
+    "x-1795006443994-897o6s",
+    "x-1795006950131-lrbd5j"
   ],
   "queue": [
-    {
-      "text": "🚨 UPDATE: Bitcoin miners have sold nearly half their BTC reserves since January to fund AI data centers, per Glassnode.",
-      "url": "https://x.com/Cointelegraph/status/2123026085285634468",
-      "images": [
-        "https://pbs.twimg.com/media/HXaA-GvXIAAoKV7.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795003954718
-    },
     {
       "text": "#PeckShieldAlert The address labeled #Binance Hot Wallet Exploiter 11, which received 75,475 $ETH ($135.6M), has distributed 6 batches of ~12K $ETH to 6 new addresses and 6,415.24 ETH to 0xDbA9FE...6FE0.",
       "url": "https://x.com/PeckShieldAlert/status/2123027618358600058",
@@ -2040,6 +2031,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795006447332
+    },
+    {
+      "text": "NEW: 🇺🇸 Coinbase now offers Bitcoin-backed loans in all 50 states, letting users borrow up to $5 million against their BTC 👀\n\nNever sell your Bitcoin ✊",
+      "url": "https://x.com/BitcoinMagazine/status/2123037020381704645",
+      "images": [
+        "https://pbs.twimg.com/media/HXaK0b5XUAEjKVj.png",
+        "https://pbs.twimg.com/media/HXaK1T8W4AAINIy.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1795006950894
     }
   ],
   "posted": [
@@ -2775,7 +2776,16 @@
       "at": 1795005194294,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389586985654447?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Bitcoin miners have sold nearly half their BTC reserves since January to fund AI data centers, per Glassnode.",
+      "final": "🚨 UPDATE: Bitcoin miners have sold nearly half their BTC reserves since January to fund AI data centers, per Glassnode.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HXaA-GvXIAAoKV7.jpg"
+      ],
+      "at": 1795006950894,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795005194294
+  "lastPostAt": 1795006950894
 }
