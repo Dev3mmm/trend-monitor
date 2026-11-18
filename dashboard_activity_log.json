@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794834195308-o90am5",
-    "source": "x",
-    "ts": "2026-11-16T13:03:15.308Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-16T12:59:47.000Z",
-    "reason": "No concrete price or event mentioned.",
-    "text": "Bitcoin CRASHES Below $63K, Nvidia CHAOS &amp; $1.3T AI IPO",
-    "url": "https://x.com/coinbureau/status/2122313682113703968"
-  },
-  {
-    "id": "x-1794834742987-mxqdkj",
-    "source": "x",
-    "ts": "2026-11-16T13:12:22.987Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-16T13:02:16.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Strive acquired 251 $BTC for $17.5M at an average cost of $69,853 per bitcoin, bringing total holdings to ₿43,404.\n\n- $10M raised through the $SATS ATM\n- Current preferred dividend coverage: 133 months\n- Amplification ratio: 76%\n\n$ASST $SATA $SATS",
-    "url": "https://x.com/saylor/status/2122315672701292880"
-  },
-  {
-    "id": "x-1794834747682-t8rgdx",
-    "source": "x",
-    "ts": "2026-11-16T13:12:27.682Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-16T13:07:32.000Z",
-    "reason": "Notable institutional investment by a major crypto figure.",
-    "text": "🔥 JUST IN: Michael Saylor's Strategy buys another 485 bitcoin:native,  bringing its total holdings to 850,849 bitcoin:native.",
-    "url": "https://x.com/Cointelegraph/status/2122315634159878346",
-    "images": [
-      "https://pbs.twimg.com/media/HXP6h_gbsAAqhr_.jpg",
-      "https://pbs.twimg.com/media/HXP6jhNbIAEn2Et.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794834752280-p17hp1",
     "source": "x",
     "ts": "2026-11-16T13:12:32.280Z",
@@ -7920,6 +7875,48 @@
     "images": [
       "https://pbs.twimg.com/media/HXXvGrlbwAE9mmr.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1794974531996-wshkiw",
+    "source": "x",
+    "ts": "2026-11-18T04:02:11.996Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T04:00:39.000Z",
+    "reason": "Vague opinion with no factual claim or basis given.",
+    "text": "🔥 TODAY: Michael Saylor on OpenAI’s GPT-6.2 Astra and Sol release: “At this rate, everyone will be smart enough to buy Bitcoin.”",
+    "url": "https://x.com/Cointelegraph/status/2122902782415913230"
+  },
+  {
+    "id": "x-1794974534032-e8t396",
+    "source": "x",
+    "ts": "2026-11-18T04:02:14.032Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T04:00:01.000Z",
+    "reason": "No notable move or concrete news.",
+    "text": "CZ: Entrepreneurs Still Building in Crypto Are More Worth Investing in Amid the AI Boom\n\nBinance founder Changpeng Zhao (CZ) @cz_binance   said during the closing fireside chat at Cantor Convergence on November 12 that AI companies are creating tremendous value and deserve high",
+    "url": "https://x.com/WuBlockchain/status/2122902623682707877"
+  },
+  {
+    "id": "x-1794974537049-lbrtao",
+    "source": "x",
+    "ts": "2026-11-18T04:02:17.049Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T04:00:00.000Z",
+    "reason": "This is a notable legal development in the Ethereum MEV (Maximal Extraction Value) case.",
+    "text": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution\n\nA federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
+    "url": "https://x.com/DecryptMedia/status/2122902618523468155",
+    "images": [],
     "video": null
   }
 ]
