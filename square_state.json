@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1793658137603-8y6adf",
-    "x-1793659320389-f564p6",
     "x-1793659946576-gbm083",
     "x-1793661139437-gglyf8",
     "x-1793661804121-5p1v6o",
@@ -1999,18 +1997,11 @@
     "x-1795006950131-lrbd5j",
     "x-1795007771227-saz461",
     "x-1795007775163-kgytz6",
-    "x-1795007782395-0xs3ql"
+    "x-1795007782395-0xs3ql",
+    "x-1795008752625-xyblrh",
+    "x-1795008755875-v522by"
   ],
   "queue": [
-    {
-      "text": "#PeckShieldAlert The address labeled #Binance Hot Wallet Exploiter 11, which received 75,475 $ETH ($135.6M), has distributed 6 batches of ~12K $ETH to 6 new addresses and 6,415.24 ETH to 0xDbA9FE...6FE0.",
-      "url": "https://x.com/PeckShieldAlert/status/2123027618358600058",
-      "images": [
-        "https://pbs.twimg.com/media/HXaCWngacAAmSPq.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795004510851
-    },
     {
       "text": "🚨 INSIGHT: A $129M Bitcoin whale position faces liquidation if BTC falls below $63,500, says CoinGlass.\n\nWill he get REKT?",
       "url": "https://x.com/Cointelegraph/status/2123036145181180331",
@@ -2051,6 +2042,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795007789950
+    },
+    {
+      "text": "🚨 ALERT: K3 Capital's sBOLD vault on Ethereum suffers a $3.43M exploit across 34 transactions, per Blockaid. \n\nK3 Capital says contracts have been paused for investigation.",
+      "url": "https://x.com/Cointelegraph/status/2123045253011673558",
+      "images": [
+        "https://pbs.twimg.com/media/HXaSZxFWAAA_Mxt.png",
+        "https://pbs.twimg.com/media/HXaSZ9gXwAASn2u.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795008756331
     }
   ],
   "posted": [
@@ -2786,7 +2787,16 @@
       "at": 1795006950894,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389594163337968?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "#PeckShieldAlert The address labeled #Binance Hot Wallet Exploiter 11, which received 75,475 $ETH ($135.6M), has distributed 6 batches of ~12K $ETH to 6 new addresses and 6,415.24 ETH to 0xDbA9FE...6FE0.",
+      "final": "#PeckShieldAlert The address labeled #Binance Hot Wallet Exploiter 11, which received 75,475 $ETH ($135.6M), has distributed 6 batches of ~12K $ETH to 6 new addresses and 6,415.24 ETH to 0xDbA9FE...6FE0.\n\n#Ethereum $ETH #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HXaCWngacAAmSPq.jpg"
+      ],
+      "at": 1795008756331,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795006950894
+  "lastPostAt": 1795008756331
 }
