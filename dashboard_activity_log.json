@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794846222644-t8l0zy",
-    "source": "x",
-    "ts": "2026-11-16T16:23:42.644Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-16T16:17:53.000Z",
-    "reason": "Memes and sentiment without factual claim.",
-    "text": "The grandmother — Single Mother\n\nThe mother — Single Mother\n\nThe daughter — Single Mother\n\nGranddaughter — Single Mother\n\nThe cycle never stops.\n\nSome matriarchs were cursed; don't date their lineage.",
-    "url": "https://x.com/amerix/status/2122363538299637924"
-  },
-  {
-    "id": "x-1794846226501-mfaoqo",
-    "source": "x",
-    "ts": "2026-11-16T16:23:46.501Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-16T16:15:41.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
-    "url": "https://x.com/DecryptMedia/status/2122362984676684123",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794846230495-5ztjyt",
-    "source": "x",
-    "ts": "2026-11-16T16:23:50.495Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-16T16:14:00.000Z",
-    "reason": "No notable move in Stellar TVL or stablecoin market cap is mentioned.",
-    "text": "Stellar TVL slumps, but stablecoins keep growing.\n\n@StellarOrg's TVL is now around $80M down from all-time highs set in early October at around $273M.\n\nAt the same time higher, stablecoin supply on the chain has been steadily rising. \n\nThe stablecoin market cap of Stellar is up",
-    "url": "https://x.com/BSCNews/status/2122362558862524752"
-  },
-  {
     "id": "x-1794846815116-85lnx7",
     "source": "x",
     "ts": "2026-11-16T16:33:35.116Z",
@@ -7904,5 +7862,52 @@
       "https://pbs.twimg.com/media/HXZzPIXWsAAk4VE.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795000919178-mo9zeh",
+    "source": "x",
+    "ts": "2026-11-18T11:21:59.178Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-18T11:17:28.000Z",
+    "reason": "New NFT generation feature from a major Web3 platform",
+    "text": "TokenFi’s New AI Studio Can Generate Free NFTs! \n\nTokenFi (@Tokenfi) has unveiled AIGen Studio, a Web3 interface that is designed to guide users through generating an NFT from a text prompt to on-chain completion in minutes.\n\nCreators can generate and mint up to eight NFTs each",
+    "url": "https://x.com/BSCNews/status/2123012708849086508",
+    "images": [
+      "https://pbs.twimg.com/media/HXZ0mIyW0AAXvOm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795000924013-m067na",
+    "source": "x",
+    "ts": "2026-11-18T11:22:04.014Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-18T11:15:48.000Z",
+    "reason": "New use of a token (Immutable's) indicating a shift in business strategy.",
+    "text": "Immutable (@Immutable) ethereum:0xf57e7e7c23978c3caec3c3548e3d615c346e79ff is changing its approach to blockchain gaming. Instead of building games itself, the company is focusing on tools that help mainstream studios attract and retain players. \n\nWhat does this mean for the",
+    "url": "https://x.com/BSCNews/status/2123012292099072145",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795000927943-fja2kv",
+    "source": "x",
+    "ts": "2026-11-18T11:22:07.943Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 58,
+    "originTimestamp": "2026-11-18T10:23:48.000Z",
+    "reason": "Noise: vague opinion without factual claim.",
+    "text": "很多小伙伴问是不是 Claude 做的，确实是 Claude 做的，但说仔细点应该是 Grok Bot 做的基础，然后是 ChatGPT 做的优化和美术，最终的完成是有 Claude Fable 5.1 和 5.2 完成的，其中大部分工作是 Fable 5.1 中等处理的，但最后的验收和修改都是 Fable 5.2 高级做的。\n\n当然我能理解，在 X",
+    "url": "https://x.com/PhyrexNi/status/2123011448221913267"
   }
 ]
