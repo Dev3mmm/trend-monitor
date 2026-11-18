@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794854591585-ep5tee",
-    "source": "x",
-    "ts": "2026-11-16T18:43:11.585Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-16T18:36:30.000Z",
-    "reason": "Noise: Memes without substance.",
-    "text": "Eshitsitswi.",
-    "url": "https://x.com/amerix/status/2122398420602114430"
-  },
-  {
     "id": "x-1794854595113-97xffk",
     "source": "x",
     "ts": "2026-11-16T18:43:15.113Z",
@@ -7915,5 +7902,18 @@
       "https://pbs.twimg.com/media/HXaSZ9gXwAASn2u.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795009321074-fcbzvo",
+    "source": "x",
+    "ts": "2026-11-18T13:42:01.074Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-18T13:38:30.000Z",
+    "reason": "No notable crypto-related news in the tweet provided.",
+    "text": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
+    "url": "https://x.com/DecryptMedia/status/2123048201603211343"
   }
 ]
