@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794829387021-4srtzh",
-    "source": "x",
-    "ts": "2026-11-16T11:43:07.021Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 20,
-    "originTimestamp": "2026-11-16T11:22:20.000Z",
-    "reason": "Security incident affecting cryptocurrency exchanges",
-    "text": "🚨 UPDATE: Upbit and Bithumb pause ethereum:0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2 deposits and withdrawals amid Lighter's security incident.",
-    "url": "https://x.com/Cointelegraph/status/2122292191481708817",
-    "images": [
-      "https://pbs.twimg.com/media/HXPlGD8agAAquRk.jpg",
-      "https://pbs.twimg.com/media/HXPlGvoaEAE_MKG.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794829391054-4ai7oh",
-    "source": "x",
-    "ts": "2026-11-16T11:43:11.054Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-16T11:33:44.000Z",
-    "reason": "Notable event with multiple industry leaders gathering for a Web3 conference.",
-    "text": "We’re bringing together leaders from across Web3, TradFi, and global payments.\n\nJoin us in welcoming this incredible lineup to the stage!\n\n📍 Bangkok | Nov 28–29\n\nSecure your spot:",
-    "url": "https://x.com/binance/status/2122292026720809282",
-    "images": [
-      "https://pbs.twimg.com/media/HXPlWR-WcAAmh-7.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794829394364-9g2ne7",
     "source": "x",
     "ts": "2026-11-16T11:43:14.364Z",
@@ -7926,5 +7889,42 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122847379850473472/img/Cgi8rph1vx8BKwAF.jpg"
     }
+  },
+  {
+    "id": "x-1794963721405-au2f6p",
+    "source": "x",
+    "ts": "2026-11-18T01:02:01.405Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-18T01:00:41.000Z",
+    "reason": "Regulatory move affecting prediction markets related to political events.",
+    "text": "🇺🇸 LATEST: CFTC orders Kalshi to halt all markets tied to Trump’s speeches as regulators tighten their grip on prediction markets.",
+    "url": "https://x.com/Cointelegraph/status/2122857490589032620",
+    "images": [
+      "https://pbs.twimg.com/media/HXXnoj3WEAAUf6J.jpg",
+      "https://pbs.twimg.com/media/HXXnoxxWIAEZxvu.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1794963723879-r2gk4g",
+    "source": "x",
+    "ts": "2026-11-18T01:02:03.879Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-18T00:55:00.000Z",
+    "reason": "Exploit involving significant token theft or accumulation.",
+    "text": "Is this the biggest $LINK bull of 2026...? \n\nAccording to @OnchainLens, one single whale has accumulated $2.2M worth of @chainlink in the space of just two days, withdrawing the funds from @Binance.\n\nFor context, despite being one of the single most important platforms in the",
+    "url": "https://x.com/BSCNews/status/2122856060666982663",
+    "images": [
+      "https://pbs.twimg.com/media/HXVCp5ZXEAAuVk-.jpg"
+    ],
+    "video": null
   }
 ]
