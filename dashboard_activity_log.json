@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794847421199-jjrffm",
-    "source": "x",
-    "ts": "2026-11-16T16:43:41.199Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-16T16:43:00.000Z",
-    "reason": "No notable move in ETH, price is within its recent range.",
-    "text": "Though $ICP is certainly its own ecosystem, it doesn't live in a vacuum. Here's what you need to know about the relationship between @dfinity and @Ethereum... ⬇️",
-    "url": "https://x.com/BSCNews/status/2122369856641376605"
-  },
-  {
-    "id": "x-1794848042705-jd81zh",
-    "source": "x",
-    "ts": "2026-11-16T16:54:02.705Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-16T16:50:41.000Z",
-    "reason": "Exploit involving stolen funds and potential laundering activity.",
-    "text": "🚨️️️️ ALERT: A Gnosis Safe wallet reportedly lost $6.45 million in a suspected exploit, including $4.3 million in $USDC and $1.7 million in $syrupUSDC, with the attacker spending approximately $813,000 on $XMR via Hyperliquid, according to PeckShieldAlert.",
-    "url": "https://x.com/Cointelegraph/status/2122371791809097734",
-    "images": [
-      "https://pbs.twimg.com/media/HXQt5XlXkAAa8hI.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794849112569-wozilq",
-    "source": "x",
-    "ts": "2026-11-16T17:11:52.569Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-16T17:11:29.000Z",
-    "reason": "Bank of America's disclosure of BlackRock's Bitcoin ETF suggests institutional interest in crypto.",
-    "text": "JUST IN: 🇺🇸 Bank of America disclosed 14.48 million shares of BlackRock’s spot Bitcoin ETF worth $685 million.\n\nThat’s an ~800% increase from 1.72 million shares in Q2! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2122377024060690599",
-    "images": [
-      "https://pbs.twimg.com/media/HXQyp4cXwAA6-yW.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794849114865-wtgqh7",
     "source": "x",
     "ts": "2026-11-16T17:11:54.865Z",
@@ -7910,5 +7861,49 @@
     "url": "https://x.com/BSCNews/status/2123014339993195002",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795002486161-yn5kml",
+    "source": "x",
+    "ts": "2026-11-18T11:48:06.161Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T11:46:13.000Z",
+    "reason": "Noise: generic hype without a specific claim.",
+    "text": "Want fast updates and news on topics like...\n\n- Crypto regulation.\n- Major market moves.\n- Memecoins like @Shibtoken $SHIB and @pepecoineth $PEPE.\n- Blockchain ecosystems like @StellarOrg, @Monad, and @SuiNetwork.\n- Community updates from ecosystems like @PiCoreTeam $PI and",
+    "url": "https://x.com/BSCNews/status/2123019945021784429"
+  },
+  {
+    "id": "x-1795002490046-aa4oru",
+    "source": "x",
+    "ts": "2026-11-18T11:48:10.046Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T11:46:00.000Z",
+    "reason": "Cardano-based solution tracks agricultural data on blockchain.",
+    "text": "Cardano Is Tracking Crops From Harvest to Export\n\nAgricultural tracking solution Palmyra (@PalmyraSocial), backed by the Cardano blockchain, has onboarded more than 1,500 farmers in five international pilot markets.\n\nThe platform was developed with funds from the Cardano",
+    "url": "https://x.com/BSCNews/status/2123019890156331461",
+    "images": [
+      "https://pbs.twimg.com/media/HXZ43B4XsAACnbs.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795002492660-u4gxol",
+    "source": "x",
+    "ts": "2026-11-18T11:48:12.660Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-18T11:38:03.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Is the Thucydides Trap ever avoidable?\n\nI wish it were, but, inevitably, the most interesting outcome is the most likely.",
+    "url": "https://x.com/elonmusk/status/2123017891167785201"
   }
 ]
