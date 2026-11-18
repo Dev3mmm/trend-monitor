@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1794853434878-f7ukyd",
-    "source": "x",
-    "ts": "2026-11-16T18:23:54.878Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-16T18:16:33.000Z",
-    "reason": "Price comparison showing a significant change in GTA V price using BTC as a reference.",
-    "text": "GTA V vs. GTA VI prices at launch 🌴\n\nIn dollars, GTA got 33% more expensive.\n\nIn bitcoin, it got over 350x cheaper. 😎",
-    "url": "https://x.com/BitcoinMagazine/status/2122393399084925051",
-    "images": [
-      "https://pbs.twimg.com/media/HXRBjEwWoAARQN8.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794853895920-t8jeln",
-    "source": "x",
-    "ts": "2026-11-16T18:31:35.920Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-16T18:30:50.000Z",
-    "reason": "Trump's meeting with Kim Jong Un is not related to crypto.",
-    "text": "🚨️️️️️️ BIG: Trump says may meet Kim Jong Un in China.",
-    "url": "https://x.com/Cointelegraph/status/2122396994454839796"
-  },
-  {
-    "id": "x-1794854588979-491gc2",
-    "source": "x",
-    "ts": "2026-11-16T18:43:08.979Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-16T18:38:01.000Z",
-    "reason": "The tweet provides specific and concrete information about a significant economic development.",
-    "text": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
-    "url": "https://x.com/DecryptMedia/status/2122398804796211208",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794854591585-ep5tee",
     "source": "x",
     "ts": "2026-11-16T18:43:11.585Z",
@@ -7911,5 +7864,56 @@
     "reason": "No notable move or institutional adoption, just a listing announcement.",
     "text": "New bStock Listing.\n\nTrade: EWJB/USDT, EWTB/USDT, EWZB/USDT, EWZSB/USDT, IWMB/USDT, MELIB/USDT and NUB/USDT\n\n24/7 access. 1:1 free and instant exchange for actual stocks on Binance\n\nExchange the World, one market at a time.\n\nRead more 👉",
     "url": "https://x.com/binance/status/2123039237402440156"
+  },
+  {
+    "id": "x-1795008748989-fbn3rh",
+    "source": "x",
+    "ts": "2026-11-18T13:32:28.989Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T13:30:01.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "CISA Urges Immediate Patching Of Java Flaw \"Java4Shell\" Found With AI.\n\nStartup Calif said it \"used AI to find and weaponize\" the bug, taking \"an hour to discover the vulnerability,\" two more hours to build a working exploit, and \"less than $200\" in tokens.",
+    "url": "https://x.com/DecryptMedia/status/2123046066907984344"
+  },
+  {
+    "id": "x-1795008752625-xyblrh",
+    "source": "x",
+    "ts": "2026-11-18T13:32:32.625Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-18T13:30:00.000Z",
+    "reason": "Notable AI integration in financial trading simulation.",
+    "text": "⚡️NEW: JPMorgan tests AI agents to take on FOREX.\n\nJPMorgan and S. Korea’s Hyundai Card run a simulated \"currency exchange\" that ran WITHOUT human intervention.\n\nHyundai Card’s AI agent requested the exchange to keep enough euros in its account on Kinexys, JPMorgan’s blockchain",
+    "url": "https://x.com/coinbureau/status/2123046064626507798",
+    "images": [
+      "https://pbs.twimg.com/media/HXaK2Bpa0AA5__B.jpg",
+      "https://pbs.twimg.com/media/HXaLKgEaIAAKECy.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795008755875-v522by",
+    "source": "x",
+    "ts": "2026-11-18T13:32:35.875Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-18T13:26:47.000Z",
+    "reason": "Exploit involving millions of dollars on Ethereum.",
+    "text": "🚨 ALERT: K3 Capital's sBOLD vault on Ethereum suffers a $3.43M exploit across 34 transactions, per Blockaid. \n\nK3 Capital says contracts have been paused for investigation.",
+    "url": "https://x.com/Cointelegraph/status/2123045253011673558",
+    "images": [
+      "https://pbs.twimg.com/media/HXaSZxFWAAA_Mxt.png",
+      "https://pbs.twimg.com/media/HXaSZ9gXwAASn2u.jpg"
+    ],
+    "video": null
   }
 ]
