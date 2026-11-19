@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1794931912491-fx3hxq",
-    "source": "x",
-    "ts": "2026-11-17T16:11:52.491Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-17T16:10:00.000Z",
-    "reason": "Several prominent altcoin ETFs recorded significant net outflows.",
-    "text": "A bad day indeed for spot altcoin ETFs...\n\nSeveral spot ETFs for some of the most prominent altcoins in the industry recorded meaningful net outflows on November 16:\n\n@Zcash $ZEC [-$9.03M]\n@HyperliquidX $HYPE [-$7.85M]\n@chainlink $LINK [-$1.33M]\n@NEARProtocol $NEAR [-$663.30K]",
-    "url": "https://x.com/BSCNews/status/2122723940007133297",
-    "images": [
-      "https://pbs.twimg.com/media/HXVCUxXXEAAO_xG.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794931914302-gfmf7h",
-    "source": "x",
-    "ts": "2026-11-17T16:11:54.302Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coinbase 🛡️",
-    "ageMin": 62,
-    "originTimestamp": "2026-11-17T15:09:41.000Z",
-    "reason": "Coinbase launches crypto trading plugin through AI",
-    "text": "NEW IN: Coinbase launches ChatGPT plugin allowing users to trade crypto, stocks and derivatives directly through AI chats.",
-    "url": "https://x.com/coinbase/status/2122723330205909482",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794931916350-teaewb",
     "source": "x",
     "ts": "2026-11-17T16:11:56.350Z",
@@ -7716,6 +7682,35 @@
     "images": [
       "https://pbs.twimg.com/media/HXew7oTWsAAqU4W.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795084307088-1wc7qh",
+    "source": "x",
+    "ts": "2026-11-19T10:31:47.088Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T10:30:00.000Z",
+    "reason": "No notable move in token price, within recent range.",
+    "text": "Anthropic Prices IPO At $83 Per Share, Above Its Initial $70-$78 Range.\n\nThe 980 million-share offering raised $81.3 billion, CNBC and TechCrunch reported, and Anthropic said shares are expected to begin trading on Nasdaq under \"ANT\" on Nov. 19.",
+    "url": "https://x.com/DecryptMedia/status/2123363152108609904"
+  },
+  {
+    "id": "x-1795084309453-gxhcvj",
+    "source": "x",
+    "ts": "2026-11-19T10:31:49.453Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-19T10:26:15.000Z",
+    "reason": "ETF outflows hitting record levels suggests broader market weakness.",
+    "text": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+    "url": "https://x.com/DecryptMedia/status/2123362208612581485",
+    "images": [],
     "video": null
   }
 ]
