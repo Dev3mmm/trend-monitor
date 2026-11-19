@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794909758708-tvwo7i",
-    "source": "x",
-    "ts": "2026-11-17T10:02:38.708Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-17T09:59:37.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "This is my day-to-day encounter with patients.\n\nIt is with humility that these patients entrust me to help them recover.",
-    "url": "https://x.com/amerix/status/2122630732401017078"
-  },
-  {
-    "id": "x-1794909762704-y0htpj",
-    "source": "x",
-    "ts": "2026-11-17T10:02:42.704Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-17T09:55:45.000Z",
-    "reason": "The tweet provides specific information about a reported board decision that could impact Nvidia's future, which is newsworthy.",
-    "text": "Nvidia Board Not Considering Jensen Huang's Return: Report",
-    "url": "https://x.com/DecryptMedia/status/2122629756898152563",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794910978273-348tax",
-    "source": "x",
-    "ts": "2026-11-17T10:22:58.273Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-17T10:20:00.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "Trump Wants Kim Jong Un at His Big China Showdown\n\nUS President, Donald Trump (@realDonaldTrump), says he could meet North Korean leader Kim Jong Un during his China visit this week. \n\nHe says the meeting depends on Chinese President Xi Jinping. Reuters reports that North Korea",
-    "url": "https://x.com/BSCNews/status/2122635859631755740"
-  },
-  {
     "id": "x-1794910982403-9se192",
     "source": "x",
     "ts": "2026-11-17T10:23:02.403Z",
@@ -7800,6 +7758,50 @@
     "images": [
       "https://pbs.twimg.com/media/HXc0leaW0AA8Ti1.jpg",
       "https://pbs.twimg.com/media/HXc0ltHWcAAWRYV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795051945512-usgqkx",
+    "source": "x",
+    "ts": "2026-11-19T01:32:25.512Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-19T01:27:32.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸 TRUMP: “When we have brilliant people like Jensen…we have to take care of our geniuses. There aren’t that many of them.”",
+    "url": "https://x.com/Cointelegraph/status/2123226636837703869"
+  },
+  {
+    "id": "x-1795051948928-lad4gx",
+    "source": "x",
+    "ts": "2026-11-19T01:32:28.928Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-19T01:26:13.000Z",
+    "reason": "No notable crypto-related content or move described.",
+    "text": "BREAKING: Gold has now fallen nearly 30% from its record close, matching its crash in the 2008 financial crisis.\n\nIn 2008, gold fell 29.7%, then rose 168% after the Fed began buying bonds.\n\nThis time, the Fed is moving the other way.\n\nIt raised rates in September, 2 officials",
+    "url": "https://x.com/coinbureau/status/2123226304740991475"
+  },
+  {
+    "id": "x-1795051952951-c7p3xt",
+    "source": "x",
+    "ts": "2026-11-19T01:32:32.951Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-19T01:25:00.000Z",
+    "reason": "Kraken's support for Telcoin is a notable partnership and institutional adoption.",
+    "text": "Kraken to support $TEL token migration.\n\nLeading CEX @krakenfx will support @telcoin's migration of its native token to the new contract address on @0xPolygon, from December 1-4.\n\nNo action is required from @TelcoinTAO's holder base. However, legacy TEL deposits and withdrawals",
+    "url": "https://x.com/BSCNews/status/2123225998238138837",
+    "images": [
+      "https://pbs.twimg.com/media/HXZ2ffrWgAACIzf.jpg"
     ],
     "video": null
   }
