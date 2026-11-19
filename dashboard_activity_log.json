@@ -1,59 +1,5 @@
 [
   {
-    "id": "x-1794957779213-3ku3w7",
-    "source": "x",
-    "ts": "2026-11-17T23:22:59.213Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-17T23:16:00.000Z",
-    "reason": "Notable ETH exploit or potential flash crash event.",
-    "text": "Is someone dumping $162 MILLION worth of $ETH ?!\n\nAccording to a data report from @whale_alert, one wallet address has just sent a crushing 90,500 $ETH, worth ~$162.5M to @Binance.\n\nThis is not looking good... \n\nMore Ethereum news:",
-    "url": "https://x.com/BSCNews/status/2122831146287317293",
-    "images": [
-      "https://pbs.twimg.com/media/HXVCeeVXYAADCNe.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794959534756-5e59uv",
-    "source": "x",
-    "ts": "2026-11-17T23:52:14.756Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T23:50:26.000Z",
-    "reason": "JPMorgan's AI trials could disrupt traditional banking practices.",
-    "text": "🔥 JUST IN: JPMorgan tests AI agent payments without human involvement, with more complex trials set for 2027.",
-    "url": "https://x.com/Cointelegraph/status/2122839814340808969",
-    "images": [
-      "https://pbs.twimg.com/media/HXXXj4-XIAAL72g.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794959540533-ep00v8",
-    "source": "x",
-    "ts": "2026-11-17T23:52:20.533Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-17T23:49:00.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "More TGE delays... This time it's $PREDICT. \n\nPrediction market platform @predictdotfun is the latest major crypto project to announce a delay in its token launch.\n\nWith market conditions like this, the announcement is unlikely to come as a surprise to many, and launch is still",
-    "url": "https://x.com/BSCNews/status/2122839451143438470",
-    "images": [
-      "https://pbs.twimg.com/media/HXVCh6XW0AA8Tti.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794960158524-zekvyp",
     "source": "x",
     "ts": "2026-11-18T00:02:38.524Z",
@@ -7712,5 +7658,55 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Bloomberg's report on Netflix.",
     "url": "https://x.com/cz_binance/status/2123469470027133011"
+  },
+  {
+    "id": "x-1795110696310-jr2pkw",
+    "source": "x",
+    "ts": "2026-11-19T17:51:36.310Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T17:50:23.000Z",
+    "reason": "Bitcoin interest surges due to bank collapse in Paraguay.",
+    "text": "🇵🇾 JUST IN: The collapse of Paraguay’s Ueno Bank, affecting 3 million customers, has sparked growing interest in Bitcoin, per Forbes.",
+    "url": "https://x.com/Cointelegraph/status/2123473977993580551",
+    "images": [
+      "https://pbs.twimg.com/media/HXgYU2qX0AAtD37.jpg",
+      "https://pbs.twimg.com/media/HXgYVC_XoAEgET4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795110698258-5cmuto",
+    "source": "x",
+    "ts": "2026-11-19T17:51:38.258Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 118,
+    "originTimestamp": "2026-11-19T15:53:49.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Fairlead Strategies' Katie Stockton on crypto's setup into the holidays:\n\n\"We are in a very seasonally strong period for the market... including cryptocurrencies.\"\n\n\"We do have some counter trend signals in our work... at least for two weeks, if not perhaps a little bit longer",
+    "url": "https://x.com/BitcoinMagazine/status/2123473514170843613"
+  },
+  {
+    "id": "x-1795110700771-s13l44",
+    "source": "x",
+    "ts": "2026-11-19T17:51:40.771Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-19T17:44:00.000Z",
+    "reason": "Perps movement for US traders closer to reality.",
+    "text": "Binance.​US moves one step closer to perps for US traders\n\nThe @CFTC deemed the @BinanceUS derivatives application “materially complete” today. The exchange is seeking two licenses: one to list futures and options, and one to clear those trades.\n\nThe regulator’s full review comes",
+    "url": "https://x.com/BSCNews/status/2123472372313289130",
+    "images": [
+      "https://pbs.twimg.com/media/HXgRWJrXwAA6C0h.jpg"
+    ],
+    "video": null
   }
 ]
