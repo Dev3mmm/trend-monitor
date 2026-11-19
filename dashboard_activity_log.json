@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1794914565635-dtlqw4",
-    "source": "x",
-    "ts": "2026-11-17T11:22:45.636Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-17T11:22:00.000Z",
-    "reason": "Protocol listing for a new token introduces notable change in the ecosystem.",
-    "text": "My Age (@appmyage) trended yesterday. With the protocol's listing scheduled for November 23, every TON user is asking the same question:\n\nWill it succeed or drown like most Telegram-based apps? More details 🔽",
-    "url": "https://x.com/BSCNews/status/2122651462350348340",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794914570535-vfroxq",
-    "source": "x",
-    "ts": "2026-11-17T11:22:50.535Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-17T11:15:40.000Z",
-    "reason": "Notable institutional move involving a major bank and potential regulatory scrutiny.",
-    "text": "🚨 JUST IN: Deutsche Bank shares sink after 15M leaked files reveal Trump tax statements and $582M in suspicious Epstein-linked payments.",
-    "url": "https://x.com/Cointelegraph/status/2122649868074144093",
-    "images": [
-      "https://pbs.twimg.com/media/HXUqx9FWEAAL1Vp.jpg",
-      "https://pbs.twimg.com/media/HXUqylRWsAAOBiT.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794915183627-0s97zq",
     "source": "x",
     "ts": "2026-11-17T11:33:03.627Z",
@@ -7791,5 +7756,36 @@
     "reason": "No notable move in the given context.",
     "text": "If you’re buying a bitcoin’s worth, you might want to bring a bag.",
     "url": "https://x.com/coinbase/status/2123237321306939747"
+  },
+  {
+    "id": "x-1795055600422-mnv59e",
+    "source": "x",
+    "ts": "2026-11-19T02:33:20.422Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T02:31:00.000Z",
+    "reason": "Stellar's share of tokenized non-US Govt debt surpasses major networks.",
+    "text": "Stellar now hosts 42% of all tokenised non-US Govt debt.\n\nAs reported by @AlliumLabs, @StellarOrg now hosts a staggering $319M of the $766M worth of tokenised non-US Govt debt.\n\nThis outranks major networks like @arbitrum and @0xPolygon.\n\nStellar's share is worth 42% of the",
+    "url": "https://x.com/BSCNews/status/2123242607732216137",
+    "images": [
+      "https://pbs.twimg.com/media/HXZ2o-5X0AAb4Z_.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795055604233-k0ve8c",
+    "source": "x",
+    "ts": "2026-11-19T02:33:24.233Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T02:30:25.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "⚡️ NEW: Nvidia’s interim CEO Colette Kress promises staff pay raises and extra equity awards in December to lift morale after Jensen Huang’s exit, FT reports.",
+    "url": "https://x.com/Cointelegraph/status/2123242460792934450"
   }
 ]

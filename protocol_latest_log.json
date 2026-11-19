@@ -2840,5 +2840,61 @@
     "fetchedAt": "2026-11-19T02:17:48.163Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-7b75a1d049bde859",
+    "title": "Off-chain encrypted file storage for AI and privacy apps: how should NewL1 handle large data?",
+    "url": "https://forum.bnbchain.org/t/off-chain-encrypted-file-storage-for-ai-and-privacy-apps-how-should-newl1-handle-large-data/5707",
+    "description": "Hi all, we’re building Bashard, an encrypted object storage protocol running on BSC mainnet. Since NewL1 targets AI and privacy workloads, we wanted to raise a storage question we’ve run into in practice. The problem AI agents and privacy apps produce data that doesn’t belong in state or calldata: model inputs, agent memory, documents, encrypted user files. It’s too large and too sensitive for on-",
+    "publishedAt": "2026-11-19T02:26:18.000Z",
+    "source": "BNB Chain Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-19T02:33:49.961Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-5f5d3b07c7fd389a",
+    "title": "A replayable simulation of the TEE Gateway ordering rules: findings and a few questions",
+    "url": "https://forum.bnbchain.org/t/a-replayable-simulation-of-the-tee-gateway-ordering-rules-findings-and-a-few-questions/5711",
+    "description": "Hi all, I’ve been reading the two NewL1 proposals together, the TEE Gateway and the native privacy layer , as one “private-by-default trading stack”: one hides intent until it’s ordered, the other hides balances after settlement. To check my own understanding of the TEE Gateway, I implemented its public ordering rules as a deterministic simulator. I’m sharing what I found here, plus a few question",
+    "publishedAt": "2026-11-19T02:26:53.000Z",
+    "source": "BNB Chain Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-19T02:33:49.961Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-d1cd2d6e2f0c8013",
+    "title": "[BEP Proposal] Zero-Trust Counterfactual Preimage Token Rescue (Cross-VM 0x20 <-> 0xff Recovery)",
+    "url": "https://forum.bnbchain.org/t/bep-proposal-zero-trust-counterfactual-preimage-token-rescue-cross-vm-0x20-0xff-recovery/5713",
+    "description": "Summary We propose a lightweight, zero-trust BEP-20 / ERC-20 extension ( CounterfactualPreimageRescue ) that allows the EOA owner ( ownerEOA ) of a cross-VM counterfactual smart wallet (e.g., EraVM zksyncCreate2 wallets on ZKsync, Abstract, Sophon, or Lens) to self-rescue tokens trapped on BNB Smart Chain due to an incompatible CREATE2 prefix ( 0x2020dba9... vs 0xff ). Reference Implementation, py",
+    "publishedAt": "2026-11-19T02:27:15.000Z",
+    "source": "BNB Chain Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-19T02:33:49.961Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-c660077b80032222",
+    "title": "Is there an airdrop for BNB Chain’s NewL1?",
+    "url": "https://forum.bnbchain.org/t/is-there-an-airdrop-for-bnb-chain-s-newl1/5716",
+    "description": "Is there an airdrop for BNB Chain’s NewL1? 1 post - 1 participant Read full topic",
+    "publishedAt": "2026-11-19T02:27:33.000Z",
+    "source": "BNB Chain Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-19T02:33:49.961Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
