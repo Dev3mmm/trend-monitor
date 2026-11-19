@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794947541818-mpgqko",
-    "source": "x",
-    "ts": "2026-11-17T20:32:21.818Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-17T20:28:00.000Z",
-    "reason": "No notable move in the recent price range.",
-    "text": "Is @Aptos set to become the next big stablecoin chain...?\n\nHere's everything you need to know about stablecoin payments on $APT ⬇️",
-    "url": "https://x.com/BSCNews/status/2122788867569021249"
-  },
-  {
-    "id": "x-1794947545136-jc5n5j",
-    "source": "x",
-    "ts": "2026-11-17T20:32:25.136Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-17T20:26:01.000Z",
-    "reason": "Notable bank and financial institution collaboration with a major global organization.",
-    "text": "🚨 NEW: Circle and Citi are supporting a World Bank initiative to explore regulated stablecoins for faster, more efficient payments.",
-    "url": "https://x.com/Cointelegraph/status/2122788370174877751",
-    "images": [
-      "https://pbs.twimg.com/media/HXWoxSGbQAA7tCR.png",
-      "https://pbs.twimg.com/media/HXWoxSIaMAA12k_.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794948238047-hdhok8",
-    "source": "x",
-    "ts": "2026-11-17T20:43:58.047Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-17T20:37:15.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
-    "url": "https://x.com/DecryptMedia/status/2122791195399033018"
-  },
-  {
     "id": "x-1794948242227-rlzl87",
     "source": "x",
     "ts": "2026-11-17T20:44:02.227Z",
@@ -7723,6 +7678,56 @@
     "text": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
     "url": "https://x.com/DecryptMedia/status/2123445003863183869",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795104794520-pc852n",
+    "source": "x",
+    "ts": "2026-11-19T16:13:14.520Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T16:11:57.000Z",
+    "reason": "No notable move or newsworthy event described.",
+    "text": "WhiteBIT turns 8 as the core of W Group’s first year as a broader ecosystem.\n\nW Group expanded from eight to 11 companies over the past year, growing its combined user base from 35 million to around 40 million. @WhiteBIT remains at the center of the group, with $2.8 trillion in",
+    "url": "https://x.com/BSCNews/status/2123449207420010731"
+  },
+  {
+    "id": "x-1795104798397-iuu8w8",
+    "source": "x",
+    "ts": "2026-11-19T16:13:18.397Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-19T16:10:15.000Z",
+    "reason": "Ransomware leak involving sensitive financial data.",
+    "text": "🚨ALERT: A ransomware group leaked data on thousands of Visa, Mastercard and JPMorgan Chase customers on Thursday, per WSJ.\n\n1. Visa said the incident involved a service provider in Asia-Pacific. \n\nIts systems and payment data, including card numbers, were unaffected.\n\n2.",
+    "url": "https://x.com/coinbureau/status/2123448781467459942",
+    "images": [
+      "https://pbs.twimg.com/media/HXgAreUboAA8M-w.png",
+      "https://pbs.twimg.com/media/HXgA_WhbQAA9lGD.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795104801243-8hgxq5",
+    "source": "x",
+    "ts": "2026-11-19T16:13:21.243Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-19T16:09:36.000Z",
+    "reason": "Potential security breach exposing customer data.",
+    "text": "🚨 ALERT: JPMorgan says third-party vendors were targeted in a cyberattack that may have exposed customer names and email addresses, with no disruption to its services.",
+    "url": "https://x.com/Cointelegraph/status/2123448615259504835",
+    "images": [
+      "https://pbs.twimg.com/media/HXgBQxPW8AAnffm.jpg"
+    ],
     "video": null
   }
 ]
