@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794934285880-yu1gw8",
-    "source": "x",
-    "ts": "2026-11-17T16:51:25.880Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-17T16:40:04.000Z",
-    "reason": "Noise: generic hype with no real content.",
-    "text": "And derivatives.",
-    "url": "https://x.com/coinbase/status/2122731506464674116"
-  },
-  {
-    "id": "x-1794934290766-pgxguh",
-    "source": "x",
-    "ts": "2026-11-17T16:51:30.766Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 25,
-    "originTimestamp": "2026-11-17T16:25:07.000Z",
-    "reason": "No notable move or event described.",
-    "text": "🌎 @UTXOmgmt's Dan Hillery (@hillery_dan) on how Strategy keeps STRC near par:\n\n\"If the reverse sort of market forces come in and STRC starts to trade off, they'll simply just retire what they just sold into the market... effectively mopping it up.\"\n\n\"It's going to be this kind",
-    "url": "https://x.com/BitcoinMagazine/status/2122731021388882283"
-  },
-  {
     "id": "x-1794934497488-2u1yt7",
     "source": "x",
     "ts": "2026-11-17T16:54:57.488Z",
@@ -7707,6 +7681,43 @@
     "url": "https://x.com/BSCNews/status/2123380264793678098",
     "images": [
       "https://pbs.twimg.com/media/HXe74FKWcAAtYAu.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795089150045-bu6g0m",
+    "source": "x",
+    "ts": "2026-11-19T11:52:30.045Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T11:51:02.000Z",
+    "reason": "Notable technical roadmap for Solana with specific upgrades.",
+    "text": "Solana Unveils 2027 Roadmap, Doubling Compute Capacity and Cutting Unit Consumption by 80%\n\nFollowing the Alpenglow upgrade, Solana core development team Anza has outlined its 2027 technical roadmap for Solana across four pillars: Performance (doubling network compute capacity",
+    "url": "https://x.com/WuBlockchain/status/2123383543816745060",
+    "images": [
+      "https://pbs.twimg.com/media/HXfGEx0bAAA9Qbn.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795089152184-gt3wla",
+    "source": "x",
+    "ts": "2026-11-19T11:52:32.184Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T11:50:24.000Z",
+    "reason": "Specific institutional position update ahead of an IPO.",
+    "text": "🔥 UPDATE: Anthropic longs outnumber shorts 2.8 to 1 on Hyperliquid ahead of its IPO, per Token Terminal.",
+    "url": "https://x.com/Cointelegraph/status/2123383384785244357",
+    "images": [
+      "https://pbs.twimg.com/media/HXfF7P-XoAAIyv9.jpg",
+      "https://pbs.twimg.com/media/HXfF709WoAA1XaE.png"
     ],
     "video": null
   }
