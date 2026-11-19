@@ -2896,5 +2896,33 @@
     "fetchedAt": "2026-11-19T02:33:49.961Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-aaa4d469ad37d386",
+    "title": "[BAP Idea] Atomic contribution receipts for BNB and BEP-20 transfers",
+    "url": "https://forum.bnbchain.org/t/bap-idea-atomic-contribution-receipts-for-bnb-and-bep-20-transfers/5722",
+    "description": "This is a request for technical feedback on a pre-submission application-standard draft , not an assigned or accepted BAP. We are sharing the complete draft and a CC0 reference package before proposing any BAP number or opening a standards PR. Problem and proposed scope Wallets and community applications often describe ordinary transfers as tips or airdrops, but those labels live in application-sp",
+    "publishedAt": "2026-11-19T06:50:46.000Z",
+    "source": "BNB Chain Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-19T06:54:16.636Z",
+    "userStatus": null,
+    "relevanceRejected": false
+  },
+  {
+    "id": "proto-a01163cc4ace5fdc",
+    "title": "BEP-2 CAKE Migration Issue: \"Token already claimed\" but missing on BEP-20",
+    "url": "https://forum.bnbchain.org/t/bep-2-cake-migration-issue-token-already-claimed-but-missing-on-bep-20/5724",
+    "description": "Address (BEP-20 / BSC): 0xeC3ed6988BcE3ECF64171D654a5D3eE6E4f38912 Hello team, I need assistance recovering 344.77 CAKE tokens stranded on the permanently shut down BNB Beacon Chain (BEP-2). Issue details: My Trust Wallet mobile app shows a balance of 344.77 CAKE under the BEP-2 network. When attempting to use the official recovery tool ( token-recover-self-service-tools ), the CLI/script returns ",
+    "publishedAt": "2026-11-19T06:51:16.000Z",
+    "source": "BNB Chain Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-19T06:54:16.636Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
