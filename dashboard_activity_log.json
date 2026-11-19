@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1794943326310-xvy9x6",
-    "source": "x",
-    "ts": "2026-11-17T19:22:06.310Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-17T19:15:00.000Z",
-    "reason": "Cyberattack on a major energy company remains outside the typical price range for notable news.",
-    "text": "🇳🇴 ALERT: Norwegian energy giant Equinor confirms an ongoing cyberattack targeting its IT systems, but says oil and gas production remains unaffected with no evidence of data theft.",
-    "url": "https://x.com/Cointelegraph/status/2122770497842905330",
-    "images": [
-      "https://pbs.twimg.com/media/HXWYe1-boAEPXTR.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794943939923-yr2qen",
-    "source": "x",
-    "ts": "2026-11-17T19:32:19.923Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T19:30:58.000Z",
-    "reason": "Citi's warning on futures positions could affect crypto markets.",
-    "text": "🚨 NEW: Citi warns that 95% of S&amp;P 500 futures long positions are underwater, with $45.9 billion in long exposure at risk of liquidation if the market weakens further.",
-    "url": "https://x.com/Cointelegraph/status/2122774516778561591",
-    "images": [
-      "https://pbs.twimg.com/media/HXWcKVoW8AAdTYA.jpg",
-      "https://pbs.twimg.com/media/HXWcK2WW8AA4fWr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794943942987-7tdify",
-    "source": "x",
-    "ts": "2026-11-17T19:32:22.987Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-17T19:27:15.000Z",
-    "reason": "Ethereum developers considering a scaling upgrade that could potentially support thousands of apps.",
-    "text": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
-    "url": "https://x.com/DecryptMedia/status/2122773579947299092",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794944545662-beo70t",
     "source": "x",
     "ts": "2026-11-17T19:42:25.662Z",
@@ -7728,5 +7675,57 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "The Future of Privacy in Crypto [Ft. Provable] #CHAINREACTION",
     "url": "https://x.com/Cointelegraph/status/2123432996745232630"
+  },
+  {
+    "id": "x-1795101900791-q5o4wz",
+    "source": "x",
+    "ts": "2026-11-19T15:25:00.791Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-19T15:20:32.000Z",
+    "reason": "No notable move or specific event is clearly stated.",
+    "text": "🚨UPDATE: $ANT shares are now indicated to open at $105, about 26.5% above the $83 IPO price.\n\nAnthropic futures are trading around $104.9 on Hyperliquid.\n\nU.S. stocks added nearly $800 billion in market value at the opening bell.\n\n🟢 S&amp;P 500: +0.78%\n🟢 Nasdaq: +1.5% to 2%\n🔻",
+    "url": "https://x.com/coinbureau/status/2123436267438502097"
+  },
+  {
+    "id": "x-1795101905392-1a8qws",
+    "source": "x",
+    "ts": "2026-11-19T15:25:05.392Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-19T15:14:34.000Z",
+    "reason": "Hashi protocol launches mainnet allowing BTC bridging to Sui network.",
+    "text": "Finally... SUI's Hashi Mainnet is Live!\n\nThe liquidity protocol Hashi has officially launched on mainnet, allowing users to bridge their native $BTC to the Sui (@SuiNetwork) network as 1:1-backed hBTC. \n\nhBTC will allow lending, borrowing, and yield strategies.\n\nOn the launch",
+    "url": "https://x.com/BSCNews/status/2123434766309429509",
+    "images": [
+      "https://pbs.twimg.com/media/HXf0Nk8XoAANDrf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795101909969-u8dgl4",
+    "source": "x",
+    "ts": "2026-11-19T15:25:09.969Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-19T15:11:32.000Z",
+    "reason": "Central Bank approval for regular investors to trade Bitcoin on margin is a notable institutional move.",
+    "text": "JUST IN: 🇷🇺 Russia's Central Bank plans to let regular investors trade Bitcoin and crypto on margin as the Moscow Exchange prepares to launch trading on December 1. 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2123434003147509944",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123433966682222592/vid/avc1/1280x720/uRP8auH6-scuCq7V.mp4?tag=29",
+      "duration": 17,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HXf0BC6XIAAjPeo.jpg"
+    }
   }
 ]
