@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1794923531153-z0vcob",
-    "source": "x",
-    "ts": "2026-11-17T13:52:11.153Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-17T13:47:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Lens Protocol Is Bringing Its Entire Social Graph to Monad\n\nLens Protocol (@LC), a decentralized social network, has revealed that it will expand into the parallelized EVM blockchain @Monad.\n\nThe expansion will be built on social portability and user sovereignty, where accounts,",
-    "url": "https://x.com/BSCNews/status/2122687953080119344",
-    "images": [
-      "https://pbs.twimg.com/media/HXU_m27XcAASouw.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794923536171-yrghc6",
-    "source": "x",
-    "ts": "2026-11-17T13:52:16.171Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-17T13:46:42.000Z",
-    "reason": "Russia allows BTC, ETH, and USDT for retail investors with a cap.",
-    "text": "🇷🇺 HUGE: Starting today, Russia approves $BTC, $ETH and $USDT for retail investors, capped at ₽300K/year per intermediary.",
-    "url": "https://x.com/Cointelegraph/status/2122687878111121726",
-    "images": [
-      "https://pbs.twimg.com/media/HXVNXx6WMAAwDKY.jpg",
-      "https://pbs.twimg.com/media/HXVNYBDW4AA0RGx.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794923543893-0igdl4",
     "source": "x",
     "ts": "2026-11-17T13:52:23.893Z",
@@ -7756,5 +7719,36 @@
     "reason": "No notable move in Bitcoin price mentioned.",
     "text": "🚨 NOW: Bitcoin carry trades could outperform US Treasury bills in 2027 as demand for leverage recovers, says Sygnum.",
     "url": "https://x.com/Cointelegraph/status/2123306613419250118"
+  },
+  {
+    "id": "x-1795071728354-j20si8",
+    "source": "x",
+    "ts": "2026-11-19T07:02:08.354Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T07:00:41.000Z",
+    "reason": "No concrete price information or actionable news.",
+    "text": "🚨 NOW: Ripple CEO Brad Garlinghouse says the crypto sell-off is partly due to investors moving money into big IPOs like Anthropic. \n\nHe expects crypto to rebound after the listing, as it did after SpaceX’s IPO.",
+    "url": "https://x.com/Cointelegraph/status/2123310478591922647"
+  },
+  {
+    "id": "x-1795071730906-vczcf5",
+    "source": "x",
+    "ts": "2026-11-19T07:02:10.906Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-19T06:57:00.000Z",
+    "reason": "New token for an IPO preparation.",
+    "text": "Ondo Jumps Into Anthropic IPO Fever With New Token\n\nOndo Finance (@Ondo) $ONDO IS launching a tokenized version of Anthropic (@AnthropicAI) stock as the AI giant prepares to go public.\n\nThe token, called ANTon, is expected to debut when Anthropic starts trading on Nasdaq",
+    "url": "https://x.com/BSCNews/status/2123309548635308163",
+    "images": [
+      "https://pbs.twimg.com/media/HXdjCxYbQAAE_7O.png"
+    ],
+    "video": null
   }
 ]
