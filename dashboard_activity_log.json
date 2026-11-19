@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1794950032930-u352md",
-    "source": "x",
-    "ts": "2026-11-17T21:13:52.930Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-17T21:11:05.000Z",
-    "reason": "Cathie Wood's ARK Invest made significant portfolio shifts.",
-    "text": "🚨 NEW: Cathie Wood’s ARK Invest sold approximately $85 million in $NVDA shares while buying nearly $40 million in $COIN, $CRCL and $XYZ shares during Monday’s market selloff.",
-    "url": "https://x.com/Cointelegraph/status/2122799710863806666",
-    "images": [
-      "https://pbs.twimg.com/media/HXWzFVdXkAApZS5.jpg",
-      "https://pbs.twimg.com/media/HXWzFj1W0AEZgO7.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794950037335-79ahty",
-    "source": "x",
-    "ts": "2026-11-17T21:13:57.335Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-17T21:08:57.000Z",
-    "reason": "Generic hype with no factual claim.",
-    "text": "BREAKING: To celebrate the GTA 6 launch, @MetaWin unveils their most volatile slot yet\n\nEveryone who uses code MIAMI20 when they deposit gets 20x free spins for the next 24 hours",
-    "url": "https://x.com/BSCNews/status/2122799173254758652"
-  },
-  {
-    "id": "x-1794950042132-ao8wef",
-    "source": "x",
-    "ts": "2026-11-17T21:14:02.132Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-17T21:05:22.000Z",
-    "reason": "Specific institution (SEC) investigating a major tech company (Nvidia) in crypto regulations.",
-    "text": "🚨 BIG: SEC is investigating Nvidia.",
-    "url": "https://x.com/Cointelegraph/status/2122798273249550777",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794950048303-tw2s9n",
-    "source": "x",
-    "ts": "2026-11-17T21:14:08.303Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-17T21:05:00.000Z",
-    "reason": "New use of a token/stablecoin on Uniswap v4",
-    "text": "Monad 🤝 Uniswap\n\n@Monad has announced that tokenised equity tokens on its chain now have liquidity directly on @Uniswap v4 - the world's most prolific DEX platform. \n\n\"Builders can create hooks, vaults and lending markets around tokenized stocks and ETFs, composable with the",
-    "url": "https://x.com/BSCNews/status/2122798179662078236",
-    "images": [
-      "https://pbs.twimg.com/media/HXWLaZ2WIAAW_Gh.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794950593002-184szp",
     "source": "x",
     "ts": "2026-11-17T21:23:13.002Z",
@@ -7731,5 +7665,57 @@
     "reason": "No notable move or specific event, price is within the recent range.",
     "text": "🎥 Is the latest market crash a good opportunity to buy the dip?\n\n@DariusDale42, founder and CEO of 42 Macro, believes the risks of doing so outweigh the potential rewards.\n\nTo find out why, watch our latest interview:",
     "url": "https://x.com/Cointelegraph/status/2123454163602346232"
+  },
+  {
+    "id": "x-1795106577417-a4ur0o",
+    "source": "x",
+    "ts": "2026-11-19T16:42:57.417Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 22,
+    "originTimestamp": "2026-11-19T16:20:40.000Z",
+    "reason": "Generic opinion with no factual claim or on-chain data.",
+    "text": "ByteTree's Charlie Morris on where Bitcoin ranks next to gold:\n\n\"We realized that Bitcoin was always going to be number one.\"\n\n\"Bitcoin and gold are just always going to be there, and they're always going to appreciate solely over time.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2123456715026780248"
+  },
+  {
+    "id": "x-1795106580363-l9sqsa",
+    "source": "x",
+    "ts": "2026-11-19T16:43:00.363Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T16:40:22.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "🚨 UPDATE: Non-founder Anthropic employees can sell up to 10% of their holdings on day one of trading, and another 35% after fiscal 2026 earnings, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2123456358141903177"
+  },
+  {
+    "id": "x-1795106583462-j1m28y",
+    "source": "x",
+    "ts": "2026-11-19T16:43:03.462Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-19T16:38:09.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Today! Strategy Investor Q&amp;A with @Saylor &amp; @PhongLe, hosted by @NatBrunell at 5PM ET.\n\nParticipate LIVE on X &amp; YouTube:",
+    "url": "https://x.com/saylor/status/2123456244480364783"
+  },
+  {
+    "id": "x-1795106586860-leo3ey",
+    "source": "x",
+    "ts": "2026-11-19T16:43:06.860Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 39,
+    "originTimestamp": "2026-11-19T16:04:08.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": "Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their phones across the country's vast geography from the Gobi Desert to mountains and grassy plains.",
+    "url": "https://x.com/elonmusk/status/2123455680682082645"
   }
 ]
