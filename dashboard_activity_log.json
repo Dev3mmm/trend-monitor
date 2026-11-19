@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794940418114-08qrfk",
-    "source": "x",
-    "ts": "2026-11-17T18:33:38.114Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-17T18:18:05.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "SpaceXSI has released a blog: Building an accounting team with Grok Bot",
-    "url": "https://x.com/elonmusk/status/2122757555030241324"
-  },
-  {
-    "id": "x-1794940932576-074pyl",
-    "source": "x",
-    "ts": "2026-11-17T18:42:12.576Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 48,
-    "originTimestamp": "2026-11-17T17:54:03.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "At this rate, everyone will be smart enough to buy Bitcoin.",
-    "url": "https://x.com/saylor/status/2122761335834624196"
-  },
-  {
     "id": "x-1794941543478-8228vj",
     "source": "x",
     "ts": "2026-11-17T18:52:23.478Z",
@@ -7727,5 +7701,34 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "$STRC traded over $600M yesterday, the only one of 456 U.S.-listed income preferreds to do so this year. We intend to keep buying below $100. Repurchases facilitate liquidity and lower dividend obligations. We believe they strengthen the credit and benefit common shareholders.",
     "url": "https://x.com/saylor/status/2123420518967591217"
+  },
+  {
+    "id": "x-1795098742094-4xttgz",
+    "source": "x",
+    "ts": "2026-11-19T14:32:22.094Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T14:30:59.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "⚡ INSIGHT: Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market.",
+    "url": "https://x.com/Cointelegraph/status/2123423798930121087",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795098745499-zrfqlx",
+    "source": "x",
+    "ts": "2026-11-19T14:32:25.499Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 27,
+    "originTimestamp": "2026-11-19T14:04:52.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Our swaps increased Net BTC per Share in each of the last 12 weeks. Selling $MSTR above its Net BTC value and repurchasing $STRC below $100 added an estimated 580 sats per common share before preferred dividends, measured at a fixed $BTC price each week.",
+    "url": "https://x.com/saylor/status/2123422483835687181"
   }
 ]
