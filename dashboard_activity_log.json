@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794934512083-vwqe55",
-    "source": "x",
-    "ts": "2026-11-17T16:55:12.083Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-17T16:41:00.000Z",
-    "reason": "Litecoin partnership with Canton Network",
-    "text": "Two giants meet in @CantonNetwork and @litecoin.\n\nLitecoin is coming to Canton in the form of cLTC. Here's everything we know so far ⬇️",
-    "url": "https://x.com/BSCNews/status/2122731741307617517",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794934514712-9lxzxw",
-    "source": "x",
-    "ts": "2026-11-17T16:55:14.712Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-17T16:40:04.000Z",
-    "reason": "Noise: generic hype without real content.",
-    "text": "And derivatives.",
-    "url": "https://x.com/coinbase/status/2122731506464674116"
-  },
-  {
     "id": "x-1794934518268-lnfzzh",
     "source": "x",
     "ts": "2026-11-17T16:55:18.268Z",
@@ -7729,6 +7700,44 @@
     "url": "https://x.com/Cointelegraph/status/2123388415655793082",
     "images": [
       "https://pbs.twimg.com/media/HXfKgl-WkAALQxh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795091873087-fjckfd",
+    "source": "x",
+    "ts": "2026-11-19T12:37:53.087Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-19T12:30:50.000Z",
+    "reason": "Notable institutional liquidity move with Solana token.",
+    "text": "🐋 ALERT: Two Solana whales unstaked 2.31M $SOL and deposited it into Coinbase Prime, per Lookonchain.",
+    "url": "https://x.com/Cointelegraph/status/2123393560024109067",
+    "images": [
+      "https://pbs.twimg.com/media/HXfPKzsWUAEcEoz.jpg",
+      "https://pbs.twimg.com/media/HXfPLgxWcAA6DrU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795091877087-xqmtv7",
+    "source": "x",
+    "ts": "2026-11-19T12:37:57.087Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-19T12:27:51.000Z",
+    "reason": "Anthropic's record-breaking IPO raises interest in related tokens.",
+    "text": "Anthropic IPO lifts RISK appetite. $SPCX IPO offers clues.\n\nAnthropic raised a record $81.3 billion at $83 a share, topping SpaceX’s $75 billion IPO in June. \n\nGray market trading points to an opening price 22% to 26% above the offer price, per Bloomberg.\n\nNasdaq futures rose",
+    "url": "https://x.com/coinbureau/status/2123392808841351340",
+    "images": [
+      "https://pbs.twimg.com/media/HXfIaZGacAAB-gE.png",
+      "https://pbs.twimg.com/media/HXfN1mna4AAANqs.jpg"
     ],
     "video": null
   }
