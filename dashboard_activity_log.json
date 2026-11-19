@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794980030538-omsd8e",
-    "source": "x",
-    "ts": "2026-11-18T05:33:50.538Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-18T05:29:06.000Z",
-    "reason": "No notable move or newsworthy event described.",
-    "text": "It was the smartest of times\nIt was the dumbest of times",
-    "url": "https://x.com/elonmusk/status/2122925042400895056"
-  },
-  {
     "id": "x-1794980034967-fbegox",
     "source": "x",
     "ts": "2026-11-18T05:33:54.967Z",
@@ -7684,5 +7671,23 @@
     "reason": "Generic hype with no factual claim.",
     "text": "BREAKING: 20 hours until @MetaWin’s Free-To-Enter $25,000 Prize draws\n\nEveryone who makes a  account earns 1x free entry\n\nAdditional entries may be purchased",
     "url": "https://x.com/BSCNews/status/2123519699422265357"
+  },
+  {
+    "id": "x-1795122723868-qyg13l",
+    "source": "x",
+    "ts": "2026-11-19T21:12:03.868Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T21:10:21.000Z",
+    "reason": "Normalization and high open interest indicate ongoing recovery and institutional interest.",
+    "text": "🚨 JUST IN: Binance exchange flows have normalized following the October 29 hack, with trading volumes remaining elevated and Bitcoin and Ethereum open interest reaching one-month highs, per CryptoQuant.",
+    "url": "https://x.com/Cointelegraph/status/2123524302183993730",
+    "images": [
+      "https://pbs.twimg.com/media/HXhGGUcXIAA9mya.jpg"
+    ],
+    "video": null
   }
 ]
