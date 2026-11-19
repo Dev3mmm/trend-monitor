@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793727124939-pih7lp",
     "x-1793727720942-7k7uze",
     "x-1793728341258-45yqwh",
     "x-1793728345255-eukm0a",
@@ -1999,19 +1998,10 @@
     "x-1795080720153-0wqpaw",
     "x-1795081657022-haooag",
     "x-1795081667607-xwcr5g",
-    "x-1795082524948-febe1j"
+    "x-1795082524948-febe1j",
+    "x-1795083730489-7kh87a"
   ],
   "queue": [
-    {
-      "text": "⚠️ALERT: Nvidia says it’s investigating a possible CYBERATTACK involving a third-party partner.\n\nThis comes after ransomware group The Gentlemen listed Nvidia on its extortion site and threatened to leak allegedly stolen data if talks fail.\n\nThe listing showed a negotiation",
-      "url": "https://x.com/coinbureau/status/2123350272093417692",
-      "images": [
-        "https://pbs.twimg.com/media/HXenF37acAAaBSP.jpg",
-        "https://pbs.twimg.com/media/HXenHF_aYAAIRyV.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795081669496
-    },
     {
       "text": "🇭🇰 NEW: Hong Kong's SFC adds Hyperliquid to its suspicious virtual asset trading platform alert list.",
       "url": "https://x.com/Cointelegraph/status/2123355595767976277",
@@ -2020,6 +2010,15 @@
       ],
       "video": null,
       "enqueuedAt": 1795082525655
+    },
+    {
+      "text": "🇪🇺 ALERT: European Commission hit by major AI-assisted cyberattack, potentially exposing personal data, per Politico.",
+      "url": "https://x.com/Cointelegraph/status/2123360291622678686",
+      "images": [
+        "https://pbs.twimg.com/media/HXew7oTWsAAqU4W.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1795083731316
     }
   ],
   "posted": [
@@ -2649,7 +2648,17 @@
       "at": 1795081957417,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389901375728073?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "⚠️ALERT: Nvidia says it’s investigating a possible CYBERATTACK involving a third-party partner.\n\nThis comes after ransomware group The Gentlemen listed Nvidia on its extortion site and threatened to leak allegedly stolen data if talks fail.\n\nThe listing showed a negotiation",
+      "final": "⚠️ALERT: Nvidia says it’s investigating a possible CYBERATTACK involving a third-party partner.\n\nThis comes after ransomware group The Gentlemen listed Nvidia on its extortion site and threatened to leak allegedly stolen data if talks fail.\n\nThe listing showed a negotiation\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HXenF37acAAaBSP.jpg",
+        "https://pbs.twimg.com/media/HXenHF_aYAAIRyV.jpg"
+      ],
+      "at": 1795083731316,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795081957417
+  "lastPostAt": 1795083731316
 }
