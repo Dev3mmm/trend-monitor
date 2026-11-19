@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1794950593002-184szp",
-    "source": "x",
-    "ts": "2026-11-17T21:23:13.002Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coinbase 🛡️",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-17T21:09:27.000Z",
-    "reason": "Cryptocurrency market commentary suggesting lack of new billionaire involvement.",
-    "text": "We promise: the richest man in the world is not calling you to double your crypto.",
-    "url": "https://x.com/coinbase/status/2122801583113343129",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794951126454-n90zqm",
-    "source": "x",
-    "ts": "2026-11-17T21:32:06.454Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T21:31:00.000Z",
-    "reason": "Notable regulator comment on crypto breaking traditional financial structures.",
-    "text": "Fed Governor says crypto is breaking the banks' monopoly!\n\nReported by leading crypto journalist @EleanorTerrett, Federal Reserve Governor Chris Waller made bullish comments on blockchain and tokenisation at The Clearing House’ recent conference.\n\nHe described a \"breaking down\"",
-    "url": "https://x.com/BSCNews/status/2122804722511835391",
-    "images": [
-      "https://pbs.twimg.com/media/HXWLf7JWMAAr4wq.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794951130796-0sj5ep",
-    "source": "x",
-    "ts": "2026-11-17T21:32:10.796Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T21:30:57.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨 UPDATE: Apple says its service outage was caused by an internal update and that the iCloud account and sign-in issues have been resolved.",
-    "url": "https://x.com/Cointelegraph/status/2122804709245215208"
-  },
-  {
     "id": "x-1794951135228-cob5zw",
     "source": "x",
     "ts": "2026-11-17T21:32:15.228Z",
@@ -7717,5 +7670,52 @@
     "reason": "No notable move in ETH price within its recent range.",
     "text": "Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their phones across the country's vast geography from the Gobi Desert to mountains and grassy plains.",
     "url": "https://x.com/elonmusk/status/2123455680682082645"
+  },
+  {
+    "id": "x-1795107122294-x3cg2k",
+    "source": "x",
+    "ts": "2026-11-19T16:52:02.294Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T16:49:22.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "⚡️ JUST IN: Anthropic $ANT allocated approximately 15% of its $80 billion IPO, or $12 billion in shares, to retail investors.",
+    "url": "https://x.com/Cointelegraph/status/2123458622864711936",
+    "images": [
+      "https://pbs.twimg.com/media/HXgKXQXXsAIIOHx.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795107124062-0j1k0l",
+    "source": "x",
+    "ts": "2026-11-19T16:52:04.062Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-19T16:45:26.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "🚨 JUST IN: Anthropic is on track to reach a $2 trillion valuation in its Nasdaq debut.",
+    "url": "https://x.com/Cointelegraph/status/2123457635701703117"
+  },
+  {
+    "id": "x-1795107126852-3f6817",
+    "source": "x",
+    "ts": "2026-11-19T16:52:06.852Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-19T16:45:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "As far as we know, no blockchain in history has processed more transactions that @dfinity's Internet Computer.\n\nWe take a look at the community behind $ICP, and what makes it unique ⬇️",
+    "url": "https://x.com/BSCNews/status/2123457524141559889",
+    "images": [],
+    "video": null
   }
 ]
