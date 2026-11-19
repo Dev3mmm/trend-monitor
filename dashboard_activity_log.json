@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1794941552765-6sfd7n",
-    "source": "x",
-    "ts": "2026-11-17T18:52:32.765Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 67,
-    "originTimestamp": "2026-11-17T17:44:43.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Barbenheimer for guys that don’t go outside.",
-    "url": "https://x.com/coinbase/status/2122763858771402979"
-  },
-  {
-    "id": "x-1794941557778-94h3pn",
-    "source": "x",
-    "ts": "2026-11-17T18:52:37.778Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-17T18:43:16.000Z",
-    "reason": "Potential disruption to financial transactions and user experience.",
-    "text": "🚨BREAKING: Major Apple online services, including Apple Pay, hit by a major outage, per the Independent.\n\nUsers reported problems logging in, downloading updates and making payments.\n\nApple Music, the App Store and iCloud were also affected. Apple TV appeared to be working",
-    "url": "https://x.com/coinbureau/status/2122762511779078320",
-    "images": [
-      "https://pbs.twimg.com/media/HXWQT-7acAA9Fct.png",
-      "https://pbs.twimg.com/media/HXWQVu4aMAAkE4n.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794942167073-k9rzk4",
-    "source": "x",
-    "ts": "2026-11-17T19:02:47.073Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-17T19:00:01.000Z",
-    "reason": "No notable move or newsworthy event described.",
-    "text": "CZ: A Founder's Ability to Adapt Matters More Than the Original Business Idea\n\nBinance founder Changpeng Zhao (CZ) @cz_binance   said during the closing fireside chat at Cantor Convergence on November 12 that he values a founder's adaptability and self-awareness more than the",
-    "url": "https://x.com/WuBlockchain/status/2122766726001807534"
-  },
-  {
     "id": "x-1794942172998-23ltw5",
     "source": "x",
     "ts": "2026-11-17T19:02:52.998Z",
@@ -7722,5 +7677,60 @@
     "reason": "No notable move in Bitcoin or Ethereum, price is within recent ranges.",
     "text": "LIVE: Anthropic IPO: Bitcoin vs. The AI Trade | BMTV Nov. 19, 2026",
     "url": "https://x.com/BitcoinMagazine/status/2123424146080088300"
+  },
+  {
+    "id": "x-1795099922337-ej171b",
+    "source": "x",
+    "ts": "2026-11-19T14:52:02.337Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-19T14:42:27.000Z",
+    "reason": "Record-breaking bank earnings from a major public offering.",
+    "text": "🚨MASSIVE: Banks earned a record $550 MILLION for helping Anthropic go public.\n\nGoldman Sachs, Morgan Stanley and 20 other banks helped Anthropic price its shares and sell them to investors. \n\nTogether, they earned about 68 cents for every $100 of shares sold in the IPO. That’s",
+    "url": "https://x.com/coinbureau/status/2123428939259683021",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795099925619-7dfny3",
+    "source": "x",
+    "ts": "2026-11-19T14:52:05.619Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-19T14:43:00.000Z",
+    "reason": "New liquidity provision simplifies token usage.",
+    "text": "Kaspa Liquidity Just Got Much Easier\n\nTrestly (@Trestly_io) has enabled single-sided liquidity provision of $KAS. \n\nThis means that there is no need to bridge stablecoins before providing liquidity on Kaspa (@kaspaunchained).\n\nUsers can now stake $KAS directly from their wallets.",
+    "url": "https://x.com/BSCNews/status/2123426822524129693",
+    "images": [
+      "https://pbs.twimg.com/media/HXfc85LXEAA7k0W.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795099929011-1b49qt",
+    "source": "x",
+    "ts": "2026-11-19T14:52:09.011Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-19T14:42:27.000Z",
+    "reason": "Notable IPO event with regulatory and institutional implications.",
+    "text": "🔥BIG DAY: Anthropic rings the Nasdaq opening bell.\n\nAnthropic said the IPO gave “nothing to most institutional buyers” at the $83 offer price, Bloomberg reports.\n\n$ANT is expected to begin trading on Nasdaq around 10:00 AM ET.",
+    "url": "https://x.com/coinbureau/status/2123426683999203459",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123425522944487424/vid/avc1/1280x720/jloTA6ESrTvjaAk6.mp4?tag=29",
+      "duration": 45,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123425522944487424/img/H7cwbOAOxhRQRdyS.jpg"
+    }
   }
 ]
