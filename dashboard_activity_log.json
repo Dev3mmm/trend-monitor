@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1794961955268-47mvq0",
-    "source": "x",
-    "ts": "2026-11-18T00:32:35.268Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T00:30:39.000Z",
-    "reason": "Tweet is about Jeff Bezos' opinion and does not involve cryptocurrency or significant blockchain-related news.",
-    "text": "🚨 TODAY: Jeff Bezos told Semafor that Nvidia should never hire an outsider to replace Jensen Huang, since the company is too complex for an outside CEO to succeed.",
-    "url": "https://x.com/Cointelegraph/status/2122849931853525383"
-  },
-  {
-    "id": "x-1794961959878-2wmsl8",
-    "source": "x",
-    "ts": "2026-11-18T00:32:39.878Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-18T00:22:00.000Z",
-    "reason": "No concrete news or price movement mentioned.",
-    "text": "President Trump is clamping down HARD...\n\nAccording to Politico, The White House has implemented two new policies that give it much more control over its administration:\n\n(1) Federal employees “must obtain approval” from The White House to testify in Congress.\n\n(2) White House",
-    "url": "https://x.com/BSCNews/status/2122847755819491486"
-  },
-  {
     "id": "x-1794963142548-5sy3qs",
     "source": "x",
     "ts": "2026-11-18T00:52:22.548Z",
@@ -7705,6 +7679,40 @@
       "https://pbs.twimg.com/media/HXghhfnXEAAntTN.jpg",
       "https://pbs.twimg.com/media/HXghiE9WcAAD-Ey.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795113804764-7qkmb5",
+    "source": "x",
+    "ts": "2026-11-19T18:43:24.764Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T18:41:53.000Z",
+    "reason": "U.S. investment firms made a significant purchase of BTC, increasing their holdings to a record.",
+    "text": "JUST IN: 🇺🇸 U.S. investment firms bought a net 49,229 BTC in Q3, according to Galaxy Research 👀\n\nThey now hold a record 356,491 BTC worth ~$29.78 billion 🤯",
+    "url": "https://x.com/BitcoinMagazine/status/2123486939982569691",
+    "images": [
+      "https://pbs.twimg.com/media/HXgkHeuW8AES3yJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795113807728-mx3odw",
+    "source": "x",
+    "ts": "2026-11-19T18:43:27.728Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-19T18:34:00.000Z",
+    "reason": "New tokenized ETF from a crypto platform.",
+    "text": "One token, five tokenized ETFs... Find out what sits inside BIG5on, the newest portfolio token from @Ondo ($ONDO) ⬇️",
+    "url": "https://x.com/BSCNews/status/2123484955498172862",
+    "images": [],
     "video": null
   }
 ]
