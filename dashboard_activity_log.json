@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794993134917-5rin4c",
-    "source": "x",
-    "ts": "2026-11-18T09:12:14.917Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-18T09:04:56.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "BREAKING: 🇺🇸Outage reports spiked across five U.S. telecom providers, including Spectrum, T-Mobile and AT&amp;T.",
-    "url": "https://x.com/coinbureau/status/2122979355941044440"
-  },
-  {
-    "id": "x-1794993763258-ilggrk",
-    "source": "x",
-    "ts": "2026-11-18T09:22:43.258Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-18T09:17:13.000Z",
-    "reason": "New use of token/stablecoin by a major project.",
-    "text": "InterLink is Preparing a New Way for ITLG Holders to Earn\n\nInterLink (@inter_link) has outlined plans for staking vaults on its ITLG Mainnet.\n\nHolders will be able to stake $ITLG through different vaults and earn rewards. Those rewards are expected to come from fees generated",
-    "url": "https://x.com/BSCNews/status/2122982447973318801",
-    "images": [
-      "https://pbs.twimg.com/media/HXZF835aAAAVMG5.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794993766951-fd8q48",
     "source": "x",
     "ts": "2026-11-18T09:22:46.951Z",
@@ -7691,5 +7660,36 @@
     "reason": "No notable move or specific event described.",
     "text": "Should we do it?",
     "url": "https://x.com/coinbase/status/2123560277430174056"
+  },
+  {
+    "id": "x-1795132516631-f3enzi",
+    "source": "x",
+    "ts": "2026-11-19T23:55:16.631Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-19T23:47:00.000Z",
+    "reason": "Shiba Inu reaches over 1.7 million holders, a significant milestone.",
+    "text": "Boom! - $SHIB hits 1.7 MILLION holders.\n\nA long time coming @Shibtoken now has over 1,700,000 non-empty holder addresses on @Ethereum, per @etherscan.\n\nThe current total stands at 1,700,770 at time of writing, the figure having risen steadily over the past two weeks.\n\nIn fact,",
+    "url": "https://x.com/BSCNews/status/2123563723508093139",
+    "images": [
+      "https://pbs.twimg.com/media/HXfKj86X0AAKhtr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795132519831-isa6tq",
+    "source": "x",
+    "ts": "2026-11-19T23:55:19.831Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-19T23:46:55.000Z",
+    "reason": "No notable crypto-related event or news.",
+    "text": "⚠️ALERT: The US Department of Agriculture has been BREACHED, per Nextgov/FCW.\n\nAfter a cybersecurity incident, an internal email Monday said USDA must \"reset all database passwords in all environments.\"\n\nThe outages knocked farmer payment systems offline, hitting tools used for",
+    "url": "https://x.com/coinbureau/status/2123563701869679005"
   }
 ]
