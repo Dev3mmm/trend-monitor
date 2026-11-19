@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793728345255-eukm0a",
     "x-1793728349376-8awbrp",
     "x-1793728354991-qps6up",
     "x-1793728929451-ge9ckc",
@@ -1999,19 +1998,10 @@
     "x-1795082524948-febe1j",
     "x-1795083730489-7kh87a",
     "x-1795084309453-gxhcvj",
-    "x-1795085542973-8jqc5k"
+    "x-1795085542973-8jqc5k",
+    "x-1795087373903-kbsdn1"
   ],
-  "queue": [
-    {
-      "text": "🇪🇺 ALERT: European Commission hit by major AI-assisted cyberattack, potentially exposing personal data, per Politico.",
-      "url": "https://x.com/Cointelegraph/status/2123360291622678686",
-      "images": [
-        "https://pbs.twimg.com/media/HXew7oTWsAAqU4W.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1795083731316
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨 JUST IN: Deutsche Bank shares sink after 15M leaked files reveal Trump tax statements and $582M in suspicious Epstein-linked payments.",
@@ -2638,7 +2628,16 @@
       "at": 1795085548653,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389916078572846?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇪🇺 ALERT: European Commission hit by major AI-assisted cyberattack, potentially exposing personal data, per Politico.",
+      "final": "🇪🇺 ALERT: European Commission hit by major AI-assisted cyberattack, potentially exposing personal data, per Politico.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HXew7oTWsAAqU4W.png"
+      ],
+      "at": 1795087377359,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795085548653
+  "lastPostAt": 1795087377359
 }
