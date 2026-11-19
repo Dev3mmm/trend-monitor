@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1794930212515-ibmalj",
-    "source": "x",
-    "ts": "2026-11-17T15:43:32.515Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-17T15:38:52.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🇺🇸 ALERT: A highly classified network used by the National Security Agency (NSA) for internal communications is down, according to CNN.",
-    "url": "https://x.com/Cointelegraph/status/2122716106750062914"
-  },
-  {
     "id": "x-1794930215585-1pax2b",
     "source": "x",
     "ts": "2026-11-17T15:43:35.585Z",
@@ -7716,6 +7703,24 @@
     "images": [
       "https://pbs.twimg.com/media/HXenF37acAAaBSP.jpg",
       "https://pbs.twimg.com/media/HXenHF_aYAAIRyV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795082524948-febe1j",
+    "source": "x",
+    "ts": "2026-11-19T10:02:04.948Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T09:59:58.000Z",
+    "reason": "Hong Kong's SFC takes action against a virtual asset.",
+    "text": "🇭🇰 NEW: Hong Kong's SFC adds Hyperliquid to its suspicious virtual asset trading platform alert list.",
+    "url": "https://x.com/Cointelegraph/status/2123355595767976277",
+    "images": [
+      "https://pbs.twimg.com/media/HXesqThXEAAeA32.jpg"
     ],
     "video": null
   }
