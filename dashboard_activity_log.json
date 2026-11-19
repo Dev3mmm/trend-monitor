@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1794934273035-ndywju",
-    "source": "x",
-    "ts": "2026-11-17T16:51:13.035Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 43,
-    "originTimestamp": "2026-11-17T16:07:38.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "SpaceX just provided another $30 MILLION to help secure Brownsville's water future\n\nThat brings the total to $70 MILLION already deposited toward its massive $220 MILLION commitment to water and wastewater infrastructure in South Texas\n\nHere's what the investment will support:",
-    "url": "https://x.com/elonmusk/status/2122732511012831675"
-  },
-  {
-    "id": "x-1794934277477-5ru3a7",
-    "source": "x",
-    "ts": "2026-11-17T16:51:17.477Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-17T16:42:45.000Z",
-    "reason": "Former Robinhood Engineer guilty of crypto insider trading scheme",
-    "text": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-    "url": "https://x.com/DecryptMedia/status/2122732182300991614",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794934282777-z62my3",
     "source": "x",
     "ts": "2026-11-17T16:51:22.777Z",
@@ -7705,5 +7676,36 @@
     "reason": "No notable crypto news or move described.",
     "text": "🚨 LATEST: Netflix launches eight-episode FTX drama series \"The Altruists\" today,\n\n The drama faces criticism for allegedly downplaying SBF's responsibility and portraying CZ as a villain, per Bloomberg.",
     "url": "https://x.com/Cointelegraph/status/2123374582061039710"
+  },
+  {
+    "id": "x-1795087901444-esx9x4",
+    "source": "x",
+    "ts": "2026-11-19T11:31:41.444Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T11:30:36.000Z",
+    "reason": "Court documents reveal significant details about Binance hack involving multiple blockchains and stablecoins.",
+    "text": "🚨 UPDATE: Binance's $6.3B hack involved 192 crypto across 11 blockchains, including at least $3.46B in stablecoins, court documents reveal.",
+    "url": "https://x.com/Cointelegraph/status/2123378405211009098",
+    "images": [
+      "https://pbs.twimg.com/media/HXfBZ6XXYAE1BZS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795087906452-459mi9",
+    "source": "x",
+    "ts": "2026-11-19T11:31:46.452Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T11:30:01.000Z",
+    "reason": "No notable move in ETH price, price is within the recent range.",
+    "text": "Google Begins Rolling Out Gemini 4 Neon, Priced At $3 Per Million Input Tokens.\n\nGoogle DeepMind SVP Koray Kavukcuoglu wrote that Neon ranks \"#3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level.\"",
+    "url": "https://x.com/DecryptMedia/status/2123378257500233729"
   }
 ]
