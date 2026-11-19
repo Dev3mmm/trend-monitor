@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794974531996-wshkiw",
-    "source": "x",
-    "ts": "2026-11-18T04:02:11.996Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T04:00:39.000Z",
-    "reason": "Vague opinion with no factual claim or basis given.",
-    "text": "🔥 TODAY: Michael Saylor on OpenAI’s GPT-6.2 Astra and Sol release: “At this rate, everyone will be smart enough to buy Bitcoin.”",
-    "url": "https://x.com/Cointelegraph/status/2122902782415913230"
-  },
-  {
-    "id": "x-1794974534032-e8t396",
-    "source": "x",
-    "ts": "2026-11-18T04:02:14.032Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T04:00:01.000Z",
-    "reason": "No notable move or concrete news.",
-    "text": "CZ: Entrepreneurs Still Building in Crypto Are More Worth Investing in Amid the AI Boom\n\nBinance founder Changpeng Zhao (CZ) @cz_binance   said during the closing fireside chat at Cantor Convergence on November 12 that AI companies are creating tremendous value and deserve high",
-    "url": "https://x.com/WuBlockchain/status/2122902623682707877"
-  },
-  {
-    "id": "x-1794974537049-lbrtao",
-    "source": "x",
-    "ts": "2026-11-18T04:02:17.049Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T04:00:00.000Z",
-    "reason": "This is a notable legal development in the Ethereum MEV (Maximal Extraction Value) case.",
-    "text": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution\n\nA federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
-    "url": "https://x.com/DecryptMedia/status/2122902618523468155",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794975734601-5h6gtp",
     "source": "x",
     "ts": "2026-11-18T04:22:14.601Z",
@@ -7691,5 +7649,53 @@
     "reason": "No notable crypto-related news or use of crypto in the tweet.",
     "text": "BREAKING: AMD $AMD CEO Lisa Su sold $35.5 MILLION of stock before Hunterbrook Media's China report sent AMD down as much as 11%.\n\nHunterbrook Media alleges IEIT Systems, a Chinese server maker the US blacklisted in March 2025, \"kept getting newer AMD firmware,\" and its fund",
     "url": "https://x.com/coinbureau/status/2123513288042619160"
+  },
+  {
+    "id": "x-1795120428342-8awwoi",
+    "source": "x",
+    "ts": "2026-11-19T20:33:48.342Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T20:31:47.000Z",
+    "reason": "New token utility application with real-world use case.",
+    "text": "Pi DataLab wants to pay verified Pioneers in $PI for AI data work. @PiCoreTeam showed a first preview this week. Find out what is ready and what is not ⬇️",
+    "url": "https://x.com/BSCNews/status/2123514598561378628",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795120432243-r2x6ys",
+    "source": "x",
+    "ts": "2026-11-19T20:33:52.243Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-19T20:30:25.000Z",
+    "reason": "No notable crypto-related event or movement mentioned.",
+    "text": "🇺🇸 INSIGHT: US layoffs remain low, but 1.76 million Americans claim jobless benefits.",
+    "url": "https://x.com/Cointelegraph/status/2123514253243998610"
+  },
+  {
+    "id": "x-1795120437761-galbjm",
+    "source": "x",
+    "ts": "2026-11-19T20:33:57.761Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-19T20:26:35.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "BREAKING: AMD $AMD CEO Lisa Su sold $35.5 MILLION of stock before Hunterbrook Media's China report sent AMD down as much as 11%.\n\nHunterbrook Media alleges IEIT Systems, a Chinese server maker the US blacklisted in March 2025, \"kept getting newer AMD firmware,\" and its fund",
+    "url": "https://x.com/coinbureau/status/2123513288042619160",
+    "images": [
+      "https://pbs.twimg.com/media/HXg8E0iaAAAtS-l.png",
+      "https://pbs.twimg.com/media/HXg8E5KaEAAR3QV.jpg"
+    ],
+    "video": null
   }
 ]
