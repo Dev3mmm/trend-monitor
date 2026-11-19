@@ -1,45 +1,5 @@
 [
   {
-    "id": "x-1794942172998-23ltw5",
-    "source": "x",
-    "ts": "2026-11-17T19:02:52.998Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 100,
-    "originTimestamp": "2026-11-17T17:22:45.000Z",
-    "reason": "Regulatory focus on decentralized finance (DeFi) platforms rather than Bitcoin.",
-    "text": "Finney Foundation's Andrew Bailey (@resistancemoney) on where the scrutiny will land:\n\n\"A lot of the heat will come to crypto, not Bitcoin, things like World Liberty Financial.\"\n\n\"It doesn't live under the control of anyone and it's not affiliated with a famous politician...",
-    "url": "https://x.com/BitcoinMagazine/status/2122766584196604042",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2122742224039432192/vid/avc1/1280x720/qq4Wlgoa-Qqm3CdU.mp4?tag=29",
-      "duration": 30,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122742224039432192/img/nnS4uCutUa3qNfez.jpg"
-    }
-  },
-  {
-    "id": "x-1794942178314-71e8j3",
-    "source": "x",
-    "ts": "2026-11-17T19:02:58.314Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-17T18:52:53.000Z",
-    "reason": "Coinbase expands USDC borrowing into new U.S. states powered by Morpho and Base",
-    "text": "🚨 NEW: Coinbase has expanded $USDC borrowing against $BTC, $ETH and $SOL to all 50 U.S. states, powered by Morpho and built on Base.",
-    "url": "https://x.com/Cointelegraph/status/2122764933939020013",
-    "images": [
-      "https://pbs.twimg.com/media/HXWTdHaXEAAbimX.jpg",
-      "https://pbs.twimg.com/media/HXWTdS8WAAAsXcm.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794942725775-vf5bfw",
     "source": "x",
     "ts": "2026-11-17T19:12:05.775Z",
@@ -7731,6 +7691,40 @@
       "duration": 45,
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123425522944487424/img/H7cwbOAOxhRQRdyS.jpg"
+    }
+  },
+  {
+    "id": "x-1795100669666-g8avmz",
+    "source": "x",
+    "ts": "2026-11-19T15:04:29.666Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T15:02:25.000Z",
+    "reason": "Tweet is vague and lacks specific details.",
+    "text": "ANT IPO Day, Google Gemini Tops Models, Crypto Bounce and GTA Debut",
+    "url": "https://x.com/DecryptMedia/status/2123431707709788362"
+  },
+  {
+    "id": "x-1795100673536-whyzd4",
+    "source": "x",
+    "ts": "2026-11-19T15:04:33.536Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-19T15:01:03.000Z",
+    "reason": "Anthropic's debut on the stock market is notable.",
+    "text": "🔥 NEW: Anthropic $ANT rang the opening bell at Nasdaq today to mark its stock market debut.",
+    "url": "https://x.com/Cointelegraph/status/2123431365152808970",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123431332298846208/vid/avc1/1180x650/Z69CmQ47Wugj7Z7H.mp4?tag=29",
+      "duration": 20,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123431332298846208/img/E1bfAKHccKZt9oF2.jpg"
     }
   }
 ]
