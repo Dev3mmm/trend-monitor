@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1794975734601-5h6gtp",
-    "source": "x",
-    "ts": "2026-11-18T04:22:14.601Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T04:19:38.000Z",
-    "reason": "No notable move in ETH price given the recent range.",
-    "text": "⚡️ TODAY: Jim Cramer says he thinks Anthropic’s IPO will be “very successful.” \n\nBearish or bullish signal? 👀",
-    "url": "https://x.com/Cointelegraph/status/2122907557924663349"
-  },
-  {
-    "id": "x-1794975740008-64pm8r",
-    "source": "x",
-    "ts": "2026-11-18T04:22:20.008Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-18T04:14:00.000Z",
-    "reason": "New stablecoin market expected in Russia next year.",
-    "text": "Russia's Stablecoin Market Could be About to Take Off\n\nSberbank expects Russian-issued Ruble stablecoins to gain traction in foreign trade next year.\n\nThe new crypto law allows companies to issue them on public blockchains.\n\nRussian firms have mainly used Kyrgyzstan-issued A7A5.",
-    "url": "https://x.com/BSCNews/status/2122906140447002976",
-    "images": [
-      "https://pbs.twimg.com/media/HXXvb9mb0AAk10a.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794976320515-wyjyzw",
-    "source": "x",
-    "ts": "2026-11-18T04:32:00.515Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T04:30:40.000Z",
-    "reason": "Notable institutional investment in AI startup Anthropic.",
-    "text": "🔥 LATEST: Anthropic’s investors, including Sequoia and Lightspeed, plan to double down with billions more in its IPO, Bloomberg reports.",
-    "url": "https://x.com/Cointelegraph/status/2122910337254998478",
-    "images": [
-      "https://pbs.twimg.com/media/HXYXsd7XMAASpz-.jpg",
-      "https://pbs.twimg.com/media/HXYXs30WkAAc8Kp.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794976883184-k8nook",
     "source": "x",
     "ts": "2026-11-18T04:41:23.184Z",
@@ -7695,6 +7645,61 @@
     "images": [
       "https://pbs.twimg.com/media/HXg8E0iaAAAtS-l.png",
       "https://pbs.twimg.com/media/HXg8E5KaEAAR3QV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795120929496-3rdtny",
+    "source": "x",
+    "ts": "2026-11-19T20:42:09.496Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-19T20:24:56.000Z",
+    "reason": "Noteworthy institutional action with MSTR token.",
+    "text": "All our top institutional shareholders increased their $MSTR positions in Q3 2026. The top 15 now hold 33% of MSTR shares outstanding.",
+    "url": "https://x.com/saylor/status/2123517037687239015",
+    "images": [
+      "https://pbs.twimg.com/media/HXg6ln2XAAAL9vZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795120935402-68d1ys",
+    "source": "x",
+    "ts": "2026-11-19T20:42:15.402Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T20:40:34.000Z",
+    "reason": "Price below recent range with significant broader market implications.",
+    "text": "🚨BREAKING: Bitcoin falls below $62,000 for the first time since July, now down more than 50% from its record high.\n\nThis comes as more than $2 TRILLION has been wiped from US stocks since the open, and the S&amp;P 500 is headed for a 6th straight loss.",
+    "url": "https://x.com/coinbureau/status/2123516806556246419",
+    "images": [
+      "https://pbs.twimg.com/media/HXg-LUGawAAdu6b.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795120939450-mwv2fv",
+    "source": "x",
+    "ts": "2026-11-19T20:42:19.450Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T20:40:22.000Z",
+    "reason": "Concrete price move outside recent range.",
+    "text": "🚨 JUST IN: Bitcoin falls below $62,000 as Anthropic makes its Nasdaq debut. \n\nIs liquidity shifting from Bitcoin into Anthropic shares?",
+    "url": "https://x.com/Cointelegraph/status/2123516755880399296",
+    "images": [
+      "https://pbs.twimg.com/media/HXg_O5mXMAA52HP.jpg",
+      "https://pbs.twimg.com/media/HXg_PFdXIAAEDEc.jpg"
     ],
     "video": null
   }
