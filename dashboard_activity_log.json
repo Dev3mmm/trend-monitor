@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1794990718495-z6slja",
-    "source": "x",
-    "ts": "2026-11-18T08:31:58.495Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T08:30:34.000Z",
-    "reason": "Notable political figure endorsing blockchain and tokenization, indicating potential regulatory or institutional changes.",
-    "text": "🇬🇧 NEW: Former UK Prime Minister Boris Johnson says the UK should lead in blockchain and tokenization, even as he still compares Bitcoin to a Ponzi scheme.",
-    "url": "https://x.com/Cointelegraph/status/2122970708967825854",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1794991325646-fdjjql",
     "source": "x",
     "ts": "2026-11-18T08:42:05.646Z",
@@ -7687,5 +7671,24 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "What will lending on the XRP Ledger look like? Clearpool shows the full loan flow\n\n@ClearpoolFin published a demo today that runs a complete loan on the @XRP Ledger's test network. First an approved lender puts $RLUSD into a private vault. A broker checks the loan off-chain, and",
     "url": "https://x.com/BSCNews/status/2123547869185749094"
+  },
+  {
+    "id": "x-1795129349467-aia8wl",
+    "source": "x",
+    "ts": "2026-11-19T23:02:29.467Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T23:00:00.000Z",
+    "reason": "Potential privacy breach and data exposure.",
+    "text": "JPMorgan Says Third-Party Service Providers Were The Target Of A Cyberattack.\n\n\"Based on our investigation so far, we believe the attackers accessed certain marketing data held by those vendors, which may include some customer names and email addresses,\" JPMorgan said.",
+    "url": "https://x.com/DecryptMedia/status/2123551896531030280",
+    "images": [
+      "https://pbs.twimg.com/media/HXf5u25W4AECWyW.png",
+      "https://pbs.twimg.com/media/HXf6JU7WUAAuCqI.jpg"
+    ],
+    "video": null
   }
 ]
