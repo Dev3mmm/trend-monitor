@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794942725775-vf5bfw",
-    "source": "x",
-    "ts": "2026-11-17T19:12:05.775Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T19:10:54.000Z",
-    "reason": "The tweet is noise as it lacks specific and actionable information.",
-    "text": "🚨 JUST IN: Charles Schwab’s website is reportedly down, with the U.S. brokerage managing approximately $13 trillion in client assets.",
-    "url": "https://x.com/Cointelegraph/status/2122769463963443580",
-    "images": [
-      "https://pbs.twimg.com/media/HXWXk5LW8AAXdRk.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794942728781-79wtl1",
-    "source": "x",
-    "ts": "2026-11-17T19:12:08.781Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-17T19:05:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "The story of how @Zebec_HQ has grown and evolved over time is a fascinating one. A must-read for any $ZBCN bulls out there... ⬇️",
-    "url": "https://x.com/BSCNews/status/2122767981130248649"
-  },
-  {
     "id": "x-1794943326310-xvy9x6",
     "source": "x",
     "ts": "2026-11-17T19:22:06.310Z",
@@ -7726,5 +7695,38 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123431332298846208/img/E1bfAKHccKZt9oF2.jpg"
     }
+  },
+  {
+    "id": "x-1795101117757-o7rxik",
+    "source": "x",
+    "ts": "2026-11-19T15:11:57.757Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T15:10:25.000Z",
+    "reason": "Notable institutional adoption of crypto in Southeast Asia",
+    "text": "🇸🇬 UPDATE: Ant International launches Singapore's first tokenized deposit-to-money-market-fund settlement with DBS and Franklin Templeton.",
+    "url": "https://x.com/Cointelegraph/status/2123433721885818940",
+    "images": [
+      "https://pbs.twimg.com/media/HXfztW3X0AAKlfc.jpg",
+      "https://pbs.twimg.com/media/HXfztjxW4AAyMVy.png",
+      "https://pbs.twimg.com/media/HXfztxAWkAMRxok.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795101120182-6201jb",
+    "source": "x",
+    "ts": "2026-11-19T15:12:00.182Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-19T15:07:32.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "The Future of Privacy in Crypto [Ft. Provable] #CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2123432996745232630"
   }
 ]
