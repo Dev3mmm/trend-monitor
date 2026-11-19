@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1794934518268-lnfzzh",
-    "source": "x",
-    "ts": "2026-11-17T16:55:18.268Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 30,
-    "originTimestamp": "2026-11-17T16:25:07.000Z",
-    "reason": "No notable move; price is within its recent range.",
-    "text": "🌎 @UTXOmgmt's Dan Hillery (@hillery_dan) on how Strategy keeps STRC near par:\n\n\"If the reverse sort of market forces come in and STRC starts to trade off, they'll simply just retire what they just sold into the market... effectively mopping it up.\"\n\n\"It's going to be this kind",
-    "url": "https://x.com/BitcoinMagazine/status/2122731021388882283"
-  },
-  {
-    "id": "x-1794935523142-vfyxni",
-    "source": "x",
-    "ts": "2026-11-17T17:12:03.142Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T17:10:54.000Z",
-    "reason": "New regulatory consideration at the intersection of payments and tokenized markets.",
-    "text": "🇺🇸 NEW: The Fed highlights considerations at the intersection of payments and tokenized markets.",
-    "url": "https://x.com/Cointelegraph/status/2122739266807623793",
-    "images": [
-      "https://pbs.twimg.com/media/HXV8HNhXMAAoZU6.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794935526830-be1x33",
-    "source": "x",
-    "ts": "2026-11-17T17:12:06.830Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-17T17:09:00.000Z",
-    "reason": "PEPE memecoin has experienced significant losses.",
-    "text": "PEPE memecoin suffer's crypto's biggest losses.\n\n@pepecoineth is leading weekly losses among crypto's top-100 tokens, down -31% at time of writing.\n\nOther major assets like @pudgypenguins $PENGU [-27%] and @ethena's $ENA [-25%] have also suffered over the past seven days.",
-    "url": "https://x.com/BSCNews/status/2122738787805487502",
-    "images": [
-      "https://pbs.twimg.com/media/HXVwwZ0XQAA7GCc.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794936124375-le32uq",
     "source": "x",
     "ts": "2026-11-17T17:22:04.375Z",
@@ -7740,5 +7691,52 @@
       "https://pbs.twimg.com/media/HXfN1mna4AAANqs.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795092716887-scxr08",
+    "source": "x",
+    "ts": "2026-11-19T12:51:56.887Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T12:50:00.000Z",
+    "reason": "Specific, verifiable roadmap targets for Solana network.",
+    "text": "🔥 UPDATE: Solana's 2027 roadmap targets doubling network compute capacity, cutting token-account compute costs by 80%.",
+    "url": "https://x.com/Cointelegraph/status/2123398385390543213",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2122740296635064320/vid/avc1/1280x720/IYNXn-fax7PcwRNC.mp4?tag=29",
+      "duration": 129,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122740296635064320/img/ZSL3jVZk9np0ihfL.jpg"
+    }
+  },
+  {
+    "id": "x-1795092719029-8iluer",
+    "source": "x",
+    "ts": "2026-11-19T12:51:59.029Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-19T12:45:15.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Our latest Proof of Reserves snapshot now covers 198 tokens. Want to verify your assets? Here’s how: \n\n1️⃣ Go to Wallet → Select Verification\n2️⃣ Choose a date and review your assets\n\nStay informed. Stay SAFU. 👇",
+    "url": "https://x.com/binance/status/2123397190747865522"
+  },
+  {
+    "id": "x-1795092720618-zfzhcn",
+    "source": "x",
+    "ts": "2026-11-19T12:52:00.619Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-19T12:39:55.000Z",
+    "reason": "Generic hype without specific details or action.",
+    "text": "You don’t have to wait to get exposure to ANT.",
+    "url": "https://x.com/coinbase/status/2123396898698780675"
   }
 ]
