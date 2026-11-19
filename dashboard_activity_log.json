@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1794915183627-0s97zq",
-    "source": "x",
-    "ts": "2026-11-17T11:33:03.627Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-17T11:30:13.000Z",
-    "reason": "Specific regulatory change allowing Russian retail investors to buy Bitcoin",
-    "text": "JUST IN: 🇷🇺 Starting today, Russian retail investors can now legally buy Bitcoin 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2122653530339365310",
-    "images": [
-      "https://pbs.twimg.com/media/HXUuIsYXQAAGNET.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794915730851-tildm1",
     "source": "x",
     "ts": "2026-11-17T11:42:10.851Z",
@@ -7787,5 +7769,18 @@
     "reason": "No notable move in ETH price.",
     "text": "⚡️ NEW: Nvidia’s interim CEO Colette Kress promises staff pay raises and extra equity awards in December to lift morale after Jensen Huang’s exit, FT reports.",
     "url": "https://x.com/Cointelegraph/status/2123242460792934450"
+  },
+  {
+    "id": "x-1795056150597-yig5hh",
+    "source": "x",
+    "ts": "2026-11-19T02:42:30.597Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-19T02:31:24.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "Elon Musk says SpaceX’s StarMind orbital AI satellite is a “much easier” engineering problem than Starlink V3:\n\n“I’m not sure why people think that making an AI satellite would be hard, given that SpaceX already has over 11,000 satellites in orbit, which is, I think, twice as",
+    "url": "https://x.com/elonmusk/status/2123243377907175651"
   }
 ]
