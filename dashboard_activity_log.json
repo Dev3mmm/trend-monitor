@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1794919942673-cz0ba0",
-    "source": "x",
-    "ts": "2026-11-17T12:52:22.673Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-17T12:43:00.000Z",
-    "reason": "Noteworthy increase in TVL for Sui Stablecoin Protocol",
-    "text": "This Sui Stablecoin Protocol Just Grew Nearly 50% in a Month\n\nBucket Protocol (@bucket_protocol) TVL has increased by about 46% in the last 30 days to roughly $34.9 million, according to DeFiLlama data. \n\nUsers stake collateral in the form of $SUI, liquid staking tokens, and",
-    "url": "https://x.com/BSCNews/status/2122671846776774818",
-    "images": [
-      "https://pbs.twimg.com/media/HXUzo13XUAAr7HW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1794920560045-r0eljq",
-    "source": "x",
-    "ts": "2026-11-17T13:02:40.045Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 63,
-    "originTimestamp": "2026-11-17T11:59:22.000Z",
-    "reason": "No notable move in price or specific event.",
-    "text": "BREAKING: Texas A&amp;M’s $205.5 million semiconductor project will help train America’s next generation of chipmakers for Terafab. 🇺🇸\n\nUniversity leaders say Terafab’s planned chip plant in Grimes County makes A&amp;M’s Semiconductor Institute even more relevant, with Terafab counting",
-    "url": "https://x.com/elonmusk/status/2122676485651599457"
-  },
-  {
     "id": "x-1794920563063-3mwx40",
     "source": "x",
     "ts": "2026-11-17T13:02:43.063Z",
@@ -7753,5 +7722,43 @@
     "reason": "No notable move or newsworthy event is reported.",
     "text": "Bitwise XRP ETF Sells Big, Yet its Holdings Keep Climbing\n\nBitwise’s (@Bitwise) $XRP (@XRP) ETF sold more tokens to meet investor redemptions in Q3.\n\nThe fund parted with 23.7 million XRP, slightly above its 22.9 million total for the first six months.\n\nYet it finished September",
     "url": "https://x.com/BSCNews/status/2123274650029613298"
+  },
+  {
+    "id": "x-1795064559271-h49d6f",
+    "source": "x",
+    "ts": "2026-11-19T05:02:39.271Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T05:00:27.000Z",
+    "reason": "FOMC minutes indicate strong likelihood of further rate hikes.",
+    "text": "🇺🇸 TODAY: FOMC minutes show almost all Fed officials expect more rate hikes, with a few calling October’s pause a “close call.”",
+    "url": "https://x.com/Cointelegraph/status/2123280216961224942",
+    "images": [
+      "https://pbs.twimg.com/media/HXdoGclXQAEiywe.jpg",
+      "https://pbs.twimg.com/media/HXdoGryX0AEi_n3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795064563328-g1yj31",
+    "source": "x",
+    "ts": "2026-11-19T05:02:43.328Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T05:00:01.000Z",
+    "reason": "Cybersecurity breach affecting Ledger hardware wallets globally.",
+    "text": "BREAKING: Ledger confirms hardware wallet tampering extending beyond Southeast Asia, with affected devices identified in Germany and UAE.\n\nThe investigation found that a criminal group physically modified genuine Ledger devices before they reached customers, allowing attackers to",
+    "url": "https://x.com/coinbureau/status/2123280110186864984",
+    "images": [
+      "https://pbs.twimg.com/media/HXdgBEZbYAAEwVP.png",
+      "https://pbs.twimg.com/media/HXdgDyqbQAEd-bC.png"
+    ],
+    "video": null
   }
 ]
