@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🐋 ALERT: Two Solana whales unstaked 2.31M $SOL and deposited it into Coinbase Prime, per Lookonchain.",
-      "url": "https://x.com/Cointelegraph/status/2123393560024109067",
-      "images": [
-        "https://pbs.twimg.com/media/HXfPKzsWUAEcEoz.jpg",
-        "https://pbs.twimg.com/media/HXfPLgxWcAA6DrU.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795091877535
-    },
-    {
       "text": "🚨 JUST IN: At least finds six blacklisted Chinese universities bought restricted Nvidia chips, including two with military ties, per CNN.",
       "url": "https://x.com/Cointelegraph/status/2123403516072837581",
       "images": [
@@ -2666,7 +2656,17 @@
       "at": 1795096507568,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/389960965384465?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🐋 ALERT: Two Solana whales unstaked 2.31M $SOL and deposited it into Coinbase Prime, per Lookonchain.",
+      "final": "🐋 ALERT: Two Solana whales unstaked 2.31M $SOL and deposited it into Coinbase Prime, per Lookonchain.\n\n#Solana $SOL #Coinbase",
+      "images": [
+        "https://pbs.twimg.com/media/HXfPKzsWUAEcEoz.jpg",
+        "https://pbs.twimg.com/media/HXfPLgxWcAA6DrU.jpg"
+      ],
+      "at": 1795098126152,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795096507568
+  "lastPostAt": 1795098126152
 }
