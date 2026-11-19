@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1794945164158-anuu8r",
-    "source": "x",
-    "ts": "2026-11-17T19:52:44.158Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-17T19:47:15.000Z",
-    "reason": "Cathie Wood's ARK Fund made a notable move by reallocating its investments in crypto stocks.",
-    "text": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
-    "url": "https://x.com/DecryptMedia/status/2122778613783072934",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1794945168212-v6v65l",
-    "source": "x",
-    "ts": "2026-11-17T19:52:48.212Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-17T19:45:00.000Z",
-    "reason": "No notable crypto-related news",
-    "text": "Nvidia Board Creates National Security And Export Control Oversight Committee.\n\nSuzanne Nora Johnson will chair the committee, which will meet at least quarterly and \"retain independent, outside experts to provide legal, national security and trade compliance expertise.\"",
-    "url": "https://x.com/DecryptMedia/status/2122778046793138286"
-  },
-  {
-    "id": "x-1794945787583-5x5q7x",
-    "source": "x",
-    "ts": "2026-11-17T20:03:07.583Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-17T20:02:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Aero hits $0.5 TRILLION in total volume\n\n@aeroxyz has now processed a staggering $513B in cumulative DEX volume, with some $22.3B arriving the past 30 days alone.\n\nThis massive traction has translated to some $616M in cumulative fees, and activity on the platform has been",
-    "url": "https://x.com/BSCNews/status/2122782324937130110"
-  },
-  {
     "id": "x-1794946408186-5y0vrn",
     "source": "x",
     "ts": "2026-11-17T20:13:28.186Z",
@@ -7717,5 +7675,60 @@
     "reason": "No notable move in ETH price.",
     "text": "Frame CEO Alexander Taskey on how Bitcoin differs from stablecoins and tokenized deposits:\n\n\"Bitcoin is an asset more than a transfer of money.\"\n\n\"Bitcoin is that separate digital asset, but it's not a bank deposit, nor is it a dollar-pegged instrument.\"",
     "url": "https://x.com/BitcoinMagazine/status/2123440692135436775"
+  },
+  {
+    "id": "x-1795103559343-efx2br",
+    "source": "x",
+    "ts": "2026-11-19T15:52:39.343Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coinbase 🛡️",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T15:51:22.000Z",
+    "reason": "Notable price movement above IPO price.",
+    "text": "The ANT perp is currently trading at $104 on @CoinbaseWallet, ~25% above IPO price.",
+    "url": "https://x.com/coinbase/status/2123444076162818415",
+    "images": [
+      "https://pbs.twimg.com/media/HXf88oVXcAA_T-i.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795103562286-4auq9k",
+    "source": "x",
+    "ts": "2026-11-19T15:52:42.286Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T15:50:23.000Z",
+    "reason": "Notable institutional collaboration using blockchain technology.",
+    "text": "🔥 JUST IN: Chainlink unveils a UBS collaboration targeting the $2T+ structured notes market using its CRE technology.",
+    "url": "https://x.com/Cointelegraph/status/2123443778262364583",
+    "images": [
+      "https://pbs.twimg.com/media/HXf827bXAAAN8FO.jpg",
+      "https://pbs.twimg.com/media/HXf83MQXQAAq2IQ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795103565935-0mf0v5",
+    "source": "x",
+    "ts": "2026-11-19T15:52:45.935Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-19T15:48:00.000Z",
+    "reason": "New stablecoin launch on Stellar network.",
+    "text": "Ethena Brings $USDe and $sUSDe to Stellar Using Stargate\n\nSynthetic dollar platform Ethena (@Ethena) has expanded to Stellar (@StellarOrg), launching its $USDe and yield-generating $sUSDe tokens on the payment-oriented network.\n\nUsers can send $USDe, $sUSDe, and the Ethena",
+    "url": "https://x.com/BSCNews/status/2123443179730952488",
+    "images": [
+      "https://pbs.twimg.com/media/HXfx5TfXgAATcOV.jpg"
+    ],
+    "video": null
   }
 ]
