@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1794964324291-9d3wqg",
-    "source": "x",
-    "ts": "2026-11-18T01:12:04.291Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 112,
-    "originTimestamp": "2026-11-17T23:19:41.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Today was a huge day across financial markets\n\nHere are the 10 headlines you need to know ↓\n\n1. Nvidia posts record quarterly revenue of $115.8 billion and projects $130 billion for Q4. \n\n2. Circle partners with Citi Bank and World Bank Group to use $USDC for global payments.",
-    "url": "https://x.com/coinbase/status/2122858722091536631"
-  },
-  {
-    "id": "x-1794965570911-u3el4x",
-    "source": "x",
-    "ts": "2026-11-18T01:32:50.911Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T01:30:38.000Z",
-    "reason": "Generic opinion without factual claim or evidence.",
-    "text": "⚡️ BRIAN ARMSTRONG: “To decentralize AI and preserve freedom, we need a coordination layer: a market economy where agents communicate and cooperate through prices.”",
-    "url": "https://x.com/Cointelegraph/status/2122865027774284166"
-  },
-  {
-    "id": "x-1794965574673-2r5j4w",
-    "source": "x",
-    "ts": "2026-11-18T01:32:54.673Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-18T01:28:00.000Z",
-    "reason": "Noteworthy burn event and institutional engagement.",
-    "text": "216,176,494 $ASTER tokens burned forever.\n\nFollowing its latest burn announcement, @Aster_DEX has now burned a total of $127M worth of $ASTER tokens, under its combined initiatives.\n\nThe perps platform's token burns have surged since implementing new tokenomic mechanisms in June,",
-    "url": "https://x.com/BSCNews/status/2122864365346992170",
-    "images": [
-      "https://pbs.twimg.com/media/HXVCvPfW8AEU2Jb.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1794965577908-dofmxm",
     "source": "x",
     "ts": "2026-11-18T01:32:57.908Z",
@@ -7710,6 +7666,59 @@
       "https://pbs.twimg.com/media/HXf2zc7W8AAbYHW.jpg",
       "https://pbs.twimg.com/media/HXf27b8XoAIooYp.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795115531202-62vmww",
+    "source": "x",
+    "ts": "2026-11-19T19:12:11.202Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-19T19:10:23.000Z",
+    "reason": "Binance Wallet's action could affect investor sentiment and allocation issues.",
+    "text": "🚨 UPDATE: Binance Wallet says it will refund all USDC to participants in its Anthropic IPO campaign and airdrop tokenized shares and $1 million in ANTR tokens following allocation issues.",
+    "url": "https://x.com/Cointelegraph/status/2123494109897724343",
+    "images": [
+      "https://pbs.twimg.com/media/HXgqolXWMAASv13.jpg",
+      "https://pbs.twimg.com/media/HXgqo22W8AANxXH.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795115535111-7ycqfa",
+    "source": "x",
+    "ts": "2026-11-19T19:12:15.111Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-19T18:58:25.000Z",
+    "reason": "The IPO price of Anthropic is the largest ever, indicating significant institutional interest.",
+    "text": "Today's BSCN Debrief: Anthropic's $81.3B IPO is the largest any company has ever priced.\n\nAlso inside: $TRX's 33.1% stablecoin share, the GENIUS Act safe harbor push, an $XRP Ledger first.\n\nMore here:",
+    "url": "https://x.com/BSCNews/status/2123494037265014999",
+    "images": [
+      "https://pbs.twimg.com/media/HXgn5eVW8AAdS4R.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795115538919-8zps0p",
+    "source": "x",
+    "ts": "2026-11-19T19:12:18.919Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-19T19:09:45.000Z",
+    "reason": "Bitcoin's position entering a technical indicator known as a Death Cross is noteworthy, especially in the context of Anthropic's failed IPO.",
+    "text": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+    "url": "https://x.com/DecryptMedia/status/2123493951982162368",
+    "images": [],
     "video": null
   }
 ]
