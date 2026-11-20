@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1795039925144-w3ehmz",
-    "source": "x",
-    "ts": "2026-11-18T22:12:05.144Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-18T22:11:22.000Z",
-    "reason": "Notable institutional criticism of a crypto-related company ahead of its debut.",
-    "text": "BREAKING: Anthropic gets branded \"not a safe AI company\" by Nobel laureates and tech founders, hours ahead of its Nasdaq debut.\n\n89 names have signed a statement accusing the company of hypocrisy on AI safety.\n\nThe statement says Anthropic \"warns that recursively self-improving",
-    "url": "https://x.com/coinbureau/status/2123177269632090205",
-    "images": [
-      "https://pbs.twimg.com/media/HXcKeAmbUAAVvH8.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795039927962-z3rh0w",
-    "source": "x",
-    "ts": "2026-11-18T22:12:07.962Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T22:10:34.000Z",
-    "reason": "Notable Fed rate hike prediction with a high probability.",
-    "text": "🇺🇸 LATEST: Kalshi traders now see a 91% chance of a 25-basis-point Fed rate hike in December.",
-    "url": "https://x.com/Cointelegraph/status/2123177070293307767",
-    "images": [
-      "https://pbs.twimg.com/media/HXcKSwTWgAEuJGb.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795040395588-jb5zyx",
-    "source": "x",
-    "ts": "2026-11-18T22:19:55.588Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T22:17:45.000Z",
-    "reason": "Ledger confirms tampered wallets, potential spy implant probe expands beyond Asia.",
-    "text": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
-    "url": "https://x.com/DecryptMedia/status/2123178876427788290",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795040400286-taku0t",
     "source": "x",
     "ts": "2026-11-18T22:20:00.286Z",
@@ -7635,6 +7583,45 @@
     "ageMin": 59,
     "originTimestamp": "2026-11-20T17:03:58.000Z",
     "reason": "No notable move or newsworthy event mentioned.",
+    "text": "small updates in pstack v0.15.46\n\n• lots of pruning, skills are now much shorter\n• gemini 4 neon is added as a panel reviewer \n\nit's autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again",
+    "url": "https://x.com/elonmusk/status/2123837595704836144"
+  },
+  {
+    "id": "x-1795198118644-wyktt9",
+    "source": "x",
+    "ts": "2026-11-20T18:08:38.644Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-20T18:01:09.000Z",
+    "reason": "No notable crypto-related information.",
+    "text": "🇺🇸 JUST IN: Trump says the US and China will establish joint guardrails for “Super Intelligence,” adding that President Xi also likes the name.",
+    "url": "https://x.com/Cointelegraph/status/2123839077048872963"
+  },
+  {
+    "id": "x-1795198123904-v4m4gj",
+    "source": "x",
+    "ts": "2026-11-20T18:08:43.904Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-20T18:00:01.000Z",
+    "reason": "Generic promotional offer without a specific event or move.",
+    "text": "Your next game, gift or getaway? Get up to 10% off 👀\n\nEnjoy up to 10% off gift cards, gaming, travel and more when you pay with Binance Pay at participating Marketplace merchants, including ByteTopup, CoinGate Gift Cards, Tokenstore, Statero (formerly Tamana), Coinsbee and XPIN",
+    "url": "https://x.com/binance/status/2123838792469754220"
+  },
+  {
+    "id": "x-1795198129018-k84m9q",
+    "source": "x",
+    "ts": "2026-11-20T18:08:49.018Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 64,
+    "originTimestamp": "2026-11-20T17:03:58.000Z",
+    "reason": "No notable move or newsworthy event described.",
     "text": "small updates in pstack v0.15.46\n\n• lots of pruning, skills are now much shorter\n• gemini 4 neon is added as a panel reviewer \n\nit's autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again",
     "url": "https://x.com/elonmusk/status/2123837595704836144"
   }
