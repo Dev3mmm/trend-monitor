@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1795006433185-8vbuym",
-    "source": "x",
-    "ts": "2026-11-18T12:53:53.185Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-18T12:46:45.000Z",
-    "reason": "President Trump's meme coin has reached new lows following midterm elections.",
-    "text": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
-    "url": "https://x.com/DecryptMedia/status/2123035178272428114",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795006438361-qog5j0",
-    "source": "x",
-    "ts": "2026-11-18T12:53:58.361Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-18T12:45:00.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Tencent Reports Negative Free Cash Flow Of RMB69.1 Billion In Third Quarter.\n\nCapital expenditure payments were RMB65.1 billion, up 225% year-on-year, and Tencent said free cash flow \"would have been positive RMB16.9 billion\" excluding prepayments for compute procurement.",
-    "url": "https://x.com/DecryptMedia/status/2123034737782796486"
-  },
-  {
-    "id": "x-1795006443994-897o6s",
-    "source": "x",
-    "ts": "2026-11-18T12:54:03.994Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-18T12:42:52.000Z",
-    "reason": "AI models used in warfare identified civilians, raising ethical concerns.",
-    "text": "BREAKING: Anthropic’s Claude and other AI models marked civilians, ambulances, surrendering soldiers, and a school in Iran as MILITARY TARGETS in simulated warfare tests, per Bloomberg, citing a Vals AI study.\n\nIn drone scenarios, models picked out medics treating the wounded,",
-    "url": "https://x.com/coinbureau/status/2123034203113836590",
-    "images": [
-      "https://pbs.twimg.com/media/HXaGK1AbwAAwEpL.png",
-      "https://pbs.twimg.com/media/HXaGL4_a8AApka4.png",
-      "https://pbs.twimg.com/media/HXaGM-saoAAIClf.png",
-      "https://pbs.twimg.com/media/HXaGPINaoAEFMFR.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795006950131-lrbd5j",
     "source": "x",
     "ts": "2026-11-18T13:02:30.131Z",
@@ -7651,5 +7601,54 @@
     "reason": "No notable move or specific event described.",
     "text": "Trump's Latest Disclosure Reveals Millions in Tech Stock Trades\n\nDonald Trump's (@realDonaldTrump) accounts bought shares in Nvidia, Palantir and SpaceX in September.\n\nThe purchases coincided with major federal contracts and meetings between executives and Trump, per CNBC.\n\nA new",
     "url": "https://x.com/BSCNews/status/2123651552187674634"
+  },
+  {
+    "id": "x-1795154635804-olqsip",
+    "source": "x",
+    "ts": "2026-11-20T06:03:55.804Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T06:01:50.000Z",
+    "reason": "New use of a token/stablecoin by Jasmy incorporating Personal Data Locker (PDL) technology.",
+    "text": "Jasmy Wants Companies to Stop Holding Your Personal Data\n\nJasmy (@Jasmy_Global) ethereum:0x7420b4b9a0110cdc71fb720908340c03f9bc03ec Incorporated has launched a website introducing its Personal Data Locker (PDL).\n\nThe platform separates personal information from company services",
+    "url": "https://x.com/BSCNews/status/2123658055942615348",
+    "images": [
+      "https://pbs.twimg.com/media/HXifizNbMAAOWQG.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795154638014-7pa0ja",
+    "source": "x",
+    "ts": "2026-11-20T06:03:58.014Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-20T06:00:31.000Z",
+    "reason": "No notable moves or significant news events are clearly stated or verifiable from the tweet provided.",
+    "text": "⚡ INSIGHT: Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.\n\nAsia Express this week:",
+    "url": "https://x.com/Cointelegraph/status/2123657722994282813"
+  },
+  {
+    "id": "x-1795154640458-9vsg8q",
+    "source": "x",
+    "ts": "2026-11-20T06:04:00.458Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-20T06:00:02.000Z",
+    "reason": "Innovative reward program unlocking crypto or fiat rewards.",
+    "text": "Your next fiat deposit or crypto purchase could unlock a share of $45,000 in rewards! \n\nDeposit fiat, buy crypto, or purchase bStocks with fiat for the first time and get a chance to earn ANTB token vouchers.\n\nKnow more →",
+    "url": "https://x.com/binance/status/2123657601929850902",
+    "images": [
+      "https://pbs.twimg.com/media/HXgYh0YXgAALb2b.jpg"
+    ],
+    "video": null
   }
 ]
