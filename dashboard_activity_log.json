@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795031609231-3h6zeh",
-    "source": "x",
-    "ts": "2026-11-18T19:53:29.231Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-18T19:47:00.000Z",
-    "reason": "Pieverse shows significant growth with a 107.4% seven-day gain.",
-    "text": "Pieverse doubles in a week while Bitcoin drops 15%\n\nethereum:0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9 gained about 60% in the past 24 hours to trade at $3.35, on $81.5M in volume. Its market cap now stands at $913M, good for #72 on CoinGecko.\n\nThe seven-day gain is 107.4%,",
-    "url": "https://x.com/BSCNews/status/2123140937593598239",
-    "images": [
-      "https://pbs.twimg.com/media/HXbk5JDXEAEy44W.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795032732907-c58kuz",
-    "source": "x",
-    "ts": "2026-11-18T20:12:12.907Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T20:10:35.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "🔥 NEW: Anthropic says Claude Fable 5.2 solves two open problems in the physics of black holes.",
-    "url": "https://x.com/Cointelegraph/status/2123146874605404398"
-  },
-  {
     "id": "x-1795032736333-cwzdd5",
     "source": "x",
     "ts": "2026-11-18T20:12:16.333Z",
@@ -7643,5 +7612,42 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2123809143488188416/pu/img/4GaJQtPyk0OCxsaW.jpg"
     }
+  },
+  {
+    "id": "x-1795191763646-w9fc6e",
+    "source": "x",
+    "ts": "2026-11-20T16:22:43.646Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-20T16:15:00.000Z",
+    "reason": "Regulatory extension of crypto rules to new services.",
+    "text": "Hong Kong Publishes Bill To Extend Crypto Rules To Dealing, Advisory, Management And Custody.\n\nAnyone running a business offering those services would need to be licensed by or registered with the Securities and Futures Commission; the bill's First Reading is Dec. 2.",
+    "url": "https://x.com/DecryptMedia/status/2123812362864185551",
+    "images": [
+      "https://pbs.twimg.com/media/HXk8ufcXIAAF9wn.jpg",
+      "https://pbs.twimg.com/media/HXk8vfjXIAAIv6d.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795191766209-zxlufs",
+    "source": "x",
+    "ts": "2026-11-20T16:22:46.209Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-20T16:13:00.000Z",
+    "reason": "Significant change in institutional activity towards NEAR Protocol ETF.",
+    "text": "Are institutions going cold on $NEAR ...?\n\nIn the month of October, @Bitwise's spot @NEARProtocol ETF saw net inflows totalling +$34.80M.\n\nThe month before it was +$50.03M.\n\nin November, however, the product has not seen a single day of net inflows, with net outflows now at",
+    "url": "https://x.com/BSCNews/status/2123811858591396206",
+    "images": [
+      "https://pbs.twimg.com/media/HXkTL1JXUAAUfpz.jpg"
+    ],
+    "video": null
   }
 ]
