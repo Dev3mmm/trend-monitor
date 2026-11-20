@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795002492660-u4gxol",
-    "source": "x",
-    "ts": "2026-11-18T11:48:12.660Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-18T11:38:03.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "Is the Thucydides Trap ever avoidable?\n\nI wish it were, but, inevitably, the most interesting outcome is the most likely.",
-    "url": "https://x.com/elonmusk/status/2123017891167785201"
-  },
-  {
-    "id": "x-1795002739342-13lan8",
-    "source": "x",
-    "ts": "2026-11-18T11:52:19.342Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T11:50:35.000Z",
-    "reason": "Notable use of a popular decentralized exchange entering new financial derivatives markets.",
-    "text": "🔥 UPDATE: PancakeSwap rebrands to Pancake, expanding beyond swaps into stocks, perpetuals and prediction markets.",
-    "url": "https://x.com/Cointelegraph/status/2123021045519069451",
-    "images": [
-      "https://pbs.twimg.com/media/HXZ8Y2nWkAA_CM1.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795003341854-fcbc20",
     "source": "x",
     "ts": "2026-11-18T12:02:21.854Z",
@@ -7662,5 +7631,37 @@
     "reason": "No notable move in cryptocurrency prices or adoption mentioned.",
     "text": "🇺🇸 NOW: Trump’s National Cyber Director Sean Cairncross, who led the White House’s AI response, will step down.\n\nPentagon CIO Kirsten Davies will replace him, per Axios.",
     "url": "https://x.com/Cointelegraph/status/2123619996932706722"
+  },
+  {
+    "id": "x-1795146145926-m3660b",
+    "source": "x",
+    "ts": "2026-11-20T03:42:25.926Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-20T03:38:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Satoshi's Abandoned Bitcoin Forum Raised a New Mystery\n\nAn archived forum created by Satoshi Nakamoto recorded an admin login on June 17, 2014, nearly five years after it went quiet.\n\nThe board launched in November 2009, shortly after Bitcoin's $BTC creator published the",
+    "url": "https://x.com/BSCNews/status/2123621856791920808"
+  },
+  {
+    "id": "x-1795146148924-sl0jmp",
+    "source": "x",
+    "ts": "2026-11-20T03:42:28.924Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-20T03:36:30.000Z",
+    "reason": "The tweet is about a failed AI trade, not a crypto-related news.",
+    "text": "🔥Anthropic’s IPO was a success. But, failed the \"AI trade\"?\n\nThe long-awaited Anthropic IPO was seen as a test of Wall Street’s confidence in AI spending.\n\nThe deal passed. The broader AI trade didn’t.\n\nAnthropic ($ANT) raised a record $81.3 billion at $83 a share, above its",
+    "url": "https://x.com/coinbureau/status/2123621481762730473",
+    "images": [
+      "https://pbs.twimg.com/media/HXidZovaMAAOxya.jpg",
+      "https://pbs.twimg.com/media/HXidi9IbUAA6xvj.jpg"
+    ],
+    "video": null
   }
 ]
