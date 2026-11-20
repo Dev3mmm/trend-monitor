@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795050394403-47o5i0",
-    "source": "x",
-    "ts": "2026-11-19T01:06:34.403Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 46,
-    "originTimestamp": "2026-11-19T00:20:22.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Catching the ship was the last major piece of the puzzle",
-    "url": "https://x.com/elonmusk/status/2123220899264679988"
-  },
-  {
-    "id": "x-1795050397965-2x7d3o",
-    "source": "x",
-    "ts": "2026-11-19T01:06:37.965Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 76,
-    "originTimestamp": "2026-11-18T23:50:19.000Z",
-    "reason": "No notable crypto-related news or use of crypto in the tweet.",
-    "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”",
-    "url": "https://x.com/elonmusk/status/2123220601154466066"
-  },
-  {
     "id": "x-1795050400941-bedmqb",
     "source": "x",
     "ts": "2026-11-19T01:06:40.941Z",
@@ -7641,5 +7615,36 @@
     "url": "https://x.com/DecryptMedia/status/2123863260403306848",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795204342290-0v0733",
+    "source": "x",
+    "ts": "2026-11-20T19:52:22.290Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-20T19:48:00.000Z",
+    "reason": "Arbitrum leads in stablecoin growth with significant increases.",
+    "text": "Arbitrum leads all chains in weekly stablecoin growth\n\nStablecoin supply on @arbitrum One ($ARB) grew by $327M over the past 7 days, more than on any other chain, per @tokenterminal data.\n\n@arc came second with $175M and @Aptos third with $147M. @SuiNetwork, @injective, @Optimism",
+    "url": "https://x.com/BSCNews/status/2123865964991361493",
+    "images": [
+      "https://pbs.twimg.com/media/HXlqPbqXIAALvkP.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795204345725-ytn4jd",
+    "source": "x",
+    "ts": "2026-11-20T19:52:25.725Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 26,
+    "originTimestamp": "2026-11-20T19:25:37.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Strategy's Chaitanya Jain on how he reads a falling Bitcoin price:\n\n\"That volatility is actually a gift to the long-term faithful investors.\"\n\n\"I realized I understood Bitcoin really well when I started getting excited when Bitcoin's price fell and today I'm extremely excited.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2123864469420003565"
   }
 ]
