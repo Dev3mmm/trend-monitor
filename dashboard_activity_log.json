@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795009321074-fcbzvo",
-    "source": "x",
-    "ts": "2026-11-18T13:42:01.074Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-18T13:38:30.000Z",
-    "reason": "No notable crypto-related news in the tweet provided.",
-    "text": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
-    "url": "https://x.com/DecryptMedia/status/2123048201603211343"
-  },
-  {
     "id": "x-1795010052239-1d0kuo",
     "source": "x",
     "ts": "2026-11-18T13:54:12.239Z",
@@ -7643,5 +7630,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123673390816845824/img/8QvDv1JfpyXPRxh9.jpg"
     }
+  },
+  {
+    "id": "x-1795159988179-pu0v6y",
+    "source": "x",
+    "ts": "2026-11-20T07:33:08.179Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-20T07:28:00.000Z",
+    "reason": "Notable use case expansion for a stablecoin through a new protocol.",
+    "text": "Aero Users Can Now Unlock USDC From Their LP Positions\n\nRevert (@revertfinance) Lend has launched on Aero (@aeroxyz) $AERO, expanding what liquidity providers can do on Base.\n\nUsers can borrow $USDC against their LP positions while keeping them open. Supported collateral includes",
+    "url": "https://x.com/BSCNews/status/2123679737793102263",
+    "images": [
+      "https://pbs.twimg.com/media/HXiiOGoaAAA17L4.png"
+    ],
+    "video": null
   }
 ]
