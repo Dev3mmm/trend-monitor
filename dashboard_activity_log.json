@@ -1,58 +1,5 @@
 [
   {
-    "id": "x-1795038749964-ywm7mt",
-    "source": "x",
-    "ts": "2026-11-18T21:52:29.964Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-18T21:47:15.000Z",
-    "reason": "Potentially significant legal and security implications.",
-    "text": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
-    "url": "https://x.com/DecryptMedia/status/2123171199794434355",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795038753031-leiamg",
-    "source": "x",
-    "ts": "2026-11-18T21:52:33.031Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-18T21:45:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Midnight says six Canadian banks and one in Japan are working on tokenized deposits too\n\nFahmi Syed (@F_ZK_Now), president of the Midnight Foundation, said that six banks in Canada and a bank in Japan are looking to build similar products on @MidnightNtwrk (midnight-3:native). He",
-    "url": "https://x.com/BSCNews/status/2123170633970241952",
-    "images": [
-      "https://pbs.twimg.com/media/HXbwdWkWsAAPnHW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795039340261-hfu21g",
-    "source": "x",
-    "ts": "2026-11-18T22:02:20.261Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T22:00:03.000Z",
-    "reason": "Bill Ackman's comments suggest potential regulatory or legal scrutiny for Nvidia's board.",
-    "text": "Bill Ackman Says He Believes Nvidia's Board Is \"Not Acting In The Best Interest Of Shareholders.\"\n\nThe Pershing Square CEO wrote on X that the board is \"compounding its failures by insisting that there is no possibility for Jensen’s return as CEO.\"",
-    "url": "https://x.com/DecryptMedia/status/2123174420051075119",
-    "images": [
-      "https://pbs.twimg.com/media/HXbbTYLXkAAATt0.png",
-      "https://pbs.twimg.com/media/HXbbWDDXIAAMb5v.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795039925144-w3ehmz",
     "source": "x",
     "ts": "2026-11-18T22:12:05.144Z",
@@ -7651,5 +7598,44 @@
       "https://pbs.twimg.com/media/HXlc9w2WYAE_yWt.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795197803837-cf6wie",
+    "source": "x",
+    "ts": "2026-11-20T18:03:23.837Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T18:01:09.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸 JUST IN: Trump says the US and China will establish joint guardrails for “Super Intelligence,” adding that President Xi also likes the name.",
+    "url": "https://x.com/Cointelegraph/status/2123839077048872963"
+  },
+  {
+    "id": "x-1795197807334-spppi2",
+    "source": "x",
+    "ts": "2026-11-20T18:03:27.334Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-20T18:00:01.000Z",
+    "reason": "Generic promotional tweet without a specific event or price move.",
+    "text": "Your next game, gift or getaway? Get up to 10% off 👀\n\nEnjoy up to 10% off gift cards, gaming, travel and more when you pay with Binance Pay at participating Marketplace merchants, including ByteTopup, CoinGate Gift Cards, Tokenstore, Statero (formerly Tamana), Coinsbee and XPIN",
+    "url": "https://x.com/binance/status/2123838792469754220"
+  },
+  {
+    "id": "x-1795197810693-7bgf0y",
+    "source": "x",
+    "ts": "2026-11-20T18:03:30.693Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 59,
+    "originTimestamp": "2026-11-20T17:03:58.000Z",
+    "reason": "No notable move or newsworthy event mentioned.",
+    "text": "small updates in pstack v0.15.46\n\n• lots of pruning, skills are now much shorter\n• gemini 4 neon is added as a panel reviewer \n\nit's autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again",
+    "url": "https://x.com/elonmusk/status/2123837595704836144"
   }
 ]
