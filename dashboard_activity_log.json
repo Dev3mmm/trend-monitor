@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795019063071-b7h0kc",
-    "source": "x",
-    "ts": "2026-11-18T16:24:23.071Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T16:23:11.000Z",
-    "reason": "Notable institutional move with a significant financial impact",
-    "text": "JUST IN: 🇺🇸 New York's state pension fund raised their stake in Strategy to 352,850 shares worth ~$54 million in Q3 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2123089645831606631",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2123089611832385536/vid/avc1/1280x720/A04hUVVGLGvYPtKN.mp4?tag=29",
-      "duration": 21,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HXa61XcWYAA0qpQ.jpg"
-    }
-  },
-  {
-    "id": "x-1795019066537-1jhd9l",
-    "source": "x",
-    "ts": "2026-11-18T16:24:26.538Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-18T16:09:07.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "@Grok who do you think will be the next CEO?",
-    "url": "https://x.com/coinbase/status/2123089414700016036"
-  },
-  {
     "id": "x-1795019072761-68h100",
     "source": "x",
     "ts": "2026-11-18T16:24:32.761Z",
@@ -7644,5 +7610,42 @@
     "url": "https://x.com/DecryptMedia/status/2123746178164543590",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795176739828-iawepk",
+    "source": "x",
+    "ts": "2026-11-20T12:12:19.828Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-20T12:11:30.000Z",
+    "reason": "Specific institutional move involving a key player in crypto custody and stablecoins.",
+    "text": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+    "url": "https://x.com/DecryptMedia/status/2123751083197485566",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795176743159-9c593l",
+    "source": "x",
+    "ts": "2026-11-20T12:12:23.159Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-20T12:03:46.000Z",
+    "reason": "Stablecoins in emerging markets could disrupt traditional banking systems.",
+    "text": "🔥 INSIGHT: Africa skipped banks for mobile money, and stablecoins could let the Global South make the same jump.\n\n@ADI_Foundation CEO @andreylazorenko told @itsciaranlyons this is why the foundation is focusing on emerging markets.\n\nMoving straight to stablecoin payments would",
+    "url": "https://x.com/Cointelegraph/status/2123749138214813914",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123749022934466560/vid/avc1/1280x720/0oIaXpRDPil-zrW3.mp4?tag=16",
+      "duration": 110,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123749022934466560/img/M6KUeG8B4dV74AWa.jpg"
+    }
   }
 ]
