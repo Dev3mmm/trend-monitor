@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795000299697-dga4fz",
-    "source": "x",
-    "ts": "2026-11-18T11:11:39.697Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T11:10:36.000Z",
-    "reason": "Update on potential security breach affecting Bitcoin withdrawals.",
-    "text": "🚨 UPDATE: Coinkite CEO says Coldcard firmware flaw affected 0.17% of users, as Galaxy estimates $116M in Bitcoin stolen.",
-    "url": "https://x.com/Cointelegraph/status/2123010982045704373",
-    "images": [
-      "https://pbs.twimg.com/media/HXZzO7gXUAAAKMg.png",
-      "https://pbs.twimg.com/media/HXZzPIXWsAAk4VE.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795000919178-mo9zeh",
-    "source": "x",
-    "ts": "2026-11-18T11:21:59.178Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-18T11:17:28.000Z",
-    "reason": "New NFT generation feature from a major Web3 platform",
-    "text": "TokenFi’s New AI Studio Can Generate Free NFTs! \n\nTokenFi (@Tokenfi) has unveiled AIGen Studio, a Web3 interface that is designed to guide users through generating an NFT from a text prompt to on-chain completion in minutes.\n\nCreators can generate and mint up to eight NFTs each",
-    "url": "https://x.com/BSCNews/status/2123012708849086508",
-    "images": [
-      "https://pbs.twimg.com/media/HXZ0mIyW0AAXvOm.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795000924013-m067na",
     "source": "x",
     "ts": "2026-11-18T11:22:04.014Z",
@@ -7672,5 +7635,39 @@
     "reason": "No notable move in ETH price.",
     "text": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went\n\nThe Claude maker beat SpaceX's original share sale, though not its expanded final IPO. Here's who got the money and why the computing bill could be even bigger.",
     "url": "https://x.com/DecryptMedia/status/2123601975405420945"
+  },
+  {
+    "id": "x-1795141954739-gj4hhd",
+    "source": "x",
+    "ts": "2026-11-20T02:32:34.739Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T02:30:01.000Z",
+    "reason": "Hashi mainnet allows BTC as collateral for stablecoins.",
+    "text": "🔥 TODAY: Hashi mainnet launched on Sui and allows Bitcoin holders to use their BTC as collateral to borrow stablecoins.",
+    "url": "https://x.com/Cointelegraph/status/2123604747273830614",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123419327424532480/vid/avc1/720x720/kenpz-MB_u5hetL7.mp4?tag=29",
+      "duration": 33,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123419327424532480/img/ZWmKCJuPx2RdWvLU.jpg"
+    }
+  },
+  {
+    "id": "x-1795141959088-drsugh",
+    "source": "x",
+    "ts": "2026-11-20T02:32:39.088Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-20T02:24:56.000Z",
+    "reason": "Generic motivational message without concrete action or price information.",
+    "text": "It is FRIDAY.\n\nGet up, finish the week with GRIT.\n\nIt is hard, but choose to remain hard.\n\nRefuse to lose focus.\n\nKeep your eyes on the goal.",
+    "url": "https://x.com/amerix/status/2123603471505014889"
   }
 ]
