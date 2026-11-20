@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795040400286-taku0t",
-    "source": "x",
-    "ts": "2026-11-18T22:20:00.286Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-18T22:16:42.000Z",
-    "reason": "No notable move, statement of interest rates but no specific action or price mentioned.",
-    "text": "美联储十月会议纪要，大概就以下五点：\n\n1. 10月 暂定是因为 9月 刚加息 25 个基点，多数与会者希望再看看9月加息如何影响市场，尤其是对 AI 投资需求能维持多久。\n\n2. 12月 的利率调整，10月 开会时，多数与会者已经认为 12月 甚至明年都应该继续加息。甚至有两位与会者支持 12月 加息 50 个基点。",
-    "url": "https://x.com/PhyrexNi/status/2123178611327062419"
-  },
-  {
     "id": "x-1795040404915-yck21n",
     "source": "x",
     "ts": "2026-11-18T22:20:04.915Z",
@@ -7624,5 +7611,18 @@
     "reason": "No notable move or newsworthy event described.",
     "text": "small updates in pstack v0.15.46\n\n• lots of pruning, skills are now much shorter\n• gemini 4 neon is added as a panel reviewer \n\nit's autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again",
     "url": "https://x.com/elonmusk/status/2123837595704836144"
+  },
+  {
+    "id": "x-1795198360910-yvopvo",
+    "source": "x",
+    "ts": "2026-11-20T18:12:40.910Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T18:10:25.000Z",
+    "reason": "No concrete crypto-related content.",
+    "text": "🇺🇸BREAKING: Trump says US companies will NOT be allowed to build data centers outside America.\n\nHe threatened a \"tremendous tax\" on any company that tries, warning \"China will take all of them.\"\n\n\"They allowed that to happen with chips and everything else, and it was very",
+    "url": "https://x.com/coinbureau/status/2123841409522565407"
   }
 ]
