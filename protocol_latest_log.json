@@ -3024,5 +3024,19 @@
     "fetchedAt": "2026-11-20T06:04:34.440Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-ad162aad41a5d233",
+    "title": "UPLC Link:Verifying an Aiken escrow contract and why it matters",
+    "url": "https://forum.cardano.org/t/uplc-link-verifying-an-aiken-escrow-contract-and-why-it-matters/158460",
+    "description": "1.Why verification matters Making smart contract source code public is a good start, but it does not prove that the code produces the script actually running on-chain. Between the source code and the compiled UPLC script, there is a compilation process. Without a way to reproduce it, users and auditors have to rely on the developer’s word. This matters in practice. Wenze, a marketplace under devel",
+    "publishedAt": "2026-11-20T08:07:06.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-20T08:12:02.732Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
