@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1795018321976-sfhixq",
-    "source": "x",
-    "ts": "2026-11-18T16:12:01.976Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T16:10:36.000Z",
-    "reason": "No notable move in ETH price within its recent range.",
-    "text": "🔥 QUESTION: Eli Ben-Sasson questions why AI can uncover hidden security vulnerabilities but cannot reliably patch them.",
-    "url": "https://x.com/Cointelegraph/status/2123086478569791618"
-  },
-  {
-    "id": "x-1795018325609-oojh3l",
-    "source": "x",
-    "ts": "2026-11-18T16:12:05.609Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-18T16:05:03.000Z",
-    "reason": "Price well outside the recent trading range, potential significant move.",
-    "text": "🚨 ALERT: $BTC drops below $63,000.",
-    "url": "https://x.com/Cointelegraph/status/2123085081241686396",
-    "images": [
-      "https://pbs.twimg.com/media/HXa2n_TXwAEvRYU.jpg",
-      "https://pbs.twimg.com/media/HXa2oQ7WcAAMVTu.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795018329253-nfzznf",
-    "source": "x",
-    "ts": "2026-11-18T16:12:09.253Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Binance",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-18T16:03:42.000Z",
-    "reason": "Notable partnership and institutional recognition for Celo.",
-    "text": "Taking the spotlight: @Celo ✨\n\nBringing the world's money onchain, Celo joins us as Title Sponsor of #BinanceBlockchainWeek.\n\nSee you in Bangkok, Nov 28–29.\n\nBook your tickets 🎟️",
-    "url": "https://x.com/binance/status/2123084742660694045",
-    "images": [
-      "https://pbs.twimg.com/media/HXa2UlRW0AIY-On.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795019063071-b7h0kc",
     "source": "x",
     "ts": "2026-11-18T16:24:23.071Z",
@@ -7652,5 +7602,47 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Tokenized assets are exploding on Sei Network\n\nOn @SeiNetwork, real-world assets (RWAs) are growing significantly, with on-chain RWA transfer volume over the past 30 days up 62.49%.\n\nOver the same one-month period, the total number of RWA holders on the platform increased by",
     "url": "https://x.com/BSCNews/status/2123745482333728773"
+  },
+  {
+    "id": "x-1795176142447-7rd21d",
+    "source": "x",
+    "ts": "2026-11-20T12:02:22.447Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-20T12:01:44.000Z",
+    "reason": "Vague and promotional with no specific factual claim.",
+    "text": "One of these emails is not like the other. \n\nThere are 3 red flags hiding in plain sight. Can you spot them all? \n\nStill not sure? Learn how to verify through our official tool 👇",
+    "url": "https://x.com/binance/status/2123748625398350104"
+  },
+  {
+    "id": "x-1795176148145-skm0sg",
+    "source": "x",
+    "ts": "2026-11-20T12:02:28.145Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T11:59:38.000Z",
+    "reason": "Noise, no factual claim or significant move.",
+    "text": "🚨BREAKING: Anthropic, $ANT, continues to FALL, and is now trading below $90 in pre-market, one day after the largest IPO in history.\n\n$ANT is trading at ~$89.67, down -7.7% from Thursday’s close and -22% from its intraday high.\n\nIf it opens here, over $135 BILLION of market",
+    "url": "https://x.com/coinbureau/status/2123748097608306882"
+  },
+  {
+    "id": "x-1795176153433-3x32eq",
+    "source": "x",
+    "ts": "2026-11-20T12:02:33.433Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-20T11:52:00.000Z",
+    "reason": "Bitcoin ETFs show significant investor concern with recent price drop below $62K.",
+    "text": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+    "url": "https://x.com/DecryptMedia/status/2123746178164543590",
+    "images": [],
+    "video": null
   }
 ]
