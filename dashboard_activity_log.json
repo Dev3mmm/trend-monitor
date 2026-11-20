@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795036942460-5de5xg",
-    "source": "x",
-    "ts": "2026-11-18T21:22:22.460Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-18T21:17:46.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "JUST IN: The Bitcoin Standard author Saifedean Ammous says \"this is likely the bottom\" for Bitcoin 👀\n\n\"I think we've consolidated around the $60K level...I can't see us spending much more time around these levels.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2123163779093676362"
-  },
-  {
-    "id": "x-1795036945606-lakcz8",
-    "source": "x",
-    "ts": "2026-11-18T21:22:25.606Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 77,
-    "originTimestamp": "2026-11-18T20:04:35.000Z",
-    "reason": "No notable move in the tweet.",
-    "text": "Couldn’t recommend it more. Take your kids to a Starship launch. It’s a full-body experience. something you feel as much as you see, and one of the most awe-inspiring feats of human ingenuity you’ll ever witness. Plus, you’ll never see more grown men crying. Seriously &amp; that’s a",
-    "url": "https://x.com/elonmusk/status/2123163650412441650"
-  },
-  {
-    "id": "x-1795036948917-zxg2q8",
-    "source": "x",
-    "ts": "2026-11-18T21:22:28.917Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-18T21:17:15.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
-    "url": "https://x.com/DecryptMedia/status/2123163649841721693",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795036952745-v5uos9",
     "source": "x",
     "ts": "2026-11-18T21:22:32.745Z",
@@ -7649,5 +7607,52 @@
     "reason": "Noise: meme or placeholder text.",
     "text": "Made with Grok @Bot",
     "url": "https://x.com/elonmusk/status/2123827993382687217"
+  },
+  {
+    "id": "x-1795196367780-01x97e",
+    "source": "x",
+    "ts": "2026-11-20T17:39:27.780Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 62,
+    "originTimestamp": "2026-11-20T16:37:15.000Z",
+    "reason": "Price outside recent range, significant move for Bitcoin.",
+    "text": "\"It'll lose. It'll fall.\" @Tyler_Did_It called it as Bitcoin broke below $60,000 live on the show, its first time under $60K since early July. BTC is now down about 23% in November, on pace for its worst month since June 2022.",
+    "url": "https://x.com/DecryptMedia/status/2123832406289289330",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123832339499266049/vid/avc1/1280x720/vF4avqyKQ_qcxfgl.mp4?tag=29",
+      "duration": 44,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123832339499266049/img/-WGHkPZSW9Q4lkeX.jpg"
+    }
+  },
+  {
+    "id": "x-1795196371706-0d4ryd",
+    "source": "x",
+    "ts": "2026-11-20T17:39:31.706Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-20T17:30:33.000Z",
+    "reason": "No notable crypto-related event.",
+    "text": "🇺🇸 JUST IN: The US Senate passes the DEATH BETS Act to ban prediction market bets tied to war, terrorism, assassination and death, sending the bill to the House.",
+    "url": "https://x.com/Cointelegraph/status/2123831373764960644"
+  },
+  {
+    "id": "x-1795196376242-v8fu75",
+    "source": "x",
+    "ts": "2026-11-20T17:39:36.242Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-20T17:27:06.000Z",
+    "reason": "Generic hype with no real content.",
+    "text": "BREAKING: @Skel announces 30 free spins for everyone with a verified X account today\n\nUse code MIAMI30 when you deposit on @MetaWin\n\nAnd you’ll be granted 30x free spins on their game ‘Miami Heist’",
+    "url": "https://x.com/BSCNews/status/2123830506215145733"
   }
 ]
