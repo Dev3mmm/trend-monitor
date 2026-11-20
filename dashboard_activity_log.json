@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795014138248-htrh3t",
-    "source": "x",
-    "ts": "2026-11-18T15:02:18.248Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T15:00:47.000Z",
-    "reason": "Noise: No specific actionable information.",
-    "text": "Market Selloff, NVDA Latest, Stanley Druckenmiller’s Nervous, GTA VI Debut and BTC Capitulation",
-    "url": "https://x.com/DecryptMedia/status/2123068910933045496"
-  },
-  {
-    "id": "x-1795014141954-r3swh8",
-    "source": "x",
-    "ts": "2026-11-18T15:02:21.954Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T15:00:03.000Z",
-    "reason": "AI agents making simulated FX transactions.",
-    "text": "JPMorgan's Kinexys And Hyundai Card Complete Test Of AI Agents Making Simulated FX Transactions.\n\nThe agents acted \"without direct human intervention,\" and the companies aim to expand testing to multi-agent transactions in the first half of 2027, CNBC reported.",
-    "url": "https://x.com/DecryptMedia/status/2123068725792514117",
-    "images": [
-      "https://pbs.twimg.com/media/HXaOE5YWcAARVVF.png",
-      "https://pbs.twimg.com/media/HXaOG-SWwAADaM5.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795014145598-y6cjam",
-    "source": "x",
-    "ts": "2026-11-18T15:02:25.598Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-18T14:54:00.000Z",
-    "reason": "No notable move or event described, just speculation.",
-    "text": "The memecoin sector is experiencing a bloodbath this week, with $PEPE, $SHIB, $DOGE, and $PENGU all down. \n\nWill there be a turnaround? 🔽",
-    "url": "https://x.com/BSCNews/status/2123067202228105563"
-  },
-  {
     "id": "x-1795014710482-p6j6tq",
     "source": "x",
     "ts": "2026-11-18T15:11:50.482Z",
@@ -7660,5 +7615,55 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Elan Insights flagging MASSIVE crypto developments again...\n\n@ElanInsights' Crypto Calendar tool makes sure users don't get left behind by the world's fastest industry.\n\nTry now: \n\nJust a sample of some of the upcoming events it has highlighted:\n\n[November",
     "url": "https://x.com/BSCNews/status/2123713640687698151"
+  },
+  {
+    "id": "x-1795168903912-qmotkh",
+    "source": "x",
+    "ts": "2026-11-20T10:01:43.912Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-20T10:01:08.000Z",
+    "reason": "No notable market movement or breaking news in the provided tweet.",
+    "text": "🚨 TODAY: Asian stocks plunged as the AI selloff deepened.\n\nTaiwan TAIEX −6.23%\nSouth Korea KOSPI −5.21%\nJapan Nikkei 225 −5.06%\nPhilippines PSEi −4.15%\nMainland China Shenzhen Component −3.09%\nSingapore Straits Times −2.05%\nHong Kong Hang Seng −1.89%\nThailand SET −1.45%",
+    "url": "https://x.com/Cointelegraph/status/2123718275318141089"
+  },
+  {
+    "id": "x-1795168907036-4qwbur",
+    "source": "x",
+    "ts": "2026-11-20T10:01:47.036Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-20T09:58:00.000Z",
+    "reason": "Notable token allocation for AI activity.",
+    "text": "JANCTION Render Turns AI Activity Into a Jasmy Reserve\n\nJanction (@JANCTION_Global) has launched a JASMY Reserve, setting aside one ethereum:0x7420b4b9a0110cdc71fb720908340c03f9bc03ec (@Jasmy_Global) for every render. Its first November 16 cut-off recorded 2,591 renders, putting",
+    "url": "https://x.com/BSCNews/status/2123717486499803408",
+    "images": [
+      "https://pbs.twimg.com/media/HXiztRDaIAAVBTL.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795168910255-o8b4im",
+    "source": "x",
+    "ts": "2026-11-20T10:01:50.255Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "PeckShieldAlert",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-20T09:57:31.000Z",
+    "reason": "Exploit of a popular privacy coin leading to a significant price drop and manipulation.",
+    "text": "#PeckShieldAlert The $XMR1 Deployer-labeled address moved 5.1M XMR1 to 0x1464d...42220bf and dumped them, crashing the price of XMR1 from $495 to $0.99. The address then spent ~$12.8M to buy 7,349 $ETH and sent 4,836 $ETH to 0xF32D78...1Dc59.",
+    "url": "https://x.com/PeckShieldAlert/status/2123717364827267434",
+    "images": [
+      "https://pbs.twimg.com/media/HXj1lVfa0AE_wTu.jpg",
+      "https://pbs.twimg.com/media/HXj1mxhawAEWIvs.jpg"
+    ],
+    "video": null
   }
 ]
