@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795000924013-m067na",
-    "source": "x",
-    "ts": "2026-11-18T11:22:04.014Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-18T11:15:48.000Z",
-    "reason": "New use of a token (Immutable's) indicating a shift in business strategy.",
-    "text": "Immutable (@Immutable) ethereum:0xf57e7e7c23978c3caec3c3548e3d615c346e79ff is changing its approach to blockchain gaming. Instead of building games itself, the company is focusing on tools that help mainstream studios attract and retain players. \n\nWhat does this mean for the",
-    "url": "https://x.com/BSCNews/status/2123012292099072145",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795000927943-fja2kv",
     "source": "x",
     "ts": "2026-11-18T11:22:07.943Z",
@@ -7669,5 +7653,23 @@
     "reason": "Generic motivational message without concrete action or price information.",
     "text": "It is FRIDAY.\n\nGet up, finish the week with GRIT.\n\nIt is hard, but choose to remain hard.\n\nRefuse to lose focus.\n\nKeep your eyes on the goal.",
     "url": "https://x.com/amerix/status/2123603471505014889"
+  },
+  {
+    "id": "x-1795142589711-fa1r9o",
+    "source": "x",
+    "ts": "2026-11-20T02:43:09.711Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-20T02:34:00.000Z",
+    "reason": "Notable institutional move into Perps sector by a major DeFi player.",
+    "text": "1inch announces major move into the perps sector.\n\nDeFi OG @1inch has launched its own perps trading offering, powered by @HyperliquidX's infrastructure.\n\nKnown for its aggregation services, 1inch is already a giant when it comes to DeFi, its DEX aggregator having seen cumulative",
+    "url": "https://x.com/BSCNews/status/2123605750530646058",
+    "images": [
+      "https://pbs.twimg.com/media/HXfP3jtWQAAsmtm.jpg"
+    ],
+    "video": null
   }
 ]
