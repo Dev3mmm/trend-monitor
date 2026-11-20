@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1795031597534-74sqys",
-    "source": "x",
-    "ts": "2026-11-18T19:53:17.534Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-18T19:49:07.000Z",
-    "reason": "Specific institutional crypto security update with potential global implications.",
-    "text": "Ledger Hardware Wallet Tampering Investigation Update: Affected Devices Found Beyond Southeast Asia in Germany and UAE\n\nLedger has released an update on its investigation into physically tampered hardware wallets, confirming that affected devices have been found beyond Southeast",
-    "url": "https://x.com/WuBlockchain/status/2123141470974787911",
-    "images": [
-      "https://pbs.twimg.com/media/HXbp5x-bAAAz6Vo.jpg",
-      "https://pbs.twimg.com/media/HXbp6Rwa8AATu4p.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795031601258-5skk15",
-    "source": "x",
-    "ts": "2026-11-18T19:53:21.258Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-18T19:47:15.000Z",
-    "reason": "CoinShares' actions suggest significant market movement or institutional activity.",
-    "text": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-    "url": "https://x.com/DecryptMedia/status/2123141003267674503",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795031609231-3h6zeh",
     "source": "x",
     "ts": "2026-11-18T19:53:29.231Z",
@@ -7644,5 +7609,39 @@
       "https://pbs.twimg.com/media/HXlH8h0acAA9yzS.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795191129758-fcsr4f",
+    "source": "x",
+    "ts": "2026-11-20T16:12:09.758Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-20T16:03:39.000Z",
+    "reason": "No crypto-related content or notable event mentioned.",
+    "text": "Members of the Starship production team with Starship 42 before its launch",
+    "url": "https://x.com/elonmusk/status/2123810270426624429"
+  },
+  {
+    "id": "x-1795191135207-nkqu4b",
+    "source": "x",
+    "ts": "2026-11-20T16:12:15.207Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-20T16:02:15.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Some events you watch online. Others you show up for.\n\n#BinanceBlockchainWeek 2026 is one of those. The current ticket price won’t last forever 👀\n\n📍 Bangkok | Nov 28–29\n\nGet your ticket while it lasts →",
+    "url": "https://x.com/binance/status/2123809155492266187",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2123809143488188416/pu/vid/avc1/720x900/2jHq_1Wo8BO76DFi.mp4?tag=12",
+      "duration": 8,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2123809143488188416/pu/img/4GaJQtPyk0OCxsaW.jpg"
+    }
   }
 ]
