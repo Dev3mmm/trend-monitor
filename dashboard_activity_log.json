@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795017788603-z7pcn5",
-    "source": "x",
-    "ts": "2026-11-18T16:03:08.603Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 28,
-    "originTimestamp": "2026-11-18T15:34:27.000Z",
-    "reason": "No notable move in the crypto market, the tweet is about a local product and does not provide concrete price information or market-moving news.",
-    "text": "很可惜，这是一套本地部署的产品，给大家也没有用，主要监控的是 Binance Alpha（现货）+ 合约的异动，因为要用本机的数据和网络，而且 Binance 的公开 API 只有部分国家可以正常使用。\n\n目前正在准备外网部署，部署好以后会逐渐开放。",
-    "url": "https://x.com/PhyrexNi/status/2123082853504409969"
-  },
-  {
     "id": "x-1795017792224-xftotj",
     "source": "x",
     "ts": "2026-11-18T16:03:12.224Z",
@@ -7648,6 +7635,22 @@
     "images": [
       "https://pbs.twimg.com/media/HXkGhqaWMAArpim.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795174987018-uodz88",
+    "source": "x",
+    "ts": "2026-11-20T11:43:07.018Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-20T11:38:23.000Z",
+    "reason": "Specific and verifiable hacker activity resulting in significant asset movement.",
+    "text": "🚨 UDDATE: Wallets linked to the Binance hack moved $594M in ETH over two days, including 197,460 ETH $346M on Friday, per Onchain Lens.",
+    "url": "https://x.com/Cointelegraph/status/2123742749845291312",
+    "images": [],
     "video": null
   }
 ]
