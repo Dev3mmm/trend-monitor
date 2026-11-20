@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795015941879-eftkbn",
-    "source": "x",
-    "ts": "2026-11-18T15:32:21.879Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-18T15:24:43.000Z",
-    "reason": "Tweet is a listicle about liver failure causes, not a news event.",
-    "text": "5 top causes of Liver Failure\n\n1. Paracetamol\n\n2. Alcohol\n\n3. Obesity: A fatty Liver\n\n4.  Diabetes\n\n5. Viruses - Hepatitis B",
-    "url": "https://x.com/amerix/status/2123074934167785474"
-  },
-  {
     "id": "x-1795016516311-59uwwr",
     "source": "x",
     "ts": "2026-11-18T15:41:56.311Z",
@@ -7650,5 +7637,18 @@
       "https://pbs.twimg.com/media/HXj69YsWwAAZnkG.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795170769743-msrpwe",
+    "source": "x",
+    "ts": "2026-11-20T10:32:49.743Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T10:30:01.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "SoftBank Group Closes 14.48% Lower In Its Worst Day Since August 2024; Japan's Nikkei Falls 5.06%.\n\nSouth Korea's Kospi fell 5.21%, with Samsung Electronics down 7.01% and SK Hynix down 5.92%, while the Nikkei 225 ended at 56,436.65, its lowest close since April.",
+    "url": "https://x.com/DecryptMedia/status/2123725545984663656"
   }
 ]
