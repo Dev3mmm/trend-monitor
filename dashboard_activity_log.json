@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795005735456-9rhq22",
-    "source": "x",
-    "ts": "2026-11-18T12:42:15.456Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-18T12:37:19.000Z",
-    "reason": "No notable move in the tweet provided.",
-    "text": "H. Pylori has lived with humans for over 55,000 years.\n\nIt is a bacterium that comfortably lives with humans inside the stomach walls, as long as the stomach acid remains strong [1 to 2 in the PH scale], so that it remains buried deep in its capsule.\n\nHowever, if you destroy the",
-    "url": "https://x.com/amerix/status/2123032804829347950"
-  },
-  {
-    "id": "x-1795005741654-03lob2",
-    "source": "x",
-    "ts": "2026-11-18T12:42:21.654Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-18T12:36:11.000Z",
-    "reason": "Exploit of a significant amount of ETH detected.",
-    "text": "#PeckShieldAlert The address labeled #Binance Hot Wallet Exploiter 11, which received 78,415.25 $ETH ($140.6M), has distributed 6 batches of ~12K $ETH to 6 new addresses and 6,415.24 ETH to 0xDbA9FE...6FE0.",
-    "url": "https://x.com/PeckShieldAlert/status/2123032521927790728",
-    "images": [
-      "https://pbs.twimg.com/media/HXaCWngacAAmSPq.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795006422862-d1zw6o",
     "source": "x",
     "ts": "2026-11-18T12:53:42.862Z",
@@ -7649,5 +7618,42 @@
     "reason": "Tweet is about Gold, not crypto and doesn't involve any cryptocurrency-related events or moves.",
     "text": "🚨 UPDATE: Gold dropped below $3,540 an ounce and is down nearly 9% this week, its worst week since March, as a hawkish Fed and an AI stock rout push investors to sell.",
     "url": "https://x.com/Cointelegraph/status/2123640618698039446"
+  },
+  {
+    "id": "x-1795151524037-ye2f2x",
+    "source": "x",
+    "ts": "2026-11-20T05:12:04.037Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-20T05:11:15.000Z",
+    "reason": "Trump's potential dinner for top $TRUMP holders is a notable use of a meme coin.",
+    "text": "🇺🇸 JUST IN: Trump will host a dinner on Sunday for the top 185 $TRUMP holders, even as Democrats vow to investigate his conflicts of interest, per FT.\n\nThe memecoin currently sits 99% below its peak at around $0.95.",
+    "url": "https://x.com/Cointelegraph/status/2123645325533405491",
+    "images": [
+      "https://pbs.twimg.com/media/HXi0Kl-WgAAIllv.jpg",
+      "https://pbs.twimg.com/media/HXi0KyuWcAA4Gc6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795151529065-iay430",
+    "source": "x",
+    "ts": "2026-11-20T05:12:09.065Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-20T05:05:00.000Z",
+    "reason": "XRP gaining significant traction in Japan market.",
+    "text": "XRP is Leaving Solana And Dogecoin Behind in Japan\n\n$XRP (@XRP) ranked as Japan's third most-traded cryptocurrency in September, behind only Bitcoin and Ethereum.\n\nThe token recorded ¥132.8 billion in spot volume, roughly $880 million, according to data shared by Evernorth Japan.",
+    "url": "https://x.com/BSCNews/status/2123643750950093290",
+    "images": [
+      "https://pbs.twimg.com/media/HXiSfX2aAAACAOO.png"
+    ],
+    "video": null
   }
 ]
