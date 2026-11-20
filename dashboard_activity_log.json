@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795031587328-3eg3d0",
-    "source": "x",
-    "ts": "2026-11-18T19:53:07.328Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T19:50:36.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "🔥 SAYLOR: “Seller exhaustion will come long before Saylor exhaustion.”",
-    "url": "https://x.com/Cointelegraph/status/2123141845739835639"
-  },
-  {
-    "id": "x-1795031592663-tijwlj",
-    "source": "x",
-    "ts": "2026-11-18T19:53:12.663Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T19:50:12.000Z",
-    "reason": "Notable innovation in cryptocurrency staking mechanism.",
-    "text": "Bitcoin staking is live on Stacks.\n\nMost holders have only been able to wait or sell when prices drop. Traditional assets earn a rate and can back loans without being sold. @Stacks is building the same tools for $BTC.\n\nBitcoin staking is already live. Holders stake $BTC with $STX",
-    "url": "https://x.com/BSCNews/status/2123141742010519752",
-    "images": [
-      "https://pbs.twimg.com/media/HXbqKTRWgAEIGTv.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795031597534-74sqys",
     "source": "x",
     "ts": "2026-11-18T19:53:17.534Z",
@@ -7644,5 +7613,36 @@
     "reason": "No notable move in ETH price.",
     "text": "Pancake (@PancakeFi) has been on a roll this week! With a rebrand, tokenized Anthropic trading, new pools, and community campaigns.\n\nHere are the key highlights: \n\n[Nov 16] The postponed trading fees buyback and burn, which was first put off on Nov 9, has been completed.\n\nThe DEX",
     "url": "https://x.com/BSCNews/status/2123800541645955582"
+  },
+  {
+    "id": "x-1795190552701-f4uicq",
+    "source": "x",
+    "ts": "2026-11-20T16:02:32.701Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-20T16:01:21.000Z",
+    "reason": "No notable crypto-related event or data point is mentioned.",
+    "text": "🤖 NEW: An Anthropic researcher says he believes he has found a proof of the Riemann Hypothesis with the help of Claude.",
+    "url": "https://x.com/Cointelegraph/status/2123808927682810273"
+  },
+  {
+    "id": "x-1795190558091-ka3hgc",
+    "source": "x",
+    "ts": "2026-11-20T16:02:38.091Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 22,
+    "originTimestamp": "2026-11-20T15:40:21.000Z",
+    "reason": "Major crypto assets have experienced significant and notable price drops.",
+    "text": "🚨 UPDATE: Bitcoin plunges below $60,000 for the first time since July.\n\nMajor altcoins continue to crash:\n\n- $ETH falls below $1,700\n- $XRP drops below $0.95\n- $SOL plunges below $70",
+    "url": "https://x.com/coinbureau/status/2123807887743139973",
+    "images": [
+      "https://pbs.twimg.com/media/HXlH8h0acAA9yzS.jpg"
+    ],
+    "video": null
   }
 ]
