@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795008748989-fbn3rh",
-    "source": "x",
-    "ts": "2026-11-18T13:32:28.989Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T13:30:01.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "CISA Urges Immediate Patching Of Java Flaw \"Java4Shell\" Found With AI.\n\nStartup Calif said it \"used AI to find and weaponize\" the bug, taking \"an hour to discover the vulnerability,\" two more hours to build a working exploit, and \"less than $200\" in tokens.",
-    "url": "https://x.com/DecryptMedia/status/2123046066907984344"
-  },
-  {
-    "id": "x-1795008752625-xyblrh",
-    "source": "x",
-    "ts": "2026-11-18T13:32:32.625Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T13:30:00.000Z",
-    "reason": "Notable AI integration in financial trading simulation.",
-    "text": "⚡️NEW: JPMorgan tests AI agents to take on FOREX.\n\nJPMorgan and S. Korea’s Hyundai Card run a simulated \"currency exchange\" that ran WITHOUT human intervention.\n\nHyundai Card’s AI agent requested the exchange to keep enough euros in its account on Kinexys, JPMorgan’s blockchain",
-    "url": "https://x.com/coinbureau/status/2123046064626507798",
-    "images": [
-      "https://pbs.twimg.com/media/HXaK2Bpa0AA5__B.jpg",
-      "https://pbs.twimg.com/media/HXaLKgEaIAAKECy.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795008755875-v522by",
     "source": "x",
     "ts": "2026-11-18T13:32:35.875Z",
@@ -7641,6 +7609,37 @@
     "text": "#CertiKInsight 🚨\n\nThe XMR1 deployer on Hyperliquid transferred 5.2M XMR1 to new address\n which sold them for  $13.3M. \n\nProceeds were bridged to Ethereum.\n\n\nCertiK Report Security Dashboard 👇\n\n\nStay Vigilant!",
     "url": "https://x.com/CertiKAlert/status/2123670663416459435",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795158170979-krn8cw",
+    "source": "x",
+    "ts": "2026-11-20T07:02:50.979Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-20T07:01:00.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street\n\nAnthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
+    "url": "https://x.com/DecryptMedia/status/2123672943360348607"
+  },
+  {
+    "id": "x-1795158177731-lvc3ia",
+    "source": "x",
+    "ts": "2026-11-20T07:02:57.731Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-20T06:55:00.000Z",
+    "reason": "Stellar DeFi launch with USDe and sUSDe tokens on Ethena.",
+    "text": "Ethena Opens a New Chapter For Stellar DeFi\n\nEthena (@ethena) $ENA has officially launched on the Stellar network (@StellarOrg) stellar:native.\n\n$USDe and $sUSDe are now available across its ecosystem. Users can also bridge USDe, sUSDe and ENA through Stargate Finance",
+    "url": "https://x.com/BSCNews/status/2123671433251262877",
+    "images": [
+      "https://pbs.twimg.com/media/HXihVQUbsAAsiTr.png"
+    ],
     "video": null
   }
 ]
