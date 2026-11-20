@@ -3080,5 +3080,19 @@
     "fetchedAt": "2026-11-20T12:32:52.529Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-39c512899a39dd96",
+    "title": "How to use GLM-5.3: Choosing low, high, or max reasoning",
+    "url": "https://chutes.ai/news/how-to-use-glm-5-3-choosing-low-high-or-max-reasoning",
+    "description": "When we tested how to use GLM-5.3 for coding on Chutes, a key/value parser gave us a reason to switch from low to high. The low-effort answer ran successfully but failed three checks involving empty input and escaped delimiters. We sent the same prompt at high with the same output cap. That answer passed all twelve checks. Z.ai documents max as the default and recommends it for complex tasks such ",
+    "publishedAt": "2026-11-20T13:58:28.000Z",
+    "source": "Chutes",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-11-20T14:02:28.297Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
