@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1793813617026-l6fcpd",
-    "x-1793814729544-ahkj6z",
     "x-1793815337012-zsxc5y",
     "x-1793815914008-6hu2s1",
     "x-1793815917604-4liz6w",
@@ -1999,18 +1997,11 @@
     "x-1795186989436-01xu6e",
     "x-1795186993281-4yqs74",
     "x-1795187554382-9lcjik",
-    "x-1795188158046-8gfbqn"
+    "x-1795188158046-8gfbqn",
+    "x-1795189294853-lpo0ns",
+    "x-1795189302130-nbf6ih"
   ],
   "queue": [
-    {
-      "text": "🚨 JUST IN: Nvidia $NVDA falls to fourth among the world’s most valuable companies by market cap after Alphabet $GOOGL overtakes it.",
-      "url": "https://x.com/Cointelegraph/status/2123793622432723375",
-      "images": [
-        "https://pbs.twimg.com/media/HXk7CwyXQAA442k.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795186993944
-    },
     {
       "text": "JUST IN: 🇺🇸 Institutions bought a net $4.11 billion worth of spot Bitcoin funds in Q3 🚀",
       "url": "https://x.com/BitcoinMagazine/status/2123798964977947026",
@@ -2022,6 +2013,15 @@
         "thumb": "https://pbs.twimg.com/media/HXk_8C6XEAATgPK.jpg"
       },
       "enqueuedAt": 1795188166137
+    },
+    {
+      "text": "🚨 ALERT: Over $1.09 billion liquidated from the crypto market in the past 24 hours, with 219,096 traders wiped out, according to CoinGlass.",
+      "url": "https://x.com/Cointelegraph/status/2123801193881260190",
+      "images": [
+        "https://pbs.twimg.com/media/HXlB7L5XsAA3uY8.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795189308366
     }
   ],
   "posted": [
@@ -2634,7 +2634,16 @@
       "at": 1795186993944,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/390331615386121?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 JUST IN: Nvidia $NVDA falls to fourth among the world’s most valuable companies by market cap after Alphabet $GOOGL overtakes it.",
+      "final": "🚨 JUST IN: Nvidia $NVDA falls to fourth among the world’s most valuable companies by market cap after Alphabet $GOOGL overtakes it.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HXk7CwyXQAA442k.jpg"
+      ],
+      "at": 1795189308366,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795186993944
+  "lastPostAt": 1795189308366
 }
