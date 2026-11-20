@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795014710482-p6j6tq",
-    "source": "x",
-    "ts": "2026-11-18T15:11:50.482Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-18T15:08:00.000Z",
-    "reason": "Notable institution (BlackRock) allocating to exchange prime wallet.",
-    "text": "BlackRock Just Shifted $315 Million in Bitcoin and Ether to Coinbase Prime\n\nBlackRock (@BlackRock) moved around $315M worth of $BTC and $ETH to institutional broker Coinbase Prime.\n\nLarge moves from issuer custody accounts to exchange prime wallets usually indicate regular ETF",
-    "url": "https://x.com/BSCNews/status/2123070725271519597",
-    "images": [
-      "https://pbs.twimg.com/media/HXah4UqW0AERxeH.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795015309161-1flunz",
-    "source": "x",
-    "ts": "2026-11-18T15:21:49.161Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-18T15:15:05.000Z",
-    "reason": "Noteworthy regulatory and institutional adoption in Russia's banking sector.",
-    "text": "JUST IN: 🇷🇺 Russia's largest private bank Alfa Bank was accepted as a registered crypto exchange by Russia's Central Bank. \n\nThey plan to launch their own crypto custody service 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2123072506667934187",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2123072472245260288/vid/avc1/1280x720/UK2L757bb3CwZX7K.mp4?tag=29",
-      "duration": 20,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HXarQbrW8AA2lEe.jpg"
-    }
-  },
-  {
     "id": "x-1795015312509-9vsxxo",
     "source": "x",
     "ts": "2026-11-18T15:21:52.509Z",
@@ -7665,5 +7626,34 @@
       "https://pbs.twimg.com/media/HXj1mxhawAEWIvs.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795169541858-iiw9mi",
+    "source": "x",
+    "ts": "2026-11-20T10:12:21.858Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-20T10:09:00.000Z",
+    "reason": "Regulatory move affecting financial products.",
+    "text": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+    "url": "https://x.com/DecryptMedia/status/2123720256141066481",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795169544951-cvpmkr",
+    "source": "x",
+    "ts": "2026-11-20T10:12:24.951Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-20T10:01:50.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Space and Time Creator Campaign is live on Binance Square CreatorPad. \n\nEligible creators who share $SXT trades and complete tasks unlock a share of 50,000 USDC from @spaceandtime.\n\nLearn more →",
+    "url": "https://x.com/binance/status/2123718453102064094"
   }
 ]
