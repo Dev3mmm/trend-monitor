@@ -2003,18 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🔥 TODAY: Hashi mainnet launched on Sui and allows Bitcoin holders to use their BTC as collateral to borrow stablecoins.",
-      "url": "https://x.com/Cointelegraph/status/2123604747273830614",
-      "images": [],
-      "video": {
-        "url": "https://video.twimg.com/amplify_video/2123419327424532480/vid/avc1/720x720/kenpz-MB_u5hetL7.mp4?tag=29",
-        "duration": 33,
-        "gif": false,
-        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123419327424532480/img/ZWmKCJuPx2RdWvLU.jpg"
-      },
-      "enqueuedAt": 1795141959694
-    },
-    {
       "text": "Share 600,000 XRP by holding RLUSD in eligible Binance accounts. \n\nEligible incremental holdings may qualify for up to a 1.3× reward multiplier. APRs are updated weekly.\n\nMore here →",
       "url": "https://x.com/binance/status/2123612309243523187",
       "images": [
@@ -2672,7 +2660,14 @@
       "at": 1795145537904,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/390161807331937?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 TODAY: Hashi mainnet launched on Sui and allows Bitcoin holders to use their BTC as collateral to borrow stablecoins.",
+      "final": "🔥 TODAY: Hashi mainnet launched on Sui and allows Bitcoin holders to use their BTC as collateral to borrow stablecoins.\n\n#Bitcoin $BTC #Sui $SUI #Stablecoin",
+      "images": [],
+      "at": 1795147328564,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795145537904
+  "lastPostAt": 1795147328564
 }
