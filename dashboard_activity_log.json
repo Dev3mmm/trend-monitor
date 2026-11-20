@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795037537157-t1kh0y",
-    "source": "x",
-    "ts": "2026-11-18T21:32:17.157Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T21:30:00.000Z",
-    "reason": "No notable move in the crypto market.",
-    "text": "Microsoft Plans To Use Intel Foundry's EMIB Packaging For Azure First-Party Silicon.\n\nThe long-term agreement \"confirms multi-year Intel Xeon supply capacity,\" including \"instances of next generation server CPUs, codenamed Diamond Rapids,\" the companies said.",
-    "url": "https://x.com/DecryptMedia/status/2123166860736958677"
-  },
-  {
-    "id": "x-1795037540270-mhi0jy",
-    "source": "x",
-    "ts": "2026-11-18T21:32:20.270Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-18T21:20:17.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "News update: Trump, Xi and Putin are heading into a rare trilateral showdown 🌍\n\nUkraine, the Iran war, trade, AI and nuclear weapons are all reportedly on the table in Shenzhen. We break down what could come out of it and why Trump's visit is a first.\n\nHere's the breakdown ⬇️",
-    "url": "https://x.com/BSCNews/status/2123165636084068823"
-  },
-  {
-    "id": "x-1795038747922-mk5zpp",
-    "source": "x",
-    "ts": "2026-11-18T21:52:27.922Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-18T21:50:35.000Z",
-    "reason": "Specific institutional event with a significant financial figure.",
-    "text": "🚨 JUST IN: Anthropic $ANT has priced its IPO at $83 per share, with its total offering expected to exceed $94 billion, making it the largest IPO in stock market history, per Bloomberg.",
-    "url": "https://x.com/Cointelegraph/status/2123172040509104571",
-    "images": [
-      "https://pbs.twimg.com/media/HXcFt1FWYAACCgn.jpg",
-      "https://pbs.twimg.com/media/HXcFuATXQAA5-aV.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795038749964-ywm7mt",
     "source": "x",
     "ts": "2026-11-18T21:52:29.964Z",
@@ -7647,5 +7602,54 @@
     "reason": "No notable crypto-related content.",
     "text": "🇺🇸 BIG: Trump says he met with 20 world leaders in four days, secured two new trade deals, and expects 10 more to be announced soon.",
     "url": "https://x.com/Cointelegraph/status/2123833884563362246"
+  },
+  {
+    "id": "x-1795197210202-lhxkq2",
+    "source": "x",
+    "ts": "2026-11-20T17:53:30.202Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 25,
+    "originTimestamp": "2026-11-20T17:27:52.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Try the Claudia Grok Bot!",
+    "url": "https://x.com/elonmusk/status/2123836622827663572"
+  },
+  {
+    "id": "x-1795197216107-nxived",
+    "source": "x",
+    "ts": "2026-11-20T17:53:36.107Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-20T17:45:24.000Z",
+    "reason": "Notable on-chain data point with a significant price movement related to mining difficulty.",
+    "text": "Luxor: West Texas Power Prices Drove Bitcoin Mining Difficulty Down 9.13%\n\nBitcoin mining difficulty fell 9.13% on November 14, its largest decline since June. According to Luxor’s Hashrate Index, the drop was driven primarily by surging electricity prices in West Texas rather",
+    "url": "https://x.com/WuBlockchain/status/2123835114476142945",
+    "images": [
+      "https://pbs.twimg.com/media/HXlgxjMbQAAOL55.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795197222646-yy3tkf",
+    "source": "x",
+    "ts": "2026-11-20T17:53:42.646Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-20T17:44:00.000Z",
+    "reason": "Price movements well outside recent ranges indicate significant change.",
+    "text": "Bitcoin falls below $60,000, and Ethereum drops 8%\n\n$BTC trades near $59,351, down 5.7% in 24 hours and at its lowest since early July. $ETH fell about 8% to $1,633. The total crypto market cap slid to $2.12 trillion.\n\nAmong the hardest hit in the top 100, $ZEC lost about 18%,",
+    "url": "https://x.com/BSCNews/status/2123834760011124939",
+    "images": [
+      "https://pbs.twimg.com/media/HXlc9w2WYAE_yWt.jpg"
+    ],
+    "video": null
   }
 ]
