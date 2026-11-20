@@ -3038,5 +3038,19 @@
     "fetchedAt": "2026-11-20T08:12:02.732Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-46974bbe11a018b2",
+    "title": "From source code to script hash: Verifying a Cardano escrow contract with UPLC Link",
+    "url": "https://forum.cardano.org/t/from-source-code-to-script-hash-verifying-a-cardano-escrow-contract-with-uplc-link/158460",
+    "description": "1. Why verification matters Publishing a smart contract’s source code is a good start, but it does not prove that this code produced the script running on-chain, since a compilation step sits in between. Without a way to reproduce that step, users and auditors have to take the developer’s word for it. This is especially relevant for contracts that hold funds, like the escrow used by Wenze , a mark",
+    "publishedAt": "2026-11-20T08:07:06.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-20T08:32:43.581Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
