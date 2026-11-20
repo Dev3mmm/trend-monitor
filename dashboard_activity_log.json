@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795019686479-7s09mv",
-    "source": "x",
-    "ts": "2026-11-18T16:34:46.479Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-18T16:30:47.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "🇺🇸 JUST IN: Costco is seeing a surge in emergency supply purchases amid recent tech outages, with U.S. comparable sales estimated to have jumped 11%–12% in the final week of October.",
-    "url": "https://x.com/Cointelegraph/status/2123091558731817320"
-  },
-  {
-    "id": "x-1795019690627-z7ve76",
-    "source": "x",
-    "ts": "2026-11-18T16:34:50.627Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-18T16:30:00.000Z",
-    "reason": "Exploit involving a stablecoin with significant funds stolen.",
-    "text": "K3 Capital Investigating \"Malicious Activity Involving sBOLD,\" Says \"Contracts Have Been Paused.\"\n\nBlockaid said it detected an ongoing exploit on K3 Capital's sBOLD vault on Ethereum, with about $3.43 million drained \"so far across ~34 txs\" as of 7:50 AM EST (12:50 UTC).",
-    "url": "https://x.com/DecryptMedia/status/2123091361260044430",
-    "images": [
-      "https://pbs.twimg.com/media/HXa0lQCWkAAf_2Y.png",
-      "https://pbs.twimg.com/media/HXa08-iWQAAkmel.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795020731398-oetu1w",
     "source": "x",
     "ts": "2026-11-18T16:52:11.398Z",
@@ -7651,6 +7619,35 @@
     "images": [
       "https://pbs.twimg.com/media/HXkAqcuWoAAMcwZ.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795178576836-tlbh2l",
+    "source": "x",
+    "ts": "2026-11-20T12:42:56.836Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 42,
+    "originTimestamp": "2026-11-20T12:00:25.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "If you're an $MSTR investor, grab a coffee and get comfortable.\n\nNatalie Brunell's Q&amp;A with Michael Saylor and Phong Le yesterday was one of the most revealing discussions I have seen.\n\nAnd actually it couldn't have come at a better time considering the recent market dynamics.",
+    "url": "https://x.com/saylor/status/2123758404082479527"
+  },
+  {
+    "id": "x-1795178581193-k40vou",
+    "source": "x",
+    "ts": "2026-11-20T12:43:01.193Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-20T12:34:00.000Z",
+    "reason": "New use of a token with a hackathon and incentive allocation.",
+    "text": "Pi Network (@PiCoreTeam) opened its $200,000 USDT Hackathon yesterday, and some protocols have already started submitting applications. \n\nRead how the prize pool is split and how $PI incentives are allocated to support app growth.",
+    "url": "https://x.com/BSCNews/status/2123756745705115780",
+    "images": [],
     "video": null
   }
 ]
