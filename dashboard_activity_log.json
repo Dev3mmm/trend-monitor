@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1795004507559-x5nj6z",
-    "source": "x",
-    "ts": "2026-11-18T12:21:47.559Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "PeckShieldAlert",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-18T12:16:42.000Z",
-    "reason": "Exploit involving stolen ETH and re-distribution detected",
-    "text": "#PeckShieldAlert The address labeled #Binance Hot Wallet Exploiter 11, which received 75,475 $ETH ($135.6M), has distributed 6 batches of ~12K $ETH to 6 new addresses and 6,415.24 ETH to 0xDbA9FE...6FE0.",
-    "url": "https://x.com/PeckShieldAlert/status/2123027618358600058",
-    "images": [
-      "https://pbs.twimg.com/media/HXaCWngacAAmSPq.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795004510123-volbhj",
     "source": "x",
     "ts": "2026-11-18T12:21:50.123Z",
@@ -7655,5 +7637,23 @@
     "reason": "No notable crypto-related news in the tweet.",
     "text": "🔥 Anthropic’s IPO was a success. But, failed to lift the AI trade.\n\nWall Street saw Anthropic’s IPO as a test of confidence in AI spending. Investors paid a premium for Anthropic shares.\n\nThe deal passed. The chip stocks PLUMMET.\n\nAnthropic ($ANT) raised a record $81.3 billion",
     "url": "https://x.com/coinbureau/status/2123626530802954607"
+  },
+  {
+    "id": "x-1795148094037-gnvg0t",
+    "source": "x",
+    "ts": "2026-11-20T04:14:54.037Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-20T04:11:00.000Z",
+    "reason": "Notable regulatory setback for US crypto industry.",
+    "text": "The CLARITY Act Could be Dead Until 2027\n\nThe US crypto industry's biggest regulatory push is running out of time.\n\nHouse Financial Services Chairman French Hill says the CLARITY Act is unlikely to pass this year. Senate sponsor Bernie Moreno also says there is no realistic path",
+    "url": "https://x.com/BSCNews/status/2123630161186656533",
+    "images": [
+      "https://pbs.twimg.com/media/HXiLZskasAA4q5N.png"
+    ],
+    "video": null
   }
 ]
