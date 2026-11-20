@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795052567998-pzxhqt",
-    "source": "x",
-    "ts": "2026-11-19T01:42:47.998Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-19T01:26:22.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "People do not yet understand:\n\n1) Starship is one of the most important technologies in the history of mankind\n\n2) @SpaceX’s ship catch last weekend all but guarantees the concept works\n\n3) almost all inference compute will be in space (launched by Starship)",
-    "url": "https://x.com/elonmusk/status/2123229086487400502"
-  },
-  {
     "id": "x-1795053125286-6s8uy3",
     "source": "x",
     "ts": "2026-11-19T01:52:05.286Z",
@@ -7652,6 +7639,24 @@
     "text": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
     "url": "https://x.com/DecryptMedia/status/2123878610968699127",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795207962974-zb4muf",
+    "source": "x",
+    "ts": "2026-11-20T20:52:42.974Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T20:50:00.000Z",
+    "reason": "Notable regulatory body recommending changes to MiCA rules on crypto.",
+    "text": "France’s finance advisory body asks the EU to tighten MiCA rules on crypto ads and staking\n\nThe CCSF, a committee hosted by the Banque de France, published six recommendations this week for a possible MiCA revision. They are non-binding advice to the European Commission.\n\nIt",
+    "url": "https://x.com/BSCNews/status/2123881567936200915",
+    "images": [
+      "https://pbs.twimg.com/media/HXlygrYWgAAxKvw.jpg"
+    ],
     "video": null
   }
 ]
