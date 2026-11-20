@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1795008755875-v522by",
-    "source": "x",
-    "ts": "2026-11-18T13:32:35.875Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-18T13:26:47.000Z",
-    "reason": "Exploit involving millions of dollars on Ethereum.",
-    "text": "🚨 ALERT: K3 Capital's sBOLD vault on Ethereum suffers a $3.43M exploit across 34 transactions, per Blockaid. \n\nK3 Capital says contracts have been paused for investigation.",
-    "url": "https://x.com/Cointelegraph/status/2123045253011673558",
-    "images": [
-      "https://pbs.twimg.com/media/HXaSZxFWAAA_Mxt.png",
-      "https://pbs.twimg.com/media/HXaSZ9gXwAASn2u.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795009321074-fcbzvo",
     "source": "x",
     "ts": "2026-11-18T13:42:01.074Z",
@@ -7641,5 +7622,26 @@
       "https://pbs.twimg.com/media/HXihVQUbsAAsiTr.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795158757061-vjyi1q",
+    "source": "x",
+    "ts": "2026-11-20T07:12:37.061Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-20T07:03:20.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥 INSIGHT: Who wins the most from stablecoin adoption? According to @ADI_Foundation CEO @andreylazorenko, it's hard to pick just one.\n\nHe told @itsciaranlyons that the whole global economy benefits, along with end users who get cheaper, faster and more secure financial products.",
+    "url": "https://x.com/Cointelegraph/status/2123673530449420787",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123673390816845824/vid/avc1/1280x720/LmdimvAIhYz0kW6M.mp4?tag=16",
+      "duration": 168,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123673390816845824/img/8QvDv1JfpyXPRxh9.jpg"
+    }
   }
 ]
