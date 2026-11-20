@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795052560049-zm0osq",
-    "source": "x",
-    "ts": "2026-11-19T01:42:40.049Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-19T01:40:23.000Z",
-    "reason": "Specific government action on crypto regulation and security.",
-    "text": "🇺🇸 BIG: The Trump administration launches a new Threat Disruption Center to fight crypto fraud and other cybercrimes that target Americans.",
-    "url": "https://x.com/Cointelegraph/status/2123229871816008085",
-    "images": [
-      "https://pbs.twimg.com/media/HXc6TvBWEAAAYsf.jpg",
-      "https://pbs.twimg.com/media/HXc6T6EXYAAityM.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795052563373-43fq9u",
-    "source": "x",
-    "ts": "2026-11-19T01:42:43.373Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 48,
-    "originTimestamp": "2026-11-19T00:54:26.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Looking for hardcore engineers to join Terafab!",
-    "url": "https://x.com/elonmusk/status/2123229344936173890"
-  },
-  {
     "id": "x-1795052567998-pzxhqt",
     "source": "x",
     "ts": "2026-11-19T01:42:47.998Z",
@@ -7649,6 +7617,40 @@
     "reason": "The tweet refers to a breaking news event.",
     "text": "BREAKING: $NVDA extends 24 hour losses to 12% on the news of an SEC investigation",
     "url": "https://x.com/BSCNews/status/2123874940869111834",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795207367872-hz1jtz",
+    "source": "x",
+    "ts": "2026-11-20T20:42:47.872Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T20:40:31.000Z",
+    "reason": "Specific use case for tokenized assets on blockchain.",
+    "text": "⚡️️️️️️️ JUST IN: Securitize has processed its first onchain dividend for tokenized Apple stock, paying shareholders directly in USDC to their wallets.",
+    "url": "https://x.com/Cointelegraph/status/2123879182954348590",
+    "images": [
+      "https://pbs.twimg.com/media/HXmI3E0WgAAzXs4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795207372643-lmbwuy",
+    "source": "x",
+    "ts": "2026-11-20T20:42:52.643Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-20T20:38:15.000Z",
+    "reason": "SEC probe into Nvidia accounting could impact investor confidence and stock price.",
+    "text": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+    "url": "https://x.com/DecryptMedia/status/2123878610968699127",
     "images": [],
     "video": null
   }
