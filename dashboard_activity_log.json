@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795051945512-usgqkx",
-    "source": "x",
-    "ts": "2026-11-19T01:32:25.512Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-19T01:27:32.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 TRUMP: “When we have brilliant people like Jensen…we have to take care of our geniuses. There aren’t that many of them.”",
-    "url": "https://x.com/Cointelegraph/status/2123226636837703869"
-  },
-  {
-    "id": "x-1795051948928-lad4gx",
-    "source": "x",
-    "ts": "2026-11-19T01:32:28.928Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-19T01:26:13.000Z",
-    "reason": "No notable crypto-related content or move described.",
-    "text": "BREAKING: Gold has now fallen nearly 30% from its record close, matching its crash in the 2008 financial crisis.\n\nIn 2008, gold fell 29.7%, then rose 168% after the Fed began buying bonds.\n\nThis time, the Fed is moving the other way.\n\nIt raised rates in September, 2 officials",
-    "url": "https://x.com/coinbureau/status/2123226304740991475"
-  },
-  {
-    "id": "x-1795051952951-c7p3xt",
-    "source": "x",
-    "ts": "2026-11-19T01:32:32.951Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-19T01:25:00.000Z",
-    "reason": "Kraken's support for Telcoin is a notable partnership and institutional adoption.",
-    "text": "Kraken to support $TEL token migration.\n\nLeading CEX @krakenfx will support @telcoin's migration of its native token to the new contract address on @0xPolygon, from December 1-4.\n\nNo action is required from @TelcoinTAO's holder base. However, legacy TEL deposits and withdrawals",
-    "url": "https://x.com/BSCNews/status/2123225998238138837",
-    "images": [
-      "https://pbs.twimg.com/media/HXZ2ffrWgAACIzf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795052560049-zm0osq",
     "source": "x",
     "ts": "2026-11-19T01:42:40.049Z",
@@ -7640,5 +7596,60 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "InterLink lays out what ITLG is for and how sponsors can earn it\n\n@inter_link is designing transferable $ITLG to use across its apps and services for voting on proposals and staking. Uses in payments, robotics, and AI are still being explored.\n\nUsers who pass InterLink KYC Level",
     "url": "https://x.com/BSCNews/status/2123873766371737950"
+  },
+  {
+    "id": "x-1795207020712-fxkpcz",
+    "source": "x",
+    "ts": "2026-11-20T20:37:00.712Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-20T20:33:23.000Z",
+    "reason": "Notable statement on the potential growth of a major crypto company.",
+    "text": "JUST IN: Michael Saylor says growing Strategy's digital credit into a $100 billion product \"would be enough for the company to be a trillion dollar company\" 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2123877386538344781",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2123876932018114560/vid/avc1/1280x720/lRCdKhsvR1qeNALq.mp4?tag=29",
+      "duration": 19,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123876932018114560/img/fyzVtJ9T74FpUAXa.jpg"
+    }
+  },
+  {
+    "id": "x-1795207026167-00x6uu",
+    "source": "x",
+    "ts": "2026-11-20T20:37:06.167Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-20T20:30:35.000Z",
+    "reason": "Exploit involving Wrapped Monero token causing significant price drop",
+    "text": "🚨 ALERT: Wrapped Monero token XMR1 crashed 99.8% on Hyperliquid, plunging from $500 to $1 in 30 minutes amid a suspected $13.5 million exploit, per Bitquery.",
+    "url": "https://x.com/Cointelegraph/status/2123876681572110813",
+    "images": [
+      "https://pbs.twimg.com/media/HXmGlQTW8AAZnSR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795207030970-cr5268",
+    "source": "x",
+    "ts": "2026-11-20T20:37:10.970Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-20T20:23:40.000Z",
+    "reason": "The tweet refers to a breaking news event.",
+    "text": "BREAKING: $NVDA extends 24 hour losses to 12% on the news of an SEC investigation",
+    "url": "https://x.com/BSCNews/status/2123874940869111834",
+    "images": [],
+    "video": null
   }
 ]
