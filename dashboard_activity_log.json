@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795023717086-q8734w",
-    "source": "x",
-    "ts": "2026-11-18T17:41:57.086Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-18T17:33:30.000Z",
-    "reason": "No notable move, it's a meme and prediction without factual claim.",
-    "text": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
-    "url": "https://x.com/DecryptMedia/status/2123107341125947780"
-  },
-  {
-    "id": "x-1795024329406-s3ab8c",
-    "source": "x",
-    "ts": "2026-11-18T17:52:09.406Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-18T17:50:34.000Z",
-    "reason": "No notable move or specific event.",
-    "text": "Bitcoin covenants without a soft fork?\n\nFE covenants would build Bitcoin's spending rules into the signing key itself, so nodes verify the signatures as they do today, with no protocol change.\n\nCointelegraph Research explains how, in Part 6 of its covenants series 👇",
-    "url": "https://x.com/Cointelegraph/status/2123111635501933032"
-  },
-  {
     "id": "x-1795024334190-vc69ca",
     "source": "x",
     "ts": "2026-11-18T17:52:14.190Z",
@@ -7653,5 +7627,37 @@
     "url": "https://x.com/Cointelegraph/status/2123777259366469871",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795183931055-6vts7j",
+    "source": "x",
+    "ts": "2026-11-20T14:12:11.055Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-20T14:10:24.000Z",
+    "reason": "Tether burned a significant amount of its reserve currency, potentially impacting market confidence.",
+    "text": "🚨 LATEST: Tether has burned 8,000,000,000 $USDT in 20 days.",
+    "url": "https://x.com/Cointelegraph/status/2123781008159846624",
+    "images": [
+      "https://pbs.twimg.com/media/HXkvkUvWQAA6Y-c.png",
+      "https://pbs.twimg.com/media/HXkvkgoXwAAedzI.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795183933788-dy8ze5",
+    "source": "x",
+    "ts": "2026-11-20T14:12:13.788Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-20T14:02:36.000Z",
+    "reason": "Generic hype with no real content.",
+    "text": "Pay To Earn Rewards this Black Friday!\n\nSpend, deposit fiat, or buy crypto to share in up to $140,000 worth of rewards with Binance Pay.\n\nJoin now →",
+    "url": "https://x.com/binance/status/2123779045275869601"
   }
 ]
