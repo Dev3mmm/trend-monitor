@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795050400941-bedmqb",
-    "source": "x",
-    "ts": "2026-11-19T01:06:40.941Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 76,
-    "originTimestamp": "2026-11-18T23:50:19.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "Yes",
-    "url": "https://x.com/elonmusk/status/2123220589657944265"
-  },
-  {
-    "id": "x-1795050405038-ji5sqb",
-    "source": "x",
-    "ts": "2026-11-19T01:06:45.038Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-19T01:00:29.000Z",
-    "reason": "Notable regulatory move affecting state stablecoin issuers.",
-    "text": "🇺🇸 NEW: Sen. Cynthia Lummis and a group of senators urge the Treasury to extend its proposed GENIUS Act safe harbor to state stablecoin issuers. \n\nThey say state issuers should get the same protection as federal applicants.",
-    "url": "https://x.com/Cointelegraph/status/2123219831092617329",
-    "images": [
-      "https://pbs.twimg.com/media/HXcxLejWcAA6a_2.jpg",
-      "https://pbs.twimg.com/media/HXcxLurWwAAiNac.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795051330442-3u2igu",
     "source": "x",
     "ts": "2026-11-19T01:22:10.442Z",
@@ -7646,5 +7614,37 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Strategy's Chaitanya Jain on how he reads a falling Bitcoin price:\n\n\"That volatility is actually a gift to the long-term faithful investors.\"\n\n\"I realized I understood Bitcoin really well when I started getting excited when Bitcoin's price fell and today I'm extremely excited.\"",
     "url": "https://x.com/BitcoinMagazine/status/2123864469420003565"
+  },
+  {
+    "id": "x-1795204955971-gqj0fd",
+    "source": "x",
+    "ts": "2026-11-20T20:02:35.971Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-20T20:00:02.000Z",
+    "reason": "No notable crypto-related news or move mentioned.",
+    "text": "Fed's Lisa Cook \"Skeptical\" September's Single Rate Hike \"Will Be Enough To Change The Path Of Inflation.\"\n\nThe Fed governor, who dissented in October in favor of another quarter-point hike, said in Chile that, in her view, \"financial conditions are too accommodative.\"",
+    "url": "https://x.com/DecryptMedia/status/2123868994885341652"
+  },
+  {
+    "id": "x-1795204960915-u24es4",
+    "source": "x",
+    "ts": "2026-11-20T20:02:40.915Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-20T19:59:32.000Z",
+    "reason": "Notable criminal activity involving stolen cryptocurrency",
+    "text": "🇰🇵 JUST IN: North Korea-linked hackers have laundered at least $149 million in Bitcoin stolen from Binance through coinjoin transactions, with 90% of the activity occurring since Tuesday, according to Elliptic.",
+    "url": "https://x.com/Cointelegraph/status/2123868867453678042",
+    "images": [
+      "https://pbs.twimg.com/media/HXl_eeNWgAAmR1b.jpg",
+      "https://pbs.twimg.com/media/HXl_eq-XQAA4LT4.jpg"
+    ],
+    "video": null
   }
 ]
