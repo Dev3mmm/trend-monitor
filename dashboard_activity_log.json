@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795053125286-6s8uy3",
-    "source": "x",
-    "ts": "2026-11-19T01:52:05.286Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-19T01:38:55.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Elon Musk says Neuralink’s next product, Blindsight, will enable people who are completely blind to see:\n\n“Our next product is what we call Blindsight.”\n\n“Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to",
-    "url": "https://x.com/elonmusk/status/2123232559547183243"
-  },
-  {
-    "id": "x-1795053753004-zb7i05",
-    "source": "x",
-    "ts": "2026-11-19T02:02:33.004Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-19T02:00:29.000Z",
-    "reason": "Kalshi teams up with a notable company to launch new derivatives on AI computing power.",
-    "text": "🚨 LATEST: Kalshi teams up with Compute Desk to launch futures tied to the cost of AI computing power, Bloomberg reports.",
-    "url": "https://x.com/Cointelegraph/status/2123234928066252809",
-    "images": [
-      "https://pbs.twimg.com/media/HXc-6VjWYAAN1vX.jpg",
-      "https://pbs.twimg.com/media/HXc-6jgWMAENvPy.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795053758793-dfzk01",
     "source": "x",
     "ts": "2026-11-19T02:02:38.793Z",
@@ -7657,6 +7625,35 @@
     "images": [
       "https://pbs.twimg.com/media/HXlygrYWgAAxKvw.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795208730242-xhn1kp",
+    "source": "x",
+    "ts": "2026-11-20T21:05:30.242Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-20T21:03:56.000Z",
+    "reason": "No notable crypto-related news present.",
+    "text": "截止到美股闭盘 VIX（美股的恐慌指数）上涨了将近 39%，目前是 2025年4月11日 以后的最高点，周一是反弹还是继续下跌？",
+    "url": "https://x.com/PhyrexNi/status/2123885075775525011"
+  },
+  {
+    "id": "x-1795208733759-3fn5ch",
+    "source": "x",
+    "ts": "2026-11-20T21:05:33.759Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-20T21:00:31.000Z",
+    "reason": "Notable stablecoin event with regulatory and financial implications.",
+    "text": "🚨 LATEST: Sky Protocol saw over $2 billion in stablecoin withdrawals following a report linking $518 million in transactions to illicit activity, while its USDS stablecoin maintained its $1 peg.",
+    "url": "https://x.com/Cointelegraph/status/2123884216303669296",
+    "images": [],
     "video": null
   }
 ]
