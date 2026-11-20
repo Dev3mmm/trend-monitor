@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795054652588-vur2gz",
-    "source": "x",
-    "ts": "2026-11-19T02:17:32.588Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-19T02:09:59.000Z",
-    "reason": "No notable move in the given context.",
-    "text": "If you’re buying a bitcoin’s worth, you might want to bring a bag.",
-    "url": "https://x.com/coinbase/status/2123237321306939747"
-  },
-  {
-    "id": "x-1795055600422-mnv59e",
-    "source": "x",
-    "ts": "2026-11-19T02:33:20.422Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-19T02:31:00.000Z",
-    "reason": "Stellar's share of tokenized non-US Govt debt surpasses major networks.",
-    "text": "Stellar now hosts 42% of all tokenised non-US Govt debt.\n\nAs reported by @AlliumLabs, @StellarOrg now hosts a staggering $319M of the $766M worth of tokenised non-US Govt debt.\n\nThis outranks major networks like @arbitrum and @0xPolygon.\n\nStellar's share is worth 42% of the",
-    "url": "https://x.com/BSCNews/status/2123242607732216137",
-    "images": [
-      "https://pbs.twimg.com/media/HXZ2o-5X0AAb4Z_.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795055604233-k0ve8c",
     "source": "x",
     "ts": "2026-11-19T02:33:24.233Z",
@@ -7660,6 +7629,35 @@
     "images": [
       "https://pbs.twimg.com/media/HXl5w-dWgAAK1d9.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795210969615-xwh0dr",
+    "source": "x",
+    "ts": "2026-11-20T21:42:49.615Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-20T21:37:15.000Z",
+    "reason": "No notable move or concrete news event described.",
+    "text": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+    "url": "https://x.com/DecryptMedia/status/2123893458666426827"
+  },
+  {
+    "id": "x-1795210972987-taug8c",
+    "source": "x",
+    "ts": "2026-11-20T21:42:52.987Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-20T21:37:00.000Z",
+    "reason": "Specific question about the impact on XRP holders from a notable move to a different network.",
+    "text": "What does @doppler_fi’s December move to @FlareNetworks mean for $XRP holders? ⬇️",
+    "url": "https://x.com/BSCNews/status/2123893395546329534",
+    "images": [],
     "video": null
   }
 ]
