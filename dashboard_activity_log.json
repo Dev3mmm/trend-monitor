@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795085140832-1908bj",
-    "source": "x",
-    "ts": "2026-11-19T10:45:40.832Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-19T10:34:46.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "Elon Musk Breaks With MAGA After Pouring Millions Into Republicans\n\nElon Musk (@elonmusk) says he does not blindly follow the Republican Party or MAGA movement.\n\nThe billionaire made the remarks during a New York Times DealBook Summit interview.\n\nPer reports, Musk spent $500",
-    "url": "https://x.com/BSCNews/status/2123364354578166014"
-  },
-  {
     "id": "x-1795085542973-8jqc5k",
     "source": "x",
     "ts": "2026-11-19T10:52:22.973Z",
@@ -7676,5 +7663,24 @@
     "reason": "No notable move in the crypto market is typically verified by such a broad, unquantified statement.",
     "text": "🚨 REKT: The total crypto market lost $200B in less than 24 hours.",
     "url": "https://x.com/Cointelegraph/status/2124094152069845170"
+  },
+  {
+    "id": "x-1795260774943-3pxs2j",
+    "source": "x",
+    "ts": "2026-11-21T11:32:54.943Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-21T11:30:34.000Z",
+    "reason": "Goldman Sachs' warning about potential future stock market volatility does not constitute a specific crypto-related news event.",
+    "text": "🚨 BIG: Goldman Sachs warns the US stock selloff could get worse next week, and its bitcoin-sensitive stock basket is already down 11%.",
+    "url": "https://x.com/Cointelegraph/status/2124103171911962965",
+    "images": [
+      "https://pbs.twimg.com/media/HXpUkAcWgAAXEER.jpg",
+      "https://pbs.twimg.com/media/HXpUkymWAAAdWBT.jpg"
+    ],
+    "video": null
   }
 ]
