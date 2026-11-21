@@ -2538,7 +2538,8 @@
         "https://pbs.twimg.com/media/HXp8V8DaMAAmg_V.jpg"
       ],
       "at": 1795279930932,
-      "status": "posting"
+      "status": "failed",
+      "error": "Uploading: sq_1795279930932_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Processing... (2/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261121/9ea9f0379d404b8bbb12c2311cec5c85.jpg\nPublishing...\n\n\nFailed: API error [10004]: Network error. Please try again"
     }
   ],
   "lastPostAt": 1795279930932
