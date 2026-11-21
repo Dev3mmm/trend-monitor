@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795078401899-x3sxqh",
-    "source": "x",
-    "ts": "2026-11-19T08:53:21.899Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-19T08:49:50.000Z",
-    "reason": "No notable move or specific event identified.",
-    "text": "Every time we think this story is over, a new name appears.\n\nThis time, it’s Jay Puri, Nvidia’s global sales chief for 17 years and Jensen Huang’s right-hand man.\n\nPuri was Nvidia’s No. 3 executive, behind Jensen Huang and now-interim CEO Colette Kress.\n\nHis team managed Nvidia’s",
-    "url": "https://x.com/coinbureau/status/2123337944274743629"
-  },
-  {
-    "id": "x-1795078405127-tacaxu",
-    "source": "x",
-    "ts": "2026-11-19T08:53:25.127Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-19T08:41:14.000Z",
-    "reason": "No real content or specific action described.",
-    "text": "Extend consciousness to the stars",
-    "url": "https://x.com/elonmusk/status/2123337655731826810"
-  },
-  {
-    "id": "x-1795078410784-5byat1",
-    "source": "x",
-    "ts": "2026-11-19T08:53:30.784Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-19T08:45:00.000Z",
-    "reason": "Binance plans significant expansion and claims resilience against theft.",
-    "text": "🔥BIG: Binance plans to enter five Asian markets in 2027 and says it can absorb the $6.3 billion heist without raising fresh funds, Reuters reports.\n\nBinance is focusing on South and Southeast Asia. Talks are already at an advanced stage in three markets.\n\nThe exchange expects to",
-    "url": "https://x.com/coinbureau/status/2123336727863370221",
-    "images": [
-      "https://pbs.twimg.com/media/HXeaunWaMAA1ir6.jpg",
-      "https://pbs.twimg.com/media/HXebEuqagAAIBDe.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795078993590-lwdda8",
     "source": "x",
     "ts": "2026-11-19T09:03:13.590Z",
@@ -7685,6 +7640,51 @@
     "images": [
       "https://pbs.twimg.com/media/HXkTvhaW4AA7ulK.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795246318047-5becg3",
+    "source": "x",
+    "ts": "2026-11-21T07:31:58.047Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-21T07:30:56.000Z",
+    "reason": "No notable crypto news or market movement mentioned.",
+    "text": "SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. \n\nAnd having a “system prompt” is silly! Default behavior should be sensible.\n\nThe above are already true for Tesla AI (not yet deserving of “super”). It is",
+    "url": "https://x.com/elonmusk/status/2124042864891982292"
+  },
+  {
+    "id": "x-1795246321808-31x967",
+    "source": "x",
+    "ts": "2026-11-21T07:32:01.809Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-21T07:30:15.000Z",
+    "reason": "This tweet does not contain a concrete and specific enough event to be considered breaking or noteworthy news.",
+    "text": "🇯🇵 BIG: Masayoshi Son reportedly went to Wall Street to explore financing a $1 trillion buyout of SK Hynix.\n\nSoftBank says he's not considering it anymore.",
+    "url": "https://x.com/Cointelegraph/status/2124042694179565674",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795246324681-73fl6b",
+    "source": "x",
+    "ts": "2026-11-21T07:32:04.681Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-21T07:30:00.000Z",
+    "reason": "Notable regulatory guidance affecting the crypto industry.",
+    "text": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default\n\nThe UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
+    "url": "https://x.com/DecryptMedia/status/2124042630233268273",
+    "images": [],
     "video": null
   }
 ]
