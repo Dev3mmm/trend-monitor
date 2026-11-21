@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1795067010280-8n24ai",
-    "source": "x",
-    "ts": "2026-11-19T05:43:30.280Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Elon Musk",
-    "ageMin": 90,
-    "originTimestamp": "2026-11-19T04:12:49.000Z",
-    "reason": "Price outside the recent 30-day range for BTC",
-    "text": "Exactly",
-    "url": "https://x.com/elonmusk/status/2123288098331414533",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795067684130-k193ks",
-    "source": "x",
-    "ts": "2026-11-19T05:54:44.130Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T05:53:43.000Z",
-    "reason": "Singapore regulator completes first tokenized bill sale with CBDC.",
-    "text": "🇸🇬  JUST IN: Singapore regulator MAS completes its first S$100 million tokenized bill sale, settled with a wholesale CBDC.",
-    "url": "https://x.com/Cointelegraph/status/2123293623684899045",
-    "images": [
-      "https://pbs.twimg.com/media/HXd0S4kWUAAA3xi.png",
-      "https://pbs.twimg.com/media/HXd0TFUXgAIOrjr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795068122309-7k0ahb",
-    "source": "x",
-    "ts": "2026-11-19T06:02:02.309Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 82,
-    "originTimestamp": "2026-11-19T04:39:41.000Z",
-    "reason": "No notable crypto-related news or move mentioned.",
-    "text": "Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX's plans than most earnings calls. Here are the 11 key takeaways:\n\n1. SpaceX is scaling AI compute at an extraordinary pace:\n\nSpaceX is adding roughly 500 MW monthly, equivalent to 220,000",
-    "url": "https://x.com/elonmusk/status/2123295424056598774"
-  },
-  {
     "id": "x-1795068124254-n7py9n",
     "source": "x",
     "ts": "2026-11-19T06:02:04.254Z",
@@ -7676,5 +7628,53 @@
       "https://pbs.twimg.com/media/HXnSmsQaMAAx_F8.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795228396566-wtr4na",
+    "source": "x",
+    "ts": "2026-11-21T02:33:16.566Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-21T02:30:20.000Z",
+    "reason": "New Tether fund targeting yield from $XAUt token",
+    "text": "🔥 NEW: Two people close to Tether are raising a fund to squeeze yield out of $XAUt.\n\nThey're targeting 4% on top of gold and $100M AUM in year one.",
+    "url": "https://x.com/Cointelegraph/status/2123967216316039228",
+    "images": [
+      "https://pbs.twimg.com/media/HXnY6uzWwAAvcG9.jpg",
+      "https://pbs.twimg.com/media/HXnY7HIWQAEz_Dr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795228400288-i08o0j",
+    "source": "x",
+    "ts": "2026-11-21T02:33:20.288Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-21T02:30:01.000Z",
+    "reason": "Significant hack affecting a popular privacy-focused cryptocurrency token.",
+    "text": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host\n\nWagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
+    "url": "https://x.com/DecryptMedia/status/2123967135458185341",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795228403955-9bpxkd",
+    "source": "x",
+    "ts": "2026-11-21T02:33:23.955Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-21T02:30:00.000Z",
+    "reason": "No notable move in token prices or institutional actions described.",
+    "text": "JUST IN: JPMorgan, Bank of America and Citi now warn YOU will be responsible if your AI agent goes rogue.\n\n1. Citi: New terms say if your AI agent's login gets leaked, every action taken with it counts as \"authorized by You.\"\n\n2. Bank of America: Emailed customers that if they",
+    "url": "https://x.com/coinbureau/status/2123967132945834079"
   }
 ]
