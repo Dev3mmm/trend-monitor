@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795068124254-n7py9n",
-    "source": "x",
-    "ts": "2026-11-19T06:02:04.254Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T06:00:29.000Z",
-    "reason": "No notable move in Anthropic options trading.",
-    "text": "🔥 LATEST: Anthropic options could start trading on Monday, and analysts expect strong demand as the stock debuts on the Nasdaq.",
-    "url": "https://x.com/Cointelegraph/status/2123295327411151083"
-  },
-  {
     "id": "x-1795068725446-bhrm3r",
     "source": "x",
     "ts": "2026-11-19T06:12:05.447Z",
@@ -7676,5 +7663,23 @@
     "reason": "No notable move in token prices or institutional actions described.",
     "text": "JUST IN: JPMorgan, Bank of America and Citi now warn YOU will be responsible if your AI agent goes rogue.\n\n1. Citi: New terms say if your AI agent's login gets leaked, every action taken with it counts as \"authorized by You.\"\n\n2. Bank of America: Emailed customers that if they",
     "url": "https://x.com/coinbureau/status/2123967132945834079"
+  },
+  {
+    "id": "x-1795228943507-rnbpym",
+    "source": "x",
+    "ts": "2026-11-21T02:42:23.507Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-21T02:34:00.000Z",
+    "reason": "Notable staking event with APY earnings announcement.",
+    "text": "4 out of 10 $SEI tokens now staked.\n\nAccording to @Coinbase data, 41% of @SeiNetwork's native token's circulating supply is now staked on the network, earning an estimated APY of just over 4%.\n\nWorth also noting, Sei Network operates a Delegated Proof-of-Stake consensus mechanism",
+    "url": "https://x.com/BSCNews/status/2123968138555314282",
+    "images": [
+      "https://pbs.twimg.com/media/HXkThY1X0AAvNj0.jpg"
+    ],
+    "video": null
   }
 ]
