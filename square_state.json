@@ -2001,17 +2001,7 @@
     "x-1795235115086-scb1ge",
     "x-1795235568231-rwx17p"
   ],
-  "queue": [
-    {
-      "text": "🚨 LATEST: 111,312,419 $USDC has just been burned.",
-      "url": "https://x.com/Cointelegraph/status/2123997327069167993",
-      "images": [
-        "https://pbs.twimg.com/media/HXn0UAYXAAA4VGB.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795235568705
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🚨 TODAY: Pumpfun sent another 33,390 $SOL ($2.44M) to Kraken, bringing its total $SOL sold to about 5.65 million ($890M) at an average price of $157.47, per Arkham data.",
@@ -2635,7 +2625,16 @@
       "at": 1795234936285,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/390528023185624?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 LATEST: 111,312,419 $USDC has just been burned.",
+      "final": "🚨 LATEST: 111,312,419 $USDC has just been burned.\n\n#Crypto #Stablecoin",
+      "images": [
+        "https://pbs.twimg.com/media/HXn0UAYXAAA4VGB.jpg"
+      ],
+      "at": 1795236698324,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795234936285
+  "lastPostAt": 1795236698324
 }
