@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795095473839-cz39un",
-    "source": "x",
-    "ts": "2026-11-19T13:37:53.839Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T13:36:33.000Z",
-    "reason": "Noise: generic tweet without a specific claim or action.",
-    "text": "Location:",
-    "url": "https://x.com/amerix/status/2123410100568109307"
-  },
-  {
     "id": "x-1795095477725-065qng",
     "source": "x",
     "ts": "2026-11-19T13:37:57.725Z",
@@ -7714,5 +7701,18 @@
     "url": "https://x.com/DecryptMedia/status/2124187832566575548",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795281721703-wtukdk",
+    "source": "x",
+    "ts": "2026-11-21T17:22:01.703Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-21T17:09:28.000Z",
+    "reason": "No direct crypto-related content.",
+    "text": "Trump says he's open to teaming up with Democrats to cap credit card interest and fees, arguing card companies make too much.",
+    "url": "https://x.com/BSCNews/status/2124191076395388972"
   }
 ]
