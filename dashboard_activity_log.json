@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795086759412-3ifzcf",
-    "source": "x",
-    "ts": "2026-11-19T11:12:39.412Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-19T11:02:48.000Z",
-    "reason": "No notable news or price movement is mentioned.",
-    "text": "🔥 INSIGHT: Legislating before innovation is a European habit, according to one former US regulator.\n\nEx-@CFTC chairman @giancarloMKTS explained to @itsciaranlyons that when the rules come first, builders end up innovating to meet regulatory needs.\n\nThe United States usually",
-    "url": "https://x.com/Cointelegraph/status/2123371408344441117"
-  },
-  {
-    "id": "x-1795087370329-ffswk5",
-    "source": "x",
-    "ts": "2026-11-19T11:22:50.329Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T11:21:40.000Z",
-    "reason": "No notable move in crypto prices or specific crypto news is mentioned.",
-    "text": "China is taking its AI models, infrastructure and training programs across the Global South, with cheaper technology helping it gain ground in Africa and Asia. \n\nBut is Beijing building lasting AI influence? 👇",
-    "url": "https://x.com/BSCNews/status/2123376155218886897"
-  },
-  {
-    "id": "x-1795087373903-kbsdn1",
-    "source": "x",
-    "ts": "2026-11-19T11:22:53.903Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-19T11:16:15.000Z",
-    "reason": "Reasonable statement but lacks concrete evidence or event to make it newsworthy.",
-    "text": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
-    "url": "https://x.com/DecryptMedia/status/2123374791507726523",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795087376714-01c4jv",
     "source": "x",
     "ts": "2026-11-19T11:22:56.714Z",
@@ -7687,6 +7645,62 @@
     "url": "https://x.com/BSCNews/status/2124111080586891746",
     "images": [
       "https://pbs.twimg.com/media/HXo80ssWQAEX4QI.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795263726610-5xlyfq",
+    "source": "x",
+    "ts": "2026-11-21T12:22:06.610Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-21T12:17:01.000Z",
+    "reason": "Price outside the recent range suggests a significant price movement.",
+    "text": "🚨🇨🇦 JUST IN: Kraken's $BTC/CAD pair crashed as low as C$24,250 (about $16,900) while $BTC traded around $57K everywhere else, and Kraken says every one of those trades stands.",
+    "url": "https://x.com/Cointelegraph/status/2124114860195627427",
+    "images": [
+      "https://pbs.twimg.com/media/HXpfNG1WMAENZsq.jpg",
+      "https://pbs.twimg.com/media/HXpfNWNW8AA-Bro.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795263732535-8tznuz",
+    "source": "x",
+    "ts": "2026-11-21T12:22:12.535Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-21T12:16:48.000Z",
+    "reason": "Price anomaly outside normal trading range.",
+    "text": "Kraken BTC Pricing Anomaly Briefly Sends Quote to $27,000; Exchange Confirms No Breach and Executed Trades Stand\n\nKraken stated in a post that starting around 20:00 UTC on November 20, Canadian dollar (CAD) trading pairs on the platform experienced heavy selling pressure, pushing",
+    "url": "https://x.com/WuBlockchain/status/2124114805875503255",
+    "images": [
+      "https://pbs.twimg.com/media/HXpfJZna8AAfXkK.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795263738323-6v4bnf",
+    "source": "x",
+    "ts": "2026-11-21T12:22:18.323Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "PeckShieldAlert",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-21T12:12:41.000Z",
+    "reason": "Exploit involving cryptocurrency tokens and stablecoins.",
+    "text": "#PeckShieldAlert #Chainflip has been exploited for ~$4M, the exploiter has swapped the 3,249,631.41 $USDC &amp; 758,141.33 $USDT for 2,909 $ETH, then deposited it into #TornadoCash.",
+    "url": "https://x.com/PeckShieldAlert/status/2124113770373120243",
+    "images": [
+      "https://pbs.twimg.com/media/HXpeHPgaIAEnRF_.jpg",
+      "https://pbs.twimg.com/media/HXpeIrybgAAnfL4.jpg"
     ],
     "video": null
   }
