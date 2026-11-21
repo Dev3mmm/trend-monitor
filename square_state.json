@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793880767005-um31yx",
     "x-1793881938354-iwu9n0",
     "x-1793881944577-i41pvj",
     "x-1793881949325-03iyyk",
@@ -1999,7 +1998,8 @@
     "x-1795278775773-ouxsyh",
     "x-1795279925456-uqjwzn",
     "x-1795279930258-t2qcmc",
-    "x-1795281135608-2kyasx"
+    "x-1795281135608-2kyasx",
+    "x-1795282340760-60p5vm"
   ],
   "queue": [],
   "posted": [
@@ -2540,7 +2540,17 @@
       "at": 1795279930932,
       "status": "failed",
       "error": "Uploading: sq_1795279930932_0.jpg\n  Uploaded to S3, polling status...\n  Processing... (1/10)\n  Processing... (2/10)\n  Ready: https://public.bnbstatic.com/image/pgc/20261121/9ea9f0379d404b8bbb12c2311cec5c85.jpg\nPublishing...\n\n\nFailed: API error [10004]: Network error. Please try again"
+    },
+    {
+      "text": "🇹🇼 JUST IN: Taiwan will officially ban short selling below the previous close from Monday, after its stock market crashed 17.5% in a single week.\n\nUnder the new rules:\n\n- Short sales below the previous day's close banned for all listed stocks\n\n- The minimum short-selling margin",
+      "final": "🇹🇼 JUST IN: Taiwan will officially ban short selling below the previous close from Monday, after its stock market crashed 17.5% in a single week.\n\nUnder the new rules:\n\n- Short sales below the previous day's close banned for all listed stocks\n\n- The minimum short-selling margin\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HXqm7msaYAAAaaG.png",
+        "https://pbs.twimg.com/media/HXqnDN5asAAprHF.png"
+      ],
+      "at": 1795282349406,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795279930932
+  "lastPostAt": 1795282349406
 }
