@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795067007541-c08qrn",
-    "source": "x",
-    "ts": "2026-11-19T05:43:27.541Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-19T05:35:09.000Z",
-    "reason": "No notable crypto-related news or event.",
-    "text": "Shytoshi Kusama to Break Silence? SHIB Community Watches Nov. 19\n\nShytoshi Kusama (@ShytoshiKusama) has not posted on X since May 13, leaving the Shiba Inu $SHIB community waiting for answers.\n\nHe previously communicated regularly about ecosystem developments and Shiba Inu's",
-    "url": "https://x.com/BSCNews/status/2123288950550974972"
-  },
-  {
     "id": "x-1795067010280-8n24ai",
     "source": "x",
     "ts": "2026-11-19T05:43:30.280Z",
@@ -7671,5 +7658,23 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123897081551052800/img/iNrIxLOfa9ol4BHq.jpg"
     }
+  },
+  {
+    "id": "x-1795227116731-simlx4",
+    "source": "x",
+    "ts": "2026-11-21T02:11:56.731Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-21T02:02:55.000Z",
+    "reason": "Investigation reveals significant amount of funds still under attacker control and frozen.",
+    "text": "Investigation: Only $32M Recovered Three Weeks After $6.4B Binance Hack, $2.82B Frozen\n\nAccording to blockchain investigator SomaXBT, three weeks after the $6.4 billion Binance hack, approximately $2.82 billion has been frozen, $2.67 billion remains under attacker control, and",
+    "url": "https://x.com/WuBlockchain/status/2123960315440500768",
+    "images": [
+      "https://pbs.twimg.com/media/HXnSmsQaMAAx_F8.png"
+    ],
+    "video": null
   }
 ]
