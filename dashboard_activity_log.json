@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795090230142-ycf9hb",
-    "source": "x",
-    "ts": "2026-11-19T12:10:30.142Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T12:09:00.000Z",
-    "reason": "Notable blockchain performance and volume increase.",
-    "text": "The Internet Computer Surge Nobody Saw Coming\n\nAccording to @chainspect_app, the Internet Computer (@dfinity) has maintained a TPS rate above 5,000 for 14 consecutive days. This equals at least 432 million transactions daily.\n\n$ICP's DEX volume rose by 109% in the last seven days",
-    "url": "https://x.com/BSCNews/status/2123388066467299488",
-    "images": [
-      "https://pbs.twimg.com/media/HXfIxZKW0AAwEQ4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795090939631-3ffamw",
-    "source": "x",
-    "ts": "2026-11-19T12:22:19.631Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T12:21:15.000Z",
-    "reason": "Notable exploit involving USDC and USDS tokens linked to North Korean hackers.",
-    "text": "🚨BREAKING: Wallets linked to North Korean hackers SWAPPED freezable USDC into \"UNFREEZABLE\" tokens.\n\nInca Digital, a crypto risk firm, traced $518M from illicit-linked wallets through Sky’s Peg Stability Module, a tool that swaps USDC into Sky's stablecoin USDS or DAI with no ID",
-    "url": "https://x.com/coinbureau/status/2123391148421181804",
-    "images": [
-      "https://pbs.twimg.com/media/HXfG__3aMAE3MSz.png",
-      "https://pbs.twimg.com/media/HXfIsEgaoAA7cWT.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795090943252-7uzcuq",
     "source": "x",
     "ts": "2026-11-19T12:22:23.252Z",
@@ -7707,6 +7670,43 @@
     "url": "https://x.com/BitcoinMagazine/status/2124135984782884969",
     "images": [
       "https://pbs.twimg.com/media/HXpyZpXWMAA3tCR.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795269133694-hm88jq",
+    "source": "x",
+    "ts": "2026-11-21T13:52:13.694Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-21T13:45:11.000Z",
+    "reason": "Price is well outside the recent trading range, a genuine bounce even though the tweet doesn't say so explicitly.",
+    "text": "JUST IN: Bitcoin $BTC has ripped back above $60,000, after crashing to $55,181 this morning.\n\nThat's a 9% bounce from today's low.",
+    "url": "https://x.com/coinbureau/status/2124137048005361758",
+    "images": [
+      "https://pbs.twimg.com/media/HXpzDqsaoAEe1Jl.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795269139387-03yxph",
+    "source": "x",
+    "ts": "2026-11-21T13:52:19.387Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-21T13:45:00.000Z",
+    "reason": "Price well outside recent trading range for BTC.",
+    "text": "Strategy Says \"All Our BTC Is Unencumbered\" With Bitcoin 23% Below Its Average Cost.\n\nStrategy held 850,849 BTC at an average $75,452 as of Nov. 15, per an SEC filing; BTC traded near $55,000 on Saturday morning.",
+    "url": "https://x.com/DecryptMedia/status/2124137000999788589",
+    "images": [
+      "https://pbs.twimg.com/media/HXo_IhKXEAAKx8M.png",
+      "https://pbs.twimg.com/media/HXo_NSeXsAAhWVW.jpg"
     ],
     "video": null
   }
