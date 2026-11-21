@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1795104142416-ppbdgu",
-    "source": "x",
-    "ts": "2026-11-19T16:02:22.416Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-19T16:00:01.000Z",
-    "reason": "US Task Force's launch of a threat disruption center related to crypto scams is notable regulatory and security news.",
-    "text": "US Task Force Launches Threat Disruption Center Aimed At Foreign Criminal Networks Behind Scams.\n\nTRM Labs is the center's \"primary private-sector partner,\" and participating companies can act, for example by \"pausing victim payments,\" the DHS- and DOJ-led task force said.",
-    "url": "https://x.com/DecryptMedia/status/2123446203400462743",
-    "images": [
-      "https://pbs.twimg.com/media/HXesocCXMAAFYv_.png",
-      "https://pbs.twimg.com/media/HXesuBqXoAAQ4uo.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795104145306-m2h6fn",
-    "source": "x",
-    "ts": "2026-11-19T16:02:25.306Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-19T15:55:15.000Z",
-    "reason": "Notable institutional investment and valuation in a crypto-related company.",
-    "text": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
-    "url": "https://x.com/DecryptMedia/status/2123445003863183869",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795104794520-pc852n",
     "source": "x",
     "ts": "2026-11-19T16:13:14.520Z",
@@ -7659,6 +7624,38 @@
     "url": "https://x.com/BSCNews/status/2124253518680805694",
     "images": [
       "https://pbs.twimg.com/media/HXpBNopWYAAQMfC.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795300337692-l3yiyh",
+    "source": "x",
+    "ts": "2026-11-21T22:32:17.692Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-21T22:30:24.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🚨 REKT: $NVDA dumped 14% on Friday, wrapping up its longest weekly losing streak since 2008.",
+    "url": "https://x.com/Cointelegraph/status/2124269223228662162"
+  },
+  {
+    "id": "x-1795300341239-1mpzu3",
+    "source": "x",
+    "ts": "2026-11-21T22:32:21.239Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-21T22:30:00.000Z",
+    "reason": "Regulatory move impacting crypto ETFs.",
+    "text": "ARK Moves To Withdraw Two Proposed Crypto ETFs.\n\nARK told the SEC on Friday it \"does not intend to proceed\" with two proposed crypto ETFs, one of them an ex-Bitcoin fund, which it first filed for on Jan. 23.",
+    "url": "https://x.com/DecryptMedia/status/2124269122376671611",
+    "images": [
+      "https://pbs.twimg.com/media/HXpENj3WQAAjcNg.png",
+      "https://pbs.twimg.com/media/HXpEfT5WYAAnTJ3.jpg"
     ],
     "video": null
   }
