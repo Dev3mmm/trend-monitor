@@ -1,23 +1,5 @@
 [
   {
-    "id": "x-1795078998579-inms2r",
-    "source": "x",
-    "ts": "2026-11-19T09:03:18.579Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-19T09:00:50.000Z",
-    "reason": "Notable bank launches tokenized finance product using stablecoin.",
-    "text": "🔥 UPDATE: HSBC launches tokenized money market fund subscriptions using its HKD stablecoin RedCoin, starting today.",
-    "url": "https://x.com/Cointelegraph/status/2123340711919538514",
-    "images": [
-      "https://pbs.twimg.com/media/HXefH8BXYAAW7Ms.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795079003402-h0nk0i",
     "source": "x",
     "ts": "2026-11-19T09:03:23.402Z",
@@ -7686,5 +7668,18 @@
     "reason": "No notable move, tweet is nonsensical and lacks relevance to crypto or financial markets.",
     "text": "We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life.",
     "url": "https://x.com/elonmusk/status/2124044780099285426"
+  },
+  {
+    "id": "x-1795247510267-ulkv17",
+    "source": "x",
+    "ts": "2026-11-21T07:51:50.267Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-21T07:46:48.000Z",
+    "reason": "Vague opinion with no factual claim",
+    "text": "Even if Riemann turns out not to be fully solved yet, it will be soon enough",
+    "url": "https://x.com/elonmusk/status/2124046857659650295"
   }
 ]
