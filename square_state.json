@@ -2001,17 +2001,7 @@
     "x-1795269756251-ouod4y",
     "x-1795270332789-xeg3nc"
   ],
-  "queue": [
-    {
-      "text": "JUST IN: Bitcoin jumps back above $60,000 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2124135984782884969",
-      "images": [
-        "https://pbs.twimg.com/media/HXpyZpXWMAA3tCR.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795268527999
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🐋 ALERT: Two Solana whales unstaked 2.31M $SOL and deposited it into Coinbase Prime, per Lookonchain.",
@@ -2545,7 +2535,16 @@
       "at": 1795269139935,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/390668143817289?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: Bitcoin jumps back above $60,000 🚀",
+      "final": "JUST IN: Bitcoin jumps back above $60,000 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HXpyZpXWMAA3tCR.jpg"
+      ],
+      "at": 1795270903838,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795269139935
+  "lastPostAt": 1795270903838
 }
