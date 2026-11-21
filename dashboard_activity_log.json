@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1795101900791-q5o4wz",
-    "source": "x",
-    "ts": "2026-11-19T15:25:00.791Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-19T15:20:32.000Z",
-    "reason": "No notable move or specific event is clearly stated.",
-    "text": "🚨UPDATE: $ANT shares are now indicated to open at $105, about 26.5% above the $83 IPO price.\n\nAnthropic futures are trading around $104.9 on Hyperliquid.\n\nU.S. stocks added nearly $800 billion in market value at the opening bell.\n\n🟢 S&amp;P 500: +0.78%\n🟢 Nasdaq: +1.5% to 2%\n🔻",
-    "url": "https://x.com/coinbureau/status/2123436267438502097"
-  },
-  {
-    "id": "x-1795101905392-1a8qws",
-    "source": "x",
-    "ts": "2026-11-19T15:25:05.392Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-19T15:14:34.000Z",
-    "reason": "Hashi protocol launches mainnet allowing BTC bridging to Sui network.",
-    "text": "Finally... SUI's Hashi Mainnet is Live!\n\nThe liquidity protocol Hashi has officially launched on mainnet, allowing users to bridge their native $BTC to the Sui (@SuiNetwork) network as 1:1-backed hBTC. \n\nhBTC will allow lending, borrowing, and yield strategies.\n\nOn the launch",
-    "url": "https://x.com/BSCNews/status/2123434766309429509",
-    "images": [
-      "https://pbs.twimg.com/media/HXf0Nk8XoAANDrf.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795101909969-u8dgl4",
-    "source": "x",
-    "ts": "2026-11-19T15:25:09.969Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-19T15:11:32.000Z",
-    "reason": "Central Bank approval for regular investors to trade Bitcoin on margin is a notable institutional move.",
-    "text": "JUST IN: 🇷🇺 Russia's Central Bank plans to let regular investors trade Bitcoin and crypto on margin as the Moscow Exchange prepares to launch trading on December 1. 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2123434003147509944",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2123433966682222592/vid/avc1/1280x720/uRP8auH6-scuCq7V.mp4?tag=29",
-      "duration": 17,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HXf0BC6XIAAjPeo.jpg"
-    }
-  },
-  {
     "id": "x-1795102320537-uqc64u",
     "source": "x",
     "ts": "2026-11-19T15:32:00.537Z",
@@ -7676,5 +7624,49 @@
     "reason": "No concrete or specific information provided.",
     "text": "Grok understands",
     "url": "https://x.com/elonmusk/status/2124219378489311656"
+  },
+  {
+    "id": "x-1795289524615-k996fs",
+    "source": "x",
+    "ts": "2026-11-21T19:32:04.615Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-21T19:30:17.000Z",
+    "reason": "New USDC supply minted on Solana in a short time.",
+    "text": "⚡ TODAY: Circle minted 500M $USDC on Solana in about 20 minutes.",
+    "url": "https://x.com/Cointelegraph/status/2124223897075667342",
+    "images": [
+      "https://pbs.twimg.com/media/HXrCX6lWMAAKLsU.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795289527385-tx6ump",
+    "source": "x",
+    "ts": "2026-11-21T19:32:07.385Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-21T19:30:00.000Z",
+    "reason": "No notable crypto-related news or movement mentioned.",
+    "text": "Tim Scott's Office Says Jensen Huang Agreed To Testify At A Public Senate Hearing.\n\nThe confirmation came in a Friday statement from the Senate Banking chairman's office, which gave no date for the former Nvidia CEO's appearance.",
+    "url": "https://x.com/DecryptMedia/status/2124223824728297746"
+  },
+  {
+    "id": "x-1795289530576-w00qgz",
+    "source": "x",
+    "ts": "2026-11-21T19:32:10.576Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 53,
+    "originTimestamp": "2026-11-21T18:38:24.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Today's BSCN Debrief: $LUNC is up on the week while crypto majors sold off hard 📈\n\nAlso inside: $ONDO's rough seven days, PerpTools picking LayerZero, and $ZRO staking opening Nov 23.\n\nAll the details ⬇️\nFull article:",
+    "url": "https://x.com/BSCNews/status/2124222956498747705"
   }
 ]
