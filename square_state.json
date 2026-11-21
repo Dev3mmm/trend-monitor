@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793841778778-fg30zw",
     "x-1793842324316-sokugf",
     "x-1793842329839-4vutmn",
     "x-1793844140889-e24kae",
@@ -1999,29 +1998,10 @@
     "x-1795213967479-1sfhj3",
     "x-1795216334235-xpl132",
     "x-1795217008603-qhdp80",
-    "x-1795219932293-jo92pm"
+    "x-1795219932293-jo92pm",
+    "x-1795221117038-v7751c"
   ],
   "queue": [
-    {
-      "text": "🚨 ALERT: Nvidia $NVDA shares plunged 12%, heading for their seventh consecutive weekly decline, the longest losing streak since the 2008 financial crisis, wiping out $2.5 trillion in market value.",
-      "url": "https://x.com/Cointelegraph/status/2123891782324801965",
-      "images": [
-        "https://pbs.twimg.com/media/HXmUUJDWcAAiSEe.jpg",
-        "https://pbs.twimg.com/media/HXmUUcIWMAAyAhZ.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795210312857
-    },
-    {
-      "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻    \n\nThey now own 7,841 BTC! 👏",
-      "url": "https://x.com/BitcoinMagazine/status/2123901722842042681",
-      "images": [
-        "https://pbs.twimg.com/media/HXmcdF1WAAAKmEI.jpg",
-        "https://pbs.twimg.com/media/HXmciYQWQAAR6uL.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795212729477
-    },
     {
       "text": "JUST IN: Twenty One Capital bought 172.25 BTC worth $10.1 million for their treasury.\n\nThey now hold 43,841 BTC! 🚀",
       "url": "https://x.com/BitcoinMagazine/status/2123919031019417944",
@@ -2031,6 +2011,15 @@
       ],
       "video": null,
       "enqueuedAt": 1795217009296
+    },
+    {
+      "text": "🚨 REKT: Over 292,000 traders got liquidated in the past 24 hours, adding up to $1.91B wiped out.\n\n$1.7B of that coming from long liquidations.\n\nAre you ok?",
+      "url": "https://x.com/Cointelegraph/status/2123937005889290583",
+      "images": [
+        "https://pbs.twimg.com/media/HXm9cqIXYAAqNSb.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795221123146
     }
   ],
   "posted": [
@@ -2661,7 +2650,17 @@
       "at": 1795219314723,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/390464007462123?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻    \n\nThey now own 7,841 BTC! 👏",
+      "final": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻 \n\nThey now own 7,841 BTC! 👏\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HXmcdF1WAAAKmEI.jpg",
+        "https://pbs.twimg.com/media/HXmciYQWQAAR6uL.jpg"
+      ],
+      "at": 1795221123146,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795219314723
+  "lastPostAt": 1795221123146
 }
