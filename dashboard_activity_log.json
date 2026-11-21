@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795090943252-7uzcuq",
-    "source": "x",
-    "ts": "2026-11-19T12:22:23.252Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T12:21:00.000Z",
-    "reason": "Notable institutional adoption and revenue growth reported",
-    "text": "Pyth Network (@PythNetwork) now distributes NYSE and Nasdaq data and hit $13.67M ARR in October. \n\nHere is what that means for financial data and solana:HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3 🔽",
-    "url": "https://x.com/BSCNews/status/2123391086118969603",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795090946452-jgneou",
-    "source": "x",
-    "ts": "2026-11-19T12:22:26.452Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-19T12:10:23.000Z",
-    "reason": "No notable move; price is well within the recent range.",
-    "text": "🚨 INSIGHT: Nvidia's $500B AI financing initiative has deployed $0 since August, despite backing from Wall Street giants, per WSJ.",
-    "url": "https://x.com/Cointelegraph/status/2123388415655793082",
-    "images": [
-      "https://pbs.twimg.com/media/HXfKgl-WkAALQxh.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795091873087-fjckfd",
     "source": "x",
     "ts": "2026-11-19T12:37:53.087Z",
@@ -7707,6 +7673,38 @@
     "images": [
       "https://pbs.twimg.com/media/HXo_IhKXEAAKx8M.png",
       "https://pbs.twimg.com/media/HXo_NSeXsAAhWVW.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795269750716-xpwazn",
+    "source": "x",
+    "ts": "2026-11-21T14:02:30.716Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-21T14:02:01.000Z",
+    "reason": "No notable crypto-related content or move.",
+    "text": "It is fascinating seeing men build their rural homes, rearing livestock and growing food.\n\nLiving in the city like a vagabond is not sustainable.",
+    "url": "https://x.com/amerix/status/2124141284692549905"
+  },
+  {
+    "id": "x-1795269756251-ouod4y",
+    "source": "x",
+    "ts": "2026-11-21T14:02:36.251Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-21T14:00:01.000Z",
+    "reason": "EXACTLY ONE LINE HERE",
+    "text": "LATEST: Chainflip hit by a $4.86 MILLION exploit, with the hacker laundering stolen ETH through Tornado Cash.\n\nThe attacker drained 520.22 ETH worth $851K, 3.25M USDC and 758K USDT from Chainflip's Ethereum vault.\n\nThe exploit involved a valid signature from the vault's aggregate",
+    "url": "https://x.com/coinbureau/status/2124140779467579691",
+    "images": [
+      "https://pbs.twimg.com/media/HXpuy20a8AA-kWY.jpg",
+      "https://pbs.twimg.com/media/HXpu0ECaEAEk3KB.png"
     ],
     "video": null
   }
