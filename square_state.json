@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🇺🇸 BIG: The U.S. stock market has reportedly wiped out $7 trillion in market capitalization this week.",
-      "url": "https://x.com/Cointelegraph/status/2123888497278812278",
-      "images": [
-        "https://pbs.twimg.com/media/HXmRVA0XYAAaAO4.jpg",
-        "https://pbs.twimg.com/media/HXmRVR_WkAAMdxb.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795209726155
-    },
-    {
       "text": "🚨 ALERT: Nvidia $NVDA shares plunged 12%, heading for their seventh consecutive weekly decline, the longest losing streak since the 2008 financial crisis, wiping out $2.5 trillion in market value.",
       "url": "https://x.com/Cointelegraph/status/2123891782324801965",
       "images": [
@@ -2671,7 +2661,17 @@
       "at": 1795191137214,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/390348617171299?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🇺🇸 BIG: The U.S. stock market has reportedly wiped out $7 trillion in market capitalization this week.",
+      "final": "🇺🇸 BIG: The U.S. stock market has reportedly wiped out $7 trillion in market capitalization this week.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HXmRVA0XYAAaAO4.jpg",
+        "https://pbs.twimg.com/media/HXmRVR_WkAAMdxb.jpg"
+      ],
+      "at": 1795219314723,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795191137214
+  "lastPostAt": 1795219314723
 }
