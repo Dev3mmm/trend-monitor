@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "JUST IN: Twenty One Capital bought 172.25 BTC worth $10.1 million for their treasury.\n\nThey now hold 43,841 BTC! 🚀",
-      "url": "https://x.com/BitcoinMagazine/status/2123919031019417944",
-      "images": [
-        "https://pbs.twimg.com/media/HXmtGemWMAA8_xb.jpg",
-        "https://pbs.twimg.com/media/HXmtGemWkAA3xzC.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795217009296
-    },
-    {
       "text": "🚨 REKT: Over 292,000 traders got liquidated in the past 24 hours, adding up to $1.91B wiped out.\n\n$1.7B of that coming from long liquidations.\n\nAre you ok?",
       "url": "https://x.com/Cointelegraph/status/2123937005889290583",
       "images": [
@@ -2650,7 +2640,17 @@
       "at": 1795221123146,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/390471464849387?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: Twenty One Capital bought 172.25 BTC worth $10.1 million for their treasury.\n\nThey now hold 43,841 BTC! 🚀",
+      "final": "JUST IN: Twenty One Capital bought 172.25 BTC worth $10.1 million for their treasury.\n\nThey now hold 43,841 BTC! 🚀\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HXmtGemWMAA8_xb.jpg",
+        "https://pbs.twimg.com/media/HXmtGemWkAA3xzC.jpg"
+      ],
+      "at": 1795222887245,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795221123146
+  "lastPostAt": 1795222887245
 }
