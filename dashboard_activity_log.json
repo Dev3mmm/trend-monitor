@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795122254582-1i6zbd",
-    "source": "x",
-    "ts": "2026-11-19T21:04:14.582Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-19T21:00:00.000Z",
-    "reason": "No notable move, investment does not qualify as breaking news without further context.",
-    "text": "Tether Makes Strategic Investment In Swiss Stablecoin Platform SCRYPT.\n\nTether said the investment aims to make stablecoins easier for banks, brokers, fintechs and payment firms to use by supporting SCRYPT \"as it expands into third-party payments.\"",
-    "url": "https://x.com/DecryptMedia/status/2123521699337416901",
-    "images": [
-      "https://pbs.twimg.com/media/HXf4r6AXYAA2rOi.png",
-      "https://pbs.twimg.com/media/HXf46K4XUAA-77g.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795122257182-nsn5vg",
-    "source": "x",
-    "ts": "2026-11-19T21:04:17.182Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-19T20:50:05.000Z",
-    "reason": "No substantive content or action described.",
-    "text": "@coinbase",
-    "url": "https://x.com/coinbase/status/2123520916571439596"
-  },
-  {
     "id": "x-1795122259916-0x1m8c",
     "source": "x",
     "ts": "2026-11-19T21:04:19.916Z",
@@ -7634,5 +7602,42 @@
     "reason": "No notable move in price or event described.",
     "text": "How does @Polkadot's $DOT Treasury model function? And does it actually work in practice...? ⬇️",
     "url": "https://x.com/BSCNews/status/2124521786301960211"
+  },
+  {
+    "id": "x-1795361521456-rngdyv",
+    "source": "x",
+    "ts": "2026-11-22T15:32:01.456Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-22T15:30:22.000Z",
+    "reason": "South Korea's financial move could impact crypto markets through regulatory actions.",
+    "text": "🇰🇷🚨 JUST IN: South Korea is getting its stock market stabilization fund ready to deploy before Monday's open and launching a crackdown on illegal short selling.",
+    "url": "https://x.com/Cointelegraph/status/2124525906404294675",
+    "images": [
+      "https://pbs.twimg.com/media/HXvVCzYWQAA_w3q.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795361527519-st3x22",
+    "source": "x",
+    "ts": "2026-11-22T15:32:07.519Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-22T15:30:00.000Z",
+    "reason": "Price move outside recent range and significant cost increase.",
+    "text": "🚨 JPMorgan's latest estimate: it now costs $86,000 to mine 1 Bitcoin, about $25,000 MORE than its price.\n\nA year ago, JPMorgan wrote that this production cost \"has empirically acted as a floor,\" with Bitcoin above $100,000.\n\nBitcoin now trades near $60,600, about 30% below it.",
+    "url": "https://x.com/coinbureau/status/2124525813890707757",
+    "images": [
+      "https://pbs.twimg.com/media/HXu6A-OakAAc9u8.png",
+      "https://pbs.twimg.com/media/HXu6A4qb0AA0_Mt.jpg"
+    ],
+    "video": null
   }
 ]
