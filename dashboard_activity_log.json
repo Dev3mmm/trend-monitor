@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795131743834-k944dc",
-    "source": "x",
-    "ts": "2026-11-19T23:42:23.834Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 41,
-    "originTimestamp": "2026-11-19T23:00:44.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Should we do it?",
-    "url": "https://x.com/coinbase/status/2123560277430174056"
-  },
-  {
-    "id": "x-1795132516631-f3enzi",
-    "source": "x",
-    "ts": "2026-11-19T23:55:16.631Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-19T23:47:00.000Z",
-    "reason": "Shiba Inu reaches over 1.7 million holders, a significant milestone.",
-    "text": "Boom! - $SHIB hits 1.7 MILLION holders.\n\nA long time coming @Shibtoken now has over 1,700,000 non-empty holder addresses on @Ethereum, per @etherscan.\n\nThe current total stands at 1,700,770 at time of writing, the figure having risen steadily over the past two weeks.\n\nIn fact,",
-    "url": "https://x.com/BSCNews/status/2123563723508093139",
-    "images": [
-      "https://pbs.twimg.com/media/HXfKj86X0AAKhtr.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795132519831-isa6tq",
     "source": "x",
     "ts": "2026-11-19T23:55:19.831Z",
@@ -7656,5 +7625,36 @@
       "https://pbs.twimg.com/media/HXvvPp0WkAExNeT.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795381911023-u9eldk",
+    "source": "x",
+    "ts": "2026-11-22T21:11:51.023Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-22T21:07:00.000Z",
+    "reason": "Stablecoin economies of Aptos, Sui Network, and Arbitrum have seen significant growth.",
+    "text": "Aptos, Sui Network, and Arbitrum lead stablecoin growth among majors.\n\nAll three of @Aptos, @arbitrum and @SuiNetwork have seen their stablecoin economies surge this past week, despite awful market conditions...\n\n$APT [+17.18%, $943.71M]\n$ARB [+8.54%, $4.215B]\n$SUI [+7.36%,",
+    "url": "https://x.com/BSCNews/status/2124610621865968020",
+    "images": [
+      "https://pbs.twimg.com/media/HXt3s-_WUAADf60.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795381928510-udcukd",
+    "source": "x",
+    "ts": "2026-11-22T21:12:08.510Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 100,
+    "originTimestamp": "2026-11-22T19:31:03.000Z",
+    "reason": "No factual claim or specific event mentioned.",
+    "text": "360 degree vision that never tires",
+    "url": "https://x.com/elonmusk/status/2124609453274108083"
   }
 ]
