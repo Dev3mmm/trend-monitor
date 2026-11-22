@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795120935402-68d1ys",
-    "source": "x",
-    "ts": "2026-11-19T20:42:15.402Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T20:40:34.000Z",
-    "reason": "Price below recent range with significant broader market implications.",
-    "text": "🚨BREAKING: Bitcoin falls below $62,000 for the first time since July, now down more than 50% from its record high.\n\nThis comes as more than $2 TRILLION has been wiped from US stocks since the open, and the S&amp;P 500 is headed for a 6th straight loss.",
-    "url": "https://x.com/coinbureau/status/2123516806556246419",
-    "images": [
-      "https://pbs.twimg.com/media/HXg-LUGawAAdu6b.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795120939450-mwv2fv",
-    "source": "x",
-    "ts": "2026-11-19T20:42:19.450Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T20:40:22.000Z",
-    "reason": "Concrete price move outside recent range.",
-    "text": "🚨 JUST IN: Bitcoin falls below $62,000 as Anthropic makes its Nasdaq debut. \n\nIs liquidity shifting from Bitcoin into Anthropic shares?",
-    "url": "https://x.com/Cointelegraph/status/2123516755880399296",
-    "images": [
-      "https://pbs.twimg.com/media/HXg_O5mXMAA52HP.jpg",
-      "https://pbs.twimg.com/media/HXg_PFdXIAAEDEc.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795121540306-wwcivt",
     "source": "x",
     "ts": "2026-11-19T20:52:20.306Z",
@@ -7643,5 +7606,36 @@
       "https://pbs.twimg.com/media/HXu4VF4aQAAcxdT.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795356720585-qqlkdl",
+    "source": "x",
+    "ts": "2026-11-22T14:12:00.585Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-22T14:04:00.000Z",
+    "reason": "New token listing support from leading DEX and ecosystem partners.",
+    "text": "Solana's $SOL is spreading to Canton Network...\n\n'aSOL', a version of @Solana's native token issued on @CantonNetwork by infrastructure company @cantor8, in partnership with @acme_markets...\n\n... has received new listing support from two of the $CC ecosystem's leading DEX",
+    "url": "https://x.com/BSCNews/status/2124504171001040981",
+    "images": [
+      "https://pbs.twimg.com/media/HXt3ZFEXQAACYn_.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795356722056-ku7e5a",
+    "source": "x",
+    "ts": "2026-11-22T14:12:02.056Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-22T14:03:09.000Z",
+    "reason": "No concrete price or event mentioned.",
+    "text": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+    "url": "https://x.com/DecryptMedia/status/2124503957967917547"
   }
 ]
