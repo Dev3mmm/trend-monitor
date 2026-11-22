@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795112736246-32th7i",
-    "source": "x",
-    "ts": "2026-11-19T18:25:36.246Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-19T18:15:00.000Z",
-    "reason": "Not explicitly newsworthy without more context or details.",
-    "text": "Flare lands on Doppler’s roadmap with a December date\n\n@doppler_fi plans to expand into the @FlareNetworks ($FLR) ecosystem in December, per the RWA thesis it published today. A move into @CantonNetwork and an instant redemption feature are set to follow in early 2027.\n\nDoppler,",
-    "url": "https://x.com/BSCNews/status/2123480173727326349",
-    "images": [
-      "https://pbs.twimg.com/media/HXgUS7hXsAAW0R9.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795113126701-1fvmvq",
-    "source": "x",
-    "ts": "2026-11-19T18:32:06.702Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T18:30:37.000Z",
-    "reason": "Notable departure from a major crypto security company.",
-    "text": "🚨 JUST IN: Ledger CTO Charles Guillemet announces he will leave the company at the end of 2026 after nine years to build a new security venture.",
-    "url": "https://x.com/Cointelegraph/status/2123484105681555915",
-    "images": [
-      "https://pbs.twimg.com/media/HXghhfnXEAAntTN.jpg",
-      "https://pbs.twimg.com/media/HXghiE9WcAAD-Ey.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795113804764-7qkmb5",
     "source": "x",
     "ts": "2026-11-19T18:43:24.764Z",
@@ -7676,6 +7639,35 @@
     "images": [
       "https://pbs.twimg.com/media/HXtv4suWwAAScLC.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795335728026-xyym3g",
+    "source": "x",
+    "ts": "2026-11-22T08:22:08.026Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 78,
+    "originTimestamp": "2026-11-22T07:03:38.000Z",
+    "reason": "No notable crypto-related news or move.",
+    "text": "🔥 Anthropic sits on MORE CASH than Alphabet, Amazon, SpaceX and Apple combined.\n\nAfter its IPO, Anthropic holds an estimated $201 BILLION in cash and equivalents, compared with about $199B across the other four.\n\nYet, Google tops the chart. Its parent, Alphabet, holds $56B in",
+    "url": "https://x.com/coinbureau/status/2124416892035387590"
+  },
+  {
+    "id": "x-1795335731524-oadpe7",
+    "source": "x",
+    "ts": "2026-11-22T08:22:11.524Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-22T08:13:00.000Z",
+    "reason": "Notable real-world event impact on crypto market.",
+    "text": "🇲🇽JUST IN: At least 11 people dead after Mexican authorities capture suspected cartel leader 'El Chapo Isidro'.",
+    "url": "https://x.com/BSCNews/status/2124415838208094642",
+    "images": [],
     "video": null
   }
 ]
