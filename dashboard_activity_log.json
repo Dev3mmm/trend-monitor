@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795107761881-pw7t3h",
-    "source": "x",
-    "ts": "2026-11-19T17:02:41.881Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-19T16:52:21.000Z",
-    "reason": "Specific crypto share price movement above initial IPO price.",
-    "text": "🚨 JUST IN: Anthropic $ANT shares open at $111.50, above their IPO price of $83.",
-    "url": "https://x.com/Cointelegraph/status/2123459373196312804",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795108302105-4hl1id",
-    "source": "x",
-    "ts": "2026-11-19T17:11:42.105Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T17:10:42.000Z",
-    "reason": "No notable regulatory move or news is presented, just speculation.",
-    "text": "🔥 INSIGHT: The US is winning the crypto race right now, says former @CFTC chairman @giancarloMKTS.\n\nSpeaking with @itsciaranlyons, he named the appointments of Paul Atkins at the SEC, Michael Selig at the CFTC and Jonathan Gould at the OCC as the best thing Trump has done for",
-    "url": "https://x.com/Cointelegraph/status/2123463990563024929",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2123463908912427008/vid/avc1/1280x720/voOHtPzyH1iRRqYs.mp4?tag=16",
-      "duration": 140,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123463908912427008/img/B0Or1mUWbiNXXTQD.jpg"
-    }
-  },
-  {
     "id": "x-1795108304730-b8z4cu",
     "source": "x",
     "ts": "2026-11-19T17:11:44.730Z",
@@ -7653,5 +7616,31 @@
       "https://pbs.twimg.com/media/HXpMOYYXAAITlxz.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795314140139-01dlzv",
+    "source": "x",
+    "ts": "2026-11-22T02:22:20.139Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 87,
+    "originTimestamp": "2026-11-22T00:54:42.000Z",
+    "reason": "No notable move or price change mentioned.",
+    "text": "Looks like an SI curve",
+    "url": "https://x.com/elonmusk/status/2124325451908948451"
+  },
+  {
+    "id": "x-1795314142675-4kvsgc",
+    "source": "x",
+    "ts": "2026-11-22T02:22:22.675Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 75,
+    "originTimestamp": "2026-11-22T01:06:36.000Z",
+    "reason": "No crypto content or relevant market movement mentioned.",
+    "text": "Taking Tesla FSD V15 on the highway. Love all the floating arrows lol",
+    "url": "https://x.com/elonmusk/status/2124325092717126057"
   }
 ]
