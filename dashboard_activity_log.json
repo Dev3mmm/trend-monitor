@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795136599602-u50tm9",
-    "source": "x",
-    "ts": "2026-11-20T01:03:19.602Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-20T00:57:26.000Z",
-    "reason": "No notable move or specific, verifiable event.",
-    "text": "🚨BREAKING: Over $120,000,000,000 wiped from Asia's AI chip giants within the first 30 minutes of trading.",
-    "url": "https://x.com/coinbureau/status/2123581447634374917"
-  },
-  {
-    "id": "x-1795137122024-rfmnx9",
-    "source": "x",
-    "ts": "2026-11-20T01:12:02.024Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-20T01:03:07.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Iran Threats to Americans Surge: DNI Jay Clayton, Rubio, Washington Dirty Bomb Report 🚨\n\nWatch how Clayton and Rubio answered lawmakers on Iran threats as US strikes pass 8 months. Watch the full deep dive 🎥",
-    "url": "https://x.com/BSCNews/status/2123583668665143445"
-  },
-  {
     "id": "x-1795137865602-4w38wo",
     "source": "x",
     "ts": "2026-11-20T01:24:25.602Z",
@@ -7649,6 +7623,37 @@
     "images": [
       "https://pbs.twimg.com/media/HXw_VgdWAAAMkhk.png",
       "https://pbs.twimg.com/media/HXw_Vw0XwAAatRp.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795390334474-ozvj1r",
+    "source": "x",
+    "ts": "2026-11-22T23:32:14.474Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-22T23:30:56.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🔥  NEW: This is now Bitcoin's second worst November and its second worst Q4.",
+    "url": "https://x.com/Cointelegraph/status/2124646845133599140"
+  },
+  {
+    "id": "x-1795390339780-0a2czy",
+    "source": "x",
+    "ts": "2026-11-22T23:32:19.780Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-22T23:29:00.000Z",
+    "reason": "Notable institutional integration with a new blockchain network.",
+    "text": "Leading perps DEX adds support for Sonic's L1.\n\n@EVEDEX, which claims 83,000+ traders on its platform, now accepts deposits directly from @SonicLabs' blockchain network.\n\nThese deposits are automatically converted into USD margin on the platform.\n\nOriginally built around the",
+    "url": "https://x.com/BSCNews/status/2124646357311054190",
+    "images": [
+      "https://pbs.twimg.com/media/HXt31kCXQAA8taQ.jpg"
     ],
     "video": null
   }
