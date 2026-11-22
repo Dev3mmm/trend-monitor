@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795119777448-8lg69u",
-    "source": "x",
-    "ts": "2026-11-19T20:22:57.448Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-19T20:19:00.000Z",
-    "reason": "Coinbase's blog series on security measures is noteworthy as it provides insights into its strengthened security protocols.",
-    "text": "A valid signature is not enough for Coinbase to send your crypto\n\n@coinbase started a 10-part blog series today called Security Proof of Work, with a new part each week on how it is strengthening its security.\n\nPart one covers its intent check, which confirms that the asset, the",
-    "url": "https://x.com/BSCNews/status/2123511378585551171",
-    "images": [
-      "https://pbs.twimg.com/media/HXgnffWXkAEIYSM.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795119779750-hueror",
-    "source": "x",
-    "ts": "2026-11-19T20:22:59.750Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-19T20:18:41.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🎬 NOW STREAMING: Netflix's The Altruists revisits the FTX collapse. Here's where the real people are four years later.\n\n1. Sam Bankman-Fried: Serving 25 years in prison. His conviction was upheld in June, with a Supreme Court petition and pardon request pending.\n\n2. Caroline",
-    "url": "https://x.com/Cointelegraph/status/2123511300638802038"
-  },
-  {
-    "id": "x-1795119781525-5u3cky",
-    "source": "x",
-    "ts": "2026-11-19T20:23:01.525Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-19T20:10:44.000Z",
-    "reason": "No notable crypto-related event or use of crypto involved.",
-    "text": "@coinbase Picked up Orcarina of Time.\n\nGonna run through Hyrule field this weekend while everyone else is in GTA VI.",
-    "url": "https://x.com/coinbase/status/2123511157390770593"
-  },
-  {
     "id": "x-1795119783644-qmvgso",
     "source": "x",
     "ts": "2026-11-19T20:23:03.644Z",
@@ -7643,5 +7599,44 @@
       "https://pbs.twimg.com/media/HXuTmxKbgAAe5Sw.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795350170744-9eig94",
+    "source": "x",
+    "ts": "2026-11-22T12:22:50.744Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-22T12:20:00.000Z",
+    "reason": "Generic macroeconomic commentary without specific crypto-related news.",
+    "text": "🚨 ALL EYES are now on Monday's open.\n\nThe AI selloff went global, and world stocks have lost over $9 TRILLION since August.\n\nThe S&amp;P 500 alone lost $6 TRILLION in 5 days.\n\nSo what happens Monday? History is split down the middle:\n\n1. Oct 1987: The S&amp;P fell 20.5% on Black Monday",
+    "url": "https://x.com/coinbureau/status/2124477998078349459"
+  },
+  {
+    "id": "x-1795350172674-ywtyd5",
+    "source": "x",
+    "ts": "2026-11-22T12:22:52.674Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-22T12:17:24.000Z",
+    "reason": "No relevant crypto content mentioned",
+    "text": "Starlink saves lives",
+    "url": "https://x.com/elonmusk/status/2124477713142665551"
+  },
+  {
+    "id": "x-1795350175749-usn6t8",
+    "source": "x",
+    "ts": "2026-11-22T12:22:55.749Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 71,
+    "originTimestamp": "2026-11-22T11:11:40.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "@stevenmarkryan I cannot believe how new Grok Bot is and how integrated it already is in not only my businesses but my personal life.\n\n2027 is going to be life-changing for anyone actually using this technology. \n\nI feel bad for those on the sidelines or with their head in the sand.",
+    "url": "https://x.com/elonmusk/status/2124476655150530688"
   }
 ]
