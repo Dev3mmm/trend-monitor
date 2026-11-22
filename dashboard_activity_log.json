@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795128743272-z4jp7m",
-    "source": "x",
-    "ts": "2026-11-19T22:52:23.272Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T22:50:34.000Z",
-    "reason": "No notable crypto-related event or move mentioned.",
-    "text": "🤖 JUST IN: Polymarket traders give Google an 83% chance of having the top AI model by the end of 2026, followed by Anthropic at 15% and OpenAI at 4%.",
-    "url": "https://x.com/Cointelegraph/status/2123549521007300987"
-  },
-  {
-    "id": "x-1795128746729-e82xwe",
-    "source": "x",
-    "ts": "2026-11-19T22:52:26.729Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-19T22:44:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "What will lending on the XRP Ledger look like? Clearpool shows the full loan flow\n\n@ClearpoolFin published a demo today that runs a complete loan on the @XRP Ledger's test network. First an approved lender puts $RLUSD into a private vault. A broker checks the loan off-chain, and",
-    "url": "https://x.com/BSCNews/status/2123547869185749094"
-  },
-  {
-    "id": "x-1795129349467-aia8wl",
-    "source": "x",
-    "ts": "2026-11-19T23:02:29.467Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-19T23:00:00.000Z",
-    "reason": "Potential privacy breach and data exposure.",
-    "text": "JPMorgan Says Third-Party Service Providers Were The Target Of A Cyberattack.\n\n\"Based on our investigation so far, we believe the attackers accessed certain marketing data held by those vendors, which may include some customer names and email addresses,\" JPMorgan said.",
-    "url": "https://x.com/DecryptMedia/status/2123551896531030280",
-    "images": [
-      "https://pbs.twimg.com/media/HXf5u25W4AECWyW.png",
-      "https://pbs.twimg.com/media/HXf6JU7WUAAuCqI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795129943581-b2fq99",
     "source": "x",
     "ts": "2026-11-19T23:12:23.581Z",
@@ -7656,5 +7611,53 @@
     "reason": "No crypto-related content.",
     "text": "32 hour launch pad recycle. Great work by SpaceX team.",
     "url": "https://x.com/elonmusk/status/2124589255565680900"
+  },
+  {
+    "id": "x-1795377744016-pih154",
+    "source": "x",
+    "ts": "2026-11-22T20:02:24.016Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-22T20:00:01.000Z",
+    "reason": "No notable move in price is mentioned.",
+    "text": "🚨Bessent shrugs off concerns about Nvidia’s circular financing, citing “near unlimited demand” for its chips worldwide.\n\nDespite the leadership change, Bessent remains unworried about $NVDA. \n\nHe called the company “fantastically profitable” and said its CFO, now serving as",
+    "url": "https://x.com/coinbureau/status/2124593766153773250"
+  },
+  {
+    "id": "x-1795377748318-v6q5ip",
+    "source": "x",
+    "ts": "2026-11-22T20:02:28.318Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-22T20:00:00.000Z",
+    "reason": "Kraken confirmed proper order processing and no compromise in CAD trades.",
+    "text": "Kraken Says CAD Trades Stand After Bitcoin Briefly Hit CA$24,250.\n\nKraken said \"heavy selling pressure\" hit its CAD pairs from about 3 PM ET Friday, but its platform \"processed every order correctly\" and found \"no sign of a breach or compromised accounts.\"",
+    "url": "https://x.com/DecryptMedia/status/2124593762185941318",
+    "images": [
+      "https://pbs.twimg.com/media/HXvuPiwWIAAYDC_.png",
+      "https://pbs.twimg.com/media/HXvunZJXYAAl5VZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795377751164-jdae80",
+    "source": "x",
+    "ts": "2026-11-22T20:02:31.164Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-22T19:57:00.000Z",
+    "reason": "Specific mention of potential industry transformation.",
+    "text": "Can @telcoin $TEL actually transform the banking industry? Or is it all just talk...?\n\nRead now:",
+    "url": "https://x.com/BSCNews/status/2124593005461962947",
+    "images": [],
+    "video": null
   }
 ]
