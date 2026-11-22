@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795107745310-07tcwp",
-    "source": "x",
-    "ts": "2026-11-19T17:02:25.310Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-19T17:00:00.000Z",
-    "reason": "Notable bank adoption of a stablecoin for retail investments.",
-    "text": "HSBC Hong Kong Customers Can Now Use RedCoin Stablecoin To Invest In A Tokenized Money Market Fund.\n\nCustomers can invest as little as 100 RedCoin, or HK$100, the first time the stablecoin has been used for retail wealth management, the South China Morning Post reported.",
-    "url": "https://x.com/DecryptMedia/status/2123461299757822088",
-    "images": [
-      "https://pbs.twimg.com/media/HXetJopWUAAmzb4.jpg",
-      "https://pbs.twimg.com/media/HXetU2aXAAAvrW5.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795107748442-kfz0i8",
-    "source": "x",
-    "ts": "2026-11-19T17:02:28.442Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 29,
-    "originTimestamp": "2026-11-19T16:33:17.000Z",
-    "reason": "No notable move in Ethereum price, price is within its recent range.",
-    "text": "BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his company is enjoying working with SpaceX.\n\n“We're finding that compute to be high quality. We're enjoying working with SpaceX.”",
-    "url": "https://x.com/elonmusk/status/2123461205675147509"
-  },
-  {
-    "id": "x-1795107751136-pimpf1",
-    "source": "x",
-    "ts": "2026-11-19T17:02:31.136Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-19T16:56:30.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Anthropic Stock Indicated to Open 33% Above IPO Price as AI Stocks Rally",
-    "url": "https://x.com/DecryptMedia/status/2123460417884155905"
-  },
-  {
     "id": "x-1795107755262-k75wg7",
     "source": "x",
     "ts": "2026-11-19T17:02:35.262Z",
@@ -7652,5 +7607,44 @@
       "https://pbs.twimg.com/media/HXpIlI0XkAA2SRI.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795310527763-nko210",
+    "source": "x",
+    "ts": "2026-11-22T01:22:07.763Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 55,
+    "originTimestamp": "2026-11-22T00:26:54.000Z",
+    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
+    "text": "Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas.",
+    "url": "https://x.com/elonmusk/status/2124312077623767081"
+  },
+  {
+    "id": "x-1795310531442-dny0zb",
+    "source": "x",
+    "ts": "2026-11-22T01:22:11.442Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 22,
+    "originTimestamp": "2026-11-22T00:59:26.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "If you zoom out a little further, you can see our simulation playing on the screen of the creators.",
+    "url": "https://x.com/elonmusk/status/2124312067176005737"
+  },
+  {
+    "id": "x-1795310538283-yzug78",
+    "source": "x",
+    "ts": "2026-11-22T01:22:18.283Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-22T01:15:23.000Z",
+    "reason": "Noise: Generic information with no specific factual claim related to crypto or blockchain technology.",
+    "text": "🇺🇸 What it costs to die in America:\n\nEmbalming: $845\nMetal casket: $2,500\nBurial funeral with vault: $9,995\nFuneral with cremation: $6,280\nDirect cremation, no service: $2,550\nFuneral with viewing and burial: $8,300\nFederal estate tax: 40% above $15 million\nOregon estate tax:",
+    "url": "https://x.com/coinbureau/status/2124310741956350338"
   }
 ]
