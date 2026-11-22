@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795123329740-e9d5fz",
-    "source": "x",
-    "ts": "2026-11-19T21:22:09.740Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-19T21:13:15.000Z",
-    "reason": "Notable institutional reaction to AI company Anthropic IPO.",
-    "text": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-    "url": "https://x.com/DecryptMedia/status/2123525030940164097",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795123962847-2hs1pm",
     "source": "x",
     "ts": "2026-11-19T21:32:42.847Z",
@@ -7650,6 +7634,22 @@
     "images": [
       "https://pbs.twimg.com/media/HXvmM5na0AAGsqw.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795368749144-fem2or",
+    "source": "x",
+    "ts": "2026-11-22T17:32:29.144Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-22T17:30:17.000Z",
+    "reason": "Exploit involving Solana and Cyber token.",
+    "text": "🇰🇷 REKT: Upbit and Bithumb froze $CYBER deposits and withdrawals after someone minted unbacked tokens on Solana and drained Cyber's Ethereum bridge lockbox, just days after Korea told exchanges they can freeze transfers on suspicion alone.",
+    "url": "https://x.com/Cointelegraph/status/2124556084383773100",
+    "images": [],
     "video": null
   }
 ]
