@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795125364156-y45svm",
-    "source": "x",
-    "ts": "2026-11-19T21:56:04.156Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 23,
-    "originTimestamp": "2026-11-19T21:32:34.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "It’s been earning rewards that will likely outpace the 529 paying for my little one's college one day…",
-    "url": "https://x.com/coinbase/status/2123534304273900024"
-  },
-  {
     "id": "x-1795125368445-ek2yaf",
     "source": "x",
     "ts": "2026-11-19T21:56:08.445Z",
@@ -7661,5 +7648,23 @@
     "reason": "No notable financial or crypto-specific move, just a quote from a public figure.",
     "text": "🔥BOLD: President Trump blames Democrats for the U.S. stock selloff, saying the market has lost more than $6 TRILLION since their election win and the Nasdaq is down 20%.",
     "url": "https://x.com/coinbureau/status/2124562473051402314"
+  },
+  {
+    "id": "x-1795371114200-ornpm5",
+    "source": "x",
+    "ts": "2026-11-22T18:11:54.200Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CryptoNewsLive",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-22T18:06:26.000Z",
+    "reason": "Notable trading volume and price movement in a short period.",
+    "text": "Binance Futures traded $757M of EVAAUSDT by 17:30 UTC on Nov 22, against a $15.8M market cap per DefiLlama. $EVAA fell 64.4% on the day, from $6.4594 to about $2.30, after a 491% rise in eight days.",
+    "url": "https://x.com/CryptoNwsOrg/status/2124565179870622105",
+    "images": [
+      "https://pbs.twimg.com/media/HXv4weXX0AAsZSB.jpg"
+    ],
+    "video": null
   }
 ]
