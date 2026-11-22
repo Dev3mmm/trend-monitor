@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795113804764-7qkmb5",
-    "source": "x",
-    "ts": "2026-11-19T18:43:24.764Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T18:41:53.000Z",
-    "reason": "U.S. investment firms made a significant purchase of BTC, increasing their holdings to a record.",
-    "text": "JUST IN: 🇺🇸 U.S. investment firms bought a net 49,229 BTC in Q3, according to Galaxy Research 👀\n\nThey now hold a record 356,491 BTC worth ~$29.78 billion 🤯",
-    "url": "https://x.com/BitcoinMagazine/status/2123486939982569691",
-    "images": [
-      "https://pbs.twimg.com/media/HXgkHeuW8AES3yJ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795113807728-mx3odw",
-    "source": "x",
-    "ts": "2026-11-19T18:43:27.728Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-19T18:34:00.000Z",
-    "reason": "New tokenized ETF from a crypto platform.",
-    "text": "One token, five tokenized ETFs... Find out what sits inside BIG5on, the newest portfolio token from @Ondo ($ONDO) ⬇️",
-    "url": "https://x.com/BSCNews/status/2123484955498172862",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795114330724-8jk3nl",
     "source": "x",
     "ts": "2026-11-19T18:52:10.724Z",
@@ -7669,5 +7635,36 @@
     "url": "https://x.com/BSCNews/status/2124415838208094642",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795336343843-67jv7g",
+    "source": "x",
+    "ts": "2026-11-22T08:32:23.843Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-22T08:30:18.000Z",
+    "reason": "Exploit affecting user security and former Mt. Gox CEO's commentary on the issue.",
+    "text": "🚨 NEW: Pump fun is killing external wallet login on Nov 30, and former Mt. Gox CEO Mark Karpelès is slamming it for asking users to paste their private keys into the site.",
+    "url": "https://x.com/Cointelegraph/status/2124420192809722075",
+    "images": [
+      "https://pbs.twimg.com/media/HXt05xCXQAATtUT.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795336348338-zd6cmu",
+    "source": "x",
+    "ts": "2026-11-22T08:32:28.338Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-22T08:24:12.000Z",
+    "reason": "Tweet is in Chinese and unrelated to crypto.",
+    "text": "最近看新款的阿尔法和维尔法都是流媒体的后视镜，我好奇问了一下，小伙伴沉默了一下和我说，这样司机就看不到后排了。\n\n我稍微愣了一下，然后才明白。",
+    "url": "https://x.com/PhyrexNi/status/2124418656612540585"
   }
 ]
