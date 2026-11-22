@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1795122262860-wdhzau",
-    "source": "x",
-    "ts": "2026-11-19T21:04:22.860Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-19T20:52:04.000Z",
-    "reason": "Generic hype with no factual claim.",
-    "text": "BREAKING: 20 hours until @MetaWin’s Free-To-Enter $25,000 Prize draws\n\nEveryone who makes a  account earns 1x free entry\n\nAdditional entries may be purchased",
-    "url": "https://x.com/BSCNews/status/2123519699422265357"
-  },
-  {
-    "id": "x-1795122723868-qyg13l",
-    "source": "x",
-    "ts": "2026-11-19T21:12:03.868Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T21:10:21.000Z",
-    "reason": "Normalization and high open interest indicate ongoing recovery and institutional interest.",
-    "text": "🚨 JUST IN: Binance exchange flows have normalized following the October 29 hack, with trading volumes remaining elevated and Bitcoin and Ethereum open interest reaching one-month highs, per CryptoQuant.",
-    "url": "https://x.com/Cointelegraph/status/2123524302183993730",
-    "images": [
-      "https://pbs.twimg.com/media/HXhGGUcXIAA9mya.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795123322316-xtmnv3",
-    "source": "x",
-    "ts": "2026-11-19T21:22:02.316Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-19T21:20:20.000Z",
-    "reason": "Price far outside recent range for Anthropic futures on Hyperliquid.",
-    "text": "🚨 UPDATE: Anthropic futures on Hyperliquid traded at $110.48, just 0.91% below the stock’s $111.50 Nasdaq opening price, with 24-hour trading volume reaching $545.7 million.",
-    "url": "https://x.com/Cointelegraph/status/2123526814660202611",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795123324905-pxjdf6",
     "source": "x",
     "ts": "2026-11-19T21:22:04.905Z",
@@ -7643,6 +7596,53 @@
     "images": [
       "https://pbs.twimg.com/media/HXu59CNacAAbHWo.jpg",
       "https://pbs.twimg.com/media/HXu59FcbwAAjMag.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795365125855-zabrp7",
+    "source": "x",
+    "ts": "2026-11-22T16:32:05.855Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-22T16:30:16.000Z",
+    "reason": "Taiwan considering changes to margin trading rules, potentially impacting crypto markets.",
+    "text": "🇹🇼 JUST IN: After its worst week in 35 years, Taiwan is considering letting margin traders run lower collateral, cutting the minimum maintenance ratio from 130% to 120%.",
+    "url": "https://x.com/Cointelegraph/status/2124540979566784799",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795365128235-4aupi8",
+    "source": "x",
+    "ts": "2026-11-22T16:32:08.235Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-22T16:25:09.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "🚨ALERT: “Black Monday” fears mount in S. Korea after last Friday’s U.S. stock selloff, urging officials to prepare a market stabilization fund, per The Korea Times.\n\nThe index fell 5.2% Friday to close below 5,000, its LOWEST close in 10 months.\n\nThe Kospi is now 48% below its",
+    "url": "https://x.com/coinbureau/status/2124539692117090468"
+  },
+  {
+    "id": "x-1795365131182-drzs42",
+    "source": "x",
+    "ts": "2026-11-22T16:32:11.182Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-22T16:25:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Monad breaks its own speed record!\n\nAccording to @monad founder @keoneHD, the L1 blockchain has hit a brand-new TPS record at 133.75 tx/s.\n\nThe $MON ecosystem has had an impressive year so far, despite market conditions, rising to become the 7th largest blockchain by TVL.",
+    "url": "https://x.com/BSCNews/status/2124539653961441558",
+    "images": [
+      "https://pbs.twimg.com/media/HXt3dWlXwAAP8vk.jpg"
     ],
     "video": null
   }
