@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795107755262-k75wg7",
-    "source": "x",
-    "ts": "2026-11-19T17:02:35.262Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-19T16:55:20.000Z",
-    "reason": "IPO with unprecedented cash reserves and revenue growth",
-    "text": "🚨 NEW: Anthropic $ANT walks out of its IPO with one of the largest cash piles in corporate history.\n\n1. Revenue: $33.24B in nine months, up about 1,200%\n2. Run rate: $81B, up about $10B in October alone\n3. Net loss: $104B in nine months, $94.3B of it a non-cash accounting charge",
-    "url": "https://x.com/Cointelegraph/status/2123460127344759284",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795107758853-1dya21",
     "source": "x",
     "ts": "2026-11-19T17:02:38.853Z",
@@ -7646,5 +7630,23 @@
     "reason": "Noise: Generic information with no specific factual claim related to crypto or blockchain technology.",
     "text": "🇺🇸 What it costs to die in America:\n\nEmbalming: $845\nMetal casket: $2,500\nBurial funeral with vault: $9,995\nFuneral with cremation: $6,280\nDirect cremation, no service: $2,550\nFuneral with viewing and burial: $8,300\nFederal estate tax: 40% above $15 million\nOregon estate tax:",
     "url": "https://x.com/coinbureau/status/2124310741956350338"
+  },
+  {
+    "id": "x-1795311118030-flivlc",
+    "source": "x",
+    "ts": "2026-11-22T01:31:58.030Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-22T01:30:16.000Z",
+    "reason": "Exploit involving significant crypto theft and quick asset swaps.",
+    "text": "🚨 REKT: Someone signed their way out of Chainflip's Ethereum vault with $4.86M, had the ETH in Tornado Cash within 10 minutes, and $FLIP dumped over 31%.",
+    "url": "https://x.com/Cointelegraph/status/2124314489344401794",
+    "images": [
+      "https://pbs.twimg.com/media/HXsUxLSXgAAbnXT.png"
+    ],
+    "video": null
   }
 ]
