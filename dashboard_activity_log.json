@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795167304060-bz5avc",
-    "source": "x",
-    "ts": "2026-11-20T09:35:04.060Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-20T09:27:04.000Z",
-    "reason": "No notable crypto-related information provided.",
-    "text": "🇯🇵 NOW: Japan’s inflation rose to 2.3% YoY in October, up from 2.1% in September.\n\nCore CPI climbed to 2.2%, above the Bank of Japan’s 2% target for a second straight month, reinforcing expectations for a December rate hike.",
-    "url": "https://x.com/Cointelegraph/status/2123709704807346552"
-  },
-  {
-    "id": "x-1795167309770-d1ej30",
-    "source": "x",
-    "ts": "2026-11-20T09:35:09.770Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-20T09:25:07.000Z",
-    "reason": "Significant loss of funds by a major cryptocurrency exchange.",
-    "text": "Binance Hacker Moves $594M in ETH Over Two Days, Launders Funds via Chainflip and THORChain\n\nAccording to Onchain Lens, the Binance hacker transferred approximately $594 million worth of ETH over the past two days, including $248 million on November 19 and another 197,460 ETH",
-    "url": "https://x.com/WuBlockchain/status/2123709212010434813",
-    "images": [
-      "https://pbs.twimg.com/media/HXjuQ2IbIAAhYq1.png",
-      "https://pbs.twimg.com/media/HXjuRMgakAAx7L8.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795168312851-ml2qdy",
     "source": "x",
     "ts": "2026-11-20T09:51:52.851Z",
@@ -7587,5 +7555,41 @@
     "reason": "The tweet contains irrelevant and offensive content unrelated to cryptocurrency or finance.",
     "text": "Before you marry a woman, especially the so-called \"educated, empowered\" women, visit a children's or Divorce court.",
     "url": "https://x.com/amerix/status/2124785240912658734"
+  },
+  {
+    "id": "x-1795424606869-p86xkf",
+    "source": "x",
+    "ts": "2026-11-23T09:03:26.869Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T09:01:17.000Z",
+    "reason": "Notable political figure endorsing a specific meme-based cryptocurrency.",
+    "text": "🇺🇸 LATEST: Pres. Trump says his support for crypto is aimed at keeping the United States ahead of China, speaking at a gala for $TRUMP memecoin holders.",
+    "url": "https://x.com/Cointelegraph/status/2124790379413131762",
+    "images": [
+      "https://pbs.twimg.com/media/HXzFllUWsAAhXV0.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795424610355-6b9n2g",
+    "source": "x",
+    "ts": "2026-11-23T09:03:30.355Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-23T08:55:00.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "BREAKING: 🇹🇼Taiwan's stock market ADDED $78,000,000,000 as AI chip shares bounced.\n\nThis comes after regulators restricted short selling and deployed a $15B fund to support the market.",
+    "url": "https://x.com/coinbureau/status/2124788797162610966",
+    "images": [
+      "https://pbs.twimg.com/media/HXzDwGJb0AAq8F8.png"
+    ],
+    "video": null
   }
 ]
