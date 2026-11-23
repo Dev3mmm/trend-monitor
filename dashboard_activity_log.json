@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1795228396566-wtr4na",
-    "source": "x",
-    "ts": "2026-11-21T02:33:16.566Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-21T02:30:20.000Z",
-    "reason": "New Tether fund targeting yield from $XAUt token",
-    "text": "🔥 NEW: Two people close to Tether are raising a fund to squeeze yield out of $XAUt.\n\nThey're targeting 4% on top of gold and $100M AUM in year one.",
-    "url": "https://x.com/Cointelegraph/status/2123967216316039228",
-    "images": [
-      "https://pbs.twimg.com/media/HXnY6uzWwAAvcG9.jpg",
-      "https://pbs.twimg.com/media/HXnY7HIWQAEz_Dr.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795228400288-i08o0j",
-    "source": "x",
-    "ts": "2026-11-21T02:33:20.288Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-21T02:30:01.000Z",
-    "reason": "Significant hack affecting a popular privacy-focused cryptocurrency token.",
-    "text": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host\n\nWagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
-    "url": "https://x.com/DecryptMedia/status/2123967135458185341",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795228403955-9bpxkd",
     "source": "x",
     "ts": "2026-11-21T02:33:23.955Z",
@@ -7616,5 +7581,31 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "It's my X birthday, been here now 20 years.\n\nX is best for AI. \n\nAnd AI's best here on X is here. Very awesome to watch on high-news days, like today. \n\nOr, even better, have your GrokBot watch it, along with any of my other 65 lists (most complete here on X of AI, tech, news):",
     "url": "https://x.com/elonmusk/status/2124940153416245721"
+  },
+  {
+    "id": "x-1795461294394-cga1tg",
+    "source": "x",
+    "ts": "2026-11-23T19:14:54.394Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-23T19:07:21.000Z",
+    "reason": "Generic statement without factual claim or action.",
+    "text": "We don't need a ₿ailout.",
+    "url": "https://x.com/saylor/status/2124942899356082554"
+  },
+  {
+    "id": "x-1795461297146-5srpbv",
+    "source": "x",
+    "ts": "2026-11-23T19:14:57.146Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 18,
+    "originTimestamp": "2026-11-23T18:56:46.000Z",
+    "reason": "No notable move in price or news.",
+    "text": "Everyone I know at Nvidia wanted Jensen back and it shows",
+    "url": "https://x.com/elonmusk/status/2124942828274925651"
   }
 ]
