@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795271597978-xr0izk",
-    "source": "x",
-    "ts": "2026-11-21T14:33:17.978Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-21T14:30:00.000Z",
-    "reason": "Firm uses significant bitcoin amount and price",
-    "text": "Twenty One Adds 172.25 $BTC, Bringing Its Stack To About 43,841.\n\nThe firm said it paid about $10 million in cash at an average price of about $58,054 per bitcoin.",
-    "url": "https://x.com/DecryptMedia/status/2124148325452570914",
-    "images": [
-      "https://pbs.twimg.com/media/HXo_0Y5X0AASH-B.png",
-      "https://pbs.twimg.com/media/HXpAPUIWQAAyuke.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795271602257-5h4tua",
-    "source": "x",
-    "ts": "2026-11-21T14:33:22.257Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-21T14:24:00.000Z",
-    "reason": "No notable move in price or significant event described.",
-    "text": "Updates might have been few and far between in 2026 so far, but that doesn't necessarily mean that @Telcoin $TEL doesn't have big plans... ⬇️",
-    "url": "https://x.com/BSCNews/status/2124146815452987607"
-  },
-  {
     "id": "x-1795272734769-wyywjr",
     "source": "x",
     "ts": "2026-11-21T14:52:14.769Z",
@@ -7561,5 +7529,36 @@
       "https://pbs.twimg.com/media/HXzjtUeWUAAvyYw.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795476947057-ip1o5p",
+    "source": "x",
+    "ts": "2026-11-23T23:35:47.057Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-23T23:31:00.000Z",
+    "reason": "Regulatory move affecting crypto derivatives market.",
+    "text": "🇺🇸 NEW: The CFTC publishes a final rule creating a data-reporting framework for certain fully collateralized event contracts.",
+    "url": "https://x.com/Cointelegraph/status/2125009247549218987",
+    "images": [
+      "https://pbs.twimg.com/media/HX2MpavWkAEVr2H.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795476951338-qzh82u",
+    "source": "x",
+    "ts": "2026-11-23T23:35:51.338Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T23:30:00.000Z",
+    "reason": "No notable move in ETH price, price is within its recent range.",
+    "text": "Google DeepMind Used Teams Of Gemini 4 Agents To Improve Quantum Algorithms, Proving Each Result In Lean.\n\nFor Cytochrome P450, an enzyme that breaks down most human medicines, DeepMind said the agents found a 2.5x improvement and lowered memory from 481 to 333 qubits.",
+    "url": "https://x.com/DecryptMedia/status/2125008997669376331"
   }
 ]
