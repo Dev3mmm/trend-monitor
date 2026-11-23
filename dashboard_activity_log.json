@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795179122905-cmzfqb",
-    "source": "x",
-    "ts": "2026-11-20T12:52:02.905Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-20T12:36:57.000Z",
-    "reason": "No notable move in crypto prices or relevant institutional news.",
-    "text": "📊 Trump's latest financial disclosure lists 751 September trades worth $40.9 million to $148.1 million, including Nvidia, Palantir and SpaceX purchases.\n\nThe White House says independent managers make all investment decisions, and there is no evidence Trump directed the trades.",
-    "url": "https://x.com/BSCNews/status/2123760507371085946"
-  },
-  {
-    "id": "x-1795179127883-rqslz5",
-    "source": "x",
-    "ts": "2026-11-20T12:52:07.883Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-20T12:47:00.000Z",
-    "reason": "No notable move in volume reported.",
-    "text": "While Aptos DEX Volume Slides, Hyperion Keeps Growing\n\nHyperion (@hyperion_xyz) executed nearly $2.3 million in DEX volume over the last seven days, up 23.46%, according to DefiLlama. \n\nIt's the largest weekly gainer among all @Aptos DEXes.\n\nThe increase came despite a drop of",
-    "url": "https://x.com/BSCNews/status/2123760017169960997"
-  },
-  {
-    "id": "x-1795179135235-e9lfj5",
-    "source": "x",
-    "ts": "2026-11-20T12:52:15.235Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-20T12:45:00.000Z",
-    "reason": "OpenAI's announcement of Dots integration with ChatGPT Plus is notable as it represents a new use case for the platform.",
-    "text": "OpenAI Starts Testing Dots With \"A Small Number Of ChatGPT Plus Users.\"\n\nDots are rolling out to eligible ChatGPT Business Standard members in the US, OpenAI's help center says, while Plus access excludes the European Economic Area, the UK and Switzerland.",
-    "url": "https://x.com/DecryptMedia/status/2123759514977505577",
-    "images": [
-      "https://pbs.twimg.com/media/HXj2vfbW0AAfZxE.png",
-      "https://pbs.twimg.com/media/HXj3vKRWcAA-h0x.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795179753605-6mxu69",
     "source": "x",
     "ts": "2026-11-20T13:02:33.605Z",
@@ -7572,5 +7527,61 @@
     "reason": "No notable move, statement is vague and not specific.",
     "text": "Solar energy is the future.",
     "url": "https://x.com/amerix/status/2124828455137153426"
+  },
+  {
+    "id": "x-1795434707735-zdkklt",
+    "source": "x",
+    "ts": "2026-11-23T11:51:47.735Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-23T11:48:00.000Z",
+    "reason": "Significant community rejection of Foundation funding, on-chain voting data verified.",
+    "text": "Cardano's Community Told the Foundation No, and the Margin Is Huge\n\nThe @Cardano community is rejecting a $3.6M proposal to allocate treasury funds to the Cardano Foundation to support international conference expenses in 2027.\n\nOn-chain voting data shows community members",
+    "url": "https://x.com/BSCNews/status/2124832333022867718",
+    "images": [
+      "https://pbs.twimg.com/media/HXzpQ7YXwAA5rI4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795434710007-nng8bx",
+    "source": "x",
+    "ts": "2026-11-23T11:51:50.007Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T11:45:06.000Z",
+    "reason": "Potential delisting and asset deeming as caution by major exchanges.",
+    "text": "🇰🇷 ALERT: Korea's Upbit and Bithumb flag Sky Protocol’s SKY and USDS as caution assets, halting deposits ahead of a potential delisting decision in late December.\n\nSky processed a record $2B+ in USDS redemptions on Nov 19.",
+    "url": "https://x.com/Cointelegraph/status/2124831602182078877",
+    "images": [
+      "https://pbs.twimg.com/media/HXzrE3QXkAA2ZiY.jpg",
+      "https://pbs.twimg.com/media/HXzrFGwWUAAWc59.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795434711864-xu2jey",
+    "source": "x",
+    "ts": "2026-11-23T11:51:51.864Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-23T11:45:00.000Z",
+    "reason": "Regulatory move affecting cryptocurrency exchanges.",
+    "text": "South Korea's FSC Chief Vows To Thoroughly Manage Transfers To High-Risk Crypto Exchanges.\n\nIn prepared remarks Monday, Financial Services Commission Chairman Lee Eog-weon said regulators will thoroughly manage fund transfers to high-risk overseas exchanges and personal wallets",
+    "url": "https://x.com/DecryptMedia/status/2124831578337784137",
+    "images": [
+      "https://pbs.twimg.com/media/HXzNbIrXAAA_KPz.jpg",
+      "https://pbs.twimg.com/media/HXzN14aWcAAq7ZY.jpg"
+    ],
+    "video": null
   }
 ]
