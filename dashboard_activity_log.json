@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795185747411-nvit6f",
-    "source": "x",
-    "ts": "2026-11-20T14:42:27.411Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-20T14:36:04.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "What are you actually buying when you buy an option?\n\nStart with the contract: the underlying asset, strike price, expiry, and premium.\n\nGet to know the terms ↓",
-    "url": "https://x.com/coinbase/status/2123788449073537183"
-  },
-  {
-    "id": "x-1795185751026-bdk2ai",
-    "source": "x",
-    "ts": "2026-11-20T14:42:31.026Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-20T14:37:26.000Z",
-    "reason": "Prediction with no basis given",
-    "text": "LIVE: Fed Hike Odds: Who Buys Bitcoin in a Bear Market? | BMTV Nov. 20, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2123787810947666398"
-  },
-  {
-    "id": "x-1795186389178-w42ui7",
-    "source": "x",
-    "ts": "2026-11-20T14:53:09.178Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-20T14:47:03.000Z",
-    "reason": "No factual claim or verifiable event, just a speculative and unconfirmed statement.",
-    "text": "🚨 BREAKING: US stocks collapse at open erasing -$500,000,000,000 in market cap within minutes.\n\nTech stocks today:\n\n1. Anthropic, $ANT : -8.01%\n2. SanDisk, $SNDK: -8.07%\n3. Western Digital, $WDC: -6.80%\n4. Arm, $ARM: -6.41%\n5. AMD, $AMD: -6.32%\n6. Micron, $MU: -6.06%\n7. Marvell",
-    "url": "https://x.com/coinbureau/status/2123790228548899231"
-  },
-  {
     "id": "x-1795186989436-01xu6e",
     "source": "x",
     "ts": "2026-11-20T15:03:09.436Z",
@@ -7590,5 +7551,58 @@
     "reason": "No concrete price or event is explicitly stated or verified.",
     "text": "AI Bubble BURSTING? Bitcoin Plunges &amp; Anthropic IPO Shock",
     "url": "https://x.com/coinbureau/status/2124850524499451999"
+  },
+  {
+    "id": "x-1795439530177-lb20fw",
+    "source": "x",
+    "ts": "2026-11-23T13:12:10.177Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T13:09:30.000Z",
+    "reason": "Czech Authorities taking action against an unlicensed crypto casino",
+    "text": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
+    "url": "https://x.com/DecryptMedia/status/2124852842640912705",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795439535664-eemnie",
+    "source": "x",
+    "ts": "2026-11-23T13:12:15.664Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-23T13:07:11.000Z",
+    "reason": "Michael Saylor's significant BTC purchase is noteworthy as it involves a notable figure in the crypto space.",
+    "text": "BREAKING: Michael Saylor's Strategy buys 457 BTC worth $27.9 million 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2124852259330683349",
+    "images": [
+      "https://pbs.twimg.com/media/HXz915vWkAAa5ea.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795439541126-ue8vx9",
+    "source": "x",
+    "ts": "2026-11-23T13:12:21.126Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-23T13:03:34.000Z",
+    "reason": "Saylor's significant BTC purchases highlight his bullish stance.",
+    "text": "🔥 JUST IN: Michael Saylor's Strategy buys another 457 $BTC for $29.6M, bringing its total holdings to 851,305 BTC.\n\nThe company also repurchased $211.8M worth of STRC preferred stock over the past week.",
+    "url": "https://x.com/Cointelegraph/status/2124851350336872620",
+    "images": [
+      "https://pbs.twimg.com/media/HXz9CRTXcAIhxUs.jpg",
+      "https://pbs.twimg.com/media/HXz9CoBXkAERzTG.jpg"
+    ],
+    "video": null
   }
 ]
