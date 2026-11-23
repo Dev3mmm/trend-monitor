@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795241517202-96h6d3",
-    "source": "x",
-    "ts": "2026-11-21T06:11:57.202Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-21T06:06:00.000Z",
-    "reason": "Deflationary move of a significant native token noteworthy for its ongoing nature.",
-    "text": "The $OSMO token going deflationary...?!\n\nAccording to @osmosis's new OSMOscope dashboard, the DEX's native token has been net deflationary for nearly the entirety of the past month.\n\nCalculated on an annualised basis, November 5 was $OSMO's most deflationary day for some time,",
-    "url": "https://x.com/BSCNews/status/2124021489833816537",
-    "images": [
-      "https://pbs.twimg.com/media/HXkTr8UXUAAdywu.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795242732076-7fi79q",
-    "source": "x",
-    "ts": "2026-11-21T06:32:12.076Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-21T06:26:43.000Z",
-    "reason": "No notable crypto-related event mentioned.",
-    "text": "🇺🇸 JUST IN: The FBI is investigating a possible breach of its own national crime database.\n\nThat's two federal hacks in one week, after the USDA's farmer payment system got hit.",
-    "url": "https://x.com/Cointelegraph/status/2124026702892265644"
-  },
-  {
-    "id": "x-1795245118794-vd7n92",
-    "source": "x",
-    "ts": "2026-11-21T07:11:58.794Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-21T07:10:14.000Z",
-    "reason": "No notable crypto-specific news.",
-    "text": "🚨The S&amp;P 500 just recorded its first 7-day losing streak since the 2020 pandemic.\n\nAbout $7.4 TRILLION has been wiped out of the US stock market this week.\n\nTo put that figure into perspective:\n\nThe US stock market lost approximately $10.5 trillion between 2007 and 2009 during",
-    "url": "https://x.com/coinbureau/status/2124037656833085477"
-  },
-  {
     "id": "x-1795245706798-tvxj0a",
     "source": "x",
     "ts": "2026-11-21T07:21:46.798Z",
@@ -7594,5 +7550,59 @@
     "reason": "Predictive statement without evidence or historical data.",
     "text": "JUST IN: $5.4 billion Cardone Capital CEO Grant says Bitcoin's returns will continue to outperform real estate 👀\n\n\"I think the real estate will double in 10 years, and I think the Bitcoin will probably 5x in 10 years.\" 🚀",
     "url": "https://x.com/BitcoinMagazine/status/2124957055811547460"
+  },
+  {
+    "id": "x-1795465356837-f34z34",
+    "source": "x",
+    "ts": "2026-11-23T20:22:36.837Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T20:20:54.000Z",
+    "reason": "Tokenized equities reach record-breaking volume on Solana",
+    "text": "🚨 BIG: Tokenized equities on Solana hit a record $1.8 billion in weekly spot trading volume, accounting for 43% of all onchain equities volume.",
+    "url": "https://x.com/Cointelegraph/status/2124961407879839753",
+    "images": [
+      "https://pbs.twimg.com/media/HX1hI3cXkAAGE6q.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795465361430-ebx23h",
+    "source": "x",
+    "ts": "2026-11-23T20:22:41.430Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-23T20:18:00.000Z",
+    "reason": "USDC issuance on Injective platform grew significantly with a sixfold increase in a week.",
+    "text": "USDC on Injective grows sixfold in a week\n\n$USDC issued on @injective ($INJ) has reached $71.5 million, up from about $11 million a week ago.\n\nThe jump comes as @circle winds down USDC on Noble, which issued it for the Cosmos ecosystem. Cosmos chains and dYdX are switching to",
+    "url": "https://x.com/BSCNews/status/2124960678377132205",
+    "images": [
+      "https://pbs.twimg.com/media/HX1a_bqWsAAxRlN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795465364352-6q0adj",
+    "source": "x",
+    "ts": "2026-11-23T20:22:44.352Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-23T20:16:56.000Z",
+    "reason": "Exploit involving cryptocurrency theft",
+    "text": "🚨 ALERT: Over $600,000 in crypto was reportedly stolen from Trezor and Exodus wallets used on the same iPhone 17 Pro Max, according to an investigation by Onchain Lens.",
+    "url": "https://x.com/Cointelegraph/status/2124960412924027067",
+    "images": [
+      "https://pbs.twimg.com/media/HX0gCNuaAAEpyIY.jpg"
+    ],
+    "video": null
   }
 ]
