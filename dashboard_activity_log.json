@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795272734769-wyywjr",
-    "source": "x",
-    "ts": "2026-11-21T14:52:14.769Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 44,
-    "originTimestamp": "2026-11-21T14:07:49.000Z",
-    "reason": "The tweet is a meme and unrelated to crypto.",
-    "text": "太厉害了，看的我都有食欲了，现在小伙伴们做的视频越来越好了。29号，火锅🍲，管够。",
-    "url": "https://x.com/PhyrexNi/status/2124153772540830134"
-  },
-  {
-    "id": "x-1795273391263-ylbfyv",
-    "source": "x",
-    "ts": "2026-11-21T15:03:11.263Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-21T14:57:39.000Z",
-    "reason": "Significant percentage gains across multiple crypto assets",
-    "text": "MASSIVE: Crypto majors see huge bounce off last night’s lows!\n\n$BTC +8.4%\n$SOL +7.8%\n$BNB +7%\n$ETH +6.9%\n$XRP +5.4%",
-    "url": "https://x.com/BSCNews/status/2124155286692962490",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795274528262-f0u47q",
     "source": "x",
     "ts": "2026-11-21T15:22:08.262Z",
@@ -7560,5 +7531,34 @@
     "reason": "No notable move in ETH price, price is within its recent range.",
     "text": "Google DeepMind Used Teams Of Gemini 4 Agents To Improve Quantum Algorithms, Proving Each Result In Lean.\n\nFor Cytochrome P450, an enzyme that breaks down most human medicines, DeepMind said the agents found a 2.5x improvement and lowered memory from 481 to 333 qubits.",
     "url": "https://x.com/DecryptMedia/status/2125008997669376331"
+  },
+  {
+    "id": "x-1795477321772-t435nf",
+    "source": "x",
+    "ts": "2026-11-23T23:42:01.772Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 24,
+    "originTimestamp": "2026-11-23T23:17:31.000Z",
+    "reason": "Noise: vague and unverifiable personal scandal without concrete crypto-related claims.",
+    "text": "🚨 Alice Huang kept contact with China's Ministry of State Security for more than a year, Nvidia's Jensen Huang scandal widens\n\nThe video covers the contact timeline since spring 2025 and her Megaspeed International role. Watch the full deep dive 🎥",
+    "url": "https://x.com/BSCNews/status/2125010700724478182"
+  },
+  {
+    "id": "x-1795477326084-lqqfna",
+    "source": "x",
+    "ts": "2026-11-23T23:42:06.084Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T23:35:49.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "PRICE UPDATE: Canton Network ($cc) surged 7% in the last 24 hours",
+    "url": "https://x.com/BSCNews/status/2125010463167521088",
+    "images": [],
+    "video": null
   }
 ]
