@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795150932891-6ex7tr",
-    "source": "x",
-    "ts": "2026-11-20T05:02:12.891Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-20T04:52:33.000Z",
-    "reason": "Tweet is about Gold, not crypto and doesn't involve any cryptocurrency-related events or moves.",
-    "text": "🚨 UPDATE: Gold dropped below $3,540 an ounce and is down nearly 9% this week, its worst week since March, as a hawkish Fed and an AI stock rout push investors to sell.",
-    "url": "https://x.com/Cointelegraph/status/2123640618698039446"
-  },
-  {
     "id": "x-1795151524037-ye2f2x",
     "source": "x",
     "ts": "2026-11-20T05:12:04.037Z",
@@ -7619,6 +7606,24 @@
     "url": "https://x.com/BSCNews/status/2124713129481535557",
     "images": [
       "https://pbs.twimg.com/media/HXx912daEAAP31L.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795407749949-mfkhv7",
+    "source": "x",
+    "ts": "2026-11-23T04:22:29.949Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T04:20:00.000Z",
+    "reason": "Notable tax evasion and evasion of crypto income reporting by authorities.",
+    "text": "Japan Tracks Down $24.M in Hidden Crypto Income\n\nTokyo tax officials audited 91 crypto holders last fiscal year. \n\nThey uncovered 3.9 billion yen in underreported income, worth about $24.5 million. The audits led to an additional tax bill of $7.5 million.\n\nAuthorities used",
+    "url": "https://x.com/BSCNews/status/2124719590118760861",
+    "images": [
+      "https://pbs.twimg.com/media/HXyEbsbacAA8nuw.png"
     ],
     "video": null
   }
