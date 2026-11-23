@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795204955971-gqj0fd",
-    "source": "x",
-    "ts": "2026-11-20T20:02:35.971Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-20T20:00:02.000Z",
-    "reason": "No notable crypto-related news or move mentioned.",
-    "text": "Fed's Lisa Cook \"Skeptical\" September's Single Rate Hike \"Will Be Enough To Change The Path Of Inflation.\"\n\nThe Fed governor, who dissented in October in favor of another quarter-point hike, said in Chile that, in her view, \"financial conditions are too accommodative.\"",
-    "url": "https://x.com/DecryptMedia/status/2123868994885341652"
-  },
-  {
-    "id": "x-1795204960915-u24es4",
-    "source": "x",
-    "ts": "2026-11-20T20:02:40.915Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-20T19:59:32.000Z",
-    "reason": "Notable criminal activity involving stolen cryptocurrency",
-    "text": "🇰🇵 JUST IN: North Korea-linked hackers have laundered at least $149 million in Bitcoin stolen from Binance through coinjoin transactions, with 90% of the activity occurring since Tuesday, according to Elliptic.",
-    "url": "https://x.com/Cointelegraph/status/2123868867453678042",
-    "images": [
-      "https://pbs.twimg.com/media/HXl_eeNWgAAmR1b.jpg",
-      "https://pbs.twimg.com/media/HXl_eq-XQAA4LT4.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795206160391-0eg7fz",
     "source": "x",
     "ts": "2026-11-20T20:22:40.391Z",
@@ -7629,5 +7597,39 @@
     "reason": "No notable crypto-related event or use of crypto technology mentioned.",
     "text": "Trump Says He \"Convinced\" Nvidia's Board To Reinstate Jensen Huang.\n\nTrump told CNBC the board \"did ask for assurance on the national security threat,\" adding, \"we gave them assurances at least with everything we know, and we know a lot.\"",
     "url": "https://x.com/DecryptMedia/status/2124910855922040846"
+  },
+  {
+    "id": "x-1795453936036-srzw50",
+    "source": "x",
+    "ts": "2026-11-23T17:12:16.036Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T17:11:17.000Z",
+    "reason": "Regulatory update on crypto taxation legislation.",
+    "text": "BREAKING: @SenLummis says democrats voted against giving law enforcement the tools to track criminal cash in the Clarity Act",
+    "url": "https://x.com/BSCNews/status/2124913688956252204",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795453940213-dfsqq4",
+    "source": "x",
+    "ts": "2026-11-23T17:12:20.213Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T17:05:39.000Z",
+    "reason": "Noteworthy security and compliance response after a significant hack.",
+    "text": "Binance Hires Mandiant, SlowMist and Verichains for Independent Security Review Following $6.3B Hack\n\nFollowing the October 29 security breach that resulted in approximately $6.3 billion in stolen crypto assets, Binance announced that it has engaged three cybersecurity firms,",
+    "url": "https://x.com/WuBlockchain/status/2124912271906447410",
+    "images": [
+      "https://pbs.twimg.com/media/HX00chhaQAAdT50.jpg"
+    ],
+    "video": null
   }
 ]
