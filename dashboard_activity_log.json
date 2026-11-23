@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795162314088-h9irva",
-    "source": "x",
-    "ts": "2026-11-20T08:11:54.088Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-20T08:09:55.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "BREAKING: Confidential records reveal the US approved sales of Nvidia and AMD AI chips to China, including firms the Pentagon links to China’s military, per FT.\n\nThe files, released by the House Foreign Affairs Committee, show Nvidia and AMD applied to sell 3,444,160 AI chips to",
-    "url": "https://x.com/coinbureau/status/2123690287293964784"
-  },
-  {
-    "id": "x-1795163530659-2lyikk",
-    "source": "x",
-    "ts": "2026-11-20T08:32:10.659Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Rarma",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-20T08:29:47.000Z",
-    "reason": "No factual claim or notable event described.",
-    "text": "🐱 $LUNA",
-    "url": "https://x.com/Rarma_/status/2123695288431128663"
-  },
-  {
     "id": "x-1795163534321-3srnc1",
     "source": "x",
     "ts": "2026-11-20T08:32:14.321Z",
@@ -7588,5 +7562,39 @@
     "reason": "No concrete news or price movement, just a partial quote without context or supporting details.",
     "text": "🚨NEW: Binance co-founder Yi He reveals what really happened during the FTX collapse.\n\nNetflix portrays CZ as deliberately crashing FTT and offering to bail out FTX, painting him as the mastermind behind the $8 BILLION scandal while casting SBF as a victim.\n\nYi He has now laid",
     "url": "https://x.com/coinbureau/status/2124764163973275763"
+  },
+  {
+    "id": "x-1795419117648-4z09ul",
+    "source": "x",
+    "ts": "2026-11-23T07:31:57.648Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T07:30:59.000Z",
+    "reason": "Specific figure on unused DeFi assets.",
+    "text": "🚨 TODAY: Only 8.2% of the $49.6B in tokenized assets is deployed in DeFi, which leaves about $45.5B unused onchain, per Token Terminal.",
+    "url": "https://x.com/Cointelegraph/status/2124767651691950511",
+    "images": [
+      "https://pbs.twimg.com/media/HXyw6TAWgAAuJr_.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795419121031-y565zo",
+    "source": "x",
+    "ts": "2026-11-23T07:32:01.031Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T07:30:00.000Z",
+    "reason": "Notable price movement and tech stocks reacting to AI developments.",
+    "text": "Is the AI Bubble Finally Popping?\n\nTech stocks buckled after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
+    "url": "https://x.com/DecryptMedia/status/2124767406979752337",
+    "images": [],
+    "video": null
   }
 ]
