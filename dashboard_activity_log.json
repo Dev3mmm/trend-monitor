@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795197810693-7bgf0y",
-    "source": "x",
-    "ts": "2026-11-20T18:03:30.693Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 59,
-    "originTimestamp": "2026-11-20T17:03:58.000Z",
-    "reason": "No notable move or newsworthy event mentioned.",
-    "text": "small updates in pstack v0.15.46\n\n• lots of pruning, skills are now much shorter\n• gemini 4 neon is added as a panel reviewer \n\nit's autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again",
-    "url": "https://x.com/elonmusk/status/2123837595704836144"
-  },
-  {
-    "id": "x-1795198118644-wyktt9",
-    "source": "x",
-    "ts": "2026-11-20T18:08:38.644Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-20T18:01:09.000Z",
-    "reason": "No notable crypto-related information.",
-    "text": "🇺🇸 JUST IN: Trump says the US and China will establish joint guardrails for “Super Intelligence,” adding that President Xi also likes the name.",
-    "url": "https://x.com/Cointelegraph/status/2123839077048872963"
-  },
-  {
     "id": "x-1795198123904-v4m4gj",
     "source": "x",
     "ts": "2026-11-20T18:08:43.904Z",
@@ -7596,5 +7570,36 @@
     "reason": "Tweet appears to be a cryptocurrency related meme or joke without providing any concrete information.",
     "text": "想到了黄仁勋会回到英伟达，但没想到是川普参加了英伟达的董事会会议，并且要求黄教主回归。",
     "url": "https://x.com/PhyrexNi/status/2124885701187805211"
+  },
+  {
+    "id": "x-1795447929308-njztsx",
+    "source": "x",
+    "ts": "2026-11-23T15:32:09.308Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T15:25:31.000Z",
+    "reason": "New use of a token with cross-chain transfer capability.",
+    "text": "The World’s Biggest Tokenized Treasury Just Linked Stellar and Ethereum\n\n@Ondo's yield-bearing $USDY can now be transferred from Stellar (@StellarOrg) to Ethereum (@Ethereum) using the Omnichain Fungible Token (OFT) protocol on LayerZero (@LayerZero_Core).\n\n$USDY is the largest",
+    "url": "https://x.com/BSCNews/status/2124887073941274948",
+    "images": [
+      "https://pbs.twimg.com/media/HX0cfmfXYAA11zf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795447931602-wj53y1",
+    "source": "x",
+    "ts": "2026-11-23T15:32:11.602Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 92,
+    "originTimestamp": "2026-11-23T14:00:10.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "The show goes on. @JensenHuang",
+    "url": "https://x.com/Cointelegraph/status/2124886736245596492"
   }
 ]
