@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795203147838-bjax1r",
-    "source": "x",
-    "ts": "2026-11-20T19:32:27.838Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-20T19:28:09.000Z",
-    "reason": "No notable move or significant event as the tweet is in Chinese and lacks specific, concrete information.",
-    "text": "bitcoin:native 刚刚跌破了 2024年9月17日 以来的最低点",
-    "url": "https://x.com/PhyrexNi/status/2123860969764036989"
-  },
-  {
-    "id": "x-1795203152816-jihdoj",
-    "source": "x",
-    "ts": "2026-11-20T19:32:32.816Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-20T19:22:51.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "BREAKING: The SEC is now probing Nvidia $NVDA's accounting, per Reuters.\n\nRegulators are examining how the world's biggest AI chipmaker reports its finances.\n\nIt's the latest blow in a brutal November for Nvidia:\n\nNov 11: CEO Jensen Huang resigned after admitting to an affair",
-    "url": "https://x.com/coinbureau/status/2123859637938373044",
-    "images": [
-      "https://pbs.twimg.com/media/HXl3FITagAApWt4.png",
-      "https://pbs.twimg.com/media/HXl3FIUaQAAyw6T.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795203731583-hjsjva",
-    "source": "x",
-    "ts": "2026-11-20T19:42:11.583Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-20T19:40:27.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "Just because you lost doesn't mean you are a loser.\n\nIt means you are a learner.\n\nLearn.",
-    "url": "https://x.com/amerix/status/2123864066305253612"
-  },
-  {
     "id": "x-1795203735958-m11ta7",
     "source": "x",
     "ts": "2026-11-20T19:42:15.958Z",
@@ -7633,6 +7588,48 @@
     "reason": "Explanation of court-ordered asset freezes is notable regulatory move.",
     "text": "At Binance, protecting users and complying with applicable legal obligations are both core responsibilities.\n\nOur latest blog explains how court-ordered asset freezes work, why they may occur, what Binance can and cannot do, and what information may be available to affected users",
     "url": "https://x.com/binance/status/2124903976130716059",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795452835243-s6yphb",
+    "source": "x",
+    "ts": "2026-11-23T16:53:55.243Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-23T16:50:00.000Z",
+    "reason": "No notable crypto-specific news related to the tweet.",
+    "text": "⚠️ ALERT: Widespread issues reported across Robinhood, E*TRADE, Fidelity and Charles Schwab as retail traders rush into US markets.\n\nMultiple trading and finance apps are reporting downtime amid a surge in market activity.\n\nNearly $3 TRILLION has been added to the US stock market",
+    "url": "https://x.com/coinbureau/status/2124908333534429372"
+  },
+  {
+    "id": "x-1795452839306-m6urfd",
+    "source": "x",
+    "ts": "2026-11-23T16:53:59.306Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T16:47:41.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "People who understand you, don't need explanation, while those who want an explanation don't want to understand you.\n\nRefuse to give attention to people who have chosen to gaslight you.",
+    "url": "https://x.com/amerix/status/2124907751541227981"
+  },
+  {
+    "id": "x-1795452843238-kq0006",
+    "source": "x",
+    "ts": "2026-11-23T16:54:03.238Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T16:47:15.000Z",
+    "reason": "Specific institutional statement about Ethereum value.",
+    "text": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+    "url": "https://x.com/DecryptMedia/status/2124907643667951827",
     "images": [],
     "video": null
   }
