@@ -1,94 +1,5 @@
 [
   {
-    "id": "x-1795199562269-s4oztc",
-    "source": "x",
-    "ts": "2026-11-20T18:32:42.269Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-20T18:28:08.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "I was just thinking that (for myself) stupidity doesn’t count unless I’m also really obstinate about it",
-    "url": "https://x.com/elonmusk/status/2123845867526574261"
-  },
-  {
-    "id": "x-1795200144942-4fnbke",
-    "source": "x",
-    "ts": "2026-11-20T18:42:24.942Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 79,
-    "originTimestamp": "2026-11-20T17:23:20.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Wait which version did I get?",
-    "url": "https://x.com/elonmusk/status/2123848092684550631"
-  },
-  {
-    "id": "x-1795200149550-vx59jo",
-    "source": "x",
-    "ts": "2026-11-20T18:42:29.550Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-20T18:33:43.000Z",
-    "reason": "Notable institutional adoption of Bitcoin",
-    "text": "JUST IN: 🇺🇸 Block's Head of Digital Assets &amp; Emerging Tech Policy says \"paying with Bitcoin seems to be fitting into familiar routines like grabbing coffee or lunch.\" 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2123847271032684815",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2123847184655257600/vid/avc1/1280x720/CjiHkq9oqwAsgETn.mp4?tag=29",
-      "duration": 75,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123847184655257600/img/Wn_hDhzuSDK4uDnQ.jpg"
-    }
-  },
-  {
-    "id": "x-1795200746529-dmzhig",
-    "source": "x",
-    "ts": "2026-11-20T18:52:26.529Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-20T18:34:19.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "⬛️ @blocks' Janessa Lopez on where crypto regulation goes next:\n\n\"The hope I have for a comprehensive market structure, legislation moving through Congress like Clarity is very low.\"\n\n\"We'll be really relying on them [the SEC and CFTC] heavily because now they have the political",
-    "url": "https://x.com/BitcoinMagazine/status/2123851050860105885"
-  },
-  {
-    "id": "x-1795200751559-tjjdi1",
-    "source": "x",
-    "ts": "2026-11-20T18:52:31.559Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-20T18:47:15.000Z",
-    "reason": "Cathie Wood's investment strategy and its potential impact on the crypto market.",
-    "text": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-    "url": "https://x.com/DecryptMedia/status/2123850677071798745",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795200757248-65494u",
-    "source": "x",
-    "ts": "2026-11-20T18:52:37.248Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-20T18:46:00.000Z",
-    "reason": "No notable move in revenue, price is within recent range.",
-    "text": "Aero reports 50% revenue growth one month after launch\n\n@aeroxyz reported its weekly exchange revenue at $2.07M for Nov 12-18, up from $1.38M in its first week after the October launch. Revenue rose in each of the four weeks.\n\nDefiLlama shows a matching $2.08M over the past 7",
-    "url": "https://x.com/BSCNews/status/2123850362243473446"
-  },
-  {
     "id": "x-1795201365958-kr1hb6",
     "source": "x",
     "ts": "2026-11-20T19:02:45.958Z",
@@ -7609,5 +7520,107 @@
     "reason": "No notable crypto-related event.",
     "text": "🇧🇪LATEST: Nationwide strike in Belgium brings hundreds of flights to a halt as the country's transport system is now down ~ BBC.",
     "url": "https://x.com/BSCNews/status/2124893961575600568"
+  },
+  {
+    "id": "x-1795450355717-s6nmin",
+    "source": "x",
+    "ts": "2026-11-23T16:12:35.717Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T16:11:00.000Z",
+    "reason": "Price well outside the recent trading range for a stable token like SOL.",
+    "text": "Ondo Perps hits $29B volume in less than five months. \n\n@Ondo's @OndoPerps launched in early July. In the space of &lt;5 months, the platform has already broken past a staggering $29B in total perps volume. \n\nThe platform has processed nearly $10B in the past 30 days alone and is",
+    "url": "https://x.com/BSCNews/status/2124898518854664346",
+    "images": [
+      "https://pbs.twimg.com/media/HXzjm69WsAA6A_r.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795450360672-zx2pt3",
+    "source": "x",
+    "ts": "2026-11-23T16:12:40.672Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-23T16:07:38.000Z",
+    "reason": "No notable move in token value or relevant news.",
+    "text": "Someone insulted me that I am warning against the subscription economy yet I don't say how to leverage on it.\n\nBut when I encourage and push you to learn coding, machine learning and data analysis skills eg SQL, you still insult me. \n\nEven when I give you free laptops, you sell",
+    "url": "https://x.com/amerix/status/2124897671089377742"
+  },
+  {
+    "id": "x-1795450365508-7gffyz",
+    "source": "x",
+    "ts": "2026-11-23T16:12:45.508Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T16:06:33.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇺🇸 UPDATE: President Trump personally dialed into an $NVDA board meeting to urge directors to bring Jensen Huang back as CEO, Semafor reports.\n\nIn his CNBC interview, Trump said the following:\n\n1. He intervened for the United States. He called Nvidia “a very important part of our",
+    "url": "https://x.com/coinbureau/status/2124897399953092942"
+  },
+  {
+    "id": "x-1795450371494-w3s2ve",
+    "source": "x",
+    "ts": "2026-11-23T16:12:51.494Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-23T16:04:56.000Z",
+    "reason": "New multi-ledger execution layer integrating private and public blockchains.",
+    "text": "Quant's Multi-ledger rollup just went live! \n\nQuant Network (@QuantNetwork) has launched public access to its mainnet for the company’s Fusion Rollup. \n\nIt is the first multi-ledger execution layer to integrate private and public blockchains.\n\nStarting today, November 23,",
+    "url": "https://x.com/BSCNews/status/2124896991805087814",
+    "images": [
+      "https://pbs.twimg.com/media/HX0mXHeXQAEYQLd.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795450377318-a6okwr",
+    "source": "x",
+    "ts": "2026-11-23T16:12:57.318Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-23T16:04:42.000Z",
+    "reason": "Invitation to high-level Web3 gathering with banks and regulators",
+    "text": "LONGITUDE by Cointelegraph is coming to Abu Dhabi. 🇦🇪\n\nOn Dec. 10, during Abu Dhabi Finance Week, our 11th edition will bring banks, asset managers, regulators and Web3 leaders to Rosewood Abu Dhabi for an invitation-only gathering.\n\nRequest an invitation:",
+    "url": "https://x.com/Cointelegraph/status/2124896932346700235",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2124896863132266496/vid/avc1/1280x720/nD3ZUTyzufFxmDKe.mp4?tag=16",
+      "duration": 11,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124896863132266496/img/4mE0xlRBgif3cpvE.jpg"
+    }
+  },
+  {
+    "id": "x-1795450383028-m8csxw",
+    "source": "x",
+    "ts": "2026-11-23T16:13:03.028Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-23T16:04:22.000Z",
+    "reason": "Notable criminal charges involving cryptocurrency and illicit gains.",
+    "text": "Czech Authorities Charge 15 in BETFIN Crypto Gambling Case Involving CZK 267 Million in Alleged Illicit Gains\n\nCzech customs and police announced that 15 people have been charged with alleged involvement in an organized criminal group and illegal gambling operations linked to",
+    "url": "https://x.com/WuBlockchain/status/2124896852290175324",
+    "images": [
+      "https://pbs.twimg.com/media/HX0manFbcAEwqRK.png",
+      "https://pbs.twimg.com/media/HX0ma8rb0AA2Ckk.png"
+    ],
+    "video": null
   }
 ]
