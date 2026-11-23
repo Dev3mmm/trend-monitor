@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795198123904-v4m4gj",
-    "source": "x",
-    "ts": "2026-11-20T18:08:43.904Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-20T18:00:01.000Z",
-    "reason": "Generic promotional offer without a specific event or move.",
-    "text": "Your next game, gift or getaway? Get up to 10% off 👀\n\nEnjoy up to 10% off gift cards, gaming, travel and more when you pay with Binance Pay at participating Marketplace merchants, including ByteTopup, CoinGate Gift Cards, Tokenstore, Statero (formerly Tamana), Coinsbee and XPIN",
-    "url": "https://x.com/binance/status/2123838792469754220"
-  },
-  {
-    "id": "x-1795198129018-k84m9q",
-    "source": "x",
-    "ts": "2026-11-20T18:08:49.018Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 64,
-    "originTimestamp": "2026-11-20T17:03:58.000Z",
-    "reason": "No notable move or newsworthy event described.",
-    "text": "small updates in pstack v0.15.46\n\n• lots of pruning, skills are now much shorter\n• gemini 4 neon is added as a panel reviewer \n\nit's autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again",
-    "url": "https://x.com/elonmusk/status/2123837595704836144"
-  },
-  {
     "id": "x-1795198360910-yvopvo",
     "source": "x",
     "ts": "2026-11-20T18:12:40.910Z",
@@ -7601,5 +7575,39 @@
     "reason": "No notable move or specific event is described.",
     "text": "The show goes on. @JensenHuang",
     "url": "https://x.com/Cointelegraph/status/2124886736245596492"
+  },
+  {
+    "id": "x-1795448522481-mihegs",
+    "source": "x",
+    "ts": "2026-11-23T15:42:02.481Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 33,
+    "originTimestamp": "2026-11-23T15:08:59.000Z",
+    "reason": "Price move outside recent range suggests a significant move in the market sentiment.",
+    "text": "BMTV's @GraceRemiTV on the sentiment swing at Monday's open:\n\n\"It was all doom and gloom on Friday, but markets are rallying and that rally is spreading after the reinstatement of Jensen Huang.\"\n\n\"[Bitcoin] recovered about 9% to 61K by Sunday\" 📈",
+    "url": "https://x.com/BitcoinMagazine/status/2124890481536774516",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2124882833646764032/vid/avc1/1280x720/XrInRyr-WEutlpvk.mp4?tag=29",
+      "duration": 75,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124882833646764032/img/H0o54d2BK7trPRU6.jpg"
+    }
+  },
+  {
+    "id": "x-1795448524804-ib9894",
+    "source": "x",
+    "ts": "2026-11-23T15:42:04.804Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-23T15:32:00.000Z",
+    "reason": "No notable move in cryptocurrency prices or events.",
+    "text": "⚡️ JUST IN: Jensen Huang has released a statement following his reinstatement as NVIDIA $NVDA CEO, saying he is honored to return and lead the company at the start of a new industrial revolution.\n\nHuang thanked NVIDIA’s board, employees, shareholders and industry partners for",
+    "url": "https://x.com/Cointelegraph/status/2124888703675887929"
   }
 ]
