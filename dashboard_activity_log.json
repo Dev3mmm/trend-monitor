@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795263732535-8tznuz",
-    "source": "x",
-    "ts": "2026-11-21T12:22:12.535Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-21T12:16:48.000Z",
-    "reason": "Price anomaly outside normal trading range.",
-    "text": "Kraken BTC Pricing Anomaly Briefly Sends Quote to $27,000; Exchange Confirms No Breach and Executed Trades Stand\n\nKraken stated in a post that starting around 20:00 UTC on November 20, Canadian dollar (CAD) trading pairs on the platform experienced heavy selling pressure, pushing",
-    "url": "https://x.com/WuBlockchain/status/2124114805875503255",
-    "images": [
-      "https://pbs.twimg.com/media/HXpfJZna8AAfXkK.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795263738323-6v4bnf",
-    "source": "x",
-    "ts": "2026-11-21T12:22:18.323Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "PeckShieldAlert",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-21T12:12:41.000Z",
-    "reason": "Exploit involving cryptocurrency tokens and stablecoins.",
-    "text": "#PeckShieldAlert #Chainflip has been exploited for ~$4M, the exploiter has swapped the 3,249,631.41 $USDC &amp; 758,141.33 $USDT for 2,909 $ETH, then deposited it into #TornadoCash.",
-    "url": "https://x.com/PeckShieldAlert/status/2124113770373120243",
-    "images": [
-      "https://pbs.twimg.com/media/HXpeHPgaIAEnRF_.jpg",
-      "https://pbs.twimg.com/media/HXpeIrybgAAnfL4.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795264354514-4nsheb",
     "source": "x",
     "ts": "2026-11-21T12:32:34.514Z",
@@ -7586,5 +7549,42 @@
     "reason": "No notable move or specific event related to cryptocurrency mentioned.",
     "text": "🚨Nvidia just had the BIGGEST day of any stock in history.\n\nIt added nearly $1 TRILLION in ONE day after bringing back Jensen Huang as CEO, more than double Microsoft's previous record of about $450 BILLION.\n\nBut the real story is the 11 days he was gone.\n\nNov 12: Huang resigned",
     "url": "https://x.com/coinbureau/status/2124988864993296517"
+  },
+  {
+    "id": "x-1795472596320-ij7kgs",
+    "source": "x",
+    "ts": "2026-11-23T22:23:16.320Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T22:20:56.000Z",
+    "reason": "Potential regulatory tightening could impact crypto markets.",
+    "text": "🇺🇸 INSIGHT: Fed’s John Williams indicates higher interest rates may be needed over time to bring inflation back to 2%.",
+    "url": "https://x.com/Cointelegraph/status/2124991617027146229",
+    "images": [
+      "https://pbs.twimg.com/media/HX18mv9XYAEmTZv.jpg",
+      "https://pbs.twimg.com/media/HX18nBWWAAAmMIg.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795472601930-1kw9g5",
+    "source": "x",
+    "ts": "2026-11-23T22:23:21.931Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-23T22:13:00.000Z",
+    "reason": "New liquidity and integration with popular exchanges enhances trading opportunities.",
+    "text": "Aero trading pools are now reachable through 0x and KyberSwap\n\n@aeroxyz ($AERO) is now integrated with 0x (@0xProject) and KyberSwap (@KyberNetwork). Both let wallets and apps route trades to the exchange with the best price.\n\nAero runs on seven networks, including Base,",
+    "url": "https://x.com/BSCNews/status/2124989619049758776",
+    "images": [
+      "https://pbs.twimg.com/media/HX10tPVW0AAduyC.jpg"
+    ],
+    "video": null
   }
 ]
