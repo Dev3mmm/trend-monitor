@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795246318047-5becg3",
-    "source": "x",
-    "ts": "2026-11-21T07:31:58.047Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-21T07:30:56.000Z",
-    "reason": "No notable crypto news or market movement mentioned.",
-    "text": "SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. \n\nAnd having a “system prompt” is silly! Default behavior should be sensible.\n\nThe above are already true for Tesla AI (not yet deserving of “super”). It is",
-    "url": "https://x.com/elonmusk/status/2124042864891982292"
-  },
-  {
-    "id": "x-1795246321808-31x967",
-    "source": "x",
-    "ts": "2026-11-21T07:32:01.809Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-21T07:30:15.000Z",
-    "reason": "This tweet does not contain a concrete and specific enough event to be considered breaking or noteworthy news.",
-    "text": "🇯🇵 BIG: Masayoshi Son reportedly went to Wall Street to explore financing a $1 trillion buyout of SK Hynix.\n\nSoftBank says he's not considering it anymore.",
-    "url": "https://x.com/Cointelegraph/status/2124042694179565674",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795246324681-73fl6b",
-    "source": "x",
-    "ts": "2026-11-21T07:32:04.681Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-21T07:30:00.000Z",
-    "reason": "Notable regulatory guidance affecting the crypto industry.",
-    "text": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default\n\nThe UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
-    "url": "https://x.com/DecryptMedia/status/2124042630233268273",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795246975629-u2iuyn",
     "source": "x",
     "ts": "2026-11-21T07:42:55.629Z",
@@ -7604,6 +7559,48 @@
       "https://pbs.twimg.com/media/HX0vmFFWcAAi_mr.png",
       "https://pbs.twimg.com/media/HX0vqW2WMAAzroX.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795466526987-mw152f",
+    "source": "x",
+    "ts": "2026-11-23T20:42:06.987Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-23T20:41:29.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇦JUST IN: Zelensky says Ukraine has intelligence that Russia is preparing new strikes, and says Kyiv expects a US decision on Patriot missiles.",
+    "url": "https://x.com/BSCNews/status/2124966588550095027"
+  },
+  {
+    "id": "x-1795466528811-pqzckv",
+    "source": "x",
+    "ts": "2026-11-23T20:42:08.811Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T20:40:55.000Z",
+    "reason": "No notable move or newsworthy event mentioned.",
+    "text": "⚡️ SAYLOR: “We don’t need a ₿ailout.”",
+    "url": "https://x.com/Cointelegraph/status/2124966448258818319"
+  },
+  {
+    "id": "x-1795466531255-xzh0yo",
+    "source": "x",
+    "ts": "2026-11-23T20:42:11.255Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-23T20:37:15.000Z",
+    "reason": "North Korea's action with cryptocurrency is noteworthy given the sanctions context.",
+    "text": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+    "url": "https://x.com/DecryptMedia/status/2124965523104346128",
+    "images": [],
     "video": null
   }
 ]
