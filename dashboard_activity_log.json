@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795274528262-f0u47q",
-    "source": "x",
-    "ts": "2026-11-21T15:22:08.262Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 97,
-    "originTimestamp": "2026-11-21T13:45:11.000Z",
-    "reason": "Involves significant liquidations in both long and short positions.",
-    "text": "🚨BRUTAL: Crypto traders just got wiped out in BOTH directions.\n\nOver $2.1 BILLION in longs were liquidated as Bitcoin crashed below $56,000.\n\nThen over $225 MILLION in shorts were liquidated in 4 hours as it ripped back above $60,000.",
-    "url": "https://x.com/coinbureau/status/2124159650182631560",
-    "images": [
-      "https://pbs.twimg.com/media/HXqHemObwAA4gTv.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795274531836-txbuih",
-    "source": "x",
-    "ts": "2026-11-21T15:22:11.836Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 24,
-    "originTimestamp": "2026-11-21T14:57:39.000Z",
-    "reason": "Price is a significant move compared to its historical low.",
-    "text": "Bitcoin just flushed to $55,100, a low set exactly 4 years ago after the 2022 bear market bottom of $15,476 on Nov 21, 2022. \n\nBTC has already bounced over 9% back above $60,000.",
-    "url": "https://x.com/BSCNews/status/2124158996932350004",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795275117827-yieuc0",
     "source": "x",
     "ts": "2026-11-21T15:31:57.827Z",
@@ -7560,5 +7526,36 @@
     "url": "https://x.com/BSCNews/status/2125010463167521088",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795477953947-a8cfsu",
+    "source": "x",
+    "ts": "2026-11-23T23:52:33.947Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T23:50:00.000Z",
+    "reason": "No notable move; price is well within the recent range.",
+    "text": "Near Intents hit $40 BILLION in total swaps.\n\n@NEARProtocol's @near_intents have just crossed the $40B cumulative swaps volume milestone, reflecting that has been a phenomenal year for the product so far.\n\nNEAR intents have processed nearly $1B in swaps in the past week alone and",
+    "url": "https://x.com/BSCNews/status/2125014030024651176",
+    "images": [
+      "https://pbs.twimg.com/media/HXzjw9XXEAE1Sil.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795477958123-kd83fl",
+    "source": "x",
+    "ts": "2026-11-23T23:52:38.123Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-23T23:43:16.000Z",
+    "reason": "The tweet does not mention any crypto-related content.",
+    "text": "BREAKING: Texas Rep. Brandon Gill Introduces Bill to Expand Death Penalty for Illegal Immigrants Who Murder Americans, With Full Support From President Trump",
+    "url": "https://x.com/BSCNews/status/2125012334460772627"
   }
 ]
