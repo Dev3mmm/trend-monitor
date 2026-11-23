@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1795263726610-5xlyfq",
-    "source": "x",
-    "ts": "2026-11-21T12:22:06.610Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-21T12:17:01.000Z",
-    "reason": "Price outside the recent range suggests a significant price movement.",
-    "text": "🚨🇨🇦 JUST IN: Kraken's $BTC/CAD pair crashed as low as C$24,250 (about $16,900) while $BTC traded around $57K everywhere else, and Kraken says every one of those trades stands.",
-    "url": "https://x.com/Cointelegraph/status/2124114860195627427",
-    "images": [
-      "https://pbs.twimg.com/media/HXpfNG1WMAENZsq.jpg",
-      "https://pbs.twimg.com/media/HXpfNWNW8AA-Bro.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795263732535-8tznuz",
     "source": "x",
     "ts": "2026-11-21T12:22:12.535Z",
@@ -7592,5 +7573,18 @@
     "url": "https://x.com/Cointelegraph/status/2124986572856496523",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795471959365-z26uli",
+    "source": "x",
+    "ts": "2026-11-23T22:12:39.365Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T22:10:00.000Z",
+    "reason": "No notable move or specific event related to cryptocurrency mentioned.",
+    "text": "🚨Nvidia just had the BIGGEST day of any stock in history.\n\nIt added nearly $1 TRILLION in ONE day after bringing back Jensen Huang as CEO, more than double Microsoft's previous record of about $450 BILLION.\n\nBut the real story is the 11 days he was gone.\n\nNov 12: Huang resigned",
+    "url": "https://x.com/coinbureau/status/2124988864993296517"
   }
 ]
