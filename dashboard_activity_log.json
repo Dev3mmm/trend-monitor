@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1795268527279-tlqp9s",
-    "source": "x",
-    "ts": "2026-11-21T13:42:07.279Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-21T13:40:57.000Z",
-    "reason": "Bitcoin price well outside recent trading range, genuine breakout.",
-    "text": "JUST IN: Bitcoin jumps back above $60,000 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2124135984782884969",
-    "images": [
-      "https://pbs.twimg.com/media/HXpyZpXWMAA3tCR.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795269133694-hm88jq",
-    "source": "x",
-    "ts": "2026-11-21T13:52:13.694Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-21T13:45:11.000Z",
-    "reason": "Price is well outside the recent trading range, a genuine bounce even though the tweet doesn't say so explicitly.",
-    "text": "JUST IN: Bitcoin $BTC has ripped back above $60,000, after crashing to $55,181 this morning.\n\nThat's a 9% bounce from today's low.",
-    "url": "https://x.com/coinbureau/status/2124137048005361758",
-    "images": [
-      "https://pbs.twimg.com/media/HXpzDqsaoAEe1Jl.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795269139387-03yxph",
     "source": "x",
     "ts": "2026-11-21T13:52:19.387Z",
@@ -7569,5 +7533,39 @@
       "https://pbs.twimg.com/media/HX2BMjLWkAEEF9T.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795474312016-82ak05",
+    "source": "x",
+    "ts": "2026-11-23T22:51:52.016Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-23T22:51:18.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "⚡️ INSIGHT: @Gate founder and CEO @Han_Gate says the crypto slowdown could accelerate real-world blockchain adoption.",
+    "url": "https://x.com/Cointelegraph/status/2124999258298257539",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2124999164673114113/vid/avc1/1280x720/y6yCjFoD2rKXS-Kl.mp4?tag=16",
+      "duration": 111,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124999164673114113/img/041ylMe527lnsUoP.jpg"
+    }
+  },
+  {
+    "id": "x-1795474314035-ip4e8g",
+    "source": "x",
+    "ts": "2026-11-23T22:51:54.035Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-23T22:42:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "CFTC's final prediction market rule reaches the White House\n\nThe @CFTC has sent its final rule on prediction markets to the White House for review, the last step before it can be published. The review office logged it on Friday.\n\nAs proposed in June, the rule sets out when",
+    "url": "https://x.com/BSCNews/status/2124996917243551915"
   }
 ]
