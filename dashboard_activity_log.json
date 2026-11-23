@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1795203735958-m11ta7",
-    "source": "x",
-    "ts": "2026-11-20T19:42:15.958Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-20T19:37:15.000Z",
-    "reason": "Plot twist involving FTX and high-valued shares.",
-    "text": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
-    "url": "https://x.com/DecryptMedia/status/2123863260403306848",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795204342290-0v0733",
-    "source": "x",
-    "ts": "2026-11-20T19:52:22.290Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-20T19:48:00.000Z",
-    "reason": "Arbitrum leads in stablecoin growth with significant increases.",
-    "text": "Arbitrum leads all chains in weekly stablecoin growth\n\nStablecoin supply on @arbitrum One ($ARB) grew by $327M over the past 7 days, more than on any other chain, per @tokenterminal data.\n\n@arc came second with $175M and @Aptos third with $147M. @SuiNetwork, @injective, @Optimism",
-    "url": "https://x.com/BSCNews/status/2123865964991361493",
-    "images": [
-      "https://pbs.twimg.com/media/HXlqPbqXIAALvkP.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795204345725-ytn4jd",
-    "source": "x",
-    "ts": "2026-11-20T19:52:25.725Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 26,
-    "originTimestamp": "2026-11-20T19:25:37.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Strategy's Chaitanya Jain on how he reads a falling Bitcoin price:\n\n\"That volatility is actually a gift to the long-term faithful investors.\"\n\n\"I realized I understood Bitcoin really well when I started getting excited when Bitcoin's price fell and today I'm extremely excited.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2123864469420003565"
-  },
-  {
     "id": "x-1795204955971-gqj0fd",
     "source": "x",
     "ts": "2026-11-20T20:02:35.971Z",
@@ -7632,5 +7585,49 @@
     "url": "https://x.com/DecryptMedia/status/2124907643667951827",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795453362522-g3j71m",
+    "source": "x",
+    "ts": "2026-11-23T17:02:42.522Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-23T17:02:03.000Z",
+    "reason": "Regulatory and financial move impacting the token's value and financial health.",
+    "text": "Over the past 13 weeks, our $STRC buybacks and related capital markets activity have reduced our Annual Int + Div by $296M and added $1.81B to our Net Reserve. It is time to put our fortress balance sheet to work.",
+    "url": "https://x.com/saylor/status/2124911367786295660",
+    "images": [
+      "https://pbs.twimg.com/media/HX0zoOZWgAEWkOJ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795453366045-fhy7dy",
+    "source": "x",
+    "ts": "2026-11-23T17:02:46.046Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T17:01:42.000Z",
+    "reason": "No crypto-related content.",
+    "text": "🇺🇸 JUST IN: President Trump says he is not currently concerned about an AI bubble, per CNBC.",
+    "url": "https://x.com/Cointelegraph/status/2124911280544735364"
+  },
+  {
+    "id": "x-1795453371196-jcfawg",
+    "source": "x",
+    "ts": "2026-11-23T17:02:51.196Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 52,
+    "originTimestamp": "2026-11-23T16:09:57.000Z",
+    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
+    "text": "Trump Says He \"Convinced\" Nvidia's Board To Reinstate Jensen Huang.\n\nTrump told CNBC the board \"did ask for assurance on the national security threat,\" adding, \"we gave them assurances at least with everything we know, and we know a lot.\"",
+    "url": "https://x.com/DecryptMedia/status/2124910855922040846"
   }
 ]
