@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795201369912-b5dss2",
-    "source": "x",
-    "ts": "2026-11-20T19:02:49.912Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-20T19:00:55.000Z",
-    "reason": "No concrete or specific event mentioned.",
-    "text": "🚨️️️️ ALERT: Michael Burry has reduced his short positions against Nvidia $NVDA by 50%.",
-    "url": "https://x.com/Cointelegraph/status/2123854117986554024"
-  },
-  {
-    "id": "x-1795201376326-vkpv0q",
-    "source": "x",
-    "ts": "2026-11-20T19:02:56.326Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-20T19:00:29.000Z",
-    "reason": "The tweet is a headline and does not provide the actual price or data to verify.",
-    "text": "🚨BREAKING: S&amp;P 500 tech stocks have now officially crashed into a BEAR MARKET, and the Nasdaq 100 is less than 3% away from one.\n\nTech stocks are now down over 24% from their October record, as the S&amp;P 500 and Dow both briefly crashed into correction territory today.\n\nS&amp;P 500:",
-    "url": "https://x.com/coinbureau/status/2123854006753882310"
-  },
-  {
-    "id": "x-1795201380376-duda1g",
-    "source": "x",
-    "ts": "2026-11-20T19:03:00.376Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-20T18:55:08.000Z",
-    "reason": "No notable move, generic and vague opinion without factual claim.",
-    "text": "Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …",
-    "url": "https://x.com/elonmusk/status/2123852660688494744"
-  },
-  {
     "id": "x-1795202513946-slymsr",
     "source": "x",
     "ts": "2026-11-20T19:21:53.946Z",
@@ -7624,5 +7585,52 @@
       "https://pbs.twimg.com/media/HX0ntxyXUAAbV-d.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795451565099-sq3zhn",
+    "source": "x",
+    "ts": "2026-11-23T16:32:45.099Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T16:30:54.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "⚡ INSIGHT: The credit card industry is making it easier for AI agents to make card payments across the web. Where does that leave crypto?",
+    "url": "https://x.com/Cointelegraph/status/2124903527398899781"
+  },
+  {
+    "id": "x-1795451568890-266rp8",
+    "source": "x",
+    "ts": "2026-11-23T16:32:48.890Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T16:25:59.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "BREAKING: Democrats announce candidates MUST denounce \"dark money\" spending to participate in debates hosted by \"influencers\"",
+    "url": "https://x.com/BSCNews/status/2124902288493776963"
+  },
+  {
+    "id": "x-1795451574103-m0rxp4",
+    "source": "x",
+    "ts": "2026-11-23T16:32:54.103Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-23T16:25:22.000Z",
+    "reason": "Notable regulatory move impacting crypto business and stablecoins.",
+    "text": "JUST IN: 🇰🇷 South Korea's financial regulator is preparing to release a draft of its Digital Asset Basic Act later this week.\n\nThis includes licenses for crypto business and a bank-led model for won-backed stablecoins. 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2124902136442183981",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2124901184230084608/vid/avc1/1280x720/Zvg-MOzlCCXjE3f6.mp4?tag=29",
+      "duration": 19,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HX0rSSCWAAABg_0.jpg"
+    }
   }
 ]
