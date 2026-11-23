@@ -1,70 +1,5 @@
 [
   {
-    "id": "x-1795187554382-9lcjik",
-    "source": "x",
-    "ts": "2026-11-20T15:12:34.382Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-20T15:11:34.000Z",
-    "reason": "Autonomous trading activity on a new testnet token.",
-    "text": "KForge is already gaining traction on Kaspa\n\nAutonomous trading bots have carried out 949 programmatic trades since KForge (@KForge_xyz) 2.0 was deployed to its public testnet on Monday. \n\n88 trades were made within the last 24 hours.\n\nThe testnet comprises automated trading bots",
-    "url": "https://x.com/BSCNews/status/2123796399913390516",
-    "images": [
-      "https://pbs.twimg.com/media/HXk9eNeWMAA2wqj.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795187557846-0h8uwa",
-    "source": "x",
-    "ts": "2026-11-20T15:12:37.846Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-20T15:04:50.000Z",
-    "reason": "No concrete or specific event mentioned.",
-    "text": "$ANT IPO Crashes Markets, Apple Leans into AI and $BTC Death Crosses",
-    "url": "https://x.com/DecryptMedia/status/2123794704777031907"
-  },
-  {
-    "id": "x-1795188158046-8gfbqn",
-    "source": "x",
-    "ts": "2026-11-20T15:22:38.046Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-20T15:21:46.000Z",
-    "reason": "Specific institutional activity with Bitcoin funds.",
-    "text": "JUST IN: 🇺🇸 Institutions bought a net $4.11 billion worth of spot Bitcoin funds in Q3 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2123798964977947026",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2123798926385946624/vid/avc1/1280x720/iNMKGwWKwgMpiacz.mp4?tag=29",
-      "duration": 19,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HXk_8C6XEAATgPK.jpg"
-    }
-  },
-  {
-    "id": "x-1795188161038-dz0qqt",
-    "source": "x",
-    "ts": "2026-11-20T15:22:41.038Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-20T15:20:32.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "🔥 SAYLOR: \"Bitcoin is the foundation of everything we do at Strategy. It gives people, companies and agents everywhere the power to hold, move and program capital.\"",
-    "url": "https://x.com/Cointelegraph/status/2123798657677811895"
-  },
-  {
     "id": "x-1795188163959-b9yyfi",
     "source": "x",
     "ts": "2026-11-20T15:22:43.959Z",
@@ -7604,6 +7539,70 @@
     "images": [
       "https://pbs.twimg.com/media/HXz_Ox6WsAAYe-b.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795440738733-scjp1d",
+    "source": "x",
+    "ts": "2026-11-23T13:32:18.733Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-23T13:28:36.000Z",
+    "reason": "Notable financial move by a major crypto holding without selling reserves.",
+    "text": "🔥 UPDATE: American Bitcoin, holding over 8,500 $BTC, secures $150M financing from FalconX without selling its reserves.",
+    "url": "https://x.com/Cointelegraph/status/2124857652136051105",
+    "images": [
+      "https://pbs.twimg.com/media/HX0CxP2WoAE-z1c.jpg",
+      "https://pbs.twimg.com/media/HX0CxdUXkAAMNFV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795440743393-sas1om",
+    "source": "x",
+    "ts": "2026-11-23T13:32:23.393Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-23T13:26:45.000Z",
+    "reason": "Notable institutional move involving Bitcoin reserves.",
+    "text": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+    "url": "https://x.com/DecryptMedia/status/2124857183816855713",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795440748901-o60sgw",
+    "source": "x",
+    "ts": "2026-11-23T13:32:28.901Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-23T13:19:48.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "DROPS 49: @Stacks: We Built A Network That Paid Out $500 Million in Bitcoin\n\n@muneeb ran out of money in Sweden, ate one burger a day, and watched his ATM card snap in half. Then he got into Princeton, joined the first Y Combinator batch under Sam Altman, and told Ethereum its",
+    "url": "https://x.com/BSCNews/status/2124857073536041084"
+  },
+  {
+    "id": "x-1795440753409-cfzvht",
+    "source": "x",
+    "ts": "2026-11-23T13:32:33.409Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T13:26:07.000Z",
+    "reason": "Specific, verifiable institutional adoption of Bitcoin.",
+    "text": "🇺🇸JUST IN: Saylor's Strategy bought $27.97M worth of $BTC",
+    "url": "https://x.com/BSCNews/status/2124857023896354912",
+    "images": [],
     "video": null
   }
 ]
