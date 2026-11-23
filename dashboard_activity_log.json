@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1795182140981-48sd36",
-    "source": "x",
-    "ts": "2026-11-20T13:42:20.981Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-20T13:41:25.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Are you buying the dip?",
-    "url": "https://x.com/Cointelegraph/status/2123773713145577477"
-  },
-  {
-    "id": "x-1795182145834-9jls77",
-    "source": "x",
-    "ts": "2026-11-20T13:42:25.834Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-20T13:40:44.000Z",
-    "reason": "No notable move in Polygon's POL token price or significance.",
-    "text": "Before staking $POL, know that it runs on Ethereum, needs $ETH for gas, pays variable rewards, and locks funds for 80 checkpoints when you unstake.\n\nLearn more about staking on Polygon (@0xpolygon). 🔽",
-    "url": "https://x.com/BSCNews/status/2123773541397172435"
-  },
-  {
-    "id": "x-1795182723011-6ah64a",
-    "source": "x",
-    "ts": "2026-11-20T13:52:03.011Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-20T13:51:06.000Z",
-    "reason": "No notable move or significant event reported.",
-    "text": "PI Hits a New Low Right After Its Biggest Summit\n\nThe first Pi Network (@PiCoreTeam) Ecosystem Summit (November 17 to 19) has concluded, and $PI continues to decline. \n\nAccording to CoinGecko, the asset is hitting new all-time lows around $0.051 and is down about 10% in the last",
-    "url": "https://x.com/BSCNews/status/2123776147309666346"
-  },
-  {
-    "id": "x-1795183322492-2nwgz1",
-    "source": "x",
-    "ts": "2026-11-20T14:02:02.492Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-20T13:55:31.000Z",
-    "reason": "ECB official warns about fragmented tokenized securities markets",
-    "text": "🇪🇺 INSIGHT: ECB’s Lagarde warns Europe needs common rules to keep tokenized securities markets from fragmenting.",
-    "url": "https://x.com/Cointelegraph/status/2123777259366469871",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795183931055-6vts7j",
     "source": "x",
     "ts": "2026-11-20T14:12:11.055Z",
@@ -7569,5 +7514,74 @@
     "reason": "No notable move in Ethereum's price.",
     "text": "🇺🇸JUST IN: Trump almost fired Commerce Secretary Howard Lutnik earlier this year, until he gave $25M to Trump's presidential library ~ WSJ",
     "url": "https://x.com/BSCNews/status/2124839367936258378"
+  },
+  {
+    "id": "x-1795437129218-bsqm3l",
+    "source": "x",
+    "ts": "2026-11-23T12:32:09.218Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T12:30:01.000Z",
+    "reason": "New use of a stablecoin (OUSD) for earning through a wallet.",
+    "text": "Visa Crypto Labs Launches A New Version Of Its Visa CLI Agent Wallet.\n\nThe wallet lets people \"verify their agent with a Visa card, then work with it to earn OUSD by completing creative tasks,\" Cuy Sheffield, head of Visa Crypto Labs, said Sunday.",
+    "url": "https://x.com/DecryptMedia/status/2124842906368479397",
+    "images": [
+      "https://pbs.twimg.com/media/HXzOdaDXIAAi74J.png",
+      "https://pbs.twimg.com/media/HXzOel5XQAADz-b.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795437133166-wp7qzq",
+    "source": "x",
+    "ts": "2026-11-23T12:32:13.166Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-23T12:26:43.000Z",
+    "reason": "Eric Trump's crypto venture secured a large credit line, preserving ownership stakes.",
+    "text": "🚨JUST IN: Eric Trump's American Bitcoin secured a $150 MILLION credit line from FalconX to fund operations without selling Bitcoin or issuing new shares.\n\nBorrowing against its 8,500+ BTC reserve preserves shareholders’ ownership stakes. The deal carries a 5.95% loan fee.\n\nAt",
+    "url": "https://x.com/coinbureau/status/2124842077368553737",
+    "images": [
+      "https://pbs.twimg.com/media/HXzyHjMb0AAZDtJ.png",
+      "https://pbs.twimg.com/media/HXzyJZCa8AAsJNm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795437136489-kljzl1",
+    "source": "x",
+    "ts": "2026-11-23T12:32:16.489Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-23T12:26:37.000Z",
+    "reason": "No notable move or specific crypto-related event.",
+    "text": "JUST NOW: Jensen Huang is now the TOP PICK to lead Nvidia.\n\nThe former Nvidia CEO overtook Arm CEO Rene Haas, who had been Polymarket’s favorite at around 19%.\n\nHaas's odds fell to 10.2% after he reaffirmed his commitment to leading Arm and was named SoftBank vice chairman,",
+    "url": "https://x.com/coinbureau/status/2124842049929416745"
+  },
+  {
+    "id": "x-1795437139993-dma82y",
+    "source": "x",
+    "ts": "2026-11-23T12:32:19.993Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-23T12:23:32.000Z",
+    "reason": "Massive adoption with specific, quantifiable data.",
+    "text": "TON is already witnessing massive adoption\n\nThe TON blockchain (@Ton_blockchain) registered 3,150,979 new wallets this November, according to tracking data from MSB Intel. \n\nIt is the highest monthly number of wallets created by the blockchain since October 2024.\n\nThe blockchain",
+    "url": "https://x.com/BSCNews/status/2124841277023797625",
+    "images": [
+      "https://pbs.twimg.com/media/HXzz0jMXIAAOSkA.jpg"
+    ],
+    "video": null
   }
 ]
