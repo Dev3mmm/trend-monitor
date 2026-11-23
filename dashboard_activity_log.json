@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795213955989-6b19l0",
-    "source": "x",
-    "ts": "2026-11-20T22:32:35.989Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-20T22:30:18.000Z",
-    "reason": "Generic financial prediction with no factual claim or verifiable event.",
-    "text": "🇺🇸 ALERT: Peter Schiff warns that an impending financial crisis could surpass the 2008 crash, predicting widespread loan defaults, higher inflation and a potential U.S. dollar and sovereign debt crisis.",
-    "url": "https://x.com/Cointelegraph/status/2123906811774267427"
-  },
-  {
-    "id": "x-1795213960802-voaclo",
-    "source": "x",
-    "ts": "2026-11-20T22:32:40.802Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-20T22:30:00.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨Trump's Asia trip ended with one message for Nvidia: bring back Jensen Huang.\n\nHere are the biggest takeaways from his White House press conference:\n\n1. He says Huang should \"make a big apology and go back.\"\n\n2. US companies won't be allowed to build data centers abroad, or",
-    "url": "https://x.com/coinbureau/status/2123906733852791059"
-  },
-  {
-    "id": "x-1795213967479-1sfhj3",
-    "source": "x",
-    "ts": "2026-11-20T22:32:47.479Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-20T22:27:00.000Z",
-    "reason": "XRP ETFs are experiencing significant outflows, raising concerns about their future.",
-    "text": "Spot $XRP ETFs on track for worst month in history...?\n\nSo far, spot @Ripple ETFs have seen only a single month of net outflows, arriving in March to the tune of -$31.16M.\n\nHowever, the spot $XRP ETFs are already down -$25.79M in November. If flows continue at their current pace,",
-    "url": "https://x.com/BSCNews/status/2123905978571833728",
-    "images": [
-      "https://pbs.twimg.com/media/HXkTP50WEAAp4Cx.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795213972418-d1iu95",
     "source": "x",
     "ts": "2026-11-20T22:32:52.418Z",
@@ -7604,5 +7560,53 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "BREAKING: Aer Lingus launches FREE Starlink Wi-Fi on European flights, with 29 short-haul aircraft to be connected in early 2027.\n\n• The expansion follows a “fantastic” response from passengers on its North American routes.\n\n• Spain, Portugal and Morocco are among the",
     "url": "https://x.com/elonmusk/status/2124924416249466906"
+  },
+  {
+    "id": "x-1795457576125-bu3p0u",
+    "source": "x",
+    "ts": "2026-11-23T18:12:56.125Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-23T18:09:48.000Z",
+    "reason": "Notable price movement of ETH related to mainnet launch.",
+    "text": "MASSIVE: Quant ethereum:0x4a220e6096b25eadb88358cb44068a3248254675 climbs more than 13% in 24 hours and touches $171 as its Fusion mainnet opens for public access.",
+    "url": "https://x.com/BSCNews/status/2124928416151437401",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795457579416-txtivk",
+    "source": "x",
+    "ts": "2026-11-23T18:12:59.416Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-23T18:02:03.000Z",
+    "reason": "No notable move or concrete information provided.",
+    "text": "🎙 Chain Reaction: Bitcoin's Next Chapter  Join us tomorrow at 4 PM UK time for a live conversation with\n\n@Muneeb,@Stacks Founder &amp; Stacks Labs CEO.  We'll discuss Bitcoin's evolving ecosystem, the future of Layer 2s, institutional adoption, and how programmability and",
+    "url": "https://x.com/Cointelegraph/status/2124926465070518284"
+  },
+  {
+    "id": "x-1795457583773-4wzsn7",
+    "source": "x",
+    "ts": "2026-11-23T18:13:03.773Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-23T18:01:32.000Z",
+    "reason": "Senator Warren's comments could impact Nvidia and the crypto mining industry with export controls.",
+    "text": "🇺🇸 TODAY: US Senator Elizabeth Warren slammed Nvidia’s decision to reinstate Jensen Huang as CEO, demanding answers from the Trump administration and calling for stronger export controls.",
+    "url": "https://x.com/Cointelegraph/status/2124926337118859510",
+    "images": [
+      "https://pbs.twimg.com/media/HX1BPEtXEAAKjBg.jpg",
+      "https://pbs.twimg.com/media/HX1BPceWEAAU7Ki.jpg"
+    ],
+    "video": null
   }
 ]
