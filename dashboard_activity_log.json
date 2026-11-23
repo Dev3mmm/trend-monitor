@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795143747924-na5wcb",
-    "source": "x",
-    "ts": "2026-11-20T03:02:27.924Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-20T02:58:10.000Z",
-    "reason": "Tweet is about gold and does not mention any cryptocurrency or relevant price movement.",
-    "text": "🚨TODAY: Gold plunged below $3,550 an ounce for the first time in over a YEAR, a level last seen on September 2025.\n\nSince U.S. stocks peaked in early October, gold has lost roughly 14%, wiping more than 4,000,000,000,000 off its value.\n\nAt $3,550, gold was 24.5% below its August",
-    "url": "https://x.com/coinbureau/status/2123611834645434471"
-  },
-  {
-    "id": "x-1795144381086-2wfvd3",
-    "source": "x",
-    "ts": "2026-11-20T03:13:01.086Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-20T03:09:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "What is @PiCoreTeam's KYB process...?\n\nHere's what you need to know about one of the most important components of the entire $PI ecosystem ⬇️",
-    "url": "https://x.com/BSCNews/status/2123614558506148265"
-  },
-  {
-    "id": "x-1795145014407-i7n5dk",
-    "source": "x",
-    "ts": "2026-11-20T03:23:34.407Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 60,
-    "originTimestamp": "2026-11-20T02:23:03.000Z",
-    "reason": "No notable move in crypto prices or events mentioned.",
-    "text": "In retrospect, barely needing to drive came long before barely needing to code, a testament to Tesla engineering. \n\n10/10 was two years ago (Sonnet 3.5), and the Robotaxi service (Opus 4) began last year.\n\nBut I couldn’t remember the last time I needed to babysit the steering",
-    "url": "https://x.com/elonmusk/status/2123616915650404431"
-  },
-  {
     "id": "x-1795145537496-fq3y06",
     "source": "x",
     "ts": "2026-11-20T03:32:17.496Z",
@@ -7620,5 +7581,47 @@
     "reason": "No factual claim or move in crypto markets.",
     "text": "MARKET MOVER: U.S. and Israeli forces are positioning for new strikes on Iran should talks fail.",
     "url": "https://x.com/BSCNews/status/2124688283431031041"
+  },
+  {
+    "id": "x-1795401133538-0mdgye",
+    "source": "x",
+    "ts": "2026-11-23T02:32:13.538Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T02:30:56.000Z",
+    "reason": "No notable move in ETH.",
+    "text": "⚡️ NOW: Meta's Chief AI Officer Alexandr Wang says \"superintelligence is arriving\" after AI helped prove the Riemann Hypothesis.\n\nHe warns that society should not accept a \"handover\" to AI.",
+    "url": "https://x.com/Cointelegraph/status/2124692145005072632"
+  },
+  {
+    "id": "x-1795401136328-wrmxrq",
+    "source": "x",
+    "ts": "2026-11-23T02:32:16.328Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T02:30:00.000Z",
+    "reason": "Notable use of crypto for a software release delay.",
+    "text": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump\n\nThe anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+    "url": "https://x.com/DecryptMedia/status/2124691907607752721",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795401138185-6glj58",
+    "source": "x",
+    "ts": "2026-11-23T02:32:18.185Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "CZ 🔶 BNB",
+    "ageMin": 42,
+    "originTimestamp": "2026-11-23T01:50:17.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "🤣 or maybe it will be the other way around, ie, the FUD will be stopped (mostly) by a green candle.",
+    "url": "https://x.com/cz_binance/status/2124691673058070800"
   }
 ]
