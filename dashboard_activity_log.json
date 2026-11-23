@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1795267996344-e0r8w9",
-    "source": "x",
-    "ts": "2026-11-21T13:33:16.344Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-21T13:30:21.000Z",
-    "reason": "BlackRock's Bitcoin ETF outflows highlight concerns in the crypto market.",
-    "text": "⚡ JUST IN: BlackRock's $IBIT just had its biggest outflow day ever at $541M, and spot $BTC ETFs have now bled $3.47B in November.",
-    "url": "https://x.com/Cointelegraph/status/2124133316366377407",
-    "images": [
-      "https://pbs.twimg.com/media/HXpv_E6W0AAHTSZ.png",
-      "https://pbs.twimg.com/media/HXpv_foWgAAJYix.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795268527279-tlqp9s",
     "source": "x",
     "ts": "2026-11-21T13:42:07.279Z",
@@ -7570,5 +7551,23 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "JUST IN: Anthropic launches Claude Ship (Beta), AI agents that review, fix, and approve routine code changes under rules that each team sets.",
     "url": "https://x.com/BSCNews/status/2124992556543123655"
+  },
+  {
+    "id": "x-1795473715604-vxlhzk",
+    "source": "x",
+    "ts": "2026-11-23T22:41:55.604Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T22:40:57.000Z",
+    "reason": "Notable use of AI in tracing cryptocurrency hacks.",
+    "text": "🚨 INSIGHT: Chainalysis says its AI-powered investigation tool helped trace billions in crypto stolen in the Binance hack across nearly a dozen blockchains as attackers used automated transfers and bridges to move funds.",
+    "url": "https://x.com/Cointelegraph/status/2124996655703298085",
+    "images": [
+      "https://pbs.twimg.com/media/HX2BMjLWkAEEF9T.jpg"
+    ],
+    "video": null
   }
 ]
