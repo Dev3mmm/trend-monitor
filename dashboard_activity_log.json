@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1795269756251-ouod4y",
-    "source": "x",
-    "ts": "2026-11-21T14:02:36.251Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-21T14:00:01.000Z",
-    "reason": "EXACTLY ONE LINE HERE",
-    "text": "LATEST: Chainflip hit by a $4.86 MILLION exploit, with the hacker laundering stolen ETH through Tornado Cash.\n\nThe attacker drained 520.22 ETH worth $851K, 3.25M USDC and 758K USDT from Chainflip's Ethereum vault.\n\nThe exploit involved a valid signature from the vault's aggregate",
-    "url": "https://x.com/coinbureau/status/2124140779467579691",
-    "images": [
-      "https://pbs.twimg.com/media/HXpuy20a8AA-kWY.jpg",
-      "https://pbs.twimg.com/media/HXpu0ECaEAEk3KB.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795270332789-xeg3nc",
-    "source": "x",
-    "ts": "2026-11-21T14:12:12.789Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-21T14:04:25.000Z",
-    "reason": "No notable move in AI stock price, within recent range.",
-    "text": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
-    "url": "https://x.com/DecryptMedia/status/2124141888974238052",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795271593181-q69llf",
     "source": "x",
     "ts": "2026-11-21T14:33:13.181Z",
@@ -7567,5 +7532,37 @@
       "https://pbs.twimg.com/media/HX1JrqsXEAApEru.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795475487641-dxtoju",
+    "source": "x",
+    "ts": "2026-11-23T23:11:27.641Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-23T23:10:58.000Z",
+    "reason": "Notable regulatory move allowing crypto assets to count towards financial resources.",
+    "text": "🇺🇸 JUST IN: The CFTC says regulated exchanges and clearinghouses can now count $BTC, $ETH and payment stablecoins toward their financial resources requirements.",
+    "url": "https://x.com/Cointelegraph/status/2125004206134227296",
+    "images": [
+      "https://pbs.twimg.com/media/HX2ID2-XUAAvwNw.jpg",
+      "https://pbs.twimg.com/media/HX2IEGSXAAAzoj-.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795475489315-i9omn2",
+    "source": "x",
+    "ts": "2026-11-23T23:11:29.315Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-23T23:07:15.000Z",
+    "reason": "No factual claim or action mentioned.",
+    "text": "China's  Says Its New AI Model Can Think Like One Four Times Its Size",
+    "url": "https://x.com/DecryptMedia/status/2125003271517442365"
   }
 ]
