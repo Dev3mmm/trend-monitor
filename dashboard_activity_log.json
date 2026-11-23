@@ -1,112 +1,5 @@
 [
   {
-    "id": "x-1795190558091-ka3hgc",
-    "source": "x",
-    "ts": "2026-11-20T16:02:38.091Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 22,
-    "originTimestamp": "2026-11-20T15:40:21.000Z",
-    "reason": "Major crypto assets have experienced significant and notable price drops.",
-    "text": "🚨 UPDATE: Bitcoin plunges below $60,000 for the first time since July.\n\nMajor altcoins continue to crash:\n\n- $ETH falls below $1,700\n- $XRP drops below $0.95\n- $SOL plunges below $70",
-    "url": "https://x.com/coinbureau/status/2123807887743139973",
-    "images": [
-      "https://pbs.twimg.com/media/HXlH8h0acAA9yzS.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795191129758-fcsr4f",
-    "source": "x",
-    "ts": "2026-11-20T16:12:09.758Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-20T16:03:39.000Z",
-    "reason": "No crypto-related content or notable event mentioned.",
-    "text": "Members of the Starship production team with Starship 42 before its launch",
-    "url": "https://x.com/elonmusk/status/2123810270426624429"
-  },
-  {
-    "id": "x-1795191135207-nkqu4b",
-    "source": "x",
-    "ts": "2026-11-20T16:12:15.207Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-20T16:02:15.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Some events you watch online. Others you show up for.\n\n#BinanceBlockchainWeek 2026 is one of those. The current ticket price won’t last forever 👀\n\n📍 Bangkok | Nov 28–29\n\nGet your ticket while it lasts →",
-    "url": "https://x.com/binance/status/2123809155492266187",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/ext_tw_video/2123809143488188416/pu/vid/avc1/720x900/2jHq_1Wo8BO76DFi.mp4?tag=12",
-      "duration": 8,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2123809143488188416/pu/img/4GaJQtPyk0OCxsaW.jpg"
-    }
-  },
-  {
-    "id": "x-1795191763646-w9fc6e",
-    "source": "x",
-    "ts": "2026-11-20T16:22:43.646Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-20T16:15:00.000Z",
-    "reason": "Regulatory extension of crypto rules to new services.",
-    "text": "Hong Kong Publishes Bill To Extend Crypto Rules To Dealing, Advisory, Management And Custody.\n\nAnyone running a business offering those services would need to be licensed by or registered with the Securities and Futures Commission; the bill's First Reading is Dec. 2.",
-    "url": "https://x.com/DecryptMedia/status/2123812362864185551",
-    "images": [
-      "https://pbs.twimg.com/media/HXk8ufcXIAAF9wn.jpg",
-      "https://pbs.twimg.com/media/HXk8vfjXIAAIv6d.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795191766209-zxlufs",
-    "source": "x",
-    "ts": "2026-11-20T16:22:46.209Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-20T16:13:00.000Z",
-    "reason": "Significant change in institutional activity towards NEAR Protocol ETF.",
-    "text": "Are institutions going cold on $NEAR ...?\n\nIn the month of October, @Bitwise's spot @NEARProtocol ETF saw net inflows totalling +$34.80M.\n\nThe month before it was +$50.03M.\n\nin November, however, the product has not seen a single day of net inflows, with net outflows now at",
-    "url": "https://x.com/BSCNews/status/2123811858591396206",
-    "images": [
-      "https://pbs.twimg.com/media/HXkTL1JXUAAUfpz.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795192366236-rh8fan",
-    "source": "x",
-    "ts": "2026-11-20T16:32:46.236Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-20T16:30:51.000Z",
-    "reason": "No notable move in ETH as price is within its recent range.",
-    "text": "⚡️ INSIGHT: Michael Burry says he “tried to warn” investors that Nvidia, CoreWeave and Nebius were headed for trouble.",
-    "url": "https://x.com/Cointelegraph/status/2123816352624337076",
-    "images": [
-      "https://pbs.twimg.com/media/HXlPs1UXgAAWen2.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795192372955-yk0w4c",
     "source": "x",
     "ts": "2026-11-20T16:32:52.955Z",
@@ -7622,6 +7515,94 @@
     "images": [
       "https://pbs.twimg.com/media/HX0KUQlWwAA1wqd.png",
       "https://pbs.twimg.com/media/HX0KUkBWYAECx2m.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795443797612-33742s",
+    "source": "x",
+    "ts": "2026-11-23T14:23:17.612Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 20,
+    "originTimestamp": "2026-11-23T14:02:53.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🔥HUGE: $NVDA surged about 30% to $165 in premarket trading after the company reinstated Jensen Huang as CEO.\n\nThe rally added more than $900 BILLION to Nvidia’s market value.\n\nOn Friday close, shares fell 14% to $125.53 following reports of an SEC accounting probe, the company's",
+    "url": "https://x.com/coinbureau/status/2124871119958388870"
+  },
+  {
+    "id": "x-1795443802477-tl4zbh",
+    "source": "x",
+    "ts": "2026-11-23T14:23:22.477Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-23T14:19:39.000Z",
+    "reason": "$BTC just broke past a significant price milestone outside its recent range.",
+    "text": "BREAKING: $BTC just broke past 63K!",
+    "url": "https://x.com/BSCNews/status/2124870497481478334",
+    "images": [
+      "https://pbs.twimg.com/media/HX0OcsuXQAAhBPi.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795443806250-gaxzhr",
+    "source": "x",
+    "ts": "2026-11-23T14:23:26.250Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T14:16:43.000Z",
+    "reason": "No notable move in Ethereum price.",
+    "text": "$NVDA-perp is up 21.57% in pre-market trading.\n\nJensen is back.",
+    "url": "https://x.com/coinbase/status/2124869828456673335"
+  },
+  {
+    "id": "x-1795443810577-tneljo",
+    "source": "x",
+    "ts": "2026-11-23T14:23:30.577Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-23T14:16:33.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🔥 TRUMP: \"The US has no evidence that Jensen Huang acted unlawfully, and the country needs his leadership at Nvidia.\"\n\nSays NVIDIA Board of Directors has made the \"correct and proper decision\".",
+    "url": "https://x.com/Cointelegraph/status/2124869716003156324"
+  },
+  {
+    "id": "x-1795443814187-wfc1dq",
+    "source": "x",
+    "ts": "2026-11-23T14:23:34.187Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 23,
+    "originTimestamp": "2026-11-23T14:00:10.000Z",
+    "reason": "No notable crypto-related information.",
+    "text": "🚨 UPDATE: Nvidia's board confirms its investigation into Jensen Huang will continue, with Huang pledging full cooperation.",
+    "url": "https://x.com/Cointelegraph/status/2124869327006597235"
+  },
+  {
+    "id": "x-1795443819800-6q3t44",
+    "source": "x",
+    "ts": "2026-11-23T14:23:39.800Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-23T14:13:00.000Z",
+    "reason": "Significant outflow from one of the largest Bitcoin ETFs.",
+    "text": "BlackRock sees Largest Outflow in History\n\nThe largest daily redemption in iShares Bitcoin Trust from BlackRock occurred on Thursday, when $541 million was redeemed, DWF Labs reported.\n\nBitcoin ETFs in the U.S., which trade at par value with the coin's spot price, saw net",
+    "url": "https://x.com/BSCNews/status/2124868823241417091",
+    "images": [
+      "https://pbs.twimg.com/media/HX0KCtUWMAAHETM.jpg"
     ],
     "video": null
   }
