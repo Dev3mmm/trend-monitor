@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1795257119005-k4ypp0",
-    "source": "x",
-    "ts": "2026-11-21T10:31:59.005Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-21T10:30:17.000Z",
-    "reason": "The tweet is too vague without context or source to verify.",
-    "text": "🚨 REKT: The total crypto market lost $200B in less than 24 hours.",
-    "url": "https://x.com/Cointelegraph/status/2124088000078299364",
-    "images": [
-      "https://pbs.twimg.com/media/HXpGxwrXgAADxQv.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795258389639-r62h4i",
-    "source": "x",
-    "ts": "2026-11-21T10:53:09.639Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-21T10:50:00.000Z",
-    "reason": "Token losses exceeding 20% in a single week.",
-    "text": "Tokens like $PUMP, $APT and $PENGU suffering more than most...\n\n@Pumpfun's native token is down nearly -32% on the week, making it the biggest loser among crypto's top 100 tokens.\n\n@Aptos and @pudgypenguins are not far behind, clocking weekly losses of -30.1% and -28.5%",
-    "url": "https://x.com/BSCNews/status/2124092960790954360",
-    "images": [
-      "https://pbs.twimg.com/media/HXo7zO2XcAA3RsN.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795258938674-6frhne",
     "source": "x",
     "ts": "2026-11-21T11:02:18.674Z",
@@ -7610,5 +7574,31 @@
     "reason": "No notable crypto-related content.",
     "text": "🇺🇸JUST IN: Trump says climate science has been \"debunked, withdrawn, and taken down\" by the UN climate panel, a day after the COP31 summit ended without a deal.",
     "url": "https://x.com/BSCNews/status/2124977232317690137"
+  },
+  {
+    "id": "x-1795470111111-hilafe",
+    "source": "x",
+    "ts": "2026-11-23T21:41:51.111Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T21:40:54.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "🔥 NEW: Anthropic introduces Claude Ship in a new announcement about its Claude offering.",
+    "url": "https://x.com/Cointelegraph/status/2124981542627790855"
+  },
+  {
+    "id": "x-1795470114158-uzui0x",
+    "source": "x",
+    "ts": "2026-11-23T21:41:54.158Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-23T21:34:58.000Z",
+    "reason": "No crypto-related content.",
+    "text": "Today was a big day for financial markets.  \n\nHere are the 8 headlines you need to know ↓\n\n1. Nvidia reinstated Jensen Huang as CEO.\n\n2. Nvidia added $952 billion in market value today, the largest single-day gain in history. \n\n3. United States blacklists Megaspeed over",
+    "url": "https://x.com/coinbase/status/2124981191581344075"
   }
 ]
