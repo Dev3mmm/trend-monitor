@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1795208733759-3fn5ch",
-    "source": "x",
-    "ts": "2026-11-20T21:05:33.759Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-20T21:00:31.000Z",
-    "reason": "Notable stablecoin event with regulatory and financial implications.",
-    "text": "🚨 LATEST: Sky Protocol saw over $2 billion in stablecoin withdrawals following a report linking $518 million in transactions to illicit activity, while its USDS stablecoin maintained its $1 peg.",
-    "url": "https://x.com/Cointelegraph/status/2123884216303669296",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795209725667-h0px3k",
-    "source": "x",
-    "ts": "2026-11-20T21:22:05.667Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-20T21:17:32.000Z",
-    "reason": "Significant financial news impacting the market capitalization.",
-    "text": "🇺🇸 BIG: The U.S. stock market has reportedly wiped out $7 trillion in market capitalization this week.",
-    "url": "https://x.com/Cointelegraph/status/2123888497278812278",
-    "images": [
-      "https://pbs.twimg.com/media/HXmRVA0XYAAaAO4.jpg",
-      "https://pbs.twimg.com/media/HXmRVR_WkAAMdxb.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795210309617-ew39fz",
     "source": "x",
     "ts": "2026-11-20T21:31:49.617Z",
@@ -7616,5 +7581,36 @@
     "url": "https://x.com/DecryptMedia/status/2124918211208499438",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795455698170-e6tjzz",
+    "source": "x",
+    "ts": "2026-11-23T17:41:38.170Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-23T17:40:54.000Z",
+    "reason": "Noteworthy institutional move with ETFs on crypto exchange platforms.",
+    "text": "⚡️ NEW: Robinhood Crypto has expanded its Stock Tokens lineup to include actively managed ETFs, starting with a token linked to the T. Rowe Price Technology ETF (TTEQ).",
+    "url": "https://x.com/Cointelegraph/status/2124921145136648521",
+    "images": [
+      "https://pbs.twimg.com/media/HX08hTDXQAA8Lon.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795455702004-tul3mv",
+    "source": "x",
+    "ts": "2026-11-23T17:41:42.004Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-23T17:36:06.000Z",
+    "reason": "No notable crypto-related event or move mentioned.",
+    "text": "🇳🇱TODAY: Dutch government asks households to skip laundry and EV charging between 4 PM and 9 PM to ease its full power grid.",
+    "url": "https://x.com/BSCNews/status/2124919937076797822"
   }
 ]
