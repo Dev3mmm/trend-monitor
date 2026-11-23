@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1795164189388-mv38r8",
-    "source": "x",
-    "ts": "2026-11-20T08:43:09.388Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-20T08:40:32.000Z",
-    "reason": "Notable institutional trading volume for XRP futures.",
-    "text": "🔥 UPDATE: CME Group’s XRP and Micro XRP futures hit $81.2B in notional trading volume in their first 18 months.",
-    "url": "https://x.com/Cointelegraph/status/2123697993677263207",
-    "images": [
-      "https://pbs.twimg.com/media/HXjkER5WYAA5W_9.jpg",
-      "https://pbs.twimg.com/media/HXjkEfCWgAAz2XN.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795165414873-xiov5q",
     "source": "x",
     "ts": "2026-11-20T09:03:34.873Z",
@@ -7596,5 +7577,18 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "JUST IN: The US Dollar Index (DXY) slips to 103.80 after hitting a 19-month high of 103.90.",
     "url": "https://x.com/BSCNews/status/2124769062093984167"
+  },
+  {
+    "id": "x-1795420329365-x356j4",
+    "source": "x",
+    "ts": "2026-11-23T07:52:09.365Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T07:51:00.000Z",
+    "reason": "No notable move in the token price or noteworthy event related to InterLink.",
+    "text": "InterLink Users Are Getting a Big App Redesign\n\nInterLink (@inter_link) has announced its upcoming v6.0.4 update.\n\nThe release will add news in users’ selected languages and refresh the Livestream interface. Livestreams and DApps will also move into a single Mini Apps section.",
+    "url": "https://x.com/BSCNews/status/2124772691018461391"
   }
 ]
