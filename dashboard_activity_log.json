@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1795158757061-vjyi1q",
-    "source": "x",
-    "ts": "2026-11-20T07:12:37.061Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-20T07:03:20.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "🔥 INSIGHT: Who wins the most from stablecoin adoption? According to @ADI_Foundation CEO @andreylazorenko, it's hard to pick just one.\n\nHe told @itsciaranlyons that the whole global economy benefits, along with end users who get cheaper, faster and more secure financial products.",
-    "url": "https://x.com/Cointelegraph/status/2123673530449420787",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2123673390816845824/vid/avc1/1280x720/LmdimvAIhYz0kW6M.mp4?tag=16",
-      "duration": 168,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123673390816845824/img/8QvDv1JfpyXPRxh9.jpg"
-    }
-  },
-  {
-    "id": "x-1795159988179-pu0v6y",
-    "source": "x",
-    "ts": "2026-11-20T07:33:08.179Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-20T07:28:00.000Z",
-    "reason": "Notable use case expansion for a stablecoin through a new protocol.",
-    "text": "Aero Users Can Now Unlock USDC From Their LP Positions\n\nRevert (@revertfinance) Lend has launched on Aero (@aeroxyz) $AERO, expanding what liquidity providers can do on Base.\n\nUsers can borrow $USDC against their LP positions while keeping them open. Supported collateral includes",
-    "url": "https://x.com/BSCNews/status/2123679737793102263",
-    "images": [
-      "https://pbs.twimg.com/media/HXiiOGoaAAA17L4.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795160592834-29qerp",
-    "source": "x",
-    "ts": "2026-11-20T07:43:12.834Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-20T07:36:33.000Z",
-    "reason": "Significant net outflows from BTC, ETH, and SOL spot ETFs on a single day.",
-    "text": "🇺🇸 ETF FLOWS: BTC, ETH and SOL spot ETFs saw net outflows on Nov. 19.\n\nBTC: -$582.19M\nETH: -$131.24M\nSOL: -$1.4M",
-    "url": "https://x.com/Cointelegraph/status/2123681889886072835",
-    "images": [
-      "https://pbs.twimg.com/media/HXjVYfTXQAESvh5.jpg",
-      "https://pbs.twimg.com/media/HXjVbKKXEAAkGQF.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795161736979-wvag75",
     "source": "x",
     "ts": "2026-11-20T08:02:16.979Z",
@@ -7602,6 +7544,54 @@
     "images": [
       "https://pbs.twimg.com/media/HXyUq4qaUAAy2bA.png"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795417329839-t1x6s5",
+    "source": "x",
+    "ts": "2026-11-23T07:02:09.839Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T07:01:12.000Z",
+    "reason": "Cyberattack on financial firm exposes client data",
+    "text": "🇰🇷 ALERT: South Korea's Samsung Securities says a breach exposed the personal data of more than 8,000 clients, including names and home addresses, per Yonhap.\n\nIt's the latest cyberattack on the country's financial firms.",
+    "url": "https://x.com/Cointelegraph/status/2124760156185526638",
+    "images": [
+      "https://pbs.twimg.com/media/HXyqGPvWgAAW7Xi.png",
+      "https://pbs.twimg.com/media/HXyqGfyWcAAXJk4.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795417334622-iz74mm",
+    "source": "x",
+    "ts": "2026-11-23T07:02:14.622Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T07:00:02.000Z",
+    "reason": "No notable economic data or market movements are explicitly mentioned that would be considered news in the crypto context.",
+    "text": "WuBlockchain Weekly Outlook: U.S. core PCE inflation stood at 3.1% while Q3 GDP grew 3.4%. Fresh inflation data and Fed signals could keep rates elevated as Dell reports on its $95B AI server backlog. Strong orders matter. So do financing costs, margins and cash flow.",
+    "url": "https://x.com/WuBlockchain/status/2124759863909658901"
+  },
+  {
+    "id": "x-1795417338191-k4224p",
+    "source": "x",
+    "ts": "2026-11-23T07:02:18.191Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-23T06:53:04.000Z",
+    "reason": "Not enough information to verify the event without additional context.",
+    "text": "JUST IN: US Intelligence Chief, Jay Clayton, warns of more tech disruptions amid AI upgrades",
+    "url": "https://x.com/BSCNews/status/2124758112787972294",
+    "images": [],
     "video": null
   }
 ]
