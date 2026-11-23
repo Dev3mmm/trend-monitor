@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795269139387-03yxph",
-    "source": "x",
-    "ts": "2026-11-21T13:52:19.387Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-21T13:45:00.000Z",
-    "reason": "Price well outside recent trading range for BTC.",
-    "text": "Strategy Says \"All Our BTC Is Unencumbered\" With Bitcoin 23% Below Its Average Cost.\n\nStrategy held 850,849 BTC at an average $75,452 as of Nov. 15, per an SEC filing; BTC traded near $55,000 on Saturday morning.",
-    "url": "https://x.com/DecryptMedia/status/2124137000999788589",
-    "images": [
-      "https://pbs.twimg.com/media/HXo_IhKXEAAKx8M.png",
-      "https://pbs.twimg.com/media/HXo_NSeXsAAhWVW.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795269750716-xpwazn",
-    "source": "x",
-    "ts": "2026-11-21T14:02:30.716Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-21T14:02:01.000Z",
-    "reason": "No notable crypto-related content or move.",
-    "text": "It is fascinating seeing men build their rural homes, rearing livestock and growing food.\n\nLiving in the city like a vagabond is not sustainable.",
-    "url": "https://x.com/amerix/status/2124141284692549905"
-  },
-  {
     "id": "x-1795269756251-ouod4y",
     "source": "x",
     "ts": "2026-11-21T14:02:36.251Z",
@@ -7567,5 +7535,37 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "CFTC's final prediction market rule reaches the White House\n\nThe @CFTC has sent its final rule on prediction markets to the White House for review, the last step before it can be published. The review office logged it on Friday.\n\nAs proposed in June, the rule sets out when",
     "url": "https://x.com/BSCNews/status/2124996917243551915"
+  },
+  {
+    "id": "x-1795474930802-87yonq",
+    "source": "x",
+    "ts": "2026-11-23T23:02:10.802Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T23:01:08.000Z",
+    "reason": "No notable move or specific event is reported, just a price movement.",
+    "text": "⚡️️️️️️️ JUST IN: Nvidia $NVDA surged 31.6% today, adding $955 billion in market cap in what is reportedly the largest single-day gain in stock market history.",
+    "url": "https://x.com/Cointelegraph/status/2125001734376276129"
+  },
+  {
+    "id": "x-1795474935874-1hplhp",
+    "source": "x",
+    "ts": "2026-11-23T23:02:15.874Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-23T23:00:01.000Z",
+    "reason": "Notable institutional adoption and regulatory move.",
+    "text": "Anthropic Opens Enterprise Frontier Safeguards To Eligible Businesses In Public Beta.\n\nAnthropic said it developed the safeguards with over 100 customers, including a quarter of the Fortune 100; Bridgewater, Salesforce, and Stripe have been evaluating them in private beta.",
+    "url": "https://x.com/DecryptMedia/status/2125001453248880861",
+    "images": [
+      "https://pbs.twimg.com/media/HX1JqQDXUAAxWK4.png",
+      "https://pbs.twimg.com/media/HX1JrqsXEAApEru.png"
+    ],
+    "video": null
   }
 ]
