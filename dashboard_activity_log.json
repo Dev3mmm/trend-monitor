@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1795228403955-9bpxkd",
-    "source": "x",
-    "ts": "2026-11-21T02:33:23.955Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-21T02:30:00.000Z",
-    "reason": "No notable move in token prices or institutional actions described.",
-    "text": "JUST IN: JPMorgan, Bank of America and Citi now warn YOU will be responsible if your AI agent goes rogue.\n\n1. Citi: New terms say if your AI agent's login gets leaked, every action taken with it counts as \"authorized by You.\"\n\n2. Bank of America: Emailed customers that if they",
-    "url": "https://x.com/coinbureau/status/2123967132945834079"
-  },
-  {
-    "id": "x-1795228943507-rnbpym",
-    "source": "x",
-    "ts": "2026-11-21T02:42:23.507Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-21T02:34:00.000Z",
-    "reason": "Notable staking event with APY earnings announcement.",
-    "text": "4 out of 10 $SEI tokens now staked.\n\nAccording to @Coinbase data, 41% of @SeiNetwork's native token's circulating supply is now staked on the network, earning an estimated APY of just over 4%.\n\nWorth also noting, Sei Network operates a Delegated Proof-of-Stake consensus mechanism",
-    "url": "https://x.com/BSCNews/status/2123968138555314282",
-    "images": [
-      "https://pbs.twimg.com/media/HXkThY1X0AAvNj0.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795230186096-7eitcl",
-    "source": "x",
-    "ts": "2026-11-21T03:03:06.096Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-21T03:00:04.000Z",
-    "reason": "Notable regulatory update on Strategy's bitcoin holdings and reserves.",
-    "text": "Strategy: Net Reserve Stands at $35 Billion, All Bitcoin Holdings Unencumbered\n\nStrategy said its Net Reserve now stands at $35 billion, with all of its bitcoin holdings unencumbered. During the 2022 bear market, its Net Reserve was negative and one-third of its BTC was pledged",
-    "url": "https://x.com/WuBlockchain/status/2123974700833665205",
-    "images": [
-      "https://pbs.twimg.com/media/HXnfcGSbEAArpGA.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795231968349-96fu40",
     "source": "x",
     "ts": "2026-11-21T03:32:48.349Z",
@@ -7607,5 +7558,55 @@
     "reason": "No notable move in price or news.",
     "text": "Everyone I know at Nvidia wanted Jensen back and it shows",
     "url": "https://x.com/elonmusk/status/2124942828274925651"
+  },
+  {
+    "id": "x-1795461747907-dsh5f0",
+    "source": "x",
+    "ts": "2026-11-23T19:22:27.907Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T19:20:55.000Z",
+    "reason": "Notable institutional demand affecting computing infrastructure.",
+    "text": "🚨 LATEST: Anthropic’s demand for computing power is so high that SpaceX needed to complete new data centers by October to fulfill its orders, according to NYT.",
+    "url": "https://x.com/Cointelegraph/status/2124946312411939317",
+    "images": [
+      "https://pbs.twimg.com/media/HX1TaCJXgAAlGyO.jpg",
+      "https://pbs.twimg.com/media/HX1TaN-XMAEo-J6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795461754483-n8s2hu",
+    "source": "x",
+    "ts": "2026-11-23T19:22:34.484Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-23T19:18:00.000Z",
+    "reason": "New use of a stablecoin (Hedera Hashgraph) in tokenized bonds",
+    "text": "Hedera finance tools: tokenized bonds from a single command\n\n@hedera (hedera-hashgraph:native) has released five finance templates for Scaffold HBAR, a tool that builds a working sample app from one command.\n\nThey cover issuing a bond, automatically paying interest, settling",
+    "url": "https://x.com/BSCNews/status/2124945578828214773",
+    "images": [
+      "https://pbs.twimg.com/media/HX1QYOjXIAAn_ge.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795461759394-x48ccq",
+    "source": "x",
+    "ts": "2026-11-23T19:22:39.394Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 55,
+    "originTimestamp": "2026-11-23T18:27:29.000Z",
+    "reason": "Tweet appears to be in a language other than English and lacks any news value.",
+    "text": "Omera, gino ne mit kabisa!",
+    "url": "https://x.com/amerix/status/2124945006565654575"
   }
 ]
