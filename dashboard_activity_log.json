@@ -1,70 +1,5 @@
 [
   {
-    "id": "x-1795235568231-rwx17p",
-    "source": "x",
-    "ts": "2026-11-21T04:32:48.231Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-21T04:29:59.000Z",
-    "reason": "Notable USDC burn event.",
-    "text": "🚨 LATEST: 111,312,419 $USDC has just been burned.",
-    "url": "https://x.com/Cointelegraph/status/2123997327069167993",
-    "images": [
-      "https://pbs.twimg.com/media/HXn0UAYXAAA4VGB.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795236183302-3eyruw",
-    "source": "x",
-    "ts": "2026-11-21T04:43:03.302Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-21T04:38:06.000Z",
-    "reason": "No tangible event or price move is described.",
-    "text": "BREAKING: ripple:native is down to $0.87, the first time since November 2024.",
-    "url": "https://x.com/BSCNews/status/2123999369871630847"
-  },
-  {
-    "id": "x-1795237322495-osjlw1",
-    "source": "x",
-    "ts": "2026-11-21T05:02:02.495Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-21T05:00:01.000Z",
-    "reason": "Price outside recent range indicates a significant move.",
-    "text": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February\n\nBitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
-    "url": "https://x.com/DecryptMedia/status/2124004885335048549",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795237327873-zodfq0",
-    "source": "x",
-    "ts": "2026-11-21T05:02:07.873Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-21T04:55:00.000Z",
-    "reason": "Supra Labs sees rapid project adoption in under a week.",
-    "text": "25+ projects move to Supra in under one week...\n\nLess than a week after announcing its new 'Alpha Builders' program, and @SUPRA_Labs had received more than 25 applications from builders developing on the chain.\n\nThese projects likely span protocols moving from other chains, as",
-    "url": "https://x.com/BSCNews/status/2124003622006759518",
-    "images": [
-      "https://pbs.twimg.com/media/HXkTlRxXkAAYcgl.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795239126553-v8bgi8",
     "source": "x",
     "ts": "2026-11-21T05:32:06.553Z",
@@ -7607,5 +7542,62 @@
       "https://pbs.twimg.com/media/HX1X_NEWUAAVuoD.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795463526776-ds1c8d",
+    "source": "x",
+    "ts": "2026-11-23T19:52:06.776Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T19:50:57.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "How much real demand is there for tokenized stocks? And how do institutions really feel about crypto?\n\nDr. Han (@Han_Gate), founder of @gate, takes the tough questions from @itsciaranlyons, live at Digital Assets Summit 2026 London (@blockchainDAS). TRADESECRETS\n\n0:00 Intro\n0:50",
+    "url": "https://x.com/Cointelegraph/status/2124953873467248967"
+  },
+  {
+    "id": "x-1795463532286-1vi0gi",
+    "source": "x",
+    "ts": "2026-11-23T19:52:12.286Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-23T19:49:00.000Z",
+    "reason": "Cosmos pilot connects Ethereum apps to Canton Network testnet.",
+    "text": "Cosmos pilot connects Canton's Zenith to 15 test networks\n\n@cosmos (cosmos:native) and Zenith (@ZenithFdn) have tested IBC, the Cosmos system for moving tokens between blockchains, on Zenith's testnet. Zenith lets Ethereum apps run on @CantonNetwork (canton-network:native).\n\nIn",
+    "url": "https://x.com/BSCNews/status/2124953381290545445",
+    "images": [
+      "https://pbs.twimg.com/media/HX1QvStXoAAEoRV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795463536603-4h6c33",
+    "source": "x",
+    "ts": "2026-11-23T19:52:16.603Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-23T19:48:34.000Z",
+    "reason": "No notable crypto-related event or data point mentioned.",
+    "text": "🔥LATEST: Nvidia employees stood and cheered as Jensen Huang returned to headquarters.\n\n“Thank you for the second chance. I’m going to be a better CEO the second time around,” Huang said.",
+    "url": "https://x.com/coinbureau/status/2124953273941864700"
+  },
+  {
+    "id": "x-1795463539988-6bf0o5",
+    "source": "x",
+    "ts": "2026-11-23T19:52:19.988Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 34,
+    "originTimestamp": "2026-11-23T19:17:40.000Z",
+    "reason": "No notable move or concrete news.",
+    "text": "Welcome to the PvP of social media.",
+    "url": "https://x.com/elonmusk/status/2124952094335758499"
   }
 ]
