@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795169541858-iiw9mi",
-    "source": "x",
-    "ts": "2026-11-20T10:12:21.858Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-20T10:09:00.000Z",
-    "reason": "Regulatory move affecting financial products.",
-    "text": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
-    "url": "https://x.com/DecryptMedia/status/2123720256141066481",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795169544951-cvpmkr",
     "source": "x",
     "ts": "2026-11-20T10:12:24.951Z",
@@ -7583,6 +7567,24 @@
     "images": [
       "https://pbs.twimg.com/media/HXzMXuYWoAAH7MA.jpg",
       "https://pbs.twimg.com/media/HXzMYPsXYAA0j3q.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795426944901-ehyvrk",
+    "source": "x",
+    "ts": "2026-11-23T09:42:24.901Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-23T09:33:33.000Z",
+    "reason": "New use of a token/stablecoin (KNS Domains on Kaspa)",
+    "text": "Kaspa Users Can Now Register .kas Domains in One Transaction\n\nKNS Domains (@knsdomain) has launched its new Covenant system on Kaspa’s (@kaspaunchained) $KAS TN10 testnet.\n\nExisting testnet domains have already migrated, and new names can be registered in one transaction.\n\nThe",
+    "url": "https://x.com/BSCNews/status/2124798497312661847",
+    "images": [
+      "https://pbs.twimg.com/media/HXyzSU3aMAA3R1t.png"
     ],
     "video": null
   }
