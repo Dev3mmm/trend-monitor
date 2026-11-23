@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1795206160391-0eg7fz",
-    "source": "x",
-    "ts": "2026-11-20T20:22:40.391Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-20T20:19:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "InterLink lays out what ITLG is for and how sponsors can earn it\n\n@inter_link is designing transferable $ITLG to use across its apps and services for voting on proposals and staking. Uses in payments, robotics, and AI are still being explored.\n\nUsers who pass InterLink KYC Level",
-    "url": "https://x.com/BSCNews/status/2123873766371737950"
-  },
-  {
-    "id": "x-1795207020712-fxkpcz",
-    "source": "x",
-    "ts": "2026-11-20T20:37:00.712Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-20T20:33:23.000Z",
-    "reason": "Notable statement on the potential growth of a major crypto company.",
-    "text": "JUST IN: Michael Saylor says growing Strategy's digital credit into a $100 billion product \"would be enough for the company to be a trillion dollar company\" 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2123877386538344781",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2123876932018114560/vid/avc1/1280x720/lRCdKhsvR1qeNALq.mp4?tag=29",
-      "duration": 19,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123876932018114560/img/fyzVtJ9T74FpUAXa.jpg"
-    }
-  },
-  {
-    "id": "x-1795207026167-00x6uu",
-    "source": "x",
-    "ts": "2026-11-20T20:37:06.167Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-20T20:30:35.000Z",
-    "reason": "Exploit involving Wrapped Monero token causing significant price drop",
-    "text": "🚨 ALERT: Wrapped Monero token XMR1 crashed 99.8% on Hyperliquid, plunging from $500 to $1 in 30 minutes amid a suspected $13.5 million exploit, per Bitquery.",
-    "url": "https://x.com/Cointelegraph/status/2123876681572110813",
-    "images": [
-      "https://pbs.twimg.com/media/HXmGlQTW8AAZnSR.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795207030970-cr5268",
     "source": "x",
     "ts": "2026-11-20T20:37:10.970Z",
@@ -7629,6 +7577,56 @@
     "url": "https://x.com/WuBlockchain/status/2124912271906447410",
     "images": [
       "https://pbs.twimg.com/media/HX00chhaQAAdT50.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795454507408-8obcu8",
+    "source": "x",
+    "ts": "2026-11-23T17:21:47.408Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-23T17:20:55.000Z",
+    "reason": "Abraxas Capital's large Bitcoin purchase is a notable move in the crypto market.",
+    "text": "⚡️ NEW: Abraxas Capital reportedly purchased $1 billion worth of Bitcoin over the past two days.",
+    "url": "https://x.com/Cointelegraph/status/2124916114874323220",
+    "images": [
+      "https://pbs.twimg.com/media/HX038IRXYAAbRL-.jpg",
+      "https://pbs.twimg.com/media/HX038dVWAAAHdwN.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795454509395-xchzre",
+    "source": "x",
+    "ts": "2026-11-23T17:21:49.395Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-23T17:18:50.000Z",
+    "reason": "No notable move, no new information provided.",
+    "text": "🎙 Chain Reaction: Bitcoin's Next Chapter\n\nJoin us tomorrow at 4 PM UK time for a live conversation with @Muneeb, @Stacks Founder &amp; Stacks Labs CEO.\n\nWe'll discuss Bitcoin's evolving ecosystem, the future of Layer 2s, institutional adoption, and how programmability and",
+    "url": "https://x.com/Cointelegraph/status/2124915592759283864"
+  },
+  {
+    "id": "x-1795454511914-kft2sv",
+    "source": "x",
+    "ts": "2026-11-23T17:21:51.914Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-23T17:13:26.000Z",
+    "reason": "No notable move in Avalanche's market focus.",
+    "text": "Avalanche narrows its focus to three markets\n\nAva Labs President @CharleyCooper01 says Avalanche (@avax) will go deeper in fewer areas: institutional finance, putting tokenized assets to work, and payments built into everyday business.\n\nA well-known partner name will not be",
+    "url": "https://x.com/BSCNews/status/2124914233607585826",
+    "images": [
+      "https://pbs.twimg.com/media/HX01uzIXsAAT_2Z.jpg"
     ],
     "video": null
   }
