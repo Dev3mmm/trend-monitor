@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795196376242-v8fu75",
-    "source": "x",
-    "ts": "2026-11-20T17:39:36.242Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-20T17:27:06.000Z",
-    "reason": "Generic hype with no real content.",
-    "text": "BREAKING: @Skel announces 30 free spins for everyone with a verified X account today\n\nUse code MIAMI30 when you deposit on @MetaWin\n\nAnd you’ll be granted 30x free spins on their game ‘Miami Heist’",
-    "url": "https://x.com/BSCNews/status/2123830506215145733"
-  },
-  {
-    "id": "x-1795196631788-7wz9tk",
-    "source": "x",
-    "ts": "2026-11-20T17:43:51.788Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-20T17:43:03.000Z",
-    "reason": "$13 Million Hack and Token Collapse",
-    "text": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-    "url": "https://x.com/DecryptMedia/status/2123834522093383748",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795196634929-1f2m24",
-    "source": "x",
-    "ts": "2026-11-20T17:43:54.929Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-20T17:40:31.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 BIG: Trump says he met with 20 world leaders in four days, secured two new trade deals, and expects 10 more to be announced soon.",
-    "url": "https://x.com/Cointelegraph/status/2123833884563362246"
-  },
-  {
     "id": "x-1795197210202-lhxkq2",
     "source": "x",
     "ts": "2026-11-20T17:53:30.202Z",
@@ -7585,5 +7543,54 @@
     "reason": "The tweet is vague and speculative, no concrete data provided.",
     "text": "🚨TODAY: U.S. stocks surge at market open, adding an estimated $3,000,000,000,000 in market value.\n\nNvidia surged more than 30% after reinstating Jensen Huang as CEO, president and board director.\n\nNvidia alone added about $950 BILLION, nearly double the $495 billion it lost",
     "url": "https://x.com/coinbureau/status/2124879490824478846"
+  },
+  {
+    "id": "x-1795446840828-1nxzje",
+    "source": "x",
+    "ts": "2026-11-23T15:14:00.828Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Michael Saylor",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-23T15:09:35.000Z",
+    "reason": "Notable use of smart contracts and on-chain data point.",
+    "text": "Our trades accreted Net BPS in each of the last 13 weeks. Cumulatively, we increased Net BPS by 584 sats/share and generated a Net BTC Gain of 2,505 BTC or $199M before preferred dividends, measured at a fixed $BTC price each week.",
+    "url": "https://x.com/saylor/status/2124883063096164450",
+    "images": [
+      "https://pbs.twimg.com/media/HX0Z4rDWwAApKvK.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795446844137-uu1nwa",
+    "source": "x",
+    "ts": "2026-11-23T15:14:04.137Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-23T15:08:48.000Z",
+    "reason": "Specific institutional adoption and new trading feature.",
+    "text": "$ANT options are coming to Binance.\n\nBinance Stock Options will support Anthropic (NASDAQ: $ANT). Eligible users can trade when the US market opens for regular trading.\n\nMore info →",
+    "url": "https://x.com/binance/status/2124882867209777414",
+    "images": [
+      "https://pbs.twimg.com/media/HX0ZqksacAA-Mpz.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795446846794-o6fwug",
+    "source": "x",
+    "ts": "2026-11-23T15:14:06.794Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-23T15:04:02.000Z",
+    "reason": "No notable move, typical market commentary.",
+    "text": "Jensen's BACK ($NVDA), Markets Add $1T and Daily News",
+    "url": "https://x.com/DecryptMedia/status/2124881667739255018"
   }
 ]
