@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795307573914-ae3ltt",
-    "source": "x",
-    "ts": "2026-11-22T00:32:53.914Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-22T00:32:13.000Z",
-    "reason": "No notable move or concrete event described.",
-    "text": "⚡ LATEST: Bloomberg says once-diehard crypto fans are moving into AI stocks, prediction markets and stock perps as $BTC heads for its longest weekly losing streak since 2022.\n\nWhere's your money going?",
-    "url": "https://x.com/Cointelegraph/status/2124299880612987163"
-  },
-  {
-    "id": "x-1795308775082-hzkm3p",
-    "source": "x",
-    "ts": "2026-11-22T00:52:55.082Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T00:50:32.000Z",
-    "reason": "No notable crypto-related move or event mentioned.",
-    "text": "🚨Goldman Sachs warns funds could sell up to $80.6 BILLION in stocks this week if the market keeps falling. \n\nEven a rebound could trigger $28.6 BILLION in selling.\n\nGoldman’s Panic Index hit 9 out of 10 on Friday. Its trading desk expects funds that use computer models to trade",
-    "url": "https://x.com/coinbureau/status/2124304489822003437"
-  },
-  {
     "id": "x-1795309366898-wx81sx",
     "source": "x",
     "ts": "2026-11-22T01:02:46.898Z",
@@ -7637,5 +7611,36 @@
     "reason": "No notable move in crypto, price is well within recent range.",
     "text": "BREAKING: Iran says three oil tankers caught fire after hitting mines in the Strait of Hormuz despite US military escorts, CNBC reports.",
     "url": "https://x.com/BSCNews/status/2125120229584081328"
+  },
+  {
+    "id": "x-1795504655040-jjeb1r",
+    "source": "x",
+    "ts": "2026-11-24T07:17:35.040Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-24T07:07:36.000Z",
+    "reason": "Stellar introduces quantum security upgrades to its mainnet.",
+    "text": "Stellar Mainnet Gets a Quantum Security Upgrade\n\nStellar's (@StellarOrg) stellar:native Bell upgrade, Protocol 30, is now live on Mainnet.\n\nIt introduces support for contracts that verify post-quantum ML-DSA signatures. One contract can also serve multiple customers.\n\nThe ledger",
+    "url": "https://x.com/BSCNews/status/2125124155389726962",
+    "images": [
+      "https://pbs.twimg.com/media/HX3qC7bbMAAhe7U.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795504659233-uh6oez",
+    "source": "x",
+    "ts": "2026-11-24T07:17:39.233Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-24T07:05:14.000Z",
+    "reason": "No notable financial news related to cryptocurrencies in the tweet.",
+    "text": "BREAKING: Asian stocks ADDED nearly $1,000,000,000,000 today as AI chip stocks surged on Jensen Huang’s return as Nvidia CEO.\n\n🇹🇭 Thailand (SET) +0.75%\n🇲🇾 Malaysia (KLCI)  +1.16%\n🇹🇼 Taiwan (TAIEX) +8.99%\n🇵🇭 Philippines (PSEi) +1.38%\n🇯🇵 Japan (Nikkei 225) +3.91%\n🇦🇺 Australia (ASX",
+    "url": "https://x.com/coinbureau/status/2125123562893894066"
   }
 ]
