@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795419117648-4z09ul",
-    "source": "x",
-    "ts": "2026-11-23T07:31:57.648Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T07:30:59.000Z",
-    "reason": "Specific figure on unused DeFi assets.",
-    "text": "🚨 TODAY: Only 8.2% of the $49.6B in tokenized assets is deployed in DeFi, which leaves about $45.5B unused onchain, per Token Terminal.",
-    "url": "https://x.com/Cointelegraph/status/2124767651691950511",
-    "images": [
-      "https://pbs.twimg.com/media/HXyw6TAWgAAuJr_.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795419121031-y565zo",
-    "source": "x",
-    "ts": "2026-11-23T07:32:01.031Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-23T07:30:00.000Z",
-    "reason": "Notable price movement and tech stocks reacting to AI developments.",
-    "text": "Is the AI Bubble Finally Popping?\n\nTech stocks buckled after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
-    "url": "https://x.com/DecryptMedia/status/2124767406979752337",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795419730571-ond861",
     "source": "x",
     "ts": "2026-11-23T07:42:10.571Z",
@@ -7782,5 +7748,37 @@
       "https://pbs.twimg.com/media/HX6Qr7rW0AAjJrc.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795548727589-54guyx",
+    "source": "x",
+    "ts": "2026-11-24T19:32:07.589Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T19:30:00.000Z",
+    "reason": "Notable security incident with potential impact on user funds.",
+    "text": "UPDATE: Coinkite Publishes Its Postmortem On The COLDCARD Seed-Generation Incident.\n\nFirmware from March 29, 2021, to July 30, 2026, used a software PRNG for seeds, letting attackers regenerate affected keys offline without remotely accessing devices, Coinkite said.",
+    "url": "https://x.com/DecryptMedia/status/2125310989768008139",
+    "images": [
+      "https://pbs.twimg.com/media/HX54LfxWkAEPGmK.png",
+      "https://pbs.twimg.com/media/HX54XdsWkAA4zt5.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795548731644-j7bm41",
+    "source": "x",
+    "ts": "2026-11-24T19:32:11.644Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-24T19:27:10.000Z",
+    "reason": "No notable move in crypto prices or events.",
+    "text": "🇬🇧🇺🇸TODAY: Former UK Prime Minister Boris Johnson calls Trump's \"my friend\" remark about Putin \"nauseating.\"",
+    "url": "https://x.com/BSCNews/status/2125310274630500687"
   }
 ]
