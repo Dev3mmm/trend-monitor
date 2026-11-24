@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1793994120141-hb7hen",
     "x-1793994331925-c95dbi",
     "x-1793994340269-i20b96",
     "x-1793994750705-l6rdp7",
@@ -1999,18 +1998,10 @@
     "x-1795477326084-lqqfna",
     "x-1795477953947-a8cfsu",
     "x-1795478516032-mjjzv0",
-    "x-1795478518144-xdufb8"
+    "x-1795478518144-xdufb8",
+    "x-1795480564646-o14rx2"
   ],
   "queue": [
-    {
-      "text": "We launched Coinbase for Agents in Q3 and it's on a tear\n\nGrowth has compounded 60%+ week/week \n\nJust launched with @grok and @OpenAI \n\nMore coming soon",
-      "url": "https://x.com/coinbase/status/2124982202534600837",
-      "images": [
-        "https://pbs.twimg.com/media/HX1op4WbwAEHQrc.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795470846542
-    },
     {
       "text": "🇺🇸 INSIGHT: Fed’s John Williams indicates higher interest rates may be needed over time to bring inflation back to 2%.",
       "url": "https://x.com/Cointelegraph/status/2124991617027146229",
@@ -2073,6 +2064,16 @@
         "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124818793277095936/img/WyZCPW8PWc6abFwx.jpg"
       },
       "enqueuedAt": 1795478521846
+    },
+    {
+      "text": "🇺🇸 LATEST: The US has blacklisted Megaspeed, the Singapore firm tied to the Nvidia scandal, cutting off its access to advanced US AI chips without a license, per NYT.",
+      "url": "https://x.com/Cointelegraph/status/2125024361832763795",
+      "images": [
+        "https://pbs.twimg.com/media/HX2aYqhXoAAtfHb.jpg",
+        "https://pbs.twimg.com/media/HX2aZH1W0AAe-DI.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1795480568722
     }
   ],
   "posted": [
@@ -2677,7 +2678,16 @@
       "at": 1795478521846,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391525743204586?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "We launched Coinbase for Agents in Q3 and it's on a tear\n\nGrowth has compounded 60%+ week/week \n\nJust launched with @grok and @OpenAI \n\nMore coming soon",
+      "final": "We launched Coinbase for Agents in Q3 and it's on a tear\n\nGrowth has compounded 60%+ week/week \n\nJust launched with @grok and @OpenAI \n\nMore coming soon\n\n#Crypto #Coinbase",
+      "images": [
+        "https://pbs.twimg.com/media/HX1op4WbwAEHQrc.jpg"
+      ],
+      "at": 1795480568722,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795478521846
+  "lastPostAt": 1795480568722
 }
