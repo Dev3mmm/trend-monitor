@@ -3402,5 +3402,19 @@
     "fetchedAt": "2026-11-24T15:52:42.419Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-3bf3d9e0e1b3134a",
+    "title": "AIOZ Pin File Vectors: Search Pinned Files by Meaning",
+    "url": "https://aioz.network/blog/aioz-pin-file-vectors-search-pinned-files-by-meaning",
+    "description": "A file can already be pinned on IPFS, but finding it still depends on knowing its CID, filename, or metadata. AIOZ Pin File Vectors adds another path: search by meaning. Enable vectorization for supported text files, then search pinned content with natural-language queries across more than 100 languages. AIOZ Pin handles the embeddings and vector index while the original file and CID remain unchan",
+    "publishedAt": "2026-11-24T16:22:19.000Z",
+    "source": "AIOZ Network",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-11-24T16:22:24.256Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
