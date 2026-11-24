@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795277535386-rxrrxc",
-    "source": "x",
-    "ts": "2026-11-21T16:12:15.386Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-21T16:04:52.000Z",
-    "reason": "AI threat call by a major crypto influencer potentially impacts security and usage.",
-    "text": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-    "url": "https://x.com/DecryptMedia/status/2124172202282995796",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795278765075-u3h8bp",
-    "source": "x",
-    "ts": "2026-11-21T16:32:45.075Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-21T16:30:49.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "🔥 INSIGHT: Crypto's Trump label has an expiry date.\n\nSpeaking to @itsciaranlyons, Dragonfly's @hosseeb said crypto was never really a left-right issue, and it only got tied to Trump through the projects he brought under his wing.\n\nBy 2028 to 2030, he expects that link to fade",
-    "url": "https://x.com/Cointelegraph/status/2124178732952801388"
-  },
-  {
     "id": "x-1795278770341-eemsds",
     "source": "x",
     "ts": "2026-11-21T16:32:50.341Z",
@@ -7561,5 +7532,37 @@
     "reason": "No notable move in ETH price.",
     "text": "So what actually is @axisrobotics...?\n\nThis @PiCoreTeam $PI portco has broken headlines on multiple occasions this year. We dive into what the platform actually is, beyond the hype ⬇️",
     "url": "https://x.com/BSCNews/status/2125019064011473328"
+  },
+  {
+    "id": "x-1795480564646-o14rx2",
+    "source": "x",
+    "ts": "2026-11-24T00:36:04.646Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T00:31:03.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇺🇸 LATEST: The US has blacklisted Megaspeed, the Singapore firm tied to the Nvidia scandal, cutting off its access to advanced US AI chips without a license, per NYT.",
+    "url": "https://x.com/Cointelegraph/status/2125024361832763795",
+    "images": [
+      "https://pbs.twimg.com/media/HX2aYqhXoAAtfHb.jpg",
+      "https://pbs.twimg.com/media/HX2aZH1W0AAe-DI.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795480568101-fp7o9a",
+    "source": "x",
+    "ts": "2026-11-24T00:36:08.101Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-24T00:23:00.000Z",
+    "reason": "No notable move or specific action described.",
+    "text": "41% of all SUPRA tokens now staked.\n\nAccording to data from Suprascan, some 20.01B SUPRA tokens are now staked on the @SUPRA_Labs network.\n\nThis is equivalent to roughly 41% of the 48.72 SUPRA tokens in circulation.\n\nMost encouraging, however, is the fact that this figure is",
+    "url": "https://x.com/BSCNews/status/2125022334675292417"
   }
 ]
