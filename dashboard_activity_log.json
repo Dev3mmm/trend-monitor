@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795376533095-9kmtbk",
-    "source": "x",
-    "ts": "2026-11-22T19:42:13.095Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-22T19:37:26.000Z",
-    "reason": "Noise: irrelevant to crypto or financial markets.",
-    "text": "刘易斯在霍尔木兹游泳时的自述，中文字幕\n\n近日英国长距离游泳运动员刘易斯从阿曼下海，在霍尔木兹海峡才游了 20 分钟，就听见两声爆炸。当时连海面都在震。大约 4 公里外一艘油轮被击中了。\n\n第二天他又游了 4 个小时，途中看见远处的山后冒起了烟。等到坐船返港时，才看到是一艘液化气运输船被击中。",
-    "url": "https://x.com/PhyrexNi/status/2124588082414690541"
-  },
-  {
-    "id": "x-1795377150558-2d556t",
-    "source": "x",
-    "ts": "2026-11-22T19:52:30.558Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 62,
-    "originTimestamp": "2026-11-22T18:50:14.000Z",
-    "reason": "No crypto-related content.",
-    "text": "32 hour launch pad recycle. Great work by SpaceX team.",
-    "url": "https://x.com/elonmusk/status/2124589255565680900"
-  },
-  {
-    "id": "x-1795377744016-pih154",
-    "source": "x",
-    "ts": "2026-11-22T20:02:24.016Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T20:00:01.000Z",
-    "reason": "No notable move in price is mentioned.",
-    "text": "🚨Bessent shrugs off concerns about Nvidia’s circular financing, citing “near unlimited demand” for its chips worldwide.\n\nDespite the leadership change, Bessent remains unworried about $NVDA. \n\nHe called the company “fantastically profitable” and said its CFO, now serving as",
-    "url": "https://x.com/coinbureau/status/2124593766153773250"
-  },
-  {
     "id": "x-1795377748318-v6q5ip",
     "source": "x",
     "ts": "2026-11-22T20:02:28.318Z",
@@ -7650,5 +7611,52 @@
     "reason": "No notable move in Ethereum, price is within its recent range.",
     "text": "🚨 TODAY: Nvidia $NVDA shares extend losses, falling 6%.",
     "url": "https://x.com/Cointelegraph/status/2125243446965211264"
+  },
+  {
+    "id": "x-1795533178894-9n01h8",
+    "source": "x",
+    "ts": "2026-11-24T15:12:58.894Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T15:07:50.000Z",
+    "reason": "Notable growth in active validators for Cardano's proof-of-stake blockchain.",
+    "text": "Cardano Has Highest Validator Growth Among Top 10 PoS Chains\n\nCardano (@Cardano) increased its number of active validators by 14.9% year over year, reaching 2,823 nodes. \n\nAccording to @tokenterminal, this is the largest growth rate for any of the top 10 proof-of-stake blockchain",
+    "url": "https://x.com/BSCNews/status/2125245009490309137",
+    "images": [
+      "https://pbs.twimg.com/media/HX5ivKxWgAEnfHc.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795533185311-t8mp1j",
+    "source": "x",
+    "ts": "2026-11-24T15:13:05.311Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-24T15:06:15.000Z",
+    "reason": "No concrete, specific price or event in crypto market mentioned.",
+    "text": "🚨TODAY: The U.S. stock market opens RED, erasing over $1,000,000,000,000 in market value as tariff fears and AI trade worries return.\n\n🔻 Nasdaq −1.42%\n🔻 S&amp;P 500 −1.09%\n🔻 Dow −0.60%\n\nThe Nasdaq led the declines as the premarket selloff in leading AI stocks continued after",
+    "url": "https://x.com/coinbureau/status/2125244613615296854"
+  },
+  {
+    "id": "x-1795533190444-ruerif",
+    "source": "x",
+    "ts": "2026-11-24T15:13:10.444Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-24T15:03:16.000Z",
+    "reason": "Multiple significant events including a price drop for ANT, regulatory concerns, and a hack.",
+    "text": "Jensen Pump Reverses, $ANT sub-IPO, New Tariff Fears &amp; Ansem Hacked",
+    "url": "https://x.com/DecryptMedia/status/2125243861953843392",
+    "images": [],
+    "video": null
   }
 ]
