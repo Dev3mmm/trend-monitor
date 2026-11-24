@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795335731524-oadpe7",
-    "source": "x",
-    "ts": "2026-11-22T08:22:11.524Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-22T08:13:00.000Z",
-    "reason": "Notable real-world event impact on crypto market.",
-    "text": "🇲🇽JUST IN: At least 11 people dead after Mexican authorities capture suspected cartel leader 'El Chapo Isidro'.",
-    "url": "https://x.com/BSCNews/status/2124415838208094642",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795336343843-67jv7g",
-    "source": "x",
-    "ts": "2026-11-22T08:32:23.843Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T08:30:18.000Z",
-    "reason": "Exploit affecting user security and former Mt. Gox CEO's commentary on the issue.",
-    "text": "🚨 NEW: Pump fun is killing external wallet login on Nov 30, and former Mt. Gox CEO Mark Karpelès is slamming it for asking users to paste their private keys into the site.",
-    "url": "https://x.com/Cointelegraph/status/2124420192809722075",
-    "images": [
-      "https://pbs.twimg.com/media/HXt05xCXQAATtUT.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795336348338-zd6cmu",
     "source": "x",
     "ts": "2026-11-22T08:32:28.338Z",
@@ -7650,5 +7616,37 @@
     "url": "https://x.com/Cointelegraph/status/2125177607863865423",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795517548850-1r3fqk",
+    "source": "x",
+    "ts": "2026-11-24T10:52:28.850Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T10:50:49.000Z",
+    "reason": "Exploit and potential wallet/hack incident revealed.",
+    "text": "⚠️ALERT: $AMSEM crashes over -54% in just five minutes on reports that Ansem’s wallet may have been HACKED.\n\nOn-chain activity shows wallets linked to @blknoiz06 sold 70.79 MILLION $ANSEM for $1.25M.\n\nThe proceeds were sent to an Arbitrum wallet that now holds $2.57M $USDC.",
+    "url": "https://x.com/coinbureau/status/2125180329988407327",
+    "images": [
+      "https://pbs.twimg.com/media/HX4n8ZfbEAAmZfO.jpg",
+      "https://pbs.twimg.com/media/HX4n9IrbcAA6hZA.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795517553234-2wqy0o",
+    "source": "x",
+    "ts": "2026-11-24T10:52:33.234Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-24T10:46:18.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "You Can Now Deploy ICP Cloud Engine Directly Inside ChatGPT\n\nInternet Computer (@dfinity)'s Cloud Engine infrastructure can now be deployed and managed via autonomous AI agents.\n\nA developer can set up a sovereign cloud engine and deploy live web apps from a smartphone using",
+    "url": "https://x.com/BSCNews/status/2125179192505458819"
   }
 ]
