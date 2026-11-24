@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795306350375-8xm86f",
-    "source": "x",
-    "ts": "2026-11-22T00:12:30.375Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 93,
-    "originTimestamp": "2026-11-21T22:38:58.000Z",
-    "reason": "The tweet is unrelated to cryptocurrency or blockchain technology.",
-    "text": "Tesla FSD V15 is officially downloading on my Model Y!",
-    "url": "https://x.com/elonmusk/status/2124293999704015018"
-  },
-  {
     "id": "x-1795306354492-x1epl9",
     "source": "x",
     "ts": "2026-11-22T00:12:34.492Z",
@@ -7624,5 +7611,25 @@
     "reason": "No notable move in cryptocurrency prices or events.",
     "text": "Ukraine's fifth winter of war is approaching, but a ceasefire remains unlikely. Polymarket puts the year-end odds at just 5.9%. \n\nFind out why peace remains out of reach 👇",
     "url": "https://x.com/BSCNews/status/2125111191102222385"
+  },
+  {
+    "id": "x-1795501954044-0vpg2y",
+    "source": "x",
+    "ts": "2026-11-24T06:32:34.044Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T06:31:01.000Z",
+    "reason": "Net outflows from BTC, ETH, SOL, and XRP spot ETFs on Nov. 23.",
+    "text": "🇺🇸 ETF FLOWS: BTC, ETH, SOL and XRP spot ETFs saw net outflows on Nov. 23.\n\nBTC: -$569.74M\nETH: -$84.96M\nSOL: -$3.83M\nXRP: -$2.49M",
+    "url": "https://x.com/Cointelegraph/status/2125114949622022334",
+    "images": [
+      "https://pbs.twimg.com/media/HX3sxZ1XQAAPuHu.jpg",
+      "https://pbs.twimg.com/media/HX3sx5MWEAEgm7X.jpg",
+      "https://pbs.twimg.com/media/HX3syLbWgAAipvg.jpg"
+    ],
+    "video": null
   }
 ]
