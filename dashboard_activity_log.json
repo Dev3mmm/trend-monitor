@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795371114200-ornpm5",
-    "source": "x",
-    "ts": "2026-11-22T18:11:54.200Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "CryptoNewsLive",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-22T18:06:26.000Z",
-    "reason": "Notable trading volume and price movement in a short period.",
-    "text": "Binance Futures traded $757M of EVAAUSDT by 17:30 UTC on Nov 22, against a $15.8M market cap per DefiLlama. $EVAA fell 64.4% on the day, from $6.4594 to about $2.30, after a 491% rise in eight days.",
-    "url": "https://x.com/CryptoNwsOrg/status/2124565179870622105",
-    "images": [
-      "https://pbs.twimg.com/media/HXv4weXX0AAsZSB.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795371712846-3iy2mx",
-    "source": "x",
-    "ts": "2026-11-22T18:21:52.846Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-22T18:15:27.000Z",
-    "reason": "No relation to cryptocurrency or digital assets.",
-    "text": "🚨BREAKING: U.S. intelligence confirms China gained access to advanced Nvidia AI chips despite U.S. export controls.\n\nThe assessments point to China’s Ministry of State Security. \n\nThe spy agency reportedly began helping Chinese companies obtain restricted $NVDA chips in late",
-    "url": "https://x.com/coinbureau/status/2124567451845497242"
-  },
-  {
-    "id": "x-1795372340991-ol9hvg",
-    "source": "x",
-    "ts": "2026-11-22T18:32:20.991Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T18:30:20.000Z",
-    "reason": "No notable crypto-related event or data point mentioned.",
-    "text": "⚡ UPDATE: The S&amp;P 500 has almost wiped out its entire 2026 gain.",
-    "url": "https://x.com/Cointelegraph/status/2124571195651629481"
-  },
-  {
     "id": "x-1795372345310-yooh6r",
     "source": "x",
     "ts": "2026-11-22T18:32:25.310Z",
@@ -7651,5 +7607,57 @@
     "reason": "No notable move in ETH price.",
     "text": "Your first connection in Bangkok? Starts with “Sawatdee.” 👋\n\nSwipe for six Thai phrases to keep handy, from your first food order to your next hello.\n\nWhich one will you try first?",
     "url": "https://x.com/binance/status/2125228651113566487"
+  },
+  {
+    "id": "x-1795530148684-2timzt",
+    "source": "x",
+    "ts": "2026-11-24T14:22:28.684Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T14:21:11.000Z",
+    "reason": "Regulatory recognition of Bitcoin for derivatives could spur adoption.",
+    "text": "🔥 SAYLOR: CFTC staff recognize Bitcoin as eligible for US derivatives exchanges’ operating reserves.\n\n“The next phase of adoption is putting Bitcoin to work.”",
+    "url": "https://x.com/Cointelegraph/status/2125233269444895127",
+    "images": [
+      "https://pbs.twimg.com/media/HX5W433aAAA_d7-.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/tweet_video/HX5Wve1bwAAWEu-.mp4",
+      "duration": 3,
+      "gif": true,
+      "thumb": "https://pbs.twimg.com/tweet_video_thumb/HX5Wve1bwAAWEu-.jpg"
+    }
+  },
+  {
+    "id": "x-1795530153823-jmlksg",
+    "source": "x",
+    "ts": "2026-11-24T14:22:33.823Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T14:20:08.000Z",
+    "reason": "No notable move or concrete data point provided.",
+    "text": "LUNC Impressive rally continues... \n\nAfter a short rally yesterday, primarily due to the $NVDA news, many crypto assets reversed back to previous lows. \n\nOne asset that has continued its surge is $LUNC. \n\nThe token is now up 68% in the past year and nearly 15% in the past week.",
+    "url": "https://x.com/BSCNews/status/2125233005878718685"
+  },
+  {
+    "id": "x-1795530158265-7u0bya",
+    "source": "x",
+    "ts": "2026-11-24T14:22:38.265Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-24T14:14:15.000Z",
+    "reason": "Regulatory move impacting cryptocurrency exchange and token issuance.",
+    "text": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+    "url": "https://x.com/DecryptMedia/status/2125231526279274745",
+    "images": [],
+    "video": null
   }
 ]

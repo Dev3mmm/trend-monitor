@@ -3346,5 +3346,19 @@
     "fetchedAt": "2026-11-24T13:22:43.680Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-03eaff2f2381af40",
+    "title": "BNB Beacon Chain recovery — \"token already claimed\" but 0.078005 BNB never arrived on BSC",
+    "url": "https://forum.bnbchain.org/t/bnb-beacon-chain-recovery-token-already-claimed-but-0-078005-bnb-never-arrived-on-bsc/5736",
+    "description": "Hello, I am trying to recover 0.078005 BNB stranded on the shut-down BNB Beacon Chain using the official self-service recovery tool. Details: - Beacon Chain address: bnb19g5f7xkm2w9tnwzqynx82t74w5rp25qk6kjukw - BSC recipient address: 0xB66C4eD10B0fea7c8B1D359960b9D9A03244C7E1 - Token: BNB, amount 0.078005 - Network: BNB Beacon Chain → BNB Smart Chain What I did: - On 31 May 2026 I submitted the re",
+    "publishedAt": "2026-11-24T14:14:26.000Z",
+    "source": "BNB Chain Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-24T14:22:56.968Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
