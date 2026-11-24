@@ -1,63 +1,5 @@
 [
   {
-    "id": "x-1795425330924-2imi9b",
-    "source": "x",
-    "ts": "2026-11-23T09:15:30.924Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-23T09:13:03.000Z",
-    "reason": "No notable crypto-related move or news in the tweet.",
-    "text": "A city worth the trip. A date worth saving.\n\nBangkok, we’ll see you November 28–29 for #BinanceBlockchainWeek ✈️\n\nTell us where you’d be joining from.",
-    "url": "https://x.com/binance/status/2124793338926633363"
-  },
-  {
-    "id": "x-1795425825874-814jxq",
-    "source": "x",
-    "ts": "2026-11-23T09:23:45.874Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-23T09:18:06.000Z",
-    "reason": "Generic news not specific to cryptocurrency.",
-    "text": "JUST IN: Donald Trump wants Jensen Huang back at Nvidia, calling his return best for the US.",
-    "url": "https://x.com/BSCNews/status/2124794608966344997"
-  },
-  {
-    "id": "x-1795425829541-rned6w",
-    "source": "x",
-    "ts": "2026-11-23T09:23:49.541Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T09:17:57.000Z",
-    "reason": "Noise: generic marketing message without a specific claim.",
-    "text": "The news that matters, and nothing else.\n\nComprehensive coverage on the blockchain ecosystems that matter. From majors like @Solana and @Ethereum, through to up-and-coming L1s like @StellarOrg and @SeiNetwork - We've got you covered.\n\nJoin now:",
-    "url": "https://x.com/BSCNews/status/2124794571750256716"
-  },
-  {
-    "id": "x-1795426340418-r4slqu",
-    "source": "x",
-    "ts": "2026-11-23T09:32:20.418Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T09:30:58.000Z",
-    "reason": "Notable use case and market outperformance of a stablecoin.",
-    "text": "🔥 NEW: Ripple's $RLUSD overtakes Trump's USD1 stablecoin by circulating supply, hitting a record $2.87B.",
-    "url": "https://x.com/Cointelegraph/status/2124797846427689378",
-    "images": [
-      "https://pbs.twimg.com/media/HXzMXuYWoAAH7MA.jpg",
-      "https://pbs.twimg.com/media/HXzMYPsXYAA0j3q.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795426944901-ehyvrk",
     "source": "x",
     "ts": "2026-11-23T09:42:24.901Z",
@@ -7793,5 +7735,74 @@
     "reason": "No notable crypto-related news or price movement mentioned.",
     "text": "🇺🇸 BREAKING: The CIA and spy chief Jay Clayton's office, which oversees all 18 US spy agencies, suffer a CYBERATTACK exposing some unclassified information, per NYT.\n\nA hacker appears to have gained access to an open source intelligence system the agencies use.\n\nInformation at",
     "url": "https://x.com/coinbureau/status/2125325402491216240"
+  },
+  {
+    "id": "x-1795552955497-yetj0t",
+    "source": "x",
+    "ts": "2026-11-24T20:42:35.497Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T20:40:53.000Z",
+    "reason": "Solana's growth in tokenized Treasury bill market is significant and specific.",
+    "text": "🚨 JUST IN: Solana led all blockchains in tokenized U.S. Treasury bill market cap growth over the past seven days, adding $69M, while Stellar recorded the largest decline of $165.8M, per Token Terminal.",
+    "url": "https://x.com/Cointelegraph/status/2125328826724913303",
+    "images": [
+      "https://pbs.twimg.com/media/HX6vTb_X0AA9NEj.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795552959275-9strtv",
+    "source": "x",
+    "ts": "2026-11-24T20:42:39.275Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-24T20:37:54.000Z",
+    "reason": "New Bitcoin payment card launch by a major fintech company",
+    "text": "JUST IN: 🇺🇸 Payward's money app Krak has opened a waitlist for two U.S. credit cards that offer up to 4% cashback in Bitcoin 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2125328074745188558",
+    "images": [
+      "https://pbs.twimg.com/media/HX6uLpGWgAADZv7.jpg",
+      "https://pbs.twimg.com/media/HX6uLpCXQAAhc62.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795552963131-25942l",
+    "source": "x",
+    "ts": "2026-11-24T20:42:43.131Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T20:37:15.000Z",
+    "reason": "Not a concrete news item, more of a statement from the Ethereum Foundation.",
+    "text": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+    "url": "https://x.com/DecryptMedia/status/2125327910466715648",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795552966978-1a6lcy",
+    "source": "x",
+    "ts": "2026-11-24T20:42:46.978Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-24T20:34:56.000Z",
+    "reason": "New use of token with a large reward pool for user engagement.",
+    "text": "Up to 20 million $PI is on the table to pull users into new Pi Network (@PiCoreTeam) apps. Who can earn it, and how? ⬇️",
+    "url": "https://x.com/BSCNews/status/2125327327500411023",
+    "images": [],
+    "video": null
   }
 ]
