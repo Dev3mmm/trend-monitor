@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795401136328-wrmxrq",
-    "source": "x",
-    "ts": "2026-11-23T02:32:16.328Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-23T02:30:00.000Z",
-    "reason": "Notable use of crypto for a software release delay.",
-    "text": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump\n\nThe anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
-    "url": "https://x.com/DecryptMedia/status/2124691907607752721",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795401138185-6glj58",
-    "source": "x",
-    "ts": "2026-11-23T02:32:18.185Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 42,
-    "originTimestamp": "2026-11-23T01:50:17.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "🤣 or maybe it will be the other way around, ie, the FUD will be stopped (mostly) by a green candle.",
-    "url": "https://x.com/cz_binance/status/2124691673058070800"
-  },
-  {
-    "id": "x-1795402366009-pxbt8h",
-    "source": "x",
-    "ts": "2026-11-23T02:52:46.009Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-23T02:50:00.000Z",
-    "reason": "No newsworthy information provided, just a statement of fact without context or significance.",
-    "text": "Binance still the undisputed king of crypto.\n\nAccording to CMC data, the @Binance exchange has seen its volume grow slightly as the crypto market undergoes a vicious sell-off.\n\nAt time of writing, its 24-hour volume stands at around $10.3 billion.\n\nThat is some 4-5x the volume of",
-    "url": "https://x.com/BSCNews/status/2124696940759896576"
-  },
-  {
     "id": "x-1795402370194-s89jef",
     "source": "x",
     "ts": "2026-11-23T02:52:50.194Z",
@@ -7720,6 +7678,50 @@
     "url": "https://x.com/BSCNews/status/2125273828888556004",
     "images": [
       "https://pbs.twimg.com/media/HX59SEzXAAA-lSp.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795540986967-vt0t18",
+    "source": "x",
+    "ts": "2026-11-24T17:23:06.967Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T17:20:54.000Z",
+    "reason": "No notable move in the crypto markets as the tweet is about US inflation expectations.",
+    "text": "🇺🇸 INSIGHT: US two-year inflation swaps have fallen to around 2%, the lowest level since September 2024, signaling lower inflation expectations, per Matthew Sigel.",
+    "url": "https://x.com/Cointelegraph/status/2125278498344329489"
+  },
+  {
+    "id": "x-1795540990319-8vtl67",
+    "source": "x",
+    "ts": "2026-11-24T17:23:10.319Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Michael Saylor",
+    "ageMin": 88,
+    "originTimestamp": "2026-11-24T15:55:14.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "I caught up with my friend Eric Weiss @Eric_BIGfund to talk about why Bitcoin has been so frustrating to hold and what could spark the next bull market.\n\nHe also shared some fascinating stories about Michael Saylor that I hadn't heard before, including his way of spotting major",
+    "url": "https://x.com/saylor/status/2125277728916033686"
+  },
+  {
+    "id": "x-1795540994474-ujm4xw",
+    "source": "x",
+    "ts": "2026-11-24T17:23:14.474Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-24T17:15:08.000Z",
+    "reason": "Significant on-chain exploit and network upgrade to mitigate risk.",
+    "text": "Osmosis locks 84,000 wallets to keep an attacker out\n\n@osmosis ($OSMO) validators upgraded the network to v32.0.1 on Friday, the chain confirmed today.\n\nAround 84,000 wallets exposed in the Web3Auth breach, created through social logins such as Google or Apple, can now only send",
+    "url": "https://x.com/BSCNews/status/2125277046410752214",
+    "images": [
+      "https://pbs.twimg.com/media/HX5_YkMXsAA9Hgt.jpg"
     ],
     "video": null
   }
