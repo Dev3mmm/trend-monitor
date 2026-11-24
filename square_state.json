@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1794002865922-m7yfkk",
-    "x-1794002875999-2fdy3i",
-    "x-1794003042318-udt4rj",
     "x-1794003044571-zktxkl",
     "x-1794003742725-vdslvs",
     "x-1794004321332-91vbq2",
@@ -1999,18 +1996,12 @@
     "x-1795490543927-8dwukb",
     "x-1795490549542-wbnrsl",
     "x-1795491114264-g5dqx8",
-    "x-1795491726929-ohab0j"
+    "x-1795491726929-ohab0j",
+    "x-1795492927665-1307dv",
+    "x-1795492938556-z82477",
+    "x-1795492943062-pswzxg"
   ],
   "queue": [
-    {
-      "text": "🔥 UPDATE: Stellar's Protocol 30 upgrade, \"Bell,\" is now live on mainnet, with business-scale smart accounts and support for quantum-safe signatures.",
-      "url": "https://x.com/Cointelegraph/status/2125047002299764923",
-      "images": [
-        "https://pbs.twimg.com/media/HX2u_HUWEAA00il.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795485811697
-    },
     {
       "text": "🚨 JUST IN: Over $70M liquidated in the past hour, with longs taking $67M of the hit, as bitcoin:native drops below $60,000.",
       "url": "https://x.com/Cointelegraph/status/2125066590584709157",
@@ -2039,6 +2030,15 @@
       ],
       "video": null,
       "enqueuedAt": 1795491115069
+    },
+    {
+      "text": "🚨 TODAY: Galaxy's Alex Thorn posts a chart that ranks the current Bitcoin bear market as the shallowest of the last four, with a 53% drop so far vs. 77%–85% in past cycles.",
+      "url": "https://x.com/Cointelegraph/status/2125077213447958613",
+      "images": [
+        "https://pbs.twimg.com/media/HX3Kc5NXwAAkrBF.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795492943622
     }
   ],
   "posted": [
@@ -2683,7 +2683,16 @@
       "at": 1795491115069,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391577306811586?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 UPDATE: Stellar's Protocol 30 upgrade, \"Bell,\" is now live on mainnet, with business-scale smart accounts and support for quantum-safe signatures.",
+      "final": "🔥 UPDATE: Stellar's Protocol 30 upgrade, \"Bell,\" is now live on mainnet, with business-scale smart accounts and support for quantum-safe signatures.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HX2u_HUWEAA00il.jpg"
+      ],
+      "at": 1795492943622,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795491115069
+  "lastPostAt": 1795492943622
 }
