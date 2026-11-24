@@ -2003,16 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 UPDATE: BitGo CEO Mike Belshe highlights growing government control: “You need bitcoin.”",
-      "url": "https://x.com/Cointelegraph/status/2125147586495398102",
-      "images": [
-        "https://pbs.twimg.com/media/HX4KdqUW8AAIKde.jpg",
-        "https://pbs.twimg.com/media/HX4Kd7WXkAEHxKp.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795509731182
-    },
-    {
       "text": "🚨 INSIGHT: Justin Sun backs HTX users seeking fair reviews after reports of faster Hyperliquid access restoration for MEXC-linked wallets.",
       "url": "https://x.com/Cointelegraph/status/2125152722647175658",
       "images": [
@@ -2721,7 +2711,17 @@
       "at": 1795509731182,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391653531698161?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: BitGo CEO Mike Belshe highlights growing government control: “You need bitcoin.”",
+      "final": "🚨 UPDATE: BitGo CEO Mike Belshe highlights growing government control: “You need bitcoin.”\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HX4KdqUW8AAIKde.jpg",
+        "https://pbs.twimg.com/media/HX4Kd7WXkAEHxKp.jpg"
+      ],
+      "at": 1795511551981,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795509731182
+  "lastPostAt": 1795511551981
 }
