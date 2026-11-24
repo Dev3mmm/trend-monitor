@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795400560009-7oc9bv",
-    "source": "x",
-    "ts": "2026-11-23T02:22:40.009Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-23T02:15:36.000Z",
-    "reason": "No factual claim or move in crypto markets.",
-    "text": "MARKET MOVER: U.S. and Israeli forces are positioning for new strikes on Iran should talks fail.",
-    "url": "https://x.com/BSCNews/status/2124688283431031041"
-  },
-  {
-    "id": "x-1795401133538-0mdgye",
-    "source": "x",
-    "ts": "2026-11-23T02:32:13.538Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T02:30:56.000Z",
-    "reason": "No notable move in ETH.",
-    "text": "⚡️ NOW: Meta's Chief AI Officer Alexandr Wang says \"superintelligence is arriving\" after AI helped prove the Riemann Hypothesis.\n\nHe warns that society should not accept a \"handover\" to AI.",
-    "url": "https://x.com/Cointelegraph/status/2124692145005072632"
-  },
-  {
     "id": "x-1795401136328-wrmxrq",
     "source": "x",
     "ts": "2026-11-23T02:32:16.328Z",
@@ -7712,5 +7686,41 @@
     "reason": "No notable crypto-related event or token movement mentioned.",
     "text": "🚨 JUST IN: Anthropic and OpenAI employees are reportedly warning that unreleased AI models have become too powerful to be safely released, per Axios.",
     "url": "https://x.com/Cointelegraph/status/2125272210575069609"
+  },
+  {
+    "id": "x-1795540321878-lr2m6n",
+    "source": "x",
+    "ts": "2026-11-24T17:12:01.878Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T17:10:34.000Z",
+    "reason": "Perpetual futures trading volume significantly exceeds $1.3 billion on Binance and Hyperliquid.",
+    "text": "Anthropic Falls Below IPO Price as Perpetual Futures Trading Volume on Binance and Hyperliquid Exceeds $1.3 Billion\n\nOn November 24, shares of Claude developer Anthropic (ANT) fell 11.70% to $77.39 during U.S. trading, dropping below its IPO price of $83 and down 30.59% from its",
+    "url": "https://x.com/WuBlockchain/status/2125275896148004992",
+    "images": [
+      "https://pbs.twimg.com/media/HX59WZya0AAIE-r.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795540325643-i3alq6",
+    "source": "x",
+    "ts": "2026-11-24T17:12:05.643Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-24T17:02:21.000Z",
+    "reason": "Exploit or vulnerability disclosure on a popular decentralized finance protocol",
+    "text": "Frax Finance goes all-in on Celo's stablecoin ecosystem.\n\nAnnounced today, @fraxfinance is bringing its entire stablecoin and asset suite to leading L2 network @Celo.\n\nThe launch spans five assets across...\n\n- frxUSD \n- sfrxUSD \n- WFRAX \n- frxETH\n- sfrxETH\n\nBut the collaboration",
+    "url": "https://x.com/BSCNews/status/2125273828888556004",
+    "images": [
+      "https://pbs.twimg.com/media/HX59SEzXAAA-lSp.jpg"
+    ],
+    "video": null
   }
 ]
