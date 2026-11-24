@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795394529004-0nk4zj",
-    "source": "x",
-    "ts": "2026-11-23T00:42:09.004Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T00:39:00.000Z",
-    "reason": "No notable move in ETH price within the recent range.",
-    "text": "We take a closer look at the first ever investment announced by @PiCoreTeam's $PI Ventures...\n\nMeet @openmind_agi ⬇️",
-    "url": "https://x.com/BSCNews/status/2124663973152706785"
-  },
-  {
-    "id": "x-1795395717512-k93ttf",
-    "source": "x",
-    "ts": "2026-11-23T01:01:57.512Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T01:01:00.000Z",
-    "reason": "No notable move in token price or significant institutional event.",
-    "text": "🇺🇸 NEW: Treasury Secretary Scott Bessent won't rule out Jensen Huang's return to Nvidia and says, \"I think we have to see where the buck stops.\"",
-    "url": "https://x.com/Cointelegraph/status/2124669509373992963"
-  },
-  {
     "id": "x-1795396339633-wx90uh",
     "source": "x",
     "ts": "2026-11-23T01:12:19.633Z",
@@ -7702,5 +7676,44 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125262787764998144/img/ECF_Nq75N0F61503.jpg"
     }
+  },
+  {
+    "id": "x-1795538525028-tmvf5o",
+    "source": "x",
+    "ts": "2026-11-24T16:42:05.028Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 19,
+    "originTimestamp": "2026-11-24T16:22:24.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔵 @CoinbaseAM's Anthony Bassili (@SmartestBeta) on sovereign money moving into Bitcoin:\n\n\"The UAE region in particular is the largest concentrated holder of Bitcoin ETFs in the entire world outside of the United States.\"\n\n\"They're raising $1.5 billion, and a portion of it is",
+    "url": "https://x.com/BitcoinMagazine/status/2125268529498796322",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125263483348369409/vid/avc1/1280x720/SU8xzVhGRcpN4oBI.mp4?tag=29",
+      "duration": 86,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125263483348369409/img/MlkDxjqRZ3joFRWO.jpg"
+    }
+  },
+  {
+    "id": "x-1795538528756-uswud4",
+    "source": "x",
+    "ts": "2026-11-24T16:42:08.756Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T16:40:12.000Z",
+    "reason": "Microsoft's response to a service outage affects its cloud services, a notable event in the crypto and tech ecosystem.",
+    "text": "🚨 ALERT: Microsoft has reportedly declared a “Code Red” for its Microsoft 365 services following the November 12 outage, targeting worldwide mitigation of future incidents in under an hour.",
+    "url": "https://x.com/Cointelegraph/status/2125268255140979065",
+    "images": [
+      "https://pbs.twimg.com/media/HX54NwDW8AAnUCh.jpg"
+    ],
+    "video": null
   }
 ]
