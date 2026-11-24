@@ -1,83 +1,5 @@
 [
   {
-    "id": "x-1795432932221-081jhb",
-    "source": "x",
-    "ts": "2026-11-23T11:22:12.222Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T11:20:52.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🇺🇸JUST IN: Nasdaq 100 futures are on track for their biggest gain since May 2025 after increasing ~4% in premarket trading.",
-    "url": "https://x.com/BSCNews/status/2124825506889572429"
-  },
-  {
-    "id": "x-1795432935792-22eaqk",
-    "source": "x",
-    "ts": "2026-11-23T11:22:15.792Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T11:17:51.000Z",
-    "reason": "Specific, verifiable regulatory move affecting major exchanges.",
-    "text": "South Korea’s Two Largest Crypto Exchanges, Upbit and Bithumb, Flag SKY and USDS as Trading Caution Assets\n\nSouth Korea’s largest cryptocurrency exchange, Upbit, and second-largest exchange, Bithumb, have separately designated Sky Protocol (SKY) and its stablecoin USDS as trading",
-    "url": "https://x.com/WuBlockchain/status/2124824748345704595",
-    "images": [
-      "https://pbs.twimg.com/media/HXzk0Ota4AAssUM.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795432939649-nx17xd",
-    "source": "x",
-    "ts": "2026-11-23T11:22:19.649Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T11:15:55.000Z",
-    "reason": "Notable growth in Algorand's DEX volume.",
-    "text": "Algorand Is Quietly Having a Big Week, and Few People Noticed\n\n@Algorand's 7-day DEX volume currently stands at $3.48 million, up 40% week over week, based on DeFiLlama data as of November 23.\n\nThe first DEX on Algorand is @tinymanorg, accounting for nearly 85% of the volume,",
-    "url": "https://x.com/BSCNews/status/2124824260023615612",
-    "images": [
-      "https://pbs.twimg.com/media/HXzkVhpXAAEksy6.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795432943473-c9l6vf",
-    "source": "x",
-    "ts": "2026-11-23T11:22:23.473Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T11:15:30.000Z",
-    "reason": "Bitcoin price is well outside its recent 30-day range of $55,711-$81,692.",
-    "text": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
-    "url": "https://x.com/DecryptMedia/status/2124824153765097555",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795432947098-tcywu6",
-    "source": "x",
-    "ts": "2026-11-23T11:22:27.098Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-23T11:13:55.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "🚨BREAKING: Nvidia, $NVDA, is SURGING, and is trading +8.8% in premarket, after falling to its lowest level in over a year.\n\nNVDA is trading above $136, after Friday's -14% crash, its largest daily drop in over a year.\n\nIf it opens here, over $260 BILLION of market value would be",
-    "url": "https://x.com/coinbureau/status/2124823757009412200"
-  },
-  {
     "id": "x-1795433511697-d9f3fa",
     "source": "x",
     "ts": "2026-11-23T11:31:51.697Z",
@@ -7819,5 +7741,89 @@
       "https://pbs.twimg.com/media/HX6vRw_X0AANMPi.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795557720625-5uw0rz",
+    "source": "x",
+    "ts": "2026-11-24T22:02:00.625Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T22:01:04.000Z",
+    "reason": "Specific trading signals on Bitcoin options market.",
+    "text": "🚨 ALERT: Bitcoin options traders are betting on further price declines at levels not seen since June 2022, when BTC was trading near $20,000, per Glassnode.",
+    "url": "https://x.com/Cointelegraph/status/2125349005886431376",
+    "images": [
+      "https://pbs.twimg.com/media/HX7BqBCXgAAl3rj.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795557724146-72s57w",
+    "source": "x",
+    "ts": "2026-11-24T22:02:04.146Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T22:00:00.000Z",
+    "reason": "AI risk mentioned by Ethereum Foundation is significant cybersecurity issue.",
+    "text": "Ethereum Foundation Says AI Has Emerged As \"A More Urgent Risk\" Than Quantum Computing.\n\nIn a Nov. 23 post, the foundation said it has doubled the size of its protocol security team and is advocating for hash-based cryptography to replace elliptic curves.",
+    "url": "https://x.com/DecryptMedia/status/2125348735261802505",
+    "images": [
+      "https://pbs.twimg.com/media/HX6UIq5XkAApfhC.png",
+      "https://pbs.twimg.com/media/HX6UXZCXUAAXpNm.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795557728264-dtigiu",
+    "source": "x",
+    "ts": "2026-11-24T22:02:08.264Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Phyrex",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T21:59:30.000Z",
+    "reason": "Notable legal action against cryptocurrency content creators.",
+    "text": "X 把两名经营 Bitcoin 相关内容的用户告上了法庭。\n\n据 X 所说这两人通过 6 个账号互相点赞、转发，把互动量做高，从平台拿到了至少 20.7 万英镑的创作者分成。\n\n11月20日英格兰及威尔士高等法院作出缺席判决，X 胜诉。两名被告收到起诉材料后都没有在期限内提交答辩。\n\n看来撸 X 的羊毛是有风险的。",
+    "url": "https://x.com/PhyrexNi/status/2125348609202020420",
+    "images": [
+      "https://pbs.twimg.com/media/HX7AV6FaUAARfK0.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795557731453-vgx5xo",
+    "source": "x",
+    "ts": "2026-11-24T22:02:11.453Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-24T21:58:05.000Z",
+    "reason": "Coinbase CEO's stance on investing criteria is noteworthy in the crypto industry.",
+    "text": "🇺🇸NEW: Coinbase CEO Brian Armstrong wants a knowledge test, not a wealth test, to decide who may invest in companies before they go public.",
+    "url": "https://x.com/BSCNews/status/2125348254917243351",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795557734160-hdly0x",
+    "source": "x",
+    "ts": "2026-11-24T22:02:14.160Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-24T21:52:15.000Z",
+    "reason": "No notable crypto-related news or movement mentioned.",
+    "text": "🇺🇸TODAY: A Tesla ($TSLA) and SpaceX ($SPCX) merger could be announced by early 2027, RBC analysts say.",
+    "url": "https://x.com/BSCNews/status/2125346785459855445"
   }
 ]
