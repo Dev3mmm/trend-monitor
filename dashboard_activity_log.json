@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795347151809-x1xnp3",
-    "source": "x",
-    "ts": "2026-11-22T11:32:31.809Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 50,
-    "originTimestamp": "2026-11-22T10:42:20.000Z",
-    "reason": "The tweet does not provide specific, verifiable financial or crypto-related news.",
-    "text": "📹 Watch: Anthropic's record IPO couldn't save the AI trade. Nvidia plunged 14%, the Nasdaq lost around 10% for the week, and more than $4 trillion in market value disappeared. Is this an AI bubble bursting or a reality check?",
-    "url": "https://x.com/coinbureau/status/2124465710588117041"
-  },
-  {
-    "id": "x-1795347790093-8sth7i",
-    "source": "x",
-    "ts": "2026-11-22T11:43:10.093Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-22T11:42:00.000Z",
-    "reason": "Significant institutional investment and withdrawal of a large amount of BTC.",
-    "text": "This massive fund thinks the Bitcoin bottom is in...\n\nAccording to @lookonchain, the London/Monaco-based Abraxas Capital Management bought more than $1 BILLION worth of $BTC as its price crashed below $60,000.\n\nThe fund withdrew 17,597 $BTC, worth $1.04B, from the @Binance and",
-    "url": "https://x.com/BSCNews/status/2124468434943844734",
-    "images": [
-      "https://pbs.twimg.com/media/HXt3R0MWIAAjm8-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795347792024-g56e3w",
-    "source": "x",
-    "ts": "2026-11-22T11:43:12.024Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-22T11:24:43.000Z",
-    "reason": "No notable move or concrete news.",
-    "text": "True",
-    "url": "https://x.com/elonmusk/status/2124467385298293001"
-  },
-  {
     "id": "x-1795347796876-hnuzp0",
     "source": "x",
     "ts": "2026-11-22T11:43:16.876Z",
@@ -7669,5 +7625,53 @@
     "reason": "No notable move in price or significant news.",
     "text": "Filecoin now has its own native Drive for Cloud Storage! \n\nDecentralized cloud storage platform Filecoin (@Filecoin) has released Filecoin Drive, an encrypted cloud storage browser extension as an alternative to cloud storage lockers.\n\nSign-up is conducted through a regular Web3",
     "url": "https://x.com/BSCNews/status/2125191476174864461"
+  },
+  {
+    "id": "x-1795521158482-blru2z",
+    "source": "x",
+    "ts": "2026-11-24T11:52:38.482Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-24T11:51:55.000Z",
+    "reason": "New use of a token (GRAM) in a messaging app.",
+    "text": "TON (@ton_blockchain) $GRAM is bringing wallets, payments and stablecoins straight into Telegram. \n\nHere's what that means for messaging apps👇",
+    "url": "https://x.com/BSCNews/status/2125195708018082103",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795521160858-v8j4bc",
+    "source": "x",
+    "ts": "2026-11-24T11:52:40.858Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T11:47:47.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "It is a man's world - James Brown, 11th July, 1981.",
+    "url": "https://x.com/amerix/status/2125194668677755322"
+  },
+  {
+    "id": "x-1795521164612-y5p86q",
+    "source": "x",
+    "ts": "2026-11-24T11:52:44.612Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-24T11:43:39.000Z",
+    "reason": "Notable regulatory move involving a high-level government official in crypto.",
+    "text": "🔥 NEW: Gemini names John York, a former US Treasury Assistant Secretary, as its new COO, per an SEC filing.\n\nAt Treasury, York led cuts of about 28,000 jobs, saving roughly $5B a year.",
+    "url": "https://x.com/Cointelegraph/status/2125193626456142215",
+    "images": [
+      "https://pbs.twimg.com/media/HX40VXzXgAAaKGS.jpg",
+      "https://pbs.twimg.com/media/HX40VvQWwAA-OlV.png"
+    ],
+    "video": null
   }
 ]
