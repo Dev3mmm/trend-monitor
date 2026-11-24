@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795317737214-xm8w5e",
-    "source": "x",
-    "ts": "2026-11-22T03:22:17.214Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-22T03:20:52.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🚨ALERT: U.S. banks are taking a HANDS-OFF approach to outside AI agents’ mistakes.\n\nIf you give an AI agent access to your account and it sends money to the wrong person, your bank may treat the payment as one you approved. \n\nAnd, you could be on the hook.\n\nHere's what banks",
-    "url": "https://x.com/coinbureau/status/2124342319860351051",
-    "images": [
-      "https://pbs.twimg.com/media/HXssMvga4AARixe.jpg",
-      "https://pbs.twimg.com/media/HXssRjSbsAAmWKS.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795317740015-h2tmfb",
-    "source": "x",
-    "ts": "2026-11-22T03:22:20.015Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 36,
-    "originTimestamp": "2026-11-22T02:46:08.000Z",
-    "reason": "Vague opinion with no factual claim.",
-    "text": "You are under hyped for Reality View. It is absolutely amazing. \n\nIn the last clip, I was actually surprised when I looked up and the arrows weren't actually floating mid air 🤣",
-    "url": "https://x.com/elonmusk/status/2124341145165791342"
-  },
-  {
     "id": "x-1795317742169-k1irac",
     "source": "x",
     "ts": "2026-11-22T03:22:22.169Z",
@@ -7656,5 +7624,45 @@
       "https://pbs.twimg.com/media/HX3XtuNbgAEYljC.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795510951260-yf654x",
+    "source": "x",
+    "ts": "2026-11-24T09:02:31.260Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T09:01:07.000Z",
+    "reason": "Notable action by a high-profile figure in the crypto space.",
+    "text": "🚨 INSIGHT: Justin Sun backs HTX users seeking fair reviews after reports of faster Hyperliquid access restoration for MEXC-linked wallets.",
+    "url": "https://x.com/Cointelegraph/status/2125152722647175658",
+    "images": [
+      "https://pbs.twimg.com/media/HX4PIVAW8AEY2Gr.jpg",
+      "https://pbs.twimg.com/media/HX4PIoLXcAARcjy.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795510954892-0043zo",
+    "source": "x",
+    "ts": "2026-11-24T09:02:34.892Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T09:00:00.000Z",
+    "reason": "Specific regulatory update on the intersection of FinTech and Crypto.",
+    "text": "FinTax COO: Regulations and Accounting Standards Are TradFi's Entry Ticket to Crypto\n\nFinTax co-founder and COO Jeffrey Li @Jeffrey_FT told the WuBlockchain Podcast that new regulations over the past three years have created compliance challenges but are a double-edged sword. He",
+    "url": "https://x.com/WuBlockchain/status/2125152444799652046",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125137630581104640/vid/avc1/1280x720/QegQR6_8E9lDCmPu.mp4?tag=29",
+      "duration": 69,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125137630581104640/img/jH0W3f3cYVEPvu0E.jpg"
+    }
   }
 ]
