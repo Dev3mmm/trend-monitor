@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795403554260-jx1s0s",
-    "source": "x",
-    "ts": "2026-11-23T03:12:34.260Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-23T03:12:08.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸 JUST IN: President Trump says, “I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A.”",
-    "url": "https://x.com/Cointelegraph/status/2124702511776907725"
-  },
-  {
-    "id": "x-1795403557423-0uvhi2",
-    "source": "x",
-    "ts": "2026-11-23T03:12:37.423Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T03:09:32.000Z",
-    "reason": "No notable crypto-related event.",
-    "text": "🚨BREAKING: ₩316,000,000,000,000 wiped out from South Korean stocks as the KOSPI crashes to a 10-month low.\n\nProgram selling halted for 5 minutes after the index plunged 5%, despite emergency stabilization measures.\n\nThe KOSPI is now just 274 points (6.1%) away from turning",
-    "url": "https://x.com/coinbureau/status/2124701855762747632"
-  },
-  {
     "id": "x-1795404763306-l651hn",
     "source": "x",
     "ts": "2026-11-23T03:32:43.306Z",
@@ -7738,6 +7712,39 @@
     "url": "https://x.com/BitcoinMagazine/status/2125279576918220868",
     "images": [
       "https://pbs.twimg.com/media/HX6CHS6XYAA5vfw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795542176980-lp7ceb",
+    "source": "x",
+    "ts": "2026-11-24T17:42:56.980Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 54,
+    "originTimestamp": "2026-11-24T16:48:32.000Z",
+    "reason": "Prediction with no basis given",
+    "text": "MN Capital's Michaël van de Poppe (@CryptoMichNL) on a Bitcoin relief rally:\n\n\"It's an extreme outlier... which usually at least has a relief rally of between 15 to 40% in the short term.\"\n\n\"You can expect that out of this move there's at least a run towards 68 to 72K.\"",
+    "url": "https://x.com/BitcoinMagazine/status/2125283746123481515"
+  },
+  {
+    "id": "x-1795542181908-3cyx48",
+    "source": "x",
+    "ts": "2026-11-24T17:43:01.908Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T17:40:56.000Z",
+    "reason": "Notable institution-partnering event in the DeFi ecosystem.",
+    "text": "⚡️ JUST IN: Chainlink launches CustodySync with Anchorage Digital, enabling institutions to borrow from DeFi lending markets without moving their assets out of qualified custody.",
+    "url": "https://x.com/Cointelegraph/status/2125283539511808296",
+    "images": [
+      "https://pbs.twimg.com/media/HX6GG91XsAA3gK2.jpg",
+      "https://pbs.twimg.com/media/HX6GHNHXQAAxukZ.jpg",
+      "https://pbs.twimg.com/media/HX6GHaOXsAARkBy.jpg"
     ],
     "video": null
   }
