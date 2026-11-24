@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795402370194-s89jef",
-    "source": "x",
-    "ts": "2026-11-23T02:52:50.194Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-23T02:44:58.000Z",
-    "reason": "No notable crypto-related news mentioned.",
-    "text": "🚨 TODAY: US stock futures rebound, with Nasdaq 100 futures up nearly 3%, after last week's 10% Nasdaq drop marked its worst week since March 2020.",
-    "url": "https://x.com/Cointelegraph/status/2124695673354281395"
-  },
-  {
-    "id": "x-1795402892333-tl91ln",
-    "source": "x",
-    "ts": "2026-11-23T03:01:32.333Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-23T03:00:53.000Z",
-    "reason": "Half of qualified wallets received banned tokens.",
-    "text": "🚨 NOW: Half of the wallets that qualified for Trump's memecoin dinner got their $TRUMP tokens from exchanges that bar US users, according to Public Citizen.",
-    "url": "https://x.com/Cointelegraph/status/2124699679787004367",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795402894233-zv9g74",
-    "source": "x",
-    "ts": "2026-11-23T03:01:34.233Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T02:56:56.000Z",
-    "reason": "No notable move in the crypto markets.",
-    "text": "Used Grok Bot to clean up inactive and abusive accounts I follow. Ask it to keep constructive criticism. Not sure how well it worked. \"AI did it.\" 🤷‍♂️ 🤣",
-    "url": "https://x.com/cz_binance/status/2124698685116383430"
-  },
-  {
     "id": "x-1795403554260-jx1s0s",
     "source": "x",
     "ts": "2026-11-23T03:12:34.260Z",
@@ -7722,6 +7680,64 @@
     "url": "https://x.com/BSCNews/status/2125277046410752214",
     "images": [
       "https://pbs.twimg.com/media/HX5_YkMXsAA9Hgt.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795541577549-1279hl",
+    "source": "x",
+    "ts": "2026-11-24T17:32:57.549Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-24T17:30:01.000Z",
+    "reason": "Fidelity Crypto expands its trading lineup with Aave, Chainlink, and Uniswap tokens.",
+    "text": "Fidelity Crypto Adds Aave, Chainlink And Uniswap Tokens To Its Trading Lineup.\n\nAAVE, LINK and UNI are now available to trade on Fidelity Crypto, joining Bitcoin, Ethereum, Solana, Litecoin and the Fidelity Digital Dollar, Fidelity said.",
+    "url": "https://x.com/DecryptMedia/status/2125280791202607387",
+    "images": [
+      "https://pbs.twimg.com/media/HX50xCzWAAAegGB.png",
+      "https://pbs.twimg.com/media/HX52S7xW8AAzEiH.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795541581357-dzv8m9",
+    "source": "x",
+    "ts": "2026-11-24T17:33:01.357Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-24T17:26:46.000Z",
+    "reason": "The tweet is vague and lacks concrete, specific information.",
+    "text": "🎥 Provable (@ProvableHQ) CEO Howard Wu (@1HowardWu) is super bullish on the convergence between AI and crypto, saying that every AI agent is going to need a private wallet.\n\n\"Ultimately, agents are going to be serving us and acting on our behalf to make our lives more seamless,",
+    "url": "https://x.com/Cointelegraph/status/2125279977025544213",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125279206762557440/vid/avc1/1280x720/ednVmejGKF5tbOvs.mp4?tag=29",
+      "duration": 1616,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125279206762557440/img/mSy2I0nfgpQ-3Wh_.jpg"
+    }
+  },
+  {
+    "id": "x-1795541585329-1w5zbm",
+    "source": "x",
+    "ts": "2026-11-24T17:33:05.329Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-24T17:25:11.000Z",
+    "reason": "First investment solution offering 100% capital protection on Bitcoin in Italy.",
+    "text": "JUST IN: 🇮🇹 Italy's 2nd largest bank UniCredit launches a Bitcoin-linked investment product, offering clients 100% capital protection at maturity.\n\nThe bank says this is the first investment solution of its kind in the country! 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2125279576918220868",
+    "images": [
+      "https://pbs.twimg.com/media/HX6CHS6XYAA5vfw.jpg"
     ],
     "video": null
   }
