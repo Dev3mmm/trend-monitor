@@ -1,57 +1,5 @@
 [
   {
-    "id": "x-1795411391472-nvmo7b",
-    "source": "x",
-    "ts": "2026-11-23T05:23:11.472Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-23T05:15:05.000Z",
-    "reason": "No notable crypto move or adoption mentioned.",
-    "text": "UPDATE: GTA VI recorded $3.79 billion in day one retail sales, setting a new entertainment launch record, according to Rockstar Games.",
-    "url": "https://x.com/BSCNews/status/2124733453547794787"
-  },
-  {
-    "id": "x-1795411928085-bircgj",
-    "source": "x",
-    "ts": "2026-11-23T05:32:08.085Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T05:30:59.000Z",
-    "reason": "No notable crypto-related move or news.",
-    "text": "🇺🇸 NEW: Treasury Secretary Scott Bessent warns the Fed could hurt the US economy if it overtightens in response to the latest inflation data, as markets show signs of fragility.",
-    "url": "https://x.com/Cointelegraph/status/2124737452346626192"
-  },
-  {
-    "id": "x-1795412550507-02hd68",
-    "source": "x",
-    "ts": "2026-11-23T05:42:30.507Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-23T05:32:48.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨 After shedding nearly $6 TRILLION and seven consecutive losing sessions, Wall Street stages a sharp rebound.\n\nUS stock market futures surge higher as markets reopen following the Nasdaq 100's worst weekly performance since 2020.\n\n1. S&amp;P 500 futures: +2.2%\n2. Nasdaq 100",
-    "url": "https://x.com/coinbureau/status/2124737911220548013"
-  },
-  {
-    "id": "x-1795412554013-a8jlmh",
-    "source": "x",
-    "ts": "2026-11-23T05:42:34.013Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-23T05:32:01.000Z",
-    "reason": "No notable price movement or significant news event.",
-    "text": "PI Bounces Back From a Record Low, But The Damage Runs Deep\n\nAfter falling below five cents for the first time, $PI has staged a modest recovery.\n\nThe token reached $0.047 before climbing about 17% to approximately $0.055 on Nov. 22.\n\nThe rebound offers some relief after a rough",
-    "url": "https://x.com/BSCNews/status/2124737714142818619"
-  },
-  {
     "id": "x-1795413745986-n4gn6m",
     "source": "x",
     "ts": "2026-11-23T06:02:25.986Z",
@@ -7737,5 +7685,73 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "The squad is officially locked in 🔒\n\nWe’re bringing Yoshi, Brian, Jason, and Alex to the stage for #BinanceBlockchainWeek in Bangkok.\n\nIt’s going to be two days of pure alpha, networking, and good vibes.\n\n🎟️",
     "url": "https://x.com/binance/status/2125289409767432415"
+  },
+  {
+    "id": "x-1795544528607-364hlt",
+    "source": "x",
+    "ts": "2026-11-24T18:22:08.607Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T18:20:53.000Z",
+    "reason": "Bitcoin losses relative to capital inflows nearly doubling in a week, according to Glassnode.",
+    "text": "🚨️️️️ INSIGHT: Bitcoin is experiencing its heaviest losses since the FTX collapse, with losses relative to capital inflows nearly doubling in a week, according to Glassnode.",
+    "url": "https://x.com/Cointelegraph/status/2125293594344845522",
+    "images": [
+      "https://pbs.twimg.com/media/HX6PQqiXYAArO2z.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795544530338-q81qot",
+    "source": "x",
+    "ts": "2026-11-24T18:22:10.338Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T18:17:15.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+    "url": "https://x.com/DecryptMedia/status/2125292678577353037"
+  },
+  {
+    "id": "x-1795544533307-urqypx",
+    "source": "x",
+    "ts": "2026-11-24T18:22:13.307Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T18:17:07.000Z",
+    "reason": "Coinkite's postmortem confirms significant security breach.",
+    "text": "Coinkite Releases Coldcard Security Incident Postmortem as 1,778.84 BTC Stolen From Over 8,600 Addresses\n\nBitcoin hardware wallet maker Coinkite has released its postmortem on Coldcard’s seed-generation flaw, confirming that attackers reconstructed private keys offline rather",
+    "url": "https://x.com/WuBlockchain/status/2125292646751154614",
+    "images": [
+      "https://pbs.twimg.com/media/HX6OYtYbsAAq3u1.jpg",
+      "https://pbs.twimg.com/media/HX6OZKxaoAAKpoM.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795544535826-smahc8",
+    "source": "x",
+    "ts": "2026-11-24T18:22:15.826Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T18:17:00.000Z",
+    "reason": "New institutional crypto asset addition by Fidelity.",
+    "text": "Chainlink's LINK is now on Fidelity\n\n@Fidelity added $LINK, the token of @chainlink, to Fidelity Crypto today, along with $AAVE and $UNI.\n\nThe three join Bitcoin, Ethereum, Solana, Litecoin, and Fidelity's FIDD stablecoin, taking the platform from five tradable assets to eight.",
+    "url": "https://x.com/BSCNews/status/2125292615570456998",
+    "images": [
+      "https://pbs.twimg.com/media/HX6FfSmWEAACc9e.jpg"
+    ],
+    "video": null
   }
 ]
