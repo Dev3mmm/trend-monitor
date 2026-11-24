@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "BREAKING: Nvidia, $NVDA, drops over -4% in premarket trading after a sharp rally from yesterday.",
-      "url": "https://x.com/coinbureau/status/2125164461690589413",
-      "images": [
-        "https://pbs.twimg.com/media/HX4ZMTbaYAA-Eyb.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795513928008
-    },
-    {
       "text": "🇨🇭 JUST IN: Swiss National Bank, UBS, SIX and six others explore tokenized financial settlement under Project Helvetia.",
       "url": "https://x.com/Cointelegraph/status/2125167812964397225",
       "images": [
@@ -2756,7 +2747,16 @@
       "at": 1795517010083,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391683360226382?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "BREAKING: Nvidia, $NVDA, drops over -4% in premarket trading after a sharp rally from yesterday.",
+      "final": "BREAKING: Nvidia, $NVDA, drops over -4% in premarket trading after a sharp rally from yesterday.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HX4ZMTbaYAA-Eyb.jpg"
+      ],
+      "at": 1795518711011,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795517010083
+  "lastPostAt": 1795518711011
 }
