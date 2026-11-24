@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795392129921-ty42kn",
-    "source": "x",
-    "ts": "2026-11-23T00:02:09.921Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 74,
-    "originTimestamp": "2026-11-22T22:47:37.000Z",
-    "reason": "Noise: generic hype without real content.",
-    "text": "NOW: “Black Monday” is trending",
-    "url": "https://x.com/BSCNews/status/2124654007147008159"
-  },
-  {
-    "id": "x-1795393926412-r1sy2m",
-    "source": "x",
-    "ts": "2026-11-23T00:32:06.412Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T00:30:55.000Z",
-    "reason": "No notable crypto-related event or use of crypto mentioned.",
-    "text": "🇺🇸 NOW: Democrats secure at least 258 House seats after a 44-seat midterm gain, their largest majority since 1992.",
-    "url": "https://x.com/Cointelegraph/status/2124661941062734157"
-  },
-  {
     "id": "x-1795394529004-0nk4zj",
     "source": "x",
     "ts": "2026-11-23T00:42:09.004Z",
@@ -7688,5 +7662,45 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Liftoff!",
     "url": "https://x.com/elonmusk/status/2125261800748769296"
+  },
+  {
+    "id": "x-1795537943570-fcb22r",
+    "source": "x",
+    "ts": "2026-11-24T16:32:23.570Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-24T16:28:41.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Cboe Launches KPI Binary Options, Now Available On Robinhood As Earnings Predictions.\n\nCboe said the SEC-regulated options cover more than 100 company metrics, like EPS and revenue, tied to 23 companies, and that Cboe and Robinhood will initially charge no fees.",
+    "url": "https://x.com/DecryptMedia/status/2125265359926345935",
+    "images": [
+      "https://pbs.twimg.com/media/HX51UzdWcAAjLJf.png",
+      "https://pbs.twimg.com/media/HX51W_oWwAAwoEo.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795537948335-8hlq66",
+    "source": "x",
+    "ts": "2026-11-24T16:32:28.335Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-24T16:24:08.000Z",
+    "reason": "Potential institutional buying signal",
+    "text": "JUST IN: President of Coinbase Asset Management is telling institutions \"this is a great time to add exposure to Bitcoin\" 👀\n\n\"There's an opportunity, there's a window right now for institutions around the world to come in and enter the space.\" 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2125264211706265838",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125262787764998144/vid/avc1/1280x720/zxQzTAKpXCEXibTL.mp4?tag=29",
+      "duration": 33,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125262787764998144/img/ECF_Nq75N0F61503.jpg"
+    }
   }
 ]
