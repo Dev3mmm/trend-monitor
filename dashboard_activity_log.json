@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1795434140719-4v4djc",
-    "source": "x",
-    "ts": "2026-11-23T11:42:20.719Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-23T11:32:35.000Z",
-    "reason": "No notable move, statement is vague and not specific.",
-    "text": "Solar energy is the future.",
-    "url": "https://x.com/amerix/status/2124828455137153426"
-  },
-  {
-    "id": "x-1795434707735-zdkklt",
-    "source": "x",
-    "ts": "2026-11-23T11:51:47.735Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T11:48:00.000Z",
-    "reason": "Significant community rejection of Foundation funding, on-chain voting data verified.",
-    "text": "Cardano's Community Told the Foundation No, and the Margin Is Huge\n\nThe @Cardano community is rejecting a $3.6M proposal to allocate treasury funds to the Cardano Foundation to support international conference expenses in 2027.\n\nOn-chain voting data shows community members",
-    "url": "https://x.com/BSCNews/status/2124832333022867718",
-    "images": [
-      "https://pbs.twimg.com/media/HXzpQ7YXwAA5rI4.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795434710007-nng8bx",
-    "source": "x",
-    "ts": "2026-11-23T11:51:50.007Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T11:45:06.000Z",
-    "reason": "Potential delisting and asset deeming as caution by major exchanges.",
-    "text": "🇰🇷 ALERT: Korea's Upbit and Bithumb flag Sky Protocol’s SKY and USDS as caution assets, halting deposits ahead of a potential delisting decision in late December.\n\nSky processed a record $2B+ in USDS redemptions on Nov 19.",
-    "url": "https://x.com/Cointelegraph/status/2124831602182078877",
-    "images": [
-      "https://pbs.twimg.com/media/HXzrE3QXkAA2ZiY.jpg",
-      "https://pbs.twimg.com/media/HXzrFGwWUAAWc59.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795434711864-xu2jey",
     "source": "x",
     "ts": "2026-11-23T11:51:51.864Z",
@@ -7828,5 +7778,52 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "JUST IN: Bitwise European Head of Research says Bitcoin will continue to outperform gold 👀\n\n\"Bitcoin relative to gold, bottomed in February. Bitcoin has front run this tightening monetary policy since October...I do think that kind of relative outperformance will continue.\"",
     "url": "https://x.com/BitcoinMagazine/status/2125354977845449048"
+  },
+  {
+    "id": "x-1795560119860-flm5y0",
+    "source": "x",
+    "ts": "2026-11-24T22:41:59.860Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T22:41:00.000Z",
+    "reason": "Notable partnership with financial product launch.",
+    "text": "Kraken's money app Krak is getting credit cards with Bitcoin cashback\n\n@Krak, the money app built by Kraken parent @Payward, opened a US waitlist today for two cards: the Krak Credit Card and the Krak Secured Card.\n\nBoth will pay up to 4% back on purchases, in dollars or $BTC.",
+    "url": "https://x.com/BSCNews/status/2125359053467779474",
+    "images": [
+      "https://pbs.twimg.com/media/HX6u4sXWUAAMu3t.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795560124765-yb0vay",
+    "source": "x",
+    "ts": "2026-11-24T22:42:04.765Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T22:40:38.000Z",
+    "reason": "Utah dismisses criminal charges against Kalshi co-founders",
+    "text": "🇺🇸  JUST IN: Utah moves to dismiss 14 criminal charges against Kalshi and its co-founders after the prediction market platform blocked access to users in the state.",
+    "url": "https://x.com/Cointelegraph/status/2125358963617087882",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795560128912-soh9vf",
+    "source": "x",
+    "ts": "2026-11-24T22:42:08.912Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-24T22:37:15.000Z",
+    "reason": "Generic news without direct relevance to crypto or blockchain technology.",
+    "text": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+    "url": "https://x.com/DecryptMedia/status/2125358109673545830"
   }
 ]
