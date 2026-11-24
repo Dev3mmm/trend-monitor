@@ -1,65 +1,5 @@
 [
   {
-    "id": "x-1795384928941-h0lwt6",
-    "source": "x",
-    "ts": "2026-11-22T22:02:08.941Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-22T22:01:40.000Z",
-    "reason": "Prediction/price call with no basis given",
-    "text": "🔥INSIGHT: Want Stanley Druckenmiller's returns? @1MarkMoss says just buy Bitcoin.\n\nPointing to Druckenmiller's run of roughly 30 years without a losing year and 30% annual returns, the Market Disruptors host told @itsciaranlyons that most fund managers never beat the S&amp;P 500.",
-    "url": "https://x.com/Cointelegraph/status/2124624381825417677"
-  },
-  {
-    "id": "x-1795386118739-rebwc9",
-    "source": "x",
-    "ts": "2026-11-22T22:21:58.739Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-22T22:18:00.000Z",
-    "reason": "Notable revenue generation by a DeFi platform.",
-    "text": "Aero is making serious money...\n\nAccording to data from DefiLlama, the @aeroxyz DeFi platform has generated a staggering $10.06M worth of protocol fees in the past month alone.\n\nThis makes it more revenue generating than even the likes of @ondo and @Ripple's RLUSD stablecoin.",
-    "url": "https://x.com/BSCNews/status/2124628489710260395",
-    "images": [
-      "https://pbs.twimg.com/media/HXt3x54WsAEw9oq.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795386120589-fyld1v",
-    "source": "x",
-    "ts": "2026-11-22T22:22:00.589Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-22T22:17:51.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Digital Equity builds on Digital Capital. During the Bitcoin Standard Era, $MSTR delivered 34% annualized returns, outperforming Bitcoin and the traditional asset benchmarks shown.",
-    "url": "https://x.com/saylor/status/2124628454540759493"
-  },
-  {
-    "id": "x-1795386755718-3ox5vf",
-    "source": "x",
-    "ts": "2026-11-22T22:32:35.718Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-22T22:30:35.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🔥 THROWBACK: On Nov 22, 2022, $BTC sank to a two-year low of $15.6K as FTX collapsed.\n\nExactly two years later, on Nov 22, 2024, it hit a record $99.8K.",
-    "url": "https://x.com/Cointelegraph/status/2124631655532880128",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795386758917-edwkud",
     "source": "x",
     "ts": "2026-11-22T22:32:38.917Z",
@@ -7664,6 +7604,70 @@
     "url": "https://x.com/BSCNews/status/2125254364725936322",
     "images": [
       "https://pbs.twimg.com/media/HX5kacaXUAAi6Nb.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795536089546-9hdg9c",
+    "source": "x",
+    "ts": "2026-11-24T16:01:29.546Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T16:00:01.000Z",
+    "reason": "Binance's integration of real-time index data is a notable institutional move in the crypto market.",
+    "text": "Binance Integrates Cboe Global Indices Feed, Starting With Real-Time S&amp;P 500, Dow Jones And Nasdaq-100 Data.\n\nBinance said Binance AI will also use the data to explain cross-market movements, and that it plans to progressively add more index data through the feed over time.",
+    "url": "https://x.com/DecryptMedia/status/2125258143240249723",
+    "images": [
+      "https://pbs.twimg.com/media/HX4und3XkAAVHjX.png",
+      "https://pbs.twimg.com/media/HX4uoabXEAAIGN_.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795536091400-2iutno",
+    "source": "x",
+    "ts": "2026-11-24T16:01:31.400Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T15:59:53.000Z",
+    "reason": "No notable crypto-specific event mentioned.",
+    "text": "🇺🇸 ALERT: The US stock market wiped out $1 trillion in market value at the opening bell amid reports that the Trump administration is preparing higher tariffs on China, the EU and 14 other countries.",
+    "url": "https://x.com/Cointelegraph/status/2125258108511383666"
+  },
+  {
+    "id": "x-1795536093145-geq844",
+    "source": "x",
+    "ts": "2026-11-24T16:01:33.145Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-24T15:58:20.000Z",
+    "reason": "No notable move in ETH within its recent range.",
+    "text": "Bitcoin in 2026: What’s Next for the Ecosystem? [Ft. Stacks Founder] #CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2125257719221236122"
+  },
+  {
+    "id": "x-1795536095851-rvg4w9",
+    "source": "x",
+    "ts": "2026-11-24T16:01:35.851Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T15:55:59.000Z",
+    "reason": "Glassnode confirms annual decline in Bitcoin hashrate.",
+    "text": "Glassnode: Bitcoin Hashrate Falls 8% YoY, First Annual Decline Since China's 2021 Mining Ban\n\nGlassnode said Bitcoin’s hashrate has declined approximately 8% year-over-year, marking its first annual contraction since China’s 2021 Bitcoin mining ban. Unlike the policy-driven",
+    "url": "https://x.com/WuBlockchain/status/2125257128931963200",
+    "images": [
+      "https://pbs.twimg.com/media/HX5uFMQboAAK5bJ.png",
+      "https://pbs.twimg.com/media/HX5uFMUbYAAOTeo.jpg"
     ],
     "video": null
   }
