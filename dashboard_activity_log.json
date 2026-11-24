@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795365128235-4aupi8",
-    "source": "x",
-    "ts": "2026-11-22T16:32:08.235Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-22T16:25:09.000Z",
-    "reason": "No notable move or specific event is mentioned.",
-    "text": "🚨ALERT: “Black Monday” fears mount in S. Korea after last Friday’s U.S. stock selloff, urging officials to prepare a market stabilization fund, per The Korea Times.\n\nThe index fell 5.2% Friday to close below 5,000, its LOWEST close in 10 months.\n\nThe Kospi is now 48% below its",
-    "url": "https://x.com/coinbureau/status/2124539692117090468"
-  },
-  {
-    "id": "x-1795365131182-drzs42",
-    "source": "x",
-    "ts": "2026-11-22T16:32:11.182Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-22T16:25:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Monad breaks its own speed record!\n\nAccording to @monad founder @keoneHD, the L1 blockchain has hit a brand-new TPS record at 133.75 tx/s.\n\nThe $MON ecosystem has had an impressive year so far, despite market conditions, rising to become the 7th largest blockchain by TVL.",
-    "url": "https://x.com/BSCNews/status/2124539653961441558",
-    "images": [
-      "https://pbs.twimg.com/media/HXt3dWlXwAAP8vk.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795366965748-kg7xk6",
     "source": "x",
     "ts": "2026-11-22T17:02:45.748Z",
@@ -7665,5 +7634,37 @@
       "https://pbs.twimg.com/media/HX5Ig9aWIAAFJ1J.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795527146429-5o29uj",
+    "source": "x",
+    "ts": "2026-11-24T13:32:26.429Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-24T13:25:33.000Z",
+    "reason": "The tweet is a financial news item related to tariffs and trade policies.",
+    "text": "🚨BREAKING: The U.S. is preparing to RAISE tariffs on China and dozens of other countries, WSJ reports. \n\nAn announcement could come as early as this week.\n\nThe Trump administration says foreign subsidies let manufacturers produce more than they can sell at home and undercut U.S.",
+    "url": "https://x.com/coinbureau/status/2125219272268120154",
+    "images": [
+      "https://pbs.twimg.com/media/HX5I4WqbkAARSc5.png",
+      "https://pbs.twimg.com/media/HX5LbCcbkAAe4rk.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795527149338-wpymsx",
+    "source": "x",
+    "ts": "2026-11-24T13:32:29.338Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-24T13:22:13.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸 JUST IN: The US is expected to announce higher tariffs on China and dozens of countries this week, per WSJ.\n\nThe EU, Japan and South Korea likely face rates of 15% or less.",
+    "url": "https://x.com/Cointelegraph/status/2125218432723595462"
   }
 ]
