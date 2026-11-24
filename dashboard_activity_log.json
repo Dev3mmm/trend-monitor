@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1795377751164-jdae80",
-    "source": "x",
-    "ts": "2026-11-22T20:02:31.164Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-22T19:57:00.000Z",
-    "reason": "Specific mention of potential industry transformation.",
-    "text": "Can @telcoin $TEL actually transform the banking industry? Or is it all just talk...?\n\nRead now:",
-    "url": "https://x.com/BSCNews/status/2124593005461962947",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795378358126-53vqv8",
-    "source": "x",
-    "ts": "2026-11-22T20:12:38.126Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-22T20:02:12.000Z",
-    "reason": "No notable move in Bitcoin's price.",
-    "text": "🔥INSIGHT: Bitcoin could be riding a 50-year tech cycle, according to @1MarkMoss.\n\nThe Market Disruptors host walked @itsciaranlyons through the S-curve, noting the telephone took about 80 years to reach 80% adoption while the internet got there in roughly 20 by building on phone",
-    "url": "https://x.com/Cointelegraph/status/2124594315770941709"
-  },
-  {
-    "id": "x-1795379525593-1e2atq",
-    "source": "x",
-    "ts": "2026-11-22T20:32:05.593Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T20:30:19.000Z",
-    "reason": "Regulatory change affecting crypto and stock markets potentially impacting investments.",
-    "text": "🇨🇳🚨 JUST IN: China is cutting the minimum margin requirement for buying stocks on borrowed money from 100% to 80% on Nov 30, undoing the curb it brought in back in Jan",
-    "url": "https://x.com/Cointelegraph/status/2124601391381393820",
-    "images": [
-      "https://pbs.twimg.com/media/HXwZsz2XcAAVZnI.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795381342316-v1zswp",
     "source": "x",
     "ts": "2026-11-22T21:02:22.316Z",
@@ -7660,5 +7613,55 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/media/HX5khv7W8AAov5k.jpg"
     }
+  },
+  {
+    "id": "x-1795534373152-siunz7",
+    "source": "x",
+    "ts": "2026-11-24T15:32:53.152Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-24T15:18:05.000Z",
+    "reason": "New gambling protocol with significant payout and edge for the house.",
+    "text": "BREAKING: @MetaWin flips the house edge on their game Sheriff Nudge\n\nThe first $1M wagered on the game pays out 105% RTP\n\nTheir theoretical losses on the promo will be $50,000",
+    "url": "https://x.com/BSCNews/status/2125251086672117928",
+    "images": [
+      "https://pbs.twimg.com/media/HX5n9iIXsAAl0hc.jpg",
+      "https://pbs.twimg.com/media/HX5n_bhXIAAPol-.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795534378735-n7pmfa",
+    "source": "x",
+    "ts": "2026-11-24T15:32:58.735Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T15:30:01.000Z",
+    "reason": "One-year YoY drop in Bitcoin's hash rate is significant.",
+    "text": "🚨 LATEST: Bitcoin’s hash rate drops 8% YoY for the first time since China’s 2021 mining ban.\n\n@glassnode reports that miners are shutting down machines as hashprice hits an all-time low.",
+    "url": "https://x.com/Cointelegraph/status/2125250592385687602",
+    "images": [
+      "https://pbs.twimg.com/media/HX5MakNWkAAQYSf.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795534382647-wh03gz",
+    "source": "x",
+    "ts": "2026-11-24T15:33:02.647Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-24T15:19:08.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California →",
+    "url": "https://x.com/elonmusk/status/2125249624168702459"
   }
 ]
