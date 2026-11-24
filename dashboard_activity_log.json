@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795419730571-ond861",
-    "source": "x",
-    "ts": "2026-11-23T07:42:10.571Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T07:37:10.000Z",
-    "reason": "Notable move in open interest with historical context.",
-    "text": "Darkfost: Binance Bitcoin Open Interest Drops Nearly 40%, Marking the Largest Dollar-Denominated Deleveraging in Bitcoin's History\n\nCryptoQuant analyst Darkfost said Binance's Bitcoin open interest has fallen by nearly $4.5 billion over the past year and remains down nearly 40%.",
-    "url": "https://x.com/WuBlockchain/status/2124769211507757462",
-    "images": [
-      "https://pbs.twimg.com/media/HXyx-eyasAIvvLL.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795419734889-c00r9v",
-    "source": "x",
-    "ts": "2026-11-23T07:42:14.889Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-23T07:36:35.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "JUST IN: The US Dollar Index (DXY) slips to 103.80 after hitting a 19-month high of 103.90.",
-    "url": "https://x.com/BSCNews/status/2124769062093984167"
-  },
-  {
     "id": "x-1795420329365-x356j4",
     "source": "x",
     "ts": "2026-11-23T07:52:09.365Z",
@@ -7780,5 +7749,37 @@
     "reason": "No notable move in crypto prices or events.",
     "text": "🇬🇧🇺🇸TODAY: Former UK Prime Minister Boris Johnson calls Trump's \"my friend\" remark about Putin \"nauseating.\"",
     "url": "https://x.com/BSCNews/status/2125310274630500687"
+  },
+  {
+    "id": "x-1795549389069-r5igmr",
+    "source": "x",
+    "ts": "2026-11-24T19:43:09.069Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T19:40:53.000Z",
+    "reason": "Potential regulatory or technological breakthrough with significant impact.",
+    "text": "🇨🇳 NEW: China may have exploited a loophole that enabled access to Nvidia chips.",
+    "url": "https://x.com/Cointelegraph/status/2125313726425206844",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795549393739-4buiuu",
+    "source": "x",
+    "ts": "2026-11-24T19:43:13.739Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-24T19:36:45.000Z",
+    "reason": "The tweet references a recent event (FTX) without providing context or evidence for a current trend.",
+    "text": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+    "url": "https://x.com/DecryptMedia/status/2125312686015569928",
+    "images": [],
+    "video": null
   }
 ]
