@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795372345310-yooh6r",
-    "source": "x",
-    "ts": "2026-11-22T18:32:25.310Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-22T18:22:22.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "BREAKING: Oil is down 13% since the US midterm elections\n\nWTI: $96.09 → $83.41\nBrent: $103.60 → $90",
-    "url": "https://x.com/BSCNews/status/2124569190321250395"
-  },
-  {
-    "id": "x-1795373534287-bx6n2t",
-    "source": "x",
-    "ts": "2026-11-22T18:52:14.287Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-22T18:47:00.000Z",
-    "reason": "Internet Computer maintains its status as the world's fastest blockchain.",
-    "text": "Another week in the #1 spot...\n\n@dfinity's Internet Computer recorded a weekly average TPS of some 5,053 tx/s, per @chainspect_app.\n\nThis was more than enough to maintain its status as the world's fastest blockchain, still several times faster than @Solana's reported weekly",
-    "url": "https://x.com/BSCNews/status/2124575389649400022",
-    "images": [
-      "https://pbs.twimg.com/media/HXt3nMXXMAATSFV.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795374114913-jey6uk",
     "source": "x",
     "ts": "2026-11-22T19:01:54.913Z",
@@ -7659,5 +7628,31 @@
     "url": "https://x.com/DecryptMedia/status/2125231526279274745",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795530740480-mv0f0i",
+    "source": "x",
+    "ts": "2026-11-24T14:32:20.480Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-24T14:29:15.000Z",
+    "reason": "No notable move in the crypto market.",
+    "text": "🇺🇸JUST IN: The United States could announce tariff hike on China &amp; EU as soon as Tuesday.",
+    "url": "https://x.com/BSCNews/status/2125235301903892956"
+  },
+  {
+    "id": "x-1795530744138-oqibjg",
+    "source": "x",
+    "ts": "2026-11-24T14:32:24.138Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-24T14:23:21.000Z",
+    "reason": "No direct relation to crypto or blockchain technology.",
+    "text": "BREAKING: Iran's Revolutionary Guard Chief states that upcoming war could extend beyond the Middle East.",
+    "url": "https://x.com/BSCNews/status/2125233817304662082"
   }
 ]
