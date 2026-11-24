@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795396339633-wx90uh",
-    "source": "x",
-    "ts": "2026-11-23T01:12:19.633Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-23T01:02:04.000Z",
-    "reason": "$BTC breaks back over $61,000, a significant move given the recent range.",
-    "text": "BREAKING: $BTC breaks back over $61,000",
-    "url": "https://x.com/BSCNews/status/2124669779005034631",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795397569302-mj84df",
     "source": "x",
     "ts": "2026-11-23T01:32:49.302Z",
@@ -7715,5 +7699,18 @@
       "https://pbs.twimg.com/media/HX54NwDW8AAnUCh.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795539125897-d6keu3",
+    "source": "x",
+    "ts": "2026-11-24T16:52:05.897Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-24T16:44:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Does @telcoin really have what it takes to change digital banking forever...?\n\nThe $TEL token migration has dominated ecosystem attention in recent weeks, but let's not forget Telcoin's end goal ⬇️",
+    "url": "https://x.com/BSCNews/status/2125269211316633726"
   }
 ]
