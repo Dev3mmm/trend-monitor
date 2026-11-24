@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794004321332-91vbq2",
     "x-1794004323549-byjldd",
     "x-1794005469129-ids07v",
     "x-1794005472822-ubvi4y",
@@ -1999,19 +1998,10 @@
     "x-1795492938556-z82477",
     "x-1795492943062-pswzxg",
     "x-1795493902819-xz8o6w",
-    "x-1795493906522-8faypq"
+    "x-1795493906522-8faypq",
+    "x-1795494722666-ewawoi"
   ],
   "queue": [
-    {
-      "text": "🚨 JUST IN: Over $70M liquidated in the past hour, with longs taking $67M of the hit, as bitcoin:native drops below $60,000.",
-      "url": "https://x.com/Cointelegraph/status/2125066590584709157",
-      "images": [
-        "https://pbs.twimg.com/media/HX3Awc0b0AAANdd.jpg",
-        "https://pbs.twimg.com/media/HX3AyTAakAA-pPL.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795490550303
-    },
     {
       "text": "BREAKING: Bitcoin falls under its $60,000 support as Ethereum falls back under $1,700 \n\nNearly $900 MILLION in leveraged positions erased in the past 24 hrs.",
       "url": "https://x.com/coinbureau/status/2125065544475037732",
@@ -2049,6 +2039,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795493909138
+    },
+    {
+      "text": "🔥 BIG: Commodities giant Hartree Partners is the largest supplier of real oil backing a new $9.7 million crude-backed crypto token, per Bloomberg.",
+      "url": "https://x.com/Cointelegraph/status/2125084753929875578",
+      "images": [
+        "https://pbs.twimg.com/media/HX3RUOkXsAER3Kp.png",
+        "https://pbs.twimg.com/media/HX3RUg0WwAAbNmQ.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795494723359
     }
   ],
   "posted": [
@@ -2703,7 +2703,17 @@
       "at": 1795492943622,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391584768678004?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 JUST IN: Over $70M liquidated in the past hour, with longs taking $67M of the hit, as bitcoin:native drops below $60,000.",
+      "final": "🚨 JUST IN: Over $70M liquidated in the past hour, with longs taking $67M of the hit, as bitcoin:native drops below $60,000.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HX3Awc0b0AAANdd.jpg",
+        "https://pbs.twimg.com/media/HX3AyTAakAA-pPL.jpg"
+      ],
+      "at": 1795494723359,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795492943622
+  "lastPostAt": 1795494723359
 }
