@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795331522678-r7zl7k",
-    "source": "x",
-    "ts": "2026-11-22T07:12:02.678Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-22T07:03:38.000Z",
-    "reason": "No notable move in cryptocurrency prices or news.",
-    "text": "🔥BIG: Elon Musk warns the AI industry could need hundreds of billions of dollars in EXTRA CASH in 2027.\n\nMusk’s concern is timing. AI companies pay for chips upfront.\n\nBut, until their data centers have enough power and cooling to run those chips, they can’t earn money from",
-    "url": "https://x.com/coinbureau/status/2124398384031338727"
-  },
-  {
-    "id": "x-1795332748455-q20l45",
-    "source": "x",
-    "ts": "2026-11-22T07:32:28.455Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T07:30:16.000Z",
-    "reason": "Binance BTC funding flipping negative could indicate a reversal.",
-    "text": "🔥 MARKET: Binance $BTC funding just flipped negative, which CryptoQuant's Darkfost says can be an early sign of a reversal.",
-    "url": "https://x.com/Cointelegraph/status/2124405086734409809",
-    "images": [
-      "https://pbs.twimg.com/media/HXtnKsNXgAA0cNo.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795333911910-ma6xmg",
     "source": "x",
     "ts": "2026-11-22T07:51:51.910Z",
@@ -7642,5 +7611,41 @@
     "reason": "No notable move or specific factual claim.",
     "text": "BREAKING: Tesla and SpaceX advance merger talks, tapping five directors to negotiate a deal that could create a $3.5 TRILLION company, per FT.\n\nEach board formed its own negotiating committee. Tesla named 3 directors and SpaceX named 2, all deemed to have no conflicting financial",
     "url": "https://x.com/coinbureau/status/2125165572522688899"
+  },
+  {
+    "id": "x-1795515104848-dgnzip",
+    "source": "x",
+    "ts": "2026-11-24T10:11:44.848Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T10:06:42.000Z",
+    "reason": "Suggested hack involving USDC raises suspicion.",
+    "text": "🚨 ALERT: solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump crashes 60% in an hour as community flags a suspected hack involving $2.15M USDC.",
+    "url": "https://x.com/Cointelegraph/status/2125169227007238172",
+    "images": [
+      "https://pbs.twimg.com/media/HX4dnhea0AE1RVa.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795515108623-d7ufh2",
+    "source": "x",
+    "ts": "2026-11-24T10:11:48.623Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-24T10:02:42.000Z",
+    "reason": "Indicates significant collaboration between major players in crypto and financial markets.",
+    "text": "Binance collaborates with @Cboe to bring trusted real-time market benchmark data to users, bringing fragmented market information together in one place.\n\nMore info →",
+    "url": "https://x.com/binance/status/2125168223339360655",
+    "images": [
+      "https://pbs.twimg.com/media/HX4dPJBXAAA_NF3.jpg"
+    ],
+    "video": null
   }
 ]
