@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795386758917-edwkud",
-    "source": "x",
-    "ts": "2026-11-22T22:32:38.917Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 67,
-    "originTimestamp": "2026-11-22T21:25:31.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Try Grok Bot today!",
-    "url": "https://x.com/elonmusk/status/2124630343017718022"
-  },
-  {
-    "id": "x-1795387913850-w4b42b",
-    "source": "x",
-    "ts": "2026-11-22T22:51:53.850Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-22T22:47:37.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "MARKET UPDATE: Wall Street officially enters correction territory as AI sell-off deepens.\n\nHistorically, corrections have been buying opportunities for long-term investors.",
-    "url": "https://x.com/BSCNews/status/2124635943332446610"
-  },
-  {
     "id": "x-1795388531224-w9w4tq",
     "source": "x",
     "ts": "2026-11-22T23:02:11.224Z",
@@ -7669,6 +7643,40 @@
       "https://pbs.twimg.com/media/HX5uFMQboAAK5bJ.png",
       "https://pbs.twimg.com/media/HX5uFMUbYAAOTeo.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795536659327-mcyqq9",
+    "source": "x",
+    "ts": "2026-11-24T16:10:59.327Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T16:09:31.000Z",
+    "reason": "Notable institutional move and integration with a major platform.",
+    "text": "Injective Crosses Over to Base and Brings Its Tokens Along\n\nInjective (@Injective) has moved onto the Base (@Base) platform and has connected its tokens and liquidity to Coinbase's Ethereum Layer-2 platform.\n\nInjective tokens and markets can be accessed via decentralized exchange",
+    "url": "https://x.com/BSCNews/status/2125260532953514184",
+    "images": [
+      "https://pbs.twimg.com/media/HX5xKalXgAENYPK.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795536663357-d9qibc",
+    "source": "x",
+    "ts": "2026-11-24T16:11:03.357Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-24T16:06:53.000Z",
+    "reason": "Europol's tracing of crypto funds highlights the illegal streaming industry's use of cryptocurrencies.",
+    "text": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
+    "url": "https://x.com/DecryptMedia/status/2125259872220381404",
+    "images": [],
     "video": null
   }
 ]
