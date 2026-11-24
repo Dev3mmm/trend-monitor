@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795431289662-orer4n",
-    "source": "x",
-    "ts": "2026-11-23T10:54:49.662Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T10:48:57.000Z",
-    "reason": "The tweet provides specific and noteworthy information about a significant cybersecurity acquisition.",
-    "text": "🔥 JUST IN: CrowdStrike is buying Zscaler in an all-stock deal worth about $43.9B\n\nIt tops Google's $32B Wiz deal as the largest cybersecurity acquisition ever.",
-    "url": "https://x.com/Cointelegraph/status/2124817472360476984",
-    "images": [
-      "https://pbs.twimg.com/media/HXzeOWjWoAALBWe.png",
-      "https://pbs.twimg.com/media/HXzeOigXsAAJ6rK.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795431293631-rto71z",
-    "source": "x",
-    "ts": "2026-11-23T10:54:53.631Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-23T10:47:59.000Z",
-    "reason": "No notable move in token prices or market news is suggested in the tweet.",
-    "text": "Meet more of the voices joining us at #BinanceBlockchainWeek: CJ, Kelly Sohn, Moshe Shen, Sean Freer and Ken Kou.\n\nWhat would you ask them about digital asset markets? 👇\n\n📍 Bangkok | Nov 28–29",
-    "url": "https://x.com/binance/status/2124817232131965130"
-  },
-  {
-    "id": "x-1795432402515-2ky1uo",
-    "source": "x",
-    "ts": "2026-11-23T11:13:22.515Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-23T11:00:01.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "SFF 2026, that's a wrap 🇸🇬\n\nThree days, a few highlights:\n\n✓ Our leaders @jsalama, @Hassan_NY and @SWBauguess took the stage on tokenisation, agentic payments and trust in digital assets\n✓ Meeting the Singapore community IRL at the booth\n✓ Mochi donuts and Coinbase bags (sold",
-    "url": "https://x.com/coinbase/status/2124821264695210120"
-  },
-  {
     "id": "x-1795432932221-081jhb",
     "source": "x",
     "ts": "2026-11-23T11:22:12.222Z",
@@ -7817,5 +7772,52 @@
     "reason": "No notable move in ETH price.",
     "text": "Stretch ($STRC) led this fixed-income comparison on risk-adjusted returns over the past year. Its Sharpe ratio was +0.57, while all seven ETFs were below zero.",
     "url": "https://x.com/saylor/status/2125341642756354145"
+  },
+  {
+    "id": "x-1795557136493-2sxj4k",
+    "source": "x",
+    "ts": "2026-11-24T21:52:16.493Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T21:47:15.000Z",
+    "reason": "Notable use of AI in code approval with potential implications for the crypto ecosystem.",
+    "text": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+    "url": "https://x.com/DecryptMedia/status/2125345527164280972",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795557141658-by2l0s",
+    "source": "x",
+    "ts": "2026-11-24T21:52:21.658Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coinbase 🛡️",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-24T21:44:46.000Z",
+    "reason": "No notable move or breaking news identified.",
+    "text": "Today was a big day for financial markets.    \n\nHere are the 8 headlines you need to know ↓\n\n1. Anthropic falls below its IPO price of $83/share, down 28% from its post-IPO high.\n\n2. Microsoft issues \"Code Red\" after a 24-hour outage exposed major flaws in its systems.\n\n3.",
+    "url": "https://x.com/coinbase/status/2125345329231069224"
+  },
+  {
+    "id": "x-1795557147273-r9ikex",
+    "source": "x",
+    "ts": "2026-11-24T21:52:27.273Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-24T21:44:00.000Z",
+    "reason": "The tweet contains sensitive information about a government-sponsored event involving cryptocurrency.",
+    "text": "Coinbase co-hosts North Korea crypto crime summit with the US State Department\n\n@coinbase co-sponsored a two-day meeting in Dublin with the US State Department on fighting North Korean cyber threats. Google, Payward and Canada's foreign ministry backed it.\n\nThe FBI, the US",
+    "url": "https://x.com/BSCNews/status/2125344708990038300",
+    "images": [
+      "https://pbs.twimg.com/media/HX6vRw_X0AANMPi.jpg"
+    ],
+    "video": null
   }
 ]
