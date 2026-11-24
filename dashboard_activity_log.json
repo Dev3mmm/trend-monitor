@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1795377748318-v6q5ip",
-    "source": "x",
-    "ts": "2026-11-22T20:02:28.318Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T20:00:00.000Z",
-    "reason": "Kraken confirmed proper order processing and no compromise in CAD trades.",
-    "text": "Kraken Says CAD Trades Stand After Bitcoin Briefly Hit CA$24,250.\n\nKraken said \"heavy selling pressure\" hit its CAD pairs from about 3 PM ET Friday, but its platform \"processed every order correctly\" and found \"no sign of a breach or compromised accounts.\"",
-    "url": "https://x.com/DecryptMedia/status/2124593762185941318",
-    "images": [
-      "https://pbs.twimg.com/media/HXvuPiwWIAAYDC_.png",
-      "https://pbs.twimg.com/media/HXvunZJXYAAl5VZ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795377751164-jdae80",
     "source": "x",
     "ts": "2026-11-22T20:02:31.164Z",
@@ -7658,5 +7639,26 @@
     "url": "https://x.com/DecryptMedia/status/2125243861953843392",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795533720127-zp6gz5",
+    "source": "x",
+    "ts": "2026-11-24T15:22:00.127Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-24T15:13:51.000Z",
+    "reason": "Regulatory move affecting the financial sector's use of Bitcoin.",
+    "text": "JUST IN: 🇺🇸 CFTC staff say regulated exchanges and clearinghouses can now count BTC toward their required financial resources 👀\n\n“Bitcoin can now help back the balance sheets of regulated U.S. derivative markets” 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2125246526046003609",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125246499932012545/vid/avc1/1280x720/OJryDYrxNw9Cptz_.mp4?tag=29",
+      "duration": 19,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/media/HX5khv7W8AAov5k.jpg"
+    }
   }
 ]
