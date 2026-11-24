@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1795358524036-ruqfwe",
-    "source": "x",
-    "ts": "2026-11-22T14:42:04.036Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-22T14:35:00.000Z",
-    "reason": "No notable move, price is well inside the recent range.",
-    "text": "🚨 Almost NOBODY is fighting for a seat at Trump's memecoin dinner tonight, with one buyer getting in for just $518.\n\nThe first $TRUMP gala required at least $55,000 in coins, per The Washington Post.\n\nOver 5,000 holders who could have qualified didn't even sign up, even after a",
-    "url": "https://x.com/coinbureau/status/2124511972133843237"
-  },
-  {
-    "id": "x-1795359757015-pn8jj6",
-    "source": "x",
-    "ts": "2026-11-22T15:02:37.015Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Binance",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-22T15:01:19.000Z",
-    "reason": "Crypto warning with specific phishing red flags.",
-    "text": "Crypto red flags:\n\n🚩 “Guaranteed returns”\n🚩 Pressure to “act NOW”\n🚩 Requests for verification codes\n🚩 Suspicious reward links\n\nBinance will NEVER ask you to share passwords, authentication codes, secret phrases, or transfers to a “safe wallet.” Trust official channels only!",
-    "url": "https://x.com/binance/status/2124518596671914341",
-    "images": [
-      "https://pbs.twimg.com/media/HXvOZ0yWsAABSnI.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795360346084-1e25wz",
-    "source": "x",
-    "ts": "2026-11-22T15:12:26.084Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-22T15:11:01.000Z",
-    "reason": "Notable arbitrage exploit with a notable profit.",
-    "text": "🇺🇸 NEW: One trader got into Trump's memecoin gala for the third time by buying $TRUMP and shorting it at the same time, and this round he walked away $6 richer.",
-    "url": "https://x.com/Cointelegraph/status/2124521038209814709",
-    "images": [
-      "https://pbs.twimg.com/media/HXvQn7-X0AAwcPo.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795360931901-93h93k",
     "source": "x",
     "ts": "2026-11-22T15:22:11.901Z",
@@ -7676,5 +7627,47 @@
     "reason": "No notable crypto-related event.",
     "text": "🇮🇱JUST IN: Israel's Prime Minister says IDF has eliminated Naim Abu Nahal, head of Hamas' Internal Security Apparatus.",
     "url": "https://x.com/BSCNews/status/2125208373616361664"
+  },
+  {
+    "id": "x-1795525359350-m0a4ly",
+    "source": "x",
+    "ts": "2026-11-24T13:02:39.350Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T13:01:31.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🚨 TODAY: Tech and chip stocks cool off in premarket after Monday's big surge.\n\n• $MU: -6.66%\n• $INTC: -6.26%\n• $NVDA: -5.41%\n• $ANT: -4.95%\n• $CRWV: -4.80%\n• $IREN: -4.64%\n• $NBIS: -4.40%\n• $SMCI: -4.28%\n• $AMD: -4.08%\n• $MSTR: -3.44%\n• $ORCL: -3.07%\n\nHealthy pullback",
+    "url": "https://x.com/Cointelegraph/status/2125213221741076677"
+  },
+  {
+    "id": "x-1795525364701-nogm3q",
+    "source": "x",
+    "ts": "2026-11-24T13:02:44.701Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T13:00:03.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "OpenAI And Cisco Release Shirudo, An Open-Source Runtime To Shield Linux Systems While Patches Roll Out.\n\nIn a controlled test, OpenAI said, a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring a restart.",
+    "url": "https://x.com/DecryptMedia/status/2125212853288505735"
+  },
+  {
+    "id": "x-1795525371461-by293y",
+    "source": "x",
+    "ts": "2026-11-24T13:02:51.461Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 98,
+    "originTimestamp": "2026-11-24T11:24:18.000Z",
+    "reason": "Ansem identified as a scammer by the X community.",
+    "text": "UPDATE: @X Community Note says Ansem conveniently sold his $ANSEM position and transferred it to another wallet. \n\nThe post reads: \"Ansem is a scammer (liar) who has a history of promoting tokens, selling shortly after the price inflates &amp; pretending he is loyal to followers.\"",
+    "url": "https://x.com/BSCNews/status/2125212745180332105",
+    "images": [],
+    "video": null
   }
 ]
