@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795436177904-bf5p9s",
-    "source": "x",
-    "ts": "2026-11-23T12:16:17.904Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-23T12:10:43.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "🔥 INSIGHT: Can onchain transparency reveal every risk?\n\nLisa Schroeer of @SPGlobalRatings explains why investors need to look beyond yield and current holdings, examining liquidity, concentration, and how lending vaults perform under market stress.",
-    "url": "https://x.com/Cointelegraph/status/2124838051335827765"
-  },
-  {
-    "id": "x-1795436181236-lub1np",
-    "source": "x",
-    "ts": "2026-11-23T12:16:21.236Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-23T12:01:52.000Z",
-    "reason": "No notable crypto-related news or movement.",
-    "text": "BREAKING: 🇺🇸US stock market futures surge despite calls for a \"Black Monday\" market crash.\n\nS&amp;P 500: +2.91%\nNasdaq 100: +3.59%\nDow Jones: +2.15%\n\nLast week, all three fell into correction territory.\n\nNow, dip buyers are stepping back in.",
-    "url": "https://x.com/coinbureau/status/2124835824546332827"
-  },
-  {
     "id": "x-1795436546833-61uo07",
     "source": "x",
     "ts": "2026-11-23T12:22:26.833Z",
@@ -7825,5 +7799,42 @@
     "reason": "No notable move in ETH price mentioned.",
     "text": "🎙️LATEST: @stacks co-founder @muneeb tells @itsciaranlyons how Stacks is helping Bitcoin address emerging security threats from AI and quantum computing.\n\n#CHAINREACTION",
     "url": "https://x.com/Cointelegraph/status/2125364489088283081"
+  },
+  {
+    "id": "x-1795562549538-u87h6e",
+    "source": "x",
+    "ts": "2026-11-24T23:22:29.538Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T23:20:40.000Z",
+    "reason": "Notable institutional interest and liquidity for XRP ETF.",
+    "text": "🔥 NEW: Bitwise’s XRP ETF has attracted over $667M in net inflows, reached $376M in assets under management and recorded $3.5B in trading volume in its first year.",
+    "url": "https://x.com/Cointelegraph/status/2125369037857181926",
+    "images": [
+      "https://pbs.twimg.com/media/HX7T3zsXoAAS3k5.jpg",
+      "https://pbs.twimg.com/media/HX7T4GYXUAAQKxG.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795562555416-i3l0p7",
+    "source": "x",
+    "ts": "2026-11-24T23:22:35.416Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-24T23:19:00.000Z",
+    "reason": "Noteworthy institutional inflow into a crypto ETF.",
+    "text": "Investors flip bullish on $ZEC !\n\nAfter two weeks of nothing but negative flows, @Grayscale's spot @Zcash ETF saw a reversal of fortune, attracting +$4.63M in net inflows on November 23.\n\nLaunched as recently as August of this year, Grayscale's product already holds a seriously",
+    "url": "https://x.com/BSCNews/status/2125368616426049912",
+    "images": [
+      "https://pbs.twimg.com/media/HX4NWwnXMAA90z2.jpg"
+    ],
+    "video": null
   }
 ]
