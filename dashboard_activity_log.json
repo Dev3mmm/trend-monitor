@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1795434711864-xu2jey",
-    "source": "x",
-    "ts": "2026-11-23T11:51:51.864Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-23T11:45:00.000Z",
-    "reason": "Regulatory move affecting cryptocurrency exchanges.",
-    "text": "South Korea's FSC Chief Vows To Thoroughly Manage Transfers To High-Risk Crypto Exchanges.\n\nIn prepared remarks Monday, Financial Services Commission Chairman Lee Eog-weon said regulators will thoroughly manage fund transfers to high-risk overseas exchanges and personal wallets",
-    "url": "https://x.com/DecryptMedia/status/2124831578337784137",
-    "images": [
-      "https://pbs.twimg.com/media/HXzNbIrXAAA_KPz.jpg",
-      "https://pbs.twimg.com/media/HXzN14aWcAAq7ZY.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795435319245-k35u90",
-    "source": "x",
-    "ts": "2026-11-23T12:01:59.245Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T12:01:12.000Z",
-    "reason": "Notable bank lending to a crypto-related entity",
-    "text": "NOW: According to Solid Intel, American Bitcoin (@ABTC) has secured a $150M credit line from FalconX backed by its $BTC",
-    "url": "https://x.com/BSCNews/status/2124835657382350935",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795435321292-cnti2w",
-    "source": "x",
-    "ts": "2026-11-23T12:02:01.292Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 39,
-    "originTimestamp": "2026-11-23T11:22:53.000Z",
-    "reason": "No notable move in the given price range.",
-    "text": "JUST IN: @raildotgg has officially opened its waitlist, introducing a crypto payment platform built around a simple concept: one card for every chain. With virtual and physical cards, Apple Pay, Google Pay integration and support for spending across 180+ countries, Rail aims to",
-    "url": "https://x.com/BSCNews/status/2124833317556011367"
-  },
-  {
     "id": "x-1795435322917-41qkzi",
     "source": "x",
     "ts": "2026-11-23T12:02:02.917Z",
@@ -7825,5 +7777,53 @@
     "reason": "Generic news without direct relevance to crypto or blockchain technology.",
     "text": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
     "url": "https://x.com/DecryptMedia/status/2125358109673545830"
+  },
+  {
+    "id": "x-1795561380255-sw148j",
+    "source": "x",
+    "ts": "2026-11-24T23:03:00.255Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T23:00:03.000Z",
+    "reason": "No notable crypto-related news in the tweet provided.",
+    "text": "Broadcom Patches A Critical vCenter Authentication Bypass Rated 9.8.\n\nBroadcom said a malicious actor with network access to vCenter may exploit the flaw, CVE-2026-123903, to bypass authentication and gain unauthorized access; it listed no workarounds.",
+    "url": "https://x.com/DecryptMedia/status/2125363847758328228",
+    "images": [
+      "https://pbs.twimg.com/media/HX6UmIZW4AA91nW.png",
+      "https://pbs.twimg.com/media/HX6U0NeWcAA2vk8.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795561385896-fp488m",
+    "source": "x",
+    "ts": "2026-11-24T23:03:05.896Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-24T22:56:00.000Z",
+    "reason": "No notable move in crypto related to the mentioned US blacklist.",
+    "text": "🇺🇸🇨🇳 JUST IN: Alibaba vows to FIGHT after the US BLACKLISTED its Singapore unit and 6 other firms, including Nvidia linked Megaspeed, over chip diversion.\n\nUS exports to all 7, in Singapore, Malaysia and Thailand, will now be presumed DENIED.\n\nAlibaba's unit, Apex, paid Megaspeed",
+    "url": "https://x.com/coinbureau/status/2125362828269760841"
+  },
+  {
+    "id": "x-1795561391247-knbysc",
+    "source": "x",
+    "ts": "2026-11-24T23:03:11.247Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-24T22:54:00.000Z",
+    "reason": "New use of a token for automated interest payments is noteworthy.",
+    "text": "A tokenized bond that pays its interest automatically, set up with one command? @hedera (hedera-hashgraph:native) has five new finance templates running on testnet. Learn more: ⬇️",
+    "url": "https://x.com/BSCNews/status/2125362324730949680",
+    "images": [],
+    "video": null
   }
 ]
