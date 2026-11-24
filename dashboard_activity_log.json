@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795340530910-r39bvg",
-    "source": "x",
-    "ts": "2026-11-22T09:42:10.910Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-22T09:35:30.000Z",
-    "reason": "No notable move or specific event.",
-    "text": "加密菜鸟",
-    "url": "https://x.com/PhyrexNi/status/2124436599782174871"
-  },
-  {
-    "id": "x-1795342354956-0j0hxh",
-    "source": "x",
-    "ts": "2026-11-22T10:12:34.956Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-22T10:09:09.000Z",
-    "reason": "Specific institutional move in crypto trading regulations.",
-    "text": "🇷🇺TODAY: Russia to allow domestic exchanges to begin offering crypto trading, subject to Bank of Russia approval of each venue's trading rules.",
-    "url": "https://x.com/BSCNews/status/2124445070883479922",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795342927558-l5kvl7",
-    "source": "x",
-    "ts": "2026-11-22T10:22:07.558Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-22T10:12:15.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "The fastest news in crypto, for free.\n\nThe BSCN Insider channel is designed to give you quick-fire updates on the news that moves markets, delivered straight to your inbox.\n\nWhether it's major moves on $BTC, regulatory updates, hacks and scams, or even the latest memecoin moves",
-    "url": "https://x.com/BSCNews/status/2124445847693713673"
-  },
-  {
     "id": "x-1795343513119-brywrl",
     "source": "x",
     "ts": "2026-11-22T10:31:53.119Z",
@@ -7654,5 +7612,55 @@
     "reason": "No notable crypto-related news.",
     "text": "🇮🇷BREAKING: According to ABC News, Iranian operatives created 7 fake western AI journalists to push 100 articles in top news outlets.",
     "url": "https://x.com/BSCNews/status/2125180797279736057"
+  },
+  {
+    "id": "x-1795519333906-b8u514",
+    "source": "x",
+    "ts": "2026-11-24T11:22:13.906Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T11:20:42.000Z",
+    "reason": "No notable move in AI investment strategy.",
+    "text": "🚨 UPDATE: “Nearly all investors” may be overweight AI, Franklin Templeton strategist Stephen Dover warns.\n\nDover urges investors to reduce AI exposure and diversify.",
+    "url": "https://x.com/Cointelegraph/status/2125187849817346274"
+  },
+  {
+    "id": "x-1795519338191-b9jmzx",
+    "source": "x",
+    "ts": "2026-11-24T11:22:18.191Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Rarma",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-24T11:17:50.000Z",
+    "reason": "Potential security incident with stolen USDC.",
+    "text": "A wallet publicly linked to @blknoiz06  was emptied this morning. Was it hacked? Here is what the chain shows, as of 11:05 UTC.\n\nWallet: GV6UUmNxz2RpKxmNAPadYKb7uQpszwqQAu3qLJxVdC52 ()\n\nWhat happened\n• 06:46 UTC: the cash goes first. All of its USDC",
+    "url": "https://x.com/Rarma_/status/2125187130679046264",
+    "images": [
+      "https://pbs.twimg.com/media/HX4uFv8aYAAuKft.jpg",
+      "https://pbs.twimg.com/media/HX4uIHAbYAAE6kc.jpg",
+      "https://pbs.twimg.com/media/HX4uJGybkAAsjzN.jpg",
+      "https://pbs.twimg.com/media/HX4uKYMbgAAoCck.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795519340928-sdwnin",
+    "source": "x",
+    "ts": "2026-11-24T11:22:20.928Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-24T11:14:11.000Z",
+    "reason": "Notable institutional participation in digital assets.",
+    "text": "🇬🇧LATEST: @jpmorgan, @HSBC, &amp; StoneX traded Digital Gold in London for the first time, reports Bloomberg.",
+    "url": "https://x.com/BSCNews/status/2125186212856230197",
+    "images": [],
+    "video": null
   }
 ]
