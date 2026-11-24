@@ -1,68 +1,5 @@
 [
   {
-    "id": "x-1795336348338-zd6cmu",
-    "source": "x",
-    "ts": "2026-11-22T08:32:28.338Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-22T08:24:12.000Z",
-    "reason": "Tweet is in Chinese and unrelated to crypto.",
-    "text": "最近看新款的阿尔法和维尔法都是流媒体的后视镜，我好奇问了一下，小伙伴沉默了一下和我说，这样司机就看不到后排了。\n\n我稍微愣了一下，然后才明白。",
-    "url": "https://x.com/PhyrexNi/status/2124418656612540585"
-  },
-  {
-    "id": "x-1795339351558-gkeqgn",
-    "source": "x",
-    "ts": "2026-11-22T09:22:31.558Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-22T09:21:00.000Z",
-    "reason": "Notable institutional recognition of Chainlink's work.",
-    "text": "Chainlink founder on the cover of fintech magazine!\n\n@chainlink founder @SergeyNazarov has made the cover of 40th edition of The Fintech Magazine.\n\nAccording to $LINK comms lead @ChrisBarrett, the edition discusses Chainlink's recent work with @The_DTCC, Swift, and others.",
-    "url": "https://x.com/BSCNews/status/2124432950846734349",
-    "images": [
-      "https://pbs.twimg.com/media/HXt4uBYXgAAjiMu.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795339355635-hz6rdd",
-    "source": "x",
-    "ts": "2026-11-22T09:22:35.635Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T09:20:00.000Z",
-    "reason": "Notable regulatory change allowing crypto trading.",
-    "text": "🇷🇺 TODAY: The Russian central bank that tried to BAN crypto now officially allows Russia's exchanges to trade Bitcoin.\n\nIt's a full U-turn from 2022, when the same central bank called for a ban on crypto trading and mining.\n\nAs soon as December 1, Russians will be able to buy",
-    "url": "https://x.com/coinbureau/status/2124432699456983165",
-    "images": [
-      "https://pbs.twimg.com/media/HXt-TaobcAAAVHp.png",
-      "https://pbs.twimg.com/media/HXt-TahbIAAYfX5.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795339965065-s50op5",
-    "source": "x",
-    "ts": "2026-11-22T09:32:45.065Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T09:30:17.000Z",
-    "reason": "No notable move in crypto related to the company's cash position.",
-    "text": "🔥⚡ HUGE: Anthropic is sitting on a record $237B in cash after its IPO, more than Alphabet, Amazon, SpaceX and Apple combined, according to The Kobeissi Letter.",
-    "url": "https://x.com/Cointelegraph/status/2124435290416730547"
-  },
-  {
     "id": "x-1795340530910-r39bvg",
     "source": "x",
     "ts": "2026-11-22T09:42:10.910Z",
@@ -7648,5 +7585,74 @@
     "reason": "No notable move in ETH price.",
     "text": "You Can Now Deploy ICP Cloud Engine Directly Inside ChatGPT\n\nInternet Computer (@dfinity)'s Cloud Engine infrastructure can now be deployed and managed via autonomous AI agents.\n\nA developer can set up a sovereign cloud engine and deploy live web apps from a smartphone using",
     "url": "https://x.com/BSCNews/status/2125179192505458819"
+  },
+  {
+    "id": "x-1795518193522-kd38op",
+    "source": "x",
+    "ts": "2026-11-24T11:03:13.522Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T11:01:35.000Z",
+    "reason": "Specific institutional partnership with major financial data providers.",
+    "text": "⚡️ JUST IN: Binance partners with Cboe to integrate real-time S&amp;P 500, Dow Jones and Nasdaq-100 market data across its platform, app and Binance AI.",
+    "url": "https://x.com/Cointelegraph/status/2125183040997433746",
+    "images": [
+      "https://pbs.twimg.com/media/HX4qtaIXYAAfOIp.jpg",
+      "https://pbs.twimg.com/media/HX4qtn8WUAAPLjQ.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795518198596-d8aojl",
+    "source": "x",
+    "ts": "2026-11-24T11:03:18.596Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-24T11:00:04.000Z",
+    "reason": "Regulatory guidance on crypto usage in operations.",
+    "text": "CFTC Staff Say Bitcoin, ETH And Payment Stablecoins May Count Toward Operating Costs.\n\nA Nov. 23 staff advisory said they may count, with appropriate haircuts, toward at least 12 months of operating costs at exchanges and clearinghouses, but not a separate liquidity requirement.",
+    "url": "https://x.com/DecryptMedia/status/2125182657206075772",
+    "images": [
+      "https://pbs.twimg.com/media/HX4hyWlW8AALkxB.png",
+      "https://pbs.twimg.com/media/HX4iQauXAAAfWH5.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795518204679-46ut9w",
+    "source": "x",
+    "ts": "2026-11-24T11:03:24.679Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T10:58:06.000Z",
+    "reason": "ANSEM token experienced a significant price drop due to a wallet-related sell-off.",
+    "text": "Is ANSEM Hacked?\n\nAccording to data from on-chain analysis platforms DexScreener and Solscan, Solana-based meme coin $ANSEM dropped by 60% within one hour due to large amounts of token sell-offs made by the connected wallet on decentralized exchanges.\n\nAs per PumpSwap, the wallet",
+    "url": "https://x.com/BSCNews/status/2125182164425654454",
+    "images": [
+      "https://pbs.twimg.com/media/HX4pQM-XwAAn8C6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795518208354-2gxx9u",
+    "source": "x",
+    "ts": "2026-11-24T11:03:28.354Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-24T10:52:40.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "🇮🇷BREAKING: According to ABC News, Iranian operatives created 7 fake western AI journalists to push 100 articles in top news outlets.",
+    "url": "https://x.com/BSCNews/status/2125180797279736057"
   }
 ]
