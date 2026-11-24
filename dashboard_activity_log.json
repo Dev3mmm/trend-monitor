@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1795364546956-jf9v6u",
-    "source": "x",
-    "ts": "2026-11-22T16:22:26.956Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-22T16:15:00.000Z",
-    "reason": "Exploit of crypto wallet security detected",
-    "text": "⚠️ALERT: Hackers are now running ads in 47 countries that can STEAL CRYPTO SEED PHRASES from iPhones.\n\nSecurity firm Confiant tracked the group, MoldyRoost, across more than 480 ad domains since May.\n\nOn a vulnerable iPhone, simply opening the page behind one of its ads is enough",
-    "url": "https://x.com/coinbureau/status/2124537138679058937",
-    "images": [
-      "https://pbs.twimg.com/media/HXu59CNacAAbHWo.jpg",
-      "https://pbs.twimg.com/media/HXu59FcbwAAjMag.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795365125855-zabrp7",
-    "source": "x",
-    "ts": "2026-11-22T16:32:05.855Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T16:30:16.000Z",
-    "reason": "Taiwan considering changes to margin trading rules, potentially impacting crypto markets.",
-    "text": "🇹🇼 JUST IN: After its worst week in 35 years, Taiwan is considering letting margin traders run lower collateral, cutting the minimum maintenance ratio from 130% to 120%.",
-    "url": "https://x.com/Cointelegraph/status/2124540979566784799",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795365128235-4aupi8",
     "source": "x",
     "ts": "2026-11-22T16:32:08.235Z",
@@ -7664,5 +7629,41 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
     "url": "https://x.com/DecryptMedia/status/2125214535443190203"
+  },
+  {
+    "id": "x-1795526531433-qapzpk",
+    "source": "x",
+    "ts": "2026-11-24T13:22:11.433Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-24T13:21:22.000Z",
+    "reason": "Potential geopolitical move affecting crypto markets",
+    "text": "🇺🇸 JUST IN: The US is preparing to announce higher tariffs on China and dozens of other countries as early as this week, per WSJ.\n\nThe EU, Japan and South Korea are likely to face tariffs of 15% or less, with higher rates expected for China.",
+    "url": "https://x.com/Cointelegraph/status/2125218220185469144",
+    "images": [
+      "https://pbs.twimg.com/media/HX5KtNxXAAEMZ9v.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795526536953-tsl5a2",
+    "source": "x",
+    "ts": "2026-11-24T13:22:16.953Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-24T13:11:54.000Z",
+    "reason": "New transaction record set by Cronos Network",
+    "text": "Cronos Sets New Transaction Record This Month\n\nCronos (@CronosNetwork) processed an average of 58,594 transactions a day in November – the fastest it has done so since February.\n\nSo far this month, cumulative transactions have hit 1,347,679 transactions over 23 days, according to",
+    "url": "https://x.com/BSCNews/status/2125215834670772559",
+    "images": [
+      "https://pbs.twimg.com/media/HX5Ig9aWIAAFJ1J.jpg"
+    ],
+    "video": null
   }
 ]
