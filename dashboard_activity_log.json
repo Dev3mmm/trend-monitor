@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1795360931901-93h93k",
-    "source": "x",
-    "ts": "2026-11-22T15:22:11.901Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-22T15:14:00.000Z",
-    "reason": "No notable move in price or event described.",
-    "text": "How does @Polkadot's $DOT Treasury model function? And does it actually work in practice...? ⬇️",
-    "url": "https://x.com/BSCNews/status/2124521786301960211"
-  },
-  {
-    "id": "x-1795361521456-rngdyv",
-    "source": "x",
-    "ts": "2026-11-22T15:32:01.456Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-22T15:30:22.000Z",
-    "reason": "South Korea's financial move could impact crypto markets through regulatory actions.",
-    "text": "🇰🇷🚨 JUST IN: South Korea is getting its stock market stabilization fund ready to deploy before Monday's open and launching a crackdown on illegal short selling.",
-    "url": "https://x.com/Cointelegraph/status/2124525906404294675",
-    "images": [
-      "https://pbs.twimg.com/media/HXvVCzYWQAA_w3q.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795361527519-st3x22",
-    "source": "x",
-    "ts": "2026-11-22T15:32:07.519Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-22T15:30:00.000Z",
-    "reason": "Price move outside recent range and significant cost increase.",
-    "text": "🚨 JPMorgan's latest estimate: it now costs $86,000 to mine 1 Bitcoin, about $25,000 MORE than its price.\n\nA year ago, JPMorgan wrote that this production cost \"has empirically acted as a floor,\" with Bitcoin above $100,000.\n\nBitcoin now trades near $60,600, about 30% below it.",
-    "url": "https://x.com/coinbureau/status/2124525813890707757",
-    "images": [
-      "https://pbs.twimg.com/media/HXu6A-OakAAc9u8.png",
-      "https://pbs.twimg.com/media/HXu6A4qb0AA0_Mt.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795364546956-jf9v6u",
     "source": "x",
     "ts": "2026-11-22T16:22:26.956Z",
@@ -7669,5 +7619,50 @@
     "url": "https://x.com/BSCNews/status/2125212745180332105",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795525930000-c0quok",
+    "source": "x",
+    "ts": "2026-11-24T13:12:10.000Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-24T13:09:03.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
+    "url": "https://x.com/DecryptMedia/status/2125215116966682796"
+  },
+  {
+    "id": "x-1795525935395-v5x08u",
+    "source": "x",
+    "ts": "2026-11-24T13:12:15.395Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-24T13:07:38.000Z",
+    "reason": "Notable institutional adoption in tokenized finance.",
+    "text": "ADOPTION:🇨🇭The Swiss National Bank and eight other institutions, including UBS and SIX, are exploring a shared ledger to connect Switzerland’s tokenized finance platforms.\n\nThe initiative, called the \"Swiss Financial Ledger\", builds on Project Helvetia. \n\nBanks can already use",
+    "url": "https://x.com/coinbureau/status/2125214762950934946",
+    "images": [
+      "https://pbs.twimg.com/media/HX5HZwca0AAYUX6.png",
+      "https://pbs.twimg.com/media/HX5HcZTawAAES-R.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795525939881-0b7naq",
+    "source": "x",
+    "ts": "2026-11-24T13:12:19.881Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T13:06:44.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+    "url": "https://x.com/DecryptMedia/status/2125214535443190203"
   }
 ]
