@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1795289524615-k996fs",
-    "source": "x",
-    "ts": "2026-11-21T19:32:04.615Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-21T19:30:17.000Z",
-    "reason": "New USDC supply minted on Solana in a short time.",
-    "text": "⚡ TODAY: Circle minted 500M $USDC on Solana in about 20 minutes.",
-    "url": "https://x.com/Cointelegraph/status/2124223897075667342",
-    "images": [
-      "https://pbs.twimg.com/media/HXrCX6lWMAAKLsU.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795289527385-tx6ump",
-    "source": "x",
-    "ts": "2026-11-21T19:32:07.385Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-21T19:30:00.000Z",
-    "reason": "No notable crypto-related news or movement mentioned.",
-    "text": "Tim Scott's Office Says Jensen Huang Agreed To Testify At A Public Senate Hearing.\n\nThe confirmation came in a Friday statement from the Senate Banking chairman's office, which gave no date for the former Nvidia CEO's appearance.",
-    "url": "https://x.com/DecryptMedia/status/2124223824728297746"
-  },
-  {
-    "id": "x-1795289530576-w00qgz",
-    "source": "x",
-    "ts": "2026-11-21T19:32:10.576Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 53,
-    "originTimestamp": "2026-11-21T18:38:24.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Today's BSCN Debrief: $LUNC is up on the week while crypto majors sold off hard 📈\n\nAlso inside: $ONDO's rough seven days, PerpTools picking LayerZero, and $ZRO staking opening Nov 23.\n\nAll the details ⬇️\nFull article:",
-    "url": "https://x.com/BSCNews/status/2124222956498747705"
-  },
-  {
-    "id": "x-1795291909930-ns3zm8",
-    "source": "x",
-    "ts": "2026-11-21T20:11:49.930Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-21T20:08:48.000Z",
-    "reason": "No notable move in ETH price, price is within its recent range.",
-    "text": "JUST IN: The Bitcoin Fear &amp; Greed Index is now at 12, \"extreme fear\" 👀\n\nBe greedy when others are fearful ✊",
-    "url": "https://x.com/BitcoinMagazine/status/2124233589873320232"
-  },
-  {
     "id": "x-1795293145542-e775q4",
     "source": "x",
     "ts": "2026-11-21T20:32:25.542Z",
@@ -7609,5 +7552,68 @@
     "reason": "No notable crypto-related content.",
     "text": "⚡️ LATEST: Nvidia CEO Jensen Huang disclosed additional affairs to the board, beyond the two already reported, before it decided to reinstate him, per WSJ.",
     "url": "https://x.com/Cointelegraph/status/2125072857893855332"
+  },
+  {
+    "id": "x-1795492927665-1307dv",
+    "source": "x",
+    "ts": "2026-11-24T04:02:07.665Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T04:01:04.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨 TODAY: Galaxy's Alex Thorn posts a chart that ranks the current Bitcoin bear market as the shallowest of the last four, with a 53% drop so far vs. 77%–85% in past cycles.",
+    "url": "https://x.com/Cointelegraph/status/2125077213447958613",
+    "images": [
+      "https://pbs.twimg.com/media/HX3Kc5NXwAAkrBF.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795492933101-soq8je",
+    "source": "x",
+    "ts": "2026-11-24T04:02:13.101Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T04:00:02.000Z",
+    "reason": "No notable move or concrete news.",
+    "text": "SBF on FTX: Things Could've Been Different If I Hadn't Screwed Up\n\nIn a November 20, 2026 interview with @realTomBayes, SBF @SBF_FTX was asked whether the good done by the FTX Future Fund made FTX's rise and fall worthwhile. \"No. I'd like to think that it was, but I don't think I",
+    "url": "https://x.com/WuBlockchain/status/2125076952738333001"
+  },
+  {
+    "id": "x-1795492938556-z82477",
+    "source": "x",
+    "ts": "2026-11-24T04:02:18.556Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-24T04:00:00.000Z",
+    "reason": "Solo miner achieving a significant jackpot price.",
+    "text": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds\n\nThe lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
+    "url": "https://x.com/DecryptMedia/status/2125076945855795478",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795492943062-pswzxg",
+    "source": "x",
+    "ts": "2026-11-24T04:02:23.062Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-24T03:53:32.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "JUST IN: Donald Trump may have gained up to $15 million from Nvidia shares as the stock surged following Jensen Huang’s reinstatement as CEO, the Financial Times reports",
+    "url": "https://x.com/BSCNews/status/2125075316330881322",
+    "images": [],
+    "video": null
   }
 ]
