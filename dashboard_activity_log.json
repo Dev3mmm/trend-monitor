@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795421553226-gtzq6w",
-    "source": "x",
-    "ts": "2026-11-23T08:12:33.226Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-23T08:02:30.000Z",
-    "reason": "No notable move in Bitcoin price or significant event described.",
-    "text": "虽然最近一周 bitcoin:native 的价格下跌的挺多，但能看到持仓超过一年的长期持有者持仓的 Bitcoin 不但没有减少，反而还出现非常大幅度的增加，目前长期持有的 BTC 已经超过了 BTC 发行总量的 68% 。\n\n多数投资者都在持有 Bitcoin 而不是去交易。\n\n一个 @Gate ，交易更多市场",
-    "url": "https://x.com/PhyrexNi/status/2124775586409455896"
-  },
-  {
-    "id": "x-1795422114579-k6f5a9",
-    "source": "x",
-    "ts": "2026-11-23T08:21:54.579Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Phyrex",
-    "ageMin": 19,
-    "originTimestamp": "2026-11-23T08:02:30.000Z",
-    "reason": "On-chain data point indicating investor behavior changes.",
-    "text": "从数据来看 10月28日 开始，持仓大于 10 枚 bitcoin:native 的高净值投资者出现了流出的迹象，而持仓小于 10 枚的小规模投资者则在大量增持 Bitcoin。\n\n一个 @Gate ，交易更多市场",
-    "url": "https://x.com/PhyrexNi/status/2124779901156999168",
-    "images": [
-      "https://pbs.twimg.com/media/HXy5VXBbsAA5nMr.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795422717410-r5zeif",
     "source": "x",
     "ts": "2026-11-23T08:31:57.410Z",
@@ -7794,5 +7763,31 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125314095138381824/img/40fb1xqAwk4Gnvz5.jpg"
     }
+  },
+  {
+    "id": "x-1795550564525-yukkht",
+    "source": "x",
+    "ts": "2026-11-24T20:02:44.525Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T20:01:13.000Z",
+    "reason": "The tweet does not provide specific information about a notable crypto-related event.",
+    "text": "🇺🇸 JUST IN: The CIA and the Office of the Director of National Intelligence suffered a cybersecurity breach exposing unclassified information, per The New York Times.",
+    "url": "https://x.com/Cointelegraph/status/2125318842515681779"
+  },
+  {
+    "id": "x-1795550567344-i43ny6",
+    "source": "x",
+    "ts": "2026-11-24T20:02:47.344Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-24T19:57:24.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "🇺🇸JUST IN: The CIA and the office of the US intelligence chief found a cyber breach that exposed some unclassified information, the New York Times reports.",
+    "url": "https://x.com/BSCNews/status/2125317882443952279"
   }
 ]
