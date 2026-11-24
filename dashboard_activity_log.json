@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795281721703-wtukdk",
-    "source": "x",
-    "ts": "2026-11-21T17:22:01.703Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-21T17:09:28.000Z",
-    "reason": "No direct crypto-related content.",
-    "text": "Trump says he's open to teaming up with Democrats to cap credit card interest and fees, arguing card companies make too much.",
-    "url": "https://x.com/BSCNews/status/2124191076395388972"
-  },
-  {
-    "id": "x-1795282340760-60p5vm",
-    "source": "x",
-    "ts": "2026-11-21T17:32:20.760Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-21T17:30:58.000Z",
-    "reason": "Cryptocurrency markets may be affected by regulatory changes.",
-    "text": "🇹🇼 JUST IN: Taiwan will officially ban short selling below the previous close from Monday, after its stock market crashed 17.5% in a single week.\n\nUnder the new rules:\n\n- Short sales below the previous day's close banned for all listed stocks\n\n- The minimum short-selling margin",
-    "url": "https://x.com/coinbureau/status/2124193867960586618",
-    "images": [
-      "https://pbs.twimg.com/media/HXqm7msaYAAAaaG.png",
-      "https://pbs.twimg.com/media/HXqnDN5asAAprHF.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795282344851-az9mqx",
     "source": "x",
     "ts": "2026-11-21T17:32:24.851Z",
@@ -7559,5 +7527,41 @@
     "reason": "No notable financial move or news specific to crypto is mentioned.",
     "text": "BREAKING: South Korean and Japanese stocks add over $300,000,000,000 after Jensen Huang's return to Nvidia.\n\n🇰🇷 South Korea's Kospi jumped nearly 6%, triggering a halt on program BUYING, a day after a halt on program selling.\n\n🇯🇵 Japan's Nikkei is up nearly 4% in its first",
     "url": "https://x.com/coinbureau/status/2125030116720021948"
+  },
+  {
+    "id": "x-1795483940414-h8kxo8",
+    "source": "x",
+    "ts": "2026-11-24T01:32:20.414Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T01:30:59.000Z",
+    "reason": "Noteworthy security move by Binance",
+    "text": "🚨 TODAY: Binance has brought in three outside security firms, Mandiant, SlowMist and Verichains, to run independent reviews of its security procedures.",
+    "url": "https://x.com/Cointelegraph/status/2125039446043058359",
+    "images": [
+      "https://pbs.twimg.com/media/HX2oHJvWIAIwsiZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795483947424-hsqksq",
+    "source": "x",
+    "ts": "2026-11-24T01:32:27.424Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-24T01:29:00.000Z",
+    "reason": "Arbitrum's $USDT supply is now over $1B, a significant new milestone.",
+    "text": "Arbitrum is becoming a new home for Tether's $USDT. \n\nThe supply of @Tether's industry-leading stablecoin is dominated by the likes of @trondao, @Ethereum, and @BNBChain.\n\nHowever, @arbitrum is now making its presence known.\n\nThe supply of $USDT on $ARB has soared past the $1B",
+    "url": "https://x.com/BSCNews/status/2125038943997739255",
+    "images": [
+      "https://pbs.twimg.com/media/HXzkEQdXwAA4hCU.jpg"
+    ],
+    "video": null
   }
 ]
