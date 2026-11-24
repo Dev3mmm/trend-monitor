@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795285330151-a8c2up",
-    "source": "x",
-    "ts": "2026-11-21T18:22:10.151Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-21T18:10:42.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "$QNT rises 5.1% in 24 hours to $143.46.\n\nQNT price and news:",
-    "url": "https://x.com/BSCNews/status/2124204377225482699"
-  },
-  {
     "id": "x-1795285974445-zg04pf",
     "source": "x",
     "ts": "2026-11-21T18:32:54.445Z",
@@ -7580,6 +7567,22 @@
     "images": [
       "https://pbs.twimg.com/media/HX2u0DCWwAALLCK.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795487547542-311fyo",
+    "source": "x",
+    "ts": "2026-11-24T02:32:27.542Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-24T02:30:56.000Z",
+    "reason": "Notable move by an influential organization to enhance network security.",
+    "text": "⚡️ LATEST: The Ethereum Foundation has doubled its protocol security team ahead of an overhaul to protect the network from quantum and AI threats.",
+    "url": "https://x.com/Cointelegraph/status/2125054532631588913",
+    "images": [],
     "video": null
   }
 ]
