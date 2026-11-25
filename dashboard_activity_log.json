@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1795519922749-r0ihb1",
-    "source": "x",
-    "ts": "2026-11-24T11:32:02.749Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-24T11:27:13.000Z",
-    "reason": "Noise: Generic statement without factual claim.",
-    "text": "Really?",
-    "url": "https://x.com/amerix/status/2125189492550078862"
-  },
-  {
-    "id": "x-1795519927985-zy7j2w",
-    "source": "x",
-    "ts": "2026-11-24T11:32:07.985Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-24T11:25:54.000Z",
-    "reason": "Token price below its initial public offering price",
-    "text": "🚨BREAKING: $ANT drops -6.8% in pre-market, FALLING below its $83 IPO price for the first time.\n\nThe drop comes after Axios reported that employees at Anthropic and OpenAI fear their unreleased AI models are \"too powerful to release safely.\"\n\nSources say researchers still",
-    "url": "https://x.com/coinbureau/status/2125189158494945716",
-    "images": [
-      "https://pbs.twimg.com/media/HX4vSaTbsAAuRcv.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795519932481-jxqsoq",
-    "source": "x",
-    "ts": "2026-11-24T11:32:12.481Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 33,
-    "originTimestamp": "2026-11-24T10:58:06.000Z",
-    "reason": "Exploit and potential theft of funds.",
-    "text": "UPDATE: Ansem (@blknoiz06) says his @Pumpfun wallet has been hacked and he is \"trying to figure out how.\"",
-    "url": "https://x.com/BSCNews/status/2125188756969811980",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795520511386-bmhsu7",
     "source": "x",
     "ts": "2026-11-24T11:41:51.386Z",
@@ -7767,6 +7720,53 @@
     "images": [
       "https://pbs.twimg.com/media/HYAVY1eWkAAKZc6.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795647765155-dw9dli",
+    "source": "x",
+    "ts": "2026-11-25T23:02:45.155Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T23:00:53.000Z",
+    "reason": "Over 11 million BTC held at a loss is a significant liquidity event.",
+    "text": "🚨 UPDATE: Over 11.18 million $BTC are currently held at a loss, according to CryptoQuant data.",
+    "url": "https://x.com/Cointelegraph/status/2125726446249234491",
+    "images": [
+      "https://pbs.twimg.com/media/HYAY7_YWQAAVeOq.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795647769859-8xjmqy",
+    "source": "x",
+    "ts": "2026-11-25T23:02:49.859Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T23:00:00.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "FCC Approves Up To 1 Million SpaceX Satellites For Orbital Data Centers.\n\nThe FCC said it granted SpaceX authorization to deploy 1,000,000 orbital compute modules, and Chairman Brendan Carr said the Starmind and competitor constellations will use solar power.",
+    "url": "https://x.com/DecryptMedia/status/2125726222827287008"
+  },
+  {
+    "id": "x-1795647775657-cvp6t3",
+    "source": "x",
+    "ts": "2026-11-25T23:02:55.657Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-25T22:55:00.000Z",
+    "reason": "On-chain data point with potential implications for Cardano's validator system.",
+    "text": "Validator count on @Cardano ($ADA) grew 14.9% in a year, the fastest among the big proof-of-stake chains, per @tokenterminal. But how many of those pools are actually producing blocks? ⬇️",
+    "url": "https://x.com/BSCNews/status/2125724964250882471",
+    "images": [],
     "video": null
   }
 ]
