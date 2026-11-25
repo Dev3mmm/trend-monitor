@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795515721354-6rojsy",
-    "source": "x",
-    "ts": "2026-11-24T10:22:01.354Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-24T10:15:58.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "🇺🇸UPDATE: President Trump says he will sign a directive for the DOJ to execute Federal Death Sentences ~ WSJ",
-    "url": "https://x.com/BSCNews/status/2125171561380667719"
-  },
-  {
-    "id": "x-1795516378828-fo0qat",
-    "source": "x",
-    "ts": "2026-11-24T10:32:58.828Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-24T10:30:01.000Z",
-    "reason": "Senate Intelligence Committee questioning Nvidia's decision to reinstate Jensen Huang.",
-    "text": "Some GOP Senators Question Nvidia's Reinstatement Of Jensen Huang.\n\nSenate Intelligence Chair Tom Cotton said the Nvidia-Megaspeed controversy is \"not resolved because Jensen Huang has his job back\"; Sen. Pete Ricketts said Huang's \"behavior does not support reinstatement.\"",
-    "url": "https://x.com/DecryptMedia/status/2125175096033882521",
-    "images": [
-      "https://pbs.twimg.com/media/HX4ZwmxWgAAy43o.png",
-      "https://pbs.twimg.com/media/HX4Z0aLWgAA1-bk.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795517009575-g5rvvf",
     "source": "x",
     "ts": "2026-11-24T10:43:29.575Z",
@@ -7781,6 +7749,37 @@
     "text": "⚡️ LATEST: The Ethereum Foundation recommends Keccak-256 as the foundation for Ethereum’s cryptographic defenses against quantum computing and AI-assisted attacks.",
     "url": "https://x.com/Cointelegraph/status/2125706252302815604",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795643490110-kosklv",
+    "source": "x",
+    "ts": "2026-11-25T21:51:30.110Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-25T21:47:15.000Z",
+    "reason": "Generic crypto-related news without specific factual claim.",
+    "text": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+    "url": "https://x.com/DecryptMedia/status/2125707914736271419"
+  },
+  {
+    "id": "x-1795643493099-dkv6ge",
+    "source": "x",
+    "ts": "2026-11-25T21:51:33.099Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-25T21:45:00.000Z",
+    "reason": "New use of a token/stablecoin with public data dashboard launch.",
+    "text": "Monad opens up its network data with a new activity dashboard\n\n@monad (monad:native) has launched the Monad Activity Dashboard, a public page with separate sections for spot and perps trading, stablecoins, RWAs, and tokenized stocks.\n\nThe reading for November 24 shows 10.7",
+    "url": "https://x.com/BSCNews/status/2125707349046288894",
+    "images": [
+      "https://pbs.twimg.com/media/HYAEZdhXMAAKfU2.jpg"
+    ],
     "video": null
   }
 ]
