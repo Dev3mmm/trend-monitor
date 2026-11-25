@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795440194906-xmt5vx",
-    "source": "x",
-    "ts": "2026-11-23T13:23:14.906Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-23T13:13:23.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "LUNC is not slowing down...\n\n$LUNC has surged 7% in the past 24 hours and over 20% in the past 7 days. \n\nWith this, the asset is now up 54.5% in the past year, according to Coingecko data.",
-    "url": "https://x.com/BSCNews/status/2124853820991705580",
-    "images": [
-      "https://pbs.twimg.com/media/HXz_Ox6WsAAYe-b.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795440738733-scjp1d",
-    "source": "x",
-    "ts": "2026-11-23T13:32:18.733Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T13:28:36.000Z",
-    "reason": "Notable financial move by a major crypto holding without selling reserves.",
-    "text": "🔥 UPDATE: American Bitcoin, holding over 8,500 $BTC, secures $150M financing from FalconX without selling its reserves.",
-    "url": "https://x.com/Cointelegraph/status/2124857652136051105",
-    "images": [
-      "https://pbs.twimg.com/media/HX0CxP2WoAE-z1c.jpg",
-      "https://pbs.twimg.com/media/HX0CxdUXkAAMNFV.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795440743393-sas1om",
     "source": "x",
     "ts": "2026-11-23T13:32:23.393Z",
@@ -7820,5 +7783,36 @@
       "https://pbs.twimg.com/media/HX7wHSdXwAAhqvs.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795572175529-e7kqit",
+    "source": "x",
+    "ts": "2026-11-25T02:02:55.529Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T02:00:44.000Z",
+    "reason": "Potential market sentiment shift due to high levels of Bitcoin investors being underwater.",
+    "text": "🚨 LATEST: CryptoQuant CEO Ki Young Ju says, “Bitcoin investors are underwater at historical capitulation levels.”",
+    "url": "https://x.com/Cointelegraph/status/2125409320762310981",
+    "images": [
+      "https://pbs.twimg.com/media/HX74gvMWAAAQdFn.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795572181086-6jfjb5",
+    "source": "x",
+    "ts": "2026-11-25T02:03:01.086Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T02:00:40.000Z",
+    "reason": "Noise; no real content related to crypto or markets.",
+    "text": "半导体现在还是很难，韩国的 Kospi 开盘的时候就跌了 5% ，这已经是第 62 次熔断了，其中海力士下跌了 8%，目前来看黄教主的回归还是不能拯救半导体啊。\n\n不知道 2027年 能不能看到内存降价，现在已经不是工业储存非常抢手的时候了，AI",
+    "url": "https://x.com/PhyrexNi/status/2125409303020626413"
   }
 ]
