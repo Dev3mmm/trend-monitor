@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795442514871-0w8mk7",
-    "source": "x",
-    "ts": "2026-11-23T14:01:54.871Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T13:58:20.000Z",
-    "reason": "No notable move in ETH price, price is within its recent range.",
-    "text": "JUST IN: Nvidia board has reinstated Jensen Huang as President, CEO &amp; Board ~ Bloomberg",
-    "url": "https://x.com/BSCNews/status/2124865132274827325"
-  },
-  {
     "id": "x-1795442516673-p4jjmp",
     "source": "x",
     "ts": "2026-11-23T14:01:56.673Z",
@@ -7809,6 +7796,24 @@
     "url": "https://x.com/Cointelegraph/status/2125431962173063443",
     "images": [
       "https://pbs.twimg.com/media/HX8NGd_W4AAsiOh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795578723357-a6l609",
+    "source": "x",
+    "ts": "2026-11-25T03:52:03.357Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-25T03:48:41.000Z",
+    "reason": "Notable security incident and potential exploit.",
+    "text": "Ansem Denies Hacking Claims as $2.57M Wallet Drain Sparks Controversy\n\nCrypto personality Ansem (@blknoiz06) says he is investigating a security breach after $2.57 million left his wallets.\n\nLookonchain traced the $USDC to an Arbitrum (@arbitrum) $ARB address, where the funds",
+    "url": "https://x.com/BSCNews/status/2125436483892916661",
+    "images": [
+      "https://pbs.twimg.com/media/HX8RK36aMAA3htm.png"
     ],
     "video": null
   }
