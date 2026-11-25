@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1795448522481-mihegs",
-    "source": "x",
-    "ts": "2026-11-23T15:42:02.481Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 33,
-    "originTimestamp": "2026-11-23T15:08:59.000Z",
-    "reason": "Price move outside recent range suggests a significant move in the market sentiment.",
-    "text": "BMTV's @GraceRemiTV on the sentiment swing at Monday's open:\n\n\"It was all doom and gloom on Friday, but markets are rallying and that rally is spreading after the reinstatement of Jensen Huang.\"\n\n\"[Bitcoin] recovered about 9% to 61K by Sunday\" 📈",
-    "url": "https://x.com/BitcoinMagazine/status/2124890481536774516",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2124882833646764032/vid/avc1/1280x720/XrInRyr-WEutlpvk.mp4?tag=29",
-      "duration": 75,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124882833646764032/img/H0o54d2BK7trPRU6.jpg"
-    }
-  },
-  {
-    "id": "x-1795448524804-ib9894",
-    "source": "x",
-    "ts": "2026-11-23T15:42:04.804Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-23T15:32:00.000Z",
-    "reason": "No notable move in cryptocurrency prices or events.",
-    "text": "⚡️ JUST IN: Jensen Huang has released a statement following his reinstatement as NVIDIA $NVDA CEO, saying he is honored to return and lead the company at the start of a new industrial revolution.\n\nHuang thanked NVIDIA’s board, employees, shareholders and industry partners for",
-    "url": "https://x.com/Cointelegraph/status/2124888703675887929"
-  },
-  {
-    "id": "x-1795449170878-ife56l",
-    "source": "x",
-    "ts": "2026-11-23T15:52:50.878Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-23T15:50:53.000Z",
-    "reason": "No notable move or verifiable event, just Elon Musk's reaction.",
-    "text": "🔥 JUST IN: Elon Musk reacts to NVIDIA reinstating Jensen Huang as CEO, saying:\n\n“The mistake has been corrected.”",
-    "url": "https://x.com/Cointelegraph/status/2124893458926022752"
-  },
-  {
     "id": "x-1795449175506-soq6ue",
     "source": "x",
     "ts": "2026-11-23T15:52:55.506Z",
@@ -7835,5 +7788,44 @@
     "reason": "No factual claim or specific event mentioned.",
     "text": "JUST IN: The Trump administration is preparing new country-specific tariffs after industrial capacity probe, Reuters reports.",
     "url": "https://x.com/BSCNews/status/2125498469339336780"
+  },
+  {
+    "id": "x-1795594402132-92ck4e",
+    "source": "x",
+    "ts": "2026-11-25T08:13:22.132Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-25T08:05:17.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "I have 137 DMs from people that will benefit.",
+    "url": "https://x.com/amerix/status/2125502298000429353"
+  },
+  {
+    "id": "x-1795594404375-wr4yt9",
+    "source": "x",
+    "ts": "2026-11-25T08:13:24.375Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-25T08:05:17.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "I am looking for Ksh 10 million.",
+    "url": "https://x.com/amerix/status/2125501059997085846"
+  },
+  {
+    "id": "x-1795594407358-3a24bi",
+    "source": "x",
+    "ts": "2026-11-25T08:13:27.358Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-25T08:02:27.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🎙️ INSIGHT: @stacks co-founder @muneeb thinks 2030 is a pretty reasonable year to focus on getting Bitcoin quantum upgrade done.\n\n#CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2125500348383068560"
   }
 ]
