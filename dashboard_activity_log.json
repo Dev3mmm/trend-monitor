@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795441396179-sx0hw7",
-    "source": "x",
-    "ts": "2026-11-23T13:43:16.179Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-23T13:34:09.000Z",
-    "reason": "Generic and irrelevant tweet without any concrete news or data.",
-    "text": "\"My doctor told me to eat fruits.\"\n\nThe Fruits: Ripened with calcium carbide and ethylene.\n\nConsequences: Metabolic Diseases eg Gastritis, Cancer.\n\nWAKE UP!",
-    "url": "https://x.com/amerix/status/2124859047773970578"
-  },
-  {
-    "id": "x-1795441924110-179uxv",
-    "source": "x",
-    "ts": "2026-11-23T13:52:04.110Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-23T13:43:33.000Z",
-    "reason": "Galaxy phones can now send and receive USDC on Sui network.",
-    "text": "U.S. Galaxy Phones Just Got Gasless USDC Transfers on Sui\n\nBeginning today, select Samsung Galaxy phones in the U.S., numbering roughly 82 million, are able to send and receive Circle's $USDC on Sui (@SuiNetwork) via Samsung Wallet.\n\nThe integration allows customers to make",
-    "url": "https://x.com/BSCNews/status/2124861411847176556",
-    "images": [
-      "https://pbs.twimg.com/media/HX0F0bjWoAA5493.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795441927168-8zelpk",
     "source": "x",
     "ts": "2026-11-23T13:52:07.168Z",
@@ -7819,5 +7788,37 @@
     "reason": "No notable move in the Tron stablecoin market share or supply.",
     "text": "Tron still dominates $USDT supply...\n\nThe @trondao L1 blockchain currently hosts $91.6B worth of @Tether's $174.7B supply.\n\nThis works out to a staggering 52.4% of the stablecoin's entire market cap.\n\nNext up come @Ethereum, @BNBChain and @Solana, however...\n\nOther blockchain",
     "url": "https://x.com/BSCNews/status/2125418193078399135"
+  },
+  {
+    "id": "x-1795575749177-an3rx8",
+    "source": "x",
+    "ts": "2026-11-25T03:02:29.177Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T03:00:45.000Z",
+    "reason": "Coinbase CEO confirms stock buyback amid crypto and AI changes in financial services.",
+    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 Coinbase CEO Brian Armstrong says the company has bought back $COIN stock this quarter amid market dislocations, as crypto and AI reshape financial services.\n\n🔹 Binance joined Europol, Interpol and police from 11",
+    "url": "https://x.com/Cointelegraph/status/2125424422802657533",
+    "images": [
+      "https://pbs.twimg.com/media/HX8GPEpWIAAaqpT.jpg",
+      "https://pbs.twimg.com/media/HX8GPdjXgAAZepQ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795575754248-0dx1vj",
+    "source": "x",
+    "ts": "2026-11-25T03:02:34.248Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 44,
+    "originTimestamp": "2026-11-25T02:17:48.000Z",
+    "reason": "No notable move in cryptocurrency or blockchain technology mentioned.",
+    "text": "BREAKING: Argentina’s Salta government announces 226 Starlink antennas to connect remote communities. 🇦🇷\n\nThe planned rollout, coordinated with national authorities and the provincial education ministry, will help children get online and expand their educational opportunities.",
+    "url": "https://x.com/elonmusk/status/2125422535932272988"
   }
 ]
