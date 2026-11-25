@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794223943973-hxam3b",
     "x-1794225131721-v17i67",
     "x-1794225134498-eyg9im",
     "x-1794225740177-xxudmg",
@@ -1999,19 +1998,10 @@
     "x-1795579924454-lpt7mm",
     "x-1795580529924-j0epjn",
     "x-1795581114851-y20vey",
-    "x-1795582323771-mcknrg"
+    "x-1795582323771-mcknrg",
+    "x-1795582926178-yvm8sz"
   ],
   "queue": [
-    {
-      "text": "🚨 TODAY: Japan's Nikkei fell 2.8% on a chip stock selloff.\n\nSouth Korea's KOSPI plunged nearly 5% below 5,000 and triggered a circuit breaker.",
-      "url": "https://x.com/Cointelegraph/status/2125428178290200876",
-      "images": [
-        "https://pbs.twimg.com/media/HX8JqTmXUAA3Uwd.png",
-        "https://pbs.twimg.com/media/HX8JqgLXEAAa8jS.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795576929627
-    },
     {
       "text": "🇺🇸 NOW: The Trump administration is expected to soon announce higher tariffs on China, the EU and 14 other economies over industrial subsidies, per AP.",
       "url": "https://x.com/Cointelegraph/status/2125431962173063443",
@@ -2029,20 +2019,19 @@
       ],
       "video": null,
       "enqueuedAt": 1795579363643
+    },
+    {
+      "text": "🇺🇸 NEW: US House Democrats have sought records from Polymarket and three other firms tied to Donald Trump Jr.'s venture firm 1789 Capital as they expand their probe into his investments, per Reuters.",
+      "url": "https://x.com/Cointelegraph/status/2125454643484414271",
+      "images": [
+        "https://pbs.twimg.com/media/HX8huyZW8AA6EL6.jpg",
+        "https://pbs.twimg.com/media/HX8hu_sXAAAaf4s.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795582931097
     }
   ],
   "posted": [
-    {
-      "text": "🇺🇸 LATEST: US Director of National Intelligence Jay Clayton says Americans should expect more tech outages as companies and government agencies replace older systems.",
-      "final": "🇺🇸 LATEST: US Director of National Intelligence Jay Clayton says Americans should expect more tech outages as companies and government agencies replace older systems.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HXyOl55XoAA_3KQ.jpg",
-        "https://pbs.twimg.com/media/HXyOmPDWsAAhvHu.png"
-      ],
-      "at": 1795410112326,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/391245512844713?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🇺🇸 ETF FLOWS: SOL spot ETFs saw net inflows last week, while BTC, ETH and XRP spot ETFs saw net outflows.\n\nBTC: -$1.79B\nETH: -$314.17M\nSOL: $4.38M\nXRP: -$11.11M",
       "final": "🇺🇸 ETF FLOWS: SOL spot ETFs saw net inflows last week, while BTC, ETH and XRP spot ETFs saw net outflows.\n\nBTC: -$1.79B\nETH: -$314.17M\nSOL: $4.38M\nXRP: -$11.11M\n\n#Bitcoin $BTC #Ethereum $ETH #Solana $SOL #ETF",
@@ -2751,7 +2740,17 @@
       "at": 1795581115608,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391945939378869?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 TODAY: Japan's Nikkei fell 2.8% on a chip stock selloff.\n\nSouth Korea's KOSPI plunged nearly 5% below 5,000 and triggered a circuit breaker.",
+      "final": "🚨 TODAY: Japan's Nikkei fell 2.8% on a chip stock selloff.\n\nSouth Korea's KOSPI plunged nearly 5% below 5,000 and triggered a circuit breaker.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HX8JqTmXUAA3Uwd.png",
+        "https://pbs.twimg.com/media/HX8JqgLXEAAa8jS.jpg"
+      ],
+      "at": 1795582931097,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795581115608
+  "lastPostAt": 1795582931097
 }
