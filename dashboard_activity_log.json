@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795518204679-46ut9w",
-    "source": "x",
-    "ts": "2026-11-24T11:03:24.679Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-24T10:58:06.000Z",
-    "reason": "ANSEM token experienced a significant price drop due to a wallet-related sell-off.",
-    "text": "Is ANSEM Hacked?\n\nAccording to data from on-chain analysis platforms DexScreener and Solscan, Solana-based meme coin $ANSEM dropped by 60% within one hour due to large amounts of token sell-offs made by the connected wallet on decentralized exchanges.\n\nAs per PumpSwap, the wallet",
-    "url": "https://x.com/BSCNews/status/2125182164425654454",
-    "images": [
-      "https://pbs.twimg.com/media/HX4pQM-XwAAn8C6.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795518208354-2gxx9u",
-    "source": "x",
-    "ts": "2026-11-24T11:03:28.354Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-24T10:52:40.000Z",
-    "reason": "No notable crypto-related news.",
-    "text": "🇮🇷BREAKING: According to ABC News, Iranian operatives created 7 fake western AI journalists to push 100 articles in top news outlets.",
-    "url": "https://x.com/BSCNews/status/2125180797279736057"
-  },
-  {
-    "id": "x-1795519333906-b8u514",
-    "source": "x",
-    "ts": "2026-11-24T11:22:13.906Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T11:20:42.000Z",
-    "reason": "No notable move in AI investment strategy.",
-    "text": "🚨 UPDATE: “Nearly all investors” may be overweight AI, Franklin Templeton strategist Stephen Dover warns.\n\nDover urges investors to reduce AI exposure and diversify.",
-    "url": "https://x.com/Cointelegraph/status/2125187849817346274"
-  },
-  {
     "id": "x-1795519338191-b9jmzx",
     "source": "x",
     "ts": "2026-11-24T11:22:18.191Z",
@@ -7771,5 +7727,52 @@
       "gif": false,
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125711775186182144/img/veRyQXk6BSQvt8X8.jpg"
     }
+  },
+  {
+    "id": "x-1795645308838-yahoy3",
+    "source": "x",
+    "ts": "2026-11-25T22:21:48.838Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-25T22:21:08.000Z",
+    "reason": "Notable staking details for a crypto asset.",
+    "text": "NOW: Half of all aerodrome-finance:native is staked, about 90% of it with no end date, and the average stake runs close to four years, per @aeroxyz.",
+    "url": "https://x.com/BSCNews/status/2125716443715215513",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795645311255-g1du36",
+    "source": "x",
+    "ts": "2026-11-25T22:21:51.255Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T22:20:40.000Z",
+    "reason": "The tweet is irrelevant to cryptocurrencies and does not contain any specific financial information about the crypto market.",
+    "text": "🇺🇸 LATEST: U.S. corporate profits have surged 26.4% since the start of 2025, while total wages rose just 7.1% and consumer prices climbed 5.6%.",
+    "url": "https://x.com/Cointelegraph/status/2125716324236026265"
+  },
+  {
+    "id": "x-1795645314074-iopsbz",
+    "source": "x",
+    "ts": "2026-11-25T22:21:54.074Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-25T22:14:00.000Z",
+    "reason": "Noteworthy institutional upgrade with potential for new use cases.",
+    "text": "Injective's Veyra upgrade is live on mainnet\n\n@injective ($INJ) has switched on Veyra, its last major upgrade of the year. It adds new RWA infrastructure for institutions and expands the chain's gateways for enterprise users.\n\nVeyra also prepares the ground for CypherOS, a",
+    "url": "https://x.com/BSCNews/status/2125714646476706111",
+    "images": [
+      "https://pbs.twimg.com/media/HYAI9C-W0AA8uCB.jpg"
+    ],
+    "video": null
   }
 ]
