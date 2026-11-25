@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795449182283-cjoao5",
-    "source": "x",
-    "ts": "2026-11-23T15:53:02.283Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 27,
-    "originTimestamp": "2026-11-23T15:25:22.000Z",
-    "reason": "No notable move or specific news content provided.",
-    "text": ".@POTUS: \"It's very exciting news... We have to protect our geniuses — and he's a great genius.\"",
-    "url": "https://x.com/elonmusk/status/2124891314873602477"
-  },
-  {
     "id": "x-1795449754734-41hren",
     "source": "x",
     "ts": "2026-11-23T16:02:34.734Z",
@@ -7825,6 +7812,24 @@
     "url": "https://x.com/BSCNews/status/2125503631525097600",
     "images": [
       "https://pbs.twimg.com/media/HX9DpPObsAEY2T1.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795595522753-r6l9ol",
+    "source": "x",
+    "ts": "2026-11-25T08:32:02.753Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T08:30:42.000Z",
+    "reason": "Notable regulatory action involving a major cryptocurrency exchange.",
+    "text": "🚨 LATEST: Tether has sought a 20% fee from some hack victims to reissue their frozen USDT, per Bloomberg. \n\nSingapore exchange Bittok lost $50M in a 2020 hack and still hasn't recovered the funds.",
+    "url": "https://x.com/Cointelegraph/status/2125507455362675137",
+    "images": [
+      "https://pbs.twimg.com/media/HX9Rw2NXoAA2b65.png"
     ],
     "video": null
   }
