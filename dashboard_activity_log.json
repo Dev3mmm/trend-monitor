@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1795458131119-c1iecj",
-    "source": "x",
-    "ts": "2026-11-23T18:22:11.119Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T18:18:49.000Z",
-    "reason": "Cryptocurrency wallet exploit with significant financial loss.",
-    "text": "⚠️ALERT: One iPhone user reported losing more than $600,000 across a Trezor Safe 7 and an Exodus wallet, per Onchain Lens. About $580,000 was in USDT on TRON.\n\nThe user gave the following account:\n\n1. They had used the Trezor Safe 7 for about two months. It arrived sealed with no",
-    "url": "https://x.com/coinbureau/status/2124930684003463444",
-    "images": [
-      "https://pbs.twimg.com/media/HX1ES0qaIAA_N6I.png",
-      "https://pbs.twimg.com/media/HX1FF-SaIAAMMvB.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795458134284-m2q3zz",
-    "source": "x",
-    "ts": "2026-11-23T18:22:14.284Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T18:17:45.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
-    "url": "https://x.com/DecryptMedia/status/2124930417081852226",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795458136818-owbra2",
-    "source": "x",
-    "ts": "2026-11-23T18:22:16.818Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-23T18:17:04.000Z",
-    "reason": "No notable move in ETH price within its recent range.",
-    "text": "Perps and Swaps: How to Trade the News on Decrypt",
-    "url": "https://x.com/DecryptMedia/status/2124930246847647859"
-  },
-  {
-    "id": "x-1795458140577-mn7bwz",
-    "source": "x",
-    "ts": "2026-11-23T18:22:20.577Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T18:16:00.000Z",
-    "reason": "Notable financial institution partnership with a cryptocurrency.",
-    "text": "Pons memecoins can now launch against a token linked to a T. Rowe Price ETF\n\n@ponsdotfamily ($PONS) has added the T. Rowe Price Technology ETF Stock Token ($TTEQ) as a pairing asset, so new memecoins on the launchpad can trade against it.\n\n@RobinhoodCrypto launched the token on",
-    "url": "https://x.com/BSCNews/status/2124929976159850861",
-    "images": [
-      "https://pbs.twimg.com/media/HX0_d29XAAAHzHS.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795458772652-xwhl3h",
     "source": "x",
     "ts": "2026-11-23T18:32:52.652Z",
@@ -7851,5 +7785,57 @@
       "https://pbs.twimg.com/media/HX952ilXcAARR4H.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795610580269-s1tr9r",
+    "source": "x",
+    "ts": "2026-11-25T12:43:00.269Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T12:41:33.000Z",
+    "reason": "The tweet is unrelated to cryptocurrencies and does not contain any specific crypto-related content.",
+    "text": "ChatGPT (@ChatGPT) is closing in on Google (@Google), with OpenAI claiming its search-like queries have reached one-fifth of Google's volume. \n\nBut Google isn't backing down. Here's the full breakdown 👇",
+    "url": "https://x.com/BSCNews/status/2125570584834867471"
+  },
+  {
+    "id": "x-1795610584521-7nrzsn",
+    "source": "x",
+    "ts": "2026-11-25T12:43:04.521Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T12:40:46.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "🎙️ NEW: “There’s a need to respond better to these threats from the Bitcoin community,” says  @stacks co-founder @muneeb.\n\n#CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2125570388625182865"
+  },
+  {
+    "id": "x-1795610588650-n9vg0c",
+    "source": "x",
+    "ts": "2026-11-25T12:43:08.650Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-25T12:33:08.000Z",
+    "reason": "Tweet is unrelated to cryptocurrency or blockchain technology.",
+    "text": "Where can I eat arrow roots and sweet potatoes in Lavington, Westlands and Karen?",
+    "url": "https://x.com/amerix/status/2125568465863946373"
+  },
+  {
+    "id": "x-1795610593309-efk3g0",
+    "source": "x",
+    "ts": "2026-11-25T12:43:13.309Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-25T12:33:00.000Z",
+    "reason": "The tweet appears to be unrelated to cryptocurrencies and blockchain technology.",
+    "text": "🇮🇱BREAKING: IDF confirms Hamas' internal security chief for northern Gaza is dead, a week after the death of his commander.",
+    "url": "https://x.com/BSCNews/status/2125568433165320587"
   }
 ]
