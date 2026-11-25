@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795505791655-keg9vz",
-    "source": "x",
-    "ts": "2026-11-24T07:36:31.655Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-24T07:25:23.000Z",
-    "reason": "FT reports are not considered breaking news without additional verification.",
-    "text": "BREAKING: SpaceX and Tesla are negotiating a potential $3.5 trillion all-stock merger, FT reports.",
-    "url": "https://x.com/BSCNews/status/2125128630233928034"
-  },
-  {
-    "id": "x-1795506140437-io0hin",
-    "source": "x",
-    "ts": "2026-11-24T07:42:20.437Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Wu Blockchain",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-24T07:36:17.000Z",
-    "reason": "No notable move in prices, Grayscale's statement does not provide concrete, specific information about crypto moves.",
-    "text": "Grayscale Says Crypto Is Oversold, Valuations Attractive for Long-Term Investors Despite AI Risks\n\nGrayscale said Bitcoin and other major cryptocurrencies appear oversold, but near-term prices will depend more on AI-related risks than blockchain fundamentals. In a November 23",
-    "url": "https://x.com/WuBlockchain/status/2125131375867007191"
-  },
-  {
     "id": "x-1795506146858-pz3wo8",
     "source": "x",
     "ts": "2026-11-24T07:42:26.858Z",
@@ -7788,5 +7762,39 @@
     "reason": "No notable crypto-related event or use described.",
     "text": "⚡️ INSIGHT: Anthropic CEO Dario Amodei rejects claims that he wants humans to surrender control to AI, calling the suggestion “absurd.” \n\nHe warns that AI could improve “faster than we can control or adjust to it” and that some deployments may need to be slowed or stopped to",
     "url": "https://x.com/Cointelegraph/status/2125674803524694447"
+  },
+  {
+    "id": "x-1795636351117-oqn3w4",
+    "source": "x",
+    "ts": "2026-11-25T19:52:31.117Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 79,
+    "originTimestamp": "2026-11-25T18:33:23.000Z",
+    "reason": "Notable regulatory move by Ukraine legalizing its crypto market.",
+    "text": "JUST IN: Ukraine has legalized its crypto market, with rules built to line up with the EU 🇺🇦\n\nThe Verkhovna Rada's bill forces exchanges to get authorized and puts a tax on $BTC and other crypto profits from July 2027.\n\nHere's what changed:\nRead more:",
+    "url": "https://x.com/BSCNews/status/2125677614148800923",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795636356545-bxnm0g",
+    "source": "x",
+    "ts": "2026-11-25T19:52:36.545Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-25T19:43:00.000Z",
+    "reason": "Notable AI advancement involving human neurons and robot connection.",
+    "text": "OpenMind's robot Iris is wired to living human neurons\n\n@openmind_agi has connected its humanoid robot Iris to lab-grown human neurons, and @NBCNews aired a report on the project today.\n\nIris sends what its cameras see over the internet to neuron cultures in labs in Australia and",
+    "url": "https://x.com/BSCNews/status/2125676646090846272",
+    "images": [
+      "https://pbs.twimg.com/media/HX_lwC6XAAA4abC.jpg"
+    ],
+    "video": null
   }
 ]
