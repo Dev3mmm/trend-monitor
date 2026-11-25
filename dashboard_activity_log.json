@@ -1,65 +1,5 @@
 [
   {
-    "id": "x-1795455402789-1j1nqb",
-    "source": "x",
-    "ts": "2026-11-23T17:36:42.789Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T17:30:04.000Z",
-    "reason": "No notable move in price or specific event.",
-    "text": "JUST IN: 🇺🇸 Eric Trump’s ‘American Bitcoin’ increases their Bitcoin holdings by 73 BTC 👀  \n\nThey now hold 8,500 bitcoin! 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2124918419460083762"
-  },
-  {
-    "id": "x-1795455406433-j8p6ll",
-    "source": "x",
-    "ts": "2026-11-23T17:36:46.433Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-23T17:29:15.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-    "url": "https://x.com/DecryptMedia/status/2124918211208499438",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795455698170-e6tjzz",
-    "source": "x",
-    "ts": "2026-11-23T17:41:38.170Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-23T17:40:54.000Z",
-    "reason": "Noteworthy institutional move with ETFs on crypto exchange platforms.",
-    "text": "⚡️ NEW: Robinhood Crypto has expanded its Stock Tokens lineup to include actively managed ETFs, starting with a token linked to the T. Rowe Price Technology ETF (TTEQ).",
-    "url": "https://x.com/Cointelegraph/status/2124921145136648521",
-    "images": [
-      "https://pbs.twimg.com/media/HX08hTDXQAA8Lon.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795455702004-tul3mv",
-    "source": "x",
-    "ts": "2026-11-23T17:41:42.004Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-23T17:36:06.000Z",
-    "reason": "No notable crypto-related event or move mentioned.",
-    "text": "🇳🇱TODAY: Dutch government asks households to skip laundry and EV charging between 4 PM and 9 PM to ease its full power grid.",
-    "url": "https://x.com/BSCNews/status/2124919937076797822"
-  },
-  {
     "id": "x-1795456382182-6fhw12",
     "source": "x",
     "ts": "2026-11-23T17:53:02.182Z",
@@ -7835,6 +7775,77 @@
     "text": "JUST IN: @Mastercard is now available in Thailand, Japan, and Vietnam.",
     "url": "https://x.com/BSCNews/status/2125548015469379595",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795606360007-lsc810",
+    "source": "x",
+    "ts": "2026-11-25T11:32:40.007Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T11:31:02.000Z",
+    "reason": "Price well outside recent trading range for BTC.",
+    "text": "PRICE UPDATE: $BTC drops below $59,000",
+    "url": "https://x.com/BSCNews/status/2125552838092972413",
+    "images": [
+      "https://pbs.twimg.com/media/HX97AIkWUAAVEMt.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795606363598-w9dzk4",
+    "source": "x",
+    "ts": "2026-11-25T11:32:43.598Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T11:30:01.000Z",
+    "reason": "Significant discount compared to previous Nov. lows.",
+    "text": "Strategy Says STRC's Widest Closing Discount To Par Is 6.4% So Far In November, Versus 25.4% In June.\n\nNasdaq data show STRC's lowest November close so far was $93.60 on Nov. 20, and it closed at $97.77 on Nov. 24.",
+    "url": "https://x.com/DecryptMedia/status/2125552582370181396",
+    "images": [
+      "https://pbs.twimg.com/media/HX9ZGRKXQAAlNXH.png",
+      "https://pbs.twimg.com/media/HX9Zs64W4AAnVJU.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795606367272-2mhqlw",
+    "source": "x",
+    "ts": "2026-11-25T11:32:47.272Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-25T11:25:15.000Z",
+    "reason": "Hyperliquid likely moving altcoins as Bitcoin falls below $59K",
+    "text": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+    "url": "https://x.com/DecryptMedia/status/2125551383130575152",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795606370477-w4iw52",
+    "source": "x",
+    "ts": "2026-11-25T11:32:50.477Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "BSCN",
+    "ageMin": 67,
+    "originTimestamp": "2026-11-25T10:25:52.000Z",
+    "reason": "Notable regulatory move affecting cryptocurrency market.",
+    "text": "Ukraine Legalizes Cryptocurrency Within EU-Like Regulations\n\nThe Ukrainian legislature has adopted a law regulating the local cryptocurrency market and aligning national cryptocurrency regulations with those of the European Union.\n\nIndividuals and firms can legally buy, sell, and",
+    "url": "https://x.com/BSCNews/status/2125550817042383043",
+    "images": [
+      "https://pbs.twimg.com/media/HX91KZMWYAAwypY.jpg"
+    ],
     "video": null
   }
 ]
