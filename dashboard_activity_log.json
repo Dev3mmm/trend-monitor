@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795440743393-sas1om",
-    "source": "x",
-    "ts": "2026-11-23T13:32:23.393Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-23T13:26:45.000Z",
-    "reason": "Notable institutional move involving Bitcoin reserves.",
-    "text": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
-    "url": "https://x.com/DecryptMedia/status/2124857183816855713",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795440748901-o60sgw",
-    "source": "x",
-    "ts": "2026-11-23T13:32:28.901Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-23T13:19:48.000Z",
-    "reason": "No notable move or specific event is described.",
-    "text": "DROPS 49: @Stacks: We Built A Network That Paid Out $500 Million in Bitcoin\n\n@muneeb ran out of money in Sweden, ate one burger a day, and watched his ATM card snap in half. Then he got into Princeton, joined the first Y Combinator batch under Sam Altman, and told Ethereum its",
-    "url": "https://x.com/BSCNews/status/2124857073536041084"
-  },
-  {
-    "id": "x-1795440753409-cfzvht",
-    "source": "x",
-    "ts": "2026-11-23T13:32:33.409Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T13:26:07.000Z",
-    "reason": "Specific, verifiable institutional adoption of Bitcoin.",
-    "text": "🇺🇸JUST IN: Saylor's Strategy bought $27.97M worth of $BTC",
-    "url": "https://x.com/BSCNews/status/2124857023896354912",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795441387861-bhiqw4",
     "source": "x",
     "ts": "2026-11-23T13:43:07.861Z",
@@ -7814,5 +7769,49 @@
     "reason": "Noise; no real content related to crypto or markets.",
     "text": "半导体现在还是很难，韩国的 Kospi 开盘的时候就跌了 5% ，这已经是第 62 次熔断了，其中海力士下跌了 8%，目前来看黄教主的回归还是不能拯救半导体啊。\n\n不知道 2027年 能不能看到内存降价，现在已经不是工业储存非常抢手的时候了，AI",
     "url": "https://x.com/PhyrexNi/status/2125409303020626413"
+  },
+  {
+    "id": "x-1795572743606-9zlkc9",
+    "source": "x",
+    "ts": "2026-11-25T02:12:23.606Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T02:10:17.000Z",
+    "reason": "Vague motivational statement without a concrete price or event.",
+    "text": "It is WEDNESDAY,\n\nWake up.\n\nGet out of bed with determination.\n\nThere is work to be done, knowledge to acquire and opportunities to pursue.\n\nYesterday's disappointments should not interfere with today's ambitions.\n\nBe courageous and relentless.\n\nGo after the life you have always",
+    "url": "https://x.com/amerix/status/2125411723221901565"
+  },
+  {
+    "id": "x-1795572746479-ygtwou",
+    "source": "x",
+    "ts": "2026-11-25T02:12:26.479Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 15,
+    "originTimestamp": "2026-11-25T01:56:42.000Z",
+    "reason": "Noise: generic statement without real content.",
+    "text": "Interesting",
+    "url": "https://x.com/elonmusk/status/2125411174993010839"
+  },
+  {
+    "id": "x-1795572751711-gmeana",
+    "source": "x",
+    "ts": "2026-11-25T02:12:31.711Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-25T02:03:00.000Z",
+    "reason": "Stellar's Bell (Protocol 30) upgrade goes live on mainnet, improving scalability.",
+    "text": "What actually is Stellar's Bell (Protocol 30) upgrade...?\n\n@StellarOrg's Bell (Protocol 30) has just gone live on mainnet. In a nutshell, here's what it actually does:\n\n- SCALABILITY: Lets a single smart contract serve many customers using 'W addresses' with identifiers to track",
+    "url": "https://x.com/BSCNews/status/2125409888797106301",
+    "images": [
+      "https://pbs.twimg.com/media/HX4NrR5WAAAkd2a.jpg"
+    ],
+    "video": null
   }
 ]
