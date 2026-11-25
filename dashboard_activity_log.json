@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1795509730595-ly2rj1",
-    "source": "x",
-    "ts": "2026-11-24T08:42:10.595Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T08:40:42.000Z",
-    "reason": "Potential regulatory shift or government stance on cryptocurrencies mentioned",
-    "text": "🚨 UPDATE: BitGo CEO Mike Belshe highlights growing government control: “You need bitcoin.”",
-    "url": "https://x.com/Cointelegraph/status/2125147586495398102",
-    "images": [
-      "https://pbs.twimg.com/media/HX4KdqUW8AAIKde.jpg",
-      "https://pbs.twimg.com/media/HX4Kd7WXkAEHxKp.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795510422779-dgj0w0",
     "source": "x",
     "ts": "2026-11-24T08:53:42.779Z",
@@ -7795,6 +7776,25 @@
     "url": "https://x.com/BSCNews/status/2125683944150446336",
     "images": [
       "https://pbs.twimg.com/media/HX_ptTTXUAApiX3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795638790528-m1thkc",
+    "source": "x",
+    "ts": "2026-11-25T20:33:10.528Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-25T20:30:00.000Z",
+    "reason": "Cryptocurrency mining hijack threat reported.",
+    "text": "Braiins Says an Attacker Hijacked Hashrate at More Than 1,000 Bitcoin Mining Sites.\n\nThe mining pool said the sites were hit Nov. 20 via unencrypted Stratum V1 connections, calling the attack \"still a live threat\" and saying Braiins Pool's systems were not compromised.",
+    "url": "https://x.com/DecryptMedia/status/2125688475898855716",
+    "images": [
+      "https://pbs.twimg.com/media/HX_favpWIAAdHj6.png",
+      "https://pbs.twimg.com/media/HX_foAkXQAAP9_1.jpg"
     ],
     "video": null
   }
