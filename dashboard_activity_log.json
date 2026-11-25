@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795456382182-6fhw12",
-    "source": "x",
-    "ts": "2026-11-23T17:53:02.182Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-23T17:50:56.000Z",
-    "reason": "Regulatory move affecting crypto prediction markets.",
-    "text": "🇺🇸 NEW: A final CFTC rule on which prediction-market contracts can trade is now under White House review, per Bloomberg.",
-    "url": "https://x.com/Cointelegraph/status/2124923668027318667",
-    "images": [
-      "https://pbs.twimg.com/media/HX0-zsxWEAADexv.jpg",
-      "https://pbs.twimg.com/media/HX0-0GmWAAAxebD.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795456385441-lg4js3",
-    "source": "x",
-    "ts": "2026-11-23T17:53:05.441Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 70,
-    "originTimestamp": "2026-11-23T16:42:30.000Z",
-    "reason": "No notable crypto-related news or use of crypto technology mentioned.",
-    "text": "BREAKING: President Trump says he spoke with Elon Musk about Jensen Huang before his return as NVIDIA CEO, revealing Elon’s support for Jensen.\n\n“I spoke to him over the last week or so about it, and all he said is, Jensen’s a smart guy. Elon respects Jensen a lot. He respects",
-    "url": "https://x.com/elonmusk/status/2124923405179007015"
-  },
-  {
     "id": "x-1795456388779-xhmz6q",
     "source": "x",
     "ts": "2026-11-23T17:53:08.779Z",
@@ -7847,5 +7815,39 @@
       "https://pbs.twimg.com/media/HX91KZMWYAAwypY.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795606928614-prs0rr",
+    "source": "x",
+    "ts": "2026-11-25T11:42:08.614Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T11:40:24.000Z",
+    "reason": "Notable criticism of a major crypto figure by a high-profile actor.",
+    "text": "Former FTX COO @ConstanceWaing criticizes Netflix's The Altruists over its portrayal of @cz_binance, calling out racial stereotypes in the series.\n\n\"It is not close to reality at all. Very racist. Very racist!\"\n\n#CHAINREACTION",
+    "url": "https://x.com/Cointelegraph/status/2125555198475317398",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125551980429107200/vid/avc1/1280x720/fkGuWG4e0EdgRS80.mp4?tag=29",
+      "duration": 1974,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125551980429107200/img/bTuBzo7JJbsRrjfe.jpg"
+    }
+  },
+  {
+    "id": "x-1795606933865-aih554",
+    "source": "x",
+    "ts": "2026-11-25T11:42:13.865Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T11:40:00.000Z",
+    "reason": "No notable move in price or institutional activity.",
+    "text": "Variational is Behind Arbitrum's Perps Surge... \n\n@variational_io handles the lion's share of the volume in @Arbitrum's perps derivatives market, DeFiLlama says. \n\nOver the past 30 days, its volume is above $60 billion.\n\nOmni, its retail product, charges no trade fees. It uses",
+    "url": "https://x.com/BSCNews/status/2125555095475773724"
   }
 ]
