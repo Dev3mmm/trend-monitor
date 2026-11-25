@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795452142125-pf5eza",
-    "source": "x",
-    "ts": "2026-11-23T16:42:22.125Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-23T16:40:00.000Z",
-    "reason": "No notable move, tweet is vague and lacks specific factual information.",
-    "text": "One of crypto's most interesting founders...\n\nFrom poker player to crypto founder. Here's the story of @LayerZero_Core's unique creator ⬇️",
-    "url": "https://x.com/BSCNews/status/2124905816654504274"
-  },
-  {
-    "id": "x-1795452145843-6y5sjr",
-    "source": "x",
-    "ts": "2026-11-23T16:42:25.843Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T16:38:39.000Z",
-    "reason": "The tweet does not mention any specific crypto news or movement.",
-    "text": "U.S. Stocks Surge As Nvidia Soars More Than 30% On Jensen Huang's Return.\n\nThe Nasdaq Composite was up 6.96% at 11:06 AM ET, as Nvidia's reinstatement of Huang as CEO lifted chip and AI stocks.",
-    "url": "https://x.com/DecryptMedia/status/2124905477427413372"
-  },
-  {
-    "id": "x-1795452149499-13nfgl",
-    "source": "x",
-    "ts": "2026-11-23T16:42:29.499Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-23T16:33:15.000Z",
-    "reason": "No notable news event described, mostly stock market movements.",
-    "text": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
-    "url": "https://x.com/DecryptMedia/status/2124904118619701389",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795452153183-b78d3z",
     "source": "x",
     "ts": "2026-11-23T16:42:33.183Z",
@@ -7815,5 +7773,50 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Elan Insights flags crypto developments you won't want to miss...\n\nWe used @ElanInsights pro-level Crypto Calendar to stay on top of some major developments, arriving in the next few days.\n\nTry now: \n\n[November 25] @Acurast's $ACU goes live for trading on",
     "url": "https://x.com/BSCNews/status/2125525449056936077"
+  },
+  {
+    "id": "x-1795600954408-iwra4d",
+    "source": "x",
+    "ts": "2026-11-25T10:02:34.408Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T10:01:08.000Z",
+    "reason": "This is a notable institutional partnership in the crypto space.",
+    "text": "🇹🇷 NEW: Ripple partners with Yapı Kredi, one of Türkiye’s largest private banks, to provide digital asset custody infrastructure for its crypto trading platform.",
+    "url": "https://x.com/Cointelegraph/status/2125530216776843482",
+    "images": [
+      "https://pbs.twimg.com/media/HX9mdjGXgAAebgh.jpg",
+      "https://pbs.twimg.com/media/HX9md4jXMAAJbmr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795600959480-7vaa88",
+    "source": "x",
+    "ts": "2026-11-25T10:02:39.480Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T10:00:17.000Z",
+    "reason": "No notable move or specific, verifiable event is described.",
+    "text": "Shiba Inu Community Builds What Shibarium Needed Next\n\nThe Shiba Inu $SHIB community has launched a new block explorer for Shibarium (@ShibariumNet).\n\nCommunity veteran Mazrael announced scan(.)shibfun(.)app, featuring wallet searches, contract tools and a DApps directory.\n\nThe",
+    "url": "https://x.com/BSCNews/status/2125530002347467196"
+  },
+  {
+    "id": "x-1795600964317-xc6c7c",
+    "source": "x",
+    "ts": "2026-11-25T10:02:44.317Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T10:00:01.000Z",
+    "reason": "The tweet is unrelated to cryptocurrency and its content.",
+    "text": "Jury Convicts Huawei Of Sanctions Violations, Fraud, Conspiracy To Steal Trade Secrets And Money Laundering.\n\nJurors convicted Huawei and three subsidiaries on Nov. 24 but acquitted Huawei of racketeering conspiracy; it said it will \"take all necessary legal actions.\"",
+    "url": "https://x.com/DecryptMedia/status/2125529933661233245"
   }
 ]
