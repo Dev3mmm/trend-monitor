@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795452153183-b78d3z",
-    "source": "x",
-    "ts": "2026-11-23T16:42:33.183Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-23T16:32:41.000Z",
-    "reason": "Explanation of court-ordered asset freezes is notable regulatory move.",
-    "text": "At Binance, protecting users and complying with applicable legal obligations are both core responsibilities.\n\nOur latest blog explains how court-ordered asset freezes work, why they may occur, what Binance can and cannot do, and what information may be available to affected users",
-    "url": "https://x.com/binance/status/2124903976130716059",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795452835243-s6yphb",
-    "source": "x",
-    "ts": "2026-11-23T16:53:55.243Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T16:50:00.000Z",
-    "reason": "No notable crypto-specific news related to the tweet.",
-    "text": "⚠️ ALERT: Widespread issues reported across Robinhood, E*TRADE, Fidelity and Charles Schwab as retail traders rush into US markets.\n\nMultiple trading and finance apps are reporting downtime amid a surge in market activity.\n\nNearly $3 TRILLION has been added to the US stock market",
-    "url": "https://x.com/coinbureau/status/2124908333534429372"
-  },
-  {
     "id": "x-1795452839306-m6urfd",
     "source": "x",
     "ts": "2026-11-23T16:53:59.306Z",
@@ -7818,5 +7789,36 @@
     "reason": "The tweet is unrelated to cryptocurrency and its content.",
     "text": "Jury Convicts Huawei Of Sanctions Violations, Fraud, Conspiracy To Steal Trade Secrets And Money Laundering.\n\nJurors convicted Huawei and three subsidiaries on Nov. 24 but acquitted Huawei of racketeering conspiracy; it said it will \"take all necessary legal actions.\"",
     "url": "https://x.com/DecryptMedia/status/2125529933661233245"
+  },
+  {
+    "id": "x-1795602121911-lv04hu",
+    "source": "x",
+    "ts": "2026-11-25T10:22:01.911Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-25T10:16:50.000Z",
+    "reason": "Notable institution integrating crypto custody service",
+    "text": "Turkish Bank Adds Ripple Custody for Its Crypto Platform\n\nPrivate Turkish bank Yapı Kredi (@YapiKredi) has integrated @Ripple Custody into its crypto trading platform, Yapı Kredi Kripto.\n\nThe on-premise integration is required for the bank's licensing by the Capital Markets Board",
+    "url": "https://x.com/BSCNews/status/2125534167140102307",
+    "images": [
+      "https://pbs.twimg.com/media/HX9p7YvX0AAlfoe.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795602127157-o6xjlm",
+    "source": "x",
+    "ts": "2026-11-25T10:22:07.157Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-25T10:13:52.000Z",
+    "reason": "No notable move in tech stocks as the prices are within recent ranges.",
+    "text": "Tech stocks in pre-market:\n\nDell, $DELL: -7.7%\nArm, $ARM: -6.2%\nIntel, $INTC: -3.8%\nAMD, $AMD: -5.9%\nTesla, $TSLA: -2.6%\nMicron, $MU: -5.9%\nTSMC, $TSM: -3.2%\nNvidia, $NVDA: -5.1%\nNebius, $NBIS: -5.9%\nSeagate, $STX: -4.9%\nPalantir, $PLTR: -3.9%\nOracle, $ORCL: -4.2%\nSpaceX, $SPCX:",
+    "url": "https://x.com/coinbureau/status/2125533418146738571"
   }
 ]
