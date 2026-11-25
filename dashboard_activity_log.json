@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795503739535-l569de",
-    "source": "x",
-    "ts": "2026-11-24T07:02:19.535Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T07:00:20.000Z",
-    "reason": "No factual claim or notable move in the tweet.",
-    "text": "🚨WILD: Proof that Jensen Huang is worth $1 TRILLION dollars? \n\n$NVDA at 9:29am ET vs $NVDA 9:30am ET",
-    "url": "https://x.com/coinbureau/status/2125122326052450503"
-  },
-  {
-    "id": "x-1795503744511-g73fl8",
-    "source": "x",
-    "ts": "2026-11-24T07:02:24.511Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T07:00:00.000Z",
-    "reason": "No notable crypto-related move or institution involvement mentioned.",
-    "text": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion\n\nNvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day",
-    "url": "https://x.com/DecryptMedia/status/2125122243558621283"
-  },
-  {
     "id": "x-1795503749814-74xfj0",
     "source": "x",
     "ts": "2026-11-24T07:02:29.814Z",
@@ -7779,5 +7753,40 @@
     "reason": "No notable move in token price or use case.",
     "text": "Thanks Ron ❤️\n\nMy greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink and Boring Company, without whom I would be able to accomplish nothing.",
     "url": "https://x.com/elonmusk/status/2125670205456257409"
+  },
+  {
+    "id": "x-1795635150388-g2e2li",
+    "source": "x",
+    "ts": "2026-11-25T19:32:30.388Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T19:30:18.000Z",
+    "reason": "Specific institutional settlement with Nvidia on crypto mining revenue lawsuit",
+    "text": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+    "url": "https://x.com/DecryptMedia/status/2125673450400358855",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795635155359-4f7ify",
+    "source": "x",
+    "ts": "2026-11-25T19:32:35.359Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T19:30:00.000Z",
+    "reason": "Cybersecurity breach affecting customer data.",
+    "text": "1Password Says Attacker Copied Some Customers' Names And Emails Using An Employee's Corporate GitHub Account.\n\nThe password manager said vault data and the keys that protect it were not affected, but the attacker also copied source code from private repositories.",
+    "url": "https://x.com/DecryptMedia/status/2125673374600802642",
+    "images": [
+      "https://pbs.twimg.com/media/HX_ewUQXkAAZv1_.png",
+      "https://pbs.twimg.com/media/HX_fQRtWQAAAvRw.jpg"
+    ],
+    "video": null
   }
 ]
