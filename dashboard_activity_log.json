@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795447480367-sf5y5u",
-    "source": "x",
-    "ts": "2026-11-23T15:24:40.367Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Phyrex",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T15:20:04.000Z",
-    "reason": "Tweet appears to be a cryptocurrency related meme or joke without providing any concrete information.",
-    "text": "想到了黄仁勋会回到英伟达，但没想到是川普参加了英伟达的董事会会议，并且要求黄教主回归。",
-    "url": "https://x.com/PhyrexNi/status/2124885701187805211"
-  },
-  {
-    "id": "x-1795447929308-njztsx",
-    "source": "x",
-    "ts": "2026-11-23T15:32:09.308Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T15:25:31.000Z",
-    "reason": "New use of a token with cross-chain transfer capability.",
-    "text": "The World’s Biggest Tokenized Treasury Just Linked Stellar and Ethereum\n\n@Ondo's yield-bearing $USDY can now be transferred from Stellar (@StellarOrg) to Ethereum (@Ethereum) using the Omnichain Fungible Token (OFT) protocol on LayerZero (@LayerZero_Core).\n\n$USDY is the largest",
-    "url": "https://x.com/BSCNews/status/2124887073941274948",
-    "images": [
-      "https://pbs.twimg.com/media/HX0cfmfXYAA11zf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795447931602-wj53y1",
     "source": "x",
     "ts": "2026-11-23T15:32:11.602Z",
@@ -7835,5 +7804,36 @@
       "https://pbs.twimg.com/media/HX88-x_bQAA8wFG.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795593139480-b5dw6w",
+    "source": "x",
+    "ts": "2026-11-25T07:52:19.480Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Rarma",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-25T07:46:43.000Z",
+    "reason": "Potential regulatory or governance issue in the Terra ecosystem.",
+    "text": "One wallet now decides where a third of Terra's staked $LUNA sits. No vote authorised it.\n\nAt 07:10 AEDT on 25 Nov, about 5¾ hours after Terra prop 4856 passed, terra1kefa2...klgzl moved four TLA control roles from the Phoenix Directive Stewardship DAO to itself.\n\nNo Stewardship",
+    "url": "https://x.com/Rarma_/status/2125496388285091981",
+    "images": [
+      "https://pbs.twimg.com/media/HX9HsqvbIAAJkrH.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795593141880-joo1vb",
+    "source": "x",
+    "ts": "2026-11-25T07:52:21.880Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-25T07:44:01.000Z",
+    "reason": "No notable financial or crypto-related news in the tweet.",
+    "text": "🇮🇳  INDIA is dodging the AI selloff AGAIN.\n\nIndian stocks just added ₹8 TRILLION today as the NIFTY surges +2%.\n\nMeanwhile, the rest of the Asian markets are falling as fresh US tariff fears pile onto the tech selloff.\n\nWith almost no AI exposure, India has become the market's",
+    "url": "https://x.com/coinbureau/status/2125495710351294954"
   }
 ]
