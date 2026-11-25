@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795443802477-tl4zbh",
-    "source": "x",
-    "ts": "2026-11-23T14:23:22.477Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T14:19:39.000Z",
-    "reason": "$BTC just broke past a significant price milestone outside its recent range.",
-    "text": "BREAKING: $BTC just broke past 63K!",
-    "url": "https://x.com/BSCNews/status/2124870497481478334",
-    "images": [
-      "https://pbs.twimg.com/media/HX0OcsuXQAAhBPi.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795443806250-gaxzhr",
-    "source": "x",
-    "ts": "2026-11-23T14:23:26.250Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T14:16:43.000Z",
-    "reason": "No notable move in Ethereum price.",
-    "text": "$NVDA-perp is up 21.57% in pre-market trading.\n\nJensen is back.",
-    "url": "https://x.com/coinbase/status/2124869828456673335"
-  },
-  {
     "id": "x-1795443810577-tneljo",
     "source": "x",
     "ts": "2026-11-23T14:23:30.577Z",
@@ -7809,5 +7778,36 @@
     "reason": "No notable crypto-related news in the tweet.",
     "text": "BREAKING: $850,000,000,000 wiped out from Asian markets as renewed US tariff fears intensify the AI selloff.\n\n🇹🇼 Taiwan's TAIEX plunges -7.4%.\n\n🇰🇷 South Korea's KOSPI drops -6%, nearly erasing Tuesday's 6.3% surge.\n\n🇯🇵 Japan's Nikkei falls -3.3%.\n\nAsian markets are facing a fresh",
     "url": "https://x.com/coinbureau/status/2125449631308075103"
+  },
+  {
+    "id": "x-1795582323771-mcknrg",
+    "source": "x",
+    "ts": "2026-11-25T04:52:03.771Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T04:49:19.000Z",
+    "reason": "Specific institutional move with notable asset management involvement.",
+    "text": "Another Wall Street Firm Revealed XRP ETF Exposure\n\nArkadios Wealth Advisors has disclosed an investment in an $XRP (@XRP) ETF.\n\nThe Atlanta-based firm manages $8.79 billion in client assets. Its latest SEC filing does not reveal the fund, share count or investment value.",
+    "url": "https://x.com/BSCNews/status/2125451746453725205",
+    "images": [
+      "https://pbs.twimg.com/media/HX8deV1acAAMhWT.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795582326826-w04ik1",
+    "source": "x",
+    "ts": "2026-11-25T04:52:06.826Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 80,
+    "originTimestamp": "2026-11-25T03:31:53.000Z",
+    "reason": "Noise: generic opinion without factual claim.",
+    "text": "The USAID Files is one of the most disgusting reads I have ever come across.\n\nThe deep state functions like an AWFL mafia that invites tech CEOs for boba teas and then leans on them to \"share their values\" for globomarxist domination.\n\nI think I'm going to be sick.",
+    "url": "https://x.com/elonmusk/status/2125451484582264984"
   }
 ]
