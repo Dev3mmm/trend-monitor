@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795445059928-49vj1u",
-    "source": "x",
-    "ts": "2026-11-23T14:44:19.928Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 46,
-    "originTimestamp": "2026-11-23T13:58:03.000Z",
-    "reason": "No notable move or concrete event described.",
-    "text": "The mistake has been corrected",
-    "url": "https://x.com/elonmusk/status/2124875939133751684"
-  },
-  {
-    "id": "x-1795445064146-190ixw",
-    "source": "x",
-    "ts": "2026-11-23T14:44:24.146Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 44,
-    "originTimestamp": "2026-11-23T14:00:10.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "🔥 TODAY: $NVDA surges past $166, jumping over 33% and adding more than $1T in market cap following Jensen Huang's reinstatement as CEO.",
-    "url": "https://x.com/Cointelegraph/status/2124875845227651422"
-  },
-  {
-    "id": "x-1795445068564-hht9hy",
-    "source": "x",
-    "ts": "2026-11-23T14:44:28.564Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T14:40:42.000Z",
-    "reason": "No notable move, price is well within the recent range.",
-    "text": "LIVE: Bitcoin Rips as NVDA Reinstates Jensen Huang | BMTV Nov 23, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2124875794707288520"
-  },
-  {
     "id": "x-1795445532981-bzhifa",
     "source": "x",
     "ts": "2026-11-23T14:52:12.981Z",
@@ -7815,5 +7776,55 @@
     "reason": "The tweet is vague and doesn't provide specific crypto-related information.",
     "text": "JUST IN: Jensen Huang reportedly admitted to more extramarital affairs before Nvidia's Board unanimously reinstated him as CEO, per WSJ.",
     "url": "https://x.com/BSCNews/status/2125464215838482463"
+  },
+  {
+    "id": "x-1795586518322-jq11mk",
+    "source": "x",
+    "ts": "2026-11-25T06:01:58.322Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T06:00:52.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🔥 INTERESTING: A trader turned $19,000 in Nvidia call options into a $376,900 profit, a 1,984% gain, after Jensen Huang's return as CEO, per Bloomberg.",
+    "url": "https://x.com/Cointelegraph/status/2125469749031166306",
+    "images": [
+      "https://pbs.twimg.com/media/HX8veAsWYAAuJDa.jpg",
+      "https://pbs.twimg.com/media/HX8veODX0AAxZ_B.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795586521561-bujrk9",
+    "source": "x",
+    "ts": "2026-11-25T06:02:01.561Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T06:00:00.000Z",
+    "reason": "No notable crypto-related news.",
+    "text": "🚨ALARMING: Timeline of NOT \"cyberattacks\" continues\n\nNov. 12: Microsoft 365 suffers a major outage.\n\nNov. 13: FAA grounds flights nationwide; payroll systems reportedly go down.\n\nNov. 15: AWS cloud services suffer an outage.\n\nNov. 16: Major US banks, including Bank of America,",
+    "url": "https://x.com/coinbureau/status/2125469533095997464"
+  },
+  {
+    "id": "x-1795586525246-4przd2",
+    "source": "x",
+    "ts": "2026-11-25T06:02:05.246Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T05:59:33.000Z",
+    "reason": "New DeFi expansion and tokenized credit model launch.",
+    "text": "Ondo's Latest DeFi Expansion Goes Beyond Tokenized Stocks\n\nOndo (@Ondo) $ONDO and Saturn (@saturn_credit) are expanding their partnership through a new Tokenized Equity Vault.\n\nTheir new Digital Credit 2.0 model allows borrowers to access decentralized credit against tokenized",
+    "url": "https://x.com/BSCNews/status/2125469421003239579",
+    "images": [
+      "https://pbs.twimg.com/media/HX8saiwbwAAmnAh.png"
+    ],
+    "video": null
   }
 ]
