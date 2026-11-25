@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1795519340928-sdwnin",
-    "source": "x",
-    "ts": "2026-11-24T11:22:20.928Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-24T11:14:11.000Z",
-    "reason": "Notable institutional participation in digital assets.",
-    "text": "🇬🇧LATEST: @jpmorgan, @HSBC, &amp; StoneX traded Digital Gold in London for the first time, reports Bloomberg.",
-    "url": "https://x.com/BSCNews/status/2125186212856230197",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795519915443-agxe86",
-    "source": "x",
-    "ts": "2026-11-24T11:31:55.443Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T11:30:01.000Z",
-    "reason": "Regulatory move affecting domestic cryptocurrency issuance.",
-    "text": "South Korea Proposes Crypto Law That Would Allow Domestic ICOs With Whitepaper Disclosures.\n\nThe Financial Services Commission unveiled the bill on Nov. 24 and said it plans to first allow domestic stablecoin issuance from consortia in which banks hold a majority stake.",
-    "url": "https://x.com/DecryptMedia/status/2125190197981667628",
-    "images": [
-      "https://pbs.twimg.com/media/HX4ixyHWkAAkdtR.png",
-      "https://pbs.twimg.com/media/HX4oGiLWcAAnKo4.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795519919623-9abujo",
     "source": "x",
     "ts": "2026-11-24T11:31:59.623Z",
@@ -7769,5 +7734,37 @@
     "url": "https://x.com/BSCNews/status/2125718061714219172",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795646571910-fptofo",
+    "source": "x",
+    "ts": "2026-11-25T22:42:51.910Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T22:40:43.000Z",
+    "reason": "Specific quote from a high-profile figure about Bitcoin's importance.",
+    "text": "🔥 INSIGHT: Coinbase CEO Brian Armstrong says Bitcoin is as important as ever amid expectations of further inflation and money printing.",
+    "url": "https://x.com/Cointelegraph/status/2125721369841119669",
+    "images": [
+      "https://pbs.twimg.com/media/HYAUT8aXgAAJxYc.jpg",
+      "https://pbs.twimg.com/media/HYAUUggW8AABQYZ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795646574680-mfa9fd",
+    "source": "x",
+    "ts": "2026-11-25T22:42:54.680Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-25T22:39:15.000Z",
+    "reason": "No factual claim or specific event is mentioned.",
+    "text": "China's Google Just Released Its Fast New AI Model for Free",
+    "url": "https://x.com/DecryptMedia/status/2125721001015005549"
   }
 ]
