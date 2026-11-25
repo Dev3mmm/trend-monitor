@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794220416746-0dj6yr",
     "x-1794220420569-wafz56",
     "x-1794221540499-oemx7k",
     "x-1794222202062-3t327o",
@@ -1999,18 +1998,10 @@
     "x-1795575749177-an3rx8",
     "x-1795576924507-iux8pd",
     "x-1795577518416-eqrw2v",
-    "x-1795578723357-a6l609"
+    "x-1795578723357-a6l609",
+    "x-1795579359724-hmps6b"
   ],
   "queue": [
-    {
-      "text": "🚨 LATEST: CryptoQuant CEO Ki Young Ju says, “Bitcoin investors are underwater at historical capitulation levels.”",
-      "url": "https://x.com/Cointelegraph/status/2125409320762310981",
-      "images": [
-        "https://pbs.twimg.com/media/HX74gvMWAAAQdFn.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795572181657
-    },
     {
       "text": "🔥 NOW: Coinbase CEO Brian Armstrong says the company has bought back $COIN stock this quarter amid market dislocations, as crypto and AI reshape financial services.",
       "url": "https://x.com/Cointelegraph/status/2125416871524458530",
@@ -2039,6 +2030,15 @@
       ],
       "video": null,
       "enqueuedAt": 1795577519047
+    },
+    {
+      "text": "🚨 JUST IN: The US Treasury's financial crimes unit FinCEN disclosed a cybersecurity incident that gave unauthorized access to part of its systems.\n\nIt has taken some systems offline as a precaution.",
+      "url": "https://x.com/Cointelegraph/status/2125438553958039905",
+      "images": [
+        "https://pbs.twimg.com/media/HX8TGcEXgAAXNbh.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795579363643
     }
   ],
   "posted": [
@@ -2740,7 +2740,16 @@
       "at": 1795577519047,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391931206640790?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 LATEST: CryptoQuant CEO Ki Young Ju says, “Bitcoin investors are underwater at historical capitulation levels.”",
+      "final": "🚨 LATEST: CryptoQuant CEO Ki Young Ju says, “Bitcoin investors are underwater at historical capitulation levels.”\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HX74gvMWAAAQdFn.jpg"
+      ],
+      "at": 1795579363643,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795577519047
+  "lastPostAt": 1795579363643
 }
