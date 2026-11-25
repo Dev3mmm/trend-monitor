@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795461297146-5srpbv",
-    "source": "x",
-    "ts": "2026-11-23T19:14:57.146Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-23T18:56:46.000Z",
-    "reason": "No notable move in price or news.",
-    "text": "Everyone I know at Nvidia wanted Jensen back and it shows",
-    "url": "https://x.com/elonmusk/status/2124942828274925651"
-  },
-  {
-    "id": "x-1795461747907-dsh5f0",
-    "source": "x",
-    "ts": "2026-11-23T19:22:27.907Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T19:20:55.000Z",
-    "reason": "Notable institutional demand affecting computing infrastructure.",
-    "text": "🚨 LATEST: Anthropic’s demand for computing power is so high that SpaceX needed to complete new data centers by October to fulfill its orders, according to NYT.",
-    "url": "https://x.com/Cointelegraph/status/2124946312411939317",
-    "images": [
-      "https://pbs.twimg.com/media/HX1TaCJXgAAlGyO.jpg",
-      "https://pbs.twimg.com/media/HX1TaN-XMAEo-J6.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795461754483-n8s2hu",
     "source": "x",
     "ts": "2026-11-23T19:22:34.484Z",
@@ -7837,6 +7805,37 @@
     "text": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
     "url": "https://x.com/DecryptMedia/status/2125579379933630611",
     "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795613536507-44lz4s",
+    "source": "x",
+    "ts": "2026-11-25T13:32:16.507Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-25T13:25:39.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸 JUST IN: The Trump administration proposes new tariffs targeting dozens of countries, including China, Japan and EU members, citing unfair trade practices.",
+    "url": "https://x.com/Cointelegraph/status/2125581682053185766"
+  },
+  {
+    "id": "x-1795613540509-uvhmx4",
+    "source": "x",
+    "ts": "2026-11-25T13:32:20.509Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-25T13:22:10.000Z",
+    "reason": "Ukraine legalizes Bitcoin and crypto, allowing citizens to hold it without declaring.",
+    "text": "JUST IN: 🇺🇦 Ukraine passes law to legalize Bitcoin and crypto, allowing citizens to hold Bitcoin without declaring it 👀",
+    "url": "https://x.com/BitcoinMagazine/status/2125580807758565448",
+    "images": [
+      "https://pbs.twimg.com/media/HX-NnGcXsAA_CoE.jpg"
+    ],
     "video": null
   }
 ]
