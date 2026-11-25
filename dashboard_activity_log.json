@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795456908059-pufhuk",
-    "source": "x",
-    "ts": "2026-11-23T18:01:48.059Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 113,
-    "originTimestamp": "2026-11-23T16:08:18.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "BREAKING: Aer Lingus launches FREE Starlink Wi-Fi on European flights, with 29 short-haul aircraft to be connected in early 2027.\n\n• The expansion follows a “fantastic” response from passengers on its North American routes.\n\n• Spain, Portugal and Morocco are among the",
-    "url": "https://x.com/elonmusk/status/2124924416249466906"
-  },
-  {
-    "id": "x-1795457576125-bu3p0u",
-    "source": "x",
-    "ts": "2026-11-23T18:12:56.125Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-23T18:09:48.000Z",
-    "reason": "Notable price movement of ETH related to mainnet launch.",
-    "text": "MASSIVE: Quant ethereum:0x4a220e6096b25eadb88358cb44068a3248254675 climbs more than 13% in 24 hours and touches $171 as its Fusion mainnet opens for public access.",
-    "url": "https://x.com/BSCNews/status/2124928416151437401",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795457579416-txtivk",
     "source": "x",
     "ts": "2026-11-23T18:12:59.416Z",
@@ -7850,5 +7821,36 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Hold U on Binance and earn up to 1.8x the base APR.\n\n🔸 Hold U → Earn the base APR\n🔸 Grow your U holdings → Get 1.5x\n🔸 Trade U pairs → Get 1.3x\n\nKnow more 👉",
     "url": "https://x.com/binance/status/2125560800106475640"
+  },
+  {
+    "id": "x-1795609345225-evnken",
+    "source": "x",
+    "ts": "2026-11-25T12:22:25.225Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T12:20:41.000Z",
+    "reason": "Personal data breach confirmed by Bithumb",
+    "text": "🚨 UPDATE: Bithumb confirms additional personal data was exposed in its October breach, including ID documents, bank account details, transaction histories and wallet addresses.\n\nBithumb says its exchange systems and customer database were not directly compromised.",
+    "url": "https://x.com/Cointelegraph/status/2125565334694359533",
+    "images": [
+      "https://pbs.twimg.com/media/HX-GZ6dWgAEgP4v.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795609348604-oandtd",
+    "source": "x",
+    "ts": "2026-11-25T12:22:28.604Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T12:20:02.000Z",
+    "reason": "No notable move or specific claim, just a prediction.",
+    "text": "🇺🇸NOW: Bank of America predicts a price of 7,800 for the S&amp;P 500 next year.",
+    "url": "https://x.com/BSCNews/status/2125565170919546940"
   }
 ]
