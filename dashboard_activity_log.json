@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795455392161-phvjrq",
-    "source": "x",
-    "ts": "2026-11-23T17:36:32.161Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-23T17:28:53.000Z",
-    "reason": "No notable move, price is within its recent range.",
-    "text": "True",
-    "url": "https://x.com/elonmusk/status/2124918561617694750"
-  },
-  {
-    "id": "x-1795455395896-kihar3",
-    "source": "x",
-    "ts": "2026-11-23T17:36:35.896Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T17:30:23.000Z",
-    "reason": "No notable move in ETH price within its recent range.",
-    "text": "Troll: Give me an example of the subscription economy.\n\nAmerix: Examples are Mkopa, SunKing, Spiro, Safaricom WiFi.\n\nTroll: Your examples are dumb, and you are stupid.\n\nIf I block this troll, he will call me intolerant who dislikes divergent ideas.",
-    "url": "https://x.com/amerix/status/2124918496295637252"
-  },
-  {
-    "id": "x-1795455399604-ss1bsa",
-    "source": "x",
-    "ts": "2026-11-23T17:36:39.604Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 82,
-    "originTimestamp": "2026-11-23T16:14:31.000Z",
-    "reason": "No notable move in token/coin price or significant event mentioned.",
-    "text": "BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to European flights following a “fantastic” customer response on North American routes. \n\n“The response from our customers to Starlink Wi-Fi travelling to our",
-    "url": "https://x.com/elonmusk/status/2124918489224011921"
-  },
-  {
     "id": "x-1795455402789-1j1nqb",
     "source": "x",
     "ts": "2026-11-23T17:36:42.789Z",
@@ -7823,6 +7784,57 @@
     "images": [
       "https://pbs.twimg.com/media/HX9zx5jW4AARfH-.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795605722563-tci1ej",
+    "source": "x",
+    "ts": "2026-11-25T11:22:02.563Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T11:20:39.000Z",
+    "reason": "Senate rejection of crypto tax proposals.",
+    "text": "🇫🇷UPDATE: The French Senate rejects a proposal requiring taxpayers to disclose self-custodied crypto holdings worth €100,000 or more.\n\nSenators also rejected proposed taxes on stablecoin swaps and unrealized crypto gains upon leaving France.",
+    "url": "https://x.com/Cointelegraph/status/2125550224697442650",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795605727212-xxj4qq",
+    "source": "x",
+    "ts": "2026-11-25T11:22:07.213Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-25T11:15:57.000Z",
+    "reason": "Notable regulatory move affecting a major country's crypto landscape.",
+    "text": "BREAKING: Ukraine officially passes law to LEGALIZE crypto, effective July 1, 2027.",
+    "url": "https://x.com/coinbureau/status/2125549044764405935",
+    "images": [
+      "https://pbs.twimg.com/media/HX93KOyaEAAFbaZ.jpg",
+      "https://pbs.twimg.com/media/HX93RUea4AAtu9T.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795605731426-xs2c4c",
+    "source": "x",
+    "ts": "2026-11-25T11:22:11.426Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-25T11:11:52.000Z",
+    "reason": "Specific new market entry by Mastercard in multiple countries.",
+    "text": "JUST IN: @Mastercard is now available in Thailand, Japan, and Vietnam.",
+    "url": "https://x.com/BSCNews/status/2125548015469379595",
+    "images": [],
     "video": null
   }
 ]
