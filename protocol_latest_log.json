@@ -3486,5 +3486,19 @@
     "fetchedAt": "2026-11-24T23:12:45.224Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-8ddcbf1ea1731598",
+    "title": "UTXO explained in 37 seconds: how a simple ADA payment works",
+    "url": "https://forum.cardano.org/t/utxo-explained-in-37-seconds-how-a-simple-ada-payment-works/158522",
+    "description": "Cardano uses the UTXO model for its transactions. But in practice, how does it actually work? x.com Olivier Mwatsimulamo @OlivierMWATSIM1 Ethereum tracks balances in accounts. Bitcoin and @Cardano track coins as UTXOs: Unspent Transaction Outputs. How does that actually work? 👇 Think cash, not bank account. Your balance is simply the sum of your unspent outputs. Olivier holds two \"banknotes\": 60 ",
+    "publishedAt": "2026-11-25T05:30:56.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-25T05:33:11.045Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
