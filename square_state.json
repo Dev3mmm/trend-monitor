@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "BREAKING: SoftBank stock drops -15% today amid a renewed AI selloff, leaving it worth LESS than its OpenAI stake.",
-      "url": "https://x.com/coinbureau/status/2125478812234465781",
-      "images": [
-        "https://pbs.twimg.com/media/HX83sWZaoAA7gs3.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795588918574
-    },
-    {
       "text": "🇫🇷 NEW: The French Senate rejected a 2027 finance bill amendment that would have required taxpayers to declare self-hosted crypto wallets worth €100,000 or more.",
       "url": "https://x.com/Cointelegraph/status/2125484899146641827",
       "images": [
@@ -2791,7 +2782,16 @@
       "at": 1795591924017,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391990225550202?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "BREAKING: SoftBank stock drops -15% today amid a renewed AI selloff, leaving it worth LESS than its OpenAI stake.",
+      "final": "BREAKING: SoftBank stock drops -15% today amid a renewed AI selloff, leaving it worth LESS than its OpenAI stake.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HX83sWZaoAA7gs3.jpg"
+      ],
+      "at": 1795593722915,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795591924017
+  "lastPostAt": 1795593722915
 }
