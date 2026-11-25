@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795453366045-fhy7dy",
-    "source": "x",
-    "ts": "2026-11-23T17:02:46.046Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T17:01:42.000Z",
-    "reason": "No crypto-related content.",
-    "text": "🇺🇸 JUST IN: President Trump says he is not currently concerned about an AI bubble, per CNBC.",
-    "url": "https://x.com/Cointelegraph/status/2124911280544735364"
-  },
-  {
-    "id": "x-1795453371196-jcfawg",
-    "source": "x",
-    "ts": "2026-11-23T17:02:51.196Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 52,
-    "originTimestamp": "2026-11-23T16:09:57.000Z",
-    "reason": "No notable crypto-related event or use of crypto technology mentioned.",
-    "text": "Trump Says He \"Convinced\" Nvidia's Board To Reinstate Jensen Huang.\n\nTrump told CNBC the board \"did ask for assurance on the national security threat,\" adding, \"we gave them assurances at least with everything we know, and we know a lot.\"",
-    "url": "https://x.com/DecryptMedia/status/2124910855922040846"
-  },
-  {
     "id": "x-1795453936036-srzw50",
     "source": "x",
     "ts": "2026-11-23T17:12:16.036Z",
@@ -7816,6 +7790,40 @@
     "reason": "Notable regulatory move affecting a major geopolitical region.",
     "text": "🇺🇦JUST IN: Ukraine has officially legalized the crypto market.",
     "url": "https://x.com/BSCNews/status/2125536440981537114",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795603327189-aaoyur",
+    "source": "x",
+    "ts": "2026-11-25T10:42:07.189Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T10:39:42.000Z",
+    "reason": "Nvidia stock price movement is significant for crypto as it's a major player in the industry.",
+    "text": "BREAKING: Nvidia ($NVDA) drops another -5.2% premarket, erasing nearly half its rally since Jensen Huang returned as CEO.",
+    "url": "https://x.com/coinbureau/status/2125539922945982876",
+    "images": [
+      "https://pbs.twimg.com/media/HX9uIh-bQAAfUJe.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795603331860-rgjr8f",
+    "source": "x",
+    "ts": "2026-11-25T10:42:11.860Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-25T10:37:15.000Z",
+    "reason": "DMCA threat against GitHub repositories is notable regulatory and copyright action.",
+    "text": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
+    "url": "https://x.com/DecryptMedia/status/2125539303673483618",
     "images": [],
     "video": null
   }
