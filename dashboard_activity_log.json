@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795449175506-soq6ue",
-    "source": "x",
-    "ts": "2026-11-23T15:52:55.506Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T15:49:00.000Z",
-    "reason": "NVIDIA tokens live on two new blockchains.",
-    "text": "NVIDIA goes live on Sei Network and Near\n\nThe tokenized versions of NVIDIA ($NVDA), provided by Ondo Finance (@Ondo), are now live on both the Near (@NEARProtocol) and Sei (@SeiNetwork) blockchains.\n\nOn Near, traders can buy spot shares or perpetual contracts in $NVDA without",
-    "url": "https://x.com/BSCNews/status/2124892982801273309",
-    "images": [
-      "https://pbs.twimg.com/media/HX0fDCYXQAAM3ZP.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795449178597-o6p83s",
-    "source": "x",
-    "ts": "2026-11-23T15:52:58.597Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 117,
-    "originTimestamp": "2026-11-23T13:55:36.000Z",
-    "reason": "Not a crypto-related news item.",
-    "text": "🇮🇷BREAKING: Reports indicate that Iran may launch a direct long-range missile strike on Ukraine.",
-    "url": "https://x.com/BSCNews/status/2124891316634927403"
-  },
-  {
     "id": "x-1795449182283-cjoao5",
     "source": "x",
     "ts": "2026-11-23T15:53:02.283Z",
@@ -7827,5 +7796,36 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🎙️ INSIGHT: @stacks co-founder @muneeb thinks 2030 is a pretty reasonable year to focus on getting Bitcoin quantum upgrade done.\n\n#CHAINREACTION",
     "url": "https://x.com/Cointelegraph/status/2125500348383068560"
+  },
+  {
+    "id": "x-1795594937328-t2n7bd",
+    "source": "x",
+    "ts": "2026-11-25T08:22:17.328Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-25T08:18:22.000Z",
+    "reason": "No notable move in ETH price.",
+    "text": "SOLD OUT 🎟️\n\n#BinanceBlockchainWeek Bangkok is officially at full capacity.\n\nThank you to everyone who secured their spot. \n\nWe can’t wait to see you in Bangkok 🫡",
+    "url": "https://x.com/binance/status/2125504351968084242"
+  },
+  {
+    "id": "x-1795594942379-c870zg",
+    "source": "x",
+    "ts": "2026-11-25T08:22:22.379Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-25T08:15:30.000Z",
+    "reason": "Proposed EU sanctions on crypto platforms aiding Russian sanctions evasion.",
+    "text": "Crypto Exchanges Could Be Caught in The EU's New Russia Crackdown\n\nThe European Union wants to tighten sanctions on crypto platforms helping Russia bypass restrictions.\n\nIts proposed 22nd sanctions package includes a dedicated Crypto Sanctions Task Force. \n\nThe effort could",
+    "url": "https://x.com/BSCNews/status/2125503631525097600",
+    "images": [
+      "https://pbs.twimg.com/media/HX9DpPObsAEY2T1.png"
+    ],
+    "video": null
   }
 ]
