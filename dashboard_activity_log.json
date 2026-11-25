@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795442508058-yw18kc",
-    "source": "x",
-    "ts": "2026-11-23T14:01:48.058Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-23T14:01:10.000Z",
-    "reason": "No notable crypto-related event or use of crypto mentioned.",
-    "text": "BREAKING: Nvidia Reinstates Jensen Huang As CEO.\n\nThe board voted unanimously to reinstate Huang as president, CEO and board director effective immediately, saying input from senior levels of the U.S. government left it confident his return poses no national security risk.",
-    "url": "https://x.com/DecryptMedia/status/2124865847411786239"
-  },
-  {
-    "id": "x-1795442510634-osft4j",
-    "source": "x",
-    "ts": "2026-11-23T14:01:50.634Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-23T14:00:15.000Z",
-    "reason": "Innovative payment method for crypto projects.",
-    "text": "Paying a KOL, agency or media outlet in crypto?\n\nWith @JoobEscrow on @BNBChain, clients lock $USDT or $USDC in an audited contract, allowing providers to verify the funds before starting work.\n\nOnce accepted, payments cannot be cancelled or taken back unilaterally. Both parties",
-    "url": "https://x.com/BSCNews/status/2124865614695071871",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2124865543953887232/vid/avc1/720x720/i7ND3p40LN6-XFNu.mp4?tag=29",
-      "duration": 33,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124865543953887232/img/pMxLMxeBsPjkeEAF.jpg"
-    }
-  },
-  {
     "id": "x-1795442512875-le9agy",
     "source": "x",
     "ts": "2026-11-23T14:01:52.875Z",
@@ -7814,5 +7780,37 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "Understanding $ICP's big AI play.\n\nWe look closely at @dfinity's 'Caffeine' and what it could mean for the future of AI on the ultra-scalable chain ⬇️",
     "url": "https://x.com/BSCNews/status/2125426497829642287"
+  },
+  {
+    "id": "x-1795576924507-iux8pd",
+    "source": "x",
+    "ts": "2026-11-25T03:22:04.507Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-25T03:15:40.000Z",
+    "reason": "Crypto markets often react to global economic events, and tech stocks can affect sentiment in the crypto space.",
+    "text": "🚨 TODAY: Japan's Nikkei fell 2.8% on a chip stock selloff.\n\nSouth Korea's KOSPI plunged nearly 5% below 5,000 and triggered a circuit breaker.",
+    "url": "https://x.com/Cointelegraph/status/2125428178290200876",
+    "images": [
+      "https://pbs.twimg.com/media/HX8JqTmXUAA3Uwd.png",
+      "https://pbs.twimg.com/media/HX8JqgLXEAAa8jS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795576929106-u3odzs",
+    "source": "x",
+    "ts": "2026-11-25T03:22:09.106Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 74,
+    "originTimestamp": "2026-11-25T02:07:23.000Z",
+    "reason": "No notable move in price, price is within its recent range.",
+    "text": "More VIP perks, lower spreads.\n\nTrade U.S. stocks alongside crypto on Binance, with spreads dropping from 0.05% to as low as 0.01% as you level up.",
+    "url": "https://x.com/binance/status/2125427529607725502"
   }
 ]
