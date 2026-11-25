@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794228124006-depbwn",
     "x-1794228446368-r5rvc0",
     "x-1794228763048-adjyjg",
     "x-1794229508134-rs36s9",
@@ -1999,19 +1998,10 @@
     "x-1795586518322-jq11mk",
     "x-1795586525246-4przd2",
     "x-1795587880028-9b2myf",
-    "x-1795588917823-yfshqe"
+    "x-1795588917823-yfshqe",
+    "x-1795590144988-4i2zbd"
   ],
   "queue": [
-    {
-      "text": "🚨 NOW: Arthur Hayes says, \"$BTC will retest $55K,\" and tells traders to buckle up.",
-      "url": "https://x.com/Cointelegraph/status/2125462166861967581",
-      "images": [
-        "https://pbs.twimg.com/media/HX8okO7XYAAfYhk.jpg",
-        "https://pbs.twimg.com/media/HX8okxhWcAAE2TD.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795584765314
-    },
     {
       "text": "🔥 INTERESTING: A trader turned $19,000 in Nvidia call options into a $376,900 profit, a 1,984% gain, after Jensen Huang's return as CEO, per Bloomberg.",
       "url": "https://x.com/Cointelegraph/status/2125469749031166306",
@@ -2030,20 +2020,19 @@
       ],
       "video": null,
       "enqueuedAt": 1795588918574
+    },
+    {
+      "text": "🇫🇷 NEW: The French Senate rejected a 2027 finance bill amendment that would have required taxpayers to declare self-hosted crypto wallets worth €100,000 or more.",
+      "url": "https://x.com/Cointelegraph/status/2125484899146641827",
+      "images": [
+        "https://pbs.twimg.com/media/HX89P48XQAAso9h.jpg",
+        "https://pbs.twimg.com/media/HX89QFXXQAEcHIa.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795590151859
     }
   ],
   "posted": [
-    {
-      "text": "🇰🇷 ALERT: South Korea's Samsung Securities says a breach exposed the personal data of more than 8,000 clients, including names and home addresses, per Yonhap.\n\nIt's the latest cyberattack on the country's financial firms.",
-      "final": "🇰🇷 ALERT: South Korea's Samsung Securities says a breach exposed the personal data of more than 8,000 clients, including names and home addresses, per Yonhap.\n\nIt's the latest cyberattack on the country's financial firms.\n\n#Crypto",
-      "images": [
-        "https://pbs.twimg.com/media/HXyqGPvWgAAW7Xi.png",
-        "https://pbs.twimg.com/media/HXyqGfyWcAAXJk4.jpg"
-      ],
-      "at": 1795417340907,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/391275123813669?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🚨 TODAY: Only 8.2% of the $49.6B in tokenized assets is deployed in DeFi, which leaves about $45.5B unused onchain, per Token Terminal.",
       "final": "🚨 TODAY: Only 8.2% of the $49.6B in tokenized assets is deployed in DeFi, which leaves about $45.5B unused onchain, per Token Terminal.\n\n#Crypto",
@@ -2771,7 +2760,17 @@
       "at": 1795588318180,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391975440951304?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NOW: Arthur Hayes says, \"$BTC will retest $55K,\" and tells traders to buckle up.",
+      "final": "🚨 NOW: Arthur Hayes says, \"$BTC will retest $55K,\" and tells traders to buckle up.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HX8okO7XYAAfYhk.jpg",
+        "https://pbs.twimg.com/media/HX8okxhWcAAE2TD.jpg"
+      ],
+      "at": 1795590151859,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795588318180
+  "lastPostAt": 1795590151859
 }
