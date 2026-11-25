@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795485807569-053os8",
-    "source": "x",
-    "ts": "2026-11-24T02:03:27.569Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T02:01:01.000Z",
-    "reason": "Stellar's Protocol 30 upgrade now live on mainnet with new features.",
-    "text": "🔥 UPDATE: Stellar's Protocol 30 upgrade, \"Bell,\" is now live on mainnet, with business-scale smart accounts and support for quantum-safe signatures.",
-    "url": "https://x.com/Cointelegraph/status/2125047002299764923",
-    "images": [
-      "https://pbs.twimg.com/media/HX2u_HUWEAA00il.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795485811271-4vw5cx",
-    "source": "x",
-    "ts": "2026-11-24T02:03:31.271Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-24T02:00:02.000Z",
-    "reason": "No notable move in Ethereum supply or price, price is not outside its recent range.",
-    "text": "Tom Lee Says Ethereum Is as Scarce as Bitcoin And Bitmine Just Bought More\n\nChairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025, roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
-    "url": "https://x.com/DecryptMedia/status/2125046753850253564"
-  },
-  {
-    "id": "x-1795486982783-3q19ee",
-    "source": "x",
-    "ts": "2026-11-24T02:23:02.783Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 83,
-    "originTimestamp": "2026-11-24T01:00:01.000Z",
-    "reason": "No notable crypto news or move in the provided data.",
-    "text": "Same 10 coins, two indexes in Elan Insights. Weighted by market cap, $BTC and $ETH hold 84.96% and the other eight coins share 15.04%. Weight them equally and those eight get 80%.\n\nBuild both weightings: \nData only, not financial advice.",
-    "url": "https://x.com/BSCNews/status/2125051149434642620"
-  },
-  {
     "id": "x-1795486988925-3uxfup",
     "source": "x",
     "ts": "2026-11-24T02:23:08.925Z",
@@ -7816,6 +7772,50 @@
     "url": "https://x.com/WuBlockchain/status/2125644278684934206",
     "images": [
       "https://pbs.twimg.com/media/HX_OM9xaoAAqE5E.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795629122342-8kgz23",
+    "source": "x",
+    "ts": "2026-11-25T17:52:02.342Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T17:50:12.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "NOW: X pushes harder into short vertical video with new creator tools and payouts, saying video already takes 36% of all impressions.",
+    "url": "https://x.com/BSCNews/status/2125648261990261062"
+  },
+  {
+    "id": "x-1795629125585-ou1gky",
+    "source": "x",
+    "ts": "2026-11-25T17:52:05.585Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-25T17:47:15.000Z",
+    "reason": "No relevant information about cryptocurrency or crypto-related institutions.",
+    "text": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+    "url": "https://x.com/DecryptMedia/status/2125647517081563272"
+  },
+  {
+    "id": "x-1795629129844-ko3wpi",
+    "source": "x",
+    "ts": "2026-11-25T17:52:09.844Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-25T17:47:00.000Z",
+    "reason": "Notable institutional bridging event between two chains.",
+    "text": "LayerZero opens a bridge for Canton Coin to BNB Chain\n\n@LayerZero_Core ($ZRO) now lets holders move Canton Coin ($CC) off @CantonNetwork and onto @BNBCHAIN, where it trades on @PancakeFi.\n\nEach bridged CC is backed 1:1 by native CC. The transfers run through LayerZero's",
+    "url": "https://x.com/BSCNews/status/2125647453798170811",
+    "images": [
+      "https://pbs.twimg.com/media/HX_NZ7GWYAAQbeU.jpg"
     ],
     "video": null
   }
