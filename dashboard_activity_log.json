@@ -1,26 +1,5 @@
 [
   {
-    "id": "x-1795519338191-b9jmzx",
-    "source": "x",
-    "ts": "2026-11-24T11:22:18.191Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Rarma",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-24T11:17:50.000Z",
-    "reason": "Potential security incident with stolen USDC.",
-    "text": "A wallet publicly linked to @blknoiz06  was emptied this morning. Was it hacked? Here is what the chain shows, as of 11:05 UTC.\n\nWallet: GV6UUmNxz2RpKxmNAPadYKb7uQpszwqQAu3qLJxVdC52 ()\n\nWhat happened\n• 06:46 UTC: the cash goes first. All of its USDC",
-    "url": "https://x.com/Rarma_/status/2125187130679046264",
-    "images": [
-      "https://pbs.twimg.com/media/HX4uFv8aYAAuKft.jpg",
-      "https://pbs.twimg.com/media/HX4uIHAbYAAE6kc.jpg",
-      "https://pbs.twimg.com/media/HX4uJGybkAAsjzN.jpg",
-      "https://pbs.twimg.com/media/HX4uKYMbgAAoCck.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795519340928-sdwnin",
     "source": "x",
     "ts": "2026-11-24T11:22:20.928Z",
@@ -7773,6 +7752,22 @@
     "images": [
       "https://pbs.twimg.com/media/HYAI9C-W0AA8uCB.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795645948141-4jw3nm",
+    "source": "x",
+    "ts": "2026-11-25T22:32:28.141Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-25T22:27:34.000Z",
+    "reason": "Cybersecurity breach affecting customer data but not passwords.",
+    "text": "JUST IN: 1Password says an attacker gained access to its backend systems via an employee's GitHub account and copied customer names and email addresses, but password vaults were not affected.",
+    "url": "https://x.com/BSCNews/status/2125718061714219172",
+    "images": [],
     "video": null
   }
 ]
