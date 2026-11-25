@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1795460520392-5790mm",
-    "source": "x",
-    "ts": "2026-11-23T19:02:00.392Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 45,
-    "originTimestamp": "2026-11-23T18:17:00.000Z",
-    "reason": "Notable moves in crypto and tech markets mentioned.",
-    "text": "Bitwise's Ryan Rasmussen on Nvidia lighting up markets:\n\n\"This morning we saw what could be the initial spark to this fiery market going forward.\"\n\n\"The NASDAQ was up 6.5%, the S&amp;P was up 5%, we had a nice candle across crypto assets, and Nvidia's up something like 30%.\"",
-    "url": "https://x.com/BitcoinMagazine/status/2124940313122775052",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2124930177067053056/vid/avc1/1280x720/-LCxO0mibm1SXaon.mp4?tag=29",
-      "duration": 44,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124930177067053056/img/JugNYzTAwVvi5Wa_.jpg"
-    }
-  },
-  {
-    "id": "x-1795460522908-a4v79f",
-    "source": "x",
-    "ts": "2026-11-23T19:02:02.908Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 29,
-    "originTimestamp": "2026-11-23T18:33:02.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "It's my X birthday, been here now 20 years.\n\nX is best for AI. \n\nAnd AI's best here on X is here. Very awesome to watch on high-news days, like today. \n\nOr, even better, have your GrokBot watch it, along with any of my other 65 lists (most complete here on X of AI, tech, news):",
-    "url": "https://x.com/elonmusk/status/2124940153416245721"
-  },
-  {
-    "id": "x-1795461294394-cga1tg",
-    "source": "x",
-    "ts": "2026-11-23T19:14:54.394Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Michael Saylor",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-23T19:07:21.000Z",
-    "reason": "Generic statement without factual claim or action.",
-    "text": "We don't need a ₿ailout.",
-    "url": "https://x.com/saylor/status/2124942899356082554"
-  },
-  {
     "id": "x-1795461297146-5srpbv",
     "source": "x",
     "ts": "2026-11-23T19:14:57.146Z",
@@ -7833,6 +7786,57 @@
     "images": [
       "https://pbs.twimg.com/media/HX-PwosWEAA50j5.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795612934949-l81zkk",
+    "source": "x",
+    "ts": "2026-11-25T13:22:14.949Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T13:20:41.000Z",
+    "reason": "Franklin Templeton's addition of a non-major crypto to its index ETF is notable institutional interest.",
+    "text": "🔥 NEW: Franklin Templeton will add Hyperliquid $HYPE to its crypto index ETF $EZPZ on Dec. 1, joining BTC, ETH, XRP, SOL, DOGE, ADA and XLM.",
+    "url": "https://x.com/Cointelegraph/status/2125580433177879018",
+    "images": [
+      "https://pbs.twimg.com/media/HX-UInAXkAA0mi6.jpg",
+      "https://pbs.twimg.com/media/HX-UI5iWYAAHPGS.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795612937859-7qybwq",
+    "source": "x",
+    "ts": "2026-11-25T13:22:17.859Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T13:20:23.000Z",
+    "reason": "Proposed tariffs could affect crypto trade and investments.",
+    "text": "🇺🇸JUST IN: The United States proposes tariffs on the EU up to 20% following trade probe.",
+    "url": "https://x.com/BSCNews/status/2125580359148380322",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795612940801-q0q3gg",
+    "source": "x",
+    "ts": "2026-11-25T13:22:20.801Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-25T13:16:30.000Z",
+    "reason": "Notable regulatory move affecting cryptocurrency users.",
+    "text": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+    "url": "https://x.com/DecryptMedia/status/2125579379933630611",
+    "images": [],
     "video": null
   }
 ]
