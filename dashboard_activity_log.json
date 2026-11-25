@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795439530177-lb20fw",
-    "source": "x",
-    "ts": "2026-11-23T13:12:10.177Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-23T13:09:30.000Z",
-    "reason": "Czech Authorities taking action against an unlicensed crypto casino",
-    "text": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
-    "url": "https://x.com/DecryptMedia/status/2124852842640912705",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795439535664-eemnie",
-    "source": "x",
-    "ts": "2026-11-23T13:12:15.664Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Bitcoin Magazine",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T13:07:11.000Z",
-    "reason": "Michael Saylor's significant BTC purchase is noteworthy as it involves a notable figure in the crypto space.",
-    "text": "BREAKING: Michael Saylor's Strategy buys 457 BTC worth $27.9 million 🚀",
-    "url": "https://x.com/BitcoinMagazine/status/2124852259330683349",
-    "images": [
-      "https://pbs.twimg.com/media/HXz915vWkAAa5ea.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795439541126-ue8vx9",
     "source": "x",
     "ts": "2026-11-23T13:12:21.126Z",
@@ -7829,5 +7795,31 @@
       "https://pbs.twimg.com/media/HX4NieRW0AA64wP.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795569720312-8uiilp",
+    "source": "x",
+    "ts": "2026-11-25T01:22:00.312Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-25T01:17:17.000Z",
+    "reason": "No notable move in crypto related content.",
+    "text": "我最近看 X 已经不在看“为你推荐”了，而是改回看关注的小伙伴内容，感觉这个世界终于安静下来了。\n\nX 已经越来越像是 抖音 + 小红书 + 恶趣味版的知乎，我经常是刷了一天推荐内容都看不到两条和真实加密货币相关的内容。\n\n即便是我已经做到了这种程度 😂😂 我的内容区仍然是大量的小红书风格。",
+    "url": "https://x.com/PhyrexNi/status/2125398386434289877"
+  },
+  {
+    "id": "x-1795569726055-981243",
+    "source": "x",
+    "ts": "2026-11-25T01:22:06.055Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-25T01:16:55.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇰🇷 BREAKING: South Korea's Kospi has crashed nearly 48% since June, wiping out about $1.9 TRILLION.\n\nThe index has fallen from a record close of 9,114 to under 4,800 in 156 days.\n\nToday it fell as much as 5.1%, erasing most of Tuesday's 6.3% surge.\n\nThe slide included the first",
+    "url": "https://x.com/coinbureau/status/2125398292066685277"
   }
 ]
