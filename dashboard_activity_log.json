@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1795452839306-m6urfd",
-    "source": "x",
-    "ts": "2026-11-23T16:53:59.306Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T16:47:41.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "People who understand you, don't need explanation, while those who want an explanation don't want to understand you.\n\nRefuse to give attention to people who have chosen to gaslight you.",
-    "url": "https://x.com/amerix/status/2124907751541227981"
-  },
-  {
-    "id": "x-1795452843238-kq0006",
-    "source": "x",
-    "ts": "2026-11-23T16:54:03.238Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-23T16:47:15.000Z",
-    "reason": "Specific institutional statement about Ethereum value.",
-    "text": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-    "url": "https://x.com/DecryptMedia/status/2124907643667951827",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795453362522-g3j71m",
-    "source": "x",
-    "ts": "2026-11-23T17:02:42.522Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Michael Saylor",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-23T17:02:03.000Z",
-    "reason": "Regulatory and financial move impacting the token's value and financial health.",
-    "text": "Over the past 13 weeks, our $STRC buybacks and related capital markets activity have reduced our Annual Int + Div by $296M and added $1.81B to our Net Reserve. It is time to put our fortress balance sheet to work.",
-    "url": "https://x.com/saylor/status/2124911367786295660",
-    "images": [
-      "https://pbs.twimg.com/media/HX0zoOZWgAEWkOJ.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795453366045-fhy7dy",
     "source": "x",
     "ts": "2026-11-23T17:02:46.046Z",
@@ -7820,5 +7773,50 @@
     "reason": "No notable move in tech stocks as the prices are within recent ranges.",
     "text": "Tech stocks in pre-market:\n\nDell, $DELL: -7.7%\nArm, $ARM: -6.2%\nIntel, $INTC: -3.8%\nAMD, $AMD: -5.9%\nTesla, $TSLA: -2.6%\nMicron, $MU: -5.9%\nTSMC, $TSM: -3.2%\nNvidia, $NVDA: -5.1%\nNebius, $NBIS: -5.9%\nSeagate, $STX: -4.9%\nPalantir, $PLTR: -3.9%\nOracle, $ORCL: -4.2%\nSpaceX, $SPCX:",
     "url": "https://x.com/coinbureau/status/2125533418146738571"
+  },
+  {
+    "id": "x-1795602774317-fxur5p",
+    "source": "x",
+    "ts": "2026-11-25T10:32:54.317Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T10:30:01.000Z",
+    "reason": "No notable crypto-related event described.",
+    "text": "South Korea's KOSPI Sinks 6.16%, Closing Below 5,000 A Day After A 6.32% Jump.\n\nSamsung Electronics fell 9.87% and SK hynix 11.05% on Nov. 25, while the Korea Exchange activated a sell-side sidecar suspending program trading for KOSPI-listed shares for five minutes.",
+    "url": "https://x.com/DecryptMedia/status/2125537483161235583"
+  },
+  {
+    "id": "x-1795602779790-ikd5t6",
+    "source": "x",
+    "ts": "2026-11-25T10:32:59.790Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-25T10:29:54.000Z",
+    "reason": "The EU's potential investment fund could impact AI and quantum computing projects, potentially affecting crypto.",
+    "text": "🇪🇺 LATEST: The EU is planning a fund of up to $55B to invest in AI and quantum computing companies, per FT. \n\nThe initiative aims to reduce Europe's reliance on US and Chinese technology.",
+    "url": "https://x.com/Cointelegraph/status/2125537456476877273",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795602783412-i9m5jn",
+    "source": "x",
+    "ts": "2026-11-25T10:33:03.412Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-25T10:25:52.000Z",
+    "reason": "Notable regulatory move affecting a major geopolitical region.",
+    "text": "🇺🇦JUST IN: Ukraine has officially legalized the crypto market.",
+    "url": "https://x.com/BSCNews/status/2125536440981537114",
+    "images": [],
+    "video": null
   }
 ]
