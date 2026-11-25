@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795449763596-fgbvlt",
-    "source": "x",
-    "ts": "2026-11-23T16:02:43.596Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coinbase 🛡️",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-23T15:58:09.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "This was all it took.",
-    "url": "https://x.com/coinbase/status/2124895286040601084"
-  },
-  {
     "id": "x-1795449767327-ahnswk",
     "source": "x",
     "ts": "2026-11-23T16:02:47.327Z",
@@ -7826,5 +7813,21 @@
     "reason": "No direct crypto-related content.",
     "text": "JUST IN: Donald Trump says Iran war is funded through January, warns Democrats could turn a “Total Win” into a “Loss.”",
     "url": "https://x.com/BSCNews/status/2125508932689158487"
+  },
+  {
+    "id": "x-1795596737831-b8evks",
+    "source": "x",
+    "ts": "2026-11-25T08:52:17.831Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-25T08:50:51.000Z",
+    "reason": "Notable institution adoption outside of crypto trading.",
+    "text": "Algorand (@Algorand) $ALGO is finding use cases far beyond crypto trading. \n\nFrom Afghanistan's aid programs to Canada's banking sector, here's where institutions are using the network 👇",
+    "url": "https://x.com/BSCNews/status/2125512526742081698",
+    "images": [],
+    "video": null
   }
 ]
