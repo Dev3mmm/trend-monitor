@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1794226332051-930n6h",
-    "x-1794226956315-u0gf0v",
     "x-1794227545277-0iqbyn",
     "x-1794227551788-3b2wl2",
     "x-1794228124006-depbwn",
@@ -1999,18 +1997,11 @@
     "x-1795582926178-yvm8sz",
     "x-1795583520616-830sh4",
     "x-1795584754558-w5vpop",
-    "x-1795584764670-jpmkuj"
+    "x-1795584764670-jpmkuj",
+    "x-1795586518322-jq11mk",
+    "x-1795586525246-4przd2"
   ],
   "queue": [
-    {
-      "text": "🚨 JUST IN: The US Treasury's financial crimes unit FinCEN disclosed a cybersecurity incident that gave unauthorized access to part of its systems.\n\nIt has taken some systems offline as a precaution.",
-      "url": "https://x.com/Cointelegraph/status/2125438553958039905",
-      "images": [
-        "https://pbs.twimg.com/media/HX8TGcEXgAAXNbh.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795579363643
-    },
     {
       "text": "🇺🇸 NEW: US House Democrats have sought records from Polymarket and three other firms tied to Donald Trump Jr.'s venture firm 1789 Capital as they expand their probe into his investments, per Reuters.",
       "url": "https://x.com/Cointelegraph/status/2125454643484414271",
@@ -2030,6 +2021,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795584765314
+    },
+    {
+      "text": "🔥 INTERESTING: A trader turned $19,000 in Nvidia call options into a $376,900 profit, a 1,984% gain, after Jensen Huang's return as CEO, per Bloomberg.",
+      "url": "https://x.com/Cointelegraph/status/2125469749031166306",
+      "images": [
+        "https://pbs.twimg.com/media/HX8veAsWYAAuJDa.jpg",
+        "https://pbs.twimg.com/media/HX8veODX0AAxZ_B.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795586525705
     }
   ],
   "posted": [
@@ -2762,7 +2763,16 @@
       "at": 1795584765314,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/391960893175625?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 JUST IN: The US Treasury's financial crimes unit FinCEN disclosed a cybersecurity incident that gave unauthorized access to part of its systems.\n\nIt has taken some systems offline as a precaution.",
+      "final": "🚨 JUST IN: The US Treasury's financial crimes unit FinCEN disclosed a cybersecurity incident that gave unauthorized access to part of its systems.\n\nIt has taken some systems offline as a precaution.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HX8TGcEXgAAXNbh.jpg"
+      ],
+      "at": 1795586525705,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795584765314
+  "lastPostAt": 1795586525705
 }
