@@ -3542,5 +3542,19 @@
     "fetchedAt": "2026-11-25T12:03:35.394Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-0769152d6d3d9b20",
+    "title": "Peras Weekly Update : 20 November 2026",
+    "url": "https://forum.cardano.org/t/peras-weekly-update-20-november-2026/158527",
+    "description": "Last week, the Object Diffusion Network PR was merged, the team completed the implementation of Peras 83, and certificate validation was prototyped in Ledger. Testnet work included a new Peras dashboard and tools for analysing logs. Ledger Integration Worked on integrating BLS keys to replace temporary workarounds. Prototyped certificate validation in Ledger. Consensus Rebased, cleaned up and stac",
+    "publishedAt": "2026-11-25T12:59:06.000Z",
+    "source": "Cardano Forum",
+    "sourceType": "protocol",
+    "sourceKind": "forum",
+    "translated": false,
+    "fetchedAt": "2026-11-25T13:02:56.738Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]
