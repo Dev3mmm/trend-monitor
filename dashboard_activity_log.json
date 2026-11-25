@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795521713124-7vn0b2",
-    "source": "x",
-    "ts": "2026-11-24T12:01:53.124Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-24T12:01:10.000Z",
-    "reason": "Bitcoin's bear market length is record-breaking.",
-    "text": "🚨 INSIGHT: Bitcoin's bear market is now its longest on record at 411+ days, but also its shallowest, per Grayscale.",
-    "url": "https://x.com/Cointelegraph/status/2125198033256067263",
-    "images": [
-      "https://pbs.twimg.com/media/HX44WFaXUAErj17.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795521715416-pup0nf",
-    "source": "x",
-    "ts": "2026-11-24T12:01:55.416Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T12:00:02.000Z",
-    "reason": "Specific and verifiable reference to a Bitcoin cycle analysis.",
-    "text": "\"No one's been able to show me that we're not.\" @farokh says Bitcoin is still tracking the four-year cycle, with BTC's weekend low near $55,000 landing four years to the day after its November 2022 bottom.",
-    "url": "https://x.com/DecryptMedia/status/2125197751738884341",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2124933853793927168/vid/avc1/1280x720/7XNYZySaKoh5bxsD.mp4?tag=29",
-      "duration": 53,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124933853793927168/img/bqvgJv8NPllrpKYI.jpg"
-    }
-  },
-  {
     "id": "x-1795521717510-es2pj2",
     "source": "x",
     "ts": "2026-11-24T12:01:57.510Z",
@@ -7764,5 +7725,44 @@
     "reason": "No notable crypto-related news mentioned.",
     "text": "🇺🇸 JUST IN: Trump administration officials reportedly considered the Defense Production Act as a way to pressure Nvidia into reinstating Jensen Huang as CEO, per The Washington Post. \n\nThe Pentagon denies the talks took place.",
     "url": "https://x.com/Cointelegraph/status/2125733962345599197"
+  },
+  {
+    "id": "x-1795650718817-tq3j6g",
+    "source": "x",
+    "ts": "2026-11-25T23:51:58.817Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-25T23:51:00.000Z",
+    "reason": "ETH staking demand and total locked ETH are falling significantly.",
+    "text": "ETH staking demand is falling...\n\nAs of now, there is 687,559 $ETH waiting to be staked on @Ethereum mainnet. The coins are worth just over $1.1B.\n\nThis sounds like a lot but, just ~6 months ago, the total stood at around 3.7 MILLION $ETH.\n\nThe figure has been falling since early",
+    "url": "https://x.com/BSCNews/status/2125739057225335193",
+    "images": [
+      "https://pbs.twimg.com/media/HX93MopWIAAlD_k.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795650724565-zrh969",
+    "source": "x",
+    "ts": "2026-11-25T23:52:04.565Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 19,
+    "originTimestamp": "2026-11-25T23:32:09.000Z",
+    "reason": "Notable boardroom drama with a high-profile executive and potential regulatory involvement.",
+    "text": "News update: Nvidia's boardroom drama just got bigger 🚨\n\nJensen Huang reportedly told directors more than what was already public before the unanimous vote to reinstate him. The probe is still going, and Trump has weighed in too.\n\nHere's the breakdown ⬇️\n\nFull story:",
+    "url": "https://x.com/BSCNews/status/2125737989561303463",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125734248812314624/vid/avc1/1280x720/JoNIC7bBLqExuWfA.mp4?tag=29",
+      "duration": 70,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125734248812314624/img/PlpGtEKjIF9uh2Wc.jpg"
+    }
   }
 ]
