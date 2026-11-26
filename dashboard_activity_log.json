@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795535542681-smxbb0",
-    "source": "x",
-    "ts": "2026-11-24T15:52:22.681Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-24T15:49:13.000Z",
-    "reason": "Uniswap handling a significant percentage of trading volume for a tokenized stock.",
-    "text": "JUST IN: @Uniswap handled almost 30% of the total trading volume for tokenized $NVDA stock worth ~ $697M, per Token Terminal.",
-    "url": "https://x.com/BSCNews/status/2125255425226403867",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795535545843-zgbwz7",
     "source": "x",
     "ts": "2026-11-24T15:52:25.843Z",
@@ -7807,6 +7791,25 @@
     "url": "https://x.com/BSCNews/status/2125825786997514652",
     "images": [
       "https://pbs.twimg.com/media/HYBwONMasAAHW6k.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795672325588-ag6h2n",
+    "source": "x",
+    "ts": "2026-11-26T05:52:05.588Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-26T05:45:40.000Z",
+    "reason": "Blockchain industry news, but no specific crypto-related event or price movement.",
+    "text": "🚨 NOW: Nvidia has told partners to halt server shipments to Malaysia, Singapore, Thailand and Indonesia as the US tightens chip export controls on China, per FT.",
+    "url": "https://x.com/Cointelegraph/status/2125828313851593160",
+    "images": [
+      "https://pbs.twimg.com/media/HYB1lRVWQAA6WHB.jpg",
+      "https://pbs.twimg.com/media/HYB1lefXsAAWCvb.jpg"
     ],
     "video": null
   }
