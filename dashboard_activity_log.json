@@ -1,24 +1,5 @@
 [
   {
-    "id": "x-1795599757159-r8jgde",
-    "source": "x",
-    "ts": "2026-11-25T09:42:37.159Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T09:40:41.000Z",
-    "reason": "Specific institutional announcement about new digital asset platform.",
-    "text": "🇭🇰 LATEST: The Hong Kong Monetary Authority launches the CMU Digital Asset Platform to facilitate the issuance, settlement and tokenization of debt securities.",
-    "url": "https://x.com/Cointelegraph/status/2125525068595732635",
-    "images": [
-      "https://pbs.twimg.com/media/HX9hx9VWwAA3Fy3.jpg",
-      "https://pbs.twimg.com/media/HX9hyKSWEAA3rTK.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795600398237-wqfidn",
     "source": "x",
     "ts": "2026-11-25T09:53:18.237Z",
@@ -7658,5 +7639,18 @@
     "url": "https://x.com/BSCNews/status/2126050374649815348",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795725712868-k5nz13",
+    "source": "x",
+    "ts": "2026-11-26T20:41:52.868Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-26T20:41:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Stellar's new developer docs are built for AI agents as well as people\n\nThe new @StellarOrg developer homepage and docs went live today, aimed at teams and AI coding agents building on the stellar:native network.\n\nAgents can plug into Stellar Raven, a server that hands them the",
+    "url": "https://x.com/BSCNews/status/2126053630058864972"
   }
 ]
