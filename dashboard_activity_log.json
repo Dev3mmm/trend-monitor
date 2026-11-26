@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795552963131-25942l",
-    "source": "x",
-    "ts": "2026-11-24T20:42:43.131Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-24T20:37:15.000Z",
-    "reason": "Not a concrete news item, more of a statement from the Ethereum Foundation.",
-    "text": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-    "url": "https://x.com/DecryptMedia/status/2125327910466715648",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795552966978-1a6lcy",
-    "source": "x",
-    "ts": "2026-11-24T20:42:46.978Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 4,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-24T20:34:56.000Z",
-    "reason": "New use of token with a large reward pool for user engagement.",
-    "text": "Up to 20 million $PI is on the table to pull users into new Pi Network (@PiCoreTeam) apps. Who can earn it, and how? ⬇️",
-    "url": "https://x.com/BSCNews/status/2125327327500411023",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795553518845-slndnc",
-    "source": "x",
-    "ts": "2026-11-24T20:51:58.845Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-24T20:46:00.000Z",
-    "reason": "No notable move in crypto news.",
-    "text": "Spain and Portugal face EU action over MiCA rules\n\nThe European Commission opened an infringement case against Spain on Thursday. Madrid has not fully written the changes MiCA made to EU banking rules into national law, and has not told Brussels how it applies several MiCA",
-    "url": "https://x.com/BSCNews/status/2125330112874991886"
-  },
-  {
     "id": "x-1795554103034-jkx9ok",
     "source": "x",
     "ts": "2026-11-24T21:01:43.034Z",
@@ -7744,5 +7699,58 @@
     "reason": "No notable move or specific event mentioned.",
     "text": "Will as many as are of that opinion say \"Ayeeee!\"\n\nWill those of the contrary opinion say \"Naaaaay\"",
     "url": "https://x.com/amerix/status/2125932005934133324"
+  },
+  {
+    "id": "x-1795697601301-dafh2u",
+    "source": "x",
+    "ts": "2026-11-26T12:53:21.301Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-26T12:49:49.000Z",
+    "reason": "Newsworthy geopolitical event involving military consultations.",
+    "text": "🇨🇳🇷🇺NEW: China Defense Ministry confirms that the Chinese &amp; Russian Militaries held \"strategic consultations\" via video link.",
+    "url": "https://x.com/BSCNews/status/2125935053133807744",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795697605331-piies0",
+    "source": "x",
+    "ts": "2026-11-26T12:53:25.331Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-26T12:46:00.000Z",
+    "reason": "Surging deposits indicate significant activity and growth in the Sui network.",
+    "text": "Deposits on Sui Are Surging, and Fluid Is the Reason\n\nFluid (@0xFluid) has crossed $47M in total user deposits on Sui (@SuiNetwork), just a week after its November 19 launch.\n\nAccording to on-chain data, there was a spike within the last 48 hours. \n\nTotal liquidity surged from",
+    "url": "https://x.com/BSCNews/status/2125934092927520997",
+    "images": [
+      "https://pbs.twimg.com/media/HYDS8F_WcAAu6SP.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795697608461-vgrwg7",
+    "source": "x",
+    "ts": "2026-11-26T12:53:28.461Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-26T12:45:00.000Z",
+    "reason": "Regulatory move impacting Bitcoin.",
+    "text": "Bitcoin Reserve Bill With A 20-Year Holding Requirement Reaches The House Union Calendar.\n\nThe House Financial Services Committee, which voted 28-21 on Sept. 16 to report H.R. 8957, filed its report on Nov. 24; the bill has not passed the House.",
+    "url": "https://x.com/DecryptMedia/status/2125933841307037823",
+    "images": [
+      "https://pbs.twimg.com/media/HYCnw5KW8AAG1ss.jpg",
+      "https://pbs.twimg.com/media/HYCoX2zXEAEJhf-.jpg"
+    ],
+    "video": null
   }
 ]
