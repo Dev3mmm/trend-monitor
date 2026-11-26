@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795525359350-m0a4ly",
-    "source": "x",
-    "ts": "2026-11-24T13:02:39.350Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T13:01:31.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🚨 TODAY: Tech and chip stocks cool off in premarket after Monday's big surge.\n\n• $MU: -6.66%\n• $INTC: -6.26%\n• $NVDA: -5.41%\n• $ANT: -4.95%\n• $CRWV: -4.80%\n• $IREN: -4.64%\n• $NBIS: -4.40%\n• $SMCI: -4.28%\n• $AMD: -4.08%\n• $MSTR: -3.44%\n• $ORCL: -3.07%\n\nHealthy pullback",
-    "url": "https://x.com/Cointelegraph/status/2125213221741076677"
-  },
-  {
-    "id": "x-1795525364701-nogm3q",
-    "source": "x",
-    "ts": "2026-11-24T13:02:44.701Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T13:00:03.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "OpenAI And Cisco Release Shirudo, An Open-Source Runtime To Shield Linux Systems While Patches Roll Out.\n\nIn a controlled test, OpenAI said, a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring a restart.",
-    "url": "https://x.com/DecryptMedia/status/2125212853288505735"
-  },
-  {
-    "id": "x-1795525371461-by293y",
-    "source": "x",
-    "ts": "2026-11-24T13:02:51.461Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 98,
-    "originTimestamp": "2026-11-24T11:24:18.000Z",
-    "reason": "Ansem identified as a scammer by the X community.",
-    "text": "UPDATE: @X Community Note says Ansem conveniently sold his $ANSEM position and transferred it to another wallet. \n\nThe post reads: \"Ansem is a scammer (liar) who has a history of promoting tokens, selling shortly after the price inflates &amp; pretending he is loyal to followers.\"",
-    "url": "https://x.com/BSCNews/status/2125212745180332105",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795525930000-c0quok",
     "source": "x",
     "ts": "2026-11-24T13:12:10.000Z",
@@ -7767,5 +7725,54 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Polkadot still the world's most decentralised blockchain...?!\n\nAccording to data from @chainspect_app, @Polkadot $DOT is still the industry's #1 most decentralised blockchain by Nakamoto Coefficient.\n\nIt boasts 400 validators and a Nakamoto Coefficient of 118, placing it well",
     "url": "https://x.com/BSCNews/status/2125747362031353990"
+  },
+  {
+    "id": "x-1795654932211-34ldkp",
+    "source": "x",
+    "ts": "2026-11-26T01:02:12.212Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-26T01:00:50.000Z",
+    "reason": "No notable crypto-related news or move is indicated.",
+    "text": "🚨 LATEST: Leopold Aschenbrenner's Situational Awareness lost 65% in Q3 but is still up 88.5% for the year, per WSJ.\n\nHe told investors opportunities today \"are the highest potential return we have seen.\"",
+    "url": "https://x.com/Cointelegraph/status/2125756632139260011"
+  },
+  {
+    "id": "x-1795654936527-fxso5v",
+    "source": "x",
+    "ts": "2026-11-26T01:02:16.527Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-26T00:57:38.000Z",
+    "reason": "Galaxy withdraws bear market call, citing potential downside to Bitcoin prices.",
+    "text": "Galaxy Withdraws Bitcoin Bear Market Bottom Call, Citing Potential Downside to $48,500 or $28,200\n\nGalaxy Head of Firmwide Research Alex Thorn @intangiblecoins  withdrew his October call that Bitcoin’s bear market had ended in June, after BTC lost both its 50-week and 200-week",
+    "url": "https://x.com/WuBlockchain/status/2125755828112412888",
+    "images": [
+      "https://pbs.twimg.com/media/HYAzbILbAAAFGiQ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795654940460-i8w9l1",
+    "source": "x",
+    "ts": "2026-11-26T01:02:20.460Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-26T00:57:00.000Z",
+    "reason": "Notable cross-chain interoperability for a high-value token.",
+    "text": "LayerZero brings interoperability to Ondo's USDY.\n\nThrough @LayerZero_Core's OFT standard, @ondo's industry-leading $USDY asset can now move seamlessly between @ethereum and @StellarOrg.\n\nWith a market cap of nearly $2.4B at time of writing, $ONDO's yield-bearing token is widely",
+    "url": "https://x.com/BSCNews/status/2125755666740707830",
+    "images": [
+      "https://pbs.twimg.com/media/HX93UO-XQAAO-cd.jpg"
+    ],
+    "video": null
   }
 ]
