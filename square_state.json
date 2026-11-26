@@ -1,9 +1,5 @@
 {
   "seen": [
-    "x-1794315715353-pxp61u",
-    "x-1794316341701-zcwuqe",
-    "x-1794316343839-lx1cvt",
-    "x-1794316936694-ndvpl1",
     "x-1794317581992-tobi1x",
     "x-1794318222014-bpdag8",
     "x-1794318226664-n2jumv",
@@ -1999,19 +1995,13 @@
     "x-1795664768945-60gc53",
     "x-1795664771574-9tgg4i",
     "x-1795665720549-2us301",
-    "x-1795666339537-864gnm"
+    "x-1795666339537-864gnm",
+    "x-1795667529764-8s6kxw",
+    "x-1795667532648-3cvjqm",
+    "x-1795667535752-u5jkdb",
+    "x-1795667539216-yra0ve"
   ],
   "queue": [
-    {
-      "text": "🔥 NEW: Elon Musk and SpaceX will each donate one SpaceX share to every active Trump Account, per CNBC.",
-      "url": "https://x.com/Cointelegraph/status/2125794378769735869",
-      "images": [
-        "https://pbs.twimg.com/media/HYBWs6IXYAAorDs.jpg",
-        "https://pbs.twimg.com/media/HYBWuMWW4AA3VPr.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795664208087
-    },
     {
       "text": "🇭🇰 BIG: HSBC's Hong Kong dollar-backed stablecoin RedCoin drew over 100,000 users in its first month after launch, per SCMP.",
       "url": "https://x.com/Cointelegraph/status/2125796453784105051",
@@ -2021,20 +2011,31 @@
       ],
       "video": null,
       "enqueuedAt": 1795664772132
+    },
+    {
+      "text": "🔥 NEW: Aave launches its savings app worldwide on iOS and Android, with up to 7.25% APY paid every second and no lockups.",
+      "url": "https://x.com/Cointelegraph/status/2125805494950613472",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2125621202609733632/vid/avc1/1280x720/UvZucnAUnwAvX0qm.mp4?tag=29",
+        "duration": 56,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125621202609733632/img/-GcpAk8xFCbjo7Ly.jpg"
+      },
+      "enqueuedAt": 1795667542564
+    },
+    {
+      "text": "🇺🇸 Isn't it INSANE how these six politicians timed the Nvidia stock crash to perfection?\n\n- Dan Meuser - Ro Khanna - Harriet Hageman - Pete Sessions - Gil Cisneros - Michael Rulli.\n\nAll six reportedly sold or reduced their Nvidia exposure just ahead of the major decline, avoiding",
+      "url": "https://x.com/coinbureau/status/2125804919605346719",
+      "images": [
+        "https://pbs.twimg.com/media/HYBgS6naUAAyG75.jpg",
+        "https://pbs.twimg.com/media/HYBgS6dbYAA-S66.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795667542564
     }
   ],
   "posted": [
-    {
-      "text": "🚨 JUST IN: Over $70M liquidated in the past hour, with longs taking $67M of the hit, as bitcoin:native drops below $60,000.",
-      "final": "🚨 JUST IN: Over $70M liquidated in the past hour, with longs taking $67M of the hit, as bitcoin:native drops below $60,000.\n\n#Bitcoin $BTC",
-      "images": [
-        "https://pbs.twimg.com/media/HX3Awc0b0AAANdd.jpg",
-        "https://pbs.twimg.com/media/HX3AyTAakAA-pPL.jpg"
-      ],
-      "at": 1795494723359,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/391592090609738?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "BREAKING: Bitcoin falls under its $60,000 support as Ethereum falls back under $1,700 \n\nNearly $900 MILLION in leveraged positions erased in the past 24 hrs.",
       "final": "BREAKING: Bitcoin falls under its $60,000 support as Ethereum falls back under $1,700 \n\nNearly $900 MILLION in leveraged positions erased in the past 24 hrs.\n\n#Bitcoin $BTC #Ethereum $ETH",
@@ -2656,7 +2657,17 @@
       "at": 1795665726060,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392292546354711?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🔥 NEW: Elon Musk and SpaceX will each donate one SpaceX share to every active Trump Account, per CNBC.",
+      "final": "🔥 NEW: Elon Musk and SpaceX will each donate one SpaceX share to every active Trump Account, per CNBC.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HYBWs6IXYAAorDs.jpg",
+        "https://pbs.twimg.com/media/HYBWuMWW4AA3VPr.jpg"
+      ],
+      "at": 1795667542564,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795665726060
+  "lastPostAt": 1795667542564
 }
