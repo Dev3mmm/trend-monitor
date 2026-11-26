@@ -1,43 +1,5 @@
 [
   {
-    "id": "x-1795546974590-3dbrjc",
-    "source": "x",
-    "ts": "2026-11-24T19:02:54.590Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T19:01:17.000Z",
-    "reason": "Specific institutional adoption and innovative product launch.",
-    "text": "🇺🇸 JUST IN: Kraken’s Krak plans to launch two US credit cards in early 2027 offering up to 4% cashback in Bitcoin or dollars, including a card secured by USDC.",
-    "url": "https://x.com/Cointelegraph/status/2125303760452821434",
-    "images": [
-      "https://pbs.twimg.com/media/HX6Yf-sWEAAhQUT.jpg",
-      "https://pbs.twimg.com/media/HX6YgU6WAAAactZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795546978509-rofeo0",
-    "source": "x",
-    "ts": "2026-11-24T19:02:58.509Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-24T19:00:01.000Z",
-    "reason": "Notable price declines for tech companies after significant gains.",
-    "text": "Nvidia, Intel And Micron Shares Fall At Least 7% A Day After Big Gains.\n\nAs of 11:18 AM ET, Nvidia was down about 8%, Intel about 9.6% and Micron about 11.4%, Nasdaq data show, after Nov. 23 gains of about 31%, 16% and 19%.",
-    "url": "https://x.com/DecryptMedia/status/2125303443703443525",
-    "images": [
-      "https://pbs.twimg.com/media/HX5301rW4AElYNn.jpg",
-      "https://pbs.twimg.com/media/HX535lqXwAAxuAh.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795546982043-91raa9",
     "source": "x",
     "ts": "2026-11-24T19:03:02.043Z",
@@ -7788,5 +7750,31 @@
       "https://pbs.twimg.com/media/HYC9yQuXcAARcvV.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795691546570-7avx9y",
+    "source": "x",
+    "ts": "2026-11-26T11:12:26.570Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-26T11:05:08.000Z",
+    "reason": "No notable crypto-related news or move is apparent in the provided tweet.",
+    "text": "The Houthis have brought the fight to Riyadh, striking Saudi Arabia's financial district, oil facilities and ports. \n\nDiscover how the attacks are affecting Saudi Arabia, oil prices and crypto markets 👇",
+    "url": "https://x.com/BSCNews/status/2125908708438016285"
+  },
+  {
+    "id": "x-1795691549586-sjfkur",
+    "source": "x",
+    "ts": "2026-11-26T11:12:29.586Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-26T11:02:22.000Z",
+    "reason": "Not related to cryptocurrencies or blockchain technology.",
+    "text": "🇬🇧BREAKING: UK Home Office announces that net migration has fallen -92% since 2023, from ~1,000,000 to just 77,000 people.",
+    "url": "https://x.com/BSCNews/status/2125908011323650382"
   }
 ]
