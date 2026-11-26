@@ -1,78 +1,5 @@
 [
   {
-    "id": "x-1795531935989-zf1v6a",
-    "source": "x",
-    "ts": "2026-11-24T14:52:15.989Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-24T14:42:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "NEW: Analysts remain largely positive despite Anthropic stock falling below $83 IPO price ~ CNBC",
-    "url": "https://x.com/BSCNews/status/2125238508574941483"
-  },
-  {
-    "id": "x-1795532555746-zaj801",
-    "source": "x",
-    "ts": "2026-11-24T15:02:35.746Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T15:01:37.000Z",
-    "reason": "No notable move in Ethereum, price is within its recent range.",
-    "text": "🚨 TODAY: Nvidia $NVDA shares extend losses, falling 6%.",
-    "url": "https://x.com/Cointelegraph/status/2125243446965211264"
-  },
-  {
-    "id": "x-1795533178894-9n01h8",
-    "source": "x",
-    "ts": "2026-11-24T15:12:58.894Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-24T15:07:50.000Z",
-    "reason": "Notable growth in active validators for Cardano's proof-of-stake blockchain.",
-    "text": "Cardano Has Highest Validator Growth Among Top 10 PoS Chains\n\nCardano (@Cardano) increased its number of active validators by 14.9% year over year, reaching 2,823 nodes. \n\nAccording to @tokenterminal, this is the largest growth rate for any of the top 10 proof-of-stake blockchain",
-    "url": "https://x.com/BSCNews/status/2125245009490309137",
-    "images": [
-      "https://pbs.twimg.com/media/HX5ivKxWgAEnfHc.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795533185311-t8mp1j",
-    "source": "x",
-    "ts": "2026-11-24T15:13:05.311Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-24T15:06:15.000Z",
-    "reason": "No concrete, specific price or event in crypto market mentioned.",
-    "text": "🚨TODAY: The U.S. stock market opens RED, erasing over $1,000,000,000,000 in market value as tariff fears and AI trade worries return.\n\n🔻 Nasdaq −1.42%\n🔻 S&amp;P 500 −1.09%\n🔻 Dow −0.60%\n\nThe Nasdaq led the declines as the premarket selloff in leading AI stocks continued after",
-    "url": "https://x.com/coinbureau/status/2125244613615296854"
-  },
-  {
-    "id": "x-1795533190444-ruerif",
-    "source": "x",
-    "ts": "2026-11-24T15:13:10.444Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-24T15:03:16.000Z",
-    "reason": "Multiple significant events including a price drop for ANT, regulatory concerns, and a hack.",
-    "text": "Jensen Pump Reverses, $ANT sub-IPO, New Tariff Fears &amp; Ansem Hacked",
-    "url": "https://x.com/DecryptMedia/status/2125243861953843392",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795533720127-zp6gz5",
     "source": "x",
     "ts": "2026-11-24T15:22:00.127Z",
@@ -7791,5 +7718,93 @@
       "https://pbs.twimg.com/media/HYBeimEbUAEm359.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795667529764-8s6kxw",
+    "source": "x",
+    "ts": "2026-11-26T04:32:09.764Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-26T04:30:43.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨 UPDATE: Pumpfun co-founder Alon says the launchpad will charge a \"block0\" fee from Dec. 4 on non-dev wallets that buy new tokens in their first block. \n\nHalf the fees will go to $PUMP buybacks and burns.",
+    "url": "https://x.com/Cointelegraph/status/2125809452175511792",
+    "images": [
+      "https://pbs.twimg.com/media/HYBkbWzWgAAVoJF.jpg",
+      "https://pbs.twimg.com/media/HYBkblfW4AALvHk.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795667532648-3cvjqm",
+    "source": "x",
+    "ts": "2026-11-26T04:32:12.648Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-26T04:21:15.000Z",
+    "reason": "The tweet lacks specific price or action details.",
+    "text": "JUST IN: Nvidia's rising management and governance risks could trigger a credit rating downgrade to AA-, S&amp;P warns.",
+    "url": "https://x.com/BSCNews/status/2125807067919446224",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795667535752-u5jkdb",
+    "source": "x",
+    "ts": "2026-11-26T04:32:15.752Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-26T04:15:00.000Z",
+    "reason": "Notable new use of a token with attractive APY offer.",
+    "text": "🔥 NEW: Aave launches its savings app worldwide on iOS and Android, with up to 7.25% APY paid every second and no lockups.",
+    "url": "https://x.com/Cointelegraph/status/2125805494950613472",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125621202609733632/vid/avc1/1280x720/UvZucnAUnwAvX0qm.mp4?tag=29",
+      "duration": 56,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125621202609733632/img/-GcpAk8xFCbjo7Ly.jpg"
+    }
+  },
+  {
+    "id": "x-1795667539216-yra0ve",
+    "source": "x",
+    "ts": "2026-11-26T04:32:19.216Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 4,
+    "author": "Coin Bureau",
+    "ageMin": 19,
+    "originTimestamp": "2026-11-26T04:12:43.000Z",
+    "reason": "No notable crypto-related event in the tweet.",
+    "text": "🇺🇸 Isn't it INSANE how these six politicians timed the Nvidia stock crash to perfection?\n\n- Dan Meuser - Ro Khanna - Harriet Hageman - Pete Sessions - Gil Cisneros - Michael Rulli.\n\nAll six reportedly sold or reduced their Nvidia exposure just ahead of the major decline, avoiding",
+    "url": "https://x.com/coinbureau/status/2125804919605346719",
+    "images": [
+      "https://pbs.twimg.com/media/HYBgS6naUAAyG75.jpg",
+      "https://pbs.twimg.com/media/HYBgS6dbYAA-S66.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795667541802-n1uuxe",
+    "source": "x",
+    "ts": "2026-11-26T04:32:21.803Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 20,
+    "originTimestamp": "2026-11-26T04:11:37.000Z",
+    "reason": "Generic hype without factual claim or evidence.",
+    "text": "🇺🇸 ELON MUSK: “Every child in America will receive two SpaceX shares, one from the company and one from me personally.”",
+    "url": "https://x.com/Cointelegraph/status/2125804645104734554"
   }
 ]
