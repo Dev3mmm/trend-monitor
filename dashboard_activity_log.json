@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795546982043-91raa9",
-    "source": "x",
-    "ts": "2026-11-24T19:03:02.043Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-24T18:56:02.000Z",
-    "reason": "CFTC guidance on crypto reserves is a notable regulatory move.",
-    "text": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-    "url": "https://x.com/DecryptMedia/status/2125302440270463136",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795546986123-nl2nxy",
-    "source": "x",
-    "ts": "2026-11-24T19:03:06.123Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-24T18:52:13.000Z",
-    "reason": "No notable move or specific event, just a vague statement about market values.",
-    "text": "🔥TODAY: Gold and silver shed over $800,000,000,000 in combined market value within 2 hours of trading today.\n\nHere’s how far each asset has fallen from its all-time high:\n\n📉 Silver -64%\n📉 Bitcoin- 52%\n📉 Gold -36%\n\nGold has held up better than $BTC since their respective",
-    "url": "https://x.com/coinbureau/status/2125301478680363204"
-  },
-  {
     "id": "x-1795547530199-0uvuru",
     "source": "x",
     "ts": "2026-11-24T19:12:10.199Z",
@@ -7776,5 +7747,43 @@
     "reason": "Not related to cryptocurrencies or blockchain technology.",
     "text": "🇬🇧BREAKING: UK Home Office announces that net migration has fallen -92% since 2023, from ~1,000,000 to just 77,000 people.",
     "url": "https://x.com/BSCNews/status/2125908011323650382"
+  },
+  {
+    "id": "x-1795692153866-y5yd7p",
+    "source": "x",
+    "ts": "2026-11-26T11:22:33.866Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T11:20:43.000Z",
+    "reason": "It calls moving to quantum-resistant cryptography an \"immediate\" financial stability priority.",
+    "text": "🚨 JUST IN: The Bank of England warns that quantum computing could break the public-key cryptography behind financial transactions and digital signatures.\n\nIt calls moving to quantum-resistant cryptography an \"immediate\" financial stability priority.",
+    "url": "https://x.com/Cointelegraph/status/2125912630082543801",
+    "images": [
+      "https://pbs.twimg.com/media/HYDCQ5TXMAAhF1e.png",
+      "https://pbs.twimg.com/media/HYDCRRNXkAATCRo.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795692157328-2hx8ys",
+    "source": "x",
+    "ts": "2026-11-26T11:22:37.328Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-26T11:15:00.000Z",
+    "reason": "Potential security breach and unusual response from Binance.",
+    "text": "1Password Tells CZ There's \"No Need\" To Change Your Passwords.\n\nBinance's CZ had urged 1Password users to \"change ALL your passwords,\" but the company said no customer passwords were exposed, while the attacker copied some customers' names and email addresses.",
+    "url": "https://x.com/DecryptMedia/status/2125911192661274728",
+    "images": [
+      "https://pbs.twimg.com/media/HYCmjBoXgAAYSBj.png",
+      "https://pbs.twimg.com/media/HYCmunSWYAAqR_f.jpg"
+    ],
+    "video": null
   }
 ]
