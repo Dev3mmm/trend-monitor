@@ -3682,5 +3682,19 @@
     "fetchedAt": "2026-11-26T12:22:32.696Z",
     "userStatus": null,
     "relevanceRejected": false
+  },
+  {
+    "id": "proto-7bd8fbe666161dfc",
+    "title": "Self-Custodial Bitcoin Borrowing Deep Dive: Borrowing Stablecoins Against Bitcoin",
+    "url": "https://www.stacks.co/blog/self-custodial-bitcoin-borrowing-deep-dive-borrowing-stablecoins-against-bitcoin",
+    "description": "Stacks Labs is exploring a way to borrow stablecoins against staked BTC that stays on the Bitcoin L1, under the borrower's custody. Because the collateral keeps earning, the staking yield offsets the cost of borrowing.",
+    "publishedAt": "2026-11-26T21:14:00.000Z",
+    "source": "Stacks",
+    "sourceType": "protocol",
+    "sourceKind": "blog",
+    "translated": false,
+    "fetchedAt": "2026-11-26T19:57:35.552Z",
+    "userStatus": null,
+    "relevanceRejected": false
   }
 ]

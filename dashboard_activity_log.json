@@ -1,41 +1,5 @@
 [
   {
-    "id": "x-1795594942379-c870zg",
-    "source": "x",
-    "ts": "2026-11-25T08:22:22.379Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-25T08:15:30.000Z",
-    "reason": "Proposed EU sanctions on crypto platforms aiding Russian sanctions evasion.",
-    "text": "Crypto Exchanges Could Be Caught in The EU's New Russia Crackdown\n\nThe European Union wants to tighten sanctions on crypto platforms helping Russia bypass restrictions.\n\nIts proposed 22nd sanctions package includes a dedicated Crypto Sanctions Task Force. \n\nThe effort could",
-    "url": "https://x.com/BSCNews/status/2125503631525097600",
-    "images": [
-      "https://pbs.twimg.com/media/HX9DpPObsAEY2T1.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795595522753-r6l9ol",
-    "source": "x",
-    "ts": "2026-11-25T08:32:02.753Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T08:30:42.000Z",
-    "reason": "Notable regulatory action involving a major cryptocurrency exchange.",
-    "text": "🚨 LATEST: Tether has sought a 20% fee from some hack victims to reissue their frozen USDT, per Bloomberg. \n\nSingapore exchange Bittok lost $50M in a 2020 hack and still hasn't recovered the funds.",
-    "url": "https://x.com/Cointelegraph/status/2125507455362675137",
-    "images": [
-      "https://pbs.twimg.com/media/HX9Rw2NXoAA2b65.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795596142093-ui3zrl",
     "source": "x",
     "ts": "2026-11-25T08:42:22.093Z",
@@ -7660,6 +7624,40 @@
     "ageMin": 10,
     "originTimestamp": "2026-11-26T19:43:05.000Z",
     "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: Lab tests by a Bitcoin Core contributor show that a planted payment costing under $0.35 can tie a Bitcoin address to the IP address of the node tracking it.",
+    "url": "https://x.com/BSCNews/status/2126039057687835001",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795723028575-nw3gdf",
+    "source": "x",
+    "ts": "2026-11-26T19:57:08.575Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-26T19:44:00.000Z",
+    "reason": "Notable institutional adoption and integration with major banking systems.",
+    "text": "Cosmos is now on the shelf where US banks pick their software\n\nThe @cosmos Tokenization Suite is now listed on the @Fiserv AppMarket and in the Fintech Integration Network run by Jack Henry (@JH_Fintech). Both companies run core systems behind many US banks.\n\nBanks on those",
+    "url": "https://x.com/BSCNews/status/2126039285790912691",
+    "images": [
+      "https://pbs.twimg.com/media/HYEpIohWYAAZkue.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795723031719-m05hay",
+    "source": "x",
+    "ts": "2026-11-26T19:57:11.719Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-26T19:43:05.000Z",
+    "reason": "Notable exploit involving Bitcoin addresses and node tracking IP addresses.",
     "text": "JUST IN: Lab tests by a Bitcoin Core contributor show that a planted payment costing under $0.35 can tie a Bitcoin address to the IP address of the node tracking it.",
     "url": "https://x.com/BSCNews/status/2126039057687835001",
     "images": [],
