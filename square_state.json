@@ -2003,15 +2003,6 @@
   ],
   "queue": [
     {
-      "text": "🚨 UPDATE: Over 11.18 million $BTC are currently held at a loss, according to CryptoQuant data.",
-      "url": "https://x.com/Cointelegraph/status/2125726446249234491",
-      "images": [
-        "https://pbs.twimg.com/media/HYAY7_YWQAAVeOq.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795647776134
-    },
-    {
       "text": "🔥 TODAY: Fidelity files an S-1 with the SEC to launch the Fidelity Chainlink Fund, a new product tied to $LINK.",
       "url": "https://x.com/Cointelegraph/status/2125741550671966256",
       "images": [
@@ -2662,7 +2653,16 @@
       "at": 1795651351009,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392233623575171?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 UPDATE: Over 11.18 million $BTC are currently held at a loss, according to CryptoQuant data.",
+      "final": "🚨 UPDATE: Over 11.18 million $BTC are currently held at a loss, according to CryptoQuant data.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HYAY7_YWQAAVeOq.jpg"
+      ],
+      "at": 1795653345388,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795651351009
+  "lastPostAt": 1795653345388
 }
