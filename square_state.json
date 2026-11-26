@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794315167472-zmahm4",
     "x-1794315170386-x991z8",
     "x-1794315386105-jw2uc1",
     "x-1794315392314-zoz4wq",
@@ -1999,19 +1998,10 @@
     "x-1795659341256-0ssnjo",
     "x-1795660330326-914b3n",
     "x-1795661016335-6ir1wi",
-    "x-1795663348265-14nqrm"
+    "x-1795663348265-14nqrm",
+    "x-1795664207587-je1k16"
   ],
   "queue": [
-    {
-      "text": "⚠️ALERT: 1Password, used by businesses and individuals to protect their passwords, has been HACKED.\n\nHackers got in through ONE employee's GitHub account and pushed malicious code into 1Password's backend to copy customer records.\n\nSome customers' names, emails, account IDs and",
-      "url": "https://x.com/coinbureau/status/2125775296066724310",
-      "images": [
-        "https://pbs.twimg.com/media/HYA_DhQawAAvGsK.png",
-        "https://pbs.twimg.com/media/HYA_DhTa4AAEtSx.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1795659342038
-    },
     {
       "text": "🇰🇷 NOW: The Bank of Korea hikes its benchmark rate by 25 bps to 3.25%, its highest since November 2024, and raises its 2027 growth forecast to 4.1%.",
       "url": "https://x.com/Cointelegraph/status/2125790566168293716",
@@ -2021,20 +2011,19 @@
       ],
       "video": null,
       "enqueuedAt": 1795663348777
+    },
+    {
+      "text": "🔥 NEW: Elon Musk and SpaceX will each donate one SpaceX share to every active Trump Account, per CNBC.",
+      "url": "https://x.com/Cointelegraph/status/2125794378769735869",
+      "images": [
+        "https://pbs.twimg.com/media/HYBWs6IXYAAorDs.jpg",
+        "https://pbs.twimg.com/media/HYBWuMWW4AA3VPr.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795664208087
     }
   ],
   "posted": [
-    {
-      "text": "Ethereum Foundation Doubles Protocol Security Team, Warns AI Threats Are More Urgent Than Quantum Computing\n\nThe Ethereum Foundation, said AI-driven security threats have become more urgent than quantum computing risks, with AI models discovering software vulnerabilities faster",
-      "final": "Ethereum Foundation Doubles Protocol Security Team, Warns AI Threats Are More Urgent Than Quantum Computing\n\nThe Ethereum Foundation, said AI-driven security threats have become more urgent than quantum computing risks, with AI models discovering software vulnerabilities faster\n\n#Ethereum $ETH",
-      "images": [
-        "https://pbs.twimg.com/media/HX2pqwEawAAwGwX.jpg",
-        "https://pbs.twimg.com/media/HX2pq_DaMAATQ2-.jpg"
-      ],
-      "at": 1795491115069,
-      "status": "posted",
-      "link": "https://app.binance.com/uni-qr/cpos/391577306811586?r=XAQZ06ZX&l=en"
-    },
     {
       "text": "🔥 UPDATE: Stellar's Protocol 30 upgrade, \"Bell,\" is now live on mainnet, with business-scale smart accounts and support for quantum-safe signatures.",
       "final": "🔥 UPDATE: Stellar's Protocol 30 upgrade, \"Bell,\" is now live on mainnet, with business-scale smart accounts and support for quantum-safe signatures.\n\n#Crypto",
@@ -2655,7 +2644,17 @@
       "at": 1795662124238,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392277734210903?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "⚠️ALERT: 1Password, used by businesses and individuals to protect their passwords, has been HACKED.\n\nHackers got in through ONE employee's GitHub account and pushed malicious code into 1Password's backend to copy customer records.\n\nSome customers' names, emails, account IDs and",
+      "final": "⚠️ALERT: 1Password, used by businesses and individuals to protect their passwords, has been HACKED.\n\nHackers got in through ONE employee's GitHub account and pushed malicious code into 1Password's backend to copy customer records.\n\nSome customers' names, emails, account IDs and\n\n#Crypto #Hack",
+      "images": [
+        "https://pbs.twimg.com/media/HYA_DhQawAAvGsK.png",
+        "https://pbs.twimg.com/media/HYA_DhTa4AAEtSx.png"
+      ],
+      "at": 1795664208087,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795662124238
+  "lastPostAt": 1795664208087
 }
