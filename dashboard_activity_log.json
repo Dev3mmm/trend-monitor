@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795584145105-tawc9e",
-    "source": "x",
-    "ts": "2026-11-25T05:22:25.105Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 25,
-    "originTimestamp": "2026-11-25T04:56:42.000Z",
-    "reason": "Noise: Generic and vague disinformation concern.",
-    "text": "USAID brought in Global Disinformation Index to coach it on censoring online narratives. Here, GDI teaches USAID to get news sites blacklisted even if the stories they publish are true. USAID officials clapped like a seal upon hearing a justification to censor Breitbart News",
-    "url": "https://x.com/elonmusk/status/2125457471045333498"
-  },
-  {
-    "id": "x-1795584754558-w5vpop",
-    "source": "x",
-    "ts": "2026-11-25T05:32:34.558Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T05:30:44.000Z",
-    "reason": "Specific prediction with basis from a notable figure.",
-    "text": "🚨 NOW: Arthur Hayes says, \"$BTC will retest $55K,\" and tells traders to buckle up.",
-    "url": "https://x.com/Cointelegraph/status/2125462166861967581",
-    "images": [
-      "https://pbs.twimg.com/media/HX8okO7XYAAfYhk.jpg",
-      "https://pbs.twimg.com/media/HX8okxhWcAAE2TD.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795584759070-qkhcw5",
-    "source": "x",
-    "ts": "2026-11-25T05:32:39.070Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-25T05:26:54.000Z",
-    "reason": "No notable move or specific factual claim.",
-    "text": "🚨 SCARY: Google plans to make a 24/7 AI TV channel that uses your photos and voice to make you the star of your own movies and shows.\n\nGoogle has filed a patent for \"My Channel\", an AI-powered platform that could turn you into the star of personalized movies and shows.\n\nThe",
-    "url": "https://x.com/coinbureau/status/2125461201736147261"
-  },
-  {
     "id": "x-1795584764670-jpmkuj",
     "source": "x",
     "ts": "2026-11-25T05:32:44.670Z",
@@ -7679,6 +7634,50 @@
     "url": "https://x.com/BSCNews/status/2126010093858685364",
     "images": [
       "https://pbs.twimg.com/media/HYEXVyuWMAARR88.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795716127034-xsmwio",
+    "source": "x",
+    "ts": "2026-11-26T18:02:07.034Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-26T18:01:15.000Z",
+    "reason": "No notable move, price is well within its recent range.",
+    "text": "Bitcoin was trading below $8,000 on Thanksgiving in 2017, nine years later, it's trading above $60,000 despite a challenging year for crypto markets.\n\nHere's how every Thanksgiving in between looked for Bitcoin investors.",
+    "url": "https://x.com/Cointelegraph/status/2126013427994788258"
+  },
+  {
+    "id": "x-1795716132299-hbtzl7",
+    "source": "x",
+    "ts": "2026-11-26T18:02:12.299Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T18:00:01.000Z",
+    "reason": "No notable move or specific event described.",
+    "text": "Arthur Hayes: Bullish on DeFi Long Term, but More Downside Ahead\n\nOn November 17, 2026, Maelstrom CIO Arthur Hayes @CryptoHayes said on the New Era Finance podcast @new_era_finance that AI agents will increasingly use DeFi, but investors still need to see tangible results. In the",
+    "url": "https://x.com/WuBlockchain/status/2126013119126483368"
+  },
+  {
+    "id": "x-1795716137937-3i1pd1",
+    "source": "x",
+    "ts": "2026-11-26T18:02:17.937Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-26T17:56:37.000Z",
+    "reason": "New privacy weakness discovered in Bitcoin Core addresses potentially linking to node IPs.",
+    "text": "Bitcoin Core Contributor Finds $0.35 Attack Could Link Bitcoin Addresses to Node IPs\n\nBitcoin Core contributor Abubakar Sadiq Ismail disclosed on Delving Bitcoin that a long-known privacy weakness in Bitcoin Core’s wallet rebroadcast mechanism could allow attackers to link",
+    "url": "https://x.com/WuBlockchain/status/2126012263601787189",
+    "images": [
+      "https://pbs.twimg.com/media/HYEc4WnbsAAT1a9.jpg"
     ],
     "video": null
   }
