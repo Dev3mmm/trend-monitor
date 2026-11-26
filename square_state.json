@@ -1,8 +1,5 @@
 {
   "seen": [
-    "x-1794324887516-crtqc7",
-    "x-1794325323703-73m2ju",
-    "x-1794325948346-u90qab",
     "x-1794326556752-fyebds",
     "x-1794326562349-8lhivh",
     "x-1794326567410-7aeo2g",
@@ -1999,18 +1996,12 @@
     "x-1795681356659-hi8ps6",
     "x-1795681991847-eb3gci",
     "x-1795682565026-7cihkj",
-    "x-1795683114614-s365qh"
+    "x-1795683114614-s365qh",
+    "x-1795683712569-wbots8",
+    "x-1795683716615-qnk8yv",
+    "x-1795683719266-v5qf6c"
   ],
   "queue": [
-    {
-      "text": "🚨 LATEST: CryptoQuant CEO Ki Young Ju says the squeeze risk for Bitcoin now sits with shorts. \n\nAbout $16B in potential short liquidations sit between $60K and $100K, against under $5B in longs below.",
-      "url": "https://x.com/Cointelegraph/status/2125856356649390246",
-      "images": [
-        "https://pbs.twimg.com/media/HYCPFl0WcAAWrWm.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795678925407
-    },
     {
       "text": "🚨 LATEST: Zcash developers urge users to move $300M in $ZEC from Sapling to Ironwood over potential counterfeiting risks from future mathematical breakthroughs.",
       "url": "https://x.com/Cointelegraph/status/2125872356606333215",
@@ -2020,6 +2011,15 @@
       ],
       "video": null,
       "enqueuedAt": 1795682567073
+    },
+    {
+      "text": "🐋 WHALE ALERT: An Ethereum ICO whale has fully exited after selling its remaining 45,000 $ETH worth $75.35M today.\n\nThe whale turned a $31,000 investment in 2015 into $87.21M.",
+      "url": "https://x.com/Cointelegraph/status/2125877558629515333",
+      "images": [
+        "https://pbs.twimg.com/media/HYCiXf2XEAEYwYh.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795683722139
     }
   ],
   "posted": [
@@ -2655,7 +2655,16 @@
       "at": 1795681993657,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392359131346496?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 LATEST: CryptoQuant CEO Ki Young Ju says the squeeze risk for Bitcoin now sits with shorts. \n\nAbout $16B in potential short liquidations sit between $60K and $100K, against under $5B in longs below.",
+      "final": "🚨 LATEST: CryptoQuant CEO Ki Young Ju says the squeeze risk for Bitcoin now sits with shorts. \n\nAbout $16B in potential short liquidations sit between $60K and $100K, against under $5B in longs below.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HYCPFl0WcAAWrWm.jpg"
+      ],
+      "at": 1795683722139,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795681993657
+  "lastPostAt": 1795683722139
 }
