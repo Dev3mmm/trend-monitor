@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795560128912-soh9vf",
-    "source": "x",
-    "ts": "2026-11-24T22:42:08.912Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-24T22:37:15.000Z",
-    "reason": "Generic news without direct relevance to crypto or blockchain technology.",
-    "text": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-    "url": "https://x.com/DecryptMedia/status/2125358109673545830"
-  },
-  {
-    "id": "x-1795561380255-sw148j",
-    "source": "x",
-    "ts": "2026-11-24T23:03:00.255Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T23:00:03.000Z",
-    "reason": "No notable crypto-related news in the tweet provided.",
-    "text": "Broadcom Patches A Critical vCenter Authentication Bypass Rated 9.8.\n\nBroadcom said a malicious actor with network access to vCenter may exploit the flaw, CVE-2026-123903, to bypass authentication and gain unauthorized access; it listed no workarounds.",
-    "url": "https://x.com/DecryptMedia/status/2125363847758328228",
-    "images": [
-      "https://pbs.twimg.com/media/HX6UmIZW4AA91nW.png",
-      "https://pbs.twimg.com/media/HX6U0NeWcAA2vk8.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795561385896-fp488m",
     "source": "x",
     "ts": "2026-11-24T23:03:05.896Z",
@@ -7724,5 +7692,37 @@
     "reason": "No notable move or specific event described.",
     "text": "“There’s our Mr. Investor! Why don’t you come down and tell the family about your Bitcoin gains?”",
     "url": "https://x.com/BitcoinMagazine/status/2125953834270753105"
+  },
+  {
+    "id": "x-1795702953222-84fb62",
+    "source": "x",
+    "ts": "2026-11-26T14:22:33.222Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-26T14:20:43.000Z",
+    "reason": "Ethereum hacker has moved additional funds, increasing the total amount held in unfrozen crypto holdings.",
+    "text": "🚨 UPDATE: Binance hacker moves another $35.52M in $ETH, with $1.9B still held in unfrozen crypto holdings, per Onchain Lens.",
+    "url": "https://x.com/Cointelegraph/status/2125957928444187057",
+    "images": [
+      "https://pbs.twimg.com/media/HYDrdlzXgAA6l_3.jpg",
+      "https://pbs.twimg.com/media/HYDrd2zWsAArkW0.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795702958626-yfe9tk",
+    "source": "x",
+    "ts": "2026-11-26T14:22:38.626Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-26T14:13:04.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🔥 Asia's chip hubs are taking a HARDER hit than U.S. stocks.\n\n7 of the 9 major stock indices tracked closed in bear market territory on Nov. 25, each at least 20% below its 2026 high.\n\nSouth Korea’s KOSPI has lost nearly HALF of its value from its peak, almost THREE TIMES the",
+    "url": "https://x.com/coinbureau/status/2125956003120419318"
   }
 ]
