@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795537314932-sn2z54",
-    "source": "x",
-    "ts": "2026-11-24T16:21:54.932Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 66,
-    "originTimestamp": "2026-11-24T15:15:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "just added my work experience \ni love my very professional job",
-    "url": "https://x.com/elonmusk/status/2125263096432255145"
-  },
-  {
-    "id": "x-1795537318491-hjhoi4",
-    "source": "x",
-    "ts": "2026-11-24T16:21:58.491Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 25,
-    "originTimestamp": "2026-11-24T15:55:56.000Z",
-    "reason": "No notable crypto-related event described.",
-    "text": "Watch Falcon 9 launch the USSF-266 mission from pad 4E in California",
-    "url": "https://x.com/elonmusk/status/2125262848159006858"
-  },
-  {
     "id": "x-1795537324765-mbjhzp",
     "source": "x",
     "ts": "2026-11-24T16:22:04.765Z",
@@ -7792,6 +7766,35 @@
       "https://pbs.twimg.com/media/HYCG6ALWIAAqy7l.png",
       "https://pbs.twimg.com/media/HYCG6OxWoAA-zMo.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795677473172-mtha5q",
+    "source": "x",
+    "ts": "2026-11-26T07:17:53.172Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-26T07:08:49.000Z",
+    "reason": "No notable move or specific event, sentiment tweet.",
+    "text": "Grateful for our community, today and every day. 💛\n\nHappy Thanksgiving!",
+    "url": "https://x.com/binance/status/2125849238013665508"
+  },
+  {
+    "id": "x-1795677477275-7ugmw3",
+    "source": "x",
+    "ts": "2026-11-26T07:17:57.275Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-26T07:03:55.000Z",
+    "reason": "Elon Musk's pledge is significant but not directly related to crypto.",
+    "text": "BREAKING: Elon Musk pledges $18B in SpaceX shares to US children, giving each two shares.",
+    "url": "https://x.com/BSCNews/status/2125848005589045712",
+    "images": [],
     "video": null
   }
 ]
