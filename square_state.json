@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794326567410-7aeo2g",
     "x-1794327108577-sta2nn",
     "x-1794327724951-1oc8n0",
     "x-1794327727237-kugnmb",
@@ -1999,18 +1998,10 @@
     "x-1795683716615-qnk8yv",
     "x-1795683719266-v5qf6c",
     "x-1795686131373-0hm65h",
-    "x-1795686736925-qgyj3q"
+    "x-1795686736925-qgyj3q",
+    "x-1795687336962-m9ksdr"
   ],
   "queue": [
-    {
-      "text": "🐋 WHALE ALERT: An Ethereum ICO whale has fully exited after selling its remaining 45,000 $ETH worth $75.35M today.\n\nThe whale turned a $31,000 investment in 2015 into $87.21M.",
-      "url": "https://x.com/Cointelegraph/status/2125877558629515333",
-      "images": [
-        "https://pbs.twimg.com/media/HYCiXf2XEAEYwYh.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795683722139
-    },
     {
       "text": "🔥 LATEST: Cardone Capital acquires 1,545 apartment units, with 1,000 BTC being added as part of its hybrid real estate and Bitcoin investment strategy.",
       "url": "https://x.com/Cointelegraph/status/2125887458109804848",
@@ -2020,6 +2011,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795686140685
+    },
+    {
+      "text": "🔥 JUST IN: Vitalik Buterin advocates for open-source hardware to improve security and verifiability, introducing a new mantra: “Not your silicon, not your keys.”",
+      "url": "https://x.com/Cointelegraph/status/2125892655997390969",
+      "images": [
+        "https://pbs.twimg.com/media/HYCwF23XwAAhepX.png",
+        "https://pbs.twimg.com/media/HYCwGaWXYAAeJal.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795687342706
     }
   ],
   "posted": [
@@ -2654,7 +2655,16 @@
       "at": 1795685520603,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392373580819199?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🐋 WHALE ALERT: An Ethereum ICO whale has fully exited after selling its remaining 45,000 $ETH worth $75.35M today.\n\nThe whale turned a $31,000 investment in 2015 into $87.21M.",
+      "final": "🐋 WHALE ALERT: An Ethereum ICO whale has fully exited after selling its remaining 45,000 $ETH worth $75.35M today.\n\nThe whale turned a $31,000 investment in 2015 into $87.21M.\n\n#Ethereum $ETH",
+      "images": [
+        "https://pbs.twimg.com/media/HYCiXf2XEAEYwYh.jpg"
+      ],
+      "at": 1795687342706,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795685520603
+  "lastPostAt": 1795687342706
 }
