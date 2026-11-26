@@ -1,82 +1,5 @@
 [
   {
-    "id": "x-1795547530199-0uvuru",
-    "source": "x",
-    "ts": "2026-11-24T19:12:10.199Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-24T19:03:44.000Z",
-    "reason": "No notable move; price is within the recent range.",
-    "text": "JUST IN: MN Capital Founder Michaël van de Poppe says Bitcoin “could actually expect a run to 100K to happen in Q1 of next year ” 👀",
-    "url": "https://x.com/BitcoinMagazine/status/2125304375996252357",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2125300391835262976/vid/avc1/1280x720/I0dZT39HAARUokk7.mp4?tag=29",
-      "duration": 165,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HX6ZJP8W0AIt9zj.jpg"
-    }
-  },
-  {
-    "id": "x-1795548125705-wu2tch",
-    "source": "x",
-    "ts": "2026-11-24T19:22:05.705Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T19:20:54.000Z",
-    "reason": "Coinbase sponsors cybersecurity experts on crypto crime",
-    "text": "🇰🇵 NEW: Coinbase says it is sponsoring sessions with cybersecurity experts to combat North Korean crypto crime and prevent cyberattacks.",
-    "url": "https://x.com/Cointelegraph/status/2125308696381034800",
-    "images": [
-      "https://pbs.twimg.com/media/HX6c_ilW8AAnWLd.jpg",
-      "https://pbs.twimg.com/media/HX6c_uRWUAMHQN8.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795548131569-8ix4mv",
-    "source": "x",
-    "ts": "2026-11-24T19:22:11.569Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-24T19:18:00.000Z",
-    "reason": "New institutional use case with Solana and tokenized stocks.",
-    "text": "Injective's Stockdrop returns tomorrow with tokenized stocks on Solana\n\n@injective opens Stockdrop claims on Wednesday. Users who committed $INJ to this month's Community BuyBack will find out whether a tokenized stock is waiting for them on @solana.\n\nThe committed INJ is burned",
-    "url": "https://x.com/BSCNews/status/2125307966727364921",
-    "images": [
-      "https://pbs.twimg.com/media/HX6Qr7rW0AAjJrc.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795548727589-54guyx",
-    "source": "x",
-    "ts": "2026-11-24T19:32:07.589Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T19:30:00.000Z",
-    "reason": "Notable security incident with potential impact on user funds.",
-    "text": "UPDATE: Coinkite Publishes Its Postmortem On The COLDCARD Seed-Generation Incident.\n\nFirmware from March 29, 2021, to July 30, 2026, used a software PRNG for seeds, letting attackers regenerate affected keys offline without remotely accessing devices, Coinkite said.",
-    "url": "https://x.com/DecryptMedia/status/2125310989768008139",
-    "images": [
-      "https://pbs.twimg.com/media/HX54LfxWkAEPGmK.png",
-      "https://pbs.twimg.com/media/HX54XdsWkAA4zt5.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795548731644-j7bm41",
     "source": "x",
     "ts": "2026-11-24T19:32:11.644Z",
@@ -7784,6 +7707,69 @@
       "https://pbs.twimg.com/media/HYCmjBoXgAAYSBj.png",
       "https://pbs.twimg.com/media/HYCmunSWYAAqR_f.jpg"
     ],
+    "video": null
+  },
+  {
+    "id": "x-1795692957512-fsjbd7",
+    "source": "x",
+    "ts": "2026-11-26T11:35:57.512Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-26T11:29:33.000Z",
+    "reason": "Notable institutional action and governance update in the DeFi space.",
+    "text": "InterLink Locks Down Token Allocations as Final Mainnet Snapshot Concludes\n\nInterLink (@Inter_Link) has finalized the last snapshot period, effectively locking all metrics and referrals for the present $ITLG distribution round.\n\nThe metrics for token distribution have been locked",
+    "url": "https://x.com/BSCNews/status/2125914856201040374",
+    "images": [
+      "https://pbs.twimg.com/media/HYDERswWwAAJhwy.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795692959439-5sfbbw",
+    "source": "x",
+    "ts": "2026-11-26T11:35:59.439Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-26T11:27:15.000Z",
+    "reason": "Cryptocurrency regulation and enforcement action involving founders.",
+    "text": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+    "url": "https://x.com/DecryptMedia/status/2125914274941813082",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795692961597-d4w1fu",
+    "source": "x",
+    "ts": "2026-11-26T11:36:01.597Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-26T11:27:00.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": "Make sure you don't get left behind by the crypto markets...\n\nFrom memecoin news on $PEPE and $SHIB, to the latest in crypto regulation from around the world, the 'BSCN Insider' channel has you covered.\n\nJoin now:",
+    "url": "https://x.com/BSCNews/status/2125914211356459036"
+  },
+  {
+    "id": "x-1795692963502-x94gdz",
+    "source": "x",
+    "ts": "2026-11-26T11:36:03.502Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "BSCN",
+    "ageMin": 13,
+    "originTimestamp": "2026-11-26T11:22:15.000Z",
+    "reason": "Exploit involving sensitive client和个人信息泄露数据",
+    "text": "LATEST: Standard Chartered's crypto custody, Zodia Custody, was breached. Employees &amp; Clients names and emails were exposed.",
+    "url": "https://x.com/BSCNews/status/2125913017468551663",
+    "images": [],
     "video": null
   }
 ]
