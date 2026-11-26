@@ -1,44 +1,5 @@
 [
   {
-    "id": "x-1795530744138-oqibjg",
-    "source": "x",
-    "ts": "2026-11-24T14:32:24.138Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-24T14:23:21.000Z",
-    "reason": "No direct relation to crypto or blockchain technology.",
-    "text": "BREAKING: Iran's Revolutionary Guard Chief states that upcoming war could extend beyond the Middle East.",
-    "url": "https://x.com/BSCNews/status/2125233817304662082"
-  },
-  {
-    "id": "x-1795531339890-4zl6tt",
-    "source": "x",
-    "ts": "2026-11-24T14:42:19.890Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-24T14:39:10.000Z",
-    "reason": "No notable move, price is well outside the recent trading range but the statement is speculative and not an actual event.",
-    "text": "Bitcoin Faces Potential First 5-Year Downturn - What Comes Next? | BMTV Nov. 24, 2026",
-    "url": "https://x.com/BitcoinMagazine/status/2125237795518046408"
-  },
-  {
-    "id": "x-1795531343464-rjntd9",
-    "source": "x",
-    "ts": "2026-11-24T14:42:23.464Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-24T14:37:32.000Z",
-    "reason": "No factual claim or news content.",
-    "text": "Schools are on holiday.\n\nSTAY AWAY FROM SCHOOL GIRLS.\n\nYou will be jailed.",
-    "url": "https://x.com/amerix/status/2125237386132979768"
-  },
-  {
     "id": "x-1795531347056-aw6a6s",
     "source": "x",
     "ts": "2026-11-24T14:42:27.056Z",
@@ -7777,6 +7738,56 @@
     "images": [
       "https://pbs.twimg.com/media/HYBWs6IXYAAorDs.jpg",
       "https://pbs.twimg.com/media/HYBWuMWW4AA3VPr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795664765162-80pxx1",
+    "source": "x",
+    "ts": "2026-11-26T03:46:05.163Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-26T03:43:05.000Z",
+    "reason": "Not a crypto-related event.",
+    "text": "Every child in America will receive two SpaceX shares, one from the company and one from me personally",
+    "url": "https://x.com/elonmusk/status/2125797463047258119"
+  },
+  {
+    "id": "x-1795664768945-60gc53",
+    "source": "x",
+    "ts": "2026-11-26T03:46:08.945Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-26T03:41:50.000Z",
+    "reason": "Fidelity's filing signals institutional interest in LINK ETF.",
+    "text": "Fidelity Filed For a Spot Chainlink ETF\n\nFidelity (@Fidelity) has filed with the SEC to launch a spot Chainlink (@chainlink) $LINK ETF.\n\nThe proposed fund is expected to trade on Nasdaq under the ticker FLNK. It would hold LINK directly, with Anchorage (@Anchorage), BitGo",
+    "url": "https://x.com/BSCNews/status/2125797150038847657",
+    "images": [
+      "https://pbs.twimg.com/media/HYBZNiYb0AAR33H.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795664771574-9tgg4i",
+    "source": "x",
+    "ts": "2026-11-26T03:46:11.574Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-26T03:39:04.000Z",
+    "reason": "Specific institutional adoption event",
+    "text": "🇭🇰 BIG: HSBC's Hong Kong dollar-backed stablecoin RedCoin drew over 100,000 users in its first month after launch, per SCMP.",
+    "url": "https://x.com/Cointelegraph/status/2125796453784105051",
+    "images": [
+      "https://pbs.twimg.com/media/HYBYmvaWcAApTKx.png",
+      "https://pbs.twimg.com/media/HYBYm6sWYAAa4bx.jpg"
     ],
     "video": null
   }
