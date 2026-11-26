@@ -1,52 +1,5 @@
 [
   {
-    "id": "x-1795580529924-j0epjn",
-    "source": "x",
-    "ts": "2026-11-25T04:22:09.924Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-25T04:21:29.000Z",
-    "reason": "Notable use of USDe on Avalanche with significant deposit milestone.",
-    "text": "Ethena's USDe Hit a Major Milestone on Avalanche\n\nEthena's (@ethena) $USDe deposits on Aave (@aave) v4's Avalanche (@avax) $AVAX market have crossed $100 million.\n\nThat's a 14x jump since Ethena $ENA rolled out Earn+ last month, per Avalanche. \n\nThe new EthenaPay rewards product",
-    "url": "https://x.com/BSCNews/status/2125444740229501250",
-    "images": [
-      "https://pbs.twimg.com/media/HX8XuFib0AAZ7aN.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795581114851-y20vey",
-    "source": "x",
-    "ts": "2026-11-25T04:31:54.851Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T04:30:39.000Z",
-    "reason": "Significant institutional Bitcoin activity and strategy disclosure.",
-    "text": "🚨 TODAY: CleanSpark says it may sell more Bitcoin than it mines each quarter to cut treasury risk, after it sold 2,102 $BTC but mined just 1,708 $BTC in the September quarter.",
-    "url": "https://x.com/Cointelegraph/status/2125447046270247183",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795581750630-hp5vsg",
-    "source": "x",
-    "ts": "2026-11-25T04:42:30.630Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T04:40:55.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "BREAKING: $850,000,000,000 wiped out from Asian markets as renewed US tariff fears intensify the AI selloff.\n\n🇹🇼 Taiwan's TAIEX plunges -7.4%.\n\n🇰🇷 South Korea's KOSPI drops -6%, nearly erasing Tuesday's 6.3% surge.\n\n🇯🇵 Japan's Nikkei falls -3.3%.\n\nAsian markets are facing a fresh",
-    "url": "https://x.com/coinbureau/status/2125449631308075103"
-  },
-  {
     "id": "x-1795582323771-mcknrg",
     "source": "x",
     "ts": "2026-11-25T04:52:03.771Z",
@@ -7676,5 +7629,55 @@
     "reason": "No notable move in ETH price provided.",
     "text": "I believe the discipline, the sacrifice, the soft skills and the determination I imparted in you is what you carried into your life.",
     "url": "https://x.com/amerix/status/2125996273664655407"
+  },
+  {
+    "id": "x-1795713170621-kdsj43",
+    "source": "x",
+    "ts": "2026-11-26T17:12:50.621Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-26T17:02:06.000Z",
+    "reason": "Notable announcement from a major blockchain regarding new Layer 1 technology.",
+    "text": "🚨 HUGE: BNB Chain unveils plans for its new Layer 1 blockchain targeting high-frequency trading, payments, private finance and AI agents.\n\nThe specialized L1 is designed for real-time performance, featuring 200ms block intervals and preliminary transaction feedback in as little",
+    "url": "https://x.com/coinbureau/status/2125998543831957786",
+    "images": [
+      "https://pbs.twimg.com/media/HYEPINoaMAA4dSc.jpg",
+      "https://pbs.twimg.com/media/HYEPJb0bwAAViAE.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795713174671-8mx13r",
+    "source": "x",
+    "ts": "2026-11-26T17:12:54.671Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-26T17:01:50.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "The question everyone's asking gets answered on stage: What comes next?\n\nCZ × Gareth Jenkinson\n\n📍 #BinanceBlockchainWeek",
+    "url": "https://x.com/binance/status/2125998477956227205"
+  },
+  {
+    "id": "x-1795713179494-fqaxj7",
+    "source": "x",
+    "ts": "2026-11-26T17:12:59.494Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 11,
+    "originTimestamp": "2026-11-26T17:01:42.000Z",
+    "reason": "Potential market-moving event with significant liquidity implications.",
+    "text": "🚨 INSIGHT: Bitcoin could be gearing up for a massive short squeeze, with $16B in potential short liquidations between $60K and $100K, per CryptoQuant CEO Ki Young Ju.",
+    "url": "https://x.com/Cointelegraph/status/2125998442384113993",
+    "images": [
+      "https://pbs.twimg.com/media/HYEQUO6W0AA5_n9.jpg"
+    ],
+    "video": null
   }
 ]
