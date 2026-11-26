@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1794330109405-ool3c4",
-    "x-1794330114477-ijgwxl",
     "x-1794331347461-jsf7g9",
     "x-1794331353040-auun5o",
     "x-1794331977396-cdwqdi",
@@ -1999,19 +1997,11 @@
     "x-1795690626128-hrnm7w",
     "x-1795690631819-4adp3z",
     "x-1795690954226-fdj07g",
-    "x-1795690957784-0en75j"
+    "x-1795690957784-0en75j",
+    "x-1795692153866-y5yd7p",
+    "x-1795692157328-2hx8ys"
   ],
   "queue": [
-    {
-      "text": "S&amp;P Warns It Could Downgrade Nvidia's AA Rating Over The Next 90 Days.\n\nS&amp;P placed Nvidia's AA ratings on CreditWatch Negative and said it could lower them if it determines that deficiencies remain in its management and governance framework.",
-      "url": "https://x.com/DecryptMedia/status/2125896092101308829",
-      "images": [
-        "https://pbs.twimg.com/media/HYCpPdhWwAATRkN.png",
-        "https://pbs.twimg.com/media/HYCpmI5XQAEEdF-.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1795688535670
-    },
     {
       "text": "⚠️ALERT: Standard Chartered's crypto unit, Zodia Custody, managing $30 BILLION in assets, suffered a security breach this week, its CEO says.\n\nThe breach exposed client names, email addresses and other information.\n\nIt’s unclear if crypto assets were affected.",
       "url": "https://x.com/coinbureau/status/2125902309800698238",
@@ -2033,6 +2023,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795690960427
+    },
+    {
+      "text": "🚨 JUST IN: The Bank of England warns that quantum computing could break the public-key cryptography behind financial transactions and digital signatures.\n\nIt calls moving to quantum-resistant cryptography an \"immediate\" financial stability priority.",
+      "url": "https://x.com/Cointelegraph/status/2125912630082543801",
+      "images": [
+        "https://pbs.twimg.com/media/HYDCQ5TXMAAhF1e.png",
+        "https://pbs.twimg.com/media/HYDCRRNXkAATCRo.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1795692159208
     }
   ],
   "posted": [
@@ -2670,7 +2670,17 @@
       "at": 1795690632344,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392394519519791?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "S&amp;P Warns It Could Downgrade Nvidia's AA Rating Over The Next 90 Days.\n\nS&amp;P placed Nvidia's AA ratings on CreditWatch Negative and said it could lower them if it determines that deficiencies remain in its management and governance framework.",
+      "final": "S&amp;P Warns It Could Downgrade Nvidia's AA Rating Over The Next 90 Days.\n\nS&amp;P placed Nvidia's AA ratings on CreditWatch Negative and said it could lower them if it determines that deficiencies remain in its management and governance framework.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HYCpPdhWwAATRkN.png",
+        "https://pbs.twimg.com/media/HYCpmI5XQAEEdF-.png"
+      ],
+      "at": 1795692159208,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795690632344
+  "lastPostAt": 1795692159208
 }
