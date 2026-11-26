@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795534378735-n7pmfa",
-    "source": "x",
-    "ts": "2026-11-24T15:32:58.735Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T15:30:01.000Z",
-    "reason": "One-year YoY drop in Bitcoin's hash rate is significant.",
-    "text": "🚨 LATEST: Bitcoin’s hash rate drops 8% YoY for the first time since China’s 2021 mining ban.\n\n@glassnode reports that miners are shutting down machines as hashprice hits an all-time low.",
-    "url": "https://x.com/Cointelegraph/status/2125250592385687602",
-    "images": [
-      "https://pbs.twimg.com/media/HX5MakNWkAAQYSf.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795534382647-wh03gz",
-    "source": "x",
-    "ts": "2026-11-24T15:33:02.647Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-24T15:19:08.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California →",
-    "url": "https://x.com/elonmusk/status/2125249624168702459"
-  },
-  {
-    "id": "x-1795535010591-fooecv",
-    "source": "x",
-    "ts": "2026-11-24T15:43:30.591Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T15:40:54.000Z",
-    "reason": "No notable crypto-related event or movement mentioned.",
-    "text": "🇺🇸 BIG: US consumer confidence soars as election uncertainty ends and gas prices fall.",
-    "url": "https://x.com/Cointelegraph/status/2125253334672064838"
-  },
-  {
     "id": "x-1795535014939-58id9f",
     "source": "x",
     "ts": "2026-11-24T15:43:34.939Z",
@@ -7793,6 +7749,59 @@
     "reason": "Notable interest rate hike by a major regulator.",
     "text": "JUST IN: South Korea hiked interest rates to 3.25%, the highest in two years.",
     "url": "https://x.com/BSCNews/status/2125813296351916251",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795670295488-k4d9j1",
+    "source": "x",
+    "ts": "2026-11-26T05:18:15.488Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-26T05:14:03.000Z",
+    "reason": "Notable regulatory move impacting DeFi.",
+    "text": "🇬🇧 JUST IN: UK regulator FCA plans stricter DeFi rules than the US and EU, citing the $6.3B Binance heist and weak consumer protections, per FT.",
+    "url": "https://x.com/Cointelegraph/status/2125820357202321910",
+    "images": [
+      "https://pbs.twimg.com/media/HYBuWIJWoAEu0YZ.jpg",
+      "https://pbs.twimg.com/media/HYBuWTyXYAAVHQF.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795670298812-zz1lpf",
+    "source": "x",
+    "ts": "2026-11-26T05:18:18.812Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 15,
+    "originTimestamp": "2026-11-26T05:03:00.000Z",
+    "reason": "Binance co-founder advises password changes after a breach.",
+    "text": "CZ Warns 1Password Users to Change Their Passwords After Breach\n\nBinance (@binance) co-founder Changpeng Zhao (@cz_binance) has urged 1Password users to change all their passwords following a security breach.\n\nHackers reportedly accessed an employee's GitHub account and injected",
+    "url": "https://x.com/BSCNews/status/2125817575254696040",
+    "images": [
+      "https://pbs.twimg.com/media/HYBjgKXa0AA9n_3.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795670301672-g3iw3y",
+    "source": "x",
+    "ts": "2026-11-26T05:18:21.672Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 3,
+    "author": "Cointelegraph",
+    "ageMin": 17,
+    "originTimestamp": "2026-11-26T05:00:40.000Z",
+    "reason": "Notable AI breakthroughs could impact cryptocurrency security.",
+    "text": "⚡️ NOW: AI labs likely hold undisclosed cryptography breakthroughs that could threaten the encryption behind crypto wallets, says computer scientist Scott Aaronson.",
+    "url": "https://x.com/Cointelegraph/status/2125816989193040114",
     "images": [],
     "video": null
   }
