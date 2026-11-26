@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795544530338-q81qot",
-    "source": "x",
-    "ts": "2026-11-24T18:22:10.338Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-24T18:17:15.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-    "url": "https://x.com/DecryptMedia/status/2125292678577353037"
-  },
-  {
-    "id": "x-1795544533307-urqypx",
-    "source": "x",
-    "ts": "2026-11-24T18:22:13.307Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-24T18:17:07.000Z",
-    "reason": "Coinkite's postmortem confirms significant security breach.",
-    "text": "Coinkite Releases Coldcard Security Incident Postmortem as 1,778.84 BTC Stolen From Over 8,600 Addresses\n\nBitcoin hardware wallet maker Coinkite has released its postmortem on Coldcard’s seed-generation flaw, confirming that attackers reconstructed private keys offline rather",
-    "url": "https://x.com/WuBlockchain/status/2125292646751154614",
-    "images": [
-      "https://pbs.twimg.com/media/HX6OYtYbsAAq3u1.jpg",
-      "https://pbs.twimg.com/media/HX6OZKxaoAAKpoM.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795544535826-smahc8",
     "source": "x",
     "ts": "2026-11-24T18:22:15.826Z",
@@ -7774,6 +7742,41 @@
     "reason": "Notable regulatory action towards crypto in Russia.",
     "text": "🇷🇺UPDATE: Russia intends to fine unlicensed crypto services, including $USDT up to $30,400.",
     "url": "https://x.com/BSCNews/status/2125899526674481209",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795689734193-48wdzx",
+    "source": "x",
+    "ts": "2026-11-26T10:42:14.193Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T10:39:42.000Z",
+    "reason": "Security breach affecting client information, potential for further regulatory scrutiny.",
+    "text": "⚠️ALERT: Standard Chartered's crypto unit, Zodia Custody, managing $30 BILLION in assets, suffered a security breach this week, its CEO says.\n\nThe breach exposed client names, email addresses and other information.\n\nIt’s unclear if crypto assets were affected.",
+    "url": "https://x.com/coinbureau/status/2125902309800698238",
+    "images": [
+      "https://pbs.twimg.com/media/HYC44QiaQAAnWnj.jpg",
+      "https://pbs.twimg.com/media/HYC44PQasAAbqjY.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795689738785-mcv72x",
+    "source": "x",
+    "ts": "2026-11-26T10:42:18.785Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-26T10:31:35.000Z",
+    "reason": "Notable institutional adoption of Bitcoin in Switzerland.",
+    "text": "🇨🇭 TODAY: Switzerland’s first spot Bitcoin ETF debuts on SIX Swiss Exchange.\n\nThe fund holds BTC directly in cold storage at a Swiss bank and trades in both Swiss francs and US dollars.",
+    "url": "https://x.com/Cointelegraph/status/2125900267585466874",
     "images": [],
     "video": null
   }
