@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795535021033-xsnq65",
-    "source": "x",
-    "ts": "2026-11-24T15:43:41.033Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-24T15:26:57.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "BMTV Analyst @realseanhagan on why every Bitcoin rally keeps getting sold:\n\n\"The average buyer from the last five months paid about $72,700. At a $60,000 give or take price for Bitcoin, they're roughly 17% underwater.\"\n\n\"Every rally towards it is running into these trapped buyers",
-    "url": "https://x.com/BitcoinMagazine/status/2125251834105233610",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2125249798466916352/vid/avc1/1280x720/pliNGr6K-N9LP7KS.mp4?tag=29",
-      "duration": 42,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125249798466916352/img/eYmEkncNVYHVebKg.jpg"
-    }
-  },
-  {
-    "id": "x-1795535025201-pe8p1r",
-    "source": "x",
-    "ts": "2026-11-24T15:43:45.201Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 10,
-    "originTimestamp": "2026-11-24T15:32:32.000Z",
-    "reason": "Notable opinion from a high-profile figure on macroeconomic outlook.",
-    "text": "BREAKING: Billionaire Bill Ackman says the United States economy may face another recession.",
-    "url": "https://x.com/BSCNews/status/2125251226660991039",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795535538978-kpnwee",
     "source": "x",
     "ts": "2026-11-24T15:52:18.978Z",
@@ -7804,5 +7767,42 @@
     "reason": "No notable move in Ethereum within its recent range.",
     "text": "JUST IN: Gold slides to a one year low as Fed rate hike fears grow, with spot prices falling below $3,500.",
     "url": "https://x.com/BSCNews/status/2125821829311078907"
+  },
+  {
+    "id": "x-1795671186780-9k9b76",
+    "source": "x",
+    "ts": "2026-11-26T05:33:06.780Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-26T05:32:24.000Z",
+    "reason": "Specific institutional impact from export controls.",
+    "text": "BREAKING: Nvidia halts chip shipments to Southeast Asia as the US tightens export controls, per FT.\n\nNvidia has reportedly instructed manufacturing partners, including Dell and Supermicro, to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia.\n\nThe impact will",
+    "url": "https://x.com/coinbureau/status/2125824974313476280",
+    "images": [
+      "https://pbs.twimg.com/media/HYByI-5aUAAInvN.png",
+      "https://pbs.twimg.com/media/HYByekGbYAAyEjy.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795671191743-y8d2hu",
+    "source": "x",
+    "ts": "2026-11-26T05:33:11.743Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T05:30:44.000Z",
+    "reason": "Specific price move and market analysis indicating potential market movement.",
+    "text": "🚨 LATEST: Galaxy's Alex Thorn withdraws his call that the Bitcoin bear market ended in June, warning that a daily close below $58,525 could signal a drop to a materially lower low.",
+    "url": "https://x.com/Cointelegraph/status/2125824556132671855",
+    "images": [
+      "https://pbs.twimg.com/media/HYByKfXXcAAZ4ro.jpg"
+    ],
+    "video": null
   }
 ]
