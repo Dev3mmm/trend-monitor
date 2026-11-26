@@ -1,65 +1,5 @@
 [
   {
-    "id": "x-1795554103034-jkx9ok",
-    "source": "x",
-    "ts": "2026-11-24T21:01:43.034Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 25,
-    "originTimestamp": "2026-11-24T20:35:58.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "Team UTXO vs @GolfBSN: 18 holes at RainDance National, an 8,400+ yard course, with a spot in the Bitcoin Golf Championship 2027 on the line.\n\nThat's real proof of golf work right there! \n\nStay for the finish. You won't see it coming 👇",
-    "url": "https://x.com/BitcoinMagazine/status/2125332482627076360"
-  },
-  {
-    "id": "x-1795554725346-e1z3ba",
-    "source": "x",
-    "ts": "2026-11-24T21:12:05.346Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-24T21:01:05.000Z",
-    "reason": "No notable crypto-specific news in the tweet.",
-    "text": "🇺🇸 UPDATE: New York State Senator Jeremy Cooney has proposed a 10% tax on prediction market operators’ net trading fee revenue to help fund universal pre-K, per Politico.",
-    "url": "https://x.com/Cointelegraph/status/2125333909223207140",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795555329812-tl5emp",
-    "source": "x",
-    "ts": "2026-11-24T21:22:09.812Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T21:20:53.000Z",
-    "reason": "Large codebase upgrade for Sei ahead of significant network development.",
-    "text": "⚡️ JUST IN: Sei launches v6.8 on mainnet, marking its largest codebase upgrade to date ahead of the Giga testnet launch.",
-    "url": "https://x.com/Cointelegraph/status/2125338891221651741",
-    "images": [
-      "https://pbs.twimg.com/media/HX64dPxXgAArr3b.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795555335452-zkty5w",
-    "source": "x",
-    "ts": "2026-11-24T21:22:15.452Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T21:19:31.000Z",
-    "reason": "No notable moves described are outside the typical recent price ranges.",
-    "text": "RED DAY: Crypto loses 2.2%, and the Nasdaq falls 1.5%, a day after the Huang rally.\n\n$BTC -2.4%\n$ETH -3.2%\n$SOL -5.0%\n$XRP -2.4%\n$BNB -1.9%\n$NVDA -6.3%",
-    "url": "https://x.com/BSCNews/status/2125338548958335241"
-  },
-  {
     "id": "x-1795555339899-zx1xnm",
     "source": "x",
     "ts": "2026-11-24T21:22:19.899Z",
@@ -7752,5 +7692,62 @@
       "https://pbs.twimg.com/media/HYCoX2zXEAEJhf-.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795698139573-6s1fku",
+    "source": "x",
+    "ts": "2026-11-26T13:02:19.573Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 0,
+    "originTimestamp": "2026-11-26T13:01:41.000Z",
+    "reason": "Generic hype with no real content.",
+    "text": "🇺🇸 TRUMP: \"The Trump Economy is ROARING\"",
+    "url": "https://x.com/Cointelegraph/status/2125938039369220224"
+  },
+  {
+    "id": "x-1795698142135-lzfwtl",
+    "source": "x",
+    "ts": "2026-11-26T13:02:22.135Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-26T12:56:04.000Z",
+    "reason": "No notable crypto-related event mentioned.",
+    "text": "🇮🇹UPDATE: Italian Prime Minister delays support for EU's proposed multiyear budget framework.",
+    "url": "https://x.com/BSCNews/status/2125936627730329610"
+  },
+  {
+    "id": "x-1795698146186-delxu0",
+    "source": "x",
+    "ts": "2026-11-26T13:02:26.186Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "CZ 🔶 BNB",
+    "ageMin": 95,
+    "originTimestamp": "2026-11-26T11:26:46.000Z",
+    "reason": "The tweet describes a serious security vulnerability revealing sensitive information.",
+    "text": "a food delivery app was secretly scanning customer photos for crypto seed phrases\n\napple just flagged a chinese delivery app called wukong as malware on ios\n\nthe app was using ocr to go through customer photo libraries looking for screenshots of seed phrases and wallet keys",
+    "url": "https://x.com/cz_binance/status/2125936253946429452",
+    "images": [
+      "https://pbs.twimg.com/media/HYDDpsJXEAAvzKJ.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795698151064-hiainy",
+    "source": "x",
+    "ts": "2026-11-26T13:02:31.064Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-26T12:53:08.000Z",
+    "reason": "No notable move or verifiable news event.",
+    "text": "Historical Bitcoin prices on Thanksgiving 🦃\n\n2013: $1,008\n2014: $369\n2015: $353\n2016: $737\n2017: $8,180\n2018: $4,411\n2019: $7,459\n2020: $17,400\n2021: $58,710\n2022: $16,524\n2023: $37,307\n2024: $95,527\n2025: $90,983\n2026: $60,840\n\nHODL 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2125935889398313211"
   }
 ]
