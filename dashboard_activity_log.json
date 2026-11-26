@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795594407358-3a24bi",
-    "source": "x",
-    "ts": "2026-11-25T08:13:27.358Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-25T08:02:27.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🎙️ INSIGHT: @stacks co-founder @muneeb thinks 2030 is a pretty reasonable year to focus on getting Bitcoin quantum upgrade done.\n\n#CHAINREACTION",
-    "url": "https://x.com/Cointelegraph/status/2125500348383068560"
-  },
-  {
-    "id": "x-1795594937328-t2n7bd",
-    "source": "x",
-    "ts": "2026-11-25T08:22:17.328Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-25T08:18:22.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "SOLD OUT 🎟️\n\n#BinanceBlockchainWeek Bangkok is officially at full capacity.\n\nThank you to everyone who secured their spot. \n\nWe can’t wait to see you in Bangkok 🫡",
-    "url": "https://x.com/binance/status/2125504351968084242"
-  },
-  {
     "id": "x-1795594942379-c870zg",
     "source": "x",
     "ts": "2026-11-25T08:22:22.379Z",
@@ -7654,6 +7628,40 @@
     "reason": "Notable regulatory move affecting crypto transactions.",
     "text": "🇪🇸 JUST IN: Spain moves to grant its financial intelligence unit the power to freeze crypto accounts and halt transactions without prior judicial approval in suspected money laundering or terrorist financing cases.",
     "url": "https://x.com/Cointelegraph/status/2126038441288757593",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795722793719-33v66k",
+    "source": "x",
+    "ts": "2026-11-26T19:53:13.720Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-26T19:44:00.000Z",
+    "reason": "Specific institutional adoption by major financial systems.",
+    "text": "Cosmos is now on the shelf where US banks pick their software\n\nThe @cosmos Tokenization Suite is now listed on the @Fiserv AppMarket and in the Fintech Integration Network run by Jack Henry (@JH_Fintech). Both companies run core systems behind many US banks.\n\nBanks on those",
+    "url": "https://x.com/BSCNews/status/2126039285790912691",
+    "images": [
+      "https://pbs.twimg.com/media/HYEpIohWYAAZkue.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795722796968-ep4vd3",
+    "source": "x",
+    "ts": "2026-11-26T19:53:16.968Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-26T19:43:05.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "JUST IN: Lab tests by a Bitcoin Core contributor show that a planted payment costing under $0.35 can tie a Bitcoin address to the IP address of the node tracking it.",
+    "url": "https://x.com/BSCNews/status/2126039057687835001",
     "images": [],
     "video": null
   }
