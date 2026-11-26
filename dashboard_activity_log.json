@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795536811601-pqelz1",
-    "source": "x",
-    "ts": "2026-11-24T16:13:31.601Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-24T16:06:53.000Z",
-    "reason": "Europol's tracing of crypto funds suggests significant regulatory attention to illegal activities.",
-    "text": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-    "url": "https://x.com/DecryptMedia/status/2125259872220381404",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795537311703-lwjxe1",
     "source": "x",
     "ts": "2026-11-24T16:21:51.703Z",
@@ -7793,5 +7777,23 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🚨 ALERT: $VVV plunges more than -15% as explosive privacy allegations rock the billion-dollar company marketed as a private, self-hosted AI platform.\n\nA researcher reveals that 14 of the 18 image-recognition models tested on Venice AI routed requests to third-party inference",
     "url": "https://x.com/coinbureau/status/2125840724034011406"
+  },
+  {
+    "id": "x-1795675933518-0gphe9",
+    "source": "x",
+    "ts": "2026-11-26T06:52:13.518Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-26T06:47:10.000Z",
+    "reason": "Notable institutional action with major crypto exchanges suspending trading on multiple pairs.",
+    "text": "Coinbase's Latest Cleanup Hits Cardano, Stellar &amp; Other Altcoins\n\nCoinbase (@coinbase) has suspended trading on 12 selected crypto pairs.\n\nThe affected markets include $ADA - $ETH, stellar:native - $BTC, $ICP - $BTC, cosmos:native - $USDT and algorand:native - $BTC.\n\nThe exchange",
+    "url": "https://x.com/BSCNews/status/2125843792112816531",
+    "images": [
+      "https://pbs.twimg.com/media/HYB8yf1aYAAnCEV.png"
+    ],
+    "video": null
   }
 ]
