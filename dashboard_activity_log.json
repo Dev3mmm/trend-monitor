@@ -1,60 +1,5 @@
 [
   {
-    "id": "x-1795557720625-5uw0rz",
-    "source": "x",
-    "ts": "2026-11-24T22:02:00.625Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-24T22:01:04.000Z",
-    "reason": "Specific trading signals on Bitcoin options market.",
-    "text": "🚨 ALERT: Bitcoin options traders are betting on further price declines at levels not seen since June 2022, when BTC was trading near $20,000, per Glassnode.",
-    "url": "https://x.com/Cointelegraph/status/2125349005886431376",
-    "images": [
-      "https://pbs.twimg.com/media/HX7BqBCXgAAl3rj.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795557724146-72s57w",
-    "source": "x",
-    "ts": "2026-11-24T22:02:04.146Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T22:00:00.000Z",
-    "reason": "AI risk mentioned by Ethereum Foundation is significant cybersecurity issue.",
-    "text": "Ethereum Foundation Says AI Has Emerged As \"A More Urgent Risk\" Than Quantum Computing.\n\nIn a Nov. 23 post, the foundation said it has doubled the size of its protocol security team and is advocating for hash-based cryptography to replace elliptic curves.",
-    "url": "https://x.com/DecryptMedia/status/2125348735261802505",
-    "images": [
-      "https://pbs.twimg.com/media/HX6UIq5XkAApfhC.png",
-      "https://pbs.twimg.com/media/HX6UXZCXUAAXpNm.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795557728264-dtigiu",
-    "source": "x",
-    "ts": "2026-11-24T22:02:08.264Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Phyrex",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-24T21:59:30.000Z",
-    "reason": "Notable legal action against cryptocurrency content creators.",
-    "text": "X 把两名经营 Bitcoin 相关内容的用户告上了法庭。\n\n据 X 所说这两人通过 6 个账号互相点赞、转发，把互动量做高，从平台拿到了至少 20.7 万英镑的创作者分成。\n\n11月20日英格兰及威尔士高等法院作出缺席判决，X 胜诉。两名被告收到起诉材料后都没有在期限内提交答辩。\n\n看来撸 X 的羊毛是有风险的。",
-    "url": "https://x.com/PhyrexNi/status/2125348609202020420",
-    "images": [
-      "https://pbs.twimg.com/media/HX7AV6FaUAARfK0.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795557731453-vgx5xo",
     "source": "x",
     "ts": "2026-11-24T22:02:11.453Z",
@@ -7743,5 +7688,49 @@
     "reason": "No notable crypto-related news provided.",
     "text": "🇺🇸UPDATE: S&amp;P 500 futures has rebounded from recent lows to 7,248, up nearly 4%.",
     "url": "https://x.com/BSCNews/status/2125945048303030446"
+  },
+  {
+    "id": "x-1795700524157-mrkvgt",
+    "source": "x",
+    "ts": "2026-11-26T13:42:04.157Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-26T13:40:42.000Z",
+    "reason": "Announcement of partnership and conference participation.",
+    "text": "We are happy to announce that Cointelegraph is a Media Partner of @proofoftalk Abu Dhabi.\n\nOn December 3 and 4, 2,000 decision-makers in digital assets and AI meet under the dome at the Louvre Abu Dhabi. We will be there with our community.\n\nSee you at the Louvre Abu Dhabi.",
+    "url": "https://x.com/Cointelegraph/status/2125947857152754123",
+    "images": [
+      "https://pbs.twimg.com/media/HYDiToxWkAAzcNr.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795700526168-0tottq",
+    "source": "x",
+    "ts": "2026-11-26T13:42:06.168Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T13:39:49.000Z",
+    "reason": "Tweet is unrelated to cryptocurrencies and blockchain technology.",
+    "text": "🇰🇼🇮🇷BREAKING: Kuwaiti military confirms 4 people were injured in an Iranian drone strike on a key facility in Kuwait.",
+    "url": "https://x.com/BSCNews/status/2125947635790135497"
+  },
+  {
+    "id": "x-1795700528568-aox8fn",
+    "source": "x",
+    "ts": "2026-11-26T13:42:08.568Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-26T13:31:39.000Z",
+    "reason": "No notable move or specific event, just speculation and opinion.",
+    "text": "🎥 WATCH: Could Strategy survive a decade-long crypto winter even if Bitcoin crashes to $20,000?\n\nTD Cowen's Lance Vitanza thinks so. However, he believes many other Bitcoin treasury companies won't survive a prolonged bear market.\n\nFind out why:",
+    "url": "https://x.com/Cointelegraph/status/2125945580429996358"
   }
 ]
