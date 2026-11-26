@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795602783412-i9m5jn",
-    "source": "x",
-    "ts": "2026-11-25T10:33:03.412Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-25T10:25:52.000Z",
-    "reason": "Notable regulatory move affecting a major geopolitical region.",
-    "text": "🇺🇦JUST IN: Ukraine has officially legalized the crypto market.",
-    "url": "https://x.com/BSCNews/status/2125536440981537114",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795603327189-aaoyur",
-    "source": "x",
-    "ts": "2026-11-25T10:42:07.189Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T10:39:42.000Z",
-    "reason": "Nvidia stock price movement is significant for crypto as it's a major player in the industry.",
-    "text": "BREAKING: Nvidia ($NVDA) drops another -5.2% premarket, erasing nearly half its rally since Jensen Huang returned as CEO.",
-    "url": "https://x.com/coinbureau/status/2125539922945982876",
-    "images": [
-      "https://pbs.twimg.com/media/HX9uIh-bQAAfUJe.png"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795603331860-rgjr8f",
     "source": "x",
     "ts": "2026-11-25T10:42:11.860Z",
@@ -7658,5 +7624,39 @@
     "reason": "No notable move in Terra Classic's price or governance upgrade.",
     "text": "Terra Classic votes yes on the v4.2.0 upgrade with 91% support\n\nVoting on proposal 12239 closed today, with about 649 billion terra-luna:native taking part.\n\nThe upgrade lets the community change the list of wallets freed from the burn tax through governance votes, a function",
     "url": "https://x.com/BSCNews/status/2126068729683608040"
+  },
+  {
+    "id": "x-1795729921265-dyfy8y",
+    "source": "x",
+    "ts": "2026-11-26T21:52:01.265Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-26T21:50:55.000Z",
+    "reason": "Price is well outside the recent trading range, a genuine breakout even though the tweet doesn't say so explicitly.",
+    "text": "🚨 UPDATE: TD Cowen’s Lance Vitanza says Bitcoin would need to remain at levels that prevent Strategy from raising additional capital for over 45 years before the company could no longer service its obligations.",
+    "url": "https://x.com/Cointelegraph/status/2126071226242101312",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2126071159007350785/vid/avc1/1280x720/936GSPWvevmPYQr5.mp4?tag=16",
+      "duration": 50,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126071159007350785/img/fudZbvg8ojU-JNaq.jpg"
+    }
+  },
+  {
+    "id": "x-1795729923911-plhz07",
+    "source": "x",
+    "ts": "2026-11-26T21:52:03.911Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-26T21:50:35.000Z",
+    "reason": "No notable move in crypto related to the tweet.",
+    "text": "🇺🇸JUST IN: Elon Musk says he will donate another SpaceX share to every child in America each year, on top of the two shares pledged this week.",
+    "url": "https://x.com/BSCNews/status/2126071140598911118"
   }
 ]
