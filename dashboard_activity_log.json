@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795607517643-j9dyun",
-    "source": "x",
-    "ts": "2026-11-25T11:51:57.643Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T11:50:40.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "🇺🇸JUST IN: Nasdaq-100 futures Monday's 6.9% rally, sparked by Jensen Huang's reinstatement, has been erased completely.",
-    "url": "https://x.com/BSCNews/status/2125557781508038871",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795608178863-dqz1rd",
-    "source": "x",
-    "ts": "2026-11-25T12:02:58.863Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T12:01:20.000Z",
-    "reason": "No concrete evidence of a significant price movement or event.",
-    "text": "🔥 LATEST: Bitcoin has fallen below the lowest band of the Bitcoin Rainbow Chart, labeled \"Basically a Fire Sale.\"\n\nAre you buying the dip?",
-    "url": "https://x.com/Cointelegraph/status/2125560464385933723"
-  },
-  {
     "id": "x-1795608183965-tke0ys",
     "source": "x",
     "ts": "2026-11-25T12:03:03.965Z",
@@ -7657,5 +7628,37 @@
     "reason": "No notable move, price is well within its recent range.",
     "text": "🚨 Michael Saylor's Strategy just hit a RECORD 12% discount to its own bitcoin, and JPMorgan calls it CAPITULATION.\n\nThat means the whole company was valued at LESS than the bitcoin it holds.\n\nJPMorgan says that signals capitulation, the point where investors give up on bitcoin",
     "url": "https://x.com/coinbureau/status/2126091658441953728"
+  },
+  {
+    "id": "x-1795735941215-u5rc90",
+    "source": "x",
+    "ts": "2026-11-26T23:32:21.215Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T23:30:10.000Z",
+    "reason": "No notable move in crypto prices or events.",
+    "text": "🇺🇸 ELON MUSK: “I will be donating another share of SpaceX to all kids in America every year.”",
+    "url": "https://x.com/Cointelegraph/status/2126096205243461961"
+  },
+  {
+    "id": "x-1795735946938-nxisg8",
+    "source": "x",
+    "ts": "2026-11-26T23:32:26.938Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T23:30:01.000Z",
+    "reason": "Notable regulatory move with the debut of a Bitcoin ETF in Switzerland.",
+    "text": "Switzerland Gets Its First Spot Bitcoin ETF As BBIT Debuts On SIX.\n\nThe Bitcoin Fund ETF, sponsored and managed by BIT Asset Management, holds its Bitcoin offline at a Swiss bank and trades in USD and CHF, though BIT says it is \"Switzerland only\" and \"not for US persons.\"",
+    "url": "https://x.com/DecryptMedia/status/2126096164739072082",
+    "images": [
+      "https://pbs.twimg.com/media/HYE6xMuWkAAUr30.png",
+      "https://pbs.twimg.com/media/HYE6228WgAApPop.png"
+    ],
+    "video": null
   }
 ]
