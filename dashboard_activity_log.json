@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795561391247-knbysc",
-    "source": "x",
-    "ts": "2026-11-24T23:03:11.247Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-24T22:54:00.000Z",
-    "reason": "New use of a token for automated interest payments is noteworthy.",
-    "text": "A tokenized bond that pays its interest automatically, set up with one command? @hedera (hedera-hashgraph:native) has five new finance templates running on testnet. Learn more: ⬇️",
-    "url": "https://x.com/BSCNews/status/2125362324730949680",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795561948352-740lo7",
-    "source": "x",
-    "ts": "2026-11-24T23:12:28.352Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-24T23:09:23.000Z",
-    "reason": "No notable crypto-related event or move.",
-    "text": "JUST IN: 🇺🇸 President Trump says he's willing to pardon Nvidia CEO Jensen Huang if necessary\n\nTrump says a pardon is \"always an option,\" but he doesn't think \"it'll be necessary.\"\n\nThe President doesn't think Huang \"needs to take the Fifth\" when he faces Congress on Dec 1 and Dec",
-    "url": "https://x.com/coinbureau/status/2125366199219560719"
-  },
-  {
-    "id": "x-1795561953135-qodoox",
-    "source": "x",
-    "ts": "2026-11-24T23:12:33.135Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-24T23:02:36.000Z",
-    "reason": "No notable move in ETH price mentioned.",
-    "text": "🎙️LATEST: @stacks co-founder @muneeb tells @itsciaranlyons how Stacks is helping Bitcoin address emerging security threats from AI and quantum computing.\n\n#CHAINREACTION",
-    "url": "https://x.com/Cointelegraph/status/2125364489088283081"
-  },
-  {
     "id": "x-1795562549538-u87h6e",
     "source": "x",
     "ts": "2026-11-24T23:22:29.538Z",
@@ -7727,5 +7685,47 @@
     "url": "https://x.com/DecryptMedia/status/2125960252709601704",
     "images": [],
     "video": null
+  },
+  {
+    "id": "x-1795704137791-zavdbd",
+    "source": "x",
+    "ts": "2026-11-26T14:42:17.791Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-26T14:40:40.000Z",
+    "reason": "No notable crypto-related news in the tweet.",
+    "text": "🇪🇺 LATEST: ECB meeting minutes signal another interest rate hike is likely unless the inflation outlook improves significantly.\n\nPolicymakers also raised concerns over a potential AI-driven stock market correction and growing debt-financed AI investments.",
+    "url": "https://x.com/Cointelegraph/status/2125962952213758177"
+  },
+  {
+    "id": "x-1795704141421-htrtj2",
+    "source": "x",
+    "ts": "2026-11-26T14:42:21.421Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T14:40:15.000Z",
+    "reason": "Quintillion is an extreme overstatement without basis.",
+    "text": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+    "url": "https://x.com/DecryptMedia/status/2125962844462014657",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795704144120-eoph0g",
+    "source": "x",
+    "ts": "2026-11-26T14:42:24.120Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-26T14:39:59.000Z",
+    "reason": "No notable move in crypto related to ECB President.",
+    "text": "JUST IN: Pablo Hernández de Cos set to succeed Christine Lagarde as ECB President in 2027.",
+    "url": "https://x.com/BSCNews/status/2125962778493977059"
   }
 ]
