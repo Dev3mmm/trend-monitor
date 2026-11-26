@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794339721484-76qgos",
     "x-1794340353533-vq5hua",
     "x-1794340362615-f7f9c5",
     "x-1794340368171-e4mpj9",
@@ -1999,18 +1998,10 @@
     "x-1795700524157-mrkvgt",
     "x-1795701745442-lbx8va",
     "x-1795702376136-lsp369",
-    "x-1795702380119-kj805q"
+    "x-1795702380119-kj805q",
+    "x-1795702953222-84fb62"
   ],
   "queue": [
-    {
-      "text": "a food delivery app was secretly scanning customer photos for crypto seed phrases\n\napple just flagged a chinese delivery app called wukong as malware on ios\n\nthe app was using ocr to go through customer photo libraries looking for screenshots of seed phrases and wallet keys",
-      "url": "https://x.com/cz_binance/status/2125936253946429452",
-      "images": [
-        "https://pbs.twimg.com/media/HYDDpsJXEAAvzKJ.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795698151681
-    },
     {
       "text": "We are happy to announce that Cointelegraph is a Media Partner of @proofoftalk Abu Dhabi.\n\nOn December 3 and 4, 2,000 decision-makers in digital assets and AI meet under the dome at the Louvre Abu Dhabi. We will be there with our community.\n\nSee you at the Louvre Abu Dhabi.",
       "url": "https://x.com/Cointelegraph/status/2125947857152754123",
@@ -2019,6 +2010,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795700529615
+    },
+    {
+      "text": "🚨 UPDATE: Binance hacker moves another $35.52M in $ETH, with $1.9B still held in unfrozen crypto holdings, per Onchain Lens.",
+      "url": "https://x.com/Cointelegraph/status/2125957928444187057",
+      "images": [
+        "https://pbs.twimg.com/media/HYDrdlzXgAA6l_3.jpg",
+        "https://pbs.twimg.com/media/HYDrd2zWsAArkW0.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795702959127
     }
   ],
   "posted": [
@@ -2660,7 +2661,16 @@
       "at": 1795701164085,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392437658486169?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "a food delivery app was secretly scanning customer photos for crypto seed phrases\n\napple just flagged a chinese delivery app called wukong as malware on ios\n\nthe app was using ocr to go through customer photo libraries looking for screenshots of seed phrases and wallet keys",
+      "final": "a food delivery app was secretly scanning customer photos for crypto seed phrases\n\napple just flagged a chinese delivery app called wukong as malware on ios\n\nthe app was using ocr to go through customer photo libraries looking for screenshots of seed phrases and wallet keys\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HYDDpsJXEAAvzKJ.jpg"
+      ],
+      "at": 1795702959127,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795701164085
+  "lastPostAt": 1795702959127
 }
