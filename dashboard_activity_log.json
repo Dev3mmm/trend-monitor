@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795539752384-rex7kz",
-    "source": "x",
-    "ts": "2026-11-24T17:02:32.384Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-24T16:55:55.000Z",
-    "reason": "No notable crypto-related event or token movement mentioned.",
-    "text": "🚨 JUST IN: Anthropic and OpenAI employees are reportedly warning that unreleased AI models have become too powerful to be safely released, per Axios.",
-    "url": "https://x.com/Cointelegraph/status/2125272210575069609"
-  },
-  {
     "id": "x-1795540321878-lr2m6n",
     "source": "x",
     "ts": "2026-11-24T17:12:01.878Z",
@@ -7783,5 +7770,23 @@
     "reason": "No notable crypto-related event or movement.",
     "text": "🦃THANKSGIVING FUN FACT!\n\nIn 2010, a Thanksgiving dinner costing $43.47 could buy about 155 BTC.\n\nThis year, the same dinner costs $58.63, and only buys about 0.001 BTC.\n\nHere's $BTC price on every Thanksgiving:\n\n2010: $0.28\n2011: $2.41\n2012: $11.92\n2013: $1,032\n2014: $370\n2015:",
     "url": "https://x.com/coinbureau/status/2125866152005931047"
+  },
+  {
+    "id": "x-1795681991847-eb3gci",
+    "source": "x",
+    "ts": "2026-11-26T08:33:11.847Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-26T08:26:10.000Z",
+    "reason": "Notable institution launching stablecoin on-ramp on Arbitrum.",
+    "text": "Arbitrum Just Got a Private On-Ramp For Stablecoins\n\nHinkal (@hinkal_protocol) has launched private stablecoin on-ramps on Arbitrum (@arbitrum) $ARB.\n\nUsers can send funds directly into private wallet balances through existing on-ramp services. Supported assets include $USDC,",
+    "url": "https://x.com/BSCNews/status/2125868704269578573",
+    "images": [
+      "https://pbs.twimg.com/media/HYCK321aQAAbRAt.png"
+    ],
+    "video": null
   }
 ]
