@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795612940801-q0q3gg",
-    "source": "x",
-    "ts": "2026-11-25T13:22:20.801Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-25T13:16:30.000Z",
-    "reason": "Notable regulatory move affecting cryptocurrency users.",
-    "text": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-    "url": "https://x.com/DecryptMedia/status/2125579379933630611",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795613536507-44lz4s",
     "source": "x",
     "ts": "2026-11-25T13:32:16.507Z",
@@ -7670,5 +7654,26 @@
       "https://pbs.twimg.com/media/HYGgJ4IWoAAosmr.png"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795750906966-onr6ov",
+    "source": "x",
+    "ts": "2026-11-27T03:41:46.966Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T03:39:43.000Z",
+    "reason": "New use of a token/stablecoin (Solana Playground) by a major player (Solana)",
+    "text": "🔥 JUST IN: Solana introduces Solana Playground, a browser-based tool where devs can learn, build and deploy Solana programs with help from an AI agent that explains and edits code.",
+    "url": "https://x.com/Cointelegraph/status/2126159002740650353",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2125608673414111232/vid/avc1/1280x720/nObGjD7qwufPMS4P.mp4?tag=29",
+      "duration": 34,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125608673414111232/img/7q2zK_TO13jPtTse.jpg"
+    }
   }
 ]
