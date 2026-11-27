@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795648394778-84mzae",
-    "source": "x",
-    "ts": "2026-11-25T23:13:14.778Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-25T22:59:37.000Z",
-    "reason": "Noise: Generic list with no specific actionable information.",
-    "text": "This week at Bitcoin Magazine 📰 \n\n- BMTV\n- Strategy's @saylor says +457 BTC\n- Nvidia news\n- South Korea\n- American Bitcoin +73 BTC\n- Bitcoin &amp; Gold\n- CFTC &amp; Bitcoin\n- Italy's UniCredit Bank\n- Payward &amp; BTC Cashback\n- Ukraine\n- Tariffs\n- Black Friday\n- SBR is alive!\n- Dormant BTC",
-    "url": "https://x.com/BitcoinMagazine/status/2125726801280585765"
-  },
-  {
-    "id": "x-1795648909199-tk3o0i",
-    "source": "x",
-    "ts": "2026-11-25T23:21:49.199Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-25T23:18:00.000Z",
-    "reason": "Notable institutional adoption of Cardano's stablecoin.",
-    "text": "Cardano's stablecoin economy just got its biggest glow-up ever.\n\n@Cardano is now live on @brale_xyz, meaning that businesses can now launch their own regulated, USD-backed stablecoins on $ADA.\n\nThey can also use Cardano-based stablecoins for things like \"settlement, payouts and",
-    "url": "https://x.com/BSCNews/status/2125730752646267250",
-    "images": [
-      "https://pbs.twimg.com/media/HX93I1NW4AAU0rg.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795649558485-6n1znk",
     "source": "x",
     "ts": "2026-11-25T23:32:38.485Z",
@@ -7697,5 +7666,36 @@
     "reason": "No notable move or specific event described.",
     "text": "🔥ONE 'BIG TECH' MOVE COULD BRING THE RALLY BACK\n\nJensen Huang’s return to Nvidia sparked a rally that lasted just one day. \n\nEven Anthropic’s $81.3 billion IPO failed to restore lasting confidence in the AI trade.\n\nSince early October, Meta, Alphabet, Microsoft and Amazon have",
     "url": "https://x.com/coinbureau/status/2126396821329285316"
+  },
+  {
+    "id": "x-1795809178356-mxzs2t",
+    "source": "x",
+    "ts": "2026-11-27T19:52:58.356Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-27T19:47:15.000Z",
+    "reason": "No notable move; price is within the recent trading range.",
+    "text": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+    "url": "https://x.com/DecryptMedia/status/2126402491067613512"
+  },
+  {
+    "id": "x-1795809182439-a01uqg",
+    "source": "x",
+    "ts": "2026-11-27T19:53:02.439Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-27T19:47:00.000Z",
+    "reason": "Notable change in Near protocol's AI encryption.",
+    "text": "NEAR AI tightens encryption for private AI chats that pass through middlemen\n\n@near_ai ($NEAR) has switched on version 3 of its end-to-end encryption, which scrambles a prompt on the user's device so only the AI model can read it.\n\nEvery sensitive field must now be encrypted,",
+    "url": "https://x.com/BSCNews/status/2126402428413018423",
+    "images": [
+      "https://pbs.twimg.com/media/HYJ8DFiXEAACndG.jpg"
+    ],
+    "video": null
   }
 ]
