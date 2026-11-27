@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795653734499-2n2h4l",
-    "source": "x",
-    "ts": "2026-11-26T00:42:14.499Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-26T00:30:42.000Z",
-    "reason": "Solo miner earns significant BTC, highlighting on-chain activity.",
-    "text": "🔥 TODAY: A solo miner has successfully mined a block, earning 3.178 $BTC worth about $186K.",
-    "url": "https://x.com/Cointelegraph/status/2125749047671615510",
-    "images": [
-      "https://pbs.twimg.com/media/HYAtfUlWkAAsnH-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795653737868-k3vcl1",
-    "source": "x",
-    "ts": "2026-11-26T00:42:17.869Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 18,
-    "originTimestamp": "2026-11-26T00:24:00.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Polkadot still the world's most decentralised blockchain...?!\n\nAccording to data from @chainspect_app, @Polkadot $DOT is still the industry's #1 most decentralised blockchain by Nakamoto Coefficient.\n\nIt boasts 400 validators and a Nakamoto Coefficient of 118, placing it well",
-    "url": "https://x.com/BSCNews/status/2125747362031353990"
-  },
-  {
     "id": "x-1795654932211-34ldkp",
     "source": "x",
     "ts": "2026-11-26T01:02:12.212Z",
@@ -7674,5 +7643,39 @@
     "reason": "No notable move in crypto indicated.",
     "text": "🇺🇸TODAY: US stocks rally with the Nasdaq up 2.3%, the S&amp;P 500 up 1.6%, and the Dow up 1.2%",
     "url": "https://x.com/BSCNews/status/2126414189430177939"
+  },
+  {
+    "id": "x-1795812709888-2pv2zc",
+    "source": "x",
+    "ts": "2026-11-27T20:51:49.888Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-27T20:47:15.000Z",
+    "reason": "Notable analysis of Bitcoin's potential by a research firm.",
+    "text": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+    "url": "https://x.com/DecryptMedia/status/2126417591136637407",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795812712848-f6t84s",
+    "source": "x",
+    "ts": "2026-11-27T20:51:52.848Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-27T20:46:00.000Z",
+    "reason": "Franklin Templeton's adoption of Ondo adds institutional crypto use to the platform.",
+    "text": "Four more Franklin Templeton ETFs go onchain through Ondo\n\n@Ondo ($ONDO) has added tokenized versions of four Franklin Templeton funds to Ondo Stocks: two bond ETFs, a US stock index ETF, and a US equity ETF tied to a Bitcoin index.\n\nFranklin Templeton (@FranklnTempletn) manages",
+    "url": "https://x.com/BSCNews/status/2126417276127867171",
+    "images": [
+      "https://pbs.twimg.com/media/HYKGR_OWMAAGlLJ.jpg"
+    ],
+    "video": null
   }
 ]
