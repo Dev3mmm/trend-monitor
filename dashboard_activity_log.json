@@ -1,50 +1,5 @@
 [
   {
-    "id": "x-1795609348604-oandtd",
-    "source": "x",
-    "ts": "2026-11-25T12:22:28.604Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T12:20:02.000Z",
-    "reason": "No notable move or specific claim, just a prediction.",
-    "text": "🇺🇸NOW: Bank of America predicts a price of 7,800 for the S&amp;P 500 next year.",
-    "url": "https://x.com/BSCNews/status/2125565170919546940"
-  },
-  {
-    "id": "x-1795609953220-9zve1u",
-    "source": "x",
-    "ts": "2026-11-25T12:32:33.220Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T12:30:00.000Z",
-    "reason": "Notable regulatory enforcement and enforcement criticism from a high-profile political figure.",
-    "text": "Schumer Says Jensen Huang Shipped \"extremely advanced chips to China, violating US export control law.\"\n\nOn Nov. 24, the Senate Democratic leader called it \"an unfathomable failure of enforcement by the Trump administration\" and urged passing bipartisan export control bills.",
-    "url": "https://x.com/DecryptMedia/status/2125567678966571392",
-    "images": [
-      "https://pbs.twimg.com/media/HX9ajQnXcAAk8vK.png",
-      "https://pbs.twimg.com/media/HX9am3XXoAE7Ew8.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795609958504-8g0s9u",
-    "source": "x",
-    "ts": "2026-11-25T12:32:38.504Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-25T12:28:18.000Z",
-    "reason": "No specific concrete event or move to verify.",
-    "text": "🚨TODAY: All eyes on PCE, GDP, and other U.S. macro data\n\nThe market has all but priced in a December hike. The question now is 25 or 50 basis points.\n\nToday’s PCE could tip the odds. \n\nHeadline inflation is expected to climb to 3.8% year over year. A hotter print could",
-    "url": "https://x.com/coinbureau/status/2125567249708994990"
-  },
-  {
     "id": "x-1795609964609-uo0upi",
     "source": "x",
     "ts": "2026-11-25T12:32:44.609Z",
@@ -7657,5 +7612,55 @@
     "reason": "No notable move in ETH price, price is within its recent range.",
     "text": "One of the most vibrant and loyal communities in all of blockchain.\n\nMeet @Chainlink's so-called ' $LINK Marines ' ⬇️",
     "url": "https://x.com/BSCNews/status/2126105974876578228"
+  },
+  {
+    "id": "x-1795740115676-cazl16",
+    "source": "x",
+    "ts": "2026-11-27T00:41:55.676Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 12,
+    "originTimestamp": "2026-11-27T00:29:15.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸 JUST IN: President Trump says Jensen Huang is a very important part of Nvidia.\n\n“I think it's a great thing that he's going back.”",
+    "url": "https://x.com/Cointelegraph/status/2126111072428212470"
+  },
+  {
+    "id": "x-1795740119568-4pv7uq",
+    "source": "x",
+    "ts": "2026-11-27T00:41:59.568Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 14,
+    "originTimestamp": "2026-11-27T00:27:21.000Z",
+    "reason": "Security incident impacting SAP, a significant institution in the crypto and financial industry.",
+    "text": "JUST IN: SAP, whose cloud serves over 300 MILLION users, has been hit by a security incident in its software development, per Handelsblatt.\n\nSAP says it found \"suspicious activities\" and took countermeasures, with no signs so far that customers' business data was accessed.",
+    "url": "https://x.com/coinbureau/status/2126110593275031779",
+    "images": [
+      "https://pbs.twimg.com/media/HYF2T4ybEAAJDP3.jpg",
+      "https://pbs.twimg.com/media/HYF2T41bcAAG2Wc.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795740123456-go2gqj",
+    "source": "x",
+    "ts": "2026-11-27T00:42:03.456Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 19,
+    "originTimestamp": "2026-11-27T00:23:00.000Z",
+    "reason": "Notable whale activity and potential market sentiment shift indicated.",
+    "text": "Did this whale just dump $36M worth of $ZEC?!\n\nNot everyone is bullish on blockchain privacy... \n\nAccording to @lookonchain, one @Zcash whale has sent 47,501 $ZEC coins, worth $35.8M, to the @Binance exchange in the space of just 12 hours. \n\nThe activity seems to reflect waning",
+    "url": "https://x.com/BSCNews/status/2126109498255589503",
+    "images": [
+      "https://pbs.twimg.com/media/HYD0I-XWMAAZYd9.jpg"
+    ],
+    "video": null
   }
 ]
