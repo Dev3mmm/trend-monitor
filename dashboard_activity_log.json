@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1795641765169-jctvce",
-    "source": "x",
-    "ts": "2026-11-25T21:22:45.169Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-25T21:17:15.000Z",
-    "reason": "Notable security update regarding a major password manager",
-    "text": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
-    "url": "https://x.com/DecryptMedia/status/2125700364812857784",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795641767535-qr723j",
-    "source": "x",
-    "ts": "2026-11-25T21:22:47.535Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 16,
-    "originTimestamp": "2026-11-25T21:06:36.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "The Dow closes higher after a big comeback, while the S&amp;P 500 and Nasdaq end down but well off their lows, reportedly.",
-    "url": "https://x.com/BSCNews/status/2125699705887711337"
-  },
-  {
-    "id": "x-1795642326478-kvw8z8",
-    "source": "x",
-    "ts": "2026-11-25T21:32:06.478Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Bitcoin Magazine",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T21:29:28.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "NEW: A record 3.6 million Bitcoin, nearly 18% of all BTC, hasn't moved in 10+ years, says BMTV Analyst Sean Hagan 👀\n\nThat's worth ~$216 billion right now!   🤯",
-    "url": "https://x.com/BitcoinMagazine/status/2125703439703253443",
-    "images": [],
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2125699293629550593/vid/avc1/1280x720/ygv5b4XqaMOikdnQ.mp4?tag=29",
-      "duration": 337,
-      "gif": false,
-      "thumb": "https://pbs.twimg.com/media/HYAEVocXcAERWfa.jpg"
-    }
-  },
-  {
-    "id": "x-1795642912302-g5ls1l",
-    "source": "x",
-    "ts": "2026-11-25T21:41:52.302Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T21:40:38.000Z",
-    "reason": "Notable adoption by a major industry body in cryptography.",
-    "text": "⚡️ LATEST: The Ethereum Foundation recommends Keccak-256 as the foundation for Ethereum’s cryptographic defenses against quantum computing and AI-assisted attacks.",
-    "url": "https://x.com/Cointelegraph/status/2125706252302815604",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795643490110-kosklv",
     "source": "x",
     "ts": "2026-11-25T21:51:30.110Z",
@@ -7720,5 +7654,62 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "🇩🇪JUST IN: Germany's parliament approves a €556 billion budget for 2027, funded with €210 billion in new borrowing to lift defense and infrastructure spending",
     "url": "https://x.com/BSCNews/status/2126374023378399674"
+  },
+  {
+    "id": "x-1795803135017-9n339w",
+    "source": "x",
+    "ts": "2026-11-27T18:12:15.017Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-27T18:02:54.000Z",
+    "reason": "No notable move or specific event is reported.",
+    "text": "Tim Urban on @elonmusk: \"He's truly trying to do these big things for the right reasons.\"",
+    "url": "https://x.com/elonmusk/status/2126378174103929005"
+  },
+  {
+    "id": "x-1795803136732-bzy60d",
+    "source": "x",
+    "ts": "2026-11-27T18:12:16.732Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T18:10:08.000Z",
+    "reason": "No notable crypto-related event or movement.",
+    "text": "🇫🇷 ALERT: France enters a technical recession as GDP contracts 0.2% in Q3, twice the initially estimated decline, marking three consecutive quarters without economic growth.",
+    "url": "https://x.com/Cointelegraph/status/2126378051135012883"
+  },
+  {
+    "id": "x-1795803139229-relubd",
+    "source": "x",
+    "ts": "2026-11-27T18:12:19.229Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Bitcoin Magazine",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-27T18:04:37.000Z",
+    "reason": "Notable bank opening Bitcoin trading in Russia",
+    "text": "JUST IN: 🇷🇺 Russia's second-largest bank VTB opens Bitcoin trading for qualified investors in its investing app 🚀",
+    "url": "https://x.com/BitcoinMagazine/status/2126376663231713486",
+    "images": [
+      "https://pbs.twimg.com/media/HYJoLIXWoAEkh3f.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795803141172-vmvcm2",
+    "source": "x",
+    "ts": "2026-11-27T18:12:21.172Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-27T18:03:58.000Z",
+    "reason": "Vague opinion without factual claim",
+    "text": "@johnarnold @paulg My observation is that giving money to “non-profits” rarely benefits the people and often results in hurting civilization by creating a self-perpetuating “cause of the day” bureaucracy that cares only about getting more money.\n\nSuch “charities” are often merely a means of a",
+    "url": "https://x.com/elonmusk/status/2126376590238171559"
   }
 ]
