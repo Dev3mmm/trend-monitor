@@ -1,47 +1,5 @@
 [
   {
-    "id": "x-1795614157750-iggzui",
-    "source": "x",
-    "ts": "2026-11-25T13:42:37.750Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-25T13:34:42.000Z",
-    "reason": "The tweet is about the US economy growth but no direct impact on crypto markets.",
-    "text": "🇺🇸 JUST IN: The US economy grows 4.3% in Q3, exceeding expectations of 3.5%.",
-    "url": "https://x.com/Cointelegraph/status/2125583963112808571"
-  },
-  {
-    "id": "x-1795614160305-cf0664",
-    "source": "x",
-    "ts": "2026-11-25T13:42:40.305Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-25T13:34:31.000Z",
-    "reason": "No direct relevance to cryptocurrencies.",
-    "text": "BREAKING: U.S. Core PCE (YoY) rises to 3.3% above expectations of 3.2%.",
-    "url": "https://x.com/BSCNews/status/2125583913263259924"
-  },
-  {
-    "id": "x-1795614164735-iuaok5",
-    "source": "x",
-    "ts": "2026-11-25T13:42:44.735Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-25T13:33:01.000Z",
-    "reason": "US economic data release with notable inflation and GDP growth figures.",
-    "text": "🇺🇸 US economic data released:\n\n• Core PCE inflation: 3.3% (Est. 3.2%)\n• PCE inflation: 3.8% (Est. 3.8%)\n• Q3 GDP growth: 4.3% (Est. 3.5%)",
-    "url": "https://x.com/Cointelegraph/status/2125583536443019715",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795614738027-oi6i17",
     "source": "x",
     "ts": "2026-11-25T13:52:18.027Z",
@@ -7664,5 +7622,51 @@
     "reason": "No notable move or specific event, price is within the recent range.",
     "text": "Sui Network's Dominant Perps Platform is About to Disappear\n\nSui (@SuiNetwork) $SUI ecosystem's Bluefin (@bluefinapp) will discontinue perpetual futures trading on December 4, 2026, at 21:00 UTC.\n\nThe platform handled 95% of Sui's all-time perps volume. Traders must close open",
     "url": "https://x.com/BSCNews/status/2126167617643884812"
+  },
+  {
+    "id": "x-1795753974177-cbxmqe",
+    "source": "x",
+    "ts": "2026-11-27T04:32:54.177Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T04:30:11.000Z",
+    "reason": "Notable regulatory cooperation impacting digital assets.",
+    "text": "🚨 NEW: China, Japan and South Korea have agreed with ASEAN nations to form a working group that will link cross-border payment systems and align digital asset rules, per Reuters.",
+    "url": "https://x.com/Cointelegraph/status/2126171704195989758",
+    "images": [
+      "https://pbs.twimg.com/media/HYGt49UXQAAtkuL.jpg",
+      "https://pbs.twimg.com/media/HYGt5LvX0AAeAYk.png",
+      "https://pbs.twimg.com/media/HYGt5ZaXQAAjN6W.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795753977190-wym04m",
+    "source": "x",
+    "ts": "2026-11-27T04:32:57.190Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-27T04:30:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "The stage is (almost) set. ✨\n\nJust 24 hours until we unveil the next chapter of finance.\n\nIt’s almost #BinanceBlockchainWeek time. 👀",
+    "url": "https://x.com/binance/status/2126171658495156258"
+  },
+  {
+    "id": "x-1795753980521-ol8ddu",
+    "source": "x",
+    "ts": "2026-11-27T04:33:00.521Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-27T04:26:37.000Z",
+    "reason": "No notable move in crypto markets mentioned.",
+    "text": "🇺🇸 BREAKING: US stock futures extend their Thanksgiving rally as the Nasdaq 100 surges 2.5% and the S&amp;P 500 breaks above 7,300 for the first time since November 19.\n\nThe S&amp;P 500 is now up 6% from Friday's low, extending Wednesday's sharp late-day rebound from deep intraday",
+    "url": "https://x.com/coinbureau/status/2126170806535573964"
   }
 ]
