@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795608188549-n1chw5",
-    "source": "x",
-    "ts": "2026-11-25T12:03:08.549Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-25T11:53:15.000Z",
-    "reason": "Notable scam involving crypto with real financial impact",
-    "text": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-    "url": "https://x.com/DecryptMedia/status/2125558429821403302",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795608723839-ketgtq",
-    "source": "x",
-    "ts": "2026-11-25T12:12:03.839Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-25T12:02:40.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "Hold U on Binance and earn up to 1.8x the base APR.\n\n🔸 Hold U → Earn the base APR\n🔸 Grow your U holdings → Get 1.5x\n🔸 Trade U pairs → Get 1.3x\n\nKnow more 👉",
-    "url": "https://x.com/binance/status/2125560800106475640"
-  },
-  {
     "id": "x-1795609345225-evnken",
     "source": "x",
     "ts": "2026-11-25T12:22:25.225Z",
@@ -7659,5 +7630,37 @@
       "https://pbs.twimg.com/media/HYD0FMCXUAA0QG4.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795737706924-eyrhgw",
+    "source": "x",
+    "ts": "2026-11-27T00:01:46.924Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-27T00:00:18.000Z",
+    "reason": "Potential market-moving information from a well-known figure.",
+    "text": "🚨 NOW: Arthur Hayes says crypto could get dumped this weekend ahead of Monday's open if the Fed doesn't turn dovish before its pre-FOMC blackout starts Friday.",
+    "url": "https://x.com/Cointelegraph/status/2126103785592205682",
+    "images": [
+      "https://pbs.twimg.com/media/HYFwH1bXAAA3eso.jpg",
+      "https://pbs.twimg.com/media/HYFwIC4WcAA2dZY.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795737709126-ko3gf5",
+    "source": "x",
+    "ts": "2026-11-27T00:01:49.126Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Wu Blockchain",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T00:00:02.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Jeff Yan: Building a Protocol Requires Rethinking the Trader Mindset (ARCHIVE FOOTAGE)\n\nOn October 22, 2026, Jeff Yan @chameleon_jeff said in an interview with HL Global @HLglobal_ that market intuition developed in high-frequency trading can carry over to financial",
+    "url": "https://x.com/WuBlockchain/status/2126103719695487421"
   }
 ]
