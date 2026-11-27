@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794419184001-oxfdjf",
     "x-1794419189534-r14b7x",
     "x-1794419728810-7t11r4",
     "x-1794420179102-ifiqr6",
@@ -1999,18 +1998,10 @@
     "x-1795793004085-4pcaqq",
     "x-1795793569813-1pabqz",
     "x-1795794777455-dytgpg",
-    "x-1795794783381-pmp3h2"
+    "x-1795794783381-pmp3h2",
+    "x-1795795339807-paq7e2"
   ],
   "queue": [
-    {
-      "text": "INSIGHT: XRP’s 7-day deposit transaction share on Binance hit 91.4%, its highest level since 2019, while the withdrawal share fell to 8%, per CryptoQuant.",
-      "url": "https://x.com/Cointelegraph/status/2126322708082315583",
-      "images": [
-        "https://pbs.twimg.com/media/HYI3OSrWUAAv_81.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795789917926
-    },
     {
       "text": "🚨Bitcoin is on “Black Friday” sale?\n\n$BTC fell 4% after a Black Friday selloff that occurred in the first 30 minutes of U.S. trading.\n\nBitcoin plunged below $59,000 even as U.S. stock market opened higher.",
       "url": "https://x.com/coinbureau/status/2126332664466858021",
@@ -2038,6 +2029,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795794783856
+    },
+    {
+      "text": "Ethereum's Next Big Upgrade, Glamsterdam, Hits The Hoodi Testnet Dec. 15.\n\nCore developers set Glamsterdam to activate on Hoodi at 2:12 PM ET Dec. 15, at epoch 143,616, with no mainnet date set yet.",
+      "url": "https://x.com/DecryptMedia/status/2126345315917918305",
+      "images": [
+        "https://pbs.twimg.com/media/HYH1Xu9WwAAyfHM.png",
+        "https://pbs.twimg.com/media/HYH1l4BWIAAsPXp.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795795340307
     }
   ],
   "posted": [
@@ -2665,7 +2666,16 @@
       "at": 1795793574252,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392816192198657?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "INSIGHT: XRP’s 7-day deposit transaction share on Binance hit 91.4%, its highest level since 2019, while the withdrawal share fell to 8%, per CryptoQuant.",
+      "final": "INSIGHT: XRP’s 7-day deposit transaction share on Binance hit 91.4%, its highest level since 2019, while the withdrawal share fell to 8%, per CryptoQuant.\n\n#XRP $XRP #Binance",
+      "images": [
+        "https://pbs.twimg.com/media/HYI3OSrWUAAv_81.jpg"
+      ],
+      "at": 1795795340307,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795793574252
+  "lastPostAt": 1795795340307
 }
