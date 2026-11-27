@@ -1,71 +1,5 @@
 [
   {
-    "id": "x-1795645948141-4jw3nm",
-    "source": "x",
-    "ts": "2026-11-25T22:32:28.141Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-25T22:27:34.000Z",
-    "reason": "Cybersecurity breach affecting customer data but not passwords.",
-    "text": "JUST IN: 1Password says an attacker gained access to its backend systems via an employee's GitHub account and copied customer names and email addresses, but password vaults were not affected.",
-    "url": "https://x.com/BSCNews/status/2125718061714219172",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795646571910-fptofo",
-    "source": "x",
-    "ts": "2026-11-25T22:42:51.910Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T22:40:43.000Z",
-    "reason": "Specific quote from a high-profile figure about Bitcoin's importance.",
-    "text": "🔥 INSIGHT: Coinbase CEO Brian Armstrong says Bitcoin is as important as ever amid expectations of further inflation and money printing.",
-    "url": "https://x.com/Cointelegraph/status/2125721369841119669",
-    "images": [
-      "https://pbs.twimg.com/media/HYAUT8aXgAAJxYc.jpg",
-      "https://pbs.twimg.com/media/HYAUUggW8AABQYZ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795646574680-mfa9fd",
-    "source": "x",
-    "ts": "2026-11-25T22:42:54.680Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-25T22:39:15.000Z",
-    "reason": "No factual claim or specific event is mentioned.",
-    "text": "China's Google Just Released Its Fast New AI Model for Free",
-    "url": "https://x.com/DecryptMedia/status/2125721001015005549"
-  },
-  {
-    "id": "x-1795647176883-p4rc75",
-    "source": "x",
-    "ts": "2026-11-25T22:52:56.884Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-25T22:46:10.000Z",
-    "reason": "Notable EU regulatory move on DeFi and stablecoins.",
-    "text": "EU banking watchdog wants a MiCA review of DeFi lending access\n\nThe European Banking Authority (@EBA_News) published a report today on how stablecoins are used in DeFi. It repeats its call for the European Commission to assess whether licensed crypto firms that give customers",
-    "url": "https://x.com/BSCNews/status/2125722741915480268",
-    "images": [
-      "https://pbs.twimg.com/media/HYAVY1eWkAAKZc6.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795647765155-dw9dli",
     "source": "x",
     "ts": "2026-11-25T23:02:45.155Z",
@@ -7706,5 +7640,60 @@
       "https://pbs.twimg.com/media/HYJoWcsWwAEAEUL.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795806188332-qrxqxh",
+    "source": "x",
+    "ts": "2026-11-27T19:03:08.332Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T19:00:33.000Z",
+    "reason": "No notable move or specific event is described.",
+    "text": "🇺🇸 UPDATE: Risk-sensitive currencies rallied as tech stocks rebounded, while the US dollar remained on track for a weekly gain amid expectations of a December Fed rate hike.",
+    "url": "https://x.com/Cointelegraph/status/2126390739802128410"
+  },
+  {
+    "id": "x-1795806191129-vjja13",
+    "source": "x",
+    "ts": "2026-11-27T19:03:11.129Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-27T19:00:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "The people bringing fresh perspectives to the conversations moving Web3 forward.\n\nMeet the speakers joining us at #BinanceBlockchainWeek.\n\n📍 Bangkok | 🗓️ Nov 28–29",
+    "url": "https://x.com/binance/status/2126390603500130757"
+  },
+  {
+    "id": "x-1795806195247-vh7wyl",
+    "source": "x",
+    "ts": "2026-11-27T19:03:15.247Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-27T18:59:27.000Z",
+    "reason": "Internet Computer founder confirms security measures in response to US Air Force cloud hack.",
+    "text": "TODAY: After the reported US Air Force cloud hack, Internet Computer ($ICP) founder @dominic_w says @dfinity has been building \"tamperproof\" onchain cloud since 2015 for exactly this kind of security failure",
+    "url": "https://x.com/BSCNews/status/2126390465154908355",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795806197810-b3xia1",
+    "source": "x",
+    "ts": "2026-11-27T19:03:17.810Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 30,
+    "originTimestamp": "2026-11-27T18:33:11.000Z",
+    "reason": "Tweet is a generic statement with no specific crypto-related claim.",
+    "text": "Grok Bot is great at finding you the best deals on the Internet",
+    "url": "https://x.com/elonmusk/status/2126388636325499201"
   }
 ]
