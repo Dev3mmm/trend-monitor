@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795629835676-417ob2",
-    "source": "x",
-    "ts": "2026-11-25T18:03:55.676Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-25T18:00:01.000Z",
-    "reason": "No notable crypto-related content.",
-    "text": "Altman Says OpenAI Is Now Testing Private Inference With Small Group Of Customers.\n\nOpenAI's Private Intelligence pages describe Private Inference as an alpha API preview that combines confidential computing with strict, verifiable controls.",
-    "url": "https://x.com/DecryptMedia/status/2125650731365515473"
-  },
-  {
-    "id": "x-1795629838752-hovj9c",
-    "source": "x",
-    "ts": "2026-11-25T18:03:58.752Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-25T18:00:00.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "Capital. Credit. Building. Advisory. The perspectives shaping the next phase of the industry.\n\nUp next: Alex Zhang, Benson Mbuthia, Christel Buchanan, and Em-Udomsak.\n\nAgenda →",
-    "url": "https://x.com/binance/status/2125650727410552854"
-  },
-  {
     "id": "x-1795629842489-cfq1w7",
     "source": "x",
     "ts": "2026-11-25T18:04:02.489Z",
@@ -7700,5 +7674,39 @@
     "reason": "No concrete or specific information provided.",
     "text": "你完全不知道cz在泰国学生和从业者中多火爆！\n\n大家都拥簇着他，我都挤不进去！",
     "url": "https://x.com/cz_binance/status/2126293857516294311"
+  },
+  {
+    "id": "x-1795783947712-vfciwv",
+    "source": "x",
+    "ts": "2026-11-27T12:52:27.712Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-27T12:51:00.000Z",
+    "reason": "Notable institutional adoption of a major new token.",
+    "text": "ICYMI: @XDCNetwork xdce-crowd-sale:native has added two major institutions to its official validator suite. Here's what you need to know ⬇️",
+    "url": "https://x.com/BSCNews/status/2126297738815873209",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795783954394-7k8tq5",
+    "source": "x",
+    "ts": "2026-11-27T12:52:34.394Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-27T12:42:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Aptos' stablecoin supply approaches $1B.\n\n@Aptos' native stablecoin market cap is up nearly +9% in the past week, per DefiLlama data, cresting a total of $971M and growing faster than any other chain the top-20.\n\nThat said, @SuiNetwork's stablecoin supply is also growing fast, up",
+    "url": "https://x.com/BSCNews/status/2126295474000830587",
+    "images": [
+      "https://pbs.twimg.com/media/HYITZvkXkAApa_p.jpg"
+    ],
+    "video": null
   }
 ]
