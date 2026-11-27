@@ -1,21 +1,5 @@
 [
   {
-    "id": "x-1795618330424-lo2d15",
-    "source": "x",
-    "ts": "2026-11-25T14:52:10.424Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 91,
-    "originTimestamp": "2026-11-25T13:20:23.000Z",
-    "reason": "U.S. stock market loss is a notable financial event affecting global markets.",
-    "text": "UPDATE: $2 Trillion wiped off from the U.S. stock market at open after Trump administration proposes new tariffs on 14 major partners.",
-    "url": "https://x.com/BSCNews/status/2125602632853291333",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795618334586-ka7i8v",
     "source": "x",
     "ts": "2026-11-25T14:52:14.586Z",
@@ -7686,5 +7670,18 @@
     "reason": "Generic motivational tweet, no concrete crypto-related event.",
     "text": "If you think eating healthy is expensive, go and visit the cancer center or the dialysis unit or the diabetes clinic.\n\n#FoodFriday",
     "url": "https://x.com/amerix/status/2126210443630760428"
+  },
+  {
+    "id": "x-1795764745930-d14ejg",
+    "source": "x",
+    "ts": "2026-11-27T07:32:25.930Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T07:30:00.000Z",
+    "reason": "No notable move or specific factual claim.",
+    "text": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse\n\nOpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
+    "url": "https://x.com/DecryptMedia/status/2126216957460619656"
   }
 ]
