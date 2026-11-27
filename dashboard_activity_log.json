@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795628010206-0rjlae",
-    "source": "x",
-    "ts": "2026-11-25T17:33:30.206Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-25T17:26:18.000Z",
-    "reason": "Generic hype with no real content.",
-    "text": "Black Friday came early this year 😉\n\nBitcoin is 60% off",
-    "url": "https://x.com/BitcoinMagazine/status/2125642246804643926"
-  },
-  {
-    "id": "x-1795628718318-h0pmvi",
-    "source": "x",
-    "ts": "2026-11-25T17:45:18.318Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Bitcoin Magazine",
-    "ageMin": 72,
-    "originTimestamp": "2026-11-25T16:33:07.000Z",
-    "reason": "No notable move or specific event mentioned.",
-    "text": "🚨 THE BIGGEST #BITCOIN CONFERENCE DEAL OF THE YEAR DROPS THIS FRIDAY ‼️\n\nBITCOIN 2027 NASHVILLE 👀\n\nGET READY! 🟠",
-    "url": "https://x.com/BitcoinMagazine/status/2125646553079554479"
-  },
-  {
     "id": "x-1795628721732-f2ek70",
     "source": "x",
     "ts": "2026-11-25T17:45:21.732Z",
@@ -7693,5 +7667,42 @@
     "reason": "No notable crypto-specific event or price movement mentioned.",
     "text": "🇨🇳NOW: China's stock market sees biggest daily surge in over two years, after Beijing promises additional support from the state.",
     "url": "https://x.com/BSCNews/status/2126281231482704199"
+  },
+  {
+    "id": "x-1795780946182-w13ps9",
+    "source": "x",
+    "ts": "2026-11-27T12:02:26.182Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-27T12:00:41.000Z",
+    "reason": "Chinese government support for financial markets boosts crypto sentiment and asset prices.",
+    "text": "🇨🇳 TODAY: Chinese semiconductor stocks surged 17.6%, their biggest single-day gain on record, after Beijing pledged to strengthen state-backed support for financial markets.",
+    "url": "https://x.com/Cointelegraph/status/2126285077332009174",
+    "images": [
+      "https://pbs.twimg.com/media/HYIVAhPXcAAPunW.png"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795780950335-0x00pu",
+    "source": "x",
+    "ts": "2026-11-27T12:02:30.336Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T12:00:04.000Z",
+    "reason": "Bluefin's shutdown of Sui's perps product could impact the DeFi ecosystem.",
+    "text": "Bluefin Is Shutting Down Perps Trading On Sui Dec. 4.\n\nBluefin said its perps product, which it says accounts for 95% of Sui's all-time perps volume, ends at 4 PM ET (21:00 UTC) Dec. 4 as it focuses on Bluefin Spot, tokenization and real-world assets.",
+    "url": "https://x.com/DecryptMedia/status/2126284922973470978",
+    "images": [
+      "https://pbs.twimg.com/media/HYIKVu8W4AA1Cb4.png",
+      "https://pbs.twimg.com/media/HYIKjYjXUAA1Dtw.png"
+    ],
+    "video": null
   }
 ]
