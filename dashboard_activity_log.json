@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795639316253-lwnv5j",
-    "source": "x",
-    "ts": "2026-11-25T20:41:56.253Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T20:40:40.000Z",
-    "reason": "No notable move in token price or significant event.",
-    "text": "🔥 LATEST: Anthropic is migrating its Messages API from Python to Rust, cutting CPU usage per request by about 70%.",
-    "url": "https://x.com/Cointelegraph/status/2125691160848920761"
-  },
-  {
-    "id": "x-1795639319264-b65kmx",
-    "source": "x",
-    "ts": "2026-11-25T20:41:59.264Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-25T20:37:15.000Z",
-    "reason": "Specific event involving a notable aspect of Bitcoin mining ecosystem.",
-    "text": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
-    "url": "https://x.com/DecryptMedia/status/2125690298659438788",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795639323159-xtsvbn",
     "source": "x",
     "ts": "2026-11-25T20:42:03.159Z",
@@ -7719,5 +7690,34 @@
       "https://pbs.twimg.com/media/HYJKyJ2WcAIPW6N.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795799520595-3v4jnq",
+    "source": "x",
+    "ts": "2026-11-27T17:12:00.595Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-27T17:10:45.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+    "url": "https://x.com/DecryptMedia/status/2126363107266085098",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795799524401-db8klk",
+    "source": "x",
+    "ts": "2026-11-27T17:12:04.401Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-27T17:02:35.000Z",
+    "reason": "No notable move, correlation is an opinion without factual data.",
+    "text": "NEW: Bitcoin and gold's correlation has recorded a new all time high this year, according to Galaxy Research.\n\nThe Bitcoin as digital gold narrative is alive and well 👏",
+    "url": "https://x.com/BitcoinMagazine/status/2126361050815574459"
   }
 ]
