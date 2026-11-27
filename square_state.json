@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794420179102-ifiqr6",
     "x-1794420185798-ykpc2o",
     "x-1794420190144-ucoa7g",
     "x-1794420709874-2n70n3",
@@ -1999,18 +1998,10 @@
     "x-1795794783381-pmp3h2",
     "x-1795795339807-paq7e2",
     "x-1795795924501-2fhx0j",
-    "x-1795795926951-bfvfya"
+    "x-1795795926951-bfvfya",
+    "x-1795797247834-okq3ny"
   ],
   "queue": [
-    {
-      "text": "🚨Bitcoin is on “Black Friday” sale?\n\n$BTC fell 4% after a Black Friday selloff that occurred in the first 30 minutes of U.S. trading.\n\nBitcoin plunged below $59,000 even as U.S. stock market opened higher.",
-      "url": "https://x.com/coinbureau/status/2126332664466858021",
-      "images": [
-        "https://pbs.twimg.com/media/HYI-sM6a0AAgtYv.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795792370129
-    },
     {
       "text": "JUST IN: Bitcoin drops to $58,990",
       "url": "https://x.com/BitcoinMagazine/status/2126330687053508646",
@@ -2051,6 +2042,16 @@
         "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126347590488788992/img/QZmffAysd_HeMb9d.jpg"
       },
       "enqueuedAt": 1795795927813
+    },
+    {
+      "text": "🔥 LATEST: Tether purchases another $10M worth of Bitdeer shares, bringing its holdings in the Bitcoin mining firm to 41.45 million shares, or 17.9% of its outstanding Class A stock.",
+      "url": "https://x.com/Cointelegraph/status/2126352912540438570",
+      "images": [
+        "https://pbs.twimg.com/media/HYJSsQMXsAEzYk-.png",
+        "https://pbs.twimg.com/media/HYJSsz_WoAAQHuo.png"
+      ],
+      "video": null,
+      "enqueuedAt": 1795797256949
     }
   ],
   "posted": [
@@ -2688,7 +2689,16 @@
       "at": 1795795340307,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392823436757009?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨Bitcoin is on “Black Friday” sale?\n\n$BTC fell 4% after a Black Friday selloff that occurred in the first 30 minutes of U.S. trading.\n\nBitcoin plunged below $59,000 even as U.S. stock market opened higher.",
+      "final": "🚨Bitcoin is on “Black Friday” sale?\n $BTC fell 4% after a Black Friday selloff that occurred in the first 30 minutes of U.S. trading.\n\nBitcoin plunged below $59,000 even as U.S. stock market opened higher.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HYI-sM6a0AAgtYv.jpg"
+      ],
+      "at": 1795797256949,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795795340307
+  "lastPostAt": 1795797256949
 }
