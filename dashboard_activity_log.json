@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1795659334725-mpyrbn",
-    "source": "x",
-    "ts": "2026-11-26T02:15:34.725Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-26T02:15:00.000Z",
-    "reason": "Cybersecurity breach affecting sensitive user data.",
-    "text": "⚠️ALERT: 1Password, used by businesses and individuals to protect their passwords, has been HACKED.\n\nHackers got in through ONE employee's GitHub account and pushed malicious code into 1Password's backend to copy customer records.\n\nSome customers' names, emails, account IDs and",
-    "url": "https://x.com/coinbureau/status/2125775296066724310",
-    "images": [
-      "https://pbs.twimg.com/media/HYA_DhQawAAvGsK.png",
-      "https://pbs.twimg.com/media/HYA_DhTa4AAEtSx.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795659337641-vuroc8",
-    "source": "x",
-    "ts": "2026-11-26T02:15:37.641Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 13,
-    "originTimestamp": "2026-11-26T02:01:45.000Z",
-    "reason": "No notable move or newsworthy event.",
-    "text": "Quick market updates, every day 📈\n\nBSCN is now on TikTok: short 3D explainers on the biggest stories in markets, the economy and crypto.\n\nFollow us ⬇️",
-    "url": "https://x.com/BSCNews/status/2125773486836826234"
-  },
-  {
-    "id": "x-1795659341256-0ssnjo",
-    "source": "x",
-    "ts": "2026-11-26T02:15:41.256Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 12,
-    "originTimestamp": "2026-11-26T02:03:00.000Z",
-    "reason": "Explanation of new technology not news.",
-    "text": "What actually is Quant Network’s Fusion Mainnet?\n\nOn November 23, @quantnetwork $QNT opened full public access to its Fusion Mainnet, but few understand what this actually means.\n\nIn simple terms, it’s the world’s first multi-ledger rollup connecting public crypto with private",
-    "url": "https://x.com/BSCNews/status/2125772276566003900",
-    "images": [
-      "https://pbs.twimg.com/media/HX93b8bWUAA-oE7.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795659803265-c7olix",
     "source": "x",
     "ts": "2026-11-26T02:23:23.265Z",
@@ -7684,5 +7634,49 @@
       "https://pbs.twimg.com/media/HYKTjrnWgAArTkV.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795816930343-dmyblj",
+    "source": "x",
+    "ts": "2026-11-27T22:02:10.343Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T22:00:16.000Z",
+    "reason": "The deal is significant as it involves a major financial institution (Block, parent of Cash App) settling a substantial securities class action.",
+    "text": "🚨 NEW: Block, the parent of Cash App, has agreed in principle to pay about $442.5M to settle a federal securities class action covering 2020–2024, per an SEC 8-K filing.\n\nThe deal still needs court approval.",
+    "url": "https://x.com/Cointelegraph/status/2126435965271003188",
+    "images": [
+      "https://pbs.twimg.com/media/HYKePO0WYAAqMSh.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795816933288-b4x4sg",
+    "source": "x",
+    "ts": "2026-11-27T22:02:13.288Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T22:00:00.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "The next financial system will be built on trust.\n\nIndustry leaders, analytics experts, and law enforcement come together on one stage at #BinanceBlockchainWeek.\n\n🗓️ Nov 28–29",
+    "url": "https://x.com/binance/status/2126435899583996211"
+  },
+  {
+    "id": "x-1795816936501-ui4k5m",
+    "source": "x",
+    "ts": "2026-11-27T22:02:16.501Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 28,
+    "originTimestamp": "2026-11-27T21:34:08.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "Elon Musk on how to get the most out of Grok Bots: organize them like a real company\n\nCreate multiple Grok Bots with specialized roles, such as coding, data analysis, financial management, expense tracking, email management, travel planning and daily operations, with a manager",
+    "url": "https://x.com/elonmusk/status/2126434039514927612"
   }
 ]
