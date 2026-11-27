@@ -1,7 +1,5 @@
 {
   "seen": [
-    "x-1794390148109-u6cjyz",
-    "x-1794390152012-vhpw93",
     "x-1794390155533-gz9pss",
     "x-1794391359192-pl4d38",
     "x-1794391906187-alp45m",
@@ -1999,18 +1997,11 @@
     "x-1795750345543-h0nd1n",
     "x-1795750906966-onr6ov",
     "x-1795753974177-cbxmqe",
-    "x-1795755121349-8fuj2v"
+    "x-1795755121349-8fuj2v",
+    "x-1795755722717-6z15za",
+    "x-1795755724919-9khq4p"
   ],
   "queue": [
-    {
-      "text": "🚨 NEW: German software giant SAP plans to cut at least 10,000 jobs, about 9% of its global workforce, as it reshapes its business for AI, per Bloomberg.",
-      "url": "https://x.com/Cointelegraph/status/2126156596438773939",
-      "images": [
-        "https://pbs.twimg.com/media/HYGgJ4IWoAAosmr.png"
-      ],
-      "video": null,
-      "enqueuedAt": 1795750346215
-    },
     {
       "text": "🔥 JUST IN: Solana introduces Solana Playground, a browser-based tool where devs can learn, build and deploy Solana programs with help from an AI agent that explains and edits code.",
       "url": "https://x.com/Cointelegraph/status/2126159002740650353",
@@ -2033,6 +2024,16 @@
       ],
       "video": null,
       "enqueuedAt": 1795753982635
+    },
+    {
+      "text": "🇯🇵  LATEST: Japan's FSA weighs tighter rules for DeFi and self-custodial wallets, including possible limits on access to DeFi services that lack anti-money laundering controls.",
+      "url": "https://x.com/Cointelegraph/status/2126179259731374508",
+      "images": [
+        "https://pbs.twimg.com/media/HYG0w9YXcAAP0Uk.jpg",
+        "https://pbs.twimg.com/media/HYG0xMYWIAAfg2m.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795755725434
     }
   ],
   "posted": [
@@ -2673,7 +2674,16 @@
       "at": 1795753982635,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392654043084032?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 NEW: German software giant SAP plans to cut at least 10,000 jobs, about 9% of its global workforce, as it reshapes its business for AI, per Bloomberg.",
+      "final": "🚨 NEW: German software giant SAP plans to cut at least 10,000 jobs, about 9% of its global workforce, as it reshapes its business for AI, per Bloomberg.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HYGgJ4IWoAAosmr.png"
+      ],
+      "at": 1795755725434,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795753982635
+  "lastPostAt": 1795755725434
 }
