@@ -1,53 +1,5 @@
 [
   {
-    "id": "x-1795635155359-4f7ify",
-    "source": "x",
-    "ts": "2026-11-25T19:32:35.359Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T19:30:00.000Z",
-    "reason": "Cybersecurity breach affecting customer data.",
-    "text": "1Password Says Attacker Copied Some Customers' Names And Emails Using An Employee's Corporate GitHub Account.\n\nThe password manager said vault data and the keys that protect it were not affected, but the attacker also copied source code from private repositories.",
-    "url": "https://x.com/DecryptMedia/status/2125673374600802642",
-    "images": [
-      "https://pbs.twimg.com/media/HX_ewUQXkAAZv1_.png",
-      "https://pbs.twimg.com/media/HX_fQRtWQAAAvRw.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795635726535-3iijap",
-    "source": "x",
-    "ts": "2026-11-25T19:42:06.535Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T19:40:39.000Z",
-    "reason": "Discusses implications of failed crypto regulation bill on future US crypto regulation.",
-    "text": "What does the CLARITY Act's failure mean for US crypto regulation?\n\nCoinbase Vice Chairman Ryan VanGrack discusses its implications and whether the “war on crypto” could return under a future Democratic administration.\n\nWatch the full Cointelegraph interview:",
-    "url": "https://x.com/Cointelegraph/status/2125676053729292569",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795635728447-0uv39q",
-    "source": "x",
-    "ts": "2026-11-25T19:42:08.447Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T19:40:28.000Z",
-    "reason": "No notable move or concrete, specific information is presented.",
-    "text": "Is Social Trading Crypto's Next Mainstream Moment? [Ft. fomo Co-Founder Se Yong Park] #CHAINREACTION",
-    "url": "https://x.com/Cointelegraph/status/2125676009085083732"
-  },
-  {
     "id": "x-1795635731194-9dwnst",
     "source": "x",
     "ts": "2026-11-25T19:42:11.194Z",
@@ -7730,5 +7682,55 @@
     "reason": "No notable move, price is within its recent range.",
     "text": "🔥BULLISH: Anthropic ($ANT) hits $90 on Black Friday, up nearly 22% from Wednesday’s low of $73.90.\n\nANT opened at $84, back above its $83 IPO price, then climbed to $87.75 in the first 10 minutes of trading before reaching $90.\n\nAt $90, shares are 8.4% above the IPO price and",
     "url": "https://x.com/coinbureau/status/2126340805581471989"
+  },
+  {
+    "id": "x-1795794769439-djyl27",
+    "source": "x",
+    "ts": "2026-11-27T15:52:49.439Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T15:50:07.000Z",
+    "reason": "No concrete price information provided.",
+    "text": "🔥 BIG: Anthropic is now worth more than Bitcoin.",
+    "url": "https://x.com/Cointelegraph/status/2126342814334169335"
+  },
+  {
+    "id": "x-1795794777455-dytgpg",
+    "source": "x",
+    "ts": "2026-11-27T15:52:57.455Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-27T15:49:40.000Z",
+    "reason": "Mining Difficulty is a key indicator in the cryptocurrency ecosystem, and a significant jump suggests increased mining activity and potentially a bullish sentiment.",
+    "text": "Bitcoin Mining Difficulty Jumps 7.61%, 13 Days After A 9.13% Cut.\n\nDifficulty rose to about 145.09 trillion at block 977,760 at 12:17 AM EST on Nov. 27, up from about 134.82 trillion, according to mempoolspace data.",
+    "url": "https://x.com/DecryptMedia/status/2126342700551082247",
+    "images": [
+      "https://pbs.twimg.com/media/HYJJWOyWwAAwFek.jpg",
+      "https://pbs.twimg.com/media/HYJJY-vXcAAM930.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795794783381-pmp3h2",
+    "source": "x",
+    "ts": "2026-11-27T15:53:03.381Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-27T15:48:00.000Z",
+    "reason": "Specific, verifiable institutional partnership and expansion into a new market.",
+    "text": "Midnight Network is expanding into Japan!\n\n@MidnightNtwrk has signed an MOU with @WEA_JP and @Kouhou_NSS - two stablecoin/digital payments focused companies out of Japan.\n\nAccording to an announcement from WEA, the group will explore various elements across private payments,",
+    "url": "https://x.com/BSCNews/status/2126342282169430199",
+    "images": [
+      "https://pbs.twimg.com/media/HYImUT0WEAA57wT.jpg"
+    ],
+    "video": null
   }
 ]
