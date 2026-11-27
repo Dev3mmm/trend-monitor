@@ -1,31 +1,5 @@
 [
   {
-    "id": "x-1795640544342-pvvp15",
-    "source": "x",
-    "ts": "2026-11-25T21:02:24.342Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T21:00:01.000Z",
-    "reason": "Vague prediction with no basis given",
-    "text": "Is Bitcoin headed for $48,000?\n@ColdBloodShill tells @farokh and @Tyler_Did_It a daily bullish divergence \"probably runs us to 48K, maybe mid-40s on a wick,\" and he doesn't see the weekly $52,000 level holding.",
-    "url": "https://x.com/DecryptMedia/status/2125696029437620693"
-  },
-  {
-    "id": "x-1795640546071-7scij8",
-    "source": "x",
-    "ts": "2026-11-25T21:02:26.071Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-25T20:53:34.000Z",
-    "reason": "No notable crypto-related event or move mentioned.",
-    "text": "🇺🇸JUST IN: SpaceX commits to give one new share to every active Trump Account, the US savings accounts for children, and Elon Musk says he will match it share for share.",
-    "url": "https://x.com/BSCNews/status/2125694404870430842"
-  },
-  {
     "id": "x-1795641756144-7gbh82",
     "source": "x",
     "ts": "2026-11-25T21:22:36.144Z",
@@ -7717,6 +7691,40 @@
     "images": [
       "https://pbs.twimg.com/media/HYJi7IsXQAAmXu5.jpg",
       "https://pbs.twimg.com/media/HYJi7ZuWAAA27gV.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795801893261-49ecaf",
+    "source": "x",
+    "ts": "2026-11-27T17:51:33.261Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-27T17:44:45.000Z",
+    "reason": "Potential security breach affecting critical infrastructure.",
+    "text": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+    "url": "https://x.com/DecryptMedia/status/2126371663721717964",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795801897202-spc42d",
+    "source": "x",
+    "ts": "2026-11-27T17:51:37.202Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-27T17:43:00.000Z",
+    "reason": "Notable governance upgrade and protocol change on the XRP Ledger.",
+    "text": "XRP Ledger's lending upgrade has the votes, and the countdown has started\n\nXLS-66, the Lending Protocol amendment on the @XRP Ledger, is now backed by 30 of 35 trusted validators, per XRPScan. That is 85.7%, clear of the 80% it needed.\n\nThe two-week waiting period began today. If",
+    "url": "https://x.com/BSCNews/status/2126371222908797239",
+    "images": [
+      "https://pbs.twimg.com/media/HYJd3CXWEAA__ki.jpg"
     ],
     "video": null
   }
