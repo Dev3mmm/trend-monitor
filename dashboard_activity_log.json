@@ -1,54 +1,5 @@
 [
   {
-    "id": "x-1795654932211-34ldkp",
-    "source": "x",
-    "ts": "2026-11-26T01:02:12.212Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-26T01:00:50.000Z",
-    "reason": "No notable crypto-related news or move is indicated.",
-    "text": "🚨 LATEST: Leopold Aschenbrenner's Situational Awareness lost 65% in Q3 but is still up 88.5% for the year, per WSJ.\n\nHe told investors opportunities today \"are the highest potential return we have seen.\"",
-    "url": "https://x.com/Cointelegraph/status/2125756632139260011"
-  },
-  {
-    "id": "x-1795654936527-fxso5v",
-    "source": "x",
-    "ts": "2026-11-26T01:02:16.527Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Wu Blockchain",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-26T00:57:38.000Z",
-    "reason": "Galaxy withdraws bear market call, citing potential downside to Bitcoin prices.",
-    "text": "Galaxy Withdraws Bitcoin Bear Market Bottom Call, Citing Potential Downside to $48,500 or $28,200\n\nGalaxy Head of Firmwide Research Alex Thorn @intangiblecoins  withdrew his October call that Bitcoin’s bear market had ended in June, after BTC lost both its 50-week and 200-week",
-    "url": "https://x.com/WuBlockchain/status/2125755828112412888",
-    "images": [
-      "https://pbs.twimg.com/media/HYAzbILbAAAFGiQ.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795654940460-i8w9l1",
-    "source": "x",
-    "ts": "2026-11-26T01:02:20.460Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-26T00:57:00.000Z",
-    "reason": "Notable cross-chain interoperability for a high-value token.",
-    "text": "LayerZero brings interoperability to Ondo's USDY.\n\nThrough @LayerZero_Core's OFT standard, @ondo's industry-leading $USDY asset can now move seamlessly between @ethereum and @StellarOrg.\n\nWith a market cap of nearly $2.4B at time of writing, $ONDO's yield-bearing token is widely",
-    "url": "https://x.com/BSCNews/status/2125755666740707830",
-    "images": [
-      "https://pbs.twimg.com/media/HX93UO-XQAAO-cd.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795656748920-c8u7dy",
     "source": "x",
     "ts": "2026-11-26T01:32:28.920Z",
@@ -7677,5 +7628,52 @@
       "https://pbs.twimg.com/media/HYKGR_OWMAAGlLJ.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795813389507-2e1hgq",
+    "source": "x",
+    "ts": "2026-11-27T21:03:09.507Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T21:00:16.000Z",
+    "reason": "No notable crypto-specific move or event mentioned.",
+    "text": "🇪🇺 UPDATE: EU leaders fail to reach an agreement on the bloc’s $1.7 trillion budget after 12 hours of talks, with negotiations set to resume in December.",
+    "url": "https://x.com/Cointelegraph/status/2126420867433267334",
+    "images": [],
+    "video": null
+  },
+  {
+    "id": "x-1795813394901-v1h2ql",
+    "source": "x",
+    "ts": "2026-11-27T21:03:14.901Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-27T21:00:04.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "Another regulatory milestone for Binance in Brazil. 🇧🇷\n\nBinance Brasil has received its third license in the country from the Central Bank of Brazil, now as a foreign exchange broker.\n\nA step forward in our commitment to compliance and better financial products for local users.",
+    "url": "https://x.com/binance/status/2126420818578010299",
+    "images": [
+      "https://pbs.twimg.com/media/HYKQdlsXIAAw6fP.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795813398886-qcto0l",
+    "source": "x",
+    "ts": "2026-11-27T21:03:18.886Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-27T20:57:43.000Z",
+    "reason": "No notable crypto-related event or price movement mentioned.",
+    "text": "🇺🇸TODAY: Trump posts a \"Veto Corleone\" meme of himself on Truth Social, weeks before Democrats take control of Congress",
+    "url": "https://x.com/BSCNews/status/2126420224794665092"
   }
 ]
