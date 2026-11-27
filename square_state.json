@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794420190144-ucoa7g",
     "x-1794420709874-2n70n3",
     "x-1794421935175-i2yl24",
     "x-1794421941603-3vzacn",
@@ -1999,18 +1998,10 @@
     "x-1795795924501-2fhx0j",
     "x-1795795926951-bfvfya",
     "x-1795797247834-okq3ny",
-    "x-1795797769289-w07haw"
+    "x-1795797769289-w07haw",
+    "x-1795798942200-t85bvm"
   ],
   "queue": [
-    {
-      "text": "JUST IN: Bitcoin drops to $58,990",
-      "url": "https://x.com/BitcoinMagazine/status/2126330687053508646",
-      "images": [
-        "https://pbs.twimg.com/media/HYI-aMvWUAAQCO_.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795792370129
-    },
     {
       "text": "Bitcoin Mining Difficulty Jumps 7.61%, 13 Days After A 9.13% Cut.\n\nDifficulty rose to about 145.09 trillion at block 977,760 at 12:17 AM EST on Nov. 27, up from about 134.82 trillion, according to mempoolspace data.",
       "url": "https://x.com/DecryptMedia/status/2126342700551082247",
@@ -2699,7 +2690,16 @@
       "at": 1795797256949,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392831251846628?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "JUST IN: Bitcoin drops to $58,990",
+      "final": "JUST IN: Bitcoin drops to $58,990\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HYI-aMvWUAAQCO_.jpg"
+      ],
+      "at": 1795798942915,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795797256949
+  "lastPostAt": 1795798942915
 }
