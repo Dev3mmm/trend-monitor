@@ -1,49 +1,5 @@
 [
   {
-    "id": "x-1795612321832-4fp1yv",
-    "source": "x",
-    "ts": "2026-11-25T13:12:01.832Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T13:11:00.000Z",
-    "reason": "New decentralized token-creation platform for meme tokens launched on mainnet.",
-    "text": "Core Chain now has a Memecoin Launchpad\n\nThe decentralized token-creation platform Memeko (@memekodotfun) has officially launched on the Core (@Coredao_Org) mainnet.\n\nThis protocol enables anyone to mint their own meme tokens using programmatic bonding curves without coding and",
-    "url": "https://x.com/BSCNews/status/2125577996266557658",
-    "images": [
-      "https://pbs.twimg.com/media/HX-L4XUWYAAV1wI.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795612324380-jn0ia9",
-    "source": "x",
-    "ts": "2026-11-25T13:12:04.380Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 64,
-    "originTimestamp": "2026-11-25T12:07:49.000Z",
-    "reason": "No real content or specific event mentioned.",
-    "text": "Hmm",
-    "url": "https://x.com/elonmusk/status/2125576951364731018"
-  },
-  {
-    "id": "x-1795612327278-qmnnbt",
-    "source": "x",
-    "ts": "2026-11-25T13:12:07.278Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 38,
-    "originTimestamp": "2026-11-25T12:33:28.000Z",
-    "reason": "Tweet is too vague without specific price or event mentioned.",
-    "text": "Yes",
-    "url": "https://x.com/elonmusk/status/2125576163720642762"
-  },
-  {
     "id": "x-1795612331155-2la1z6",
     "source": "x",
     "ts": "2026-11-25T13:12:11.155Z",
@@ -7670,5 +7626,49 @@
     "reason": "Generic Thanksgiving sentiment without a specific crypto-related event or price.",
     "text": "Happy Thanksgiving! 🦃",
     "url": "https://x.com/cz_binance/status/2126142072491245817"
+  },
+  {
+    "id": "x-1795748545023-nvzm4a",
+    "source": "x",
+    "ts": "2026-11-27T03:02:25.023Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T03:00:14.000Z",
+    "reason": "No notable move, price is within its recent range.",
+    "text": "🗞️ Need to catch up on the news? Here's our top 10 from today:\n\n🔸 President Trump says Jensen Huang is a very important part of Nvidia. “I think it's a great thing that he's going back.”\n\n🔹 Arthur Hayes says crypto could get dumped this weekend ahead of Monday's open if the Fed",
+    "url": "https://x.com/Cointelegraph/status/2126149066459381917"
+  },
+  {
+    "id": "x-1795748550844-8xj8ip",
+    "source": "x",
+    "ts": "2026-11-27T03:02:30.844Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Wu Blockchain",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-27T02:51:54.000Z",
+    "reason": "Notable institutional action with a significant market participant.",
+    "text": "Bluefin, Which Accounted for 95% of Sui's Historical Perpetual Futures Trading Volume, to Shut Down Perps Trading on December 4\n\nBluefin, a Sui-based decentralized trading platform, announced it will shut down Bluefin Perps at 21:00 UTC on December 4. Users must close their",
+    "url": "https://x.com/WuBlockchain/status/2126146972059046194",
+    "images": [
+      "https://pbs.twimg.com/media/HYGXW3Ka4AAai0C.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795748554904-9gbp89",
+    "source": "x",
+    "ts": "2026-11-27T03:02:34.904Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-27T02:51:49.000Z",
+    "reason": "No notable crypto-related content.",
+    "text": "🇺🇸 TODAY: President Trump says the US has “probably close to 50% of the world’s oil.”",
+    "url": "https://x.com/Cointelegraph/status/2126146948700721613"
   }
 ]
