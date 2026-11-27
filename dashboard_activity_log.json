@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795632838787-58ombp",
-    "source": "x",
-    "ts": "2026-11-25T18:53:58.787Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Coin Bureau",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-25T18:50:03.000Z",
-    "reason": "No notable crypto-related news or move mentioned.",
-    "text": "🚨HUGE: SpaceX receives its first-ever U.S. approval to deploy up to 1 MILLION satellites for Starmind, a network that would process data in orbit for use on Earth.\n\nThe satellites would share data through laser links, with radio links for tracking, emergency commands and backup.",
-    "url": "https://x.com/coinbureau/status/2125663322750296533"
-  },
-  {
     "id": "x-1795632845039-1jk9dt",
     "source": "x",
     "ts": "2026-11-25T18:54:05.039Z",
@@ -7717,5 +7704,23 @@
     "reason": "No notable move or specific event described.",
     "text": "While content is KING, context is the PALACE. Understand the palace.",
     "url": "https://x.com/amerix/status/2126311100647907755"
+  },
+  {
+    "id": "x-1795788128128-dmkel8",
+    "source": "x",
+    "ts": "2026-11-27T14:02:08.128Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-27T14:00:54.000Z",
+    "reason": "Potential price-sensitive leverage position at risk.",
+    "text": "🐋 ALERT:  AguilaTrades holds a $150M $BTC long at 40x leverage on Hyperliquid, facing liquidation at $59,673.\n\nA 3.15% Bitcoin drop could wipe the entire position without additional margin.",
+    "url": "https://x.com/Cointelegraph/status/2126315330859385087",
+    "images": [
+      "https://pbs.twimg.com/media/HYIwhZXW0AAhHzi.jpg"
+    ],
+    "video": null
   }
 ]
