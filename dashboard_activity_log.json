@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795614745269-1rv166",
-    "source": "x",
-    "ts": "2026-11-25T13:52:25.269Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-25T13:48:00.000Z",
-    "reason": "Notable institutional focus and dominance in the DeFi space.",
-    "text": "No DEX is coming close to Aquarius on Stellar Blockchain\n\nAccording to DeFiLlama, @AquariusDeFi accounts for about 97% of all DEX activity on @StellarOrg. \n\nThis protocol has handled about $13.68 million of $14.04 million in 7-day volume and about $52.6 million of $54.4 million",
-    "url": "https://x.com/BSCNews/status/2125587307872792758",
-    "images": [
-      "https://pbs.twimg.com/media/HX-RvHiXwAEdYj7.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795614747989-n4j8yh",
-    "source": "x",
-    "ts": "2026-11-25T13:52:27.989Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Decrypt",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-25T13:47:55.000Z",
-    "reason": "Ethereum focuses on security issues, highlighting potential risks with AI advancements.",
-    "text": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-    "url": "https://x.com/DecryptMedia/status/2125587286087659860",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795614751923-d9zb9r",
     "source": "x",
     "ts": "2026-11-25T13:52:31.923Z",
@@ -7673,5 +7639,40 @@
     "reason": "Not related to cryptocurrencies or blockchain technology.",
     "text": "JUST IN: Two Italians were killed by falling missile debris in an alleged Iranian attack, Kuwait reports.",
     "url": "https://x.com/BSCNews/status/2126172728722128953"
+  },
+  {
+    "id": "x-1795755722717-6z15za",
+    "source": "x",
+    "ts": "2026-11-27T05:02:02.717Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T05:00:12.000Z",
+    "reason": "Possible regulatory changes impacting DeFi and self-custodial wallets.",
+    "text": "🇯🇵  LATEST: Japan's FSA weighs tighter rules for DeFi and self-custodial wallets, including possible limits on access to DeFi services that lack anti-money laundering controls.",
+    "url": "https://x.com/Cointelegraph/status/2126179259731374508",
+    "images": [
+      "https://pbs.twimg.com/media/HYG0w9YXcAAP0Uk.jpg",
+      "https://pbs.twimg.com/media/HYG0xMYWIAAfg2m.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795755724919-9khq4p",
+    "source": "x",
+    "ts": "2026-11-27T05:02:04.919Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T05:00:00.000Z",
+    "reason": "Galaxy Research's reversal indicates a potential correction in Bitcoin's price.",
+    "text": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over\n\nA month after saying Bitcoin had bottomed in June, Galaxy now says a daily close below $58,525 would signal a materially lower low.",
+    "url": "https://x.com/DecryptMedia/status/2126179208720220237",
+    "images": [],
+    "video": null
   }
 ]
