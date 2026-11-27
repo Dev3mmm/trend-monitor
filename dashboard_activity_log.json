@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795620143955-iyz8hw",
-    "source": "x",
-    "ts": "2026-11-25T15:22:23.955Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 80,
-    "originTimestamp": "2026-11-25T14:01:52.000Z",
-    "reason": "Noise: meme and historical anecdote without new, specific crypto content.",
-    "text": "别再说马斯克挺黄仁勋只是演戏了。\n\n看看去年黄仁勋亲自飞去 SpaceX 见马斯克的这段视频，这段交情，早就在十年前焊死了。\n\n2016 年，黄仁勋发布全世界第一台 AI 超算 DGX-1。那是当时最顶尖的机器，可发布完，台下一片安静，一张订单都没有。\n\n直到去年 10 月，老黄带着最新一代 DGX Spark 去 SpaceX",
-    "url": "https://x.com/elonmusk/status/2125608471567688055"
-  },
-  {
     "id": "x-1795620718630-fmqfhj",
     "source": "x",
     "ts": "2026-11-25T15:31:58.630Z",
@@ -7694,5 +7681,23 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "📊 INSIGHT: Bitcoin’s June lows remain a key support level, with buyers holding firm despite two brief dips below it.\n\nPer @glassnode, every daily candle has closed above this level.",
     "url": "https://x.com/Cointelegraph/status/2126239633126133893"
+  },
+  {
+    "id": "x-1795771323085-x8lp1e",
+    "source": "x",
+    "ts": "2026-11-27T09:22:03.085Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-27T09:18:00.000Z",
+    "reason": "Notable regulatory and industry partnership announcement",
+    "text": "Chainlink Joins Five Tech Giants On Swift's New Banking Ledger\n\nSwift (@swiftcommunity) has named Chainlink (@chainlink) $LINK, Cosmos (@cosmos) cosmos:native, IBM (@IBM), Kaleido, Oracle and Taurus as technology partners for its blockchain-based ledger.\n\nSeventeen banks have",
+    "url": "https://x.com/BSCNews/status/2126244135636017186",
+    "images": [
+      "https://pbs.twimg.com/media/HYHaLe-bcAAYx6R.png"
+    ],
+    "video": null
   }
 ]
