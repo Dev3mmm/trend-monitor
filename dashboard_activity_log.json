@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795647769859-8xjmqy",
-    "source": "x",
-    "ts": "2026-11-25T23:02:49.859Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T23:00:00.000Z",
-    "reason": "No notable crypto-related news in the tweet.",
-    "text": "FCC Approves Up To 1 Million SpaceX Satellites For Orbital Data Centers.\n\nThe FCC said it granted SpaceX authorization to deploy 1,000,000 orbital compute modules, and Chairman Brendan Carr said the Starmind and competitor constellations will use solar power.",
-    "url": "https://x.com/DecryptMedia/status/2125726222827287008"
-  },
-  {
-    "id": "x-1795647775657-cvp6t3",
-    "source": "x",
-    "ts": "2026-11-25T23:02:55.657Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-25T22:55:00.000Z",
-    "reason": "On-chain data point with potential implications for Cardano's validator system.",
-    "text": "Validator count on @Cardano ($ADA) grew 14.9% in a year, the fastest among the big proof-of-stake chains, per @tokenterminal. But how many of those pools are actually producing blocks? ⬇️",
-    "url": "https://x.com/BSCNews/status/2125724964250882471",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795648384585-0aid3b",
     "source": "x",
     "ts": "2026-11-25T23:13:04.585Z",
@@ -7690,5 +7661,41 @@
     "reason": "No factual claim or concrete event.",
     "text": "Most of you don't listen.\n\nStay away from chaotic and dramatic, fat women.\n\nDon't entertain or tolerate them.\n\nRespect yourself.",
     "url": "https://x.com/amerix/status/2126391588016316816"
+  },
+  {
+    "id": "x-1795807310364-04bd8a",
+    "source": "x",
+    "ts": "2026-11-27T19:21:50.364Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-27T19:20:06.000Z",
+    "reason": "Notable bank launch of crypto trading in Russia",
+    "text": "🇷🇺 NEW: Russia’s VTB Bank has launched over-the-counter cryptocurrency trading for qualified investors through its investment app, ahead of the Moscow Exchange’s planned crypto trading launch on December 1.",
+    "url": "https://x.com/Cointelegraph/status/2126395660123472331",
+    "images": [
+      "https://pbs.twimg.com/media/HYJ5lUvW8AAAOS3.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795807313001-8w09o5",
+    "source": "x",
+    "ts": "2026-11-27T19:21:53.001Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-27T19:16:00.000Z",
+    "reason": "Price well outside recent range for ETH suggests significant institutional activity.",
+    "text": "Ethena Pay's Black Friday cashback hit its spending cap twice\n\n@EthenaPay, the money app from @ethena ($ENA), offered 50% cashback on card spending from Black Friday through Cyber Monday. The budget for the whole campaign ran out within hours, was raised, and ran out again.\n\nA",
+    "url": "https://x.com/BSCNews/status/2126394627561283645",
+    "images": [
+      "https://pbs.twimg.com/media/HYJtqcaW0AADVmm.jpg"
+    ],
+    "video": null
   }
 ]
