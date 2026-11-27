@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795656748920-c8u7dy",
-    "source": "x",
-    "ts": "2026-11-26T01:32:28.920Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-26T01:30:43.000Z",
-    "reason": "No notable move, price is well within its recent range.",
-    "text": "⚡️ NEW: Elon Musk's Neuralink gets FDA approval to start a pivotal trial of its brain implants in ALS patients with severe paralysis.",
-    "url": "https://x.com/Cointelegraph/status/2125764154313122004"
-  },
-  {
     "id": "x-1795656754220-5g5u4a",
     "source": "x",
     "ts": "2026-11-26T01:32:34.220Z",
@@ -7675,5 +7662,21 @@
     "reason": "No notable crypto-related event or price movement mentioned.",
     "text": "🇺🇸TODAY: Trump posts a \"Veto Corleone\" meme of himself on Truth Social, weeks before Democrats take control of Congress",
     "url": "https://x.com/BSCNews/status/2126420224794665092"
+  },
+  {
+    "id": "x-1795813935029-er1hht",
+    "source": "x",
+    "ts": "2026-11-27T21:12:15.029Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-27T21:05:00.000Z",
+    "reason": "Notable regulatory inquiry into new financial applications.",
+    "text": "Should onchain order books be allowed to trade tokenized US stocks? Injective Labs, a core contributor to @injective ($INJ), has asked the SEC to open the door ⬇️",
+    "url": "https://x.com/BSCNews/status/2126422058003259434",
+    "images": [],
+    "video": null
   }
 ]
