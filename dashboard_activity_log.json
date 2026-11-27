@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795662737638-74f0hh",
-    "source": "x",
-    "ts": "2026-11-26T03:12:17.638Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-26T03:09:00.000Z",
-    "reason": "No notable move in ETH price.",
-    "text": "What's the relationship between @PiCoreTeam and Pi Day...? \n\nHere's what you need to know about the biggest day of the $PI calendar ⬇️",
-    "url": "https://x.com/BSCNews/status/2125788885544493074"
-  },
-  {
-    "id": "x-1795663348265-14nqrm",
-    "source": "x",
-    "ts": "2026-11-26T03:22:28.265Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 6,
-    "originTimestamp": "2026-11-26T03:15:40.000Z",
-    "reason": "Notable rate hike by a major central bank.",
-    "text": "🇰🇷 NOW: The Bank of Korea hikes its benchmark rate by 25 bps to 3.25%, its highest since November 2024, and raises its 2027 growth forecast to 4.1%.",
-    "url": "https://x.com/Cointelegraph/status/2125790566168293716",
-    "images": [
-      "https://pbs.twimg.com/media/HYBTP7HWsAA-Mpt.png",
-      "https://pbs.twimg.com/media/HYBTQHRWgAAVIz2.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795664207587-je1k16",
     "source": "x",
     "ts": "2026-11-26T03:36:47.587Z",
@@ -7670,5 +7638,36 @@
     "reason": "Prediction without basis or historical support",
     "text": "🎥 LATEST: @thebrianjung predicts crypto markets will be significantly higher by June 2027, citing the four-year cycle and potential economic stimulus.",
     "url": "https://x.com/Cointelegraph/status/2126437472834114004"
+  },
+  {
+    "id": "x-1795818179664-c8lxl8",
+    "source": "x",
+    "ts": "2026-11-27T22:22:59.664Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 110,
+    "originTimestamp": "2026-11-27T20:32:01.000Z",
+    "reason": "No notable move in the tweet.",
+    "text": "🚨 FSD v15 Reality View in heavy rain.\nWindshield completely blurred, yet the visualization stays sharp. Cars, lanes, road markings, everything crystal clear.\nThis is what supervised autonomy looks like when weather turns bad.\nEurope has plenty of rainy days. Time to let more",
+    "url": "https://x.com/elonmusk/status/2126439678043976134"
+  },
+  {
+    "id": "x-1795818185948-owiz8n",
+    "source": "x",
+    "ts": "2026-11-27T22:23:05.948Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-27T22:12:00.000Z",
+    "reason": "Sky token experienced a significant price increase outside its recent range.",
+    "text": "Sky jumps 14% while the rest of the crypto market slips\n\n$SKY, the token of @SkyEcosystem, the DeFi protocol formerly known as Maker, trades near $0.053, up 14% in 24 hours, per CoinGecko. Over the same period, the total crypto market cap fell 1% to $2.14 trillion, and $BTC lost",
+    "url": "https://x.com/BSCNews/status/2126438918966988950",
+    "images": [
+      "https://pbs.twimg.com/media/HYKfwvBWcAEKCoc.jpg"
+    ],
+    "video": null
   }
 ]
