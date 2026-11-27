@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1795639323159-xtsvbn",
-    "source": "x",
-    "ts": "2026-11-25T20:42:03.159Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Coin Bureau",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-25T20:34:51.000Z",
-    "reason": "S&P to consider Nvidia's credit rating after Huang's return as CEO.",
-    "text": "JUST IN: S&amp;P may cut Nvidia's AA credit rating over Jensen Huang's return as CEO.\n\nThe agency put Nvidia on CreditWatch Negative and could downgrade it within 90 days, per Reuters.\n\nNvidia's board brought Huang back before an independent board investigation was complete.\n\nS&amp;P",
-    "url": "https://x.com/coinbureau/status/2125689693551595975",
-    "images": [
-      "https://pbs.twimg.com/media/HX_3K5rakAA-az6.jpg",
-      "https://pbs.twimg.com/media/HX_3N_sasAAue_N.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795639920726-uuy5f2",
-    "source": "x",
-    "ts": "2026-11-25T20:52:00.726Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T20:51:05.000Z",
-    "reason": "The tweet appears to be gossip or speculation rather than a concrete news event.",
-    "text": "🚨 SCOOP: Former FTX COO @ConstanceWaing reveals how SBF’s arrest really went down in the Bahamas, saying it was nothing like Netflix’s The Altruists.\n\n“I saw Sam being cuffed up ... and that’s the last time I saw him.”",
-    "url": "https://x.com/Cointelegraph/status/2125693781978595635"
-  },
-  {
-    "id": "x-1795640538699-3evo8z",
-    "source": "x",
-    "ts": "2026-11-25T21:02:18.699Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T21:01:07.000Z",
-    "reason": "Bitcoin's rally erased in under six hours due to market sentiment changes.",
-    "text": "🚨 UPDATE: Bitcoin erased its rally following Nvidia’s CEO reinstatement in under six hours, with the Nasdaq following suit, signaling a risk-off market, per Glassnode.",
-    "url": "https://x.com/Cointelegraph/status/2125696305401938061",
-    "images": [
-      "https://pbs.twimg.com/media/HX_9hiJWwAAV1yJ.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795640540708-vy9ju9",
     "source": "x",
     "ts": "2026-11-25T21:02:20.708Z",
@@ -7719,5 +7669,49 @@
     "reason": "No notable move, correlation is an opinion without factual data.",
     "text": "NEW: Bitcoin and gold's correlation has recorded a new all time high this year, according to Galaxy Research.\n\nThe Bitcoin as digital gold narrative is alive and well 👏",
     "url": "https://x.com/BitcoinMagazine/status/2126361050815574459"
+  },
+  {
+    "id": "x-1795800113203-2ob2yg",
+    "source": "x",
+    "ts": "2026-11-27T17:21:53.203Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Bitcoin Magazine",
+    "ageMin": 27,
+    "originTimestamp": "2026-11-27T16:55:00.000Z",
+    "reason": "Ad for a collectible, not a news event.",
+    "text": "Four issues. Four turning points in Bitcoin history.\n\nThe Historic Era 4-Pack brings you #23 through #26 in immaculate condition, straight from our archives.\n\n$199 for Black Friday while stock lasts 👇",
+    "url": "https://x.com/BitcoinMagazine/status/2126364422373347344"
+  },
+  {
+    "id": "x-1795800115180-5yilfg",
+    "source": "x",
+    "ts": "2026-11-27T17:21:55.180Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Eric",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-27T17:14:50.000Z",
+    "reason": "Vague opinion with no factual claim.",
+    "text": "The week was tough. It only made us tougher.  \n\nWhen the going gets tough, \n\n• Tune your mindset\n\n•  Walk shoulder straight\n\n•  Lift up your spirits\n\n•  Chin towards God.\n\nBe proud you are alive.\n\nNext week will be better.",
+    "url": "https://x.com/amerix/status/2126364136535994724"
+  },
+  {
+    "id": "x-1795800118155-h5kz6s",
+    "source": "x",
+    "ts": "2026-11-27T17:21:58.155Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-27T17:12:11.000Z",
+    "reason": "Notable institutional validation and partnership announcement in the blockchain space.",
+    "text": "Tether, ARK Invest and Deutsche Telekom will validate LayerZero's new blockchain\n\n@LayerZero_Core has named more than 40 validators for Zero, the blockchain it will launch on Monday, Nov 30. They are based across Asia, Europe, and North America.\n\n@Gemini, @Broadridge, Samsung",
+    "url": "https://x.com/BSCNews/status/2126363468806672846",
+    "images": [
+      "https://pbs.twimg.com/media/HYJbeIFXUAAk51d.jpg"
+    ],
+    "video": null
   }
 ]
