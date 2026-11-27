@@ -1,62 +1,5 @@
 [
   {
-    "id": "x-1795628724623-stz50h",
-    "source": "x",
-    "ts": "2026-11-25T17:45:24.623Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-25T17:36:40.000Z",
-    "reason": "No notable move, price is within its normal recent range.",
-    "text": "🇺🇸 TODAY: President Trump blames the Democrats’ election victory for the stock market sell-off, claiming markets would be “BOOMING” if he had been on the ballot.",
-    "url": "https://x.com/Cointelegraph/status/2125644855015559302"
-  },
-  {
-    "id": "x-1795628728027-eedvae",
-    "source": "x",
-    "ts": "2026-11-25T17:45:28.027Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Wu Blockchain",
-    "ageMin": 11,
-    "originTimestamp": "2026-11-25T17:34:23.000Z",
-    "reason": "Bitcoin mining security vulnerability revealed",
-    "text": "Braiins Confirms Bitcoin Mining Share Hijacking, Warns of Stratum V1 Security Risks\n\nBitcoin mining pool Braiins confirmed that attackers have exploited the lack of pool authentication in unsecured Stratum V1 connections, redirecting mining shares to attackers while miners",
-    "url": "https://x.com/WuBlockchain/status/2125644278684934206",
-    "images": [
-      "https://pbs.twimg.com/media/HX_OM9xaoAAqE5E.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795629122342-8kgz23",
-    "source": "x",
-    "ts": "2026-11-25T17:52:02.342Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-25T17:50:12.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "NOW: X pushes harder into short vertical video with new creator tools and payouts, saying video already takes 36% of all impressions.",
-    "url": "https://x.com/BSCNews/status/2125648261990261062"
-  },
-  {
-    "id": "x-1795629125585-ou1gky",
-    "source": "x",
-    "ts": "2026-11-25T17:52:05.585Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-25T17:47:15.000Z",
-    "reason": "No relevant information about cryptocurrency or crypto-related institutions.",
-    "text": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-    "url": "https://x.com/DecryptMedia/status/2125647517081563272"
-  },
-  {
     "id": "x-1795629129844-ko3wpi",
     "source": "x",
     "ts": "2026-11-25T17:52:09.844Z",
@@ -7699,5 +7642,62 @@
     "reason": "Noise: generic hype with no real content.",
     "text": "China wants the UN to set global AI rules, but Trump is pushing back. \n\nFind out how Beijing and Washington are competing to shape AI's future 👇",
     "url": "https://x.com/BSCNews/status/2126287381364117619"
+  },
+  {
+    "id": "x-1795782144641-dvk0qc",
+    "source": "x",
+    "ts": "2026-11-27T12:22:24.641Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-27T12:21:02.000Z",
+    "reason": "No factual claims or on-chain data provided, appears to be sensationalist or clickbait content.",
+    "text": "🇺🇸 America is EXPOSED.\n\nHacks and outages have swept the US in just 3 months:\n\n- US-bound oil tankers HACKED\n- FBI HACKED\n- UIC College of Medicine HACKED\n- mSecure password manager HACKED\n- Queens Public Library HACKED\n- Vanderbilt University HACKED\n- Expedia HACKED\n- Microsoft",
+    "url": "https://x.com/coinbureau/status/2126290198426161649"
+  },
+  {
+    "id": "x-1795782148753-hq8yeg",
+    "source": "x",
+    "ts": "2026-11-27T12:22:28.753Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Coin Bureau",
+    "ageMin": 7,
+    "originTimestamp": "2026-11-27T12:15:19.000Z",
+    "reason": "No notable financial news or move is explicitly stated or supported by Goldman Sachs.",
+    "text": "🚨ALERT: Goldman Sachs warns of a possible $100 BILLION in automated stock SELL OFF worldwide next week, even as U.S. stocks look set to open higher Friday.\n\nGoldman estimates automated trading funds sold $70 BILLION in stocks last week.\n\nIf its forecast holds, that would bring",
+    "url": "https://x.com/coinbureau/status/2126288759671153043"
+  },
+  {
+    "id": "x-1795782154628-l9u0r0",
+    "source": "x",
+    "ts": "2026-11-27T12:22:34.628Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 115,
+    "originTimestamp": "2026-11-27T10:27:00.000Z",
+    "reason": "Aero recorded over $26.3B in DEX volume, overtaking PancakeFi to become the second most active DEX.",
+    "text": "Aero is on fire.\n\n@aeroxyz has recorded over $26.3B in DEX volume over the past month, per DefiLlama data.\n\nThis pushes its figure past that of @PancakeFi ($25.4B) for the period, making it the second most active DEX in the entire industry, after @Uniswap ($63.8B).\n\nSince $AERO's",
+    "url": "https://x.com/BSCNews/status/2126288679391883566",
+    "images": [
+      "https://pbs.twimg.com/media/HYIINSGWoAAigk6.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795782158309-j8ojdz",
+    "source": "x",
+    "ts": "2026-11-27T12:22:38.309Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 33,
+    "originTimestamp": "2026-11-27T11:49:12.000Z",
+    "reason": "No notable move, price is well inside the recent trading range.",
+    "text": "⚠️ALERT: The US Air Force has been hacked?!\n\nAccording to a brand-new report from Reuters, hackers have breached 'Cloud One' - The US Air Force's flagship cloud computing platform.\n\nThe breach was discovered within the last month and \"could jeopardize a vast swathe of sensitive",
+    "url": "https://x.com/BSCNews/status/2126288175761105291"
   }
 ]
