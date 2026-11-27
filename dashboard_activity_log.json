@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1795629129844-ko3wpi",
-    "source": "x",
-    "ts": "2026-11-25T17:52:09.844Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-25T17:47:00.000Z",
-    "reason": "Notable institutional bridging event between two chains.",
-    "text": "LayerZero opens a bridge for Canton Coin to BNB Chain\n\n@LayerZero_Core ($ZRO) now lets holders move Canton Coin ($CC) off @CantonNetwork and onto @BNBCHAIN, where it trades on @PancakeFi.\n\nEach bridged CC is backed 1:1 by native CC. The transfers run through LayerZero's",
-    "url": "https://x.com/BSCNews/status/2125647453798170811",
-    "images": [
-      "https://pbs.twimg.com/media/HX_NZ7GWYAAQbeU.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795629820330-2yx1ne",
-    "source": "x",
-    "ts": "2026-11-25T18:03:40.330Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 1,
-    "originTimestamp": "2026-11-25T18:02:00.000Z",
-    "reason": "Specific institutional action against crypto scammers.",
-    "text": "🇺🇸 BIG: The Justice Department announces its “largest-ever crackdown” on scammers, including those operating in crypto.",
-    "url": "https://x.com/Cointelegraph/status/2125651227924906244",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795629824144-mlkq7m",
-    "source": "x",
-    "ts": "2026-11-25T18:03:44.144Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-25T18:00:20.000Z",
-    "reason": "New use of a token/stablecoin in the web development space",
-    "text": "JUST IN: Internet Computer ($ICP) founder @dominic_w says Fluid Web is coming to Open SaaS, with AI agents building new apps on the fly by combining what the existing apps can do.",
-    "url": "https://x.com/BSCNews/status/2125650811669635116",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795629828870-v7enli",
     "source": "x",
     "ts": "2026-11-25T18:03:48.870Z",
@@ -7699,5 +7649,56 @@
     "reason": "No notable move, price is well inside the recent trading range.",
     "text": "⚠️ALERT: The US Air Force has been hacked?!\n\nAccording to a brand-new report from Reuters, hackers have breached 'Cloud One' - The US Air Force's flagship cloud computing platform.\n\nThe breach was discovered within the last month and \"could jeopardize a vast swathe of sensitive",
     "url": "https://x.com/BSCNews/status/2126288175761105291"
+  },
+  {
+    "id": "x-1795782747121-xqzqtv",
+    "source": "x",
+    "ts": "2026-11-27T12:32:27.121Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T12:30:20.000Z",
+    "reason": "Notable regulatory and institutional move involving central banks.",
+    "text": "🇯🇵 LATEST: Bank of Japan executive confirms the BOJ is exploring tokenized central bank money, cross-border payments and tokenized bond settlements.\n\nHe also calls for appropriate regulation of stablecoin reserves.",
+    "url": "https://x.com/Cointelegraph/status/2126292539208606011",
+    "images": [
+      "https://pbs.twimg.com/media/HYIbx2YXgAA9ylk.jpg",
+      "https://pbs.twimg.com/media/HYIbyRqXIAAcrUw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795782751382-g2krft",
+    "source": "x",
+    "ts": "2026-11-27T12:32:31.382Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T12:30:01.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "Consider this your arrival notice 🧳\n\n#BinanceBlockchainWeek lands November 28–29.\n\nAgenda →",
+    "url": "https://x.com/binance/status/2126292460334649485"
+  },
+  {
+    "id": "x-1795782756264-c987ba",
+    "source": "x",
+    "ts": "2026-11-27T12:32:36.264Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T12:30:01.000Z",
+    "reason": "Security issue affecting liquidity operations.",
+    "text": "Fluid Pauses Swaps After A Security Review, Says All Funds Remain Safe.\n\nFluid said swaps were temporarily paused following its latest \"Mythos 5.2 security review,\" while lending, borrowing, withdrawing, repaying and liquidations remain fully available.",
+    "url": "https://x.com/DecryptMedia/status/2126292458161975736",
+    "images": [
+      "https://pbs.twimg.com/media/HYIMo1JWoAATcDF.png",
+      "https://pbs.twimg.com/media/HYINDRXW8AAelHL.png"
+    ],
+    "video": null
   }
 ]
