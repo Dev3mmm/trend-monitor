@@ -1,36 +1,5 @@
 [
   {
-    "id": "x-1795634113982-xkjhfn",
-    "source": "x",
-    "ts": "2026-11-25T19:15:13.982Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Elon Musk",
-    "ageMin": 52,
-    "originTimestamp": "2026-11-25T18:22:33.000Z",
-    "reason": "Noise: No real content.",
-    "text": "Interesting",
-    "url": "https://x.com/elonmusk/status/2125669066388209784"
-  },
-  {
-    "id": "x-1795634118926-w40de2",
-    "source": "x",
-    "ts": "2026-11-25T19:15:18.926Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-25T19:11:40.000Z",
-    "reason": "New use of AI in prediction markets for cryptocurrency-focused asset prices.",
-    "text": "🔥 NEW: Polymarket launches AI compute prediction markets, allowing users to bet on Nvidia H100, B200 and B300 GPU rental prices through 2028.",
-    "url": "https://x.com/Cointelegraph/status/2125668760455348369",
-    "images": [
-      "https://pbs.twimg.com/media/HX_keNmWgAAnQVf.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795634124004-aqa73g",
     "source": "x",
     "ts": "2026-11-25T19:15:24.004Z",
@@ -7717,5 +7686,41 @@
     "reason": "No notable move in a security price.",
     "text": "$CRWV - COREWEAVE SHARES FALL 2.3% IN EARLY TRADING, EXTENDING TWO-SESSION LOSSES",
     "url": "https://x.com/PhyrexNi/status/2126329081583321490"
+  },
+  {
+    "id": "x-1795792365963-1kwny2",
+    "source": "x",
+    "ts": "2026-11-27T15:12:45.963Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-27T15:09:47.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "🚨Bitcoin is on “Black Friday” sale?\n\n$BTC fell 4% after a Black Friday selloff that occurred in the first 30 minutes of U.S. trading.\n\nBitcoin plunged below $59,000 even as U.S. stock market opened higher.",
+    "url": "https://x.com/coinbureau/status/2126332664466858021",
+    "images": [
+      "https://pbs.twimg.com/media/HYI-sM6a0AAgtYv.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795792369404-xbcboo",
+    "source": "x",
+    "ts": "2026-11-27T15:12:49.404Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Bitcoin Magazine",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-27T15:01:55.000Z",
+    "reason": "Concrete price movement outside the recent range.",
+    "text": "JUST IN: Bitcoin drops to $58,990",
+    "url": "https://x.com/BitcoinMagazine/status/2126330687053508646",
+    "images": [
+      "https://pbs.twimg.com/media/HYI-aMvWUAAQCO_.jpg"
+    ],
+    "video": null
   }
 ]
