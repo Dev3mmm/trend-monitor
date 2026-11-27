@@ -2001,17 +2001,7 @@
     "x-1795767818959-b20csf",
     "x-1795769525637-ltez98"
   ],
-  "queue": [
-    {
-      "text": "🚨BREAKING: China's stock market added ¥4,100,000,000,000 ($620 BILLION) today after Beijing pledged more market support from its “national team.\n\nShenzhen Component +7.24%\nShanghai Composite +3.73%\nSTAR 50 +15.07%\nChiNext +11.61%\nCSI 300 +4.17%",
-      "url": "https://x.com/coinbureau/status/2126236608349581565",
-      "images": [
-        "https://pbs.twimg.com/media/HYHn2heaAAAlPAM.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795769526895
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "Bloomberg: Tether Has Sought 20% Reissuance Fees From Some Crypto Hack Victims\n\nAccording to a Bloomberg investigation, Tether has sought 20% reissuance fees from some victims seeking the return of frozen USDT. Singapore-based crypto exchange Bittok, which lost $50 million in a",
@@ -2650,7 +2640,16 @@
       "at": 1795768364410,
       "status": "failed",
       "error": "ed to S3, polling status...\n  Processing... (1/10)\n  Processing... (2/10)\n  Processing... (3/10)\n  Processing... (4/10)\n  Processing... (5/10)\n  Processing... (6/10)\n  Processing... (7/10)\n  Processing... (8/10)\n  Processing... (9/10)\n  Processing... (10/10)\n\n\nFailed: Poll timed out after 10 retries"
+    },
+    {
+      "text": "🚨BREAKING: China's stock market added ¥4,100,000,000,000 ($620 BILLION) today after Beijing pledged more market support from its “national team.\n\nShenzhen Component +7.24%\nShanghai Composite +3.73%\nSTAR 50 +15.07%\nChiNext +11.61%\nCSI 300 +4.17%",
+      "final": "🚨BREAKING: China's stock market added ¥4,100,000,000,000 ($620 BILLION) today after Beijing pledged more market support from its “national team.\n\nShenzhen Component +7.24%\nShanghai Composite +3.73%\nSTAR 50 +15.07%\nChiNext +11.61%\nCSI 300 +4.17%\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HYHn2heaAAAlPAM.jpg"
+      ],
+      "at": 1795770126213,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795768364410
+  "lastPostAt": 1795770126213
 }
