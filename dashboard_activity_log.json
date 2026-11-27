@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795638790528-m1thkc",
-    "source": "x",
-    "ts": "2026-11-25T20:33:10.528Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-25T20:30:00.000Z",
-    "reason": "Cryptocurrency mining hijack threat reported.",
-    "text": "Braiins Says an Attacker Hijacked Hashrate at More Than 1,000 Bitcoin Mining Sites.\n\nThe mining pool said the sites were hit Nov. 20 via unencrypted Stratum V1 connections, calling the attack \"still a live threat\" and saying Braiins Pool's systems were not compromised.",
-    "url": "https://x.com/DecryptMedia/status/2125688475898855716",
-    "images": [
-      "https://pbs.twimg.com/media/HX_favpWIAAdHj6.png",
-      "https://pbs.twimg.com/media/HX_foAkXQAAP9_1.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795639313476-6p8asx",
-    "source": "x",
-    "ts": "2026-11-25T20:41:53.476Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-25T20:41:24.000Z",
-    "reason": "No crypto-related content or move.",
-    "text": "🇺🇸JUST IN: President Trump praises the Army for today's detonation in Iowa and says Governor-elect Rob Sand, who had asked for more transparency, \"hurt and delayed the process.\"",
-    "url": "https://x.com/BSCNews/status/2125691344127770863"
-  },
-  {
     "id": "x-1795639316253-lwnv5j",
     "source": "x",
     "ts": "2026-11-25T20:41:56.253Z",
@@ -7719,5 +7687,37 @@
     "reason": "No direct connection to cryptocurrencies or token markets.",
     "text": "🇺🇸 BIG: The U.S. stock market has added $1 trillion in market value since the opening bell.",
     "url": "https://x.com/Cointelegraph/status/2126358164186538024"
+  },
+  {
+    "id": "x-1795798937978-s1kcee",
+    "source": "x",
+    "ts": "2026-11-27T17:02:17.978Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-27T17:00:56.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "⚡️️️️️️ INSIGHT: Speaking at BNB Chain Demo Night, Binance founder CZ said Bitcoin at $60,000 is an attractive price and expressed hope that the market has reached peak pessimism. \n\nHe attributed the crypto downturn to falling tech stocks, the Binance hack, trade tariffs and",
+    "url": "https://x.com/Cointelegraph/status/2126360636942586153"
+  },
+  {
+    "id": "x-1795798942200-t85bvm",
+    "source": "x",
+    "ts": "2026-11-27T17:02:22.200Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Decrypt",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-27T17:00:02.000Z",
+    "reason": "Bank of Japan explores using blockchain for financial transactions and securities.",
+    "text": "Bank of Japan Executive Says Tokenizing Central Bank Money \"Is One Option.\"\n\nKazushige Kamiyama said Nov. 27 the BOJ's DLT Sandbox Project use cases include improving cross-border payments, strengthening domestic interbank settlement, and funds settlement of tokenized JGBs.",
+    "url": "https://x.com/DecryptMedia/status/2126360412908314719",
+    "images": [
+      "https://pbs.twimg.com/media/HYJJhoXXsAAR3XP.png",
+      "https://pbs.twimg.com/media/HYJKyJ2WcAIPW6N.jpg"
+    ],
+    "video": null
   }
 ]
