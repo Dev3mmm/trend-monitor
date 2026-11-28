@@ -1,37 +1,5 @@
 [
   {
-    "id": "x-1795697608461-vgrwg7",
-    "source": "x",
-    "ts": "2026-11-26T12:53:28.461Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Decrypt",
-    "ageMin": 8,
-    "originTimestamp": "2026-11-26T12:45:00.000Z",
-    "reason": "Regulatory move impacting Bitcoin.",
-    "text": "Bitcoin Reserve Bill With A 20-Year Holding Requirement Reaches The House Union Calendar.\n\nThe House Financial Services Committee, which voted 28-21 on Sept. 16 to report H.R. 8957, filed its report on Nov. 24; the bill has not passed the House.",
-    "url": "https://x.com/DecryptMedia/status/2125933841307037823",
-    "images": [
-      "https://pbs.twimg.com/media/HYCnw5KW8AAG1ss.jpg",
-      "https://pbs.twimg.com/media/HYCoX2zXEAEJhf-.jpg"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795698139573-6s1fku",
-    "source": "x",
-    "ts": "2026-11-26T13:02:19.573Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-26T13:01:41.000Z",
-    "reason": "Generic hype with no real content.",
-    "text": "🇺🇸 TRUMP: \"The Trump Economy is ROARING\"",
-    "url": "https://x.com/Cointelegraph/status/2125938039369220224"
-  },
-  {
     "id": "x-1795698142135-lzfwtl",
     "source": "x",
     "ts": "2026-11-26T13:02:22.135Z",
@@ -7600,5 +7568,45 @@
       "https://pbs.twimg.com/media/HYNX1iOaoAAW-IV.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795867356555-t0rtsy",
+    "source": "x",
+    "ts": "2026-11-28T12:02:36.555Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-28T12:00:38.000Z",
+    "reason": "Notable bank misstatement and regulatory response.",
+    "text": "🚨 JUST IN: Citigroup reportedly injected $3 billion into its UK subsidiary after understating risk-weighted assets by $35 billion, prompting a management shake-up, per WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2126647453336133826",
+    "images": [
+      "https://pbs.twimg.com/media/HYNelIFXgAAMPIk.jpg",
+      "https://pbs.twimg.com/media/HYNelXVXUAApCjA.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795867360344-qjljac",
+    "source": "x",
+    "ts": "2026-11-28T12:02:40.344Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 4,
+    "originTimestamp": "2026-11-28T11:58:29.000Z",
+    "reason": "Important insider information from a high-profile crypto figure.",
+    "text": "CZ: Negative Comments Could Discourage Vitalik\n\nBinance founder Changpeng Zhao (CZ) @cz_binance  said at BNB Bangkok Demo Night on November 27 that he has known Vitalik Buterin since 2013 and initially doubted he could build Ethereum. CZ believes crypto would be much smaller",
+    "url": "https://x.com/WuBlockchain/status/2126646911633592809",
+    "images": [],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2126644423941660672/vid/avc1/1280x720/FWN0YJ4XauSWD7gt.mp4?tag=29",
+      "duration": 131,
+      "gif": false,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126644423941660672/img/OjPDZbi64CLFWyWq.jpg"
+    }
   }
 ]
