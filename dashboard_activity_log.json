@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795697601301-dafh2u",
-    "source": "x",
-    "ts": "2026-11-26T12:53:21.301Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-26T12:49:49.000Z",
-    "reason": "Newsworthy geopolitical event involving military consultations.",
-    "text": "🇨🇳🇷🇺NEW: China Defense Ministry confirms that the Chinese &amp; Russian Militaries held \"strategic consultations\" via video link.",
-    "url": "https://x.com/BSCNews/status/2125935053133807744",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795697605331-piies0",
-    "source": "x",
-    "ts": "2026-11-26T12:53:25.331Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 7,
-    "originTimestamp": "2026-11-26T12:46:00.000Z",
-    "reason": "Surging deposits indicate significant activity and growth in the Sui network.",
-    "text": "Deposits on Sui Are Surging, and Fluid Is the Reason\n\nFluid (@0xFluid) has crossed $47M in total user deposits on Sui (@SuiNetwork), just a week after its November 19 launch.\n\nAccording to on-chain data, there was a spike within the last 48 hours. \n\nTotal liquidity surged from",
-    "url": "https://x.com/BSCNews/status/2125934092927520997",
-    "images": [
-      "https://pbs.twimg.com/media/HYDS8F_WcAAu6SP.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795697608461-vgrwg7",
     "source": "x",
     "ts": "2026-11-26T12:53:28.461Z",
@@ -7600,6 +7566,38 @@
     "images": [
       "https://pbs.twimg.com/media/HYNXRrIb0AAyLzD.png",
       "https://pbs.twimg.com/media/HYNXUZmbcAETq-s.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795866119127-fz3ljk",
+    "source": "x",
+    "ts": "2026-11-28T11:41:59.127Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Phyrex",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-28T11:38:22.000Z",
+    "reason": "Noise, vague speculation without concrete evidence.",
+    "text": "刚刚和 @Cato_KT 猫叔喝咖啡的时候还在聊 USD1 的事情，我们两个都错过了脱锚的机会，但我说即便是我没错过。我大概率也不会买，如果是 USDT 和 USDC 我肯定义无反顾的就上了。\n\n但是 USD1 虽然有 BitGo 的审计，但总觉得和川普家族绑定的太深了。而且 USD1 的发展前景我是非常不看好，就不说和 USDT",
+    "url": "https://x.com/PhyrexNi/status/2126641848668282983"
+  },
+  {
+    "id": "x-1795866123796-74msl5",
+    "source": "x",
+    "ts": "2026-11-28T11:42:03.796Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-28T11:32:26.000Z",
+    "reason": "Notable institutional action with significant financial impact.",
+    "text": "🚨 Another one bites the dust.\n\nBitcoin mining giant Keel Infrastructure $KEEL dumps its ENTIRE Bitcoin treasury worth $192.2 MILLION to go all in on AI data centers.\n\nThe breakdown:\n-  2,261 BTC sold from treasury reserves.\n\n- 259 newly mined BTC liquidated.\n\n- $780 MILLION in",
+    "url": "https://x.com/coinbureau/status/2126640355428712730",
+    "images": [
+      "https://pbs.twimg.com/media/HYNX1h-aAAE5c7H.jpg",
+      "https://pbs.twimg.com/media/HYNX1iOaoAAW-IV.jpg"
     ],
     "video": null
   }
