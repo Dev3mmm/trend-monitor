@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795694538159-mfaese",
-    "source": "x",
-    "ts": "2026-11-26T12:02:18.159Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 40,
-    "originTimestamp": "2026-11-26T11:22:15.000Z",
-    "reason": "Notable bank data breach affecting crypto custody service backed by Standard Chartered.",
-    "text": "Standard Chartered’s Crypto Custody Arm Struck by Security Breach\n\nCryptocurrency custody service, Zodia Custody (@ZodiaCustody) backed by Standard Chartered, fell victim to a data breach where internal contact information was revealed.\n\nAccording to CEO Richard Clark, the",
-    "url": "https://x.com/BSCNews/status/2125921298899509552",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795695164689-myc69u",
-    "source": "x",
-    "ts": "2026-11-26T12:12:44.689Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Eric",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-26T12:12:20.000Z",
-    "reason": "No notable crypto-related event or price movement mentioned.",
-    "text": "Maybe we should form our X political party called FAFO — Fuck Around, Find Out.",
-    "url": "https://x.com/amerix/status/2125925621209379183"
-  },
-  {
     "id": "x-1795695166735-kco0gp",
     "source": "x",
     "ts": "2026-11-26T12:12:46.735Z",
@@ -7579,5 +7550,38 @@
     "reason": "No notable move in ETH, price is within its recent range.",
     "text": "The @PiCoreTeam venture fund hasn't made many investments, but the few investments that it has made were made with conviction.\n\nHow could @openmind_agi and @axisrobotics shape the future of $PI ...? ⬇️",
     "url": "https://x.com/BSCNews/status/2126615834433069547"
+  },
+  {
+    "id": "x-1795860721252-2jov8n",
+    "source": "x",
+    "ts": "2026-11-28T10:12:01.252Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-28T10:10:44.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "What if markets never had to close? \n\nAt #BinanceBlockchainWeek, leaders from across traditional finance and crypto explored the infrastructure, platforms and products shaping the future of 24/7 capital markets. \n\n2030 might look very different.",
+    "url": "https://x.com/binance/status/2126619794044575827",
+    "images": [
+      "https://pbs.twimg.com/media/HYNFLsGWIAAo9jh.jpg",
+      "https://pbs.twimg.com/media/HYNFQgTXYAAH2YI.jpg",
+      "https://pbs.twimg.com/media/HYNFVKNXYAId9Jl.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795860723312-43r3wm",
+    "source": "x",
+    "ts": "2026-11-28T10:12:03.312Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-28T10:06:27.000Z",
+    "reason": "No notable move in ETH price within its recent range.",
+    "text": "Proof of attendance is on your badge. Proof of fun is on you to earn. \nWhich activation are you trying before the next keynote? 👇 \n\n#BinanceBlockchainWeek",
+    "url": "https://x.com/binance/status/2126618719279341721"
   }
 ]
