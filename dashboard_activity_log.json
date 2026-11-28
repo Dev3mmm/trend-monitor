@@ -1,55 +1,5 @@
 [
   {
-    "id": "x-1795670673703-tyk3lu",
-    "source": "x",
-    "ts": "2026-11-26T05:24:33.703Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "BSCN",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-26T05:19:54.000Z",
-    "reason": "No notable move in Ethereum within its recent range.",
-    "text": "JUST IN: Gold slides to a one year low as Fed rate hike fears grow, with spot prices falling below $3,500.",
-    "url": "https://x.com/BSCNews/status/2125821829311078907"
-  },
-  {
-    "id": "x-1795671186780-9k9b76",
-    "source": "x",
-    "ts": "2026-11-26T05:33:06.780Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-26T05:32:24.000Z",
-    "reason": "Specific institutional impact from export controls.",
-    "text": "BREAKING: Nvidia halts chip shipments to Southeast Asia as the US tightens export controls, per FT.\n\nNvidia has reportedly instructed manufacturing partners, including Dell and Supermicro, to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia.\n\nThe impact will",
-    "url": "https://x.com/coinbureau/status/2125824974313476280",
-    "images": [
-      "https://pbs.twimg.com/media/HYByI-5aUAAInvN.png",
-      "https://pbs.twimg.com/media/HYByekGbYAAyEjy.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795671191743-y8d2hu",
-    "source": "x",
-    "ts": "2026-11-26T05:33:11.743Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "Cointelegraph",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-26T05:30:44.000Z",
-    "reason": "Specific price move and market analysis indicating potential market movement.",
-    "text": "🚨 LATEST: Galaxy's Alex Thorn withdraws his call that the Bitcoin bear market ended in June, warning that a daily close below $58,525 could signal a drop to a materially lower low.",
-    "url": "https://x.com/Cointelegraph/status/2125824556132671855",
-    "images": [
-      "https://pbs.twimg.com/media/HYByKfXXcAAZ4ro.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795671706036-uei3nj",
     "source": "x",
     "ts": "2026-11-26T05:41:46.036Z",
@@ -7635,5 +7585,50 @@
     "reason": "No notable move in ETH price within the recent range.",
     "text": "Grok fairs quite well in \"high level understanding\" like Gemini Neon. Here's Grok's explaination of Lean's Prop/Type separation, whereas ChatGPT and Claude get lost talking about impredicativity:",
     "url": "https://x.com/elonmusk/status/2126477913898078443"
+  },
+  {
+    "id": "x-1795827713923-hsodc0",
+    "source": "x",
+    "ts": "2026-11-28T01:01:53.923Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Cointelegraph",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-28T01:00:21.000Z",
+    "reason": "PayPal launches sub-second settlement stablecoin on Sei",
+    "text": "🚨️️️️️️ NEW: PayPal’s PYUSD0 stablecoin is now live on Sei, enabling sub-second settlement for digital dollar transactions.",
+    "url": "https://x.com/Cointelegraph/status/2126481285522526683",
+    "images": [
+      "https://pbs.twimg.com/media/HYLHdKVXYAAfaa9.jpg",
+      "https://pbs.twimg.com/media/HYLHda6XoAAnOiw.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795827715583-2sptkq",
+    "source": "x",
+    "ts": "2026-11-28T01:01:55.583Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 1,
+    "originTimestamp": "2026-11-28T01:00:19.000Z",
+    "reason": "No notable crypto-related event or price movement mentioned.",
+    "text": "Bangkok just turned yellow. 💛 \n\nYou know what that means…",
+    "url": "https://x.com/binance/status/2126481277939482866"
+  },
+  {
+    "id": "x-1795827717093-3c9u3o",
+    "source": "x",
+    "ts": "2026-11-28T01:01:57.093Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 44,
+    "originTimestamp": "2026-11-28T00:17:56.000Z",
+    "reason": "Noise: generic tweet with no real content.",
+    "text": "My photo of Starship in @TIME 😍",
+    "url": "https://x.com/elonmusk/status/2126479794263277891"
   }
 ]
