@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794440523205-fqyj56",
     "x-1794440528217-yz9dw6",
     "x-1794441753349-bev71q",
     "x-1794442573012-n8rjvs",
@@ -1999,18 +1998,10 @@
     "x-1795820561958-mwcwje",
     "x-1795820570971-qt3my5",
     "x-1795821739182-n97hxa",
-    "x-1795825906184-8pa91r"
+    "x-1795825906184-8pa91r",
+    "x-1795827713923-hsodc0"
   ],
   "queue": [
-    {
-      "text": "🐋 BIG: Bitcoin whales added 121,117 $BTC in Q4 despite a 29.5% price drop, per CryptoQuant.",
-      "url": "https://x.com/Cointelegraph/status/2126451119492649007",
-      "images": [
-        "https://pbs.twimg.com/media/HYKsBepX0AIrsxy.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795820571702
-    },
     {
       "text": "🚨 INSIGHT: “The biggest threat right now to crypto is still cyberattacks,” @thebrianjung tells @itsciaranlyons on #TRADESECRETS.",
       "url": "https://x.com/Cointelegraph/status/2126473802267648244",
@@ -2022,6 +2013,16 @@
         "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126473772915941376/img/d3E2-My9zVihcxyt.jpg"
       },
       "enqueuedAt": 1795825908300
+    },
+    {
+      "text": "🚨️️️️️️ NEW: PayPal’s PYUSD0 stablecoin is now live on Sei, enabling sub-second settlement for digital dollar transactions.",
+      "url": "https://x.com/Cointelegraph/status/2126481285522526683",
+      "images": [
+        "https://pbs.twimg.com/media/HYLHdKVXYAAfaa9.jpg",
+        "https://pbs.twimg.com/media/HYLHda6XoAAnOiw.jpg"
+      ],
+      "video": null,
+      "enqueuedAt": 1795827717718
     }
   ],
   "posted": [
@@ -2681,7 +2682,16 @@
       "at": 1795825908300,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392948590559514?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🐋 BIG: Bitcoin whales added 121,117 $BTC in Q4 despite a 29.5% price drop, per CryptoQuant.",
+      "final": "🐋 BIG: Bitcoin whales added 121,117 $BTC in Q4 despite a 29.5% price drop, per CryptoQuant.\n\n#Bitcoin $BTC",
+      "images": [
+        "https://pbs.twimg.com/media/HYKsBepX0AIrsxy.jpg"
+      ],
+      "at": 1795827717718,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795825908300
+  "lastPostAt": 1795827717718
 }
