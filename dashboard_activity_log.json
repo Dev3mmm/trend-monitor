@@ -1,34 +1,5 @@
 [
   {
-    "id": "x-1795696338284-450djr",
-    "source": "x",
-    "ts": "2026-11-26T12:32:18.284Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "CZ 🔶 BNB",
-    "ageMin": 30,
-    "originTimestamp": "2026-11-26T12:02:00.000Z",
-    "reason": "No notable move or specific event described.",
-    "text": "Keep building!",
-    "url": "https://x.com/cz_binance/status/2125930030572437822"
-  },
-  {
-    "id": "x-1795696340635-i929ch",
-    "source": "x",
-    "ts": "2026-11-26T12:32:20.635Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Decrypt",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-26T12:27:15.000Z",
-    "reason": "Galaxy Research confirms Bitcoin's bear market may not be over yet.",
-    "text": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
-    "url": "https://x.com/DecryptMedia/status/2125929374138478794",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795696343375-sg4g23",
     "source": "x",
     "ts": "2026-11-26T12:32:23.375Z",
@@ -7594,5 +7565,42 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "🚨 INSIGHT: Fidelity’s Jurrien Timmer says the 17-year stock market bull cycle is in its mature phase, but rising profit margins and valuations suggest it is not over yet.",
     "url": "https://x.com/Cointelegraph/status/2126632507953050051"
+  },
+  {
+    "id": "x-1795864321036-i4jy6v",
+    "source": "x",
+    "ts": "2026-11-28T11:12:01.036Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 6,
+    "originTimestamp": "2026-11-28T11:05:00.000Z",
+    "reason": "Notable exploit involving a crypto token crash.",
+    "text": "WLFI just crashed -50% in 24 hours.\n\n@worldlibertyfi's native token $WLFI saw a sudden crash in the early hours of this morning, now down -49.5% in the past day.\n\nCryptoPotato attributes the collapse to a massive $ETH sale (worth around $20M) by a “strategic reserve” wallet",
+    "url": "https://x.com/BSCNews/status/2126633451281686654",
+    "images": [
+      "https://pbs.twimg.com/media/HYM9FjTWEAAJnXX.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795864326985-kch11k",
+    "source": "x",
+    "ts": "2026-11-28T11:12:06.985Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 2,
+    "author": "Wu Blockchain",
+    "ageMin": 8,
+    "originTimestamp": "2026-11-28T11:03:16.000Z",
+    "reason": "Notable insider information about FTX bankruptcy and potential rescue offer.",
+    "text": "Former FTX COO First Reveals: Justin Sun Offered $4B Rescue, Arriving ~10 Minutes After Bankruptcy Appointment\n\nFormer FTX COO Constance Wang recalled in a post that after CZ announced he would sell FTT on November 6, 2022, roughly $6 billion left the platform within 72 hours. On",
+    "url": "https://x.com/WuBlockchain/status/2126633015753506907",
+    "images": [
+      "https://pbs.twimg.com/media/HYNRSUqaoAAOrEU.jpg",
+      "https://pbs.twimg.com/media/HYNRTM1bwAAvtQv.jpg"
+    ],
+    "video": null
   }
 ]
