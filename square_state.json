@@ -2001,17 +2001,7 @@
     "x-1795851719649-k7io8l",
     "x-1795852974995-ujpnsq"
   ],
-  "queue": [
-    {
-      "text": "🚨 ALERT: Fidelity’s spot Bitcoin ETF ($FBTC) recorded $20.8 million in net outflows on Friday.",
-      "url": "https://x.com/Cointelegraph/status/2126586705352282478",
-      "images": [
-        "https://pbs.twimg.com/media/HYMnVmsXsAAhkz1.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795852975570
-    }
-  ],
+  "queue": [],
   "posted": [
     {
       "text": "🔥 LATEST: Samsung C&amp;T has adopted Citigroup's blockchain-based Citi Token Services and moved about $180M between its Singapore and Hong Kong units in six months.",
@@ -2650,7 +2640,16 @@
       "at": 1795852975570,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/393059494628573?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 ALERT: Fidelity’s spot Bitcoin ETF ($FBTC) recorded $20.8 million in net outflows on Friday.",
+      "final": "🚨 ALERT: Fidelity’s spot Bitcoin ETF ($FBTC) recorded $20.8 million in net outflows on Friday.\n\n#Bitcoin $BTC #ETF",
+      "images": [
+        "https://pbs.twimg.com/media/HYMnVmsXsAAhkz1.jpg"
+      ],
+      "at": 1795854706889,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795852975570
+  "lastPostAt": 1795854706889
 }
