@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795677477275-7ugmw3",
-    "source": "x",
-    "ts": "2026-11-26T07:17:57.275Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 14,
-    "originTimestamp": "2026-11-26T07:03:55.000Z",
-    "reason": "Elon Musk's pledge is significant but not directly related to crypto.",
-    "text": "BREAKING: Elon Musk pledges $18B in SpaceX shares to US children, giving each two shares.",
-    "url": "https://x.com/BSCNews/status/2125848005589045712",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795678924635-45twf6",
-    "source": "x",
-    "ts": "2026-11-26T07:42:04.635Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 4,
-    "originTimestamp": "2026-11-26T07:37:06.000Z",
-    "reason": "Potential squeeze risk highlighted with specific price levels.",
-    "text": "🚨 LATEST: CryptoQuant CEO Ki Young Ju says the squeeze risk for Bitcoin now sits with shorts. \n\nAbout $16B in potential short liquidations sit between $60K and $100K, against under $5B in longs below.",
-    "url": "https://x.com/Cointelegraph/status/2125856356649390246",
-    "images": [
-      "https://pbs.twimg.com/media/HYCPFl0WcAAWrWm.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795679523520-r1cohk",
     "source": "x",
     "ts": "2026-11-26T07:52:03.520Z",
@@ -7624,5 +7590,31 @@
       "https://pbs.twimg.com/media/HYI64lYW8AAiHGw.jpg"
     ],
     "video": null
+  },
+  {
+    "id": "x-1795834986309-ts3k8s",
+    "source": "x",
+    "ts": "2026-11-28T03:03:06.309Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-28T03:00:17.000Z",
+    "reason": "No notable crypto-related move or event mentioned.",
+    "text": "🇺🇸 LATEST: Polymarket traders see a 27% chance of a US government shutdown by December 12 and a 32% chance by year-end.",
+    "url": "https://x.com/Cointelegraph/status/2126511469047030140"
+  },
+  {
+    "id": "x-1795834990479-bzuclj",
+    "source": "x",
+    "ts": "2026-11-28T03:03:10.479Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 10,
+    "originTimestamp": "2026-11-28T02:52:51.000Z",
+    "reason": "No notable move or newsworthy development described.",
+    "text": "Ready for #BinanceBlockchainWeek? \n\nCatch the livestream on Binance Square:  \n\nWhere are you watching from? 👇",
+    "url": "https://x.com/binance/status/2126509598173540753"
   }
 ]
