@@ -1,18 +1,5 @@
 [
   {
-    "id": "x-1795677473172-mtha5q",
-    "source": "x",
-    "ts": "2026-11-26T07:17:53.172Z",
-    "userStatus": null,
-    "status": "rejected",
-    "author": "Binance",
-    "ageMin": 9,
-    "originTimestamp": "2026-11-26T07:08:49.000Z",
-    "reason": "No notable move or specific event, sentiment tweet.",
-    "text": "Grateful for our community, today and every day. 💛\n\nHappy Thanksgiving!",
-    "url": "https://x.com/binance/status/2125849238013665508"
-  },
-  {
     "id": "x-1795677477275-7ugmw3",
     "source": "x",
     "ts": "2026-11-26T07:17:57.275Z",
@@ -7619,5 +7606,23 @@
     "reason": "Noise: generic tweet without content.",
     "text": "❤️",
     "url": "https://x.com/elonmusk/status/2126505770988548516"
+  },
+  {
+    "id": "x-1795834337616-o07l7u",
+    "source": "x",
+    "ts": "2026-11-28T02:52:17.616Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "BSCN",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-28T02:50:00.000Z",
+    "reason": "No notable move, price is within its normal recent range.",
+    "text": "Anybody can build on Pi Network... \n\nPi Network's (@PiCoreTeam) Hackathon was launched to create apps people will actually use. Pi has more than 60 million users but lacks practical applications.\n\nWhile the rewards are enticing, $PI  revealed that the program is meant for",
+    "url": "https://x.com/BSCNews/status/2126508879915938088",
+    "images": [
+      "https://pbs.twimg.com/media/HYI64lYW8AAiHGw.jpg"
+    ],
+    "video": null
   }
 ]
