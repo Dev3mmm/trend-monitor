@@ -1,42 +1,5 @@
 [
   {
-    "id": "x-1795675933518-0gphe9",
-    "source": "x",
-    "ts": "2026-11-26T06:52:13.518Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 5,
-    "originTimestamp": "2026-11-26T06:47:10.000Z",
-    "reason": "Notable institutional action with major crypto exchanges suspending trading on multiple pairs.",
-    "text": "Coinbase's Latest Cleanup Hits Cardano, Stellar &amp; Other Altcoins\n\nCoinbase (@coinbase) has suspended trading on 12 selected crypto pairs.\n\nThe affected markets include $ADA - $ETH, stellar:native - $BTC, $ICP - $BTC, cosmos:native - $USDT and algorand:native - $BTC.\n\nThe exchange",
-    "url": "https://x.com/BSCNews/status/2125843792112816531",
-    "images": [
-      "https://pbs.twimg.com/media/HYB8yf1aYAAnCEV.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795676541005-xfeufp",
-    "source": "x",
-    "ts": "2026-11-26T07:02:21.005Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Cointelegraph",
-    "ageMin": 0,
-    "originTimestamp": "2026-11-26T07:01:22.000Z",
-    "reason": "Notable adoption of blockchain technology by a major financial institution",
-    "text": "🔥 LATEST: Samsung C&amp;T has adopted Citigroup's blockchain-based Citi Token Services and moved about $180M between its Singapore and Hong Kong units in six months.",
-    "url": "https://x.com/Cointelegraph/status/2125847362769674526",
-    "images": [
-      "https://pbs.twimg.com/media/HYCG6ALWIAAqy7l.png",
-      "https://pbs.twimg.com/media/HYCG6OxWoAA-zMo.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795677473172-mtha5q",
     "source": "x",
     "ts": "2026-11-26T07:17:53.172Z",
@@ -7628,6 +7591,32 @@
     "ageMin": 48,
     "originTimestamp": "2026-11-28T01:51:40.000Z",
     "reason": "Noise: generic meaningless tweet.",
+    "text": "❤️",
+    "url": "https://x.com/elonmusk/status/2126505770988548516"
+  },
+  {
+    "id": "x-1795833816066-nmv492",
+    "source": "x",
+    "ts": "2026-11-28T02:43:36.067Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Binance",
+    "ageMin": 3,
+    "originTimestamp": "2026-11-28T02:40:06.000Z",
+    "reason": "No notable move or specific event mentioned.",
+    "text": "First look inside #BinanceBlockchainWeek. \n\nIt's quiet now… it won't be for long 👀",
+    "url": "https://x.com/binance/status/2126506388427813229"
+  },
+  {
+    "id": "x-1795833817485-lciggw",
+    "source": "x",
+    "ts": "2026-11-28T02:43:37.485Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 52,
+    "originTimestamp": "2026-11-28T01:51:40.000Z",
+    "reason": "Noise: generic tweet without content.",
     "text": "❤️",
     "url": "https://x.com/elonmusk/status/2126505770988548516"
   }
