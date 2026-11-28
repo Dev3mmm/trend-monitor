@@ -1,40 +1,5 @@
 [
   {
-    "id": "x-1795689110325-rcfs55",
-    "source": "x",
-    "ts": "2026-11-26T10:31:50.325Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "BSCN",
-    "ageMin": 3,
-    "originTimestamp": "2026-11-26T10:28:39.000Z",
-    "reason": "Notable regulatory action towards crypto in Russia.",
-    "text": "🇷🇺UPDATE: Russia intends to fine unlicensed crypto services, including $USDT up to $30,400.",
-    "url": "https://x.com/BSCNews/status/2125899526674481209",
-    "images": [],
-    "video": null
-  },
-  {
-    "id": "x-1795689734193-48wdzx",
-    "source": "x",
-    "ts": "2026-11-26T10:42:14.193Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 1,
-    "author": "Coin Bureau",
-    "ageMin": 2,
-    "originTimestamp": "2026-11-26T10:39:42.000Z",
-    "reason": "Security breach affecting client information, potential for further regulatory scrutiny.",
-    "text": "⚠️ALERT: Standard Chartered's crypto unit, Zodia Custody, managing $30 BILLION in assets, suffered a security breach this week, its CEO says.\n\nThe breach exposed client names, email addresses and other information.\n\nIt’s unclear if crypto assets were affected.",
-    "url": "https://x.com/coinbureau/status/2125902309800698238",
-    "images": [
-      "https://pbs.twimg.com/media/HYC44QiaQAAnWnj.jpg",
-      "https://pbs.twimg.com/media/HYC44PQasAAbqjY.jpg"
-    ],
-    "video": null
-  },
-  {
     "id": "x-1795689738785-mcv72x",
     "source": "x",
     "ts": "2026-11-26T10:42:18.785Z",
@@ -7613,6 +7578,38 @@
     "url": "https://x.com/elonmusk/status/2126566261543076022",
     "images": [
       "https://pbs.twimg.com/media/HYMDUuxWUAEq_Cz.jpg"
+    ],
+    "video": null
+  },
+  {
+    "id": "x-1795849335246-nmdxu4",
+    "source": "x",
+    "ts": "2026-11-28T07:02:15.246Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Cointelegraph",
+    "ageMin": 2,
+    "originTimestamp": "2026-11-28T07:00:26.000Z",
+    "reason": "No notable move or specific event is mentioned.",
+    "text": "🇺🇸 LATEST: Trump’s backing of Nvidia CEO Jensen Huang and the broader AI industry risks political backlash from Americans concerned about job losses and corporate favoritism, per WSJ.",
+    "url": "https://x.com/Cointelegraph/status/2126571904626528754"
+  },
+  {
+    "id": "x-1795849338941-gpcyzc",
+    "source": "x",
+    "ts": "2026-11-28T07:02:18.941Z",
+    "userStatus": null,
+    "status": "caught",
+    "candidateId": 1,
+    "author": "Coin Bureau",
+    "ageMin": 9,
+    "originTimestamp": "2026-11-28T06:53:23.000Z",
+    "reason": "US bank failure with significant financial impact.",
+    "text": "🇺🇸 BREAKING: The largest US bank failure since 2024 just unfolded.\n\nUS regulators have shut down United Fidelity Bank, a $5.9 BILLION lender with 22 branches, marking the seventh US bank failure of 2026.\n\nThe FDIC estimates the collapse will cost its Deposit Insurance Fund $1.83",
+    "url": "https://x.com/coinbureau/status/2126570128439730187",
+    "images": [
+      "https://pbs.twimg.com/media/HYMYMjTbsAAt2Ej.jpg",
+      "https://pbs.twimg.com/media/HYMYJK0bQAEXDj1.jpg"
     ],
     "video": null
   }
