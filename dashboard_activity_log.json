@@ -1,39 +1,5 @@
 [
   {
-    "id": "x-1795670298812-zz1lpf",
-    "source": "x",
-    "ts": "2026-11-26T05:18:18.812Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 2,
-    "author": "BSCN",
-    "ageMin": 15,
-    "originTimestamp": "2026-11-26T05:03:00.000Z",
-    "reason": "Binance co-founder advises password changes after a breach.",
-    "text": "CZ Warns 1Password Users to Change Their Passwords After Breach\n\nBinance (@binance) co-founder Changpeng Zhao (@cz_binance) has urged 1Password users to change all their passwords following a security breach.\n\nHackers reportedly accessed an employee's GitHub account and injected",
-    "url": "https://x.com/BSCNews/status/2125817575254696040",
-    "images": [
-      "https://pbs.twimg.com/media/HYBjgKXa0AA9n_3.png"
-    ],
-    "video": null
-  },
-  {
-    "id": "x-1795670301672-g3iw3y",
-    "source": "x",
-    "ts": "2026-11-26T05:18:21.672Z",
-    "userStatus": null,
-    "status": "caught",
-    "candidateId": 3,
-    "author": "Cointelegraph",
-    "ageMin": 17,
-    "originTimestamp": "2026-11-26T05:00:40.000Z",
-    "reason": "Notable AI breakthroughs could impact cryptocurrency security.",
-    "text": "⚡️ NOW: AI labs likely hold undisclosed cryptography breakthroughs that could threaten the encryption behind crypto wallets, says computer scientist Scott Aaronson.",
-    "url": "https://x.com/Cointelegraph/status/2125816989193040114",
-    "images": [],
-    "video": null
-  },
-  {
     "id": "x-1795670673703-tyk3lu",
     "source": "x",
     "ts": "2026-11-26T05:24:33.703Z",
@@ -7643,5 +7609,31 @@
     "reason": "No notable move, price is within its normal recent range.",
     "text": "Meet the anonymous creator that sparked a movement. Here's what we know about @Shibtoken $SHIB's creator, Ryoshi... ⬇️",
     "url": "https://x.com/BSCNews/status/2126473144269684824"
+  },
+  {
+    "id": "x-1795827135540-xk38fd",
+    "source": "x",
+    "ts": "2026-11-28T00:52:15.540Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "BSCN",
+    "ageMin": 5,
+    "originTimestamp": "2026-11-28T00:47:13.000Z",
+    "reason": "No notable move in crypto prices or adoption, generic tweet with no specific crypto-related content.",
+    "text": "💰BREAKING: Ray Dalio, Nicki Minaj, Harold Hamm and Frank Slootman are among the donors already backing Trump Accounts, and @MichaelDell says several more pledges are in the works. \n\nThe list is growing after @SpaceX committed one $SPCX share to every active account with Elon",
+    "url": "https://x.com/BSCNews/status/2126477983053398332"
+  },
+  {
+    "id": "x-1795827139978-ep72ai",
+    "source": "x",
+    "ts": "2026-11-28T00:52:19.978Z",
+    "userStatus": null,
+    "status": "rejected",
+    "author": "Elon Musk",
+    "ageMin": 21,
+    "originTimestamp": "2026-11-28T00:30:20.000Z",
+    "reason": "No notable move in ETH price within the recent range.",
+    "text": "Grok fairs quite well in \"high level understanding\" like Gemini Neon. Here's Grok's explaination of Lean's Prop/Type separation, whereas ChatGPT and Claude get lost talking about impredicativity:",
+    "url": "https://x.com/elonmusk/status/2126477913898078443"
   }
 ]
