@@ -1,6 +1,5 @@
 {
   "seen": [
-    "x-1794439318853-h45mdj",
     "x-1794440523205-fqyj56",
     "x-1794440528217-yz9dw6",
     "x-1794441753349-bev71q",
@@ -1999,18 +1998,10 @@
     "x-1795819978260-vsqjib",
     "x-1795820561958-mwcwje",
     "x-1795820570971-qt3my5",
-    "x-1795821739182-n97hxa"
+    "x-1795821739182-n97hxa",
+    "x-1795825906184-8pa91r"
   ],
   "queue": [
-    {
-      "text": "🚨 TODAY: Telegram is urging iPhone users to update their iOS immediately, warning that security vulnerabilities in outdated versions put their data and accounts at risk.",
-      "url": "https://x.com/Cointelegraph/status/2126443531178840416",
-      "images": [
-        "https://pbs.twimg.com/media/HYKlHn0XYAAOOdi.jpg"
-      ],
-      "video": null,
-      "enqueuedAt": 1795818762446
-    },
     {
       "text": "🐋 BIG: Bitcoin whales added 121,117 $BTC in Q4 despite a 29.5% price drop, per CryptoQuant.",
       "url": "https://x.com/Cointelegraph/status/2126451119492649007",
@@ -2019,6 +2010,18 @@
       ],
       "video": null,
       "enqueuedAt": 1795820571702
+    },
+    {
+      "text": "🚨 INSIGHT: “The biggest threat right now to crypto is still cyberattacks,” @thebrianjung tells @itsciaranlyons on #TRADESECRETS.",
+      "url": "https://x.com/Cointelegraph/status/2126473802267648244",
+      "images": [],
+      "video": {
+        "url": "https://video.twimg.com/amplify_video/2126473772915941376/vid/avc1/1280x720/j6YbBQ_c3bu_Avna.mp4?tag=16",
+        "duration": 35,
+        "gif": false,
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126473772915941376/img/d3E2-My9zVihcxyt.jpg"
+      },
+      "enqueuedAt": 1795825908300
     }
   ],
   "posted": [
@@ -2678,7 +2681,16 @@
       "at": 1795824218404,
       "status": "posted",
       "link": "https://app.binance.com/uni-qr/cpos/392941673860536?r=XAQZ06ZX&l=en"
+    },
+    {
+      "text": "🚨 TODAY: Telegram is urging iPhone users to update their iOS immediately, warning that security vulnerabilities in outdated versions put their data and accounts at risk.",
+      "final": "🚨 TODAY: Telegram is urging iPhone users to update their iOS immediately, warning that security vulnerabilities in outdated versions put their data and accounts at risk.\n\n#Crypto",
+      "images": [
+        "https://pbs.twimg.com/media/HYKlHn0XYAAOOdi.jpg"
+      ],
+      "at": 1795825908300,
+      "status": "posting"
     }
   ],
-  "lastPostAt": 1795824218404
+  "lastPostAt": 1795825908300
 }
